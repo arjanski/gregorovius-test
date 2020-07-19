@@ -4,7 +4,7 @@ import json
 from pathlib import Path
 from multiprocessing.pool import Pool
 # import pandas as pd
-# from pyfiglet import Figlet
+from pyfiglet import Figlet
 from colorama import init, Fore, Style
 
 init()
