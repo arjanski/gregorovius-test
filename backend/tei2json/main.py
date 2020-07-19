@@ -3,7 +3,7 @@ import argparse
 import json
 from pathlib import Path
 from multiprocessing.pool import Pool
-import pandas as pd
+# import pandas as pd
 from pyfiglet import Figlet
 from colorama import init, Fore, Style
 
