@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067753">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Otto Roquette in Darmstadt. München, 20. Dezember 1874</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>SBB-PK, derzeit Biblioteka Jagiellońska Krakau</repository></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 6 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die Übersendung von Roquettes Drama „Gevatter Tod“ (1873). Er kann sich mit der poetischen Gestaltung des Stoffes, die die Nähe zum „Faust“ zeigt, nicht anfreunden, doch gefällt ihm die Parma-Episode. Er ist mit den dritten Auflagen seiner „Lucrezia Borgia“ (1875) und der ersten drei Bände seiner „Geschichte der Stadt Rom Im Mittelalter“ (1875–1876) befasst. Ende Februar wird er nach Italien aufbrechen. Sein Bruder Julius läßt grüßen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1874-12-20" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001555">Roquette, Otto (1824–1896)</persName>
+<placeName key="G067565">Darmstadt</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">München, 20. <hi rendition="#aq">Dec<ex>em</ex>b<ex>e</ex>r</hi> 1874.</dateline>
+                    <salute rendition="#c">Verehrter Herr u<ex>nd</ex> Freund,</salute>
+                </opener>
+<p>ich bin noch in Ihrer Schuld; denn schon längst hätte ich Ihnen für Ihre liebenswürdige Gabe<seg type="comment"><orig> <bibl sameAs="G067889">„Den Gevatter Tod“</bibl></orig><note xml:id="nncc_gbs_vlb">Otto Roquette: Gevatter Tod. Stuttgart: Cotta 1873 (siehe https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11162906_00007.html).</note></seg> danken sollen. Abgesehen aber von meiner starken Correspondenz, hielt mich auch der Umstand auf, daß ich erst Ihr Gedicht nach seinem Durchlesen wollte auf mich nachwirken laßen.</p>
+<p>Es zeigt den lyrischen Schwung und auch den Gedankengehalt, welcher Ihrer Muse eigen ist, mit noch größerer philosophischer Vertiefung – bisweilen <seg type="comment"><orig>blickt daraus das Angesicht des „Faust“ hervor, welcher Sie, wenn ich nicht irre, entweder bewußt oder unbewußt als den Urtypus solches Emporringens der Natur aus den Banden der Notwendigkeit</orig><note xml:id="nj3s_kbs_vlb">Die Nähe zum Faust-Stoff hat auch „Der Gevatter Tod“ in den Kinder- und Hausmärchen der Brüder Grimm – der Tod ist der Gevatter (Pate) eines Arzt, der ihm ein Kraut zeigt, womit er Kranke unter bestimmten Umständen heilen darf und kann – als er die Gebote des Gevatters missachtet, erlischt sein Lebenslicht.</note></seg> beherrscht hat. Mich hat das Gedicht sehr angeregt, auch zu Capitalfragen, welche einer Discussion <pb n="1v"/>in langen Gesprächen bedürften. Ich weiß nicht, welches Urteil Ihr dichterisches Werk erfahren hat – ich glaube aber, daß der Beurteiler sich geradezu an seinen Schwerpunkt machen würde, u<ex>nd</ex> dieser ist das ungeheure Wagniß das furchtbarste aller Naturgesetze, den Tod oder die Vernichtung, in eine Persönlichkeit zu verwandeln. Dies geht indeß über alle Möglichkeit sowol des Vorstellens wie des Gestaltens hinaus, und kann daher durch poetische Mittel nicht gelöst werden. Im Altertum ist der Tod ein persönlicher Genius, welcher die Lebensfackel jedes Individuums verlöscht – in der christlichen Vorstellung ist es das Gerippe der Todtentänze, mit allem Schauder des Naturgesetzes begabt, aber vermenschlicht durch das Bewußtsein der in die Weltschicksale eingreifenden Ironie. Sie aber machten aus dem Tod ein Wesen der Reflexion, mit Zügen liebebedürftiger Sentimentalität, wodurch Sie das Naturgesetz aufheben.</p>
+<p>Kurz u<ex>nd</ex> gut, ich kann mich mit diesem <pb n="2r"/>Typus nicht befreunden; denn zu faßen ist er weder menschlicher noch philosophischer Weise überhaupt. Ich bemerke noch eins, was mir Zweifel erregt hat: es ist das Ende Ihres Helden, welchen Sie einen Kreislauf schließen laßen, indem Sie ihn in dasselbe scholastische Haus, das verfluchte dumpfe Mauerloch, wieder zurückführen, aus welchem er seinen ersten Ausgang nahm.</p>
+<p>Ihre <seg type="comment"><orig>Episode von <placeName key="G004685">Parma</placeName></orig><note xml:id="nfyx_lbs_vlb">13. Szene, S. 169–176.</note></seg> ist wahrhaft schön, u<ex>nd</ex> so dramatisch lebendig, daß ich den Wunsch empfunden habe, Ihnen in solcher Richtung bald wiederum zu begegnen.</p>
+<p>Ich schreibe Ihnen noch aus München, u<ex>nd</ex> glaube Ihnen gesagt zu haben, <seg type="comment"><orig>daß ich bis zum Februar hier bleibe</orig><note xml:id="nfdb_2cs_vlb">Siehe den Brief von Gregorovius an Roquette vom 2.8.1874.</note></seg>, angenehm beschäftigt mit <seg type="comment"><orig>Revisionen meiner <bibl sameAs="G003507"><bibl corresp="G003471 G003477 G003483">Schriften zu neuen Ausgaben</bibl></bibl></orig><note xml:id="nqjs_nbs_vlb">Die „3. verbesserte und vermehrte Auflage“ seiner „Lucrezia Borgia“ wurde im Februar 1875 ausgegeben – der Druck der „Dritten verbesserten Auflage“ der ersten drei Bände seiner „Geschichte der Stadt Rom im Mittelalter“ hatte begonnen; sie erschienen 1875–1876.</note></seg>. Gegen das <seg type="comment"><orig>Ende <add place="intralinear">d<ex>es</ex></add> Februar will ich aber wieder meinen Zug in das <placeName key="G000690">Sonnenland</placeName> nehmen</orig><note xml:id="nvqr_pbs_vlb">Gregorovius reiste am 2. März 1875 aus München in Richtung Italien ab; über Verona, Brescia, Cremona, Pavia, Monz, Parma, Modena, Bologna, Florenz, Siena, Orvieto und Orte kam er am 21. März 1875 in Rom an (siehe RT, 31.3.1875, S. 346–348), wo er bis Ende Juni 1875 blieb.</note></seg>, den Himmel dort, u<ex>nd</ex> gute Freunde wieder zu sehen. </p>
+<p>Möchte es Ihnen u<ex>nd</ex> den Ihrigen wol ergehen, und die Sonne des Ideals immer neues Leben spendend auf Sie niederscheinen.</p>
+                <closer>
+<salute rendition="#c">Ihr freundschaftlich ergebener</salute>
+                    <signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi>.</signed></closer>
+<note type="postscript"><seg type="comment"><orig><persName key="G001203">Mein Bruder</persName> </orig><note xml:id="nifm_rbs_vlb"><p>Gregorovius hatte sich mit seinem Bruder Julius (1819–1891) in München eine Wohnung genommen.</p></note></seg>läßt sich Ihnen sehr empfehlen.</note>
+            </div>
+        </body>
+    </text>
+</TEI>

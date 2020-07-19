@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_gwg_zlq_vlb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Rom. München, 17. Januar 1881</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free">
+                <licence target="http://creativecommons.org/licenses/by/4.0/">
+                    Creative Commons Attribution 4.0 International (CC BY 4.0)
+                </licence>
+            </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 4 S. – 1r aoR, vfrH: $ / dell’Athen</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er stimmt nun doch Marianos Übersetzung seiner „Apulischen Landschaften“ (1877) zu: „Nelle Puglie“ (1882). Er arbeitet an einer Monographie über die byzantinische Kaiserin Athenaïs (1882). Auch für diese verantwortet Mariano die Übersetzung ins Italienische („Atenaide“, 1882). Vollendet sind folgende Abhandlungen: „Athen in den dunklen Jahrhunderten“, „Mirabilien der Stadt Athen“ und „Aus der Landschaft Athens“, die alle 1881 erscheinen. Über seine weiteren historiographischen Vorhaben zur Geschichte Griechenlands. Die zweite, überarbeitete Auflage seiner „Grabdenkmäler der Päpste“ wird von Brockhaus ausgegeben. Seinen einführenden Text zu Marianos „Christenthum, Katholicismus und Civilisation“ (1880) in der Zeitschrift „Unsere Zeit“ hält er zumindest für mitentscheidend für dessen Rezeption in Deutschland. Über Marianos Schwierigkeiten mit dem Chefredakteur der „Allgemeinen Zeitung“, Otto Braun, und Wilhelm Lang als möglichem Vermittler in der Sache. Anfang Februar reist er nach Venedig, von dort nach Rom; seine Griechenlandpläne sind aufgrund der politischen Lage aufgehoben.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1881-01-17" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840-1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">München, 17. Jan<ex>uar</ex> 1881.</dateline>
+                    <salute rendition="#c">Lieber Freund,</salute>
+                </opener>
+<p>ich habe eben Ihren Brief erhalten, und setze mich gleich hin, um Ihnen zu antworten, damit meine gute <persName key="G001111">Schwester</persName>, <seg type="comment"><orig>welche im Begriffe ist ins <orgName key="ed_zxs_nxl_rlb">Theater</orgName> zu gehen</orig><note xml:id="nuqx_4cw_2mb">Gregorovius und seine Geschwister besaßen ein Abonnement für das Königliche Hof- und Nationaltheater München; siehe den Brief von Gregorovius an Raffaele Mariano vom 17.12.1878.</note></seg>, den Brief noch auf der Post abgeben kann.</p>
+<p>Die Gründe, welche Sie mir in Bezug auf Ihren Entschluß die <bibl corresp="G003342">Apulisch<ex>en</ex> Landschaften</bibl> zu übersetzen, <seg type="comment"><orig>angeben</orig><note xml:id="nfnw_1gw_2mb">Siehe dazu den Brief von Gregorovius an Raffaele Mariano vom 18.12.1880.</note></seg>, sind solche, daß ich natürlich meine Weigerung sofort zurückziehe. Ich werde mich sicherlich freuen, wenn Sie einen Verleger finden, nur unter dem Titel des Buches Ihren, meines beßten italien<ex>ischen</ex> Freundes Namen mit Genugthuung stehen sehen. Unterhandln Sie mit jedem Buchhändler, der Ihnen genehm ist. Ich begebe mich der Rechte des Autors durchaus, <pb n="1v"/>was ich ja auch einem anderen Übersetzer gegenüber würde gethan haben, da ich die leider traurigen Verhältniße des ital<ex>ienischen</ex> Buchhandels kenne. <seg type="comment"><orig>Sie werden aber, im Fall der Annahme der Offerte von Seiten 1 italienischen Buchhändlers, die Ermächtigung des Drucks Ihrer <bibl sameAs="G004329">Übersetzung</bibl> von <orgName key="G000480"><hi rendition="#aq">F<ex>riedrich</ex> A<ex>rnold</ex> Brockhaus</hi> in <hi rendition="#aq">Leipzig</hi></orgName> einzuholen haben</orig><note xml:id="nzb4_fgw_2mb">1882 veröffentlichte Mariano seine Übersetzung der „Apulischen Landschaften“ in Florenz bei Barbèra Editore: Nelle Puglie. Con noterelle di viaggio del traduttore. Versione dal tedesco di Raffaele Mariano.</note></seg>. </p>
+<p>Wenn <seg type="comment"><orig>meine Studien zur <bibl sameAs="G003525">Gesch<ex>ichte</ex> Athens in den dunkeln Jahrhunderten</bibl>, womit ich jetzt unausgesetzt beschäftigt bin</orig><note xml:id="nhxs_ggw_2mb">Er meint hier nicht seine gleichnamige Studie, die 1881 in der Zeitschrift „Unsere Zeit“ erscheinen sollte, sondern seine Monographie „Athenaïs.Geschichte einer byzantinischen Kaiserin“, die 1882 von Brockhaus herausgegeben wurde.</note></seg>, schon vollendet wären, so würde ich selbst Sie aufgefordert haben, dieselben zu übersetzen; denn Sie sind von solcher Art, daß es ein Verdienst sein würde, Sie auch in andern Ländern bekannt zu machen – ich sage dies, wie Sie wol verstehen <pb n="2r"/>können, nur weil der Stoff so höchst bedeutend u<ex>nd</ex> anziehend ist. Aber es werden wol noch 2 Jahre hingehen, ehe ich alles beisammen habe, u<ex>nd</ex> <seg type="comment"><orig>dann werde ich mich an Sie wenden, wenn ich noch leben sollte</orig><note xml:id="ntjl_3gw_2mb">Im Erscheinungsjahr von Gregorovius’ Monographie über die byzantinische Kaiserin erschien auch die von Mariano besorgte Übersetzung: Atenaide. Storia di una imperatrice bizantina. Versione dal tedesco di Raffaele Mariano. Turin: Loescher 1882.</note></seg>. Fertig machte ich hier 2 Stücke:<seg type="comment"><orig> <bibl sameAs="G004030">Athen in den dunkeln Jahrhunderten</bibl></orig><note xml:id="nvpx_jgw_2mb">Die Studie erschien im selben Jahr auch als Seperatdruck bei Brockhaus.</note></seg>, und <bibl sameAs="G004031">Mirabilien Athens</bibl> (dies las ich vor 8 Tagen in der hiesigen <orgName key="G000494">Akademie</orgName>).</p>
+<p>Fertig ist auch die „<bibl corresp="G004029">Landschaft Athens</bibl>“, welche „<orgName key="G000569">Unsere Zeit</orgName>“ abgedruckt hat. Noch zu schreiben sind: <seg type="comment"><orig>die Römer in Athen</orig><note xml:id="nlrv_kgw_2mb">Die Abhandlungen „Römer in Athen“ und „Herzoge von Athen“ gingen vermutlich in die „Geschichte der Stadt Athen im Mittelalter“ (2 Bde., Stuttgart: Cotta 1889) ein.</note></seg> – <seg type="comment"><orig>die <bibl sameAs="G004053">Gothen in Griechenland</bibl></orig><note xml:id="nhbt_lgw_2mb">Gemeint ist der Aufsatz „Hat Alarich die Nationalgötter Griechenlands vernichtet?“, in: Sitzungsberichte der philosophisch-philologischen und historischen Classe der k. b. Akademie der Wissenschaften zu München. Jg. 1886. Bd. 1. München 1887. S. 1–20 – aufgenommen in KS I/2 (S. 49–72).</note></seg> – <hi rendition="#aq">Athenais</hi> – u<ex>nd</ex> <seg type="comment"><orig>die Herzoge von Athen</orig><note xml:id="nj2v_mgw_2mb">Nicht ermittelt.</note></seg>.</p>
+<p>Die Artikel <hi rendition="#aq"><bibl corresp="G004025">Corfu</bibl></hi> sind mir aus den Händen weggenommen – ich schicke aber heute darnach, und Sie werden Ihnen dann durch die Post zugehen.</p>
+<p>Natürlich habe ich nur 1 paar Exemplare zur Disposition; darum konnte ich ebensowenig an Sie als an <persName key="G001375">Lindemann</persName> etwas schicken, an den letztern nicht einmal die Landschaft <placeName key="G000619">Athens</placeName>, die ich mit der <placeName key="ed_hqc_lrv_gmb">Campagna Roms</placeName> verglichen habe. <seg type="comment"><orig>Die <bibl corresp="G003431">Grabdenkmäler der Päpste</bibl> sind fertig gedruckt</orig><note xml:id="nd2h_4gw_2mb">„Die Grabdenkmäler der Päpste“ erschienen 1881 mit dem neuen Untertitel „Marksteine der Geschichte des Papsttums“ in zweiter, neu umgearbeiteter Auflage bei Brockhaus.</note></seg> – <seg type="comment"><orig>ich schrieb heute nach Exemplaren</orig><note xml:id="nonh_pgw_2mb">Dieses Schreiben ist nicht erhalten.</note></seg>, u<ex>nd</ex> schicke 1, sobald ich es habe.</p>
+<p>Ich weiß nicht mehr, ob ich Ihnen die 2<hi rendition="#u" hand="">te</hi> Auflage der <bibl corresp="G003351">Apulisch<ex>en</ex> Landschaften</bibl> gegeben habe.</p>
+<p>Doch genug von diesen Miserabilien. <pb n="2v"/>Beruhigen Sie sich, teurer Mariano: ich habe niemals sagen wollen, daß Ihr <bibl sameAs="ed_drr_cr2_rlb">Buch</bibl> die Besprechung, welche es in <placeName key="G000664">Deutschl<ex>and</ex></placeName> erfahren hat, <seg type="comment"><orig>einzig u<ex>nd</ex> allein meinem <bibl sameAs="G004023">Artikel</bibl> zu verdanken hat</orig><note xml:id="ntkl_sgw_2mb">Gregorovius hatte den von Mariano selbst auf Deutsch verfassten Text nicht nur korrigiert, sondern in zugleich mit einem einführenden Text in Deutschland vorgestellt: Christenthum, Katholicismus und Civilisation. In: Unsere Zeit. Deutsche Revue der Gegenwart. Bd. 1. Leipzig: Brockhaus 1880. S. 347–369. U. d. T. Cristianesimo, cattolicismo e civiltà zeitgleich in italienischer Sprache erschienen in La Nuova Rivista Internazionale. Periodico di lettere, scienze ed arti. Jg. 1. Nr. 12. Florenz: Tipografia del Vocabolario 1880. Die Aufnahme von Marianos Brief war bereits in früheren Briefen Gregorovius’ ein Thema; siehe die Briefe von Gregorovius an Raffaele Mariano vom 21.11. und 18.12.1880.</note></seg>: ich habe nur sagen wollen, daß es – u<ex>nd</ex> das ist wahr – dazu gewirkt hat, die Aufmerksamkeit darauf zu richten. Die Zeitschrift „Unsere Zeit“ zählt 8000 Abonnenten, u<ex>nd</ex> ist also weit verbreitet.</p>
+<p>Ich sehe aus Ihrem Briefe, daß Sie <del rendition="#s">die</del> <add place="superlinear">meine eigene </add>Affaire mit <persName key="G000994">Braun</persName>, <seg type="comment"><orig>dem ich vor <add place="superlinear">fast</add> 5 Jahren Sie als Mitarbeiter vorschlug</orig><note xml:id="nlhr_tgw_2mb">Dieses Schreiben ist nicht erhalten.</note></seg>, u<ex>nd</ex> der mir auf 2 Briefe deshalb <hi rendition="#u" hand="">nicht</hi> geantwortet hat, durchaus vergeßen haben. <seg type="comment"><orig>Denn wol habe ich Ihnen davon Meldung gemacht</orig><note xml:id="njyz_vgw_2mb">Siehe zu Gregorovius’ Empörung aufgrund von Marianos Vorgehen, sich bei der „Allgemeinen Zeitung“ als Mitarbeiter vorgeschlagen zu haben den Brief von Gregorovius an Raffaele Mariano vom 18.12.1880.</note></seg>. Sein Schweigen über meinen Vorschlag Sie zu acceptiren war aber der <hi rendition="#u" hand="">Hauptgrund</hi> meines Rücktritts von der <orgName key="G000462">Allg<ex>emeinen</ex> Zeit<ex>ung</ex></orgName>, u<ex>nd</ex> sind darüber zwischen mir u<ex>nd</ex> <orgName key="G000523">Cotta</orgName> mehr Briefe gewechselt worden. Ich glaube aber doch, daß es praktisch ist, wenn Sie <seg type="comment"><orig>Herrn <persName key="G001354">Lang</persName></orig><note xml:id="nhs5_xgw_2mb">Der Stuttgarter Publizist und Schriftsteller Wilhelm Lang (1832–1915) hatte dem Brockhaus-Verlag einst eine deutsche Übersetzung von Marianos „Roma nel Medio Evo“ angeboten; siehe den Brief von Gregorovius an Raffaele Mariano vom 17.12.1876. Seit 1879 war Lang Herausgeber der Zeitschrift „Im neuen Reich“, weshalb ihn Gregorovius hier vermutlich als möglichen Vermittler in der Angelegenheit mit der „Allgemeinen Zeitung“ vorschlägt.</note></seg> Ihre eigene Angelegenheit mitteilen u<ex>nd</ex> durch ihn Aufschluß über das Benehmen Brauns zu gewinnen suchen. Ich selbst kann natürlich nichts darin thun. Sie können dann Lang sagen, daß Sie sich meines ehemaligen Vorschlags nicht mehr erinnert haben. Ich habe daran gedacht, ob Sie nicht für „Unsere Zeit“ ein- </p>
+<p xml:id="p11" prev="#p10" place="left" rendition="#rotate90">mal eine Abhandlung schreiben könnten. – Die Kälte ist hier groß; sie wirkt nachteilig auf meine Gesundheit – ich bin fast ganz schlaflos. Doch will ich nicht vor Febr<ex>uar</ex> abreisen – ich trenne mich </p>
+<p xml:id="p12" prev="#p11" place="mTop" rendition="#rotate180"><pb n="1v"/>immer ungerner von meiner wol geordneten u<ex>nd</ex> bequemen Häuslichkeit, auch von den Bücherschätzen der hiesigen <orgName key="G000510">Bibliothek</orgName>. <seg type="comment"><orig>Ich habe vor, erst nach <placeName key="G000894">Venedig</placeName> zu gehen, und nicht vor Ende des Febr<ex>uar</ex> nach Rom zu kommen</orig><note xml:id="njfb_zgw_2mb">Er fuhr am 5. Februar von München ab und kam, nach mehreren Zwischenhalten in nord- und mittelitalienischen Städten, am 20. Februar in Rom an; in Venedig machte er von 6.–15. Februar Halt (siehe RT, Romfahrt 1881 und Rückkehr nach München, S. 422).</note></seg>. Wegen der <seg type="comment"><orig>Unruhen in Athen</orig><note xml:id="nqzb_1hw_2mb">Im Zuge der auf dem Berliner Kongress beschlossenen Abtretung von Thessalien durch das Osmanische Reich an Griechenland war es zu gewalttätigen Auseinandersetzungen gekommen. </note></seg> habe ich meine Reise dorthin aufgegeben. Die <persName key="G001203">Meinigen</persName> grüßen mit mir Sie u<ex>nd</ex> Ihre <persName key="ed_ezy_g42_rlb">Frau</persName>, u<ex>nd</ex> wir alle wünschen Ihnen Glück u<ex>nd</ex> Segen.</p>
+                <closer>
+<signed>Unwandelbar Ihr FGr.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

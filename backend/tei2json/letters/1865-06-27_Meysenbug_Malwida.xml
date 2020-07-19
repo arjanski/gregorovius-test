@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000151">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Malwida von Meysenbug in Genf. Florenz, 27. Juni 1865</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>116/107 (7)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¾ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 5 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 86, Mappe 2 (nach D1)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Berta Schleicher: Ferdinand Gregorovius und Malwida von Meysenbug. Unveröffentlichte Briefe. In: Der Türmer. Monatsschrift für Gemüt und Geist. Jg. 25. H. 5. Stuttgart 1923. S. 311</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Der in Florenz schwer erkrankten Pauline Hillmann hat die Pflege von Malwida von Meysenbug wohl getan. Ihren Gesundheitszustand hatten Caroline Ungher-Sabatier und François Sabatier ihm so dramatisch geschildert, dass er direkt hergeeilt ist. Im Unterschied zu anwesenden Freunden hat er keine Hoffnung auf ihre Gesundung. Er ist glücklich, ihr im Leben etwas bedeutet zu haben. Caroline Ungher-Sabatier und ihre Pflegetochter Louise Bouquet sind vor Ort, François Sabatier in Montpellier. Es kommt viel Besuch, Michele Amari täglich. Natalie und Olga Herzen bittet er zu grüßen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">Malwida of Meysenbug’s care was good for Pauline Hillmann, who got seriously ill in Florence. Caroline Ungher-Sabatier and François Sabatier had described her state to him so dramatically that he rushed straight here. Unlike other friends who are here, he has no hope for her recovery. He’s lucky to have meant something to her in life. Caroline Ungher-Sabatier and her foster daughter Louise Bouquet are on site, François Sabatier in Montpellier. There are many visitors, Michele Amari comes every day. He asks to give his regards to Natalie and Olga Herzen. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000671">Florenz</placeName><date when="1865-06-27" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001418">Meysenbug, Malwida von (1816–1903)</persName>
+<placeName key="G000676">Genf</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<dateline rendition="#right"><hi rendition="#aq">Florenz</hi>, <hi rendition="#aq">Palazzo Sabatier</hi><lb/>27. <hi rendition="#aq">Juni</hi> 65.</dateline>
+</opener>
+<p>Sie haben <seg type="comment"><orig>sich so liebenswürdig der <persName key="G001278">armen Kranken</persName> angenommen</orig><note xml:id="nff4_l2g_gmb">Vor ihrer Abreise aus Italien hatte Malwida von Meysenbug offenbar die in Florenz schwer erkrankte Pauline Hillmann (1822–1866) gepflegt. Meysenbug hatte mit ihren Pflegetöchtern Olga (1850–1953) und Natalie Herzen (1844–1936) den Winter 1864 bis zum Frühjahr 1865 in Rom verbracht und war – dem Drängen des Vaters der Mädchen, Alexander Herzen (1812–1870) folgend – über Florenz reisend Richtung Schweiz gefahren, wo Malwida von Meysenbug zunächst in einem Genfer Hotel wohnte, während Olga in einem Berner Internat ihre Schulbildung beenden sollte. Nach Genf hatte Gregorovius auch einen Brief an Alexander Herzen geschrieben, der ihm in seinem Antwortschreiben vom 13. Juli 1865 ein Kennenlernen in Florenz in Aussicht stellt (BSB München, NL Gregorovius, Gregoroviusiana 21).</note></seg>, und ihr so wol gethan, daß mein erster Brief aus Florenz Ihnen gebührt.</p>
+<p>Man schilderte mir den Zustand der Freundin als so bedenklich, daß ich <seg type="comment"><orig>beschloß Rom zu verlassen</orig><note xml:id="nx5k_m2g_gmb">Gregorovius war am 25. Juni 1865 über Civitavecchia nach Florenz gereist und blieb bis zum 22. Juli, als der Gesundheitszustand von Pauline Hillmann sich gebessert hatte (siehe RT, 24.6.-29.7.1865, S. 196).</note></seg>; ob wol ein <seg type="comment"><orig>Telegramm der <persName key="G001665">Sabatier</persName> mir verbot, hieher zu kommen</orig><note xml:id="nzf2_n2g_gmb">Pauline Hillmann wohnte vermutlich wie Gregorovius in der Florentiner Stadtvilla des befreundeten Ehepaars Caroline Ungher-Sabatier (1803–1877) und François Sabatier (1818–1891) in der Via del Renai.</note></seg>, aus Furcht vor zu großer Aufregung, fuhr ich dennoch ab, und das war gut. </p>
+<p>Pauline hält sich wunderbar ruhig – ich hatte sie seit 5 Jahren nicht gesehen – meine tägliche Gegenwart erfreut u<ex>nd</ex> belebt sie offenbar. Ich fand sie besser, als ich fürchtete; doch die Freunde halten ihren Zustand für hoffnungslos. Ich selbst hoffe nichts mehr – u<ex>nd</ex> im Grunde, ein schneller Tod ist besser als ein langsames Sterben in einer verödeten Welt, die ihre Reize u<ex>nd</ex> auch ihre Sprache verlor. Ich werde ruhig an dem Grabe dieses herrlichen Wesens stehn; <seg type="comment"><orig>ich konnte ihr noch etwas sein</orig><note xml:id="ncgh_42g_gmb">Die aus dem ostpreußischen Oletzko stammende Pauline Hillmann war Ende September 1856 nach Rom gekommen (siehe RT, 2.10.1856, S. 64). Es entstand einer tiefe Freundschaft, die auch anhielt, als sie wieder in die Heimat zurückging. Er widmete ihr einige Gedichte. Im Frühjahr war Pauline Hillmann in Florenz eingetroffen wohl bald darauf erkrankt. Nach langem Leiden starb sie dort am 3. April 1866.</note></seg>. Als ihre Welt in Trümmern zerfallen war, baute ich, so gut ich vermochte, ihr eine neue auf, und Sie selbst ward <pb n="1v"/>ein guter Genius für mich. Sie widmete mir seit 8 Jahren eine selbstlose Freundschaft voll unerhörter Seelengröße, und sie wird mit diesem Bewußtsein aus dem Leben gehn, <seg type="comment"><orig>aus dessen stürmischer Welle ich sie an ein ruhigeres Ufer zog</orig><note xml:id="ncfb_p2g_gmb">Ende der 1840er Jahre war Pauline Hillmann mit dem nachmaligen Historiker Gustav Bergenroth (1813–1869) verlobt – er war wie Gregorovius Mitglied des Corps Masovia. 1848 wurde er aus dem Justizdienst entlassen und setzte sich nach der Fluchthilfe von Gottfried Kinkel (1815–1882) aus dem Spandauer Gefängnis (1850) unter Zurücklassung seiner Verlobten nach Amerika ab.</note></seg>.</p>
+<p>Die Gedanken graben noch in ihr – sie gehen, wie <add place="superlinear">sie</add> selbst heute sagte, ihre alten Pfade im Herzen. Davor fürchtet sie sich in der Einsamkeit – man scheucht diese Geister auf, doch sie kehren ewig wieder, denn sie kennen eben ihre Pfade in dem dunkeln Labirint.</p>
+<p>Ich habe mich hier eingerichtet im Hause auf Wochen, die ich der Kranken gerne widme – dies verändert meine Sommerpläne. Zwar begann ich im Archiv zu arbeiten, doch ist dies nur wesenloser Schein. Auch bin ich müde – ich schmachte nach Schatten und Landluft. Hier ist es so sehr heiß. </p>
+<p>Ich fand Florenz unverändert – eine nun inhaltlose Localbühne, von reizenden Coulissen umstellt, nichts <pb n="2r"/>darbietend einem alten Römer.</p>
+<p>Die <seg type="comment"><orig>Frauen</orig><note xml:id="nh5m_s2g_gmb">Caroline Ungher-Sabatier und ihre Pflegetochter Louise Bouquet (1835–1906).</note></seg> sind hier – <seg type="comment"><orig><persName key="G001565">Sabatier</persName> noch in <placeName key="G000799">Montpellier</placeName></orig><note xml:id="nj1w_t2g_gmb">Auf dem Weingut und Schloss Latour (oder La Tour) de Farges in Lunel-Viel in der Camargue nahe Montpellier, wo François Sabatier als Sohn eines reichen Bankiers und Grundbesitzers Jean Baptist Felix Sabatier (1785–1818) und der Aglaé Blanche Hermine Fournier de Dervant (1783–1866) geboren worden war.</note></seg>. <persName key="G000924"><seg type="comment"><orig>Amari</orig><note xml:id="nwkt_52g_gmb">Der Historiker Michele Amari (1806–1889), der Sabatiers Pflegetochter Louise Bouquet (1835–1906) im selben Jahr heiratete.</note></seg></persName> kommt täglich. Menschen, oder Leute kommen viel. Man umgibt mich mit allem, was Wolsein erregen könnte, doch mir ist nicht wol. Dies nichtige Possenspiel von Leben, mit seinem Kommen u<ex>nd</ex> Gehen, mit seinem Erscheinen u<ex>nd</ex> Scheinen widert mich tief in der innersten Seele.</p>
+<p>Ich grüße die freundlichen <seg type="comment"><orig>Kinder <persName key="G001267">Natalie</persName> u<ex>nd</ex> <persName key="G001268"><hi rendition="#aq">Olga</hi></persName></orig><note xml:id="nl5y_x2g_gmb">Malwida von Meysenbugs Pflegetöchter Olga (1850–1953) und Natalie Herzen (1844–1936).</note></seg>. Sagen Sie ihnen, daß die Stunde nicht kommt, wo ich ihrer vergäße. Sie stehen aufgeschrieben auf den bronzenen Tafeln. Sie waren immer gut zu mir, u<ex>nd</ex> sie verschönten mein Leben, wie Efeu, der einen römischen Campagnaturm verschönt. Dem Turm war dies wohl zu gönnen.</p>
+                <closer>
+                    <salute>Leben Sie wol! Ich denke Ihrer mit freundlicher Anhänglichkeit</salute>
+                    <signed rendition="#c">G. </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000323">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Georg Gottfried Gervinus in Heidelberg. Rom, 16. Januar 1870</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Universitätsbibliothek Heidelberg</repository><collection>NL Georg Gottfried Gervinus</collection><idno>Heid. Hs. 2526,141 (8)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. – 1r + 2r aoR geprägt: ROMA</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 6 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 86, Mappe 4 (nach D)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Oswald Dammann: Ferdinand Gregorovius und Georg Gottfried Gervinus. Mit elf unveröffentlichten Gregoroviusbriefen. In: Zeitschrift für die Geschichte des Oberrheins. N. F. Bd. 56. Karlsruhe im Br.: Braun 1943. S. 632–634</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Richard Löning überbrachte den vorhergehenden Brief von Gervinus. Die Eröffnung des Konzils Anfang Dezember macht in Rom wenig von sich reden. Es sind auch weniger Fremde in Rom als gewöhnlich, so dass er mit seiner Arbeit gut vorankommt. In Rom ist Karl Richard Lepsius angekommen, Adolf Friedrich Graf von Schack ist gestern nach Damaskus abgereist. Wilhelm Wattenbach bittet er zu danken, dass er ihm seine jüngste Studie „Peter Luder, der erste humanistische Lehrer in Heidelberg“ (1869) geschickt hat. Jetzt will er über den Wiener Historiker Alfred Ritter von Arneth an „Rowitha und Conrad Celtes“ von Joseph Aschbach (Wien 21869) kommen. Im Juli will er nach Deutschland kommen und hofft Gervinus auch im nächsten Winter in Rom wiederzusehen. Auguste Lindemann-Frommel ist inzwischen dauerhaft ans Bett gefesselt. Wolfgang Erhardt und seine Frau Sophie gaben ein englischsprachiges Diner.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1870-01-16" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001168">Gervinus, Georg Gottfried (1805–1871)</persName>
+<placeName key="G000685">Heidelberg</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">16. <hi rendition="#aq">Januar</hi> 1870.</dateline>
+                    <salute rendition="#c">Mein hochverehrter Herr u<ex>nd</ex> Freund,</salute>
+                </opener>
+<p>vor einigen Wochen brachte mir <persName key="G001386">Herr Löning</persName> ihren Brief, für welchen ich Ihnen herzlich danke. Ich besuchte sofort diese <persName key="ed_hmk_f5y_m3b ed_xzc_5ty_m3b ed_srz_vty_m3b ed_cnn_sty_m3b">Familie</persName> u<ex>nd</ex> werde sie bei Gelegenheit auch noch weiter aufsuchen.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190213T161535+0100" comment="Richard Löning (1848–1913) war im Dezember 1869 in Heidelberg als Rechtswissenschaftler promoviert worden und verbrachte anschließend den Winter 1869–1870 in Rom – möglicherweise mit seinen Eltern, dem Verlagsbuchhändler Karl Friedrich Loening (1810–1884) und seiner Ehefrau Anna Louise, geb. Reinach (1812–1884) und / oder mit seinen Geschwistern Edgar (1843–1919), Gottfried (1851–1887) und Marie Cäcilie (1850–1936)."?> <?oxy_comment_end?><persName key="G001133">Fortuna</persName>, welche so viele Gestalten anzunehmen pflegt als es menschliche Verhältniße gibt, verkleidete sich in jener, so glaube ich, als Struwel-Peter, worüber Betrachtungen anzustellen mir sehr ergötzlich gewesen ist. </p>
+<p>Mittlerweile haben wir auch die <add place="intralinear">sechsten</add> Decennalen des Jahrhunderts gefeiert, u<ex>nd</ex> wollen wünschen, d<ex>a</ex>ß der siebente Zeitraum uns und dem <placeName key="G000664">Vaterlande</placeName> recht gedeihlich werde, u<ex>nd</ex> daß in ihm die „Frau von Menschheit“ sich eines ordentlichen Lebenswandels befleißige. Ihre Hohenpriester sitzen ja schon hier, ihr langes <pb n="1v"/>Sündenregister ihr vorzuhalten u<ex>nd</ex> sie gehörig zurecht zu rücken. Es scheint, daß dies <?oxy_comment_start author="Angela Steinsiek" timestamp="20190213T161601+0100" comment="Das von Pius IX. (1792–1878) einberufene Erste Vatikanische Konzil wurde am 8. Dezember 1869 eröffnet. Unter innerkirchlichen Auseinandersetzungen wurde am 18. Juli 1870 das Dogma der päpstlichen Unfehlbarkeit verkündet. "?>Concil<?oxy_comment_end?> draußen große Aufmerksamkeit erregt, hier aber verliert es sich in den Dimensionen Roms bis zur Spurlosigkeit.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190213T161631+0100" comment="So auch im Brief von Gregorovius und Auguste Lindemann-Frommel an die Stuttgarter Pädagogentochter Charlotte Klumpp (1825–1916), 7. und 16. Januar 1870 (DLA Marbach, 12.104.1)."?> <?oxy_comment_end?>Kein Mensch redet mehr davon, oder bekümmert sich darum, u<ex>nd</ex> auch dies scheint ein Zeichen der Zeit zu sein, da die Civilisation ja glücklicher Weise ihre Direction nicht mehr von der Kirche empfängt. Die gänzliche Nichtbeteiligung der politischen Mächte an diesem Concil möchte außerdem darthun, daß auch dieser große Fortschritt der Trennung der Kirche vom Staat gemacht werden wird. Die <hi rendition="#aq"><foreign xml:lang="ita">patres conscripti</foreign></hi> haben übrigens den Fremdenzudrang von Rom merklich abgehalten, so daß ich noch nie oder seit langer Zeit nicht eine gleich große Winterstille genossen habe. Es kamen nur wenige bemerkenswerte Menschen nach Rom, darunter ich <persName key="G001365">Lepsius</persName> von <placeName key="G000846">Suez</placeName> her <?oxy_comment_start author="Angela Steinsiek" timestamp="20190213T161652+0100" comment="Der Ägyptologe Karl Richard Lepsius (1810–1884) war seit 1865 Direktor des Ägyptischen Museums in Berlin. Er war einer Einladung des Khediven Ismail Pascha (1830–1895) aus Anlass der Eröffnung des Suezkanals am 17. November 1869 gefolgt. Siehe auch RT, 19.12.1869, S. 270."?>nenne<?oxy_comment_end?>, u<ex>nd</ex> neuerdings <pb n="2r"/><persName key="G001573">Schack</persName> von <placeName key="G000734">München</placeName>, welcher gestern nach <placeName key="G000594">Damaskus</placeName> weiter gerückt ist.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190213T161705+0100" comment="Der Gregorovius befreundete Adolf Friedrich Graf von Schack (1815–1894) war im Jnauar 1870 nur kurz in Rom; er reiste 1870 zudem nach Konstantinopel, Smyrna und Athen."?> <?oxy_comment_end?>In dieser schönen Ruhe habe ich daher meine Arbeiten u<ex>nd</ex> Mäusegeschäfte wacker vorwärts gebracht, so daß ich wenigstens schon den Leuchtturm jenes Hafens am Horizont entdecke wo meine kleine Lebensbarke ruhig, so hoffe ich, ankern wird.</p>
+<p>Haben Sie die Güte, <persName key="G001697">Herrn Wattenbach</persName> auf das Freundlichste in meinem Namen für die Bereitwilligkeit zu danken, mit welcher er mir seinen <bibl sameAs="G004313">Luderus</bibl> übersandt hat.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190213T161722+0100" comment="Gregorovius hatte Gervinus in seinem Brief vom 7.11.1869 gebeten, den im selben Haus wohnenden Historiker und Paläographen Wilhelm Wattenbach (1819–1897) zu veranlassen, ihm seine jüngste Studie über den gelehrten Wanderredner und Mediziner Peter Luder (ca. 1415–1472) zuzuschicken (Peter Luder, der erste humanistische Lehrer in Heidelberg. In: Zeitschrift für die Geschichte des Oberrheins. Bd. 22. Karlsruhe 1869. S. 33–127)."?> <?oxy_comment_end?>Ich habe dadurch meine Kenntniß von der humanistischen Bewegung jener Epoche erweitern können, u<ex>nd</ex> hoffe nun auch den <bibl sameAs="G004315"><hi rendition="#aq">Celtes</hi> Asch<del rendition="#s">en</del><?oxy_comment_start author="Angela Steinsiek" timestamp="20190213T161748+0100" comment="Joseph Aschbach (1801–1882): Rowitha und Conrad Celtes. 2. Auflage. Wien 1869. In dieser Studie suchte der in Wien lehrende Historiker den Nachweis zu führen, dass der Roswitha von Gandersheim (935–973) zugeschriebene Panegyrikus auf Kaiser Otto den Großen (912–973) tatsächlich ein Gedicht des Konrad Celtes (1459–1508) ist. "?>bachs<?oxy_comment_end?></bibl> durch <persName key="G000947">Arneth</persName> von <placeName key="G000897"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190213T161802+0100" comment="Der Wiener Historiker Alfred Ritter von Arneth (1819–1897)."?>Wien<?oxy_comment_end?></placeName> zu erhalten.</p>
+<p>Das Jahr rückt wieder ganz toll u<ex>nd</ex> voll vor, so daß ich mich bald wieder nach dem Vaterlande aufmachen werde – das heißt freilich erst im Juli, aber die Zeit fließt hier in Rom so schnell dahin. Dann hoffe ich sehr Ihnen zu begegnen, vor allem aber rechne ich mit Bestimmtheit darauf, daß Sie im <pb n="2v"/>Winter nach Rom kommen, wo doch Ihre <persName key="G001169">Frau Gemalin</persName> noch Pilgergelübde einzulösen hat.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190213T161819+0100" comment="Nach dem römischen Aufenthalt des Ehepaars Gervinus von Dezember 1866 bis April 1867 hatte Auguste Lindemann-Frommel (1826–1876) ihnen in einer Nachschrift zum Brief von Gregorovius an Gervinus vom 5.5.1869 eine römische Unterkunft in ihrem Hause in der Via Babuino 39 zu vermitteln in Aussicht gestellt. Nachdem sich seine Frau Viktoria von einem langwierigen Augenleiden erholt hatte, kam Gervinus aber nicht wieder nach Rom. Gregorovius besuchte das Ehepaar Gervinus im September 1870 in Heidelberg (RT, 29.9.1870, S. 293)."?> <?oxy_comment_end?>Auch Schack wird dann hier sein, wie er versprochen hat, so daß wir uns dann ganz herrlich einrichten u<ex>nd</ex> heiter bewegen können. Auf diese Romfahrt müßen Sie, verehrte Frau, beständig hinarbeiten, u<ex>nd</ex> schon jetzt die nötigen Sachen dafür zurechtlegen. </p>
+<p><persName key="ed_gbt_4bh_sfb ed_bzh_0vv_ukp">Lindemanns</persName> beide grüßen Sie auf das herzlichste. Sie ist nach wie vor an ihr Schmerzenlager gefesselt, doch immer mit Herz u<ex>nd</ex> Geist lebendig regsam. <persName key="ed_eif_6uk_kwj ed_4hg_o8b_uk3"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190213T161841+0100" comment="Wolfgang Erhardt (1818–1906) und seine Frau Sophie (1826–1914)."?>Erhardts<?oxy_comment_end?></persName> sind wol, u<ex>nd</ex> gaben letzthin ein <foreign xml:lang="eng"><hi rendition="#aq">englich spoken</hi> dinner</foreign>, welches alle Gipfel <?oxy_comment_start author="Angela Steinsiek" timestamp="20190213T162047+0100" comment="Ausschweifende – nach dem assyrischen König Sardanapal."?>sardanapalischer<?oxy_comment_end?> Schwelgereien weit hinter sich ließ.</p>
+                <closer>
+<salute xml:id="s1" next="#s2">Alles Gute u<ex>nd</ex> Schöne <foreign xml:lang="Lat"><hi rendition="#aq">cum bona</hi> Musa</foreign>, sonnige Tage und Freu<del rendition="#s">n</del>de wünscht Ihnen beiden mit herzlicher Verehrung</salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">Ihr</salute>
+<signed rendition="#right">FGregorovius</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

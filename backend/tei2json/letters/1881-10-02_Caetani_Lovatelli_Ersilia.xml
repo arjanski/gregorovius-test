@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_ijn_fdk_hmb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Contessa Ersilia Caetani Lovatelli in Turin. München, 2. Oktober 1881</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free">
+                <licence target="http://creativecommons.org/licenses/by/4.0/">
+                    Creative Commons Attribution 4.0 International (CC BY 4.0)
+                </licence>
+            </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno><idno type="shelfmark">Karton 59, Mappe 348 (nach D)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"><bibl type="print">Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli. Hrsg. von Sigmund Münz. Berlin: Paetel 1896. S. 105–106 </bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er wird seine Biographie „Athenaïs.Geschichte einer byzantinischen Kaiserin“ (1882) in Kürze bei Brockhaus einreichen. Maria Teresa Serego Alighieri ist verstorben, weshalb er sich um Giovanni Gozzadini sorgt. Grüße an ihre Familie. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1881-10-02" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001011">Caetani Lovatelli, Ersilia contessa (1840-1925)</persName>
+<placeName key="G000893">Turin</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="105"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"> München, 2. Oktober 1881.</dateline>
+                    <salute rendition="#c"> Verehrteste Frau Gräfin,</salute>
+                </opener>
+<p>ich wollte Ihnen schon seit einiger Zeit schreiben, <seg type="comment"><orig>um Sie um Ihre Mittheilungen zu bitten</orig><note xml:id="nukv_vfk_hmb">Der letzte auf uns gekommene Brief der Gräfin an Gregorovius datiert auf den 3. Juli 1881 (BSB München, NL Gregorovius, Gregoroviusiana 21 – h: GhStA Berlin, NL Waldemar Kampf, Karton 86, Mappe 6); siehe dazu den Brief von Gregorovius an Ersilia Caetani Lovatelli vom 26.6.1881. </note></seg>, aber Sie kennen wohl das <pb n="106"/>Sprichwort: „<seg type="comment"><orig>Der Weg zur Hölle ist mit guten Vorsätzen gepflastert</orig><note xml:id="nrbq_xfk_hmb">Die ursprüngliche Herkunft des Sprichworts ist nicht geklärt. Eine Referenz auf den irischen Schriftsteller George Bernard Shaw (1856–1950) erscheint unwahrscheinlich, da dessen Schaffen erst ab 1882 einsetzte.</note></seg>.“ </p>
+<p>Ihre Hochherzigkeit gegen mich ist so groß, <seg type="comment"><orig>daß Sie nicht auf einen Brief von mir warten wollten</orig><note xml:id="nghs_yfk_hmb">Gregorovius’ zuletzt verfasster Brief an die Freundin datiert auf den 31. Juli 1881; siehe den Brief von Gregorovius an Ersilia Caetani Lovatelli vom 31.7.1881.</note></seg>, sondern mir von neuem geschrieben haben, und dafür sage ich Ihnen unendlichen Dank. Ich freue mich zu wissen, daß Sie mit der <seg type="comment"><orig><foreign xml:lang="ita">Villeggiatur</foreign> </orig><note xml:id="nyw5_zfk_hmb">Abkürzung von ital. „villeggiatura“, für: Sommeraufenthalt, Urlaub. </note></seg>auf den <placeName key="G067780">lateinischen Hügeln</placeName> zufrieden gewesen und nun wieder zu den heimatlichen <seg type="comment"><orig>Laren</orig><note xml:id="nq31_bgk_hmb">Altrömische Schutzgeister, besonders von Haus und Famillie; auch Geister der Verstorbenen.</note></seg> <seg type="comment"><orig>zurückgekehrt sind</orig><note xml:id="novx_cgk_hmb">Die Caetani-Familie hatte den Sommer südlich von Rom, in Agnani, verbracht. Mit diesem Ort war sie über ihren Vorfahren Papst Bonifatius VIII., als Benedetto Caetani (um 1235–1303) in Agnani geboren, verbunden.</note></seg>. Freilich schmerzt es mich, daß Sie <seg type="comment"><orig>aus wenig erbaulichen Motiven nach <placeName key="G000893">Turin</placeName> abreisen mußten</orig><note xml:id="nivh_2gk_hmb">Da es im nächsten Satz des Briefes um Witoldo, den 1869 als drittes Kind der Gräfin geborenen Sohn geht, muss sich dieser in Turin befunden und die Gräfin seinetwegen dorthin gereist sein. Bereits in einem früheren Briefen waren Ersilias Sorgen aufgrund einer ihrer Söhne zur Sprache gekommen; siehe den Briefe von Gregorovius an Giovanni Gozzadini vom 19.9.1880.</note></seg>. </p>
+<p>Grüßen Sie <seg type="comment"><orig>Ihren Sohn <persName key="ed_c2r_xt4_qlb">Vitoldo</persName></orig><note xml:id="nwm2_fgk_hmb">Witoldo war als Maler und Schriftsteller tätig, gab seine Bücher auch unter dem Namen „Giulio II“ heraus: Il sogno di Bit-Anati. Visioni egizie in un fantastico ballo moderno. Rom 1914; Roma di ieri. Cronache e fasti. Rom: Ruffolo 1949.</note></seg> und sagen Sie ihm von meiner Seite, daß seine Mutter ein Vorbild an Tugend und Güte ist.</p>
+<p>Ich verbrachte, wie Sie wissen werden, <seg type="comment"><orig>den Monat August froh in der schönen Einsamkeit von <placeName key="G000888">Traunstein</placeName></orig><note xml:id="nczl_ggk_hmb">Wie oft in den Jahren zuvor, hatte Gregorovius auch in diesem Jahr den Sommer in Traunstein verbracht. Dorthin hatte es ihn einst auf ärztliches Anraten und der Salzbäder wegen verschlagen; (siehe RT, 10.9.1872, S. 325–327).</note></seg>, doch keineswegs der Trägheit, dem<seg type="comment"><orig> <foreign xml:lang="Lat">otium sine dignitate</foreign></orig><note xml:id="nrj4_hgk_hmb">Lat. für: freie Zeit, um in Ruhe den eigenen intellektuellen Beschäftigungen nachzugehen. Zit. nach Cicero (106–43 v. Chr.).</note></seg>, hingegeben. Im Gegentheil, ich habe viel an der Geschichte jener berühmten und geistvollen <persName key="ed_lhx_qwc_fmb">Athenais</persName> oder Aelia Eudoxia, Kaiserin von <placeName key="ed_l1d_zwc_fmb">Byzanz</placeName>, gearbeitet. Dieses <bibl sameAs="G003525">Buch</bibl> ist schon zu Ende geführt; <seg type="comment"><orig>bald wird es in die Presse kommen</orig><note xml:id="nggv_jgk_hmb">„,Athenais‘ wurde im Sommer, hauptsächlich im August zu Traunstein, dann im Herbst vollendet und am 19. Oktober an Brockhaus abgeschickt, welchem ich die Resultate meiner griechischen Reise zugesagt hatte.“ (RT, 1881, S. 423).</note></seg>, so daß ich hoffe, Ihnen gegen Ende dieses Jahres ein Exemplar zur Verfügung stellen zu können. </p>
+<p>In diesem Augenblicke bekomme ich die <seg type="comment"><orig>Mittheilung von dem Tode der armen <persName key="G001092">Gräfin Gozzadini</persName></orig><note xml:id="nc5h_lgk_hmb">Am 26. September war die Gräfin Maria Teresa Serego Alighieri (*1812), mit welcher Gregorovius seit vielen Jahren befreundet gewesen war, verstorben. In ihrem von Intellektuellen gern besuchten Salon in der Villa Ronzano war auch er immer wieder Gast gewesen, so dass er diesem einen Essay widmete: Die Villa Ronzano. Ein Musensitz der Gozzadini von Bologna (ED in: Nord und Süd. Eine deutsche Monatsschrift. Bd. 23. Breslau, Berlin: Schottlaender 1882. S. 312–321 – aufgenommen in: KS Bd. 3, S. 97–120).</note></seg>. Ich beklage nicht sie, sondern <seg type="comment"><orig>vielmehr ihren <persName key="G001187">Gatten</persName>, der nun so ganz allein dasteht</orig><note xml:id="nicq_mgk_hmb">Gregorovius pflegte einen intensiven brieflichen Austausch mit dem Ehemann der Verstorbenen, dem Archäologen Giovanni Gozzadini (1810–1887). An dessen Verlust hatte er schriftlich Anteil genommen; siehe den Brief von Gregorovius an Giovanni Gozzadini vom 1.10.1881.</note></seg>. </p>
+<p>Viele Grüße für <seg type="comment"><orig>Ihre ganze sehr werthe <persName key="ed_eks_vt4_qlb"><persName key="G001387"><persName key="ed_snq_qt4_qlb"><persName key="ed_crd_tt4_qlb"><persName key="G001004">Familie</persName></persName></persName></persName></persName></orig><note xml:id="nf2j_rgk_hmb">Gregorovius war auch dem Vater Ersilias, Michelangelo Caetani (1804–1882), sehr verbunden; die Gräfin hatte neben Witoldo noch vier weitere Kinder: Giovanni (*1859), Callista (*1860), Rosalia Gabriella (*1872) und Filippo (*1874). Ihr Ehemann, Giacomo Lovatelli (*1832) war 1879 verstorben; siehe dazu den Brief von Gregorovius an Ersilia Caetani Lovatelli vom 16.11.1879.</note></seg>. Und so empfehle ich mich Ihrem Wohlwollen als</p>
+                <closer>
+                    <salute rendition="#c">Ihr ergebenster</salute>
+                    <signed rendition="#right">Ferd. Gregorovius.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

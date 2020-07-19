@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_ysd_b3d_tlb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Michele Amari in Rom. München, 2. Dezember 1880 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free">
+                <licence target="http://creativecommons.org/licenses/by/4.0/">
+                    Creative Commons Attribution 4.0 International (CC BY 4.0)
+                </licence>
+            </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Palermo, Biblioteca Centrale della Regione siciliana</repository><collection>Carteggio Amari</collection><idno>3901</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ½ S. – 1r aloR, Beantwortungsvermerk: Risp. / 9. $ – 1r auR, Tintenfleck</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er bittet um Informationen zu arabischen Schriftstellern und Geografen, die über Athen geschrieben haben wie Muhammad al-Idrisi. Er arbeitet an einemText mit dem Titel „Mirabilien der Stadt Athen“ (Sitzungsberichte der Bayerischen Akademie der Wissenschaften, 1881). Grüße an Louise Caroline Boucher und die gemeinsamen Kinder. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1880-12-02" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G000924">Amari, Michele (1806-1889)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+<correspContext>
+<ref type="next">9. Dezember 1880</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<dateline rendition="#c">Monaco, 2. Decembre 80.</dateline>
+<salute xml:id="s1" next="#s2" rendition="#c">Gentilissimo Signor e</salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">mio amico,</salute>
+</opener>
+<p>riccoro un po’ alla sua erudizione nelle cose orientali per un argomento, ed è questo. Gli scrittori arabi, massime i geografi, fanno menzione di <placeName key="G000619">Atene</placeName>, come rilevo dall’ <persName key="ed_glr_dl5_5lb"><seg type="comment"><orig>Edrisi</orig><note xml:id="nglv_5l5_5lb">Der arabische Kartograph, Botaniker und Geograph Muhammad al-Idrisi (Edrisi, El Edrisi) (um 1099–1165) hatte zunächst an der Universität Córdoba studiert und lebte anschließend am Normannhof Rogers II. (1095–1154) in Sizilien. Er reiste durch Spanien, Nordafrika und Vorderasien, machte sich durch seine geographischen Studien einen Namen. Für den Normannenkönig fertigte er von 1138–1154 eine illustrierte Beschreibung der Welt an: Reise des Sehnsüchtigen, um die Horizonte zu durchqueren. Möglicherweise spielt Gregorovius auf al-Idrisis Beschreibung von Athen in diesem Werk an.</note></seg></persName>, e come c’è da supporre ancora da parte di altri dotti di quella <placeName key="ed_vf3_yl5_5lb">nazione</placeName>. Or mi preme non poco di aver cognizione di tali passi negli Arabi, dove si parla della città di Atene. <seg type="comment"><orig>E chi mai potrebbe esser meglio informato <pb n="1v"/>sul detto argomento, che lei</orig><note xml:id="nqbh_3pp_vlb">Zu Amaris wichtigen Publikationen zum arabischen Sizilien zählt seine „Storia dei Musulmani di Sicilia“ in drei Bänden (Florenz: Le Monnier 1854–1872). 1880 und 1881 veröffentlichte Amari zudem seine „Biblioteca arabo-sicula“ in zwei Bänden (Turin/Rom: Loescher). </note></seg>, l’arabista <foreign xml:lang="fra"><seg type="comment"><orig>par excellence</orig><note xml:id="nc1v_2m5_5lb">Fr. für: in perfekter Vollendung.</note></seg></foreign>? Veda dunque, come vada la cosa, e <seg type="comment"><orig>si compiaccia di darmi qualche cenno in proposito</orig><note xml:id="nbhv_fm5_5lb">Dass Amari Gregorovius die gewünschten Informationen übermittelt hat, belegt ein späteres Schreiben des Deutschen an den Orientalisten; siehe den Brief von Gregorovius an Michele Amari vom 12.12.1880.</note></seg>. </p>
+<p>Il motivo della mia domanda proviene dalle mie occupazioni attuali, che hanno per iscopo l’illustrazione dei rapporti della città di Atene con quella di Roma nei bassi tempi, e per spiegarmi più accuratamente, le dirò, che sto scrivendo un discorso, cui probabilmente darò <seg type="comment"><orig>il titolo di <bibl sameAs="G004031">Mirabilia Arbis Athenarum</bibl></orig><note xml:id="nxkq_jpp_vlb">Vor seinem die Mirabilien Athens und Roms vergleichenden Artikel hatte Gregorovius seit seiner Griechenlandreise im Mai 1880 (siehe RT, Romfahrt und Griechische Reise 1880, S. 419–420) bereits andere historische Studien zu dem Land publiziert: Korfu. Eine Studie. In: Unsere Zeit. Deutsche Revue der Gegenwart. Bd. 2. Leipzig: Brockhaus 1880. S. 481–499 u. 697–720. Im kommenden Jahr veröffentlichte er: Aus der Landschaft Athens. Eine Skizze. In: Unsere Zeit. Deutsche Revue der Gegenwart. Bd. 1. Leipzig: Brockhaus 1881. S. 33–49. </note></seg>. </p>
+<p>Colgo l’occasione, per <pb n="2r"/>pregarla a darmi le sue nuove e quelle di <seg type="comment"><orig>sua <persName key="G000990"><persName key="ed_kfg_1wr_rlb"><persName key="ed_nqf_2wr_rlb"><persName key="ed_tt3_hwr_rlb">famiglia</persName></persName></persName></persName></orig><note xml:id="nd2g_lpp_vlb">Mit Louise Caroline Boucher oder Bouquet (1835–1909), Adoptivtochter von François Sabatier-Unger (1818–1891), hatte Amari drei Kinder, Carolina (1866–1942), Francesca und Michele.</note></seg>, che mi auguro le più soddisfacenti. E così salutando cordialmente lei, la signora Luisa, e i figliuoli, le stringo la mano</p>
+                <closer>
+                    <salute rendition="#c">tutto suo</salute>
+                    <signed rendition="#c">Ferd. Gregorovius. </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

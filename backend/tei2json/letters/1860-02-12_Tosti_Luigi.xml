@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000422">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Luigi Tosti in Montecassino. Rom, 12. Februar 1860</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Montecassino, Archivio dell’Abbazia</repository><collection>Carteggio Tosti</collection><idno>119</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Tommaso Leccisotti: Alcune lettere di Ferdinando Gregorovius a Monaci Cassinesi. In: Benedictina. Fascicoli di studi Benededettini. Jg. 14. Fasc. 1. Rom: S. Paolo 1967. S. 141–143</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Der Brief wird durch Giovanni Battista De Rossi überbracht. Gregorovius hat sich mit dem amerikanischen Schriftsteller Theodor Parker über Tostis „Storia di Bonifacio VIII. e de’ suoi tempi“ (1846) unterhalten. Er hat das Manuskript des dritten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1860) abgeschlossen. Wegen der unruhigen politischen Lage hat er Verständnis für Tostis Ablehnung eines Rufs an die Universität Pisa. Er begrüßt die baldige Publikation von dessen „Prolegomeni alla storia universale della Chiesa“ (1861) und rät, wissenschaftliche Kontakte in Rom und Florenz auch persönlich zu pflegen. Über die gegenwärtige Krise des Papsttums und die Folgen von Arthur de la Guéronnières „Le Pape et le Congrès“ (1859). Die zentralen Thesen der Schrift sieht er schon bei Félicité de Lamennais vorformuliert. Sebastiano Kalefati soll ihm mitteilen, ob er noch weitere Informationen zu dem Wiener Codex benötigt. Wilhelm von Giesebrecht soll Tosti ein Exemplar seines Buches „De litterarum studiis apud Italos primis medii aevi saeculis“ (1845) senden.</p>
+                <p xml:lang="en">The letter is delivered by Giovanni Battista De Rossi. Gregorovius had a conversation with the American writer Theodor Parker about Tostis „Storia di Bonifacio VIII. e de’ suoi tempi“ (1846). He completed the manuscript of the third volume of his „Geschichte der Stadt Rom im Mittelalter“ (1860). Because of the troubled political situation, he understands Tosti’s refusal to accept a call to the University of Pisa. He is looking forward to the imminent publication of his „Prolegomeni alla storia universale della Chiesa“ (1861) and advises him to also cultivate scientific contacts in Rome and Florence in person. On the current crisis of the Papacy and the consequences of Arthur de la Guéronnières' „Le Pape et le Congrès“ (1859). He already saw the central theses of the Scriptures pre-formulated by Félicité de Lamennais. Sebastiano Kalefati is to inform him whether he needs further information on the Vienna Codex. Wilhelm von Giesebrecht should send Tosti a copy of his book „De litterarum studiis apud Italos primis medii aevi saeculis“ (1845).</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1860-02-12" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001655">Tosti, Luigi (1811–1897)</persName>
+<placeName key="G000730">Montecassino</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">Roma 12 Feb<ex>b</ex>r<ex>aio</ex> 1860.</dateline>
+<salute rendition="#c">Mio caro e reverito Don Luigi,</salute>
+</opener>
+<p>la partenza del cavalier <persName key="G001085">de Rossi</persName> a M<ex>onte</ex> Casino mi fornisce la grata occasione di mandarle queste righe; avrei più piacere, s’ io in persona potessi recarmi <seg type="comment"><orig>un’ altra volta presso di Loro</orig><note xml:id="nb2w_w13_vlb">Gregorovius hatte sich für Archivarbeiten für den dritten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1860) vom 5.–18. Oktober 1859 in Montecassino aufgehalten (vgl. RT, 17.10.1859, S. 90). Es ist kein weiterer Aufenthalt dort dokumentiert. Tosti traf er im September 1864 zufällig in Neapel wieder (siehe RT, 24.9.1864, S. 185).</note></seg>.</p>
+<p>La ringrazio di cuore per l’ultima sua lettera, la quale mi assicura che Lei non cessa a donarmi una benevole memoria. Avvi sempre della gente, con chi possa raggionar di Lei, e appunto poche ore fà, che venne trovarmi <seg type="comment"><orig>un famoso scrittore dell’America Master <persName key="G001471">Parker</persName></orig><note xml:id="ntm1_1b3_vlb">Den unitarischen Theologen Theodor Parker (1810–1860) aus Massachusetts hatte Gregorovius am 28. Dezember 1859 kennengelernt (siehe RT, 31.12.1859, S. 92). Er besuchte den bereits Erkrankten im April 1860 (vgl. RT, 9.4.1860, S. 97).</note></seg>, il quale portò seco <bibl sameAs="G004244">il Bonifacio VIII</bibl>, per leggerlo à Roma. Io confesso, che finora non ho potuto legger <del rendition="#s">ancora</del> di fila le sue preziose opere, essendo che <seg type="comment"><orig>ho dovuto <add place="superlinear">preparare</add> il <bibl sameAs="G003469">terzo tomo della storia di Roma</bibl> per i torchi</orig><note xml:id="nkqs_cb3_vlb">Am 22. Dezember beendete Gregorovius die Arbeit am dritten Band seiner „Geschichte der Stadt Rom im Mittelalter“, der 1860 erschien (siehe RT, 31.12.1859, S. 91–92).</note></seg>. Ma d’ora inanzi saro libero.</p>
+<p>Ben comprendo, che <seg type="comment"><orig>Lei non poteva accettare l’offerta di una cattedra dell’università di <placeName key="G000754">Pisa</placeName></orig><note xml:id="nvv3_2b3_vlb">Im Zuge der Wiedereröffnung der Universität zu Pisa als staatliche Universität am 3. Dezember 1859 (siehe AZ, 11.12.1859, Nr. 345, S. 5645) wurden Lehrstühle neu besetzt. Tosti bekam das Angebot eines Lehrstuhls für Geschichte. </note></seg>, almeno in <seg type="comment"><orig>questi tempi incerti ancora e burrascosi</orig><note xml:id="ngry_fb3_vlb">Gregorovius bezieht sich hier auf verschiedene Ereignisse: Zu Beginn des Jahres 1860 hatte Giuseppe Garibaldi (1807–1882) proklamiert, dass er sich an die Spitze der 1859 gegründeten „Nazione armata“ stelle und die Italiener zum Kampf auffordere. Auf Druck Vittorio Emanueles II. (1820–1878) und der moderaten Kräfte musste er das Bündnis, das die demokratischen Kräfte bündeln sollte, allerdings wieder auflösen. In Ober- und Mittelitalien sollten Wahlen zur Bildung einer neuen Nationalversammlung stattfinden, die im März zugunsten der Annexion an Piemont allerdings aufgehoben wurden. Auch hatte Kaiser Napoleon III., Louis Napoleon (1808–1873), noch im Dezember 1859 Papst Pius IX. (1792–1878) um die Abtretung der Romagna ersucht. Pius erklärte am 19. Januar 1860 in einer Enzyklia, dass er darauf geantwortet habe, die Provinzen nicht abzutreten.</note></seg>. Dall’una parte per questo rifiuto <add place="superlinear">Lei</add> a fatto un danno ad un istituto rinascente, come si e quello della città di Pisa, dall’altra parte però Lei a risparmiato una delle più dolorose perdite, non voglio dire <pb n="1v"/>a Monte Casino, cui non possono mai mancare nè i meriti, nè i conforti di Lei, ma bensi agli amici, che godono la sua presenza. </p>
+<p>La sua vita però la sù, lontana dalla circolazione letteraria; per causa di moltissimo rigore di leggi proibitive esposta alla privazione di studj, domanderebbe necessariamente di tanto in tanto qualche viaggio per quelle parti, dove si sta più nel contatto col corrente della coltura. Ora che Lei, come con sommo piacere io lo sento, <seg type="comment"><orig>prepara già le prime stampe dei <bibl sameAs="G004245">prolegomeni</bibl>, egli mi par necessario, che facesse un viaggio a <placeName key="G000671">Firenze</placeName></orig><note xml:id="nb2p_3b3_vlb">Tosti veröffentlichte 1861 seine „Prolegomeni alla storia universale della Chiesa“ in zwei Bänden beim Florentiner Verlag Barbèra: https://books.google.it/books?id=okQqFLA7prcC&amp;printsec=frontcover&amp;hl=it&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false und https://books.google.it/books?id=QtPVbdAOq4wC&amp;printsec=frontcover&amp;hl=it&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false. </note></seg>, toccando naturalmente Roma. Credo bene, che <seg type="comment"><orig>dentro il Giugno io sarò a Firenze</orig><note xml:id="nalj_mb3_vlb">Gregorovius verbrachte die Zeit vom 30. Juni bis 8. Juli 1860 in Florenz; von dort reiste er weiter in Richtung Deutschland (vgl. RT, S. 103–104). Ein Treffen mit Tosti in Florenz ist nicht nachweisbar.</note></seg>.</p>
+<p>Quanto piacere avrei, sentendo i suoi ragionamenti sopra questi gravi affari di Roma! <seg type="comment"><orig>L’opuscolo <bibl sameAs="G004289">Le Pape et le Congrès</bibl></orig><note xml:id="ngdk_hc3_vlb">Die von Louis-Etienne Arthur de la Guéronnière (1816–1875) 1859 veröffentlichte Schrift gegen die weltliche Macht des Papstes: „Sie ist offenbar erlassen, um den Kongreß unmöglich zu machen. Sie stellt das Prinzip auf, dass die Mächte, welche im Jahre 1815 den Kirchenstaat restaurierten, im Jahre 1860 das Recht hätten, ihn aufzulösen. Der Papst soll auf Rom und das Patrimonium beschränkt und in der Ewigen Stadt ein angelischer Zustand hergestellt werden, worin die Römer in seliger Apragmosyne nur den Rosenkranz zu beten und an ihre große Vergangenheit mit Rührung zu denken haben.“ (RT, 31.12.1859, S. 91). Die Broschüre des Parteigängers Napoleons III. (1808–1873) löste eine hitzige Diskussion in der Presse aus, von Seiten der Kirche und ihren Befürwortern erschienen mehrere Verteidigungsschriften (Vicomte La Tour, Philippe Gerbert, Felix-Antoine-Philibert Dupanloup).</note></seg> Le sara noto; mi sembra , che quello sia come una delle conseguenze degli movimenti anteriori nella chiesa della <placeName key="G000674">Francia</placeName>. Almeno io trovo, che i midesimi principj, che là si mostrano, sieno già nettamente dichiarati <seg type="comment"><orig>nell’<orgName key="G000556">Avenir </orgName>e negli altri scritti di <persName key="G001353">Lammenais</persName></orig><note xml:id="ngv4_lc3_vlb">Félicité de Lamennais (1782–1854) war ein französischer Priester und Schriftsteller, der seine, durch Jean-Jacques Rousseau (1712–1778) beeinflussten, liberalen politischen Ansichten unter anderem in der Zeitschrift „L’Avenir“ kundtat. Er versuchte, den Katholizismus mit den progressiven Gedanken der Aufklärung zusammenzubringen und sprach sich, tiefgläubig wie er war, für die päpstliche Autorität in Glaubensfragen aus.</note></seg>. Per uno, che scrive, come me, la <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">storia del medio evo della città di Roma</bibl>, dove il continuo contrasto fra il dominio temporale e la dignità spirituale non forma la parte minore, questa <pb n="2r"/>pugna perpetua, messa in iscena davanti ai miei proprj ochj, deve avere una insigne importanza storica. Io sono dunque oltremodo dubbioso, di che maniera <orgName key="G000539">il Papato</orgName> potra sortire da questo punto fisso e sterile, in cui la scaltrezza di <persName key="G001442">Napoleone</persName> esso tiene quasi imprigionato; poichè egli si è cosa da non negarla, che <seg type="comment"><orig>il Papato attualmente si trovi in un isolamento morale, come l’<placeName key="G000647">Austria</placeName></orig><note xml:id="nibg_pc3_vlb">In der Römischen Frage, dem Konflikt um den Status des Kirchenstaates, der bis 1870 unabhängig und kein Teil des 1861 geeinigten Königreiches Italien war, verlangte die liberale Einheitsbewegung seit den 1830er Jahren die weltliche Herrschaft über Rom. Kaiser Napoleon III. hatte sich schützend hinter den Papst gestellt, was ihm das Wohlwollen der konservativen Katholiken einbrachte. Er hatte ihn nach der Zerschlagung der Römischen Republik am 3. Juli 1849 wieder an die Spitze des Kirchenstaates gesetzt. In Folge dessen schützte eine französische Besatzung den Vatikan, von 1849–1866 war Rom französische Garnisonsstadt. Das Königreich Österreich war mit dem in Villafranca di Verona geschlossenen Frieden vom 11. Juli 1859 als Verlierer aus dem Sardinischen Krieg gegen das Königreich von Sardinien-Piemont hervorgegangen.</note></seg>. Se il Papato in tempi, che gli facevano vivissimo appello, si metteva dalla parte degli interessi dei popoli, allora risorgeva un’ altra volta quale vera potenza spirituale; siccome desso per ora non fà altro che <seg type="comment"><orig>allearsi cogli interessi del despotismo</orig><note xml:id="nygz_qc3_vlb">Papst Pius IX. war für seine Wutausbrüche, Doppelzüngigkeit und seinen despotischen Führungsstil bekannt. </note></seg>, il quale opprime lo sviluppo di una nuova società, egli vien trattato come nemico dell’ umanità. I due principij fanno opposizion terribile l’uno all’altro; non vi trovo transazione qualunque, non avvi più porta mediana, dadove sortire si possa, come in tempi più remoti. Come uomo che cerca la verità, la giustizia, e la libertà fondata sopra quelle basi, non posso altro che desiderare sinceramente che la chiesa sortisse in una nuova forma e <choice><sic>rioroganizzata</sic><corr cert="high">riorganizzata</corr></choice> secondo i desiderii di una veramente christiana società. Se mai venisse una tale vita nuova spirituale epoca la quale noi altri di certo non vedremo, allora c’è speranza – troppo grande e bella però, che <add place="superlinear">non</add> mi basti l’animo di esprimerla. </p>
+<p><pb n="2v"/><foreign xml:lang="Lat"><seg type="comment"><orig>Proh dolor</orig><note xml:id="nrld_sc3_vlb">Lat. für: leider.</note></seg></foreign>! quanto ci vuole, per realizzare un ideale schietto, verace, semplice tanto che si può circonscrivere in tre parole! quanto ci vuole, per costruire il christianesimo nel mondo! Ma finalmente là si arrivera in altri secoli di pace.</p>
+<p><seg type="comment"><orig>Io temo con ragione, che il venerabile <persName key="G001326">Don Sebastiano</persName> non abbia ricevuta una mia lettera, in cui io gli davo certe notizie intorno a un codice di <placeName key="G000897">Vienna</placeName></orig><note xml:id="nwtk_5c3_vlb">Gregorovius hatte dem Leiter des Archivs von Montecassino, Don Sebastiano Kalefati (1817–1863), versprochen, sich hinsichtlich der von Kalefati gewünschten Informationen an den Archäologen Friedrich von Kenner (1834–1922) in Wien, der seit 1854 am dortigen Münz- und Antikenkabinett beschäftigt war, zu wenden; siehe den Brief von Gregorovius an Sebastiano Kalefati vom <ref target="G000406">23.10.1859</ref>. Ungefähr einen Monat später lieferte er Kalefati, mit dem er freundschaftlich verbunden war, die hier gemeinten Notizen; siehe den Brief von Gregorovius an Sebastiano Kalefati vom <ref target="G000434">27.11.1859</ref>.</note></seg>. Quel Viennese pero si era molto male sgravato dell’incarico; abbia la bontà di scriver a Don Sebastiano, ch’io di nuovo voglio indirizzarmi alla <orgName key="G000515">biblioteca di Vienna</orgName>, in caso che gli non bastassero quelle note.</p>
+<p><seg type="comment"><orig>Al <persName key="G001173">Giesebrecht</persName> ho scritto, che mi mandasse per Lei un’altra copia de <bibl corresp="G004287">Litterarum studiis apud Italos</bibl></orig><note xml:id="nv4v_vc3_vlb">Von seiner Bitte an den Historiker Wilhelm von Giesebrecht (1814–1889), Tosti ein Exemplar von dessen Buch „De litterarum studiis apud Italos primis medii aevi saeculis“ (Berlin 1845) zu senden, hatte Gregorovius bereits früher berichtet; siehe den Brief von Gregorovius an Luigi Tosti vom <ref target="G000421">23.12.1859</ref>. Mit Giesebrecht, dem Erforscher italienischen Quellenmaterials aus dem Mittelalter, war Gregorovius befreundet. </note></seg>. Io sono contento, che Lei abbia visto <seg type="comment"><orig>à <placeName key="G000737">Napoli</placeName> i Monumenti della <placeName key="G000664">Germania</placeName></orig><note xml:id="nuh3_zc3_vlb">Möglicherweise das durch Friedrich II. (1194–1250) im Jahre 1221 vollendete Castel dell’Ovo; oder die 1847 enthüllte, von Maxilimian II. König von Bayern (1811–1864) gestiftete Marmorstaute in Santa Maria del Carmine zur Erinnerung an den an dieser Stelle hingerichteten Staufer-Kaiser Konradin (1252–1268).</note></seg>; di fatti opera mirabile e una delle glorie scientifiche della ! mia patria, sorella dell’<placeName key="G000690">Italia</placeName> anche per causa di destini politici, travagliate, disunite ambe e due, ma nientedimeno Le Muse veraci della civiltà.</p>
+<p>Con affetto sincero, coi voti i più caldi, mi chiamo, nobilissimo Don Luigi, </p>
+<closer>
+<salute rendition="#c">il suo servitor e amico</salute>
+<signed rendition="#right">Ferd. Gregorovius.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

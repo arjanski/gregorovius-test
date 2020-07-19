@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067869">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Mathilde von Humboldt in Ottmachau. München, 18. November 1875</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>SBB-PK, derzeit Biblioteka Jagiellońska Krakau</repository></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S.</p>
+<p>ein Album</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 1 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 2–3 (nach h1)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er schickt anbei das Album zurück, in das sich auch ihre Freundin Mathilde Muhr eingetragen hat, die er in Kürze besuchen will. Seine Halbschwester Ottilie Elgnowski hat aus der Königsberger Zeitung erfahren, dass August von Scharnhorst gestorben ist, der Bruder von Agnes von Münchhausen. Er dankt für die Fotografien des Tegeler Schlosses: Die Herkunft der auf einer Säule der Familiengrabstätte der Humboldts im Park aufgestellten Statue der Speranza (Hoffnung) hat er in der Glyptothek noch nicht überprüfen können. Er sehnt sich nach der Sonne Italiens. Der Gesundheitszustand von Auguste Lindemann-Frommel hat sich einstweilen stabilisiert; er hofft sie im Frühjahr noch einmal zu sehen. In Italien lassen sich antiqaurische Bücher zu keinem guten Preis verkaufen. Der aus Neidenburg stammende Großunternehmer Bethel Henry Strousberg hat eine riesige Villa in Berlin, während er es nur zu einer Mietwohnung in München gebracht hat. Folgenden Jahres wird sie aber eine bessere Einrichtung bei ihm vorfinden.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1875-11-18" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001304">Humboldt, Mathilde von (1830-1897)</persName>
+<placeName key="G000746">Ottmachau</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Lumpichtes München <lb/>18. <hi rendition="#aq">Nov<ex>ember</ex></hi> 1875.</dateline>
+                    <salute rendition="#c">Verehrtes Fräulein von <hi rendition="#aq">Humboldt</hi>,</salute>
+                </opener>
+<p>wir <persName key="G001203"><persName key="G001111"><persName key="G001109">alle</persName></persName></persName> sagen Ihnen den schönsten Dank für Ihren liebenswürdigen Brief, u<ex>nd</ex> Ihr ebenso liebenswürdiges Andenken, welches auf unserem Tische prangt. Ich sende Ihnen das Album zurück, <add place="intralinear">in</add> welches heute <seg type="comment"><orig><persName key="ed_cjs_ksy_1lb">Frau Muhr</persName> </orig><note xml:id="nsyv_n4x_2mb">Mathilde Muhr, geb. von Colomb (1827–1912), die Witwe des in München verstorbenen Historien- und Genremalers Julius Muhr (1819–1865), der sich 1852–1857 in Rom aufgehalten hatte und erster Direktor der Schack-Galerie war. Nach dem Tod des Mannes und ihres einzigen Kindes lebte sie in München. Sie war wie ihr verstorbener Mann eine vertraute Freundin von Paul Heyse (siehe auch den Brief von Gregorovius an Theodor Heyse, 17.9.1855). </note></seg>sich eingezeichnet hat. Ich habe diese Ihre Freundin noch nicht gesehen, aber da sie mir von früher her bekannt ist, habe ich ihr meinen eigenhändigen Besuch schon angekündigt.</p>
+<p>Heute ersah meine Schwester aus der <orgName key="G000525">Königsberger Zeitung</orgName>, welche wir halten, den <seg type="comment"><orig>Tod des letzten <persName key="ed_uzg_c5y_1lb">Scharnhorst</persName>,</orig><note xml:id="naxy_r4x_2mb">August von Scharnhorst, Platzmajor in Pillau (*1821) war am 11. November 1875 kinderlos gestorben. Er war der letzte männliche Nachkomme (Enkel) des 1802 geeadelten und hochdekorierten preußischen Generalleutnant Gerhard David von Scharnhorst (1755–1813), der mit dem preußischen Generalfeldmarschall Graf Neidhardt von Gneisenau (1760–1831) eine weitreichende Heeresreform umgesetzt hatte. Die Familien-Grabstätte mit einem von Karl Friedrich Schinkel (1781–1841) entworfenen Monument befindet sich auf dem Invalidenfriedhof in Berlin.</note></seg> Bruders der <seg type="comment"><orig><persName key="ed_dgs_j5y_1lb">Frau von Münchhausen</persName>,</orig><note xml:id="nb4w_t4x_2mb">Agnes von Münchhausen, geb. von Scharnhorst (1822–1898), seit 1855 kinderlos mit Baron Karl von Münchhausen, Oberst und Schlosshauptmann in Erdmannsdorf in Schlesien (1816–1892) verheiratet. Sie war im Herbst 1875 zusammen mit Mathilde von Humboldt nach München gekommen. Späterhin lieferte sie für Theodor Fontanes (1819–1898) „Wanderungen durch die Mark Brandenburg“ (4 Bde., Berlin: Hertz 1862–1882) Material für die Scharnhorstkapitel. </note></seg> woran wir um dieser angenehmen Bekanntschaft willen Anteil nehmen.</p>
+<p>Haben Sie auch freundlichsten Dank <pb n="1v"/>für die schönen <seg type="comment"><orig><placeName key="ediarum_dtp_ds5_gmb">Tegel’schen</placeName></orig><note xml:id="nlxx_x4x_2mb">Das Tegeler Schloss ist seit 1766 im Besitz der Familie von Humboldt. Wilhelm von Humboldt (1767–1835), der Großvater von Mathilde von Humboldt, und dessen Bruder Alexander von Humboldt (1768–1859) hatten hier ihre Kindheit verbracht. 1819 zog Wilhelm von Humboldt in sein Elternhaus und ließ den Renaissancebau von Karl Friedrich Schinkel (1781–1841) außen und innen umbauen. Es wird noch heute von den Nachfahren der Humboldts bewohnt.</note></seg> Photographien. <seg type="comment"><orig>Die Speranza</orig><note xml:id="nosh_gpx_2mb">Die 1829 nach Plänen Karl Friedrich Schinkels (1781–1841) im Park des Schlosses angelegte Familiengrabstätte der Humboldts wurde mit einer Kopie der 1818 von Bertel Thorvaldsen (1770–1844) gefertigten Statue der Spes (Hoffnung) versehen. Caroline von Humboldt (1866–1829) hatte sie bei ihrem zweiten Romaufenthalt 1818 von Thorwaldsen selbst erworben und zur Hälfte anbezahlt, doch war sie bei ihrem Tod noch immer nicht fertig. Erst im Frühjahr 1830 wurde die aus Carrara-Mamor geschaffene Statue geliefert, von der Wilhelm von Humboldt (1767–1835) eine wetterfeste Kopie anfertigen ließ, die im Mai 1831 auf die Granitsäule gestellt wurde, die vom Haus aus sichtbar ist.</note></seg>, von welcher Sie sagen, daß sie ein Münchner Raub sei, habe ich noch nicht in der <seg type="comment"><orig><orgName key="G067530">Glyptothek</orgName> </orig><note xml:id="nvvw_jpx_2mb">Das unter König Ludwig I. von Bayern (1786–1868) von 1816 bis 1830 nach Plänen von Leo von Klenze (1784–1864) am Königsplatz errichtete Museum für antike Skulpturen.</note></seg>vergleichen können; mir fiel dabei zunächst nur die Stelle im <persName key="G000916">Dante</persName> ein, wo er von dem Lebensalter spricht, von <hi rendition="#aq"><foreign xml:lang="ita"><seg type="comment"><orig>la speranza ha ancor fior del verde</orig><note xml:id="nh3j_4px_2mb">Ital.: Hoffnung hat einen grünen Keim – nach der „Divina Commedia“ von Dante Alighieri (1265–1321) (Purgatorio III, 135). – „Per lor maladizion sì non si perde, / che non possa tornar, l’etterno amore, / mentre che la speranza ha fior del verde.“ (Purgatorio III, 133–135) Dt.: „Doch Menschenfluch tilgt nicht in Gottes Herzen / Die Liebe – sie kann sühnen und begnaden, / Weil Hoffnung bleibt, die Sünden auszumerzen.“ (nach der Übersetzung von Richard Zoozmann, 1922).</note></seg></foreign></hi>. Aber wenn uns hier in München noch ein Hoffnungsgrün bestimmt wäre, so würde es in diesem gräulichen Wetter umkommen müßen, <seg type="comment"><orig>dieser <hi rendition="#aq"><foreign xml:lang="ita">sozza mistura di anime e di fango</foreign></hi>, um wieder mit Dante zu reden</orig><note xml:id="nklz_wpx_2mb">Ital. nach einer Prosaübersetzung der „Divina Commedia“ Dante Alighieri (1265–1321): schmutzige Mischung aus Seelen und Schlamm (Inferno VI, 100-102). Im Original: „sozza mistura de l’ombre e de la pioggia“ (zu ekelm Wust verweben Schatten und Regenflut).</note></seg>.</p>
+<p>Sie können denken, wie sehr meine Sehnsucht nach der Sonne <placeName key="G000690">Italiens</placeName> täglich steigt, u<ex>nd</ex> in Wahrheit ich weiß nicht, <pb n="2r"/>wie ich dies ewige Grau des Himmels, welchem auch alles irdische Dasein hier entspricht, auf die Länge ertragen soll.</p>
+<p><seg type="comment"><orig>Von <persName key="G001374">Frau Lindem<ex>ann</ex></persName> kamen beßere Nachrichten</orig><note xml:id="nt22_3qx_2mb">Im Oktober 1875 hatte sich der Gesundheitszustand der seit Jahren mit einer Lungentuberkulose bettlägrigen Auguste Lindemann-Frommel (1826–1876) verschlechtert (siehe die Briefe von Gregorovius an Manfred Lindemann-Frommel, 25.10.1875 und 20.8.1875). Am 27. Oktober 1875 hatte Gregorovius an Manfred Lindemann-Frommel mitgeteilt: „Dein Vater schreibt, daß der Zustand zwar noch schlimm, aber doch zu einem Stillstand gekommen ist.“ (Universität Würzburg, Martin-von-Wagner-Museum, NL Lindemann-Frommel, L 36–64, XIII).</note></seg>. Sie scheint die Krisis mit ihrer bisherigen miraculosen Lebenskraft nochmals überwunden zu haben, indeß hoffen die Ärzte nichts mehr. Mein Wunsch ist nur noch, <seg type="comment"><orig>diese edle Frau im Frühjahr wieder sehen zu können</orig><note xml:id="nebp_jqx_2mb">Die gemeinsame Freundin erholte sich noch einmal für kurze Zeit und starb am 18. März 1876 in Anwesenheit von Gregorovius, den sie unbedingt noch einmal sehen wollte. Gregorovius war zuvor zusammen mit Manfred Lindemann-Frommel am 10. März 1876 von München nach Rom gereist – die Fahrt nach Rom trat Gregorovius auch wegen der Verleihung der Ehrenbürgerwürde Roms an ihn an, von der er zeitgleich unterrichtet wurde (siehe RT, 20.5.1876, S. 363–364 und Peter K. W. Freude: Karl Lindemann-Frommel. Ein Malerleben in Rom. Monographie und Werkverzeichnis seines graphischen und malerischen Schaffens. Murnau am Staffelsee 1997. S. 72–74).</note></seg>. </p>
+<p>Was Sie mir von Ihrer Ansicht, <seg type="comment"><orig>jenes Humboldtische Werk+<note place="mBottom" hand="#author"><hi rendition="#aq"><foreign xml:lang="fra">c’est à dire</foreign></hi> das Werk über <placeName key="G000610">Ägypten</placeName>, nicht jenes Humboldts.</note> in Italien veräußern zu wollen</orig><note xml:id="nkcf_nqx_2mb">Nicht ermittelt – Gregorovius tätigte in Italien häufiger antiquarische Ankäufe im Auftrag deutscher Bibliothekare, insbesondere für Karl von Halm (1809–1882), den Direktor der Königlichen Bibliothek München.</note></seg>, schreiben, habe ich wol überlegt; doch darf ich Sie versichern, daß in keinem andern Lande das Geld für bibliothekare Ankäufe so knapp bemessen ist, als dort. Demnach wird <pb n="2v"/>sich keine Aussicht dafür ergeben, wenn ich auch später bei meiner Anwesenheit in <placeName key="G000763">Rom</placeName> deshalb Nachfrage thun will.</p>
+<p>Sie haben Recht mit <placeName key="ed_qlh_vcc_hmb">Neidenburg</placeName>, dessen höchste Größe der <seg type="comment"><orig>Eisenbahnkönig <persName key="ed_zxk_lvy_1lb">Stroussberg</persName></orig><note xml:id="nivk_vqx_2mb">Der jüdische Vater von Bethel Henry Strousberg (1823–1884), Abraham Baruch (1788-1839), hatte ein bescheidenes Exportgeschäft in Neidenburg betrieben, war aber früh verstorben, so dass der Sohn 1839 mit seiner Mutter Caroline Strausberg, geb. Gottheimer zu deren Brüdern nach London ging, die dort das florierende Im- und Exportgeschäft Behrend Brothers betrieben. Er lernte bald die Sprache, wurde als Kaufmann ausgebildet, ließ sich christlich taufen, anglisierte seinen Namen von Baruch Hirsch Strausberg und ehelichte 1845 die anglikanische Bürgertochter Mary Ann Swan († 1882). Bald galt er in England und später auch in Deutschland als Wirtschaftsfachmann. Seit Anfang der 1860er Jahre begann er mit gewagten Finanzierungsmodellen Eisenbahnen in Ostpreußen zu bauen, war Zeitungsherausgeber und Industrieller und brachte es so zu einem riesigen Vermögen. Sein 1868 in Rumänien begonnenes großes Eisenbahnprojekt missglückte in so großem Stil, dass es zu diplomatischen Verstimmungen kam. Die Kurseinbrüche im deutsch-französischen Krieg brachten 1873/1874 die Insolvenz und in Moskau wurde ihm wegen Wechselbetrug der Prozess gemacht, bevor er ausgewiesen wurde. Er starb vereinsamt in prekären Verhältnissen. </note></seg> ist, alias Straußberg, u<ex>nd</ex> mir noch von seinem <persName key="ed_lqp_tvy_1lb">Vater</persName> her bekannt, welcher ein kleiner, aber ehrlicher Tuchkrämer gewesen ist. S<ex>troußberg</ex> besitzt ein prachtvolles <seg type="comment"><orig>Palais in <placeName key="G000636">Berlin</placeName></orig><note xml:id="ncwx_wqx_2mb">Stoußberg besaß eine große Villa in der Wilhelmstraße, die in die Konkursmasse einging und später von der Britischen Botschaft gekauft wurde.</note></seg>, während ich es nur bis zu einer ärmlichen <seg type="comment"><orig>Mietswohnung in München</orig><note xml:id="no55_zqx_2mb">Gregorovius bewohnte mit seinem Bruder Julius (1818–1891), seiner Halbschwester Ottilie Elgnowski (1834–1907) und deren Sohn Hermann (1860–1936) eine zentral gelegene Wohnung mit sieben Zimmern der Barerstraße 3.</note></seg> gebracht habe. Wenn Sie aber im künftigen Jahre wieder kommen, so werden Sie eine beßere Einrichtung finden, und meine Schwester darum weniger verlegen.</p>
+                <closer>
+                    <salute>Bitte empfehlen Sie mich auf das Lebhafteste Ihrer ehrwürdigen <persName key="G001303">Frau Mama</persName>, u<ex>nd</ex> sein Sie von uns allen auf das Freundlichste gegrüßt.</salute>
+                    <signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

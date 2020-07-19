@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000011">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Angelo De Gubernatis in Florenz. München, 9. Juni
+                    1884</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLWeb"/>
+                    <idno type="URLXML"/>
+                    <idno type="URLText"/>
+                    <idno type="ID"/>
+                </idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Florenz, Biblioteca Nazionale Centrale (BNCF)</repository>
+                        <collection>Carteggio De Gubernatis</collection>
+                        <idno>66, nr. 57 (3)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 8°, 3 S.</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Entschuldigt sich, De Gubernatis in Florenz nicht besucht zu haben,
+                    dankt für den Erhalt einer Ausgabe der „Rivista internazionale“.</p>
+                <p xml:lang="it">Si scusa per non aver fatto visita a De Gubernatis in Firenze, e lo
+                    ringrazia per aver ricevuto un numero della „Rivista internazionale“.</p>
+                <p xml:lang="en">Apology for not having visited De Gubernatis in Florence, thanks
+                    for receiving a number of the „Rivista internazionale“..</p>
+            </abstract>
+            <correspDesc>
+<correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1884-06-09" calendar="#Gregorian"/>
+</correspAction>
+<correspAction type="received">
+<persName key="G001074">De Gubernatis, Angelo (1840–1913)</persName>
+<placeName key="G000671">Florenz</placeName>
+</correspAction>
+</correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+                <opener>
+                    <dateline rend="text-center" rendition="#right">Monaco, 9. Giugno
+                        84.</dateline>Illustre Signore,  <lb/></opener>
+                <p>m’increbbe non poco di dover lasciar Firenze, senza aver ottenuto la
+                    soddisfazione di salutarla personalmente. Allorchè quella sera, che mi permisi
+                    di visitarla in casa sua, ne dovetti retrocedere, essendo Lor Signorie a pranzo,
+                    mi lusingai bensì di poter ripetere la visita a ora più commoda, speranza andò
+                    fallita, <pb n="1v"/>perché all’indomani fui costretto a visitare alcuni amici
+                    fuori di Firenze, e poi partii. <lb/>Mi preme perciò di scusarmi con lei, e di
+                    pregarla a persuadersi, che la colpa non fu mia, ma si quella di circostanze
+                    urgenti. Ritornato testè a casa mia, mi venne consegnato un numero della sua
+                    Rivista internazionale, contenuto un articolo su Adriano, <pb n="2r"/>scritto
+                    dal Münz. Esso è troppo lusinghiero per me; l’accolsi però con animo grato quale
+                    testimonianza della di lei gentilezza, della quale, inserendolo nella Rivista,
+                    Ella volle darmi un generoso attestato.</p>
+                <closer>Con I sensi della più <lb/>profonda stima mi <lb/>raffermo<signed>Suo dev<hi rendition="#sup">mo</hi>
+                        <lb/>Ferd. Gregorovius</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

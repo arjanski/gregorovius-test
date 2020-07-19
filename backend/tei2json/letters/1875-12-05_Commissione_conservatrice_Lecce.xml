@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067768">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an die Commissione conservatrice dei monumenti storici e di belle arti di terra d’Otranto (Francesco Casotti). München, 5. Dezember 1875</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+<p>Abschrift von Gregorovius’ Vortrag „Die historischen Studien im alten Calabrien, der heutigen Terra d’Otranto“</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness><bibl type="print">La Commissione conservatrice dei monumenti storici e di belle arti di terra d’Otranto al Consiglio provinciale. Relazione pell’anno 1875. Lecce: Tip. Editrice Salentina 1876. S. 5–6 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für Informationen für seinen mit großem Interesse aufgenommenen Vortrag „Die historischen Studien im alten Calabrien, der heutigen Terra d’Otranto“ an der Münchner Akademie der Wissenschaften. Dort hat er auch Francesco Casottis „Opuscoli di Archeologia, Storia ed Arti patrie“ (1875) vorgestellt. Grüße von Wilhelm von Giesebrecht. Er übersendet seinen Vortrag, der in italienischer Übersetzung im Jahresbericht der „Commissione conservatrice dei monumenti storici e di belle arti di terra d’Otranto“ (1875) gedruckt wird. Er bittet um Casottis „Scritti inediti e rari di diversi autori trovati nella provincia d’Otranto e pubblicati con prefazioni ed altre memorie originali“ (1865) für die Staatsbibliothek München. Grüße an Sigismondo Castromediano.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1875-12-05" cert="high"/>
+</correspAction>
+                <correspAction type="received"><orgName key="G067500">Commissione conservatrice dei monumenti storici e di belle arti di terra d'Otranto</orgName>
+<placeName key="G067505">Lecce</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="5"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">Monaco di Baviera 5 dicembre 1875.</dateline>
+</opener>
+<p>Rendo mille grazie <seg type="comment"><orig>a V<ex>ostra</ex> S<ex>ignoria</ex></orig><note xml:id="nz4j_44t_zlb">Der Brief war an den Baron Francesco Casotti, Historiker und Mitglied der historisch-archäologischen Kommission Lecces, gerichtet. Casotti und sein Kollege Romano hatten Gregorovius und Raffaele Mariano (1840–1912) bei deren Apulienaufenthalt im Mai 1875 durch Lecce geführt (siehe RT, 23.5.1875, S. 354).</note></seg> di quelle notizie desiderate da me e speditemi da Lei <seg type="comment"><orig>coll’ultima sua</orig><note xml:id="net4_p4t_zlb">Ein Brief der Kommission oder Casottis an Gregorovius ist nicht erhalten.</note></seg>. Esse giunsero a tempo e mi furono di non poco ajuto. Ho letto jeri <seg type="comment"><orig>il discorsetto sugli studi storici nell’antica <placeName key="G000816">Calabria</placeName>, oggi <placeName key="G000745">Terra d’Otranto</placeName></orig><note xml:id="nshh_r4t_zlb">Gregorovius bezieht sich hier auf seinen Vortrag „Die historischen Studien im alten Calabrien, der heutigen Terra d’Otranto“, den er am 4.12.1875 vor der Akademie der Wissenschaften in München hielt. </note></seg>, il quale dall’<orgName key="G000494">adunanza</orgName> venne accolto colla massima attenzione, <seg type="comment"><orig>avendo io depositato il suo scritto sul tavolo</orig><note xml:id="nmdb_t4t_zlb">„Auf den Wunsch eines Mitgliedes der in der Stadt Lecce eingerichteten Commission zur Erhaltung der historischen Denkmäler und zur Förderung der vaterländischen Geschichte der Terra d’Otranto, habe ich eine Schrift dieses verdienten Mannes auf den Tisch niedergelegt.“: Ebd., S. 409. Es handelt sich dabei um Francesco Casottis Sammelband „Opuscoli di Archeologia, Storia ed Arti patrie“ (Florenz: G. Pellas 1875). Unter anderem für die Empfehlung dieses Werks während seines Vortrags wird er in einem späteren Brief vom 22.5.1876 von Angelo Angelucci scharf kritisiert: Vgl. Angelo Angelucci: Ricerche preistoriche e storiche nella Italia meridionale (1872–1875). Scritti varii. Turin, Chieri: Baglione 1876. S. 63–68.</note></seg>. Ebbi l’incarico dalla classe storica, di cui funziona come presidente <seg type="comment"><orig>il <persName key="G001173">Prof. Giesebredet</persName></orig><note xml:id="nus1_v4t_zlb">Gemeint ist Wilhelm von Giesebrecht (1814–1889). Der Historiker Giesebrecht hatte zunächst eine Professur in Königsberg inne und war 1862 einem Ruf nach München gefolgt. Seit 1858 war er Mitglied der Historischen Kommission der Bayerischen Akademie der Wissenschaften. Mit seinem Umzug nach München wurde er zu derem ständigen Sekretär ernannt, was er bis zu seinem Tod blieb. Gregorovius traf auf Giesebrecht, als er im Sommer 1860 auf einer Deutschlandreise in Königsberg Halt machte (siehe RT, 19.8.1860, S. 108), blieb ihm in späteren Jahren freundschaftlich verbunden.</note></seg>, autore della <bibl sameAs="G004286">storia di <placeName key="G000664">Germania</placeName> ai tempi degl’Imperatori</bibl>, di mandare alla <seg type="comment"><orig>c<orgName key="ed_jgf_fdh_zkb">ommissione di Archeologia e storia patria in Lecce</orgName></orig><note xml:id="nu4x_z4t_zlb">Die Provinz Lecce hatte 1868 die „Commissione conservatrice dei monumenti storici e di belle arti di Terra d’Otranto“ ins Leben gerufen. Zu ihren Mitgliedern zählte unter anderen der Jurist und Lokalhistoriker Luigi Giuseppe De Simone (1835–1902), den Gregorovius in einem Schreiben vom 26. Mai 1875 um Informationen bezüglich der Kommission bat; siehe den Brief von Gregorovius an Luigi Giuseppe De Simone vom 26.5.1875.</note></seg> un saluto di alta stima e di simpatia sincera con augurarle ogni prosperità e i migliori successi nei lavori impresi dalla medesima con tanto fervore patriotico. Nel disimpegnarmi di questo incarico mi rallegro di aver potuto rendermi il mediatore fra <placeName key="G000690">la patria di V<ex>ostra</ex> S<ex>ignoria</ex></placeName> e questa mia; che per dirlo schiettamente, tale è la distanza che separa la Terra d’Otranto dalla Germania, che se si voglia prescindere dalla cognizione delle Iscrizioni Messapiche, <seg type="comment"><orig>poco qui si sa del movimento scientifico</orig><note xml:id="nlv4_bpt_zlb">Es war Gregorovius ein Anliegen, die wissenschaftlichen Tätigkeiten der in Deutschland wenig geläufigen Terra d’Otranto bekannter zu machen. Ihm zufolge hatte sich die Forschung bislang vornehmlich auf die Spuren vorrömischer Kultur im südlichen Apulien konzentriert, wie auf die nach den damaligen Einwohnern benannte messapischen Inschriften (siehe dazu den Brief von Gregorovius an Luigi Giuseppe de Simone vom 18.6.1875).</note></seg> che d’alcuni anni a questa parte si è manifestato in Lecce. Ed è per questa sola ragione che il mio piccolo discorso vale qualche cosa qui, mentre per le S<ex>ignorie</ex> L<ex>ore</ex> sarà cosa di nessuno valore <seg type="comment"><orig>intriseco</orig><note xml:id="ngcn_cpt_zlb">Vrmtl. Druckfehler, eigentlich: intrinseco.</note></seg>.Non per tanto mi prenderò la libertà di mandarne le copie a Lecce tostochè <seg type="comment"><orig>il discorso</orig><note xml:id="nejx_dpt_zlb">Gregorovius’ Vortrag fand, ins Italienische übersetzt, samt seinem Brief an die Kommission Eingang in den Jahresbericht 1875 der „Commissione conservatrice“: La Commissione conservatrice dei monumenti storici e di belle arti di terra d’Otranto al Consiglio provinciale. Relazione pell’anno 1875. Lecce: Tip. Editrice Salentina 1876. Die Übersetzung des Vortrags findet sich im Anhang, S. 53–67.</note></seg> <seg type="comment"><orig>sarà stampato negli Atti dell’Accademia</orig><note xml:id="nxn1_fpt_zlb">Sein Vortrag wurde veröffentlicht in: Sitzungsberichte der philosophisch-philologischen und historischen Classe der k. b. Akademie der Wissenschaften zu München. Jg. 1875. Bd. 2. H. 4. München 1875. S. 409–425.</note></seg>, cosa che si effettuerà nel gennaro prossimo.</p>
+<p>Ella ebbe la gentilezza di spedirmi ultimamente un’altra copia del <bibl sameAs="ed_vzm_wgz_1lb">suo libro Scritti inediti e rari ecc<ex>etera</ex></bibl>. Siccome ne possiedo già una copia, quella prima starà presso di me a disposizione di V<ex>ostra</ex> S<ex>ignoria</ex>. In caso ne avesse bisogno gliela farò ritornare; in caso contrario ne potrei arricchire <seg type="comment"><orig><orgName key="G000510">la Biblioteca di Stato</orgName></orig><note xml:id="nc4k_gpt_zlb">Die 1558 als Hofbibliothek gegründete Bayerische Staatsbibliothek, die diesen Namen seit 1919 trägt.</note></seg>, ricca per altro di più di un milione di volumi.</p>
+<p>Con pregarla di voler per parte mia riverire l’<seg type="comment"><orig>insigne Signor <persName key="G001027">Duca di Castromediano</persName></orig><note xml:id="nicm_hpt_zlb">Sigismondo Castromediano (1811–1895), Herzog von Murciano und Marquis von Cavallino, war Archäologe und Schriftsteller. Er saß seit 1861 für eine Legislaturperiode im italienischen Parlament, wo er sich besonders für die dringlichen Themen des Südens, Transport und Landwirtschaft, einsetzte. Zurück in seiner Heimatstadt Cavallino im Salent, war er Provinzialrat tätig sowie Mitglied in der historischen Kommission, für die er den Jahresbericht 1875, in dem Gregorovius’ Brief und die Übersetzung seines Münchner Vortrags, aufgenommen sind.</note></seg>, nonchè gli altri signori di Lecce cui ho <pb n="6"/>l’onore di essermi avvicinato per via di <seg type="comment"><orig>rapporto personale o letterario</orig><note xml:id="nfgn_3pt_zlb">Er bezieht sich hier auf seinen Briefkontakt mit De Simone.</note></seg>, mi raccomando alla benevole memoria di V<ex>ostra</ex> S<ex>ignoria</ex> raffermandomi colla più alta stima.</p>
+</div>
+        </body>
+    </text>
+</TEI>

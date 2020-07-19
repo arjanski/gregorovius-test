@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000067">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Hermann von Thile in Berlin. Rom, 12. Januar
+                    1858</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>96/937 (2)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 4°, 2 S. Sr. Excellenz / Freiherr von Thile / bevollmächtigter Minister Preußens am / päpstlichen Hof zu Rom. – Poststempel (Berlin), Postvermerke</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach D) <idno type="shelfmark">und Karton 59, Mappe 346 (Egänzungen
+                                            nach H)</idno></idno></idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 2–4 (leicht gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er ist erleichtert, dass weder Ottilie von Thile noch ihr Bruder Albrecht von Graefe durch den Tod ihrer Mutter Auguste von Graefe gesundheitlich gelitten haben. Albrecht von Graefe hat als Augenarzt noch Großes vor sich. Mit einem Begleitschreiben hat er Ottilie von Thile ein Exemplar seines „Euphorion“ (1858) durch Brockhaus zukommen lassen. Weihnachten hat er den zweiten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1859) abgeschlossen. Michelangelo Caetani hat ihm sein Familienarchiv zur Verfügung gestellt und Giovanni Battista De Rossi will ihm den Zugang zur Vaticana erleichtern. Ein Empfehlungsschreiben für die vatikanische Bibliothek kann ihm auch Alfred von Reumont ausstellen. Reumont feiert viel, das Kapitol ist sittlich verlottert. Er ist erleichtert, dass Hermann von Thile nach Rom zurückkehrt. Er sendet Grüße von Peter Cornelius und Clemens August Alertz.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He is relieved that neither Ottile von Thile nor her brother Albrecht von Graefe suffered any health problems after the death of their mother Auguste von Graefe. Albrecht von Graefe still has great things ahead of him as an ophthalmologist. With an accompanying letter, he sent a copy of his „Euphorion“ (1858) to Ottilie von Thile through Brockhaus. At Christmas he completed the second volume of his „Geschichte der Stadt Rom im Mittelalter“ (1859). Michelangelo Caetani has put his family archives at his disposal and Giovanni Battista De Rossi wants to facilitate his access to the Vaticana. Alfred von Reumont can also give him a letter of recommendation for the Vatican library. Reumont parties a lot, the Capitol has gone to rack and ruin morally. He is relieved that Hermann von Thile is returning to Rome. Peter Cornelius and Clemens August Alertz send their regards. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1858-01-12" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001644">Thile, Hermann von (1812–1889)</persName>
+                    <placeName key="G000636">Berlin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev">vor dem 1. Januar 1858</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi> 12. <hi rendition="#aq">Januar</hi> 1858.</dateline>
+                    <salute rendition="#c">Mein hochverehrter Herr Minister,</salute>
+                </opener>
+                <p>Ihren Brief fand ich auf meinem Tische, u<ex>nd</ex> er war mir eine wahrhafte Neujahrsfreude, für welche ich Ihnen herzlich danke. <seg type="comment"><orig>Die Gewißheit, daß Sie alle wol sind, daß vor allen Ihre <persName key="G001645">Frau Gemalin</persName> nicht an der Gesundheit gelitten hat, wie ich fürchtete</orig><note xml:id="nf5j_z3c_tlb">Hermann von Thile (1812–1889) war mit seiner Frau Ottilie (1816–1898) und Sohn Hans (1848–1869) am 24. November 1857 zu seiner im Sterben liegenden Schwiegermutter Auguste von Graefe, geb. von Alten (1797–27.11.1857) nach Berlin gereist (siehe RT, 31.12.1857, S. 68–69), wo er bis zum Mai 1858 blieb. Siehe den Brief von Gregorovius an Thile vom <ref target="G000024">24.12.1857</ref>.</note></seg>, befreit mich von ängstlichen Gedanken. Gott lob: der bald nahende Frühling wird weiter helfen. Solche Schmerzen aber gehören zu denen, die <add place="intralinear">in</add> einem edeln Frauengemüte sich schön, u<ex>nd</ex> mit jener „heimlich bildenden Gewalt“ abklären. <persName key="G001189"><seg type="comment"><orig>Herr von Gräfe</orig><note xml:id="nrsk_jjc_tlb">Ottilie von Thile war die Schwester des Augenarztes Albrecht von Graefe (1828–1870).</note></seg></persName> wird sich hoffentlich Ruhe gönnen; ich glaube, nach alten fatalistischen Grundsätzen, an gewiße Naturen, deren Leben, um höherer Zwecke willen, durch Ereigniße nicht besiegt werden darf, u<ex>nd</ex> Ihr Herr Schwager hat noch eine große Laufbahn vor sich; die Wißenschaft hat noch viel von ihm zu fordern, u<ex>nd</ex> er sein Tiefstes noch nicht ausgegeben.</p>
+                <p><seg type="comment"><orig>Nach Weihnachten erlaubte ich mir Ihnen zum neuen Jahr zu schreiben</orig><note xml:id="ngp2_ljc_tlb">Siehe den Brief von Gregorovius an Thile vom <ref target="G000024">24.12.1857</ref>.</note></seg>; ebenso ein <seg type="comment"><orig>Exemplar <hi rendition="#aq"><bibl sameAs="G003574">Euphorion</bibl></hi> an Ihre Frau Gemalin von Leipzig aus nach Berlin zu beordern</orig><note xml:id="nzlf_xjc_tlb">Im Brief an Heinrich Brockhaus vom <ref target="G000031">2.1.1858</ref> hatte Gregorovius darum gebeten, ein Exemplar seines Versgedichts „Euphorion“ (1858) an Ottlie von Thile nach Berlin zu senden und einen Begleitbrief für sie beigelegt – nach dem Erledigungsvermerk des Verlags erfolgte der Versand erst am 18. Januar 1858.</note></seg>. Sollte es nicht angekommen sein, wird nur dies Symbol meiner Verehrung verloren sein; würdigten Sie aber dennoch dies Product der Lectüre, so erkannten Sie bald, wie <seg type="comment"><orig><hi rendition="#aq"><foreign xml:lang="Lat">bonus Homerus</foreign></hi></orig><note xml:id="nkk4_1kc_tlb">Lat. nach Horaz „Ars poetica“: „Quandoque bonus dormitat Homerus“ (V, 359). Dt.: zuweilen schlummert selbst der gute Homer.</note></seg> allerwegen schläft.</p>
+                <p>Am Weihnachtstage habe ich den <bibl sameAs="G003476"><seg type="comment"><orig>2. Band meiner Geschichte Roms</orig><note xml:id="nnhh_dkc_tlb">Den zweite Band von Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ (Stuttgart: Cotta 1859). Einen Verlag hatte er für sein späteres 8-bändiges Hauptwerk zu diesem Zeitpunkt noch nicht gefunden.</note></seg></bibl> beendigt, u<ex>nd</ex> nun warten meiner noch Nachträge. Der geistreiche u<ex>nd</ex> originelle <seg type="comment"><orig><persName key="G001004"><hi rendition="#aq">Duca di Sermoneta</hi></persName> hat mir sein Archiv zur Disposition gestellt</orig><note xml:id="ng5w_jkc_tlb">Michelangelo Caetani duca di Sermoneta (1804–1882) hatte Gregorovius sein Familienarchiv ab dem 19. Dezember 1857 zur Verfügung gestellt (siehe RT, 31.12.1857, S. 69).</note></seg>, u<ex>nd</ex> die <seg type="comment"><orig><orgName key="G000506">Vaticana</orgName> will mir <persName key="G001085"><hi rendition="#aq">de Rossi</hi></persName> erleichtern</orig><note xml:id="niln_lkc_tlb">Der Archäologe Giovanni Battista De Rossi (1822–1894) war seit 1843 scriptor Latinus der Vaticana. Zusammen mit De Rossi, der Dichterin und Schauspielerin Giannina Milli (1825–1888) und Teresa Gnoli-Gualandi (1833–1886) hatte Gregorovius am 14. Mai 1857 die Calixtus-Katakomben besichtigt (RT 14.6.1857, S. 66).</note></seg>. <seg type="comment"><orig>Ich wünschte Sie nicht durch das officielle Empfehlungsschreiben zu belästigen, da es mir im Notfall auch <persName key="G001545">Herr v<ex>on</ex> Reumont</persName> geben könnte</orig><note xml:id="ntqw_nkc_tlb">In Gregorovius’ Brief an Thile vom <ref target="G000024">24.12.1857</ref> hatte Gregorovius den Wunsch ausgesprochen, von Thile eine Empfehlung für die vatikanische Bibliothek zu bekommen. Das Empfehlungsschreiben schrieb am 28. April 1859 dann tatsächlich Alfred von Reumont für Gregorovius an Kardinal Giacomo Antonelli (1806–1876), dem Gregorovis am 30. April 1859 eine Darstellung seines Forschungsvorhabens hinterhersandte (Rom, Archivio Segreto Vaticano, Segreteria di Stato 1859, rubr. 47, fol 30r-33v).</note></seg>. Die Teilnahme, die man in <placeName key="G000664">Deutschland</placeName> meinem Unternehmen gönnen will, macht mich froh, Ihre eigene, wahrhaft u<ex>nd</ex> eingehend, hat mich längst <pb n="1v"/>belebt, u<ex>nd</ex> aus dem was Sie mir wegen gewißer Schärfen sagten, zog ich mir die Regel achtsamer Selbstkritik. Ich hoffe die Würde des Gegenstandes nicht zu verletzen, u<ex>nd</ex> meine eigenen Principien in anständiger Ruhe auszusprechen. Da die Natur des Gegenstandes eine gewiße Mitaction der Einbildungskraft verlangt, sind poetische Anschauungen der Dinge im Grunde nicht zu entfernen, um so weniger, als sie selber in meiner Natur zu liegen scheinen. Aber gerade deshalb bin ich sehr auf der Hut solchem Hang nicht allzuviel nachzugeben. Denn die Contouren des historischen Stils werden leicht durch die Lebhaftigkeit der Phantasie unruhig gemacht; auch ist es in Deutschland besonders Not auf Mäßigkeit der Rede zu dringen – eine Kunst die ich zu erstreben alle Aufforderung habe, weil ich bereits einige Jahre lang Himmel, Marmor u<ex>nd</ex> Gebirge <placeName key="G000690">Italiens</placeName>, große Lehrmeister, vor mir habe.</p>
+                <p><seg type="comment"><orig>Ich sehe Herrn v<ex>on</ex> <hi rendition="#aq">Reum<ex>ont</ex></hi> wenig</orig><note xml:id="nv3n_tkc_tlb">Alfred von Reumont war am 29. November 1857 aus Florenz nach Rom gekommen, um von Thile als bevollmächtigten Minister Preußens am päpstlichen Hof zu vertreten (siehe RT, 31.12.1857, S. 69).</note></seg>; er scheint wol u<ex>nd</ex> munter, u<ex>nd</ex> ein wahrer Nachtvogel, wenn nicht der <persName key="G004744">Pallas Athene</persName>, so doch der Damen des Salons, da er jede Nacht in Féten zubringt. Ich aber werde den Tag rot anstreichen, an dem sich das <placeName key="G000761">Capitol</placeName> wieder vermenschlicht; von seiner Verkommenheit wäre viel zu sagen, u<ex>nd</ex> ich glaube, sie war zur Zeit der Gallier u<ex>nd</ex> Vandalen nicht größer. Alles fragt nach Ihnen, u<ex>nd</ex> ich bin froh, nun sagen zu können, <seg type="comment"><orig>daß Sie uns zurückkehren</orig><note xml:id="nasr_jlc_tlb">Thile kam Anfang Mai 1858 nach Rom zurück, doch veranlasste ihn die Ende Juni erstmals aufgetretene Epilepsie seines Sohnes Hans (1848–1869), zunächst nach Frascati, Ende Juli 1858 zu einem Kuraufenthalt seines Sohnes ins schweizerische Heiden und dann unter Versetzung in den vorläufigen Ruhestand ganz nach Deutschland zurückzukehren.</note></seg>. Wäre diese Zeit erst da, u<ex>nd</ex> kämen Sie doch mit Ihrer Frau Gemalin u<ex>nd</ex> <persName key="G001643">Hänschen</persName>, so wäre alles wieder wie es war.</p>
+                <closer>
+                    <salute><seg type="comment"><orig><persName key="G001049"><hi rendition="#aq">Cornelius</hi></persName> (<persName key="G004700">seine Frau</persName> ist ziemlich wol)</orig><note xml:id="ndxv_qlc_tlb">Der Nazarener Maler Peter von Cornelius (1783–1867), Direktor der Düsseldorfer und der Münchener Akademie, der 1853 nach Rom zurückgekehrte. Seit 1836 war er mit Geltrude oder Geltruda, geb. Ferretinti oder Fervantini, verheiratet, einer als Schönheit geltenden römischen Fleischertochter, die am 12. Juni 1859 starb. Gregorovius pflegte engen Umgang mit Cornelius, den er in seinem Tagebuch als Menschen mit einem entschiedenen Willen kennzeichnete (siehe RT, 30.5.1855, S. 55).</note></seg> u<ex>nd</ex> <hi rendition="#aq"><persName key="G000913"><seg type="comment"><orig>Alertz</orig><note xml:id="nujf_4nc_tlb">Der mit beiden eng befreundete Gesandtschaftsarzt Clemens August Alertz (1800–1866).</note></seg></persName></hi> trugen mir die angelegentlichsten Empfehlungen auf, u<ex>nd</ex> indem ich alle Fülle des Wolseins u<ex>nd</ex> der Lebensfreude auf Ihr verehrtes Haus herabwünsche, empfehle auch ich mich Ihrem u<ex>nd</ex> Ihrer Frau Gemalin wolwollendem Andenken</salute>
+                    <signed rendition="#right">Ferd. Gregorovius</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

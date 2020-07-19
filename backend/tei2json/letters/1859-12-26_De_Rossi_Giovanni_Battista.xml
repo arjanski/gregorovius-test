@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000408">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Giovanni Battista De Rossi in Rom. Rom, 26. Dezember 1859</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Rom, Biblioteca Apostolica Vaticana</repository><collection>Vat. Lat. 14241, Carteggio Giovanni Battista De Rossi 1858–1859</collection><idno>fol. 783 Nr. 171</idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 1 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er sendet ihm den zweiten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1859). Aufgrund einer verlorenen Buchsendung kann er den ersten Band (1859) nicht beilegen. Der dritte Band (1860) soll im kommenden Frühjahr erscheinen.</p>
+                <p xml:lang="en">He sends him the second volume of his „Geschichte der Stadt Rom im Mittelalter“ (1859). Due to a lost shipment of books he cannot enclose the first volume (1859). The third volume (1860) is to be published next spring.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1859-12-26" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001085">De Rossi, Giovanni Battista (1822–1894)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<salute rendition="#c">Chiarissimo Signor,</salute>
+</opener>
+<p><seg type="comment"><orig>eccovi la <bibl sameAs="G003476">seconda parte dell’opera mia</bibl></orig><note xml:id="ne5z_g13_vlb">Der zweite Band seiner „Geschichte der Stadt Rom im Mittelalter“ war im August 1859 in Stuttgart erschienen (siehe AZ, 20.9.1859, S. 4290).</note></seg>, la quale mi permetto di offrire all’in dulgenza sua – <foreign xml:lang="Lat"><seg type="comment"><orig>paucitatem meam eheu</orig><note xml:id="ngpl_313_vlb">Lat. sinngemäß für: Oh, meine Wenigkeit!</note></seg></foreign>! Intanto si sta scritto: <foreign xml:lang="Lat"><seg type="comment"><orig>est quadam prodire tenus, si non datur ultra</orig><note xml:id="nfrc_k13_vlb">Lat., Horaz, Epist. I 1,32: Man geht soweit man kann, wenn weiter zu gehen nicht möglich ist.</note></seg></foreign>. Il <bibl sameAs="G003485">primo tomo</bibl> non ho potuto più portarle – <seg type="comment"><orig>se ne sono perdute tre copie per viaggio</orig><note xml:id="nk4g_m13_vlb">Gregorovius beklagt diesen Verlust in seinem Brief vom <ref target="G000099">22. September 1859</ref> an die J. G. Cottasche Buchhandlung in Stuttgart.</note></seg>. <seg type="comment"><orig>Il <bibl sameAs="G003469">terzo</bibl> verra forse dentro la primavera</orig><note xml:id="noz4_n13_vlb">Den letzten Manuskriptteil des dritten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ schickte Gregorovius vor dem 17. März 1860 nach Stuttgart; siehe den Brief von Gregorovius an Ottilie Elgnowski und Emilie Auguste Gregorovius vom <ref target="G000090">17.3.1860</ref>. Im Spätherbst 1860 erschien der Band (siehe AZ, 16.11.1860, S. 5318).</note></seg>. </p>
+<p>Mi farebbe una esimia grazia, se mi volesse communicar con una righa, qual giorno di sera io pot<subst><del rendition="#ow">ess</del><add place="across">re</add></subst>i trovarla precisamente, senza esserle molesto; vorrei per più punti sentir il suo giudizio – e certe materie, per esempio di chiese, e di rioni del secolo IX, e X, potrebbero far pure per <seg type="comment"><orig>gli suoi studj</orig><note xml:id="nafq_r13_vlb">In den Jahren zwischen 1857–1861 arbeitete De Rossi am ersten Band seiner „Inscriptiones Christianae urbis Romae septimo saeculo antiquiores“ (Rom 1861).</note></seg>.</p>
+                <closer>
+<salute xml:id="s1" next="#s2" rendition="#c">Mi segno</salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">Il suo servitor divoto</salute>
+<signed rendition="#right">F. Gregorovius</signed>
+<dateline>Roma 26 D<ex>i</ex>c<ex>em</ex>br<ex>e</ex> 59. <lb/><placeName key="ediarum_tcc_4nv_slb">Via delle Purificazione</placeName> <lb/>63. piano 3. </dateline>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

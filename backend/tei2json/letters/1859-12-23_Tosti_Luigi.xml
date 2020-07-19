@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000421">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Luigi Tosti in Montecassino. Rom, 23. Dezember 1859</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Montecassino, Archivio dell’Abbazia</repository><collection>Carteggio Tosti</collection><idno>116</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ½ S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Tommaso Leccisotti: Alcune lettere di Ferdinando Gregorovius a Monaci Cassinesi. In: Benedictina. Fascicoli di studi Benededettini. Jg. 14. Fasc. 1. Rom: S. Paolo 1967. S. 140–141</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Grüße an Sebastiano Kalefati, Nicola d’Orgemont und Cesare Quandel, dessen Vater Giovan Battista Quandel kürzlich verstorben ist. Gregorovius hat Karl Rosenkranz von d’Orgemont berichtet. Das Manuskript des dritten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1860) ist abgeschlossen. Er begrüßt die Wiedereröffnung der Universität Pisa. Beim römischen Schillerfest hat er ein eigenes Gedicht vorgetragen. Er ermutigt Tosti, dessen Prosagedicht „Uriele“ (1887) zu veröffentlichen. Er übermittelt Grüße von Wilhelm von Giesebrecht, der den dritten Band seiner „Geschichte der deutschen Kaiserzeit“ (1862-1865) in Druck gegeben hat. Giesebrecht soll ein Exemplar seiner Abhandlung „De litterarum studiis apud Italos primis medii aevi saeculis“ (1845) an Tosti schicken.</p>
+                <p xml:lang="en">He sends his regards to Sebastiano Kalefati, Nicola d’Orgemont and Cesare Quandel, whose father Giovan Battista Quandel recently passed away. Gregorovius has told Karl Rosenkranz about d’Orgemont.The manuscript of the third volume of his „Geschichte der Stadt Rom im Mittelalter“ (1860) has been completed. He welcomes the reopening of the University of Pisa. At the Roman Schiller Festival he recited a poem of his own. He encourages Tosti to publish his prose poem „Uriele“ (1887). He sends Wilhelm von Giesebrecht’s regards, who has printed the third volume of his „Geschichte der deutschen Kaiserzeit“ (1862-1865). Giesebrecht should send a copy of his treatise „De litterarum studiis apud Italos primis medii aevi saeculis“ (1845) to Tosti.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1859-12-23" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001655">Tosti, Luigi (1811–1897)</persName>
+<placeName key="G000730">Montecassino</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<salute rendition="#c">Mio caro e reverito Don Luigi,</salute>
+</opener>
+<p>con queste poche righe mi permetto di augurar a Lei, e ai gentili padri della mia Conoscenza in M<ex>onte </ex>Casino non la felicita di un’ anno nuovo, ma di mille <foreign xml:lang="spa"><seg type="comment"><orig>annos</orig><note xml:id="nqls_2qc_vlb">Span. für: Jahre. </note></seg></foreign> alla Spagnuola, e così pure per il venerabil loro monistero, il quale è un’altra pietra di <persName key="G001476">San Paolo</persName>, <seg type="comment"><orig><seg type="comment"><orig><seg type="comment"><orig><foreign xml:lang="Lat"><seg type="comment"><orig>Doctor Mundi</orig><note xml:id="nenx_jzg_ylb">Lat. für: Lehrer der Welt (Epitheton des Paulus).</note></seg></foreign></orig><note xml:id="nwfh_hqc_vlb">Lat. für: Lehrer der Welt (Epitheton des Paulus).</note></seg></orig><note xml:id="nawm_3qc_vlb">Lat. für: Lehrer der Welt (Epitheton des Paulus).</note></seg></orig><note xml:id="nrt3_3qc_vlb">Lat. für: Lehrer der Welt (Epitheton des Paulus).</note></seg>.</p>
+<p>Poche sono le mie righe, perchè in sul finir dell’ anno le lettere da scrivere fanno un <placeName key="G000821"><seg type="comment"><orig>monte Cairo</orig><note xml:id="nt2x_qqc_vlb">Der die Abtei Montecassino überschattende Berg, 1669 Meter über dem Meeresspiegel.</note></seg></placeName> intorno a me. Io ricevetti le sue lettere con sommo piacere; <seg type="comment"><orig>scrissi, poche settimane fà, a <persName key="G001326"><persName key="G001326">Don Sebastiano</persName></persName> indirizzandomi a <placeName key="G000738">S<ex>an</ex> Severino di Napoli</placeName></orig><note xml:id="ncpx_tqc_vlb">Siehe den Brief von Gregorovius an Sebastiano Kalefati vom <ref target="G000434">27. November 1859</ref>. Don Sebastiano Kalefati (1817–1863), den Leiter des Archivs von Monte Cassino, hatte Gregorovius im September 1858 in Florenz kennengelernt (siehe RT, 19.9.1858, S. 75). Auf dessen Einladung nutzte er das Archiv in Montecassino für Forschungsarbeiten für seine „Geschichte der Stadt Rom im Mittelalter“; siehe den Brief von Gregorovius an Sebastiano Kalefati vom <ref target="G000405">12.8.1859</ref>. Auch mit Kalefati verband ihn eine enge, intellektuelle Freundschaft.</note></seg>. La prego di vuoler salutarlo con mille saluti.</p>
+<p><seg type="comment"><orig>Daché son tornato dal Monte Casino mi son messo di nuovo alla <orgName key="G000506">Vaticana</orgName>, per finire il <bibl sameAs="G003469">3. volume della mia storia</bibl></orig><note xml:id="nj1r_vqc_vlb">Gregorovius hatte sich vom 5.–18. Oktober 1859 für Archivarbeiten in Montecassino aufgehalten (siehe RT, 17.10.1859, S. 90). Am 22. Dezember beendete er die Arbeit am dritten Band seiner „Geschichte der Stadt Rom im Mittelalter“, der 1860 erschien (siehe RT, 31.12.1859, S. 91–92).</note></seg>. Per dir la verità, anch’io sono come un monaco, se non della regola, almeno irregolarmente, e tutto il mio piacere si sta nella scienza, di cui potrei far meglior profitto, se mi stasse una testa più vasta sulle spalle. Ma bisogna fare qualche cosa, e basta se questa si fà coscienziosamente.</p>
+<p>Il <persName key="G001173">Giesebrecht</persName> saluta di cuore M<ex>onte</ex> Casino. Egli stampa il 3. volume della <bibl sameAs="G004286">sua storia</bibl>, e ne a cavato molto onore in questi tempi appunto. <seg type="comment"><orig>Gli scrivero, che Le mandi <pb n="1v"/>un’altra copia <bibl sameAs="G004287">De Italorum Studiis</bibl></orig><note xml:id="ne3k_zqc_vlb">Mit dem Historiker Wilhelm von Giesebrecht (1814–1889), einem der ersten, der in italienischen Archiven das mittelalterliche Quellenmaterial studierte, war Gregorovius gut befreundet. Er hielt ihn für einen der wichtigsten Kenner der Stadt Rom im Mittelalter; siehe den Brief von Gregorovius an Cotta vom <ref target="G000081">22.12.1859</ref>. In den Jahren 1843–1845 hatte Giesebrecht in Italien geforscht, auch in Montecassino. Von der zu Giesebrechts Lebzeit veröffentlichten fünfbändigen „Geschichte der deutschen Kaiserzeit“ (Braunschweig 1855–1880) erschienen 1862 der erste und 1865 der zweite Teil des dritten Bandes. Bei den „Italorum Studiis“ handelt es sich sehr wahrscheinlich um das von Giesebrecht 1845 veröffentlichte Buch „De litterarum studiis apud Italos primis medii aevi saeculis“ (Berlin). Gregorovius äußerte sich Tosti gegenüber noch einmal bezüglich seiner Anfrage an Giesebrecht, siehe dazu den Brief von Gregorovius an Luigi Tosti vom <ref target="G000422">12.2.1860</ref>.</note></seg>.</p>
+<p>Il ristabilimento dell’<orgName key="G000516">università di Pisa</orgName> mi rende contentissimo; <seg type="comment"><orig>avvi degli amici di <placeName key="G000671">Firenze</placeName>, che vi sono impiegati</orig><note xml:id="ny21_crc_vlb">Die am 3. September 1343 gegründete Universität zu Pisa war 1851 mit der Universität Sienna zur Universität des Großherzogtums Toskana vereinigt worden. Am 3. Dezember 1859 wurde sie als staatliche Universität feierlich wiedereröffnet (siehe AZ, 11.12.1859, Nr. 345, S. 5645: http://opacplus.bsb-muenchen.de/title/3257858/ft/bsb10504418?page=1191). Der mit Gregorovius gut befreundete Politiker und Historiker Pasquale Villari (1827–1917) hatte ab 1859 eine Professur in Philosophie an der Universität Pisa inne. Der sizilianische Literarhistoriker Paolo Emiliani-Giudici (1812–1872), dessen Literaturgeschichte Italiens (Storia della letteratura italiana. 2 Bde. Florenz: Le Monnier 1855) Gregorovius sehr schätzte (siehe den Brief von Gregorovius an Paolo Emiliani-Giudici vom <ref target="G000393">1.6.1856</ref>), war ebenfalls eine Zeit lang an der Universität Pisa beschäftigt.</note></seg>. Io non cessero mai a sentire cogli Italiani. Se potessimo un dì stringerci le mani, ambedue le nazioni, ambedue le terre, le più belle delle provincie nel gran impero dell’ intelletto umano.</p>
+<p>Abbiamo celebrata la festa dello <persName key="G001578">Schiller</persName> per ogni dove nel mondo fossero Tedeschi. Pure in Roma; e <seg type="comment"><orig>recitai una poesia inanzi alla statua di Schiller</orig><note xml:id="nv33_2rc_vlb">Die Feier zum 100. Geburtstag des Dichters fand am 10. November im Deutschen Künstlerverein im Palazzo Poli statt (siehe RT, 13.11.1859, S. 91). Gregorovius verfasste zu diesem Anlass ein Gedicht, abgedruckt in: Morgenblatt für gebildete Leser. Jg. 54. Nr. 3, 14.1.1860. S. 49f. </note></seg>.</p>
+<p>Io penso sovente alle cose sue. <seg type="comment"><orig>Quell’<bibl sameAs="G004288">Uriele</bibl> mi a fatta impressione indelebile</orig><note xml:id="nn2r_jrc_vlb">„Uriele“ erschien erst 1887 in dem Band „Ricordi Biblici“ (Rom: Tipografia della Camera dei deputati), einer Sammlung von sechs Prosagedichten Luigi Tostis.</note></seg>. Fuori, fuori! alle stampe! – le cose create chiedono il diritto di vivere!</p>
+<p>Con molto dispiacere leggevo negli fogli la morte del generale de <persName key="G001519">Quandel</persName>, e <seg type="comment"><orig>pensai subito al <persName key="G001519">padre Quand<ex>el</ex> </persName>fra di loro</orig><note xml:id="nrkv_lrc_vlb">Giovan Battista Quandel (1789–1859) war Offizier in napoleonischen Diensten und Vater von Cesare Quandel (1837–1880), später Bruder Mauro, der von Kalefati zu dessen Nachfolger erzogen wurde (siehe RT, 15.10.1859, S. 88), als solcher jedoch nicht nachweisbar ist.</note></seg>. Gli mando i miei saluti, come al <persName key="G001064"><seg type="comment"><orig>padre D’Orgemont</orig><note xml:id="ntkl_nrc_vlb">Nicola d’Orgemont (1826–1896) lehrte seit 1850 Philosophie, Naturwissenschaften und Mathematik in Montecassino, von 1871 bis 1896 war er der dortige Abt. Gregorovius lernte ihn als Schüler von Abt Pappalettere da Barletta (1815–1883) kennen (siehe RT, 7.10.1859, S. 87).</note></seg>,</persName> di cui scrissi molte cose al <seg type="comment"><orig>professor <persName key="G001557">Carlo Rosenkranz</persName></orig><note xml:id="ndj2_prc_vlb">Der Philosoph und Hegelianer Karl Rosenkranz (1805–1879) war 1842 Gregorovius’ sehr geschätzter Doktorvater. Die Geschichtsphilosphie von Rosenkranz prägte den Schüler Zeit seines Lebens und sie blieben brieflich in Kontakt. Der Brief, in dem Gregorovius von d’Orgemont erzählt, datiert auf den 31. Oktober 1859 (abgedruckt in: Max Jacobson: Ungedruckte Briefe von Ferdinand Gregorovius. In: Deutsche Revue über das gesamte nationale Leben der Gegenwart (1894) S. 348–359, hier S. 356–358).</note></seg>. Una altra volta gli manderò <seg type="comment"><orig><foreign xml:lang="Lat">unam epistolam familiarem. Quoniam</foreign> <pb n="2r"/><foreign xml:lang="Lat">certum est</foreign></orig><note xml:id="nz3x_qrc_vlb">Lat. für: einen (Privat-)Brief. Weil es sicher ist.</note></seg>, che io non posso scrivere più, voglio finire, reverito Don Luigi; e così sieno con Lei tutte le nobili muse dell’$!</p>
+<closer>
+<salute xml:id="s1" next="#s2">Con profondo rispetto, e coi sentimenti di schietta e reverente amicizia</salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">Servitor suo</salute>
+<signed rendition="#right">Ferdinand Gregorovius</signed>
+<dateline rendition="#c"><seg type="comment"><orig><foreign xml:lang="Lat">Actum Romae feliciter</foreign></orig><note xml:id="nemr_src_vlb">Lat. sinngemäß für: Herzlichst aus Rom.</note></seg>, 23. D<ex>i</ex>c<ex>em</ex>br<ex>e</ex> 1859.</dateline>
+</closer>
+<note type="postscript" rendition="#c">
+<p rendition="#c"> <seg type="comment"><orig><foreign xml:lang="Lat">in palatio nostro Purificationis</foreign></orig><note xml:id="nwh5_4bh_ylb">Lat. für: in unserem Palast der Reinigung. Gregorovius’ zweite Wohnung in Rom befand sich in der Via della Purificazione: „Am 5. Oktober kam ich nach Rom, am 9. bezog ich die neue Wohnung. Die Straße ist schlecht, das Logis gut, zwei Zimmer, dürftig möbliert.“ (RT, 31.12.1854, S. 54). </note></seg>,  <lb/>il quale si chiama purificato <lb/> come <seg type="comment"><orig><foreign xml:lang="Lat">lucus a non lucendo</foreign></orig><note xml:id="noxm_rbh_ylb">Lat. sinngemäß für: Der Wald (Hain) heißt lucus, weil es darin nicht hell ist (unzutreffende, amüsante Etymologie, die von der gegenteiligen Wortbedeutung ausgeht). Ironische Beschreibung seines Wohnsitzes in Rom: „Wie häßlich ist diese via Purificazione! Gesindel haust darin, Modelle für Künstler. Den Ghetto deutscher Künstler nennt man diese schmutzige Straße.“ (RT, 26.12.1855, S. 58).</note></seg>.<lb/></p>
+</note>
+</div>
+        </body>
+    </text>
+</TEI>

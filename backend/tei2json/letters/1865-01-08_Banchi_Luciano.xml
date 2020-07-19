@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000432">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Luciano Banchi in Siena. Rom, 8. Januar 1865</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GhStA Berlin</repository><collection>NL Waldemar Kampf</collection><idno>Karton 59, Mappe 349</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¾ S. – Notiz: erworben bei Stargardt 20.12.1958</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print"/> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er konnte die gewünschten Auskünfte in der Biblioteca Chigiana nicht erhalten, weil ihm der Leiter Antonio Fea den Zugang verwehrt hat. Banchi soll sich direkt an Fea wenden. Fea ist Träger des preußischen Roten Adler-Ordens vierter Klasse, der ihm auf Initiative Wilhelm Henzens und Theodor Mommsens verliehen wurde. Gregorovius kann Banchi behilflich sein, sollte dieser Informationen aus den Familienarchiven der Colonna oder Caetani benötigen. Er bittet um Auskünfte zu den Beständen des Staatsarchivs Siena, die Rufino da Mandello und zwei mittelalterliche römische Senatoren betreffen. Grüße an den Direktor des Archivs, Filippo Luigi Polidori.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1865-01-08" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G000956">Banchi, Luciano (1837–1887)</persName>
+<placeName key="G000871">Siena</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Roma, 8. Gennaio 65.</dateline>
+                    <salute rendition="#c">Chiarissimo <seg type="comment"><orig>Signore</orig><note xml:id="nqnw_hnl_ylb">Luciano Banchi (1837–1887) trat zunächst einen Notariatslehrgang an und arbeitete nebenbei als Journalist der lokalen Zeitschrift „Indicatore senese“. Nach nur einem Monat als stellvertretender Finanzsekretär in Montalcino berief ihn Filippo Luigi Polidori (1801–1863) im September 1859 zum „sottoarchivista“ in das sienesische Staatsarchiv. Nach Polidoris Tod am 12. Oktober 1865 wurde Banchi Direktor des Archivs. Er zeichnete für die Aufarbeitung und Systematisierung der Dokumentensammlungen verantwortlich. Ab 1867 war er Mitglied im Gemeinderat und wurde dreimal zum Bürgermeister ernannt (1869–1870, 1877–1878, 1880–1887). Gregorovius hatte Banchi bei Archivarbeiten in Siena im Oktober 1863 kennengelernt (siehe RT, 4.10.1863, S. 170). Es ist keine über diesen Brief hinausgehende Korrespondenz zwischen den beiden bekannt. </note></seg>,</salute>
+                </opener>
+<p xml:id="p1" next="#p2"><subst><del rendition="#ow">a</del><add place="across">e</add></subst>bbi il piacere di recevere la sua gentilissima lettera da Siena. Dopo passate le feste mi fu data l’occasione di communicarne il contenuto al bibliotecario della <seg type="comment"><orig><orgName key="G000493">Chigiana</orgName></orig><note xml:id="nhls_knl_ylb">Die Biblioteca Chigiana war eine zunächst von Fabio Chigi, dem späteren Papst Alexander VII. (1655–1667), zusammengetragene Bibliothek. Dessen Neffe Agostino Chigi (1634–1705) richtete die Bibliothek Ende des 17. Jahrhunderts im Palazzo Chigi in Rom ein. Sie wurde von drei Kardinälen, Nachfahren von Alexander VII., alle namens Flavio, erweitert. Die italienische Regierung erwarb die Bibliothek im Jahre 1918, vier Jahre später wurde sie als Schenkung der Vatikanischen Bibliothek übergeben. Gregorovius nutzte die Bestände der Bibliothek seit Mai 1862 (siehe RT, 25.5.1862, S. 147).</note></seg>. Sappia, che questo è attualmente <seg type="comment"><orig>il cavalier <persName key="G001126"><hi rendition="#u" hand="">Antonio Fea</hi></persName>, nipote del <persName key="G001127"><seg type="comment"><orig>celebre archeologo Romano</orig><note xml:id="nszc_4nl_ylb">Der Jurist Carlo Fea (1753–1836) widmete sich zunehmend archäologischen Studien und war ab 1801 Kommissar der Altertümer Roms sowie Bibliothekar beim Fürsten Chigi. Er leitete verschiedene Ausgrabungen in der Stadt. </note></seg></persName></orig><note xml:id="nppg_mnl_ylb">Antonio Fea war, wie sein bekannter Onkel Carlo, Jurist sowie Bibliothekar der Familie Chigi.</note></seg>; <seg type="comment"><orig><foreign xml:lang="Lat">sub rosa</foreign></orig><note xml:id="nem5_pnl_ylb">Lat. für: unter der Rose; sinngemäß: unter dem Siegel der Verschwiegenheit.</note></seg> Le dico, che costui è un uomo pieno di capricci, poco affabile, e in generale chiuso a chiunque s’indirizza a lui, senza avere delle chiavi, che lascio ad immaginar alla sua mente. Era prima cortese verso di me, poi mi negò l’accesso all’Archivio. Avendo ricevuto la sua lettera, io non ne seppi far altro che mandargliela acchiusavi una mia domanda, di permettermi un’ora di ricerche<del rendition="#s"><gap reason="illegible" unit="chars" quantity="2"/></del> in codesto Archivio non per cause mie, ma per studj italiani. Ieri lo vedi in casa sua; le l’aveva preso a male, che Lei nulla sappesse di Lui come bibliotecario della Chigiana. Finalmente dichiarò, di vuoler far le dimandate ricerche, e <pb n="1v"/>farmene partecipe a tempo suo. Le consiglio dunque, di diriggersi a dirittura a lui stesso, ringraziandolo delle sue promesse fatte per intercession di me e avendo ne contezza per lettere mie. Egli mi pare, che questa via debba essere la più sicura. Dalla parte mia, (non ne dubiterà), io farò il possibile, onde contentarla; ma la prevengo, che tutto sta a Roma sull’arbitrio personale; ne ho acquistato purtroppo la pratica. S’egli fosse, che desiderasse qualcosa degli <seg type="comment"><orig><seg type="comment"><orig><seg type="comment"><orig><seg type="comment"><orig><orgName key="G000498">Archivi Colonna</orgName></orig><note xml:id="nzjg_snl_ylb">Zugang zum Archiv der römischen Familie Colonna hatte Gregorovius über Don Vincenzo Colonna (†1867), einem Abkömmling einer Seitenlinie der Familie, erhalten (siehe RT, 30.11.1862, S. 156).</note></seg></orig><note xml:id="nls3_tnl_ylb">Zugang zum Archiv der römischen Familie Colonna hatte Gregorovius über Don Vincenzo Colonna (†1867), einem Abkömmling einer Seitenlinie der Familie, erhalten (siehe RT, 30.11.1862, S. 156).</note></seg></orig><note xml:id="ncr2_tnl_ylb"/></seg></orig><note xml:id="nlxc_14l_ylb"/></seg> o <seg type="comment"><orig><orgName key="G000499">Gaetani</orgName></orig><note xml:id="neyh_g4l_ylb">Das Privatarchiv der Familie Caetani. Michelangelo Caetani (1804–1882), Herzog von Sermoneta, hatte Gregorovius das Familienarchiv ab Dezember 1857 bereitwillig zur Verfügung gestellt (siehe RT, 31.12.1857, S. 69). Mit der Tochter des Hauses, Ersilia Gräfin Caetani-Lovatelli (1840–1925), einer Archäologin, war Gregorovius gut befreundet, verkehrte regelmäßig in ihrem Salon und blieb mit ihr auch nach seinem Weggang aus Rom in brieflichem Kontakt.</note></seg>, nulla sarebbe più facile ad impetrare; della Chigiana non sono sicuro, benchè codesto <seg type="comment"><orig>Fea sia nominato cavalier prussiano</orig><note xml:id="nzws_k4l_ylb">Antonio Fea hatte im April 1860 den Roten Adler-Orden, vierter Klasse, von der Königlich Preußischen General-Ordens-Kommission erhalten.</note></seg> per istigazione di <seg type="comment"><orig><persName key="G001263">Henzen</persName></orig><note xml:id="nxw1_m4l_ylb">Wilhelm Henzen (1818–1887) war seit 1856 einer der beiden leitenden Sekretäre am Deutschen Archäologischen Institut in Rom und zusammen mit Theodor Mommsen (1808–1903) sowie dessen Freund Giovanni Battista De Rossi (1822–1894) für das von der Berliner Akademie herausgegebene „Corpus Inscriptionum Latinarum“ (17 Bde., Berlin) verantworlich. Gregorovius und er kannten sich bereits seit seiner frühen Rom-Zeit; siehe den Brief von Gregorovius an Ludwig Friedländer, 4.2.1855.</note></seg> e <seg type="comment"><orig><persName key="G001429">Mommsen</persName></orig><note xml:id="nrqc_n4l_ylb">Theodor Mommsen (1808–1903) wurde 1858 auf eine Forschungsprofessur an der Preußischen Akademie der Wissenschaften in Berlin berufen und hatte ab 1861 einen Lehrstuhl für römische Altertumskunde an der Friedrich-Wilhelms-Universität inne. Er und Gregorovius waren sich im März 1862 in Rom begegnet: „Theodor Mommsen befindet sich hier. In seiner Erscheinung ist ein eigentümliches Gemisch von Juvenilität und von sculmeisterlicher Gewissenhaftigkeit. Dies erklärt mir vieles im Wesen seines durch kritische, destruktive Schärfe und Gelehrsamkeit ausgezeichnetes Werk, welches aber eher ein Pamphlet als eine Geschichte ist.“ (RT, 2.3.1862, S. 144). Gregorovius konnte sich Zeit seines Lebens nicht mit Mommsen anfreunden.</note></seg>. Quanto prima io avro risposta dal Fea, io ne darò a Lei ricapito. Speriamo il meglio.</p>
+<p>Vorrei sapere due cose dagli atti dell’<orgName key="G000566">Archivio Sienese</orgName>, e m’indirizzo <pb n="2r"/><seg type="comment"><orig>alla sua ben conosciuta gentilezza</orig>:<note xml:id="njqz_44l_ylb">Gregorovius erinnert an Banchis Hilfsbereitschaft bei seinem Besuch des sienesischen Staatsarchivs im Oktober 1863 (siehe den Brief von <ref target="G000428">Gregorovius an Luigi Frati, 4.10.1863</ref>).</note></seg> </p>
+<p>1) <seg type="comment"><orig>Puossi</orig><note xml:id="ngrx_p4l_ylb">Antik für: si può.</note></seg> dimostrare con dei documenti che <seg type="comment"><orig><persName key="G001067">Rufino da Mandello</persName> era Podestà di <placeName key="G000871">Siena</placeName> nel corso dell’Aprile 1256</orig><note xml:id="nznx_s4l_ylb">Siehe dazu Geschichte der Stadt Rom im Mittelalter. Fünfter Band. Stuttgart 1865, S. 314, Anm. 1.</note></seg>? </p>
+<p>2) Avvi istrumento, donde compariscono <seg type="comment"><orig>Orso di Matteo Napoleone e Leone</orig><note xml:id="nygh_54l_ylb">Möglicherweise Giacomo di Napoleone d’Orso und Matteo Rosso di Rainaldo d’Orso.</note></seg> come Senatori di Roma, nel 1301?</p>
+<p>Spero, di puoter <seg type="comment"><orig>tornare un’altra volta a Siena</orig><note xml:id="ndmr_v4l_ylb">Ein weiterer Besuch des Archivs in Siena, nun unter der Leitung Banchis, datiert auf den 9. Juli 1869 (siehe RT, 11.7.1869, S. 258).</note></seg>, e di rinnuovar le mie preziose relazioni come con Lei, cosi <seg type="comment"><orig>coll’illustre <persName key="G001503">Poledori</persName></orig><note xml:id="nenc_x4l_ylb">Filippo Luigi Polidori (1801–1865) lebte von 1837–1858 als politisch aktiver Schriftsteller in Florenz, bevor er als Direktor in das Archivio di Stato di Siena berufen wurde. Das Amt bekleidete er bis zu seinem Tod. 1862 wurde er zum Ritter des Ordens der Hl. Mauritius und Lazarus ernannt. Gregorovius hatte ihn am 1. Oktober 1863 im Archiv in Siena kennengelernt (siehe RT, 4.10.1863, S. 170).</note></seg>, alla di cui memoria vorrei esser gentilmente rivocato, e cosi stringendole la mano, mi chiamo con sincera stima di Lei</p>
+                <closer>
+                    <salute rendition="#right">l’obbligato e devoto servitore</salute>
+                    <signed rendition="#right">Gregorovius.</signed></closer>
+                <note type="postscript">L’indirizzo del cavaliere Antonio Fea è <seg type="comment"><orig>il <placeName key="G000784">Palazzo <hi rendition="#u" hand="">Chigi</hi></placeName></orig>.<note xml:id="npvq_y4l_ylb">1659 erwarb die Familie Chigi den Palast, der sich zwischen der Piaza Colonna und dem Via del Corso befindet.</note></seg></note>
+               </div>
+        </body>
+    </text>
+</TEI>

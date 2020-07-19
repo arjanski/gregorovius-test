@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_yj5_nry_4lb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Contessa Ersilia Caetani Lovatelli in Rom. Rom, 1880</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="restricted"><licence target="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International (CC BY 4.0) </licence></availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno>Karton 59, Mappe 348 (nach D)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"><bibl type="print">Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli. Hrsg. von Sigmund Münz. Berlin: Paetel 1896. S. 97</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Über eine gemeinsame Fahrt nach Mentana. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000763">Rom</placeName><date notAfter="1880" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001011">Caetani Lovatelli, Ersilia contessa (1840-1925)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="97"/>
+            <div type="writingSession">
+<opener>
+<salute rendition="#c">Sehr verehrte Frau Gräfin,</salute>
+</opener>
+<p>ich war genöthigt, meine Pflicht zu verabsäumen, nämlich, wie dies mein Gedanke war, gestern Abends zu Ihnen zu kommen, um zu erfahren, ob <seg type="comment"><orig>Ihre <persName key="G001007">Schwiegermutter</persName>, die Frau Gräfin</orig><note xml:id="nn43_5qn_5lb">Ersilias Vater, Michelangelo Caetani (1804–1882), Herzog von Sermoneta, war seit 1875 in dritter Ehe mit Enrichetta, geb. Harriet Georgina Ellis (1831–1906), Tochter des Charles Augustus Ellis (1799–1868), VI. Baron Howard de Walden und II. Baron Seaford, verheiratet.</note></seg>, und Sie alle sich nach jenem anmuthigen Ausfluge nach <seg type="comment"><orig><placeName key="ed_at4_xqn_5lb">Mentana</placeName> </orig><note xml:id="nipw_npp_vlb">Gemeinde nordöstlich von Rom.</note></seg>wohl befinden. Aber ich mußte gestern Morgens und Abends wegen einer mir auf jener Fahrt zugezogenen Erkältung zu Hause bleiben. Der Nacken und ein Arm sind mir steif geworden. In <placeName key="G000664">Deutschland</placeName> nennt man dieses rheumatische Übel „Hexenschuß“. Es war also in Mentana, wie ich glaube, irgend eine Hexe, die mich – behexen wollte. Jetzt geht es mir schon besser, so daß ich hoffe, dem <seg type="comment"><orig>Hause <persName key="G001004">Gaetani</persName></orig><note xml:id="njzk_jrn_5lb">Gregorovius pflegte eine freundschaftliche Beziehung auch zu Michelangelo Caetani, dem Vater der Gräfin. Ersilias Ehemann, Giacomo Colombo Lovatelli (1832), war im vergangenen September verstorben.</note></seg> in zwei Tagen <seg type="comment"><orig>einen Besuch machen zu können, was mir ein sehr dringendes Bedürfnis ist.</orig><note xml:id="nepn_3rn_5lb">Gregorovius war seit dem 24. Januar 1880 in Rom und sollte von dort, gemeinsam mit dem Bruder Julius (1819–1891), am 27. März nach Griechenland aufbrechen, wo sie gut fünf Wochen verbringen sollten. Von Griechenland kehrte er nach Rom zurück und von dort Anfang Juni nach München. Eine weitere Romreise in diesem Jahr ist nicht dokumentiert (siehe RT, Romfahrt und Griechische Reise 1880, S. 419–420).</note></seg></p>
+<p>In der Erwartung, daß Sie von jedem Hexenschuß oder bösem Zauber freigeblieben sind, verbleibt mit wahrhafter Verehrung</p>
+<closer>
+<salute rendition="#c">Ihr ergebenster</salute>
+<signed rendition="#right"> Gregorovius. </signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

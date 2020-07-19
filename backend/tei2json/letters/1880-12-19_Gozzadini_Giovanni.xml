@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_kff_1zm_5lb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. München, 19. Dezember 1880</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free">
+                <licence target="http://creativecommons.org/licenses/by/4.0/">
+                    Creative Commons Attribution 4.0 International (CC BY 4.0)
+                </licence>
+            </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>All’Illustrissimo Signore / il signor Conte Giovanni Gozzadini / senatore del Regno / Bologna</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell’Archiginnasio</institution><collection>Ms. Gozzadini 442 </collection><idno> <idno type="shelfmark">(37)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er hat Gozzadinis Buch „Di alcuni monumenti che ricordano i conti di Panico“ (1880) der Historischen Klasse der Bayerischen Akademie der Wissenschaften überreicht. Nach seinem Artikel „Korfu. Eine Studie“ in der Zeitschrift „Unsere Zeit“ (1880) greift er für die Fertigstellung der „Mirabilien der Stadt Athen“ (Sitzungsberichte der philosophisch-philologischen und historischen Classe der k. b. Akademie der Wissenschaften zu München 1881) auf die Forschungen von Carl Hopf zurück. Dieser hat einen Lexikoneintrag zu den Gozzadinis, auch in Griechenland, verfasst (Allgemeinen Encyklopädie der Wissenschaften und Künste 1863). Adelaide Ristori hat als Maria Stuart in München geglänzt. Er denkt oft an Paolo Perez. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1880-12-19" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni conte (1810-1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">Monaco, 19. Dicembre 1880</dateline>
+<salute rendition="#c">Illustre Signor Conte,</salute>
+</opener>
+<p>nella prima seduta della <orgName key="ed_zds_w14_5lb">classe storica dell’ Accademia Bavarese</orgName>, la quale ebbe luogo al principio del Nov<ex>embre</ex> scorso, ebbi l’onore di disimpegnarmi dell’incarcio affidatomi da V<ex>ostra</ex> S<ex>ignoria</ex> <seg type="comment"><orig>presentando cioè ai socii riuniti il suo prezioso <bibl sameAs="ed_pyd_jtn_5lb">dono</bibl>, il quale da essi loro venne accolto con gratitudine</orig><note xml:id="nxly_ty5_5lb">Gozzadini, seit 1878 auswärtiges Mitglied der Historischen Klasse, hatte Gregorovius ein Exemplar seiner 1880 erschienen Schrift „Di alcuni monumenti che ricordano i conti di Panico“ (Modena: G.T. Vincenzi e Nipoti) mit der Bitte um Überlassung an die Klasse gesandt; siehe den Brief von Gregorovius an Giovanni Gozzadini vom 19.9.1880.</note></seg>, come digià gliene sarà data testimonianza <seg type="comment"><orig>per via di una lettera ex-ufficio</orig><note xml:id="nlxp_5y5_5lb">Um was für ein inoffizielles Schreiben es sich hier handelt, ist nicht ermittelbar.</note></seg>. </p>
+<p>Or mi perdoni tanto lungo silenzio, che avrei più presto sotto, se non fossi stato fermato parte da una indisposizione cagionatami dalla fiacchezza del tempo, che continua ad esser di temperatura mollissima, parte dalle <seg type="comment"><orig>mie occupazioni con le cose greche</orig><note xml:id="nyjy_wlp_vlb">Seit seiner mehrwöchigen Griechenlandreise mit dem Bruder Julius Gregorovius (1819–1891) im Frühjahr diesen Jahres (siehe RT, Romfahrt und Griechische Reise 1880, S. 419–420), hatte Gregorovius bereits einen Artikel unter dem Titel „Korfu. Eine Studie“ für die Zeitschrift „Unsere Zeit“ (Bd. 2, 1880) zu Ende geschrieben.</note></seg> nelle quali ho incominciato a prender gusto di modo, che sto compilando una lunga memoria sulle<bibl sameAs="G004031"> Memorabilia Urbis Athenarum</bibl>, raccogliendo tutte le notizie pervenuteci dal medio-evo sullo stato della desolatissima <placeName key="G000619">città di <seg type="comment"><orig><persName key="ed_sbg_pxn_5lb">Pericle</persName></orig><note xml:id="nl4m_ylp_vlb">Staatsmann und Stratege im klassischen Athen.</note></seg></placeName> ed <pb n="2"/><persName key="G001501">Platone</persName>, e mettendo tali notizie in paragone colle Memorabilia di Roma. Per questo argomento, difficilissimo, ma assai dilettevole, mi avvalgo anche <seg type="comment"><orig>dei lavori di <persName key="ed_xff_mz5_5lb">Carlo Hopf</persName></orig><note xml:id="nyx4_rz5_5lb">Der Historiker Carl Hopf (1832–1873) war 1852 mit einer Arbeit über die Geschichte Griechenlands im Mittelalter promoviert worden, erhielt 1858 eine außerordentliche Professur in Greifswald und wurde schließlich 1864 ordentlicher Professor der Geschichte und Oberbibliothekar in Königsberg. Ein Brief Gregorovius’ an Ludwig Friedländer lässt einen Kontakt zwischen Gregorovius und Hopf vermuten, eine persönliche Begegnung kann jedoch nicht nachgewiesen werden; siehe den Brief von Gregorovius an Ludwig Friedländer vom 26.5.1872; Ferdinand Gregorovius: Briefe nach Königsberg. Hrsg. von Dominik Fugger und Nina Schlüter. München: Beck 2013. S. 102–104 (nach H).</note></seg>, che V<ex>ostra</ex> S<ex>ignoria</ex> ricorderà, essendo egli un tempo stato ammesso da lei <seg type="comment"><orig>al prezioso archivio della sua illustrissima casa</orig><note xml:id="nc4m_sz5_5lb">Der Conte Gozzadini hatte auch Gregorovius Zeit seines Lebens das Familienarchiv seiner bedeutenden Bologneser Familie zur Verfügung gestellt. Hopf war bekannt dafür, zahlreiche italienische und griechische Archive sowie Bibliotheken nach Quellenmaterial für seinen Griechenland-Forschungen durchsucht zu haben.</note></seg>, onde egli ha potuto cavar alcuni documenti, che illustrano i fatti de’ <seg type="comment"><orig>Gozzadini trapiantati nella <placeName key="G000683">Grecia</placeName></orig><note xml:id="numh_wz5_5lb">Die aus einfachen Verhältnissen stammende Bologneser Familie Gozzadini lässt sich bin in das 12. Jahrhundert zurückverfolgen. Damit zählt sie zu den ältesten Familien der Stadt. Ihr entstammen wichtige Vertreter des Bank- und Handelswesens sowie bedeutende Rechtsgelehrte. Im Spätmittelalter stand die Familie politisch auf der Seite der Guelfen. Ihren Ruhm behielt sie sich bis zu Zeiten von Giovanni Gozzadini, mit dessen Ableben ging auch die Bedeutung der Familie allmählich verloren. Hopf hatte einen ausführlichen Eintrag zur Familie Gozzadini in der „Allgemeinen Encyklopädie der Wissenschaften und Künste“ (Erste Section. A–G. Leipzig: F. A. Brockhaus 1863. S. 391–426) verfasst; zu den Gozzadinis in Griechenland ebenda. ab S. 415. </note></seg>. Per dire il vero, il Hopf ha superato perfino il <seg type="comment"><orig>Bucllon</orig><note xml:id="nvyz_wz5_5lb">Unsichere Transkription, weshalb nicht ermittelbar ist, um wen es sich hier handelt.</note></seg> nell’assiduità degli studi e nella critica e perciò <seg type="comment"><orig>la sua morte è stata una vera e non più reparabile perdita</orig><note xml:id="nl5x_xz5_5lb">Hopf war am 23. August 1873 in Wiesbaden verstorben.</note></seg>, avendo egli raccolto tanti materiali da mandar alla fine ad effetto <seg type="comment"><orig>il suo disegno, di scrivere cioè la storia dei Duchi di Atene</orig><note xml:id="nfxl_zz5_5lb">Hopfs Geschichte zu den Führern Athens war 1852 in lateinischer Sprache erschienen: De historiae ducatus Atheniensis fontibus. Bonn: Eduard Weber.</note></seg>.</p>
+<p>A questo momento Lor Signorie goderanno la presenza della <seg type="comment"><orig>celebre <persName key="ed_qsv_b1v_5lb">Ristori</persName></orig><note xml:id="nmrd_h1v_5lb">Die Schauspielerin Adelaide Ristori (1818/1822–1906) war bereits seit Kindertagen auf der Bühne gestanden und feierte mit ihren leidenschaftlichen, intensiven Auftritten weltweit Erfolge. Sie hatte 1847 den Marchese Giuliano Capranica del Grillo (1824–1892) geheiratet und mit ihm vier Kinder bekommen. Gregorovius kannte sie bereits seit Ende der 1850er Jahre persönlich (siehe RT, 31.12.1858, S. 77) und hatte sie zuletzt als Maria Stuart in München auftreten sehen: „Ich schrieb ihr einen brief darüber, welchen sie ungehörigerweise später hat abdrucken lassen. Ich brachte Frau Ristori und ihren Mann Capranica hier auf die Eisenbahn, am 19. Dezember.“ (RT, Romfahrt und Griechische Reise 1880, S. 420).</note></seg>, la quale io ebbi la fortuna di salutare e di ammirare in questa città di Monaco, or pochi giorni sono. Ella vi raccolse infiniti applausi, e <seg type="comment"><orig>lasciò quindi la <placeName key="G000664">Germania</placeName> tutta contenta, come ne son persuaso, e da vera regina trionfante</orig><note xml:id="nggl_j1v_5lb">Ristori war bereits in früheren Jahren als schottische Königin in München aufgetreten.</note></seg>. </p>
+<p>L’anno volge alla sua fine. Che ci porterà di nuovo e di buono il seguente? <pb n="3"/>Mi auguro il meglio per Lor signorie e per me stesso il desiderato bene di salutare di nuovo Lei e la gentilissima signora <persName key="G001092">Contessa</persName>, e così dando Loro le buone feste, mi raccomando alla benevola memoria di Lor Signorie, con la espressione di vera ed affettuosa venerazione.</p>
+<closer>
+<salute rendition="#right">Lor dev<hi rendition="#sup"><ex>otissi</ex>mo</hi></salute>
+<signed rendition="#right">Ferd. Gregorovius</signed>
+</closer>
+<note type="postscript">Quante volte ripenso al nostro caro, carissimo <persName key="G001483">Paolo</persName>!</note>
+</div>
+        </body>
+    </text>
+</TEI>

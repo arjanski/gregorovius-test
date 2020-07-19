@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_zkr_cqv_zkb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Rom. München, 3. Januar 1878 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. </p>
+<p>Billett an Karl Lindemann-Frommel</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er hofft auf baldige Veröffentlichung und öffentliche Anerkennung von Marianos Schrift „Cristianesimo, cattolicesimo e civiltà“ (1879). Er liest Arthur Schophenhauer, Giacomo Leopardis „Operette morali“ (1835) und Thukydides. Da er nicht mit dem baldigen Abbleben von Pius IX. rechnet, hat er siene Abreise nach Rom bis nach seinem Geburtstag am 19. Januar verschoben. Er hofft Adelheid Grunelius dann noch dort anzutreffen. Domenico Guglielmi, den Übersetzer seines Artikels „Andria“ (1875), möchte er bei der Verlagssuche hierfür nicht unterstützen. Ersilia Lovatelli hat er Weihnachten einen höflichen Brief geschrieben. Cesare Foucard scheint ihm übel zu nehmen, dass er in römischen Kreisen für ihn bei der Besetzung höherer Archivstellen nichts tun konnte. Er aht aber auch bei Pietro Venturi keine Auszeichnung des Bildungsministeriums für Renato Manzato, den Übersetzer seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872), erwirken können. Das beiliegende Billett soll Karl Lindemann-Frommel zukommen lassen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1878-01-03" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840-1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">20. Dezember 1876 (D: Alessandro Savorelli: Dal carteggio di Raffaele Mariano. In: Giornale critico della filosofia italiana. Jg. 72 (74). Ser. 6. Bd. 13. Florenz 1993. S. 223 (unvollständig))</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">München, 3. Jan<ex>uar</ex> 1878.</dateline>
+                    <salute rendition="#c">Lieber Freund,</salute>
+                </opener>
+<p>schönsten Dank für <seg type="comment"><orig>Ihre Zeilen zu Neujahr</orig><note xml:id="nulj_y2k_1mb">Im Privatarchiv der Familie Anrep befindet sich der Entwurf zu Marianos Brief an Gregorovius vom 20. Dezember 1877. Dieser ist unvollständig abgedruckt in: Alessandro Savorelli: Dal carteggio di Raffaele Mariano. In: Giornale critico della filosofia italiana. Jg. 72 (74). Ser. 6. Bd. 13. Florenz 1993. S. 223. </note></seg>, und von mir wie den <persName key="G001203"><persName key="G001111">Meinigen</persName></persName> herzliche Erwiederung guter Wünsche. Unter diesen steht oben an: das Sie <seg type="comment"><orig>Ihre <bibl sameAs="ed_yr4_nvd_rlb">Schrift</bibl> bald mögen gedruckt sehen</orig><note xml:id="npwq_z2k_1mb">Mariano suchte einen Verleger für seine Schrift „Cristianesimo, cattolicesimo e civiltà“ (Bologna: Zanichelli 1879). Siehe die Briefe von Gregorovius Brief an Raffaele Mariano vom 7.9. und 29.11.1877.</note></seg>, und dieselbe Ihnen den vollsten moralischen Gewinn eintrage, da bei den Mißverhältnissen des Buchhandels zumal in <placeName key="G000690">Italien</placeName> ein materieller nicht zu hoffen ist.</p>
+<p>Wir haben das Jahr mit frischer Kraft angetreten, sind alle im Hause thätig, so viel als es geht, und immer fällt mir der Spruch <persName key="G067806">Friedrichs</persName> des Großen ein, welcher die Summe alles Wünschenswerten so zusammenfaßte: </p>
+<p><seg type="comment"><orig>„Thätig sein, gut leben, Ruhe in der Seele haben!“</orig><note xml:id="nxbz_1fk_1mb">Es handelt sich hier nicht um ein wörtliches Zitat des preußischen Königs, sondern um die Varianz eines Briefschlusses in einem Schreiben Friedrichs an den Mathematiker, Physiker und Philosophen Jean-Baptiste le Rond d’Alembert (1717–1783); siehe dazu: Œuvres de Frédéric le Grand. Tome XXIV. Correspondance. Tome IX., ed. Johann D.E. Preuss, Berlin 1854, S. 575, in der Oktavausgabe S. 519. Der König hatte sich mehrfach in ähnlicher Weise geäußert.</note></seg> Das dritte dieser 3 Probleme, welche alle schwierig sind, ist das wichtigste. <pb n="1v"/>Ich glaube, unter unseren speciellen Freunden besitzt solches Kleinod durchaus <persName key="G001375">Lindemann</persName>, sowol durch Natur als die verständige Ökonomie des Lebens, welche ihn immer ausgezeichnet hat. </p>
+<p>Wir leben hier in einer <hi rendition="#aq"><foreign xml:lang="ita"><seg type="comment"><orig>aria spessa</orig><note xml:id="nvt4_cfk_1mb">Ital. für: dicke Luft.</note></seg></foreign></hi>, von so trostlos endlosem Grau, das man darin nichts anderes lesen möchte als die Werke <persName key="ed_jm1_ngk_rlb">Schophenhauers</persName> oder <seg type="comment"><orig>die <hi rendition="#aq"><bibl sameAs="ed_i3k_chk_rlb">Operette morali</bibl></hi> des <persName key="ed_vz1_5gk_rlb">Leopardi</persName></orig><note xml:id="naq3_2fk_1mb">Verfasst hatte der Poet die 24 Prosastücke – Dialoge und Novellen –, die von der Beziehung des Menschen zu Natur und Geschichte, von den Werten der Vergangenheit und deren Transformation in der Gegenwart sowie der Macht der Illusionen handeln, in den Jahren 1827–1834.</note></seg>. Abends wehre ich mich dagegen mit einigen Seiten des <hi rendition="#aq"><seg type="comment"><orig><persName key="G001648">Thucydides</persName></orig><note xml:id="njkp_ffk_1mb">Der aus Athen stammende Historiker und Stratege Thukydides (vor 454 v. Chr.–399-396 v. Chr.). Siehe zu Gregorovius und Thukydides: Arnold Esch. Historische Landschaften Italiens. Wanderungen zwischen Venedig und Syrakus. München: C. H. Beck 2018, S. 95.</note></seg></hi>, welchen ich zum dritten Mal zu lesen begonnen habe.</p>
+<p>Trotz alledem ist mir die Lust geschwunden, nach Rom aufzubrechen, weniger weil ich gewiß bin den großen <seg type="comment"><orig><persName key="G001497">Apis</persName></orig><note xml:id="nmyx_gfk_1mb">Apis, der heilige Stier der Ägypter, das Symbol des Ackerbaues; siehe auch: http://www.imperiumromanum.net/wiki/index.php?title=Serapis-Isis-Religion. Gemeint ist hier offensichtlich Papst Pius IX. (1792–1878). Siehe RT, 10.2.1878, S. 380: „Schon im November beunruhigte mich die Furcht, der Papst könne noch vor Jahresabschluss sterben und dies Ereignis mich zwingen, früher, als ich wollte, nach Rom zurückzukehren.“ Der Papst verstarb am 7. Februar, Gregorovius begab sich unmittelbar nach dem Sterbezeitpunkt nach Sankt Peter (siehe RT, 10.2.1878, S. 386).</note></seg> noch am Leben zu treffen, auch wenn ich später ankomme, als weil es mir Pein macht, mich meiner ruhigen, bequemen Häuslichkeit u<ex>nd</ex> vor allem der Liebe der Meinigen zu entreißen. Ich schiebe daher meine Abreise von Woche zu Woche auf, und <pb n="2r"/>wol <seg type="comment"><orig>werde ich noch hier meinen Geburtstag verleben</orig><note xml:id="namf_3fk_1mb">Am 10. Januar 1878 sollte Gregorovius nach Rom aufbrechen. Seinen Geburtstag am 19. des Monats verbrachte er dort, auch in Anwesenheit von Mariano (siehe RT, 10.2.1878, S. 381–384).</note></seg>. Mir ist auch manches unangenehm in Rom; freilich das Wiedersehen der mir teuern Stadt u<ex>nd</ex> der wenigen Freunde dort wird mich neu beleben. <seg type="comment"><orig>Frau <persName key="G001215">Grunelius</persName></orig><note xml:id="nhrm_jfk_1mb">Die Witwe des Frankfurter Bankiers Moritz Eduard Grunelius (1803–1846) war seit 1851 immer wieder für längere Aufenthalte nach Rom gekommen; so auch im Februar 1878, weshalb sich Gregorovius in dieser Zeit regelmäßig mit ihr traf (siehe RT, 10.2.1878, S. 385).</note></seg> u<ex>nd</ex> die <persName key="G001216">Ihren</persName>, denen ich mich sehr empfehle, hoffe ich bestimmt noch Ende Januar oder Anfangs Februar in Rom zu treffen. </p>
+<p>Gestern erhielt ich von <seg type="comment"><orig><persName key="G001221">Guglielmi</persName></orig><note xml:id="ni1q_kfk_1mb">Domenico Guglielmi, den Gregorovius über Mariano in Rom kennengelernt hatte (siehe „Apulische Landschaften“; Leipzig: Brockhaus 1877, S. 149). </note></seg> <seg type="comment"><orig>einen Brief</orig><note xml:id="nr1j_mfk_1mb">Der Brief ist nicht erhalten.</note></seg>, den ersten seit vielleicht 8 oder 9 Monaten: die Entschuldigungen seines Schweigens sind nichtig; ich werde mir dasselbe nicht<seg type="comment"><orig> <hi rendition="#aq"><foreign xml:lang="Lat">ad notam</foreign></hi></orig><note xml:id="nxrf_nfk_1mb">Lat. für: zur Kenntnis nehmen, beachten.</note></seg> schreiben,<seg type="comment"><orig> <hi rendition="#aq"><foreign xml:lang="ita">non me lo legherò al dito</foreign></hi></orig><note xml:id="nxwr_5fk_1mb">Ital. für: ich werde es mir nicht hinter die Ohren schreiben.</note></seg>, <seg type="comment"><orig>aber es hat mich doch betrübt</orig><note xml:id="natq_rfk_1mb">Mit Guglielmis Fertigkeiten als Übersetzer hatte Gregorovius im Januar 1876 eine negative Erfahrung gemacht: Zunächst wurde er auf Guglielmis Initiative vom Stadtrat von Trani zum Ehrenbürger von Andria ernannt. Nachdem Guglielmis Übersetzung von „Andria“ kurze Zeit später im „Costituzionale“ zu Trani erschienen war, machte der Stadtrat dies jedoch wieder rückgängig, da Gregorovius die Stadt als schmutzig und gesellschaftlich ausgestorben bezeichnet hatte (siehe den Brief von Gregorovius an Raffaele Mariano vom 27.1.1876 sowie „Allgemeine Zeitung“, 27.1.1876, Nr. 27, S. 383 und „Salzburger Zeitung“, Nr. 16, 21.1.1876).</note></seg>. Ich habe ihm wegen des Drucks der Übersetzung nichts besonderes zu sagen – er mag sich den Verleger suchen, welchen er will; denn ich verzichte auf das Honorar <hi rendition="#aq"><foreign xml:lang="ita"><seg type="comment"><orig>per parte mia</orig><note xml:id="nfs5_4fk_1mb">Ital. für: meinerseits.</note></seg></foreign></hi>, oder vielmehr statt jedes Honorars soll mir der Verleger 1 Faß italien<ex>ischen</ex> Landwein kostenfrei in mein Haus schicken: diese<seg type="comment"><orig> <hi rendition="#aq"><foreign xml:lang="ita">spesa</foreign></hi></orig><note xml:id="nsv3_wfk_1mb">Ital. für: Ausgabe.</note></seg> wird keine große sein. </p>
+<p><pb n="2v"/>Donna <persName key="G001011">Ersilia</persName> wird am Weihnachtstage <seg type="comment"><orig>einen artigen Brief </orig><note xml:id="nmgp_xfk_1mb">Siehe den Brief von Gregorovius an Ersilia Caetani Lovatelli vom 21.12.1878.</note></seg>von mir bekommen haben, u<ex>nd</ex> damit zufrieden gewesen sein, wie ich hoffe. </p>
+<p>Meine Beziehungen zu Italienern werden immer weniger, seit ich nicht mehr im directen Verkehr mit ihnen bin. Auffallend ist mir das gänzliche, fast beleidigende Schweigen<seg type="comment"><orig> <hi rendition="#aq"><persName key="G001134">Foucards</persName></hi></orig><note xml:id="nl2x_yfk_1mb">Cesare Foucard (1825–1892) war Archivar und Professor für Paläographie am Generalarchiv Venedig, von 1873–1887 Direktor des Archivio di Stato in Modena. Gregorovius war bei seinem kurzen Forschungsaufenthalt im Sommer 1873 Gast in Foucards Haus (siehe RT, S. 332) sowie auch wenn er in späteren Jahren von Deutschland aus kommend Modena besuchte (siehe RT, 31.3.1875, S. 347–348; 20.5.1876, S. 363; 1877, S. 373).</note></seg>. Dieser Mann ist verstimmt, weil er bei Besetzung von höheren Archivstellen mit Unrecht übergangen worden ist; u<ex>nd</ex> nun scheint es fast, er klage mich an, d<ex>a</ex>ß ich in Rom nichts für ihn u<ex>nd</ex> zu seinen Gunsten gethan habe. Sie aber wissen, welcher Art mein Einfluß in den dortigen regierenden Kreisen ist. Ich habe nicht einmal <seg type="comment"><orig>eine Decorazion für <hi rendition="#aq"><persName key="ed_mbt_yjh_zkb">Manzato</persName></hi></orig><note xml:id="nnsf_1gk_1mb">Für eine Auszeichnung des Übersetzers seiner „Geschichte der Stadt Rom im Mittelalter“ (8 Bde., 1859–1872) ins Italienische, Renato Manzato (1874–1925), durch das Bildungsministerium hatte sich Gregorovius zweimal brieflich an Pietro Venturi (1824–1892), den römischen Bürgermeister, gewandt (siehe die Briefe von Gregorovius an Pietro Venturi vom 5.5.1876 und 25.5.1877).</note></seg> in <placeName key="G000894">Venedig</placeName> zu verzeichnen vermocht.</p>
+<p>Sein Sie so gefällig, beiliegendes Billet an den guten Lindemann abzugeben. Nun nochmals, alles Gute u<ex>nd</ex> Schöne, u<ex>nd</ex> festen Mut gegenüber dieser<seg type="comment"><orig> <hi rendition="#aq"><foreign xml:lang="ita">stolta favola del mondo</foreign></hi></orig><note xml:id="nwh5_bgk_1mb">Ital. für: törichtem Weltmärchen.</note></seg>!</p>
+                <closer>
+                    <salute rendition="#c">Ihr</salute>
+                    <signed rendition="#right">FGr. </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

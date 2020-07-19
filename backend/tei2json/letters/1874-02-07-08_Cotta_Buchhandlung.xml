@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000383">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an die J. G. Cotta’sche Buchhandlung in Stuttgart. Rom, 7. bis 8. Februar 1874</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (182)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ¾ S. </p>
+<p>3 Faksimiles für den Dokumenten-Anhang seiner „Lucrezia Borgia“ mit Abschrift des Briefes von Alexander VI. an Lucrezia Borgia (Civitacastellana, 30. September 1501) und Durchzeichnung der Unterschrift Cäsar Borgias</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 57 Mappe 340–342 und Karton 55 Mappe 336–337 (nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er übersendet die Faksimile für den Dokumenten-Anhang seiner „Lucrezia Borgia“ (1874) mit Abschrift des Briefes von Alexander VI. an Lucrezia Borgia und Durchzeichnung der Unterschrift von Caesare Borgia. Das Manuskript der Einleitung und Widmung für Michelangelo Caetani duca di Sermoneta wird er in Kürze nachreichen. Der italienische Übersetzer seiner „Lucrezia Borgia“, Raffaele Mariano, wartet auf die Aushängebogen des deutschen Textes und der Dokumenten-Anhänge. Mit Le Monnier in Florenz hat er sein Honorar noch nicht festgesetzt – der Verlag erbittet unentgeldliche Abbildungsrechte des Porträts der Lucrezia Borgia sowie der Faksimile nach der deutschen Ausgabe. – Er ist dankbar, dass Cotta sein Honorar um 200 Taler zu erhöhen bereit ist – seine Forderung basierte auf die Berechnung seine eigenen Kosten und auf der Gewißheit, dass die erste Auflage bald vergriffen sein wird.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date from="1874-02-07" to="1874-02-08" cert="high"/>
+</correspAction>
+                <correspAction type="received"><orgName key="G000523">J. G. Cotta'sche Buchhandlung</orgName>
+<placeName key="G000879">Stuttgart</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">4. Februar 1874 (H: BSB München, NL Gregorovius, Gregoroviusiana 26p – h: DLA Marbach, Cotta.-Archiv, Gelehrtencopirbuch VIII, 266)</ref>
+<ref type="next">12. Februar 1874 (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VIII, 271)</ref>
+<ref type="next">11. März 1874 (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VIII, 296–297)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession" n="1">
+<opener>
+<dateline rendition="#c">Rom, 7. <hi rendition="#aq">Febr<ex>uar</ex></hi> 1874.</dateline>
+<salute rendition="#c">Hochgeehrte Herren,</salute>
+</opener>
+<p>beikommend übersende ich <seg type="comment"><orig>3 Facsimile</orig><note xml:id="nrg5_bg4_5lb">Die Faksimiles aus dem Archiv Este im Archivio di Stato di Modena und dem Archivio Gonzaga in Mantua (heute Archivio di Stato di Mantua) für den Dokumenten-Anhang seiner „Lucrezia Borgia“ (1874).</note></seg>:</p>
+<list rendition="#et">
+<item><label>1.)</label><persName key="G000914">Alexander VI.</persName> an <persName key="G000985">Lucrezia Borgia</persName> <placeName key="G000659">Civitacastellana</placeName>, 30. <hi rendition="#aq">Sept<ex>ember</ex></hi> 1501.</item>
+<item><label>2.)</label><persName key="G000983">Cäsar Borgia</persName> an die Marchesa <persName key="G001062">Isabella Gonzaga</persName>, <placeName key="G000688">Imola</placeName> 5. <hi rendition="#aq">Nov<ex>ember</ex></hi> 1502.</item>
+<item><label>3.)</label>Lucrezia Borgia an Isabella Gonzaga, <placeName key="G000670">Ferrara</placeName> 28, <hi rendition="#aq"><hi rendition="#aq">October</hi></hi>.</item>
+</list>
+<p>Zu Nummer I. habe ich eine Abschrift des Autographs hinzugefügt, um das Verständniß desselben demjenigen zu erleichtern, welcher das <hi rendition="#aq">Original</hi> im Holzschnitt (wie ich denke) zu reproduciren hat. Ich überlaße es <seg type="comment"><orig>Ihrer Entscheidung, ob die Abschrift überhaupt noch unter den Abdruck des Facsimile zu setzen ist</orig><note xml:id="nykk_2g4_5lb">Den Abdruck der Transkription hielt Cotta „nicht für notwendig“ (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VIII, 271).</note></seg>, oder nicht. </p>
+<p>Zu Nummer 2 habe ich noch eine Durchzeichnung der Unterschrift Cäsars abgesondert hinzugefügt, weil <add place="intralinear">in</add> dieser <add place="superlinear">der Name Cäsar</add> correcter ist, als <del rendition="#s">die erste</del> in jener: nach derselben könnte dann die <seg type="comment"><orig>Reproduction der <hi rendition="#u" hand="">Namens</hi>-Unterschrift</orig><note xml:id="nwpc_hg4_5lb">Diese wurde am Seitenende des zweiten Faksimile hinzugefügt.</note></seg> gemacht werden. </p>
+<p>Alle 3 Stücke kommen in ihrer <pb n="1v"/>oben bezeichneten Reihenfolge an das Ende der Documente im Anhang zu stehen.</p>
+<p>Es fehlt noch die <seg type="comment"><orig>Widmung u<ex>nd</ex> die Einleitung</orig><note xml:id="non2_kg4_5lb">Gregorovius widmete seine „Lucrezia Borgia“ (1874) Michelangelo Caetani duca di Sermoneta (1804–1882), der ihm bereitwillig sein Archiv geöffnet und historische Urkunden und Dokumente zur Verfügung gestellt hatte – die Caetanis waren einst mit den Borgias verfeindet. Das Manuskript der Widmung und Einleitung traf am 11.3.1874 beim Verlag ein (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VIII, 296–297).</note></seg> des <bibl corresp="G003509">Buches</bibl>, welche ich zur Zeit einschicken werde. </p>
+<p>Wollen Sie die Gewogenheit haben, mir sobald, fertig abgezogene Druckbogen da sind, solche in zwei Exemplaren von jedem Bogen zukommen zu laßen, weil <seg type="comment"><orig>der <persName key="G001401">Übersetzer</persName> des Buchs <bibl sameAs="G004388">ins Italienische</bibl></orig><note xml:id="ntgv_mg4_5lb">In der italienischen Übersetzung von Raffaele Mariano (1840–1912) erschien seine Biographie unter dem Titel „Lucrezia Borgia. Secondo documenti e carteggi del tempo“ dort noch im selben Jahr (Florenz: Successori Le Monnier 1874). Siehe auch den Brief von Gregorovius an Cotta, 11.1.1874 (in: Johannes Honig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 344–345).</note></seg> auf ein Exemplar wartet. </p>
+<p>Wenn es irgend möglich ist, würde ich bitten, auch den Druck der Documente beginnen zu laßen, auf welche der Übersetzer gleichfalls wartet, weil im Italienischen manches aus den Documenten direct in den Text aufzunehmen ist.</p>
+<p>Die <hi rendition="#aq">Firma <orgName key="G000528">Le Monnier</orgName></hi> in <placeName key="G000671">Florenz</placeName> ist bereit, die Übersetzung zu veranstalten, wofür sie mir 1500 francs anbietet; ich habe jedoch mit derselben noch nicht abgeschloßen, weil ich über die Stärke der Auflage, welche zu machen ist, mit ihr mich noch nicht vereinbart habe. <pb n="2r"/>Dieselbe <hi rendition="#aq">Firma</hi> verlangt von mir <seg type="comment"><orig>die Berechtigung, sowol das Porträt Lucrezias, als die 3 Facsimile unentgeltlich photographisch reproduciren zu dürfen</orig><note xml:id="nymz_pg4_5lb">Im Antwortschreiben Cottas vom 12.2.1874 wird der Abdruck unter Kostenerstattung genehmigt: „Wir erlauben uns noch zu bemerken, daß wir gern bereit sind, der Firma <hi rendition="#aq">Monnier</hi> – <hi rendition="#aq">Florenz</hi> die Abdrucke des Portraits von <hi rendition="#aq">Lucretia</hi>, sowohl als auch diejenigen der 3 Facsimile unter billigster Preisberechnung zu besorgen &amp; bitten wir höfl<ex>ich</ex> genannte Firma hiervon gütigst zu verständigen.“ (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VIII, 271)</note></seg>: da ich ihr diese Berechtigung nicht erteilen kann, so frage ich an, ob Sie geneigt sind, jener Firma solche zu bewilligen.</p>
+<closer>
+<salute rendition="#c">Mit großer Hochachtung u<ex>nd</ex> Ergebenheit <lb/>Ihr</salute>
+<signed rendition="#right"><hi rendition="#aq">FGregorovius</hi>.</signed>
+</closer>
+</div>
+            <div type="writingSession" n="2">
+                <dateline>Nachschrift vom 8. Februar.</dateline>
+                <p>Noch vor Absendung des vorstehenden erhielt ich, hochgeehrte Herren, Ihr gütiges Schreiben vom 4. d<ex>ieses</ex>, deßen wolwollende Gesinnung mich Ihnen zu lebhaftestem Dank verpflichtet. Nur in dem Falle, daß ein schnellerer Verkauf des Buches, als Sie in Ihrer Berechnung in Ansicht nehmen, sich herausstellt, u<ex>nd</ex> daß durch ihn, oder durch sonstige <pb n="2v"/>noch in Betracht kommende Eventualitäten einige Posten in dem Rechnungsanschlage ausfallen oder sich stark mindern, <seg type="comment"><orig>würde ich den Zuschuß von 200 Thalern annehmen, im andern Falle mich mit der Summe von 800 Thalern befriedigt erklären</orig><note xml:id="nnpm_wg4_5lb">In seinem Brief vom 1.2.1874 hatte Gregorovius für seine „Lucrezia Borgia“ (1874) eine Erhöhung seines Honorars um 200 Talern gefordert, weil er bei von einer Auflagenhöhe von 1200 Exemplaren einen Ladenpreis von 3 Talern erwartet hatte, der Verlag diesen aber auf 4 Taler festsetzte (DLA Marbach, Cotta-Archiv, Cotta-Briefe, 180). Im Antwortschreiben vom 4.2.1874 erklärte sich Albert von Reischach zur der verlangten Honorarerhöhung bereit und übersandte die zugrunde liegende Verlagskalkulation: „Im Besitz Ihrer geschätzten Zuschrift v<ex>om</ex> 1 d<ex>ie</ex>s<ex>e</ex>s beeilen wir uns, Ihnen zu erklären, daß wir ohne das geringste Bedenken Ihren Vorschlag annehmen, wonach für die erste Aufl<ex>age</ex> von „Lucrezia Borgia“ ein Honorar von <hi rendition="#aq">Eintausend Thaler</hi>, und zwar bei Ausgabe des Buches auf einmal bezahlt wird.“ (BSB München, NL Gregorovius, Gregorviusiana 26p) Das Honorar wurde im Verlagsvertrag von 800 Taler in 1000 Taler korrigiert (DLA Marbach, Cotta; Vertr. 3).</note></seg>. Mein letzter Vorschlag jener Erhöhung entsprang eben aus der Ansicht der vollkommenen Sicherheit dieses Geschäfts durch unbezweifelbaren (u<ex>nd</ex> wie ich annehmen muß <seg type="comment"><orig>schnellen) Absatz</orig><note xml:id="nbnc_ch4_5lb">Noch im selben Jahr wurde eine zweite Auflage der „Lucrezia Borgia“ ausgegeben.</note></seg>, u<ex>nd</ex> aus dem von mir berechneten Verhältniß des Ladenpreises von 4 Thalern zu der mir zugehenden Summe, von welcher ich effectiv mindestens 150 Thaler abziehen muß als von mir daran gewendete Ausgaben in Folge wiederholter Reisen nach <placeName key="G000894">Venedig</placeName>, Ferrara, <placeName key="G000724">Mantua</placeName>, <placeName key="G000729">Modena</placeName> u<ex>nd</ex> Florenz.</p>
+<closer rend="paragraph">
+<salute>Mit der größesten Verehrung empfiehlt sich Ihr ergebener</salute>
+<signed rendition="#c"><hi rendition="#aq">FGregorovius</hi>.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

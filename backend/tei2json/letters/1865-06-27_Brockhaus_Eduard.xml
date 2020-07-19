@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000150">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Eduard Brockhaus in Leipzig. Florenz, 27. Juni 1865</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Sächsisches Staatsarchiv Leipzig</repository><collection>Bestand 21083</collection><idno>Archivalnummer 224 (84)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¼ S. – 2v alR, Bl. um 90° gedreht, Eingangs- und Beantwortungsvermerk: 1865. / <hi rendition="#aq"><hi rendition="#aq">Florenz</hi></hi>, 27. <hi rendition="#aq">Juni</hi>./1. <hi rendition="#aq">Juli</hi>. / <hi rendition="#aq">Gregorovius</hi>. / B. 4. Juli – 1r alR, 2v auR Berechnungsvermerke.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 55, Mappe 333 (nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Die Druckbogen der zweiten Auflage seiner „Siciliana“ (1865) waren vor seiner Abreise nach Florenz in Rom eingetroffen. Wegen der schweren Erkrankung von Pauline Hillmann wird er wohl erst Ende September nach Rom zurückkehren. Für die Zeitschriften von Brockhaus kann er wegen der Abschlussarbeiten am fünften Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1865) und wegen seiner Entfremdung vom literarischen Ton nichts schreiben. Er bedauert, Heinrich Brockhaus weder in Rom noch in Florenz angetroffen zu haben. Eduard Brockhaus soll diesem von dem hoffnungslosen Zustand Pauline Hillmanns berichten. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">The printed sheets of the second edition of his „Siciliana“ (1865) had arrived in Rome before his departure for Florence. Because of Pauline Hillmann’s serious illness, he will probably not return to Rome until the end of September. He is unable to write for Brockhaus’ journals because he is finishing his work on the fifth volume of his „Geschichte der Stadt Rom im Mittelalter“ (1865) and has not written anything in a literary tone in such a long time. He regrets not having met Heinrich Brockhaus either in Rome or in Florence. Eduard Brockhaus is to tell him about Pauline Hillmann’s hopeless condition. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000671">Florenz</placeName><date when="1865-06-27" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G000995">Brockhaus, Eduard (1829–1914)</persName>
+<placeName key="G000712">Leipzig</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">15. März 1865</ref>
+<ref type="next">4. Juli 1865</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Florenz</hi>, <hi rendition="#aq"><seg type="comment"><orig>Palazzo Sabatier <lb/>ai Renai</orig><note xml:id="nlhn_wdg_gmb">Die Stadtvilla des mit Gregorovius befreundeten Ehepaars Caroline Ungher-Sabatier (1803–1877) und François Sabatier (1818–1891) in der Via del Renai.</note></seg></hi> <lb/>27. <hi rendition="#aq">Juni</hi> 1865.</dateline>
+                    <salute rendition="#c">Sehr geehrter Herr,</salute>
+                </opener>
+<p>vor meiner Abreise nach Florenz hatte ich das Vergnügen, Ihr wertes Schreiben zu erhalten; auch waren mehre <seg type="comment"><orig>Druckbogen der <bibl sameAs="G003252">Siciliana</bibl></orig><note xml:id="nep4_xdg_gmb">Im Druck war die zweite Auflage seiner „Siciliana“ (1865), die als dritter Band unter dem Reihentitel „Wanderjahre in Italien“ erschien.</note></seg> angekommen. Ich bitte, mit deren Sendung an meine Adresse in <placeName key="G000763">Rom </placeName>fortzufahren. <seg type="comment"><orig>Ich selbst habe plötzlich abreisen müssen, und befinde mich für ungewiße Zeit in dieser Stadt, zugleich nicht wissend, wann ich nach Rom zurückkehre, was wol vor dem Ende <hi rendition="#aq">September</hi> nicht geschehen wird</orig><note xml:id="ns1l_12g_gmb">In Florenz war Gregorovius’ enge Freundin Pauline Hillmann (1822–1866) schwer erkrankt; Gregorovius war am 25. Juni über Civitavecchia nach Florenz gereist und blieb bis zum 22. Juli, als sich ihr Gesundheitszustandes gebessert hatte (siehe RT, 24.6.-29.7.1865, S. 196).</note></seg>. </p>
+<p>Möchten Sie die Güte haben, mir <seg type="comment"><orig>hieher einen Wechsel auf 250 Thaler zu schicken</orig><note xml:id="necr_b2g_gmb">Am 12. Juli 1865 quittierte Gregorovius den Empfang des Betrags als Nachzahlung des Honorars für die erste Auflage und erste Rate zu der zweiten Auflage seiner „Siciliana“ (1861/1865 – Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 85).</note></seg>, ausgeschrieben in <hi rendition="#aq">Franken</hi>, wenn dies, wie ich hoffe, möglich ist. Ich werde Ihnen <pb n="1v"/>von hier aus quittiren.</p>
+<p><seg type="comment"><orig>Ich möchte von Herzen gerne für Ihre Journale, wie Sie es wünschen etwas thun</orig><note xml:id="nssq_22g_gmb">Auch das Anerbieten, einen Beitrag für das von Friedrich von Raumer herausgegebene „Historische Taschenbuch“ von Brockhaus zu liefern, hatte er mit seinem Brief vom <ref target="G000206">6. August 1864 an Brockhaus</ref> abgelehnt.</note></seg>; jedoch Sie selbst sehen, welcherlei jetzt meine schweren Arbeiten sind, u<ex>nd</ex> wie wenig ich noch im Stande bin, kleinere Aufsätze zu schreiben in der Art, wie sie meiner früheren, jetzt völlig abgelaufenen Zeit literarischer Arbeiten angehören.</p>
+<p>Ich habe es schmerzlich bedauert, Ihren <persName key="G000996">Herrn Vater</persName> weder in Rom noch in Florenz gesehen zu haben. Haben Sie die Güte mich auf das wärmste zu empfehlen, u<ex>nd</ex> ihm zu sagen, daß jene <seg type="comment"><orig><persName key="G001278">kranke Dame</persName>, welche er in Florenz besuchte</orig><note xml:id="nqhq_32g_gmb">Heinrich Brockhaus war im Frühjahr in Florenz und hatte offenbar auch Pauline Hillmann besucht.</note></seg>, sich sehr leidend befindet – es war, um sie noch zu sehen, daß ich <pb n="2r"/>meine <seg type="comment"><orig>Arbeiten in Rom</orig><note xml:id="njmj_j2g_gmb">Gregorovius war mit den Abschlussarbeiten des fünften Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ beschäftigt, der im September 1865 ausgegeben wurde.</note></seg> abbrach, u<ex>nd</ex> hieher reiste. Ihr Zustand ist hoffnungslos.</p>
+                <closer>
+<salute xml:id="s1" next="#s2">Mit aufrichtiger Hochachtung, sehr verehrter Herr, wünscht Ihnen selbst empfohlen zu sein</salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">Ihr ergebenster</salute>
+<signed rendition="#right"><hi rendition="#aq">Gregorovius</hi>.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

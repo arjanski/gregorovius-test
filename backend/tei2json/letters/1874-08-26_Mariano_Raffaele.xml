@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000136">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Raffaele Mariano in oder bei Maloja. Traunstein, 26. August 1874</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno> <idno type="shelfmark"/> </idno>
+                            </msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno> <idno type="shelfmark"/> </idno>
+                            </msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er ist seit sechs Wochen in Traunstein und arbeitet an der dritten Auflage seiner „Geschichte der Stadt Rom im Mittelalter“ (1875–1881). Er hat Mariano seine „Lucrezia Borgia“ (1874) und vier Bände seiner „Geschichte der Stadt Rom im Mittelalter“ (1869–1874) zugesandt. Ein weiteres Exemplar seiner „Lucrezia Borgia“ soll an Domenico Guglielmi gehen. Einem Angebot zu deren englischer Übersetzung steht er kritisch gegenüber, solange hierfür keine Verlagszusage vorliegt. Er rechnet mit einer dritten Auflage des Werks. In der „Allgemeinen Zeitung“ wird er über die gemeinsame Süditalien-Reise im Mai 1874 berichten („Lucera“, „Manfredonia“ und „Der Erzengel auf dem Berge Garganus“, alle 1874). Adolf Friedrich Graf von Schack war zu Besuch in Traunstein. Er wird am 8. September 1874 mit  seinem Bruder Julius nach München übersiedeln; gemeinsam unternehmen sie eine Reise nach Stuttgart und Heidelberg. Am 24. August 1874 hat er Robert von Keudell in Salzburg getroffen. Karl und Auguste Lindemann-Frommel sind wohlauf. Grüße von seinem Bruder Julius.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000888">Traunstein</placeName>
+                    <date when="1874-08-26" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000722">Maloja</placeName>
+                    <date notBefore="1874-08-27" notAfter="1874-09-19" cert="high"/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Traunstein, 26. Agosto 74.</dateline>
+                    <salute rendition="#c">Caro amico Mariano,</salute>
+                </opener>
+                <p>il tempo sen va volando in guisa che mi pare un sogno lontano <seg type="comment"><orig>di aver lasciato <placeName key="G000763">Roma</placeName>, e di trovarmi qua giù da 6 settimane</orig><note xml:id="next_dvn_zlb">Am 15. Juli hatte er Rom endgültig verlassen und traf nach Stationen in Florenz, Bologna, Modena und Kufstein am 19. Juli in Traunstein ein (siehe den Brief von Gregorovius an Raffaele Mariano, 2.8.1874).</note></seg>. Ebbimo un tempo scellerato oltre ogni dire, una pioggia continua, e anche delle giornate freddissime. Il mio <persName key="G001203">fratello</persName> cadde nella febbre, della quale però egli, come mi sembra, aveva portato seco il germe dall’<placeName key="G000690">Italia</placeName>; ora egli se n’è liberato. Nemmen’ io stavo saldo, ne lo potei essere per il rapido cambiamento del clima, e del modo intero di vivere.</p>
+                <p>Per tutte queste cause, non ho potuto lavorare nulla, se non che misi la mano alla <seg type="comment"><orig>revisione della <bibl corresp="G003435 G003442 G003449 G003456 G003463 G003470 G003477 G003489">storia di Roma</bibl></orig><note xml:id="nscd_fvn_zlb">„Die Geschichte der Stadt Rom im Mittelalter. Vom V. bis zum XVI. Jahrhundert.“ (8 Bde.) war bisher in erster (1859–1872) und zweiter Auflage (1869–1874) erschienen; die dritte Auflage erschien von 1875 bis 1881.</note></seg>, della quale, giusta quel che afferma il <persName key="G001053">Cotta</persName>, si principierà la <bibl corresp="G003436 G003443 G003450 G003457 G003464 G003471 G003478 G003483">terza edizione</bibl> nell’anno prossimo. Ne sono contentissimo, porchè rare volte avviene, che <pb n="1v"/>un’autore sopravive alla seconda edizione di un’opera sua di tanta mole. Quando lei sarà ritornato a Roma, troverà quattro volumi della storia belli e pronti nella sua casa; alla mancanza dei due primi supplicò poi colla terza edizione. Vi troverà del pari il <bibl corresp="G003509">volume legato della Lucrezia</bibl> che sarà di competenza sua propria, mentre un altro <add place="superlinear">volume</add> legato egualmente sarà da spedirsi al <seg type="comment"><orig>nostro buon amico <persName key="G001221">Guglielmi</persName></orig><note xml:id="nnby_pwn_zlb">Domenico Guglielmi war der Neffe des Domherrn Guglielmi in Trani. Gregorovius besuchte ihn gemeinsam mit Raffaele Mariano und seinem Bruder Julius während süditalienischen Reise im Mai 1874 in Trani (siehe RT, S. 339–342).</note></seg>. E già a cui dato la commissione di spedirlo direttamente a <placeName key="G000887">Trani</placeName>, se non che mi sono dimenticato del nome di battesimo del Guglielmi. Intanto mi venne <seg type="comment"><orig>un’altra offerta di traduzione da una signora Inglese</orig><note xml:id="ngjw_qwn_zlb">Er erwähnt die Anfrage zur Übersetzung der „Lucrezia Borgia“ (1874) in zwei Briefen an die Cotta’sche Buchhandlung vom 7.7. und 30.7.1874; aus letzterem Schreiben geht hervor, dass sich die Hamburger Schriftstellering Helen Zimmern (1846–1934) ebenfalls zur englischen Übersetzung anbot: „ich habe heute ein Schreiben aus London erhalten, unterzeichnet Helen Zimmern, wenn ich richtig lese. Diese Dame, welche mir unbekannt ist, hat nach dem, was sie mir mitteilt, zuvor an Sie geschrieben, betreffend die Autorisation einer Übersetzung der „Lucrezia Borgia.“ Ich habe bereits in Rom eine ähnliche Anfrage von einer englischen Dame erhalten, diese aber abgelehnt, weil ich Niemand die Erlaubniß dieser Art erteilen will, aufs Ungewisse hin, das heißt ohne daß der Antragsteller mir mit einer praktischen Offerte eines für die Übersetzung bereits gewonnenen Verlegers entgegenkommt.“ Die Übersetzung unterblieb; erst posthum erschien eine englische Übersetzung: Lucretia Borgia. According to Original Documents and Correspondence of her Day. Translated from the Third German Edition by John Leslie Garner. New York: Appleton &amp; Co 1903.</note></seg>, la quale però, non essendo sostenuta da alcuna relazione pratica con uno stampatore pronto all’affare, ho creduto finora di dover declinare.</p>
+                <p>In quanto alla<bibl corresp="G003507"> terza edizione della Lucrezia</bibl>, non ne sò precisamente nulla. Anzi suppongo, <pb n="2r"/>che si lascerà aspettare un bel pezzo, porchè una gran parte dei lettori avidi di scandalo certissimamente ne sarà rimasta disillusa. Non importa tanto; la cosa è buona e tutta unica, e ne avremo anche la terza edizione, per la quale appunto ho potuto servirmi di alcuni nuovi documenti di molta importanza.</p>
+                <p>In queste settimane piovose incominciai anche la descrizione della prima parte <seg type="comment"><orig>del nostro bellissimo viaggio</orig><note xml:id="nvcg_swn_zlb">Gregorovius war am 14.5.1874 mit seinem Bruder Julius (1818–1891) von Rom nach Süditalien aufgebrochen; noch am gleichen Tag stieß Raffaele Mariano in Caserta zu ihnen. Gemeinsam führten sie die Reise fort, und machten dabei u.a. in Benevent, Foggia, Lucera, Manfredonia, dem Kap Gargano, Foggia, Barletta, Bari, Tarent und Massafra Station. In Trani trennte sich Mariano am 23.5. von den Gregorovius-Brüdern, welche am 6. Juni nach Rom zurückkehrten (siehe RT, S. 339–342). Im Anschluss an die Reise verfasste Gregorovius einige Beiträge über die Reise für die Augsburger Allgemeine, von denen diejenigen über Lucera, Manfredonia und das Kap Gargano in den 5. Band der „Wanderjahre in Italien“ (1877) aufgenommen wurden, und welche Mariano später unter dem Titel „Nelle Puglie“ (1882) übersetzte. Siehe Ferdinand Gregorovius: „Lucera, die Saracenen-Colonie der Hohenstaufen in Apulien“, ED in Beilage zu Nr. 276–277 der AZ. Augsburg: Cotta 3.-4.10.1874. S. 4293–4295 und S. 4311–4312; „Manfredonia“: ED in Beilage zu Nr. 288–289 der AZ. Augsburg: Cotta 15.-16.10.1874. S. 4473–4474 und S. 4490–4491; „Der Erzengel auf dem Berge Garganus“: ED in Beilage zu Nr. 311–313 der AZ. Augsburg: Cotta 7.-9.11.1874. S. 4833–4834, S. 4850–4852 und S. 4859–4860; Raffaele Mariano: „Nelle Puglie. Con noterelle di viaggio del traduttore. Versione dal tedesco di Raffaele Mariano.“ Florenz: Barbèra Editore 1882.</note></seg>, massime di tutto ciò, che abbiamo visto in <placeName key="G000718">Lucera</placeName>, in <placeName key="G000723">Manfredonia</placeName>, e sul <placeName key="G067849">Gargano</placeName>. Fra giorni finirò l<bibl corresp="G003986 G003987">’articolo</bibl>, che sarà stampato forse nel corso dell’Ottobre nell’<orgName key="G000462">Allgemeine Zeitung</orgName>.</p>
+                <p>La società in questi bagni di Traunstein era buona, e talvolta anche allegra; vi avevano alcune Signore, che cantavano ogni sera perfettamente bene, massime i Lieder di <persName key="G001587">Schubert</persName> e <persName key="G000962">Beethoven</persName>. Ora sono partite, e presto se ne vanno i miei migliori amici di qua. Venne pure <seg type="comment"><orig><persName key="G001573">Schack</persName> di <placeName key="G000734">Monaco</placeName></orig><note xml:id="nocr_5wn_zlb">Adolf Friedrich Graf von Schack (1815–1894), Kunstmäzen, Literat, Hispanist und Arabist, stand seit 1856 mit Gregorovius in freundschaftlichem Kontakt. Schack war bereits im Vorjahr aus München nach Traunstein gekommen (siehe RT, 1873, S. 332). Nach Gregorovius’ Tod im Jahr 1891 gab er eine Sammlung von dessen Gedichten heraus (Gedichte, ed. Adolf Friedrich Graf von Schack, Leipzig 1892). Schacks umfassende Kunstsammlung ist noch heute in München zugänglich.</note></seg>, ma poco vi stette, perché trovò il vitto nella <seg type="comment"><orig>locanda</orig><note xml:id="nx2q_vwn_zlb">Er ließ sich während seines Traunstein-Aufenthalts im Gasthaus des Weinwirts und Kaufmanns Josef Wispauer (1785–1878) nieder (siehe den Brief von Gregorovius an die Cotta’sche Buchhandlung, 28.7.1874).</note></seg> troppo <pb n="2v"/>meschino. Il massimo difetto che sento è quello del vino, cui sono avvezzate troppo, non da berne, come sa, ma per necessità fisica. E tante volte col fratello mio ripenso ai lauti banchetti di <placeName key="G000672">Foggia</placeName>, Manfredonia, <placeName key="ed_ujj_sgh_zkb">Andria</placeName> e <placeName key="G000882">Taranto</placeName>.</p>
+                <p>Noi vi resteremo ancora, come credo, <seg type="comment"><orig>fino agli otto del Settembre</orig><note xml:id="ncsq_wwn_zlb">Ab dem 10. September ließ er sich mit seinem Bruder Julius in München nieder (siehe den Brief von Gregorovius an Raffaele Mariano, 20.9.1874).</note></seg>, quindi ci recheremo direttamente a Monaco, per prenderci una casa, e ciò fatto <seg type="comment"><orig>faremo una corsa rapida a <placeName key="G000879">Stuttgart</placeName> e a <placeName key="G000685">Heidelberg</placeName></orig><note xml:id="nqs5_xwn_zlb">Mit Julius Gregorovius brach er zunächst am 2. Oktober von München nach Stuttgart zum Cotta-Verlag auf, um ein geplantes ein „monumentales Album Hohenstaufischer Erinnerungen“ aus deutschen und italienischen Monumenten und Schauplätzen zu besprechen (siehe den Brief vom 24.9.1874 von Gregorovius an Cotta) und war dann in Heidelberg (siehe den Brief von Gregorovius an Manfred Lindemann-Frommel, 24.9.1874), wo sie mit dem in Wiesbaden im Ruhestand lebenden engen Königsberger Freund, dem ehemaligen Kaufmann Louis Harder (1821-nach 1891) zusammentrafen.</note></seg>. Sono curioso di sapere, quale direzione lei abbia presa attualmente. Se almeno le fosse benigno il cielo di questa terra dei <seg type="comment"><orig>Malloijeti</orig><note xml:id="nbl1_zwn_zlb">Einwohner des Gebietes von Maloja (Kanton Graubünden).</note></seg>, mentre la percorre <add place="intralinear">collo</add> scopo <add place="superlinear">di</add> rinvigorirsi nella salute. Mi scriva, la prego, ben presto, e mi dia di nuovo l’indirizzo suo. Il mio fratello le manda mille saluti, ed io l’abbraccio fraternamente</p>
+                <closer>
+<signed rendition="#right">FGregorovius. </signed>
+<note type="postscript" place="left" rendition="#rotate90">M’incontrai avantijeri con <seg type="comment"><orig><persName key="G001335">Keudell</persName></orig><note xml:id="nadf_1xn_zlb">Der aus Königsberg stammende Robert von Keudell (1824–1903) war von Anfang Juni 1873 bis Mai 1887 preußischer Gesandter beim Quirinal. Gregorovius hatte von Keudell in Rom kennengelernt und seinen postitiven Eindruck auch im Tagebuch festgehalten (RT, 28.6.1873, S. 331; so auch im Brief von Gregorovius an Hermann von Thile, 14.9.1873, GSA Weimar / 96/937, 43 – gedruckt in: Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 93–94).</note></seg> in <placeName key="G000867">Salzburg</placeName>, donde andammo insieme fino a Traunstein, proseguendo egli la strada per <placeName key="G000636">Berlino</placeName>. Ebbi diverse lettere della buona <persName key="G001374">Lindemann</persName>, ella si mantiene discretamente bene, e cosi fà anche <persName key="G001375">lui</persName>. </note>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

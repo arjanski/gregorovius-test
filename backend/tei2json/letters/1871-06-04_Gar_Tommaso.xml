@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000303">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Tommaso Gar in Venedig. Rom, 4. Juni 1871</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Biblioteca Comunale di Trento</repository><idno>busta BCT1–2257/52</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2¾ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Brockhaus wird ihm zwei Exemplare seines soeben erschienenen Bandes seiner „Von Ravenna bis Mentana“ (1871) zusenden. Er soll einen davon an Gabriele Rosa weiterleiten, der seine „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) mehrmals positiv rezensiert hat. Der Vertrag für die Fortsetzung der italienischen Übersetzung des Werks bei Antonelli ist unterzeichnet. Der bereits erschienene erste Band der Übersetzung (1866) soll laut Rinaldo Fulin wiederabgedruckt werden. Gregorovius wünscht ein neues Titelblatt, eine Einleitung Gars sowie den Austausch der ersten 21 Seiten durch die Version des Textes aus der zweiten deutschen Auflage des ersten Bandes (1869). Er ist mit Karl August Lindemann-Frommel in die Abbruzzen gereist. Grüße an Madeleine Creutzer.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1871-06-04" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001158">Gar, Tommaso (1808–1871)</persName>
+<placeName key="G000894">Venedig</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Roma, 4. Giugno 1871.</dateline>
+                    <salute>Caro amico Gar,</salute>
+                </opener>
+                <p>il <bibl sameAs="G003301">quarto volumetto</bibl> der <foreign xml:lang="deu">Wanderjahre in Italien</foreign> è uscito. Ordinai, che da <placeName key="G000712">Lipsia</placeName> vi si mandassero due copie di esso. L’una, accetterete voi come piccolo segno della mia amicizia, l’altra vi prego di spedire <seg type="comment"><orig>al cavaliere <persName key="G001556">Rosa</persName></orig><note xml:id="nmp1_yxy_ylb">Gabriele Rosa (1812–1897) war Historiker, Politiker und Schriftsteller. Er war ein Anhänger der „Giovine Italia“ und Giuseppe Mazzinis, wodurch er sich eine mehrjährige Gefangenschaft am Spielberg und Exilierung in Piemont und der Schweiz einhandelte. Als Wissenschaftler widmete er sich vor allem Arnold von Brescia (ca. 1090–1155); daneben schrieb er mehrere Beiträge über Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ im „Archivio Storico Italiano“. Laut Gregorovius wurde die Übersetzung der „Geschichte der Stadt Rom im Mittelalter“ sogar nur dank eines Artikels von Rosa auf den Weg gebracht: „Man wird die Geschichte der Stadt in Italien übersetzen, in Folge des Artikels, welchen das Archivio storico von Florenz darüber brachte“ (siehe Gregorovius an Johann Georg Freiherr Cotta von Cottendorf, 11.8.1862). Vgl. zu Bd. I der „Geschichte der Stadt Rom im Mittelalter“. In: Archivio Storico Italiano. Neue Serie. Bd. 15. Teil 1. Florenz: Vieusseux 1862. S. 86–108.</note></seg> (<placeName key="G000635">Bergamo</placeName> o <placeName key="G000640">Brescia</placeName>?) in nome mio, come segno di gratitudine verso di lui, per cagion di tanta benevolenza, ch’egli mi a dimostrato scrivendo <bibl corresp="G002651 G002689 G002690">diversi articoli sopra <seg type="comment"><orig>la mia <bibl corresp="G003441 G003448 G003455 G003462 G003469 G003476 G003485">Storia di Roma</bibl></orig><note xml:id="njvt_1yy_ylb">Zum Zeitpunkt waren die Bände 1–7 der „Geschichte der Stadt Rom im Mittelalter“ (1859–1870) erschienen.</note></seg></bibl>.</p>
+                <p>Ho avuto il nuovo patto dalla parte della <seg type="comment"><orig>Ditta <orgName key="G000484">Antonelli-Rebeschini</orgName></orig><note xml:id="nsbv_gyy_ylb">Der Verlag, der von 1826 bis mindestens 1895 bestand, figurierte nicht unter diesem Namen, sondern nur unter dem Namen des Gründers Giuseppe Antonelli oder schlicht „Antonelli“. Wie aus Gregorovius’ Tagebuch hervorgeht war zum Zeitpunkt der Wiederaufnahme der Übersetzung der „Geschichte der Stadt Rom im Mittelalter“ ein gewisser Rebeschini der Administrator des Verlags. (5.7.1872, S. 325)</note></seg>; tutto stà in buona via, come mi pare.</p>
+<p>Siccome il Signor <persName key="G001151">Fulin</persName> mi communica che il <bibl sameAs="G004366">I volume già stampato</bibl> dal testo della <bibl sameAs="G003485">edizione I</bibl>, rimanendo tale quale egli è, <pb n="1v"/>deve avere però nuovo frontispizio e prefazione nuova, mi è venuta l’idea di questa <seg type="comment"><orig>dimanda</orig><note xml:id="ncyp_hyy_ylb">Historische Variante von „domanda“.</note></seg>, se mai fosse possibile di sostituire, alle prime pagine 21 già stampate altrettante fatte sul testo della <bibl sameAs="G003489">2<hi rendition="#sup">a</hi> edizione</bibl>; perché ivi ho rifatto del tutto il testo primitivo senza diminuire od accrescere la quantità delle pagine primitive. Oltre di ciò, desidero, che si levi dal volume I la prefazione scritta da me, e che essa si rimpiazzi con <seg type="comment"><orig>una introduzione tutta da voi</orig><note xml:id="nh4l_jyy_ylb">Es kam nicht mehr dazu, da Gar am 27. Juli 1871 verstarb. Das Vorwort (Prefazione) wurde von dem Rechtsanwalt und Übersetzer Renato Manzato verfasst (S. V-XIV), der es mit „Venezia, nell Aprile 1872“ firmierte. Manzato hatte auch für die erste italienische Auflage 1866 die Übersetzung besorgt. In dieser wandte sich der Verleger Antonelli mit einem Vorwort an die Leser und Gregorovius verfasste eine Vorbemerkung (Avvertimento). - Auf dem Frontispiz der zweiten italienischen Auflage 1872 wurde nun eigens vermerkt, dass es sich hier um die erste italienische Übersetzung handelt, die auf der zweiten deutschen Edition (1869) beruht („Prima Traduzione Italiana Sulla Seconda Edizione Tedesca“). </note></seg>, caro Gar, che siete appunto quell’Italiano dotto, da cui vorrei esser presentato alla <placeName key="G000690">vostra patria</placeName>. Spero chè non mi negherete questa <pb n="2r"/>dimanda.</p>
+<p>Sono ritornato da pochi giorni da<seg type="comment"><orig> un viaggio</orig><note xml:id="nuyd_lyy_ylb">Die Reise in das „Abruzzenland“, nach der Gregorovius „lange getrachtet hatte“ dauerte von 26.5. bis 1.6.1871 (siehe RT, 8.6.1871, S. 305f.).</note></seg> di piacere fatto in compagnia di <persName key="G001375">Lindemann</persName> nel paese degli <placeName key="G004690">Abruzzi</placeName> fino sotto al <placeName key="G000681">gran Sasso d’Italia</placeName>, ritornando indi per la parte di <placeName key="G000621">Avezzano</placeName> e <placeName key="G000880">Tagliacozzo</placeName>.</p>
+                <closer>Spero che starete, di buona salute, e che gode, altrettanta la signora <persName key="G001056">Baronessa</persName>, cui desidero di esser racommandato.<salute rendition="#right">Tutto vostro di cuore</salute> <signed rendition="#right">FGregorovius</signed> </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

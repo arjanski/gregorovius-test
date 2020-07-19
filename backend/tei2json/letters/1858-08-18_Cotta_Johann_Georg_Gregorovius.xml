@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000328">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Johann Georg Freiherr Cotta von Cottendorf an Ferdinand Gregorovius in Florenz. Stuttgart, 18. August 1858</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 82, Mappe 4 + Karton 59, Mappe 347 (nach H, gekürzt)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+<witness select="#this">
+<msDesc type="concept"><msIdentifier><institution>DLA Marbach</institution><collection>Cotta-Archiv</collection><idno> <idno type="shelfmark">Cotta-Briefe (18a) vfrH</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de"> Zurück in Stuttgart, hat er das Manuskript der ersten zwei Bände der „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) gelesen. Er gratuliert zu der „imponierenden“ Leistung, der Stil erinnert ihn an Leopold von Ranke, ohne an ihn heranzureichen. Er findet die katholische Kirche nicht beleidigt; der Absatz in katholischen Ländern dürfte aber geringer ausfallen, sollten die weiteren Bände diesen Eindruck nicht bestätigen. Er bietet ihm die Übernahme des Verlags an. Einen Auszug aus Giovanni Paolo Limperani di Orezzas „Istoria della Corsica‟ (1779–1780) über seinen Vorfahr Gianantonio Cotta erwartet er mit Interesse. Auch würde er sich freuen, wenn sein Vorfahr Herlembaldus Cotta in der „Geschichte der Stadt Rom im Mittelalter“ kurze Erwähnung fände. Wenn Caroline Ungher die einstige Verlobte seines Freundes Nicolaus Lenau aus Frankfurt ist, wäre er für weitere Informationen dankbar. </p>
+<p>Italienisch: </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">Back in Stuttgart, he read the manuscript of the first two volumes of the „Geschichte der Stadt Rom im Mittelalter“ (1859-1872). He congratulates on the „impressive“ performance, the style reminds him of Leopold von Ranke, without quite reaching him. He does not find the Catholic Church insulted; but sales in Catholic countries are likely to be lower, should the other volumes not confirm this impression. He offers to publish the work. He awaits an excerpt from Giovanni Paolo Limperani di Orezza’s "Istoria della Corsica" (1779-1780) about his ancestor Gianantonio Cotta with great interest. He would also be pleased if his ancestor Herlembaldus Cotta was briefly mentioned in the „Geschichte der Stadt Rom im Mittelalter“. If Caroline Ungher is the former fiancée of his friend Nicolaus Lenau from Frankfurt, he would be grateful for further information. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001053">Cotta von Cottendorf, Carl Freiherr von (1835–1888)</persName>
+<placeName key="G000879">Stuttgart</placeName><date when="1858-08-18" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000671">Florenz</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">20. Juli 1858 (DLA Marbach, Cotta-Archiv, Cotta-Briefe, 16)</ref>
+<ref type="next">25. August 1858 (DLA Marbach, Cotta-Archiv, Cotta-Briefe, 18)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener><hi rendition="#u">Abschrift</hi> <lb/><salute>Hochgeehrter Herr</salute> </opener>
+<p>ich bin vor wenigen Tagen wieder in die Heimat zurückgekehrt.</p>
+<p>Mein Erstes war es mir <seg type="comment"><orig>das Manuscript der zwei ersten Bände Ihrer <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Geschichte Roms im Mittelalter</bibl> geben zu lassen</orig><note xml:id="nyrd_ds5_5lb">Gregorovius hatte am 25.6.1858 das Manuskript der ersten beiden Bände seiner „Geschichte der Stadt Rom im Mittelalter“ zur Einsicht an Johann Georg Cotta gesandt, nachdem dieser ihm die Übernahme des Verlags in Aussicht gestellt hatte (siehe den Brief von <ref target="G000116">Gregorovius an Cotta, 22.6.1858</ref>).</note></seg>, und diese zu durchlesen. Gestern Nacht bin ich damit zu Ende gekommen, und zwar mit hohem und anerkennungsvollem Beifall für Ihre grandiose Leistung.</p>
+<p>Einzelne Persönlichkeiten treten einem in plastischer Wirklichkeit aus Ihrem Werke entgegen und das Ganze macht einen imponierenden Eindruck. <seg type="comment"><orig>Im Style haben Sie <hi rendition="#aq"><hi rendition="#aq"><persName key="G001525">Ranke</persName></hi></hi> sich genähert, wie mir scheint, ihn aber nicht ganz erreicht</orig><note xml:id="ntcb_gs5_5lb">Leopold Ranke (1795–1886) hatte die Schule der Quellenkritik begründet, die die philosophisch-teleologische Historiographie verdrängte. Die hierfür berühmte Formulierung Rankes: „Jede Epoche ist unmittelbar zu Gott“ (in den Vorträgen vor Maximilian von Bayern, 1854), trifft weder auf die Geschichtsvorstellung, noch auf die Geschichtsdarstellung von Gregorovius als Hegelianer zweiter Generation zu. Entsprechend heftig ist seine Reaktion in dem immer wieder zitierten Antwortbrief an Cotta vom 25.8.1858. Das machen auch die Bemerkungen deutlich, die beide übereinander fallenlassen. Während von Ranke kolportiert wurde, er habe Gregorovius als „Historiker für Touristen“ bezeichnet, schreibt Gregorovius über Ranke in seinem Tagebuch, auf dessen Mangel an eigener Anschauung anspielend, er gehe „durch die Geschichte wie durch eine Bildergalerie, wozu er geistreiche Noten schreibt.“ (RT, 28.4.1867, S. 224).</note></seg>. Uebrigens gebe ich zu, daß es nicht blos <hi rendition="#u" hand="">einen</hi> historischen Styl gebe, wenn uns gleich ein idealer Prototyp derselben vorschwebt, mit dessen Maas man zu messen gewohnt ist.</p>
+<p><seg type="comment"><orig>Das Dogma der kathol<ex>ischen</ex> Kirche finde ich nicht verletzt, noch den weltlichen Usus dieser Kirche principiel angefeindet</orig><note xml:id="noyz_ms5_5lb">Gregorovius hatte diese Bedenken brieflich zu widerlegen versucht (siehe die Briefe von Gregorovius an Cotta, <ref target="G000116">22.6.</ref> und <ref target="G000049">20.7.1858</ref>) und ihm schließlich das Manuskript zugesandt, weil Cotta ihm zuletzt am 9.7.1858 geschrieben hatte: „[…] das Lesen der ersten zwey Bände wird mich beßer orientiren als alle Briefe.“ (K: DLA Marbach, Cotta-Archiv, Cotta-Briefe, 15a).</note></seg>. Haben Sie die Absicht in diesem Tone und Haltung fortzufahren, so ist die <orgName key="G000523"><hi rendition="#aq">JGCotta</hi>schen Buchh<ex>andlung</ex></orgName> entschloßen den Verlag Ihres Werkes zu übernehmen, wenn ich dieß voraussetzen darf.</p>
+<p>Diese Voraussetzung ruht auf dem Motive, daß der Vertrieb des Werkes in katholischen Landen behindert sein würde, wenn sie nicht zuträfe.</p>
+<p>Dieß aber würde die Absatz Möglichkeit sehr beschränken, welche sich die <hi rendition="#aq">JGCotta</hi>sche Buchh<ex>andlung</ex> (sich auf den Verkauf von <bibl corresp="G004765"><hi rendition="#aq"><hi rendition="#aq">Ranke</hi>s</hi> französ<ex>ischer</ex> Geschichte</bibl> stützend) vielleicht nicht so bedeutend denkt, wie Sie.</p>
+<p><pb n="1v"/><add place="left" hand="#author"><metamark target="#seg-1" function="used" rendition="#mMM"/></add><seg xml:id="seg-1">Dieß ist auch der Grund, warum Sie für jeden einzelnen Band von 25–30 Bogen ein Honorar von 500 Th<ex>a</ex>l<ex>e</ex>r Pr<ex>eußisch</ex> genehmigen läßt.</seg></p>
+<p><seg type="comment"><orig>Sind Sie damit einverstanden, so kann sofort ein Verlagsvertrag entworfen und Ihnen zu Unterschrift zugesandt werden.</orig><note xml:id="nazh_rs5_5lb">Der Verlags-Vertrag über Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ wurde am 9. September von Gregorovius unterzeichnet, er sah eine Auflage von 1000 Exemplaren und sechs Bände zu 25–30 Bogen vor. Als Honorar wurden je 600 Taler für die ersten beiden Bände und für die vier folgenden je 500 Taler vereinbart; nach Abschluss des Werks sollten weitere 400 Taler fällig sein, wenn bis dahin mehr als 600 Exemplare verkauft sein sollten (DLA Marbach, Cotta-Verträge 1).</note></seg></p>
+<p><seg type="comment"><orig>Der Auszug aus <bibl sameAs="G004785"><hi rendition="#aq">Limperani</hi></bibl> wird mir willkommen sein, wie jede Andeutung auf <hi rendition="#aq"><hi rendition="#aq"><persName key="G004725">Gianantonio</persName></hi></hi></orig><note xml:id="nrbn_5s5_5lb">Cotta hatte um den Auszug aus Giovanni Paolo Limperani di Orezza: Istoria della Corsica da’Tirreni suoi primi abitatori fin al secolo XVIII (2 Bde., Rom: Salomonus 1779–1780, Bd. 2, S. 221, 248) über seinen italienischen Vorfahr, Gianantonio Cotta, gebeten, der 1468 Vizekönig von Korsika war. </note></seg>, weil der Wechsler, der <seg type="comment"><orig><persName key="G004713"><hi rendition="#aq">Herlembald</hi>’s</persName> Belehnung mit dem <hi rendition="#aq"><seg type="comment"><orig>Gonfalon</orig><note xml:id="nij4_xs5_5lb">Von ital. gonfalone: Banner.</note></seg></hi> der kathol<ex>ischen</ex> Kirche ausgeführt hat</orig><note xml:id="ndnr_zs5_5lb">Cotta hatte Gregorovius in seinem Schreiben vom 24. Mai 1858 auch um Auskunft zu seinem Vorfahr Herlembaldus Cotta (†1075) gebeten (K: DLA Marbach, Cotta-Archiv, Cotta-Briefe, 14a), dem bei einem Kreuzzug gefallenen Mailänder Kapitän, der von Urban II. 1096 selig gesprochen wurde.</note></seg>, gerne an die Landung <hi rendition="#aq">Gianantonios</hi> in <placeName key="G000710"><hi rendition="#aq">Corsica</hi></placeName> gingen.</p>
+<p>Werden wir einig über die Geschichte Roms im Mittelalter, wie ich hoffe und wünsche, so darf ich wohl auch hoffen, <seg type="comment"><orig>daß Sie <hi rendition="#aq">Herlembald</hi> in derselben, wenn auch ganz kurz, anführen</orig><note xml:id="nbfn_gt5_5lb">Schon im Brief vom <ref target="G000116">22.6.1858</ref> hatte Gregorovius Cotta versprochen, Herlembaldus Cotta in seiner „Geschichte der Stadt Rom im Mittelalter“ angemessen zu würdigen (siehe Bd. 4, 1862, S. 147–148).</note></seg>. </p>
+<p>Ich wünsche, daß Ihre <seg type="comment"><orig><hi rendition="#aq">Villeggiatur</hi> ab <hi rendition="#aq">Florenz</hi></orig><note xml:id="nzts_3t5_5lb">Ital.: Landaufenthalt, Sommerfrische. Gregorovius war vom 11. Juli 1858 bis zum 28. September 1858 zu Gast in der Villa der Sabatiers in Florenz (siehe RT, 15.7.1858, S. 72–75).</note></seg> Ihrer Gesundheit so viele Wirkung gebracht habe, als mir meine Reise in die Alpen.</p>
+<p>Sollte <seg type="comment"><orig><persName key="G001665">Frau <hi rendition="#aq">Unger</hi></persName> das <placeName key="G00067499">Frankfurter</placeName> Fräulein sein, mit dem <hi rendition="#aq"><persName key="G001359">Lenau</persName></hi> verlobt war</orig><note xml:id="nknr_kt5_5lb">Der Florentiner Freund von Gregorovius, Françoir Sabatier (1818–1891), war seit 1841 mit der ehemaligen Wiener Opernsängerin Caroline Ungher-Sabatier (1803–1877) verheiratet, mit der Nikolaus Lenau (1802–1850) 1839/40 eine Liebesbeziehung hatte. In Frankfurt hatte sich Lenau 1844 mit der Frankfurter Bürgermeisterstochter Marie Behrends (1811–1889) verlobt, einen Monat später verhinderte ein Schlaganfall die Heirat. </note></seg>, so würde mich das sehr interessiren. <seg type="comment"><orig><hi rendition="#aq">Lenau</hi> war mein Herzensfreund, und diesem Verhältnß entsprechend ruft so manche seiner Mitteilungen aus der Zeit seines Versprechens tief in meinem Herzen</orig><note xml:id="nl4r_mt5_5lb">Lenau hatte angesichts der bevorstehenden Verlobung im Juli 1844 mit Johann Georg von Cotta einen umfassenden Verlagsvertrag über seine „Gedichte“ abgeschlossen – sie gingen in diesem Jahr in die 7. Auflage -, der Cotta gegen Zahlung von 200000 Gulden und weitere 2500 Gulden an Lenau für jede künftig erscheinende Ausgabe sämtliche Rechte abtrat.</note></seg>.</p>
+                <closer>
+<salute rendition="#c">In ausgezeichneter wahrer Hochachtung Ihr ganz ergebener</salute>
+<dateline>C 18/VIII 58<lb/></dateline>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

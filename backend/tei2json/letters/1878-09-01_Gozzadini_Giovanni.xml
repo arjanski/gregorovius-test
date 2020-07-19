@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_t4w_fjw_jlb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. Berchtesgaden, 1. September 1878 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Adr.: All’Illmo Signore / il signor Conte Giovanni Gozzadini / Senatore del Regno / Bologna</p>
+<p>ein Aleardi gewidmeter Artikel in der „Allgemeinen Zeitung“ (Nr. 241, 29.8.1878)</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell'Archiginnasio </institution><collection>Ms. Gozzadini 442</collection><idno>(31)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Beileidsschreiben zum Tod Aleardo Aleardis, der ein enger Freund der Gozzadinis war. Er lobt die schriftstellerische Leistung des Poeten sowie dessen Charakter. Aleardi hatte sich beim Kultusministerium für die Fortsetzung der italienischen Ausgabe seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) eingesetzt. Den von der „Allgemeinen Zeitung“ Aleardi gewidmeten Aufsatz (Nr. 241, 29.8.1878) schickt er mit. Über seine Reise mit Friedrich Althaus, den er 25 Jahre nicht gesehen hat. Berchtesgaden lässt ihn an Shakespears „The Tempest“ (vermtl. 1611) denken. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000633">Berchtesgaden</placeName><date when="1878-09-01" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni conte (1810-1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">Berchtesgaden in Baviera <lb/>1. Sett<ex>em</ex>bre 1878.</dateline>
+<salute rendition="#c">Ill<hi rendition="#u" hand=""><ex>ustrissi</ex>mo</hi> signor Conte,</salute>
+</opener>
+<p>allorchè le scrissi <seg type="comment"><orig>l’ultima mia</orig><note xml:id="nqgf_5rj_1mb">Siehe den Brief von Gregorovius an Giovanni Gozzadini vom 1.8.1878.</note></seg> di <placeName key="G000734">Monaco</placeName>, commisi un atto di dimenticanza, che davvero sarebbe imperdonabile, se egli fosse stato effettuato da altre cause, che la troppa fretta del mio scrivere. Intendo l’aver passato sotto silenzio la dolorosa perdita provata da tutti gli Italiani, e particolarmente ancora da Loro Signorie, nella <seg type="comment"><orig>morte del compianto <persName key="G000912">Aleardi</persName></orig><note xml:id="nnw2_vrj_1mb">Der aus Verona stammende, politisch aktive Poet Aleardo Aleardi (1812), geboren als Gaetano Maria Aleardi, hatte in Padua Jura studiert und sich von dort nach Verona begeben, wo er sich der Dichtung und Kunstkritik zuwandte. Er verbrachte mehrere Jahre in Haft, weil er gegen Österreich kämpfte und kam 1864 nach Florenz, um den Lehrstuhl für Ästhetik an der Akademie der schönen Künste zu übernehmen. Seit Mitte der 1850er Jahre feierte Aleardi Erfolge mit seiner Lyrik und bereits ausgezeichnet mit verschiedenen Ritterorden wurde er 1873 zum Senator ernannt. Er verstarb am 17. Juli in Verona. Wie Gregorovius war auch Aleardi den Gozzadinis Zeit seines Lebens freundschaftlich verbunden.</note></seg>.</p>
+<p>Ne sono stato commosso anch’io non solo perchè in esso lui venne estinta <seg type="comment"><orig>la più melodiosa voce che la poesia italiana nei tempi moderni abbia mai alzata</orig><note xml:id="nmzv_wrj_1mb">Zu Aleardis wichtigen Schriften zählen die „Canti“ (Florenz: G. Barbera 1864), welche circa 20 Jahre seines Schaffens bündeln. Neben der Poesie sind an seine historischen und kunstkritischen Texte zu erinnern: Della pittura mistica e di frate Angelico (Turin: L’arte in Italia 1869); Sull’ingegno di Paolo Caliari (Venedig: Tipografia Visentini 1872).</note></seg>, ma ancora per esser egli stato un uomo eminente per tutte quelle qualità di cuore e di spirito, che formano un carattere raro e lo rendono amabile e dapertutto amato. Per ciò duolmi, che non mi venne concesso mai quel che tanto desiderai, di riverire cioè personalmente <pb n="2"/>l’insigne uomo, tanto più, che sono sempre mai rimasto ricordevole di <seg type="comment"><orig>una dimostrazione di simpatia fattami dall’ Aleardi</orig><note xml:id="nrs3_yrj_1mb">Aleardi hatte sich mit dem Vorschlag, die Bücher Gregorovius’ als Pflichtlektüre in den Schulen Italiens einzuführen, an das Kultusministerium gewandt. Dadurch sollte die Finanzierung der italienischen Übersetzung von dessen „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) gesichert werden. Der Deutsche hatte über den gemeinsamen Freund Gozzadini von Aleardis Unternehmung erfahren. Siehe dazu den Brief von Gregorovius an Aleardo Aleardi vom 14.3.1867.</note></seg>, or alcuni anni sono, dietro di sua propria intercessione, gentilissimo signor Conte. </p>
+<p>La <orgName key="G000462">Allgemeine Zeitung</orgName> ha riprodotto <seg type="comment"><orig>un articolo, dedicato alla memoria dell’ Aleardi</orig><note xml:id="nxtp_zrj_1mb">Beilage zu Nr. 241 der AZ Augsburg. Cotta 29.8.1878. S. 3551–3552: https://opacplus.bsb-muenchen.de/Vta2/bsb11364619/bsb:3258013?page=431.</note></seg>: esso è dato di <placeName key="G000635">Bergamo</placeName> e scritto da un anonimo a me ignoto; glielo mando supponendo, che egli non tornerà discaro a lei come alla signora <persName key="G001092">Contessa</persName>.</p>
+<p>Dopo un viaggio fatto nelle provincie dell’ <placeName key="G000647">Austria</placeName> superiore e della <placeName key="ed_cys_z1l_rlb">Stiria</placeName>, <seg type="comment"><orig>accompagnandovi un mio <persName key="G000920">amico</persName>, venuto di <placeName key="G000716">Londra</placeName> a visitarmi</orig><note xml:id="ntyj_bsj_1mb">Mit Althaus war er über Traunstein, Reichenhall, Salzburg und Gmünden nach Aussen in der Steiermark sowie Berchtesgaden gereist: „Seit dem Jahre 1853, wo wir uns in Capri getrennt hatten, hatte ich Althaus nicht mehr wiedergesehen. Die große Veränderung, welche eine so lange Zeit in uns hervorgebracht, war anfangs in unserem Verhältnis fühlbar, doch stellte sich alsbald die unveränderte Grundlage heraus, auf welcher unsere Freundschaft zueinander steht. […] Durch dies mehrwöchentliche Zusammensein gewann unser langjähriger, nur durch briefliche Mitteilung unterhaltener Verkehr die lebendige Persönlichkeit.“ (RT, Sommer und Winter 1878/79, S. 404).</note></seg>, mi sono stabilito in questo centro delle <placeName key="ed_qgm_fbl_rlb">Alpi di Baviera</placeName>, che non esito chiamare il più magnifico e delizioso angolo che possegga <placeName key="G000664">l’Allemagna</placeName>.</p>
+<p>È di certo un paese tanto incantevole per le montagne sublimi che lo circondano, per rivi, laghi, prati e freschezza di boschi secolari, che in nessun altro sito, nemmeno nelle più decantate parti della <placeName key="G000870">Svizzera</placeName>, ho visto il simile. Avvi di quà e di là delle villette nascoste nella solitudine così fantastiche e graziose, che pajono fabbricate per incanto dal Prospero e dall’ Ariele <seg type="comment"><orig>nella tempesta di <persName key="ed_xlb_rsd_rlb">Shaespeare</persName></orig><note xml:id="nwq2_fsj_1mb">Im Theaterstück „The Tempest“ (vrmtl. 1611) von William Shakespeare (1564–1616) handelt vom Schicksal des durch den Bruder vertriebenen Herzog aus Mailand Prospero. Dieser war auf eine Insel geflüchtet, wo er mit Hilfe magischer Kräfte und dem ihm unterstehenden Luftgeist Ariel seine eindringenden Feinde besiegt. Nachdem Prospero seine Ehre wiederhergestellt hat und den Zauberkräften entsagt, erklärt er, nach Mailand zurückkehren zu wollen. Shakespeare lässt das Ende seine Protagonisten allerdings offen.</note></seg>. <seg type="comment"><orig>Qui starò altri cinque giorni ancora, prima di ritornare a Monaco</orig><note xml:id="nevc_gsj_1mb">Er kehrte am 7. September nach München zurück (siehe RT, Sommer und Winter 1878/79, S. 404).</note></seg>. </p>
+<p>Di Lor Signorie</p>
+<closer>
+<salute rendition="#c">servitor affettuosamente devoto</salute>
+<signed rendition="#right">Ferd. Gregorovius </signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

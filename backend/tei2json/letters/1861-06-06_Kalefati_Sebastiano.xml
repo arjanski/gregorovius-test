@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000427">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Sebastiano Kalefati in Montecassino. Rom, 6. Juni 1861</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Montecassino, Archivio dell’Abbazia </repository><collection>Carteggio Kalefati</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Tommaso Leccisotti: Alcune lettere di Ferdinando Gregorovius a Monaci Cassinesi. In: Benedictina. Fascicoli di studi Benededettini. Jg. 14. Fasc. 1. Rom: S. Paolo 1967. S. 147–148</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er reist zur Erholung nach Genazzano. Der Bandenführer Chiavone macht die Gegend um Sora unsicher. Der Kampf um die Eingliederung des Kirchenstaats in das vereinigte Italien steuert seinem Höhepunkt entgegen. Gerüchte über eine geistige Erkrankung Pius IX. sind falsch. Gregorovius hat den Abt von San Paolo fuori le mura, Angelo Pescetelli, und den von Subiaco, Kardinal Girolamo d’Andrea, getroffen. Er kann die „Cronaca Sublacense“ (1628-1630) von Cherubino Mirzio nicht einsehen, weil die Bestände des Archivs von Subiaco in Sicherheit gebracht wurden. Er dankt für Kalefatis Erläuterung des „Registrum Petri Diaconi“ (1131-1133), die an der Datierung der Wiedererrichtung des römischen Senats im Jahr 1143 nichts ändert. Über die unzulänglichen Arbeiten von Antonio Coppi und Flavio Biondo sowie die Quellensammlung von Pier Luigi Galletti. Grüße an Luigi Tosti.</p>
+                <p xml:lang="en">He travels to Genazzano for leisure. The gang leader Chiavone is making the area around Sora unsafe. The fight for the incorporation of the Papal States into the united Italy is heading towards its climax. Rumors of Pius IX being mentally ill Pius IX are false. Gregorovius has met the abbot of San Paolo fuori le mura, Angelo Pescetelli, and that of Subiaco, Cardinal Girolamo d’Andrea. He cannot examine the „Cronaca Sublacense“ (1628-1630) by Cherubino Mirzio, because the holdings of the archive of Subiaco have been taken to safety. He is grateful for Kalefati’s explanation of the „Registrum Petri Diaconi“ (1131-1133), which does not change the date of the reestablishment of the Roman Senate in 1143. On the inadequate works of Antonio Coppi and Flavio Biondo and the collection of sources by Pier Luigi Galletti. Greetings to Luigi Tosti.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1861-06-06" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001326">Kalefati, Sebastiano</persName>
+<placeName key="G000730">Montecassino</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<salute rendition="#c">Carissimo Padre Don Sebastiano,</salute>
+</opener>
+<p>con sommo piacere ricevetti la gentilissima vostra lettera, la quale <del rendition="#s">mi</del> poteva servirmi come testimonio e prezioso documento della viva memoria, che riservate ancora di me. <seg type="comment"><orig>Domani parto per poche settimane a <placeName key="G000678">Genazzano</placeName> nel Lazio</orig><note xml:id="nnq1_23p_vlb">Tatsächlich fuhr er erst am 7. Juli 1861 nach Genazzano und blieb dort bis zum 19. August (siehe RT, S. 133–136).</note></seg>, onde riposarmi un po’ dalle fatiche dell’ inverno; mi metto dunque di nuovo sulla strada di Monte Casino, ma seppure fosse libera dalle <seg type="comment"><orig>bande del <persName key="G000922">Chiavone</persName></orig><note xml:id="non5_f3p_vlb">Luigi Alzoni (1825–1862), genannt Chiavone, war ein Bandit, der in Kampanien und Lazio, vor allem in der Gegend um die Stadt Sora (Provinz Frosinone) sein Unwesen trieb. Nachdem die italienische Regierung, sein Angebot, sich in ihren Dienst zu stellen, abgelehnt hatte, brachte er sich gegen sie in Stellung und wurde zu einem der wichtigsten Bandenführer in Süditalien. Unterstützt und ausgestattet durch die bourbonischen Legitimisten operierte er mit seiner Bande zwischen 1860–1862 in der Grenzgegend um den Kirchenstaat. In der Zeit von Gregorovius’ Aufenthalt in Genazzano war Chiavone in der Umgebung von Sora unterwegs (siehe RT, 29.7.1861, S. 134).</note></seg>, questa volta non potrei raggiungervi in quel benedetto asilo. Io lascio Roma malvolontieri; <seg type="comment"><orig>la situazione del giorno</orig><note xml:id="nfdp_h3p_vlb">Am 6. Juni 1861 verstarb der erste Ministerpräsident des neuen Königreichs Italien, Camillo Benso Graf von Cavour (1810–1861), was die Frage um die Eingliederung Roms und des Kirchenstaates in das vereinte Italien zusätzlich beschäftigte. </note></seg>, per terribile che sia, è una delle più interessanti che abbia mai visto il <orgName key="G000539">papato</orgName>, e l’<placeName key="G000690">Italia</placeName>. <seg type="comment"><orig>In qual modo ambedue i principj opposti potranno esser conciliati, non lo sappiamo, nè avvi oggidì persona, che lo sappia</orig><note xml:id="nvx5_k3p_vlb">Erst 1870 gelang es mit Gewalt Rom durch das italienische Heer zu besetzen, einen Kirchenstaat gab es dann nicht mehr (6.10.1870: Proklamation des Anschlusses an das Königreich), aber die Spaltung zwischen Staat und katholischer Kirche war weiterhin tief. Die liberale Einheitsbewegung hatte bereits seit den 1830er Jahren im Konflikt um den Status des Kirchenstaates die weltliche Herrschaft über Rom verlangt.</note></seg>. <seg type="comment"><orig><persName key="G001497">Il papa</persName></orig><note xml:id="nxh3_m3p_vlb">Das Pontifikat von Pius IX. (1792–1878) dauerte von 1846–1878.</note></seg><seg type="comment"><orig> sta bene di salute</orig><note xml:id="nyq5_n3p_vlb">Im Tagebucheintrag drei Wochen später berichtet Gregorovius hingegen von einem kranken, wirr redenden Papst, am 3. Juli nennt er ihn „leidend“ (siehe RT, 28.6.1861 und 3.7.1861, S. 133). </note></seg>; me lo disse in questo momento uno de’ suoi medici. Sono favole quelle, che si spacciano per i giornali dell’<pb n="1v"/>estero, ove si chiac<gap reason="illegible" unit="chars" quantity="1"/>hiera di <seg type="comment"><orig>irritazione mentale</orig><note xml:id="ngqn_p3p_vlb">Der Papst hatte in seiner Kindheit unter epileptischen Anfällen gelitten.</note></seg>. Però siamo mortali noi tutti quanti.</p>
+<p>Viddi l’<seg type="comment"><orig><persName key="G001486">Abbate Pesciatelli</persName></orig><note xml:id="nvhx_q3p_vlb">Angelo Pescetelli (1809–1885) war von 1858–1867 Abt der Benediktinerabtei von San Paolo fuori le mura und von 1852–1858 Generalprokurator der Kongregation von Monte Cassino.</note></seg>. Eravi presente in Roma per caso l’<seg type="comment"><orig><persName key="G001061">Abbate di Subiaco</persName></orig><note xml:id="nt12_s3p_vlb">Der Kardinal Girolamo d’Andrea (1812–1868) war von 1853–1866 Abt der Abtei Subiaco. Er brachte den Papst gegen sich auf, als er sich für liberale Reformen im Vatikan aussprach und ihn davon überzeugen wollte, den von Napoleon III. (1808–1873) angebotenen Vorsitz einer italienischen Konföderation zu übernehmen. D’Andrea verließ Rom deshalb 1864, zwei Jahre später wurde er von seinem Amt in der Abtei suspendiert.</note></seg>; diceva, esser tutto l’archivio nascosto, per paura non venisse rubato o disperso. Addio dunque, e forse per sempre, <persName key="G001426"><seg type="comment"><orig>Mirzio</orig><note xml:id="nn1q_t3p_vlb">Cherubion Mirzio hatte von 1628–1630 eine Chronik der Abtei verfasst: Cronaca Sublacense. Gregorovius wollte die Chronik zu Forschungszwecken im Archiv in Subiaco einsehen.</note></seg></persName>, diplomi e tutto quello che farebbe per me. <seg type="comment"><orig>Mille grazie però per la premura, che voi, gentilissimo Don Sebastiano, vi avete presa riguardo alle mie domande</orig><note xml:id="ntl2_w3p_vlb">Gregorovius hatte Kalefati und Tosti um ein Empfehlungsschreiben für die Abtei Subiaco sowie um Klärung eines Eintrags in dem von Petrus Diaconus (1107/1110–nach 1159) erstellten Kopialbuch Montecassinos (Registrum Petri Diaconi, 1131–1133; Montecassino, Archivio dell’Abbazia, Reg. 3) gebeten; siehe den Brief von Gregorovius an Sebastiano Kalefati und Luigi Tosti vom <ref target="G000426">19.5.1861</ref>.</note></seg>. Parmi dunque, che quel frammento diplomatico dei LX <seg type="comment"><orig><foreign xml:lang="Lat">Senatores</foreign> </orig><note xml:id="nf3c_x3p_vlb">Lat. für: Senatoren.</note></seg><seg type="comment"><orig>sia piuttosto notizia, che atto</orig><note xml:id="nahq_1jp_vlb">Gregorovius bezieht sich hier auf die am Rand des Registereintrags 605 vermerkte Angabe „circa a. 1127“. </note></seg>; e per dirla verità, poco me ne fido, sendo che ci manca la data. Se datassesi di fatti dall’anno 1130, e se fosse documento autentico, di certo sarebbe cosa di rilievo. L’epoca però del ristabilimento del <orgName key="G000559">Senato Romano</orgName> non può esser messo in dubbio. Ne abbiamo esattissime notizie, e certi documenti. <pb n="2r"/>Bisogna fissarla <seg type="comment"><orig>nel 1143</orig><note xml:id="nzrv_bjp_vlb">Im Jahre 1143 führte ein anti-päpstlicher Aufstand zur Etablierung der römischen Kommune mit einem neuen, im Selbstverständnis der Handelnden „wiederhergestellten“ Rat, der auf dem Kapitol tagte.</note></seg>. Nulladimeno, avendo io studiata con accuratezza quell’epoca, e dopo viste assaissime carte, sto quasi per convincermi, che già qualche decennio prima esisteva un senato di forma <seg type="comment"><orig>aristrotica</orig><note xml:id="ne2v_cjp_vlb">Vermutlich fehlerhaft für: aristocratica.</note></seg>. <seg type="comment"><orig>Il buonissimo <persName key="G001045">Coppi</persName></orig><note xml:id="nkr3_2jp_vlb">Antonio Coppi (1783–1870) war ein Priester, Agronom, Historiker und in der kurialen Verwaltung tätig sowie Gründer und erster Präsident der 1813 gegründeten Accademia Tiberina. Gregorovius traf ihn im Januar 1856, ließ sich über ihn sehr launisch und negativ aus, was sich in dieser brieflichen Erwähnung wiederspiegelt. Er unterstellte Coppi sogar, seine Arbeit behindern zu wollen (siehe RT, 7.1.1856, S. 59).</note></seg> non ne sa nulla, ò poco. <seg type="comment"><orig>Conosco i suoi discorsi</orig><note xml:id="nphw_hjp_vlb">Coppi hatte unter anderem die Fortsetzung von Ludovico Antonio Muratoris „Annali d’Italia“ für die Jahre 1750–1861 besorgt (Annali d’Italia dal 1750. Compilati da A. Coppi, Rom 1848–1850, 6 Bde.) sowie für die Familie Colonna die „Memorie Colonnesi“ (Rom 1855) verfasst. Über den römischen Senat schrieb er die Abhandlung: Discorso sul Consiglio e Senato di Roma. Letto da A. Coppi nell’Accademia Tiberina il di 20 marzo 1848. Rom 1848.</note></seg>, e tutti gli altri libri che ne trattano, chi più, chi meno in delirio. È d’uopo che la critica rinunzi oramai a certe fantasie, che si sono introdotte nella storia del medio evo di Roma dal <seg type="comment"><orig>tempo del <persName key="G000969">Blondo</persName></orig><note xml:id="njtc_jjp_vlb">Flavio Biondo (1392–1463), lat. Flavius Blondus, war Humanist und in der kurialen Verwaltung tätig, ab 1432 oder 1434 als Kanzleisekretär von Papst Eugen IV. (1383–1447). Er gilt als großer Kenner der Altertümer, die er systematisch mit den schriftlichen Überlieferungen abglich und in Verbindung setzte. Biondo veröffentlichte unter anderem eine geographische und historische Beschreibung Italiens von den Alpen bis zum Golf von Salerno („Italia illustrata“. Rom 1474) und eine Arbeit über die öffentlichen sowie privaten Institutionen des antiken Roms („Roma triumphans“. Rom 1482). Gregorovius bezieht sich hier auf Biondos „Roma instaurata“ (Rom 1444–1446), eine Rekonstruktion der antiken Rom-Topographie.</note></seg> in quà. Se esistesse un codice diplomatico di Roma e <placeName key="ed_hqc_lrv_gmb">Campagna</placeName>, allora viepiù si rischiarirebbe quella Storia. Sorpassa il credere <seg type="comment"><orig>quante carte il’ infatigabile <persName key="G001154">Galletti</persName> abbia copiate</orig><note xml:id="nfhj_ljp_vlb">Der Benediktiner, Historiker und Archäologe Pier Luigi Galletti (1722–1788) hatte zahlreiche Abschriften von Quellenmaterial zu den ältesten, römischen Kirchen erstellt und zur Geschichte der frühen Kurie geforscht (Inscriptiones Venetae infimi aevi Romae exstantes. Rom 1757–1766; Del Vestarario della santa Romana chiesa. Rom 1758; Del Primicerio della S. Sede Apostolica e di altri Uffiziali Maggiori del Sacro Palazzo Lateranense. Rom 1776).</note></seg>, e riposte nella <orgName key="G000506">Vaticana</orgName>. Ma questo lavoro, 100 volumi di farragine, ora non è altro, che membra disjecta; ho impiegato molto tempo, per perscar dentro, e ne ricavai tesori.</p>
+<p>Sono contento, di sentire che <seg type="comment"><orig>Monte Casino resta intatto</orig><note xml:id="nosr_njp_vlb">Gregorovius hatte während seines Aufenthalts in Montecassino im Tagebuch notiert, dass „die unitarische Bewegung Italiens eigentlich in diesem Kloster“ begonnen habe (RT, 7.10.1859, S. 86). Er bezog sich dabei auf frühere Vorstöße Tostis und anderer liberal denkender Kleriker, die für einen Verzicht der Kirche auf weltliche Macht plädierten. In diesem Sinne war bereits vor 1848 die Idee geboren, in Montecassino ein Journal aller italienischer Gelehrten herauszugeben. Allerdings stieß das Projekt nicht überall auf Zustimmung und scheiterte, was zur Folge hatte, dass Montecassino des Unglaubens und der Demokratie bezichtigt wurde. Das Verhältnis zwischen den Benediktinern und dem Staat war seitdem belastet.</note></seg> – seguitera a essere una delle più illustri glorie scientifiche d’Italia. Non sarete ancora alla fine delle incertitudini, o dei patimenti. Ebbene pazienza. Siamo nati, onde tormentati dalle <pb n="2v"/>burrasche fisiche, e morali. <seg type="comment"><orig><foreign xml:lang="Lat">Homo natus de muliere vivens paucos annos, repletur multis miseriis</foreign></orig><note xml:id="noww_4jp_vlb">Lat. für: Der Mensch, vom Weibe geboren, lebt kurze Zeit und ist voll Unruhe (Hi 14, 1).</note></seg> – cosi <persName key="G001280">Giobbe</persName>. Ma <persName key="G000972">Boëzio</persName>: <seg type="comment"><orig><foreign xml:lang="Lat">superata tellus, sidera donat</foreign></orig><note xml:id="ncc3_qjp_vlb">Lat. für: Die Überwindung der Welt schenkt uns den Himmel (Boeth. cons. 4,7,34–35).</note></seg>. </p>
+<p>Sto di premura – bisogna finire. Al <persName key="G001655">Padre Tosti</persName>, a tutti gli altri nobili animi di Monte Casino, a Voi stringo le mani.</p>
+<closer>
+<salute rendition="#c">Con sincero affetto <lb/>Il vostro</salute>
+<signed rendition="#c">Ferdin. Gregorovius.</signed>
+<dateline>Roma, 6 Giugno 1861.</dateline>
+</closer><note>Indirizzio per questo mese:<lb/>Genazzano Comarca di Roma.</note>
+</div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000120">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius: Erste Fassung der Widmung seiner „Siciliana“ (1861) für François Sabatier. Danzig, August 1860</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"> <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International (CC BY 4.0) </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (54)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 8°, 4 S. . – 1 r aoR Anmerkung vfrH: Die frühere, später duch eine neue ersetzte Widmung.– Beilage zum Brief von Gregorovius an Heinrich Brockhaus vom 1. Oktober 1860</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 55, Mappe 332 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Erste Fassung der Widmung seiner „Siciliana“ (1861) für François Sabatier, die in veränderter Form gedruckt wurde.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">First version of the dedication of his „Siciliana“ (1861) to François Sabatier, which was printed in a modified form.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000663">Danzig</placeName>
+                    <date when="1860-10-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001565">Sabatier, François (1818–1891)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <salute xml:id="s1" next="#s2" rendition="#c">An <lb/>Herrn Fran<subst><del rendition="#ow">çois</del><add place="across">z</add></subst> Sabatier <lb/>in <placeName key="G000671">Florenz</placeName>.</salute>
+                    <salute xml:id="s2" prev="#s1" rendition="#right"><hi rendition="#aq"><seg type="comment"><orig><foreign xml:lang="Lat">In tenui labor</foreign></orig><note xml:id="nz1x_hhz_ylb">Lat.: nach Vergil, „Georgica“: „In tenui labor, at tenuis non gloria!“ – „Anstrengung im Geringen, aber keineswegs geringer Ruhm“(IV/6).</note></seg></hi> –</salute>
+                </opener>
+                <p>Sie haben, mein verehrter Freund <hi rendition="#aq">Sabatier</hi>, <bibl sameAs="G003252">diese früher zerstreuten Schriften</bibl> der Ehre gewürdigt, Sie selbst auf Ihren wißenschaftlichen Reisen in <placeName key="G000575">Sicilien</placeName> zu begleiten, Sie <del rendition="#s">bestanden</del> <add place="superlinear">wünschten,</add> <del rendition="#s">darauf</del>, d<ex>a</ex>ß ich sie jetzt gesammelt herausgebe, und ich sende sie Ihnen nun in dieser bequemeren Form zurück. Mögen Sie <add place="superlinear">darin</add> immerhin den frommen oder kühnen Wunsch erkennen, vergangenen Tagen in <placeName key="G000763">Rom</placeName> u<ex>nd</ex> in Florenz eine Erinnerung unter uns zu stiften; vor allem aber ist es meine Absicht, d<ex>a</ex>ß diese meine kleineren Arbeiten Ihrem umfaßenden Werk über Sicilien als Boten vorangehen sollen. Ihre langen u<ex>nd</ex> gründlichen Studien über jene paradiesische Insel (ich bewunderte sie in Ihren Materialien), machen Ihre Freunde <seg type="comment"><orig>Ihr Werk</orig><note xml:id="nn5j_jhz_ylb">François Sabatier verbrachte den Winter 1860 auf Sizilien, wo er Studien über die Mosaiken in normannischen Kirchen betrieb und an einer Publikation zur Geschichte der Kunst auf Sizilien arbeitete, die jedoch unveröffentlicht blieb.</note></seg> mit immer mehr Ungeduld erwarten.</p>
+                <p>Laßen Sie sich durch meine Kühnheit, oder meine Mängel ermuntern. Indem Sie in diesen anspruchlosen Blättern finden, wie so gar wenig dessen sei, was ich von dem unerschöpften Reichtum der Welt Sicilien’s aufgesammelt, oder wie viel dessen, was ich nicht gewußt u<ex>nd</ex> nicht gesagt habe, so wird Sie die unwillige Begierde ergreifen, ein vollkommenes Gemälde des schönsten aller Länder zu vollenden, welches Sie so genau durchforscht haben.</p>
+                <p><pb n="1v"/>Seit Jahren haben wir für die Erlösung Siciliens aus <del rendition="#s">einem</del> <add place="superlinear">dem</add> Regiment <del rendition="#s">des</del> <add place="superlinear">eines</add> blinden u<ex>nd</ex> unfruchtbaren Despotismus, u<ex>nd</ex> einer sich selbst verurteilenden, fast beispiellosen Ohnmacht, dieselben Wünsche gehegt. Sie selbst waren der zufällige Augenzeuge der <seg type="comment"><orig>ersten Erhebung <placeName key="G000748">Palermo’s</placeName> im April dieses Jahres</orig><note xml:id="napx_khz_ylb">1816 war das Königreich Sizilien mit dem Königreich Neapel zum Königreich beider Sizilien vereinigt worden. Nach dem Anschluss der italienischen Staaten an das Königreich Sardinien-Piemont unter Vittorio Emanuele II. (1820–1878) lehnte das Königreich beider Sizilien unter dem jungen, unerfahrenen Bourbonenkönig Franz II. (1836–1894) die Angebote des nun übermächtigen Sardinien zum friedlichen Anschluss an die konstitutionell-liberale Monarchie Italiens ab. Im April 1860 war es auf Sizilien zu Volksaufständen gegen die Bourbonen gekommen, die auf eine Intervention des Königreichs Sardinien gedrängt hatten, was offiziell sowohl von Vittorio Emanuele II. als auch von Ministerpräsident Camillo Benso von Cavour (1810–1861) abgelehnt worden war. Am 11. Mai 1860 war eine in Sardinien aufgestellte Freischar, der Zug der Tausend, unter der Führung von Giuseppe Garibaldi (1807–1882) zuerst auf Sizilien gelandet und marschierte nach dessen „Befreiung“ in Neapel ein, so dass das Bourbonen-Regime kollabierte.</note></seg>; sie <seg type="comment"><orig>unterbrach die Fortsetzung Ihrer friedlichen Arbeit, u<ex>nd</ex> nötigte Sie, abzureisen</orig><note xml:id="nh1r_qhz_ylb">Nach den Tagebucheintrag von Gregorovius hatte ihm Sabatier im April 1860 aus Neapel geschrieben, wohin die Sabatiers geflohen waren: „Am 4. April brach in Palermo ein Aufstand aus, der jedoch niedergedrückt wurde. Sabatiers schrieben mir von dort, daß die drei Tage (vom 4.-6.) gräßlich waren. Sie flüchteten nach Neapel. Noch auf dem Meere hörten sie das Schießen.“ (RT, 9.4.1860, S. 97).</note></seg>. <seg type="comment"><orig>Ich fand Sie im Juni nicht mehr in Florenz</orig><note xml:id="nqwh_shz_ylb">Gregorovius war vom 29. Juni bis 8. Juli 1860 in Florenz (siehe RT, 26.6.-10.7.1860, S. 103–111). In Florenz lebte ein ganzer Kreis von Exilsizilianern, mit denen Gregorovius befreundet war, darunter Michele Amari (1806–1889) und Francesco Paolo Perez (1812–1892). Amari war bei der Ankunft von Gregorovius in Florenz bereits auf dem Weg nach Sizilien. </note></seg>, aber ich konnte noch unsern <seg type="comment"><orig>gemeinschaftlichen sicilianischen <persName key="G001481">Freunden</persName> <del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del> die Hand reichen, als sie nach einem zwölfjährigen Exil frohlockend auf das Schiff eilten</orig><note xml:id="nr1d_b3z_ylb">Am 5. Juli 1860 war der palermitaner Schriftsteller und Politiker Francesco Paolo Perez in seine Heimat zurückgekehrt. Er hatte seit 1849 in Florenz gelebt. Dort hatte Gregorovius ihn im Sommer 1858 kennengelernt (siehe RT, 31.8.1858, S. 73). Zurückgekehrt nach Sizilien war Perez von 1862–1865 als Generalbevollmächtigter im Gran Corte dei conti di Palermo.</note></seg>, ihre noch von Blut u<ex>nd</ex> Feuer dampfende Heimat wieder zu betreten.</p>
+                <p>Soll ich Ihnen sagen, daß es mir schwer wurde, <add place="superlinear">Rom u</add><ex>nd</ex> <placeName key="G000690">Italien</placeName>, den Schauplatz der größesten u<ex>nd</ex> wichtigsten Ereigniße unserer <del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del> Gegenwart, plötzlich zu verlaßen, in einer Zeit u<ex>nd</ex> Bewegung, aus deren unmittelbarer Anschauung ich für die <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485"><seg type="comment"><orig>Geschichte der Stadt Rom im Mittelalter</orig><note xml:id="nwws_d3z_ylb">Von seiner „Geschichte der Stadt Rom im Mittelalter“ waren bislang zwei Bände (1859) erschienen, der dritte (1860) war im Druck.</note></seg></bibl> so viel Belehrung ziehen durfte? Indeß Sie wißen: nach langen Jahren, die ich in Rom <del rendition="#s">den</del> meinen Studien widmete, trieb mich die Sehnsucht in mein <placeName key="G000664">Vaterland</placeName>; <seg type="comment"><orig>ich habe die teure Heimat wiedergesehen</orig><note xml:id="niqs_23z_ylb">Gregorovius war vom 3.-14. August 1860 in Danzig bei seinen Brüdern Rudolf (1808–1866) und Julius Gregorovius (1818–1891) und besuchte dann bis zum 22. September 1860 Familienangehörige und Freunde in Königsberg, Insterburg, Nordenthal, Gumbinnen, Goldap und Schippenbeil (siehe RT, 19.8.-25.9.1860, S. 107–109).</note></seg>, u<ex>nd</ex> ich darf sie mit gestilltem Verlangen ruhiger wieder verlaßen, um an meine <pb n="2r"/>römische Arbeit zurückzukehren.</p>
+                <p>Sie lieben Deutschland u<ex>nd</ex> seine Cultur (Sie zeigten es eben wieder durch Ihre gewandte <bibl sameAs="G067692"><seg type="comment"><orig>Übersetzung des Schiller’schen Wilhelm Tell</orig><note xml:id="nw3k_fjz_ylb">Sabatiers französische Übersetzung von Friedrich Schillers „Wilhelm Tell“: Wilhelm Tell. Poëme dramatique. Königsberg: Bon 1859. Die Übersetzung wurde von Adolf Stahr besprochen in: National-Zeitung. Jg. 13. Nr. 7. Berlin: National-Zeitung [S. 1–2] (Morgen-Ausgabe).</note></seg></bibl>); u<ex>nd</ex> ich sah wenige <placeName key="G000674">Franzosen</placeName>, welche gleich Ihnen so gänzlich frei von nationaler Beschränkung, zugleich so tief eingeweiht in deutsches Wesen, u<ex>nd</ex> so völlig der deutschen Sprache mächtig wären. Wie Sie die Einheit <placeName key="G000690">Italiens</placeName> ersehnen, so fühlen Sie auch das tiefe geschichtliche Bedürfniß meines Vaterlandes, die unheilvolle Zerspaltung, die schlimme Erbschaft des Mittelalters, u<ex>nd</ex> <subst><del rendition="#ow">die</del><add place="across">der</add></subst> jüngeren politischen Künste auszutilgen. Könnte ich Ihnen nun sagen, d<ex>a</ex>ß ich mein Vaterland dem schönsten Ziele näher u<ex>nd</ex> <add place="superlinear">wirklich</add> nah gerückt wieder fand. Doch, teurer Freund, unsre große oder glückliche deutsche Zeit ist noch nicht gekommen.</p>
+                <p>Ich will mich mit Ihnen der energischen, auf nur heiliges Gut gerichteten Bewegung <add place="superlinear">der</add> Italien<subst><del rendition="#ow">s</del><add place="across">er</add></subst> freuen. Wir beide leben unter ihnen seit Jahren, u<ex>nd</ex> wir lieben dies edle Land u<ex>nd</ex> sein geistvolles Volk nicht aus jenen gewöhnlichen ästhetischen Interessen, welche man über die <placeName key="G000855">Alpen</placeName> auf die Reise mitzubringen pflegt, sondern weil uns <del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del><add place="superlinear">viele</add> Fäden moralischer, intellectueller, u<ex>nd</ex> praktischer Natur mit Italien verbinden. Wir hoffen auf die Zeit seiner <del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del> Befreiung u<ex>nd</ex> <del rendition="#s">Einheit</del> <add place="superlinear">Neugestaltung</add> als auf eine neue Epoche des gesundeten u<ex>nd</ex> gerecht gewordenen Staatslebens, der sich reformirenden <del rendition="#s">Völker</del><subst><del rendition="#ow">v</del><add place="across">C</add></subst>ultur <add place="superlinear">Europas</add>, u<ex>nd</ex> als auf einen der größesten Siege der Menschheit überhaupt.</p>
+                <p><pb n="2v"/>Wird dieser Sieg, an welchem die Jahrhunderte verzweifelt haben, jetzt erfochten werden? Wird <del rendition="#s">auch,</del> was jetzt geschieht, <add place="superlinear">auch</add> nur eine jener <hi rendition="#aq">Fata Morgana</hi> sein, welche unser in der Irre wanderndes Geschlecht zu täuschen gewohnt sind? Wird der innere Feind Italiern’s, die Parteiwut, und sein äußerer, die Politik der Mächte, welche noch immer das unmenschliche Princip der Eroberung und Unterdrückung leitet, das Schwert von tapfern u<ex>nd</ex> kühnen Patrioten abstumpfen, u<ex>nd</ex> die Begeisterung von Millionen trüben? Als <seg type="comment"><orig>eine italienische Provinz Ihrem Vaterlande Frankreich, <add place="left">oder besser gesagt, dem jetzigen französischen Staate</add> einverleibt wurde</orig><note xml:id="nnkw_gjz_ylb">Nach dem Ende des Sardinischen Kriegs gab Napoléon III. (1808–1873), nach dem Sieg über Österreich, die Lombardei an das Königreich Sardinien-Piemont weiter und erhielt im Gegenzug das Herzogtum Savoyen und die Grafschaft Nizza.</note></seg>, entsank mir der Mut, u<ex>nd</ex> ich sah den schwarzen tragischen Schatten wieder aufsteigen, welcher aus der Geschichte der italienischen Vergangenheit höhnisch in die Gegenwart hineinragt. Es muß ihn derjenige fürchten, welcher die unselige Consequenz der Geschicke dieses Volkes kennt, für das <seg type="comment"><orig><persName key="G001294">Homer</persName> die fatale Fabel von der <persName key="G067686">Scylla</persName> u<ex>nd</ex> <persName key="G067687">Charybdis</persName></orig><note xml:id="nehv_jjz_ylb">Charybdis ist in der griechischen Mythologie die Tochter Poseidons, die von Zeus in ein Meerungeheuer verwandelt wurde. Zusammen mit Skylla lebte sie in der Straße von Messina. Skylla hatte zwölf Füße und sechs Köpfe mit schrecklichen Gebissen und hauste in einer Felshöhle; das Ungetüm Charybdis lebte auf der gegenüberliegenden Seite der Meerenge. Schiffe, die in den Sog der Charybdis gerieten, die das Meerwasser drei Mal am Tage einsaugte, um es danach brüllend wieder auszustoßen, waren verloren. Charybdis ist eine unheilbringende Gestalt, die gemeinsam mit Skylla sowohl in der Homerischen „Odyssee“ als auch in der Argonautensage eine Rolle spielt.</note></seg> erfunden zu haben scheint.</p>
+                <p><del rendition="#s">Wir </del>Doch wir wollen hoffen, <del rendition="#s">;</del> <add place="left">daß ein besonnener u<ex>nd</ex> <del rendition="#s">sich</del> zur <del rendition="#s">ge</del> rechten Zeit sich mäßigender Verstand die jetzige fieberhafte Krisis Italiens überwältigen werde.</add> <del rendition="#s">denn</del> <subst><del rendition="#ow">d</del><add place="across">D</add></subst>ie Menschheit schreitet vor, und jede ihrer edeln Aufgaben wird einmal <del rendition="#s">erreicht</del> <add place="superlinear">gelöst</add>. Möchte ich eine glückliche Stunde des Wiedersehens mit Ihnen u<ex>nd</ex> den Freunden feiern! Ich grüße Sie in der Hoffnung, auf Ihrer <seg type="comment"><orig>Florentiner Villa, dem reizenden Sitze der Musen des Gesanges, der Malerei u<ex>nd</ex> der Wissenschaft</orig><note xml:id="nvzz_mjz_ylb">In der sehr prominent besuchten Villa della Concezione des Ehepaars Caroline Ungher (1803–1877) und François Sabatier (1818–1891), oberhalb von Florenz, wo Gregorovius 1858 zu Gast war (siehe RT, 31.9.1858, S. 73–74).</note></seg>, <seg type="comment"><orig>bald einige köstliche Tage <del rendition="#s">bei Ihnen</del> zu verleben</orig><note xml:id="na3x_4jz_ylb">Bei den Sabatiers in Florenz war Gregorovius vom 28. August bis zum 20. September 1861 erneut zu Gast (siehe RT, 31.8.-29.9.1861, S. 137–138). </note></seg>, u<ex>nd</ex> ich datire diesen Brief an Sie voll Freude aus meinem deutschen Vaterland, u<ex>nd</ex> aus einer <del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del> <add place="superlinear">der</add> altertümlichsten <del rendition="#s">u<ex>nd</ex> schönsten</del> <add place="sublinear">u<ex>nd</ex> schönsten</add> Städte des Nordens.</p>
+                <closer>
+                    <dateline rendition="#c">Danzig, im August 1860.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

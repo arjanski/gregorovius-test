@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067731">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. Rom, 1. Juni 1873 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Bologna, Fondazione del Monte di Bologna e Ravenna, Archivio della Deputazione di Storia Patria per le Province di Romagna</repository><collection>Carteggio classificato 1872–1873 busta 14 fasc. 1</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¾ S. – Umschlag mit Adr.: All’ Illustrissimo Signor / il Signor Conte Giovanni Gozzadini / Presidente della R. Deputazione / di Storia etc / Senatore del Regno / Bologna</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Edizione Nazionale delle Opere di Giosue Carducci. Lettere. 22 Bde. Bologna: Zanichelli 1935–1968. Bd. 8: 1872–1873. Bologna: Zanichelli 1943. S. 391–392 </bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt Gozzadini als Präsidenten der Regia Deputazione di Storia Patria per le Province di Romagna für die Ernennung zum korrespondierenden Mitglied.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1873-06-01" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni conte (1810–1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c"> Roma, addì 1. Giugno 1873.</dateline>
+<salute rendition="#c"> Onorevole Signor <seg type="comment"><orig>Presidente</orig><note xml:id="nkxp_y11_zlb">Seit 1860 war der Archäologe und Historiker, Graf Giovanni Gozzadini (1810–1887), Gregorovius’ guter Freund, erster Präsident der im selben Jahr neu gegründeten Deputazione di Storia Patria per le Province di Romagna, die ihren Sitz bis heute in Bologna hat.</note></seg>,</salute>
+</opener>
+<p>sono in possesso della <seg type="comment"><orig>graziosa lettera</orig><note xml:id="nt3p_1b1_zlb">Der hier gemeinte Brief ist die am 29. Mai angefertigte Kopie eines auf den 27. Mai datierten Briefentwurfs, den eventuell Giosuè Carducci (1835–1907), von 1865–1875 Sekretär der Deputazione, verfasst hat. Der Brief ist abgedruckt in: Edizione Nazionale delle Opere di Giosue Carducci. Lettere. 22 Bde. Bologna: Zanichelli 1935–1968. Bd. 8: 1872–1873. Bologna: Zanichelli 1943. S. 205 (gekürzt). In dem Brief wird Gregorovius mitgeteilt, dass er einmütig zum korrespondierenden Mitglied der Deputazione gewählt worden ist; dies war am 24. April 1873 geschehen (BSB München, Nachlass Gregorovius, Gregoroviusiana 19). Desweiteren ist seine Ernennung mit seinen Verdiensten in der römischen Geschichtsschreibung, namentlich der „Geschichte der Stadt Rom im Mittelalter“, erklärt. Das Werk sei, auch wenn es die unglücklichsten Jahre Roms beschreibe, ein Werk höchster Doktrin und Liebe. Gregorovius hatte bereits in einem früheren Brief vom 13. April durch Gozzadini von der Ernennung erfahren, diesem aber in seiner Antwort aber mitgeteilt, dass er auf den Erhalt des offiziellen Schreiben der Deputazione warten werde bis er sich an diese wende; siehe den Brief von Gregorovius an Giovanni Gozzadini vom 18.4.1873.</note></seg>, data di Bologna addì 29. Maggio, colla quale la S<ex>ignoria</ex> V<ex>ostra</ex> Ill<hi rendition="#sup"><hi rendition="#u" hand=""><ex>ustrissi</ex>ma</hi></hi> mi da parte della mia nomina a Socio corrispondente della <orgName key="G004665">R<ex>egia</ex> Deputazione di Storia Patria per le provincie di Romagna</orgName>. </p>
+<p>Con lieta gratitudine accolgo questo generoso atto di simpatia verso di me e i miei studj, che per <seg type="comment"><orig>ben molti anni e durante una lunga dimora in <placeName key="G000690">Italia</placeName></orig><note xml:id="nxq5_db1_zlb">Er hatte Ende 1855 mit der „Geschichte der Stadt Rom im Mittelalter“ begonnen (siehe RT, S. 58), und er sollte Rom im Juli 1874 endgültig verlassen (siehe RT, 14.7.1855, S. 342–343). </note></seg> dedicai interamente alla <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Storia medioevale di Roma</bibl> e di quella gloriosa terra, madre di ogni civiltà.</p>
+<p>L’onore grande compartito a me <pb n="1v"/>mi consola non poco, giacchè esso mi accerta, che le mie fatiche lunghe e serie non furono spese inutilmente, per quanto poco anche, atteso le mie forze mediocri, l’ottenutone risultato corrispondesse all’ ardua impresa.</p>
+<p>Per chi coscienciosamente si adoperi a spargere, a proporzione delle sue facoltà, il lume della scienza, e a combattere col vero e col buono l’ignoranza e la falsità, non avvi per fermo nè maggior incoraggiamento, nè premio migliore fuori dell’ approvazione, che ne riceve da uomini superiori per dottrina e per altre virtù.</p>
+<p>Quindi vado altiero, di poter ornare la mia coscienza dell’<pb n="2r"/>attestato di approvazione, che mi viene dalla parte della sullodata R<ex>egia</ex> Deputazione, di cui la S<ex>ignoria</ex> V<ex>ostra</ex> Ill<hi rendition="#sup"><ex>ustrissi</ex>ma</hi> occupa così degnamente il posto di Presidente.</p>
+<p>Come tale si compiaccia, o Signore, di accogliere con benignità l’espressione della mia più viva gratitudine, nonchè di farsi interprete dello stesso sentimento mio appo gli altri Signori illustri, che con voti unanimi generosamente mi decretarono una si alta distinzione. Alla cui benevolenza come a quella di S<ex>ignoria</ex> V<ex>ostra</ex> Ill<hi rendition="#sup"><ex>ustrissi</ex>ma</hi> devotamente mi raccomando e colla massima stima mi offero</p>
+<closer>
+<signed rendition="#right">Ferd. Gregorovius. </signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

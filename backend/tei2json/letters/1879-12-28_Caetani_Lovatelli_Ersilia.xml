@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_qmz_zxm_nlb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Contessa Ersilia Caetani Lovatelli in Rom. München, 28. Dezember 1879</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free">
+                <licence target="http://creativecommons.org/licenses/by/4.0/">
+                    Creative Commons Attribution 4.0 International (CC BY 4.0)
+                </licence>
+            </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno>Karton 59, Mappe 348 (nach D)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this">Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli. Hrsg. von Sigmund Münz. Berlin: Paetel 1896. S. 95–96<bibl type="print"/> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für den Erhalt einer ihrer Schriften. Im September ist Giacomo Lovatelli, Ehemann der Gräfin, verstorben. Er plant einen Besuch bei den Caetanis, wenn er im Januar nach Rom kommt. Neujahrsgrüße an ihre Kinder, Callista, Rosalia, Filippo, Giovanni und Witoldo, ihren Vater, Michelangelo Caetani sowie an dessen dritte Ehefrau Enrichetta. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1879-12-28" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001011">Caetani Lovatelli, Ersilia contessa (1840-1925)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="95"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">München, 28. Dezember 1879</dateline>
+                    <salute rendition="#c">Sehr verehrte Frau Gräfin,</salute>
+                </opener>
+<p>es freut mich, nicht nur diese Zeichen des Lebens, sondern auch des Wohlwollens gegen mich in Händen zu haben – ich meine <seg type="comment"><orig>Ihren lieben Brief und die wissenschaftliche Arbeit, von der er begleitet ist</orig><note xml:id="ndyr_ylj_1mb">Das Schreiben ist nicht erhalten. Um welche Schrift der Gräfin es sich hier handelt, ist nicht ermittelt.</note></seg>. Fürwahr, ich begrüßte Ihre Schrift wie etwas, das mir bekundete, daß Ihnen nun <seg type="comment"><orig>die Muse als Trostgöttin erschienen</orig><note xml:id="ndf4_1mj_1mb">Der aus der Provinz Ravenna stammende Adlige Giacomo Colombo Lovatelli (1832), seit 1859 Ehemann der Contessa, war am 21. September 1879 in der Nähe von Siena verstorben. Lovatelli war sowohl von 1870–1874 als auch von 1874–1876 Mitglied im Abgeordnetenhaus Roms. Siehe zu diesem Verlust auch den Brief von Gregorovius an Ersilia Caetani Lovatelli vom 16.11.1879.</note></seg>, und darum werde ich die Wissenschaft wieder höher schätzen. Wenn sie auch nicht die Plagen des Herzens heilt, so weiß sie doch dem menschlichen Geiste eine solche Kraft einzuflößen, daß sie ihm auch in bitteren Schmerzen zu Hilfe kommt.</p>
+<p>Die Kälte hier ist fast unerträglich geworden. Auch ich mußte ihr nachgeben; ich liege zu Bette und darf aus meiner Wohnung nicht hinaus. Nach und nach gewinne ich meine Kräfte wieder, aber gleichwohl fühle ich mich schwach und matt, <pb n="96"/>so daß ich zu nichts mehr gut bin. Darum bitte ich, mir zu verzeihen, wenn dieses mein Schreiben nichts anderes als Klagen enthält, die doch eigentlich einem, der sich anmaßt, Philosoph zu sein, wenig ziemen. <seg type="comment"><orig>Ich hoffe, Sie im Laufe des nächsten Monats mündlich begrüßen zu können</orig><note xml:id="nitr_bmj_1mb">Nachdem er München am 20. Januar verlassen hatte, reiste Gregorovius über Verona, Modena und Florenz nach Rom, wo er am 24. des Monats eintraf (siehe RT, Romfahrt und Griechische Reise 1880, S. 419). Ein Treffen mit den Caetanis ist zumindest im Tagebuch nicht verzeichnet.</note></seg>. Indessen sende ich Ihnen anläßlich des Jahresanfangs die herzlichsten Grüße. Ich bitte Gott, er möchte Ihnen irgend einen Ersatz für den unersetzlichen Verlust bieten, den Sie in dem Jahre erlitten haben, das eben zu verschwinden im Begriffe ist. Ebenso viele Grüße und Wünsche für <seg type="comment"><orig>Ihre <persName key="G001387"><persName key="ed_crd_tt4_qlb"><persName key="ed_eks_vt4_qlb"><persName key="ed_snq_qt4_qlb"><persName key="ed_c2r_xt4_qlb">Kinder</persName></persName></persName></persName></persName></orig><note xml:id="nsqc_dmj_1mb">Ersilia und Giacomo waren Eltern von zwei Töchtern und drei Söhnen: Callista (1860), Rosalia Gabriella (1872), Filippo (1874), Giovanni (1859) und Witoldo (1869).</note></seg>, für den Herrn <persName key="G001004">Herzog</persName>, die <seg type="comment"><orig>Frau <persName key="G001007">Herzogin</persName></orig><note xml:id="npbz_dmj_1mb">Der Herzog hatte 1875 in dritter Ehe, Enrichetta, geb. Harriet Georgina Ellis (1831–1906), Tochter des Charles Augustus Ellis (1799–1868), VI. Baron Howard de Walden und II. Baron Seaford, geheiratet.</note></seg> und das ganze erlauchte Haus Gaetani.</p>
+<p>Leben Sie wohl und seien Sie stark, wertheste Frau Gräfin, und möchten Sie sich des immer wachsenden Wohlergehens Ihrer theuern Familien in allem Glücke erfreuen.</p>
+                <closer>
+                    <salute rendition="#c">Ihr ganz ergebener</salute>
+                    <signed rendition="#right"> Ferd. Gregorovius.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

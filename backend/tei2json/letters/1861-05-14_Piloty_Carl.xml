@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000145">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Carl Theodor von Piloty in München. Rom, 14. Mai
+                    1861</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Privatbesitz / Germanisches Nationalmuseum Nürnberg</repository>
+                        <collection>Deutsches Kunstarchiv</collection>
+                        <idno>NL Piloty Karl von</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Bl., 2 S.</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er gratuliert ihm zur Vermählung mit Bertha Hellermann. Weil er 1860 bereits vier Monate in Deutschland zugebracht hat, wird er diesen Sommer nur bis nach Florenz reisen. Seinen Erfolg verfolgt er mit großem Interesse und wünscht sich, dessen Historiengemälde „Nero nach dem Brande Roms“ zu sehen. Dass er Carl Alexander Großherzog von Sachsen-Weimar-Eisenach kennengelernt hat, interessiert ihn, weil dieser ihm selbst einige Male geschrieben hat – er hielt es für besser, Distanz zu „jenen doch nicht völlig freien und zu befreienden Sphären“ zu wahren.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1861-05-14" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001495">Piloty, Karl von (1826–1886)</persName>
+                    <placeName key="G000734">München</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi>, 14. <hi rendition="#aq">Mai</hi> 1861</dateline>
+                    <salute rendition="#c">Verehrter <seg type="comment"><orig>Herr Piloty</orig><note xml:id="nt4r_ykk_1mb">Der von Zeitgenossen viel gerühmte Münchner Maler großformatiger Historiengemälde, Karl Theodor von Piloty (1826–1886), hatte seine erste Ausbildung von seinem Vater Ferdinand Piloty (1786–1844) erhalten. 1840 ging er als Schüler von Julius Schnorr von Carolsfeld (1794–1872) an die Münchner Akademie der Bildenden Künste. Bevor er ebendort 1856 einen Ruf als Professor erhielt, führten ihn Studienreisen nach Brüssel, Antwerpen, Paris und im September / Oktober 1856 nach Rom. Im November 1858 war Piloty erneut in Rom, wo ihn Gregorovius vermutlich kennengelernt hatte. Zahlreiche nachmals berühmte Künstler gehörten zu seinen Schülern. 1874 wurde er zum Direktor der Münchner Akademie der Bildenden Künste ernannt. Ob es über den vorliegenden Brief hinaus noch eine weitere Korrespondenz zwischen Gregorovius und Piloty gegeben hat, ist nicht bekannt. Gregorovius hatte aber nach seinem Umzug nach München persönlichen Kontakt zu ihm, seine hier noch ungetrübte Bewunderung des Malers hat sich in späteren Jahren offenbar relativiert: Auf einer Briefkarte von Gregorovius an seine Leipziger Freundin und Salonière Elisabeth Seeburg (1817–1888) vom 1. August 1886 (BSB München, Gregoroviusiana 20. Seeburg, Elisabeth, 16), berichtet er vom Begräbnis des am 21. Juli 1886 verstorbenen Malers, in dessen Werk er eine „hervortretende und schöne Kraft, aber ohne jede Originalität“ gesehen hat.</note></seg>,</salute>
+                </opener>
+                <p>Sie haben mir eine große Freude gemacht durch gute Erinnerung, Nachrichten von sich, und die Bekanntschaft so trefflicher Männer, als die <seg type="comment"><orig>Herren v<ex>on</ex> Freyberg</orig><note xml:id="nvt5_3lk_1mb">Diese hatten Gregorovius möglicherweise den Brief von Piloty nach Rom mitgebracht – im Tagebuch hatte er am 24. April notiert: „Aus Spanien kamen die beiden von Freyberg, die mir Briefe brachten.“ (S. 130) Vielleicht Ehemann und Sohn der in München verstorbenen Historienmalerin Electrina Freifrau von Freyberg, geb. Struntz (1797–1847), und ihres Ehemannes Wilhelm Freiherr von Freyberg, Königlich Bayerischer Vize-Oberstallmeister. Electrina von Freyberg hatte in der Werkstatt des Vaters von Piloty, Ferdinand Piloty (1786–1844), das Lithographieren gelernt. 1823 hatte sie den Königlich Bayerischen Vize-Oberstallmeister Wilhelm Freiherr von Freyberg geheiratet.</note></seg> sind. Ich wünsche Ihnen aufrichtig Glück zu <seg type="comment"><orig>Ihrer Verheiratung</orig><note xml:id="nbrd_cmk_1mb">Piloty hatte am 3. Juni 1860 Bertha Hellermann (1838–1918) geheiratet.</note></seg>, und wünsche Ihrer <persName key="G067616">Frau Gemalin</persName>, ob auch ihr unbekannt, empfohlen zu sein. Ich hatte gehofft, in diesem Sommer nach München zu gelangen, werde indeß wol nur <seg type="comment"><orig>bis <placeName key="G000671">Florenz </placeName>vorrücken</orig><note xml:id="nmqx_cmk_1mb">Für Abschlussarbeiten am vierten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1862) hielt sich Gregorovius vom 28. August bis zum 20. September 1861 in Florenz auf (siehe RT, 26.8.-17.9.1861, S. 136–137).</note></seg>; da ich <seg type="comment"><orig>voriges Jahr 4 volle Monate in <placeName key="G000646">Preußen</placeName> zugebracht habe</orig><note xml:id="nlzx_dmk_1mb">Gregorovius war von Juni bis Oktober 1860 auf Reisen und hatte auch seine Brüder in Danzig und seine Schwester, Verwandte und Freunde in Königsberg und der ostpreußischen Provinz besucht (siehe RT, 30.6.-9.10.1860, S. 103–111).</note></seg>, ist meine heimische Sehnsucht für jetzt gestillt worden.</p>
+                <p>Die glänzenden Erfolge Ihrer Werke sind mir nicht unbekannt geblieben; ich nehme aufrichtig daran Teil, u<ex>nd</ex> stelle mir vor, daß Sie noch Bedeutendes leisten werden.<seg type="comment"><orig> Ihren <persName key="G067617">Nero</persName></orig><note xml:id="nxkq_fmk_1mb">Das etwa 1857–1860 entstandene, vielbewunderte Historiengemälde Pilotys „Nero nach dem Brande Roms“. Das ausgeführte Ölgemälde befindet sich im Budapester Museum der bildenden Künste (Budapest, Szépművészeti Múzeum, Inv. 106.B.), eine eigenhändige Kompositionskizze in der Staatlichen Graphischen Sammlung München (Inv. 28230) sowie eine Ölkizze in der Städtischen Galerie im Lenbachhaus (Inv. G 4948) (https://reproarte.com/files/images/P/piloty_karl_t_von/0191–0237_nero_auf_den_truemmern_roms.jpg).</note></seg> zu sehen, würde mir ein großer Genuß sein, schon wegen meiner römischen Atmosphäre, die mich durchdrungen hat.</p>
+                <p>Wir leben hier <pb n="1v"/>in dem alten Rom, vor deßen Toren <persName key="G001442"><seg type="comment"><orig>Hannibal</orig><note xml:id="naq5_hmk_1mb">Der karthagische Heerführer Hannibal (247 v. Chr.) – hier wohl als Bild für Napoléon III. (1808–1873), dessen Truppen nach der Vereinigung großer Teile Italiens zum Königreich Italien den Kirchenstaat stützen.</note></seg> </persName>steht, still u<ex>nd</ex> schön – in ernste Arbeiten versenkt, der Vergangenheit zugewandt, aber für die großen Probleme der Gegenwart voll u<ex>nd</ex> frisch empfindend. Ich sage „wir“, eigentlich sollte ich sagen „ich“, denn die Deutschen hier sind im Großen-Ganzen ziemlich papistisch gesinnt.</p>
+                <p>Es ist mir intereßant, daß <seg type="comment"><orig>Sie den <persName key="G001022">Großherzog von <hi rendition="#aq">W</hi><ex>eimar</ex></persName> kennen gelernt haben</orig><note xml:id="nwc1_jmk_1mb">1858 hatte Carl Alexander Großherzog von Sachsen-Weimar-Eisenach (1818–1901) die erste allgemein historische Kunstausstellung in München besucht, die von der deutschen Künstlergenossenschaft veranstaltet worden war. Er war von Pilotys dramatischen Werken so beeindruckt, dass er ihn 1860 nach Weimar zu ziehen suchte, indem er ihm den Direktorposten seiner im Aufbau befindlichen Weimarer Kunstschule anbot, doch Piloty lehnte ab.</note></seg>; dieser Fürst scheint menschliche Gefühle zu besitzen, die ihn ehren. <seg type="comment"><orig>Er hat ein paar Mal an mich geschrieben, aus solchem menschlichem Antriebe, aber es dünkte mir passend, mich von jenen doch nicht völlig freien u<ex>nd</ex> zu befreienden Sphären zu entfernen</orig><note xml:id="nkdl_lmk_1mb">Großherzog Carl Alexander hatte Gregorovius erstmals am 29. Dezember 1857 geschrieben (BSB München, NL Gregorovius, Gregoroviusiana 21), seine Bewunderung für dessen Werke zum Ausdruck gebracht und ihm in der Folge sogar eine finanzielle Unterstützung angeboten, die Gregorovius mit Verweis auf seine Unabhängigkeit jedoch abgelehnt hatte.</note></seg>.</p>
+                <p>Möge es Ihnen wol gehen im guten <placeName key="G000664">Vaterlande</placeName>, u<ex>nd</ex> die Grazien zwanglos u<ex>nd</ex> willig bei Ihnen weilen.</p>
+                <closer>
+                    <salute rendition="#c">In treuem Angedenken</salute>
+                    <signed rendition="#right">Ferd. Gregorovius.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

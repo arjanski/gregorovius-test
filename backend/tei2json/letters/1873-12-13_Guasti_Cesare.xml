@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067741">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Cesare Guasti in Florenz. Rom, 13. Dezember 1873</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Biblioteca Roncioniana Prato</repository><collection>Archivio Guasti, Busta 398 </collection><idno>(5)</idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 1 ½ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er bedankt sich für die Bereitschaft, einem Schüler von Georg Waitz die Regesten Heinrichs VII. noch vor der Veröffentlichung durch Francesco Bonaini („Acta Henrici VII. Romanorum imperatoris et monumenta quaedam alia suorum temporum historiam illustrantia“, 1877) zugänglich zu machen. Guasti soll die Abschriften an Waitz nach Göttingen senden.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1873-12-13" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001218">Guasti, Cesare (1822–1889)</persName>
+<placeName key="G000671">Florenz</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c">Roma, 13. Dec<ex>em</ex>br<ex>e</ex> 73.</dateline>
+<salute rendition="#c">Egregio Signore,</salute>
+</opener>
+<p>ringraziandola vivamente della generosa premura che si prende di <seg type="comment"><orig>voler concedere cioè l’uso di una copia dei Documenti di <persName key="G001259">Arrigo VII </persName>ad un giovane dotto di <placeName key="G067846">Göttingen</placeName></orig><note xml:id="nk3f_fp3_zlb">Der offensichtlich positiv ausgefallene Antwortbrief auf Gregorovius’ Bitte um eine Kopie der Regesten von Heinrich VII. (1278/79–1313) für einen jungen Forscher aus Göttingen (siehe den Brief von Gregorovius an Cesare Guasti vom 7.12.1873), ist nicht erhalten. Er selbst hatte die später vom Generalintendanten der toskanischen Archive, Francesco Bonaini (1806–1874), publizierten Regesten (Acta Henrici VII. Romanorum imperatoris et monumenta quaedam alia suorum temporum historiam illustrantia. 2 Bde. Florenz: Typis Galileianis M. Cellinii et soc. 1877) im Zuge seiner Arbeit am sechsten Band der „Geschichte der Stadt Rom im Mittelalter“ (1867) bereits vor ihrer Veröffentlichung einsehen können (siehe: Geschichte der Stadt Rom im Mittelalter. Band 6. 1867, S. 26–109, bes. S. 32, Anm. 1). Der Göttinger Forscher hatte durch die Anmerkung in der „Geschichte der Stadt Rom im Mittelalter“ von Gregorovius’ Vorzug erfahren und ihn deshalb, über seinen Lehrer Professor Georg Waitz (1813–1886), um Vermittlung im Florentiner Archiv gebeten. Um welchen Schüler von Waitz es sich bei dem jungen Göttinger handelt, ist nich nachweisbar.</note></seg>, mi permetto di pregarla di far spedire la copia accennata direttamente a Göttingen e all’ indirizzo del <seg type="comment"><orig><persName key="G067854">Professore Waitz</persName></orig><note xml:id="nqlq_gp3_zlb">Der Rechtshistoriker und Mediävist Georg Waitz (1813–1886) war ein Schüler von Leopold von Ranke (1795–1886) und arbeitete ab 1842 bei den „Monumenta Germaniae Historica“ mit. Im selben Jahr wurde er von der Uni Kiel zum Professor berufen, 1848 ging er an die Göttinger Universität, gründetet dort das Historische Seminar mit. 1875, als Präsident der „Monumenta Germaniae Historica“, kehrte er nach Berlin zurück. Er war wesentlich an der „Quellenkunde der deutschen Geschichte“ beteiligt. Gregorovius lernte ihn, „[...] einen staatlichen Mann von größerer Art, als sonst deutsche Professoren zu haben pflegen“, im November 1872 in München kennen (RT, 11.11.1873, S. 327).</note></seg>, il quale sarebbe:</p>
+<p rendition="#c">Signor Professore Waitz</p>
+<p rendition="#c">all’ <orgName key="G067842">Università di <lb/>Göttingen.</orgName></p>
+<p><seg type="comment"><orig>La nuova convenzione postale</orig><note xml:id="nktb_3p3_zlb">Am 1. Juli 1872 hatte die Reichspost die Höhe des Gewichts für Drucksachen von 40 Gramm auf 50 Gramm erhöht.</note></seg> vi offre il commodo di spedire fogli oppure libri sotto fascia con minima spesa. Ella avrà la bontà di far raccommandare il plico, e di indicarmi poi <pb n="1v"/>occasionalmente l’importo della spedizione, il quale le rimborserò mediante francobolli di posta. Il Waitz le sarà obligatissimo per questo servizio reso ad uno dei suoi discepoli, e non meno obligato mi protesto io, che sono colla più alta stima</p>
+<closer>
+<salute rendition="#right">il suo devotissimo servitor</salute>
+<signed rendition="#right">FGregorovius. </signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

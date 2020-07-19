@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067762">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Luigi Giuseppe De Simone in Lecce. Rom, 18. Juni 1875</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Biblioteca Provinciale „Nicola Bernardini“ di Lecce</repository><collection>Sezione manoscritti, collocazione nn. 188/72–75</collection><idno>(74–75)</idno></msIdentifier>
+<physDesc>
+<p>2 ⅓ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Luigi Giuseppe De Simone cent’anni dopo. Incontro di Studio Arnesano, 31 V 2002. Hrsg. von E. Imbriani. Castrignano dei Greci: Amaltea edizioni 2004 (Quaderni della Biblioteca Comunale ‚Luigi Giuseppe De Simone‘; 2). S. 74–75 (fehlerhaft)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die Zusendung von Texten und Informationen zur „Commissione storico-archeologica di Lecce“ für seinen Vortrag „Die historischen Studien im alten Calabrien, der heutigen Terra d’Otranto“ an der Bayerischen Akademie der Wissenschaften. Über seinen Aufenthalt in Apulien im Mai 1875. </p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1875-06-18" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001088">De Simone, Luigi Giuseppe (1835–1902)</persName>
+<placeName key="G067505">Lecce</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c">Roma, 18. Giugno 1875.</dateline>
+<salute rendition="#c">Pregiatissimo <seg type="comment"><orig>Signore</orig><note xml:id="ntzg_215_zlb">Den studierten Juristen Luigi Giuseppe De Simone (1835–1902), der in Neapel zum Richter ernannt worden war, traf Gregorovius bei seiner Apulienreise im Mai 1875 nicht an. Da De Simone Mitglied in der historisch-archäologischen Kommission Lecces war und zu diesem Zeitpunkt bereits einige Arbeiten zur Lokalgeschichte Apuliens vorgelegt hatte, wandte sich Gregorovius deshalb wenige Wochen später schriftlich mit seinen wissenschaftsgeschichtlichen Fragen an ihn; siehe den Brief von Gregorovius an Luigi Giuseppe De Simone vom 26.5.1875. Die Gegenbriefe auf die beiden höflich-sachlich gehaltenen Briefe von Gregorovius sind nicht überliefert.</note></seg>,</salute>
+</opener>
+<p>prego di scusare il ritardo del riscontro alla sua amabile lettera, colla quale insieme <seg type="comment"><orig>mi giunsero anche alcuni opuscoli</orig><note xml:id="ntwj_g15_zlb">In seinem ersten Brief an De Simone hatte Gregorovius um Informationen hinsichtlich der 1868 gegründeten „Commissione conservatrice dei monumenti storici e di belle arti di Terra d’Otranto“ gebeten. Konkret fragte er nach möglichen Bezügen zwischen der Kommision und der von ihm in Tarent eingesehenen Zeitschrift „Collana di opere scelte edite e inedite di scrittori di Terra d’Otranto“ (22 Bde., Lecce 1867–1875). Welche anderen Schriften De Simone an Gregorovius gesandt hatte, ist nicht ermittelbar.</note></seg>, riferentisi ai lavori della <orgName key="ed_jgf_fdh_zkb">Commissione storico-archeologica in Lecce</orgName>, nonche altri di diversa natura. Ringrazio V<ex>ostra</ex> S<ex>ignoria</ex> di questi scritti, come delle indicazioni datemi riguardo al procedimento di quella Commissione sovradetta, con assicurarla, ch’<seg type="comment"><orig>io me ne servirò al tempo suo, onde dar parte in <placeName key="G000664">Germania</placeName>, massimamente all’<orgName key="G000494">Accademia delle Scienze</orgName> in <placeName key="G000734">Monaco</placeName></orig><note xml:id="nt3r_315_zlb">Mit seinem Vortrag über Apulien am 2. Dezember 1875 in der historischen Klasse der Akademie der Wissenschaften in München wollte Gregorovius auch die Schriften De Simones sowie die Tätigkeiten der historisch-archäologischen Kommission der Terra d’Otranto außerhalb Italiens bekannt machen. Der Vortrag wurde unter dem Titel „Die historischen Studien im alten Calabrien, der heutigen Terra d’Otranto“ in: Sitzungsberichte der philosophisch-philologischen und historischen Classe der k. b. Akademie der Wissenschaften zu München. Jg. 1875. Bd. 2. H. 4. München 1875. S. 409–425. Siehe zu Gregorovius’ Wertschätzung von De Simone auch: Wanderjahre in Italien. Bd. V. Apulische Landschaften. Leipzig: Brockhaus 1877, S. 244. In einem Schreiben vom 5. Dezember 1875 an die Kommission in Lecce, namentlich an Francesco Casotti, berichtet Gregorovius von der Aufnahme seines Vortrags durch die Münchner Akademie; dem Brief legte er den Vortrag bei; siehe den Brief von Gregorovius an die Commissione conservatrice dei monumenti storici e di belle arti di terra d’Otranto vom 5.12.1875.</note></seg>, dello stato in cui si trovano gli studj storici nella terra di <pb n="1v"/><placeName key="G000745">Otranto</placeName>, terra rimasta finora tanto fuori del contatto col mondo scientifico, da esser quasi un mito in Germania, se ne vogliasi togliere quei pochi viaggiatori, che la perlustravano allo scopo, <seg type="comment"><orig>di rintracciarsi le iscrizioni messapiche o romane</orig><note xml:id="nfpy_j15_zlb">Vor der römischen Herrschaftsexpansion und dem Einzug der lateinischen Sprache war Apulien griechisch geprägt. Seine damaligen Bewohner werden unter dem Begriff „Japyger“ zusammengefasst, die Bevölkerung des heutigen Salento mit dem Namen „Messapier“ bezeichnet. Dort ist auch der Großteil der im sogenannten messapischen, von den Griechen übernommenen Alphabet verfassten Inschriften zu finden. Die ältesten datieren in das 6. Jahrhundert vor Christus, die jüngsten ins 2. Jahrhundert vor Christus. De Simone veröffentlichte zwei Arbeiten zu dem Thema: Di un ipogeo messapico scoperto il 30 agosto 1872 nelle rovine di Rusce e delle origini de’popoli della Terra d’Otranto. Lecce: Tip. Editrice Salentina 1872; Note Japigo-Messapiche. Turin: Stamperia Reale 1877. Siehe dazu auch: Wanderjahre in Italien. Bd. V. Apulische Landschaften. Brockhaus: Leipzig 1877, S. 214–251.</note></seg>.</p>
+<p>Mi creda, che lo aver conosciuta la sua bella patria, <seg type="comment"><orig>per quanto rapido fosse stato il mio viaggio in quelle contrade</orig><note xml:id="ncl2_l15_zlb">Gregorovius war über Neapel und Caserta nach Benevent gereist. Dort traf er auf Raffaele Mariano (1840–1912); gemeinsam traten die Freunde die Fahrt nach Apulien am 11. Mai an. Sie fuhren über Trani, Andria, Castel del Monte, Ruvo und Brindisi nach Lecce, kamen dort am 15. Mai an. Am nächsten Tag reisten sie für zwei Tage nach Tarent und am 19. Mai erfolgte die Rückreise über Massafra, Foggia, Benevent und Caserta nach Rom; Ankunft dort am 21. Mai (siehe RT, 23.5.1875, S. 351–355). </note></seg>, è cosa, che mi fa nascere il desiderio di ritornarvi <seg type="comment"><orig>un’ altra volta</orig><note xml:id="nznd_m15_zlb">Es ist kein weiterer Apulienaufenthalt von Gregorovius nachweisbar.</note></seg>, e anzitutto quell’ altro di veder prosperare gli studj storici, iniziati colà di bel nuovo per pattriotico amor di cittadini colti.</p>
+<p><seg type="comment"><orig>Ritornando nella mia patria</orig><note xml:id="nh5j_n15_zlb">Er verließ Rom am 28. Juni 1875 und reiste über Kufstein nach Traunstein, wo er zwei Monate verbrachte. Am 1. September 1875 kam er nach München zurück (siehe RT, 1.3.1876, S. 359).</note></seg> adempio ad un debito grato, di esprimere anche a Lei questo mio desiderio e l’alta stima <pb n="2r"/>con cui mi raffermo</p>
+<p rendition="#c">di Lei</p>
+<closer>
+<salute rendition="#right">servitor devoto</salute>
+<signed rendition="#right">Ferdin. Gregorovius.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

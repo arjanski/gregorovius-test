@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067722">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Contessa Ersilia Caetani Lovatelli in Rom. Traunstein, 21. August 1872</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno>Karton 59, Mappe 348 (nach D)
+                        </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"><bibl type="print">Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli. Hrsg. von Sigmund Münz. Berlin: Paetel 1896. S. 72–73 (gekürzt) </bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er will bis Ende September zur Erholung in Traunstein bleiben. Dort hat ihn Ludwig Friedländer besucht, dessen „Darstellungen aus der Sittengeschichte Roms in der Zeit von August bis zum Ausgang der Antonine“ (1862–1871) er zur Lektüre empfiehlt. Über die 400-Jahr-Feier der Ludwig-Maximilians-Universität München. Glückwünsche an Giacomo Lovatelli und Onorato Caetani zur Ernennung zum römischen Gemeinde- bzw. Provinzialrat. </p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000888">Traunstein</placeName><date when="1872-08-21" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001011">Caetani Lovatelli, Ersilia (1840–1925)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="72"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">Traunstein, 21. August 1872.</dateline>
+</opener>
+<p>Ich danke Ihnen von ganzem Herzen für Ihre zwei Briefe.<gap reason="lost" unit="chars" quantity="1"/>Glauben Sie mir, es gereicht mir zu wahrem Troste, Ihre Zeilen und mit diesen die Gewißheit zu empfangen, daß ich in dem <persName key="G001244">Hause Gaetani</persName> nicht vergessen bin – <seg type="comment"><orig>dem Hause, das mir das liebste unter allen ist, die ich in <placeName key="G000690">Italien</placeName> kenne.</orig><note xml:id="nss5_ngz_ylb">Die alte römische Adelsfamilie Caetani. Michelangelo Caetani (1804–1882), Herzog von Sermoneta, hatte Gregorovius das Familienarchiv ab Dezember 1857 bereitwillig zur Verfügung gestellt (siehe RT, 31.12.1857, S. 69). Ihm widmete er seine „Lucrezia Borgia“ (Stuttgart: Cotta 1874, 2 Bde.). Seine Verbundenheit zu der Familie bekräftige er beständig; siehe die Briefe von Gregorovius an Giovanni Gozzadini vom 1.11.1868 und an Ersilia Caetani Lovatelli vom 6.9.1871. </note></seg> </p>
+<p><gap reason="lost" unit="chars" quantity="1"/>Aus den italienischen Blättern habe ich <seg type="comment"><orig>die Ernennung Ihres Gemahls, <persName key="G067827">Grafen Giacomo’s</persName>, zum Gemeinderathe und Ihres Bruders, <persName key="G001009">Don Onoratos</persName>, zum Provinzialrathe erfahren</orig><note xml:id="nib1_rgz_ylb">Ersilia hatte 1859 den aus der Provinz Ravenna stammenden Grafen Giacomo Lovatelli (1832–1879) geheiratet. Dieser war von 1870–1874 sowie von 1874–1876 Mitglied im Abgeordnetenhaus Roms. Der Jurist Onorato Caetani (1842–1917), jüngerer Bruder Ersilias, war von 1872–1877 Provinzialrat von Rom, 1880 Kommunalrat von Rom und von 1890–1892 Bürgermeister von Rom.</note></seg>. Ich beglückwünsche sie beide zu dieser Wahl. Und wiewohl ich weder Prophet noch Sohn eines Propheten bin, so habe ich gute Gründe, anzunehmen, daß beide eines Tages einen ausgezeichneten Platz unter den Männern Italiens einnehmen werden, die der Regeneration des Vaterlandes ihre Kräfte leihen. Die Zeit dafür ist günstig, denn endlich ist jener Todesschlaf gewichen, der <seg type="comment"><orig>die edlen Römer derart betäubte, daß sie fast ein fossiles Leben führten</orig><note xml:id="npnp_dhz_ylb">Anspielung auf die Einigung Italiens, die Ausrufung des als Königreich entstandenen Nationalstaates am 17. März 1861, sowie den Anschluss des Kirchenstaates an das Königreich, der am 8. Oktober 1870 proklamiert worden war.</note></seg> – ein Leben der<seg type="comment"><orig> <foreign xml:lang="grc">Apragmosyne</foreign></orig><note xml:id="ncsv_2hz_ylb">Griech. für: Untätigkeit.</note></seg>, ein Leben, das von den Gesetzen <placeName key="G000619">Athens</placeName> geächtet und verdammt ward und auch in <persName key="G000916">Dante’s </persName>„Hölle“ gegeißelt wird. Nun freilich ist Italien ein zweites Mal aufgewacht.</p>
+<p><gap reason="lost" unit="chars" quantity="1"/>Was meine Wenigkeit anbelangt, so lese ich kaum eine Seite. So träge bin ich und zu nichts gut. Nun werde ich die wahrhaft langen Mühsale, deren Gewicht ich bisher <pb n="73"/>habe tragen müssen, gewahr. So soll es denn sein, daß ich es wie der erschöpfte Acker mache, der <seg type="comment"><orig>nichts anderes mehr als Brennesseln hervorbringt</orig><note xml:id="nel2_jhz_ylb">Auf ärztliches Anraten war Gregorovius am 14. Juli nach Traunstein gereist, um sich dort durch Salzbäder von einer Erkältung aus dem letzten Winter zu kurieren. Er blieb dort bis zum 12. September (siehe RT, 10.9.1872, S. 325–327).</note></seg>.<gap reason="lost" unit="chars" quantity="1"/><persName key="G001143">Ludwig Friedländer</persName>, <seg type="comment"><orig>der Verfasser der <bibl sameAs="G067834">„Darstellungen aus der Sittengeschichte Roms“</bibl>, eines guten und berühmten Werkes, das vielleicht Ihrer Aufmerksamkeit nicht entgangen sein wird, hat mich besucht</orig><note xml:id="nnnr_shz_ylb">Die „Darstellungen“ waren zunächst einbändig erschienen. Der aus Königsberg stammende Friedländer (1824–1909) war Altphilologe und Kunsthistoriker, Schüler von Karl Lehrs (1802–1878). Er lehrte von 1858–1892 an der Königsberger Universität. 1853/1854 war er durch Italien gereist. Gregorovius und er trafen gelegentlich aufeinander. </note></seg>. Er hatte an den <seg type="comment"><orig>Jubiläumsfestlichkeiten der <orgName key="G067824">Universität München</orgName></orig><note xml:id="nsbc_vhz_ylb">Die Ludwig-Maximlians-Universität München feierte 1872 ihr 400jähriges Bestehen.</note></seg> theilgenommen, die wohlgelungen sind und eine glänzende im Namen der freien deutschen Wissenschaft veranstaltete Demonstration gegen den „Romanismus“ waren. Unter diesem versteht man in <placeName key="G000664">Deutschland</placeName> von altersherr den <seg type="comment"><orig>Ultramontanismus</orig><note xml:id="nirg_whz_ylb">Der romtreue, politische, insbesonders in den deutschsprachigen Ländern vertrene Katholizismus.</note></seg>, oder die giftige Finsternis, die in den Treibhäusern der Sekte der <orgName key="G000550">Jesuiten</orgName> herrscht. </p>
+<p>Mitte September werde ich Traunstein wieder verlassen.<gap reason="lost" unit="chars" quantity="1"/>Der Typus der Menschen hier ist häßlich, aber man wird durch die wahre Güte, Aufrichtigkeit und Einfalt der Leute entschädigt, und oft erinnere ich mich an eine Grabschrift, die bei <persName key="G067828">Paulus Diaconus</persName> in seiner <seg type="comment"><orig>„Geschichte der Langobarden“</orig><note xml:id="nhmg_yhz_ylb">Paulus Diaconus. Historia Langobardorum, um 790–799. </note></seg> verzeichnet ist: <seg type="comment"><orig>„<foreign xml:lang="Lat">terribili facie, sed corde benigno</foreign>.“</orig><note xml:id="nolz_zhz_ylb">Lat. für: Schrecklich von Angesicht, aber von gutem Herzen.</note></seg> </p>
+</div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000416">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Giovanni Battista De Rossi in Rom. Rom, 1882</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Rom, Biblioteca Apostolica Vaticana</repository><collection>Vat. Lat. 14270, Carteggio Giovanni Battista De Rossi 1883</collection><idno><idno>fol. 283 Nr. 700</idno></idno></msIdentifier>
+<physDesc>
+<p>BK, 1 ¼ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er entschuldigt sein Fehlen bei De Rossi mit einer Einladung beim Botschafter Robert von Keudelll. Die Romansicht des Leonardo da Besozzo aus der Zeit um 1400, die De Rossi gesehen hat, hält er für den ersten Versuch einer wirklichkeitstreuen Ansicht der Stadt Rom, noch vor jener in der Schedelschen Weltchronik von 1493. Er wird die Karte in der Accademia nazionale dei Lincei vorstellen (Una pianta di Roma delineata da Leonardo da Besozzo milanese, in: Atti della R. Accademia dei Lincei – aufgenommen unter dem Titel „Eine Weltchronik in Bildern“ in KS II, S. 1–32). </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1882" cert="low"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001085">De Rossi, Giovanni Battista (1822–1894)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<dateline rendition="#c"> Sabbato.</dateline>
+<salute rendition="#c">Gentilissimo Signor De <?oxy_comment_start author="weiger" timestamp="20190812T172254+0200" comment="Der Archäologe Giovanni Battista De Rossi (1822–1894)."?>Rossi<?oxy_comment_end?>, <lb/></salute>
+</opener>
+<p>pur troppo non sarò questa sera da Lei, causa un pranzo da <?oxy_comment_start author="weiger" timestamp="20190812T172319+0200" comment="Der Ostpreuße Robert von Keudell (1824–1903) war von Juni 1873 bis Mai 1887 preußischer Gesandter in Rom, ab 1876 Botschafter am Quirinal: „Keudell kam als neuer Gesandter Deutschlands her und wurde von den Italienern mit offenen Armen empfangen; sie sehen in der Sendung dieses Vertrauten Bismarcks eine Demonstration. […] Keudell lernte ich bei Wesdehlen kennen, welcher nach Paris zurückkehrte; er spielte lange auf dem Klavier, worin er Meister ist […].“ (RT 28.6.1873, S. 331–332). Gregorovius war zu verschiedenen gesellschaftlichen Anlässen oft Gast im Hause Keudells. "?>Keudell<?oxy_comment_end?>, che avrà luogo precisamente alle 7. Intanto mi rallegro, che Lei ha visto l’icnografia del Leonardo di <?oxy_comment_start author="weiger" timestamp="20190812T172349+0200" comment="Der lombardische Maler Leonardo da Besozzo illustrierte um 1400 die Chronik „Imagines pictae virorum illustrium“ (Mailand, Diözesanmuseum, Sammlung Crespi)."?>Bisozzo<?oxy_comment_end?>. Siccome fa parte della cronaca universale da esso lui dipinta tra il 1395 e il 1417, ritengo <add place="superlinear">che</add> ella sia stata delineata nell’istesso tempo; quindi sarebbe il primo tentativo fatto innanzi allo <?oxy_comment_start author="weiger" timestamp="20190812T172415+0200" comment="Schedelsche Weltchronik, auch Nürnberger Chronik genannt, 1493, München, Bayerische Staatsbibliothek. Michael Wolgemut (1434–1519) entwarf die Holzschnitte der Chronik. "?>Schedel<?oxy_comment_end?>, di ritrovare cioè un’icnografia di Roma vera e attuale, e direi anche civile. Presenterò la pianta ai Lincei;<?oxy_comment_start author="weiger" timestamp="20190812T172450+0200" comment="Gregorovius war seit dem 7. Februar 1876 korrespondierendes Mitglied der Accademia nazionale dei Lincei: https://archive.org/details/transuntire3518801881real/page/n15. Am 1. Mai 1882 schickte er seine Arbeit über  Leonardo da Bessozzos Romkarte für die Publikation in den Akten der Akademie ein, 1883 wurde sie veröffentlicht: Una pianta di Roma delineata da Leonardo da Besozzo milanese, in: Atti della R. Accademia dei Lincei (aufgenommen unter dem Titel „Eine Weltchronik in Bildern“ in KS II, S. 1–32)."?> <?oxy_comment_end?>nell’ <pb n="1v"/>adunanza che si farà nel mese prossimo, e spero di aver prima ancora<add place="superlinear"> il bene</add> di sentire ciò che Ella pensi intorno alla natura del detto panorama romana.</p>
+                <closer>
+                    <salute rendition="#c">Suo dev<hi rendition="#u" hand=""><hi rendition="#sup"><ex>otissi</ex>mo</hi></hi></salute>
+                    <signed rendition="#right">FGregorovius</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

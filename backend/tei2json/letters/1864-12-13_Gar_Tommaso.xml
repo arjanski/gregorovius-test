@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000271">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Tommaso Gar in Neapel. Rom, 13. Dezember 1864</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+                <respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname>
+                        <forename>Frederike</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Biblioteca Comunale di Trento</repository>
+                        <idno>
+                            <idno>busta BCT1–2257/52</idno>
+                        </idno>
+                    </msIdentifier>
+                    <physDesc>
+<p>1 Dbl., 8°, 3 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er wurde von Rinaldo Fulin im Auftrag des Verlags Antonelli um die Rechte der Übersetzung der „Geschichte der Stadt Rom im Mittelalter“ ins Italienische gebeten. Falls die Verhandlungen Gars mit dem Verleger Gasparo Barbera scheitern, will Gregorovius das Angebot Antonellis erwägen. Es ist aber weiterhin sein Wunsch, dass Gar die Übersetzung besorgt. Bei der prekären Lage des italienischen Buchmarkts kann er zu Gunsten des Übersetzers auf sein Honorar verzichten. Bei Nachdrucken würde er aber Tantiemen einfordern. Er hat auch ein Übersetzungsangebot eines römischen Anwalts erhalten, das er ablehnen wird. Grüße an Madeleine Creutzer. Um die Zigarrenlieferung für Gregorovius kümmert sich Otto Freiherr von Racknitz. </p>
+                <p xml:lang="en">He was asked by Rinaldo Fulin on behalf of the publishing house Antonelli for the rights to translate the „Geschichte der Stadt Rom im Mittelalter“ into Italian. If Gar’s negotiations with the publisher Gasparo Barbera fail, Gregorovius will consider Antonelli’s offer. It is still his wish, however, that Gar procure the translation. Given the precarious situation on the Italian book market, he can waive his fee in favour of the translator. However, he would demand royalties for reprints. He has also received an offer for translation from a Roman lawyer, which he will refuse. Greetings to Madeleine Creutzer. Otto Freiherr von Racknitz takes care of the cigar delivery for Gregorovius. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName>
+                    <date when="1864-12-13" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001158">Gar, Tommaso (1808–1871)</persName>
+<placeName key="G000737">Neapel</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Roma, 13. D<ex>i</ex>c<ex>em</ex>br<ex>e</ex> 64.</dateline>
+                    <salute rendition="#c">Carissimo amico,</salute>
+                </opener>
+                <p>mi raggiunse una lettera di <persName key="G001151"><seg type="comment"><orig>Rinaldo Fulin</orig><note xml:id="no51_gml_ylb">Der Venezianer Rinaldo Fulin (1824–1884), der 1871 das Archivio Veneto begründete, war der eigentliche Herausgeber der italienischen Übersetzung der „Geschichte der Stadt Rom im Mittelalter“ (Bde. 1–2, 1866; Bde. 1–9, 1872–1876). Er stellte den Kontakt zwischen Gregorovius und dem Verleger Giuseppe Antonelli her und nahm die Übersetzung in die Reihe „Collezione di opere storiche“ auf. </note></seg></persName> Professore nell’ <orgName key="G000529">I. R. Ginnasio Liceale di S. Catterina a <placeName key="G000894">Venezia</placeName> </orgName>, il quale mi richiede della concessione del diritto di tradurre <seg type="comment"><orig>la <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Storia di Roma nel medio evo</bibl></orig><note xml:id="nx13_hml_ylb">Bislang waren die Bände 1–4 der „Geschichte der Stadt Rom im Mittelalter“ erschienen (1859, 1859, 1860 und 1862).</note></seg>, essendo che si sia formata colà una associazione per intraprese simili di traduzione di storie moderne dalla lingua allemmanna nella italiana. Ho risposto oggidì al Fulin, accusando, ch’io abbia digià ceduto a voi codesto diritto, e che, sebbene non abbiate finora stabilito alcun trattato con un’ editore, stiate però in trattive con <placeName key="G000671">Firenze</placeName>. Non c’è d’uopo dire, che avanti tutto mi stia à cuore, di veder uscire <bibl corresp="G004367">la versione italiana della mia opera</bibl> dalle vostre mani, come d’un amico caro; e manco ve n’avrei scritto di quella offerta Veneziana, se non fosse per motivo, di accennarvi <pb n="1v"/>un, editore pel caso, che <seg type="comment"><orig><persName key="G000958">Barbèra</persName></orig><note xml:id="nz1r_jml_ylb">Gasparo Barbera (1818–1880) hatte 1858 die italienische Übersetzung des „Euphorion“ (1858) herausgegeben (vgl. De Pasquali, Gaetano: Euphorion. A cura di Gasparo Barbera. Turin 1858).</note></seg> negasse l’intrapresa. Il Fullin mi dimanda, quali condizioni io vorrei annettere al trattato per ragione mia, notando però che per adesso non si potrebbe farmi di profitevole offerta riguardo a compensa pecuniaria – ed io mi servo di questa occasione, per dichiararvi, ch’io per buona conoscenza dello stato attuale in cui si truovano nell’Italia gli affari letterari materialmente, <seg type="comment"><orig>non aspiro ad alcuna compensa</orig><note xml:id="ns4z_kml_ylb">Gregorovius ließ sich 1865 auf das Angebot des Verlags Antonelli ein, bereute dies jedoch später; am 2. Juni 1872 heißt es dazu rückblickend in seinem Tagebuch: „Als mir 1865 Antonelli in Venedig durch Vermittlung Fulins den Antrag der italienischen Ausgabe meiner ‚Geschichte‘ machte, konnte ich nicht ahnen, daß der Sturz des Papsttums in Rom nahe sei; ich war froh, daß ein italienischer Buchhändler so viel Mut hatte, und überließ ihm das ausschließliche Druckrecht. Ich beanspruchte nur die Summe von 250 Francs für jeden Band, als Symbol meines Autorrechts. Der erste Band der Übersetzung Manzatos erschien 1866; die Fortsetzung unterblieb, und Antonelli machte außerdem Bankerott. Im Jahre 1869 trat als sein Administrator Rebeschini ein, worauf der Kontrakt erneuert wurde und im Frühjahr 1872 der zweite Band erschien. Ich bin in der Fessel dieses Vertrags. Wenn ich von ihm befreit wäre, so würde heute das Werk in einer von der Stadt Rom selbst veranstalteten und unter meinen Augen besorgten Ausgabe erscheinen können.“ (S. 325)</note></seg>, la rinunzio a profitto del traduttore, e mi riserbo solamente una <foreign xml:lang="fra">tentième</foreign> nel caso, che dopo esauste le prime 1000 copie si ristampasse l’opera; essendo chè sia ben raggionevole, che l’autore pure pensi in qualche punto <pb n="2r"/>al suo favore.</p>
+                <p>Vi abbraccio, carissimo Gar; scrivetemi buone nuove delle cose vostre e della salute della gentilissima <persName key="G001056">Baronessa</persName>, cui mi raccommando caldamente. Riguardo ai zigari, truovate il <seg type="comment"><orig><persName key="G001521">fratello</persName></orig><note xml:id="nnkd_mml_ylb">Otto Freiherr von Racknitz (1829–1913) war der drei Jahre jüngere Bruder von Auguste Luise Lindemann-Frommel, geb. Freiin von Racknitz (1826–1876).</note></seg> della <persName key="G001374">Madama Lindemann</persName>, che vi si sarà presentato, come credo; egli avrà la compiacenza, di incaricarsi della spesa come del trasporto. Il dazio forse non sarà troppo forte per 50 o 100 pezzi di zigari.</p>
+                    <closer><salute><foreign xml:lang="eng">And sharing hands with you, dear friend, i am <del rendition="#s">your</del> for ever your</foreign></salute>
+                   <signed rendition="#right">Gregorovius.</signed></closer>
+                        <note type="postscript">Mi s’offerse pure un <persName key="G000926"><seg type="comment"><orig>avvocato Romano</orig><note xml:id="nsyg_nml_ylb">Möglicherweise ist der römische Anwalt und Bibliothekar Raffaele Ambrosi de Magistris (1831–1900) gemeint, der in den 1870er Jahren 2 Werke Gregorovius’ übersetzte. Vgl. Ambrosi, Raffaele: „Sulla storia delle inondazioni del Tevere. Traduzione di Raffaele Ambrosi.“ In: Il Buonarroti. Scritti sopra le arti e le lettere. Ser. 2. Bd. 11. Quaderno 10. Rom 1876. S. 313–321 u. 345–355; ders.: „Le tombe dei papi.“ Prima editione italiana, rivista ed accresciuta dall’autore. Rom: Fratelli Bocca 1879. VII, 226 S.</note></seg></persName> da traduttore della Storia – s’intende, che non ne volli sentir manco parlare.</note>
+               </div>
+        </body>
+    </text>
+</TEI>

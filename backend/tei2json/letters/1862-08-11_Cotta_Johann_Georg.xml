@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000148">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Johann Georg Freiherr Cotta von Cottendorf in Stuttgart. St. Moritz, 11. August 1862</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (47)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S. – 13 unter der Datumszeile Beantwortungsvermerk: 13 / ead</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno><idno>Karton 57, Mappe 340–342 (nach D) und Karton 55, Mappe 336–337 (Ergänzungen nach H)</idno></idno></idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 249–250 (leicht gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Die letzten Korrekturbogen des vierten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1862) hat er zurückgesandt. Er rechnet mit dem baldigen Ende des Kirchenstaates, dann würde er sofort nach Rom zurückeilen. Seine Recherchen für den fünften Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1865) in der Mailänder Biblioteca Ambrosiana waren erfolglos. Nach einer Rezension des ersten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1859) von Gabriele Rosa im „Archivio Storico Italiano“ ist eine italienische Übersetzung geplant. Das Manuskript des Ankündigungstextes für die Verlagsanzeige des vierten Bandes (1862) in der „Allgemeinen Zeitung“ will auf er Nachfrage liefern. Seinen Weg nach München wird er über Heiden nehmen, wo Hermann von Thile mit seiner Familie kurt. Nach Stuttgart wird er nicht kommen können, weil er Ende September im Staatsarchiv von Florenz arbeiten will. In St. Moritz hat er die Forschungssreisenden Moritz Wagner und Karl von Scherzer kennengelernt.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He returned the last galley proofs of the fourth volume of his „Geschichte der Stadt Rom im Mittelalter“ (1862). He is anticipating the imminent end of the Papal States, in that case he would rush back to Rome immediately. His research for the fifth volume of his „Geschichte der Stadt Rom im Mittelalter“ (1865) in the Milan Biblioteca Ambrosiana was unsuccessful. After a review of the first volume of his „Geschichte der Stadt Rom im Mittelalter“ (1859) by Gabriele Rosa in the „Archivio Storico Italiano“, an Italian translation is planned. He will hand in the manuscript of the announcement text for the publisher’s advertisement of the fourth volume (1862) in the „Allgemeine Zeitung“  as soon as he requests it. He will make his way to Munich via Heiden, where Hermann von Thile and his family are staying for their health. He will not be able to come to Stuttgart because he wants to work in the state archives in Florence at the end of September. In St. Moritz he met the research travellers Moritz Wagner and Karl von Scherzer. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000875">St. Moritz</placeName><date when="1862-08-11" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001055">Cotta von Cottendorf, Johann Georg (1796–1863)</persName>
+<placeName key="G000879">Stuttgart</placeName>
+</correspAction>
+<correspContext>
+<ref type="next">13. Augst 1862</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">S<ex>ank</ex>t Moritz im Engadin</hi> <lb/>11. <hi rendition="#aq">Aug<ex>ust</ex></hi> 62.</dateline>
+                    <salute rendition="#c">Hochgeehrter Herr Baron,</salute>
+                </opener>
+<p>die letzten Correcturbogen des <bibl sameAs="G003462"><seg type="comment"><orig>Bandes IV.</orig><note xml:id="ncnf_yj5_1mb">Von dem im Druck befindlichen vierten Band seiner „Geschichte der Stadt Rim im Mittelalter“ (1862). Siehe auch RT, 13.8.1862, S. 150.</note></seg></bibl> sind hier von mir besorgt u<ex>nd</ex> bereits remittirt worden. Ich freue mich, d<ex>a</ex>ß der Band bald erscheinen kann, zumal in dieser Zeit, wo das Schicksal der Stadt <placeName key="G000763">Rom</placeName> seiner Wendung näher gekommen zu sein scheint, als ich es für möglich hielt. <seg type="comment"><orig>Wenn nicht die Anzeichen trügen, wird der Fall des <foreign xml:lang="Lat"><orgName key="ed_onw_cld_rlb">Dominium Temporale</orgName></foreign> sich vor unsern Augen vollenden</orig><note xml:id="nptc_bk5_1mb">Gregorovius rechnete mit dem baldigen Ende des Kirchenstaats. In seinem Tagebuch schrieb er zwei Tage später: „Die Ereignisse in Italien, wo Garibaldi sich nach der Proklamation des Königs von ihm losgesagt hat und an der Spitze von 10 000 Freischärlern in Sizilien steht, regen mich auch hier auf. ‚Rom oder der Tod‘ ist das Feldgeschrei in allen Städten. Garibaldi will die Küste Neapels gewinnen und auf Rom marschieren. Die Franzosen werden schwerlich mit ihm kapitulieren. Der Gedanke, bei einer möglichen Reformation Roms fern zu sein, beunruhigt mich.“ (RT, 13.8.1862, S. 150). Die „Allgemeine Zeitung“ hatte am 4. August 1862 gemeldet, dass Giuseppe Garibaldi (1807–1882) nach Sizilien abgereist war und von dort einen Kriegsaufruf an seine wachsende Freiwilligenarmee veröffentlicht hatte, in dem es heißt: „Es ist abermals die heilige Sache die uns vereinigt. Ohne zu fragen wohin wir gehen seyd ihr herbeigeeilt um die hochmüthigen fremden Unterdrücker zu bekämpfen. Ich bitte die Vorsehung mir euer Vertrauen zu erhalten. Ich kann euch nur Arbeiten und Mühen versprechen. Es wäre überflüssig von euch Muth und Hingebung zu verlangen; aber was ich verlangen muß, ist Disciplin. Die Römer beherrschten durch ihre Disciplin die Welt. Bemuht euch die Zuneigung der Bevölkerung und die Achtung unserer tapfern Armee zu gewinnen, um die Einheit des Vaterlandes zu verwirklichen. Auch dießmal werden die Sicilianer die Vorläufer der großen Geſchicke seyn zu welchen Italien berufen ist.“ (Nr. 216, S. 3573). Als Reaktion auf diese Proklamation hatte Vittorio Emanueles II. (1820–1878) sich in einem Manifest gegen Garibaldi gerichtet, aus dem ebenda am 5. August 1862 zitiert wurde: „Der König bedauert daß, in dem Augenblick wo Europa das Recht Italiens anerkenne, junge Leute, welche ihre Pflichten und die Dankbarkeit gegen die Verbündeten [Frankreich] vergessen, das Signal zum Krieg erheben um Rom anzugreifen, auf welches die gemeinsamen Wünsche und Bestrebungen gerichtet seyen. Er fordere die Italiener auf, gegen die Unternehmungen verbrecherischer Ungeduld auf ihrer Hut zu seyn. Er halte die Fahne Italiens hoch; derjenige folge der Fahne nicht welcher die Gesetze verletze und die Sicherheit wie die Freiheit des Landes bedrohe. Wenn die Stunde schlage, werde der König rufen; jeder andere Ruf sey ein Ruf zur Empörung und zum Bürgerkrieg. Die Verantwortlichkeit und die Strenge des Gesetzes möge auf die fallen die seine Worte nicht hören. Er werde die Würde der Krone unangetastet erhalten, um das Recht zu haben von Europa volle Gerechtigkeit für Italien zu verlangen.“ (Nr. 217, S. 3589). Zuletzt hatte die „Allgemeine Zeitung“ am 11. August 1862 über Garibaldis mutmaßlichen Plan, mit seiner Freiwilligentruppe in Rom einzumarschieren, berichtet: „Die Lage hat sich unbestreitbar verschlimmert. Die französischen Militärbehörden sind benachrichtigt worden daß Garibaldi wirklich mit dem Plan umgehe das päpstliche Gebiet anzugreifen, und man trifft Anstalten ihn nachdrücklichst zurückzuweisen. Man weiß noch nicht über welche Streitkräfte Garibaldi verfügt, der immerfort neue Anwerbungen vornimmt; allein man glaubt daß ein erster Angriff von 3000, gegenwärtig in Neapel versammelten, Garibaldinern gemacht werden soll. […] Die französische und die päpstliche Armee werden gemeinsam operiren, haben aber getrennte Positionen inne.“ (Nr. 223, S. 3692). Garibaldi wurde gleich bei seiner ersten Schlacht am Aspromonte (in Kalabrien) am 29. August 1862 geschlagen und schwer verwundet, so dass er sich aus Sein Gut auf Caprera zurückziehen musste. – „Dominium Temporale“: Lat.: vorübergehendes Besitztum – der weltlichen Herrschaft des Papstes.</note></seg>. Ich habe gerade deshalb Rom, am 21. Juli, mit Unlust verlaßen, u<ex>nd</ex> ich würde dahin zurück eilen, sollten die<placeName key="G000690"> Italiener</placeName> wirklich dort einziehen, u<ex>nd</ex> früher, als ich es geglaubt habe.</p>
+<p>In <seg type="comment"><orig><placeName key="G000721">Mailand </placeName>durchsuchte ich die <orgName key="G067528">Ambrosiana</orgName></orig><note xml:id="nj3x_ck5_1mb">Gregorovius war am 21. Juli von Rom über Livorno und Genua zunächst für Vorarbeiten zum fünften Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1865) nach Mailand gereist, wo er vom 23.-27. Juli in der Biblioteca Ambrosiana gearbeitet hatte (siehe RT, 26.7.1862, S. 149).</note></seg>, konnte mich indeß nur überzeugen, daß für meine Zwecke dort nichts Neues zu entdecken sei. <seg type="comment"><orig>Man wird die Geschichte der Stadt <bibl corresp="G004368 G004369 G004370 G004371 G004372 G004373 G004374 G004375 G004376">in Italien übersetzen</bibl></orig><note xml:id="nkfr_fk5_1mb">Renato Manzato übersetzte einige Jahre später die ersten beiden Bände seiner „Geschichte der Stadt Rom im Mittelalter“ (1859) unter dem Titel „Storia della città di Roma nel Medio Evo dal secolo V al XVI“ als Prima versione italiana. Venedig, Turin: Guiseppe Antonelli 1866. (Nuova Collezione di Opere Storiche ; Vol. VIII), doch unterband Gregorovius wegen der mangelnden Übersetzungsqualität die Fortführung.</note></seg>, in Folge des <seg type="comment"><orig><bibl sameAs="G002651">Artikels</bibl>, welchen das <hi rendition="#aq">Archivio storico</hi> von <placeName key="G000671">Florenz</placeName> darüber brachte</orig><note xml:id="nmyl_hk5_1mb">Gabriele Rosa hatte den ersten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1859) im „Archivio Storico Italiano“ besprochen (Neue Serie. Bd. 15. Teil 1. Florenz: Vieusseux 1862. S. 86–108).</note></seg>. </p>
+<p>Ich werde <pb n="1v"/>mir erlauben, <seg type="comment"><orig>einige Zeilen Behufs der <bibl sameAs="G067689">Ankündigung des neuen Bandes</bibl> aufzusetzen, u<ex>nd</ex> Ihnen zu übersenden</orig><note xml:id="nx5l_3k5_1mb">Gregorovius übersandte das Manuskript seines Ankündigungstextes des vierten Bandes der „Geschichte der Stadt Rom im Mittelalter“ zum Abdruck in der „Allgemeinen Zeitung“ mit seinem Brief an Cotta vom 17.8.1862 (Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 250). Der Text erschien erstmals in der Verlagsanzeige in: „Allgemeine Zeitung“. Beilage zu Nr. 253. Augsburg: Cotta 10.9.1862. S. 4190.</note></seg>, so bald ich weiß, wann es geschehen soll. <seg type="comment"><orig>Ich bleibe noch 10 Tage hier, u<ex>nd</ex> gehe dann zu Besuch nach <hi rendition="#aq"><placeName key="G000686">Heiden</placeName></hi> in <placeName key="G067582">Appenzell</placeName>, zum <persName key="G001644">Freiherrn v<ex>on</ex> Thile</persName></orig><note xml:id="nsgn_jk5_1mb">In St. Moritz kurte Gregorovius bis zum 20. August 1862 (siehe RT, 30.7.-18.8.1862, S. 149–151) und fuhr dann mit Zwischenhalt in Zürich Ende August nach Heiden, wo Hermann von Thile (1812–1889) mit seiner Familie und seinem Schwager Albrecht von Graefe (1828–1870) und seiner Frau Anna, geb. Gräfin Knuth (1842–1872), kurte (siehe RT, 27.8.1862, S. 151).</note></seg>. Von dort denke ich <seg type="comment"><orig>nach <placeName key="G000734">München</placeName> zu gehen</orig><note xml:id="ne1h_kk5_1mb">Nach seinem Schweizer Aufenthalt war Gregorovius vom 2.-13.9.1862 in München (siehe RT, 3.-12.9.1862, S. 151–153).</note></seg>, wenn mich nicht die Ereigniße nach Rom zurückrufen. Da meine Zeit sehr kurz gemessen ist, weil ich schon <seg type="comment"><orig>Ende <hi rendition="#aq">Sept<ex>em</ex>b<ex>e</ex>r</hi> im <orgName key="G000563">Staatsarchiv von Florenz</orgName> arbeiten möchte</orig><note xml:id="nryx_kk5_1mb">Auf seinem Rückweg nach Rom hielt Gregorovius sich vom 20. September bis zum 21. Oktober 1862 in Florenz auf (siehe RT, 20.9.-20.10.1862, S. 154–155).</note></seg>, so weiß ich nicht, ob ich das Glück haben werde, <seg type="comment"><orig>mich Ihnen diesmal persönlich in Stuttgart vorzustellen</orig><note xml:id="nv45_lk5_1mb">Gregorovius besuchte in Augsburg die Redaktion der „Allgemeinen Zeitung“ und in München das Verlagshaus Cotta. Nach Stuttgart fuhr er nicht. </note></seg>. Weiter als bis München werde ich meine Reise nicht ausdehnen.</p>
+<p>Ich habe hier das Vergnügen, zwei <pb n="2r"/>Ihnen bekannte Männer zu sehen, <persName key="G067664"><hi rendition="#aq"><seg type="comment"><orig>Moritz Wagner</orig><note xml:id="npcq_mk5_1mb">Mit dem in München wohnhaften Forschungsreisenden und Zoologen Moritz Wagner (1813–1887) hielt Gregorovius weiter Kontakt (siehe den Brief von Moritz Wagner an Gregorovius vom 6.1.1871; BSB München, NL Gregorovius, Gregoroviusiana 21).</note></seg></hi></persName> u<ex>nd</ex> <seg type="comment"><orig><persName key="G001577">Carl Scherzer</persName> von der <hi rendition="#aq">Novara</hi></orig><note xml:id="nmxm_4k5_1mb">Der österreichische Forschungsreisende Karl von Scherzer (1821–1903) hatte sich 1857–1859 an der Novara-Expedition genannten Weltumseglung als Expeditionsschreiber und Handelsdelegierter beteiligt. Nach seiner Expedition publizierte er seine „Reise der österreichischen Fregatte Novara um die Erde, beschreibender Teil“(3 Bde. Wien 1861–1862) und wenig später ergänzend „Reise der österreichischen Fregatte Novara um die Erde, statistisch-kommerzieller Teil“ (2 Bde., Wien 1864).</note></seg>. </p>
+<p>Wir sind hier im tiefsten Winter, <seg type="comment"><orig><hi rendition="#aq"><foreign xml:lang="Lat">verbotenus</foreign></hi></orig><note xml:id="nv3k_qk5_1mb">Lat.: wortwörtlich.</note></seg> im Schnee, bei 4° Wärme, u<ex>nd</ex> es ist gar bitter kalt. Die Witterung macht daher die gepriesenen Schönheiten des <placeName key="G067579">Engadin</placeName> ungenießbar. Diese <placeName key="G000855">Alpen</placeName> sind von einer kalten u<ex>nd</ex> stummen Erhabenheit.</p>
+<p>Möchte es Ihnen, hochverehrter Herr Baron, in diesem Sommer wol ergehen, und ein <seg type="comment"><orig>ländlicher oder Badeaufenthalt, wo ich Sie mir denke</orig><note xml:id="nlsg_rk5_1mb">Johann Georg von Cotta hatte erwogen, nach St. Moritz zu kommen (siehe den Brief von Gregorovius an Cotta, 17.8.1862 in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 250).</note></seg>, Ihnen eine heilsame Erholung geben.</p>
+                <closer>
+<salute>Mit großer Hochachtung und Ergebenheit empfiehlt sich Ihrem Wolwollen gehorsamst</salute>
+                    <signed rendition="#right">Ferd. Gregorovius.</signed></closer>
+<note type="postscript">Um das Honorar werde ich zur geeigneten Zeit Ihre Geschäftsführer ersuchen. </note>
+            </div>
+        </body>
+    </text>
+</TEI>

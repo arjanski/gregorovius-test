@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000265">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Alfred von Reumont in Aachen. Rom, 14. Juni 1868</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Universitäts- und Landesbibliothek Bonn</repository><collection>NL Reumont</collection><idno>Sign. S 1061 (296)</idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 4°, 2 S. – 1r aoR eine geprägte Vignette – 1r aoR Empfängervermerk: pr. A. / 19.6.68.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution> GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 86, Mappe 9 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 82, Mappe 5 (nach h1)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die Übersendung der ersten beiden Bände von Reumonts „Geschichte der Stadt Rom“ (1867–1868). Der Vergleich des katholischen Kirchenhistorikers Hermann Rump mit seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) hält er für abwegig, weil sein Werk ein „aus Quellenforschungen geschöpftes Originalwerk“ ist. Er freut sich indes, eine literarische Gattung „Geschichte der Stadt Rom“ ins Leben gerufen zu haben. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1868-06-14" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001545">Reumont, Alfred von (1808–1887)</persName>
+<placeName key="G000807">Aachen</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right"><hi rendition="#aq">Rom</hi>, 14. <hi rendition="#aq">Juni</hi> 1868.</dateline>
+</opener>
+<p>Sie werden mich, sehr geehrter Herr, für undankbar halten, weil ich Ihnen den Empfang Ihrer <bibl corresp="G004234 G004309">beiden stattlichen Bände</bibl> noch nicht angezeigt habe. Entschuldigen Sie meinen Fehler; ich bin schreibensmüde, u<ex>nd</ex> war den ganzen Winter elend und zu nichts nütze.</p>
+<p>Ich gratuliere Ihnen aufrichtig zu dem ungestörten<?oxy_comment_start author="Angela Steinsiek" timestamp="20200330T165222+0200" comment="Alfred von Reumont hatte während eines Besuches in München im Frühling 1863 von König Maximilian von Bayern (1811–1864) den Auftrag erhalten, eine Geschichte der Stadt Rom von der ältesten bis auf die neueste Zeit für einen größeren Leserkreis zu schreiben. In über 3500 Seiten in vier Bänden stellte er diese zum fortgesetzten Spott und Ärger von Gregorovius, der von der Kritik immer wieder mit ihm verglichen wurde, in acht Jahren fertig (4 Bde., Berlin 1866–1870)."?> Fortgange Ihres Buches, welches Sie nun trotz Ihrer Zweifel glücklich vollenden werden, u<ex>nd</ex> vielleicht schon vollendet haben<?oxy_comment_end?>. Sie werden dann ein sehr verdienstliches übersichtliches Werk hergestellt haben, wie ein solches bisher in der Literatur fehlte. Ihr Publicum würde größer sein, wenn <?oxy_comment_start author="Angela Steinsiek" timestamp="20200330T165152+0200" comment="Die Bände von Reumonts „Geschichte der Stadt Rom“ sind großformatig und schwer."?>die Bände minder <del rendition="#s">voluminös </del>umfangreich u<ex>nd</ex> minder kostbar wären<?oxy_comment_end?>.</p>
+<p>Ich habe<del rendition="#s">n</del> den Band I durchgelesen, aber für B<ex>and</ex> II noch nicht Zeit gefunden. <?oxy_comment_start author="Angela Steinsiek" timestamp="20200330T165341+0200" comment="Schon am 7. April 1867 hatte Gregorovius in sein Tagebuch notiert: „Reumont reiste ab. Sein erster Band der Geschichte der Stadt Rom ist unter der Ankündigung erschienen, daß dies Werk auf Quellenstudien beruhe. Doch dies sind spalle proprie, roba altrui. Wenn Reumont seine ihm von König Max gestellte Aufgabe eines Kompendiums der ganzen Stadtgeschichte in zwei Bänden in angenehmer Darstellung gelöst hätte, so würde er etwas sehr Dankbares geliefert haben. Ein solches Buch fehlt dem Reisenden in Rom. Reumont hat einen guten Tatsachensinn. Er speichert auf, was er liest. Den höheren, künstlerischen Sinn und die Gestaltungskraft besitzt er nicht. Gedanken fehlen ihm. Sein Gedächtnis und seine Promptheit sind bewundernswert.“ (S. 222) "?>Die dem Mittelalter gewidmeten Abschnitte reizen mich begreiflicher Weise weniger, weil ich diese Stoffe bis zur Übersättigung, schon 14 Jahre lang, durcharbeitet habe. Dagegen werde ich mich als ein Gast in 3. Bande als auf einem Gebiet ergehen können<?oxy_comment_end?>, worauf ich nicht, wie im Mittelalter, das <hi rendition="#aq"><foreign xml:lang="Lat"><?oxy_comment_start author="Angela Steinsiek" timestamp="20200330T165253+0200" comment="Lat.: Die hohe und niedere Gerichtsbarkeit, also die dem Fürsten vorbehaltene rechtliche Souveränität."?>merum et mixtum imperium</foreign></hi><?oxy_comment_end?> besitze. </p>
+<p>Es erscheint mir sehr töricht, <?oxy_comment_start author="Angela Steinsiek" timestamp="20200330T165407+0200" comment="Gemeint ist die Rezension des katholischen Kirchenhistorikers Hermann Rump (1830–1875): Deutsche Arbeiten zur Geschichte der Stadt Rom. In: Literarischer Handweiser zunächst für das katholische Deutschland. Nr. 66–67. Münster: Theissing 20.4.1868 und 25.5.1868. Sp. 141–146, Sp. 189–194. Teil 1 gilt außerdem Papencords ‚Geschichte der Stadt Rom‘, Teil 2 bespricht Reumonts „Geschichte der Stadt Rom“. Rump war Mitherausgeber des „Literarischen Handweisers“ und 1866–1872 Direktor des Vereins für Geschichte und Altertumskunde Westfalens in Münster. "?>unsre beiderseitigen Bücher so an einander abzuwägen, wie einige vielleicht böswillige Recensenten gethan haben, ich glaube namentlich ein <bibl sameAs="G002685">Fanatiker in Münster</bibl>.<?oxy_comment_end?> Denn die Aufgaben, welche jeder von uns sich gestellt hat, sind ja ganz u<ex>nd</ex> gar verschieden. Das Verdienst Ihrer Arbeit kann durch die meinige nicht <pb n="1v"/><choice><sic>nicht</sic><corr type="deleted"/></choice> geschmälert werden, und die Ihrige dem Wesen u<ex>nd</ex> dem Werte der meinigen nichts nehmen, welche, so mangelhaft sie auch sein mag, doch immer <?oxy_comment_start author="Angela Steinsiek" timestamp="20200330T165458+0200" comment="Dahingehend auch das Fazit eines Berliner Rezensenten zum 1. Band von Alfred von Reumonts „Geschichte der Stadt Rom“ (1867) in: Beilage zu Nr. 191 der AZ. Stuttgart: Cotta 10.7.1867. S. 3118."?>ein aus Quellenforschungen geschöpftes Originalwerk bleiben wird, woran der Autor die ganze Summe seiner Kräfte und eines halben Lebens gesetzt hat<?oxy_comment_end?>. </p>
+<p>Ich freue mich sehr, daß jetzt ein <?oxy_comment_start author="Angela Steinsiek" timestamp="20200330T165540+0200" comment="Deutlicher wird Gregorovius am Tag der Abfassung des vorliegenden Briefes in seinem Tagebuch: „Einige Journale vergleichen meine ‚Geschichte der Stadt Rom‘ mit der von Reumont, wobei mich katholische Fanatiker, wie in Münster, zu verschwärzen suchen. Diese Vergleiche sind lächerlich. Die Arbeit Reumonts ist eine Kompilation, wozu er für das ganze Mittelalter ein Jahr gebraucht hat; meine Arbeit ist ein Originalwerk, entstanden aus Quellenforschungen von fast schon sechzehn langen Jahren; sie ist das Resultat eines Lebens und das Produkt innerer Leidenschaft. Die Glocke, die ich gegossen habe, wird noch von manchem Küster geläutet werden.“ (S. 246)"?>neuer Literaturzweig unter de<subst><del rendition="#ow">m</del><add place="across">r</add></subst> Kategorie „Geschichte der Stadt Rom“ ins Leben getreten ist, geschaffen von Deutschen, welche das historische Recht dafür besitzen<?oxy_comment_end?>. Dieser Zweig wird sicherlich noch weitere Ausdehnung gewinnen. </p>
+<p>Mit dem Wunsche, daß sich Ihre Gesundheit vollkommen hergestellt haben möge, und dem verbindlichsten Danke für die Übersendung Ihrer Bände empfielt sich Ihnen</p>
+<closer>
+<salute xml:id="s2" prev="#s1" rendition="#right">Hochachtungsvoll u<ex>nd</ex> ergebenst </salute>
+<signed rendition="#c"><hi rendition="#aq">FGregorovius</hi>.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

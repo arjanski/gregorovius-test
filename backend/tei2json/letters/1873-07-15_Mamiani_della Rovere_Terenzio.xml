@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067735">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Terenzio Mamiani della Rovere in Rom. Traunstein, 15. Juli 1873 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Pesaro, Biblioteca Oliveriana</repository><collection>Carte Mamiani </collection><idno>Nr. 6987</idno></msIdentifier>
+<physDesc>
+<p> 1 Dbl., 8°, 2 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">In Pesaro ist er vom Bürgermeister Alessandro Gallucci und den Bibliothekaren Ciro Antaldi Santinelli und Gualtiero Grossi freundlich empfangen worden. Er dankt für Mamianis Empfehlungsschreiben an den Bürgermeister. Von dem Geburtsort Giachinos Rossinis ist er nach Traunstein gereist.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000888">Traunstein</placeName><date when="1873-07-15" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001396">Mamiani della Rovere, Terenzio (1799–1885)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">27. Juni 1873 (h: GhStA Berlin, NL Kampf, Karton 86, Mappe 6)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Traunstein in Baviera. <lb/>15. Luglio 1873.</dateline>
+                    <salute rendition="#c">Illustre signor <seg type="comment"><orig>Conte</orig><note xml:id="nd3r_2j1_zlb">Der in Pesaro geborene Terenzio Mamiani della Rovere (1799–1885) war Philosoph, Politiker und Schriftsteller sowie ein Cousin von Giacomo Leopardi (1798–1873). 1872 kam er in Florenz in Kontakt mit dem Kreis um Giovan Pietro Vieusseux (1779–1863), begann bei dessen Zeitschrift „Antologia“ mitzuarbeiten. Von dort ging er nach Bologna, wo er 1831 nach dem städtischen Aufstand gegen die päpstliche Restauration Innenminister der vorübergehenden Regierung der Province Unite Italiane wurde. 1848 von Pius IX. zum Innenminister und Ministerpräsident des Kirchenstaates ernannt, trat er wegen Streitigkeiten nach wenigen Monaten von diesen Ämtern zurück. Er war 1860/1861 Bildungsminister, ab 1864 Senator von Rom und bis 1867 für das Königreich Italien als Diplomat tätig. Neben seinen politischen Aktivitäten lehrte er an der Militärakademie Turin Rhetorik, von 1857–1860 und dann 1871 Geschichte an den Universitäten von Turin und Rom. Gregorovius berichtet im Februar 1872 von einer Begegnung mit „namhaften Italienern“, darunter Mamiani, im Salon seiner Freundin, der Archäologin Ersilia Gräfin Caetani Lovatelli (1840–1925) (siehe RT, 10.2.1872, S. 315). Auch in späteren Jahren trifft er in den kulturellen Kreisen Roms immer wieder auf Mamiani. In der historischen Einleitung zu seiner Übersetzung der „Lieder des Giovanni Meli von Palermo“ (Leipzig: Brockhaus 1856) hatte Gregorovius ein Motto Mamianis zu Meli eingefügt: https://opacplus.bsb-muenchen.de/Vta2/bsb10756792/bsb:BV006957232?page=28.</note></seg>,</salute>
+                </opener>
+<p>sento il grato dovere di ringraziarla della <seg type="comment"><orig>gentile lettera, mediante la quale io fui accolto con ogni cortesia dal signor <persName key="G001157">Sindaco di Pesaro</persName></orig><note xml:id="ntxk_hj1_zlb">Gregorovius hatte auf seine Bitte um ein Empfehlungsschreiben für die Biblioteca Oliveriana (siehe den Brief von Gregorovius an Terenzio Mamiani della Rovere vom 23.6.1873) eine Antwort Mamianis mit beigelegeter Empfehlung an Graf Alessandro Gallucci, Bürgermeister von Pesaro, erhalten; siehe den Brief von Terenzio Mamiani della Rovere vom 27.6.1873; GhStA Berlin, NL Kampf, Karton 86, Mappe 6. Für den Besuch hatte er auch seinen Freund, den Grafen Giovanni Gozzadini, um ein Referenzschreiben gebeten; siehe den Brief von Gregorovius an Giovanni Gozzadini vom 26.6.1873.</note></seg>. </p>
+<p>Anzi mi pareva che codeste sue righe fossero un vero regalo, recato da me in nome suo a quel venerabile vecchio, il quale era contentissimo, di esser ancora ricordato da V<ex>ostra</ex> E<ex>ccellenza</ex>.</p>
+<p>Con altrettanta liberalità fui accolto eziandio dai signori direttori della <seg type="comment"><orig><orgName key="G004666">biblioteca Oliveriana</orgName>, il <persName key="G067825">marchese Antaldi</persName>, e il <persName key="G067831">dottor Grossi</persName></orig><note xml:id="nrbj_lj1_zlb">1756 war die Biblioteca Oliveriana aus der Pesaro überlassenen Bibliothek des kinderlos verstorbenen Adligen Annibale degli Abati Olivieri (1708–1789) entstanden. Auch Mamianis Nachlass ging in die Bibliothek ein. Noch heute ist sie die größte Bibliothek der Stadt. Der Marchese Ciro Antaldi Santinelli (1825–1907) war Bibliothekar in der Oliveriania und von 1894–1907 ihr Direktor. Ein weiterer Bibliothekar war Gualterio Grossi. Im Tagebuch notiert Gregorovius die Empfehlung Mamianis, den Empfang durch die Herren Bibliothekare und den erfolgreichen Besuch der Oliveriana (siehe RT, 3.7.1873, S. 332).</note></seg>. Ogni mio desiderio vi fù soddisfatto e cosi potei lasciare la bella città di <placeName key="G000752">Pesaro</placeName> <seg type="comment"><orig>tutto contento</orig><note xml:id="nx31_nj1_zlb">Er arbeitete zu jener Zeit an seiner Biographie der „Lucrezia Borgia“ (2 Bde., 1874), wofür er in Pesaro Dokumente zu Lucrezia (1480–1519) und Giovanni Sforza (1466–1510) einzusehen hatte. </note></seg>, di aver conosciuto <seg type="comment"><orig>la patria di <persName key="G067832">Rossini</persName></orig><note xml:id="nq2f_4j1_zlb">Der Komponist Gioachino Rossini (†1868) ist am 29. Februar 1792 in Pesaro, das damals noch zum Kirchenstaat gehörte, geboren.</note></seg> e di Terenzio Mamiani, patria gentile e non ingrata verso i suoi figli grandi, come mi venne dimostrato dai proprii <seg type="comment"><orig>Pesoresi</orig><note xml:id="nd1f_qj1_zlb">Fälschlich für: pesaresi = Einwohner Pesaros.</note></seg> di ogni condizione.</p>
+<p>Vidi con piacere puranco <seg type="comment"><orig>la sua casa paterna</orig><note xml:id="nofc_sj1_zlb">Es ist nicht ermittelbar, wo sich das Geburtshaus von Terenzio heute genau befindet, allerdings ist von Interesse, dass er der letzte Graf von Sant’Angelo in Lizzola ist, einer zu seiner Zeit eigenständigen Gemeinde in der Provinz Pesaro. Diesem Ort war die Familie Mamiani della Rovere sehr verbunden.</note></seg>, la quale avrei ritrovata anche senza la guida dai caratteri d’oro che stanno vi <pb n="1v"/>incastrati sopra il portone, indicando al viaggiatore il sito di nascità di V<ex>ostra</ex> E<ex>ccellenza</ex>. Eli è un avviso che vale meglio di ogni biografia per lunga che forse che si ritrovi inserita nei libri stampati. Pesaro mi piacque oltre ogni dire. Di ragione questa città si chiama il giardino del <placeName key="G000792">Mare Adriatico</placeName>. Rare volte vidi una campagna di forma cosi gentile, e cosi ridente e ricca. </p>
+<p><seg type="comment"><orig>Ora mi trovo trasportato quasi a volo oltre le <placeName key="G000855">Alpi</placeName></orig><note xml:id="nalr_5j1_zlb">Von Pesaro war er nach Modena gefahren, wo er bis zum 6. Juli blieb, um dann über Kufstein nach Traunstein zu fahren, wo er am 9. Juli ankam (siehe RT, S. 332). Hierher war er bereits im Jahr zuvor auf ärztliches Anraten wegen der heilenden Salzbäder gekommen; siehe den Brief von Gregorovius an Ersilia Caetani Lovatelli vom 28.7.1872.</note></seg>, in una campagna la quale, se non è bella e fertosa quanto quella di Pesaro, pare non è priva di bellezza, e avanti tutto ella possiede il pregio di un’aura sempre fresca e pura. Si è da questa città alpestre di <placeName key="G000888">Traunstein</placeName>, poco distante da <placeName key="G000867">Salisburgo</placeName>, che mi prendo la libertà di diriggere a V<ex>ostra</ex> E<ex>ccellenza</ex> queste pagine, di augurarle ogni benessere nella sua classica villeggiatura di <seg type="comment"><orig><placeName key="G000675">Frascati</placeName></orig><note xml:id="nbjw_vj1_zlb">Die von Römern gern in der Sommerhitze aufgesuchte Gemeinde 21 Kilometer südöstlich von Rom.</note></seg>, e di pregarla di conservare una memoria benigna a chi si pregia chiamarsi con profondo rispetto</p>
+                <closer>
+                    <salute rendition="#right">servitor suo devoto</salute>
+                    <signed rendition="#right">F. Gregorovius.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

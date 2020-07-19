@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000158">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Raffaele Mariano in Rom. München, 20. Dezember 1874</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+<sourceDesc>
+<msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3½ S.</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+            <sourceDesc>
+<listWit>
+<witness>
+<msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno> <idno type="shelfmark"/> </idno>
+                            </msIdentifier>
+</msDesc>
+</witness>
+<witness>
+<msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno> <idno type="shelfmark"/> </idno>
+                            </msIdentifier>
+</msDesc>
+</witness>
+<witness> <bibl type="print"/> </witness>
+</listWit>
+</sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Die dritte Auflage seiner „Lucrezia Borgia“ (1875) wird nicht vor Februar 1876 ausgegeben. Die Änderungen betreffen das Exil Lucrezias in Nepi, ihren Sohn Rodrigo und Giovanni Borgia – sie sollten nicht in die italienische Übersetzung aufgenommen werden. Er schlägt stattdessen eine separate italienische Publikation der neuen Inhalte vor. Er hat seine Artikel über die gemeinsame süditalienische Reise zur Übersetzung an Domenico Guglielmi geschickt („Lucera“, „Manfredonia“ und „Der Erzengel auf dem Berg Garganus“, 1874), doch befürchtet er den Verlust der Sendung. Von Augusto Vera hat er mehrere Schriften erhalten. Er arbeitet an den ersten Bänden der dritten Auflage seiner „Geschichte der Stadt Rom im Mittelalter“ (1875–1881). Er bittet um Marianos Schrift „Strauss e Vera. Saggio critico“ (1874). Festtagswünsche an die Familien von Michelangelo Caetani und Ersilia Caetani-Lovatelli sowie die gemeinsamen Freunde des Hauses Maraini.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName>
+                    <date when="1874-12-20" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">
+                        <foreign xml:lang="deu">München</foreign>, 20. <foreign xml:lang="deu">Dec<ex>em</ex>b<ex>e</ex>r</foreign> 1874.</dateline>
+                    <salute rendition="#c">Caro amico Mariano,</salute>
+                </opener>
+<p>deduco dalla sua lettera, che aspetta le bozze della <bibl corresp="G003507">nuova edizione di Lucrezia</bibl>, onde servirsene a quello scopo, che mi venne accennato in una sua del Novembre passato. Or lei deve sapere, che la stampa del libro in <placeName key="G000879">Stuttgart</placeName> ha incontrato un ritardo, di modo che la terza edizione non uscirà dai torchi prima del Febbraio a venire. Nemmeno sono in possesso di tutte le bozze che contengono <seg type="comment"><orig>i documenti, e fra costoro massimamente quelli scoperti nuovamente ed inseriti quà e là nelle pagine</orig><note xml:id="nsd5_d24_zlb">Die 3. „verbesserte und vermehrte Auflage“ seiner „Lucrezia Borgia“ (1875) wurde schließlich um 50 Seiten vermehrt – der Dokumenten-Anhang wurde um 27 Seiten vermehrt und enthielt nicht mehr 59, sondern 68 Nummern. Neu aufgenommen wurden: vier Briefe von Lucrezia Borgia an Vincenzo Giordano, 28.-30.10.1500; ein Dekret der Herzogin Lucrezia zum Schutz der Juden, 28.5.1506; der Brief von Isabella von Mailand a Perot Castellar, 14.10.1512; zwei Briefe von Don Juan Borgia an den Herzog Alfonso, 8. und 22.6.1519 sowie ein Verzeichnis von Büchern im Besitz der Donna Lucrezia aus den Jahren 1502 und 1508 (https://archive.org/details/lucreziaborgian01greggoog/page/n398).</note></seg>. Secondo quel che mi ha scritto, presumo anche, che nemmeno il <orgName key="G000528">Le Monnier</orgName> voglia prendersi tanta cura di una nuova edizione corretta sopra la terza dell’originale, e ampliata, senza che la composizione stessa sia stereotipata. Consiglierei dunque di lasciar correre la cosa tal quale attualmente si presenta. Il fondo del libro non è punto alterato, se si voglia eccettuarne alcuni ritocchi da una parte, e <pb n="1v"/>dall’altra qualche miglioramento essenziale sì, ma non tale, da diminuire il valore della <bibl corresp="G004388">prima edizione</bibl>. Le aggiunte si riferiscono specialmente <seg type="comment"><orig>al soggiorno di <persName key="G000985">Lucrezia</persName> in <placeName key="G000740">Nepi</placeName></orig><note xml:id="ni4b_f24_zlb">Nach dem Mord an ihrem zweiten Ehemann Alfonso d’Aragona (1481–1500), Herzog von Bisceglie, der vermutlich auf das Konto ihres Bruders Cesare (1475–1507) geht, zurückgeht, zog sich Lucrezia nach Nepi zurück. Aus dieser Zeit sind einige ihrer Briefe erhalten, die Gregorovius in seiner Lucrezia-Biografie (1874) beschreibt: „Wir besitzen aus der Zeit jenes trauervollen Aufenthaltes Lucrezias in der Burg Nepi einige ihrer Briefe, und diese sind außerordentlich wertvoll als die einzigen überhaupt, welche aus der ganzen römischen Periode der berühmten Frau erhalten oder doch bis jetzt entdeckt worden sind. Sie stammen aus ihrer Kanzlei in Ferrara. Lucrezia richtete sie an ihren vertrauten Diener Vincenzo Giordano in Rom, teils eigenhändig, teils durch ihren Sekretär Cristoforo. Sie unterzeichnete sich darin: »die unglückselige Prinzessin von Salerno«, doch hat sie dann die Worte principessa de Salerno selbst wieder durchstrichen und nur das Wort La infelicissima stehen lassen; nur in einem einzigen undatierten Briefe blieb die ganze Unterschrift.“ (Kap. XVII) Neu in den Dokumenten-Anhang aufgenommen wurden außerdem vier Briefe aus Zeit in Nepi von Lucrezia Borgia an ihren Diener Vincenzo Giordano, 28.-30.10.1500 (Nr. 25, 26, 26b, 26c), wovon die drei letzten Briefe auch auszugsweise in deutscher Übersetzung in den Text integriert wurden (S. 158–160, siehe https://archive.org/details/lucreziaborgian01greggoog/page/n180). (siehe auch die Brief von Gregorovius an die J. G. Cotta’sche Buchhandlung, u.a. 23.10., 1.11.1874)</note></seg>, alla sorte <seg type="comment"><orig>del suo figliuolo <persName key="G000940">Rodrigo</persName></orig><note xml:id="ndvc_g24_zlb">Der neue Brief von Isabella von Mailand (1870–1524) an den Statthalter von Bisceglie, Perot Castellar, vom 14.10.1512 betreffend Rodrigo von Aragon (1499–1512), dem einzigen Kind von Lucrezia Borgia und ihrem ermordeten Gatten Alfonso Bisceglie von Aragon (1481–1500) – Dokumenten-Anhang Nr. 58b – wurde in die dritte Auflage seiner „Lucrezia Borgia“ (1875) in deutscher Übersetzung integriert, der Schluss des Kapitels entsprechend des neuen Dokuments umgeschrieben (S. 343, https://archive.org/details/lucreziaborgian01greggoog/page/n364). Siehe die Briefe von Gregorovius an Cotta, 1.11. und 26.11.1874.</note></seg>, e a quella del <seg type="comment"><orig>misterioso Infante Romano, Don <persName key="G000984">Giovanni Borgia</persName></orig><note xml:id="nqcb_h24_zlb">Giovanni Borgia (1498–1548), von 1501/1502 bis 1503 Herzog von Camerino, Nepi und Palestrina, war offiziell ein unehelicher Sohn von Papst Alexander VI. (1492–1503). Es wird aber auch angenommen, dass er ein unehelicher Sohn der Lucrezia Borgia und des Pagen Pedro Calderón (Perotto) gewesen oder gar aus einer inzestuösen Beziehung des Papstes zu seiner Tochter Lucrezia hervorgegangen sei. Die ihn betreffenden Änderungen in der dritten Auflage erwhnt Gregorovius auch in seinem Brief an Cotta vom 26.11.1874.</note></seg>. </p>
+<p>Brevemente, lascio a lei il determinare: se crede di dover insistere acciochè io le mandi le bozze, lo farò volentieri, appena la cosa sarà ultimata; se altronde crede di dover far senza, tanto meglio sarà per noi, poichè avremo un testo di riserva, con cui presentarsi di nuovo al publico Italiano, sposato il termine convenuto col Le Monnier e col suo famoso consiglio.</p>
+<p>Pregai la <persName key="G001374">signora Lind<ex>emann</ex> </persName> di avvertirla da parte mia, che spedii al <seg type="comment"><orig>nostro gentilissimo <persName key="G001221">Guglielmi</persName></orig><note xml:id="njsb_324_zlb">Domenico Guglielmi war der Neffe des Domherrn Guglielmi in Trani. Gregorovius besuchte ihn gemeinsam mit Raffaele Mariano und seinem Bruder Julius während süditalienischen Reise im Mai 1874 in Trani (siehe RT, S. 339–342). Er plante die Artikel der süditalienischen Reise zu übersetzen (siehe den Brief von Gregorovius an Raffaele Mariano, 17.11.1874).</note></seg> gli <bibl corresp="G003986 G003987 G003988 G003989 G003990 G003991 G003992">articoli desiderati</bibl>; or siccome il G<ex>uglielmi</ex> non mi ha assicurato finora di aver ricevuto il plico, temo, che non egli sia capitato punto; cosa che mi dorrebbe assai, giacché non <pb n="2r"/>sarei più in grado, di procurargli di nuovo gli stessi numeri dell’<orgName key="G000462">Allg<ex>emeine</ex> Zeitung</orgName>.</p>
+<p>Ebbi il dono gentile del <seg type="comment"><orig>sig. <persName key="G001675">Vera</persName></orig><note xml:id="nbjk_j24_zlb">Der Philosoph Augusto Vera (1813–1885) machte sich als Übersetzer und Interpret Hegels um dessen Verbreitung in Italien und Frankreich verdient. Mariano war ein Schüler Veras, weshalb ihn Gregorovius in einem Brief vom 21.7.1873 um ein Empfehlungsschreiben an den Philosophen bat. Die beiden trafen sich erstmals im Mai 1875 in Neapel (siehe den Brief von Gregorovius an Raffaele Mariano, 2.5.1875). Gregorovius widmete Vera einen Aufsatz: „Der Hegelianer Augusto Vera in: Allgemeine Geschichte, Kultur-, Litteratur- und Kunstgeschichte. Bd. 4. Stuttgart: Cotta 1887. S. 561–576; ausgenommen in: Kleine Schriften zur Geschichte und Cultur. Bd. 3. S. 43–71).</note></seg>. Lei che intratiene corrispondenza col suo maestro, mi farebbe un vero favore, se volesse esprimergli per ciò la mia gratitudine prima ancora ch’io stesso gli scriva. Perché bisogna pur leggere attentamente questi scritti, cosa <del rendition="#s">che</del> cui attenderò quanto prima avrò il tempo libero. Ora sono occupatissimo nella <bibl corresp="G003436 G003443 G003450 G003457 G003464 G003471 G003478 G003483">revisione della storia di Roma</bibl>, fatica non tenue, atteso che vi siano da aggiungere molte cose, cavate da una non piccola letteratura cresciuta sù nel periodo di cinque anni. A questo proposito mi serve in modo perfetto la ricchissima<orgName key="G000510"> biblioteca di Monaco</orgName>, sicchè già per questa facoltà che mi offre il mio soggiorno qui è più che perfettamente rimunerato.</p>
+<p>Per altro mi trovo bene. L’aria è rigida sì, ma non nuoce alla mia complessione, che pare incominci a ricordarsi della sua tempra originale nordica. Il sole, per vero dire, manca, di modo che lo vidi in tutto questo mese corrente una sola volta, e per due sole ore.</p>
+<p>Mi rallegro dell’ultimazione della <pb n="2v"/>sua <bibl sameAs="G067888">opera nuova</bibl>, di cui già mi parlò la signora L<ex>indemann</ex>. Spero che avrà la bontà di mandarmene una copia. Voglia presentare le mie felicitazioni per le feste e pel capo d’anno alla casa <persName key="G001004">Gaetani</persName> e a quella di <persName key="G001011">Donna Ersilia</persName>, non chè ai gentili amici di casa <persName key="G001398"><seg type="comment"><orig>Maraini</orig><note xml:id="ntnb_m24_zlb"><p>Familie des Clemente Maraini, (Lugano 1838 – Rom 1905). Er war Ingenieur und Eigentümer des römischen Journals Il Diritto. Maraini hatte 1862 Adelaide Pandiani geheiratet.  </p></note></seg></persName>.</p>
+<p>Le auguro la maggior felicità! A rivederci dunque sani, salvi, e prosperi nell’anno 1875 in Roma.</p>
+                <closer>
+                    <salute rendition="#c">Fedelmente il vostro</salute>
+                    <signed rendition="#right">FGregorovius.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

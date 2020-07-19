@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000419">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Giovanni Battista De Rossi in Rom. München, 29. September 1889</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Rom, Biblioteca Apostolica Vaticana</repository><collection>Vat. Lat. 14283, Carteggio Giovanni Battista De Rossi 1889</collection><idno>fol. 52 Nr. 532</idno></msIdentifier>
+<physDesc>
+<p>1 PK – 1r, Adr.: Illustre Commendatore / Giamb. de Rossi / Roma / Piazza di Aracoeli. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er erkundigt sich, ob die von ihm am 5. Juni 1889 brieflich bei Cotta angewiesene Sendung eines Exemplars seiner „Geschichte der Stadt Athen im Mittelalter“ (2 Bde., Stuttgart 1889) angekommen ist. Die Spedition sollte über Hermann Loescher, der neben Buchhandlungen in Turin und Florenz seit 1870 auch eine in Rom führte, erfolgen. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1889-09-29" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001085">De Rossi, Giovanni Battista (1822–1894)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1v"/>
+<div type="writingSession">
+<opener>
+<dateline rendition="#c">Monaco, 29. VIIbre 89.</dateline>
+<salute rendition="#c">Egregio Signor De <?oxy_comment_start author="weiger" timestamp="20190814T144712+0200" comment="Der Archäologe Giovanni Battista De Rossi (1822–1894)."?>Rossi<?oxy_comment_end?>,</salute>
+</opener>
+<p>nel mese di Giugno scorso diedi ordine alla casa editrice di Cotta in Stuttgarda di inviarle, come omaggio da mia parte, una copia della storia della città di Atene nell’èta di mezzo,<?oxy_comment_start author="weiger" timestamp="20190815T160448+0200" comment="Die Cotta’sche Verlagsbuchhandlung in Stuttgart hatte 1859–1872 Gregorovius’ Hauptwerk, die „Geschichte der Stadt Rom im Mittelalter“ (8 Bde.), veröffentlicht. Seine „Geschichte der Stadt Athen im Mittelalter“ (2 Bde.) erschien 1889 ebenfalls bei Cotta. In einem Brief vom 5. Juni 1889 hatte er Cotta eine Liste mit den Empfängern der Rezensions- und Freiexemplare der „Geschichte der Stadt Athen im Mittelalter“ zukommen lassen (siehe den Brief von Gregorovius an die Cotta’sche Buchhandlung, DLA Marbach, Sign. Cotta$Br. D472)"?> <?oxy_comment_end?>allora uscita dai <?oxy_comment_start author="weiger" timestamp="20190815T160402+0200" comment="Uscire dai torchi: antik für „aus der Presse kommen, eben gedruckt worden“"?>torchi<?oxy_comment_end?>. Non avendo avuto finora riscontro della detta spedizione, la quale avrebbe dovuto effettuarsi per mezzo di Löscher,<?oxy_comment_start author="weiger" timestamp="20190814T144849+0200" comment="Der aus Lindau stammende Buchhändler und Verleger Hermann Loescher (1831–1892) hatte zunächst in Turin eine Buchhandlung übernommen (1861) und später sowohl in Florenz (1865) als auch in Rom (1870) Zweigstellen eröffnet. Gregorovius ließ bereits seit langem Bücher über ihn nach Italien senden (siehe den Brief von Ferdinand Gregorovius an Otto Braun vom 10. August 1873)."?> <?oxy_comment_end?>mi permetto ora pregarla di darmene avviso in due righe di carta postale.</p>
+<closer>
+<salute rendition="#c">Suo dev<hi rendition="#u" hand=""><ex>otissi</ex></hi><hi rendition="#u" hand="">mo</hi> Ferd. Gr. </salute>
+</closer>
+</div>
+</body>
+    </text>
+</TEI>

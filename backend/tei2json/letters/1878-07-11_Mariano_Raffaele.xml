@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_vgz_yvb_hlb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Celerina. München, 11. Juli 1878</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="restricted"><licence target="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International (CC BY 4.0) </licence></availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Marianos Schrift „Cristianesimo, cattolicesimo e civiltà“ (1879) wird bei Zanichelli in Bologna erscheinen. Nach 25 Jahren Briefkontakt wird Gregorovius ein paar Tage mit Friedrich Althaus im Schwarzwald verbringen. Mit dem Bruder reist er nach Paris, von dort zu Adelheid Grunelius nach Baden-Baden, wo er auf Mariano treffen wird. Er arbeitet an seiner Studie zum Dreißigjährigen Krieg (Urban VIII. im Widerspruch zu Spanien und dem Kaiser. 1879). Mariano kann in Graubünden auf die Familie von Michelangelo Caetani, Prinz von Teano, treffen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1878-07-11" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840-1912)</persName>
+<placeName key="ed_qzp_vwb_hlb">Celerina</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">München, 11. <hi rendition="#aq">Juli</hi> 78.</dateline>
+                    <salute>Lieber Freund,</salute>
+                </opener>
+<p>ich kann nur wenig schreiben, weil ich ein entzündetes Auge habe. Also vielen Dank für Ihre von mir längst erwartete Nachrichten. Ich freue mich, daß Sie sich in <seg type="comment"><orig><hi rendition="#aq">Celerina</hi> </orig><note xml:id="ndv4_z1k_1mb">Gemeinde im Schweizer Kanton Graubünden.</note></seg>stärken u<ex>nd</ex> erholen, vor allem andern aber, daß <seg type="comment"><orig>Sie Ihre <bibl sameAs="ed_yr4_nvd_rlb">Schrift</bibl> glücklich bei <hi rendition="#aq"><orgName key="G000537">Zanicheli</orgName></hi> in <placeName key="G000638">Bologna</placeName> placiert haben</orig><note xml:id="nym5_1bk_1mb">Zu Marianos Suche nach einem Verleger für das Buch siehe den Brief von Gregorovius an Raffaele Mariano vom 8.12.1877.</note></seg>. Ihren Auszug werde ich sofort zu lesen beginnen.</p>
+<p>Was unsre Zustände hier betrifft, so sind sie folgende. Mein <persName key="G001203">Bruder</persName> hat vor 4 Wochen <pb n="1v"/>seine Reise angetreten, und befindet sich gegenwärtig in <hi rendition="#aq"><placeName key="G000636">Berlin</placeName></hi>; dort wird ihn die <persName key="G001111">Schwester</persName> aufsuchen, etwa am 24 Juli, so bald der <seg type="comment"><orig><persName key="G001109">Sohn</persName></orig><note xml:id="nvps_bbk_1mb">Gregorovius’ Neffe beendete seine Schullaufbahn am Ludwigsgymnasium mit Erlangung der Hochschulreife (siehe RT, Sommer und Winter 1878/79, S. 403).</note></seg> das <hi rendition="#aq">Lyceal</hi>-Examen gemacht hat.</p>
+<p>Etwa am 26. <hi rendition="#aq">Juli</hi> gehe ich nach <hi rendition="#aq"><placeName key="G067560">Triberg</placeName></hi> im <placeName key="ed_nwy_jzh_zkb">Schwarzwald</placeName>, <seg type="comment"><orig>wo zu mir kommt Dr. <hi rendition="#aq"><persName key="G000920">Althaus</persName></hi> aus <placeName key="G000716">London</placeName></orig><note xml:id="nrfx_cbk_1mb">„Seit dem Jahre 1853, wo wir uns in Capri getrennt hatten, hatte ich Althaus nicht mehr wiedergesehen. Die große Veränderung, welche eine so lange Zeit in uns hervorgebracht, war anfangs in unserem Verhältnis fühlbar, doch stellte sich alsbald die unveränderte Grundlage heraus, auf welcher unsere Freundschaft zueinander steht. Fünf Tage blieb Althaus bei mir; dann reisten wir am 10. August nach Traunstein, daselbst einige Tage zu bleiben. […] Wir mieteten einen Wagen nach Reichenhall, fuhren von dort über Salzburg nach Gmünden und weiter bis Aussen in Steiermark. Von dort umkehrend blieben wir in Berchtesgarden vom 20. bis zum 29. August, wo Althaus seine Rückreise antrat. Durch dies mehrwöchentliche Zusammensein gewann unser langjähriger, nur durch briefliche Mitteilung unterhaltener Verkehr die lebendige Persönlichkeit.“ (RT, Sommer und Winter 1878/79, S. 404).</note></seg>. Ich bleibe im Schwarzwald bis Ende August, u<ex>nd</ex> gehe dann zu Frau <persName key="G001215">Grunelius</persName> (Anf<ex>ang</ex> Sept<ex>em</ex>b<ex>e</ex>r) <pb n="2r"/>nach <placeName key="G000623">Baden</placeName>, auf 8 Tage, u<ex>nd</ex> vielleicht <seg type="comment"><orig>sodann nach <placeName key="G000749">Paris</placeName></orig><note xml:id="ncj3_2bk_1mb">Gregorovius sollte mit dem Bruder am 21. September zur Weltausstellung nach Paris fahren, wo die beiden zum 2. Oktober blieben. Von Paris begab sich Julius wieder nach München, während Gregorovius für einen mehrtägigen Aufenthalt zu seiner Freundin Adelheid Grunelius nach Baden-Baden reiste (vgl. RT, Aufenthalt in Paris, S. 404– 409).</note></seg>, wenn es nicht zu teuer ist. <seg type="comment"><orig>Vielleicht kommen Sie später nach Triberg</orig><note xml:id="np5l_fbk_1mb">Mit Mariano traf Gregorovius in Baden-Baden zusammen. Gemeinsam fuhren sie nach Stuttgart (siehe RT, Aufenthalt in Paris, S. 409).</note></seg>. </p>
+<p><hi rendition="#aq"><persName key="G001116"><persName key="G001115"><persName key="G001114">Erhardts</persName></persName></persName></hi> kamen hier durch, vor etwa 10 Tagen.</p>
+<p>Es ist hier immer Regen und flaues Wetter, so daß ich ganz elend bin, aber <seg type="comment"><orig>ich arbeite rüstig fort zum <bibl sameAs="G003523">XXX jähr<ex>igen</ex> Kriege</bibl></orig><note xml:id="nxjq_gbk_1mb">„Nach meiner Rückkehr von Rom setzte ich mit mehr Eifer und Kraft die Studien zur Geschichte des 30jährigen Krieges fort, worüber die Monate Juni und Juli hingingen.“ (RT, Sommer und Winter 1878/79, S. 403). Seine Arbeit zum Dreißigjährigen Krieg sollte im kommenden Jahr erscheinen: Urban VIII. im Widerspruch zu Spanien und dem Kaiser. Eine Episode des dreißigjährigen Kriegs. Stuttgart: Cotta 1879.</note></seg>, was auch ein Ocean von Mühen ist. Doch gibt es dem Rest meines Lebens Consistenz. Von <placeName key="G000690">Italien</placeName> höre ich fast nichts. </p>
+<p><pb n="2v"/><hi rendition="#aq"><foreign xml:lang="ita"><seg type="comment"><orig>Donna <persName key="G001011">Ersilia</persName> mi scrisse</orig><note xml:id="nlks_hbk_1mb">Gregorovius und die berühmte Archäologin pflegten einen intensiven brieflichen Austausch.</note></seg> una di quelle sue lettere vuote, vuote, quantunque piene di frasi. <seg type="comment"><orig>I <persName key="G001004">Teano</persName></orig><note xml:id="nigp_3bk_1mb">Die Familie von Ersilias Vater, Michelangelo Caetani (1804–1882), Herzog von Sermoneta und Prinz von Teano.</note></seg> pure si trovano nei <placeName key="ed_swz_mpk_rlb">Grigioni</placeName> se non isbaglio a <seg type="comment"><orig><placeName key="G067549">Pontresina</placeName></orig><note xml:id="nnt4_jbk_1mb">Gemeinde im Schweizer Kanton Graubünden, in unmittelbarer Nähe zu St. Moritz.</note></seg>, dove facilmente gli incontrerà, caso mai si muovesse da Celerina per conoscere <seg type="comment"><orig><placeName key="ed_rtp_zpk_rlb">Samaden</placeName></orig><note xml:id="nusk_kbk_1mb">Gemeinde im Schweizer Kanton Graubünden, in unmittelbarer Nähe zu St. Moritz.</note></seg> e Pontresina, luoghi veramente deliziosi. La mia sorella le manda tanti saluti; elle gode buonissima salute, tutta di tornare prestamente <seg type="comment"><orig>al <placeName key="G000699">paese nativo</placeName></orig><note xml:id="nrqk_lbk_1mb">Sowohl Julius als auch Ottilie reisten von Dresden nach Königsberg (siehe RT, Sommer und Winter 1878/79, S. 403).</note></seg> e di salutarvi gli antichi amici.</foreign></hi></p>
+                <closer>
+<salute xml:id="s1" next="#s2" rendition="#c">Mit den herzlichsten Grüßen</salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">Ihr</salute>
+<signed rendition="#right">FGr</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

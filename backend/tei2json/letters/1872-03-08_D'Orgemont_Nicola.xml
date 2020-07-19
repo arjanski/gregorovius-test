@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067877">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Nicola d’Orgemont in Montecassino. Rom, 8. März 1872</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Montecassino, Archivio dell’Abbazia</repository><collection>Carteggio d’Orgemont</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 1½ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Mariano Dell’Omo. Una nuova lettera di Ferdinand Gregorovius. Lo sguardo di uno storico protestante verso Montecassino e la civiltà monastica benedettina. In: Studi Cassinati 19 (2019), S. 259–261 (ungenau)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er bittet für zwei Damen aus Leipzig um Erlaubnis, die Abtei von Montecassino besichtigen zu dürfen. Er gratuliert zur Wahl zum Abt des Klosters. Grüße an Luigi Tosti.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1872-03-08" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G067875">D'Orgemont, Nicola (1826-1896)</persName>
+<placeName key="G000730">Montecassino</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<salute rendition="#c">Reverendissimo <seg type="comment"><orig>Padre Abbate</orig><note xml:id="nmny_ycz_ylb">Der in Neapel geborene Nicola d’Orgemont (1826–1896) stammt aus einer altadeligen belgischen Familie und kam bereits 1833 als Internatsschüler nach Montecassino. 1847 legte er die Profess ab, 1848 empfing er die Priesterweihe. Er war Schüler von Abt Simplicio III Pappalettere da Barletta (1815–1883), der diese Position von 1858 bis 1863 innehatte, und unterrichtete selbst Philosophie, Mathematik und Naturwissenschaften in Montecassino, ab1860 als Rektor des diözesanen Seminars. 1867, als die Diözese vom Staat unterdrückt wurde, versteckte sich d’Orgemont für ein Jahr in Florenz, kehrte anschließend in die Benediktinerabtei zurück. Gregorovius hatte d’Orgemont bei seinem Aufenthalt in Montecassino im Oktober 1859 kennengelernt: „D’Orgemont zeigte mir in seiner Zelle die Werke von Goethe, Schiller, Lessing, Herder, Klopstock und vieler unserer Philosophen, sowohl im Original als in französischen Übersetzungen.“ (RT, 7.10.1859, S. 86). Eine über vorliegenden Brief hinausgehende Korrespondenz zwischen den beiden ist nicht bekannt. </note></seg>, </salute>
+</opener>
+<p><seg type="comment"><orig>due signore di <placeName key="G000712">Lipsia</placeName></orig><note xml:id="nwj2_1dz_ylb">Um wen es sich bei den beiden Frauen handelt, ist nicht ermittelt.</note></seg> si recano a Montecassino allo scuopo di conoscere il sito dell’ illustre abbazia per quanto sarà lecito a donne di averne l’accesso. Richiesto come sono da loro di un biglietto di racommandazione per le autorità di colà, e ricordando <seg type="comment"><orig>i bei giorni ch’ivi nel 1859 ho passato anche in compagnia sua</orig><note xml:id="nw3r_cdz_ylb">Gregorovius hatte sich vom 5.–18. Oktober 1859 für Archivarbeiten für seine „Geschichte der Stadt Rom im Mittelalter“ in Montecassino aufgehalten (siehe RT, 17.10.1859, S. 90).</note></seg>, mi prendo la libertà di mandarle almeno i miei saluti non che di congratularmi con Lei <seg type="comment"><orig>dell’ alta dignità a cui V<ex>ostra</ex> S<ex>ignoria</ex> R<ex>everendissima</ex> meritamente si truova elevata</orig><note xml:id="nafr_2dz_ylb">Papst Pius IX. (1792–1878) hatte d’Orgemont am 24. Dezember 1871 zum Abtordinarius von Montecassino ernannt. Am 6. Januar 1872 fand die feierliche Erhebung d’Orgemonts in das Amt statt.</note></seg>. In caso fosse presente <seg type="comment"><orig>il nobile ed insigne <persName key="G001655">Don Luigi Tosti</persName></orig><note xml:id="ntb5_fdz_ylb">Dem Historiker und Benediktiner Luigi Tosti (1811–1897) fühlte sich Gregorovius seit seinem Aufenthalt in Montecassino sehr verbunden. Bereits dort war Tosti zu einem wichtigenr Gesprächspartner über politische, religiöse und wissenschaftliche Themen geworden. Gregorovius schrieb dem liberalen Kleriker mehrere Briefe, die von seiner hohen Wwertschätzung zeugen. In einem dieser Schreiben bittet er Tosti, d’Orgemont über die politische Lage in Deutschland zu informieren; siehe den Brief von Gregorovius an Luigi Tosti vom 25.10.1859.</note></seg>, Lei si compiaccia di revocar alla memoria di lui il mio nome con cordiali saluti.</p>
+<p>Con ogni rispetto e coi migliori auguri per il benessere e per l’avenire dell’illustre abbazia, la quale una volta <seg type="comment"><orig>il centro era della civiltà <pb n="1v"/>monastica ed il faro luminoso delle scienze</orig><note xml:id="nwcj_hdz_ylb">Siehe zur Idealvorstellung einer Benediktinergemeinschaft nicht nur bei Gregorovius: Mariano Dell’Omo. Una nuova lettera di Ferdinand Gregorovius. Lo sguardo di uno storico protestante verso Montecassino e la civiltà monastica benedettina. In: Studi Cassinati 19 (2019), S. 259–261.</note></seg>,</p>
+<p rendition="#c">mi pregio di nominarmi</p>
+                <closer>
+<salute xml:id="s1" next="#s2" rendition="#c">di V<ex>ostra </ex>S<ex>ignoria</ex> R<ex>everendissima</ex></salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">l’obbligat<ex>issi</ex>mo servitore</salute>
+<signed rendition="#right">Ferdinand Gregorovius.</signed>
+<dateline>Di Roma Marzo 8. 1872. </dateline>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

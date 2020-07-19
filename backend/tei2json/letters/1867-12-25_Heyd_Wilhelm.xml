@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000260">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Wilhelm Heyd in Stuttgart. Rom, 25. Dezember 1867</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Württembergische Landesbibliothek Stuttgart</repository><idno>Cod. hist 4° 391, Kaps. I , 216</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S. – 1r + 2r aoR in einer Vignette geprägt: Roma</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 5 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er ist seit Ende September zurück in Rom und erinnert sich noch immer oft an seinen Stuttgarter Aufenthalt im Juli/August. Über den Versuch von Giuseppe Garibaldi im Oktober 1867 Rom einzunehmen. Die zeitpolitische Entwicklung ist eine historische Parallele der historischen Entwicklung im siebten und letzten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1870). Nach dessen Beendigung kann er sich vorstellen, nach Stuttgart überzusiedeln, wenn er dort von Amt und Dienstherren unabhängig arbeiten kann. Grüße für seine Stuttgarter Weggefährten: Christoph Friedrich von Stälin, August Wintterlin und Karl Ludwig Nolte (?) sowie Johann Philipp Grossmann und Hermann Reuchlin. Der Kustode der Vatikanischen Bibliothek, Alessandro Asinari di San Marzano, ist in Ungnade gefallen, was seinen künftigen Arbeiten dort schaden wird. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001271">Heyd, Wilhelm (1823–1906)</persName>
+<placeName key="G000763">Rom</placeName><date when="1867-12-25" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001271">Heyd, Wilhelm (1823–1906)</persName>
+<placeName key="G000879">Stuttgart</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right"><hi rendition="#aq">Rom</hi> 25. <hi rendition="#aq">D<ex>e</ex>c<ex>em</ex>b<ex>e</ex>r</hi> 67. <lb/><hi rendition="#aq">Via Gregoroiana</hi> 13.</dateline>
+<salute rendition="#c">Lieber <seg type="comment"><orig>Freund</orig><note xml:id="nnp4_r55_gmb">Im Herbst / Winter 1852–1853 hatte der spätere Stuttgarter Bibliothekar und Historiker Wilhelm Heyd (1823–1906) eine Studienreise nach Rom und Neapel unternommen, auf der er in Rom auch Gregorovius kennenlernte. Da die im Nachlass von Heyd erhaltenen siebzehn Briefe von Gregorovius erst 1867 einsetzen, wird sich ihr lebenslang anhaltendes freundschaftliches Verhältnis erst nach dem Stuttgarter Aufenthalt von Gregorovius im Juli 1867 (siehe RT, 27.7.1867, S. 228) entwickelt haben. Die Briefe zeugen von dem hohen Respekt vor den profunden historischen Kenntnissen Heyds, dem Gregorovius zuweilen auch die Revision der Anmerkungen für Neuauflagen seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) anvertraute, wenn er selbst sich auf Reisen befand.</note></seg>,</salute>
+</opener>
+<p>die Jahressonne soll denn doch nicht hinter dem <placeName key="G000859">Janiculus</placeName> versinken, ehe ich nicht meine Schuld gegen Sie, u<ex>nd</ex> andere gute, wolwollende Freunde in Stuttgart wenigstens dadurch bekenne, daß ich Ihnen allen die herzlichsten Grüße ins <placeName key="G000664">Vaterland</placeName> sende. Sie haben durch Ihre Liebenswürdigkeit meinen Aufenthalt in Stuttgart überaus angenehm gemacht, so daß ich noch in den Erinnerungen an jene Wochen lebe. Ich würde Ihnen schon früher ein paar Zeilen geschickt haben, jedoch lebte ich hier gleich nach meiner Rückkehr am Ende Sept<ex>em</ex>b<ex>e</ex>r zuerst in einer so großen politischen Aufregung, da <seg type="comment"><orig><persName key="G001160"><persName key="G000931">Masaniello</persName> im roten Hemd</persName></orig><note xml:id="nr54_s55_gmb">Der Anführer des neapolitanischen Volksaufstandes von 1647 gegen die spanischen Besatzer, der Fischer Tommaso Aniello (1620–1647), genannt Masaniello, wird in bildlichen Darstellungen der Revolte traditionell mit rotem Hemd gezeigt.</note></seg> <seg type="comment"><orig>vor den Toren der Stadt lagerte</orig><note xml:id="nvlk_t55_gmb">Nach seinem vorübergehenden Rückzug hatte Giuseppe Garibaldi (1807–1882) im Oktober 1867 mit einigen Freischaren versucht Rom einzunehmen.</note></seg>, daß ich alle meine Correspondenzen vernachläßigte. Das Stück italienischer Geschichte, zusammengesetzt aus Perfidie u<ex>nd</ex> Impotenz, welches ich hier erlebte, bildete gleichsam das Schlußcapitel zu meiner <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Geschichte der Stadt Rom</bibl>; es war eine klägliche Historie, u<ex>nd</ex> leider tragen wir <pb n="1v"/>fortdauernd die Folgen davon, den Belagerungszustand u<ex>nd</ex> die Tonlosigkeit der Gesellschaft, nebst anderen Widerwärtigkeiten. Dieser Winter ist der tristeste, den ich in Rom erlebte – keine Menschen von Bedeutung sind hier – außerdem ist er rauh u<ex>nd</ex> kalt. Ich habe jedoch mit Energie meine Arbeiten zum <bibl sameAs="G003441">letzten Bande <hi rendition="#aq"><foreign xml:lang="Lat">Historiarum Almae Urbis</foreign></hi></bibl> aufgenommen. Der nahende Abschied von dieser Arbeit, welche 15 Jahre meines kräftigsten Lebens wird ausgefüllt haben, macht mich tief traurig, doch muß ja einmal Alles enden, u<ex>nd</ex> auch diese <seg type="comment"><orig><hi rendition="#aq"><foreign xml:lang="ita">stolta favola del mondo</foreign></hi></orig><note xml:id="nd1w_555_gmb">Ital. etwa: die törichte Fabel der Welt.</note></seg>. Ich will Ihnen gestehen, daß der Gedanke einigen Reiz für mich besitzt, mich nach ein paar Jahren in Stuttgart niederzulaßen, wenn ich dies in Freiheit kann, ohne einem Herrn oder einer Zunft zu dienen, wozu ich nach meiner Natur <pb n="2r"/>u<ex>nd</ex> Gewöhnung ganz untauglich bin.</p>
+<p>Empfehlen Sie mich dem Herrn<persName key="G001619"> <seg type="comment"><orig>Studienrat Stälin</orig><note xml:id="nud4_v55_gmb">Christoph Friedrich von Stälin (1805–1873) hatte 1825 freiwillige Dienste in der königlichen, öffentlichen Bibliothek in Stuttgart übernommen, 1869 wurde er deren Direktor. Große Anerkennung erwarb er sich mit seiner „Wirtembergischen Geschichte“ (Stuttgart: Cotta 1841–1873). Stälin war Mitglied der Akademien in Berlin, Wien und Göttingen und wurde 1858 in die neu gegründete Historische Kommission bei der Bayerischen Akademie der Wissenschaften berufen. Christoph Friedrich von Stälin war mit Charlotte, geb. Glocker (1813–1875), verheiratet, mit der er die Tochter Emilie Charlotte, verh. Winterlin (1838–1929), und den Sohn Paul Friedrich (1840–1909) hatte, der Archivrat in Stuttgart und Direktor des württembergischen Haus- und Staatsarchivs war. Gregorovius hatte in Stuttgart mit Vater und Sohn Kontakt (siehe RT, 27.7.1867, S. 228, und S. 232).</note></seg></persName>, welcher so gütig gegen mich war, u<ex>nd</ex> dessen Hause auf das freundlichste; so auch dem Freunde <seg type="comment"><orig><persName key="G001709">Winterlin</persName> u<ex>nd</ex> seiner liebenswürdigen <persName key="G001708">Frau</persName></orig>.<note xml:id="nfxt_x55_gmb">Der damalige Stuttgarter Bibliothekar August Winterlin (1832–1900) war auch Kunstschriftsteller, Dichter und der Verfasser eines Lustspiels „Die Bürgermeisterin von Schorndorf“ (Stuttgart: Grüninger 1867), deren Aufführung Gregorovius im September 1869 in Cannstatt sah (siehe RT, 19.9.1869, S. 262). Er war mit Emilie Charlotte, geb. Stälin (1838–1929), der Tochter von Christoph Friedrich von Stälin (1805–1873),verheiratet, mit der er die Söhne Karl Friedrich (1867–1945) und Georg Ludwig (1870–1917) hatte.</note></seg> Grüßen Sie herzlich von mir den <seg type="comment"><orig>trefflichen <persName key="G001214">Grossmann</persName>, dessen Umgang mir so wert geworden ist</orig><note xml:id="nxlw_y55_gmb">Der Stuttgarter Mathematiker und Reallehrer Johann Philipp Grossmann (1809–1879) hatte 1857 einen „Führer in der geometrischen Analyse der Krystallographie“ publiziert (siehe RT, S. 232).</note></seg> – wie schön waren unsre Excursionen ins Land! – Ferner <persName key="G001544"><seg type="comment"><orig>Reuchlin</orig><note xml:id="nnrm_z55_gmb">Der liberale Theologe und Historiker Hermann Reuchlin (1810–1873), der 1859 bis 1873 eine vierbändige „Geschichte Italiens bis in die Gegenwart“ vorlegte (siehe den einzig überlieferten Brief von <ref target="G000254">Gregorovius an Reuchlin, 28.7.1867</ref> und RT, 27.7.1867, S. 228).</note></seg></persName>, <persName key="G001451"><seg type="comment"><orig>Dr. Nolte</orig><note xml:id="nzyy_z55_gmb">Möglicherweise Karl Ludwig Nolte (1797–1879), der Oberbibliothekar der Privatbibliothek des Königs Georg V. von Hannover (1819–1878), der auch mit Leopold von Ranke (1795–1886) Kontakt hatte.</note></seg></persName> – alle Stuttgarter Freunde namentlich.</p>
+<p>Ich hoffe Sie geben mir bald gute Nachrichten, u<ex>nd</ex> so mit tausend Wünschen zum neuen Jahr für Sie u<ex>nd</ex> Ihre freundliche Familie – <seg type="comment"><orig>die Kinder grüßen Sie noch recht namentlich u<ex>nd</ex> schön von mir, u<ex>nd</ex> bringen Sie mich Ihrer <persName key="G001270">Frau</persName> in Erinnerung</orig><note xml:id="nbt4_1v5_gmb">Am 22. Juli 1867 hatte Gregorovius Wilhelm Heyd in Stuttgart aufgesucht (siehe RT, 27.7.1867, S. 228). Es entstand eine Freundschaft, die auch in den darauffolgenden Jahren anhielt. Heyd war seit 1856 mit seiner Cousine Luise Friederike Charlotte (1830–1903) verheiratet, mit der er drei Töchter hatte.</note></seg> –</p>
+<closer>
+<salute rendition="#c">Ihr treu ergebener</salute>
+<signed rendition="#c">FGregorovius</signed>
+<note type="postscript"><persName key="G000951">Monsignor <hi rendition="#aq">San Marzano</hi></persName>, den Sie auf der <orgName key="G067814">Bibliothek</orgName> sahen, ist in Ungnade gefallen, u<ex>nd</ex> nicht mehr <seg type="comment"><orig>Custos der <hi rendition="#aq"><orgName key="G000506">Vaticana</orgName></hi></orig><note xml:id="nzx4_bv5_gmb">Alessandro Asinari di San Marzano (1795–1876) war seit 1853 erster Kustode der Vatikanischen Bibliothek und blieb es bis zu seinem Tode. Gregorovius hatte ihn in Rom (siehe den Brief von <ref target="G000100">Gregorovius an Alfred von Reumont, 26.5.1859</ref>) und in der Königlichen Landesbibliothek in Stuttgart getroffen (siehe RT, 11.9.1867, S. 232).</note></seg> – auch ein Verlust für mich, da ich nächstens dort zu thun haben werde.</note>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

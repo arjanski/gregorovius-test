@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_aqf_wkq_vlb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Manfred Lindemann-Frommel in Heinsheim. München, 1. November 1874</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Universität Würzburg, Martin-von-Wagner-Museum</repository><collection>NL Lindemann-Frommel</collection><idno>L 36–64, VIII</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ½ S.</p>
+<p>Nasaltücher</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er hofft, dass der Beinbuch von Manfred Lindemann-Frommel bald verheilt. Er ist mit seinem Vater Karl Lindemann-Frommel der Ansicht, dass er mindestens sein Architekturstudium am Polytechnikum Karlsruhe abschließen soll, bevor er sich der Malerei zuwenden kann. Bei einem Abbruch des Studiums hat er bei der ungewissen Zukunft eines Künstlers keinerlei Sicherheit. Wäre er wirklich ein Künstler, hätte sich dies längst gezeigt. Auch als Architekt kann er „Künstlerisches in hohem Maße leisten“. Adolf Friedrich Graf von Schack reist heute nach Italien. Eine Dame hat ihre Verlobung mit Graf Rittberg in Schlesien angezeigt. Die Stellfrieds sind auf dem Rückweg nach Süden. Er soll Onkel und Tante, Karl und Emma von Racknitz grüßen. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1874-11-01" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001376">Lindemann-Frommel, Manfred (1852-1939)</persName>
+<placeName key="G000687">Heinsheim</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">München, 1. Nov<ex>em</ex>b<ex>e</ex>r 1874 <lb/><hi rendition="#aq"><seg type="comment"><orig><foreign xml:lang="ita">Tutti i Santi</foreign></orig><note xml:id="nmht_jbr_vlb"><p>Ital.: Allerheiligen.</p></note></seg></hi>. </dateline>
+                    <salute rendition="#c">Lieber Manfredi,</salute>
+                </opener>
+<p>ich hoffe, daß Du <seg type="comment"><orig>jetzt schon wieder über das Stadium des Humpelns vorgeschritten bist</orig><note xml:id="nsw3_nbr_vlb">Noch im folgenden Frühjahr fuhr Manfred Lindemann-Frommel für vier Wochen zu seinen Eltern nach Rom, um sich von seinem Beinbruch zu erholen (siehe Peter K. W. Freude: Karl Lindemann-Frommel. Ein Malerleben in Rom. Monographie und Werkverzeichnis seines graphischen und malerischen Schaffens. Murnau am Staffelsee 1997. S. 70).</note></seg>, u<ex>nd</ex> bald ganz im Besitz Deiner edeln Beine sein wirst. Etwas Schwäche wird freilich noch zurück bleiben, u<ex>nd</ex> die bedenklichste<del rendition="#s">n</del> Folge<del rendition="#s">n</del> des Unfalls wird die Störung in Deinen Studien sein. Dein <persName key="G001375">Vater</persName> schreibt mir, daß er fest darauf besteht, daß Du <seg type="comment"><orig>das große Examen machen sollst, ehe Du Dich anders entschließest</orig><note xml:id="ny3m_pbr_vlb">Manfred Lindemann-Frommel hatte sich entschlossen, sein Architekturstudium am Polytechnikum Karlsruhe abzubrechen, um sich gegen den Rat seiner Eltern Karl (1819–1891) und Auguste Lindemann-Frommel (1826–1876) der Malerei zuzuwenden. 1875 schrieb er sich an der Technischen Universität München ein, wo er bis 1883, zunächst bei Adolf Heinrich Lier (1826–1882), Landschaftmalerei studierte.</note></seg>. Ich kann seine Ansicht nur weise nennen, u<ex>nd</ex> ich glaube, Du wirst ihm eines Tages dafür danken.</p>
+<p>Es ist eine große Gefahr, eine schon bis über die Hälfte zurückgelegte Vorbereitung einer Laufbahn abzubrechen, <seg type="comment"><orig>die darauf verwendeten Jahre u<ex>nd</ex> Mühen für eine nutzose Verirrung zu erklären, und eine neue Laufbahn zu beginnen, ohne des Berufs dazu vollkommen geneigt zu sein</orig><note xml:id="noxj_rbr_vlb">Die selben Vorhaltungen, die ihm Gregorovius im Folgenden macht, hatte ihm auch sein Vater Karl (1819–1891) in seinem Brief vom 24.10.1874 gemacht (siehe Peter K. W. Freude: Karl Lindemann-Frommel. Ein Malerleben in Rom. Monographie und Werkverzeichnis seines graphischen und malerischen Schaffens. Murnau am Staffelsee 1997. S. 69).</note></seg>. Wenn Dein Talent für die Malerei ein wirklich künstlerisches wäre, so hätte es sich schon längst <pb n="1v"/>Dir als zwingende Notwenigkeit auferlegt, zumal Du der Sohn eines Künstlers bist, wo man nach der <bibl sameAs="ed_b3g_z4q_vlb">Abstammungstheorie Darwins</bibl> eine Vererbung hätte erwarten dürfen.</p>
+<p>Die Welt ist voll von Dilettanten. Doch nicht jeder, der geschickt zeichnet u<ex>nd</ex> malt, ist ein Künstler.</p>
+<p>Wenn Du heute umsatteln wolltest, stünden Dir lange Lehrjahre erwerbloser Abhängigkeit bevor, mit zweifelhafter Aussicht auf künftigen Erfolg – wenn Du fortfährst wo Du rühmlich begonnen hast, kannst Du nach wenigen Jahren ein <choice><sic>geachteteter</sic><corr cert="high">geachteter</corr></choice> u<ex>nd</ex> unabhängiger Mann sein. Fühlst Du nicht in Dir die Lust u<ex>nd</ex> die Kraft, welche ein Ingenieur praktischen Verhältnißen gegenüber aufwenden muß, so kannst Du ja als Architect auch Künstlerisches im hohen Maße leisten. Denke an die alten <placeName key="G000763">Römer</placeName> u<ex>nd</ex> ihre Bauten, namentlich der wunderbaren Kloaken, von denen noch heute <seg type="comment"><orig>die <hi rendition="#aq"><placeName key="ediarum_rbx_ypq_vlb">Cloaca Maxima</placeName></hi></orig><note xml:id="ndf3_tbr_vlb">Die Cloaca Maxima ist der wichtigste Teil, der Sammelanlage der Abwässer des von Tarquinius Priscus im 6. Jahrhundert v. Chr. errichteten antiken Kanalsystems in Rom, um die Senke zwischen Palatin und Kapitol, die immer wieder durch den Tiber überschwemmt wurde, trocken zu legen, um damit Baugrund für eine kontinuierliche Besiedlung und Bebauung zu gewinnen.</note></seg> das Erstaunen der Welt bildet. Auch <persName key="ed_nqq_yyq_vlb">Salomo</persName> malte nicht: er baute einen Tempel, der noch heute <hi rendition="#aq"><seg type="comment"><orig>Templum Salomonis</orig><note xml:id="noq4_5br_vlb">Der israelitische König Salomo soll um 968–961 v. Chr. soll auf dem heutigen Tempelberg in Jerusalem einen Tempel errichtet haben, von dem in der Bibel berichtet wird. Er wurde 586 v. Chr. von den Babyloniern zerstört. Die Umfassungsmauern der Tempelplattform im Westen sind heute als Klagemauer die wichtigste heilige Stätte des Judentums.</note></seg></hi> genannt wird. Alles dies, teurer Manfredi, erwäge doch gar reiflich. In jedem Falle aber wird das Examen für Dich eine feste Basis u<ex>nd</ex> ein Rückhalt im Leben sein.</p>
+<p>Der November ist gekommen, u<ex>nd</ex> Du siehst es: das Maulthier sucht im Nebel seinen Weg. Es ist dicker grauer Himmel hier. Heute <pb n="2r"/>bereits reist <persName key="G001573">Schack</persName> nach dem <hi rendition="#aq"><foreign xml:lang="ita"><seg type="comment"><orig><placeName key="G000690">bel paese</placeName>, ove il sì suona</orig><note xml:id="nnsl_wbr_vlb">Italien. Nach Dante Alighieri (1265–1321) „Divina Commedia“, Inferno XXXIII, 80: „del bel paese là dove ’l sì suona.“ (des schönen Landes dort, wo das sì erklingt)“ </note></seg></foreign></hi>. </p>
+<p>Auch für uns wird ja die Zeit kommen, <seg type="comment"><orig>von <hi rendition="#aq">Bob</hi> nach <hi rendition="#aq">Kepe</hi>, u<ex>nd</ex> dann nach <hi rendition="#aq">Sfai</hi></orig><note xml:id="nltx_xbr_vlb">Siehe auch den Brief von Gregorovius an Manfred Lindemann-Frommel, 2.8.1874, wo allerdings von „Kele“, statt hier von „Kep“ die Rede ist, und den vom und 1.11.1874. Gregorovius meint die Bahnstrecke nach Italien: „Bob“ steht für die Berner-Oberland-Bahnen, „Keb“ für die österrreichische „Kaiserin-Elisabeth-Bahn“ und „Sfai“ für die oberitalienischen Eisenbahnen („Strade Ferrate dell’Alta Itlia“).</note></seg>. Kannst Du dieses Räthsel lösen?</p>
+<p>Der <seg type="comment"><orig>jüngste Lockvogel zeigte uns seine Verlobung mit einem <persName key="ed_lyg_y1r_vlb">Graf Rittberg</persName> in Schlesien an</orig><note xml:id="nln5_bcr_vlb">Nicht ermittelt. Möglicherweise Ferdinande Constanze von Lockstedt (1846–1886), die am 12. Januar 1875 den königlich-preußischen Premierleutnant Karl Graf von Rittberg (1844), Besitzer des Rittergutes Polanowitz Kreise Creutzburg in Schlesien heiratete.</note></seg>; doch sagte sie nicht, ob der älteste Lockvogel schon einmarinirt sei. <seg type="comment"><orig>Die <persName key="ed_zlv_z1r_vlb">Stillfriede</persName></orig><note xml:id="ntvg_2cr_vlb">Nicht ermittelt. Ein Angehöriger des böhmischen Adelsgeschlechts Stillfried-Rattonitz mit dem Stammsitz Ratienitz bei Kolín. </note></seg> machten sich auch bereits südwärts auf die Strümpfe.</p>
+<p>Ich bitte Dich, mich Deinem <seg type="comment"><orig><persName key="ed_sgd_hc3_zkb">Onkel</persName> u<ex>nd</ex> <persName key="ed_xhj_4c3_zkb">Tante</persName> sehr zu empfehlen (worum auch mein <persName key="G001203">Bruder</persName> bittet), u<ex>nd</ex> auch die <persName key="ed_mld_tmq_vlb"><persName key="ed_vxc_1nq_vlb"><persName key="ed_nlp_cnq_vlb"><persName key="ed_jtk_gnq_vlb"><persName key="ed_lmj_3nq_vlb">Kinder</persName></persName></persName></persName></persName></orig><note xml:id="nqqd_kcr_vlb">Manfred Lindemann-Frommel hielt sich in Heinsheim auf, etwa 60 Kilometer nördlich von Stuttgart – dem Wohnsitz seines Onkels Karl Freiherr von Racknitz (1827–1905) und seiner Frau Emma, geb. Freifrau von Gemmingen-Guttenberg zu Bonfeld vom Obern Schlosse (1839–1907) mit ihren fünf Kindern; Hans (*1861), Marie (*1863), Charlotte (*1868), Emma (*1869) und Karl Eduard (*1871).</note></seg> zu grüßen. Schreibe mir doch recht bald. Beikommend schicke ich Dir mit Dank Deine Nasaltücher zurück.</p>
+                <closer>
+                    <salute rendition="#c">Lebe wol, u<ex>nd</ex> sei guten Muts.</salute>
+                    <signed rendition="#c">FGr</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

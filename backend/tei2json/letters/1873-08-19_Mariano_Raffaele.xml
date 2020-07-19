@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000130">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Raffaele Mariano in Airolo (?). Traunstein, 19. August 1873 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Leider kommt es in diesem Sommer nicht mehr zu einem Treffen mit Mariano. In Deutschland ist die Cholera ausgebrochen, auch in Königsberg bei seiner Schwester Ottilie Elgnowski. Er wird mit seinem Bruder Julius die fünfte Weltausstellung in Wien besuchen. In Traunstein ist er mit Adolf Friedrich Graf von Schack zusammen, dem er ein Exemplar von Marianos „Roma nel Medio Evo“ (1873) übergeben hat. Bei der „Allgemeinen Zeitung“, wo dieses Buch von einem Stuttgarter Professor besprochen werden soll, ist es noch nicht eingegangen. Gregorovius wird seine „Lucrezia Borgia“ (1874) nach Archivrecherchen in Ferrara bis Dezember vollenden. Cotta will eine baldige Publikation, Ignaz von Döllinger und Lord John Acton zeigen sich sehr erwartungsvoll. Die zweite Auflage des achten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1874) ist im Druck. Seine „Figuren. Geschichte, Leben und Scenerie aus Italien (1874) werden in vierter Auflage und seine „Lateinischen Sommer“ (1874) in dritter Auflage ausgegeben. Karl Lindemann-Frommel und sein Sohn Manfred leben lethargisch in den Tag hinein. Gregorovius wird Traunstein in zwei Wochen verlassen.. </p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000888">Traunstein</placeName>
+                    <date when="1873-08-19" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Traunstein 19 Agosto 1873</dateline>
+                    <salute rendition="#c">Caro amico Mariano,</salute>
+                </opener>
+                <p>mi rallegro cordialmente, di aver le sue nove; e già le avrei scritto un'altra volta, s’io avessi avuto il suo indirizzo. Vedo però con dispiacere, non solo che lei abbrevia il suo soggiorno nella <placeName key="G000870">Svizzera</placeName>, ma anche che <seg type="comment"><orig>mi toglie ogni speranza, di incontrarmi con lei nelle contrade della <placeName key="G000664">Germania</placeName>, sia a Traunstein, ovvero a <placeName key="G000734">Monaco</placeName></orig><note xml:id="nn1c_xn3_zlb">Gregorovius hatte Mariano für September oder Oktober nach München und Traunstein eingeladen (siehe Brief von Gregorovius an Raffaele mariano, 21.7.1873).</note></seg>. </p>
+                <p>Comunque vada la cosa, il suo soggiorno nelle <placeName key="G000855">Alpi</placeName> della Svizzera non le sarà riuscito inutile; anzi credo e spero, che vi ritornerà tutto fresco e vigoroso.</p>
+                <p>La solitudine, in cui si trova nel suo viaggio, le sarà qualche volta fastidiosa, ma il filosofo che viaggia si mette sempre in contatto con mille cose, che danno qualche pascolo al suo intelletto. Nei miei viaggi mi trovai per lo più solo, se ne eccettuo alcune escursioni minori, come per esempio era quell’ultima, <seg type="comment"><orig>che ho potuto fare nella sua gentilissima compagnia</orig><note xml:id="ni4b_yn3_zlb">Im Juni 1873 unternahmen Gregorovius und Mariano einen Ausflug nach Civitacastellana und Nepi, wo sie eine Nacht blieben (siehe RT, 28.6.1873, S. 331).</note></seg>; e sovente vado qui ripensando alle vicende di quella gita nostra.</p>
+                <p>Lei fà bene di ritornare in <placeName key="G000690">Italia</placeName> per la <seg type="comment"><orig>via del <placeName key="G004678">S. Gottardo</placeName></orig><note xml:id="nqyf_zn3_zlb">Deutsch: Gotthardpass.</note></seg>, la più bella e certamente la più grandiosa fra tutte le altre, che conducono il <pb n="1v"/>viaggiatore nella <placeName key="G004679">Lombardia</placeName>. Con tutto ciò avrei desiderato, che lei avesse preso stanza, prima di scendere ad <placeName key="G000611">Airolo</placeName>, a <placeName key="G000614">Andermatt</placeName>, paese amenissimo, e che nello stesso tempo offre ogni commodità in quanto agli alberghi, mentre Airolo, abbenchè anch’esso sia bello per posizione naturale, in punto di quella commodità molto lascia a desiderare.</p>
+                <p>Per quel che riguarda la nostra vita qua, posso esser breve, I giorni volano, e si rassomigliano l’uno all’altro. Abbiamo sofferto anche in Traunstein un caldo straordinario; esso era cosa generale in tutta la Germania, per cui il colera si è manifestato in tante città della mia patria, anche a Monaco, e a <placeName key="G000699">Könisberga</placeName>, dove dimora la mia <persName key="G001111">sorella</persName>, mentre il mio <persName key="G001203">fratello</persName> stà per terminare gli esercizi d’artiglieria nella fortezza di <placeName key="G000682">Graudenz</placeName>. Egli mi scrive, che vi assistono pure diversi ufficiali italiani; ne loda i modi e l’intelligenza d<subst><del rendition="#ow">e</del><add place="across">i</add></subst>ll’uno <add place="superlinear">di loro</add>, <del rendition="#s"> <gap reason="illegible" quantity="1" unit="words"/> </del> però senza nominarlo. Spero intanto, che avrò occasione, d’incontrare il mio fratello, ma non sò ancora <pb n="2r"/>precisamente in quale sito, imperocchè non abbiamo preso finora alcune decisione intorno ad <seg type="comment"><orig>un viaggio all’esposizione di <placeName key="G000897">Vienna</placeName></orig><note xml:id="njv3_143_zlb">Er verließ Traunstein am 5. September und begab sich zunächst bis zum 21. September nach München, von wo aus er eine neuntägige Reise über Linz nach Wien zur 5. Weltausstellung unternahm. In Wien traf er mit seinem Bruder Julius (1819–1891) und Karl Lindemann-Frommel (1819–1891) zusammen (siehe RT, Sommer des Jahres 1873, S. 332–333).</note></seg>.</p>
+                <p>Venne trovarmi qua il barone di <persName key="G001573">Schack</persName>, uomo di diverse qualità, ricco, dotto, poeta, proprietario di una galleria moderni in Monaco, celebre <bibl sameAs="G004226">traduttore del grande poema del <persName key="G004760">Firdusi</persName> </bibl>, e, cosa che vale meglio di ogni altra qualità, anima candida e buona. Egli verrà a Roma nel Novembre, dove sarà contento di far la di lei conoscenza. Gli diedi il suo libro: <bibl sameAs="G002110">Roma nel medio evo</bibl>. Le copie destinate alla <orgName key="G000462">Gazzetta Universale</orgName> e al <persName key="G001053">Cotta</persName> non sono ancora giunte, cosa che mi duole, senza sorprendermi: giàcchè conosco abbastanza il modo delle spedizioni Romane. Il <persName key="G000994">redattore</persName> dell’ <orgName key="G000462">Allg<ex>emeine</ex> Zeitung </orgName>è prontissimo a far inserire <seg type="comment"><orig>un’articolo intorno il suo libro</orig><note xml:id="nnhx_d43_zlb">Gregorovius schrieb am 10.8.1873 an den Chefredakteur Otto Braun (1824–1900), um eine Rezension in der „Allgemeinen Zeitung“ zu erwirken. Eine solche ist jedoch nicht nachweisbar. Stattdessen findet sich nur ein Hinweis, dass Marianos „Roma nel Medio Evo“ bei der Redaktion eingegangen ist, und zwar mit dem Vermerk „(Ispirato dalla lettura della Storia della Città di Roma del Gregorovius.)“ (in Außerorendliche Beilage zu Nr. 305 der AZ. Stuttgart 1.11.1873. S. 4636).</note></seg>, e spero che a ciò fare si presterà bene <seg type="comment"><orig>un professore di <placeName key="G000879">Stuttgart</placeName></orig><note xml:id="nh4g_f43_zlb">Es ist nicht ermittelbar, welcher Stuttgarter Professor gemeint ist; auch an die Cotta’sche Buchhandlung schreibt Gregorovius in seinem Brief vom 30.6.1873: „Da ich nun selbst solchen Artikel nicht schreiben darf, so haben vielleicht Sie die Güte, ihn zu veranlaßen; es wird sich wol in Stuttgart oder sonst wo jemand dafür intereßiren können“.</note></seg>.</p>
+                <p> <bibl corresp="G003509">Madonna Lucrezia</bibl> stà sviluppandosi graziosamente. Il <persName key="G001053">Cotta</persName> non ne vede l’ora di pubblicarla, e più bramosi di leggerla sono il <persName key="G001094">Döllinger</persName> ed il <persName key="G000906">Acton</persName>, che salutai in <placeName key="G000762">Reichenhall</placeName>. Credo, che sarò in grado di ultimare questa coserella per il principio del Dicembre avvenire, quando prima avrò visitato <placeName key="G000670">Ferrara</placeName> e consultatovi alcuni manoscritti. Ogni mattina <pb n="2v"/>vi impiego tre ore incirca, dalle 7 alle dieci. La getto per cosi dire, dalla manica, giàcchè sono perfettamente padrone del materiale.</p>
+                <p>Si è principiata la stampa della<bibl sameAs="G003435"> 2<hi rendition="#sup"> <hi rendition="#u" hand="">a</hi> </hi> edizione del vol<ex>ume</ex> VIII°</bibl>,e si ristampano pure due altri volumetti dei <bibl corresp="G003138 G003199">Wanderjahre</bibl> in maggior numero di copie, come novellamento si è combinato fra me e l’editore.</p>
+                <p>Le inchiudo nella mia i saluti dei due Lindemann, <persName key="G001375">padre</persName> e <persName key="G001376">figlio</persName>, che tutti i due io chiamo Tartarughe, per la grande pigrizia con cui si muovono. E dormono anche fino alle otto ore, cosa che è una vera vergogna, massimamente per un giovane al pari di Manfredo. Abbiamo celebrato questa mattina il giorno natalizio di Lindemann. Egli stà facendo disegni bellissimi sul legno per un’opera di lusso, che si stamperà in Stuttgart.</p>
+                <p>Mi traterrò in Traunstein ancora due settimane, e forse più. Mi scriva lestamente, la prego. Mi saluti l’amata Italia; già il nominarla mi fà battere il cuore. Colà avrò la mia tomba, <seg type="comment"><orig>presso la <placeName key="G000770">piramide di Cajo Cestio</placeName></orig><note xml:id="njbl_h43_zlb">Gemeint ist der protestantische Friedhof (Cimitero acattolico) in unmittelbarer Nähe der Cestius-Pyramide in Rom.</note></seg>, e benissimo avrò meritato un tale sito di riposo</p>
+                <closer>
+                    <salute rendition="#c">Alles Gute u<ex>nd</ex> Schöne!</salute>
+                    <signed rendition="#right">FGregorovius.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

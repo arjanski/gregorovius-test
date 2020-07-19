@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000443">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Luigi Tosti in Montecassino. Rom, 1. November 1868</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Montecassino, Archivio dell’Abbazia</repository><collection>Carteggio Tosti</collection><idno>121</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ½ S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Tommaso Leccisotti: Alcune lettere di Ferdinando Gregorovius a Monaci Cassinesi. In: Benedictina. Fascicoli di studi Benededettini. Jg. 14. Fasc. 1. Rom: S. Paolo 1967. S. 149</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt Cesare Quandel und Andrea Caravita für die Abschrift einer Urkunde von 941, die ihm Carl Aldenhoven überbracht hat. In Kürze will er den siebten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1870) abschließen. Die zweite Auflage der ersten beiden Bände des Werks (1869) soll bald erscheinen. Die italienische Übersetzung wird nicht fortgesetzt. Der Verlag Antonelli steht vor dem Konkurs und Gregorovius ist mit der Qualität der Übersetzung nicht zufrieden. Eine Arbeit von Tosti zur Geschichte Roms hat er nicht erhalten. Sie befindet sich vielleicht noch in Montecassino beim Abt Simplicio III Pappalettere, den er seit seiner Rückkehr aus Deutschland vor einem Monat noch nicht getroffen hat.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1868-11-01" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001655">Tosti, Luigi (1811–1897)</persName>
+<placeName key="G000730">Montecassino</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Roma, 1. Nov<ex>em</ex>bre 1868.</dateline>
+                    <salute rendition="#c">Illustre Don Luigi,</salute>
+                </opener>
+<p>jeri mi portò <seg type="comment"><orig>il giovane <persName key="G001498">Aldenhoven</persName></orig><note xml:id="nw4p_frr_ylb">Der Kunsthistoriker Carl Aldenhoven (1842–1907) arbeitete nach seinem Studium zunächst als Lehrer und wurde 1873 zum Leiter der Herzoglichen Bibliothek in Gotha ernannt, 1879 zum Direktor des Herzoglichen Museums. 1890 erfolgte die Berufung zum Direktor des Wallraf-Richartz-Museum in Köln. Gregorovius wird Aldenhoven während dessen Stipendiatenzeit in Rom 1866/1867 kennengelernt haben.</note></seg> <seg type="comment"><orig>la copia del desiderato diploma</orig><note xml:id="nsdd_hrr_ylb">In einem früheren Brief hatte Gregorovius Tosti im Namen des in Berlin lebenden Historikers Ernst Dümmler (1830–1902) um die Abschrift einer im Archiv von Montecassino aufbewahrten Urkunde des Königs Hugo I. (vor 887–947) und seines Sohnes Lothar II. (um 928–950) aus dem Jahre 941 gebeten; siehe den Brief von Gregorovius an Luigi Tosti vom 28.10.1868.</note></seg> e la preziosa sua lettera, cose che mi empir<subst><del rendition="#ow"/><add place="across">o</add></subst>no di verace gioja. Ai reverendi e cortesi padri <seg type="comment"><orig><persName key="G001518">Quandel</persName> </orig><note xml:id="nrj1_jrr_ylb">Cesare Quandel (1837–1880), später Bruder Mauro, begann mit zehn Jahren sein Noviziat in Montecassino. Er wurde von Don Sebastiano Kalefati (1817–1863), seit 1843 Archivleiter Montecassinos, zu dessen Nachfolger erzogen (siehe RT, 15.10.1859, S. 88), ist aber als solcher nicht nachweisbar.</note></seg>e <seg type="comment"><orig><persName key="G001499">Caravita</persName></orig><note xml:id="nmxd_krr_ylb">Der Paläograf und Kunsthistoriker Andrea Caravita (1824–1875) war seit 1863 Archivar in Montecassino. Er pubblizierte in drei Bänden „I codici e le arti a Montecassino” (Montecassino: Pei Tipi della Badia 1869–1871).</note></seg> rendo, grazie di tutto cuore. Loro – e questo va senza dirlo – già sapranno bene, che ogni relazione con <placeName key="G000730">Monte Casino</placeName> mi ridesta liete rimembranze e il desiderio, <seg type="comment"><orig>di salutarvi la sù un’altra volta</orig><note xml:id="nyyk_nrr_ylb">Gregorovius hatte sich, auf Einladung Kalefatis vom 5.–18. Oktober für Archivarbeiten für seine „Geschichte der Stadt Rom im Mittelalter“ in Montecassino aufgehalten (siehe RT, 29.9.1859, S. 85–90). In seinen Briefen an Kalefati und Tosti betonte er stets wie wertvoll diese Tage für ihn gewesen waren; siehe z. B. den Brief von Gregorovius an Luigi Tosti vom 25.10.1859. Italien verließ er 1874 (siehe RT, 14.7.1874, S. 342–343); ein weiterer Aufenthalt in Montecassino nach dem Oktober 1859 ist nicht dokumentiert.</note></seg> e prima ch’io lasci forse per sempre l’<placeName key="G000690">Italia</placeName>. Dopo due anni, <seg type="comment"><orig><foreign xml:lang="Lat">faventibus superis</foreign>,</orig><note xml:id="nw3n_4rr_ylb">Lat. für: so mir die Götter gewogen sind.</note></seg> spero di terminare <seg type="comment"><orig>il mio faticoso lavoro col <bibl sameAs="G003441">volume VII°</bibl></orig><note xml:id="nocs_qrr_ylb">Der siebte Band seiner „Geschichte der Stadt Rom im Mittelalter“ erschien 1870.</note></seg>. Intano incomincia a compari<subst><del rendition="#ow"/><add place="across">r</add></subst>e <seg type="comment"><orig>la <bibl corresp="G003435 G003442 G003449 G003456 G003463 G003470 G003477 G003489">nuova edizione</bibl></orig><note xml:id="nvrp_srr_ylb">Die überarbeiteten zweiten Auflagen von Band eins und zwei der „Geschichte der Stadt Rom im Mittelalter“ erschienen 1869.</note></seg>; <seg type="comment"><orig>essa sarà migliorata</orig><note xml:id="ndc3_5rr_ylb">Gregorovius überarbeitete seine Bücher sehr gründlich, aktualisierte seine Arbeiten mit neuem Archivmaterial und den neuesten Forschungen.</note></seg> alquanto <pb n="1v"/>di modo, che veramente arrosisco nel pensare, che <seg type="comment"><orig><bibl sameAs="G004366">il primo volume recato italiano</bibl></orig><note xml:id="nnnm_wrr_ylb">Auf Grundlage eines Vertrags mit dem venezianischen Verlag Giuseppe Antonelli vom 20. Juni 1865 (BSB München, NL Gregorovius, Gregoroviusiana 26) hatte der im Übersetzen unerfahrene Renato Manzato (1847–1925) die ersten beiden Bände von Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ übersetzt: Storia della città di Roma nel Medio Evo, dal secolo V al XVI. Prima versione italiana di Renato Manzato. Venedig, Turin: Guiseppe Antonelli 1866.</note></seg> stia fra le vostre mani. <persName key="G000934">L’editore veneto</persName> non ha potuto proseguire nell’ impresa, imbrogliato, come si dice, negli affari finanziarii. Oltre di questo inibii da me stesso la continuazione, poiché mi parve più conveniente, che si aspetti <seg type="comment"><orig>la fine dell’opera</orig><note xml:id="nakr_yrr_ylb">Der Verkauf der italienischen Ausgabe der „Geschichte der Stadt Rom im Mittelalter“ war kein Erfolg, weshalb sie der kurz vor dem Bankrott stehende Antonio Antonelli (1817–1889), Sohn des Verlagsgründer Giuseppe Antonelli (1793–1861), über Empfehlung des Bildungsministeriums in die italienischen Schulen bringen und so die Verkaufszahlen erhöhen wollte; siehe den Brief von Gregorovius an Conte Giovanni Gozzadini vom 24.2.1867. RT, 7.4.1867, S. 222: „Gozzadini und Aleardi schrieben mir, dass sie das italienische Kultusministerium veranlassen werden, den Buchhändler Antonelli bei der Fortsetzung der Übersetzung meiner Geschichte zu unterstützen. Da der italienische Buchhandel darniederliegt, so wagt Antonelli nicht weiterzudrucken. Diese Übersetzung hat mich schon mehr Briefschreiberei gekostet, als fast alle meine literarischen Verbindungen in Deutschland zusammengenommen.“ </note></seg>. </p>
+<p>Mi duole di non aver avuto il suo opuscolo de <seg type="comment"><orig><foreign xml:lang="Lat">Urbe Aeterna</foreign> </orig><note xml:id="nhwx_zrr_ylb">Lat. für: ewige Stadt. Es ist nicht ermittelbar, welche Arbeit von Tosti hier gemeint ist. </note></seg>– forse egli si truova ancora presso al <seg type="comment"><orig><persName key="G001470">Padre Papalettere</persName>,</orig><note xml:id="nh4z_1sr_ylb">Simplicio III Pappalettere da Barletta (1815–1883) war von 1858 bis 1863 Abt von Montecassino.</note></seg> il quale non vedi ancora <seg type="comment"><orig>dopo il mio ritorno dalla <placeName key="G000664">Germania</placeName></orig><note xml:id="nhfl_csr_ylb">Gregorovius war nach einer mehrwöchigen Reise, mit einem längeren Aufenthalt in Deutschland, am 29. September wieder nach Rom zurückgekehrt (siehe RT, 5.10.1868, S. 253). </note></seg>. Ogni altra via di spedizione a Roma, fuori <pb n="2r"/>di occasioni private, è malsicura, quando si tratta di altro, che di lettere da posta. Spero però di puoter procurarmi l’opuscolo vostro, e di servirmi delle vostre idee illuminate per la nuova edizione della Storia di Roma.</p>
+                <closer>
+<salute xml:id="s1" next="#s2" rendition="#c">Con mille saluti</salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">affettuosamente</salute>
+<signed rendition="#right">Gregorovius.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

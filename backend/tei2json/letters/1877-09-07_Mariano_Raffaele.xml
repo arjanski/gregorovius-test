@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000227">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Baden-Baden. München, 7. September 1877</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 1 S. – 1v, Adr.: „An Mariano“ – arR Siegelreste</p>
+<p>Beischluss zu einem Brief an Adelheid Grunelius</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+<p xml:lang="de">Er erwartet Marianos Studie „Cristianesimo, cattolicesimo e civiltà“ (1879) mit Spannung. Den ersten Band von Pasquale Villaris „Niccolò Machiavelli e i suoi tempi illustrati con nuovi documenti“ (1877) hat er noch nicht gelesen, will ihn auch nicht besprechen, was sein Bruch mit der „Allgemeinen Zeitung“ plausibel machen wird. Er sucht Unterstützer für ein Denkmal für Paolo Sarpi in Venedig. In seinem bei Adelheid Grunelius hinterlegten Aufsatz „Alcuni cenni storici sulla cittadinanza romana“ (1877) bittet er Mariano, die sprachlichen Fehler zu korrigieren. </p>
+<p xml:lang="it"/>
+<p xml:lang="en"/>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1877-09-07" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000623">Baden-Baden</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">München, 7. Sept<ex>ember</ex> 1877.</dateline>
+                    <salute rendition="#c">Lieber Freund,</salute>
+                </opener>
+<p>Nur wenige Worte u<ex>nd</ex> viele herzliche Grüße von uns <persName key="G001203"><persName key="G001111"><persName key="G001109">allen</persName></persName></persName>, als Beilage zu meinem Briefe an Frau <persName key="G001215">G<ex>runelius</ex>.</persName> Ich bin froh, daß Sie, ganz frisch u<ex>nd</ex> wol, jetzt unter den Freunden in Baden sind. Dort werden Sie noch herrliche 6 Tage erleben. Zu Ihrer Arbeit wünsche ich Ihnen das verdiente Glück: die Aufgabe ist zeitgemäß und herrlich – ich bin gespannt auf das <bibl sameAs="ed_yr4_nvd_rlb">Buch</bibl>, dessen <orgName key="G000537">Verlag</orgName> Sie doch wol schon gesichert haben. Ich will es gleich mit Eifer lesen, sobald es erscheint.<seg type="comment"><orig> <persName key="G001687">Villaris</persName> <bibl sameAs="ed_qfw_4kd_rlb">Buch</bibl> sah ich, doch ich las es noch nicht</orig><note xml:id="nxmy_mhm_fmb">Pasquale Villari (1827–1917) hatte Gregorovius aus Lucca die Publikation des ersten Bandes seines „Niccolò Machiavelli e i suoi tempi illustrati con nuovi documenti“ (1877) angezeigt. Mariano hatte Gregorovius am <ref target="G000222">27. Juli 1877</ref> geschrieben, dass er sich mit der Beantwortung von Villaris Brief Zeit lassen wolle, auch einen Monat später hatte Gregorovius Villari noch nicht geantwortet. Siehe den Brief von Gregorovius an Mariano vom <ref target="G000223">16.8.1877</ref> und auch den Brief von Villari an Gregorovius, 26.8.1877 (in: „Un anello ideale" fra Germania e Italia. Corrispondenze di Pasquale Villari con storici tedeschi. A cura di Anna Maria Voci. Rom: Archivio Guido Izzi 2006. S. 166–168).</note></seg>. Ich lehnte ab, darüber zu schreiben, u<ex>nd</ex> habe ja auch die <seg type="comment"><orig>triftige Entschuldig<ex>ung</ex> wegen d<ex>er</ex> <orgName key="G000462">All<ex>gemeinen</ex> Zeit<ex>ung</ex></orgName>,</orig><note xml:id="ndtp_dx3_1mb">Eine öffentliche Notiz von Karl Gutzkow (1811–1878) führte im April 1877 den vorläufigen Bruch Gregorovius’ mit der „Allgemeinen Zeitung“ herbei. Im publizistischen Nachgang einer ausgesprochen negativen Rezension seiner „Lukrezia Borgia“ von dem Literatur-, Kunst- und Musikkritikers Henry Blaze de Bury (1813–1888) in der „Revue des deux Mondes“ (vom 15.3.1877, siehe http://rddm.revuedesdeuxmondes.fr/archive/article.php?code=63221) hatte Gutzkow in der „Allgemeinen Zeitung“ die Besprechung von Blaze de Bury nicht verteidigt, sondern sich daran gestört, dass Gregorovius diesen als einen ihm „nicht einmal dem Namen nach bekannten“ Schreiber diskreditierte (In: AZ. Nr. 98. 8.4.1877. S. 1480). Dazu kommentiert Gregorovius im Tagebuch: „Das Mitgeteilte Gutzkows war eine boshafte Einmischung in meine persönliche Angelegenheit. Gutzkow ist mir noch von früheren Jahren her feindlich gesinnt, weil er in Rom von mir und allen anderen gleichgültig behandelt worden war. Nun schlug er mit dem Pferdefuß nach mir aus. […] ein Mensch ohne Erziehung“ (RT, Rückkehr nach Rom im Jahre 1877, S. 376). Dem Redakteur der „Allgemeinen Zeitung“, Johann Philipp Otto Braun, wirft Gregorovius vor, die Gutzkows Notiz überhaupt erst aufgenommen zu haben.</note></seg> denn für andre Blätter schreibe ich nicht. Unterdeß erscheinen die <?oxy_comment_start author="Angela Steinsiek" timestamp="20200703T174818+0200" comment="welche - bitte recherchieren!"?>Artikel Reumonts<?oxy_comment_end?>.</p>
+<p>Ich bin in Verlegenheit, wegen meiner Pflicht in Betreff des <seg type="comment"><orig><orgName key="G000476">Monuments für <persName key="G001569">Sarpi</persName></orgName>.</orig><note xml:id="nrbn_2x3_1mb">Zu Ehren Paolo Sarpis (1552–1623) sollte ein Denkmal in Venedig entstehen. Zur Planung wurde eine Komitee gegründet, das Graf Giambattista Giustinian (1816–1888) leitete, und in das Gregorovius berufen wurde. Die Statue des Bildhauers Emilio Marsili (1841–1926) wurde letzendlich erst 1892 auf dem Campo Santa Fosca in Venedig errichtet, wo Sarpi 1607 einem Mordanschlag entging. Paolo Sarpi, geb. als Pietro Sarpi (1552–1623) war ein katholischer Theologe, Prokurator und Historiker. Mit 14 Jahren trat er in den Orden der Serviten ein und nahm den Ordensnamen Paolo an. Seit 1570 war er Hoftheologe des Herzogs Guglielmo Gonzaga von Mantua (1538–1587) sowie Theologe der Stadt Mantua, seit 1579 Provinzial und seit 1585 Generalprokurator. Im Konflikt zwischen der Republik Venedig und Papst Paul V. (1552–1621) ernannte der venezianische Senat 1606 Sarpi als Theologen und Kanonisten der Republik Venedig. Sarpi warb für die Trennung der weltlichen von der geistlichen Gewalt. Er überlebte drei auf ihn verübte Anschläge.</note></seg> Ich habe an einige Personen deshalb geschrieben, aber ich glaube, wenige werden dazu beitragen. Sie finden meine <bibl sameAs="G004017">Schrift über die cittad<ex>inanza</ex> Romana</bibl> bei Frau Gr<ex>unelius</ex>. Bitte, streichen Sie die Sprachfehler an, damit ich daraus lerne. Ich werde Ihnen auch das <foreign xml:lang="ita"><hi rendition="#aq">opusculo</hi></foreign> zuschicken.</p>
+                <closer>
+<salute rendition="#c">Tausend Grüße: Ihr FGr.</salute>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000102">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Moritz Hartmann in Paris. Rom, 7. Mai 1859</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Wienbibliothek im Rathaus</repository><collection>NL Moritz Hartmann</collection><idno>I. N. 43809</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 4°, 1 ¾ S. – 2v alR, Blatt um 90° gedreht, Adr: <hi rendition="#aq">Monsieur</hi> / <hi rendition="#aq">Moritz Hartmann</hi> / <hi rendition="#aq">Paris</hi> / <hi rendition="#aq">au Bureau de la <hi rendition="#u" hand="">Revue</hi></hi> / <hi rendition="#aq"><hi rendition="#u" hand="">Germanique</hi> Mr. Dolfus</hi>. – 1r-v geringer Textverlust durch Tintenfleck</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 53, Mappe 323 und Karton 59, Mappe
+                                        347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print">Moritz Hartmanns gesammelte Werke. Bd. 2. Moritz
+                            Hartmanns Leben und Werke. Ein Beitrag zur politischen und literarischen
+                            Geschichte Deutschlands im XIX. Jahrhundert. Teil 2: Exil und Heimkehr.
+                            Hrsg. von Otto Wittner. Prag 1907. S. 350 (stark gekürzt)</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er hat sein Schicksal seit dem erzwungenen Exil nach dem Erscheinen seines Gedichtbandes „Kelch und Schwert“ (1845) mit Teilnahme verfolgt. Das ihnen gemeinsam befreundete Ehepaar Caroline Ungher-Sabatier und François Sabatier hat ihm Näheres zu berichtet. Über den Zweiten Italienischen Unabhängigkeitskrieg, der auch die Grenzen des Kirchenstaates in Frage stellt, und über das Engagement des gemäßigten Republikaners Émile Ollivier unter Napoléon III. Cotta hat sicher ein Rezensionsexemplar des ersten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1859) für die „Revue Germanique“ an Charles Dollfus oder an Hartmann gesandt. Er wird mit Jean-Jaques Ampère über den Plan einer deutschen (?) Übersetzung von dessen „Histoire romaine à Rome“ (1862–1867) gesprochen haben.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He has followed his fate closely since the forced exile after the publication of his poetry collection „Kelch und Schwert“ (1845). The couple Caroline Ungher-Sabatier and François Sabatier, who are friends of theirs, have given him further details. About the Second Italian War of Independence, which also challenges the borders of the Papal States, and about the commitment of the moderate republican Émile Ollivier under Napoleon III. Cotta certainly sent a review copy of the first volume of his „Geschichte der Stadt Rom im Mittelalter“ (1859) for the „Revue Germanique“ to Charles Dollfus or to Hartmann. He will haved discussed the plan of a German (?) translation of his „Histoire romaine à Rome“ (1862-1867) with Jean-Jaques Ampère. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1859-05-07" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001237">Hartmann, Moritz (1821–1873)</persName>
+                    <placeName key="G000749">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <salute rendition="#c">Mein teurer Herr u<ex>nd</ex> <seg type="comment"><orig>Freund</orig><note xml:id="nm1d_13t_wlb">Der, als Kind jüdischer Eltern, in Böhmen geborene Schriftsteller, Publizist und radikale Demokrat Moritz Hartmann (1821–1872) war 1838 für ein Medizinstudium nach Prag gegangen, hatte aber schon bald engen Umgang mit jung-böhmischen Literaten und veröffentlichte erste Gedichte, bevor er 1840 nach Wien übersiedelte und sich ganz der vormärzlichen Schriftstellerei widmete. Die österreichischen Zensurbestimmungen veranlassten ihn 1844 nach Leipzig zu ziehen, wo er 1845 seine erste Gedichtsammlung „Kelch und Schwert“ veröffentlichte. Bis 1848 hält er sich an wechselnden Orten in Europa auf. 1848 nahm Hartmann zunächst in Prag, dann an der Revolution in Wien und am Badischen Aufstand teil, gehörte bis zuletzt der Deutschen Nationalversammlung an und entging durch eine dramatische Flucht nur knapp seiner Hinrichtung. Nach Reisen durch Frankreich, England, Irland, die Niederlande und 1854 als Korrespondent der „Kölnischen Zeitung“ im Krimkrieg in Kostantinopel, ging er nach Paris, wo er mit den führenden Intellektuellen, darunter Heinrich Heine, engen Umgang pflegte. 1860 hielt er in Genf Vorlesungen zur deutschen Literatur und heiratete die dort im Exil mit ihrer Familie lebende schwäbische Pädagogentochter Bertha Roediger (1839–1916), mit der er die Söhne Heinrich (1861–1865) und Ludo (1865–1924) bekam. Obwohl Hartmann sich Ende 1859 bis zum Frühjahr 1860 und im Spätsommer 1862 in Florenz aufhielt, u. a. in der Florentiner Villa des mit Gregorovius eng befreundeten Ehepaars Sabatier (siehe RT, 20.10.1862, S. 155), lernte Gregorovius den „wütenden Preußenfeind“ offenbar erst 1867 in Berg bei Stuttgart kennen (siehe RT, S. 231), wo Hartmann seit 1863 als Redakteur der Wochenausgabe der „Allgemeinen Zeitung“ sowie als Schriftleiter der preußenfeindlichen „Freya“ tatig war. 1869 kehrte Hartmann als Feuilletonredakteur der „Neuen Freien Presse“ nach Wien zurück. Anlass für Gregorovius, sich brieflich an Hartmann zu wenden, war sicher nicht allein eine gewisse Bewunderung für die politische Radikalität Hartmanns, sondern vor allem der Umstand, dass Moritz Hartmann Redaktionsmitglied der, Anfang 1858 von den Elsässern Charles Dollfus (1827–1876) und August Nefftzer (1820–1876) gegründeten, „Revue Germanique“ war, die über die neueste deutsche Literatur berichten sollte. In den drei erhaltenen Briefen aus den Jahren 1859–1860 von Gregorovius an Hartmann geht es entsprechend um das Erscheinen der ersten Bände seiner „Geschichte der Stadt Rom im Mittelalter“ (1859) und tagespolitische Fragen. </note></seg>,</salute>
+                </opener>
+                <p>denn also Sie zu nennen mögen geistige Berührungen auch ohne persönliche Bekanntschaft ein vergönntes Recht geben. Seit der Revolution v<ex>on</ex> 48 habe ich Ihre Schicksale mit Teilnahme u<ex>nd</ex> Liebe verfolgt, Ihre von einem wahrhaften poetischen Geist erfüllten Schriften gelesen, u<ex>nd</ex> unsere <seg type="comment"><orig>gemeinschaftlichen Freunde <persName key="G001565 G001665"><hi rendition="#aq">Sabatier</hi></persName></orig><note xml:id="nmnx_m3t_wlb">Caroline Ungher-Sabatier (1803–1877) wird Hartmann schon aus Wien gekannt haben, wo sie 1839/1840 mit seinem Freund Nikolaus Lenau (1802–1850) eine Liebesbeziehung hatte. Mit ihrem Ehemann François Sabatier (1818–1891) hatte Hartmann sich vermutlich erst 1848 befreundet, als das Ehepaar Sabatier vorübergehend in Paris wohnte. Den Winter 1850/1851 hatte der chronisch unter Geldnot leidende Hartmann auf Sabatiers Schloss Latour (oder La Tour) de Farges in Lunel-Viel in der Camargue nahe Montpellier verbracht.</note></seg> haben auch Ihre Person mir näher gebracht.</p>
+                <p>Ich sende Ihnen diese Zeilen durch eine <seg type="comment"><orig>englische Dame, welche über Paris heim reist</orig><note xml:id="ntxz_43t_wlb">Vielmehr wurde der Brief durch einen Sohn der Philanthropin und Pädagogin Julie Salis-Schwabe (1818 oder 1819–1896), eine geborene Deutsche und Witwe des Industriellen Adolf Salis Schwabe (1800–1853) aus Manchester, befördert (siehe RT, 2.4.1859, S. 78; siehe den Brief von <ref target="G000101">Gregorovius an Meysenbug, 7.5.1859</ref>).</note></seg>. In diesen trüben Zeiten eines das Innere angreifenden Dilemmas politischer Situationen werden Sie, wie ich, sich einsamer in der Fremde fühlen. <seg type="comment"><orig>Die Völker dieses geliebten Landes <placeName key="G000690">Italien</placeName> stehen auf, um unter der Fahne eines <persName key="G001442">Despoten</persName> nach der Freiheit zu ringen, welche jener Abenteurer als ein Motiv für seine egoistischen Pläne gebraucht.</orig><note xml:id="nfgj_s3t_wlb">Der piemontesische Ministerpräsident Camillo Benso von Cavour (1810–1861) wollte durch einen Krieg gegen Österreich die Einigung Italiens unter der Vorherrschaft Sardinien-Piemonts vorantreiben. Im Juli 1858 hatte er mit Napoléon III. (1808–1873) ein geheimes Bündnis gegen die habsburgische Vormacht in Europa geschlossen und den Krieg mit dem habsburgischen Kaiserreich Österreich provoziert. Mit dem Einmarsch der Österreicher in Piemont hatte am 29. April 1859 der zweite Italienische Unabhängigkeitskrieg zwischen Österreich und Sardinien-Piemont mit dem französischen Kaiserreich begonnen, dem sich die Toskana anschloss. In dessen Folge musste Österreich im Frieden von Zürich am 10. November 1859 die Lombardei an Frankreich abgeben; Napoleon III. reichte die Provinz an Sardinien weiter. Der habsburgische Großherzog Leopold II. von Toskana (1797–1870) und auch Herzog Franz V. von Modena (1819–1875) wurden 1860 durch Volksabstimmungen abgesetzt und Italien zum Nationalstaat geeint. Einzig Venetien verblieb bei Österreich. Zwischen Napoléon III. und Vittorio Emanuele (1820–1878) wurde 1860 der Anschluss des Herzogtums Savoyen und der Grafschaft Nizza an Frankreich vollzogen; am 17. März 1861 wurde Vittorio Emanuele offiziell zum König von Italien proklamiert.</note></seg> Die italienische Frage hat sich deshalb aus der Sphäre der Principien in jene des <seg type="comment"><orig>Kampfs zweier absoluten Mächte</orig><note xml:id="nvmq_w3t_wlb">Kaiser und Papst – dem Papst drohte durch die Intervention Napoléons in Italien der Verlust großer Teile seines Kirchenstaates. Tatsächlich hatte Cavour sich mit Napoléon III. geeinigt, die Österreicher aus Italien zu vertreiben (Lombardei und Venetien), unter der Oberherrschaft des Papstes ein Dreistaatenbündnisses in Italien zu etablieren, neben dem Kirchenstaat Oberitalien unter Führung Sardinien-Piemont und ein mittelitalienisches Königreich und Neapel-Sizilien; Nizza und Savoyen sollte an Frankreich angegliedert werden.</note></seg> gezogen, welche um den B<unclear reason="covered" cert="high">esi</unclear>tz dieses unglücklichen Landes streiten, wie se<unclear reason="covered" cert="high">it</unclear> Jahrhunderten also gestritten ist. Die Stimme <persName key="G004732"><hi rendition="#aq"><seg type="comment"><orig>Oliviers</orig><note xml:id="no12_z3t_wlb">Der Jurist Émile Ollivier (1825–1913) war seit 1857 Abgeordneter der konstitutionellen Opposition, arrangierte sich später aber mit der Politik Napoleons III. und schloss sich 1870 den Befürwortern der Kriegserklärung an Preußen an.</note></seg></hi> </persName>ist schön u<ex>nd</ex> tief erklungen, u<ex>nd</ex> zeigt mir noch, daß andere Mächte sich werden geltend machen, die nicht mit berechnet worden sind. In den Ruinen Rom’s u<ex>nd</ex> unter den Documenten seiner Geschichte, die ich schreibe, erwarte ich ruhiger das Kommende. Cotta wird Ihnen oder Herrn <hi rendition="#aq">Dolfus</hi> <pb n="1v"/>ein Exemplar der <bibl sameAs="G003485">Geschichte der Stadt Rom im Mittelalter</bibl> zugesandt haben, u<ex>nd</ex> vielleicht findet die<seg type="comment"><orig> Redaction der <orgName key="G004661"><hi rendition="#aq">Revue Germanique</hi></orgName> Zeit u<ex>nd</ex> Raum, diesem Werk oder Versuch <bibl corresp="G002618">eine Seite der Berücksichtigung</bibl> zu gönnen</orig><note xml:id="nyxx_1jt_wlb">Die mit „T. D.“ gezeichnete Besprechung des 1. Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ erschien in: Revue Germanique. Hrsg. von Charles Dollfus und August Nefftzer. Bd. 6. Paris 30.4.1859. S. 457–458.</note></seg>. Sie werden den trefflichen <hi rendition="#aq"><persName key="G000928"><seg type="comment"><orig>Ampère</orig><note xml:id="nff5_bjt_wlb">Der französische Historiker, Schriftsteller und Philologe Jean Jacques Ampère (1800–1864).</note></seg></persName></hi> in <hi rendition="#aq">Paris</hi> gesprochen haben, welcher Ihren Plan einer <seg type="comment"><orig>Ubersetz<ex>un</ex>g <bibl sameAs="G004771">seines Roms</bibl> in Rom</orig><note xml:id="nsxc_2jt_wlb">Möglicherweise plante Hartmann Jean-Jacques Ampères „Histoire romaine à Rome“ (4 Bde. Paris: Lévy 1862–1867) zu übersetzen. Teile daraus waren vorab 1855–1857 in der „Revue des Deux Mondes“ erschienen.</note></seg> mit Dankbarkeit zugestimmt hat.</p>
+                <closer>
+<salute>Ich muß diese Zeilen schließen, da auf sie gewartet wird, u<ex>nd</ex> ich thue es, in dem ich Ihnen die Hände reiche mit Wünschen für die Freiheit u<ex>nd</ex> das Glück von <placeName key="G000664">Deutschland</placeName>, <placeName key="G000674">Frankreich</placeName> u<ex>nd</ex> diesem edeln Land Italien!</salute>
+<signed rendition="#c">FGregorovius <lb/></signed>
+<dateline>Rom 7 Mal 1859 <lb/>Via della Purificazi<unclear reason="illegible" cert="high">one</unclear> N<ex>umme</ex>r 63.</dateline>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

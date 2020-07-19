@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000296">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Marie Rückert in Coburg-Neuses. Rom, 28. Juni
+                    1869</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness select="#this">
+<msDesc type="copy"><msIdentifier><institution>Stadtarchiv Schweinfurt</institution><collection>Sammlung Rückert</collection><idno> A I 263 – 73 – 1 (Marie Rückert nach H) </idno></msIdentifier>
+<physDesc>
+<p> nach D2: „das ist faden Besuchen“ und „Dorthin dürfen Sie allein nicht reisen; Sie würden auch keinen Genuß in dieser Form haben.“</p>
+</physDesc>
+</msDesc>
+</witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> Karton 53, Mappe 325 und Karton 59, Mappe 348 (nach D2) </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print">S[igmund] M[ün]z: Einige Briefe von Ferdinand
+                            Gregorovius. In: Neue Freie Presse. Nr. 11092. Wien: Österreichisches
+                            Journal 13.7.1895. S. 2–3 (Morgenblatt) (gekürzt)</bibl>
+                    </witness>
+                    <witness> <bibl type="print">Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli. Hrsg. von Sigmund Münz. Berlin: Paetel 1896. S. 192–194 (nach D1)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er hätte gerne auf ihren ersten Brief vom Mai geantwortet, doch war er seitdem so krank, dass er dem Tode nur knapp entronnen ist. Ihrer Einladung nach Coburg-Neuses kann er aus zeitlichen Gründen nicht nachkommen. Von einer Reise nach Korsika, wie er sie 1852 unternommen hatte, rät er ihr ab. Seine historische Reiseschilderung „Corsica“ (1854) wurde von den Deutschen ignoriert, aber in den englischen Übersetzungen in England und Amerika (1855) begeistert aufgenommen. Den „Kultus des Schmerzes“ um ihren 1866 verstorbenen Vater Friedrich Rückert hält er für selbstzerstörerisch. Sie soll sich an dem idyllischen Zuhause erfreuen, das ihrem Vater Inspiration war, und in die Zukunft schauen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+<correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1869-06-28" cert="high"/>
+</correspAction>
+<correspAction type="received">
+<persName key="G001561">Rückert, Marie (1835–1920)</persName>
+<placeName key="G000661">Coburg-Neuses</placeName>
+</correspAction>
+</correspDesc>
+        </profileDesc>
+    </teiHeader>
+<text>
+<body>
+    <div type="writingSession">
+<opener>
+<dateline rendition="#right">Rom, 28. <?oxy_comment_start author="Angela Steinsiek" timestamp="20190228T110658+0100" comment="Nach dem Inhalt irrtümlich für Juni."?>Mai<?oxy_comment_end?> 1869.</dateline>
+</opener>
+<p>Gestern erhielt ich, verehrtes Fräulein <?oxy_comment_start author="Angela Steinsiek" timestamp="20190228T110710+0100" comment="Marie Rückert (1835–1920), das achte von zehn Kindern des Dichters, Orientalisten und Übersetzers Friedrich Rückert (1788–1866) und der Luise, geb. Wiethaus-Fischer (1797–1857). "?>Marie<?oxy_comment_end?>, Ihren Brief, auf den ich zu antworten eile. Ich würde Ihnen auf den frühern (vom Mai)<?oxy_comment_start author="Angela Steinsiek" timestamp="20190228T110737+0100" comment="Im Tagebuch hatte Gregorovius unter dem 15.5.1869 vermerkt: „Ich fand zu Hause eine phantastischen Brief von einer Tochter Rückerts, die mir unbekannt ist.“ (S. 258)"?> <?oxy_comment_end?>bereits geschrieben haben, doch <?oxy_comment_start author="Angela Steinsiek" timestamp="20200414T165134+0200" comment="Gregorovius war Ende Mai erkrankt und Anfang Juli noch immer nicht vollständig wieder hergestellt (siehe RT, 2.7.1869, S. 258)."?>seit dem 1 Juni war ich ganz und gar von einer römischen Dame in Anspruch genommen. Diese sumpfgeborene Göttin heisst unter Sterblichen „das Fieber“<?oxy_comment_end?>; sie suchte führte mich bis nahe zu den Pforten des <placeName key="G000847">Hades</placeName>, wo sie mir die <?oxy_comment_start author="Angela Steinsiek" timestamp="20200414T172333+0200" comment="Nach „Odyssee“ XI, 476."?>Gebilde ausruhender Menschen<?oxy_comment_end?> zeigte; aber der graue Fährmann wollte mich noch nicht in den Nachen aufnehmen, sondern trieb mich wieder ins Sonnenlicht zurück, noch meinen kleinen Pflichten, den „Mäusegeschäften“ eine kurze Weile nachzugehen. Jetzt bin ich frei u<ex>nd</ex> vollkommen hergestellt. –</p>
+<p>Ich vernehme dankbar Ihren freundlichen Ruf nach Neusess – wohl bedauere ich, dass mich frühere Wanderstrassen nie dorthin geführt haben, und wohl wäre es mir auch heute lieb, die Stätte zu sehen, wo ein <persName key="G001560">großer und edler Mensch</persName> gelebt hat. Aber so gerne ich Sie dort begrüssen möchte so kann ich doch nicht meine Reise so weit ausdehnen, ohne andern, fast zahllosen Verpflichtungen, das ist faden Besuchen, nachzugehen, was mich in ein Labyrinth bringen möchte.</p>
+<p>Wenn man, wie ich thun muss, Winter über in einem nie endenden Strudel von Menschenverkehr aus allen Zonen sich umtreiben muß, so sehnt man sich nach Zurückgezogenheit in den Bergen für die Sommerzeit. Ich werde auch nicht die <placeName key="G000854">Mainlinie</placeName> überschreiten. Ich weiß nicht einmal, wohin ich gehe; ich weiss nur, dass ich eines Tages abreisen werde und wenn ich erst auf dem Gipfel der <placeName key="G000855">Alpen</placeName> bin, so lasse ich mich wie einen Stein hinunterrollen und bleibe dann liegen, wo ich zu liegen komme.</p>
+<p>Das Heldeneiland <placeName key="G000710">Corsica</placeName> kehrt oft in meine Erinnerung wieder – es war noch eine jugendselige, obwohl oft schwermüthige Wanderlust, die mich durch jene entzückenden Gestade u<ex>nd</ex> Thäler führte, und sie ist auch ganz jenem <bibl sameAs="G003106">Buche</bibl> aufgedrückt, welches die <placeName key="G000664">Deutschen</placeName> mit Stumpfheit aufnahmen, <bibl sameAs="G002136">Amerika</bibl> aber und <bibl sameAs="G004435">England</bibl> mit grosser Freude sich zu eigen gemacht haben.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190228T110856+0100" comment="Gregorovius: Corsica. Stuttgart: Cotta 1854 wurde 1855 in englischer Übersetzung in England (Longman), Schottland (Constable) und Philadelphia (M’Millan) gedruckt."?> <?oxy_comment_end?>Dorthin dürfen Sie allein nicht reisen; Sie würden auch keinen Genuß in dieser Form haben.</p>
+<p>Ich dachte viel über Ihre Pläne und Sie selbst nach. Ich bin froh, dass Ihr Lebensschiff weder Mast noch Segel in zu frühen Stürmen verlor. Aber sehen Sie zu, ob es nicht zu viel Segel aufgehisst hat und den Schiffen gleicht, welche auf schrankenlosem Ozean der Idealität gegen ein Unendliches treiben, <hi rendition="#aq"><foreign xml:lang="fra">vers l’Infini</foreign></hi>!<?oxy_comment_start author="Angela Steinsiek" timestamp="20190228T110909+0100" comment="Frz.: zur Unendlichkeit."?> <?oxy_comment_end?>Sie haben viel Schmerz in der letzten Zeit erduldet, und dieser machte Sie krank. Der Reflex davon liegt auf Ihrem <?oxy_comment_start author="Angela Steinsiek" timestamp="20200414T164150+0200" comment="Siehe den Antwortbrief von Gregorovius an Marie Rückert vom 12.5.1869."?>früheren Briefe<?oxy_comment_end?> an mich, und er stimmte mich traurig. </p>
+<p>Der Cultus des <?oxy_comment_start author="Angela Steinsiek" timestamp="20200414T165353+0200" comment="Friedrich Rückert war bereits am 31. Januar 1866 verstorben. Seit dem Tod der Mutter hatte das Marie Rückert sich um den Haushalt ihres Vaters gekümmert. Am 8. November 1868 war auch Marie Rückerts Bruder Friedrich (Fritz) in Karlsfelde bei Halle als Premierlieutenant a. D. im Alter von 31 Jahren verstorben."?>Schmerzes um Ihren Vater<?oxy_comment_end?>, welchem Sie sich hingeben, erschien mir selbstzerstörend, während er doch in ruhiger Form für Sie eine priesterliche und religiöse Macht sein sollte, Ihr eignes inneres Leben zu heiligen und fester in sich zu gründen.</p>
+<p>Sehen Sie nur die prächtigen Bäume <?oxy_comment_start author="Angela Steinsiek" timestamp="20200414T165434+0200" comment="Marie Rückert wohnte in Coburg-Neuses, auf dem Gut Nattermannshof der Schwiegereltern von Friedrich Rückert, auf dem er seit 1848 gelebt hatte. "?>in Ihres Vaters Garten<?oxy_comment_end?>; mit ihren stillen Wurzeln ankern sie in der Scholle. Aber mit den grünen Wipfeln greifen sie hoch und frei in den sonnigen Aether hinauf. So sollte auch der Mensch sein, wie sie. Aber es ist so schwer, unser schwankendes Leben auf tiefen Grund zu stellen; so schwer, so schwer, das Beste zu erlangen, was die Himmlischen gewähren können, ruhig dauernde, feste Verhältnisse im Heimischen. </p>
+<p>Ihr letzter Brief ist gut. Es athmet darin wieder Jugend u<ex>nd</ex> Lebenskraft. Dies hat mich sehr beruhigt. Ich würde Sie beklagen, wenn Sie Rom unter jenen häuslichen Verhältnissen sehen sollten, die Sie andeuten. Sie würden einen finsteren Schatten auf Ihre Wege werfen. </p>
+<p>Die Sonne des Südens wärmt und erheitert die Seele nicht, wenn diese selbst nicht heiteres Licht auszustrahlen vermag. Halten Sie sich doch, Fräulein Marie, in den Regionen jener Klarheit, wo die <?oxy_comment_start author="Angela Steinsiek" timestamp="20200414T165731+0200" comment="Nach seinem Tode kümmerte sich Marie Rückert um das Bild ihres Vaters in der Öffentlichkeit; ihr Bruder, der Germanist Heinrich Rückert (1823–1875), veranstaltete mehrere Nachlassausgaben der zu einem großen Teil unveröffentlichten Gedichte seines Vaters. Marie Rückert gab 1888 das „Poetische Tagebuch 1850–1866“ von Friedrich Rückert heraus (Frankfurt am Main: Sauerländer). "?>Muse Ihres Vaters<?oxy_comment_end?> wohnt, und werfen Sie von sich all’ die trübe Verwirrung ruhelosen Zweifels an sich und der Welt, die ja so schön ist, wie am jüngsten Tag. Geniessen Sie froh und frisch die Sommertage, und <hi rendition="#u">leben</hi> Sie! – Wenn Sie mich wieder durch ein paar Zeilen erfreuen wollen, so schicken Sie dieselben gegen Ende Juli an die Redakt<ex>ion</ex> d<ex>er</ex> <orgName key="G000462">Allg<ex>emeinen</ex> Zeit<ex>ung</ex></orgName> in <placeName key="G000620">Augsburg</placeName>, welche wissen wird, wo ich bin, weil die dortige <orgName key="G000523">Cotta’sche Druckerei</orgName> diesen Sommer mit mir zu thun hat.</p>
+<p>Es gehe Ihnen wohl, und immer wohler in dem besten Vaterlande!</p>
+<closer>
+<salute>Aufrichtig ergeben</salute>
+<signed rendition="#right">Ihr F. Gregorovius.</signed>
+</closer>
+</div>
+</body>
+</text>
+</TEI>

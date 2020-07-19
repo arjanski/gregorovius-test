@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000142">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Raffaele Mariano in Florenz. München, 28. September
+                    1874 </title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+              <respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ¾ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno> <idno type="shelfmark"/> </idno>
+                            </msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno> <idno type="shelfmark"/> </idno>
+                            </msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Marianos italienische Übersetzung seiner „Lucrezia Borgia“ (1874) ist im Druck. Le Monnier kann damit die von Cotta geliehenen Faksimiles und das Gipsmedaillon mit dem Lucrezia-Porträt zurückgeben. Freiexemplare sollen an ihn selbst, Stefano Davari, Giovanni Zucchetti, Napoleone Cittadella und Bernardo Gatti gehen. Ein weiteres Exemplar wird Cesare Guasti als Dank für Transkriptionen der Briefe Lorenzo Puccis erhalten. Der Herausgeber der „Nuova Antologia“, Francesco Protonari macht gegen Marianos Replik („La Lucrezia Borgia del Gregorovius nella Nuova Antologia“, 1874) auf Emilia Ferretti Violas Rezension („La Verità Storica Intorno a Lucrezia Borgia“, 1874) öffentlich Stimmung. Gregorovius möchte nicht, dass das bislang gute Verhältnis zur Autorin darunter leidet, hat aber vergessen, ihr zu schreiben. Brockhaus wird Mariano über die Buchhandlung Loescher Neuauflagen der ersten beiden Bände der „Wanderjahre in Italien“ zusenden („Figuren“, 4. Aufl., 1874 und „Lateinische Sommer“, 3. Aufl., 1874). Die vierte Auflage des dritten Bandes seiner „Siciliana“ (1875) ist im Druck. Er wird mit seinem Bruder Julius nach Stuttgart und Heidelberg reisen und um den 6. Oktober 1875 zurück in München sein. Gestern war er bei der Hochzeit von Luise Maria Anna von Stillfried-Rattonitz und Henry Wilson Tweed.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000734">München</placeName>
+                    <date when="1874-09-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+                    <placeName key="G000671">Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c"> <foreign xml:lang="deu">München</foreign>, 28. <foreign xml:lang="deu">Sept<ex>em</ex>b<ex>e</ex>r </foreign>1874 <lb/><placeName key="ediarum_uqx_zzn_zlb">Maximilianstr.</placeName> n. 6</dateline>
+<salute rendition="#c">Caro amico Mariano,</salute>
+</opener>
+<p>sento con <add place="superlinear">ogni</add> soddisfazione mia <bibl corresp="G004388">la stampa della versione</bibl> stà <seg type="comment"><orig>per esser ultimata</orig><note xml:id="ni3z_cyn_zlb">Raffaele Marianos Übersetzung der „Lucrezia Borgia“ (1874) erschien noch im gleichen Jahr.</note></seg>, della quale sono persuaso che sarà accolta bene dagli Italiani, e ciò pel merito ancora del suo stile.</p>
+<p>Si ricorderà degli autografi ossia facsimili, che prestai all’editore, come della medaglia in gesso, <seg type="comment"><orig>i quali oggetti alquanto preziosi per me prego di ritirare dal <orgName key="G000528">Le Monnier</orgName></orig><note xml:id="nf3b_2yn_zlb">Für das Titelblatt seiner deutschsprachigen „Lucrezia Borgia“ (1874) hatte sich Gregorovius von dem Berliner Numismatiker Julius Friedländer (1813–1884) die Gips-Reproduktion nach einer Münze aus dem Berliner Münzkabinett besorgt, die ein als authentisch geltendes Lucrezia-Porträt zeigt (siehe die Briefe von Gregorovius an Cotta, 3.10.1873). Am 7.2.1874 und erneut am 11.4.1874 hatte Gregorovius bei Cotta um unentgeltliche Überlassung der Abbildungsrechte für die Gips-Reproduktion der Medaille und der Faksimiles aus dem Archiv Este im Archivio di Stato di Modena und dem Archivio Gonzaga in Mantua für den Dokumenten-Anhang der italienischen „Lucrezia Borgia“ (1874) angefragt (DLA Marbach, Cotta-Archiv, Cotta-Briefe, 182 und 187 – 11.4.1874 gekürzt gedruckt in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 351).</note></seg>.</p>
+<p>Sapendo bene, che il numero delle copie a noi cedute dall’editore è ristrettissimo, mene contenterò volentieri di tre. Delle quali abbia la bontà di spedire sotto fascia a <hi rendition="#u" hand="">me</hi> una; la seconda spedisca in egual modo al <seg type="comment"><orig>Signor <hi rendition="#u"><persName key="G001069">Stefano Davari</persName> </hi> Cancelliere dell’<orgName key="G000487">Archivio Gonzaga</orgName> in <placeName key="G000724">Mantova</placeName></orig><note xml:id="np12_gyn_zlb">Der Historiker Gian Antonio Stefano Davari (1836–1909) war seit 1869 Sekretär im Archivio Gonzaga di Mantova, seit 1868 Teil des Archivio di Stato di Mantova, und dort bis zu seinem Lebensende tätig. Er publizierte zur Geschichte Mantuas. Gregorovius hatte ihn bei einem Besuch im Archiv im Jahre 1871 kennengelernt (siehe RT, S. 314). </note></seg>; la terza finalmente dirigga allo stesso Archivio Gonzaga per uso del Sig<ex>nor</ex> Cavaliere <pb n="1v"/><seg type="comment"><orig><persName key="G001725"><hi rendition="#u"><?oxy_comment_start author="frederike" timestamp="20191124T191226+0100" comment="Giovanni Zucchetti war Paläograph und arbeitete als Archivar sowie Direktor im Archivio Gonzaga. Zucchetti hatte ebenfalls ein Buch zu Lucrezia Borgia veröffentlicht: Lucrezia Borgia duchessa di Ferrara. Mantua: tip. Franc. Virg. Benvenuti 1860."?>Giovanni Zucchetti<?oxy_comment_end?></hi></persName>, Ex direttore di quell’Archivio</orig><note xml:id="nhgj_3yn_zlb"><?UNIQUE_CARET_MARKER_FOR_AUTHOR?></note></seg>. Questi non abita più <supplied cert="high">a</supplied> Mantova, ma gli impiegati colà sapranno dove dirigergli il libro.</p>
+<p>In caso ottenesse dall’editore un’ accrescimento del numero di copie ad uso mio, almeno di due altre ancora, (cosa che potrà provare almeno facendogli questa proposizione dalla parte mia), sarei <hi rendition="#u" hand="">lieto</hi> di poter mostrarmi grato anche al <seg type="comment"><orig><persName key="G001035">L<ex>uigi</ex> N<ex>apoleone</ex> Cittadella </persName>Direttore della <orgName key="G067845">Biblioteca di <placeName key="G000670">Ferrara</placeName></orgName></orig><note xml:id="nvpg_kyn_zlb">Luigi Napoleone Cittadella (1806–1877) war seit 1862 kommunaler Bibliothekar und Archivar in Ferrara.</note></seg>; manderei ancora una copia al <seg type="comment"><orig><persName key="G001161">Bernardo Gatti</persName></orig><note xml:id="nuwp_lyn_zlb">Bernardo Gatti hatte eine Edition von Briefen zu Lucrezia Borgias veröffentlicht: „Lettere di Lucrezia Borgia a Messer Pietro Bembo dagli autografi conservati in un codice della Biblioteca Ambrosiana“ Milano: Ambrosiana 1859.</note></seg> dell’<orgName key="G067528">Ambrosiana</orgName> di <placeName key="G000721">Milano</placeName>. Ma avanti tutto mi preme, che una copia sia donata al <seg type="comment"><orig>sig<ex>nor</ex> <hi rendition="#u"><persName key="G001218">Cesare Guasti</persName></hi>, vicedirettore dell’ <orgName key="G000563">Archivio di Stato</orgName> in <placeName key="G000671">Firenze</placeName></orig><note xml:id="nerk_4yn_zlb">Der Schriftsteller und Archivar Cesare Guasti (1822–1889) arbeitete ab 1844 beim Archivio storcio italiano, ab 1854 als festes Redaktionsmitglied. 1852 wurde er zum Assistenten des neu gegründeten Staatsarchivs Florenz berufen, 1874 zu dessen Direktor. Ab 1853 war er Mitglied in der Accademia della Crusca. Gregorovius lernte ihn im September 1858 in dem Florentiner Archiv kennen (siehe RT, 13.9.1858, S. 74). In einem Brief an Guasti vom 26.4.1873 bat Gregorovius um die Abschriften einiger Dokumente für seine „Lucrezia Borgia“ (1874), für die er sich in deren Einleitung auch nachdrücklich bedankt (Bd. 1.1874, S. XV).</note></seg>, il quale con insigne liberalità fece trascrivere per uso mio quelle curiosissime lettere del <seg type="comment"><orig><persName key="G001516">Lorenzo Pucci</persName></orig><note xml:id="nyc4_pyn_zlb">Lorenzo Pucci (1458–1531) aus der alten Florentiner Familie Pucci war Bischof und Kardinal. Er unterrichtet zunächst in Pisa, wurde 1509 dort zum Koadjutor des Bischofs von Pisa berufen. 1513 wurde er zum Kardinal ernannt.</note></seg>. Perciò <pb n="2r"/>lei mi renderebbe un vero servizio d’amicizia, se volesse recarsi in persona dal Guasti, onde offrirgli una copia del libro in nome mio proprio, come anche in nome suo quale traduttore del medesimo.</p>
+<p>La voce che il <persName key="G001510">Protonotari</persName> ha fatto correre per Firenze circa <seg type="comment"><orig><bibl sameAs="G002112">l’articolo sulla Lucrezia</bibl></orig><note xml:id="nsmt_qyn_zlb">Marianos Beitrag „La Lucrezia Borgia del Gregorovius nella Nuova Antologia“ in „Il Diritto. Giornale della Democrazia Italiana“ (Jg. 21. Nr. 193. Rom 12. Juli 1874. S. 3), den er als Replik auf Emilia Ferretti Violas Rezension der „Lucrezia Borgia“ (1874) verfasste, und der unter dem Titel „La Verità Storica Intorno a Lucrezia Borgia“ in der „Nuova Antologia di Scienze, Lettere ed Arti“ (Bd. 26, 1874. S. 573–608) erschien.</note></seg> dimostra duramente di che razza sia quell’uomo. L’affare incomincia ad inquietarmi, massimamente non sapendo io ancora <seg type="comment"><orig>come comportarmi coll’<persName key="G001129">Emma</persName></orig><note xml:id="nakw_ryn_zlb">In seinem Brief vom 20.9.1874 an Mariano fasst Gregorovius den Plan, Emilia Viola Ferretti, d.h. Emma, zu schreiben, um sich eines guten Verhältnisses zu versichern.</note></seg>, onde calmarla, e tirargli questo pungolo d’offesa dall’anima. Per altro avevo dimenticato di scriverle, che appunto la <del rendition="#s"> <gap reason="illegible" quantity="1" unit="words"/> </del> vigilia della mia partenza di <placeName key="G000763">Roma</placeName> il Protonotari era venuto da me, aveva intavolato anche un discorsetto sopra quell’articolo e perciò inteso da me stesso, ch’io come autore del libro approvava i biasimi indiretti contro la Emma nel <orgName key="G000518">Diritto</orgName>.</p>
+<p>Il <orgName key="ed_ijy_33w_sfb">Brockhaus</orgName> spedirà per via di <seg type="comment"><orig><persName key="G001381">Löscher</persName></orig><note xml:id="nyk4_tyn_zlb">Die 1861 von dem Leipziger Hermann Loescher (1831–1892) in Turin übernommene Buchhandlung hatte seit 1870 eine Niederlassung in Rom.</note></seg> all’indirizzo suo <pb n="2v"/><seg type="comment"><orig>due volumi dei Wanderjahre, <bibl sameAs="G003138">Figuren</bibl> e <bibl sameAs="G003199">latein<ex>ischer</ex> Sommer</bibl></orig><note xml:id="nwp1_vyn_zlb">1874 erschienen die 4. Auflage des 1. Bandes und die 3. Auflage des 2. Bandes seiner „Wanderjahre in Italien“, „Figuren. Geschichte, Leben und Scenerie aus Italien“ und „Lateinische Sommer“.</note></seg>; il terzo, che sarebbe la <bibl sameAs="G003273">Siciliana</bibl> si ristampa attualmente in <bibl corresp="G003138 G003199 G003273">quarta edizione</bibl>.<bibl corresp="G003138 G003199"> </bibl></p>
+<p>Il mio <persName key="G001203">fratello</persName> le manda mille saluti. <seg type="comment"><orig>Partiremo fra giorni a <placeName key="G000879">Stuttgart</placeName> e a <placeName key="G000685">Heidelberg</placeName></orig><note xml:id="nu25_3zn_zlb">Mit seinem Bruder Julius Gregorovius brach er am 2. Oktober zunächst nach Stuttgart zum Cotta-Verlag auf, um ein geplantes ein „monumentales Album Hohenstaufischer Erinnerungen“ aus deutschen und italienischen Monumenten und Schauplätzen zu besprechen (siehe den Brief von Gregorovius an Cotta, 24.9.1874) und war dann in Heidelberg (siehe den Brief von Gregorovius an Manfred Lindemann-Frommel, 24.9.1874), wo sie mit dem in Wiesbaden im Ruhestand lebenden engen Königsberger Freund, dem ehemaligen Kaufmann Louis Harder (1821–nach 1891) zusammentrafen.</note></seg>, ma saremo di ritorno a <placeName key="G000734">Monaco</placeName> verso i 6 del mese venturo.</p>
+<p><seg type="comment"><orig>Ieri assistemmo al matrimonio della contessa <persName key="G067860">Stillfried</persName> (la maggiore), che sposò un <persName key="G067861">Reverend Inglese</persName></orig><note xml:id="nlks_ygs_mlb">Vielmehr fand die Trauung des britischen Reverend Henry Wilson Tweed (1824–1892) mit Louise Freiin von Stillfried und Rattonitz (1837–1913), der Tochter des preußischen Generalmajors Ludwig Graf von Stillfried und Rattonitz (1790–1865) und seiner Witwe Louise, geb. Freiin von Thermo (1806–1892), am 26. September 1874 in der sogenannten englischen Kapelle, das heißt im Vestibül des 1828 von Leo von Klenze (1784–1864) errichteten, 1944 zerstörten, Münchner Odeons statt, das 1842–1853 und 1862–1897 als anglikanische Kirche genutzt wurde (siehe auch Ludwig Hauff: Wegweiser durch die königl. bayer. Haupt- und Residenzstadt München. München: Rieger 1862. S. 292). Reverend Tweed war Witwer von Frances Mary Twining (1832–1867), mit der er den Sohn Henry (1856–1930) hatte. Siehe auch den Brief von Gregorovius an Manfred Lindemann-Frommel, 24.9.1874 (Universität Würzburg, Martin-von-Wagner-Museum, NL Lindemann-Frommel, L 36–64, VI).</note></seg>.</p>
+<p>Stia bene, caro amico Mariano, e mi scriva ben presto.</p>
+<closer>
+<salute rendition="#c">Tutto suo</salute>
+<signed rendition="#right">FGregorovius.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

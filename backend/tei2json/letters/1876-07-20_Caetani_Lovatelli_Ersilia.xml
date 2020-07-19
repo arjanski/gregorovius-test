@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067870">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Contessa Ersilia Caetani Lovatelli in Quisisana. München, 20. Juli 1876</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution> GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno>Karton 59, Mappe 348 (nach D)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"><bibl type="print">Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli. Hrsg. von Sigmund Münz. Berlin: Paetel 1896. S. 84–85 (gekürzt) </bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er will bald wieder nach Italien. In seiner Münchener Wohnung hat er viele italienische Erinnerungsstücke wie einen Gipsabguss der Juno Ludovisi und sein römisches Ehrenbürgerdiplom mit dem von Manfred Lindemann-Frommel gemalten Stadtwappen Roms aufgehängt. Seine hauseigene Bibliothek hat sich durch die Bibliothek des Vormunds seines Neffen Hermann erweitert. Er vermutet sie am Golf von Neapel und erinnert an die historischen Schauplätze dort sowie in den Abruzzen.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1876-07-20" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001011">Caetani Lovatelli, Ersilia contessa (1840-1925)</persName>
+<placeName key="G067848">Quisisana</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="84"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">München, 20. Juli 1876.</dateline>
+</opener>
+<p>Hier bin ich nun von neuem in diesem nördlichen Lande, <seg type="comment"><orig>fern von dem Paradies <placeName key="G000690">Italien</placeName></orig><note xml:id="nprs_h3w_zlb">Nach einem dreieinhalbmonatigen Aufenthalt in Italien war er am 27. Juni nach München zurückgekehrt. Seine nächste Reise dorthin sollte er am 1. Februar 1877 antreten (siehe RT, Sommer, Herbst und Winter 1876/77, S. 373). </note></seg> und darum begierig, sehr bald wieder dorthin zurückzukehren.<gap reason="lost" unit="chars" quantity="1"/>Wenn Sie <seg type="comment"><orig>meinen Salon</orig><note xml:id="njlm_j3w_zlb">In München lebte Gregorovius mit seinem Bruder Julius (1819–1891) und seiner Schwester Ottilie Elgnowski (1834–1907) sowie deren Sohn Hermann (1860–1936) zusammen. Jedem der Geschwister stand zwei Zimmer zur Verfügung und Gregorovius richtete zum ersten Mal einen Haushalt ein. Entgegen seiner regelmäßigen Beschwerden, ein gesellschaftliches Leben in München gäbe es nicht (siehe bspw. RT, Sommer, Herbst und Winter 1876/77, S. 373), ist davon auszugehen, dass er an Gesellschaften teilnahm sowie Gäste bei sich zuhause in Empfang nahm.</note></seg> sähen, würden Sie Genugtuung empfinden, denn wie einfach er auch ist, so weht doch durch ihn ein Hauch der Künste Italiens. Vor allem würden Sie mich loben, weil auf der Wand der Kopf der <persName key="ed_u11_s34_qlb"><seg type="comment"><orig>Juno Ludovisi</orig><note xml:id="nq13_k3w_zlb">Von dem das griechische Schönheits- und Geistesideal darstellenden, kolossalen Marmorkopf aus dem 1. Jahrhundert vor Christus (Rom, Museo Nazionale RomanoRom) besaß Gregorovius besaß wohl einen im Maßstab verkleinerten Gipsabguss. Vermutlich zeigte Karl Lindemann-Frommel (1819–1891) diesen in seinem Aquarell von Gregorovius’ Arbeitszimmer in der Via Gregoriana 13 auf der Kaminbrüstung stehend; BSB München, NL Gregorovius, Gregoroviusiana 30, urn:nbn:de:bvb:12-bsb00002519-8). Gregorovius erwähnt die Statute bereits in einem früheren Brief an die römische Freundin; siehe den Brief von Gregorovius an Ersilia Caetani-Lovatelli vom 19.7.1875. </note></seg></persName> prangt, und zwar, damit ihre Schönheit mehr hervortrete, auf einem Stück rothen Damastes, das ich bei unseren Freunden im <seg type="comment"><orig>Ghetto</orig><note xml:id="nxy2_l3w_zlb">Das 1555 von Papst Paul IV. (1476–1559) ausgerufene römische Ghetto gehört zu den ältesten Ghettos der Welt und befand sich im Stadtteil Sant’Angelo in der Nähe des Marcellustheaters.</note></seg> gekauft habe. Sie würden dann <seg type="comment"><orig>mein römisches Diplom</orig><note xml:id="nyrc_m3w_zlb">Am 8. März 1876 hatte der römische Gemeinderat die Verleihung der Ehrenbürgerwürde an Gregorovius beschlossen. Das von Francesco Bedoni graphisch gestaltete und vom Stadtrat unterzeichnete Diplom, auf das er hier anspielt, ging ihm am 9. Mai zu; siehe den Brief von Gregorovius an Pietro Venturi vom 17.3.1876.</note></seg> sehen und das römische Stadtwappen, das der <seg type="comment"><orig><persName key="G001376">Sohn Lindemann’s</persName></orig><note xml:id="nghj_n3w_zlb">Manfred Lindemann-Frommel (1852–1939) hatte zunächst Architektur in Karlsruhe und von 1875–1883 an der Technischen Universität München studiert. Von dort ging er an die Staatliche Akademie der Bildenden Künste Karlsruhe und ließ sich unter Hermann Baisch (1846–1894) sowie Gustav Schönleber (1851–1917) zum Maler ausbilden.</note></seg> sehr gut ausgeführt hat. Sie würden auch mit <seg type="comment"><orig>meiner kleinen Bibliothek</orig><note xml:id="njc4_43w_zlb">„Meine sonstigen literarischen Studien wurden durch die Handbibliothek unterstützt, welche der Neffe Hermann von seinem Vormund, dem Gerichtsrat Beyer, ererbt hat. Sie zählt mehr als 1500 Bände. Wir haben sie in unserem Hause aufgestellt. Ich selbst besitze etwa 1000 Bände.“; RT, Sommer, Herbst und Winter 1876/77, S. 373.</note></seg> zufrieden sein, die sich fast ganz aus Büchern in römischem Einbande zusammensetzt. Und so lebe ich hier inmitten der römischen Illusionen und Erinnerungen.<gap reason="lost" unit="chars" quantity="1"/></p>
+<p>Ich denke mir, daß Sie sich bereits seit einiger Zeit in jene <seg type="comment"><orig>Sukkursale</orig><note xml:id="nt43_p3w_zlb">Veraltet für: Niederlassung.</note></seg> des Paradieses begeben haben, die <seg type="comment"><orig><placeName key="G067848">Quisisana</placeName></orig><note xml:id="nv2f_q3w_zlb">Quisisana ist ein Teil der Gemeinde Castellamare di Stabia, die im südlichen Einzugsgebiet der Metropole Neapel liegt. Bekannt ist der Ort für seinen von den Hohenstaufern erbauten Palast, die Reggia di Quisisana. Auch die Anjous residierten nach ihrer Übernahme des Königreichs Neapel im Jahre 1266 immer wieder in Quisisana. </note></seg> oder <placeName key="ed_oxs_lk4_qlb"><seg type="comment"><orig>Scanzano</orig><note xml:id="nddd_r3w_zlb">Der Ortsteil Scanzano gehört zur Gemeinde Castellamare di Stabia.</note></seg></placeName> heißt. Unterhalb des <placeName key="ediarum_o4q_xk4_qlb"><seg type="comment"><orig>Schlosses von Lettere</orig><note xml:id="niw1_s3w_zlb">Das vom 10. Jahrhundert bis zur Zeit der Aragonesen genutzte Schloss von Lettere, eine der Metropolitanstadt Neapel zugehörige Gemeinde. </note></seg></placeName> befindet sich die Ebene, <seg type="comment"><orig>wo die letzten Gothen von <persName key="G004730">Narses</persName> vernichtet wurden</orig><note xml:id="nic3_t3w_zlb">Der aus Persarmenien stammende General Narses (um 490–574) wurde 551 zum Befehlshaber der Truppen Kaiser Justinians (um 482–565) in Italien ernannt. In dieser Funktion schlug er im Oktober 552 die Ostgoten an der am Golf von Neapel gelegenen Berggruppe Monte Lattari.</note></seg>. Es gibt kein Schlachtfeld, das so schön, und keinen Ort, der so gut gewählt wäre, um sich totschlagen zu <pb n="85"/>lassen, es sei denn jener andere Ort, <seg type="comment"><orig>wo <persName key="ed_htj_4l4_qlb">Konradin</persName> <persName key="ed_tpk_xl4_qlb">Karl von Anjou</persName> unterliegen mußte</orig><note xml:id="nhcj_53w_zlb">Der letzte Stauferkönig Konradin (1252–1268) unterlag beim Versuch, das Königreich Sizilien zurückzuerobern, dem aus dem Hause Anjou stammenden Karl von Anjou (1227–1285), König des Königreichs Neapel, am 23. August 1268 in der Schlacht von Tagliacozzo. Siehe dazu Gregorovius’ Aufsatz „Eine Woche in den Abruzzen“. In: Beilage zu Nr. 244 der AZ. Augsburg: Cotta 1.9.1871. S. 4305–4306; Beilage zu Nr. 245 der AZ. Augsburg: Cotta 2.9.1871. S. 4326–4328; Beilage zu Nr. 246 der AZ. Augsburg: Cotta 3.9.1871. S. 4342–4344; In: AZ. Nr. 247. Augsburg: Cotta 4.9.1871. S. 4350–4352. Später aufgenommen in: Wanderjahre in Italien. Bd. IV. Von Ravenna bis Mentana. Leipzig: Brockhaus 1871.</note></seg>. Sobald nur die Eisenbahn nach diesen Gegenden geht, werden wir uns zusammen nach<seg type="comment"><orig><placeName key="G000880"> Tagliacozzo</placeName></orig><note xml:id="ncdg_v3w_zlb">Gemeinde in der Provinz L’Aquila in den Abruzzen.</note></seg> und <placeName key="ed_zzn_nm4_qlb"><seg type="comment"><orig>Scurgola</orig><note xml:id="nogc_w3w_zlb">Dorf in der Nähe von Tagliacozzo. </note></seg></placeName> aufmachen.<gap reason="lost" unit="chars" quantity="1"/></p>
+</div>
+        </body>
+    </text>
+</TEI>

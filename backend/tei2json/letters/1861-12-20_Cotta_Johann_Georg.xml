@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000137">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Johann Georg Freiherr Cotta von Cottendorf in Stuttgart. Rom, 20. Dezember 1861</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (40)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ½ S. – 2v Verlags-Aufstellung der 1860 und 1861 verkauften Exemplare von Bd. 1–3 der „Geschichte der Stadt Rom im Mittelalter“ (1859–1860) und „Corsica“ (1854)</p>
+<p>Empfangsbestätigung des Honorars für seinen Artikel „Avignon“ und Brief von Gregorovius an die J. G. Cotta’sche Buchhhandlung, datiert „Juli 1861“ (1 Bl., 8°, 1 ½ S. – DLA Marbach, Cotta-Archiv, Cotta-Briefe, 39) </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno>Karton 57, Mappe 340–342 (nach D) und Karton 55, Mappe 336–337 (Ergänzungen nach H)</idno><idno> </idno></idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der
+                            Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S.
+                            243–244</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Karl Lindemann-Frommel hat sein im Juli nach Deutschland mitgegebenes Schreiben an Cotta versehentlich wieder nach Rom mitgebracht; er legt es dem vorliegenden Brief bei. Das Manuskript des vierten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1862) ist fast abgeschlossen. Mit der ersten sicheren Gelegenheit übersendet er die erste Hälfte. Während deren Drucklegung will er das Manuskript der zweiten Hälfte abschließen, damit der Band im Herbst 1862 ausgegeben werden kann. Auf beiliegenden Blatt bestätigt den Erhalt des Honorars für seinen Artikel „Avignon“ und bittet um Abzüge seiner Beiträge aus der „Allgemeinen Zeitung“ – „Avignon“ (1861), „Von den Ufern des Liris“ (1860) und „Aus den Bergen der lateinischen Campagna“ (1858) – sowie um den seines im „Ausland“ gedruckten Artikels „Aus den Bergen der Volsker“ (1860). Er erkundigt sich nach den Absatz-Zahlen der ersten drei Bände seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1860) und seines „Corsica“ (1854).</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">Karl Lindemann-Frommel accidentally brought his letter to Cotta back to Rome, which he had sent to Germany in July; he has enclosed it with the present letter. The manuscript of the fourth volume of his „Geschichte der Stadt Rom im Mittelalter“ (1862) is almost complete. With the first secure chance he will send the first half. During its printing he wants to complete the manuscript of the second half so that the volume can be published in the fall of 1862. On the enclosed note he confirms that he received the fee for his article „Avignon“ and asks for copies of his contributions from the „Allgemeine Zeitung“ - „Avignon“ (1861), „Von den Ufern des Liris“ (1860) and „Aus den Bergen der lateinischen Campagna“ (1858) - as well as that of his article „Aus den Bergen der Volsker“ (1860) printed in the „Ausland“. He inquires about the sales figures of the first three volumes of his „Geschichte der Stadt Rom im Mittelalter“ (1859-1860) and his „Corsica“ (1854). </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1861-12-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001055">Cotta von Cottendorf, Johann Georg
+                        (1796–1863)</persName>
+                    <placeName key="G000879">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom Via Gregoriana</hi> <hi rendition="#aq">n<ex>ummer</ex></hi> 13.<lb/>20. <hi rendition="#aq">D<ex>e</ex>c<ex>em</ex>b<ex>e</ex>r</hi> 1861.</dateline>
+                    <salute rendition="#c">Hochgeehrter Herr Baron,</salute>
+                </opener>
+                <p>ein zufälliges Versehn hat es so gefügt, <seg type="comment"><orig>daß <persName key="G001375">Herr <hi rendition="#aq">Lindemann Frommel</hi></persName> das Schreiben nicht abgab, welches ich ihm an Sie mitzugeben im Juli dieses Jahres mir erlaubt hatte</orig><note xml:id="ne2w_fpk_1mb">Karl Lindemann-Frommel (1819–1891) war mit seiner Familie am 17. Juli 1861 von Rom nach Deutschland gereist (bis Mitte Dezember) und hatte den Brief von Gregorovius an Cotta, vor dem 17.7.1861, mitgenommen.</note></seg>. Er teilte mir dies erst mit, als er vor einigen Tagen hieher zurückkehrte; dies Versäumniß war mir sehr unangenehm, aber es ist nun einmal geschehn.</p>
+                <p>Ich beeile mich nun, Ihnen anzuzeigen, daß der <seg type="comment"><orig><bibl sameAs="G003462">IV. Band der Geschichte der Stadt</bibl> fast bis zum Abschluß vorgerückt ist</orig><note xml:id="nenn_qpk_1mb">Der vierte Band seiner „Geschichte der Stadt Rom im Mittelalter“ erschien im Herbst 1862.</note></seg>. Die erste Hälfte, Buch VII, desselben liegt schon als völlig druckfertiges Manuscript bereit. Ich sende es sofort, sobald sich mir ein sicherer Weg dafür darbietet. Mittlerweile haben Sie, Herr Baron, vielleicht die Güte, die Vorbereitungen zum Druck anordnen zu laßen; es wäre schön, wenn er wenigstens Ende Januar beginnen könnte. Denn während die erste Hälfte des Bandes IV gedruckt würde, bereite ich die zweite zum Druck vor, u<ex>nd</ex> diese hoffe ich so abliefern zu können, <seg type="comment"><orig>daß der Band zu Michaeli 1862 fertig sein kann</orig><note xml:id="nm2m_rpk_1mb">Zum Namenstag des Erzengels Michael benannten Herbstmesse, dem Michaelistag am 29. September. Der Ankündigungstext zum Erscheinen des vierten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ wurde erstmals in der Verlagsanzeige in der Beilage zu Nr. 253 der AZ. Stuttgart: Cotta 10.9.1862. S. 4190 gedruckt.</note></seg>. Es war ein gut Stück Arbeit. Ich hoffe, daß Sie sich <pb n="1v"/>der Perioden erfreuen werden, die darin behandelt werden – <seg type="comment"><orig><persName key="G067646">Gregor VII.</persName> – Hohenstaufen</orig><note xml:id="nqbd_wpk_1mb">Im sogenannten Investiturstreit (1075–1122) hatten Papst Gregor VII. (zwischen 1025 und 1030–1085, 1073–1085 Papst) und seine Nachfolger die Vorrangstellung der geistlichen Gewalt vor der der weltlichen Machthaber gegen den Staufer Heinrich IV. (1050–1106) und seinen Sohn Heinrich V. (1081/86–1125) duchzusetzen versucht.</note></seg> – <persName key="G067622"><seg type="comment"><orig>Arnold von Brescia</orig><note xml:id="nm1q_xpk_1mb">Der Kanoniker und Prediger Arnold von Brescia (* um 1090–1155) trat gegen Innozenz II. (*um 1116–1143) und seinen Nachfolger Hadrian IV. (1100–1159), gegen die Verweltlichung der Kirche und für den Verzicht der Kirche auf jede politische Macht ein; er wurde dafür mehrfach exiliert und schließlich hingerichtet.</note></seg></persName> – der Band schließt mit 1200 ab.</p>
+                <p>Beikommend erlaube ich mir ein <seg type="comment"><orig>Blatt einzulegen, welches eine Gutschrift, u<ex>nd</ex> eine Bitte betreffs <bibl corresp="G003864 G003865 G003867 G003868 G003869 G003870 G003871 G003882 G003883 G003884 G003885 G003886 G003887 G003888 G003889 G003890 G003891 G003892 G003893 G003894 G003895 G003896 G003897 G003898 G003899 G003900 G003901 G003902 G003903">meiner Journal-Artikel</bibl> enthält</orig><note xml:id="nhyc_1qk_1mb">Das von Lindemann-Frommel wieder nach Rom mitgebrachte Schreiben von Gregorovius an Cotta vom Juli 1861 legte er dem vorliegenden Schreiben bei: Hierin hatte er gebeten, den Überbringer dieses Schreibens, Karl Lindemann-Frommel, Abdrucke seiner Beiträge aus der „Allgemeinen Zeitung“ – „Avignon“ (1861), „Von den Ufern des Liris“ (1860) und „Aus den Bergen der lateinischen Campagna“ (1858) – sowie seinen im „Ausland“ gedruckten Artilkel „Aus den Bergen der Volsker“ (1860) zu übergeben oder ihm nach Rom zukommen zu lassen (DLA Marbach, Cotta-Archiv, Cotta-Briefe, 39).</note></seg>. Nächstens erlaube ich mir, <seg type="comment"><orig><bibl corresp="G003905 G003906 G003907">etwas für das Ausland</bibl> einzusenden</orig><note xml:id="nzzf_cqk_1mb">Das Manuskript seines Artikels „Von Rom durch Tuscien und Umbrien nach Perugia und Florenz“ sandte Gregorovius mit seinem Brief an Cotta vom <ref target="G000141">14. Januar 1862</ref>. Er erschien in: Das Ausland. Eine Wochenschrift für Kunde des geistigen und sittlichen Lebens der Völker. Nr. 8–10. Cotta 19., 26.2. und 5.3.1862. S. 169–172, S. 203–206, S. 227–230.</note></seg>. </p>
+                <p>Gern hätte ich einen Begriff von <seg type="comment"><orig>dem Gange der <bibl corresp="G003434 G003469 G003476 G003485">Geschichte der Stadt Rom</bibl>, u<ex>nd</ex> auch des <bibl sameAs="G003106">„<hi rendition="#aq">Corsica</hi>“</bibl>; Sie würden mich verbinden, Herr Baron, wenn Sie einen Ihrer Secretäre veranlaßten, mir von dem Verkauf der Bücher Notiz zu geben</orig><note xml:id="nakj_2qk_1mb">Auf der Rückseite des Briefes hatte der Verlag für die ersten drei Bände seiner „Geschichte der Stadt Rom im Mittelalter“ zwischen 500 und 600 verkaufte Exemplare dokumentiert; von „Corsica“ (1854) waren bis Ende 1861 hingegen nur gut 800 Exemplare (von 1000) verkauft.</note></seg>, wie er sich bis jetzt herausstellt. Natürlich intereßiert mich das lebhaft. Im Sommer 1860 schienen die Aspecten ziemlich günstig.</p>
+                <p>Das Jahr neigt zum Ende. Möchte das kommende Ihnen u<ex>nd</ex> Ihrem geehrten Hause segensreich u<ex>nd</ex> freundlich sein. Ich war glücklich, von Herrn Lindemann zu hören, daß Sie sich wol befunden haben, <pb n="2r"/>und noch erfreulicher wäre es mir, könnten Sie mir die Gewißheit geben, daß Sie den Winter gut überstehen. Der hiesige, römische ist eher ein Frühling zu nennen; die mächtige Sonne lockt schon wieder das Laub hervor, u<ex>nd</ex> in 3 Wochen sind die Mandelbäume mit Blüten bedeckt.</p>
+                <closer>
+                    <salute>Ihrem Wolwollen mich angelegentlich empfehlend, zeichne ich mich,
+                        hochgeehrter Herr Baron, mit großer Hochachtung und Ergebenheit</salute>
+                    <signed rendition="#right">FGregorovius.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

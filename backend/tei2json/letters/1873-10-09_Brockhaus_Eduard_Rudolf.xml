@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000356">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Eduard und Rudolf Brockhaus in Leipzig. München, 9. Oktober 1873</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Sächsisches Staatsarchiv Leipzig</repository><collection>Bestand 21083</collection><idno>Archivalnummer 224 (139)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¼ S. – 2v arR, Blatt um 90° gedreht, Eingangs- und Verlagsvermerk: 1873. / <hi rendition="#aq">München</hi>, 9./11. <hi rendition="#aq">October</hi>. / <hi rendition="#aq">Gregorovius</hi>. / Für Aufsatz „Cap der Circe“ 50 rt extra.</p>
+<p>Manuskript seines Artikels „Das Cap der Circe“ für die vierte Auflage des ersten Bandes seiner „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1874)</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Ihre Briefe haben sich gekreuzt. Inzwischen sich die gewünschten Exemplare der dritten Auflage des ersten Bandes der „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1870) und der zweiten Auflage des zweiten Bandes der „Lateinischen Sommer“ (1870) seiner „Wanderjahre in Italien“ eingetroffen. Er will es bei den insgesamt vier Bänden seiner „Wanderjahre in Italien“ belassen, neue Aufsätze den Neuauflagen hinzufügen. Für die vierte Auflage des ersten Bandes seiner „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1874) übersendet das Manuskript seines Aufsatzes „Das Cap der Circe“; er soll nach den „Idyllen vom lateinischen Ufer“ kommen und „Capri“ den Band beschließen. Vor seiner Abreise nach Italien will er Revision für die dritten Auflage des zweiten Bandes „Lateinische Sommer“ (1874) fertigstellen. Er hat sich über den Besuch von Heinrich Brockhaus in Traunstein sehr gefreut.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+<correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1873-10-09" cert="high"/>
+</correspAction>
+<correspAction type="received">
+<persName key="G000995">Brockhaus, Eduard (1829–1914)</persName>
+<persName key="G000997">Brockhaus, Rudolf (1838–1898)</persName>
+<placeName key="G000712">Leipzig</placeName>
+</correspAction>
+</correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c">München, 9. <hi rendition="#aq">Oct<ex>o</ex>b<ex>e</ex>r</hi> 1873.</dateline>
+<salute rendition="#c">Geehrte Herren,</salute>
+</opener>
+<p>unsre Briefe haben sich gekreuzt, so daß ich heute Ihr gütiges Schreiben nebst <seg type="comment"><orig>dem Bande der <bibl sameAs="G003130">Figuren</bibl> empfing</orig><note xml:id="nlt5_rlt_tlb">Gregorovius hatte am 8.10.1873 beim Verlag den Versand von je einem Exemplar der dritten Auflage des ersten Bandes der „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1870) und der zweiten Auflage des zweiten Bandes der „Lateinischen Sommer“ (1870) seiner „Wanderjahre in Italien“ angemahnt, die er mit den Freiexemplaren der im Druck befindlichen vierten und dritten Auflage verrechnen lassen wollte (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 138).</note></seg>, wofür ich Ihnen meinen Dank sage.</p>
+<p>Ich habe Ihnen bereits früher <seg type="comment"><orig>meine Abneigung ausgesprochen, die Reihe der <bibl corresp="G003130 G003191 G003266 G003307">4 B<ex>än</ex>de Wanderjahre</bibl> noch weiter zu vermehren</orig><note xml:id="ntmf_ylt_tlb">So schon im Brief vom 22.1.1873 an Brockhaus. 1877 erschienen schließlich als fünfter Band der „Wanderjahre in Italien“ noch die „Apulischen Landschaften“ bei Brockhaus</note></seg>. Vier Bände begründen das Wort „Ende gut, alles gut:“ mehr würden mir selbst, u<ex>nd</ex> wie ich glaube auch dem Publicum zu schwer scheinen. Kurz u<ex>nd</ex> gut, ich habe es vorgezogen, <seg type="comment"><orig>Artikel welche mit wenigen andern vereinigt sehr gut einen interessanten 5<hi rendition="#sup"><hi rendition="#u" hand="">ten</hi></hi> Band bilden und mir eine entsprechende Einnahme sichern könnten, <pb n="1v"/>den früheren Bänden einzuverleiben</orig><note xml:id="nazf_bmt_tlb">In späteren Auflagen neu aufgenommen wurden die Aufsätze: „Fünf Tage vor Metz“, „Eine Pfingstwoche in den Abruzzen“, „Das Cap der Circe“ und „Zur Geschichte des Tiber-Stromes“.</note></seg>, u<ex>nd</ex> diese sind dadurch dem entsprechend reicher geworden. Da Sie nun selbst im Grunde wol meiner Ansicht sind, oder doch meinen <seg type="comment"><orig>Vorschlag annehmen, so übersende ich Ihnen mit derselben Post den Artikel „<bibl sameAs="G003142">Das Cap der Circe</bibl>“.</orig><note xml:id="ntbd_fmt_tlb">Seine Reiseschilderung „Das Cap der Circe“ (siehe RT, 28.6.1873, S. 331 – ED in: Beilage zu Nr. 168–169 der AZ. Augsburg: Cotta 17.–18.6.1873. S. 2569–2570 und S. 2586–2587) hatte Gregorovius bereits im Brief vom 20.7.1873 an Brockhaus zur Ergänzung des ersten Bandes angeboten und erneut am 2.10.1873 (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 133 und 137). </note></seg> Er wird den B<ex>an</ex>d I. der Wanderjahre um etwa 18 Seiten vermehren, u<ex>nd</ex> <seg type="comment"><orig>den Artikel <bibl sameAs="G003141">„Idyllen vom latein<ex>ischen</ex> Ufer“</bibl> ganz besonders vervollständigen</orig><note xml:id="nizd_kmt_tlb">So schon im Brief vom 2.10.1873 (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 137).</note></seg>. Ich würde Sie deshalb bitten, ihn auf diesen folgen zu laßen. <bibl sameAs="G003146">„Capri“</bibl> bildet dann, wie bisher, den richtigen Abschluß.</p>
+<p>Ich hoffe noch, den <seg type="comment"><orig>Rest des <bibl sameAs="G003199">B<ex>an</ex>d<ex>e</ex>s III </bibl></orig><note xml:id="ntz3_nmt_tlb">Irrtümlich für das Revisions-Manuskript der 3. Auflage des 2. Bandes „Lateinische Sommer“ (1874), das er mit seinem Brief vom 13.10.1873 an Brockhaus übersendet (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 140). Die 4. Auflage des 3. Bandes seiner „Wanderjahre in Italien“, „Siciliana. Wanderungen in Neapel und Sicilien“ erschien erst 1875.</note></seg> <seg type="comment"><orig>hier in der Correctur zu absolviren</orig><note xml:id="nv3y_pmt_tlb">D. h. vor seiner Rückreise nach Italien: Am 13.10.1873 reiste Gregorovius von München über Venedig, Ferrara, Bologna, Modena und Florenz zurück nach Rom, wo er am 29. Oktober eintraf (siehe RT, Sommer des Jahres 1873, S. 333–334).</note></seg>, so daß die Ausgabe desselben nichts anderes aufhalten wird. Und somit empfehle ich mich Ihnen, geehrte Herren, hier im <placeName key="G000664">Vaterlande</placeName>, Sie zugleich <pb n="2r"/>ersuchend mich der freundlichen Erinnerung von <seg type="comment"><orig>Herrn <persName key="G000996">Heinrich Brockhaus</persName> empfehlen zu wollen, deßen Besuch in <placeName key="G000888">Traunstein</placeName></orig><note xml:id="npxy_tmt_tlb">Nach dem Brief von Gregorovius an Brockhaus vom 14.8.1873 war der Besuch von Heinrich Brockhaus (1804–1874) in Traunstein noch ungewiss (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 134).</note></seg> mir eine wahrhafte Freude gewesen ist.</p>
+<closer>
+<salute rendition="#right">Ihr hochachtungsvoll ergebener</salute>
+<signed rendition="#right"><hi rendition="#aq">FGregorovius</hi></signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

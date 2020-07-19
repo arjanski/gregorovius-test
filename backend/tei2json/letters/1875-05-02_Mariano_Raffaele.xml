@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000169">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Raffaele Mariano in Rom. Neapel, 2. Mai 1875</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er wohnt im Hotel Ginevra. Er hat Augusto Vera besucht, von dem er sehr beeindruckt ist. Morgen fährt er nach Ischia, am 8. Mai 1875 zurück nach Neapel und dann nach Benevent, um von dort mit Mariano weiterzureisen. In Andria wollen sie Domenico Guglielmo besuchen. Grüße an Karl und Auguste Lindemann-Frommel.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000737">Neapel</placeName>
+                    <date when="1875-05-02" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Napoli, 2. Maggio di sera.</dateline>
+                    <salute rendition="#c">Caro amico Mariano,</salute>
+                </opener>
+<p>sto <seg type="comment"><orig>qui</orig><note xml:id="nyt2_cc5_zlb">Gregorovius war am 1. Mai 1875 von Rom nach Neapel gereist.</note></seg> nella succursale dell’ <orgName key="ed_elf_svg_zkb">Albergo di Ginevra</orgName> al quarto piano, perciò in una camera, che non lascia nulla a desiderare. Il tempo è magnifico; vi spira un’ aura di primissima primavera.</p>
+<p>Quest’oggi alle 4 p.m. visitai <seg type="comment"><orig>il professor <persName key="G001675">Vera</persName></orig><note xml:id="ncqy_dc5_zlb">Der Philosoph Augusto Vera (1813–1885) machte sich als Übersetzer und Interpret Hegels um dessen Verbreitung in Italien und Frankreich verdient. Mariano war ein Schüler Veras, weshalb ihn Gregorovius in einem Brief vom 21.7.1873 um ein Empfehlungsschreiben an den Philosophen bat. Gregorovius widmete Vera einen Aufsatz: „Der Hegelianer Augusto Vera in: Allgemeine Geschichte, Kultur-, Litteratur- und Kunstgeschichte. Bd. 4. Stuttgart: Cotta 1887. S. 561–576; ausgenommen in: Kleine Schriften zur Geschichte und Cultur. Bd. 3. S. 43–71).</note></seg>. Lo trovai nella sua villa, vuol dire, quel solitario mi accolse dopo aver letto il mio nome sul biglietto di visita. Avendomi formato un’ immagine dell’uomo, tutto copiata da quelle che ordinariamente raffigurano i filosofi, fui non poco sorpreso del suo apparire. Non <add place="intralinear">l’</add>avrei, per certo, preso per Vera, <seg type="comment"><orig>l’apostolo di <persName key="G001253">Hegel</persName></orig><note xml:id="nvmy_2c5_zlb">Gregorovius bezeichnete Augusto Vera in einem Brief an Otto Braun vom 10.8.1873 als „Haupt[s] der hegelschen Schule Neapels.“</note></seg>, ma invece per qualche persona colta ed intelligente sì, ma dedita ad altri studj ben diversi. È <pb n="1v"/>Italiano; però la natura nazionale pare in lui ritemprata, se non modificata ed alterata da un’altra nazionalità che gli è divenuta famigliare. Questa mia osservazione in appresso venne confermata da quel che mi raccontò, esser lui vissuto 15 anni in Inghilterra. Mi piacque immensamente. Il suo modo di essere e di discorrere è, per quanto mi sembra, sostenuto da un realismo personale, che i suoi scritti alla prima non rivelano. Perciò tornerò con miglior intendimento alla lettura delle <seg type="comment"><orig>sue opere</orig><note xml:id="nipt_fc5_zlb">Von Vera stammen beispielsweise die „Introduction à la philosophie de Hegel“ (1855) und „Le Hégélianisme et la philosophie“ (1861); Karl Rosenkranz wiederum schrieb über Veras Beschäftigung mit Hegel: „Hegel's Naturphilosophie und die Bearbeitung derselben durch den italienischen Philosophen Augusto Vera“ (1868; Nachdruck 1979).</note></seg>.</p>
+<p>Or del mio, e <seg type="comment"><orig>del nostro viaggio</orig><note xml:id="nbdt_gc5_zlb">Nach einigen Tagen Aufenthalt in Ischia, fuhr er am 8. Mai über Caserta nach Benevent, von wo aus er gemeinsam mit Mariano am 11. Mai die Fahrt nach Apulien antrat. Sie fuhren nach Trani, Andria, Castel del Monte, Ruvo, Brindisi und Lecce, trafen dort am 15. Mai ein. Am folgenden Tag reisten sie nach Tarent, blieben dort für zwei Tage. Am 19. Mai erfolgte die Rückreise über Massafra, Foggia, Benevent und Caserta nach Rom, wo sie am 21. ankamen (siehe RT, 23.5.1875, S. 351–355).</note></seg>. Domani rimbarcherò per <placeName key="G000600">Ischia</placeName>; colà penso di fermarmi per 4 giorni a far<seg type="comment"><orig> <foreign xml:lang="fra">des rêveries</foreign></orig><note xml:id="nkd5_hc5_zlb">Fr. für: Träumereien.</note></seg>, e null’altro. Gli otto del mese ripartirò a Napoli, e qualora la cosa si combinasse bene, andrò addirittura a <pb n="2r"/> <placeName key="G000632">Benevento</placeName>, dove passerò incirca 2 giorni.</p>
+<p>Lasciatemi dunque sperare, che mi raggiungerete colà; e fatemi trovare una vostra lettera, ferma in posta giù in Napoli, aggiungendo anche le lettere, che saranno giunte all’indirizzo mio in Roma. Non c’è da temere, che le lettere vadino perdute fra Roma e Napoli. Stò digiuno di nuove della <placeName key="G000664">Germania</placeName>. Ho scritto oggi al <seg type="comment"><orig><persName key="G001221">Guglielmi</persName></orig><note xml:id="nnmy_3c5_zlb">Domenico Guglielmi war der Neffe des Domherrn Guglielmi in Trani. Gregorovius besuchte ihn gemeinsam mit Raffaele Mariano und seinem Bruder Julius während süditalienischen Reise im Mai 1874 in Trani (siehe RT, S. 339–342). Er plante die Artikel der süditalienischen Reise zu übersetzen (siehe den Brief von Gregorovius an Raffaele Mariano, 17.11.1874).</note></seg>, avvertendolo della nostra gita, e scongiuramolo di accoglierci non da forestieri grassatori, ma da amici di casa, che non cercano altro che un’aria amichevole e un letto da dormire in <seg type="comment"><orig>una casa qualunque</orig><note xml:id="nuqv_jc5_zlb">Domenico Guglielmo wohnte zum Zeitpunkt offenbar in Andria (siehe den Brief von Gregorovius an Raffaele Mariano, 8. Mai 1875).</note></seg>.</p>
+<p>Tanti saluti ai cari <persName key="G001374">
+                        <persName key="G001375">Lindemann</persName>
+                    </persName>, cui scriverò da Ischia.</p>
+                <closer>
+                    <salute rendition="#c">Di tutto cuore il vostro</salute>
+                    <signed rendition="#right">FGregorovius <lb/> <note type="postscript">Scriva, prego, nel mio senso al Guglielmi, per insistere acchiochè egli eviti qualunque eccesso nell’accoglierci ad <placeName key="ed_ujj_sgh_zkb">Andria</placeName>.</note> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

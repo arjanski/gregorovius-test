@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000382">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an die J. G. Cotta’sche Buchhandlung in Stuttgart. Rom, 6. Februar 1874</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (181)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S. – 1r unter der Datumszeile Beantwortungsvermerk: 9 <hi rendition="#aq"><hi rendition="#u" hand=""><hi rendition="#u" hand="#addressee">März</hi></hi></hi> </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 57 Mappe 340–342 (nach D) und Karton 55 Mappe 336–337 (Ergänzungen nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 346–347 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Es freut ihn, dass Johannes Scherr eine Rezension seiner „Lucrezia Borgia“ schreiben will, doch wäre es möglicherweise ratsam, ihn um eine Besprechung in der Wiener „Neuen Freien Presse“ zu ersuchen und Friedrich Althaus um eine Rezension in der „Allgemeinen Zeitung“ zu bitten. Er wird in wenigen Tagen das Manuskript der Einleitung und Widmung seiner „Lucrezia Borgia“ für Michelangelo Caetani, Duca di Sermoneta, übersenden. Die Kongregation des Vatikan hat seine „Geschichte der Stadt Rom im Mittelalter“ auf den Index gesetzt – bei früherer Indizierung wäre sein Lebenswerk wohl nie vollendet worden. Die von dem Gutsherrn auf Nordenthal Adolf Hillmann auch in diesem Jahr übermachten 150 Taler bittet er an das Bankhaus von Joseph Nathan Oberndörffer in München zu übermachen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1874-02-06" cert="high"/>
+</correspAction>
+                <correspAction type="received"><orgName key="G000523">J. G. Cotta'sche Buchhandlung</orgName>
+<placeName key="G000879">Stuttgart</placeName>
+</correspAction>
+<correspContext>
+<ref type="next">14. Februar 1874 (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VIII, 271)</ref>
+<ref type="next">9. März 1874 (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VIII, 294–295)</ref>
+<ref type="next">11. März 1874 (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VIII, 296–297)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Rom, 6. <hi rendition="#aq">Febr<ex>uar</ex></hi> 1874.</dateline>
+                    <salute rendition="#c">Hochgeehrte Herren,</salute>
+                </opener>
+<p>es wird mir ohne Frage sehr lieb sein, wenn ein so ausgezeichneter <seg type="comment"><orig>Mann wie Herr <persName key="G001576">Joh<ex>annes</ex> Scherr</persName></orig><note xml:id="ny11_2b4_5lb">Der Kulturhistoriker und Schriftsteller Johannes Scherr (1817–1886), seit 1860 Ordinarius für Geschichte am Polytechnikum Zürich.</note></seg>, eine <bibl corresp="G002819 G002821 G002822">Anzeige</bibl> von <bibl sameAs="G003509">L<ex>ucrezia</ex> Borgia</bibl> machen will. Bitte ihm sagen zu laßen, daß es selbst ohnehin meine Absicht war, ihm ein Exemplar zukommen zu laßen, nur um ihm meine Dankbarkeit für <seg type="comment"><orig>manche wolwollende <bibl corresp="G002239">Beurteilung meiner Schriften</bibl></orig><note xml:id="njvd_lb4_5lb">Johannes Scherr hatte unter dem Titel „Auch ein Unfehlbarer“ eine vergleichende Rezension über die „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) von Gregorovius und die „Geschichte der Stadt Rom“ (4 Bde., Berlin 1866–1870) von Alfred von Reumont (1808–1887) geschrieben, die deutlich zugunsten von Gregorovius ausgefallen war (in: Neue Freie Presse. Wien: Österreichisches Journal 17.10.1871. S.1–3). Siehe auch RT, 30.3.1873, S. 330.</note></seg> auszudrücken. </p>
+<p>Es fragt sich nur, ob Herr J<ex>ohannes</ex> Scherr diese Besprechung für die <orgName key="G000462">Allg<ex>emeine</ex> Zeit<ex>un</ex>g</orgName>, oder für die <orgName key="G000536">Neue Freie Preße</orgName> übernehmen will. Im Vertrauen gesagt, ich fürchte ein wenig, <seg type="comment"><orig>daß er das Buch von Seite des Scandalösen auffaßt</orig><note xml:id="nnlt_pb4_5lb">Im Antwortschreiben vom 9.3.1874 informierte Cotta Gregorovius, dass sie „sofort an Herrn Professor Scherr im Sinne Ihres Geehrten geschrieben haben: er möge so freundlich sein, die Recension über ‚Lucrezia Borgia‘ für die ‚Neue Freie Presse‘ zu schreiben.“ (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VIII, 294–295) Die Rezension von Johannes Scherr erschien in drei Folgen in der „Neuen Freien Presse“ (Nr. 3506, 3508–3509. Wien: Österreichisches Journal 31.5.1874 und 2.–3.6.1874). Die Befürchtung von Gregorovius war unbegründet; Scherr schrieb vielmehr: „Denn in Folge dieser Arbeit haben wir jetzt die Lucrezia Borgia nicht mehr als Hugo’sches Ungeheuer und auch nicht als Lenau‘sche Courtisane, sondern als historische Figur. Eine sogenannte ‚Rettung’ also? Ja und nein. Ja, denn mit Beiseitestellung der nicht urkundlich zu erweisenden Bezichtigungen hat uns der Verfasser gezeigt, daß und warum die Tochter des Papstes so werden konnte, mußte, wie sie war, nicht besser, aber auch nicht eben schlechter als viele ihrer Zeit- und Standesgenossen. Nein, Gregorovius hat sich wohl gehütet, die Sünderin […] in eine Heilige umschönfärben zu wollen. […] Scandalsüchtige mögen das Buch ungelesen lassen: sie würden ihre Rechnung dabei nicht finden und sich nur enttäuscht fühlen. Es ist ein ernstes Werk und verlangt ernste Leser und denkende Leserinnen. Wie mir scheinen will, hat Gregorovius, um den strengen Gang seiner Untersuchung und Darstellung konsequent einzuhalten, absichtlich auf die künstlerische Behandlung der Diction verzichtet und seine außerordentliche Gabe der Schilderung fast durchwegs hintangehalten.“</note></seg> u<ex>nd</ex> zu einer tendenziösen Invective gegen die Kirche benutzt, obwol nichts dazu in meinem ruhigen u<ex>nd</ex> ganz geschichtlich gehaltenen Buch auffordern sollte. Dieses, hochgeehrte Herren, mögen Sie prüfen, u<ex>nd</ex> entscheiden, ob Herrn <pb n="1v"/>Scherr nicht direct die Bitte zu stellen sei, die Anzeige für die N<ex>eue</ex> F<ex>reie</ex> Preße zu übernehmen, <seg type="comment"><orig>diejenige aber für die Allg<ex>emeine</ex> Zeit<ex>un</ex>g <bibl corresp="G002813 G002814">Herrn Althaus</bibl> zu überlaßen</orig><note xml:id="nsws_vb4_5lb">Im Antwortschreiben vom 11.3.1874 ließ Cotta Gregorovius wissen, dass sie mit seinem „Wunsche übereinstimmen, daß die erste Besprechung der ‚Lucrezia Borgia‘ in der Allgemeinen Zeitung erscheine &amp; wir erlauben uns deshalb die Frage, ob es nicht zweckmäßig sein möchte, Herrn Dr Althaus: London schon die Aushängebogen zuzustellen, damit sein Referat beim Erscheinen des Werkes womöglich schon fertig sein kann. – In diesem Falle haben Sie wohl die Freundlichkeit ihn dahin zu verständigen, da Sie ja ohnehin an ihn zu schreiben beabsichtigten.“ (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VIII, 296–297) Die Rezension von Friedrich Althaus (1829–1897) erschien in zwei Folgen in: Beilage zur AZ. Nr. 140–141. Augsburg: Cotta 20.–21.5.1874. S. 2161–2163, 2182–2184.</note></seg>, dem ich deshalb schreiben würde. Demnach, mögen Sie hierüber entscheiden u<ex>nd</ex> dasjenige veranlaßen, was Herrn Scherr zu sagen wäre.</p>
+<p>Ich <seg type="comment"><orig>sende Ihnen nach 3 oder 4 Tagen die Einleitung u<ex>nd</ex> die Widmung</orig><note xml:id="nl3j_1c4_5lb">Gregorovius widmete seine „Lucrezia Borgia“ (1874) dem Michelangelo Caetani duca di Sermoneta (1804–1882), der ihm bereitwillig sein Archiv geöffnet und historische Urkunden und Dokumente zur Verfügung gestellt hatte – die Caetanis waren einst mit den Borgias verfeindet. Das Manuskript der Widmung und Einleitung traf am 11.3.1874 beim Verlag ein (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VIII, 296–297). </note></seg>. </p>
+<p><add place="left" hand="#addressee"><metamark target="#seg-1" function="used" rendition="#mMM"/></add><seg xml:id="seg-1">Wegen der Correcturen der Documente dürfte es wünschenswert sein, daß mir deren zwei zugehen, da der Text Schwierigkeiten machen wird.</seg></p>
+<p><seg type="comment"><orig>Die <orgName key="G000522">Congregation des Index</orgName> hat die <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Geschichte der Stadt Rom i<ex>m</ex> M<ex>ittelalter</ex></bibl> 15 Jahre nach dem <del rendition="#s">ersten</del> Erscheinen des ersten Bandes verboten</orig><note xml:id="nolc_3c4_5lb">Die erste Nachricht über die Indizierung seiner „Geschichte der Stadt Rom im Mittelalter (1859–1872) war am selben Tag in der „Allgemeinen Zeitung“ erfolgt: „Die Indexcongregation hat wieder das Lesen verschiedener Bücher verboten, darunter folgende deutsche: Ferdinand Gregorovius, „Geschichte der Stadt Rom im Mittelalter,“ vom 5. bis zum 16. Jahrhundert, Stuttgart im Verlage der J. G. Cotta’schen Buchhandlung 1871.“ (Nr. 65. Stuttgart: Cotta 6.3.1874. S. 968). Gregorovius dokumentierte diesen am 6.2.1874 durch den Vatikan ergangenen Ritterschlag, der ihm am 1. März 1874 durch Raffaele Mariano (1840–1912) mitgeteilt worden war, ausführlich in seinem Tagebuch: „Ich ging nach dem St. Peter, wo ich das Dekret an der Marmorsäule des ersten Eingangs angeheftet sah. Der ehrwürdige Dom bekam plötzlich ein persönliches Verhältnis zu mir. […] Mein Werk ist vollendet und breitet sich in der Welt aus; der Papst macht ihm jetzt Reklame. […] Alle gratulieren mir zu der verdienten Ehre.“ (S. 336–337). Der Abdruck des Gutachtens der vatikanischen Behörde zur „Geschichte der Stadt Rom im Mittelalter“ in deutscher Sprache im Wortlaut in: Peter Godman. Weltliteratur auf dem Index. Die geheimen Gutachten des Vatikans. Berlin; München: Propyläen 2001. S. 362–372.</note></seg>. Hätte sie dasselbe nach dem 3. od<ex>er</ex> 4. B<ex>an</ex>de gethan, so würde mein Werk kaum vollendet worden sein. Diese Herren wagten <pb n="2r"/>es bisher nicht ein Werk zu verdammen, welches so parteilos geschrieben ist u<ex>nd</ex> die Geschichte des <orgName key="G000539">Papsttums</orgName> so groß auffaßt. Aber jetzt ist das Gift hier im Kochen, u<ex>nd</ex> der Pfeil ist gegen <placeName key="G000646">Preußen</placeName> und das Muncipium von Rom gerichtet. Auf das Beste u<ex>nd</ex> Edelste, was der Mensch schafft, hat die brutale Welt von jeher den Fluch gesetzt. Ganz andere Leute, als ich bin, haben die Wahrheit dieses Ausspruchs erfahren.</p>
+<p>Ich muß in großer Eile schreiben, da man mir keine Ruhe läßt, u<ex>nd</ex> so empfehle ich mich Ihnen, hochgeehrte Herren, auf das Wärmste.</p>
+                <closer>
+                    <signed rendition="#right">FGregorovius.</signed></closer>
+<note type="postscript"><add place="left" hand="#addressee"><metamark target="#seg-2" function="done"/></add><seg xml:id="seg-2">Dürfte ich Sie bitten, die <seg type="comment"><orig>Summe von 150 Thalern, welche Sie gütigst für mich vom Gut Nordenthal</orig><note xml:id="nv3g_lc4_5lb"><p>Die aus Nordenthal von Adolf Hillmann (1816–1880) jährlich übermachte Summe der Zinsen aus dem ihm zugedachten Erbe Freundin Pauline Hillmann (1822–1866). </p></note></seg> angenommen haben, dem <seg type="comment"><orig>Bankier <orgName key="G067843">Oberndörffer</orgName> in <placeName key="G000734">München</placeName></orig><note xml:id="nkn1_nc4_5lb"><p>Das Bank- und Wechselgeschäft von Joseph Nathan Oberndörffer hatte in München Filialen in der Theatinerstraße 18 und in der Kaufingerstraße 30.</p></note></seg> als für mein Conto zugehen zu laßen?</seg></note>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000165">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Raffaele Mariano in Rom. München, 20. Januar 1875</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er hat seinen Brief mit einer Postkarte von Alberto Errera erhalten. Aus dem Archivio di Stato in Mailand sollen in die dritte Auflage seiner „Lucrezia Borgia“ (1875) sieben unveröffentlichte Dokumente zum Leben Lucrezia Borgias aufgenommen werden. Er bittet um baldige Zusendung der Veröffentlichung. In der Vergangenheit erhielt er keinen Zugang zu dem von Cesare Cantù geleiteten Archiv, und auch Cesare Foucards Nachforschungen waren erfolglos. Er will das Archiv im März erneut aufsuchen und die Neuauflage seiner „Lucrezia Borgia“ in der „Allgemeinen Zeitung“ ankündigen. Charlotte von Racknitz bringt die Druckfahnen der dritten Auflage seiner „Lucrezia Borgia“ (1875) zu Mariano nach Rom. Er gratuliert ihm zur Einladung zum „Congresso degli economisti“ in Mailand. Grüße von seinem Bruder Julius.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName>
+                    <date when="1875-01-20" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">13. Januar 1875</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">
+                        <foreign xml:lang="deu">München</foreign>, 20. Gennaro 1875.</dateline>
+                    <salute rendition="#c">Caro amico Mariano,</salute>
+                </opener>
+                <p>proprio in quest’ora, che è di prima sera, ho ricevuto la vostra con dentrovi la carta postale dell’ <seg type="comment"><orig><persName key="G001119">Errera</persName></orig><note xml:id="nvqt_llt_zlb">Alberto Errera (1842–1894) Nationalökonom, Professur in Venedig, dann in Mailand, dort auch Redakteur der Tageszeitung „La Perseveranza“, die in Mailand von 1859 bis 1922 erschien.</note></seg>. 7 nuovi documenti intorno alla <persName key="G000985">Lucrezia</persName>, che stanno <seg type="comment"><orig>per istamparsi</orig><note xml:id="ndnw_mlt_zlb">Die - vermutlich von einem Mailänder Juden namens Giron - geplante Publikation wurde letztendlich nicht umgesetzt (siehe den Brief von Gregorovius an Raffaele Mariano, 11.3.1975).</note></seg> in <placeName key="G000721">Milano</placeName>, provengono senza alcun dubbio dall’<orgName key="G067882">archivio degli Sforza in Milano</orgName>, unico archivio fra tanti altri in <placeName key="G000690">Italia</placeName>, che pur troppo non mi venne fatto di esaminare. Esso stà attualmente sotto <seg type="comment"><orig>la direzione del <persName key="G001018">Cantù</persName></orig><note xml:id="nwcx_4lt_zlb">Cesare Cantù (1804–1895), Historiker, Archivar, Literat (Romanschriftsteller) und Politiker, Begründer des Archivio Storico Lombardo, seit Dezember 1875 Direktor des Staatsarchivs in Mailand. Gregorovius notierte über die erste Begegnung mit Cantù am 26. Juli 1862 in seinem Tagebuch: “Gestern besuchte ich Cesare Cantù (Via di Tor Morigio Nr. 1). Ich erwartete, einen alten Mann zu finden, es trat mir in einem Bibliothekzimmer, welches auf den Garten hinausgeht, ein frischer Fünfziger entgegen, von kleiner Statur, mit geistreichen Zügen und funkelnden Augen. Cantù machte einen sehr angenehmen Eindruck. Seine Tätigkeit ist enorm und seine Popularität als Historiker für das Volk groß.“ (S. 149)</note></seg>, uomo che per ragion, che conosce bene, non poteva esser favorevole alle mie ricerche in proposito de’ Borgia. <seg type="comment"><orig>Il <persName key="G001134">Foucard</persName></orig><note xml:id="nyyv_plt_zlb">Cesare Foucard (1825–1892) war ein Archivar und Professor für Paläographie am Generalarchiv Venedig. Von 1873–1887 war er Direktor des Archivio di Stato in Modena. Gregorovius war bei seinem kurzen Forschungsaufenthalt im Sommer 1873 Gast in Foucards Haus und würdigte dessen Entgegenkommen bei seinen Archivrecherchen im Vorwort der „Lucrezia Borgia“ (1874): „Dieser ausgezeichnete Mann bemühte sich für meinen Zweck mit einer wahrhaften Liberalität, wie sie eines Nachfolgers Muratori’s in jenem Amt würdig ist. Er erleichterte mir meine Arbeit auf jede Weise.“ (S. XV; siehe RT, S. 332). Auch wenn er in späteren Jahren von Deutschland aus kommend Modena besuchte, beherbergte ihn Foucard (siehe RT, 31.3.1875, S. 347–348; 20.5.1876, S. 363; 1877, S. 373). </note></seg> bensì si era portato colà, onde assicurarsi se vi fossero dei documenti da cavarne a seco della storia di Lucrezia; però, quantunque ne avesse trovato delle tracci, che promettevano qualche risultato, mi accertò, che il disordine totale, in cui quell’ archivio giaceva scomposto e prostrato, non gli permetteva altro che una vista fugace. <pb n="1v"/>Appunto perciò volli recarmi personalmente a Milano <seg type="comment"><orig>sul principio del Marzo avvenire</orig><note xml:id="nlrt_qlt_zlb">Gregorovius reiste am 2. März 1875 von München über Verona, Brescia, Cremona und Pavia nach Mailand (siehe RT, S. 348–349 sowie den Brief von Gregorovius an Raffaele Mariano, 11.3.1875).</note></seg>, onde impetrare dal Cantù l’accesso a quell’<orgName key="G067882">archivio di </orgName><seg type="comment"><orgName key="G067882"><orig>S. Felice</orig></orgName><note xml:id="ntgw_rlt_zlb">San Fedele, die Bezeichnung für das Archivio dello Stato di Milano dessen Gründungsjahr auf 1781 festgelegt werden kann, als Archivalien aus dem Castello Sforzesco dem Jesuitenkolleg in der Kirche von San Fedele übertragen wurden.</note></seg>.</p>
+<p>Ora sono contentissimo di sentire che alcuni documenti usciranno alla luce ben presto; essi serviranno ad illustrare viepiù la vita della nostra bella amica, e a gettarvi sopra un po’ più di luce. Non temo la verità, anzi l’aspetto con piacere. E comunque saranno quei documenti, e per quanto sfavorevoli siano a quell’opinione, che ci abbiamo formata intorno al primo periodo di vita di Lucrezia, essi giammai distruggeranno il valore <seg type="comment"><orig>del  <bibl corresp="G003509">nostro libro</bibl></orig><note xml:id="nywg_tlt_zlb">Gregorovius’ “Lucrezia Borgia“ wurde von Mariano ins Italienische übersetzt; beide Versionen erschienen erstmals 1874.</note></seg>, il quale offre tanti <seg type="comment"><orig>documenti autentici</orig><note xml:id="nqqj_xlt_zlb">Der Dokumenten-Anhang mit zahlreichen Archivschätzen wurde in der im gleichen Jahr erscheinenden dritten Auflage seiner „Lucrezia Borgia“ sogar noch um 27 Seiten erweitert und enthielt nicht mehr 59, sondern 68 Nummern. Neu aufgenommen wurden: vier Briefe von Lucrezia Borgia an Vincenzo Giordano, 28.-30.10.1500; ein Dekret der Herzogin Lucrezia zum Schutz der Juden, 28.5.1506; der Brief von Isabella von Mailand a Perot Castellar, 14.10.1512; zwei Briefe von Don Juan Borgia an den Herzog Alfonso, 8. und 22.6.1519 sowie ein Verzeichnis von Büchern im Besitz der Donna Lucrezia aus den Jahren 1502 und 1508.</note></seg>, che appresso di loro quegli altri non potranno aver maggior peso che note ed illustrazioni.</p>
+<p>Però mi preme assai di aver quella pubblicazione quanto presto sia possibile fra le mani; poiché appena che saranno usciti, sarò io il primo, che ne ragionerà nell’ <orgName key="G000462">Allg<ex>emeine</ex> Zeitung</orgName>. <pb n="2r"/>Quindi mi farà un vero piacere, di mandarmeli a Monaco appena stampati, e ciò vi riescerà cosa facile per mezzo della premura del vostro amico. Quanto a me, non mi conviene, schiettamente parlando, di mostrar troppa premura o ansietà a chi si è incaricato di quella pubblicazione.</p>
+<p><seg type="comment"><orig>Le bozze della <bibl corresp="G003507">3 a edizione</bibl> stanno pronte per lei</orig><note xml:id="nnqv_zlt_zlb">Mariano hatte um die Druckfahnen der dritten deutschen Auflage der „Lucrezia“ (1875) gebeten, um die Neuerungen der verbesserten und vermehrten Auflage (vor allem den Dokumentenanhang) einzusehen (siehe den Brief von Gregorovius an Raffaele Mariano, 28.12.1874).</note></seg>; attendo soltanto l’arrivo della <seg type="comment"><orig><persName key="G001699">sorella</persName></orig><note xml:id="niqs_1mt_zlb">Charlotte von Racknitz (?–?), das vierte Kind von Eduard von Racknitz (1795–1848) und Emma Friederike Teuffel von Birkensee (1805–1849) und jüngere Schwester von Auguste Lindemann-Frommel, geb. Freiin von Racknitz (1826–1876); vermutlich adelig verheiratet.</note></seg> della signora <persName key="G001374">Lindemann</persName> , che passerà per Monaco fra giorni, e avrà la gentilezza <seg type="comment"><orig>di portarle <choice><orig>seco</orig><reg>con se</reg></choice> a Roma</orig><note xml:id="nh5q_bmt_zlb">Ein Treffen mit Charlotte von Racknitz kam überhaupt nicht erst zustande; siehe den Brief von Gregorovius an Manfred Lindemann-Frommel, 21.2.1875, wo es heißt: „Deine Tante Charlotte hat sich hier 5 Tage aufgehalten, ohne nach uns zu fragen, und da München eine der größesten Städte China’s ist, so geschah es, daß wir ihr nicht begegnet sind. Freilich nehme ich an, daß Ihre Excellenz uns nicht in München glaubte.“</note></seg>.</p>
+<p>L’edizione stessa non è pubblicata finora, ma non tarderà tanto.</p>
+<p>Ebbi la sua del tredici; e volli risponderle proprio domani. Nulla di nuovo qui, se non che il clima è tanto dolce, che pare una primavera italiana. Il mio <persName key="G001203">fratello</persName> le manda mille saluti. Ho scritto in fretta, siccome devo vestirmi per assistere ad una serata nuojosa. Mi voglia bene! e stia bene!</p>
+                <closer>
+                    <salute rendition="#c">Il vostro</salute>
+                    <signed rendition="#right">FGregorovius. <lb/> <note type="postscript">Con sommo piacere sentii la sua chiamata al <seg type="comment"><orig>congresso di Milano</orig><note xml:id="nufr_cmt_zlb">Der „Congresso degli economisti“ im Januar 1875 in Mailand, aus dem die „Associazione per il progresso degli studi economici in Italia“ hervorging, welcher Raffaele Mariano als Mitglied des römischen Komitees angehörte.</note></seg>, la quale mi pareva un primo passo fatto incontro a cose maggiori.</note> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

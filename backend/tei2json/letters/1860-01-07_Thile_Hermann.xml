@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000094">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Hermann von Thile in Berlin. Rom, 7. Januar
+                    1860</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>96/937 (9)</idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 1 S. – 1r aoR Empfängervermerk</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Kampf, Karton 84</collection>
+                                <idno>
+                                    <idno type="shelfmark">Mappe 6 (Alfred Löckle nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 59, Mappe 346 (Stier nach H, ungenau) </idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er kündigt seine erste Zahlungsanweisung von 150 Talern durch Louis Harder zur Tilgung seiner Schulden bei Thile an.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He announces his first payment order of 150 Taler through Louis Harder to pay off his debts to Thile.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1860-01-07" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001644">Thile, Hermann von (1812–1889)</persName>
+                    <placeName key="G000636">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c"><hi rendition="#aq">Rom</hi> 7. Januar 1860.</dateline>
+<salute>Mein hochverehrter Herr,</salute>
+</opener>
+<p>diese wenigen Zeilen sind rein irdisch elender u<ex>nd</ex> geschäftlicher Natur, wie man zu sagen pflegt. Aus den wirklich sehr guten Einnahmen, die ich gehabt habe, wird es mir leicht, an die <seg type="comment"><orig>Tilgung meiner Schulden</orig><note xml:id="ntvb_5gm_ylb">Gregorovius hatte sich von Thile Geld geliehen, siehe die Briefe von Gregorovius an Thile, <ref target="G000106">22.12.1858</ref> und <ref target="G000103">11.4.1859</ref>. Noch bevor Thile den vorliegenden Brief erhielt, hatte er Gregorovius mit einem (nicht erhaltenen) Brief vom 24.12.1859 weitere 2000 Franks zugesandt, siehe den Brief von Gregorovius an Thile, <ref target="G000093">11.1.1860</ref>.</note></seg> zu gehen, wenn dies auch nur teilweise geschehen kann. Ich sage, wie der <persName key="G067650">Marquis Dorset</persName> in <bibl sameAs="G067690">König Richard</bibl>: </p>
+<p rendition="#c"><seg type="comment"><orig>In Weltgeschäften nennt man’s undankbar, <lb/>Mit trägem Widerwillen Schulden zahlen, <lb/>die eine milde Hand uns freundlich lieh</orig><note xml:id="nmjb_zjm_ylb">William Shakespeare: Richard III. 2. Aufzug, 2. Szene (nach der Übersetzung von August Wilhelm Schlegel).</note></seg>;</p>
+<p>und Ihr großmütiger Sinn wird mir beistimmen, wenn ich sage, daß es schön ist, sich des materiellen Gewichtes einer Schuld zu entledigen, die eine edle Hand uns lieh, das moralische aber dauernd als etwas Untilgbares zu behalten.</p>
+<p>Ein <placeName key="G000699">Königsberger</placeName> Freund, der <seg type="comment"><orig>Kaufmann <hi rendition="#aq"><persName key="G001235">Louis Harder</persName></hi></orig><note xml:id="nnvz_zjm_ylb">Der Königsberger Kaufmann Louis Harder (*1821) war ein enger Freund von Gregorovius. Anfang 1856 hatte er Emilie Götz geheiratet, eine Cousine des Komponisten Hermann Götz (1840–1876). Harder lebte ab 1869 als Rentner in Wiesbaden; im „Adreßbuch der Stadt Wiesbaden für das Jahr 1876/77“ (S. 96) findet er sich wohnhaft Adelhaidstraße 13.</note></seg>, welcher hie u<ex>nd</ex> da meine buchhändlerischen Finanzen verwaltet, hat von mir den Auftrag einliegende 150 Thaler an Sie zu senden; und ich verspreche Ihnen, mein teurer Herr, daß ich mir erlauben werde, mit der Tilgung der übrigen Summen nur gemächlich u<ex>nd</ex> teilweise fortzufahren, wie Sie es mir befohlen haben.</p>
+<closer>
+<salute>Ich segne Ihre Güte gegen mich alle Tage, u<ex>nd</ex> bitte den Himmel, Sie Alle wol und heiter zu erhalten.</salute>
+<signed rendition="#right">FGregorovius.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

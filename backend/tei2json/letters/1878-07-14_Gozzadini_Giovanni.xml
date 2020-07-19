@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_emv_pwb_jlb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. München, 14. Juli 1878</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Adr.: Illmo Signore / il $ Conte Giovanni Gozzadini / Senatore del Regno / Bologna</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell’Archiginnasio</institution><collection>Ms. Gozzadini 442</collection><idno>(29)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für Gozzadini’s Schrift „Del ristauro di due chiese monumentali nella Basilica Stefaniana di Bologna“ (1878). Der Architekt Raffaela Faccioli hat ihn vor Ort über die Fortschritte der Kirchenrestaurierung unterrichtet und ihm die Gemäldesammlung der Familie Isolani gezeigt. Im Staatsarchiv Modena hat er neues Material für seine Studie zum Dreißigjährigen Krieg (Urban VIII. im Widerspruch zu Spanien und dem Kaiser. Eine Episode des dreißigjährigen Kriegs 1879) bearbeitet. Über Carlo Malagola hat er von den Akten der an der Universität Bologna bis 1796 angesiedelten „Natio germanica“ erfahren. Ein Editionsprojekt dazu unterstützt er gern (Acta nationis Germanicae universitatis Bononiensis ex archetypis tabularii Malvezziani. Iussu instituti Germanici Savignyani ed. Ernestus Friedlaender et Carolus Malagola 1887). Über die Attentate auf Kaiser Wilhelm I. in Berlin sowie die Ernennung Gozzadinis und Luigi Cremonas zu auswärtigen Mitgliedern der Bayerischen Akademie der Wissenschaften. Er wird Adelheid Grunelius in Baden-Baden besuchen. </p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1878-07-14" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni conte (1810-1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Monaco, 14. Luglio ’78</dateline>
+                    <salute rendition="#c">Ill<hi rendition="#sup"><ex>ustrissi</ex>mo</hi> signor Conte,</salute>
+                </opener>
+<p>le rendo tante grazie per la <bibl sameAs="ed_lcj_nrk_rlb">narrazione</bibl> sua intorno ai ristauri di S<ex>anto</ex> <placeName key="ediarum_vcj_srk_rlb">Stefano</placeName>; Ella forse avrà inteso <seg type="comment"><orig><persName key="ed_kzp_xrk_rlb">dall’architetto</persName>, che colà funziona</orig><note xml:id="nt2b_k5j_1mb">Der aus Bologna stammende Ingenieur und Architekt Raffaele Faccioli (1836–1914) hatte an der Akademie der Schönen Künste seiner Heimatstadt studiert und anschließend in einem Architekturbüro in Rom gearbeitet. Seine erste Arbeiten in Bologna waren Familiengräber auf dem städtischen Friedhof. 1904 wurde er zum Präsidenten der Bologneser Akademie ernannt. Neben den Restaurierungsarbeiten in Santo Stefano zeichnete Faccioli auch für jene in San Domencio verantwortlich.</note></seg>, che prima di partire di Bologna, <seg type="comment"><orig>mi ero recato sul sito</orig><note xml:id="nhjn_m5j_1mb">Gregorovius hatte Rom nach einem mehrmonatigen Aufenthalt am 18. Mai verlassen und war über Florenz, Bologna und Modena nach München gereist. In Bologna besuchte er die Gozzadinis, die Kirche Santo Stefano und die Gemäldegalerie im Palazzo Isolani (vgl. RT, 16.5.1878, S. 403).</note></seg>, ammirando quelle belle cose, <seg type="comment"><orig>le quali lei costì ha sprigionate facendole ritornare alla luce.</orig><note xml:id="nldp_45j_1mb">Unmittelbar nach der Einigung Italiens hatte Gozzadini die Restaurierung des alten Sanktuariums in der auch als „Sette Chiese“ bezeichneten Bologneser Kirche Santo Stefano angestoßen. Die Arbeiten begannen im Jahre 1876 unter der Führung von Faccioli. Die Devise der Restaurierung lautete, möglichst alle modernen Hinzufügungen an den einzelnen romanischen Gebäudeteilen zu entfernen. Siehe zu der Restaurierungskampagne: Carolina Di Biase. I restauratori ottocenteschi e S. Stefano a Bologna. in: Alfonso Rubbiani e la cultura del restauro nel suo tempo (1880–1915). Mailand: Angeli 1986. S. 117–138.</note></seg> Volle pure l’ammabile architetto che visitassi in compagnia sua <seg type="comment"><orig>il palazzo – <placeName key="ediarum_qwv_dsk_rlb">Isolani</placeName></orig><note xml:id="ncrq_p5j_1mb">Der neben Santo Stefano liegende Palast Isolani war seit 1671 in Besitz der gleichnamigen Familie, die den Bau renovieren und im Inneren freskieren sowie mit prachtvollen Tapeten ausstatten ließ. Die Gemälde- und Möbelsammlung der Isolanis konnte besichtigt werden; siehe dazu: Galeazzi, Giorgio. Il palazzo Isolani-Lupari e la sua scala elicoidale in piazza S. Stefano. In: Strenna storica bolognese. 61 (2011). S. 231–260. Der Palast beherbergt eine von Jacopo Barozzi da Vignola (1507–1573) gestaltete Spiraltreppe.</note></seg>, sicchè sono rimasto tutto conteno di aver visto ciò, che mi venne indicato da lei e dalla gentilissima signora <persName key="G001092">Contessa</persName>.</p>
+<p>Il mio ritorno in patria fu rapido assai, salvo che <seg type="comment"><orig>mi fermai un giorno a <placeName key="G000729">Modena</placeName> per rovistare un po’ nelle carte dell’ <orgName key="G067840">Archivio</orgName></orig><note xml:id="nwwv_q5j_1mb">Bei Aufenthalten in Modena besuchte Gregorovius stets das dortige Archivio di Stato. Bei diesem Besuch prüfte er Material für seine Arbeit zum Dreißigjährigen Krieg (vgl. RT, 16.5.1878, S. 403). Siehe zu dem Aufenthalt auch den Brief von Gregorovius an Raffaele Mariano vom 24.5.1878.</note></seg>, giacchè è un vizio mio abituale quanto quello del gatto, che non può far a meno di correre appresso li sorci. </p>
+<p>Trovai la mia <persName key="G001203"><persName key="G001111"><persName key="G001109">famiglia</persName></persName></persName> in buona salute; mangiammo subito i delicatissimi <pb n="2"/>limoni in onore della gentilissima casa Gozzadini, cosa che risvegliò nell’ animo della mia sorella il desiderio di vedere il paese <seg type="comment"><orig><foreign xml:lang="deu">wo die Zitronen blühen</foreign>.</orig><note xml:id="nn3t_r5j_1mb">Zit. aus Johann Wolfgang von Goethes (1749–1832) „Wilhelm Meisters Lehrjahre“ (1795/96).</note></seg></p>
+<p>Sto qui direi quasi immerso in nuovi <bibl sameAs="G003523">lavori</bibl>, che spettano la guerra de’ trent’anni, di modo che la storia dell’<placeName key="G000690">Italia</placeName> man mano mi sfugge dalla vista, se non che ogni tanto mi vengono spediti degli scritti publicati nella <seg type="comment"><orig>mia seconda patria</orig><note xml:id="nk5y_s5j_1mb">Im März 1876 war Gregorovius die Ehrenbürgerwürde der Stadt Rom verliehen worden; siehe dazu den Brief von Gregorovius an Pietro Venturi vom 17.3.1876.</note></seg>, come s<ex>e</ex>g<ex>uente</ex> il libro del <seg type="comment"><orig><persName key="ed_tfl_ltk_rlb">Malagola</persName></orig><note xml:id="nrbc_55j_1mb">Der aus Ravenna stammende Historiker Carlo Malagola (1855–1910) forschte vor allem in den Archiven von Venedig und Bologna zum Humanisten Urceo Codro (1446–1500). Er hatte ab 1882 eine Professor für Paläographie an der Universität Bologna inne und wurde 1885 zum Direktor des Archivio di Stato di Bologna berufen. Gregorovius lernte Malagola bei seiner Romfahrt im Jahre 1879 im Haus der Gozzadinis persönlich kennen (siehe RT, Romfahrt, 1879, S. 411).</note></seg>, che è cosa buona e m’interessa particolarmente <seg type="comment"><orig>per <orgName key="ed_tbp_ttk_rlb">la nazione tedesca presso lo studio Bolognese</orgName></orig><note xml:id="nszc_v5j_1mb">Malagola hatte kurz zuvor die Akten der seit 1796 aufgelösten ‚Natio germanorum‘ an der Universität Bologna entdeckt, die vom 13. bis zur Mitte des 18. Jahrhunderts reichen und einen Immatrikulationsvermerk zu Nikolaus Kopernikus enthalten. </note></seg>. Sarebbe desiderabile, che l’autore pubblicasse un lavoro su questa materia, restringendosi però su ciò che occorre, senza venir fuori con una farraggine di tanti documenti minuti al modo adesso usato, per cui la storia doventa una vera selva oscura da smarrirsi dentro. Mi spiegherò col Malagola <seg type="comment"><orig>a questo proposito</orig><note xml:id="nxmm_z5j_1mb">Der Thorner Coppernicus-Verein, eine Gelehrtengesellschaft, setzte sich vehement für die Drucklegung der aufgefundenen Akten ein. Gregorovius unterstützte diese Bestrebungen nachdrücklich durch Gutachten und verwandte sich auch selbst bei der Reichsregierung. Nachdem diese eine Kostenübernahme aus dem Savignyfonds vermittelt hatte, konnte die Edition 1887 schließlich erscheinen: Acta nationis Germanicae universitatis Bononiensis ex archetypis tabularii Malvezziani. Iussu instituti Germanici Savignyani ed. Ernestus Friedlaender et Carolus Malagola. Siehe dazu die Briefe von Gregorovius an Cotta vom 22.11., 8.12. und 22.12.1878; Hönig 1921. S. 409–410.</note></seg>; ma uopo è, che io mi formi un’idea esatta dei documenti di casa. <seg type="comment"><orig><persName key="ed_yvj_ztk_rlb">Malvezzi</persName></orig><note xml:id="na2d_w5j_1mb">Graf Giuseppe Maria Malvezzi de’ Medici (1741–1832) hatte die „Acta nationis Germanorum“ um 1825 erworben.</note></seg>, e di tutto ciò che vi tornerebbe utile ed interessante a sapere per noi altri storici in <placeName key="G000664">Germania</placeName>.</p>
+<p><pb n="3"/>Che cosa avranno giudicato loro dello stato, in cui si trova la mia patria, avendo inteso <seg type="comment"><orig>le atrocità commesse a <placeName key="G000636">Berlino</placeName> contro l’imperatore <persName key="ed_qqb_mky_1lb">Guglielmo</persName></orig><note xml:id="ngjw_1vj_1mb">Wenige Wochen zuvor waren in Berlin zwei Attentate auf den Kaiser verübt worden. Beim zweiten Versuch war der Regierende so sehr verletzt worden, dass Kronprinz Friedrich III. (1831–1888) zu seinem Stellvertreter ernannt werden musste. Es kam zu Unruhen im Volk sowie auf politischer Ebene und in Folge dessen zum Verbot der Sozialistischen Arbeiterpartei; siehe die Briefe von Gregorovius an Raffaele Mariano vom 19.6.1878 und an Ersilia Caetani Lovatelli vom 28.6.1878.</note></seg>, vecchio venerando di più di ottanta annti, e vero padre della patria? Mi creda, che noi altri stiamo ancora appressi dalle ombre, che cotesti fatti orrendi hanno sparso sul nostro paese, e sono tali, che nemmeno <seg type="comment"><orig>la grande opera di pacificazione compiuta jieri a Berlino</orig><note xml:id="negp_cvj_1mb">Der Berliner Kongress war am 13. Juli mit der Unterzeichnung eines Vertrags namens „Berliner Frieden“ zu einem Abschluss gekommen. Die europäischen Mächte hatten darin die Aufteilung des Balkans beschlossen, wobei es Großbritannien und das Deutsche Reich waren, die mit dem Ausschluss Russlands aus dem Mittelmeerraum als Vorteilnehmer aus dem Kongress hervorgingen. </note></seg> basta a rinfrancarci alquanto. I tempi corrono tristi e parmi anche in Italia. </p>
+<p>La <orgName key="G000494">Reale Accademia delle scienze di Monaco</orgName> ha voluto ornarsi della nomina di due Italiani distinti a soci estranei, e sono l’ illustre conte Gozzadini di Bologna, e <seg type="comment"><orig>il celebre prof<ex>essore</ex> <persName key="ed_hmr_l5k_rlb">Cremona</persName> di <placeName key="G000763">Roma</placeName></orig><note xml:id="npws_dvj_1mb">Der Mathematiker und Politiker Luigi Cremona (1830–1903) lebte seit Mitte der 1870er Jahre in Rom, wo er Direktor der Ingenieursschule war und den Lehrstuhl für Statik innehatte. 1880 wurde er zum Leiter der Biblioteca Vittorio Emanuele berufen. Neben seine akademischen und wissenschaftlichen Verpflichtungen erfüllte Cremona mehrere politische Ämter. Er wurde mit zahlreichen Auszeichnungen und Mitgliedschaften, darunter der aus München, geehrt.</note></seg>. Nella seduta solenne che avrà luogo alle 11. ore del 25. Luglio saranno publicate codeste nomine dal <seg type="comment"><orig>presidente dell’Accad<ex>emia</ex> <persName key="G001094">Döllinger</persName> </orig><note xml:id="ncsr_2vj_1mb">Der katholische Theologe und berühmte Kirchenhistoriker Johann Joseph Ignaz von Döllinger (1799–1890) wurde 1872 zum Rektor der Universität München ernannt und war von 1873–1890 Präsident der Bayerischen Akademie der Wissenschaften. Gregorovius und er standen Zeit ihres Lebens in Kontakt miteinander.</note></seg>dietro l’approvazione fatta dal <seg type="comment"><orig><persName key="ed_cgz_jp4_qlb">Re</persName></orig><note xml:id="nlwm_fvj_1mb">Ludwig II. (1845–1886) war seit 10. März 1864 König von Bayern. Ludwigs Beziehung zur Bayerischen Akademie der Wissneschaften war vor allem durch seine von Döllinger geprägte theologische Anschauung geprägt. Während Döllinger Ludwig im Hinblick auf die Bdeutung von Tradition im Katholizismus beeinflusste, stärkte der König den Theologen in seiner Auseinandersetzung mit dem Heiligen Stuhl und im Kampf um eine strikte Trennung von Staat und Kirche. </note></seg>.</p>
+<p><seg type="comment"><orig>La classe storica poi prestamente le spedirà il diploma</orig><note xml:id="nqqm_gvj_1mb">Siehe dazu den Brief von Gregorovius an Giovanni Gozzadini vom 1.8.1878.</note></seg>. Sebbene lei, signor Conte, abbia ogni ragione di accogliere un tale diploma come cosa, se non del tutto indifferente, almeno tale, che non accrescerà punto i suoi meriti, pur voglio sperare, che non le tornerà discaro, mentre io stesso provo un vero piacere nel pensare, che lei oramai è congiunto e associato ad una corporazione accademica tedesca, di cui sono membro.</p>
+<p>Partirò sulla fine del mese corr<ex>ente</ex> allo Schconezevanld (selva <seg type="comment"><orig><placeName key="ed_f1d_55k_rlb">Herciniana</placeName></orig><note xml:id="nt2p_hvj_1mb">Für: Ercinia; dt.: Harz.</note></seg>), ed indi mi recherò a <placeName key="G000623">Baden-Baden</placeName>, <seg type="comment"><orig>per passarvi alcune settimane in compagnia di cari <persName key="G001215">amici</persName></orig><note xml:id="ntqy_3vj_1mb">Eine Reise in den Harz ist nicht nachweisbar; nach Baden-Baden zu seiner Freundin Adelheid Grunelius (1813–1887) reiste Gregorovius Anfang Oktober (siehe RT, Aufenthalt in Paris, S. 404– 409).</note></seg>. </p>
+<p>Sperando di aver prestamente le sue nuove, le quali mi auguro le migliori possibili, mi raccomando alla benevola memoria di Lor Signorie,</p>
+                <closer>
+                    <salute rendition="#c">cordialmente devotissimo loro</salute>
+                    <signed rendition="#right">F. Gregorovius </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

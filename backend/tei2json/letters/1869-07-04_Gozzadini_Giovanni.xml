@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000448">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. Rom, 4. Juli 1869 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Adr.: All'Illustrissimo Signor Conte / Giovanni Gozzadini / Bologna</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell’Archiginnasio</institution><collection>Ms. Gozzadini 442</collection><idno>(9)</idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Seiner schwachen Gesundheit wegen konnte er im Vorjahr nicht zu den Gozzadini nach Bologna kommen. Auf dem Weg nach Deutschland wird er über Siena und Stresa fahren, um Paolo Perez zu treffen, und in Zürich Halt machen. Auf dem Rückweg möchte er die Gozzadini besuchen. Michelangelo Caetani soll in Frascati sein, seine Tochter Ersilia Lovatelli wartet in Rom auf ihre Niederkunft. Grüße an Maria Teresa Serego Alighieri Gozzadini.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1869-07-04" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni (1810–1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">Roma 4. Luglio 1869.</dateline>
+</opener>
+<p>La ringrazio, gentilissimo Signor Conte, della sua lettera. Ella mi dimostra, che nessuna delle sue andò smarrita, ma bensì la mia lunga risposta che Le feci dopo d’aver avuta <seg type="comment"><orig>la sua lettera dell’Ottobre</orig><note xml:id="nyw4_3zr_ylb">Er meint seinen Brief vom 1. November 1868 an den Conte, in welchem er sein Nicht-Erscheinen bei den Gozzadinis in der Villa Ronzano im September vergangenen Jahres mit seinem schlechten, dem heißen Sommer geschuldeten Gesundheitszustand entschuldigt. </note></seg>. Là ho cercato di scolparmi un po? So bene, che per ogni modo si troverà mezzo di trasporto a <placeName key="G000822">Ronzano</placeName>, mentre che, come mi ricordo, le vetture di piazza non ci <seg type="comment"><orig>vonno</orig><note xml:id="nbkp_jzr_ylb">Antik für: vogliono.</note></seg> <seg type="comment"><orig>salire</orig><note xml:id="ndmj_lzr_ylb">Ronzano liegt ca. zwei Kilometer südlich des historischen Zentrums von Bologna auf einem Berg. Er bezieht sich hier auf die Anstrengung, dort hinauf zu kommen.</note></seg>. Torno a dire, che <seg type="comment"><orig>stavo male nell’anno scorso</orig><note xml:id="nipn_4zr_ylb">Siehe dazu den Brief von Gregorovius an Giovanni Gozzadini vom 5.10.1868.</note></seg>, e dovetti perciò evitare ogni commozione. </p>
+<p>Sarò veramente lieto di poter salutare e riverire la sua casa ospitale questa volta, non sapendo però, <seg type="comment"><orig>se nell’andare, o nel ritornare</orig><note xml:id="ntv1_qzr_ylb">Tatsächlich legte Gregorovius weder auf der Hin- noch auf der Rückreise von Deutschland in diesem Sommer einen Halt bei den Gozzadinis ein.</note></seg>. Preferirei, con lor gentil permesso, il tempo di ritorno, se mai ci fossero anche loro. Il medico mi spinge fuori da Roma; <seg type="comment"><orig>caddi nella fine del Maggio nelle febbri</orig><note xml:id="np1w_rzr_ylb">„Am 8. Juli trat ich meine Reise an, nachdem ich wieder einen Fieberanfall gehabt hatte.“ (RT, 11.7.1869, S. 258).</note></seg>, che per tutto il mese di Giugno mi ridussero in uno stato debilissimo – </p>
+<p><pb n="2"/><seg type="comment"><orig>Devo andare quanto presto sia possibile alla <placeName key="G000870">Svizzera</placeName></orig><note xml:id="nnkn_tzr_ylb">Am 24. Juli kam er in Zürich an, wo er bis zum 25. August blieb und in der Stadtbibliothek arbeitete. Er nahm dort auch am gesellschaftlichen Leben teil, traf Bekannte und lernte neue Persönlichkeiten kennen (siehe RT, S. 260–262).</note></seg>, e vedrò se mi basteranno ancora le forze per fermarmi due giorni a <placeName key="G000871">Siena</placeName>, onde <seg type="comment"><orig>confrontarvi certi documenti nell’<orgName key="G000566">Archivio</orgName></orig><note xml:id="nj32_vzr_ylb">In Siena verbrachte er die Tage vom 9.–11. Juli, sah Dokumente im Staatsarchiv ein (siehe RT, 11.7.1869, S. 258–259), wo Luciano Banchi neuer Direktor war; siehe den Brief von Gregorovius an Luciano Banchi vom 8.1.1965.</note></seg>. </p>
+<p>In ogni caso spero, che Loro mi permetteranno di scriverle altre due righe, o nel traversare l’<placeName key="G000690">Italia</placeName>, o dalla svizzera, per aver le buone nuove di Loro. Ho scritto pure a <seg type="comment"><orig><persName key="G001483">Paolo</persName></orig><note xml:id="nsjm_wzr_ylb">Der Dante-Forscher Graf Paolo Perez (1822–1879), ein Cousin der Gräfin Gozzadini, hatte den Gregorovius mit den Gozzadinis bekannt gemacht. 1856 war er in den Orden der Rosiminaner in Stresa, am westlichen Ufer des Lago Maggiore gelegen, eingetreten, was Gregorovius sehr betrübte (siehe RT, 19.9.1856, S. 63). Er besuchte Perez dort regelmäßig. In seinen Briefen an die Gozzadinis ist Perez regelmäßig Thema.</note></seg>, con cui forse <seg type="comment"><orig>potrei incontrarmi sul <placeName key="G000826">Lago Maggiore</placeName></orig><note xml:id="nqcg_yzr_ylb">Er kam am 19. Juli in Stresa an und blieb zwei Tage bei seinem Freund: „Ich fand Perez wohl und zufrieden. Ich erkannte, dass ich zu dieser Art Befreiung von den Leidenschaften niemals gelangen werde. Sie würde doch nur ein moralischer Tod sein. Das Institut zu Stresa hat 100 Zöglinge; die Tätigkeit ist preiswürdig, und ein so hoher Geist, wie Perez, ist schon allein hinreichend, dem Wirken sittliche Kräfte zu verleihen.“ (RT, 20.7.1869, S. 259).</note></seg>. </p>
+</div>
+<closer>
+<salute>Augurandole, Signor Conte e <persName key="G001092">Signora Contessa</persName>, la più felice stagione d’estate, mi raccomando alla lor benevolenza con tutta l’anima mia come lor verace servitore </salute>
+<signed rendition="#right">Gregorovius<note type="postscript">Per causa del mio malessere non ho potuto far più visita alla <persName key="G001244"><seg type="comment"><orig>Casa Geatani</orig><note xml:id="nsgn_zzr_ylb">Mit der römischen Adelsfamilie Caetani, vor allem mit deren Tochter Ersilia Caetani (1840–1925), später Caetani-Lovatelli und eine geschätzte Archäologin, war Gregorovius eng befreundet. Ersilias Vater, der Herzog von Sermoneta und Dante-Forscher Michelangelo Caetani (1804–1882), hatte ihm das Familienarchiv zu Recherchezwecken zur Verfügung gestellt, was Gregorovius gelegentlich nutzte (siehe RT, 31.12.1857, S. 69; 29.5.1864, S. 178 und 11.7.1868, S. 247). Im Haus Ersilias versammelten sich regelmäßig die bedeutendsten Gelehrten Roms und des Auslands. Auch Gregorovius frequentierte den Salon der „gelehrtesten Frau Roms und vielleicht Italiens“ (RT 1874, S. 336).</note></seg>,</persName> sento si dice che<persName key="G001004"> il Duca</persName> stia a <placeName key="G000675"><seg type="comment"><orig>Frascati</orig><note xml:id="ntv4_11s_ylb">In Frascati besaßen die Caetanis ein Haus, wo sie sich oft aufhielten. Auch Gregorovius besuchte die Familie dort mehrfach.</note></seg></placeName>; <seg type="comment"><orig>la <persName key="G001011">figlia</persName> però aspettando il parto</orig><note xml:id="ngt1_c1s_ylb">Ersilia hatte 1859 den aus dem Umland Ravennas stammenden Adligen Giacomo Lovatelli (1832–1879) geheiratet. Es sind zwei Töchter und drei Söhne der beiden nachweisbar: Callista (1860), Rosalia Gabriella (1872), Filippo (1874), Giovanni (1859) und Witoldo (1869).</note></seg>, e non trovandosi ancora liberata dalle febbri a Roma – <seg type="comment"><orig>Io partirò dopo tre giorni</orig><note xml:id="nw1y_d1s_ylb">Er reiste am 8. Juli ab.</note></seg> </note> </signed>
+</closer>
+        </body>
+    </text>
+</TEI>

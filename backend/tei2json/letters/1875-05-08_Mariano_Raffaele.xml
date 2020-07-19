@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000171">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Raffaele Mariano in Rom. Caserta, 8. Mai 1875</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Nach der Abreise aus Ischia hat er seine Post in Neapel besorgt. In Caserta logiert er im Hotel Vittoria, wo er im Vorjahr mit seinem Bruder Julius und Mariano war. Morgen fährt er nach Benevent, von wo er am 11. Mai 1875 mit Mariano nach Barletta zu Domenico Guglielmo aufbricht. Er hat einen Teil der Druckfahnen des zweiten Bandes der dritten Auflage der „Geschichte der Stadt Rom im Mittelalter“ (1875) von Mariano erhalten; die restlichen Fahnen sollen direkt nach Andria zu Guglielmi gehen oder von Mariano aufbewahrt werden. Grüße an Karl und Auguste Lindemann-Frommel.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000655">Caserta</placeName>
+                    <date when="1875-05-08" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><seg type="comment"><orig>Caserta</orig><note xml:id="ns2g_5b5_zlb">Gregorovius war am 1. Mai 1875 zunächst von Rom nach Neapel gereist; nach einigen Tagen Aufenthalt in Ischia fuhr er am 8. Mai nach Caserta (siehe RT, 23.5.1875, S. 351–355).</note></seg>, 8. Maggio 75 <lb/>le 5 ore di sera</dateline>
+                    <salute rendition="#c">Caro amico Mariano,</salute>
+                </opener>
+<p>non prima di questa <seg type="comment"><orig>mane</orig><note xml:id="nclf_vb5_zlb">Anderes Wort für „mattina“.</note></seg> sono partito da <placeName key="G000600">Ischia</placeName>, ed era mia fortuna, porchè se non avessi ritardato la mia partenza, facilmente non avrei potuto prendere dalla posta di <placeName key="G000737">Napoli</placeName> le lettere e le bozze di stampa.</p>
+<p>Ed ecco mi qua nel medesimo <orgName key="ed_ftf_jwg_zkb">Albergo della Vittoria</orgName>, dove appunto <seg type="comment"><orig>un anno fà stettimo insieme col mio <persName key="G001203">fratello</persName></orig><note xml:id="nwzh_wb5_zlb">Das Jahr zuvor war Gregorovius am 14. Mai 1874 mit seinem Bruder Julius (1818–1891) von Rom nach Süditalien aufgebrochen. Die erste Station der Reise war Caserta, wo Raffaele Mariano zu ihnen stieß. Gemeinsam führten sie die Reise fort, und machten dabei u.a. in Benevent, Foggia, Lucera, Manfredonia, dem Kap Gargano, Foggia, Barletta, Bari, Tarent und Massafra Station. In Trani trennte sich Mariano am 23.5. von den Gregorovius-Brüdern, welche am 6. Juni nach Rom zurückkehrten (siehe RT, S. 339–342). </note></seg>.</p>
+<p>Il tempo è magnifico e delizioso. Partirò domani col primo treno a  <seg type="comment"><orig><placeName key="G000632">Benevento</placeName></orig><note xml:id="nsjn_xb5_zlb">Von Benevent aus setzte er, gemeinsam mit Mariano, am 11. Mai die Fahrt nach Apulien fort. Sie machten dabei Station in Trani, Andria, Castel del Monte, Ruvo, Brindisi und Lecce, wo sie am 15. Mai eintrafen. Am folgenden Tag reisten sie nach Tarent, blieben dort für zwei Tage. Am 19. Mai erfolgte die Rückreise über Massafra, Foggia, Benevent und Caserta nach Rom, wo sie am 21. ankamen (siehe RT, 23.5.1875, S. 351–355). </note></seg>, ed ivi starò tutto il dì 10. Quindi mi troverete alla stazione di costì precisamente la mattina di martedì 11, alle ore 7/50, dove vi attenderò <pb n="1v"/>con giubilo.</p>
+<p>Spedirò da Benevento un telegramma al <persName key="G001221">Guglielmi</persName> per indicargli l’ora <seg type="comment"><orig>del nostro arrivo</orig><note xml:id="nabm_yb5_zlb">Er hatte dem gemeinsamen Freund Domenico Guglielmo geschrieben, damit er ihnen bei sich in Andria eine Unterkunft gewährt (siehe den Brief von Gregorovius an Mariano, 2.5.1875).</note></seg> alla stazione di <placeName key="G000630">Barletta</placeName>.</p>
+<p>La ringrazio della spedizione delle bozze di stampa. Suppongo, che prima della di lei partenza di Roma ne giungeranno altre ancora. In caso di no, e che tali bozze giungessero dopo della sua partenza, desidero che si spedissero addirittura ad <placeName key="ed_ujj_sgh_zkb">Andria</placeName> alla casa Guglielmi; sepperò arrivassero a Roma più tardi del 13 di Maggio, sarebbe meglio di dar ordine in casa vostra, che la si rattengano <pb n="2r"/>fino a tanto che meglio si provederà. Mi premono quelle bozze di <placeName key="G000879">Stuttgart</placeName>, perché saranno le ultime del <bibl corresp="G003478">vol<ex>ume</ex> II° di terza edizione,</bibl> e rivedute quelle avrò qualche riposo, prima che si metta mano alla stampa del <bibl corresp="G003471">vol<ex>ume</ex> III°</bibl>.</p>
+<p>Mi duole intimamente, che il nostro <persName key="G001375">Lindemann</persName> non vuole o non può accompagnarci; però egli ha ogni ragione di tenersi in casa, e per nessun modo vorrei assumere la responsabilità del suo viaggio. Prego di portar a tutti di casa Lind<ex>emann</ex> i miei saluti; ebbi la lettera della signora <persName key="G001374">L<ex>indemann</ex>
+                    </persName>, e le darò riscontro in Benevento, od in Andria.</p>
+                <closer>
+                    <salute rendition="#c">Con mille saluti affettuosi <lb/>il vostro</salute>
+                    <signed rendition="#c">FGregorovius.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

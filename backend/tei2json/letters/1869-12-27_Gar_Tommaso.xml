@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000293">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Tommaso Gar in Venedig. Rom, 27. Dezember 1869</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Biblioteca Comunale di Trento</repository>
+                        <idno>busta BCT1–2257/52</idno>
+                    </msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ½ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für Kopien aus der Biblioteca Marciana. Die von Lord John Emmerich Dalberg-Acton in der Marciana vermuteten Briefe Cesare Borgias an seinen Vater Alexander VI. sind dort nicht auffindbar. Er hat ein Teilmanuskript des siebten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1870) durch Wilhelm Lübke nach Stuttgart transportieren lassen, das Restmanuskript steht vor dem Abschluss. Er prophezeit Gar die baldige Ernennung zum Senator des Königreich Italiens. Grüße von Auguste Lindemann-Frommel, die bei schwacher Gesundheit ist, und an Madeleine Creutzer.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName>
+                    <date when="1869-12-27" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001158">Gar, Tommaso (1808–1871)</persName>
+<placeName key="G000894">Venedig</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">27. <foreign xml:lang="deu">De<ex>cem</ex>b<ex>e</ex>r</foreign>. 1869.</dateline>
+                    <salute>Carissimo amico Gar,</salute>
+                </opener>
+<p>ho ricevuto la vostra lettera cogli acchiusivi documenti, per cui mi avete reso veramente confuso non volendo, fuor delle frasi, dovete sapere, ch’o sento nel cuore mio tutto quello che qui la parola non dice. Quelle carte mi vennero appunto a proposito, massimamente <seg type="comment"><orig>la lettera del <persName key="G001321">Vincola</persName></orig><note xml:id="nxdm_zgk_1mb">Cesare Borgia (1475/76–1507), der uneheliche Sohn des späteren Papstes Alexander VI. (1431–1503), wurde als 1. Herzog von Valentinois auch „il Valentino“ genannt. Möglicherweise handelt es sich um einen Brief von Giuliano della Rovere (1443–1513, ab 1503 Papst Julius II.) an Papst Alexander VI. (1431–1503), in dem er seine Rückkehr nach Rom wünschte. Siehe „Die Geschichte der Stadt Rom im Mittelalter“, Bd. 7 (1870), S. 423f., Fußnote 1. </note></seg>. <seg type="comment"><orig>Il Lord <persName key="G000906">Acton</persName> deve aver sbagliato nel supporre, che delle lettere di <persName key="G000983">Cesare Borgia</persName> fossero contenute nei volumi della</orig><note xml:id="ntgd_rks_ylb">Aus dem Brief von Gregorovius an Gar vom 11.12.1869 geht hervor, dass Sir John Emmerich Dalberg-Acton (1834–1902) die Briefe in der Biblioteca Marciana in einer Autografensammlung des 15. Jahrhunderts vermutete.</note></seg> <seg type="comment"><orig><orgName key="G000562">Marciana</orgName></orig><note xml:id="nksb_5ks_ylb">Die Biblioteca Nazionale Marciana (auch Markusbibliothek) ist eine der größten Nationalbibliotheken Italiens in Venedig und berühmt für ihre Sammlungen von orientalischen, griechischen und lateinischen Handschriften. </note></seg>. Ora lasciamole andare, perchè non c’importa tanto.</p>
+<p><seg type="comment"><orig>Ho spedito la prima parte del manoscritto del <bibl sameAs="G003441">settimo vol<ex>ume</ex> </bibl> a <placeName key="G000879">Stoc<subst><del rendition="#ow">g</del><add place="across">c</add></subst>arda</placeName></orig><note xml:id="nzxl_vks_ylb">Der Stuttgarter Kunsthistoriker Wilhelm Lübke (1826–1893), der Königin Olga von Württemberg (1822–1892) auf einer Romreise begleitete, brachte bereits Mitte Dezember einen Teil des Manuskripts des siebten Bandes der „Geschichte der Stadt Rom im Mittelalter“ zu Cotta nach Stuttgart. Siehe RT, 19.12.1869, S. 270.</note></seg>; ed ora mi mancano poche pagine per compiere il tutto, cosa di che sono oltremodo lieto, puotendo così respirar un po’ ed <pb n="1v"/>accingermi ad alzar le vele per l’ultimo mio viaggio, <seg type="comment"><orig>cioè <bibl sameAs="G003434">l’ottavo</bibl></orig><note xml:id="njc2_xks_ylb">Der achte und letzte Band der „Geschichte der Stadt Rom im Mittelalter“ erschien 1872 bei Cotta. </note></seg>, dopo di quello spero di raggiungere il porto desiderato : porto della pace, dove potrò lasciar marciarsi il piccolo legno mio, come a Dio ed agli elementi piacerà.</p>
+<p>Ho ritardata questa mia, per mandare a voi come all’amabile <persName key="G001056">baronessa</persName> i miei caldissimi saluti ed auguri per l’anno nuovo. Sia questo più fecondo ancora per voi, che non è stato il passato, benchè anche quello, vi a portato i ben meritati frutti delle vostre fatiche insigni. Già vi vedo, Senatore <pb n="2r"/>del Regno, ed assiedervi fra i padri del <orgName key="G000558">senato Italiano</orgName> sul posto distinto, cui renderete ancora più onore, col vostro nome e colla vostra persona, che non dovete riceverne.</p>
+<p>La <persName key="G001374">signora Lindemann</persName> aggiunge dalla parte sua mille saluti; essa avrebbe scritto alla Baronessa di pugno suo proprio, ma stà poco bene. Questa amabile signora rassomiglia ad una lampa languente – spande ancora attorno di se un dolce lume, ma stà per estinguersi. Non ho parole da dire, con quanta santa pazienza ella supporti la sua penosa malattia. Se morisse, guai anche a me! Perchè perderò in lei una buona parte dell’anima mia.</p>
+<p>Caro amico, la vita passa rapidamente – stringhiamoci dunque le mani, noi altri <pb n="2v"/>pochi, che lega insieme il legame della mutua amicizia e del rispetto e dell’amore delle idee, che non vanno perdendosi nella tomba.</p>
+                <closer>
+<salute rendition="#right"><seg type="comment"><orig> <foreign xml:lang="Lat">Salve, caro Gar, et fave <lb/>Totus tuus </foreign> </orig><note xml:id="nnwx_1ls_ylb">Lat. für: Sei gegrüßt, lieber Gar, und sei gewogen / Ganz dein.</note></seg></salute>
+<signed rendition="#right">FGregorovius </signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

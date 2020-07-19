@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000336">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Marie Rückert in Coburg-Neuses. Stuttgart, 4. September 1869</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Stadtarchiv Schweinfurt</repository><collection>Sammlung Rückert</collection><idno>A I 122 – 349</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Ihr Brief hat ihn in Zürich erreicht. Nach seinen Ende Mai beginnenden Fieberschüben war er weitgehend vergeblich für fünf Wochen zur Erholung nach Zürich gereist. Er ist in Stuttgart, um Neuauflagen seiner Werke zu besprechen, darunter auch die seines Erstlings „Corsica“ (1869). Ihr Wunsch, ihn persönlich zu treffen, scheint ihm auf einer Illusion über seine Persönlichkeit zu beruhen. Sie kann ihn aber noch acht bis zehn Tage in Stuttgart antreffen oder ab dem 15. September in München.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000879">Stuttgart</placeName><date when="1869-09-04" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001561">Rückert, Marie (1835–1920)</persName>
+<placeName key="G000661">Coburg-Neuses</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c"><hi rendition="#aq">Stuttgart</hi>, <orgName key="G000523">Buchhandl<ex>ung</ex> Cotta</orgName> <lb/>4. <hi rendition="#aq">Sept<ex>embe</ex>r</hi> 69.</dateline>
+                    <salute rendition="#c">Verehrtes Fräulein <hi rendition="#aq">Marie</hi>,</salute>
+                </opener>
+<p>Ihre Zeilen gelangten auf Umwegen von <placeName key="G000763">Rom </placeName>zu mir u<ex>nd</ex> trafen mich <?oxy_comment_start author="Angela Steinsiek" timestamp="20200414T193837+0200" comment="Nach seit dem Frühjahr andauernden Fieberschüben war Gregorovius Anfang Juli zur Erholung nach Zürich gereist; siehe die Briefe von Gregorovius an Marie Rückert, 28.6.1869, an Georg Gottfried Gervinus, 4.8.1869 und an Wilhelm Heyd, 5.8.1869 (Württembergische Landesbibliothek Stuttgart; Cod. hist 4° 391, Kaps. I 217) und RT, 26.7.–21.8.1869, S. 259–262. "?>in <placeName key="G000903">Zürich</placeName>. Dort lebte ich einige Wochen, Heilung von den Folgen des Fiebers suchend, ohne sie doch zu finden<?oxy_comment_end?>. Ich bin <?oxy_comment_start author="Angela Steinsiek" timestamp="20200414T193922+0200" comment="Zum Stuttgarter Aufenthalt von Gregorovius vom 26.8.–17.9.1869 siehe RT, 13.9.1869, S. 262–264."?>hierher gegangen, das Haus Cotta wieder zu sehen, u<ex>nd</ex> etwas auszuruhen, weshalb ich in <placeName key="G000634">Berg bei Canstadt</placeName> Wohnung nahm<?oxy_comment_end?>. Ich bin ruhesüchtig und schlafsüchtig wie ein Murmelthier; muß aber sehr daran, da ich viel zu besprechen habe, für <?oxy_comment_start author="Angela Steinsiek" timestamp="20200414T193954+0200" comment="In Stuttgart wurde eine Neuauflage seines Erstlings „Corsica“ (1854) beschlossen (siehe RT, 13.9.1869, S. 262); sie erschien noch im selben Jahr."?>neue Ausgaben meiner Bücher, worunter auch Ihr Liebling <bibl sameAs="G003107">Corsica</bibl><?oxy_comment_end?>. Das <?oxy_comment_start author="Angela Steinsiek" timestamp="20200414T194149+0200" comment="Im Brief von Gregorovius an Marie Rückert vom 14.11.1869 bat er sich, sich in seinem Namen ein Exemplar beim Cotta-Verlag zu besorgen (h: Stadtarchiv Schweinfurt, Sammlung Rückert, A I 263 – 73 – 2)."?>erste Exemplar, welches fertig wird, sollen Sie haben<?oxy_comment_end?>. </p>
+<p>Sie wünschen in Ihrer Liebenswürdigkeit, mich zu sehen, u<ex>nd</ex> scheuen sich nicht gegen eine Klugheitsregel, <pb n="1v"/>zu handeln. Ich meine, Sie wollen eine freundliche Illusion zerstören. Das Beste was Schriftsteller sind, pflegt zwischen den Pappdeckeln zu liegen, nicht in ihrer Persönlichkeit. Dies ist eine alte Erfahrung.</p>
+<p>Sollten Sie über <hi rendition="#aq">Stuttgart</hi> nach der <placeName key="G000870">Schweiz</placeName> reisen, <?oxy_comment_start author="Angela Steinsiek" timestamp="20200414T194300+0200" comment="Gregorovius reiste am 17. September von Bad Cannstadt ab und traf am 18. über Augsburg reisend in München ein (siehe RT, 24.9.1869, S. 264). Ein Treffen mit Marie Rückert kam nicht zustande (so nach dem Brief von Gregorovius an Marie Rückert, 14.11.1869, h: Stadtarchiv Schweinfurt, Sammlung Rückert, A I 263 – 73 – 2)."?>so würden Sie mich noch innerhalb 8–10 Tagen hier treffen, oder nach dem 15. <hi rendition="#aq">Sept<ex>ember</ex></hi> in <placeName key="G000734">München</placeName><?oxy_comment_end?>, wo ich in der <orgName key="G000472">Literarisch-Artistischen Anstalt Cotta</orgName> meine Adresse lasse. Hier ist sie im Hause Cotta, u<ex>nd</ex> speciell meine Wohnung <placeName key="G000634"><hi rendition="#aq"><?oxy_comment_start author="Angela Steinsiek" timestamp="20200414T194508+0200" comment="Berg, südwestlich von Bad Cannstadt und nördlich von Stuttgart."?>Berg</hi> bei Canstadt<?oxy_comment_end?></placeName>, <persName key="G000904">Frau Offinger</persName>.</p>
+                <closer>
+<salute xml:id="s1" next="#s2" rendition="#c">Alles Gute u<ex>nd</ex> Schöne wünschend</salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">Ihr ergebenster </salute>
+<signed rendition="#right">FGreg</signed>
+<note type="postscript">In großer Eile geschrieben wegen übergroßer Correspondenz.</note>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

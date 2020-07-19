@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000274">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Tommaso Gar in Neapel. Rom, 20. Dezember 1864</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+                <respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname>
+                        <forename>Frederike</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Biblioteca Comunale di Trento</repository>
+                        <idno>
+                            <idno>busta BCT1–2257/52</idno>
+                        </idno>
+                    </msIdentifier>
+                    <physDesc>
+<p>1 Dbl., 8°, 3 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die Hilfe bei der Beschaffung seiner Zigarren. Die Verhandlungen zur Übersetzung seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) mit dem Verleger Gasparo Barbera, an denen auch Atto Vannucci beteiligt ist, kommen nicht recht voran. Wenn Gar tatsächlich an der Übersetzung seiner „Geschichte der Stadt Rom im Mittelalter“ festhalten will, soll er Rinaldo Fulin und dem Verlag Antonelli schreiben. In Rom besucht Gregorovius Konzerte bei Auguste Lindemann-Frommel. Er hat Giuseppe De Blasiis’ „L’insurrezione pugliese e la conquista normanna nel secolo XI.“ (1864) noch nicht gelesen. Grüße an Madeleine Creutzer.</p>
+                <p xml:lang="en">He thanks for the help in getting his cigars. The negotiations with the publisher Gasparo Barbera for the translation of his „Geschichte der Stadt Rom im Mittelalter“ (1859–1872), in which Atto Vannucci is also involved, are not progressing very well. If he really wants to translate his „Geschichte der Stadt Rom im Mittelalter“, he should write to Rinaldo Fulin and the publisher Antonelli. In Rome, Gregorovius attends concerts with Auguste Lindemann-Frommel. He has not yet read Giuseppe De Blasiis’ „L’insurrezione pugliese e la conquista normanna nel secolo XI.“ (1864). Greetings to Madeleine Creutzer.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName>
+                    <date when="1864-12-20" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001158">Gar, Tommaso (1808–1871)</persName>
+<placeName key="G000737">Neapel</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Roma, 20 D<ex>i</ex>c<ex>em</ex>br<ex>e</ex> 64</dateline>
+                    <salute rendition="#c">Caro Amico Gar!</salute>
+                </opener>
+<p>mi metto subito a rispondervi con poche righe. Ringrazio vi della cura che volete prendere della <seg type="comment"><orig>mia fantasia fumatrice virginea</orig><note xml:id="nyqd_pml_ylb">Gregorovius bat Gar um die Besorgung von Zigarren (siehe die Briefe von Gregorovius an Gar, <ref target="G000263">7.12.1864</ref> und <ref target="G000271">13.12.1864</ref>)</note></seg>. Per <unclear reason="illegible" cert="high">cautà</unclear>, non mandarmi codeste bizzarrerie per la posta, piuttosto lasciarle del tutto, o avvalersi di una occasione di mano. </p>
+<p>Quello <supplied cert="high">che</supplied> mi scrivete sopra <seg type="comment"><orig>gli affari di <placeName key="G000671">Firenze</placeName></orig><note xml:id="ngf2_qml_ylb">Gar wollte die „Geschichte der Stadt Rom im Mittelalter“ (Bde. 1–4; 1859–1862) übersetzen und verhandelte daher mit dem florentiner Verleger Gasparo Barbera (1818–1880), bei dem bereits die „Euphorion“-Übersetzung (1858) erschienen war (siehe auch den Brief von <ref target="G000271">Gregorovius an Gar, 13.12.1864</ref>).</note></seg> in modo tanto indeciso, ch’io non sappia, se <seg type="comment"><orig>il gent<ex>ile</ex> <persName key="G001670">Vannucci</persName></orig><note xml:id="nnvs_rml_ylb">Atto Vannucci (1810–1883) war Historiker, Philologe sowie Politiker. Er lernte Gregorovius 1858 im deutsch-florentinischen Salon bei Caroline Ungher-Sabatier (1803–1877) und François Sabatier (1818–1891) kennen (siehe RT, 31.8.1858, S.73). Ab 1859 war er Direktor der Biblioteca Magliabecchiana in Florenz.</note></seg> <seg type="comment"><orig>abbia fatta la proposizione al <persName key="G000958">Barbèra</persName> </orig><note xml:id="nlbd_tml_ylb">Möglicherweise hatte sich Atto Vanucci (1810–1883) als Mittelsmann für die Verlagsverhandlungen mit Gasparo Barbera (1818–1880) angeboten.</note></seg>o nò, almeno pare che dimostri l’abanndono della cosa colà. Quanto a me, io non posso spingere una tale impresa, che tratta <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">opere mie</bibl>, mà ben inteso io sono abbastantamente autore, per non accettarne l’occasione, o meglio per non capire, che col diffondere un’opera, si rallarga il circolo della sua desiderata influenza sugli studi letterarii del publico.</p>
+<p>La vostra offerta gentile non mi pare positiva, per confessar la verità; mi parve piuttosto effetto dei sentimenti benevoli verso di me, che del piacere, che vi arrecò l’opera stessa. Non possò lasciar qualunquesiasi cosa nel dubbio e nelle incertezze. Io mi tengo sempre sul si, o sul nò. Mi proponete, di aspettar qualche tempo, finchè <seg type="comment"><orig>un ignoto librajo</orig><note xml:id="nlqp_5ml_ylb">Nicht ermittelt.</note></seg> di <placeName key="G000894">Venezia</placeName> si muova verso di noi. Questo non può essere, perchè dopo la lettera scritta al <persName key="G001151">Fulin</persName> <pb n="1v"/>a Venezia non ci si penserà più.</p>
+<p>L’<seg type="comment"><orig>intenzione del <persName key="G001151">Fulin</persName> mi si presta come cosa positiva</orig><note xml:id="nw3v_xml_ylb">Rinaldo Fulin (1824–1884) stellte den Kontakt zwischen Gregorovius und dem Verlag Antonelli her. Gregorovius akzeptierte das wenig profitable Angebot des Verlags vor dem Hintergrund der wirtschaftlichen Lage des Literaturbetriebs (siehe den Brief von <ref target="G000271">Gregorovius an Gar, 13.12.1864</ref>), was er später bereute. Rückblickend heißt es dazu am 2.6.1872 in seinem Tagebuch: „Als mir 1865 Antonelli in Venedig durch Vermittlung Fulins den Antrag der italienischen Ausgabe meiner ‚Geschichte‘ machte, konnte ich nicht ahnen, daß der Sturz des Papsttums in Rom nahe sei; ich war froh, daß ein italienischer Buchhändler so viel Mut hatte, und überließ ihm das ausschließliche Druckrecht. Ich beanspruchte nur die Summe von 250 Francs für jeden Band, als Symbol meines Autorrechts. Der erste Band der Übersetzung Manzatos erschien 1866; die Fortsetzung unterblieb, und Antonelli machte außerdem Bankerott. Im Jahre 1869 trat als sein Administrator Rebeschini ein, worauf der Kontrakt erneuert wurde und im Frühjahr 1872 der zweite Band erschien. Ich bin in der Fessel dieses Vertrags. Wenn ich von ihm befreit wäre, so würde heute das Werk in einer von der Stadt Rom selbst veranstalteten und unter meinen Augen besorgten Ausgabe erscheinen können.“ (S. 325)</note></seg>, e fondata già su di una base col <orgName key="G000484">librajo</orgName>. Egli sarebbe dunque inconveniente, di rispingere una offerta di tale natura, e di lasciare piuttosto la cosa nelle dubbiezze. Avendo dunque fatta questa riflessione, vi propongo, caro Gar, come segue:</p>
+<p>nel caso, che avete il fermo pensier, di tradurre la Storia di Roma, mettetevi da voi stesso in contatto col Prof<ex>essore</ex> Rinaldo Fulin del <orgName key="G000529">Liceo di S. Catarina à Venezia</orgName>, offrendovi come traduttore al libraro, con cui colà si tratta.</p>
+<p>Se non potete sommettervi ad un peso simile, prevedendo o la molto probabile mancanza di tempo, o altri motivi di impedimento, scrivete allo stesso Fulin, avvisandolo, che voi vi siete disimpegnato, che gli lasciate libera la via in codesto affare, e ch’egli si dirigga di nuovo a me, per l’autorisazione desiderata. Non c’è d’uopo <del rendition="#s">di</del> dirvi, che una traduzione uscita dalla vostra dotta ed abile penna, e come monumento della vostra amichevole benevolenza verso di me, mi resterebbe <pb n="2r"/>oltre modo cara; ma io comprenderò all’istante la ragionevolezza del vostro disimpegno, e come uomo pratico che sono, o che vorrei esser almeno, non vorrei <add place="superlinear">lasciar</add> andare al vuoto un’offerta fatta mi tanto positivamente da Venezia, e di cui l’esecuzione reale di certo aumenterebbe la reputazione della mia opera.</p>
+<p>Aspetto caro Gar, la più chiara e categoricamente decisa vostra risposta, per finir questa impresa, e per mettermi sul positivo.</p>
+<p>Stiamo bene qui a Roma. Ogni settimana novi Trio musicale (di <persName key="G000962">Bethoven</persName>) presso la gentile <persName key="G001374">Lindemann</persName>. Vedo degli amici di qua di là; sto immerso, però senza pericolo di vita, nei lavori, che finora non mi lasciarono mano libera a metterla <seg type="comment"><orig>alla Storia del <persName key="G001072">De Blasiis</persName>.</orig><note xml:id="nly1_gnl_ylb">Giuseppe De Blasiis: L'insurrezione pugliese e la conquista normanna nel secolo XI. 3 Bde. Neapel: Alberto Detken. Bd. 1 1864. Bd. 2 1864. Bd. 3 1873.</note></seg> Rispettuosi saluti alla Signora <persName key="G001056">Baronessa</persName>, al Signor <persName key="G001670">Vanucci</persName>, ed agli altri amici. E cosi augurandovi la buona festa, e buon capo d’anno, vi stringo, carissimo Gar, caldamente la mano,</p>
+                <closer>
+                    <salute rendition="#c">
+                        <foreign xml:lang="eng">for ever your</foreign>
+                    </salute> <signed rendition="#right">Gregorovius</signed> </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

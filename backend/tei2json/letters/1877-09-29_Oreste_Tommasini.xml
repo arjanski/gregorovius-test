@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000251">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Oreste Tommasini in Rom.  München, 29. September 1877</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+                
+                <respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+                </respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Rom, Biblioteca Vallicelliana</repository><collection>Carte Tommasini</collection><idno>G VII, 1–2</idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 1 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+<p xml:lang="de">Er ist immer noch aufgebracht über Oreste Tommasinis Artikel „Della storia medievale di Roma e de’ più recenti raccontatori di essa“ im „Archivio della Società romana di storia patria“ (1877) und schickt Tommasinis Brief ungelesen zurück. Er wird nicht vergessen, dass Tommasini die Petition zur seiner Ernennung zum Ehrenbürger Roms unterzeichnete. </p>
+<p xml:lang="it"/>
+<p xml:lang="en"/>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1877-09-29" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001650">Tommasini, Oreste (1844–1919)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">26. September 1877</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+<salute>Signor <seg type="comment"><orig>Tommasini</orig><note xml:id="nt1b_c1j_1mb">Oreste Tommasini (1844–1919) war Gründungsmitglied des römischen Geschichtsvereins und wurde 1883 Präsident der Società Romana di Storia Patria. Sein Artikel „Della storia medievale di Roma e de’ più recenti raccontatori di essa“ erschien im „Archivio della Società romana di storia patria“, I (1877), S. 1–46. </note></seg>,</salute>
+</opener>
+                <p><seg type="comment"><orig>allorchè le scrissi quelle poche righe,</orig><note xml:id="nork_d1j_1mb">Gregorovius hatte Oreste Tommasini am 23.9.1877 geschrieben und sich über dessen Artikel „Della storia medievale di Roma e de’ più recenti raccontatori di essa“ im „Archivio della Società romana di storia patria“ (1877) empört. Seiner „Geschichte der Stadt Rom im Mittelalter“ (8 Bde., 1859–1872). werde damit der Wert abgesprochen, den es durch seine Ernennung zum Ehrenbürger der Stadt Rom sowie durch die positive Besprechung „La Storia della Città di Roma nel Medio Evo di Ferdinando Gregorovius“ (1877) in der konservativen „Civiltà Cattolica“ erhalten hatte. Im römischen Tagebuch heißt es zu der Sache: „Der Archivar [Antonino] Bertolotti gab mir Kunde, daß man in dem neu gegründeten ‚Archivio Storico Romano‘ feindlich gegen mich aufgetreten sei, indem man meine ‚Geschichte der Stadt‘ auf ‚jesuitische Weise‘ entstellt habe, um [Alfred von] Reumont [1808–1887] auf meinen Thron zu setzen. Ich erhielt bald darauf dieses Heft. Der betreffende einleitende Artikel, von einem gewissen Tommasini, einem auf klerikalen Wegen schleichenden, ganz unbedeutenden Menschen verfasst [...] war in der Tat ein jammervolles Machwerk des Neides. Ich erhielt bald darauf von Pasquale Villari einen Brief, worin er mir sagte, daß die Ungerechtigkeit, mit der man mich behandelt habe, alle wohl denkenden Italiener empöre.“ (August 1877, S. 379)</note></seg> non m’ aspettavo risposta: chè il rispondere non poteva servire più a nulla; nemmeno Ella poteva presupporre, che mi sentissi ancora disposto a leggere parola alcuna di lei.</p>
+<p>per ciò prego di scusarmi, che le restituisco la lettera, riconosciuta da me per sua dalla sottoscrizione di nome, ma non letta da me, nè da altri vista.</p>
+<p>Ciò facendo malvolentieri l'assicuro, che rimarrò ricordevole di <seg type="comment"><orig>quella dimostrazione di simpatia</orig><note xml:id="nzrl_21j_1mb">Am 8. März 1876 hatte der römische Gemeinderat die Entscheidung getroffen, dem Autor der „Geschichte der Stadt Rom im Mittelalter“ (8 Bde., 1859–1872) mit der Verleihung der Ehrenbürgerwürde Roms für seine Verdienste um die italienische Geschichtsschreibung zu danken (siehe den Brief von Gregorovius an Pietro Venturi vom 17.3.1876). Dem voraus ging eine handschriftliche Petition vom 10. Februar 1876 an den römischen Gemeinderat, die auch Oreste Tommasini unterzeichnet hatte.</note></seg> di cui anteriormente mi onorò, e che sarò lieto qualora intenderò che Ella prosperi e negli studj cui attende e in ogni altro bene desiderabile. </p>
+                <closer>
+<dateline>Monaco 29. Sett<ex>em</ex>bre <lb/>1877.</dateline>
+<signed rendition="#right">Ferd. Gregorovius.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

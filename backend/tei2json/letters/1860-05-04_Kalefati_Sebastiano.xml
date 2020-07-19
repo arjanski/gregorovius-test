@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000425">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Sebastiano Kalefati in Montecassino. Rom, 4. Mai 1860</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Montecassino, Archivio dell’Abbazia </repository><collection>Carteggio Kalefati</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ¾ S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Tommaso Leccisotti: Alcune lettere di Ferdinando Gregorovius a Monaci Cassinesi. In: Benedictina. Fascicoli di studi Benededettini. Jg. 14. Fasc. 1. Rom: S. Paolo 1967. S. 144–145</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Das von Kalefati geplante Editionsprojekt zur byzantinischen Herrschaft und Kultur in Süditalien („Codice Italo-Bizantino“) interessiert ihn sehr, weil er sich neue Aufschlüsse zur griechischen Kolonisation Kalabriens und der Geschichte der griechisch-kalabrischen Sprache erhofft. In Kalabrien könnten möglicherweise weitere Quellen erschlossen werden. Er hat den dritten Band der „Monumenta Germaniae Historica“ (1839) mit der Chronik (972–1000) des Benedetto del Soratte studiert. Der dritte Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1860) ist im Druck. Er arbeitet am vierten Band (1862). Ende Juni will er für vier Monate nach Deutschland.</p>
+                <p xml:lang="en">Kalefati’s planned editorial project on the Byzantine rule and culture in southern Italy („Codice Italo-Bizantino“) is of great interest to him because he hopes to gain new insights into the Greek colonization of Calabria and the history of the Greek-Calabrian language. In Calabria further sources could possibly be extrapolated. He has studied the third volume of the „Monumenta Germaniae Historica“ (1839) with the chronicle (972–1000) of Benedetto del Soratte. The third volume of his „Geschichte der Stadt Rom im Mittelalter“ (1860) is in print. He is working on the fourth volume (1862). At the end of June he wants to go to Germany for four months.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1860-05-04" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001326">Kalefati, Sebastiano</persName>
+<placeName key="G000730">Montecassino</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<salute rendition="#c"><seg type="comment"><orig>Mio caro Don Sebastiano</orig><note xml:id="njdj_25j_vlb">Der Brief lag dem Brief desselben Datums an Luigi Tosti bei; siehe den Brief von Gregorovius an Luigi Tosti vom <ref target="G000424">4.5.1860</ref>.</note></seg>,</salute>
+</opener>
+<p>provai una vivissima gioja, quando da <placeName key="G000776"><seg type="comment"><orig>S<ex>an</ex> Paolo fuori le mura</orig><note xml:id="npbk_f5j_vlb">Die außerhalb der antiken aurelianischen Stadtmauer liegende Kirche.</note></seg></placeName> mi venne portato <seg type="comment"><orig>il suo programma del Codice Italo-Bizantino</orig><note xml:id="nl12_h5j_vlb">Kalefati wurde vom Direktor des Staatsarchivs in Neapel Angiolo Granito, Prinz von Belmonte (†1861), die Durchführung eines schon seit 1850 geplanten Editionsvorhabens zur byzantinischen Herrschaft und Kultur in Süditalien angetragen. Publiziert werden sollten alle griechischen Pergamente des 8.–15. Jh., die sich im Staatsarchiv in Neapel und den Archiven der Abteien Montecassino, Cava de’ Terreni und Monte Vergine befanden. Vgl. dazu: Della pubblicazione di un codice diplomatico italo-bizantino dall’8. al 15. Secolo. Rapporto di don Sebastiano Kalefati, monaco di Montecassino al principe di Belmonte. In: Archivio Storico Italiano. Bd. 12, 1 (1860), S. 186–191: https://www.jstor.org/stable/44452752?seq=1#metadata_info_tab_contents. Bei dem von Gregorovius erwähnten „Programm“ handelt es sich wahrscheinlich um den, im zitierten Artikel zusammengefassten, Projektbericht Kalefatis (in: Museo di Scienze e letteratura, Februar 1860, Bd. 17, N.S. 3). Kalefati konnte die Arbeit an der Edition bis zu seinem Tod 1863 nicht abschließen.</note></seg>. Lo perlegevo attentamente in casa mia, come passeggiando per <seg type="comment"><orig>i boschi della <placeName key="G000777">Villa Borghese</placeName></orig><note xml:id="nglg_35j_vlb">Zur nördlich vom Zentrum gelegenen Villa Borghese, nicht weit entfernt der Spanischen Treppe, gehört ein ca. 5 km² großer Park.</note></seg>. Mi congratulo con Lei: <seg type="comment"><orig>di certo nulla meglio potra giovare al rischiaramento di una parte della storia del medio evo italiano, che lo studio e il confronto di tali documenti dilucidati della critica di Lei, e posti in fila e serie</orig><note xml:id="nqyd_l5j_vlb">Es findet sich kein Nachweis darüber, dass Gregorovius Kalefatis Arbeit in seine Studien miteinbezogen hat.</note></seg>. Ne si cavera molto lume per leggi, costituzioni ecclesiastiche, topografia, e per l’indole della lingua greca in quell’epoca. Nessuna popalazione è rimasta avviluppata da tanta caligine, come si è quella greca delle <placeName key="G000816">Calabrie</placeName>; e egli sarebbe un fatto oltre modo interessante, se Lei potesse confermare l’opinione di chi pensa, che <pb n="1v"/><seg type="comment"><orig>i Greci della Calabria sotto dominio bizantino o langobardo</orig><note xml:id="nsd4_m5j_vlb">Die byzantinische Periode Kalabriens ist auch als zweite griechische Kolonisation bekannt, die Byzantiner als die Erben des Oströmischen Reiches. Die Langobarden fielen im April 568 in Italien ein, um 600 umfasste ihr Gebiet fast ganz Italien; Kalabrien blieb allerdings römisch.</note></seg> continuavano ad essere di dirittura discendenti degli Elleni della <seg type="comment"><orig>Magna Grecia</orig><note xml:id="nypr_n5j_vlb">„Großes Griechenland“ oder „Großgriechenland“ meint die antiken, süditalienischen Regionen, in denen sich vom 8. Jahrhundert v. Chr. an griechische Siedler niederließen, die die ursprünglichen Bewohner verdrängten. Die langsam erfolgende Romanisierung der stark griechisch geprägten Gebiete setzte nach dem Zweiten Punischen Krieg (218–201 v. Chr.) ein, als Kalabrien römische Provinz wurde.</note></seg>. Una storia di quelle colonie greche nell’epoca bassa resta nei desiderii della scienza. Poco pero ne sapiamo, poche traccie cene sono rimaste. Finalmente sarei vieppiù curioso, di sapere, in che epoca Lei fissasse <seg type="comment"><orig>la perdizione assoluta della lingua greco-calabra</orig><note xml:id="nblz_p5j_vlb">Die griechisch-kalabrische Sprache, zu unterscheiden von der zweiten italo-griechischen Sprache, die in Grecìa Salentina (Salento, Apulien) gesprochen wird und eine andere Entstehungsgeschichte hat, wurde bis ins 15. und 16. Jahrundert im Süden von Kalabrien gesprochen. In der Zeit wurde sie zunehmend durch den romanischen Dialekt Kalabrisch substituiert. Allerdings können Ortschaften nachgewiesen werden, in denen noch im 19. und zu Beginn des 20. Jahrhunderts griechisch-kalabrisch gesprochen wurde; heutzutage sind es nur noch neun Städte der Region Bovesìa.</note></seg>. Senza dubbio essa si mantenne isolatamente per lungo tratto di tempo in quelle parti. Non sarebbonvi nell’interno delle Calabrie altri monasteri e chiese, in cui si ritroverebbero più documenti, o monumenti di quei tempi, per esempio iscrizioni sepolcrali, o titoli di tal genere? Egli mi par, che un viaggio intrapresovi con questo scuopo dovrebbe portar dei risultati. Come mai è possibile, che tutti i monumenti della vita greca si sieno perduti interamente? Comunque sia, non mi resta altro a desiderar, che questo, che Lei possa godere in pace <unclear reason="covered" cert="high">e</unclear> tranquillità tutti i mezzi, i quali sono necessarie alla sua grande intrapresa. <seg type="comment"><orig>I tempi <pb n="2r"/>oramai sono burrascosi</orig><note xml:id="nend_s5j_vlb">Gemeint sind verschiedene Ereignisse: Die Ernennung Louis Juchault de Lamoricières (1806–1865) zum General der päpstlichen Truppen am 9. April 1860 und dessen Befehlsführung in Rom. Der vom 4.–6. April andauernde Aufstand in Palermo gegen die absolutistische Herrschaft der Bourbonen. Die Auswirkungen des Vetrags von Turin (24. März 1860), der die Übergabe des Herzogtums Savoyen und der Grafschaft Nizza an Frankreich, als Gegenleistung für dessen Hilfe bei der italienischen Einigung, bestätigte.</note></seg>, e ci vuol pazienza per anni interi.</p>
+<p>Io ho studiato già da molto tempo il <bibl sameAs="G004294">Tomo V delle Monumenta Germaniae</bibl>, di cui Lei mi scrive. Avvi dentro delle cose preziose, come per esempio quella barbara <bibl sameAs="G004293"><seg type="comment"><orig>cronica di S<ex>ant’</ex>Andrea sotto il Soratte</orig><note xml:id="ny5y_t5j_vlb">Benedetto di Sant’Andrea oder Benedetto del Soratte war ein in der Nähe des Berges Soratte (Provinz Latium) lebender Benediktiner, der zwischen 972–1000 eine Chronik in lateinischer Sprache verfasste, eine Geschichte der Zeit von der Regierungszeit Kaiser Julians (360–363) bis in das Jahr 965. Die Chronik ist von Pertz zum ersten Mal publiziert worden: MGH Scriptores 3. Hannover 1839, S. 695–719.</note></seg></bibl>, documento interessantissimo per punti di storia, e di lingua. Vorrei, che un savio italiano s’accingesse a scrivere la storia delle rovine della lingua latina.</p>
+<p>Ho terminato il <bibl sameAs="G003469">terzo tomo della mia storia</bibl>, il quale si stampa; ne rileggo e vado corrigendo quasi giornalmente <seg type="comment"><orig>i fogli di stampa, che mi vengono colla posta</orig><note xml:id="nxll_v5j_vlb">„Am 1. Mai kam der erste Korrekturbogen vom dritten Bande.“ (RT, 8.5.1860, S. 98).</note></seg>. Adesso mi sono inoltrato nel<bibl sameAs="G003462"> tomo IV</bibl>.</p>
+<p><seg type="comment"><orig>Verso la fine del Giugno partiro alla volta della <placeName key="G000664">Germania</placeName></orig><note xml:id="nszt_w5j_vlb">Seine Abreise von Rom datiert auf den 27. Juni, seine Ankunft, nach verschiedenen Zwischenstationen, in Stuttgart auf den 24. Juli (vgl. RT, S. 103–106).</note></seg>; voglio vedere cogli ochj miei, come là stanno le cose, e se non altro, voglio soffrire, quello che ci manda Iddio, col popolo mio. Se le vicende pubbliche lo permettono <seg type="comment"><orig>ritornerei volentieri in <placeName key="G000690">Italia</placeName> verso Ottobre</orig><note xml:id="nxvy_y5j_vlb">Am 11. Oktober war er wieder in Rom (siehe RT, 16.10.1860, S. 111).</note></seg>, onde continuarvi gli studi. <pb n="2v"/><seg type="comment"><orig>Mi farò ancora il piacere, di scriverle prima della mia partenza</orig><note xml:id="nfnq_1vj_vlb">Der nächste auf uns gekommene Brief von Gregorovius an Kalefati ist ein gemeinsamer Brief an ihn und Tosti; siehe den Brief von Gregorovius an Sebastiano Kalefati und Luigi Tosti vom <ref target="G000426">19.5.1861</ref>.</note></seg>. </p>
+<p>Mi faccia sapere, che Lei dopo passato l’inverno a Napoli, si sia ristabilito ottimamente nella salute. Col cuore mio penso sempre ai <seg type="comment"><orig>giorni felici di Monte Cassino, e a tutte quelle gentilezza, che Lei generosamente mi aveva donate</orig><note xml:id="nh35_cvj_vlb">Gregrovius verbrachte die Zeit vom 5.–18. Oktober 1859 in Montecassino (vgl. RT, S. 85–91).</note></seg>. </p>
+                <closer>
+<salute rendition="#c"><seg type="comment"><orig><foreign xml:lang="Lat">Vale, fave</foreign>!</orig><note xml:id="nztk_2vj_vlb">Lat. für: Lebe wohl und sei mir gewogen! </note></seg><lb/>Con profonda stima, e coi sinceri affetti di amicizia<lb/>saro sempre di Lei servitore riconoscente</salute>
+<signed rendition="#right"> Ferd. Gregorovius</signed>
+<dateline> Roma 4 Maggio 1860. </dateline>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

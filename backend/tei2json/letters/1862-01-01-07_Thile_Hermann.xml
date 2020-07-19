@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000140">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Hermann von Thile in Berlin. Rom, 1. Januar
+                    1862</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>96/937 (21)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 5 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 346 (nach D) und Karton
+                                        59, Mappe 346 (Ergänzungen nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print">Briefe von Ferdinand Gregorovius an den Staatssekretär
+                            Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S.
+                            49–52 (gekürzt)</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Seine zuletzt mitgeteilten Gedanken zu der Erkrankung Albrecht von Graefes hat er mißverstanden. Mit der in Rom weilenden Adelheid Grunelius hofft er auf dessen baldige Genesung. Derzeit ist er in die „Lebensnachrichten über Barthold Georg Niebuhr“ (1838–1839) vertieft, einem Vorgänger Thiles als Gesandter Preußens am Heiligen Stuhl in Rom. In Niebuhrs Biographie taucht Peter von Cornelius, der jetzt mit seiner jungen Gattin Teresa Giampieri als törichter Greis nach Berlin abgereist ist, noch als Lichtgestalt auf. Der noch tief im 18. Jahrhundert wurzelnde Niebuhr hatte schon 1814 geschrieben, dass die Einheit Italiens früher oder später erfolgen wird. Rom verändert sich durch technischen Fortschritt und Bautätigkeit rasant. Er dankt ihm für seine Bemühungen um die Verlängerung seiner jährlichen Unterstützung von der preußischen Regierung.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He misunderstood his most recently communicated thoughts on Albrecht von Graefe’s illness. Along with Adelheid Grunelius, who is staying in Rome, he hopes for a speedy recovery. Currently he is absorbed in the „Lebensnachrichten über Barthold Georg Niebuhr“ (1838-1839), a predecessor of Thile’s as Prussia’s envoy to the Holy See in Rome. In Niebuhr’s biography, Peter von Cornelius, who has now left for Berlin with his young wife Teresa Giampieri as a foolish old man, appears as a shining light. Niebuhr, still deeply rooted in the 18th century, already wrote in 1814 that the unification of Italy would come sooner or later. Rome is changing rapidly due to technological progress and construction work. He thanks him for his efforts to extend his annual support from the Prussian government. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date from="1862-01-01" to="1862-01-07" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+                    <persName key="G001644">Thile, Hermann von (1812–1889)</persName>
+                    <placeName key="G000636">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+<body>
+<div type="writingSession">
+<opener>
+<dateline rendition="#right"><hi rendition="#aq">Rom</hi>, <hi rendition="#aq">Via Gregoriana</hi> 13. <lb/>1. <hi rendition="#aq">Januar</hi> 1862.</dateline>
+</opener>
+</div>
+<div type="writingSession" n="2">
+<dateline rendition="#right"><add place="sublinear">(abgegangen erst am 7. Jan<ex>uar</ex>)</add></dateline>
+</div>
+<div type="writingSession" n="1">
+<p>Den ersten Brief, welchen ich in diesem Jahre schreibe, erlaube ich mir, mein hochverehrter Herr, an Sie zu richten, mit den wärmsten Wünschen für Ihr u<ex>nd</ex> Ihrer Angehörigen Wol. Was <seg type="comment"><orig>das vergangene Jahr Ihnen Leidvolles brachte</orig><note xml:id="ndfj_v3q_1mb">Am 24.8.1861 war Thiles Vater, Adolf Eduard von Thile (*1784), gestorben.</note></seg>, möge das neu eintretende freundlich auflösen. So <seg type="comment"><orig>gering die Hoffnungen einer <hi rendition="#u">baldigen</hi> Herstellung des <persName key="G001642">Kranken</persName></orig><note xml:id="nybp_w3q_1mb">Thiles Schwager, der berühmte Berliner Augenarzt Albrecht von Graefe (1828–1870), war im September 1861 in Baden-Baden an Tuberkulose erkrankt. Am 28. November 1862 hatte die „Allgemeine Zeitung“ von der wahrscheinlichen Erholung Graefes berichtet: „Auch die aus Baden einlaufenden Nachrichten über den Prof. v. Gräfe lauten seit einiger Zeit immer günstiger. Es darf, wenn auch nur einer sehr langsam fortschreitenden, doch sichern Genesung des weltberühmten Mannes entgegengesehen werden.“ (Nr. 332, S. 5413). Und am 2. Januar 1862 hieß es in der „Allgemeinen Zeitung“: „Im Laufe dieses Monats hat der Krankheitszustand des hier verweilenden Prof. v. Gräfe aus Berlin einen so günſtigen Charakter angenommen, daß man an dessen baldiger Wiederherstellung nicht zweifeln darf.“ (Nr. 2, 23). Siehe auch die Briefe von Gregorovius an Thile vom 19.10. und 30.11.1861 (in: Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 45–49). </note></seg> erscheinen, so ist es doch tröstlich, daß Fortschritte da sind, welche überhaupt Herstellung versprechen, u<ex>nd</ex> <seg type="comment"><orig>leicht kann das annahende Frühjahr sie doch beschleunigen</orig><note xml:id="nl44_1jq_1mb">Albrecht von Graefe ging Anfang Februar 1862 nach Nizza und dann nach Paris. Am Ende April 1862 kehrte er scheinbar gesundet nach Berlin zurück.</note></seg>.</p>
+<p><seg type="comment"><orig>Die Deutung, welche Sie einigen von mir gemachten Äußerungen fast gegeben haben</orig><note xml:id="nny4_bjq_1mb">Gregorovius hatte in seinem Brief vom 30.11.1861 an Thile geschrieben: „Wenn er [Graefe] aber zu jenen Christusmenschen gehört, welche schon im 33. Lebensjahre ihre göttliche Mission erfüllen, so wird mich sein Tod tief rühren, aber ich werde ihn als einen der Glücklichsten unter den Sterblichen selig preisen.“ (in: Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 47–49).</note></seg>, hat mich erschreckt u<ex>nd</ex> geschmerzt. Da ich von jedem andern, als dem gewöhnlichen Sinn menschlicher Leiden, Tiefen u<ex>nd</ex> Höhen, welche auserwählte Naturen in vielerlei Fächern der Thätigkeit zu Märtirern ihres höheren Berufs zu machen pflegen, wahrhaft himmelweit entfernt gewesen bin, so spricht mich dies Bewußtsein selbst von einem Versuch der Rechtfertigung frei. Sprechen auch Sie demnach, mein teurer Herr, mich von dem frei, was ich nicht minder als eine Blasphemie erklären würde.</p>
+<p><persName key="G001215"><seg type="comment"><orig>Frau Grunelius</orig><note xml:id="nlrc_djq_1mb">Die in Baden-Baden wohnhafte Adelheid Grunelius, geb. Fecht (1813–1887), die Witwe des Frankfurter Bankiers Moritz Eduard Grunelius (1803–1846), war seit 1851 immer wieder für längere Aufenthalte nach Rom gekommen. Sie war am 8. November 1861 in Rom eingetroffen, wo sie bis zum 1. Mai 1862 blieb. Gregorovius scheint sie erst bei diesem Aufenthalt kennengelernt zu haben; es entwickelte sich schnell ein freundschaftliches Verhältnis. Später besuchte Gregorovius sie des öfteren in der gastfreundlichen Villa Grunelius in Baden-Baden.</note></seg></persName> vergoß helle Tränen, als ich ihr Mitteilung über <placeName key="G000623">Baden</placeName> machte; und wir alle denken oft genug dort hin, sehnlich wünschend, daß Sie endlich aus dieser leider <pb n="1v"/>auch physisch angreifenden Lage auf die erquickenste Weise möchten befreit werden. Zum Glück soll in jenen Gegenden der Winter recht milde aufgetreten sein.</p>
+<p>Die alten Griechen sollen dreimal leben, weil sie, diese ewig Sonnenhaften, in Ihre Tage die<seg type="comment"><orig> <persName key="G001612">sokratische</persName> Heiterkeit</orig><note xml:id="nfwn_3jq_1mb">Der für die Schriften des Begründers der griechischen Philosophie, Sokrates (469–399 v. Chr.), typische Grundton.</note></seg> doch auf schöne Stunden hinübertragen. Die Flucht aus der Wirklichkeit zu der Lebensphilosophie oder zu den dichterischen Träumen des göttlichen <seg type="comment"><orig><persName key="G001501">Platon</persName></orig><note xml:id="nrxd_kjq_1mb">Der Schüler von Sokrates, Platon (428/427–348/347 v. Chr.).</note></seg> ist unter allen u<ex>nd</ex> jeden Umständen eine Erholung, auch von dem Lärmen des Tages u<ex>nd</ex> seinen Idolen, wie dies in der gegenwärtigen Lage des <placeName key="G000664">Vaterlandes </placeName>nicht anders sein kann. Ich würde mich glücklich schätzen, könnte ich mir solche<choice><sic>.</sic><corr type="deleted"/></choice> Lectüre außerhalb des Kreises meiner barbarischen Chroniken u<ex>nd</ex> Diplome oft verstatten. Gegenwärtig beschäftigt mich in allen meinen Nebenstunden gar sehr <bibl sameAs="G004298"><seg type="comment"><orig>„Das Leben u<ex>nd</ex> die Briefe“</orig><note xml:id="naxf_ljq_1mb">Lebensnachrichten über Barthold Georg Niebuhr. Aus Briefen desselben und aus Erinnerungen einiger seiner nächsten Freunde. [Hrsg. von Dora Hensler (1770–1860)]. 3 Bde. Hamburg: Perthes 1838–1839 (siehe https://ia600301.us.archive.org/22/items/lebensnachricht02hensgoog/lebensnachricht02hensgoog.pdf – https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10065456_00001.html – https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10065457_00001.html).</note></seg></bibl> <seg type="comment"><orig>eines Ihrer älteren Vorgänger auf dem Gesandtschaftsposten zu Rom, <persName key="G001447">Niebuhrs</persName></orig><note xml:id="nlqk_mjq_1mb">Der dänisch-preußische Althistoriker und Staatsmann Barthold Georg Niebuhr (1776–1831) war 1816–1823 Gesandter Preußens am Heiligen Stuhl Rom, nachdem er sich unter Freiherr vom Stein (1757–1831) und Karl August Freiherr von Hardenberg (1750–1822) als Finanzexperte und zuletzt als Staatskanzler bei der Preußischen Reform einen Namen gemacht hatte, 1810 aber zurückgetreten war. Nach seiner Rückkehr lehrte er an der neu gegründeten Berliner Universität und war Mitglied des Staatsrates, ab 1825 bis zu seinem Todes lehrte er alte Geschichte an der noch jungen Universität Bonn. Mit seiner „Römischen Geschichte“ (3 Bde., Berlin: Realschulbuchhandlung 1811–1812) gilt Niebuhr als Begründer der modernen kritischen Geschichtswissenschaft. </note></seg>. Sein mächtiger u<ex>nd</ex> positiver Verstand zieht mich so stark an, wie mich das verstimmte Wesen ohne jede Spur griechischer Heiterkeit wieder abstößt. Man sieht aber wol, daß die Schärfe eines eminent kritischen Blicks bisweilen so tief dringt, wie die ursprüngliche Anschauung einer <persName key="G067515">göthischen</persName> Natur dringen kann. Wie sind doch diejenigen <pb n="2r"/>Menschen bevorzugt, welche aus der großen Bewegung des XVIII. Jahrhunderts herstammen, u<ex>nd</ex> in ihrer reifenden Jugend die Völkerschicksale der <persName key="G001441">napoleonischen</persName> Epoche durchlebt haben. Es ist ein ungesucht tiefer, menschlicher Gehalt in ihnen, ein gediegeneres Metall offenbar als es heutiges Tags angetroffen wird. Es hat mich auch gefreut, <seg type="comment"><orig><persName key="G001049">Cornelius</persName> in einer edlen Jugendgestalt in Niebuhrs Zeit auftreten zu sehen</orig><note xml:id="np5n_pjq_1mb">Der Maler Peter von Cornelius (1783–1867) hatte sich zeitgleich mit Niebuhr erstmals 1811–1819 in Rom aufgehalten und sich dort dem Lukasbund angeschlossen. Mehrfach wird Cornelius von Niebuhr als „höchst ausgezeichneter und anziehender Mann“ beschrieben (siehe Bd. 2. S. 263, S. 275, S. 291–292, S. 349).</note></seg>, darum aber auch doppelt geschmerzt, <seg type="comment"><orig>seinen tiefen Fall in Rom erlebt zu haben</orig><note xml:id="nbrg_rjq_1mb">Der betagte Peter von Cornelius hatte am 15. April 1861 in dritter Ehe Teresa Giampieri (*1838), das Kindermädchen seiner im Mai 1860 verstorbenen Tochter Maria Marcelli aus Urbino geheiratet und war im Mai 1861 mit ihr nach Berlin zurückgekehrt. Gregorovius hatte hierzu im Tagebuch vermerkt: „In diesen Tagen heiratete der 78 Jahre alte Cornelius seine dritte Frau, das junge Dienstmädchen seiner verstorbenen Tochter, der Gräfin Marcelli, welches von ihr aus dem Hause gejagt, von ihm in sein Haus genommen und in Seide gekleidet wurde. Aethiops senex non dimittit pellem suam, nec pardus, quando senescit, diversitatem.“ (24.4.1861, S. 130).</note></seg>. Denn nur so kann ich sein tristes Scheiden von hier benennen. Ich glaube, es ist <seg type="comment"><orig><persName key="G001613">Sophokles</persName> gewesen, der sich in seinem Alter freute, den „Hund“ losgeworden zu sein</orig><note xml:id="no3w_vjq_1mb">Nach Platons „Politeia“ soll Sophokles (497/496–406/405 v. Chr.) die Enthaltsamkeit im Alter eine Befreiung aus der Sklaverei eines tollen und wilden Herrn genannt haben (329c3–4).</note></seg>; von anderen aber steht es nun einmal geschrieben: <seg type="comment"><orig><hi rendition="#aq"><foreign xml:lang="ita">Aethiops senex non dimittit pellem suam, nec Pardus, quando senescit, diversitatem</foreign></hi></orig><note xml:id="nryj_yjq_1mb">Lat.: Der äthiopische Greis verliert seine Haut ebenso wenig wie ein Panther, der altert, seine Widerspenstigkeit.</note></seg>.</p>
+<p>Niebuhr, aus einer großen politischen Thätigkeit und dem Zusammenwirken erster Zeitgenoßen unmittelbar in die römische Öde versetzt, wo ihm alles, Kirche u<ex>nd</ex> Staat, als eine Mumie erschien, lebte hier recht traurige Jahre; nun sehe ich, wie ihm das Leben in Deutschland leer erschien, als er Rom wieder verlaßen hatte. So ist es, daß Fülle u<ex>nd</ex> ihr Gegenteil doch nur immer ein Relatives bleibt, wie das Glück überhaupt; u<ex>nd</ex> auch die innerste Seele wird, selbst bei dem reichsten Maaß, den Mangel fühlen, wenn Ihr homogene Elemente von Ort u<ex>nd</ex> Zeit nicht förderlich werden.</p>
+<p>Unter der abspannenden Spannung <pb n="2v"/>der hiesigen Zustände, welche schlechterdings endlos u<ex>nd</ex> unlösbar scheint, würde ich häßliche Tage leben, wenn ich nicht, durch angeborne Natur oder die Erkenntniß eines unter allen Umständen organischen Fortgangs der Geschichte, dennoch frohen Glaubens an das Gute und Wahre in der Menschheit wäre. Mir scheint auch das Schlechte, welches sich am Ende immer selbst richtet, ein Factor im Gang der Welt, der Wahn u<ex>nd</ex> die Unvernunft ein mitwirkender Hebel, wie die Tugend u<ex>nd</ex> das Genie. Die Qualen der Menschheit zeigen diese Wahrheit, wie das ewige Princip, das über allem Verworrenen oben bleibt. Es freut mich sogar, in einer Zeit zu leben, wo die Völker, sei es auch unter Mißgriffen, doch nach edeln Gütern ringen, u<ex>nd</ex> diese, welche heute in Deutschland u<ex>nd</ex> Italien, Selbständigkeit und Einheit heißen, werden, weil sie an u<ex>nd</ex> für sich naturgemäß und edel sind, ohne Zweifel früher oder später Resultate werden. Im Jahre 1814 <seg type="comment"><orig>prophezeite derselbe Niebuhr, der <placeName key="G000690">Italien</placeName> haßte, deßen Einheit „nach einer, oder ein paar Generationen.“</orig><note xml:id="noyc_1kq_1mb">In einem Brief vom 30. Dezember 1814 schreibt Niebuhr an seine Schwägerin Dora Hensler (1770–1860): „Italien ist voll Gärung, und Murat lauert gewiß nur auf den ersten Ausbruch. Das wäre ein trauriger Heiland. Auf eine oder die andere Art wird doch dieses Land im Laufe eines oder einiger Menschenalter zu einem Reich verbunden.“ (Lebensnachrichten über Barthold Georg Niebuhr, Bd. 2, S. 130).</note></seg> Das Beste indeß, was die Welt darbietet, ist heute die Macht der auf dem gesammten Erdball wirkenden erfindenden Gedanken, denen sich die Elemente fügen. So begrüßte ich hier mit Freude <seg type="comment"><orig>die lateinische Eisenbahn, die nun bis zum <placeName key="G000818">Liris</placeName> fahrbar, wenn auch noch nicht eröffnet ist</orig><note xml:id="nw5r_bkq_1mb">Der römische Korrespondent der „Allgemeinen Zeitung“ meldete in der Ausgabe vom 24. Januar 1862: „Wie erwähnt, ist die Strecke von Rom aus erst bis zum Gränzort Ceprano, und auf neapolitanischer Seite bis San Germano vollendet – eine dazwischen liegende Strecke von etwa 30 Miglien, welche große Brückenbauten über den Liris erfordert, ist noch im Bau begriffen; doch glaubt man bestimmt die ununterbrochene Verbindung bis Mai herzustellen.“ (Nr. 24, S. 387). Die noch ausstehenden Strecke von Ceprano bis San Germano sollte die Bahnlinie von Rom nach Neapel komplettieren; sie wurde im Frühjahr 1862 eröffnet.</note></seg>. Das alte Rom freilich schwindet; täglich schwinden mehr u<ex>nd</ex> mehr die letzten mittelaltrigen Bauten. Denken Sie sich nur die Tollheit, daß man die alte <seg type="comment"><orig><placeName key="G067576">Kirche <hi rendition="#aq">S<ex>an</ex> Chrysogono</hi></placeName> sammt Turm u<ex>nd</ex> Vestibulum von Kopf bis zu Fuß schneeweiß übertüncht</orig><note xml:id="nntc_2kq_1mb">Die auf einen Bau Anfang des 4. Jahrhunderts zurückgehende Basilika San Crisogono in Trastevere, einst Nationalkirche der Sarden und Korsen, wurde 1620–1623 barockisiert. Die Fassade und das Vestibül wurde 1626 unter Verwendung der vier toskanischen Säulen der mittelalterlichen Vorhalle nach Entwürfen von Giovanni Battista Soria (1581–1651) ausgeführt. Der Campanile stammt aus dem 12. Jahrhundert. Verstibül und Campanile sind heute von der Farbe befreit.</note></seg> hat. Am <placeName key="G067585">Tiberufer</placeName> in <placeName key="G067577">Trastevere</placeName> baut man modernste Villen, u<ex>nd</ex> so geht es leider, mit viel Ungeschmack, fort.</p>
+<p>Ich sehe, daß das Papier zu Ende kommt; und noch dankte ich Ihnen nicht für die freundliche <pb n="3r"/><seg type="comment"><orig>Bemühung, mit der Sie meine Angelegenheit in den dortigen hohen Sphären gewürdigt haben</orig><note xml:id="nwx3_gkq_1mb">Gregorovius hatte sich im vorangehenden Brief vom 30.11.1861 erkündigt, ob er sich bezüglich einer Verlängerung seiner Ende 1861 auslaufenden Unterstützung der preußischen Regierung direkt an den Kultusminister Moritz August von Bethmann Hollweg (1795–1877) zu wenden hat. Die Zuwendung war ihm, durch die Fürsprache Thiles und Christian Karl Josias Freiherr von Bunsen (1791–1860), Mitte des vorigen Jahres für die Fertigstellung seiner „Geschichte der Stadt Rom im Mittelalter“ erstmals gezahlt worden (Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 47–49). Siehe hierzu auch die Briefe von Gregorovius an Thile vom <ref target="G000122">9.8.</ref> und <ref target="G000124">30.9.1860</ref>.</note></seg>. Ich weiß sie in Ihren Händen, u<ex>nd</ex> bin ruhig. Das Bewußtsein eines thätig u<ex>nd</ex> nicht unedel hingebrachten Lebens muß mich über das freilich drückende Gefühl trösten, daß meine Lage trotz so vieler Anstrengung noch immer eine zufällige ist. Denn es war doch keine Kleinigkeit, mich in der Fremde zu behaupten u<ex>nd</ex> meine Arbeit auszudehnen, ausgerüstet, wie ich damals war, mit so viel Vermögen, als ein <seg type="comment"><orig><hi rendition="#aq">Comes</hi> oder <hi rendition="#aq">Baro</hi></orig><note xml:id="npwv_tkq_1mb">Unklar. Ein Crescentius, Graf in der Sabina um 1024, wird im vierten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1862) verhandelt (S. 7).</note></seg> würde gebraucht haben, um zwei oder drei Tage davon im Gasthaus einfach zu leben.</p>
+<p>Ich schließe, mein wahrhaft verehrter Herr, mit der Bitte, an Sie und Ihre <persName key="G001645">Frau Gemalin</persName>, deren Gesundheit sich bei so großer moralischer Kraft siegreich behaupten wird, wie ich zuversichtlich hoffe, daß Sie mir Ihr Wolwollen immer erhalten möchten. Viele Grüße auch an <persName key="G001643">Hänschen</persName>, und an <persName key="G001189">Herrn v<ex>on</ex> Gräfe</persName> meine wärmste Empfehlung mit den aufrichtigen Wünschen zu seiner baldigen völligen Herstellung.</p>
+<closer>
+<salute rendition="#c">In Ergebenheit und Verehrung <lb/>Ihr</salute>
+<signed rendition="#right">FGregorovius.</signed>
+</closer>
+</div>
+</body>
+</text>
+</TEI>

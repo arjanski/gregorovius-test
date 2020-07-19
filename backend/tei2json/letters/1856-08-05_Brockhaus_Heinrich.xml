@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000047">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Heinrich Brockhaus in Leipzig. Genzano, 5. August 1856</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (32)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 8°, 3 S. – 2v alR, Blatt um 90° gedreht, Eingangs- und
+                            Beantwortungsvermerk: 1856. / Gennazano, 5/14. Aug. / Gregorovius. / B.
+                            15/IX. / 1 Ztgsblatt mit Figuren / am 20. Aug. 1856.</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Über die positiven Aufnahme seiner „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856), insbesondere über die Rezension von August Lammers im „Deutschen Museum“, ist er erfreut. Wilhelm Bornträger will seinen Königsberger Verlag verkaufen; insofern begrüßt er dessen Ansinnen, die Restauflage seiner „Polen- und Magyarenlieder“ (1849) an Brockhaus zu verkaufen. Er bittet um juristischen Rat bezüglich des von Bornträger ohne Rücksprache an Fischhaber in Schwäbisch Hall verkauften Restauflage seines „Göthes’s Wilhelm Meister in seinen socialistischen Elementen entwickelt“ (1849) und bezüglich einer möglichen zweiten Auflage. Das Manuskript seiner „Grabmäler der Römischen Päpste“ (1857) wird er in Kürze übersenden. Das Honorar für seine Gedichte „Klagegesang der Kinder Juda in Rom“, „Der Thurm Astura“ und „Nettuno“ ist zu gering. Er bittet um Bekanntmachung der geplanten Veröffentlichung eines Albums korsischer Landschaftsmalereien von Rudolf Jonas. Seine Freiexemplare der soeben ausgegebenen „Lieder des Giovanni Meli von Palermo“ (1856) sind bei Josef Spithöver in Rom eingegangen, nicht aber deren von ihm erbetene Rezension aus den „Deutschen Museum“.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He is very pleased about the positive reception of his „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856), especially August Lammer’s review in the „Deutsches Museum“. Wilhem Bornträger wants to sell his Königsberg publishing house; so he appreciates his suggestion to sell the remaining copies of his „Polen- und Magyarenlieder“ (1849) to Brockhaus. He asks for legal advice about the remaining copies of his „Göthes’s Wilhelm Meister in seinen socialistischen Elementen entwickelt“ (1849), which Bornträger sold to Fischhaber in Schwäbisch Hall without consulting him first, and about a potential second edition. He will send the manuscript of his „Grabmäler der Römischen Päpste“ (1857) shortly. The fee for his poems „Klagegesang der Kinder Juda in Rom“, „Der Thurm Astura“ and „Nettuno“ is too small. He asks Brockhaus to announce the planned publication of an album of Corsican landscapes painted by Rudolf Jonas. Josef Spithöver in Rome received his complimentary copies of the recently published „Lieder des Giovanni Meli von Palermo“ (1856), but not the review from the „Deutsches Museum“ he requested. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000678">Genzano</placeName>
+                    <date when="1856-08-05" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G000996">Brockhaus, Heinrich (1804–1874)</persName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev">19. Juli 1856</ref>
+                    <ref type="prev">23. Juli 1856</ref>
+<ref type="next">15. September 1856</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Genazzano bei
+                            Palestrina</hi>
+                        <lb/>5. <hi rendition="#aq">August</hi> 1856.</dateline>
+                    <salute>Sehr geehrter Herr,</salute>
+                </opener>
+                <p>Ihre beiden gefälligen Schreiben vom 19. u<ex>nd</ex> vom 23. Juli habe ich
+                    richtig erhalten, u<ex>nd</ex> eile, Ihnen dankbar, zu antworten.</p>
+                <p>Es freut mich, daß die „<bibl sameAs="G003114">Figuren</bibl>“ eine günstige Aufnahme gefunden haben, und was die Blätter darüber sagen ist mehr, als ich erwartete. Weit über Verdienst aber <bibl sameAs="G002451">hat sich das Deutsch<ex>e</ex> Mus<ex>eum</ex> ausgesprochen</bibl>, u<ex>nd</ex> mich eigentlich beschämt. So großem Wolwollen gegenüber habe ich nichts als das lebhafteste Gefühl der Dankbarkeit.</p>
+                <p>In Bezug auf <persName key="G000988"><seg type="comment"><orig>W<ex>ilhelm</ex> Bornträgers</orig><note xml:id="nybb_lqd_rlb">Wilhelm Bornträger († 1884) war seit 1848 der Besitzer des Königsberger Verlags Wilhem Bornträger. Er war der Bruder des in Pisa an einer Lungenkrankheit verstorbenen Ludwig Borntäger (1828–1852), ein Freund von Gregorovius, der ihm kurz zuvor seine Italienreise finanziell ermöglicht hatte (siehe RT, S. 44).</note></seg></persName> Antrag bin ich Ihnen, geehrter Herr, für diese Mitteilung sehr verbunden. Ich selbst weiß nicht, wie viel Exempl<ex>are</ex> er von dem Bändchen <bibl sameAs="G003096"><seg type="comment"><orig>Lieder</orig><note xml:id="nn1j_wqd_rlb">Gregorovius’ Übersetzung der „Polen- und Magyarenlieder“ (Königsberg: Bornträger 1849).</note></seg></bibl> abgezogen hat, ohne Zweifel mehr als 1000, wenn noch 840 vorhanden sind. Diese Lieder haben für mich selbst nur den Wert einer persönlichen Lebensepoche, u<ex>nd</ex> werde ich <add place="superlinear">nur </add>die besten davon in die Sammlung lyrischer Versuche aufnehmen, die ich in späteren Jahren veranstalten will. <seg type="comment"><orig>Da Borntr<ex>äger</ex>, wie aus seinen Verhältnißen hervorzugehn scheint, seinen Besitz schlechterdings verkaufen will</orig><note xml:id="nn2h_crd_rlb">Wilhem Bornträger hatte 1850 eine Tänzerin geheiratet (siehe den Brief von Gregorovius an seine Stiefmutter Emilie Auguste Gregorovius vom 5.2.1850 [Johannes Hönig: Ferdinand Gregorovius. Eine Biographie. Stuttgart 1944. S. 453]) und wurde später Journalist.</note></seg>, so könnte es mir nur erwünscht sein, <seg type="comment"><orig>wenn Ihre Buchhandlung den <orgName key="G000512">Verlag</orgName> an sich nähme</orig><note xml:id="np2n_hrd_rlb">Die Übernahme der Restauflage kam nicht zustande.</note></seg> – dies schon aus Rücksicht auf meine anderen Schriften.</p>
+                <p>Ich hatte Borntr<ex>äger</ex> in <placeName key="G000699">Königsb<ex>erg</ex></placeName> auch meine <bibl sameAs="G003098">Abhandlung über Göthes W<ex>ilhelm</ex> Meister</bibl> in Verlag gegeben, von welcher ich leider erfahren mußte, <pb n="1v"/><seg type="comment"><orig>daß er die letzten Exemplare (circa 400) einer <bibl sameAs="G003099">mir unbekannten Buchhandlung in Schwäbisch-Hall verkauft</bibl> hat</orig><note xml:id="ntrx_vrd_rlb">Eine als „Zweite Auflage“ bezeichnete Titelauflage: Göthes’s Wilhelm Meister in seinen socialistischen Elementen entwickelt. Schwäbisch Hall: Fischhaber 1855. </note></seg>, ohne mir ein Wort darüber mitzuteilen. Längst wünschte ich, Sie um Ihren Rat in dieser Angelegenheit zu bitten; ich glaube nämlich, <seg type="comment"><orig>daß jenes Buch in einiger Zeit an die zweite Auflage rücken wird, u<ex>nd</ex> möchte es dann dem Verlag in Schwäb<ex>isch</ex> Hall entziehn</orig><note xml:id="njfc_1sd_rlb">Die Übernahme der Titelauflage kam ebensowenig nicht zustande wie eine 2. Auflage.</note></seg>. Meine Frage ist nun die, ob dem Autor, der doch nur die erste Auflage verkauft hat (nach mündlichem Übereinkommen), das absolute Eigentumsrecht zusteht, oder ob dies durch den ersten Verleger in irgend welcher Weise geschmälert wird? Möchten Sie mir bei Gelegenheit freundlichst raten. Die Schrift ist gut philosophisch componirt, muß aber noch erst in reines Deutsch übersetzt werden, was ich zur Zeit thun will.</p>
+                <p><seg type="comment"><orig>Ich reise morgen nach <placeName key="G000763">Rom</placeName>, um „<bibl sameAs="G003430">Die Grabmäler der römischen Päpste, Historische Studie</bibl>“ selbst der Post zu übergeben.</orig><note xml:id="nbfj_jsd_rlb">Gregorovius war am 25. Juni aus Rom nach Genazzano gereist, wo er bis zum 24. September 1856 blieb (siehe RT, 16.8.-2.10.1856, S. 63–64). Hier hatte er das Brockhaus am <ref target="G000053">12.7.1856</ref> zum Verlag angetragene Manuskript der Buchpublikation seiner „Grabmäler der Römischen Päpste. Historische Studie“ (Leipzig: Brockhaus 1857) abgeschlossen, für deren Versand nach Leipzig er am 7. August eigens nach Rom fuhr (siehe RT, 16.8.1856, S. 63).</note></seg> Das M<ex>anu</ex>scr<ex>ipt</ex> wird den 8. August von Rom über <placeName key="G000638"><hi rendition="#aq">Bologna</hi></placeName> – <placeName key="G000843"><hi rendition="#aq">Castel Franco</hi></placeName> abgehn, u<ex>nd</ex> da die <hi rendition="#aq"><foreign xml:lang="ita">Diligenza</foreign></hi> bis nach Leipzig gegen 15 Tage braucht, so trifft es in der letzten Woche des August dort ein. Zu meiner Beruhigung bitte ich um Anzeige der Ankunft, denn ich habe dies Buch, wie mein <hi rendition="#aq"><bibl sameAs="G003106">Corsica</bibl></hi>, gleich ins Reine geschrieben, also keine Abschrift. Ich hoffe Sie werden rechten Anteil nehmen, es ist eine Sache für alle Welt, u<ex>nd</ex> hat Füße zum Laufen. Ohne meine <pb n="2r"/>Studien zur <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485"><seg type="comment"><orig>Chronik von Rom</orig><note xml:id="nims_ssd_rlb">Seine „Grabmäler der Römischen Päpste“ hatte Gregorovius in seinem Brief vom <ref target="G000053">12.7.1856 an Brockhaus</ref> als Vorläufer seines späteren 8-bändigen Hauptwerks, die „Geschichte der Stadt Rom im Mittelalter“ (Stuttgart: Cotta 1859–1872), bezeichnet.</note></seg></bibl>, hätte ich’s nimmer zu Stande gebracht.</p>
+                <p>Ich habe den Wechsel auf 22 Th<ex>aler</ex> 8 P<ex>reußische</ex> Gr<ex>oschen</ex> richtig erhalten, u<ex>nd</ex> <seg type="comment"><orig>sehe aus der Berechnung, daß d<ex>as</ex> Mus<ex>eum</ex> <bibl corresp="G003838">Poesien </bibl>nicht honorirt</orig><note xml:id="nsgl_zsd_rlb">Das Manuskript seiner Gedichte „Klagegesang der Kinder Juda in Rom“, „Der Thurm Astura“ und „Nettuno“ hatte Gregorovius mit seinem Brief vom <ref target="G000028">13.12.1855 an Brockhaus</ref> überdsandt. Sie waren im „Deutschen Museum“ abgedruckt worden (Jg. 6. Nr. 12. Leipzig: Brockhaus 20.3.1856. S. 417–423). In seinem Brief an Brockhaus vom <ref target="G000053">12.7.1856</ref> hatte er um baldmöglichste Anweisung seines Honroars gebeten.</note></seg>.</p>
+                <p><add place="left" hand="#addressee"><metamark target="#seg-1" function="used" rendition="#mMM"/></add><seg xml:id="seg-1">Am Ende erlaube ich mir die Bitte, für Ihre Journale von folgender Mitteilung Gebrauch machen zu wollen. In Folge meines <hi rendition="#aq">Corsica</hi> ging im Mai der Landschaftsmaler <persName key="G001319"><seg type="comment"><orig>Rudolf Jonas</orig><note xml:id="nrnq_ftd_rlb">Der Landschaftmaler Rudolf Jonas (1822–1888) hielt sich von Mai bis September 1856 auf Korsika auf.</note></seg></persName> von <placeName key="G000734">München</placeName> nach<placeName key="G000710"> jener Insel</placeName>, um dort Studien zu malen. Er kehrt im September mit einem Schatz von Bildern u<ex>nd</ex> Skizzen heim, die er in München ausstellen wird, der erste deutsche Maler, der corsische Landschaften gemalt hat. Auch hat er ein <seg type="comment"><orig>Album von vielen Blättern angelegt, welches im Farbendruck erscheinen soll</orig><note xml:id="negh_3td_rlb">Siehe den Brief von Gregorovius an Cotta vom <ref target="G000051">16.7.1856</ref>, in dem er die auf Korsika entstandenen groß- und kleinformatigen Blätter von Rudolf Jonas Cotta (vergeblich) zum Verlag in einem Album angetragen hatte.</note></seg>. <seg type="comment"><orig>Dies löbliche Unternehmen habe ich auf alle Weise zu fördern gesucht</orig><note xml:id="njbl_ltd_rlb">Gregorovius wandte sich offenbar auch an Friedrich Eggers (1819–1872), den Gründer des „Deutschen Kunstblatts“. Im „Deutschen Kunstblatt. Zeitschrift für bildende Kunst, Baukunst und Kunsthandwerk“ erschien ein längerer Beitrag über die korsischen Arbeiten von Rudolf Jonas und seine Beziehungen zu Gregorovius (Jg. 7. Nr. 44. Berlin 30.10.1856. S. 388, siehe https://digi.ub.uni-heidelberg.de/diglit/dkb1856/0401) – Und im selben Band unter der Rubrik „Briefwechsel“ die Notiz: „Es geht uns die Anfrage zu, ob Herr Jonas, von dessen korsischen Ansichten wir berichtet haben, nicht auch das Volk und seine Sitten durch Zeichnungen in sein Skizzenbuch aufgenommen habe und seinem Album einzuverleiben gedenke? Unter den Blättern, die uns Vorlagen, haben wir dergleichen nicht gesehen, erinnern uns auch, von dem Maler gehört zu haben, daß er die Korsen, namentlich das schöne Geschlecht, sehr schwer habe zum Portraitirenlassen bewegen können. Eine nähere Antwort erbitten wir hierdurch von ihm.“ (ebd., Nr. 45. Stuttgart 6.11.1856. S. 396). Siehe den Brief von <ref target="G000070">Gregorovius an Friedrich Eggers, 11.11.1856</ref>.</note></seg>, u<ex>nd</ex> thue es auch eben hier durch meine Bitte, im Intereße der Sache die Aufmerksamkeit des Publicums darauf zu lenken.</seg></p>
+                <p>Ich schließe, verehrter Herr, mir ein andres Schreiben wegen des Antrags der
+                    päpstlichen Monumente vorbehaltend, welches um die Zeit des Eingangs des
+                        M<ex>anu</ex>sc<ex>ript</ex>s, in Ihren Händen sein wird.</p>
+                <closer>
+<salute xml:id="s1" next="#s2">Mit dem aufrichtigsten Danke für alle Ihre wertvollen Mitteilungen </salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">hochachtungsvoll u<ex>nd</ex> ergebenst</salute>
+                    <signed rendition="#right">Ferd. Gregorovius.</signed></closer>
+<note type="postscript"><seg type="comment"><orig>Die <bibl sameAs="G002422">erste abgesandte Nummer des D<ex>eutschen</ex> M<ex>useums</ex></bibl> ist nicht zu mir gekommen; die letzten Freiex<ex>emplare</ex> des <bibl sameAs="G004072">Meli </bibl>sind bei <orgName key="G000545">Spith<ex>över</ex></orgName> eingegangen.</orig><note xml:id="no21_std_rlb">Gregorovius hatte Brockhaus im Brief vom <ref target="G000053">12.7.1856</ref> um Zusendung seiner Freiexemplare der soeben ausgegebenen „Lieder des Giovanni Meli von Palermo“ (1856) über die deutsche Buchhandlung von Joseph Spithöver in Rom und um Übersendung der im „Deutschen Museum“ gedruckten Rezension gebeten: R.[obert] P.[rutz]: Uebersetzungsliteratur. In: Deutsches Museum. Zeitschrift für Literatur, Kunst und öffentliches Leben. Jg. 6. Nr. 29. Leipzig: Brockhaus 17.7.1856. S. 108–117 – eine Sammelrezension, zu seiner Übersetzung der „Lieder des Giovanni Meli von Palermo“, S. 114–115.</note></seg></note>
+            </div>
+        </body>
+    </text>
+</TEI>

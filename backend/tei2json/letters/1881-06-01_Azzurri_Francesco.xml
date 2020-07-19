@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_edl_jn2_dmb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Francesco Azzurri in Rom. Rom, 1. Juni 1881 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free">
+                <licence target="http://creativecommons.org/licenses/by/4.0/">
+                    Creative Commons Attribution 4.0 International (CC BY 4.0)
+                </licence>
+            </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Rom, Archivio Accademico della Accademia di San Luca</repository><collection>vol. 143</collection><idno>Nr. 93</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 12°, 4 S. – Umschlag: Ill.mo signor Comre / Francesco Azzurri / Presidente dell’ins. Accademia / Romana di S. Luca / Via Panisperna 69 / Città – Vermerk: 626.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness><bibl type="print">Ferdinando Gregorovius cittadino di Roma. In: Roma. Rassegna mensile di attualità. Rom (Februar) 1959. S. 5 (ungenau)</bibl> </witness>
+<witness><bibl type="print">Giovanni Incisa Della Rocchetta: Gregorovius, Roesler Franz e il Museo di Roma. In: Bollettino dei Musei Comunali di Roma. Jg. 22. Nr. 1–4. Rom 1975. S. 42 (ungenau)</bibl> </witness>
+<witness><bibl type="print">Cesare De Seta: Gregorovius und die Polemiken über den Wandel des römischen Stadtbildes. In: Ferdinand Gregorovius und Italien. Eine kritische Würdigung. Hrsg. von Arnold Esch u. Jens Petersen. Tübingen: Niemeyer 1993. S. 215–216 (ungenau)</bibl> </witness>
+<witness><bibl type="print">Cesare De Seta (Hrsg.): Ferdinand Gregorovius e Roma medievale. In: Vedutisti e viaggiatori in Italia tra Settecento e Ottocento. Turin: Bollati Boringhieri 1999. S. 135 (Nuova cultura; 68) (ungenau)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für Azzurris Schreiben zu seinem in der Akademie gehaltenen Vortrag über die Notwendigkeit einer dokumentarischen Erfassung der römischen Bauwerke, die im Zuge des Umbaus Roms zur neuen Hauptstadt vernichtet werden sollen. Die Mitglieder der Akademie und der einschlägigen römischen Kreise befürworten seinen Vorschlag, ein komunales Museum zur Aufbewahrung von Zeichnungen, Stadtplänen und –ansichten einzurichten. Als Verfasser einer „Geschichte der Stadt Rom im Mittelalter“ (8 Bde., 1859–1872) schätzt er das Wohlwollen der Römer den ausländischen Forschern gegenüber, welche daran teilnehmen, die ewige Stadt und ihre Vergangenheit zu illustrieren. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1881-06-01" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G000953">Azzurri, Francesco (1827-1901)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">30. Mai 1881; K: Rom, Archivio Accademico della Accademia di San Luca, Busta 143, n. 88</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<salute rendition="#c">Ill<hi rendition="#sup"><ex>ustrissi</ex>mo</hi> <seg type="comment"><orig>signor Presidente</orig><note xml:id="nxtx_j5c_fmb">Mit dem Präsidenten der Accademia di San Luca, Francesco Azzurri (1827–1901), steht Gregorovius seit einem Jahr in anlassbezogenem Briefkontakt. Während er den römischen Architekten zum ersten Mal kontaktierte, um ihm für seine Ernennung zum Ehrenmitglied der Akademie zu danken (siehe den Brief von Gregorovius an Francesco Azzurri vom 1.6.1880), wandte er sich in der Sache des Umbaus Rom zur neuen Hauptstadt des Königreichs wenige Wochen zuvor in zwei Schreiben an Azzurri; siehe die Briefe von Gregorovius an Francesco Azzurri vom 5. und 27.4.1881. In diesen fordert er vehement, wenn schon der Einhalt der Zerstörungen des mittelalterlichen Roms nicht möglich ist, die bedrohten Monumente und Straßenzüge dokumentarisch festzuhalten. Angeregt von einem Besuch im Atelier des römischen Aquarellmalers Ettore Roesler Franz (1845–1907) sieht Gregorovius die zeitgenössischen Künstler bei einem solchen Unternehmen in der Pflicht (siehe den Brief vom 5. April 1881); er selbst legt eine lange Liste der Bauten vor, die es zu dokumentieren gilt (siehe den Brief vom 27. April 1881). Diesem Engagement folgt eine Einladung Azzurris an Gregorovius, seinen Vorschlag in einem öffentlichen Vortrag in der Akademie vorzustellen (siehe RT 1881, S. 422–423). </note></seg>,</salute>
+</opener>
+<p>le rendo le più distinte grazie dell’ essersi reso interprete dei sensi benevoli, che l’insigne <orgName key="ed_xfh_yvn_5lb">Accademia</orgName> nutre <seg type="comment"><orig>a mio riguardo</orig><note xml:id="nsb4_m5c_fmb">In einem Schreiben vom 30. Mai 1881, das als Kopie vorliegt, dankt Azzurri Gregorovius für sein einen Tag zuvor in der Accademia di San Luca gehaltenes Referat über die Notwendigkeit, Erinnerungen an die römischen Bauten zu schaffen. Siehe die Kopie des Briefes von Francesco Azzurri an Ferdinand Gregorovius vom 30.5.1881; Rom, Archivio Accademico della Accademia di San Luca, Busta 143, n. 88.</note></seg>. </p>
+<p>Inquanto alla <seg type="comment"><orig>lettura da me fatta il 29. scorso</orig><note xml:id="nvm3_45c_fmb">„Später forderte mich Azzurri auf, zu einer Sitzung der Akademie zum 29. Mai mich einzufinden, um vor einigen Männern, wie er sagte, nochmals meinen Plan darzulegen. Nun war das eine förmliche Überrumpelung, ich glaube nur dazu angelegt, für die öffentlichen Konversationen dort einen Namen zu haben. Zu meiner nicht geringen Überraschung ließ Azzurri durch die Zeitung eine conferenza Gregorovius ankündigen. Ich setzte mich also nieder und schrieb einen discorso auf. Das war mein Glück; denn statt einiger Akademiker fand ich eine öffentlichen Versammlung, selbst von Damen, vor, und so konnte ich mich aus dieser Schlinge gut herausziehen.“ (RT 1881, S. 422). Der Vortrag ist, soweit ermittelt, nicht publiziert.</note></seg>, deploro che non ebbi da offrire nulla che fosse degno di un uditorio numeroso e scelto, quale è stato quello, dinanzi a cui quel giorno mi sono trovato, e ciò a mia grandissima sorpresa, avendo io creduto di dover discutere soltanto il già noto progetto con alcune persone importanti. </p>
+<p><seg type="comment"><orig>L’accoglienza favorevole <pb n="1v"/>poi, che la mia proposta incontrò presso tutti gli Accademici</orig><note xml:id="nzlq_q5c_fmb">In seinem Dankesbrief verweist Azzurri hinsichtlich Gregorovius’ Vorschlag, die Dokumentation der vor dem Verschwinden stehenden Monumente in einem komunalen Stadtmuseum zu realisieren, auf weitere positive Reaktionen: „Che in tal pensiero convengano le intelligenze romane più elette, abbastanza lo dimostrò il ch.mo prof. De Rossi, quando, aggiungendo le sue alle dotte e nobili parole della S. V.Ill.ma, fece conoscere che già nel seno della nostra Commissione Archeologica Municipale s’era tentato di concretare e dar principio ad alcunche di simile al concetto dalla S. V. Ill.ma propugnato.“; zit. nach der Kopie des Briefes von Francesco Azzurri an Ferdinand Gregorovius vom 30.5.1881; Rom, Archivio Accademico della Accademia di San Luca, Busta 143, n. 88. An den einflussreichen Archäologen Giovanni Battista De Rossi, den der Präsident hier erwähnt, sollte Gregorovius in der Sache zwei Jahre später ebenfalls ein Schreiben richten; siehe den Brief von Gregorovius an Giovanni Battista De Rossi vom 11.5.1883. Gregorovius’ Vorschlag, ein städtisches Museum zu errichten, in welchem Stadtansichten, Pläne und Zeichnungen Roms aufbewahrt werden sollten, kam erst 1928 zur Realisierung. Siehe dazu Carlo Pietrangeli: Il Museo di Roma. Documenti e iconografia. Bologna: Cappelli 1971.</note></seg>, mi è riuscita cosa non meno grata, che l’aver potuto convincermi, avermi i Romani volentieri perdonata la parte attiva presa alle „lor“ cose cittadina, in merito delle lunghe fatiche da me dedicate alle <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">storie Romane</bibl>. </p>
+<p>Mi gode ancora l’animo di essermi accorto, che quel sentimento cosmopolitico, che sempre mai ha costituito la grandezza morale dei Romani, non è andato punto perduto tra le aspirazioni nuove e i nuovi destini <pb n="2r"/>dell’ eterna città. Ed egli è per ciò, che gli stranieri continuano a studiare tuttora le cose Romane con predilezione e passione, come se Roma fosse loro propria patria, e che <seg type="comment"><orig>gli stessi Romani senza dar segno di invidia e gelosia nazionale con sensi generosi quelli considerano come loro collaboratori ad un’opera a tutti comune</orig><note xml:id="nz4c_dvc_fmb">Gregorovius war im März 1876 für seinen Beitrag zur römischen Geschichtsschreibung mit der Ehrenbürgerwürde der ewigen Stadt ausgezeichnet worden; siehe den Brief von Gregorovius an Pietro Venturi vom 17.3.1876.</note></seg>, perché dedicata all’illustrazione di Roma, unica capitale tra tutte le altre al mondo, che può vantarsi tuttora del privilegio, un tempo conceduto alla sola <placeName key="G000619">Atene</placeName>, di essere cioè <pb n="2v"/>l’obbietto degli studj e degli affetti di tutti gli uomini civili.</p>
+<p><seg type="comment"><orig>Stando sul punto di ritornare in patria</orig><note xml:id="nx2v_fvc_fmb">Er sollte die Stadt am 5. Juni verlassen und nach Zwischenhalten in nord- und mittelitalienischen Städten am 8. Juni in München eintreffen (siehe RT, 1881, S. 423).</note></seg>, mi auguro la conservazione dei sensi d’indulgenza e di benevolenza da parte degli insigni Accademici e di V<ex>ostra</ex> S<ex>ignoria</ex> Ill<hi rendition="#sup"><ex>ustrissi</ex>ma</hi> lor onorato presidente.</p>
+                <closer>
+<dateline rendition="#right">Roma, 1. Giugno 1881</dateline>
+<signed rendition="#right">Ferdin. Gregorovius.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

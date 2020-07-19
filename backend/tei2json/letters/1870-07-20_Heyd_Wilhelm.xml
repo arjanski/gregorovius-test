@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000334">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Wilhelm Heyd in Stuttgart. München, 20. Juli 1870 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Württembergische Landesbibliothek Stuttgart</repository><collection>Cod. hist 4° 391, Kaps. I, 221</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¾ S. – 1r +2r aoR geprägt: ROMA</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 5 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die ausgeführte Revision der Fußnoten der zweiten Auflage des vierten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1870); die folgenden Druckbogen werden wieder zu ihm geschickt. Er wollte nach Stuttgart, doch wegen des Ausbruchs des Deutsch-Französischen Krieges bleibt er vorerst in München. Die Art, in der Napoleon III. Preußen den Krieg erklärt hat, setzt Frankreich ins moralische Unrecht. Deutschland wird siegen und „Von heute ab wird das neue Europa datiren“. Er bittet um Nachrichten aus Rom und Stuttgart, auch über Ferdinand Freiligrath und Otto Ludwig von Klumpp. In München wird die Stimmung zunehmend patriotisch.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1870-07-20" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001271">Heyd, Wilhelm (1823–1906)</persName>
+<placeName key="G000879">Stuttgart</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">München, <hi rendition="#aq">Glück</hi>straße 1.<hi rendition="#sup"><hi rendition="#uu"><hi rendition="#aq">b</hi></hi></hi> <lb/>3 <hi rendition="#aq">Stock</hi>. <lb/>20 Juli 1870.</dateline>
+                    <salute>Lieber Freund,</salute>
+                </opener>
+<p>Sie werden gehört haben, daß ich seit ein paar Tagen hier bin; <seg type="comment"><orig>die <bibl sameAs="G003463">Druckbogen</bibl> kommen wieder zu mir; für die Besorgung der früheren haben Sie tausend Dank</orig><note xml:id="nusm_xyb_llb">Von Rom aus hatte ihn Gregorovius gebeten, einige Fußnoten der zweiten Auflage des vierten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1870) für ihn in Stuttgart zu kontrollieren und ggf. zu korrigieren, während er für Archivarbeiten in Italien reisen musste und dann erst nach München kommen konnte (nach dem Brief von Gregorovius an Heyd, 28.6.1870, Württembergische Landesbibliothek Stuttgart, Cod. hist 4° 391, Kaps. I, 218).</note></seg>. Ich <seg type="comment"><orig>wollte hinüber nach Stuttgart</orig><note xml:id="ndkx_zyb_llb">Gregorovius traf am 17.9.1870 in Stuttgart ein (siehe RT, 23.9.1870, S. 292).</note></seg>; jetzt bleibe ich hier bis auf weiteres. Nichts weiß ich noch von <seg type="comment"><orig>meinem <persName key="G001203">Bruder</persName>, ob er an den <placeName key="G000901">Rhein</placeName> marschirt ist oder nicht. Sollte dies der Fall sein, so möchte <choice><sic>ihn</sic><corr cert="high">ich</corr></choice> versuchen, auf ihn noch zu treffen</orig><note xml:id="nixn_bzb_llb">Anfang Oktober fuhr Gregorovius zunächst nach Straßburg und dann nach Metz, wo er mit seinem in die Kriegshandlungen involvierten Bruder Julius zusammentraf und er Zeuge der Kampfhandlungen wurde (siehe RT, 23.9.–14.10.1870, S. 292–298). In seinem Gedicht „Straßburg“ (Beilage zu Nr. 245 der AZ. 2.9.1870. S. 3900) und einer Reihe von Artikeln für die „Allgemeine Zeitung“ (Die französische Kriegserklärung und Europa, Nemesis, Die Schuld und die Strafe Frankreichs, Nochmals Elsaß und Lothringen!, Pavia und Sedan, Der Krieg, Fünf Tage vor Metz) hielt er seine Eindrücke fest (26.7.–19.10.1870).</note></seg>. Welche Zeiten! Welche Schicksale! Was verbirgt dieser Vorhang? Was werden wir hinter ihm bereitet sehen, in kurzer Zeit? Daß dieser <seg type="comment"><orig>Kampf zwischen dem alten <placeName key="G000674">Frankreich</placeName> u<ex>nd</ex> dem neuen <choice><sic>Deutsch-</sic><corr type="deleted"/></choice><pb n="1v"/><placeName key="G000664">Deutschland</placeName></orig><note xml:id="nyx4_dzb_llb">Am 19. Juli 1870 hatte Kaiser Napoléon III. (1808–1873) Preußen den Krieg erklärt.</note></seg>, zwischen cäsarischer Despotie u<ex>nd</ex> reformatorischer Freiheit einmal ausgekämpft werden muß ist klar – daß es so schnell geschieht consternirt mich; daß es so perfid von Frankreich in Weise des Überfalls von Briganten angezettelt worden ist, wird uns gar bald sehr nützen, u<ex>nd</ex> ist schon das moralische Urteil über die <persName key="G001442">Napoleonische</persName> Tyrannei. Der Affe Napoleons steigt jetzt, doch kläglicher. Wir siegen, weil wir es müssen, aus Notwendigkeit der die Welt gestaltenden Idee. Es gibt keine brutalen Zufälle. Von heute ab wird das neue Europa <pb n="2r"/>datiren. Glücklich, die da noch jung sind zu streiten u<ex>nd</ex> zu leben. Schreiben Sie bald, auch Nachrichten <seg type="comment"><orig>von drüben</orig><note xml:id="nwcd_gzb_llb">von Rom.</note></seg> was Sie wissen. </p>
+<p>Hier schwillt der patriotische Strom allmälig höher.</p>
+<p>Ich grüße alle Freunde – wo sind sie? Sagen Sie mir auch, <seg type="comment"><orig>wo <persName key="G001138">Freiligrat</persName> ist</orig><note xml:id="njds_3zb_llb">Gregorovius hatte den republikanisch gesinnten Dichter Ferdinand Freiligrath (1810–1876) am 7. September 1869 in Stuttgart kennengelernt (siehe RT, 13.9.1869, S. 263 und den Brief von Gregorovius an Freiligrath, 22.4.1871).</note></seg> u<ex>nd</ex> <persName key="G001340"><hi rendition="#aq"><seg type="comment"><orig>Klumpp</orig><note xml:id="nc5d_nzb_llb">Otto Ludwig von Klumpp (1819–1902), Hofbibliothekar des württembergischen Königs Karl (1823–1891), hatte Gregorovius im Dezember 1864 in Rom kennengelernt und im September 1867 in Berg bei Stuttgart wiedergetroffen (siehe RT, 11.12.1864, S. 189 und 11.9.1867, S. 232).</note></seg></hi></persName>.</p>
+                <closer>
+                    <salute next="#s2" rendition="#c">Alles Gute an Sie alle und <seg type="comment"><orig><foreign xml:lang="grc">Ζευς, σωτηρ καì <?oxy_comment_start author="Marlene Compton" timestamp="20200427T155659+0200" comment="Griech.: Zeus, Retter und Sieg - nach Xenophon: Anabasis, I/8,16. Hrsg. und übers. von W. Müri und B. Zimmermann, 4. Auflage, Mannheim 2010 (Sammlung Tusculum)."?>νίκη<?oxy_comment_end?></foreign></orig><note xml:id="nmjn_yby_mlb">Griech.: Zeus, Retter und Sieg – nach Xenophon: Anabasis, I/8,17. Hrsg. und übers. von W. Müri und B. Zimmermann, 4. Auflage, Mannheim 2010 (Sammlung Tusculum)..</note></seg> <lb/>In Treue</salute>
+<signed rendition="#right">FGregorovius</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

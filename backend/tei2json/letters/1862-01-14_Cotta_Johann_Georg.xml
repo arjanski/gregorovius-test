@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000141">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Johann Georg Freiherr Cotta von Cottendorf in Stuttgart. Rom, 14. Januar 1862</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (42)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 12°, 4 S. </p>
+<p>Manuskript seines Aufsatzes „Von Rom durch Tuscien und Umbrien nach Perugia und Florenz“</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno>Karton 57, Mappe 340–342 (nach D) und Karton 55, Mappe 336–337 (Ergänzungen nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der
+                            Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S.
+                            244–245</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er hat das Manuskript der ersten Hälfte des vierten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1862) über Frankfurt nach Stuttgart abgesandt. Während diese im Druck ist, will er bis zum Mai die zweite Hälfte des Manuskripts abschließen. Den Mailänder Kapitän Herlembaldus Cotta hat in seiner „Geschichte der Stadt Rom im Mittelalter“ gewürdigt. Er vermutet, dass sich der Name Cotta von hebräisch „Kot“, d. h. Kleid herleitet. Die Verkaufzahlen der ersten drei Bände seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1860) sind für ihn zufriedenstellend; dass sich die englische Übersetzung seines „Corsica“ (1855) drei Mal so gut verkauft wie das deutsche Orignal (1854), ist ihm unverständlich. Er übersendet das Manuskript seines Aufsatzes „Von Rom durch Tuscien und Umbrien nach Perugia und Florenz“ zum Abdruck im „Ausland“.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He sent the manuscript of the first half of the fourth volume of his „Geschichte der Stadt Rom im Mittelalter“ (1862) to Stuttgart via Frankfurt. While this is in print, he plans to complete the second half of the manuscript by May. He paid tribute to the Milanese captain Herlembaldus Cotta in his „Geschichte der Stadt Rom im Mittelalter“. He suspects that the name Cotta is derived from the Hebrew „Kot“ meaning dress. The sales figures of the first three volumes of his „Geschichte der Stadt Rom im Mittelalter“ (1859-1860) are satisfactory for him; that the English translation of his „Corsica“ (1855) is selling three times as well as the German orignal (1854) is incomprehensible to him. He sends the manuscript of his essay "From Rome through Tuscia and Umbria to Perugia and Florence" to be published in the „Ausland“. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1862-01-14" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001055">Cotta von Cottendorf, Johann Georg
+                        (1796–1863)</persName>
+                    <placeName key="G000879">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi> 1<subst><del rendition="#ow">2</del><add place="across">4</add></subst>. Januar 1862</dateline>
+                    <salute rendition="#c">Hochverehrter Herr Baron!</salute>
+                </opener>
+                <p>ich erlaube mir Ihnen anzuzeigen, daß am 13. Januar <seg type="comment"><orig>die erste Hälfte des <bibl sameAs="G003462">Bandes IV</bibl> von hier nach Frankfurt abgegangen ist</orig><note xml:id="nk1g_xkq_1mb">Adelheid Grunelius, geb. Fecht (1813–1887), die Witwe des Frankfurter Bankiers Moriz Eduard Grunelius (1803–1846), hatte die erste Hälfte des Manuskripts vom vierten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1862) auf ihrer Rückreise aus Rom nach Deutschland mitgenommen (siehe den Brief von Gregorovius an Cotta, 10.5.1862, in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 246–247), deren Absendung er dem Verlag bereits in seinem Brief vom <ref target="G000137">20.12.1861</ref> angekündigt hatte.</note></seg>, dirigirt an die dortige <placeName key="G000646">Preuß<ex>ische</ex> </placeName>Gesandtschaft, aus deren Bureau dies Paquet wol an Sie sicher gelangen wird.</p>
+                <p>Während nun die erste Hälfte in Druck genommen wird, mache ich die zweite druckfertig. Spätestens <seg type="comment"><orig>im Mai dürfte das letzte Manuscript des Bandes IV in Ihren Händen sein</orig><note xml:id="ncnr_1lq_1mb">Im Brief an Cotta vom 10. Mai 1862 teilte Gregorovius mit, dass der Jenaer Kirchenhistoriker Karl Hase (1800–1890) die zweite Hälfte seines Manuskripts nach Deutschland mitgenommen hat (siehe Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 246–247).</note></seg>. Die Correcturen werden wol, so hoffe ich, wie bisher un-<pb n="1v"/>gestört hin u<ex>nd</ex> her reisen.</p>
+                <p>Der <hi rendition="#aq"><seg type="comment"><orig>Miles Sancti Petri</orig><note xml:id="nfrf_plq_1mb">Lat.: Ritter des heiligen Petrus.</note></seg></hi> <seg type="comment"><orig><persName key="G004713">Herlembaldus Cotta</persName> hat als einer der bedeutendsten Charaktere jener Zeit seine passende Stelle gefunden</orig><note xml:id="nnd3_rlq_1mb">Gregorovius hatte Cotta in seinem Brief vom <ref target="G000116">22.6.1858</ref> die erwünschte Auskunft über seinen Vorfahr, den Mailänder Kapitän Herlembaldus Cotta (†1075) gegeben und Cotta zuletzt in seinem Brief vom <ref target="G000081">22.12.1859</ref> versprochen, diesen im vierten Band seiner „Geschichte der Stadt Rom im Mittelalter“ angemessen zu würdigen (siehe Bd. 4, 1862, S. 147–148).</note></seg>. Gibt es für Ihre Familie keine Documente, welche deren Zusammenhang mit den Mailändern beweisen? In diesem Falle hätte ich mich in einer Note darauf bezogen; so aber mußte ich davon abstehen, weil man mir dies <add place="intralinear">als</add> Schmeichelei würde ausgelegt haben. <seg type="comment"><orig>Die <placeName key="G000721">Mailänder </placeName><persName key="G067661">Cotta’s</persName> hatten im Wappen eine Art von <pb n="2r"/>Wams, aber die Ableitung des Namens von dem hebräischen „Kot“, d<ex>as</ex> h<ex>eißt</ex> Kleid, scheint mir allzu gesucht</orig><note xml:id="npxk_tlq_1mb">Damit war Cotta offenbar nicht einverstanden, siehe den folgenden, undatierten Brief von Gregorovius an Cotta, nach dem <ref target="G000143">14.1.1862</ref>.</note></seg>. Sicher kam das Geschlecht in altrömischer Zeit mit Colonien herüber. Es hat auch Männer der Wissenschaft erzeugt, auch einen Poeten.</p>
+                <p>Heute erhielt ich, Herr Baron, Ihr freundliches Schreiben. <seg type="comment"><orig>Der buchhändlerische Fortgang der Geschichte scheint im Verhältniß zu der Größe des Werks gut</orig><note xml:id="nkms_nnx_cmb">Auf der Rückseite des Briefes von Gregorovius an Cotta vom <ref target="G000137">20.12.1861</ref> hatte der Verlag für die ersten drei Bände seiner „Geschichte der Stadt Rom im Mittelalter“ zwischen 500 und 600 verkaufte Exemplare dokumentiert; für sein „Corsica“ (1854) wurde hier bis Ende 1861 der Verkauf von gut 800 Exemplaren vermerkt.</note></seg>. Erst, wenn ich es vollenden könnte, wird man seinen ganzen Wert sehen. Ich weiß, was darin steckt u<ex>nd</ex> daran gethan ist, obwol ich schwerlich mich deßen überhebe. Daß nun aber ein so wackeres u<ex>nd</ex> lebendiges Buch, wie <bibl sameAs="G003106">Corsica</bibl>, <pb n="2v"/>sich dreimal beßer <bibl sameAs="G004435">in <placeName key="G000599">England</placeName> verkauft</bibl>, als in <placeName key="G000664">Deutschland</placeName>, ist doch ein merkwürdiger <hi rendition="#aq">Fall</hi>. Ich habe keine Freunde, die für mich posaunen „<seg type="comment"><orig><hi rendition="#aq"><foreign xml:lang="Lat">tuba mirum spargens sonum</foreign></hi></orig><note xml:id="nfmf_zlq_1mb">Lat.: Die Posaune wird wunderlichen Laut erschallen lassen – die Anfangszeile der 3. Strophe eines seit dem 14. Jahrundert in einer Totenmesse gesungenen mittelalterlichen Hymnus über das Jüngste Gericht, „Dies irae dies illa“ (dt.: Tag der Rache, Tag der Sünden). </note></seg>“; sondern meine Schriften, durch keine Position in der Welt unterstützt, müßen sich selber durcharbeiten.</p>
+                <p>Beikommend erlaube ich mir für das „<orgName key="G004668">Ausland</orgName>“ einen <bibl corresp="G003905 G003906 G003907">Beitrag</bibl> zu senden. Für die <orgName key="G000462">Allg<ex>emeine</ex> Zeit<ex>ung</ex></orgName> eignet er sich nicht; ich hoffe ihr aber bald etwas einzusenden.</p>
+                <closer>
+<salute xml:id="s1" next="#s2">Mich Ihnen, hochgeehrter Herr Baron, warm empfehlend, bin ich mit der größesten Hochachtung</salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">Ihr ganz ergebenster </salute>
+<signed rendition="#right">F. Gregorovius.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

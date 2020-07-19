@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000045">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Johann Georg von Cotta in Stuttgart. Rom, 31. Januar
+                    1856</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (9) </idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. </p>
+<p> Empfangsbescheinigung des Wechsels für seine im „Morgenblatt für gebildete Leser“ gedruckte Übersetzung der Novelle „Das Gelübde Petrus Cyrnäus“ (1 Bl., 8°-quer, ½ S.; DLA Marbach, Cotta-Archiv, Cotta-Briefe, 9a)</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach D1)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 213–214</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er übersendet eine Quittung des Honorars für seine im „Morgenblatt für gebildete Leser“ gedruckte Übersetzung der Novelle „Das Gelübde Petrus Cyrnäus“. Nachdem Cotta im Juli 1855 den Verlag seines nun bei Brockhaus gedruckten Bandes „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) abgelehnt hatte, fühlte er sich verpflichtet, seine Artikel bevorzugt an die dort verlegten Zeitschriften zu geben. Künftig will er aber auch für die „Allgemeine Zeitung“ schreiben. Allerdings ist er durch seine geplante „Die Chronik der Stadt Rom im Mittelalter“ sehr in Anspruch genommen, die Brockhaus offenbar verlegen will. Da der Krimkrieg nun endet, hofft er auf besseren Absatz seines „Corsica“ (1854) und auf eine baldige verbesserte zweite Auflage.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He sends a receipt for the fee for his translation of the novella „Das Gelübde Petrus Cyrnäus“ printed in the „Morgenblatt für gebildete Leser“. After Cotta rejected the book „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) in July 1855, now published by Brockhaus, he felt obliged to give his articles preferentially to the magazines published there. In the future, however, he also wants to write for the „Allgemeine Zeitung“. However, he is very occupied with his planned „Die Chronik der Stadt Rom im Mittelalter“, which Brockhaus apparently wants to publish. Since the Crimean War is now ending, he hopes for better sales of his „Corsica“ (1854) and for an improved second edition soon. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1856-01-31" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001055">Cotta von Cottendorf, Johann Georg
+                        (1796–1863)</persName>
+                    <placeName key="G000879">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+<div type="writingSession">
+<opener>
+<dateline rendition="#right"><hi rendition="#aq"><foreign xml:lang="ita">Roma</foreign></hi>, d<ex>en</ex> 31. <hi rendition="#aq">Januar</hi> 1856.</dateline>
+<salute rendition="#c">Hochgeehrter Herr Baron,</salute>
+</opener>
+<p>indem ich mir erlaube Sie zu bitten, <seg type="comment"><orig>beikommende Gutschrift der <orgName key="G000523">J. G. Cottaschen Buchhandlung</orgName></orig><note xml:id="nakj_nsw_qlb">Beiliegend übersandte Gregorovius eine Empfangsbescheinigung des Wechsels für seine im „Morgenblatt für gebildete Leser“ (Nr. 41–42. Stuttgart, München: Cotta 7. u. 14.10.1855. S. 961–967 u. 991–998) gedruckte Übersetzung der Novelle „Das Gelübde Petrus Cyrnäus. Historische Novelle von Salvator Viale“ (1 Bl., 8°-quer, ¼ S.; DLA Marbach, Cotta-Archiv, Cotta-Briefe, 9a). – Sie wurde in die 2. Auflage seines „Corsica“ aufgenommen (Stuttgart: Cotta 1869, Bd. 1, S. 188–222).</note></seg> zugehn zu laßen, ergreife ich diese Gelegenheit, um Ihnen selbst für die freundliche Erinnerung zu danken, welche Ihre Zeilen gegen mich aussprechen.</p>
+<p>Vielleicht darf ich es nicht mehr sagen, daß jene Zeit, als Sie oder Ihre geehrte Buchhandlung mir so angenehme Beziehungen erlaubten, mir unendlich wert war, denn ich glaube dies durch so viele meiner Arbeiten bewiesen zu haben. Jene nun wurden aufgehoben, oder unterbrochen; <seg type="comment"><orig>die moralische Niederlage, die mir Ihre Buchhandlung im vergangenen Sommer zuzog</orig><note xml:id="ndgs_rsw_qlb">Gregorovius’ Ende Mai an Cotta gesandtes Manuskript „Pandora, eine Sammlung kleiner Schriften aus Italien“ (später „Figuren. Geschichte, Leben und Scenerie aus Italien“ – siehe den Brief von <ref target="G000078">Gregorovius an Cotta, 3.6.1855</ref>) hatte Cotta im Brief vom 11.7.1855 abgelehnt, weil schon sein „Corsica“ (1854) sich in Deutschland schlecht verkaufe (h: DLA Marbach, Cotta-Archiv, Gelehrten-Copirbuch IV, 328).</note></seg>, war groß, u<ex>nd</ex> ich gestehe es, sie hat mich innerlich sehr angegriffen. Aber vielleicht ist es gut, daß dem arbeitenden u<ex>nd</ex> vorwärtsstrebenden Menschen die Sorge treuer bleibe, als das Glück.</p>
+<p>Verzeihen Sie, wenn ich offen rede; ich blieb im Sommer in einer sehr traurigen Lage, <seg type="comment"><orig>bis mich die Buchhandlung <hi rendition="#aq"><orgName key="G000480">F. A. Brockhaus</orgName></hi> vor dem Mangel schützte, indem sie bereitwillig meine <bibl corresp="G003114 G004072">Manuscripte</bibl> annahm u<ex>nd</ex> honorirte</orig><note xml:id="nqrt_wsw_qlb">Den Absagebrief Cottas hatte Gregorovius zusammen mit dem abgelehnten Manuskript am <ref target="G000073">19.7.1855</ref> an Brockhaus übersandt, der den Verlag übernahm. Brockhaus hatte kurz zuvor auch das am 21.7.1855 von Gregorovius an Brockhaus übersandte Manuskript seiner „Lieder des Giovanni Meli von Palermo“ (siehe RT, 23.7.1855, S. 56) angenommen, das wegen seiner Honorarforderungen zunächst abgelehnt worden war (siehe den Brief von <ref target="G000077">Gregorovius an Brockhaus, 19.1.1856</ref>).</note></seg>. Indem ich nun mit ihr in ein Verhältniß trat, welches sich auch auf meine <pb n="1v"/>folgenden Schriften (vor allen anderen auf die <seg type="comment"><orig><bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Chronik der Stadt Rom im Mittelalter</bibl></orig><note xml:id="nxnb_dtw_qlb">Im Tagebuch taucht Gregorovius’ Plan, die „Geschichte der Stadt Rom im Mittelalter“ zu schreiben, erstmals am 3.10.1854 auf (siehe RT, S. 53). Die Niederschrift seines späteren 8-bändigen Hauptwerks beginnt ein Jahr später (siehe RT, 26.11.1855, S. 57). In seinen Briefen ist von seinem Plan erstmals am <ref target="G000056">11.12.1855</ref> gegenüber Brockhaus die Rede. Siehe auch den Brief von Gregorovius an Theodor Heyse vom <ref target="G000034">6.1.1856</ref>.</note></seg>) erstrecken zu wollen scheint, legten sich mir Verpflichtungen auf, die ich gerne Ihrer Buchhandlung schuldig geblieben wäre; ich meine, es zwingt mich Dankbarkeit, für die <hi rendition="#aq">Brockh<ex>ausschen</ex></hi> Journale vor allen andren zu arbeiten. </p>
+<p>Aber dieser Arbeiten werden jetzt nur wenige sein, da ich unausgesetzt an der Geschichte der Stadt Rom arbeite.</p>
+<p>Ich würde mit Freuden Ihrer u<ex>nd</ex> der Redaction Erlaubniß genügen, <seg type="comment"><orig>wenigstens für die <orgName key="G000462">Augsburger <add place="intralinear">Z<ex>eitung</ex></add></orgName>, der ich so viel Dank schulde, zu schreiben, sobald ich Zeit u<ex>nd</ex> Stoff gewinne; u<ex>nd</ex> dies hoffe ich, wird sich mir möglich machen</orig><note xml:id="nvxz_ntw_qlb">Sein nächster in der „Allgemeinen Zeitung“ gedruckter Artikel, „Aus der Campagna von Rom“, erschien erst vom 15.12.1856 bis 6.5.1857 in 14 Folgen. Er wurde zusammen in „Lateinische Sommer“, den zweiten Band seiner „Wanderjahre in Italien“ aufgenommen (Leipzig: Brockhaus 1864).</note></seg>.</p>
+<p>Gerne, Herr Baron, möchte ich Ihnen beweisen, daß ich der Verpflichtungen wol u<ex>nd</ex> stets eingedenk bin, welche mir die Dankbarkeit gegen Sie auflegt, u<ex>nd</ex> ich wünschte dieser Beweis hätte geliefert werden können durch größere u<ex>nd</ex> würdige Arbeiten; denn da so treffliche Männer des <placeName key="G000664">Vaterlands</placeName> Ihre Zeitung versorgen, kann dasjenige, was ich zu liefern imstande war oder sein möchte, nicht in Betracht kommen.</p>
+<p>Da wir nun <seg type="comment"><orig>Friedensaussichten</orig><note xml:id="nyf3_ptw_qlb">Der Krimkrieg von 1853 bis 1856 zwischen Russland und dem Osmanischen Reich, das von den Verbündeten Frankreich, Großbritannien und Sardinien-Piemont unterstützt wurde, um eine Gebietserweiterung Russlands zu verhindern, endete am 30. März 1856 mit dem Dritten Frieden von Paris zwischen Russland und seinen Kriegsgegnern – dem Osmanischen Reich, Großbritannien, Frankreich und Sardinien sowie den nicht kriegführenden Staaten Preußen und Österreich.</note></seg> haben, so hoffe ich, daß <seg type="comment"><orig>unser <bibl sameAs="G003106"><hi rendition="#aq">Corsica</hi></bibl> davon etwas gewinnen wird</orig><note xml:id="nkmw_stw_qlb">Bei Cotta war sein, sich in Deutschland schlecht verkaufender, Erstling „Corsica“ 1854 erschienen.</note></seg>, u<ex>nd</ex> wünsche sehnlich, daß <seg type="comment"><orig>eine <bibl sameAs="G003107">zweite Ausgabe</bibl></orig><note xml:id="nlm1_vtw_qlb">Die zweite Auflage erschien erst 1869.</note></seg> früher oder später mir erlauben möchte, die Mängel zu tilgen, welche die erste enthält.</p>
+<closer>
+<salute rendition="#c">Mit der größesten Hochachtung habe ich die Ehre, Herr Baron, mich zu zeichnen als Ihr <lb/>ergebenster Diener</salute>
+<signed rendition="#right"><hi rendition="#aq">F. Gregorovius</hi>.</signed>
+</closer>
+</div>
+</body>
+    </text>
+</TEI>

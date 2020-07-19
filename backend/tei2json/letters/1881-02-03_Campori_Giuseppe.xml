@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_vcc_4tr_1mb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Giuseppe Campori in Modena. München, 3. Februar 1881</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free">
+                <licence target="http://creativecommons.org/licenses/by/4.0/">
+                    Creative Commons Attribution 4.0 International (CC BY 4.0)
+                </licence>
+            </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Bologna, Biblioteca dell’Archiginnasio</repository><collection>fondo speciale Campori</collection><idno>Cart. IV, n. 54</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 2 ½ S. – 1r aoR, Bibliotheksstempel – Vermerk: (Gregorovius) – Vermerk: [Al marchese / G. Campori, / Modena] – Stempel: 399972 – Umschlag, Archivvermerk aoR: Autogr. Campori / Cart. IV. 54 – Archivvermerk: Gregorovius Ferdinando / professore / Lett. 2 / 1880–1881</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er hat Luigi Vaccàs Gedenkschrift zum Tod von Cesare Campori („Il marchese Cesare Campori“, 1881) erhalten und gedenkt der brüderlichen Verbundenheit zwischen Giuseppe und Cesare im familiären sowie wissenschaftlichen Bereich. In zwei Tagen reist er über Venedig nach Rom; zu einem Halt in Modena und einer persönlichen Begegnung mit Campori kommt es nicht. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1881-02-03" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="ed_scx_mhs_tlb">Campori, Giuseppe (1821-1887)</persName>
+<placeName key="G000729">Modena</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<salute rendition="#c">Illustre <seg type="comment"><orig>Signor Marchese</orig><note xml:id="nxvt_ykw_2mb">Der Marchese Giuseppe Campori (1821–1887) war ein Schriftsteller, Politiker und Kunsthistoriker, der einer illustren Modeneser Familie entstammt sowie der jüngere Bruder von Cesare Campori (1814–1880). Ab 1846 arbeitete Giuseppe am „Archivio storico italiano“ mit, schrieb ein wichtiges Buch zu den Künstlern der Este: Gli artisti italiani e stranieri negli Stati Estensi (Modena: tip. della R. D. Camera 1855). 1860 stieg er neben seinen wissenschaftlichen Tätigkeiten in die Politik ein und saß im Parlament des vereinigten Königreiches. Gregorovius traf Campori in Modena (siehe RT, 31.3.1875, S. 348). Von Ende Dezember 1880 ist eine Kondolenzkarte Gregorovius’ an Giuseppe Campori zum Tod von dessen Bruder erhalten; siehe den Brief von Gregorovius an Giuseppe Campori vom 24.12.1880. Es sind keine Gegenbriefe auf uns gekommen.</note></seg>,</salute>
+</opener>
+<p>mi è pervenuto un esemplare della <bibl sameAs="ed_ggd_hkw_2mb">Commemorazione</bibl> fatta dal <seg type="comment"><orig>Signor Professore <persName key="ed_wfx_pkw_2mb">Vaccà</persName></orig><note xml:id="ndkz_zkw_2mb">Luigi Vaccà (1814–1890) hatte Medizin studiert und war ab 1840 bis 1881/82 Lehrstuhlinhaber für Medizin und Hygiene an der Universität von Modena. Von 1881–1889 war er Rektor der Universität. In dieser Funktion hielt er auch die hier von Gregorovius gemeinte Rede zum Tod von Cesare Campori, die am 25. November 1880 in San Carlo vorgetragen und später publiziert wurde. </note></seg> in onore del fu <seg type="comment"><orig>Marchese <persName key="ed_ufh_t1v_5lb">Cesare</persName></orig><note xml:id="nq3z_1lw_2mb">Cesare Campori (1814–1880), Dichter und Historiker, hatte als Kind zunächst in einem Internat gelebt, welches er jedoch aufgrund einer Erkrankung, die schließlich bis zur Taubheit führte, verlassen musste. Er wurde dann zuhause unterrichtete, wo er sich vornehmlich auf Literatur und Poesie konzentrierte. Campori veröffentlichte ab 1835 Gedichtbände und Novellen. 1841 wurde er zum Mitglied der Akademie der Literatur und Künste ernannt. 1844 begab er sich auf eine lange Reise durch Frankreich, England, Holland, Belgien, Deutschland und die Schweiz, welche möglicherweise seinen darauf einsetzenden liberalen Katholizismus und sein Befürworten eines unabhängigen Italien beförderte. Aufgrund seiner Taubheit nahm Campori nicht viel am öffentlichen Leben teil. Als seine wichtigste Arbeit gilt seine tiefgehende und analytische Biografie „Raimondo Montecuccoli. La sua famiglia e i suoi tempi“ (Florenz: G. Barbèra 1876), für welche er viel unpubliziertes Material in den Archiven Modenas, auch jenem der Familie Este, durchforschte.</note></seg>, suo preclaro fratello. Quantunque io non sappia, a quale persona io sia debitore di coteste ricordo pietoso, alla Vossignoria, <seg type="comment"><orig>ovvero al Sig<ex>nor</ex> Commendatore Vaccá</orig><note xml:id="njpp_clw_2mb">Es ist kein Kontakt, ob brieflich oder persönlich, zwischen Luigi Vaccà und Gregorovius nachweisbar. Da Gregorovius Giuseppe Campori im Dezember kondoliert hatte, hat ihm dieser Vaccàs Gedenkschrift zukommen lassen.</note></seg>, pur mi lusingo, che Ella, per benevolenza verso di me, vi abbia presa parte nel donarmelo.</p>
+<p>Perciò mi permetto di rivolgere alla sua persona illustre i miei più sentiti ringraziamenti, ai quali torno di aggiungere l’espressione del senso di profondo dolore, che mi fece provare <seg type="comment"><orig>la inaspettata nuova della morte di uno dei più distinti Italiani</orig><note xml:id="ngv3_2lw_2mb">Cesare war am 5. September 1880 in Mailand, wohin er sich zu einem Historikerkongreß begeben hatte, völlig unerwartet verstorben.</note></seg>, che io abbia avuto l’onore di avvicinare personalmente.</p>
+<p>Duolmi di dover raffigu<supplied cert="high">r</supplied>armi <pb n="1v"/>la S<ex>ignoria</ex> V<ex>ostra</ex> ora immersa in così profondo lutto, e quindinanzi privata di si nobile compagno nell<subst><del rendition="#ow"/><add place="across">e</add></subst> vicende della vita famigliare e negli studj. Se non che mi persuado, che l’ingegno, onde la natura Le è stato larga, e il tesoro di scienza, che Ella a cauto dell’ amato fratello ha saputo accrescere, in sè stessi costituiscono per lei un fonte perenne di consolazione e di rinnovamento di vita.</p>
+<p>Le mando questi saluti di cuore, <seg type="comment"><orig>stando sul punto di partire alla volta di <placeName key="G000894">Venezia</placeName> e quindi per <placeName key="G000763">Roma</placeName></orig><note xml:id="nlrq_flw_2mb">Zwei Tage nach Abfassung dieses Briefes sollte Gregorovius in Richtung in Italien aufbrechen, verbrachte neun Tage in Venedig und traf nach weiteren Zwischenhalten am 20. Februar in Rom ein (siehe RT, Romfahrt 1881 und Rückkehr nach München, S. 422).</note></seg>. Semmai io prendessi la solita via di Modena, per recarmi <pb n="2r"/>a<placeName key="G000638"> Bologna</placeName>, goderei benvolentieri il bene, <seg type="comment"><orig>di riverirla personalmente</orig><note xml:id="nos1_hlw_2mb">Ein Halt in Modena auf dieser Fahrt nach Rom und ein Zusammenkommen mit Campori ist nicht dokumentiert.</note></seg>, e di dirle a voce, ch’io sono rimasto memore dell’ insigne bontà che meco usò il suo egregio fratello, e la S<ex>ignoria</ex> V<ex>ostra</ex> propria.</p>
+<p>Con i sensi della più alta stima mi protesto,</p>
+<p rendition="#right">illustre Signor Marchese</p>
+<closer>
+<dateline>Monaco 3 febr<ex>ajo</ex> 1881</dateline>
+<salute rendition="#c">suo devot<hi rendition="#sup"><hi rendition="#u" hand=""><ex>issi</ex>mo</hi></hi></salute>
+<signed rendition="#right">Ferdinand Gregorovius.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

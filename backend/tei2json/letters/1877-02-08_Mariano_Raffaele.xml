@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000219">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Rom. Florenz, 8. Februar 1877</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt></titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+<p xml:lang="de">Nach einem Besuch in Modena bei Cesare Foucard. ist er gesten in Florenz eingetroffen  Die von Mariano vermittelte Unterkunft in der Via Gregoriana in Rom kann er erst am 12. Februar 1877 beziehen, weil er übermorgen für zwei Tage nach Perugia aufbricht. Seine Ankunft in Rom wird er nur ihm telegrafieren und freut sich auf eine ruhige Ankunft und das Wiedersehen mit Mariano und Karl Lindemann-Frommel. Adelheid Grunelius wollte ihn verpflichten, täglich bei ihr zu essen.</p>
+<p xml:lang="it"/>
+<p xml:lang="en"/>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000671">Florenz, Toscana</placeName><date when="1877-02-08" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><seg type="comment"><orig>Firenze</orig><note xml:id="nnbm_rr3_1mb">Gregorovius hatte München am 1. Februar verlassen und reiste über Verona (1.–2.2.), Mantua (2.–3.2.), Modena (3.–7.2.), Bologna (7.2.) und Florenz (7.–11.2.) nach Rom, wo er am 11. Februar eintraf (siehe RT, Rückkehr nach Rom im Jahre 1877, S. 373–374). </note></seg> Albergo <lb/>Bonciani. <lb/>8. febbraio 77</dateline>
+                    <salute>Caro amico,</salute>
+                </opener>
+<p>jerisera sono giunto qua, dopo una sosta deliziosa fatta dai miei amici <persName key="G001134">Foucard</persName> in <placeName key="G000729">Modena</placeName>. Questa mane ho ritirato le mie lettere dalla posta. La ringrazio mille volte della premura che ella si è presa nel ricercare qualche abituro a me conveniente.</p>
+<p>Sè <seg type="comment"><orig>quelle camere</orig><note xml:id="nusl_sr3_1mb">Mariano besorgte Gregorovius ein Quartier in der Via Gregoriana 54 bei den „Schwestern Diamanti“ (siehe RT, Rückkehr nach Rom im Jahre 1877, S. 374). Ursprünglich wollte Gregorovius Zimmer von Conte Luigi Campo Fregoso (1844–1908) in der Via Ripetta 108 anmieten, welche aber nicht mehr verfügbar waren (siehe die Briefe von Gregorovius an Raffaele Mariano, 31.1.1877).</note></seg>, per cui ella si è impegnata, sono buone, e pulite, le prenda addirittura per un mese con quelle condizioni d’affitto che mi ha scritto. Non <pb n="1v"/>importa il prezzo di lire 100, quantunque io abbia pagato per quelle altre buonissime in <placeName key="ediarum_njc_s3x_qlb">Ripetta</placeName> soltanto lire 80 al mese. La posizione in <placeName key="ediarum_lmm_slx_qlb">Via Gregoriana</placeName> mi conviene, e poi la cosa deve combinarsi per un solo mese. Faccia conto, che entrerò nelle camere non prima del 12 del m<ex>ese</ex> corr<ex>ente</ex>.</p>
+<p>Starò in Firenze ancora domani; il 10 ° partirò per <placeName key="G000751">Perugia</placeName>, dove mi fermerò due giorni, per godermi la solitudine perfetta. Le indicherò l’arrivo mio in Roma per mezzo <pb n="2r"/>di un telegramma. Non dia parte del giorno del mio arrivo a nessuno fuori il <persName key="G001375">Lindemann</persName>; poichè voglio essere libero, e pranzeremo tutti i tre insieme la prima sera in qualche sito che ci converrà. La signora <persName key="G001215">Grunel<ex>ius</ex></persName> ha voluto impormi l’impegno di pranzare ogni giorno in casa sua, cosa che per nessun modo mi conviene, chè altrimenti perderei troppo tempo e la mia indipendenza. Colla speranza di riabbracciarla prestamente</p>
+                <closer>
+                    <salute rendition="#right">il suo</salute>
+                    <signed rendition="#right">FGregorovius</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

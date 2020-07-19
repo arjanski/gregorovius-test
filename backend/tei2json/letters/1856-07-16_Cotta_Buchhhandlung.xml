@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000051">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an die J. G. Cotta’sche Buchhandlung in Stuttgart.
+                    Genazzano, 16. Juli 1856</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (10)</idno></msIdentifier>
+<physDesc>
+<p> 1 Dbl., 8°, 2 S. – 2r Beantwortungs- Empfängervermerk: 6/8. / abgelehnt / zur Theiln. an AZ ud Mbl. aufgefordert</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach D1)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 215–216</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Der Landschaftsmaler Rudolf Jonas wurde durch sein „Corsica“ (1854) angeregt, selbst Korsika zu bereisen. Dort sind zahlreiche groß- und kleinformatige Blätter entstanden, die Gregorovius Cotta zum Verlag in einem Album anträgt. Die italienische Teilübersetzung von Paolo Perez von seinem „Corsica“ (1854) wird in Kürze bei Le Monnier erschienen (1857).</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">The landscape painter Rudolf Jonas was inspired by his „Corsica“ (1854) to travel to Corsica himself. This resulted in numerous large and small format pages, which Gregorovius submits to Cotta to be published in an album. The partial translation into Italian of his „Corsica“ (1854) by Paolo Perez will be published by Le Monnier shortly (1857). </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000678">Genazzano</placeName>
+                    <date when="1856-07-16" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="G000523">J. G. Cotta'sche Buchhandlung</orgName>
+                    <placeName key="G000879">Stuttgart</placeName>
+                </correspAction>
+<correspContext>
+<ref type="next">6. August 1856 (DLA Marbach, Cotta-Archiv, Cotta-Copirbuch IV, 517)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Genazzano in der Campagna von Rom</hi> </dateline>
+<dateline rendition="#c">16. <hi rendition="#aq">Juli</hi> 1856</dateline>
+                    <salute rendition="#c">Der sehr geehrten J. G. Cottaschen Buchhandlung</salute>
+                </opener>
+                <p>erlaube ich mir folgende Mitteilung zu machen: Auf Veranlaßung meines Buches über <hi rendition="#aq"><bibl sameAs="G003106">Corsica</bibl></hi> entschloß sich im Mai dieses Jahres der <seg type="comment"><orig>Landschaftsmaler <hi rendition="#aq"><persName key="G001319">Rudolf Jonas</persName></hi></orig><note xml:id="no4r_3pd_rlb">Der aus Goldapp in Ostpreußen stammende Landschaftmaler Rudolf Jonas (1822–1888) hatte an der Kunstakademie Königsberg bei August Behrendsen (1819–1886) und in München studiert. Seit 1851 lebte er in München, später in Berlin. Er bereiste Italien, die Schweiz und Tirol. </note></seg> von<placeName key="G000734"> München</placeName>, <seg type="comment"><orig>nach <placeName key="G000710">jener Insel</placeName> zu gehn, um dort die schönsten Gegenden u<ex>nd</ex> Ansichten zu malen</orig><note xml:id="nqj5_mpd_rlb">Von Mai bis September 1856 hielt sich Rudolf Jonas auf Korsika auf. Gregorovius hatte bereits Weihnachten 1855 in seinem Tagebuch notiert: „Ein Maler Jonas schrieb aus Berlin, daß er, angeregt von meinem Buch, Korsika besuchen wolle, dort Studien zu machen“ (S. 58) Am 22.5.1856 hatte er von Jonas einen Brief aus Korsika erhalten (siehe RT, S. 62). Persönlich lernte er den Maler erst 1860 in Danzig kennen (siehe RT, 6.8.1860, S. 107).</note></seg>. Ich riet ihm neben seinen größeren Studien, auch auf kleinere Blätter für ein corsisches Album Rücksicht zu nehmen. Er schreibt mir nun wiederholt, daß alle seine künstlerischen Erwartungen übertroffen seien, d<ex>a</ex>ß er mit einer großen Ausbeute im September nach München zurückkehre. Er hat 25 Blätter ausgeführt, welche sich zu einem Album zusammenstellen werden. Dort reisende Engländer haben ihm dieselben abkaufen wollen, er hat es aber vorgezogen, sie erst nach <placeName key="G000664">Deutschland</placeName> heimzubringen.</p>
+                <p>Ich habe es nun, da aus Ihrem Verlage das „Corsica“ hervorgegangen ist, für meine Pflicht gehalten, <seg type="comment"><orig>Ihnen von dem Plane eines solchen Album’s (in Farbendruck leicht ausführbar) Nachricht zu geben</orig><note xml:id="nazn_spd_rlb">Cotta lehnte den Verlag ab und klagte stattdessen „Schon lange vermissen wir zu unserem Leidwesen Ihre uns so schätzbare Theilnahme an der Allgemeinen Zeitung und dem Morgenblatt“ (h: 6.8.1856, DLA Marbach, Cotta-Archiv, Cotta-Copirbuch IV, 517). Gregorovius bat auch Brockhaus im Brief vom <ref target="G000047">5.8.1856</ref> um Bekanntmachung der geplanten Veröffentlichung eines Albums korsischer Landschaftsmalereien von Rudolf Jonas.</note></seg>, u<ex>nd</ex> sollten Sie sich nicht dafür intereßiren können, wünschte ich wenigstens <pb n="1v"/>durch diese Mitteilung eine angenehme Schuld der Artigkeit zu erfüllen. Möchten Sie die Güte haben mir zu schreiben, ob ein solches Album innerhalb des Kreises Ihres Verlags liegen dürfe oder nicht, u<ex>nd</ex> wenn das letztere der Fall ist, ob Sie mir vielleicht einen Wink geben wollen, <seg type="comment"><orig>wohin ich mich im Interesse Corsica’s u<ex>nd</ex> jenes Malers (der sehr tüchtig sein soll) zu wenden habe</orig><note xml:id="ndts_ypd_rlb">Gregorovius wandte sich offenbar an Friedrich Eggers (1819–1872), den Gründer des „Deutschen Kunstblatts“. Im „Deutschen Kunstblatt. Zeitschrift für bildende Kunst, Baukunst und Kunsthandwerk“ erschien ein längerer Beitrag über die korsischen Arbeiten von Rudolf Jonas und seine Beziehungen zu Gregorovius (Jg. 7. Nr. 44. Stuttgart 30.10.1856. S. 388, siehe https://digi.ub.uni-heidelberg.de/diglit/dkb1856/0401) – Und im selben Band unter der Rubrik „Briefwechsel“ die Notiz: „Es geht uns die Anfrage zu, ob Herr Jonas, von dessen korsischen Ansichten wir berichtet haben, nicht auch das Volk und seine Sitten durch Zeichnungen in sein Skizzenbuch aufgenommen habe und seinem Album einzuverleiben gedenke? Unter den Blättern, die uns Vorlagen, haben wir dergleichen nicht gesehen, erinnern uns auch, von dem Maler gehört zu haben, daß er die Korsen, namentlich das schöne Geschlecht, sehr schwer habe zum Portraitirenlassen bewegen können. Eine nähere Antwort erbitten wir hierdurch von ihm.“ (ebd., Nr. 45. Stuttgart 6.11.1856. S. 396). Siehe den Brief von <ref target="G000070">Gregorovius Friedrich Eggers, 11.11.1856</ref>.</note></seg>.</p>
+                <p>Mir wäre es lieb, wenn dies Unternehmen in Deutschland zu Stande käme; wo nicht, so sind die Engländer ohne Frage dazu bereit.</p>
+                <p>Der <seg type="comment"><orig><bibl sameAs="G004324"><hi rendition="#aq">Graf</hi> <hi rendition="#aq">Paul Perez</hi> hat meine Geschichte der Corsen meisterhaft ins Italienische übersetzt</bibl></orig><note xml:id="npgy_dqd_rlb">Sein Veroneser Freund Graf Paolo Perez (1822–1879) übersetzte einen Auszug: Storia dei Corsi. Florenz: Tip. Felice Le Monnier 1857.</note></seg>, u<ex>nd</ex> wird sie nächstens im Druck erscheinen.</p>
+                <closer>
+<salute xml:id="s1" next="#s2">Mit der Bitte, beigeschlossenen Brief befördern zu wollen, zeichne ich mich </salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">mit großer Hochachtung als Ihr ergebenster</salute>
+                    <signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi></signed></closer>
+<note type="postscript" rendition="#right">Adr<ex>esse</ex> <hi rendition="#aq">Roma</hi>, <hi rendition="#aq">Via della Purificazione</hi> 63.</note>
+            </div>
+        </body>
+    </text>
+</TEI>

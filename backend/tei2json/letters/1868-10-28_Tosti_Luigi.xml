@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000442">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Luigi Tosti in Montecassino. Rom, 28. Oktober 1868</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Montecassino, Archivio dell’Abbazia</repository><collection>Carteggio Tosti</collection><idno>120</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ½ S. – 1r + 2r aoR geprägt: ROMA</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Tommaso Leccisotti: Alcune lettere di Ferdinando Gregorovius a Monaci Cassinesi. In: Benedictina. Fascicoli di studi Benededettini. Jg. 14. Fasc. 1. Rom: S. Paolo 1967. S. 148 </bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er bittet um die Abschrift einer Urkunde aus dem Jahr 941, die er bei seinem Aufenthalt in Montecassino im Oktober 1859 gesehen hat.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1868-10-28" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001655">Tosti, Luigi (1811–1897)</persName>
+<placeName key="G000730">Montecassino</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<dateline rendition="#c"><address>
+<addrLine>Roma, <placeName key="ediarum_lmm_slx_qlb">Via Gregoriana</placeName> n<ex>umero</ex> 13.</addrLine>
+</address>  28. Ott<ex>o</ex>bre 1868.</dateline>
+<salute xml:id="s1" next="#s2" rendition="#c"> Reverend<ex>issi</ex>mo ed Illustre Don</salute>
+<salute xml:id="s2" prev="#s1" rendition="#c"> Luigi,</salute>
+</opener>
+<p>faccio appello alla Sua cortesia e bontà, per tanti segni notissima a me, richiedendola di un favore. <seg type="comment"><orig>Notai nell’anno 1859</orig><note xml:id="nzrh_d4r_ylb">Für Recherchearbeiten für seine „Geschichte der Stadt Rom im Mittelalter“ hatte Gregrovius die Zeit vom 5.–18. Oktober 1859 in Montecassino verbracht (siehe RT, S. 85–91). Don Sebastiano Kalefati (1817–1863), seit 1843 Leiter des Archivs und ebenfalls ein Freund von Gregorovius, hatte ihn dorthin eingeladen; siehe den Brief von Gregorovius an Sebastiano Kalefati vom 12.8.1859.</note></seg> una pergamena, di cui ho grande premura di aver una copia esatta. Essa contiene un privilegio di <seg type="comment"><orig><persName key="G001300">Hugo rè</persName> e <persName key="G001306">Lothario</persName></orig><note xml:id="nznl_f4r_ylb">Hugo I. (vor 887–947) aus dem Adelsgeschlecht der Bosoniden war ab 924 König von Niederburgund und von 926–946 König von Italien. Sein Sohn Lothar II. (um 928–950) war von 946–950 König von Italien. </note></seg> in favore del monistero di <placeName key="G000857">S<ex>an</ex> Benedetto in <seg type="comment"><orig>Telle nei Marsi</orig><note xml:id="ntkz_g4r_ylb">Heute die italienische Gemeinde San Benedetto dei Marsi in der Provinz L’Aquila (Abruzzen).</note></seg></placeName>, di cui il transunto sarebbe questo:</p>
+<p><seg type="comment"><orig><foreign xml:lang="Lat">In nom<ex>ine</ex> D<ex>omini</ex> D<ex>ei</ex> Aet<ex>erni</ex>. Hugo et Lotharius div<ex>ina</ex> fav<ex>ente</ex> cl<ex>ementia</ex> reg<ex>es</ex></foreign> </orig><note xml:id="nn52_j4r_ylb">Luigi Schiaparelli. I diplomi di Ugo e di Lotario di Berengario II e di Adalberto, Rom: Tipografia del Senato 1924, Band 1: https://archive.org/details/fontiperlastoria38istiuoft/page/172.</note></seg>– (concedono nel seguito il <placeName key="G000858">monte Celano </placeName>a codesto monistero) – <foreign xml:lang="Lat">Giseprandus Cancellarius ad vicem Bosonis Epi<ex>scopi</ex> et Archicancellarii recognovi et subscripsi.</foreign> – <foreign xml:lang="Lat">Datum VI. Kal<ex>endarum</ex> <seg type="comment"><orig>Iulias </orig><note xml:id="nmgn_k4r_ylb">Nach Schiaparelli 1924 fälschlich für iuliarum.</note></seg>Anno Dom<ex>inice</ex> In<ex>carnationis</ex> <seg type="comment"><orig>941. D<ex>o</ex>m<ex>ni</ex></orig><note xml:id="nqrw_l4r_ylb">26. Juni 941.</note></seg></foreign><seg type="comment"><orig> </orig><note xml:id="nqrw_l4r_ylb"><?UNIQUE_CARET_MARKER_FOR_AUTHOR?></note></seg>- <pb n="1v"/><seg type="comment"><orig><foreign xml:lang="Lat">vero Hugonis piissimi Regis XV. Lotharii <seg type="comment"><orig>autem </orig><note xml:id="nzp3_n4r_ylb">Nach Schiaparelli 1924 fehlt „item“ nach diesem Wort.</note></seg>Regis <seg type="comment"><orig>XI. </orig><note xml:id="ndww_44r_ylb">Nach Schiaparelli 1924 fehlt ein hochgestelltes „mo“ an dieser Zahl.</note></seg>Ind<ex>ictione</ex> XIV. Actum Romae feliciter</foreign>. </orig><note xml:id="nffj_t4r_ylb">Luigi Schiaparelli. I diplomi di Ugo e di Lotario di Berengario II e di Adalberto, Rom: Tipografia del Senato 1924, Band 1: https://archive.org/details/fontiperlastoria38istiuoft/page/174. </note></seg></p>
+<p>Il diploma sta referito nel <foreign xml:lang="Lat">Cod<ex>ex</ex> Diplom<ex>atum</ex> Casine<ex>nsis</ex> ab a<ex>nno</ex> 570 usque</foreign> – <seg type="comment"><orig>scritto da <persName key="G001307">Don Placido Federici</persName></orig><note xml:id="nmxb_v4r_ylb">Der Historiker und Bibliothekar Placido Federici (1739–1785) hatte ein Urkundenbuch für Montecassino mit allen Urkunden ab dem Jahr 570 zusammengestellt.</note></seg>, Vol<ex>ume</ex> I. <seg type="comment"><orig>L’originale si truova nella Cap. 12. N<ex>umero</ex> 8</orig><note xml:id="ndpk_x4r_ylb">Gregorovius erwähnte die Urkunde in der 4. Auflage des dritten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1890). S. 308, Anm. 1. Er hatte die Abschrift der Urkunde auch für den aus Berlin stammenden Historiker Ernst Dümmler (1830–1902) angefragt; siehe die Briefe von Gregorovius an Ernst Dümmler vom 28.10.1868 und 1.11.1868; BBAW, NL Ernst Dümmler, 131 (1.11.1868). In dem Schriftstück geht es um die Schenkung des Berges Celano an das Kloster und den ab diesem Zeitpunkt eintretenden Königsschutz für das Kloster.</note></seg>. Lo veddi; vi manca il Sigillo. </p>
+<p>Or, gentilissimo Don Luigi, mi faccia questo buona grazia, di farmi copiare quella carta sopra carta fina da posta, e farmela venire quanto presto sia possibile a Roma, o per via di posta, o <pb n="2r"/>forse <seg type="comment"><orig>meglio per occasion di mano</orig><note xml:id="nklf_bpr_ylb">Gregorovius erhielt die gewünschte Kopie nur wenige Tage später über den deutschen Kunsthistoriker Carl Aldenhoven (1842–1907); siehe den Brief von Gregorovius an Luigi Tosti vom 1. 11.1868.</note></seg>. </p>
+<p>Intanto spero, di puoter rivedere il paradiso di <seg type="comment"><orig>quel benedetto <placeName key="G000821">Monte Cairo</placeName></orig><note xml:id="nws2_dpr_ylb">Der die Abtei Montecassino überschattende Berg, 1669 Meter über dem Meeresspiegel.</note></seg>, e <seg type="comment"><orig>godervi qualche ora di Sua spirituosa compagnia</orig><note xml:id="nuws_2pr_ylb">Es kann kein Aufenthalt Gregorovius’ in Montecassino nach diesem Brief nachgewiesen werden.</note></seg>. </p>
+<p>Cosi <seg type="comment"><orig><foreign xml:lang="Lat">ex corde</foreign> </orig><note xml:id="njcw_fpr_ylb">Lat. für: von Herzen.</note></seg>la saluto, ora chè gli altri insigni padri di mia conoscenza.</p>
+                <closer>
+                    <salute rendition="#c"><seg type="comment"><orig><foreign xml:lang="Lat">Valete favete</foreign>!</orig><note xml:id="nfxw_gpr_ylb">Lat. für: Lebt wohl und bleibt geneigt!</note></seg> </salute>
+                    <signed rendition="#right">Ferd. Gregorovius. </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

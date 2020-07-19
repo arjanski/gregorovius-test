@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000100">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Alfred von Reumont in Florenz. Rom, 26. Mai
+                    1859</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Universitäts- und Landesbibliothek Bonn</repository>
+                        <collection>NL Reumont</collection>
+                        <idno>S 1061 (291)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 8°, 3 S. – 2v alR, Blatt um 90° gedreht, Adr.: Herrn Baron / <hi rendition="#aq">A. v. Reumont</hi> / durch Güte / als Einlage. – 1r aoR Empfängervermerk: Pr. Florenz 29 <hi rendition="#aq">Mai</hi> 59.</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 86, Mappe 9 (Alfred Löckle nach
+                                        H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 82, Mappe 5 (nach h1)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die durch Clemens August Alertz überbrachten Broschüren und die Empfehlung bei Kardinal Giacomo Antonelli für den Zugang zur Vatikanischen Bibliothek; durch den Kustoden Alessandro Asinari di San Marzano wird er sehr gut betreut. Er bedauert, Reumont vor seiner Abreise aus Rom nicht mehr getroffen zu haben. Seit dem Beginn des Krieges von Sardinien-Piemont mit Frankreich gegen Österreich scheint in Rom Totenstille zu herrschen. Über die kritische politische Situation Italiens und Europas. Durch das Eingreifen Napoléons III. in die Einigungbestrebungen Italiens werden die bisherigen Verhältnisse verzerrt. Auch die Haltung Preußens scheint unklar. Der Druck des zweiten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1859) schreitet langsam voran; er bittet um sein unumwundenes Urteil zum ersten Band (1859).</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He is grateful for the pamphlets brought by Clemens August Alertz and the letter of recommendation to Cardinal Giacomo Antonelli for access to the Vatican Library; he is very well looked after by the Custodian Alessandro Asinari di San Marzano. He regrets not having seen Reumont before his departure from Rome. Since the beginning of the war of Sardinia-Piedmont with France against Austria, there seems to be dead silence in Rome. On the critical political situation of Italy and Europe. The intervention of Napoleon III in Italy’s unification efforts distorts the previous situation. Prussia’s position also seems unclear. The printing of the second volume of his „Geschichte der Stadt Rom im Mittelalter“ (1859) is progressing slowly; he asks for his candid judgement on the first volume (1859). </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1859-05-26" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+                    <persName key="G001545">Reumont, Alfred von (1808–1887)</persName>
+                    <placeName key="G000671">Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right"><hi rendition="#aq">Rom</hi> 26. <hi rendition="#aq">Mai</hi> 1859.</dateline>
+<salute>Sehr verehrter Herr Minister,</salute>
+</opener>
+<p>erlauben Sie mir in wenig Zeit, um Ihnen sowol für die zwei sehr lehrreichen Broschüren zu danken, welche mir <persName key="G000913"><seg type="comment"><orig>Alertz</orig><note xml:id="nlvc_qf3_xlb">Der mit beiden eng befreundete deutsche Gesandtschaftsarzt Clemens August Alertz.</note></seg></persName> richtig eingehändigt hat, als vor allen Dingen für<seg type="comment"><orig> Ihr Empfehlungsschreiben an den <persName key="G000933">Cardinal <hi rendition="#aq">Antonelli</hi></persName></orig><note xml:id="nb15_rf3_xlb">Alfred von Reumont hatte am <ref target="G000402">28. April 1859</ref> ein Empfehlungsschreiben für Gregorovius zur Benutzung der Vatikanischen Bibliothek an Kardinal Giacomo Antonelli (1806–1876) gesandt, dem Gregorovius am <ref target="G000403">30. April 1859</ref> eine Darstellung seines Forschungsvorhabens hinterhersandte. Antonelli war seit 1848 Kardinalstaatssekretär des Kirchenstaates; Gregorovius war ihm schon am 30. April 1856 persönlich begegnet (siehe RT, 30.4.1856, S. 61).</note></seg>. Dieses hat denn nach mehr als 3 wöchentlichem Warten einen sehr guten Erfolg gehabt; seit 2 Tagen bin ich in der <orgName key="G000506">Vaticana</orgName>, wo <seg type="comment"><orig><persName key="G000951">Monsignor<hi rendition="#aq"> S. Marzano</hi></persName> sich mir freundlich bewärte</orig><note xml:id="nq4y_wf3_xlb">Alessandro Asinari di San Marzano (1795–1876) war seit 1853 erster Kustode der Vatikanischen Bibliothek. Im Tagebuch vermerkt Gregorovius den Beginn seiner Arbeiten in der Vatikanischen Bibliothek für den 24. Mai 1859: „Die gute Aufnahme, die ich dort beim Kustoden San Marzano fand, verdanke ich wohl dem Briefe Reumonts an Kardinal Antonelli.“ (RT, 27.5.1859, S. 79).</note></seg>, u<ex>nd</ex> wo ich mich gerne erinnere, daß ich nur Ihnen diese Aufnahme zu verdanken habe. Sehr hat es mir Leid gethan, daß ich Sie <seg type="comment"><orig>vor Ihrer Abreise</orig><note xml:id="nrjq_yf3_xlb">Reumont hatte den erkrankten Friedrich Wilhelm IV. (1795–1861) nach Rom begleitet, der vom 23. Dezember 1858 bis zum 2. Mai 1859 im Palast Caffarelli wohnte (siehe den Brief von <ref target="G000048">Gregorovius an Reumont, 8.11.1857</ref>).</note></seg> verfehlte; ich hätte Sie in diesen <seg type="comment"><orig>kritischen Zeitläuften</orig><note xml:id="ncjj_bg3_xlb">Mit dem Einmarsch der Österreicher in Piemont hatte am 29. April 1859 der Sardinische Krieg, der Zweite Italienische Unabhängigkeitskrieg, zwischen Österreich und Sardinien-Piemont mit dem französischen Kaiserreich begonnen, dem sich die Toskana anschloss.</note></seg> so gern noch persönlich gesehen, denn wer kann wißen, wohin die nahenden Stürme Menschen, Pläne <pb n="1v"/>und Hoffnungen entführen. <seg type="comment"><orig>Die fast unnatürliche Todesstille Roms (u<ex>nd</ex> mir ist diese Stadt nie so ewig u<ex>nd</ex> vom Wechsel der Dinge unberührbar erschienen als jetzt)</orig><note xml:id="ntvt_cg3_xlb">Schon am 2. April 1859 hatte Gregorovius im Tagebuch vermerkt: „Die drohende Kriegsfurie hat Rom nicht aufgeregt. Auf dem faulsten Fleck Europas lebt man wie im Traume fort. Und doch sind es nur die fremden Mächte, welche diese Mumie verteidigen, die noch Kirchenstaat heißt.“ (RT, S. 78).</note></seg> erzeugt eine trübe Resignation wie in ein <hi rendition="#aq">Fatum</hi>; beßer ist es vielleicht, sich in die Action des <placeName key="G000664">Vaterlandes</placeName> zu stürzen, wo man doch wenigstens lebt weil man kämpft. <seg type="comment"><orig>Die gerechte Sache <placeName key="G000690">Italiens</placeName> im Allgemeinen ist durch die besondere Situation, in welche sie durch das Eintreten des Despotismus in diesen nationalen Kampf versetzt worden ist, verzerrt</orig><note xml:id="na1q_2g3_xlb">Um die Österreicher aus Italien zu vertreiben und die Einigung Italiens unter der Vorherrschaft Sardinien-Piemonts voranzutreiben, hatte der piemontesische Ministerpräsident Camillo Benso von Cavour (1810–1861) im Juli 1858 ein geheimes Bündnis mit Napoléon III. (1808–1873) geschlossen und einen Krieg mit dem habsburgischen Kaiserreich Österreich provoziert. Dadurch wurde der Bündnisfall ausgelöst und Frankreich entsandte 130.000 Soldaten nach Italien.</note></seg>, u<ex>nd</ex> wirft uns wahrscheinlich alle, die wir Italien u<ex>nd</ex> die Gerechtigkeit in der Weltgeschichte lieben, in ein schmerzliches Dilemma. <seg type="comment"><orig>Wäre wenigstens erst die Haltung des Vaterlandes klar</orig><note xml:id="nqnj_gg3_xlb">Auf Verlangen Preußens mobilisierte der Deutsche Bund 350.000 Soldaten, ohne in den Krieg einzugreifen.</note></seg>, die so viel, u<ex>nd</ex> von so mancher Seite zum fürchten Grund giebt, <pb n="2r"/>es möchte ein Zerwürfniß zwischen <placeName key="G000646">Preußen</placeName> u<ex>nd</ex> Süddeutschland eintreten; u<ex>nd</ex> Napoleon sein Spiel erleichtern.</p>
+<p><seg type="comment"><orig><hi rendition="#aq"><orgName key="G000523">Cotta</orgName></hi> druckt weiter, aber langsam; denn innerhalb 5 Wochen habe ich nur 2 Revisionsbogen erhalten</orig><note xml:id="njnj_hg3_xlb">Nach Erscheinen des 1. Bandes von Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ im April 1859 befand sich der 2. Band im Druck, der im September 1859 ausgegeben wurde.</note></seg>. Wenn Sie den <bibl sameAs="G003485">I Band</bibl> lesen, bitte ich mir unumwunden zu sagen, was daran schlecht ist, denn weil doch dies Werk bandweise erscheint, kann mir Ihr Urteil noch immer zu Gute kommen.</p>
+<p>Mit den besten u<ex>nd</ex> wärmsten Wünschen mein verehrter Herr, daß auch <seg type="comment"><orig>Ihre gegenwärtige Lage in Florenz</orig><note xml:id="nhfc_jg3_xlb">Reumont war seit 1856 Ministerresident am Hof des Großherzogs von Toskana, Leopold II. (1797–1870). Im April 1859 hatte eine Volkserhebung den Großherzog zu zwingen versucht, sich dem Königreich Sardinien-Piemont gegen Österreich anzuschließen. Leopold hatte sich daraufhin am 27. April 1859 Richtung Österreich abgesetzt und dankte am 21. Juli 1859 zu Gunsten seines Sohnes Ferdinand IV. (1835–1908) ab. Ferdinand IV. wurde jedoch vor Regierungsantritt durch Volksabstimmungen abgesetzt und die Toskana Italien angeschlossen.</note></seg>, die ich wol erkenne, sich zu Ihrem Vorteil gestalten möge, u<ex>nd</ex> mit der Bitte mir Ihr Wolwollen zu bewahren</p>
+<closer rend="paragraph">
+<salute rendition="#right">Ihr wahrhaft ergebener Diener</salute>
+<signed rendition="#right"><hi rendition="#aq">FGregorovius</hi></signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

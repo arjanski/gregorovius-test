@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000063">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Tommaso Gar in Neapel. Sorrent, 4. September 1864</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Biblioteca Comunale di Trento</repository>
+                        <idno>
+                            <idno>busta BCT1–2257/52</idno>
+                        </idno>
+                    </msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print">Lodovico Oberziner: Gli amici di Tommaso Gar. In: Strenna
+                            dell’Alto Adige. Trento: Scotoni e Vitti 1902, S. 56f. (fälschlich unter
+                            dem Datum 4. September 1869).</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er erwartet ihn in Sorrent. Er versteht, dass Gar eine Anstellung in der Nationalbibliothek in Neapel ablehnt, sorgt sich aber um dessen finanzielle Absicherung. Der intellektuelle Austausch mit Gar ist ihm Ausdruck der zivilisatorischen Verbindung von Italien und Deutschland seit dem Mittelalter. Er begrüßt Gars Vorschlag, seine „Geschichte der Stadt Rom im Mittelalter“ (1859­1862) ins Italienische zu übersetzen. In acht Tagen wird er nach Neapel zurückreisen. In Sorrent hat er Bartolomeo Capasso getroffen. Grüße an Madeleine Creutzer und Giuseppe De Blasiis.</p>
+                <p xml:lang="en">He’s waiting for him in Sorrento. He understands that Gar is refusing a job at the National Library in Naples, but is worried about his financial security. To him, the intellectual exchange with Gar is an expression of the civilizing connection between Italy and Germany since the Middle Ages. He welcomes Gar’s proposal to translate his „Geschichte der Stadt Rom im Mittelalter“ (1859–1862) into Italian. In eight days he will travel back to Naples. In Sorrento he has met Bartolomeo Capasso. Greetings to Madeleine Creutzer and Giuseppe De Blasiis. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000873">Sorrent</placeName>
+                    <date when="1864-09-04" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001158">Gar, Tommaso (1808–1871)</persName>
+                    <placeName key="G000737">Neapel</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">Sorrento il 4. Sett<ex>em</ex>br<ex>e</ex> 64.</dateline>
+<salute rendition="#c">Mio caro e gentile amico,</salute>
+</opener>
+<p>accolsi la vostra con somma soddisfazione, indugiai però a rispondervi per ragion della speranza, di puoter salutarvi ben presto à Sorrento. I giorni s'en vanno, e voi probabilmente, non concedendovi alcun riposo, sarete rattenuto nella biblioteca per un altro po’ di tempo. Quello che mi scrivete intorno ad <seg type="comment"><orig>un altro posto da prendere nella  <orgName key="G000492">biblioteca nazionale</orgName></orig><note xml:id="nn2k_h3k_ylb">Tommaso Gar war seit 1863 Direktor der Universitätsbibliothek in Neapel; eine Stelle an der Nationalbibliothek in Neapel schlug er offenbar aus.</note></seg>, io lo comprendo bene. Non potete far altrimenti. Un secondo grado non si converrebbe ad un’ uomo vostro pari, il quale alla sua propria dignità già più d’una volta seppe posporre i vantaggi materiali. Desidero soltanto, che à più larga misura vi si compartisse</p>
+<p rendition="#c"> <pb n="1v"/> <bibl corresp="G004290"><seg type="comment"><orig>la cotidiana manna, <lb/>Sanza la qual per questo aspro diserto <lb/>A retro va chi più di gir s’affanna. </orig><note xml:id="nuc4_33k_ylb">Zitiert aus Dante Alighieri: Divina Commedia, Purgatorio, Canto XI, 13–15. Vollständig lautet die Strophe: „Dà oggi a noi la cotidiana manna, / sanza la qual per questo aspro diserto / a retro va chi più di gir s'affanna“. Dazu die deutsche Übersetzung nach Richard Zoozmann (1922): „Dein täglich Manna woll uns heut verleihen, / Dieweil wir sonst trotz nimmermüdem Streben / Irrgehen in des Lebens Wüsteneien“.</note></seg></bibl> </p>
+<p>E pur chè sia vero, chè la povertà, all’ ordine sacro di cui anch’io mi truovo ascritto, per gli uomini che mirano a’ scuopi ideali, sia la decima Musa, negli anni però avanzati, in cui noi ci truoviamo, un giusto desiderio ci resta a soddisfare: <seg type="comment"><orig><foreign xml:lang="Lat">parva domus, magna quies</foreign></orig><note xml:id="nm1z_j3k_ylb">Lateinisch: Kleines Haus, große Ruhe (Seneca, Thyestes 468).</note></seg>. Speriamo dunque, che la nostra barca raggiungerà anche questo porto. Siamo fuori già <seg type="comment"><orig>„delle erte vie“</orig><note xml:id="nlgc_l3k_ylb">Zitiert aus Dante Alighieri: Divina Commedia, Purgatorio, Canto XXVII, 132. Die vollständige Strophe lautet: „Tratto t’ho qui con ingegno e con arte; / lo tuo piacere omai prendi per duce; / fuor se’ de l’erte vie, fuor se’ de l’arte“. Dazu die deutsche Übersetzung nach Richard Zoozmann (1922): „Mit Kunst und Weisheit war ich voll Vertrauen / Dein Führer – nimm die K r a f t jetzt zum Genossen! / Kein Engpass macht, kein Steilpfad mehr dir Grauen“. </note></seg> –. Undici anni oramai sono, da che la prima volta mi truovai su queste spiaggie; mi rivedo qui; nelle solitaire mie passeggiate quante volte io mi sono messo a riguardar indietro, e a rimirare le vie tortuose del pellegrinaggio della mia vita. Pensai pure a voi e alle vostre strade – ed egli si era per noi ambedue, che dicevo fra di me: siamo,<seg type="comment"><orig> „fuori <del rendition="#s">„</del>delle erte vie“.</orig><note xml:id="nbrn_n3k_ylb">s.o.</note></seg></p>
+<p>Voi mi siete dimostrato tale, <pb n="2r"/>quale io speravo di riconoscervi dalla fama, e più in là di quello. Fra gli Italiani siete voi che rappresenta quella intima lega che per intendimento d’intelligenza stringe l’indole Italiano col Germanico e viceversa; come io, per quanto piccolo o nullo io mi sia, mi vanto di <unclear reason="illegible" cert="high">un</unclear> simile doppio affetto ed indole. A chi non iscorge nelle vicende dei popoli altro fuori dei fatti politici e delle passioni che girano attorno di loro, questo principio civilizatore di discordante concordia nelle nazioni non si scuopre mai. Quella lega intellettuale fra l’<placeName key="G000690">Italia</placeName> e la <placeName key="G000664">Germania</placeName>, la strinsero secoli, la sciolsero e la scioglieranno nelle forme politiche altri tempi; ma il nodo ne restera per sempre nel contesto degli intelletti, di cui si compone quella grande tela della civilisazione, la quale – fu tessuta dalla cooperazione – <pb n="2v"/>dell’Italia e della Germania sotto le forme della Chiesa e dell’Impero. <seg type="comment"><orig>S’io dunque accetto la vostra magnanima offerta, di tradurre  <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">la storia di Roma nel medio evo</bibl>,</orig><note xml:id="npfg_p3k_ylb">Gar hatte Gregorovius angeboten, die „Geschichte der Stadt Rom im Mittelalter“, von der zum Zeitpunkt die Bände 1 (1859), 2 (1859), 3 (1860) und 4 (1862) erschienen waren, zu übersetzen. Schlussendlich autorisierte Gregorovius aber den venezianischen Verlag Antonelli mit der Übersetzung.</note></seg> non temo che mi si imputi la vanità, che si lusinga ricevere onore dal vostro nome e dalla vostra traduzione, ma avanti a voi e ad altri che sà penetrare più alti intendimenti, io sarò giustificato da principj giusti. Tutto però dipende dal tempo, e da quanto vene sara concesso per sottrarlo ai vostri lavori, l’interruzione di cui per la causa di quella storia mi sarebbe penosa. Comunque siasi dunque questo affare, o messo in atto, o dismesso, mi crediate, che sono nel vivo commosso dalla vostra grandezza di sentire, e che sarei premiato del più bello premio, quando potrei dire, che io lascio agli Italiani il monumento del mio affetto all’Italia in un’opera almeno di sincero volere, resa italiana da voi.</p>
+<p xml:id="p5" next="#p6">Io penso di ritornar à Napoli oggi a otto, e di starvi latamente </p>
+<p xml:id="p6" prev="#p5" place="left" rendition="#rotate90" next="#p7">con voi altri 15 ci giorni. Intanto io non ho perduto ancora la speranza, di vedervi qui, dove vi aspettiamo con desiderio. </p>
+<p xml:id="p7" prev="#p6" place="left" rendition="#rotate90"><pb n="1r"/>Io riverisco con mille saluti la gentile <persName key="G001056">baronessa</persName>. Salutatemi pure <persName key="G001072">de Blasiis</persName>. La conoscenza del <seg type="comment"><orig><persName key="G001019">Capasso</persName></orig><note xml:id="nu4j_r3k_ylb">Bartolomeo Capasso (1815–1900) war Historiker und Archivar, der sich der Geschichte des Königreichs Neapel widmete. Über Giuseppe de Blasiis (1832–1914), mit dem er an der Gründung der „Società napoletana di storia patria“ (1875) beteiligt war, lernte er Gregorovius im September 1864 kennen (siehe RT, 31.8. und 15.9.1864, S. 184).</note></seg> mi consola qui.</p>
+<closer>
+    <salute>Con tutto il cuore, il vostro, caro Gar, F. Gregorovius.</salute>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

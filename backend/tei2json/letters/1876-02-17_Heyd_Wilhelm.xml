@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_xrl_jxw_gmb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Wilhelm Heyd in Stuttgart. München, 17. Februar 1876 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Württembergische Landesbibliothek Stuttgart</repository><idno>Cod. hist 4° 391, Kaps. I, 225</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 S. + Umschlag mit Adr.: An den / Herrn Oberstudienrat Professor / <hi rendition="#aq">W. Heydt</hi> / Oberbibliothekar / <hi rendition="#u" hand=""><hi rendition="#aq">Stuttgart</hi></hi></p>
+<p>Manifest des „Appendice ai Monumenti Ravennati dei Secoli di Mezzo“ zu den „Atti der Deputazione di Storia Patria per le province di Romagna“ – Gregorovius’ Akademievortrag „Die historischen Studien im alten Calabrien, der heutigen Terra d’Otranto“  </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 88 Mappe 1 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er schlägt die „Appendice ai Monumenti Ravennati dei Secoli di Mezzo“ der „Deputazione di Storia Patria per le province di Romagna“ zur Anschaffung für die Königlichen Bibliothek in Stuttgart vor und übersendet deren Manifest hierzu. Er legt den Abdruck seines Akademievortrags „Die historischen Studien im alten Calabrien, der heutigen Terra d’Otranto“. Er erkundigt sich nach dem Stand von Heyds Arbeit zu seiner „Geschichte des Levantehandels im Mittelalter“ (2 Bde., 1877–1879). Im September 1875 hat er mit seinem Bruder Julius und seiner Halbschwester Ottilie Elgnowski eine Wohnung in München bezogen. In Rom hat man dem Bürgermeister Pietro Venturi eine Petition zur Verleihung der Ehrenbürgerwürde an ihn übergeben, deren Erfolg auch ein Sieg über die Parteigänger des katholischen Klerus wäre. Er bittet für Ottilie Elgnowski um Zusendung der Ausgabe des „Schwäbischen Merkur“, in dem die deutsche Übersetzung der Begründung dieser Petition abgedruckt worden war. Grüße an seine Frau Luise Friederike Charlotte Heyd und seine Töchter sowie an August Wintterlin, Paul Friedrich Stälin und Johann Philipp Grossmann. Durch die „Erste Orthographische Konferenz“ in Berlin sieht er seine eigene Orthographie bestätigt. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1876-02-17" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001271">Heyd, Wilhelm (1823-1906)</persName>
+<placeName key="G000879">Stuttgart</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">München, <hi rendition="#aq">Barer</hi>str<ex>aße</ex> 3 <lb/>17. Feb<ex>rua</ex>r 76.</dateline>
+                    <salute rendition="#c">Lieber Freund,</salute>
+                </opener>
+<p>die <orgName key="G004665">Deputation der <hi rendition="#aq">Storia Patria per le province di Romagna</hi></orgName> in <hi rendition="#aq">Bologna</hi> <seg type="comment"><orig>schickt mir Programme</orig><note xml:id="nwdk_v1x_gmb">Gregorovius war am 28. April 1873 von der Deputazione zum korrespondierenden Mitglied ernannt worden (BSB München, Nachlass Gregorovius, Gregoroviusiana 19). Sein Freund, der Bologneser Archologe Conte Giovanni Gozzadini (1810–1887), hatte ihn über seine Ernennung unterrichtet, dessen Präsident er seit ihrer Gründung 1860 war (siehe den Brief von Gregorovius an Giovanni Gozzadini vom 18.4.1873). Das offizielle Schreiben mit der Begründung, dass Gregorovius wegen seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872), ernannt worden war, datiert auf den 29. Mai 1873 (siehe den Brief von Gregorovius an Giovanni Gozzadini vom 1.6.1873). </note></seg>, sie in Deutschl<ex>and</ex> zu verbreiten. Ihre vortreffliche <orgName key="G067814"><seg type="comment"><orig>Staatsbibl<ex>iothek</ex></orig><note xml:id="nbzq_x1x_gmb">Heyd war Direktor der Königlichen Bibliothek in Stuttgart.</note></seg></orgName> besitzt wol schon <seg type="comment"><orig>die <hi rendition="#aq"><orgName key="ed_apy_gzw_gmb">Atti</orgName></hi>,</orig><note xml:id="ni1j_z1x_gmb">Die jährlich erscheinenden „Atti e memorie della Regia Deputazione di storia patria per le provincie di Romagna“ (Bologna: G. Monti 1862–1876).</note></seg> welche jene Deputazion erscheinen läßt; vielleicht aber nicht <seg type="comment"><orig>die <hi rendition="#aq"><bibl sameAs="ed_lrs_kzw_gmb">Appendice ai Monumenti ravennati</bibl></hi>.</orig><note xml:id="nxg5_1bx_gmb">Appendice ai Monumenti Ravennati dei Secoli di Mezzo del conte Marco Fantuzzi [1740–1806]. Ravenna: Angeletti ab 1869. Vorliegendem Brief lag vermutlich das Vorwort des von Antonio Tarlazzi (1802–1888) herausgegebenen ersten Bandes aus dem Jahre 1869 bei (https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10987043_00009.html), der der erste des Neudrucks des 1801–1804 in Venedig in sechs Quartbänden erschienenen Erstdruck „Monumenti de Ravennati de Secoli de Mezzo“ war (https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10799893_00005.html).</note></seg> Ich lege deshalb das Manifest bei.</p>
+<p>Ich sende Ihnen zugleich meinen <seg type="comment"><orig>Vortrag über die <bibl sameAs="G003994">histor<ex>ischen</ex> Studien im alten Calabrien</bibl>,</orig><note xml:id="neq5_cbx_gmb">Der gedruckte Akademievortrag von Gregorovius: „Die historischen Studien im alten Calabrien, der heutigen Terra d’Otranto“ (aus: Sitzungsberichte der philosophisch-philologischen und historischen Classe der k. b. Akademie der Wissenschaften zu München. Jg. 1875. Bd. 2. H. 4. München 1875. S. 409-425).</note></seg> welcher Sie wie ich hoffe intereßiren wird. Wie weit sind Sie mit <seg type="comment"><orig>Ihrer <bibl sameAs="ed_imp_xzw_gmb">Geschichte des Handels</bibl></orig><note xml:id="nrth_2bx_gmb">Heyd fasste seine verstreut erschienenen Studien zur Geschichte der italienischen erst 1877–1879 zu seinem Standardwerk der allgemeinen Geschichte des mittelalterlichen Handels der gesamten romanisch-germanischen Welt zum Orient zusammen, der „Geschichte des Levantehandels im Mittelalter“ (2 Bde. Stuttgart: Cotta).</note></seg>? </p>
+<p>Seit <hi rendition="#aq"><hi rendition="#aq">Sept<ex>embe</ex>r</hi></hi> a<ex>nno</ex> p<ex>raterito</ex> habe ich mich mit meinem <persName key="G001203">Bruder</persName>, der Sie schön grüßt, u<ex>nd</ex> meiner verwittweten <persName key="G001111">Schwester</persName> hier vereinigt; bin aber jetzt <seg type="comment"><orig>auf dem Sprunge nach <placeName key="G000763">Rom</placeName>.</orig><note xml:id="nlsb_gbx_gmb">Gregorovius reiste erst am 10. März 1876 zusammen mit Manfred Lindemann-Frommel (1852–1939) von München nach Rom – die Fahrt nach Rom trat Gregorovius nicht nur wegen der Verleihung der Ehrenbürgerwürde Roms an ihn an, sondern auch wegen der zeitgleichen Unterrichtung über den verschlechterten Gesundheitszustand von Auguste Lindemann-Frommel (1826–1876). Siehe RT, 20.5.1876, S. 363–364.</note></seg> Dort, so scheint es, <seg type="comment"><orig>will man mir große Ehren erweisen</orig><note xml:id="ny1j_hbx_gmb">Seit Juni 1875 gab es Pressemeldungen in italienischen und deutschen Blätterm über eine in Rom „circulirende Petition“, Gregorovius zum römischen Ehrenbürger zu ernennen (in: Neues Wiener Abendblatt. Jg. 8. Nr. 158. Wien 9.6.1875. S. 4).</note></seg>; dringen meine Freunde damit durch, so wird das ein eclatanter Sieg <pb n="1v"/>über die clericale Partei sein. Wenn Sie dazu kommen, so bitte ich schicken Sie mir gütigst die <seg type="comment"><orig>Nummer des <orgName key="ed_mj1_g1x_gmb">Schwäb<ex>ischen</ex> Mercurs</orgName></orig><note xml:id="nnnz_lbx_gmb">Nicht ermittelt.</note></seg>, worin die <seg type="comment"><orig>Adresse der Römer an den <hi rendition="#aq"><persName key="G001674">Sindicus</persName></hi></orig><note xml:id="nh5v_mbx_gmb">Die dem Bürgermeister von Rom, Pietro Venturi (1824–1892), übergebene Ehrenbürgerpetition, datiert auf den 10.2.1876, wurde erstmals gedruckt in: La Libertà. Gazzetta del Popolo Giornale Politico Quotidiano. Jg. 7. Nr. 45. Rom 14.2.1876. S. 2–3. In der Sitzung des römischen Gemeinderates vom 8. März 1876 wurde dem Antrag auf Verleihung der Ehrenbürgerwürde für Gregorovius stattgegeben und kurz darauf in der Presse publik gemacht (Kurzmeldung unter dem Titel „Cittadinanza a Gregorovius‟ erstmals in: Gazzetta della Capitale. Jg. 2. Nr. 117. Rom 10.3.1876. [S. 2.]). Siehe auch RT, 1.3.1876, S. 361-362.</note></seg> zu meinen Gunsten <seg type="comment"><orig>übersetzt steht</orig><note xml:id="ndsx_nbx_gmb">Eine Übersetzung der Begründung dieser Petition war auch in der Wiener „Neuen Freien Presse“ vom 16. Februar 1876 abgedruckt worden: „Eine große Anzahl von Gelehrten, Künstlern und anderen angesehenen Männern rn Rom hat, wir telegraphisch gemeldet, dem Syndicus Venturi durch eine Deputation das schriftliche Ersuchen überreichen lassen, er möchte dem Stadtrathe vorschlagen, daß dem ‚chiarissimo cav. Ferdinande Gregorovius‘ das Bürgerrecht der Stadt Rom ertheilt werde. ‚Die Gründe, welche diesen berühmten Mann dieser Ehrenbezeigung würdig machen,‘ sagen die Unterzeichner, ‚sind ganz Italien so bekannt, daß das Decret, welches ihm dieselbe zuerkennt, mit allgemeinem Beifalle begrüßt werden wird. Gregorovius lebt seit mehr als drei Lustren in Rom, und zwar mit einer Liebe zu Rom und Italien, von der zu wünschen wäre, daß viele Italiener sie hegten. Er hat unsere Literatur mit einem seit so langer Zeit ersehnten Werke (‚Geschichte von Rom‘) bereichert und sich immer so sehr als Italiener und besonders als Römer gezeigt, daß ein Decret, welches ihn zu unserem Mitbürger ernennt, nur einer bereits mit allgemeiner Freude aufgenommenen Thatsache gesetzliche Anerkennung verleihen würde.“ (Abendblatt, Nr. 4122, S. 2; http://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=18760216&amp;seite=14&amp;zoom=33)</note></seg>. Meine Schwester möchte sie gern haben, um damit zu pralen.</p>
+<p>Die freundlichsten Grüße an Ihre liebenswürdige <seg type="comment"><orig><persName key="G001270">Familie</persName>, wo nun die Töchter schon groß sind</orig><note xml:id="nvrf_pbx_gmb">Heyd war seit 1856 mit seiner Cousine Luise Friederike Charlotte (1830–1903) verheiratet, mit der er drei Töchter hatte.</note></seg>, an unsre gemeinschaftl<ex>ichen</ex> Freunde <hi rendition="#aq"><persName key="G001709"><seg type="comment"><orig>Winterlin</orig><note xml:id="ntcd_qbx_gmb">Der Stuttgarter Bibliothekar August Wintterlin (1832–1900).</note></seg></persName></hi>, <hi rendition="#aq"><persName key="ed_l22_m1x_gmb"><seg type="comment"><orig>Stälin</orig><note xml:id="nftw_qbx_gmb">Paul Friedrich Stälin (1840–1909), Archivrat in Stuttgart und Direktor des württembergischen Haus- und Staatsarchivs.</note></seg></persName></hi>, <persName key="G001214"><seg type="comment"><orig>Grossmann</orig><note xml:id="nnnn_rbx_gmb">Der Stuttgarter Mathematiker und Reallehrer Johann Philipp Grossmann (1809–1879).</note></seg></persName>.</p>
+                <closer>
+<salute rendition="#c">Freund<subst><del rendition="#ow">l</del><add place="across">s</add></subst>chaftlich der Ihrige</salute>
+                    <signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi>.</signed></closer>
+<note type="postscript">Ich freue mich ungeheuer, daß meine so oft als corrupt erschienene <seg type="comment"><orig>Ortographie glänzend gerechtfertigt ist durch jene <placeName key="G000636">Berliner</placeName> Commission</orig><note xml:id="nfbb_tbx_gmb"><p>Die „Erste Orthographische Konferenz“ hatte unter dem Vorsitz des preußischen Kultusministers Adalbert Falk (1827–1900) vom 4. bis 15. Januar 1876 in Berlin getagt, um eine einheitliche Rechtschreibung im 1871 gegründeten Deutschen Reich herzustellen. Hiernach sollte „th“ u. a. im An und Auslaut in deutschen Wörtern wie „That“, „Armuth“ wegfallen – worauf Gregorovius hier anspielt.</p></note></seg>. So schreibe ich noch dreister Oberstudienrat, ohne <hi rendition="#aq">h h h</hi>. </note>
+            </div>
+        </body>
+    </text>
+</TEI>

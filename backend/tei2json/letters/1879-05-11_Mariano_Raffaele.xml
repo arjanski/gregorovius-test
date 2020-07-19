@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_wgq_dgs_mlb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Siena. Rom, 11. Mai 1879 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 4 S.</p>
+<p>Karte an Luigi Fumi</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Über Marianos Eheschließung mit Cecil Pilar von Pilchau und deren Hochzeitsreise nach Siena. Als römischer Ehrenbürger hat er an den Feierlichkeiten zum Stadtjubliäum Roms teilgenommen. Er hat seine Schrift „Urban VIII. im Widerspruch zu Spanien und dem Kaiser. Eine Episode des dreißigjährigen Kriegs“ beendet sowie deren Übertragung ins Italienische (Urbano VIII e la sua opposizione alla Spagna e all’imperatore. Episodio della guerra dei trent’anni); beide erscheinen 1879. Ersilia Caetani Lovatelli ist als erste Frau zum Mitglied der Accademia dei Lincei ernannt worden. Er bittet um Übermittlung eines Schreibens an Luigi Fumi. Grüße an das Ehepaar Eduard Mayer. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1879-05-11" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840-1912)</persName>
+<placeName key="G000871">Siena</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Rom, Via Gregoriana 13. <lb/>Mai 11. 79.</dateline>
+                    <salute rendition="#c">Lieber Freund,</salute>
+                </opener>
+<p>tausend Dank für Ihre erste Nachricht aus Siena, wo ich Sie nun <seg type="comment"><orig>glücklich im Besitze Ihres Lebensglückes</orig><note xml:id="nolj_kjj_1mb">Mariano hatte am 28. April die aus baltischem Adel stammende Cecil (Cäcilie) Gräfin Pilar von Pilchau (1847–1896) geheiratet: „Bei der Ziviltrauung im Kapitol (Sala dei Capitani) waren seine Zeugen Keudell, Sella,Vera aus Neapel und ich. Die kirchliche Trauung wurde in der deutschen Botschaftskapelle am 29. April vollzogen, worauf das junge Paar nach Siena abreiste.“ (RT, Romfahrt, 1879, S. 411). Das Ehepaar bekam zwei Töchter, Elisabetta (Nicky, 1887–1968) und Alda (1883–1974, sie heiratet 1909 Egbert von Anrep, 1873–1855). Siehe zur Bekanntschaft von Gregorovius und Cecil Pilar von Pilachau den Brief von Gregorovius an Raffaele Mariano vom 19.11.1878.</note></seg> weiß – u<ex>nd</ex> daran nehme ich von ganzem Herzen teil. Die gemeinsamen Freunde fragten mich oft nach Ihnen; nun kann ich ihnen sagen, daß Sie auf der <seg type="comment"><orig>Insel der Seeligen</orig><note xml:id="nhfl_ljj_1mb">Die paradiesähnlichen Wiesen der griechischen Mythologie im Westen des Erdkreises, wo unsterblich gewordene und von den Göttern wohlgesonnene Helden ihren Platz fanden.</note></seg> gelandet sind. Dort ruhen Sie einige Wochen aus, dann ziehen Sie weiter auf dem Hochzeitswagen, von <seg type="comment"><orig>Liebesgöttern</orig><note xml:id="nxz3_mjj_1mb">Der als Dekoration mehrfach dargestellte Liebesgott Eros, entsprechend dem römischen Amor; in der Archäologie als Eroten bezeichnet.</note></seg> gezogen<seg type="comment"><orig> <hi rendition="#aq"><foreign xml:lang="ita">a far compania solenne tra i barbari</foreign></hi> <hi rendition="#aq"><foreign xml:lang="Lat">in finibus Rufforum</foreign></hi></orig><note xml:id="nhk2_4jj_1mb">Lat. für: im Land der Rotfarbenen. Bezieht sich hier auf die für die Gegend um Siena typische gelblich-bräunliche Erdfarbe, die durch Erhitzen rot-braun wird.</note></seg> – dann rückwärts nach Rom, wo <pb n="1v"/>das Haus der Zukunft errichtet wachsen soll – das ruhe auf festen Gründen!</p>
+<p><seg type="comment"><orig>Hier bin ich eingegangen am 1 Mai</orig><note xml:id="nhr3_pjj_1mb">Gregorovius war am 6. Februar von München nach Rom aufgebrochen und nach Stationen in Mantua, Modena, Bologna und Florenz am 16. des Monats dort eingetroffen (vgl. RT, Romfahrt, 1879, S. 411).</note></seg> – es ist eine Rückkehr in meine Vergangenheit – <seg type="comment"><orig>die Weihe meines Lebens</orig><note xml:id="naj1_rjj_1mb">Gregorovius war im März 1876 als Anerkennung seiner „Geschicht der Stadt Rom im Mittelalter“ (8. Bde., 1859–1872) mit der römischen Ehrenbürgerwürde durch den Gemeinderat der ewigen Stadt ausgezeichnet worden; siehe den Brief von Gregorovius an Pietro Venturi vom 17.3.1876.</note></seg> kommt ja nur von ihr. Wie schön ist es, daß ich diese Rückkehr als Gast jener an den Moment knüpfen konnte, in welchem Sie selbst, einer meiner treusten u<ex>nd</ex> beßten Freunde, <seg type="comment"><orig>den großen Schritt in die Zukunft gethan haben</orig><note xml:id="nvf5_sjj_1mb">In der Sala dei Capitani im Kapitol, in welcher Gregorovius bei der Trauung Marianos zugegen gewesen war, hatte er bereits eine Woche zuvor bei den Feierlichkeiten zum „mythischen Geburtstag[…] von Rom“ teilgenommen: „Es waren 43 Personen geladen, die Botschafter und Gesandetn, die Minister Italiens, andere Spitzen der Behörden und ein paar Stadträte. Ich figurierte dabei zu meiner stillen Genugtuung als Ehrenbürger von Rom; es war das ein Zeichen der Anerkennung der von mir erlangten Stellung von seiten des neuen Bürgermeisters [Emanuele Ruspoli (1837–1899)] der Stadt, des Nachfolgers von Pietro Venturi, unter dessen Regiment ich zum Bürger ernannt worden war.“ (RT, Romfahrt, 1879, S. 413–414). Nach dem festlichen Diner ging es für die Teilnehmer der Jubiläumsfeier in das auf dem Kapitol befindliche Museum.</note></seg>. </p>
+<p>Ich bin hier recht glücklich – es ist eine stille, seeligen Empfindungen geweihte Pause in meinem Leben. Ich habe hier auch die <bibl sameAs="G003523"><bibl sameAs="G003524">Episode</bibl></bibl> des 30jahr<ex>igen</ex> Kriegs vollendet, <seg type="comment"><orig>in beiden <pb n="2r"/>Sprachen</orig><note xml:id="nnvz_tjj_1mb">Die von Gregorovius selbst besorgte Übersetzung ins Italienische erschien bereits im selben Jahr wie die deutsche Ausgabe.</note></seg> – nur daß sich noch <seg type="comment"><orig>Depeschen im <orgName key="ed_ppw_gnr_rlb">Staatsarchiv zu München</orgName></orig><note xml:id="nm1v_vjj_1mb">Er bezieht sich hier auf Depeschen des Giovanni Battista Crivelli (vor 1560–1627), welcher 1605 von Herzog Maximilian I. von Bayern (1573–1651) zu dessen Agenten in Rom ernannt worden war. Gregorovius veröffentlichte 1880 in den Sitzungsberichte der Akademie der Wissenschaften zu München eine Schrift dazu: „Die beiden Crivelli, Residenten der Herzöge und Kurfürsten von Baiern beim heiligen Stul in Rom, von 1607-1659“ – später aufgenommen unter dem Titel „Die beiden Crivelli, bairische Gesandte in Rom im 17. Jahrhundert“ in: KS II/1888. S. 33–89.</note></seg> vorgefunden haben, die ich benützen muß. </p>
+<p>Ich will abreisen nach 14 Tagen, am Ende des Monats wieder bei den <persName key="G001203"><persName key="G001111"><persName key="G001109">Meinigen</persName></persName></persName> zu sein. Ich zweifle daran über Siena zu kommen; dann müßte ich auch zum <seg type="comment"><orig><hi rendition="#aq"><foreign xml:lang="ita">Duca</foreign></hi></orig><note xml:id="ncdd_xjj_1mb">Es ist nicht sicher, ob hier der nur nominell als letzter Großherzog der Toskana fungierende Ferdinand IV. (1835– 1908) gemeint ist; dieser hatte sich nämlich ins Exil nach Salzburg und Lindau zurückgezogen.</note></seg> in Florenz, u<ex>nd</ex> zu den <hi rendition="#aq"><persName key="G001187"><persName key="G001092">Gozzadini</persName></persName></hi> – <seg type="comment"><orig>am liebsten ginge ich in einem Zuge zurück</orig><note xml:id="nncj_yjj_1mb">Gregorovius traf am 28. Mai wieder in München ein; im Tagebuch sind keine Zwischenstopps auf dem Weg von Rom nach München verzeichnet (siehe RT, Sommer und Winteranfang 1879, S. 417).</note></seg>. </p>
+<p>Nichts Neues von den Freunden – 1 mal war ich mit <persName key="G001116"><persName key="G001115"><persName key="G001114">Erhards</persName></persName></persName> <seg type="comment"><orig>in <hi rendition="#aq"><placeName key="ed_wnf_vnr_rlb">Palo</placeName></hi></orig><note xml:id="nafg_zjj_1mb">Das der Gemeinde Palo di Ladispoli, Region Latium, zugehörige mittelalterliche Schloß Odescalchi. </note></seg> – es regnet immer. Es ist Winter noch einmal.</p>
+<p><seg type="comment"><orig>Donna <persName key="G001011">Ersilia</persName> ist zum <hi rendition="#aq">membro dei <orgName key="ed_qch_xc2_rlb">Lincei</orgName></hi> gewählt</orig><note xml:id="ntf4_1kj_1mb">Die bereits seit vielen Jahren als Archäologin geschätzte Gräfin war, entgegen der ablehnenden Haltung vieler Mitglieder, am 18. Mai 1879 als erste Frau in die Akademie aufgenommen worden: „Es fand keine feierliche Aufnahme statt; der Vizepräsident Terenzo Mamiani gab nur Kunde von der Ernennung der gelehrten Dame durch königliches Dekret. Hierauf las Lanciani eine Abhandlung Ersilias vor, die Erklärung eines Mosaiks.“ (RT, Romfahrt, 1879, S. 416). </note></seg> u<ex>nd</ex> darüber ganz selig. Heut über 8 Tage soll die reception sein, u<ex>nd</ex> 1 Schrift von ihr dort gelesen werden. </p>
+<p>In Siena ist <pb n="2v"/>im <orgName key="G000566">Archiv</orgName> 1 junger Mann <hi rendition="#aq"><persName key="G001152">Fumi</persName></hi> von <placeName key="G000648">Orvieto</placeName>, der eben Hochzeit machte – bitte geben Sie bei Gelegenheit die beifolgende Karte ab.</p>
+<p><persName key="G001412"><persName key="G001413">Meiers</persName></persName> grüßen Sie viel mal. </p>
+<p>Herzliche Grüße von mir an Ihre <persName key="ed_ezy_g42_rlb">Frau</persName>, die ich bitte, mich als Ihren treuen Freund zu betrachten.</p>
+                <closer>
+                    <salute><hi rendition="#aq"><foreign xml:lang="ita">Caro Mariano, io vi abbraccio fraternamente</foreign></hi></salute>
+                    <signed rendition="#c">FGr<note type="postscript">Ich hatte 1 curiosen Brief von der guten Freundin <persName key="G001215">Grunelius</persName> in <placeName key="G000623">Baden</placeName>, worin nichts steht, als daß sie die Grippe hat.</note><note type="postscript">Ich bitte die Karte an <hi rendition="#aq">Luigi Fumi</hi> in 1 Couvert zu legen u<ex>nd</ex> mit der Adresse Sig<ex>nor</ex> Cav<ex>aliere</ex> <hi rendition="#aq">Luigi Fumi</hi> zu versehen. </note></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

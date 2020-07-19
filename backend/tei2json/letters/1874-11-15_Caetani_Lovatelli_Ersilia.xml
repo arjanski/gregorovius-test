@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067752">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Contessa Ersilia Caetani Lovatelli in Rom. München, 15. November 1874</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution> GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno>Karton 59, Mappe 348 (nach D)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"><bibl type="print">Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli. Hrsg. von Sigmund Münz. Berlin: Paetel 1896. S. 77–78 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Nach dem Abschluss seiner „Geschichte der Stadt Rom im Mittelalter“ (1859-1872) hat er Rom endgültig verlassen und ist nach Deutschland übergesiedelt. Hiermit sieht er seine wissenschaftliche Mission in Italien erfüllt..</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1874-11-15" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001011">Caetani Lovatelli, Ersilia contessa (1840–1925)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="77"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right"> München, 15. November 1874.</dateline>
+</opener>
+<p><gap reason="lost" unit="chars" quantity="1"/><seg type="comment"><orig>Mein stabiles Leben in Rom ist nunmehr eine der Vergangenheit angehörige Phase</orig><note xml:id="nskm_mc4_zlb">Am 15. Juli 1874 hatte er Rom endgültig verlassen und war über Florenz, Bologna, Modena und Kufstein nach Traunstein zum Kuraufenthalt gereist; siehe den Brief von Gregorovius an Raffaele Mariano vom 2.8.1874). Von dort ging er nach München, wo er sich ab dem 10. September mit seinem Bruder Julius (1819–1891) und ihrer gemeinsamen Halbschwester Ottilie (1834–1907) niederließ; siehe den Brief von Gregorovius an Raffaele Mariano vom 20.9.1874.</note></seg>. Sie wird für mich immerdar gleichsam den heiligen Mythus meiner Existenz bilden. Ich konnte jedoch die ewige Stadt ohne alle Klage, ja sogar mit der wahren Ueberzeugung verlassen, <seg type="comment"><orig>meine schwachen Kräfte zu Gunsten eines nicht gewöhnlichen Zieles verwendet zu haben</orig><note xml:id="nlc5_4c4_zlb">Mit der Beendigung seiner „Geschichte der Stadt Rom im Mittelalter“ (8 Bde., Stuttgart: Cotta 1859–1872) sah Gregorovius auch seine Zeit in Italien für beendet an: „[…] ich schuf, was noch nicht da war, ich klärte elf dunkle Jahrhunderte der Stadt auf und gab den Römern die Geschichte ihres Mittelalters. Das ist mein Denkmal hier. So darf ich ruhig von hinnen gehen. Ich könnte wohl auch noch bleiben. Aber es sträubt sich ein selbstbewußtes Gefühl in mir gegen die Vorstellung, hier mich in Einsamkeit zu überleben und in Rom zu altern, wo alles neu wird und sich verwandelt und ein neues zudringliches Leben mir bald alte liebgewordene Pfade bedecken und unkenntlich machen wird.“ (RT, 14.7.1874, S. 342–343).</note></seg>. Ich verließ Rom, nachdem ich meine Arbeiten beendet, die mich durch 22 Jahre an die <seg type="comment"><orig><placeName key="G067569">Mauern des Aurelian</placeName></orig><note xml:id="nkhv_pc4_zlb">In die Regierungszeit des römischen Kaisers Aurelian (214–275) fällt der Baubegin von Roms bedeutendster Stadtmauer.</note></seg> <seg type="comment"><orig>fesselten</orig><note xml:id="nzxh_rc4_zlb">Nachdem er Königsberg am 2. April 1852 verlassen hatte, war er am 2. Oktober 1852 in Rom eingetroffen (siehe RT, S. 44–45).</note></seg>. <pb n="78"/>Und ich schied mit der großen Genugthuung, gewissenhaft meine Pflichten erfüllt zu haben. Nicht weil ich mich überzeugt hätte, <seg type="comment"><orig>ein Fremdling unter den Römern geblieben zu sein</orig><note xml:id="nx54_sc4_zlb">Die Verleihung der Ehrenbürgerwürde der Stadt Rom an Gregorovius erfolgte erst nach einer Petition vom 10. Februar 1876 an den römischen Gemeinderat und anschließender Beratung; die Zustimmung des Stadtrates erging am 8. März 1876; vgl. Alberto Forni. Der Erfolg von Gregorovius in Italien. In: Ferdinand Gregorovius und Italien. Eine kritische Würdigung, hg. v. Arnold Esch und Jens Petersen. Tübingen: Max Niemeyer Verlag 1993, S. 12–41, hier S. 24–27.</note></seg>, entschloß ich mich, in das Haus meiner <persName key="G001198">Mutter</persName>, will sagen, in mein <placeName key="G000664">deutsches Vaterland</placeName>, zurückzukehren. Die Leute kommen mir hier wie einem verlorenen Sohne entgegen.<gap reason="lost" unit="chars" quantity="1"/> </p>
+</div>
+        </body>
+    </text>
+</TEI>

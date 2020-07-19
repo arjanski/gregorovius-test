@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000006">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Johann Georg Freiherr Cotta von Cottendorf in
+                    Stuttgart. Rom, 20. Mai 1853</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (3)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 4°, 2 ½ S. – 1r aoR in einer Vignette geprägt: BATH </p>
+<p>Brief von Gregorovius an die Redaktion der Allgemeinen Zeitung, 19.5.1853 (DLA Marbach, Cotta-Archiv, Cotta-Briefe, 2c) mit dem Manuskript seines Artikels „Der Ghetto und die Juden in Rom“</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 34</idno>7 (nach D1)
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 203–205 (stark gekürzt)</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die Verlagsübernahme seines „Corsica“ (1854), möchte es aber nicht in der Reihe „Sammlung von Länder- und Reisebeschreibungen“ gedruckt sehen, verlangt eine größere Auflagenhöhe und mehr Honorar. Er erläutert die Anordnung der poetischen Teile. Die Turiner Zeitschrift „Il Cimento. Rivista di scienze, lettere ed arti“ wird „Corsica“ besprechen. Er legt einen Brief mit dem Manuskript seines Artikels „Der Ghetto und die Juden in Rom“ zur Weiterbeförderung an die Redaktion der „Allgemeinen Zeitung“ bei.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He is grateful for the acquisition of his „Corsica“ (1854), but does not want to see it printed in the series „Sammlung von Länder- und Reisebeschreibungen“. He requests a higher number of copies printed and a higher fee. He explains the arrangment of the poetic parts. The Turin magazine „Il Cimento. Rivista di scienze, lettere ed arti“ will review „Corsica“. He encloses a letter with the manuscript of his article „Der Ghetto und die Juden in Rom“ to be delivered to the editors of the „Allgemeine Zeitung“ . </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1853-05-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001055">Cotta von Cottendorf, Johann Georg
+                        (1796–1863)</persName>
+                    <placeName key="G000879">Stuttgart</placeName>
+                </correspAction>
+                <correspContext>
+<ref type="prev">10. Mai 1853 (BSB München, NL Gregorovius, Gregoroviusiana 26a Beilage – K: DLA Marbach, Cotta-Archiv, Cotta-Briefe, 2a)</ref>
+<ref type="next">31. Mai 1853 (K: DLA Marbach, Cotta-Archiv, Cotta-Briefe, 3a)</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<salute rendition="#c">Dem Hochwolgebornen Herrn, <lb/>Freiherrn von Cotta <lb/>in Stuttgart. </salute>
+<salute>Hochgeehrter Herr,</salute>
+</opener>
+<p>ich habe Ihr geneigtes Schreiben nebst Anlagen richtig erhalten, u<ex>nd</ex> es drängt mich Ihnen für Ihre freundliche Bereitwilligkeit u<ex>nd</ex> Teilnahme zu danken, mit der Sie mein <bibl sameAs="G003106">Buch</bibl> aufgenommen haben. Indem so mein Wunsch, dieses Werk durch den Namen Ihres <orgName key="G000523">Verlages</orgName> geehrt zu sehen, in Erfüllung geht, betrachte ich es als ein großes Glück für dasselbe wie für den Verfaßer, u<ex>nd</ex> ich darf sagen, es macht mich in der Fremde mutiger.</p>
+<p>Indem ich nun den entworfenen Verlag überlegt habe, ist es mein Wunsch, mich mit der hochgeehrten Buchhandlung definitiv zu verständigen. Ich bitte Sie demnach einige Modificationen zu genehmigen. Sie betreffen zweierlei, die Form in welcher <hi rendition="#aq">Corsica</hi> erscheinen soll u<ex>nd</ex> die Anzahl der Exemplare.</p>
+<p>Die hochgeehrte Buchhandlung spricht die Ansicht aus, das Werk <hi rendition="#aq"><seg type="comment"><orig>Corsica</orig><note xml:id="no4n_r3z_klb">Sein „Corsica“ sollte in der „Sammlung Reisen und Länderbeschreibungen der älteren und neuesten Zeit“ erscheinen.</note></seg></hi> von vornherein „der Sammlung von Länder- u<ex>nd</ex> Reisebeschreibungen“ einzuverleiben. Der Verfaßer wird nichts dagegen haben, wenn er auf den Wert der Werke sieht, in deren Gesellschaft das seinige auftreten soll; aber er nimmt sich die Freiheit in aller Selbstbescheidung zu bemerken, d<ex>a</ex>ß er auf die Eigenartung seines Produktes einigen Wert legt, u<ex>nd</ex> daß er deshalb dringend wünscht, sein Buch als etwas für sich Eigenes u<ex>nd</ex> Selbständiges für sich gedruckt zu sehen. Dies ist ein Wunsch, hochgeehrter Herr Baron, welchen Sie verzeihlich finden werden; um so mehr, als das Werk „<hi rendition="#aq">Corsica</hi>“ sich viel eher den Reisebeschreibungen entziehen, als in sie gehören will, da ich es betrachten möchte als ein plastisches Historiengemälde, u<ex>nd</ex> als Geschichte, welche nur in anderer Weise, aus Local u<ex>nd</ex> Natur angeschaut u<ex>nd</ex> herausgestellt worden ist. Demnach wäre es mir sehr schmerzlich, wenn durch sofortige Einverleibung in eine Sammlung bei noch so ehrenvoller Gesellschaft, das „<hi rendition="#aq">Corsica</hi>“ seine insularische Natur verlöre. Gönnen Sie mir daher die Freude die Insel für sich stehen zu laßen; u<ex>nd</ex> mögen Sie dem Buche nach Ihrem Dafürhalten jedes beliebige Format, auch das der Werke der Sammlung geben, es soll mir recht sein, wenn ich es nur als Selbständiges wiedererkenne.</p>
+<p>Der zweite Punkt meines Vorschlages betrifft die Zahl der Exemplare. Mir das Verhältniß von verwandter Zeit u<ex>nd</ex> Mitteln bei unausgesetzter Arbeit nach Bereisung <hi rendition="#aq">Corsica</hi>s zu dem Ertrage des nun vollendeten Werkes deutlich machend, habe ich aus demselben meine Ansprüche formirt. Sie, hochgeehrter <pb n="1v"/>Herr, haben die Honorar-Satz als gerecht befunden, indem die J. G. Cottasche Buchhandlung im Verhältniß der Abzüge dabei stehen geblieben ist. Dies mit Danke erkennend ersehe ich aber zugleich, d<ex>a</ex>ß wenn die erste Auflage auf nur 1200 Exemplare bestimmt wird, daraus für mich ein Ausfall erwächst, der mich in der Gegenwart empfindlich treffen muss. Demnach bitte ich die sehr geehrte Buchhandlung die Auflage in 1500 Exemplare, das Honorar somit in 90 (neunzig) Louisd’or zu bestimmen. Es handet sich materiell um dem Mehrunterschied von 18 Louisd’or, aber auch um das Mehr von 300 Abzügen. Dieser Honorarunterschied wird, bei einem zweibändigen Werke von unbezweifelten Garantieen, auf der Seite der Buchhandlung unbeträchtlich, wenn er auf meiner Seite selbstredend beträchtlich ist. Ich habe die Überzeugung, daß Sie in Anbetracht des Gegenstandes u<ex>nd</ex> der geschäftlichen Sicherheit des Buches, meinen Wunsch gerecht finden u<ex>nd</ex> genehmigen.</p>
+<p>Demnach ersuche ich die J. G. Cottasche Buchhandlung dem Vertrage noch folgenden Zusatz anzufügen:</p>
+<p>– Nachdem die pp. Buchhandlung mit dem Verfaßer darin willigt, die erste Auflage des Buches Corsica als für sich bestehenden Einzelwerkes auf 1500 Exemplare zu bestimmen, so zahlt sie für diese Auflage nunmehr im Ganzen 90 (neunzig) Louisd’or. –</p>
+<p><seg type="comment"><orig>Ich erkläre nun hiebei, d<ex>a</ex>ß wenn bei späterer Auflage es in Ihrem Wunsche liegen sollte, das Werk als einen integrirenden Teil der „Sammlung“ zu bezeichnen, ich mich damit einverstanden erklären würde.</orig><note xml:id="nbry_rgb_llb">Der am 10. Mai 1853 vom Verlag in Stuttgart aufgesetzte Verlagsvertrag über „Corsica“ wurde am 20. Mai 1853 von Gregorovius unterschrieben; es blieb unverändert bei einer Auflagenhöhe von 1200 Exemplaren, einem Honorar von 72 Louis d’or und es erschien in 2 Bänden als 41.-42. „Lieferung der Sammlung Reisen und Länderbeschreibungen der älteren und neuesten Zeit“ (BSB München, NL Gregorovius, Gregoroviusiana 26a Beilage – DLA Marbach, Cotta-Archiv, Cotta-Archiv, Cotta-Verträge 1). Bereits im vorangehendem Brief Johann Georg von Cottas vom 10.5.1853 hatte er Gregorovius erklärt, dass die Auflage nicht so hoch angesetzt werden könne, weil sich „Länder- und Reisebeschreibungen“ erfahrungsgemäß nicht besser verkaufen (BSB München, Gregoroviusiana 26a, Beilage – K: DLA Marbach, Cotta-Archiv, Cotta-Briefe, 2a).</note></seg></p>
+<p>Ich habe den Vertag Raum laßend unterzeichnet, um den Druck nicht aufzuhalten u<ex>nd</ex> bei so großer Entfernung Weitläufigkeiten zu ersparen. Was die mir zukommende Vertragsabsicht anbelangt, so wird mir <seg type="comment"><orig>Ihr gefälliges Antwortschreiben als weitere contractliche Versicherung gelten.</orig><note xml:id="nv2k_1r1_llb">Im nachfolgenden Schreiben teilt Johann Georg von Cotta Gregorovius mit, dass seinem Wunsch, „Corsica“ außerhalb der Cotta-Reihe der „Sammlung Reisen und Länderbeschreibungen der älteren und neuesten Zeit“ zu drucken, nicht entsprochen werden könne; auch sei seine Vorstellung von Auflagenstärke und Honorar unrealistisch (K: DLA Marbach, Cotta-Archiv, Cotta-Briefe, 3a).</note></seg></p>
+<p>Betreffs der <seg type="comment"><orig>angedeuteten Anordnung der poetischen Teile des Werkes</orig><note xml:id="nu2k_yr1_llb">Im vorangehenden Brief vom 10.5.1853 hatte Johann Georg von Cotta angemerkt: „Darf ich nachdem ich somit den TotalEindruck Ihres Werkes in mir trage, Ihnen meine große Befriedigung über dasselbe aussprechen und nur bemerken daß meiner Ansicht nach die poetischen Theile, nach dem jetzigen Geschmack des Publikums, sich besser in einer eigenen Abtheilung eignen würden.“ (BSB München, Gregoroviusiana 26a, Beilage – K: DLA Marbach, Cotta-Archiv, Cotta-Briefe, 2a)</note></seg> gestatten Sie mir zu bemerken, d<ex>a</ex>ß sie sich schwer zusammengruppiren laßen, weil sie mit bestimmten Partieen organisch zusammenhängen. Die Todtenklagen nehmen überdies einen Platz für sich u<ex>nd</ex> zusammengehörig ein, so daß, indem ihnen einleitend eine Betrachtung über den Todtencultus vorangeht sie sich darauf stützen. Außerdem hoffe ich, d<ex>a</ex>ß sie, in der Mitte des Ganzen, angenehm unterbrechen, ohne doch wieder als lose Blätter herauszufallen. Und so mit gönnen Sie, hochgeehrter Herr Baron, dem Werke Ihren Namen, dem es keine Unehre bringen will. Für Italien wird es <seg type="comment"><orig>die Monatsschrift <hi rendition="#aq"><orgName key="G000543">II Cimento</orgName></hi>, in Turin erscheinend seit dem vorigen Jahre, <pb n="2r"/>eine Art <hi rendition="#aq"><foreign xml:lang="fra"><orgName key="ed_dff_kyv_gmb">Revue des deux mondes</orgName></foreign></hi>, mit Interesse aufnehmen; es hat dieses Blatt mich <bibl sameAs="G002367">schon einmal recensirt</bibl>.</orig><note xml:id="nztx_3s1_llb">In der 1852 gegründeten Zeitschrift „Il Cimento. Rivista di scienze, lettere ed arti“ war 1852 eine Rezension seiner „Geschichte des römischen Kaisers Hadrian und seiner Zeit“ (Königsberg: Bon 1851) erschienen (Bd. 2. Turin: Sebastiano Franco e Filgli 1852, S. 270–271). Sein „Corsica“ wurde indes nur erwähnt (Bd. 3. Ser. 2. Turin 1853, S. 762). </note></seg> Für <placeName key="G000674">Frankreich</placeName>, welches „<hi rendition="#aq">Corsica</hi>“ doch wol nicht unbeachtet lassen dürfte, wie für <placeName key="G000599">England</placeName> hat ja die J. G. Cotta’sche Buchhandlung Verbindungen vollauf.</p>
+<p>Ich habe es mir erlaubt, <seg type="comment"><orig>beikommende Sendung</orig><note xml:id="nb1t_rs1_llb">Beigeschlossen war der Brief von <ref target="G000005">Gregorovius an die Redaktion der Allgemeinen Zeitung vom 19.5.1853</ref> mit dem Manuskript seines Artikels „Der Ghetto und die Juden in Rom“, der vom 7.9.1853 bis 21.9.1853 in 5 Folgen in der Beilage der „Allgemeinen Zeitung“ gedruckt wurde.</note></seg> für die <orgName key="G000462"><orgName key="G000462">Allg<ex>emeine</ex> Zeitung</orgName></orgName> einzuschließen mit der ganz ergebenen Bitte, dieselbe nach Augsburg befördern zu laßen.</p>
+<closer rend="paragraph">Indem ich mein Schreiben an Ew. Hochwolgeboren Selbst zu richten mir die Freiheit nahm, wünsche ich es zugleich an die sehr geehrte J. G. Cottasche Buchhandlung gerichtet zu haben, u<ex>nd</ex> genehmigen Sie die Versicherung meiner größesten Hochachtung, mit welcher Ihrem Wolwollen sich immerdar empfiehlt <salute rendition="#right">Ihr ganz ergebenster</salute> <signed rendition="#right">Ferd. Gregorovius. </signed><dateline><hi rendition="#aq">Roma</hi>, 20 <hi rendition="#aq">Mai</hi>. 1853.<lb/>(in bisheriger Adresse.)</dateline> </closer>
+</div>
+        </body>
+    </text>
+</TEI>

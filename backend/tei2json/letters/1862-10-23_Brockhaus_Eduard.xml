@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000162">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Eduard Brockhaus in Leipzig. Rom, 23. Oktober 1862</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Sächsisches Staatsarchiv Leipzig</repository><collection>Bestand 21083</collection><idno>Archivalnummer 224 (64)</idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 1 ½ S. – 1r aoR Eingangs- und Beantwortungsvermerk: 1862. / <hi rendition="#aq">Rom</hi>, 23./30. <hi rendition="#aq">Octbr</hi>. / <hi rendition="#aq">Gregorovius</hi>. / B. 9. <hi rendition="#aq">Dec</hi>.</p>
+<p>autobiographische Notizen als Druckvorklage für das „Conversations-Lexicon“ (1866)</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Die Aufforderung für die bei Brockhaus erscheinende 11. Auflage der „Allgemeinen deutsche Real-Encyklopädie für die gebildeten Stände. Conversations-Lexikon“ (1866) autobiographische Notizen einzureichen, hat ihn erst nach seiner Rückkehr nach Rom erreicht. Er übersendet einige Notizen als Vorlage für den Druck. Er hat Heinrich Brockhaus in Florenz nicht mehr getroffen. Er will ihm schreiben, sobald er seine Adresse hat. Er bedauert den plötzlichen Tod der Frau Daniel, die er in Rom kennengelernt hatte.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">The request to send in autobiographical notes for the 11th edition of of the „Allgemeine deutsche Real-Encyklopädie für die gebildeten Stände. Conversations-Lexikon“ (1866), which is being published by Brockhaus, did not reach him until after his return to Rome. He sends some notes along as an outline for the publication. He didn’t see Heinrich Brockhaus in Florence again. He wants to write to him as soon as he has his address. He regrets the sudden death of Mrs. Daniel, whom he had met in Rome. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1862-10-23" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G000995">Brockhaus, Eduard (1829–1914)</persName>
+<placeName key="G000712">Leipzig</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">19. August 1862</ref>
+<ref type="next">9. Dezember 1862</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<salute rendition="#c">Sehr geehrter Herr,</salute>
+</opener>
+<p>von draußen nach Rom heimkehrend finde ich eine Aufforderung von Seiten der Redaction des <bibl sameAs="G067696">Brockh<ex>aus’schen</ex> Conversations-Lexicons</bibl>, datirt 19. August, wonach ich gewiße biographische Notizen über meine Person etc (viel zu viel Ehre für mich!) einschicken solle. Man hat mir jenes Schreiben nicht nachgeschickt ich zweifle daher, daß, wenn ich jenes thäte, es noch zur Zeit ankäme. <seg type="comment"><orig>Ich will indeß zum Behuf eines solchen Artikels 3 Worte umstehend aufsetzen, obwol das eigentlich töricht ist, denn ich bilde mir keineswegs ein, eine Stelle unter „hervorragenden“ Concersations-Lexicon-Menschen zu verdienen</orig><note xml:id="npdt_cdy_1mb">Der biographische Art. „Ferdianand Gregorovius“ erschien in: Allgemeine deutsche Real-Encyklopädie für die gebildeten Stände. Conversations-Lexikon. 11. umgearb, verb. und verm. Aufl. 15 Bde. Leipzig: Brockhaus 1875–1879. Bd. 7: Gesang – Hirzel. Leipzig: Brockhaus 1866. S. 267–268.</note></seg>. Wenn man mir aber, oder meinen Arbeiten, 3 Worte dort einmal widmen will, so mag es sein.</p>
+<p>Ich habe von Ihrem <persName key="G000996">Herrn Vater </persName>ein Schreiben <seg type="comment"><orig>in <placeName key="G000734">München</placeName> erhalten</orig><note xml:id="nrbd_2dy_1mb">Gregorovius war bis zum 13. September 1862 in München (siehe RT, 15.9.1862, S. 153).</note></seg>, u<ex>nd</ex> gehört, d<ex>a</ex>ß derselbe bis nach <placeName key="G000671">Florenz</placeName> reisen wird. <seg type="comment"><orig>Florenz verließ ich vor ein paar Tagen</orig><note xml:id="nlws_2dy_1mb">Gregorovius hatte sich für Archivarbeiten für den fünften Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1865) vom 20. September bis 21. Oktober 1862 in Florenz aufgehalten (siehe RT, 20.9.-20.10.1862, S. 154–155).</note></seg>, und vergebens war meine Hoffnung, ihn dort noch zu sehen. Bitte mich bestens zu empfehlen, <pb n="1v"/>u<ex>nd</ex> Ihrem <seg type="comment"><orig>Herrn Vater zu sagen, daß ich ihm schreiben werde, sobald ich seine Adresse weiß</orig><note xml:id="ndtq_fdy_1mb">Siehe den Brief von <ref target="G000154">Gregorovius an Heinrich Brockhaus, 10.1.1863</ref>.</note></seg>.</p>
+<p>Möchte es <seg type="comment"><orig>Ihnen, u<ex>nd</ex> Ihrer verehrten<persName key="ed_kzd_vqp_lkb ed_wk1_2rp_lkb G000995 G004752 G000996 ed_rgz_xqp_lkb G000997"> Familie</persName></orig><note xml:id="nwlf_3dy_1mb">Eduard Brockhaus (1829–1914) war seit 1854 mit Emilia, geb. Weisz (1836–1914), verheiratet, mit der er zu dieser Zeit drei Söhne hatte, den späteren Verleger Albert (1855–1921), den späteren Kunsthistoriker Heinrich Eduard (1858–1941) und Arnold (*1861). Hier ist aber sicher v.a. die Verlgerfamilie insgesamt gemeint.</note></seg> wol ergehen (ich denke mit Trauer dabei an diese sehr edle <persName key="G067633"><seg type="comment"><orig>Frau v<ex>on</ex> <hi rendition="#aq">Daniel</hi></orig><note xml:id="nk5z_jdy_1mb">Nicht ermittelt – Gregorovius hatte die jüngst, plötzlich, „in noch frischer Lebenskraft“, verstorbene Frau Daniel in Rom kennengelernt, wie er Heinrich Brockhaus am 27. April 1862 mitgeteilt hatte (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 63).</note></seg></persName>, die so früh, so unerwartet, hat hinwegmüßen.).</p>
+                <closer>
+<salute xml:id="s1" next="#s2">Mit aufrichtiger Hochachtung und Ergebenheit </salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">Ihr</salute>
+<signed rendition="#right">F. Gregorovius.</signed>
+<note type="postscript"><hi rendition="#aq">Rom</hi>, <hi rendition="#aq">Via Gregoriana</hi> n<ex>ummer</ex> 13 </note>
+<dateline>23. 8<hi rendition="#aq">ber</hi> 62.</dateline>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

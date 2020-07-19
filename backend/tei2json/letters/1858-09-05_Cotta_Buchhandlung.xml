@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000113">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an die J. G. Cotta’sche Buchhandlung in Stuttgart. Florenz, 5. September 1858</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (19)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¼ S. </p>
+<p>Verlagsvertrag der „Geschichte der Stadt Rom im Mittelalter“ (DLA Marbach, Cotta-Archiv, Cotta-Verträge 1)</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 59, Mappe 347 (nach D) und Karton 55, Mappe 336–337 (Ergänzungen nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 225–226 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er übersendet den unterzeichneten Verlagsvertrag für seine „Geschichte der Stadt Rom im Mittelalter“ (1859–1872). Druckfahnen würden ihn noch bis Ende September in Florenz erreichen, denn er hat bis dahin im Archivio di Stato und in der Biblioteca Magliabecchiana zu tun. Er will Johann Georg Freiherr von Cotta persönlich schreiben: Wegen des Exzerpts zu dessen Vorfahr Gianantonia Cotta aus Giovanni Paolo Limperani di Orezzas „Istoria della Corsica‟ (1779–1780) musste er nach Bastia an Salvadore Viale und Filippo Caraffa schreiben. Er bestätigt den Eingang des Wechsels.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He sends the signed publishing contract for his „Geschichte der Stadt Rom im Mittelalter“ (1859-1872). Galley proofs would still reach him in Florence until the end of September, as he has work to do until then at the Archivio di Stato and the Biblioteca Magliabecchiana. He wants to write to Johann Georg Freiherr von Cotta personally: For the excerpt on his ancestor Gianantonia Cotta from Giovanni Paolo Limperani di Orezza’s „Istoria della Corsica‟ (1779-1780) he had to write to Salvadore Viale and Filippo Caraffa in Bastia. He confirms that he received his fee. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000671">Florenz</placeName>
+                    <date when="1858-09-05" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="G000523">J. G. Cotta'sche Buchhandlung</orgName>
+                    <placeName key="G000879">Stuttgart</placeName>
+                </correspAction>
+<correspContext>
+<ref type="prev">31. August 1858 (h: DLA Marbach, Cotta-Archiv, Cotta-Briefe 18b)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Florenz, Palais Sabatier</hi> <lb/>5. <hi rendition="#aq">S<ex>e</ex>pt<ex>em</ex>b<ex>e</ex>r</hi> 1858.</dateline>
+                    <salute rendition="#c">Sehr geehrte Herren,</salute>
+                </opener>
+                <p>beikommend übersende ich das von mir unterzeichnete Exemplar des <seg type="comment"><orig>Contracts betreffend den Verlag „<bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Der Geschichte der Stadt Rom im Mittelalter</bibl>“</orig><note xml:id="ndqg_tw5_5lb">Johann Georg von Cotta hatte Gregorovius den Vertrag (DLA Marbach, Cotta-Archiv, Cotta-Verträge 1) mit seinem vorangehenden Brief vom 31.8.1858 übersandt (h: DLA Marbach, Cotta-Archiv, Cotta-Briefe 18b). </note></seg>. <seg type="comment"><orig>Die J. G. Cottasche Buchhandlung hat in generoser Weise den Fortgang dieses schweren Werkes gesichert, u<ex>nd</ex> der Autor wird es froh bekennen, d<ex>a</ex>ß er ihr allein die Möglichkeit verdankt, mit frischen Kräften an seine Fortsetzung zu gehn</orig><note xml:id="nan5_5w5_5lb">In seinem Brief vom <ref target="G000114">25.8.1858</ref> hatte Gregorovius sich mit dem von Cotta verringerten Honorar weniger zufrieden gezeigt, das er nur nach nochmaliger Prüfung akzeptieren wollte. Der Vertrag sah eine Auflage von 1000 Exemplaren und sechs Bände zu 25–30 Bogen vor. Als Honorar wurden je 600 Taler für die ersten beiden Bände und für die vier folgenden je 500 Taler vereinbart; nach Abschluss des Werks sollten weitere 400 Taler fällig sein, wenn bis dahin mehr als 600 Exemplare verkauft sein sollten (DLA Marbach, Cotta-Archiv, Cotta-Verträge 1).</note></seg>. Dies ist ein wichtiger u<ex>nd</ex> ernster Tag für mich, da ich nun sagen kann, daß die Existenz dieser Geschichte, welche mir so große Sorgen bereitete, nunmehr völlig gesichert ist. Mit schlichten Worten sage ich Ihnen u<ex>nd</ex> dem <persName key="G001055">Herrn Baron</persName> meinen Dank.</p>
+                <p>Der Satz könnte demnach beginnen; der erste Bogen der Revision würde mich noch hier treffen, da ich wahrscheinlich <seg type="comment"><orig>bis zum Ende dieses Monats hier bleibe</orig><note xml:id="nldn_yw5_5lb">Gregorovius blieb bis zum 28. September 1858 in Florenz (siehe RT, 15.7.1858, S. 75).</note></seg>, um das <pb n="1v"/><orgName key="G000563">Archiv des Staats</orgName> u<ex>nd</ex> die <orgName key="G004653"><seg type="comment"><orig><hi rendition="#aq">Maglia</hi>becchiana</orig><note xml:id="nw5m_zw5_5lb">Die Biblioteca Magliabechiana befand sich im Mittelstockwerk der Uffizien. Sie ging auf den Manuskript- und Büchersammler Antonio Magliabechi (1633–1714) zurück, der sie Cosimo III. de’ Medici (1642–1723) vermacht hatte. Den Bestimmungen des Stifters verspätet folgend, war sie seit 1747 für die Öffentlichkeit zugänglich. Zusammen mit der Biblioteca Palatina aus dem Palazzo Pitti bildete sie den Grundstock Biblioteca Nazionale, deren Gründung Ende 1861 beschlossen wurde.</note></seg></orgName> zu benutzen. <seg type="comment"><orig>Ich erfahre die größte Freundlichkeit von Seiten der Bibliothekare u<ex>nd</ex> der hiesigen Gelehrten</orig><note xml:id="njzx_bx5_5lb">Siehe RT, 13.9.1858, S. 74.</note></seg>, u<ex>nd</ex> wenn auch für die ältere Periode des römischen Mittelalters die Documente sehr sparsam sind, gibt es deren viele für das 13. u<ex>nd</ex> die späteren Jahrhunderte.</p>
+                <p>Ich werde mir erlauben, dem <seg type="comment"><orig>Herrn Baron von Cotta noch persönlich zu schreiben</orig><note xml:id="nhrw_cx5_5lb">Siehe den Brief von Gregorovius an Johann Georg von Cotta vom 16.9.1858 (DLA Marbach, Inv. Nr. 34802).</note></seg>. Wegen der <seg type="comment"><orig>Stelle im <hi rendition="#aq"><bibl sameAs="G004785">Limperani</bibl></hi>, nach welchem ich vergebens die Bibliotheken von Florenz durchsucht habe</orig><note xml:id="nopg_nx5_5lb">Gregorovius hatte Cotta am <ref target="G000116">22.6.1858</ref> mitgeteilt, dass in Giovanni Paolo Limperani di Orezza (1694–1779) „Istoria della Corsica da’Tirreni suoi primi abitatori fin al secolo XVIII“ (2 Bde., Rom: Salomonus 1779–1780, hier Bd. 2, S. 221, 248)“ Näheres zu seinem Vorfahr Gianantonio Cotta, dem korsischen Vizekönig im Jahre 1463, zu finden ist. Den Auszug hieraus hatte Gregorovius bereits in seinem vorangehenden Brief vom <ref target="G000114">25.8.1858</ref> angekündigt.</note></seg>, mußte ich mich an meine Freunde in <placeName key="G000710"><hi rendition="#aq">Corsica</hi></placeName> wenden, den Rat <hi rendition="#aq"><persName key="G001678"><seg type="comment"><orig>Viale Salvador</orig><note xml:id="npvk_sx5_5lb">Der mit Gregorovius befreundete, korsische Dichter Salvatore Viale (1787–1861) kündigte ihm in seinem Schreiben vom 3. September 1858 den Versand der gewünschten Exzerpte aus Giovanni Paolo Limperani di Orezza (1694–1779) „Istoria della Corsica da’Tirreni suoi primi abitatori fin al secolo XVIII“ (2 Bde., Rom: Salomonus 1779–1780, hier Bd. 2, S. 221, 248) an Cotta für denselben Tag an, wies aber zugleich darauf hin, wie unzuverlässig die Quelle ist (BSB München, NL Gregorovius, Gregoroviusiana 21).</note></seg></persName></hi> u<ex>nd</ex> den Bibliothekar <hi rendition="#aq"><persName key="G001020"><seg type="comment"><orig>Caraffa</orig><note xml:id="npvv_5x5_5lb">Filippo Caraffa (1801–1870) war Bibliothekar in Bastia (siehe Francesco Guerri: Gente nostra. Filippo Caraffa (1801–1870). In: Corsica antica e moderna. Jg. 1. Nr. 3. 1932. S. 126–134.</note></seg></persName></hi>, u<ex>nd</ex> ich erwarte die unfehlbare Einsendung aller <persName key="G004725"><hi rendition="#aq">Antonio Cotta</hi> von <hi rendition="#aq">Mailand</hi></persName> betreffenden Notizen. </p>
+<p><seg type="comment"><orig>Der Wechsel von 262 fl<ex>orins</ex> 30<hi rendition="#sup">x</hi> ist mir richtig zugegangen, wie ich hierin bescheinige</orig><note xml:id="nbjy_vx5_5lb">Siehe den Brief von Gregorovius an Cotta vom <ref target="G000114">25.8.1858</ref>.</note></seg>.</p>
+                <p>Meinen Abgang von hier nach <placeName key="G000763">Rom</placeName> werde ich zur Zeit anzeigen.</p>
+                <closer>
+<salute xml:id="s1" next="#s2">Mit großer <pb n="2r"/>Hochachtung, geehrte Herren, zeichne ich mich als </salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">Ihr wahrhaft dankbarer</salute>
+<signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi>.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

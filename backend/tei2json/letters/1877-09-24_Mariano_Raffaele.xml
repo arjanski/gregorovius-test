@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000230">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Baden-Baden. München, 24. September 1877</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+                <respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+                </respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 1 ½ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+<p xml:lang="de">Er hat Marianos sprachliche Korrekturen für seinen Brief an Pietro Venturi übernommen und seine Beschwerde über Oreste Tommasinis Artikel „Della storia medievale di Roma e de’ più recenti raccontatori di essa“ an diesen abgeschickt. Da Mariano von Augusto Vera in der Schweiz erwartet wird, verlangt er nicht, das er über München reist. Bei der fünfzigsten Versammlung deutscher Naturforscher und Ärzte in München hat er seine Bekannschaft mit Rudolf Virchow erneuert. Seine Studien über den Dreißigjährigen Krieg schreiten voran. Für das Denkmal für Paolo Sarpi hat er die ersten zwanzig Mark zusammen, plant aber einen öffentlichen Aufruf. Grüße an Adelheid Grunelius sowie an Wolfgang Erhardt und Familie. Heute trifft Manfred Lindemann-Frommel in München ein.</p>
+<p xml:lang="it"/>
+<p xml:lang="en"/>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1877-09-24" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000623">Baden-Baden</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">München, 24. Sept<ex>ember</ex> 77.</dateline>
+                    <salute rendition="#c">Lieber Freund,</salute>
+                </opener>
+<p>ich danke Ihnen sehr, für die Rücksendung <seg type="comment"><orig>des Briefes mit den Verbesserungen</orig><note xml:id="nmgy_tz3_1mb">Gregorovius Brief an Raffaele Mariano vom 15.9.1877 lag der Entwurf eines Briefes an Roms Bürgermeister Pietro Venturi (1824–1892) bei, der in der finalen und überlieferten Fassung auf den 23.9.1877 datiert ist. Anlass des Briefes war Gregorovius Ärger über Oreste Tommasinis (1844–1919) Artikel „Della storia medievale di Roma e de’ più recenti raccontatori di essa“ im „Archivio della Società romana di storia patria“ (Bd. I, 1877). In seiner Rolle als römischer Ehrenbürger, aber auch weil die Zeitschrift kommunal verankert ist, wendet er sich an den Bürgermeister Venture. Siehe die Briefe von Gregorovius an Raffaele Mariano vom 12.9., 15.9. und 17.9.1877, sowie den Brief von Gregorovius an Pietro Venturi, 23.9.1877. </note></seg>, welche ich jetzt durchweg angenommen habe, da der Sinn meiner Schrift nicht alterirt worden ist. Ich habe den Brief abgesandt, und richtete auch ein paar Worte an den <persName key="ed_8s1_n17_lm4"><foreign xml:lang="Lat">Sindicus</foreign></persName>, wozu ich mich nach langer Erwägung entschlossen hatte.</p>
+<p>Wir würden uns sehr freuen, Sie hier zu sehen: aber Ihre Reise über München wäre ein Opfer, denn Ihre Strecke führt Sie über die <placeName key="G000870">Schweiz</placeName>, wo Sie <persName key="G001675">Vera</persName> erwartet. Es ist hier bitter kalt, so daß der <persName key="G001203">Bruder</persName> schon heizt, während ich mich noch davor scheue.</p>
+<p>Wir hatten hier den <seg type="comment"><orig>Congreß der Naturalisten</orig><note xml:id="nsrx_5z3_1mb">Die fünfzigste Versammlung deutscher Naturforscher und Ärzte fand vom 17. bis 22. September 1877 in München statt. Siehe „Amtlicher Bericht der 50. Versammlung deutscher Naturforscher und Aerzte in München“ München: F. Straub 1877.</note></seg>, welcher sehr interessant war; auch erneuerte ich die Bekanntschaft des <seg type="comment"><orig>genialen Mannes <persName key="G001689"><hi rendition="#aq">Virchow</hi></persName>.</orig><note xml:id="nctz_vz3_1mb">Der berühmte Pathologe Rudolf Virchow (1821–1902) war auch Anthropologe, Prähistoriker und Politiker der Deutschen Fortschrittspartei und der Deutschen Freisinnigen Partei. Virchow erlangte u. a. wegen seiner Beschreibung der Leukämie sowie für seine Theorie der Zellularpathologie Ruhm. 1856 wurde er Direktor des pathologischen Instituts der Charité. Er vertrat eine naturwissenschaftlich sowie sozial orientierte Medizin. In der dritten Sitzung der fünfzigsten Versammlung deutscher Naturforscher und Ärzte am 22. September 1877 in München hielt Virchow eine Rede mit dem Titel „Die Freiheit der Wissenschaft im moderne Staate“. Siehe den Brief von Gregorovius an Virchow vom 14.11.1877.</note></seg></p>
+<p>Ich arbeite jetzt fleißiger: ich fange an Land zu sehen: ich meine, daß sich die <bibl sameAs="G003523">Gesch<ex>ichte</ex> des 30jähr<ex>igen</ex> Kriegs</bibl> vor meinem Blick zu gestalten beginnt, so daß ich hoffe meinem Volk <seg type="comment"><orig>ein gutes Buch</orig><note xml:id="ndkb_xz3_1mb">Das Ergebnis dieser Studien war das zwei Jahre später erscheinende „Urban VIII. im Widerspruch zu Spanien und dem Kaiser. Eine Episode des dreißigjährigen Kriegs“ (Stuttgart: Cotta 1879).</note></seg> in die Hand zu geben, wenn ich noch einige <pb n="1v"/>Jahre habe.</p>
+<p>Ich habe zum <seg type="comment"><orig><orgName key="G000476">Monument <hi rendition="#aq">Sarpi</hi></orgName></orig><note xml:id="namd_yz3_1mb">Zu Ehren Paolo Sarpis (1552–1623) sollte ein Denkmal in Venedig entstehen. Zur Planung wurde eine Komitee gegründet, das Graf Giambattista Giustinian (1816–1888) leitete, und in das Gregorovius berufen wurde. Die Statue des Bildhauers Emilio Marsili (1841–1926) wurde letzendlich erst 1892 auf dem Campo Santa Fosca in Venedig errichtet, wo Sarpi 1607 einem Mordanschlag entging.</note></seg> die ersten 20 Mark bekommen: nächstens mache ich<seg type="comment"><orig> einen <bibl sameAs="G004015">Aufruf</bibl>.</orig><note xml:id="nmhy_4mm_fmb">Der Aufruf von Gregorovius erschien in: National-Zeitung. Jg. 30. Nr.470. Berlin: National-Zeitung 7.10.1877. (Erstes Beiblatt). </note></seg></p>
+<p>Ich grüße viele Male das Haus <persName key="G001215">Grunelius</persName> – die prachtvolle Decke betrachte ich täglich mit Rührung – grüßen Sie auch freundlich <persName key="G001116"><persName key="G001115"><persName key="G001114">Erhardts</persName></persName></persName> u<ex>nd</ex> <seg type="comment"><orig><foreign xml:lang="ita">l’uomo dalla cravatta bianca</foreign>.</orig><note xml:id="nlk1_zz3_1mb">Ital. für: der Mann der weißen Krawatte. Nicht ermittelt.</note></seg></p>
+                <closer>
+<salute>Wir alle grüßen Sie herzlich <lb/> </salute>
+<signed rendition="#c">FGr. <lb/><note type="postscript"><persName key="G001376">Manfredi</persName> trifft heute hier ein. </note></signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

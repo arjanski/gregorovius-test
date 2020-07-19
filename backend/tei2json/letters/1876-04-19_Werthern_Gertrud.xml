@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_pfx_gnj_hmb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Gertrud Gräfin von Werthern in München. Castellammare di Stabia, 19. April 1876 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>BSB München</repository><collection>NL Gregorovius</collection><idno>Gregoroviusiana 20, Werthern, Gertrud von, 34</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 82, Mappe 10 (nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er ist seit seiner Ankunft in Rom so sehr durch Besuche und offizielle Termine in Folge der Verleihung seiner Ehrenbürgerwürde Roms in Anspruch genommen worden, dass er zur Erholung nach Neapel und Sizilien gereist ist. In Rom hat er Prinz Heinrich VII. von Reuß zu Köstritz und seine frisch angetraute Prinzessin Marie von Sachsen-Weimar-Eisenach vor ihrer Abreise nach Neapel und Tunis getroffen. Dass Prinz Heinrich VII. von Reuß zu Köstritz in Rom nun doch nicht den Posten des preußischen Gesandten von Robert von Keudell übernimmt, wird von dem italienischen Kronprinzen Umberto I. eher begrüßt. Er sah den inzwischen nach Berlin abgereisten Robert von Keudell nur bei der Beerdigung von Auguste Lindemann-Frommel am 21. März 1876 – nicht aber dessen Frau Hedwig, die zur Erholung in Albano ist. Er würde sich freuen, wenn er sie mit ihrem Ehemann Georg Graf von Werthern noch in Rom sehen könnte, wo er bis in den Juni zu bleiben plant. Zufällig traf er Laura (?) von Lotzbeck mit ihrer älteren Begleitung. Ludwig Samson Freiherr von der Tann-Rathsamhausen und dessen Frau Anna sowie Karl und Bertha von Piloty bittet er zu grüßen. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000656">Castellammare di Stabia</placeName><date when="1876-04-19" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001703">Werthern-Beichlingen, Gertrud Freifrau (ab 1884 Gräfin von) (1841-1919)</persName>
+<placeName key="G000734">München</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c"><hi rendition="#aq">Castellamare</hi>, 19. <hi rendition="#aq">April</hi> 1876.</dateline>
+                    <salute rendition="#c">Verehrte Frau <seg type="comment"><orig>Baronin</orig><note xml:id="nuhj_hzj_hmb"><p>Gertrud Gräfin von Werthern-Beichlingen, geb. von Bülow (1841–1919) hatte 1863 den wesentlich älteren Diplomaten Georg Graf von Werthern-Beichlingen (1816–1895) geheiratet, der seit 1867 preußischer Gesandter am Hof Ludwigs II. von Bayern (1845–1886) war. Sie hatten die Kinder Hans (1864–1918), Elisabeth (1866–1941), Ottobald (1868–1907), Thilo (1870–1918) und Georg (1874–1947). Gregorovius hatte ihn in München über die dort weilende russische Großfürstin Elena Pawlowna (1807–1873) kennengelernt (siehe RT, 2.12.1871, S. 312 und den Brief von Gregorovius an Hermann von Thile, 19.11.1871). Vor allem nach der Übersiedlung von Gregorovius nach München hatte sich eine enge Freundschaft entwickelt. </p></note></seg>,</salute>
+                </opener>
+<p>mit ein paar Zeilen komme ich Sie zu langweilen, mich Ihnen u<ex>nd</ex> Ihrem <persName key="G001702">Herrn Gemal</persName> in Erinnerung zu bringen, und zu fragen, ob es Ihnen, wie ich hoffe und wünsche, wol ergeht.</p>
+<p>Seit dem 17. März brachte ich <seg type="comment"><orig>3 Wochen in <placeName key="G000763">Rom</placeName> zu</orig><note xml:id="nskw_nzj_hmb">In der Sitzung des römischen Gemeinderates vom 8. März 1876 war dem Antrag auf Verleihung der Ehrenbürgerwürde für Gregorovius stattgegeben und kurz darauf in der Presse publik gemacht worden (Kurzmeldung unter dem Titel „Cittadinanza a Gregorovius“ erstmals in: Gazzetta della Capitale. Jg. 2. Nr. 117. Rom 10.3.1876. [S. 2.]). Gregorovius war über Modena reisend am 18. März 1876 in Rom eingetroffen (siehe RT, 20.5.1876, S. 363).</note></seg>, so sehr mit <seg type="comment"><orig>officiellen und privaten Besuchen und Angelegenheiten</orig><note xml:id="njp3_pzj_hmb">Gregorovius war nach vielen offiziellen Terminen am 7. April aus Rom abgereist und kehrte am 30. April 1876 nach Rom zurück (siehe RT, 20.5.1876, S. 365–368). </note></seg> geplagt, daß ich gar nicht zur Ruhe kam, bis ich nach <placeName key="G000737">Neapel</placeName>, nach <placeName key="G000760">Reggio in Calabrien</placeName> und nach <placeName key="G000575">Sicilien</placeName> ging. Seit fünf Tagen bin ich an diesem schönen <placeName key="ed_stg_xth_zkb">Golf</placeName>, in der allerschönsten Einsamkeit; nur verschleiert leider <hi rendition="#aq">Scirocco</hi> Meer u<ex>nd</ex> Land!</p>
+<p>Ihre Freunde, ich meine <seg type="comment"><orig><persName key="ed_vnv_yjt_plb">Prinz</persName> u<ex>nd</ex> <persName key="ed_hlm_v3t_plb">Prinzeßin R<ex>euß</ex></persName> konnte ich noch <pb n="1v"/>kurz vor ihrer Abreise in Rom sehen</orig><note xml:id="nqxg_szj_hmb">Der Jurist und Diplomat Prinz Heinrich VII. von Reuß zu Köstritz (1825–1906) hatte am 6. Februar 1876 Prinzessin Marie von Sachsen-Weimar-Eisenach (1849–1922), Tochter des Großherzogs Carl Alexander von Sachsen-Weimar-Eisenach (1818–1901), geheiratet und war auf seiner Hochzeitsreise nach Rom gekommen. Nach Gesandtschaftsposten in Paris, Kassel, Konstantinopel und Petersburg war Prinz Reuß zu Köstritz 1873 bis zu seiner Heirat Generaladjutant Kaiser Wilhelm I. (1797–1888). 1877 wurde er als Botschafter nach Konstantinopel entsandt und war 1878–1894 Botschafter des Deutschen Reichs in Wien. Gregorovius hatte das Paar zuvor in München bei Graf Georg von Werthern und seiner Gattin kennengelernt und in Rom wiedergetroffen, wo Reuß zu Köstritz für den den Posten des preußischen Gesandten in Rom im Gespräch war, den dann Robert von Keudell (1824–1903) behielt, der seit 1873 deutscher Gesandter in Rom war. Keudell galt als Getreuer Otto von Bismarcks (1815–1898) ohne eigenen Gestaltungswillen (siehe RT, 1.3.1876, S. 360 und 20.5.1876, S. 364).</note></seg>. Sie waren sehr wol und zufrieden, die Prinzeßin schien über den Besuch des <persName key="G001692">Königs</persName> recht glücklich zu sein. Sie gingen dann nach Neapel u<ex>nd</ex> weiter nach <placeName key="ed_yj5_vpj_hmb">Tunis</placeName>, von wo her sie hoffentlich ohne die <seg type="comment"><orig>Abenteuer <persName key="ed_rrv_5qj_hmb">Alonso’s</persName> und die Zaubereien <persName key="ed_r2l_wqj_hmb">Prospero’s</persName> im „<bibl sameAs="ed_avx_dsj_hmb">Sturm</bibl>“</orig><note xml:id="nuf3_5zj_hmb">Der der Magie zuneigende Protagonist aus William Shakespeares (1564–1616) Stück „The Tempest“ (1611) ist Herzog von Mailand, der von seinem Bruder Antonie mit Hilfe des Königs Alonso aus Neapel vertrieben wurde. Prospero rettet sich mit seiner Tochter Miranda auf eine Insel, auf der er bald Herr über die Geister ist. Als sein Bruder auf dem Rückweg von einer Hochzeit in Tunis an der Insel vorbei segelt, lässt er das Schiff stranden und kehrt nach der Wiederherstellung seine Ehre in seine Heimat zurück.</note></seg> zurück kehren werden.</p>
+<p><persName key="G001335">Herrn v<ex>on</ex> <hi rendition="#aq">Keud<ex>ell</ex></hi></persName> sah ich nur einmal, und seltsamer wie trauriger Weise <seg type="comment"><orig>am Grabe meiner guten Freundin <persName key="G001374">Lindemann</persName>.</orig><note xml:id="nvcj_vzj_hmb">Auguste Lindemann-Frommel (* 1826) war am 18. März nach langer Krankheit verstorben; sie war am 21. März 1876 auf dem protestantischen Friedhof an der Cestius-Pyramide beigesetzt worden (siehe RT, 20.5.1876, S. 363–364).</note></seg> Er reiste dann nach <placeName key="G000636">Berlin</placeName>, und da er seine <persName key="ed_hmz_xqj_hmb">Gemalin</persName>, welche am Fieber litt, nach <placeName key="G004684">Albano</placeName> gebracht hatte, so habe <add place="intralinear">ich</add> diese vorzügliche Frau noch nicht gesehen.</p>
+<p>Ich fragte den Kronprinzen <hi rendition="#aq"><persName key="ed_wx1_rrj_hmb">Umberto</persName></hi>, ob die Rede davon <pb n="2r"/>gewesen sei, daß Prinz R<ex>euß</ex> die Botschaft in Rom übernähme. Er erwiederte darauf nur dies: <seg type="comment"><orig>„Wir freuen uns, daß <hi rendition="#aq">K<ex>eudell</ex></hi> geblieben ist, da wir ihn kennen.“</orig><note xml:id="nbmx_yzj_hmb">So auch die Notiz über die Bemerkung des Kronprinzen Umberto I. (1844–1900) im Tagebuch (siehe RT, 20.5.1876, S. 364).</note></seg> Ich wollte Ihnen das mitteilen, weil es zur Diplomatie gehört. Von den neuen Verhältnißen, welche sich aus dem neuen Ministerium ergeben haben oder werden, weiß ich noch nichts zu sagen. Das veränderte Fahrwasser wird Herrn v<ex>on</ex> <hi rendition="#aq">K<ex>eudell</ex></hi> nicht angenehm sein.</p>
+<p><seg type="comment"><orig>Ihre Reise nach Rom</orig><note xml:id="nemk_11k_hmb">Über eine Romreise des Ehepaars Georg Graf von Werthern-Beichlingen (1816–1895) und Gertrud, geb. von Bülow (1841–1919) ist nichts bekannt.</note></seg> scheinen Sie aufgegeben zu haben; wenn Sie dieselbe nicht auf das Ende des April oder den Anfang Mai verschieben. Ich würde recht sehr froh sein, wenn das geschähe, denn so hätte auch ich noch die Freude, Sie dort zu sehen. Ich werde <seg type="comment"><orig>den ganzen <pb n="2v"/><hi rendition="#aq">Mai </hi>über und bis in den Juni dort bleiben</orig><note xml:id="nt2f_c1k_hmb">Gregorovius kehrte am 18. Juni über Florenz, Modena und Brixen reisend am 27. Juni 1876 nach München zurück (siehe RT, Sommer, Herbst und Winter 1876/77, S. 373).</note></seg>, mich wieder mit dem Anblick von Größe und Schönheit auszurüsten, womit ich mich dann gegen die kleine barbarische Welt Münchens zur Wehr setzen kann, eine abscheuliche, dürre, stupide Welt, wo nichts geschieht, oder vorkommt, wenn was geschieht, und wo die Menschen, wenn sie einander <seg type="comment"><orig>Caressen</orig><note xml:id="nv13_d1k_hmb">Nach frz.: caresse – Liebkosung, hier im Sinne von den Hof machen.</note></seg> machen, sich mit langweiligen Soupers und schlechten Trinksprüchen erwürgen.</p>
+<p>Darf ich wol bitten, mich <seg type="comment"><orig><persName key="ed_gzb_psj_hmb">Herrn</persName> und <persName key="ed_kfk_krp_gmb">Frau von der Tann</persName> </orig><note xml:id="nnwj_21k_hmb">Ludwig Samson Freiherr von der Tann-Rathsamhausen (1815–1881) und seine Frau Anna, geb. von Voß (1829–1905). Von der Tann war seit 1861 General in München, seit 1866 Generalstabschef der bayerischen Armee. Für seine militärischen Dienste im Deutsch-Französischen Krieg war er hoch geehrt und dekoriert worden. Er gehörte in München zum Freundeskreis von Gregorovius, der für ihn ein „schlichter und gebildeter Mann, eine Zierde des deutschen Soldatenstandes“ war (RT, 1.3.1876, S. 360).</note></seg>zu empfehlen, und auch freundlich das <seg type="comment"><orig>Haus <persName key="G001495"><persName key="G067616">Piloty</persName></persName></orig><note xml:id="neyk_f1k_hmb">Den Münchner Historienmaler Carl von Piloty (1826–1886), Professor an der Münchner Akademie der Bildenden Künste in München war seit 1860 mit Bertha, geb. Hellermann (1838–1918) verheiratet. Sie hatten die Kinder Elisabeth (1862–1940), Robert (1863–1926) und Oskar (1866–1915). Gregorovius hatte Piloty vermutlich im September / Oktober 1856 und im November 1858 in Rom getroffen (siehe auch dem Brief von Gregorovius an Piloty, 14.5.1861). In München hatte Gregorovius sicher auch dessen ebenfalls in München als Maler und Illustrator tätigen Bruder Ferdinand von Piloty (1828–1895) kennengelernt.</note></seg> zu grüßen.</p>
+<p>Grüße an Sie trug mir gestern <seg type="comment"><orig><persName key="ed_ysr_qyj_hmb">Fr<ex>äu</ex>l<ex>ein</ex> v<ex>on</ex> <hi rendition="#aq">Lotzbeck</hi></persName></orig><note xml:id="nkj2_h1k_hmb">Wahrscheinlich die Tochter des zu Lebzeiten in Rom sehr aktiven und vermögenden Industriellen und Kunstsammlers Alfred Freiherr von Lotzbeck (1819–1874), Laura (1852–1886), Ehrendame des Königlich bayerischen Theresienordens, die 1880 in Paris den Diplomaten und Reichstagsabgeordneten Traugott Hermann Graf von Arnim (1839–1919) ehelichte, der 1883 Dank ihres Vermögens die Muskauer Standesherrschaft erwerben konnte. In zweiter Ehe heiratete er 1889 seine Scheägerin Caroline Luise Gräfin von Bismark-Bohlem (1851–1912).</note></seg> auf, welche ich hier zufällig traf, in Begleitung ihrer älteren <seg type="comment"><orig>Freundin</orig><note xml:id="ncrh_l1k_hmb">Nicht ermittelt.</note></seg> oder Beschützerin jenes halben Dutzends von Tugenden, welche dies Fraulein mit sich führt.</p>
+                <closer>
+<salute>Ihnen u<ex>nd</ex> Ihres Herrn Gemals Wolwollen empfiehlt sich verehrungsvoll</salute>
+                    <signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi>.</signed></closer>
+<note type="postscript">Adresse <hi rendition="#aq">Roma</hi>.</note>
+            </div>
+        </body>
+    </text>
+</TEI>

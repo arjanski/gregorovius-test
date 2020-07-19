@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067742">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. Rom, 26. Dezember 1873 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Bologna, Biblioteca dell’Archiginnasio</repository><collection>Ms. Gozzadini 442 </collection><idno>(20) </idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 1 S. – Umschlag mit Adr.: Illustrissimo Signor / il Signor Conte Giovanni Gozzadini / Senatore del Regno / Bologna</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er sendet Neujahrsgrüße an Gozzadini und dessen Ehefrau Maria Teresa Serego Alighieri Gozzadini.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1873-12-26" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni conte (1810–1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Roma, il di 26. dec<ex>em</ex>bre 73.</dateline>
+                    <salute rendition="#c">Illustre Signor Conte,</salute>
+                </opener>
+                <p>accolga benignamente insieme colla gentilissima <persName key="G001092">Signora Contessa</persName> i miei auguri pel capo d’anno. Faccio voti, che nell’ anno futuro nulla manchi che possa dar soddisfazione e al cuor generoso, e alla mente elevata di Lor Signorie. Se mi sarà permesso di aggiungere a questo desiderio ardente ancora qualche altra cosa, la sarebbe quella, di <seg type="comment"><orig>conservarmi la loro benevolenza quale dono collocato da me fra i più preziosi doni</orig><note xml:id="nw4c_lp3_zlb">Seine tiefe Verbundenheit zur altehrwürdigen Bologneser Familie, zu der auch die Tochter der Gozzadinis, Contessa Anna Gozzadina Gozzadini (1845–1899), zählt, hatte Gregorovius bereits in früheren Briefen zum Ausdruck gebracht; siehe den Brief von Gregorovius an Giovanni Gozzadini vom 1.11.1868. Er zeigte sich sehr dankbar für die Freundschaft.</note></seg>. </p>
+                <closer>
+                    <salute rendition="#c">Di Lor Signorie <lb/></salute>
+                    <signed rendition="#right">servitor devoto <lb/> Ferdinand Gregorovius.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

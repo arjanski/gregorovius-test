@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_rqm_gnp_gmb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Mathilde von Humboldt in Ottmachau. München, 23. Januar 1876</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>SBB-PK, derzeit Biblioteka Jagiellońska Krakau</repository></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin, NL Waldemar Kampf, Karton 84, Mappe 1 (Alfred Löckle nach H)</institution><collection/><idno> <idno type="shelfmark"/> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 2–3 (nach h1)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Die zu seinem 55. Geburtstag übersandten Abschriften der Familienbriefe von Alexander und Wilhelm von Humboldt (?) wird er als Kleinode verwahren. Lausanne ist sein Lieblingsort am Genfer See, den schon Edward Gibbon sich als Alterssitz erwählt hatte – auf ihrer Reise dorthin wird sie hoffentlich in München Halt machen. Auguste Lindemann-Frommel geht es vermutlich nur vorrübergehend besser. Ihr Sohn Manfred kam gerade aus Rom zurück; jetzt sind ihre Geschwister Charlotte von Wechmar und ihr Bruder Otto von Racknitz auf dem Weg zu der Sterbenden. In München pflegt er Umgang mit Gertrud von Werthern-Beichlingen, Anna Freifrau von der Tann und Mathilde Muhr, die sich in München sehr wohl fühlt. Er wird um den 5. März 1875 nach Rom abreisen. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1876-01-23" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001304">Humboldt, Mathilde von (1830-1897)</persName>
+<placeName key="G000746">Ottmachau</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Elendes München</hi>, 23. <hi rendition="#aq">Jan<ex>uar</ex></hi> 1876.</dateline>
+                    <salute rendition="#c">Verehrte Freundin,</salute>
+                </opener>
+<p>es ist eine wahre Großmut von Ihnen, daß Sie sich aus Ihrem Album des frostigen Tages erinnerten, an welchem es der Natur gefiel, die große Zahl menschlicher Idioten noch durch meinen Cretinismus zu vermehren. Ich danke Ihnen recht sehr, zumal ich froh sein kann ein <seg type="comment"><orig>hohes Alter von 55. Jahren hinter mich gebracht zu haben</orig><note xml:id="njgw_n4p_gmb">Gregorovius war am 19. Januar 1876 fünfundfünfzig Jahre alt geworden.</note></seg>, auf anständige Weise nämlich, so viel als Irrtümer das gestatten, u<ex>nd</ex> so denke ich auch fortzufahren bis zu dem dunkeln Strich, wo <seg type="comment"><orig><hi rendition="#aq"><foreign xml:lang="eng">the rest is silence</foreign></hi></orig><note xml:id="nagc_p4p_gmb">Engl.: Der Rest ist Schweigen – Zitat aus der letzten Worte von Prinz Hamlet aus William Shakespeares (1564–1616) Tragödie „Hamlet“, 5. Aufzug, 2. Szene.</note></seg>.</p>
+<p>Die <seg type="comment"><orig>Abschrift der Humboldtischen Briefe</orig><note xml:id="nudb_54p_gmb">Mathilde von Humboldt, die Enkelin von Wilhelm von Humboldt (1767–1835), hatte Gregorovius vermutlich Abschriften von Briefen ihres Großvaters und / oder ihres Großonkels Alexander von Humboldt (1769–1859) zum Geburtstag geschenkt, die Gregrovius sehr verehrte – diese haben sich im Nachlass von Gregorovius (BSB München) nicht erhalten. Nach ihrem Besuch in München im Herbst 1875 hatte Mathilde von Humboldt Gregorovius mit ihrem Brief vom 15.11.1875 bereits Fotografien des Tegeler Schlosses geschickt.</note></seg> wird zu meinen <pb n="1v"/>Kleinodien gelegt – herzlichen Dank für dies schöne Vertrauen an Sie und Ihre ehrwürdige <persName key="G001303">Frau Mutter</persName>. <seg type="comment"><orig>Diese Briefe haben mich den großen Mann in seinen Familienverhältnißen kennen gelehrt</orig><note xml:id="npy1_y4p_gmb">Die Tochter Theodors von Humboldt (1797–1871) ordnete auf Anraten von Gregorovius die in der Familie noch erhaltenen Briefe von Wilhelm und Alexander von Humboldt. Anfang Dezember 1878 kam sie zu Gregorovius nach München, die Transkriptionen der Briefe, die ihr Großvater Wilhelm von seinem Bruder Alexander von Humboldt erhalten hatte, zu überprüfen. Auf Anraten von Gregorovius kümmerte sich Mathilde um die Veröffentlichung. Als Herausgeber zu fungieren, lehnte Gregorovius ab (siehe RT, S. 409), doch stellte er der Publikation der Korrespondenz ein bekenntnishaftes Vorwort voran: „Die Brüder von Humboldt. Geschichtliche Übersicht ihres Lebensganges bis zum Jahr 1835“ (iIn: Briefe Alexanders von Humboldt an seinen Bruder Wilhelm. Hrsg. von der Familie Humboldt in Ottmachau. Stuttgart: Cotta 1880). Das anonyme Vorwort nahm Gregorovius ohne Untertitel in seine „Kleinen Schriften zur Geschichte und Cultur“ auf (Bd. 2, S. 125-194).</note></seg>, wo er aus dem Kosmos der Wissenschaft – und auch dieser zeigt selbst der glühendsten u<ex>nd</ex> idealsten Leidenschaft oft genug jenes Medusenhaupt, dessen Anblick „moralische Öde“ verbreitet – menschlich teilnehmend unter die Seinigen zurückkehrt.</p>
+<p>Ich denke mir, daß Sie trotz der Strenge des Winters, von welcher Sie schreiben, in Ottmachau ein sehr angenehmes Leben führen, in einem reichen, sich immer erneuernden Familien- <pb n="2r"/>zusammenhange, für welchen die großen <persName key="G001301"><persName key="G001302">Männer</persName></persName> u<ex>nd</ex> Traditionen Ihres Hauses einen unvergleichlichen Hintergrund bilden. Auch freue ich mich sehr, daß Sie zum Frühjahre eine schöne Reise nach <seg type="comment"><orig><placeName key="G000585">Lausanne</placeName> vorhaben: dieser Ort ist mir ein Liebling unter jenen am <placeName key="ed_yht_ppp_gmb">Genfersee</placeName>, und ich begreife, warum ihn <hi rendition="#aq"><persName key="G001171">Gibbon</persName></hi> zu seiner Einsiedelei erwählte</orig><note xml:id="nah2_2pp_gmb">Gregorovius war im September 1862 in Lausanne. Der erste Gang dort hatte Gregorovius zum Haus des englischen Historikers und Abgeordneten Edward Gibbon (1737–1794) geführt, in den „Garten, in welchem er an seiner Geschichte schrieb“ (siehe RT, 15.9.1862, S. 153). Dessen Hauptwerk, die „History of the Decline and Fall of the Roman Empire“ (6 Bde., London 1782–1788), galt Gregorovius als literarisches Vorbild für seine eigene „Geschichte der Stadt Rom im Mittelalter“: „Es wird das Werk im Charakter ähnlich sein den Arbeiten des Sismondi und Gibbon […]“, hatte Gregorovius schon Anfang 1858 in den Brief an Cotta vom 20. Mai 1858 geschrieben. Siehe auch RT, 7.1.1856, S. 59 und den Brief von Gregorovius an Hermann von Thile, 15.11.1862.</note></seg>. Da Sie Ihre Reise wol über München nehmen werden, hoffe ich, daß meine <persName key="G001203"><persName key="G001111">Geschwister</persName></persName> das Glück haben werden, Sie hier zu sehen, u<ex>nd</ex> sie selbst, die sich Ihnen angelegentlich empfehlen, rechnen darauf. Die Ostern werde ich in <placeName key="G000763">Rom</placeName> zubringen. Der armen <seg type="comment"><orig><persName key="G001374">Frau Lind<ex>emann</ex></persName> geht es ein wenig besser</orig><note xml:id="nhky_lqp_gmb">Über den zunehmend bedenklichen Gesundheitszustand seiner römischen Freundin Auguste Lindemann-Frommel (1826–1876) hatte Gregorovius Mathilde von Humboldt bereits in seinem Brief vom 5. November 1875 (SBB-PK, derzeit Biblioteka Jagiellońska Krakau) informiert – sie war seit Jahren mit einer Lungenkrankheit ans Bett gefesselt. Für kurze Zeit hatte sie sich noch einmal erholt und starb am 18. März 1876 in Anwesenheit von Gregorovius, den sie unbedingt noch einmal sehen wollte (siehe RT, 20.5.1876, S. 363–364 und Peter K. W. Freude: Karl Lindemann-Frommel. Ein Malerleben in Rom. Monographie und Werkverzeichnis seines graphischen und malerischen Schaffens. Murnau am Staffelsee 1997. S. 72–74).</note></seg>, aber ich fürchte doch, daß <pb n="2v"/>es sich nur um eine kurz zugemessene Frist handelt, denn die Kräfte sind ganz erschöpft. Ihr Sohn <seg type="comment"><orig><persName key="G001376">Manfred</persName> war einen Monat lang bei ihr</orig><note xml:id="ncjw_qqp_gmb">Manfred Lindemann-Frommel (1852–1939) hatte den ganzen Dezember 1875 in Rom zugebracht (siehe Peter K. W. Freude: Karl Lindemann-Frommel. Ein Malerleben in Rom. Monographie und Werkverzeichnis seines graphischen und malerischen Schaffens. Murnau am Staffelsee 1997. S. 72).</note></seg>, und ist vor kurzem aus Rom zurückgekehrt, seine Studien in <placeName key="G000696">Karlsruhe</placeName> fortzusetzen. Nun aber reist <persName key="G001699"><seg type="comment"><orig>Frau v<ex>on</ex> Wechmar</orig><note xml:id="nbf2_wqp_gmb">Charlotte Freifrau von Wechmar, geb. von Racknitz (1835–1884), die Witwe des württembergischen Justiz- und Innenministeriums Friedrich Freiherr von Wechmar (1801–1869) lebte auf seinem Familiensitz in Roßdorf, nördöstlich von Meiningen.</note></seg></persName>, die Schwester der Kranken nach Rom, u<ex>nd</ex> auch der zweite <persName key="G001521">Bruder</persName> derselben wird von <placeName key="ed_l3z_1rp_gmb">Lissabon</placeName> her erwartet.</p>
+<p>Nichts von München, was einer Zeile wert wäre. Ich lebe sehr einsam, außer daß ich öfters <seg type="comment"><orig><persName key="G001703">Frau v<ex>on</ex> Werthern</persName></orig><note xml:id="nzwv_drp_gmb">Gertrud Gräfin von Werthern-Beichlingen, geb. von Bülow (1841–1919) die Ehefrau des preußischen Gesandten am Hof Ludwigs II. von Bayern (1845–1886), Georg Graf von Werthern-Beichlingen (1816–1895). Gregorovius hatte beide in München über die dort weilende russische Großfürstin Elena Pawlowna (1807–1873) kennengelernt (siehe RT, 2.12.1871, S. 312 und den Brief von Gregorovius an Hermann von Thile, 19.11.1871 in: Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 87–88). Vor allem nach seiner Übersiedlung nach München hatte sich eine enge Freundschaft entwickelt.</note></seg>, u<ex>nd</ex> bisweilen <seg type="comment"><orig><persName key="ed_kfk_krp_gmb">Frau v<ex>on</ex> der Thann</persName></orig><note xml:id="nz2q_2rp_gmb">Anna Freifrau von der Tann, geb. von Voß (1829–1905), die Ehefrau von Ludwig Samson Freiherr von der Tann-Rathsamhausen (1815–1881). Von der Tann war seit 1861 General in München, seit 1866 Generalstabschef der bayerischen Armee, der für seine militärischen Dienste im Deutsch-Französischen Krieg hoch dekoriert worden war. Er gehörte zum engeren Umfeld von Gregorovius in München, für ihn ein „schlichter und gebildeter Mann, eine Zierde des deutschen Soldatenstandes“ (RT, 1.3.1876, S. 360), in dessen Haus er „salonartige Räume [fand], wo man nicht durch seßhafte Soupers erwürgt wird“ (Brief von Gregorovius an Ludwig Friedländer in: Ferdinand Gregorovius: Briefe nach Königsberg. Hrsg. von Dominik Fugger und Nina Schlüter. München: Beck 2013. S. 123).</note></seg> besuche; auch bei <seg type="comment"><orig><persName key="ed_cjs_ksy_1lb">Frau Muhr</persName></orig><note xml:id="nmvn_frp_gmb">Mathilde Muhr, geb. von Colomb (1827–1912), die Witwe des in München verstorbenen Historien- und Genremalers Julius Muhr (1819–1865), der sich 1852–1857 in Rom aufgehalten hatte und erster Direktor der Schack-Galerie war. Nach dem Tod des Mannes und ihres einzigen Kindes lebte sie in München. Sie war wie ihr verstorbener Mann eine vertraute Freundin von Paul Heyse (siehe auch den Brief von Gregorovius an Theodor Heyse, 17.9.1855). </note></seg> war ich ein paar Male. Ihr gefällt München überaus, und diese Illusion möge sie sich bewahren. Meine <seg type="comment"><orig>Abreise nach Rom wird, so glaube ich, am 5. März vor sich gehen</orig><note xml:id="nj1w_vrp_gmb">Gregorovius reiste am 10. März 1876 zusammen mit Manfred Lindemann-Frommel (1852–1839) von München nach Rom – die Fahrt nach Rom trat Gregorovius auch wegen der Verleihung der Ehrenbürgerwürde Roms an ihn an, von der er zeitgleich unterrichtet wurde (siehe RT, 20.5.1876, S. 363–364 und Peter K. W. Freude: Karl Lindemann-Frommel. Ein Malerleben in Rom. Monographie und Werkverzeichnis seines graphischen und malerischen Schaffens. Murnau am Staffelsee 1997. S. 72–74).</note></seg>.</p>
+                <closer>
+                    <salute>Mit der Bitte, mich Ihrer edeln Frau Mama ehrerbietigst zu empfehlen, wünsche ich Ihnen u<ex>nd</ex> Ihrem Hause den allerschönsten Sonnenschein.</salute>
+                    <signed rendition="#right"><hi rendition="#aq">FGregorovius</hi></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

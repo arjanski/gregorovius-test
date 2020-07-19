@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000283">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Tommaso Gar in Venedig. Lindau, 20. September 1868</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Biblioteca Comunale di Trento</repository>
+                        <idno>
+                            <idno>busta BCT1–2257/52</idno>
+                        </idno>
+                    </msIdentifier>
+                    <physDesc>
+<p>1 Dbl., 8°, 1 S. – 2v, Blatt um 180° gedreht, Adr.: <hi rendition="#aq">Illustre Cavaliere</hi> / <hi rendition="#aq">Tommaso Gar</hi> / <hi rendition="#aq">Direttore dell’ Archivio</hi> / <hi rendition="#aq">di Venezia</hi> / acchiusavi una copia / del vol[ume] I della Storia di Roma / nell’ età di mezzo, edit. 2<hi rendition="#sup">
+                                <hi rendition="#u">
+                                    <hi rendition="#u" hand="">a</hi>.</hi>
+                            </hi>
+                        </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+<p xml:lang="it">Sein Verleger Carl Cotta von Cottendorf wird Gar über den venezianischen Buchhändler Hermann Friedrich Münster die zweite Auflage des ersten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1869) zusenden. Er wird Anfang Oktober wieder in Rom sein. Grüße an Madeleine Creutzer.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000714">Lindau</placeName>
+                    <date when="1868-09-20" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001158">Gar, Tommaso (1808–1871)</persName>
+<placeName key="G000894">Venedig</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<dateline rendition="#c"><seg type="comment"><orig>Lindau am Bodensee</orig><note xml:id="nkvg_wkr_ylb">Gregorovius hielt sich von 26.8. bis 23.9.1868 in Bad Schachen bei Lindau auf; siehe RT, 20.9.1868, S. 252 u. 5.10.1868, S. 253).</note></seg> <lb/>20. <foreign xml:lang="deu">S<ex>e</ex>pt<ex>e</ex><ex>m</ex>b<ex>e</ex>r</foreign> 1868.</dateline>
+<salute rendition="#c">Carissimo amico <seg type="comment"><orig>Gar</orig><note xml:id="nbzh_xkr_ylb">Tommaso Gar (1808–1871) war seit März 1867 Direktor des Staatsarchiv Venedig (Archivio di Stato di Venezia).</note></seg>,</salute>
+</opener>
+                <p>il <persName key="G001053">barone Cotta</persName> di <placeName key="G000879">Stuttgart</placeName>, <seg type="comment"><orig>editore dell’</orig><note xml:id="nivl_ykr_ylb">Von der „Geschichte der Stadt Rom im Mittelalter“ waren zu diesem Zeitpunkt 6 Bände erschienen (1859–1867).</note></seg><bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485"><seg type="comment"><orig>opera mia</orig><note xml:id="nivl_yxr_ylb"/></seg>,</bibl> vi <seg type="comment"><orig>spedisce per <orgName key="G000517"><?oxy_comment_start author="frederike" timestamp="20190905T194902+0200" comment="Hermann Friedrich Münster (1817–1868) war ein Buchhändler in Venedig. Sein 1846 gegründetes Geschäft erweiterte er 1847 um eine Leihbibliothek und 1857 um ein Lesekabinett. Ab März 1859 führte er die Buchhandlung gemeinsam mit seinem Bruder. Gregorovius lernte Münster bereits 1852 in Venedig kennen (siehe den Brief von Gregorovius an Klara Bornträger, 24.4.1857).  "?>Münster<?oxy_comment_end?></orgName> una copia del <bibl sameAs="G003489">vol<ex>ume</ex> I. della Storia di Roma (edizione 2<hi rendition="#sup">a</hi>)</bibl></orig><note xml:id="ncfh_glr_ylb"><?UNIQUE_CARET_MARKER_FOR_AUTHOR?></note></seg>, la quale io vi prego di accogliere da me in segno di amicizia e di grata memoria. Appena tornato a <placeName key="G000763">Roma</placeName>, dove, sarò nel principio dell’ottobre vi darò le mie nuove. Intanto saluto voi e l’amabile <persName key="G001056">Baronessa</persName> <seg type="comment"><orig><foreign xml:lang="Lat">cordialiter</foreign> </orig><note xml:id="nw32_hlr_ylb">Lat. für: herzlich</note></seg></p>
+                <closer>
+<salute rendition="#right">Il vostro</salute>
+<signed rendition="#right">Gregorovius</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

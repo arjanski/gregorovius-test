@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000316">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Michele Amari in Turin. München 9. September
+                    1863</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname>
+                        <forename>Frederike</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Roma, Archivio Centrale dello Stato</repository>
+                        <collection>Ministero dell’Istruzione Pubblica, Archivio di Deposito 1860–1890</collection>
+                        <idno>Personale, Gregorovius Ferdinando (busta no. 1062)</idno>
+                    </msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 1 S. ‒ 1r aoR Eingangs- und Beantwortungsvermerk: Risposto / privatamente / Amari [?] al / 16. IX / dando / ordine / [per] la lettera / pel Sindaco[?] x [=per] / Bologna / P. I. 4189 / 11 Settembre</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er bittet um Empfehlungsschreiben für die Archive in Bologna und Siena. Er kehrt bald nach Italien zurück. Bis zum 17. September wird er in Bologna sein, danach in Florenz und Siena.</p>
+                <p xml:lang="en">He asks for letters of recommendation for the archives in Bologna and Siena. He will return to Italy soon. He will be in Bologna until September 17th, then in Florence and Siena.</p>
+            </abstract>
+            <correspDesc>
+<correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName>
+                    <date when="1863-09-09" cert="high"/>
+</correspAction>
+<correspAction type="received">
+<persName key="G000924">Amari, Michele (1806–1889)</persName>
+<placeName key="G000893">Turin</placeName>
+                    <date when="1863-09-11" cert="high"/>
+</correspAction>
+<correspContext>
+<ref type="next">16. September 1863</ref>
+</correspContext>
+
+</correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<dateline rendition="#c">Monaco 9. Sett<ex>em</ex>bre 63.</dateline>
+<salute rendition="#c">Mio caro e riverito Signor Amari,</salute>
+</opener>
+                <p>stando sul punto di ritornare nell’<placeName key="G000690">Italia</placeName>, io mi diriggo alla sua bontà, facendola ricordare la sua promessa, di vuoler aprirmi certi archivi della sua patria. Avanti tutto desidero di vedere le carte dell’ <orgName key="G000465">Archivio Communale di Bologna</orgName>, se mai vi fossero documenti spettanti alla storia di <placeName key="G000763">Roma</placeName> <seg type="comment"><orig>nel tempo del Senatore <persName key="G000992">Brancaleone</persName></orig><note xml:id="nb5s_t1r_vlb">Der adelige Brancaleone degli Andalò (1220–1258) aus Bologna war ein römischer Senator, dessen Einsatz für die Rechte des Bürgertums in teils gewaltsame Konflikte mit Adel und Papsttum mündete. Gregorovius schildert sein Wirken in „Die Geschichte der Stadt Rom im Mittelalter“, Bd. 5 (1865), Buch 9, Kapitel 7; siehe auch den Brief von Gregorovius an Conte Giovanni Gozzadini in Bologna, <ref target="G000392">8.3.1857</ref>.</note></seg> etc. Mi faccia grazia, <seg type="comment"><orig>di mandarmi una lettera a <placeName key="G000638">Bologna</placeName></orig><note xml:id="nwny_v1r_vlb">Gregorovius erhielt das Empfehlungsschreiben am 17.9.1863 in Bologna. Im Römischen Tagebuch heißt es darüber am 20.9.1863: „Am 17. fuhr ich nach Parma [...] Nachmittags weiter nach Bologna. Ich fand Briefe Amaris auf der Post, die mich an den Grafen Carlo Pepoli empfahlen, den Syndikus Bolognas [...].“ (S. 168). Die Dokumente vom 12. und 16.9.1863 finden sich heute in Rom im Archivio Centrale dello Stato (Min. Pub. Istr., Personale 1860–1880, Gregorovius, busta 165). </note></seg> ferma in posta, ma senza indugio; perché io mi troverò in quella città sugli 17 di questo mese del Settembre, ed io sarei forzato, di partire da Bologna in caso non trovassi quel permesso. Non conosco alcuna persona à Bologna.</p>
+                <p>Poi vorrei andare a <placeName key="G000671">Firenze</placeName>, dove mi tratterò fino agli ultimi del mese; così a <placeName key="G000863">Siena</placeName>, dove pure vorrei studiare negli archivi. Se volesse darmi <seg type="comment"><orig>una lettera per Siena</orig><note xml:id="nvxh_z1r_vlb">Gregorovius erhielt das Empfehlungsschreiben noch vor dem 30.9.1863. Im Römischen Tagebuch heißt es darüber am 4.10.1863: „Am 30. September fuhr ich von Florenz hierher. [...] Amari hatte mich von Turin aus empfohlen“. Bei dem Dokument handelt es sich vermutlich um ein allgemeines Empfehlungsschreiben für die Archive der Toskana vom 16.9.1863 (siehe Rom, Archivio Centrale dello Stato; Min. Pub. Istr., Personale 1860–1880, Gregorovius, busta 165).</note></seg>, ne sarei obligato, come lo sono sempre </p>
+                <closer>affettuosamente e con profondo rispetto<signed rendition="#right">Gregorovius</signed> </closer>
+ </div>
+        </body>
+    </text>
+</TEI>

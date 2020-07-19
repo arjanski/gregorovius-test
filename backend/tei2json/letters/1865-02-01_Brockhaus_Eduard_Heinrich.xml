@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000224">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Eduard und Heinrich Brockhaus in Leipzig. Rom, 1. Februar 1865</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Sächsisches Staatsarchiv Leipzig</repository><collection>Bestand 21083</collection><idno>Archivalnummer 224 (83)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¼ S. – 2v alR, Bl. um 90° gedreht, Eingangs- und Beantwortungsvermerk: 1865. / <hi rendition="#aq">Rom</hi>, 1./7. <hi rendition="#aq">Februar</hi> / <hi rendition="#aq">Gregorovius</hi>. / B. 15. <hi rendition="#aq">Mrz</hi>.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 55, Mappe 333 (nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er ist erfreut, dass nunmehr eine zweite Auflage seiner „Siciliana“ (1865) ansteht. Ergänzungen kann er nicht liefern, weil er seit zwölf Jahren nicht mehr auf Sizilien war. Er hat keine Idee, wie der Absatz seines „Euphorion“ (1858) zu befördern ist, möchte dieses Gedicht aber in die Sammlung seiner „lyrischen Poesieen“ aufnehmen. Er fragt nach dem Absatz seiner „Grabmäler der Römischen Päpste“ (1857). Der Selbstmordversuch von Karl Gutzkow hat ihn erschüttert.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He is pleased that a second edition of his „Siciliana“ (1865) is in the works. He is unable to provide additions because he has not been to Sicily for twelve years. He has no idea how to promote the sales of his „Euphorion“ (1858), but would like to include this poem in the collection of his „lyrical poems“. He asks about the sales of his „Grabmäler der Römischen Päpste“ (1857). Karl Gutzkow’s suicide attempt shocked him. </p>
+            </abstract>
+            <correspDesc>
+<correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1865-02-01" cert="high"/>
+</correspAction>
+<correspAction type="received">
+<persName key="G000995">Brockhaus, Eduard (1829–1914)</persName>
+<persName key="G000996">Brockhaus, Heinrich (1804–1874)</persName>
+<placeName key="G000712">Leipzig</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">19. Januar 1865</ref>
+<ref type="next">15. März 1865</ref>
+</correspContext>
+</correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi>, 1. <hi rendition="#aq">Feb<ex>rua</ex>r</hi> 65.</dateline>
+                    <salute rendition="#c">Hochgeehrte Herren,</salute>
+                </opener>
+<p>ich habe Ihr freundliches Schreiben vom 19. Januar, welches wie es scheint auf Umwegen gewandert ist, erst eben erhalten, und sehe daraus mit Vergnügen, daß eine <seg type="comment"><orig><bibl corresp="G003259">neue Auflage der Siciliana</bibl> notwendig geworden ist</orig><note xml:id="nktr_1bw_2mb">Nach der ersten Auflage seiner „Siciliana“ (1861) erschien die zweite Auflage im selben Jahr als dritter Band unter dem Reihentitel „Wanderjahre in Italien“.</note></seg>. Ich werde Ihnen das durchcorrigirte Exemplar zukommen lassen, und zwar scheint es mir praktisch, dies in der Weise zu thun, daß ich es zerlege und per Kreuzband nach u<ex>nd</ex> nach an Ihre Druckerei gelangen lasse. Ich habe dabei nichts mehr zu thun, als etwa Druckfehler zu corrigiren; da der Text selbst correct sein möchte. Weil ich <seg type="comment"><orig><placeName key="G000575">Sicilien</placeName> seit dem Jahr 1853 nicht betreten habe</orig><note xml:id="nrz3_bbw_2mb">Gregorovius war vom 1.9.-29.10.1853 auf Sizilien (siehe RT, 1.9.-9.10.1853, S. 48–53). </note></seg>, kann ich zur neuen Auflage nichts Ergänzendes hinzufügen. Sollten Sie die Beschleunigung dieser Sendung wünschen, so bitte ich mich davon zu benachrichtigen; wenn Sie mir nicht mehr auf diesen Brief <pb n="1v"/>etwas zu bemerken haben, so werde ich die erste Sendung des durchcorrigirten Textes nach der Mitte des Februar nach Leipzig schicken.</p>
+<p>Es thut mir Leid, daß die erste Auflage des <bibl sameAs="G003574">Euphorion</bibl> nicht schneller sich consumirt hat; ich selbst weiß nicht, <seg type="comment"><orig>wie dem Gedicht fortzuhelfen ist</orig><note xml:id="nfzb_cbw_2mb">Die zweite Auflage seines Versgedichts „Euphorion“ erschien erst 1872.</note></seg>, welches ich übrigens <seg type="comment"><orig>in die Sammlung meiner lyrischen Poesieen aufzunehmen wünsche</orig><note xml:id="nh4r_cbw_2mb">Die verstreuten Gedichte von Gregorovius wurden erst posthum von Adolf Friedrich von Schack (1815–1894) gesammelt und 1892 in Leipzig bei Brockhaus herausgegeben.</note></seg>, so bald ich diese werde revidirt haben.</p>
+<p>Bei Gelegenheit haben Sie wol die Güte, mir mitzuteilen, wie viel Exemplare von den <bibl corresp="G003430">Grabmälern der Päpste</bibl> noch vorhanden sind.</p>
+                <closer>
+<salute xml:id="s1" next="#s2" rendition="#c">Mit freundlicher Hochachtung </salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">Ihr ganz ergebenster</salute>
+                    <signed rendition="#right">F<hi rendition="#aq">Gregorovius</hi>.</signed></closer>
+<note type="postscript"><seg type="comment"><orig>Das Schicksal von <persName key="G001223">Gutzkow</persName>, welchen ich in Rom vor etwa 7 Jahren gesehen habe, hat mich wahrhaft erschüttert</orig><note xml:id="nig4_dbw_2mb">1861 war der Brockhaus-Autor Karl Gutzkow (1811–1878) Generalsekretär der Schillerstiftung in Weimar geworden Wegen einer schweren psychischen Krise hatte er Ende 1864 sein Amt niedergelegt und im Januar 1865 versucht, sich das Leben zu nehmen. Er kam in die Heilanstalt St. Gilgenberg bei Bayreuth, wo er bis Dezember 1865 blieb. Im seinem Tagebuch dokumentiert Gregorovius 1858 das erste Zusammentreffen ihm in Rom und das distanziert-frostige Verhältnis zu Gutzkow, an dem er nichts fand, das „vom Wesen eines Dichters Zeugnis gab“ (RT, 10.6.1858, S. 71). Im Juni 1863 hatte Gutzkow Gregorovius eine finanzielle Unterstützung der Deutschen Schillerstiftung, die bedürftige, herausragende Schriftsteller förderte, angeboten (Brief von Gutzkow an Gregorovius, 16.6.1863; Universitätsbibliothek Johann Christian Senckenberg, Nachl. K. Gutzkow A 2 I: Nr. 63/166 Blatt 10484 und 10486). Gregorovius lehnte ab (siehe das Antwortschreiben von Gregorovius an Gutzkow, 23.6.1863).</note></seg>; wenn Sie <pb n="2r"/>ihm schreiben sollten, so haben Sie die Güte ihm zu sagen, daß wir in Rom ihm die milde Aufklärung seines Lebens wünschen, das er so lange mit Ruhm der Literatur gewidmet hat.</note>
+            </div>
+        </body>
+    </text>
+</TEI>

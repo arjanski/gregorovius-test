@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000185">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Heinrich Brockhaus in Leipzig. München, 11. August 1863</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Sächsisches Staatsarchiv Leipzig</repository><collection>Bestand 21083</collection><idno>Archivalnummer 224 (73)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 1 ¾ S. – 2vr alR, Bl. um 90° gedreht, Eingangs- und Beantwortungsvermerk: 1863. / <hi rendition="#aq">München</hi>, 11./12. <hi rendition="#aq">Aug</hi>. / <hi rendition="#aq">Gregorovius</hi>. / B. 14. <hi rendition="#aq">Aug</hi>.</p>
+<p>Korrekturbogen der 2. Auflage seiner „Figuren. Geschichte, Leben und Scenerie in Italien“ (1864)</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er übersendet die Korrekturbogen der zweiten Auflage seiner „Figuren. Geschichte, Leben und Scenerie in Italien“ (1864). Die Nichteinhaltung der von ihm gewünschten Reihenfolge der Kapitel ist unerfreulich. Der Druck ist korrekt, doch muss er die „Toskanischen Melodien“ selbst korrigieren. Im ungedruckten Rest des Bandes soll die Reihenfolge „San Marco in Florenz“ – „Toskanische Melodien“ – „Capri“ eingehalten werden. Statt eines Vorworts sollen die „Figuren“ Friedrich Althaus gewidmet werden.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He is sending the galley proofs of the second edition of his „Figuren. Geschichte, Leben und Scenerie in Italien“ (1864). He is unhappy that publisher didn’t keep the chapters in the order he requested. The print is correct, but he needs to make corrections in the „Toskanische Melodien“. In the as yet unprinted rest of the volume, the order should be kept as „San Marco in Florenz“ – „Toskanische Melodien“ – „Capri“. Instead of a preface, the „Figuren“ are to be dedicated to Friedrich Althaus. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1863-08-11" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G000996">Brockhaus, Heinrich (1804–1874)</persName>
+<placeName key="G000712">Leipzig</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">7. August 1863</ref>
+<ref type="next">14. August 1863</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<dateline rendition="#right">München, am 11. <hi rendition="#aq">August</hi>.</dateline>
+</opener>
+<p>Ich habe, sehr verehrter Herr, Ihr freundliches Schreiben nebst Sendung erhalten, und remittire die Correcturbogen.</p>
+<p><seg type="comment"><orig>Der Irrtum bei Anordnung der Abschnitte von <bibl sameAs="G003122">Band I</bibl> ist sehr fatal, da die Reihenfolge sehr passend war, sowol in Bezug auf die örtliche Direction vom Norden in den Süden, als auf die Abwechslung von Ernsterem und Gefälligem</orig><note xml:id="ntcd_42j_cmb">Die von Gregorovius gewünschte Reihenfolge der Kapitel für die zweite Auflage seiner „Figuren. Geschichte, Leben und Scenerie“ (1864), die jetzt als erster Band unter dem Reihentitel „Wanderjahre in Italien“ erscheinen sollten, hatte Gregorovius am <ref target="G000170">20.4.1863</ref> an Brockhaus übermittelt: 1. Elba. – 2. Toscanische Melodieen – 3. San Marco in Florenz. – 4. Idyllen vom Lateinischen Ufer.– 5. Der Ghetto und die Juden in Rom. – 6. Römische Figuren. – 7. Capri. Der Verlag hatte jedoch die Reihenfolge der ersten Auflage (ohne die weggefallenen „Idyllen vom baltischen Ufer“) übernommen und die neu aufgenomenen Aufsätze „San Marco in Florenz“ und „Toscanische Melodien“ vor „Capri“ eingefügt.</note></seg>. Doch das läßt sich nicht mehr ändern.</p>
+<p>Die Correctur in Ihrer Officin ist so trefflich, daß ich fast nichts mehr zu thun habe. Doch bin ich immer bereit, Correcturbogen zu empfangen. Vor allem <seg type="comment"><orig>wünschte ich, die Toscanischen Melodien zu revidiren</orig><note xml:id="nff3_s2j_cmb">Eine Reihe seiner im Sommer 1858 entstandenen, bislang ungedruckten Übertragungen nach der Sammlung des Priesters und Erziehers aus Pistoia Guiseppe Tigri (1806–1882): „Canti popolari Toscani raccolti e annotati da Giuseppe Tigri“ (Florenz 1856; siehe RT, 31.8.1858, S. 73). Einige der von Gregorovius übertragenen Lieder wurden vielfach vertont. Siehe auch zum Brief von <ref target="G000168">Gregorovius an Brockhaus, 10.3.1863</ref>.</note></seg>. Vielleicht haben Sie die Güte, den Druck beschleunigen zu laßen, da ich voraussichtlich <seg type="comment"><orig>nach 14 Tagen München verlaße, um mich <pb n="1v"/><choice><sic>mich</sic><corr type="deleted"/></choice> irgendwo im Gebirge zu erholen</orig><note xml:id="nbnp_52j_cmb">Gregorovius blieb bis zum 30. August 1863 in München. Nach einer einwöchigen Reise nach Bad Reichenhall, Berchtesgaden und Salzburg kehrte er am 5. September 1863 für weitere fünf Tage nach München zurück (siehe RT, 1.-9.9.1863, S. 166–167).</note></seg>, denn hier kann ich dies nicht, der städtischen Hitze u<ex>nd</ex> der <orgName key="G000510">Bibliothek</orgName> wegen.</p>
+<p><seg type="comment"><orig>Die letzten Abschnitte für Band I wünsche ich in dieser Folge</orig><note xml:id="nf5x_x2j_cmb">Dieser Weisung wurde entsprochen.</note></seg>:</p>
+<p rendition="#c"><hi rendition="#aq"><bibl corresp="G003831 G003832"><seg type="comment"><orig>S<ex>an</ex> Marco</orig><note xml:id="nebv_v2j_cmb">„San Marco in Florenz“ war unter dem Titel „Das Dominicanerkloster San Marco in Florenz und seine Reactionen gegen den Realismus“ erstmals in zwei Folgen im „Deutschen Museum“ erschienen (Nr. 31–32. Leipzig Brockhaus 2. und 9.8.1855. S. 153–163 und 199–209).</note></seg></bibl></hi> <lb/>Toscanische Melodien, <lb/>Capri.</p>
+<p><seg type="comment"><orig>Statt des Vorworts</orig><note xml:id="nacp_y2j_cmb">Mit seinem Brief vom 29.8.1863 übersendete Gregorovius dann doch ein schließlich abgedrucktes, 1-½ seitiges Vorwort, datiert München, im August 1863 (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 75).</note></seg> bitte ich nun aufdrucken zu laßen:</p>
+<p rendition="#c"><hi rendition="#u">An <persName key="G000920"><lb/>Friedrich Althaus</persName> in <placeName key="G000716">London </placeName><lb/>Rom 1855</hi></p>
+<p>mit dem <seg type="comment"><orig>Motto dazu aus dem <persName key="G067791">Vergil</persName></orig><note xml:id="ncwn_cfj_cmb">„Deus nobis haec otia fecit.“ (Vergil: Eclogae, I, 6) etwa: „Ein Gott hat uns diese Musse geschaffen“.</note></seg>. </p>
+                <closer>
+<salute xml:id="s1" next="#s2">In Eile, u<ex>nd</ex> mit den herzlichsten Grüßen, mein sehr verehrter Herr</salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">Ihr</salute>
+<signed rendition="#right">FGr.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

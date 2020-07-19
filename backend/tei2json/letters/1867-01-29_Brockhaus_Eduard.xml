@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000246">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Eduard Brockhaus in Leipzig. Rom, 29. Januar 1867</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Sächsisches Staatsarchiv Leipzig</repository><collection>Bestand 21083</collection><idno>Archivalnummer 224 (87)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 1 ¾ S. – 2v alR, Bl. um 90° gedreht, Eingangs- und Beantwortungsvermerk: 1867. / <hi rendition="#aq">Rom</hi>, 27. <hi rendition="#aq">Januar</hi>./2. <hi rendition="#aq">Februar</hi>. / <hi rendition="#aq">Gregorovius</hi>. / B. 19./II.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er empfiehlt die deutsche Übersetzung von Pasquale Villaris „La storia di Girolamo Savonarola e dei suoi tempi“ (1859–1861) von Moritz Berduschek zum Verlag (1868). Er bittet um Mitteilung der Absatzzahlen seiner bei Brockhaus erschienen Schriften seit dem Jahre 1866. Für die Zusendung der „Blätter für literarische Unterhaltung“, in der eine Besprechung des dritten bis fünften Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1862) von Otto Speyer erschienen war, dankt er auch dem Herausgeber Rudolf Gottschall. Grüße an Heinrich Brockhaus.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1867-01-29" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G000995">Brockhaus, Eduard (1829–1914)</persName>
+<placeName key="G000712">Leipzig</placeName>
+</correspAction>
+<correspContext>
+<ref type="next">19. Februar 1867</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi>, <hi rendition="#aq">Via Gregoriana n<ex>umero</ex></hi> 13 <lb/>29. <hi rendition="#aq">Januar</hi> 1867.</dateline>
+                    <salute rendition="#c">Hochgeehrter Herr,</salute>
+                </opener>
+<p>der Professor <seg type="comment"><orig><persName key="G001687">Pasquale Villari </persName>in <placeName key="G000671">Florenz</placeName>, Verfasser des 2 bändigen Werks <hi rendition="#aq"><bibl sameAs="G004271">Vita del Savonarola</bibl></hi>, schrieb mir, daß sein Buch von einem in Florenz lebenden, mir bekannten <persName key="G000964">Deutschen</persName> <bibl sameAs="G004282">ins Deutsche übersetzt wird</bibl></orig><note xml:id="nghw_chn_gmb">Am 2. Dezember 1866 hatte Gregorovius Pasquale Villari angeboten, ein Empfehlungsschreiben an Brockhaus zu schicken, um sich für den Verlag der deutschen Übersetzung seines „La storia di Girolamo Savonarola e dei suoi tempi“ (2 Bde. Florenz: Le Monnier 1859–1861) von Moritz Berduschek zu verwenden. Am 25. Januar 1867 hatte Gregorovius gebeten, sich diesbezüglich mit Reumont abzusprechen, der sich derzeit in Rom aufhalte (siehe „Un anello ideale“ fra Germania e Italia. Corrispondenze di Pasquale Villari con storici tedeschi. A cura di Anna Maria Voci. Rom: Archivio Guido Izzi 2006. S. 153–156).</note></seg>, u<ex>nd</ex> ersucht mich, in seinem u<ex>nd</ex> des Übersetzers Namen bei Ihnen anzufragen, ob Sie geneigt wären, den Verlag dieser Übersetzung zu übernehmen. <seg type="comment"><orig>Ich thue dies demnach, und empfehle Ihrer Erwägung</orig><note xml:id="nwkr_dhn_gmb">Die Übersetzung erschien im folgenden Jahr: Pasquale Villari: Geschichte Girolamo Savonarola’s und seiner Zeit nach den Quellen. Unter Mitwirkung des Verfassers aus dem Italienischen übersetzt von Moritz Berduschek. 2 Bde. Leipzig: Brockhaus 1868 (siehe auch den Brief von <ref target="G000248">Gregorovius an Malwida von Meysenbug, 12.4.1867</ref>).</note></seg> das Project. Das Werk, <bibl sameAs="G004237">in England übersetzt</bibl>, ist als die beste Geschichte <hi rendition="#aq">Savonarola’s</hi> u<ex>nd</ex> jener Zeit der Florentiner Republik anerkannt worden; die Fähigkeit des Übersetzers ist mir zweifellos. Das sonstige Verhältniß, welches die Übersetzung zu unserer Literatur haben würde, kann ich hier in Rom freilich nicht beurteilen.</p>
+<p>Wenn Sie die Güte haben, mir zu antworten, so bitte ich zugleich um die Gefälligkeit, mir eine Übersicht über die Anzahl von Exemplaren geben zu lassen, welche bis zum Schluß 1866 von meinen Schriften in Ihrem Verlag verkauft worden sind. Ich besitze eine solche Note vom Jahre 1864.</p>
+<p><pb n="1v"/>Ich habe <seg type="comment"><orig>zwei Nummern der Bl<ex>ätter</ex> für litterar<ex>ische</ex> Unterhalt<ex>ung</ex> empfangen, mit einer<bibl corresp="G002672 G002673"> Besprechung „der Geschichte der Stadt Rom im Mittelalter“</bibl></orig><note xml:id="nfdc_ghn_gmb">Die Rezension des dritten bis fünften Bandes von dem Naturforscher und Schriftsteller Otto Speyer (1821–1894) war am 1.1. und 10.1.1867 in den „Blättern für literarische Unterhaltung“ erschienen.</note></seg>, u<ex>nd</ex> bitte, sowol <persName key="G001186"><seg type="comment"><orig>Herrn Gotschall</orig><note xml:id="nmf1_hhn_gmb">Der Dramatiker, Schriftsteller und Literaturhistoriker Rudolf Gottschall (1823–1909) war von 1864 bis 1888 Herausgeber der Brockhaus-Zeitschriften „Blätter für literarische Unterhaltung“ und „Unsere Zeit“.</note></seg></persName> für die von ihm ausgehende <add place="superlinear">freundliche</add> Erinnerung an dieses Werk, als <persName key="G001617">Herrn Speyer </persName>für den guten Willen zu danken, den er an die Lectüre desselben gewendet hat.</p>
+                <p>Sollte Herr <persName key="G000996">Heinrich Brockhaus</persName> anwesend sein, so bitte ich ihm meine wärmsten Empfehlungen und Wünsche für seine u<ex>nd</ex> seines ganzen <orgName key="G000480">verehrten Hauses</orgName> Wolergehen auszurichten.</p>
+                <closer>
+                    <salute rendition="#right">Hochachtungsvoll u<ex>nd</ex> ergebenst</salute>
+                    <signed rendition="#right"><hi rendition="#aq">Gregorovius</hi>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

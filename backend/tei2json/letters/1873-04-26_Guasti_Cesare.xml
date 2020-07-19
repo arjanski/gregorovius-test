@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067728">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Cesare Guasti in Florenz. Rom, 26. April 1873</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Biblioteca Roncioniana Prato</repository><collection>Archivio Guasti, Busta 398 </collection><idno>(2)</idno></msIdentifier>
+<physDesc>
+<p> 1 Bl., 8°, 1 ¾ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er bittet um Abschriften von Dokumenten aus dem Florentiner Staatsarchiv, die er für seine „Lucrezia Borgia“ (1874) benötigt. Dazu gehören ein Brief des Kardinals Lorenzo Pucci an seinen Bruder Giannozzo und die Urkunde zur Auflösung der Ehe zwischen Giovanni Sforza und Lucrezia Borgia. </p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1873-04-26" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001218">Guasti, Cesare (1822–1889)</persName>
+<placeName key="G000671">Florenz</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Roma, <placeName key="ediarum_lmm_slx_qlb">Via Gregoriana</placeName> n<ex>umero</ex> 13. <lb/>26. Aprile 1873.</dateline>
+                    <salute rendition="#c">Gentilissimo <seg type="comment"><orig>Signor</orig><note xml:id="nbbg_wxz_ylb">Den in Florenz als Archivar tätigen Schriftsteller und Philologen Cesare Guasti (1822–1889), der im folgenden Jahr vom Assistenten zum Direktor des Florentiner Staatsarchivs berufen werden sollte, hatte Gregorovius bereits früher um Hilfe bei der Beschaffung von Dokumenten gebeten; siehe den Brief von Gregorovius an Cesare Guasti vom 4.10.1863. </note></seg>,</salute>
+                </opener>
+<p>interamente confidandomi nella sua bontà verso di me, <seg type="comment"><orig>già diverse volte provata da me</orig><note xml:id="nxwt_xxz_ylb">Von der freundlichen Aufnahme durch den damaligen Assistenten Guasti im Florentiner Staatsarchiv im September 1858 berichtet Gregorovius bereits früher; siehe den Brief von Gregorovius an Cesare Guasti vom 4.10.1863. </note></seg>, mi permetto di diriggerle una preghiera, ed è questa. <seg type="comment"><orig>Ho bisogno di alcune poche copie di scritti, che si conservano all’<orgName key="G000563">Archivio di Firenze</orgName>, e che ivi furono viste ed esaminate da me, or tre anni fà</orig><note xml:id="nqfw_zxz_ylb">Er hatte das Archiv im Juli 1870 auf einer Reise nach Deutschland aufgesucht und dort auch Guasti wieder angetroffen (siehe RT, 10.7.1870, S. 285). Die Abschriften sollte Gregorovius wenige Tage später erhalten wie sein Dankesbrief an Guasti belegt; siehe den Brief von Gregorovius an Cesare Guasti vom 10.5.1873.</note></seg>. Fra le carte Strozziane nella filza 343 a carta 90 si ritruova una lettera del <seg type="comment"><orig><persName key="G001516"><hi rendition="#u" hand="">Lorenzo Pucci</hi></persName> </orig><note xml:id="nmkv_byz_ylb">Lorenzo Pucci (1458–1531) aus der alten Florentiner Familie Pucci war Bischof und Kardinal. Er unterrichtete zunächst in Pisa, wurde 1509 dort zum Koadjutor des Bischofs von Pisa berufen. 1513 erfolgte seine Ernennung zum Kardinal.</note></seg>scritta di Roma addì 24 Dec<ex>embre</ex> 1493, e diretta a <seg type="comment"><orig><persName key="G004716">Giannozzo Pucci</persName></orig><note xml:id="nqjn_dyz_ylb">Giannozzo Pucci war ein Bruder von Lorenzo und heiratete 1483 Lureczia Bini, die ebenfalls aus einer Florentiner Patrizierfamilie stammt.</note></seg>; la quale lettera mi preme assai di <seg type="comment"><orig>averla ricopiata per intera</orig><note xml:id="nspd_gyz_ylb">In der Einleitung zu seiner „Lucrezia Borgia“ (2 Bde., Stuttgart: Cotta 1874) dankt er Guasti für die in diesem Brief gewünschten Abschriften: Lucrezia Borgia. Bd. 1.1874, S. XV. Den Brief von Lorenzo an Giannozzo behandelt er ebenda, S. 62–66.</note></seg>. </p>
+<p>Inoltre v’ha nell’Archivio Urbinate Cl. I. Div. B. F. XI <hi rendition="#u" hand="">l’atto della <seg type="comment"><orig>dissoluzione del matrimonio di Donna <persName key="G000985">Lucrezia Borgia</persName> e di <persName key="G001600">Giovanni Sforza</persName></orig><note xml:id="nppb_jyz_ylb">Lucrezia Borgia (1480–1519) und Giovanni Sforza (1466–1510) heirateten am 12. Juni 1493. Die Ehe der unehelichen Tochter von Papst Alexander VI. (1431–1503) war eine machtpolitische Entscheidung ihres Vaters, der so eine Allianz mit der Familie Sforza eingegangen war, und machte Lucrezia zur Gräfin von Pesaro. Allerdings kam es im Zuge des Eroberungszugs Karls VIII. (1470–1498) in Neapel zu Auseinandersetzungen zwischen dem Papst und seinem Schwager, woraufhin Sforza nach Pesaro flüchtete. Am 20. Dezember 1497 wurde die Eheschließung wegen angeblicher Impotenz des Gatten für als nicht vollzogen erklärt und die Verbindung aufgelöst (siehe dazu: Ferdinand Gregoroviu. Lucrezia Borgia. Bd. 1. 1874, S. 95–103).</note></seg></hi> Signor di Pesaro, <pb n="1v"/>il quale principia come segue: <seg type="comment"><orig>In Dei <unclear reason="illegible" cert="high">opti</unclear><supplied cert="high"><ex>mi</ex></supplied><unclear reason="illegible" cert="high"> </unclear>… Anno a Nativ<ex>itate</ex> D<ex>omini</ex> Nostri Jes<ex>u</ex> Ch<ex>risti</ex> 1497 pont<ex>ificatu</ex> S<ex>anctissimi</ex> D<ex>omini</ex> N<ex>ostri</ex> D<ex>omini</ex> al<ex>exandri</ex> div<ex>ina</ex> prov<ex>identia</ex> Papae VI. Ind<ex>ictione</ex> I. secund<supplied cert="high"><ex>a</ex></supplied> consuet<ex>udine</ex> roman<ex>a</ex> mensis n<ex>ost</ex>ri dec<ex>embris</ex> die vigesima </orig><note xml:id="nwpt_4yz_ylb">Lat. für: Dem allergrößten Gott... Im Jahr 1497 nach der Geburt unseres Herrn Jesus Christus, im sechsten Jahr des Pontifikats unseres sehr heiligen Herrn Alexander [VI.], nach göttlicher Vorsehung Papst. 1. Indiktion nach römischer Gewohnheit, am 20. Dezember...</note></seg>… </p>
+<p>Desidero di aver copia anche di questo scritto, per cui ricorro alla di lei generosità pregandola, di dar ordine acciochè si copi l’una e l’altra scrittura a spesa mia; la quale spesa cuoprirò quanta presto avrò le copie desiderate.</p>
+<p>E cosi raccommandomi alla di lei gentilezza mi pregio chiamarmi</p>
+                <closer>
+                    <salute rendition="#right">servitor suo obl<ex>i</ex>g<hi rendition="#sup"><ex>atissi</ex>mo</hi></salute>
+                    <signed rendition="#right">Ferdin. Gregorovius </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

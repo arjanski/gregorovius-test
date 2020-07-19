@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000085">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Johann Georg Freiherr Cotta von Cottendorf in
+                    Stuttgart. Rom, 20. Mai 1858</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (14)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 4°, 2 ¾ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach D1)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 218–220</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er trägt Cotta seine „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) zum Verlag an, von dem die ersten zwei Bände im Manuskript abgeschlossen sind. Über den umfassenden Plan seines Werks in der Nachfolge von Jean-Charles-Léonard Simonde de Sismondis „Histoire des républiques italiennes du Moyen Âge“ (1807–1818) und Edward Gibbons „History of the Decline and Fall of the Roman Empire“ (1782–1788), wird Jean-Jacques Ampère in Kürze einen Artikel im „Journal des débats politiques et litteraires“ veröffentlichen. In sechs Bänden soll sein Lebenswerk die Jahre 400 bis zum Sacco di Roma umfassen. Brockhaus hat ihm nicht das gewünschte Honorar geboten. Unter Berücksichtigung seiner prekären finanziellen Lage bittet er um rasche Antwort auf seine Offerte, auch bezüglich der Übersetzungsrechte.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He offers Cotta his „Geschichte der Stadt Rom im Mittelalter“ (1859-1872) for publication, the first two volumes of which are completed in manuscript. Jean-Jacques Ampère will shortly publish an article in the „Journal des débats politiques et litteraires“  on the comprehensive plan of his work, which succeeds Jean-Charles-Léonard Simonde de Sismondi’s „Histoire des républiques italiennes du Moyen Âge“ (1807–1818) and Edward Gibbon’s „History of the Decline and Fall of the Roman Empire“ (1782–1788). In six volumes his life’s work is to cover the years 400 up to Sacco di Roma. Brockhaus did not offer him the desired fee. Taking into account his precarious financial situation, he asks for a rapid response to his offer, also regarding the translation rights. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1858-05-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001055">Cotta von Cottendorf, Johann Georg
+                        (1796–1863)</persName>
+                    <placeName key="G000879">Stuttgart</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next">24. Mai 1858 (K: DLA Marbach, Cotta-Archiv, Cotta-Briefe, 14a)</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi>, 20. <hi rendition="#aq">Mai</hi> 1858.</dateline>
+                    <salute rendition="#c">Hochverehrter Herr Baron,</salute>
+                </opener>
+                <p>auf Ihr letztes gefälliges Schreiben hatte ich gehofft durch Übersendung einiger Artikel zu antworten, bin aber mit ihnen wegen großer Arbeit nicht fertig geworden. Was mich zu diesem Briefe veranlaßt, ist die Frage, ob Sie mit dem Verfaßer des ,,<bibl sameAs="G003106"><hi rendition="#aq"><seg type="comment"><orig>Corsica</orig><note xml:id="neb2_cwt_5lb">Gregorovius’ bei Cotta 1854 erschienener Erstling „Corsica“.</note></seg></hi></bibl>“ wiederum in Verlagsbeziehungen treten möchten. Ich will kurz sein.</p>
+                <p><seg type="comment"><orig>Seit 3 Jahren schreibe ich die „<bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Geschichte der Stadt Rom im Mittelalter</bibl>“</orig><note xml:id="nwmc_2wt_5lb">Gregorovius hatte im Oktober 1854 den Entschluss gefasst, seine „Geschichte der Stadt Rom im Mittelalter“ (Stutttgart: Cotta 1859–1872) zu schreiben und mit der Niederschrift seines späteren 8-bändigen Hauptwerks im Oktober 1855 begonnen (siehe RT, 3.10.1854 und 26.11.1855,,S. 53 und 57). </note></seg>, ein Unternehmen, welches, <seg type="comment"><orig>von Geschichtsschreibern seit 100 Jahren beabsichtigt, niemals ausgeführt wurde</orig><note xml:id="nrkz_fwt_5lb">Siehe hierzu das auf den <ref target="G000035">7. März 1858</ref> datierte Konzept seiner „Geschichte der Stadt Rom im Mittelalter“ (Beilage zum Brief von <ref target="G000069">Gregorovius an Brockhaus, 8.3.1858</ref>).</note></seg>. Es existirt in keiner Literatur der Völker ein solches Werk. Sie werden in einem <seg type="comment"><orig>Artikel von<persName key="G000928"> <hi rendition="#aq">J<ex>ean</ex> J<ex>aques</ex> Ampère</hi></persName> vom <orgName key="G004669">Institut <hi rendition="#aq">de France</hi></orgName>, der nächstdem <bibl corresp="G002608 G002609">in den <hi rendition="#aq">Débats</hi> erscheinen soll</bibl></orig><note xml:id="nbp4_kwt_5lb">Der französische Historiker, Schriftsteller und Philologe Jean Jacques Ampère (1800–1864), seit 1833 Professor am Collège de France, hatte eine Rezension der jüngst von Gregorovius erschienenen „Grabmäler der Päpste“ (1857) für das „Journal des débats politiques et litteraires“ unter dem Titel „Les Tombeaux des Papes. M. Gregorovius“ geschrieben (20. und 22.6.1858).</note></seg>, über den <seg type="comment"><orig>Charakter meines Werks lesen, da <hi rendition="#aq">Ampère</hi> damit bekannt ist</orig><note xml:id="nwz4_qwt_5lb">Gregorovius hatte Jean Jacques Ampère bereits 1857 in Rom kennen und schätzen gelernt (siehe RT, 14.6.1857, S. 66) und dem für ihn „geistreichsten Franzosen, gutmütig, wohlwollend, beweglich und, was selten bei ihnen gefunden wird, ohne Eitelkeit“ ein Kapitel aus seiner „Geschichte der Stadt Rom im Mittelalter“ vorgelesen (siehe ebd., 14.6.1858, S. 71).</note></seg>. Hier sage ich nur so viel: es soll die Geschichte der Stadt enthalten sowol die politischen, als bürgerlichen Dinge, die Geschichte der Ruinen, die ganze Metamorphose Roms, die Geschichte des römischen Stadtcultus <add place="superlinear">u<ex>nd</ex> der Kirche</add>, der Künste, Wissenschaften etc, kurz des Gesamtlebens von Rom; wegen der beständigen Beziehung Roms auf das heilige <subst><del rendition="#ow">Römi</del><add place="across">deut</add></subst>sche Reich deutscher Nation<del rendition="#s">en</del>, der Romfahrten so vieler Kaiser, der Eingriffe des <orgName key="G000539">Papsttums</orgName> in <placeName key="G000664">Deutschland</placeName> <gap reason="illegible" unit="chars" quantity="1"/> hat das Werk zugleich nationale Bedeutung, u<ex>nd</ex> wenn nächst den Römern eine Nation berechtigt ist, es zu schreiben, ist es sicherlich die deutsche. <seg type="comment"><orig>Es soll umfassen elf Jahrhunderte vom Anfang des <hi rendition="#aq"><foreign xml:lang="Lat">saec<ex>ulum</ex></foreign></hi> V, dem ersten Fall Roms unter die Gothen, bis zum Anfang <foreign xml:lang="Lat"><hi rendition="#aq">saec<ex>ulum</ex></hi></foreign> XVI oder 1527, wo Rom unter die deutschen <pb n="1v"/>Söldner fiel</orig><note xml:id="nwv3_swt_5lb">Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) beginnt mit dem feierlichen Einzug des weströmischen Herrschers Flavius Honorius (384–423) in Rom Ende 403/Anfang 404, der seine Machtstellung nicht sichern konnte, was 410 zur Plünderung Roms durch den westgotischen Heerführer Alarich (370–410) und zum Zerfall des weströmischen Imperiums führte. Sie endet mit dem Sacco di Roma, als es ab dem 6. Mai 1527 zur unkontrollierten Plünderung Roms und des Kirchenstaats sowie zu Gewaltexzessen durch deutsche Landsknechte und spanische sowie italienische Söldner Karls V. (1500–1558) kam.</note></seg>. Die <seg type="comment"><orig>Zahl der Bände wird 6 sein</orig><note xml:id="ndcp_fc5_5lb">Die „Geschichte der Stadt Rom im Mittelalter“ wurde schließlich erst auf sieben, dann auf acht Bände erweitert.</note></seg>, jeder Band <add place="left" hand="#addressee"><metamark target="#seg-1" function="used" rendition="#mMM"/></add><seg xml:id="seg-1">von 25 höchstens 30 Bogen. Es wird das Werk im Charakter ähnlich sein den <bibl sameAs="G004772"><seg type="comment"><orig>Arbeiten des <hi rendition="#aq">Sismondi</hi></orig><note xml:id="ntcq_gc5_5lb">Gemeint ist die breit angelegte und berühmte „Histoire des républiques italiennes du Moyen Âge“ (16 Bde., Paris: Treuttel et Würtz und Zürich: Geßner 1807–1818; dt.: Geschichte der italienischen Freistaaten des Mittelalters. 16 Bde. Zürich: Geßner 1807–1824) des Schweizer Nationalökonomen und Historikers Jean-Charles-Léonard Simonde de Sismondi (1773–1842).</note></seg></bibl> u<ex>nd</ex> <hi rendition="#aq"><bibl sameAs="G004774"><seg type="comment"><orig>Gibbon</orig><note xml:id="nuq5_3c5_5lb">Edward Gibbon (1737–1794): History of the Decline and Fall of the Roman Empire, 6 Bde. London: Strahan &amp; Cadell 1782–1788. – Siehe hierzu Angela Steinsiek: „Ich lese jetzt wieder Gibbon. Auch ihn […] begeisterte Rom zu seinem Werke“ Ferdinand Gregorovius und Edward Gibbon. In: Edward Gibbon im deutschen Sprachraum – Bausteine einer Rezeptions-geschichte. Hrsg. von Cord-Friedrich Berghahn und Till Kinzel. Heidelberg: Winter 2015. S. 265–276.</note></seg></bibl></hi>; ich schreibe es aus allem mir zugänglichen Material, sowol Urkunden als gedruckten Schriften; u<ex>nd</ex> ich lebe seit 6 Jahren in Rom.</seg> Noten begleiten es sparsam wie <hi rendition="#aq">Gibbon</hi>; obwol streng wißenschaftlich ist es doch leicht in der Form u<ex>nd</ex> allen lesbar, u<ex>nd</ex> <seg type="comment"><orig>so urteilen darüber <hi rendition="#aq">Ampère</hi> u<ex>nd</ex> <hi rendition="#aq"><persName key="G001545">Reumont</persName></hi></orig><note xml:id="nh3v_kc5_5lb">Gregorovius hatte Jean Jacques Ampère und Alfred von Reumont in Rom aus seiner „Geschichte der Stadt Rom im Mittelalter“ vorgelesen (siehe RT, 14.6.1858, S. 71).</note></seg>. Ich habe die 2 ersten Bände fertig (sie reichen bis <seg type="comment"><orig>auf das Jahr 800</orig><note xml:id="njk2_mc5_5lb">Bis zur Kaiserkrönung Karls des Großen (747/748–814) am 25. Dezember 800 im Aachener Dom (siehe „Geschichte der Stadt Rom im Mittelalter“, Bd. 2, 1859, S. 536–548).</note></seg>); sie können Ende Juni oder früher nach Deutschland gehn.</p>
+                <p>Indem ich erkenne, daß <seg type="comment"><orig><persName key="G000995">Herr Brockhaus</persName> wegen der großen Überhäufung mit Verlagsartikeln, die er druckt, nicht die Sorge auf dies Werk wenden, noch es hinreichend honoriren kann</orig><note xml:id="nuhn_nc5_5lb">Mit seinem Brief vom <ref target="G000069">8. März 1858</ref> hatte Gregorovius zunächst Brockhaus ein, auf den <ref target="G000035">7. März 1858</ref> datiertes, ausführliches Konzept seiner „Geschichte der Stadt Rom im Mittelalter“ (Stuttgart: Cotta 1859–1872) übersandt, dem er sein Werk zum Verlag anbot. Brockhaus reagierte offenbar zögerlich, denn im Brief an Brockhaus vom <ref target="G000088">19.4.1858</ref> formuliert Gregorovius erneut seine Ansprücher und drängt auf einen eindeutigen Bescheid.</note></seg>, komme ich zu Ihnen, Herr Baron, u<ex>nd</ex> trage Ihnen den Verlag dieses neuen Unternehmens an, deßen Bedeutung für die Wißenschaft Sie nicht verkennen. Wenn demnach Sie dazu geneigt wären, würde ich Sie ersuchen, um Zeit zu sparen, mir im Allgemeinen zu sagen, welche Summe Sie dafür auswerfen können. Sie wißen daß ich arm bin, u<ex>nd</ex> mögen sich leicht vorstellen, daß meine Hoffnung auf dem Verkauf dieses Werks beruht, welches mein Lebenswerk ist u<ex>nd</ex> von dessen unsäglicher Mühe seit Jahren ich nicht reden mag. Ich muß daher ein angemeßenes Honorar erhalten, u<ex>nd</ex> ich fordere kein <pb n="2r"/>anderes, als was mit dem Charakter eines Geschichtswerks von bleibendem Wert im Verhältniß steht. Ich bitte mir zu sagen, was Sie, im Fall Ihnen der Antrag convenirt, mir <hi rendition="#u" hand="">pro Band</hi> geben könnten, u<ex>nd</ex> ich setzte hinzu, daß ich ungefähr <add place="left" hand="#addressee"><metamark target="#seg-2" function="used" rendition="#mMM"/></add><seg xml:id="seg-2">an 600 Thaler Preußisch</seg> denke. <seg type="comment"><orig>Möchten Sie mir unumwunden Ihre Meinung sagen, u<ex>nd</ex> auch dies, ob zwischen Ihrem <orgName key="G000523">Verlag </orgName>u<ex>nd</ex> dem Ausland schützende Preßconventionen nunmehr abgeschloßen sind</orig><note xml:id="nj53_sc5_5lb">In seinem, nur als Konzept überlieferten, Antwortschreiben vom 24.5.1874 zeigte sich Johann Georg Cotta sehr angetan, hatte aber einige Bedenken bezüglich des geplanten Umfangs und der konfessionellen Ausrichtung: „Der Inhalt dieses Ihres Schreibens hat mich in hohem Graade angesprochen […]. Eine Geschichte der Stadt Rom im Mittelalter ist ein so schöner Stoff wie nicht leicht einer“, doch gibt zu bedenken, dass „beim deutschen Lesepublicum bändereiche Werke nicht so leicht Eingang“ finden. Vor allem aber wollte Cotta wissen, „ob das Werk in katholischen Landen Eingang finden, oder staatlich prohibirt, auch von strengen Katholiken gekauft oder nicht gekauft werden dürfte“, weil hiervon die „die buchhändlerische Calculation“ abhängt. Die Übersetzungsrechte in Frankreich und England wollte er Gregorovius überlassen, „was dann natürlich auf das Honorar Einfluß hätte“ (K: DLA Marbach, Cotta-Archiv, Cotta-Briefe, 14a).</note></seg>. Die Zeit drängt mich, ich bitte um baldige Antwort; ich wünsche, daß Sie im Intereße der Wißenschaft ein Geschichtswerk übernähmen, welches dem Vaterland schwerlich zur Unehre gereichen wird, aber ich versichere, daß eine Verneinung mich nicht mehr kränken wird, nur wünsche ich in jedem Fall einen schnellen u<ex>nd</ex> klaren Bescheid.</p>
+                <closer>
+<salute rendition="#c">Mit großer Hochachtung, Herr Baron,  <lb/>Ihr ergebenster</salute>
+<signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi></signed>
+<note type="postscript"><hi rendition="#aq">Rom Via della Purificazionen N<ex>ume</ex>ro</hi> 63</note>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

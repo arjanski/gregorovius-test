@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067797">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Heinrich Laube in Wien. Königsberg, 4. Februar 1851</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>ÖNB Wien</repository><collection>Teilnachlass Laube</collection><idno>Autogr. 156/1–1 HAN MAG</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 4°, 1 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er bittet um eine Stellungnahme zu seinem durch den Wiener Schriftsteller Anton Schurz überbrachten Manuskript seines Stückes „Der Tod des Tiberius“ (1851) zur Aufführung im Wiener K. K. Hof- und Nationaltheater nächst der Burg oder um Empfehlung an einen Verlag.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He asks for a comment on whether or not his play „Der Tod des Tiberius“ (1851), the manuscript of which was delivered by the Viennese writer Anton Schurz, might be performed in the Wiener K. K. Hof- und Nationaltheater nächst der Burg or if Laube could recommend it to a publisher.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000699">Königsberg</placeName><date when="1851-02-04" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001355">Laube, Heinrich (1806–1884)</persName>
+<placeName key="G000897">Wien</placeName>
+</correspAction>
+<correspContext>
+<ref type="next">nach dem 14. März 1851 (SBB-PK, Slg. Darmstaedter 2m 1840: Laube, Heinrich, Bl. 1–2 acc. 1930.8)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Königsberg</hi> i<ex>n</ex> Pr<ex>eußen</ex> d<ex>en</ex> 4. <hi rendition="#aq">Feb<ex>rua</ex>r</hi> 1851.</dateline>
+                    <salute rendition="#c">Geehrter <seg type="comment"><orig>Herr</orig><note xml:id="nt5t_b3p_jlb">Der aus ärmlichen Verhältnissen aus einem kleinen Ort nahe Glogau (Niederschlesien) stammende Schriftsteller, Dramatiker und Dramaturg Heinrich Laube (1806–1884) studierte ab 1826 in Halle Theologie, wurde wegen seines Engagements in der Burschenschaft aber 1827 exmatrikuliert. Kurz nach seinem Wechsel nach Breslau sattelte er auf Literaturgeschichte um und begann, erste Theaterkritiken zu schreiben. Nach seinem Studium nimmt er zunächst eine Stelle als Hauslehrer an, politisiert sich aber zunehmend. 1832 geht er nach Leipzig, wo er als Redakteur der „Zeitung für die elegante Welt“ seine Begeisterung für die Jungdeutschen deutlich zum Ausdruck bringt und Richard Wagners Aufsatz „Die Deutsche Oper“ publiziert. Seine politisch freizügigen Veröffentlichungen (1833 erscheint „Das neue Jahrhundert“ und ab 1833 unter dem Titel „Die Poeten“ der erste Teil seiner autobiographischen Romantrilogie „Das junge Europa“) bringen ihn nach seiner Rückkehr von einer 1833 mit Karl Gutzkow (1811–1878) unternommenen Italienreise erneut mit dem Gesetz in Konflikt. 1834 wird er aus Sachsen ausgewiesen und kurz darauf in Berlin verhaftet: die Anklage lautet auf burschenschaftliche Umtriebe und Anstiftung zur Unzufriedenheit gegen den Deutschen Bund. Als einer der Wortführer des „Jungen Deutschland“ werden seine Werke indiziert. <p>Erst 1837/1838 wird sein Urteil auf sieben Jahre Festungshaft gefällt, durch einflussreiche Fürsprecher aber auf 18 Monate verkürzt, die Laube zudem auf dem Gut Muskau von Hermann Fürst von Pückler-Muskau (1785–1871) zubringen konnte. 1848 wird er Korrespondent über das Vorparlament, dann Abgeordneter der Frankfurter Nationalversammlung, in der er als Monarchist und zugleich als Anhänger eines großdeutschen Nationalstaates gilt. Nach der Kaiserwahl im März 1849 legt Laube sein Mandat nieder. Im Dezember 1849 wird er (bis zum Juli 1851) provisorischer artistischer Direktor des K. K. Hof- und Nationaltheaters nächst der Burg, das unter seiner Leitung (bis 1867) eine Glanzzeit erlebt. Seine Hoffnung, dass Wagner ihm zur Intendanz am Münchener Theater verhelfen würde, erfüllt sich nicht, und so übernimmt er 1869 die Direktion des Leipziger Stadttheaters und 1872–1880 die des Wiener Stadttheaters. Laube besorgte die ersten Werkausgabe der Schriften von Franz Grillparzer (1791–1872): Sämtliche Werke in zehn Bänden (Stuttgart: Cotta 1872). </p><p>Persönlich sind sich Gregorovius und Laube nie begegnet – auch nicht als Gregorovius im Frühjahr 1852 von Königsberg über Posen reisend in Wien Halt machte und Anton Schurz besuchte (s. u.) – eine über den vorliegenden Brief hinausgehende Korrespondenz gibt es nicht. Angesichts der wenig freundlichen Kritik von Laube, der Gregorovius’ frühen Tragödie „Der Tod des Tiberius“ (1851) ohne Umschweife jede theatralische Wirkung absprach, verwundert das auch nicht.</p></note></seg>,</salute>
+                </opener>
+<p>Herr <seg type="comment"><orig><persName key="G004729">Anton Schurz</persName></orig><note xml:id="nmsd_t3p_jlb">Anton Schurz (1794–1859), ein Wiener Rechnungsbeamter, Schriftsteller und Biograph des jungdeutschen Schriftstellers Nikolaus Lenau (1802–1850), war seit 1821 mit dessen älterer Schwester Theresia (Terese) Anna, geb. Niembsch (1801–1878) verheiratet. Siehe auch den Brief von <ref target="G067718">Gregorovius an Karl Ritter von Scherzer (1821–1903), 15.12.1862</ref>.</note></seg> reichte Ihnen mein dreiactiges Trauerspiel „<bibl sameAs="G003105">Der Tod des Tiberius</bibl>“ zur geneigten Begutachtung ein; nur in der Voraussetzung, daß Sie davon Einsicht genommen u<ex>nd</ex> nicht in der kühnen Erwartung, daß Sie dasselbe angenommen haben, erlaube ich mir, Ihnen für ersteres zu danken.</p>
+<p>Ich halte es für ein Glück u<ex>nd</ex> ein angenehmes Vergnügen, Ihnen, sehr geehrter Herr, bei dieser Gelegenheit meine Hochachtung bezeugen zu können, wie auch dieses mir von Wert sein muß, Ihnen bekannt geworden zu sein, der Sie zu einem Pfleger für die Literatur berufen sind. Tiberius ist mein erster dramatischer Versuch – Erstlinge pflegt man den Göttern zu opfern. Mir scheint also, d<ex>a</ex>ß ich hier eher Ihnen, als dem Publikum gefällig gewesen bin. Haben Sie eine freundliche Stimmung für den Tiberius u<ex>nd</ex> seinen Dichter gewonnen u<ex>nd</ex> einen Augenblick übrig, so würden Sie mir nicht wenig wolthun, wenn Sie mir ein Wort darüber zukommen ließen. Hier, in Königsberg, wo <seg type="comment"><orig>das <placeName key="G067533">Land der Hyperboräer</placeName></orig><note xml:id="nad2_2jp_jlb">Ein sagenhaftes, von den antiken griechischen Geographen und Mythographen weit im Norden lokalisiertes, paradiesisches Land.</note></seg> anfängt, hätte es einen doppelten Wert. Es ist unendlich schwer, von hier aus zu leben. Steht es Ihnen nun an, so bitte ich Sie für das Stück Interesse zu nehmen u<ex>nd</ex> seine Empfehlung an einen Buchhändler möglich zu machen. Haben Sie weder ihm noch für seinen Dichter eine Zukunft zugesprochen, so wird Ihr Schweigen auch <seg type="comment"><orig>Ihr Urteil</orig><note xml:id="nnpj_hlp_jlb">Laube lehnte das Stück „Der Tod des Tiberius“ (1851) im Antwortschreiben vom 14.3.1851 mit einem ausgesprochen schlechten Gutachten unumwunden ab (SBB-PK, Slg. Darmstaedter 2m 1840: Laube, Heinrich, Bl. 1–2 acc. 1930.8). Es wurde gleichwohl im selben Jahr bei Hoffmann und Campe in Hamburg gedruckt.</note></seg> sein. </p>
+                <closer>
+                    <salute rendition="#c">Genehmigen Sie die Versicherung meiner Hochachtung</salute>
+                    <signed rendition="#right"><hi rendition="#aq">Dr. Ferd. Gregorovius</hi>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000125">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Eduard Brockhaus in Leipzig. Berlin, 1. Oktober
+                    1860</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (57)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 8°, 2 ¼ S. – 2v alR, Blatt um 90° gedreht, Eingangs- und Beantwortungsvermerk: 1860. / <hi rendition="#aq">Berlin</hi>, 1./2. <hi rendition="#aq"><del rendition="#s"><del rendition="#s">Septbr</del>.</del> Oktober</hi>/ <hi rendition="#aq">Gregorovius</hi>. / B. 14/XI.</p>
+<p><ref target="G000120" type="hasAttachment">1. Fassung der Widmung seiner „Siciliana“ (1861) für François Sabatier</ref></p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 55, Mappe 332 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die Annahme seiner Vertragsbedingungnen für den Druck des übersandten Manuskripts seines „Sicilianisches Wanderbuchs“, das unter dem Titel „Siciliana.Wanderungen in Neapel und Sicilien“ (1861) gedruckt werden soll – der Titel hat auch Titus Ullrich gefallen. Er übersendet beiliegend das Manuskript seiner Widmung des Bandes für François Sabatier. Das „demoralisirende Nichtsthun“ veranlasst ihn, schnellstmöglich über Straßburg, Lyon, Avignon und Florenz nach Rom zurückzukehren. Er bittet um strikte Einhaltung seiner Orthographie und Umsicht beim Druck der italienischen Texte im Kapitel „Die Sicilianischen Volkslieder“. Im Auftrag Hermann von Thiles bittet er um Auskunft, ob es jüngst eine Veröffentlichung der Briefe von Johann Caspar Goethe gegeben hat und um Übersendung nach Berlin. Heinrich Brockhaus und die ungarischen Verwandten von Eduard Brockhaus bittet er zu grüßen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He thanks Brockhaus for accepting his conditions for the publication of the manuscript he sent of his „Sicilianisches Wanderbuchs“, which is to be published under the title „Siciliana.Wanderungen in Neapel und Sicilien“  (1861) - Titus Ullrich also liked the title. He is enclosing the manuscript of his dedication of the volume to François Sabatier. The „demoralizing idleness“ is prompting him to return to Rome as quickly as possible via Strasbourg, Lyon, Avignon and Florence. He asks for strict adherence to his orthography and care when it comes to printing the Italian texts in the chapter „Die Sicilianischen Volkslieder“. On behalf of Hermann von Thile, he asks for information as to whether there has recently been a publication of the letters of Johann Caspar Goethe and to send them to Berlin. He asks to give his regards to Heinrich Brockhaus and the Hungarian relatives of Eduard Brockhaus. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000636">Berlin</placeName>
+                    <date when="1860-10-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G000995">Brockhaus, Eduard (1829–1914)</persName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+<correspContext>
+<ref type="prev">26. September 1860</ref>
+<ref type="next">14. November 1860</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Berlin</hi> 1. <hi rendition="#aq">Oct<ex>o</ex>b<ex>e</ex>r</hi> 1860.</dateline>
+                    <salute>Sehr verehrter Herr,</salute>
+                </opener>
+                <p>ich habe Ihren Brief richtig erhalten u<ex>nd</ex> danke Ihnen bestens für die <seg type="comment"><orig>Bewilligung meiner Wünsche</orig><note xml:id="nl5c_rjz_ylb">Gregorovius hatte in seinem Brief vom <ref target="G000123">13.9.1860</ref> an Brockhaus seine Vertragsbedingungen für den Druck des Manuskripts fomuliert, das er am 22.9.1860 an denselben übersandte (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 56). Der Band (der spätere Bd. 3 der „Wanderjahre in Italien“) wurde unter dem Titel „Siciliana. Wanderungen in Neapel und Sicilien“ (1861) veröffentlicht.</note></seg>. Leider kann ich nicht nach Leipzig, weil mir die Zeit zu kostbar geworden ist, u<ex>nd</ex> ich dies öde und <seg type="comment"><orig>demoralisirende Nichtsthun nicht länger ertragen kann. Ich bin ganz vernichtet durch die Menschenhetze, in der ich seit Wochen lebe</orig><note xml:id="nhvb_zkz_ylb">Gregorovius war vom 3.-14. August 1860 in Danzig bei seinen Brüdern Rudolf (1808–1866) und Julius Gregorovius (1818–1891) und besuchte dann bis zum 22. September 1860 Familienangehörige und Freunde in Königsberg, Insterburg, Nordenthal, Gumbinnen, Goldap und Schippenbeil; seit dem 23. September 1860 war er in Berlin (siehe RT, 19.8.-1.10.1860, S. 107–110).</note></seg>. <seg type="comment"><orig>Morgen gehe ich nach <placeName key="G000878">Strassburg</placeName>, <placeName key="G067546">Lyon</placeName>, <placeName key="G000795">Avignon</placeName>, u<ex>nd</ex> weiter nach <placeName key="G000671">Florenz</placeName></orig><note xml:id="nllv_1lz_ylb">Gregorovius reiste wie geplant am 2. Oktober 1860 über Magdeburg, Göttingen und Heidelberg nach Straßburg, Lyon, Avignon, Arles und Marseille. Am 9. Oktober schiffte er sich von Marseille nach Civitavecchia ein und war am 11. Oktober 1860 zurück in Rom (siehe RT, 30.6.-9.10.1860, S. 103–111), ohne Halt in Florenz gemacht zu haben.</note></seg>, wohin ich mir zu schreiben bitte, wenn es nötig ist (<seg type="comment"><orig><placeName key="G004673"><hi rendition="#aq">Palazzo Ungher ai Renai</hi></placeName>, <hi rendition="#aq">Firenze</hi></orig><note xml:id="nnlb_dlz_ylb">Die Florentiner Stadtvilla des befreundeten Ehepaars Caroline Ungher (1803–1877) und François Sabatier (1818–1891) in der Via del Renai.</note></seg>).</p>
+                <p>Es liegt bei <seg type="comment"><orig>die Widmung an <hi rendition="#aq"><persName key="G001565">Sabatier</persName></hi>.</orig><note xml:id="nszg_2lz_ylb">Die dann geänderte Fassung der Widmung der „Siciliana“ (1861) für François Sabatier (1818–1891), datiert August 1860, die durch eine neue, leicht veränderte Fassung ersetzt worden ist. Siehe RT, 1.10.1860, S. 110. Zurück in Rom, übersendete Gregorovius mit seinem Brief vom 19. Oktober 1860 an Brockhaus eine veränderte Fassung dieser Widmung (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 58). Die geänderte Fassung wurde seinen „Siciliana“ (1861) vorangestellt. </note></seg> Haben Sie die Güte, auf der Rückseite des <bibl sameAs="G003252">Titelblattes</bibl> bemerken zu laßen: <note place="left" hand="#addressee">H. Heinrich aufgegeben 8/X.</note> <seg type="comment"><orig>Der Autor reservirt sich das Recht der Übersetzung in fremde Sprachen</orig><note xml:id="ngg2_hlz_ylb">Dem Wunsch von Gregorovius wurde entsprochen.</note></seg>.</p>
+                <p><seg type="comment"><orig>Auf die Seiten des Textes wäre es wol angemessen die Überschrift jeder Nummer zu setzen, wie dies bei den <bibl sameAs="G003114">„Figuren“</bibl> geschehen</orig><note xml:id="ntqz_jlz_ylb">Wie in seinen „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) erhielten die „Siciliana“ (1861) Kolumnentitel.</note></seg>. </p>
+                <p>Könnten Sie mir 10 Exemplare freigeben? <seg type="comment"><orig>Den Titel „Sicilian<ex>isches</ex> Wanderbuch“</orig><note xml:id="ntgd_llz_ylb">So der Titel im Brief von Gregorovius an Brockhaus vom <ref target="G000123">13.9.1860</ref>.</note></seg> müßen wir natürlich verwerfen. Weil überhaupt dies Buch aus sehr gründlichen Studien hervorging, u<ex>nd</ex> keine bloße Touristenarbeit ist, so möchte ich einen Titel vermeiden, welcher zu belletristisch aussieht. Ich gestehe, d<ex>a</ex>ß mir’s so schwer wird, etwas passendes zu finden, wie bei unserem ersten Buche. Nachdem ich hier lange mir den Kopf zerbrochen, finde ich es am einfachsten, das Buch zu nennen: <hi rendition="#u"><hi rendition="#aq">Siciliana</hi></hi>. Wanderungen <del rendition="#s">durch</del><add place="superlinear"> in</add> <del rendition="#s">Neapel</del> <add place="intralinear"><placeName key="G000737">Neapel</placeName></add> u<ex>nd</ex> <placeName key="G000575">Sicilien</placeName>. Von F<ex>erdinand</ex> G<ex>regorovius</ex>. Diesen Titel findet auch <seg type="comment"><orig><persName key="G001663">Titus <hi rendition="#aq">Ullrich</hi></persName></orig><note xml:id="nb1t_nlz_ylb"/></seg> gut. Sie werden sich freilich daran stoßen, <pb n="1v"/>daß auch Neapel darin behandelt wird, aber dies doch nur in 1 Nummer; außerdem kann man sophistisch sagen, <seg type="comment"><orig>daß das ganze Land beide Sicilien heißt</orig><note xml:id="ndbk_plz_ylb">1816 war das Königreich Sizilien mit dem Königreich Neapel zum Königreich beider Sizilien vereinigt worden.</note></seg>, u<ex>nd</ex> endlich kommt es auf einen Titel nicht so sehr viel an. Ich würde so gar vorschlagen, nur „<hi rendition="#aq">Siciliana</hi>“ zum Titel zu nehmen, glauben Sie jedoch diesen Begriff noch bezeichnen zu müssen, so bitte ich „Wanderungen in Neapel und Sicilien“ darunter zu setzen.</p>
+                <p>Ich bitte um <seg type="comment"><orig>Beibehaltung meiner Orthographie</orig><note xml:id="nsml_qlz_ylb">Schon beim Druck seiner „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) hatte Gregorovius die vom Verlag nicht befolgte eigene Orthographie beklagt (siehe den Brief von <ref target="G000042">Gregorovius an Brockhaus, 28.11.1855</ref>) und schließlich eine, auf der letzten Seite des Bandes einzurückende, Rechtfertigung verlangt (siehe den Brief von <ref target="G000056">Gregorovius an Brockhaus, 11.12.1855</ref>). Sie war verkürzt abgedruckt worden (S. 392).</note></seg>, endlich um strenge Revision des Drucks in Bezug auf die Richtigkeit der <seg type="comment"><orig>italienischen Texte in den „Volksliedern Siciliens.“</orig><note xml:id="nblg_wlz_ylb">Im Kapitel „Die Sicilianischen Volkslieder“, S. 277–331 – der ED mit einigen Übersetzungsproben war erschienen unter dem Titel „Die sicilianischen Volkslieder. Canti Popolari Siciliani. Raccolti e illustrati da Lionardo Vigo. Catania 1857“ in: Morgenblatt für gebildete Leser. Jg. 53. Nr. 49–50. Stuttgart; München: Cotta 4. und 11.12.1859. S. 1153–1161 und 1185–1193.</note></seg></p>
+                <p><seg type="comment"><orig>Ich habe den Auftrag mich zu erkundigen, =<add place="left" hand="#addressee"><metamark target="#seg-1" function="used" rendition="#mMM"/></add>ob bei <orgName key="G067526"><hi rendition="#aq">Hirzel</hi></orgName> in <hi rendition="#aq">Leipzig</hi> <bibl sameAs="G067697">Briefe von Göthes Vater</bibl> neuerdings erschienen sind, ein Object von nur 1 Bogen</orig><note xml:id="na53_xlz_ylb">Hermann von Thile wollte wissen, ob die Briefe von Johann Caspar Goethe (1710–1782) ediert worden sind. Gemeint sind die „Zwölf Briefe von Goethe’s Eltern an Lavater: Als Manuscript für Freunde zur Feier des 4. Januar 1860“ (Berlin: Hirzel 1860). Siehe die Briefe von Gregorovius an Thile vom <ref target="G000122">9.8.1860</ref> und <ref target="G000127">16.12.1860</ref>. </note></seg>. Kein Mensch konnte mir darüber Auskunft geben. Wollten Sie die Güte haben, diese Briefe, <seg type="comment"><orig>wenn sie existiren, befördern zu laßen an den <persName key="G001644">Baron v<ex>on</ex> Thile</persName> Berlin <hi rendition="#aq">Wilhelms-Platz</hi> <hi rendition="#aq">N<ex>ummer</ex></hi> 3, u<ex>nd</ex> mir <foreign xml:lang="Lat">ad notam</foreign> zu schreiben</orig><note xml:id="nkws_bmz_ylb">Im Brief an Brockhaus vom 26.11.1860 bedankt sich Gregorovius für die Meldung der Zusendung des gewünschten Titels an Hermann von Thile (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 59).</note></seg>.</p>
+                <p>Ich empfehle mich Ihnen, verehrter Herr, u<ex>nd</ex> Ihrem <persName key="G000996">Herrn Vater</persName> auf das Angelegentlichste. Ich komme wahrscheinlich schon im folgenden Jahre wieder nach <placeName key="G000664">Deutschland</placeName>, u<ex>nd</ex> ich bin glücklich, das alte gute Vaterland wiedergesehn zu haben. Möchte es Ihnen allen, auch den liebenswürdigen <seg type="comment"><orig><persName key="G004752">Frauen</persName> <pb n="2r"/>in <placeName key="G067547">Ungarn</placeName></orig><note xml:id="nshx_dmz_ylb">Eduard Brockhaus (1829–1914) war seit 1854 mit Emilia (Milly), geb. Weisz (1836–1914) verheiratet, der Tochter des einflussreichen ungarischen Bankiers Bernat Ferencz Weisz (1800–1888).</note></seg>, doch recht wol ergehen!</p>
+                <closer>
+                    <salute xml:id="s1" next="#s2">Mit großer Hochachtung</salute>
+                    <salute xml:id="s2" prev="#s1" rendition="#c">Ihr ergebener</salute>
+                    <signed rendition="#right">FGregorovius.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

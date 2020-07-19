@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000420">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Giovanni Battista De Rossi in Rom. München, 8. März 1885 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Rom, Biblioteca Apostolica Vaticana</repository><collection>Vat. Lat. 14273, Carteggio Giovanni Battista De Rossi 1885</collection><idno>fol. 194 Nr. 175</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Die Untersuchung der Münze von Regensburg, die Teil des Münzfundes von 1883 auf dem Palatin ist, hat ergeben, dass es sich um eine Münze des schwäbischen Herzogs Liudolf handelt. Er wird sich für weitere Klärung an den Numismatiker am Berliner Münzkabinett Alfred von Sallet wenden. Das ihm von De Rossi zugesandte Exemplar von dessen Buch über die Bibliothek des Heiligen Stuhls (La Biblioteca della Sede Apostolica ed i cataloghi dei suoi manoscritti. I Gabinetti di oggetti di scienze naturali, arti ed archeologia annessi alla Biblioteca Vaticana, Rom 1884; hat er mit großem Gewinn gelesen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1885-03-08" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001085">De Rossi, Giovanni Battista (1822–1894)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">23. Februar 1885 (H: BSB München, NL Gregorovius, Gregoroviusiana 21)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<dateline rendition="#c">Monaco, 8. Marzo 85.</dateline>
+<salute rendition="#c">Gentilissimo Signor de <?oxy_comment_start author="weiger" timestamp="20190819T102552+0200" comment="Der Archäologe Giovanni Battista De Rossi (1822–1894)."?>Rossi<?oxy_comment_end?>,</salute>
+</opener>
+<p>la leggenda della moneta di Ratisbona, da Lei copiata,<?oxy_comment_start author="weiger" timestamp="20190819T102626+0200" comment="Die Münze von Regensburg ist Teil des Münzschatzes, der Ende 1883 im Atrium der Vesta auf dem Palatin gefunden worden war (Giovanni Battista De Rossi. D’un Tesoro di monete anglosassoni trovato nell’atrio delle Vestali; Estratto dalle notizie degli Scavi dei mese di Dicembre 1883, Roma 1884). Gregorovius hatte darüber und über De Rossis Beschreibung des Fundes in einem Vortrag am 3. Januar 1885 in der historischen Klasse der Akademie der Wissenschaften zu München gesprochen: „Die Münzen Alberichs, des Fürsten und Senators der Römer“ (abgedruckt in: Sitzungsberichte der Philosophisch-philologischen und historischen Classe der k. b. Akademie der Wissenschaften zu München. Jahrgang 1885. München 1886, S. 27–45: https://www.zobodat.at/pdf/Sitz-Ber-Akad-Muenchen-ph-ph-hist-Kl_1885_0027–0045.pdf) - aufgenommen in KS I, S. 155–179."?> <?oxy_comment_end?>fu sottoposta all’esame di chi in questo gabinetto pareva il più versato interprete, però senza risultati sufficiente, sola che le prime lettere x <hi rendition="#aq">LVD</hi> = vennero spiegate per <hi rendition="#aq">LIVDOLFUS</hi> ovvero <hi rendition="#aq">LUDOLFUS</hi>, figlio a Ottone I Imp<ex>eratore</ex>, duca della Svevia sin dal 948, e nell’ istesso tempo Signore della <pb n="1v"/>città di <?oxy_comment_start author="weiger" timestamp="20190819T102709+0200" comment="Liudolf (um 930–957), Sohn des römischen Kaisers Otto I. dem Großen (912–973) und aus dem Geschlecht der Liudolfinger, war von ungefähr Februar 950 bis 954 Herzog von Schwaben. Als schwäbischem Herzog oblag ihm die Verwaltung einiger Grafschaften und er ließ in mehreren Städten Münzen prägen. 951 erhob er Anspruch auf den väterlichen Thron. Die mitunter kriegerischen Auseinandersetzungen mit dem Vater, einer der Hauptaustragungsorte war Regensburg, endeten 954, als Liudolf vorgeworfen wurde, mit den eindringenden Ungarn kooperiert zu haben, er den Rückhalt des Volkes verlor und sich Otto unterwerfen musste.  "?>Ratisbona<?oxy_comment_end?>. Le altre lettere non si è riuscito spiegarle. Scriverò oggi al Coltore di <?oxy_comment_start author="weiger" timestamp="20190819T102832+0200" comment="Der Numismatiker Alfred von Sallet (1884–1897) arbeitete seit 1865 am Berliner Münzkabinett, dessen Direktor er 1884 wurde. "?>Sallet<?oxy_comment_end?>, capo del gabinetto di Berlino, e facilmente il più valente numismatico, che attualmente possegga la Germania, e sentirò poi il suo parere. La spiegazione della moneta andrebbe più spedita, se potesse esser fatta sopra un’impronta di stagniola o di cera, la quale potrò procurarmi al mio prossimo ritorno a Roma. <pb n="2r"/>Ho letto con assai profitto l’ultima sua pubblicazione sulla biblioteca della sede ap<hi rendition="#sup"><hi rendition="#u" hand=""><ex>ostoli</ex></hi><hi rendition="#u" hand=""><hi rendition="#u" hand="">c</hi>a</hi></hi>,<?oxy_comment_start author="weiger" timestamp="20190819T102933+0200" comment="Giovanni Battista De Rossi. La Biblioteca della Sede Apostolica ed i cataloghi dei suoi manoscritti. I Gabinetti di oggetti di scienze naturali, arti ed archeologia annessi alla Biblioteca Vaticana, Rom 1884. De Rossi hatte Gregorovius das Buch am 23. Februar 1885 mit der Bitte um aufmerksame Lektüre geschickt (siehe den Brief von De Rossi an Gregorovius vom 23.2.1885, BSB München, NL Gregorovius, Gregoroviusiana 21)."?> <?oxy_comment_end?>per il quale sono preziosissimo le rendo i più vivi ringraziamenti.</p>
+<p>Con la speranza di ritrovarla nel mese di Maggio nella più perfetta salute, mi protesto come sempre </p>
+                <closer>
+                    <salute rendition="#right">suo dev<hi rendition="#u" hand=""><hi rendition="#sup"><ex>otissi</ex><hi rendition="#u" hand="">mo</hi></hi></hi> ed obblig<hi rendition="#u" hand=""><hi rendition="#sup"><ex>atissi</ex><hi rendition="#u" hand="">mo</hi></hi></hi></salute>
+                    <signed rendition="#right">Ferd. Gregorovius.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

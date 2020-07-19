@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067755">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. München, 7. Februar 1875 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p> Adr.: Illustre Signor / Signor Conte Giovanni Gozzadini / Senatore del Regno / Bologna</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell’Archiginnasio</institution><collection>Ms. Gozzadini 442</collection><idno>(23)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er sendet Gozzadini einen Abdruck seiner Rezension von dessen neuem Buch „Delle torri gentilizie di Bologna e delle famiglie alle quali prima appartennero“ (1875) aus der „Allgemeinen Zeitung“ („Graf Giovanni Gozzadini: Die Thürme der Adelsgeschlechter in Bologna“). Für den Erhalt von zwei Bänden der „Statuti di Bologna dall’anno 1245 all’anno 1267“ (1869–1877) dankt er Gozzadini und dem Herausgeber Luigi Frati. Auf der Fahrt nach Rom im März 1875 will er die Gozzadini in Bologna besuchen. Er steht mit Cotta in Verhandlung über die Publikation eines Hohenstaufen-Albums. Grüße an Maria Teresa Serego Alighieri Gozzadini.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1875-02-07" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni conte (1810–1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Monaco, 7. Febbraio 1875.</dateline>
+                    <salute rendition="#c">Gentilissimo signor Conte,</salute>
+                </opener>
+<p>il suo prezioso dono mi raggiunse quì, or due settimane fa. Se finora ho tardato di esprimerle la gratitudine e la gioja, che provai nel ricevere questo <bibl corresp="ed_gdb_52b_xkb">magnifico volume</bibl> e nel perleggerne il contenuto, non voglia per ciò credere, che questa tardanza sia causata da negligenza, o da pigrizia. Piuttosto desideravo di accompagnare la mia lettera con un articoletto, scritto da me sul suo libro, e ormai <bibl corresp="G003995 G003996">stampato nella Gazzetta Universale di Augsburg</bibl>. Lo attendo per questa sera, e all’istante glielo spedirò come tenue testimonianza del pregio, che al pari di me, ogni scienziato in <placeName key="G000664">Germania</placeName> <seg type="comment"><orig>attribuirà al suo insigne lavoro</orig><note xml:id="nl1p_z15_zlb">Siehe die dritte, verbesserte Auflage vom 5. Band der „Geschichte der Stadt Rom im Mittelalter“ (1878), S. 306. </note></seg>. Esso per certo è una splendida foglia di più annessa a quell’alloro, che i Bolognesi non mancheranno a tributare alla memoria di un cittadino par suo.</p>
+<p>Questa mano ebbi pure due fascicoli degli <bibl sameAs="G004305">Statuti di Bologna</bibl>, pubblicati dal chiarissimo <persName key="G001136">signor Frati</persName>, per cui ringrazio tanto la di lei gentilezza, quanto <pb n="2"/><seg type="comment"><orig>lo stesso professore Frati</orig><note xml:id="nqkp_bb5_zlb">Auf die vom Leiter der Bologneser Biblioteca Comunale dell’Archiginnasio, Luigi Frati (1815–1902), 1869–1877 herausgegebenen „Statuti di Bologna dall’anno 1245 all’anno 1267“ (Bologna: Regia Topografia, 3 Bde.) hatte Gregorovius bereits vor Veröffentlichung Zugriff, siehe seine „Geschichte der Stadt Rom im Mittelalter“ (1865), S. 284. Siehe dazu auch die Briefe von Gregorovius an Luigi Frati vom 4.10.1863 und an Giovanni Gozzadini vom 26.6.1873.</note></seg>. </p>
+<p>Spero di poter ritrovarmi in Bologna nella metà del Marzo avvenire, <seg type="comment"><orig>via faccendo per Roma</orig><note xml:id="nblt_cb5_zlb">Gregorovius reiste am 2. März 1875 von München über Verona, Brescia, Cremona, Pavia, Mailand, Monza, Parma, Modena nach Bologna, wo er am 17. März eintraf: „Dort machten wir den Gozzadini Besuch, welche in ihrem Palast waren. Ich suchte sodann Frati im Archiginnasio auf und ging mit Foucard zum Buchhändler Zanichelli, wo ich mehrere Herren traf, welche mir für «Lucrezia» dankten.“ (RT, 31.3.1875, S. 346–348). Von dort reiste er nach Florenz und schließlich nach Rom, wo er am 21. April eintraf (siehe RT, S. 348–349).</note></seg>: allora avrò il bene di risalutare lei, e la nobilissima signora Contessa. Farò una visita a <placeName key="G000763">Roma</placeName>, e fors’anche qualche altro giro nell’<placeName key="G000690">Italia</placeName> coll’intendimento di studiare alcune località, che si riferiscono alla storia degli <persName key="G067884">Hohenstauffen</persName>. Almeno sto in trattativa coll’<persName key="G001053">editore Cotta</persName> in <placeName key="G000879">Stuttgard</placeName> <seg type="comment"><orig>per un disegno che spero riuscirà a realizzarsi</orig><note xml:id="nhx3_2b5_zlb">„Es war meine Absicht, diesmal einige lombardische Städte kennenzulernen, die ich bisher, trotz meines langen Lebens in Italien, noch nicht besucht hatte. Dies wollte ich auch wegen des projektierten Hohenstaufen-Albums tun, an dessen Durchführung ich noch glaubte.“ (RT, 31.3.1875, S. 346). Von Cotta wurde der, auf der Gregorovius’ Brief vom 24.9.1874 beigelegten 5-seitigen Liste beruhende Plan mit den einzelnen „Illustrationen zu den Geschichtlichen Denkmälern der Hohenstaufen in Italien“ von Barbarossa bis Conradin (DLA Marbach, Cotta-Archiv, Cotta-Briefe, 208 und 208a – ohne die Beilagen gedruckt in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 367–368) schließlich aus Kostengründen abgelehnt; die für das Album vorgesehenen Texte wurden von Gregorovius im 5. Band der „Wanderjahre in Italien“ (1877) zusammengefasst. Im Vorwort dieses Bandes heißt es dazu: „Ich wollte nämlich ein Album historischer Landschaften und Monumente in Italien herausgeben, bezüglich auf die Geschichte der Hohenstaufen. Zu diesem Zweck hatte ich mich mit meinem Freunde Karl Lindemann vereinigt, welcher die betreffenden Zeichnungen zu liefern übernommen hatte, und von seiner bewährten Meisterhand konnte nur etwas wirklich Schönes und Künstlerisches erwartet werden. Diesen Plan hindert noch die Kostspieligkeit des Unternehmens, oder der Druck, welcher augenblicklich auf allen größeren Unternehmungen auch solcher Natur lastet. Ich glaube, daß dies zu bedauern ist. Wenigstens sollten wir Deutsche ein Werk dieser Art besitzen.“ (S. V-VI)</note></seg>, cioè per un’opera nazionale, la quale dovrebbe raccogliere in sè i monumenti di storia della cara Sveva, sparsi in Italia. </p>
+<p>Intanto mi raccomando alla benevolenza di Lor Signorie, di cui colla più affettuosa venerazione sono</p>
+                <closer>
+                    <salute rendition="#right">servitor devotissimo</salute>
+                    <signed rendition="#right">Ferd. Gregorovius </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

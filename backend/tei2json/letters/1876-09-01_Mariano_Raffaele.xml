@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000205">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Raffaele Mariano in Baden-Baden. München, 1.
+                    September 1876</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            <respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt></titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S. – 2v, Blatt um 180 Grad gedreht, Adr.: „Herrn / Mariano“. </p>
+<p>Beischluss zu einem Brief von Gregorovius an Adelheid Grunelius</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Alessandro Savorelli: Dal carteggio di Raffaele Mariano. In: Giornale critico della filosofia italiana. Jg. 72 (74). Ser. 6. Bd. 13. Florenz 1993. S. 212–270 (Auszüge)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Seinen Brief legt er seinem Schreiben an Adelheid Grunelius bei. Seine Geschwister Julius und Ottilie Elgnowski mit Sohn Hermann haben ihn für eine Reise in die Salzburger Berge in Traunstein abgeholt. Zurück in München hat er Marianos Schrift „L’individuo e lo stato nel rapporto economico e sociale“ (1876) vorgefunden. Er ist gespannt, ob Mariano nun eine Arbeit zu religiös-politischen Fragen in Deutschland in Angriff nimmt und würde sich freuen, wenn er auf seiem Rückweg nach Italien in München Halt macht. Grüße an Augusto Vera und Domenico Guglielmi. Karl Lindemann-Frommel ist in Porto d’Anzio, sein Sohn Manfred zieht im September nach München.</p>
+<p xml:lang="en"/>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1876-09-01" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000623">Baden-Baden</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">München, 1. Sept<ex>ember</ex> 1876.</dateline>
+                    <salute>Lieber Freund,</salute>
+                </opener>
+                <p>ich lege einem Briefe an <seg type="comment"><orig>Frau <hi rendition="#aq"><persName key="G001215">Grunelius</persName></hi></orig><note xml:id="nszr_23w_zlb">Die in Baden-Baden wohnhafte Adelheid Grunelius, geb. Fecht (1813–1887), Witwe des Frankfurter Bankiers Moritz Eduard Grunelius (1803–1846) und Mutter von Wilhelmine Tachard-Grunelius (1836–1927), die seit 1851 immer wieder für längere Aufenthalte nach Rom gekommen war. Gregorovius scheint sie erst bei einem Romaufenthalt von November 1861 bis Mai 1862 kennengelernt zu haben; es entwickelte sich schnell ein freundschaftliches Verhältnis. Später besuchte Gregorovius sie des Öfteren in der Villa Grunelius in Baden-Baden.</note></seg> diese Zeilen bei, welche Ihnen wenigstens meine u<ex>nd</ex> der meinigen Grüße bringen sollen. Meine <persName key="G001203"><persName key="G001111">Geschwister</persName></persName> u<ex>nd</ex> <persName key="G001109">Neffe</persName> holten mich in <placeName key="G000888">Traunstein</placeName> ab; wir machten zusammen eine schöne Reise in das Gebirge von <placeName key="G000867">Salzburg</placeName>, blieben noch ein paar <supplied cert="high">Tage</supplied> in Traunstein u<ex>nd</ex> kamen dann <pb n="1v"/>gemeinschaftlich hierher zurück vor wenigen Tagen. Dort fand ich auch Ihr <bibl sameAs="ed_ryn_pjn_plb">Buch</bibl>, zu dem ich Ihnen herzlich gratulire. Alles, was aus Ihrer Feder kommt kann mich nur erfreuen; denn wäre es auch nicht der Anteil des Freundes, der Ihnen stets gesichert ist, so enthalten Ihre Schriften immer so viel Gedankenreichtum u<ex>nd</ex> Adel des Herzens, daß sie einen Wollaut im Lesen erwirken müssen. Ich <pb n="2r"/>bin gespannt darauf, zu hören, ob Sie nun an einer Arbeit über die religiös-politischen Fragen in <placeName key="G000664">Deutschl<ex>and</ex></placeName> beschäftigt sind.</p>
+<p>Wir würden trauern, wenn Sie nicht München auf der Rückfahrt berührten – aber übelnehmen würden wir Ihnen das nicht, da die <placeName key="G000870">Schweiz</placeName> vor Ihnen liegt. Unsre bescheidene Wohnung würden Sie sehr verbessert finden.</p>
+                <p>Bitte, grüßen Sie <persName key="G001675">Vera</persName> u<ex>nd</ex> den guten <persName key="G001221">Guglielmi</persName>, u<ex>nd</ex> schreiben Sie bald.</p>
+                <closer>
+                    <salute>Tausend Grüße von Ihrem</salute>
+                    <signed rendition="#c">FGr. <lb/><note type="postscript"><persName key="G001375">Lindemann</persName> ist in <placeName key="G000756">Porto d’Anzio</placeName>, u<ex>nd</ex> <seg type="comment"><orig><persName key="G001376">Manfredi</persName> siedelt Ende Sept<ex>ember</ex> nach München über</orig><note xml:id="ner4_f3w_zlb">Manfred Lindemann-Frommel (1852–1939) studierte zunächst Architektur in Karlsruhe und war anschließend von 1875 bis 1883 Schüler des Landschaftsmalers Adolf Heinrich Lier (1826–1882) in München.</note></seg>.</note></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

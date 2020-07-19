@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000329">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius und Auguste Lindemann-Frommel an Malwida von Meysenbug in Paris. Rom, 6. Februar 1870</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><collection>116/107 (14)</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ½ +1 S. – 1r +2r aoR geprägt: ROMA</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 5 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 86, Mappe 2 (nach D)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Berta Schleicher: Ferdinand Gregorovius und Malwida von Meysenbug. Unveröffentlichte Briefe. In: Der Türmer. Monatsschrift für Gemüt und Geist. Jg. 25. H. 5. Stuttgart 1923. S. 316–317 (ohne die Nachschrift von Auguste Lindemann-Frommel)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Der plötzliche Tod Alexander Herzen in Paris hat ihn sehr betroffen. Er bedauert jetzt umso mehr, dass er den „geistvollen Kämpfer der Zivilisation“ nicht persönlich kennengelernt hat. Seinen Kindern Natalie und Olga mag es ein Trost sein, dass er das „Gewißen seiner Nation gewesen ist“. Er hat Sorge um die erkrankte Natalie Herzen. – Auguste Lindemann-Frommel will wissen, was ihre weiteren Pläne sind und ob die zweite Ehefrau von Alexander Herzen, Natalie Ogarev, nach seinem Tod das Sorgerecht für dessen Kinder hat.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001374">Lindemann-Frommel, Auguste (1826–1876)</persName>
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1870-02-06" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001418">Meysenbug, Malwida von (1816–1903)</persName>
+<placeName key="G000749">Paris</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline>6. <hi rendition="#aq">Feb<ex>rua</ex>r</hi> 1870.</dateline>
+                    <salute>Liebe Freundin,</salute>
+                </opener>
+<p>erst heute erhalte ich Ihre <?oxy_comment_start author="Angela Steinsiek" timestamp="20190214T153124+0100" comment="Malwida von Meysenbug war anlässlich des Todes von Alexander Herzen (*1812) am 21. Januar 1870 nach Paris gereist."?>Adresse<?oxy_comment_end?>, u<ex>nd</ex> sende diese Zeilen an Sie, welche schon längst hätten abgehen sollen. Möchten sie in Ihre Hände kommen, um Ihnen zu sagen, daß ich über den plötzlichen Tod des geistvollen <persName key="G001266">Kämpfers für die Civilisation</persName> schmerzlich betroffen bin.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190214T153143+0100" comment="Der russische Philosoph, Schriftsteller und Publizist Alexander Herzen (*1812) war 1869 nach Paris gezogen. Hier starb er am 21. Januar 1870 in Folge einer Lungenentzündung. Er war der Vater der Pflegetöchter von Malwida von Meysenbug, Olga (1850–1953) und Natalie Herzen (1844–1936)."?> <?oxy_comment_end?>Sagen Sie seinen Kindern <persName key="G001267">Natalie</persName> u<ex>nd</ex> <persName key="G001268">Olga</persName> dies, u<ex>nd</ex> daß ich täglich ihrer gedenke und ihnen die herzlichsten Wünsche für die fernere Gestaltung ihres Lebens ausdrücke, von der ich keine Vorstellung habe; denn ich weiß nicht, ob Sie diese Mädchen noch ferner begleiten werden, oder ob der Tod dies Ihr langes Zusammensein auch gestört hat.</p>
+<p>Ich bedaure es jetzt wahrhaft, daß ich kein persönliches Bild von <hi rendition="#aq">Herzen</hi> habe, denn ich traf ja im Leben nicht mit ihm zusammen. Er ist für mich nur eine Gestalt der modernen Zeit, gleich andern Aposteln der Freiheit, die ich nicht sah, wie <persName key="G001421"><hi rendition="#aq">John Stuart <?oxy_comment_start author="Angela Steinsiek" timestamp="20190214T153202+0100" comment="Der britische Philosoph, Politiker und Ökonom John Stuart Mill (1806–1873) wurde durch den von ihm vertrenene Freiheitsbegriff berühmt, wonach Staat und Gesellschatft nur dann die Freiheit des Individuums eingereifen dürfen, um Schaden von anderen abzuwenden Zusammen mit seiner späteren Ehefrau Harriet Taylor, geb. Mill (1807–1858) vetrat der die Ansicht, dass Freiheitsrechte unabhängig vom Geschlecht zu gelten haben.Mill war einer der einflussreichsten liberalen Denker des 19. Jahrhunderts."?>Mill<?oxy_comment_end?></hi></persName>. Ich las nicht einmal alle seine Schriften, doch <pb n="1v"/>genug davon, um die Macht seiner Persönlichkeit zu empfinden, in welcher doch, wie es mir scheint, das glühende u<ex>nd</ex> für alles Große begeisterte Herz das wahre Princip gewesen ist, aus welchem sich die Welt seiner politischen u<ex>nd</ex> socialen Ideen erhoben hat. Es war ihm gegeben aus der Fremde her, vom Exil aus, auf sein ganzes <placeName key="G000592">Vaterland</placeName> mächtig einzuwirken, ja fast mächtiger, als wenn er als Staatsmann in normalen Verhältnißen seine Nation in ihrem eignen Centrum hätte lenken dürfen.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190214T153236+0100" comment="Alexander Herzen hatte Russland 1847 mit seiner Familie verlassen. Nach wechselnden Aufenthaltsorten in Deutschland, Belgien, Paris und Italien, zog er 1852 nach London. Von dort aus setzte er sich aktiv für die demokratischen Bewegungen Russlands und Polens ein. 1853 gründete er die „Freie Russische Presse“, in der russische Schriften ohne Zensur gedruckt wurden. Ab 1855 war er der Herausgeber des Almanachs „Poljarnaja Zvezda“ (Der Polarstern), 1857 gründete er die Zeitschrift „Kolokol“ (Die Glocke), die bis 1867 erschien. Seit 1863 lebte Herzen vorwiegend in Genf oder Brüssel, 1869 war er nach Paris gezogen. Sein Einfluss auf die russische Öffentlichkeit war gesunken, seit er 1863 Position für den Aufstand Polens ergriffen hatte."?> <?oxy_comment_end?>Schon dies beweist die ganz ungewöhnliche Kraft, welche diesem Geiste zu Gebote stand. Ich denke, daß er durch ein paar Decennien eigentlich das Gewißen seiner Nation gewesen ist. Wenn die Kinder um ihn bitter weinen, so sollen sie wol bedenken, daß ihr Vater als moralische Kraft nicht gestorben ist, sondern in der Geschichte seines Vaterlandes weiter wirkt. <pb n="2r"/>Ein anderes ist aber der persönliche Schmerz; er gehört den Regionen der Religion an, u<ex>nd</ex> diese selbst wird jetzt auch ihre Rechte geltend machen; denn sie ist ja nicht ein Wesen, das nur erscheint, wenn Kirchenglocken läuten u<ex>nd</ex> der Weihrauch zu duften beginnt. Schreiben Sie mir etwas über die Kinder – ich weiß von der Krankheit der guten Freundin Natalie – beruhigen Sie uns, die wir Ihrer aller in treuer Freundschaft gedenken, durch ein paar Zeilen, u<ex>nd</ex> schreiben Sie auch von sich u<ex>nd</ex> Ihren Entschlüßen für diesen abbröckelnden Rest des Lebens, denn das ist er wol für uns gleiche Altersgenossen.</p>
+                <closer>
+                    <salute>Frau Lindemann schreibt hinzu. Alles Gute, in treuem Gedenken</salute>
+                    <signed rendition="#right">Ferd <hi rendition="#aq">Gregorovius</hi>.</signed>
+                </closer>
+            </div><pb n="2v"/>
+<div type="writingSession" n="2">
+<opener>
+<salute>Liebe Freundin</salute>
+</opener>
+<p>Wenigstens einen herzlichen Gruß lassen Sie mich beifügen zu Gregorovius Zeilen; Ihnen zu sagen, wie Ihr Leid uns nahe geht. Wie Schreckliches hat sich in Masse über Ihnen aufgetürmt. – Wie haben Sie das Schwere ertragen, wie Ihre Lieblinge? –</p>
+<p>Was werden Sie beginnen, wo sich niederlassen, der Fragen sind so viele die das Herz stellt. Sagen Sie uns ein Wort der Beruhigung auch ob <persName key="G001458">Fr<ex>au</ex> <hi rendition="#aq">Ogar</hi>-H<ex>erzen</ex></persName><?oxy_comment_start author="Angela Steinsiek" timestamp="20190214T153322+0100" comment="In zweiter Ehe war Alexander Herzen seit 1857 mit Natalie Ogarev, geb. Tuchkov (1829–1913) verheiratet. Seine Kinder Alexander (Sascha, 1839–1906), Nicolas (Kolja, 1843–1851), Natalie (Tata, 1844–1936) und Olga (1850–1953) stammen aus seiner ersten Ehe mit Natalia Alexandrowna, geb. Sacharjina (1817–1852). "?> <?oxy_comment_end?>nun über <hi rendition="#aq">Olga</hi> irgend eine Macht; ich denke das wäre für das arme Kind wohl das Schwerste. Ist <hi rendition="#aq"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190214T153335+0100" comment="Natalie Herzen."?>Tata<?oxy_comment_end?></hi> völlig genesen, war <hi rendition="#aq">Herzen</hi> bei Bewußtsein, waren Sie um ihn in den letzten Stunden, in denen das Ideal „allein“ wohl Keinem ausreicht. Oh wie wünsche ich die armen Verwaisten hätten in diesen Augenblicken einen festeren Halt u<ex>n</ex>d Waffe gegen den überwältigenden Schmerz</p>
+<p xml:id="p3" next="#p4">Oft frage ich mich woher es kömmt, daß wir aus unserem Irren oder unsern kleinen Enttäuschungen so trostlose Spheren schaffen, denen wir das stolze Wort „Erkenntniß“ vorsetzen. Wir wollen Gott umstoßen </p>
+<p xml:id="p4" prev="#p3" place="right" rendition="#rotate90" next="#p5">u<ex>n</ex>d haben nicht die Macht einen Lebenstag zu verlängern</p>
+<p xml:id="p5" prev="#p4" place="mTop" rendition="#rotate180">doch nur keine solche Fragen, nur die Bitte um <unclear reason="illegible" cert="high">Nach</unclear><ex>richt</ex> sobald Ihnen möglich. In herzlichster Liebe grüßt Sie u<ex>nd</ex> d<ex>ie</ex> Kinder</p>
+<closer place="mTop" rendition="#rotate180"> 
+    <signed rendition="#right">Ihre A.L</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

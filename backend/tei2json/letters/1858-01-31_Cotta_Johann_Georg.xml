@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000021">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Johann Georg Freiherr Cotta von Cottendorf in
+                    Stuttgart. Rom, 31. Januar 1858</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (13) </idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 S. </p>
+<p>Brief von Gustav Kolb an Gregorovius</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Die „Allgemeine Zeitung“ hat von seinem Aufsatz „Aus der Campagna von Rom. Subiaco, das älteste Benedictinerkloster des Abendlandes, seine Geschichte und seine Altertümer“ nach langer Wartezeit nur die ersten Folge gedruckt. Der Redakteur Gustav Kolb hat ihm sein Manuskript mit dem beiliegenden Begleitschreiben nun zurückgesandt. Er will bei einem solchen Umgang mit ihm an die „Allgemeine Zeitung“ keine Beiträge mehr liefern, ist aber bereit, für andere Cotta-Blätter zu schreiben.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">The „Allgemeine Zeitung“ printed only the first episode of his essay „Aus der Campagna von Rom. Subiaco, das älteste Benedictinerkloster des Abendlandes, seine Geschichte und seine Altertümer“, after a long time. The editor Gustav Kolb has now returned his manuscript to him with the enclosed accompanying letter. He does not want to provide any more articles for the „Allgemeine Zeitung“, if he is treated in this way, but he is prepared to write for other Cotta-papers. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1858-01-31" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001055">Cotta von Cottendorf, Johann Georg
+                        (1796–1863)</persName>
+                    <placeName key="G000879">Stuttgart</placeName>
+                </correspAction>
+<correspContext>
+<ref type="prev">7. Januar 1858</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi>. 31. <hi rendition="#aq">Januar</hi> 1858.</dateline>
+                    <salute rendition="#c">Hochgeehrter Herr Baron,</salute>
+                </opener>
+                <p>Ihr gefälliges Schreiben nebst Wechsel auf 100 fl<ex>orins</ex> habe ich richtig erhalten, u<ex>nd</ex> ich sage Ihnen meinen aufrichtigen Dank für die <seg type="comment"><orig>Bereitwilligkeit dieses Vorschußes</orig><note xml:id="nk43_rnc_tlb">In seinem Brief an Cotta vom 30.12.1857 hatte Gregorovius um einen Vorschuss für seinen Aufsatz „Aus der Campagna von Rom. Subiaco, das älteste Benedictinerkloster des Abendlandes, seine Geschichte und seine Altertümer“ gebeten, der seit seiner Einsendung im August 1857 in der „Allgemeinen Zeitung“ noch immer nicht gedruckt worden war (Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 217–218).</note></seg>.</p>
+                <p>Ich zögerte, den Empfang anzuzeigen, weil es mir schwer fiel, Sie gleichzeitig mit einem Schreiben zu belästigen, welches wiederum meine Beziehungen zur <seg type="comment"><orig>p</orig><note xml:id="nbf4_5nc_tlb">Gemeint ist wohl „pp“ für praemissis praemittendis, dt.: der gebührende Titel sei vorausgeschickt oder „pp“ für per procura, dt.: in Vollmacht.</note></seg> Redaction der <orgName key="G000462">A<ex>llgemeinen</ex> Z<ex>eitung</ex></orgName> betrifft. Ich erlaube mir, den Brief des <persName key="G001344"><seg type="comment"><orig>Herrn <hi rendition="#aq">Kolb</hi></orig><note xml:id="npvs_wnc_tlb">Gustav Kolb (1798–1865) war seit 1828 Redakteur und 1837–1865 Redaktionsleiter der „Allgemeinen Zeitung“.</note></seg></persName> beizulegen, den ich nur im kleinsten Teile entziffern konnte.</p>
+                <p>Nachdem mich die p Redaction ein Vierteljahr lang ohne Nachricht ließ, <bibl sameAs="G003859"><seg type="comment"><orig>druckte sie eine Nummer meines Artikels</orig><note xml:id="nlzt_ync_tlb">Der Abruck seines Artikels „Aus der Campagna von Rom. Subiaco, das älteste Benedictinerkloster des Abendlandes, seine Geschichte und seine Altertümer“ war nach der ersten Folge eingestellt worden (Beilage zu Nr. 345 der AZ. Augsburg: Cotta 11.12.1857. S. 5509–5510). Siehe den Brief von <ref target="G000036">Gregorovius an Cotta, 17.11.1857</ref>. – Der vollständige Druck erschien unter diesem Titel in: Deutsches Museum. Jg. 8. Bd. 2. Nr. 27–29. Leipzig: Brockhaus 1., 8., 15.7.1858. S. 1–10, S. 60–67 und S. 89–99.</note></seg></bibl>, u<ex>nd</ex> schickte mir 3 Wochen später das Manuscript zurück. Wenn der Schriftsteller eine Arbeit anbietet, erwartet er entweder die absolute Ablehnung, oder Annahme, u<ex>nd</ex> demzufolge den Abdruck; u<ex>nd</ex> er glaubt mit Recht, daß der Redacteur das Manuscript zuvor geprüft habe, ehe er es abdruckt; indem er den Druck beginnt erklärt er dadurch das Manuscript in Besitz genommen zu haben. Es scheint mir nicht, daß die Redaction zuvor den Artikel <pb n="1v"/>angesehn habe, u<ex>nd</ex> sie hat demnach mich einem Verfahren ausgesetzt, das weder vor dem forum literarischen Verkehrs, noch vor dem jedes gerechten Urteils gebilligt werden kann. Ich spreche nicht von dem materiellen Nachteil, der mir daraus erwachsen ist, noch weiter von der Kränkung u<ex>nd</ex> Mißachtung, welche mir die Redaction bezeugt hat, ohne daß sie mich des leisesten Verstoßes der Schicklichkeit gegen sie beschuldigen kann. Aber ich <add place="superlinear">bin</add> gezwungen, geehrter Herr Baron, Ihnen von diesem Falle Mitteilung zu machen, weil ich unter diesen Verhältnißen nicht mehr die Möglichkeit einsehe, für Ihr geschätztes u<ex>nd</ex> verdienstvolles Blatt, deßen Beilage eine wahre Zierde unserer Literatur im Auslande wie Inlande ist, noch einen Beitrag zu liefern.</p>
+                <p>Ich werde indeß Ihren übrigen Journalen gern zu Diensten stehn, so bald ich es kann, u<ex>nd</ex> werde dann Gelegenheit finden, den Vorschuß von 100 fl<ex>orins</ex> abzutragen.</p>
+                <closer>
+<salute xml:id="s1" next="#s2" rendition="#c">Mit einer großen u<ex>nd</ex> aufrichtigen Hochachtung <lb/>Herr Baron,</salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">Ihr stets ergebener</salute>
+<signed rendition="#right">FGregorovius.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000197">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Rom. München, 7. Februar 1876</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt></titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Der Artikel über die Widerrufung seiner Ernennung zum Ehrenbürger von Andria in „Il Fanfulla“ (1876) ist weniger schlimm als erwartet. Seine auf Initiative von Domenico Guglielmi erfolgte Ernennung zum Ehrenbürger, die nach Erscheinen von Guglielmis Übersetzung seines kritischen Artikels „Andria“ (1875) im „Costitutionale“ (1876) rückgängig gemacht worden war, hatte auch Mariano nicht mehr stoppen können. Er bittet, weitere Artikel der italienischen Presse zu sammeln und sich um Guglielmi zu kümmern. In Kürze erscheinen Briefe Marianos in „Il Diritto“. Gregorovius wird etwa am 10. März 1875 in Rom eintreffen. Auguste Lindemann-Frommel liegt im Sterben. Er übersendet ihm bald seinen Vortrag „Die Historischen Studien im alten Calabrien, der heutigen Terra d’Otranto“ (1875). Sein Vortrag „Das Römische Staatsarchiv“ (1876) ist im Druck. </p>
+<p xml:lang="en"/>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1876-02-07" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Monaco, 7. Febbraio 1876</dateline>
+                    <salute rendition="#c">Caro amico Mariano,</salute>
+                </opener>
+<p>ho avuto <seg type="comment"><orig>l’articolo del <hi rendition="#aq"><orgName key="G000519">Fanfulla</orgName></hi>, e lo trovo meno brutto di quel me l’avevo aspettato</orig><note xml:id="nkvp_xm5_zlb">Die Tageszeitung „Il Fanfulla“, die 1870 in Florenz gegründet und von 1871 bis 1899 in Rom herausgegeben wurde. Der Artikel thematisiert die durch Domenico Guglielmi forcierte Ernennung Gregorovius’ zum Ehrenbürger von Andria (vmtl. Januar 1876) sowie die nur kurze Zeit später erfolgende Rücknahme der Ehrung, nachdem Guglielmis italienisch Übersetzung von „Andria“ (1875, „Allgemeine Zeitung“) im „Costituzionale“ zu Trani erschienen war; Gregorovius hatte das Andria der Gegenwart in seinem Artikel u.a. als schmutzig und gesellschaftlich ausgestorben bezeichnet. Die italienische Tageszeitung „Il Fanfulla“ berichtete über den Umstand, welchen in der Folge auch die „Allgemeine Zeitung“ thematisierte (27.1.1876, Nr. 27, S. 383 sowie den Brief von Gregorovius an Raffaele Mariano vom 27.1.1876).</note></seg>. Nemmeno vi scorgo le menzogne, cui nell’ultima sua accennò, se ne tolgo quella inesattezza di affermare, esser stato tramandata a me copia della malaugurata deliberazione degli Andriesi. Quel che m’affligge profondamente si è soltanto il fatto deplorevole, che io, ospite per così dire di quella <placeName key="ed_ujj_sgh_zkb">città</placeName>, sono stato la causa di un’inconvenienza, di cui Dio sa! quante conseguenze peseranno sulle persone, che mi accolsero con tante dimostrazioni di amicizia, e che alla fine voltero tributarmi il massimo onore. Abbenchè io <add place="superlinear">per ora</add> non possa formarmi un giudizio esatto sul processo di questi errori, tuttavia mi persuado, che la cosa è proceduta in quello stesso modo, che cercai di prevenire mediante il suo <pb n="1v"/>intervento. Credo dunque che <seg type="comment"><orig>la sua lettera</orig><note xml:id="ntln_zm5_zlb">Gregorovius versuchte seine Ernennung zum Ehrenbürger von Andria im Vorfeld mithilfe von Raffaele Mariano zu verhindern, welcher in der Sache an Domenico Guglielmi schrieb (siehe die Briefe von Gregorovius an Raffaele Mariano, 23.11. und 3.12.1875).</note></seg> non era giunta più per tempo, onde distogliere il <persName key="G001221">Guglielmi</persName> dal suo intendimento. Avvi dunque un eccesso di sentimento da tutte e due le parti, da quella del G<ex>uglielmi</ex> in prima iniziativa, poi da quei signori del municipio, che si accesero alle persuasioni del nostro amico, senza prima esaminare il mio scritto. E questo per vero è tale, da offendere il patriotismo municipale di Andria, giacchè vi ho dipinto lo stato attuale della città in colori naturali, facendo anche le meraviglie di quel difetto di civiltà, che vi avevamo osservato senza occultarne la sorpresa <add place="superlinear">nostra</add> agli amici ospitali. Ma che altre grida di indignazione avrei eccitato in Andria, ove avessi rivelato anche quella miseria, <seg type="comment"><orig>di cui fummo testimoni nel 1874</orig><note xml:id="njfm_1n5_zlb">Am 11. Mai 1875 reiste Gregorovius gemeinsam mit Raffaele Mariano von Benevent nach Apulien; Stationen der Reise waren u.a. Trani und Andria, wo sie mit Domenico Guglielmi zusammentrafen. Am 21. Mai kehrten Gregorovius und Mariano nach Rom zurück (siehe RT, 23.5.1875, S. 351–355). </note></seg>, in compagnia del mio <persName key="G001203">fratello</persName>. Appunto per risparmiarne la vergogna agli Andriesi, me ne sono taciuto interamente. Che dirò di più? <pb n="2r"/>Non voglio biasimare alcuno; voglio piuttosto dare il torto a me solo, <seg type="comment"><orig>per aver discorso delle cose attuali di Andria, invece di attenermi strettamente alle cose della storia di un tempo</orig><note xml:id="nutj_bn5_zlb">Die „Allgemeine Zeitung“ vom 27. Januar 1876 (Nr. 27, S. 383) kommt zu einem ähnlichen Befund: „Das mag ihm [Gregorovius] zur Lehre dienen, wenn er ein andermal in eine italienische Provincialstadt geräth, sich lieber ans Alterthum allein zu halten und die Gegenwart in Ruhe zu lassen“ (siehe https://digipress.digitale-sammlungen.de/view/bsb00085351_00381_u001/1?cq=)</note></seg>. Dirò che un bene si è tramutato in male, e un sentimento generoso in carricatura, e anzi tutto rimpiango ora di trovarmi quasi spinto al punto, dove nei sentimenti di persone benevoli e amabili verso di me avrò da far figura di uno che abbia sturbato la pace di una cittadinanza ospitale. Vorrei voluto spendere non sò quanto, se mi fosse risparmiata questa disgrazia, che d’ora in poi getterà un ombra nera sui ricordi del <seg type="comment"><orig>nostro viaggio per quelle parti dell’<placeName key="G000817">Apulia</placeName></orig><note xml:id="nj5m_dn5_zlb">Am 11. Mai 1875 reiste Gregorovius gemeinsam mit Raffaele Mariano von Benevent nach Apulien; Stationen der Reise waren u. a. Trani und Andria, wo sie mit Domenico Guglielmi zusammentrafen. Am 21. Mai 1875 kehrten Gregorovius und Mariano nach Rom zurück (siehe RT, 23.5.1875, S. 351–355). </note></seg>.</p>
+<p>Approvo di tutto cuore quel che lei intanto ha creduto di dover fare per mantenere il decoro delle persone che vi sono interessato, e va senza dire, che lo scritto del G<ex>uglielmi</ex>, di cui mi parla nella sua lettera, non era <add place="superlinear">punto</add> cosa a proposito. Il <placeName key="ediarum_shy_xdx_qlb">municipio di A<ex>ndria</ex></placeName>, anche forse per esser interpellato da qualche magistrato superiore, avrà da spiegarsi, come m’immagino, e voglio sperare che riuscirà di liberarsi dal biasimo, senza farne troppo chiasso e con risparmiare la mia persona: che quantunque per il mio proprio decoro io nulla abbia da temere dalla pubblicità, pur mi dorrebbe di dover esser ancora più l’oggetto di discorsi nei giornali. Il <pb n="2v"/>mio fratello è profondamente costernato, come facilmente s’immaginerà. La prego di scrivermi prestamente, e di nascondermi nulla, anzi di mandarmi anche i giornali, se mai discorressero di questo incidente; poiché facilmente sarò costretto, di inserire in qualche giornale una mia protesta. Intanto lei cercherà di calmare l’anima agitata del nostro Guglielmi, cui potrà affermare, <seg type="comment"><orig>che non sento altro per lui che affetto di vera amicizia</orig><note xml:id="nbr3_cn5_zlb">Anders äußert sich Gregorovius in seinem römischen Tagebuch: „Der sonderbare Vorgang ist für den Fanatismus Guglielmis für mich verschuldet worden, und dieser treffliche junge Mann hat sich durch diesen unüberlegten Schritt vermutlich in eine schlimme Lage gebracht.“ (S. 361, 1.3.1876)</note></seg>.</p>
+<p>Leggerò avidamente <seg type="comment"><orig>le sue lettere</orig><note xml:id="nwhk_2n5_zlb">Am 4. Dezember 1875 hatte Gregorovius einen Vortrag mit dem Titel „Die historischen Studien im alten Calabrien, der heutigen Terra d’Otranto“ vor der historischen Klasse der Akademie der Wissenschaften gehalten (siehe den Brief von Gregorovius an die Commissione conservatrice dei monumenti storici e di belle arti di terra d’Otranto (Francesco Casotti) vom 5.12.1875). Der Vortrag erschien in: Sitzungsberichte der philosophisch-philologischen und historischen Classe der k. b. Akademie der Wissenschaften zu München. Jg. 1875. Bd. 2. H. 4. München 1875. S. 409–425.</note></seg> da publicarsi nel <orgName key="G000518">Diritto</orgName>.</p>
+<p>Da due giorni mi sento alquanto sollevato, principiando a svanire quel flusso negli occhi; però il non interotto freddo e questa brutissima nebbia mi fanno soffrire in grado, che dispero di puoter resistere più alla lunga a questa intemperie dell’aria. <seg type="comment"><orig>Partirò di qui nei primi giorni del Marzo, e sarò in Roma verso il 10. del detto mese</orig><note xml:id="nglj_fn5_zlb">Gemeinsam mit dem Sohn seines Malerfreundes Karl August Lindemann-Frommel (1819–1891), Manfred (1852–1939), brach Gregorovius am 10. März 1875 von München in Richtung Italien auf. In Rom traf er am 18. des Monats ein (siehe RT, 20.5.1876, S. 363).</note></seg>. Ma vi rientrerò con dolore, forse per assistere alla fine della nostra cara signora <persName key="G001374">L<ex>indemann</ex></persName>.</p>
+<p>Le spedirò presto <bibl sameAs="G003994"><seg type="comment"><orig>il mio discorso sugli studj storici nell’antica Calabria</orig><note xml:id="nx5h_gn5_zlb">Am 4. Dezember 1875 hatte er einen Vortrag mit dem Titel „Die historischen Studien im alten Calabrien, der heutigen Terra d’Otranto“ vor der historischen Klasse der Akademie der Wissenschaften gehalten (siehe den Brief von Gregorovius an die Commissione conservatrice dei monumenti storici e di belle arti di terra d’Otranto (Francesco Casotti) vom 5.12.1875). Der Vortrag erschien in: Sitzungsberichte der philosophisch-philologischen und historischen Classe der k. b. Akademie der Wissenschaften zu München. Jg. 1875. Bd. 2. H. 4. München 1875. S. 409–425.</note></seg></bibl>; stà sotto torchio anche la mia <bibl sameAs="G004012">relazione sull’organizzazione dell’archivio Romano</bibl>, cosa che sarà accolta con piacere dal mondo scientifico.</p>
+                <closer>
+                    <salute>Non altro per adesso. <persName key="G001111"><persName key="G001109">I miei</persName></persName> la salutano con me cordialmente.</salute>
+                    <signed rendition="#right">FGr.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

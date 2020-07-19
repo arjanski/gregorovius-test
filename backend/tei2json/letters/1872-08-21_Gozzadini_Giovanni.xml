@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067723">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. Traunstein, 21. August 1872 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Adr.: Illustrissimo Signor Conte / Giovanni Gozzadini / Senatore del Regno / Bologna / in Villa di Ronzano</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell’Archiginnasio</institution><collection>Ms. Gozzadini 442</collection><idno>(12)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er hält sich seit mehreren Wochen zur Erholung in Traunstein auf. Der römische Gemeinderat übernimmt die Finanzierung der italienischen Übersetzung seiner „Geschichte der Stadt Rom im Mittelalter“ (1872-1876). Die Frau von Michelangelo Catani, Margareth Knight, ist schwer erkrankt ist. Keine Neuigkeiten von Paolo Perez.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000888">Traunstein</placeName><date when="1872-08-21" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni (1810–1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+            <div type="writingSession">
+                <opener>
+<dateline rendition="#right">Traunstein di Baviera <lb/>21. Agosto 1872</dateline>
+<salute rendition="#c">Gentilissimo signor Conte,</salute>
+</opener>
+<p>Mi affretto di ringraziarla di vero cuore della sua amabile lettera, speditami via <placeName key="G000879">Stuttgard</placeName> a questo luogo di montagna.</p>
+<p>Io vedo con sommo piacere, che Ella e la <persName key="G001092">signora Contessa</persName> gentilmente partecipano ai sentimenti di gioja, di cui sono presi tutti i miei amici a cagione <seg type="comment"><orig>dell’onore compartito alla mia opera dal <orgName key="G004663">Municipio di Roma</orgName></orig><note xml:id="nzdc_g3z_ylb">Am 13. Juli 1872 hatte der römische Gemeinderat dem Antrag des Marchese Francesco Nobili-Vitelleschi (1829–1906) auf Kostenübernahme der Vollendung der italienischen Übersetzung der „Geschichte der Stadt Rom im Mittelalter“ einstimmig stattgegeben. Renato Manzato (1847–1925) hatte die Übersetzung 1866 begonnen, Gregorovius deren Fortsetzung jedoch aufgrund ihrer Qualität verboten; siehe dazu den Brief von Gregorovius an Giovanni Gozzadini vom 24.2.1867. Der auf den 17. August 1872 datierte Vertrag zwischen der Stadt Rom und dem venezianischen Verlag Giuseppe Antonellil über die Weiterführung der italienischen Ausgabe der „Geschichte der Stadt Rom im Mittelalter“ hat sich im Nachlass von Gregorovius erhalten; des weiteren eine auf den 20. September 1872 datierte Verpflichtungserklärung von Antonelli gegenüber Gregorovius zur termingerechten Veröffentlichung der einzelnen Bände der italienischen Übersetzung (BSB München, NL Gregorovius, Gregoroviusiana 26). Siehe dazu den Brief von Gregorovius an den römischen Bürgermeister Pietro Venturi vom 17. August 1872, mit dem er auf die erfreuliche Nachricht reagierte. </note></seg>. Difatti egli è un onore insolito negli annali della letteratura, e perciò tanto, da rendermene veramente confuso. Ma voglio lasciare da parte i sentimenti, e piuttosto parlare degli effetti reali, fra cui il maggiore sarebbe per me, la certezza, che oramai la stampa dell’<bibl corresp="G004368 G004369 G004370 G004371 G004372 G004373 G004374 G004375 G004376">opera vera italiana</bibl> è assicurata. Quando tutti gli <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">otto volumi</bibl> che la compongono, <seg type="comment"><orig>saranno messi in circolazione</orig><note xml:id="npnd_jjz_ylb">Den letzten Band hatte er am 19. Januar 1871 zu seinem 50. Geburtstag abgeschlossen; siehe den Brief von Gregorovius an Ottilie Elgnowski vom 4.12.1870; BSB München, NL Gregorovius, Gregoroviusiana 20. Ende November war der Band fertig gedruckt und konnte ausgegeben werden; siehe den Brief von Gregorovius an Albert Freiherr von Reischach vom 17.11.1872; DLA Marbach, Cotta-Archiv, Cotta-Briefe (154) (154). </note></seg>, allora spero che possederò in essi il modo di ringraziare gli Italiani dell’accoglienza fraterna, di cui onorano l’opera e me, l’autore di essa. <pb n="2"/>Che malgrado la insufficienza delle mie forze e i difetti che ne risultano, vi si troveranno pure le fondamenta di una storia civile della Città, che manca ancora. </p>
+<p>Da parecchie settimane mi sono stabilito a Traunstein, piccolo paese nelle vicinanze di <placeName key="G000867">Salisbourg</placeName>, delizioso per bellezza di natura e per purezza dell’aria. Faccio qui i bagni di salina, per curarmi definitivamente dal residuo di un raffreddore, preso nell’inverno passato. Vi resterò ancora qualche tempo, quindi <seg type="comment"><orig>farò di altri viaggi nella <placeName key="G000664">Germania</placeName> meridionale</orig><note xml:id="nbyc_ljz_ylb">Gregorovius war am 14. Juli in Traunstein eingetroffen, wo er bis zum 12. September 1872 blieb: „Diesen Ort wählte ich auf Anraten des Dr. [Franz] Seitz [(1811–1892)], um dasselbst Salzbäder zu gebrauchen.“ In München blieb er bis zum 12. November, kehrte von dort nach Italien zurück (RT, 10.9.1872, S. 325–327). </note></seg>. </p>
+<p>Ebbi lettere di <placeName key="G000675">Frascati</placeName>, che descrivono lo stato di salute della <persName key="G001008">Duchessa di Sermoneta</persName> come disperato. <seg type="comment"><orig>Vi sta in villeggiatura tutta </orig><note xml:id="nyb5_mjz_ylb">Mit der römischen Adelsfamilie Caetani, Michelangelo Caetani (1804–1882), Herzog von Sermoneta, und dessen Tochter Ersilia Caetani Lovatelli (1804–1925), war Gregorovius gut befreundet. Diese besaß in der Gemeinde Frascati, 21 Kilometer südöstlich von Rom, ein Haus, in der sie auch Gregorovius mehrere Male besuchte (siehe RT, 6.10.1867, S. 234; 13.10.1867, S. 235; 28.7.1871, S. 308). Der Herzog war seit 1854 in zweiter Ehe mit Margaret Knight (*1810) verheiratet. Deren schlechter Gesundheitszustand war bereits in früheren Briefen Thema; siehe den Brief von Gregorovius an Ersilia Caetani Lovatelli vom 31.8.1868. Die Herzogin verstarb am 19. Oktober 1872.</note></seg><persName key="G001011 G001004"><seg type="comment"><orig>la famiglia Gaetani</orig><note xml:id="nyb5_mjz_ylb"/></seg>.</persName> <seg type="comment"><orig>Di <persName key="G001483">Paolo</persName> non ebbi ancora notizie:<?oxy_comment_start author="weiger" timestamp="20191024T134910+0200" comment="Der Dante-Forscher Graf Paolo Perez (1822–1879), ein Freund von Gregorovius und Cousin der Gräfin Gozzadini, war 1856, trotz der Bedenken aus seinem Umfeld, in den Orden der Rosminianer in Stresa eingetreten. Ihm hatte Gregorovius sein 1858 erschienenes Gedicht „Euphorion“ (Leipzig: Brockhaus) gewidmet. In Stresa besuchte er ihn regelmäßig (siehe RT 17.7.1867, S. 227; RT 20.7.1869, S. 259)."?> <?oxy_comment_end?>gli scriverò fra giorni.</orig><note xml:id="nut4_rjz_ylb"><?UNIQUE_CARET_MARKER_FOR_AUTHOR?></note></seg></p>
+<p>Spero che Lor Signorie si trovino in perfetta salute, e che non patiscano punte del caldo, il quale in Roma doveva essere pressochè insopportabile.</p>
+<p>S’io posso esser utile a Loro durante la mia dimora in Germania, mi comandino, prego: il mio indirizzo sarebbe sempre quello della <orgName key="G000523">libreria Cotta</orgName> a Stuttgard.</p>
+                <closer>
+                    <salute>Intanto mi raccomando alla Loro benevola memoria, pregiandomi di chiamarmi il di Loro verace servitore</salute>
+                    <signed rendition="#right"> Gregorovius </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

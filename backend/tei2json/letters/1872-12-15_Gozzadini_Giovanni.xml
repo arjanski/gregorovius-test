@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067725">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. Rom, 15. Dezember 1872 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Adr.: Illustre Signor Conte Giovanni Gozzadini / Senatore del Regno / Bologna </p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell’Archiginnasio</institution><collection>Ms. Gozzadini 442</collection><idno>(13)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Der letzte Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1872) ist Ende November erschienen. Aktuell überarbeitet er Band sieben (1873) und acht (1874) für die zweite Auflage. Die Einladung zu den Festlichkeiten zum 200. Geburtstag von Ludovico Antonio Muratori in Modena hat er sicher Gozzadini zu verdanken. Bei Gelegenheit wird er ihm die von Agostino Nomis di Cossila besorgte italienische Übersetzung seiner „Wanderjahre in Italien“ (1865) zukommen lassen. Paolo Perez ist nach Domodossola umgezogen.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1872-12-15" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni conte (1810–1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession"><pb n="1"/>
+<div type="writingSession">
+<opener>
+<dateline rendition="#right">Roma, <placeName key="ediarum_lmm_slx_qlb">Via Gregoriana</placeName> N<ex>umero</ex> 13. <lb/>15. Decem<ex>bre</ex> 1872.</dateline>
+<salute rendition="#c"> Illustre signor Conte,</salute>
+</opener>
+<p><seg type="comment"><orig>Al mio ritorno in Roma</orig><note xml:id="nwzr_tkz_ylb">Gregorovius war nach einem mehrwöchigen Aufenthalt in Deutschland am 29. November 1872 wieder in Rom eingetroffen (siehe RT, 25.12.1872, S. 328).</note></seg> ebbi da dolermi di un amaro disinganno, cioè di non trovarvi presente nè lei, nè la gentilissima <persName key="G001092">signora Contessa</persName>. Supponevo, che lor Signorie dovessero recarsi di nuovo a Roma, per passarvi, come fecero nell’anno scorso, qualche settimana, <seg type="comment"><orig>essendovi anche in questa stagione adunato già il <orgName key="G000558">Senato del Regno</orgName></orig><note xml:id="nqkx_vkz_ylb">Gozzadini war am 18.3.1860 zum Senator ernannt worden; er hatte das Mandat bis zu seinem Tod am 25.8.1887 inne. </note></seg>. </p>
+<p>Ora m’incresce di dover salutarle invece, a voce di lettera.</p>
+<p>Sono di nuovo a Roma da quindici giorno incirca, ed ho ripreso già i miei lavori, che per altro non sono gravi, imperocchè del tutto sia <seg type="comment"><orig>terminata <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">la mia opera sul medio evo di Roma</bibl></orig><note xml:id="ntz2_2lz_ylb">Ende November war der achte und letzte Band seiner „Geschichte der Stadt Rom im Mittelalter“ (Stuttgart: Cotta 1872) fertig gedruckt und konnte ausgegeben werden; siehe den Brief von Gregorovius an Albert Freiherr von Reischach vom 17.11.1872; DLA Marbach, Cotta-Archiv, Cotta-Briefe (154).</note></seg>. Però mi tocca attualmente di rivedere i due ultimi volumi dell’opera, dei quali si sta facendo una <bibl corresp="G003435 G003442">nuova edizione</bibl>, che <seg type="comment"><orig>sono in grado di arrichire di non poche aggiunte cavate</orig><note xml:id="ngdl_4lz_ylb">Die zweiten Auflagen von Band sieben und acht der „Geschichte der Stadt Rom im Mittelalter“ erschienen 1873 und 1874. Gregorovius überarbeitete seine Bücher sehr sorgfältig, legte besonderen Wert darauf, neue Forschungen und neues Material hinzuzufügen. Auf seiner Rückreise von Deutschland hatte er in Venedig und in Mantua, wo er im Archiv der Gonzaga „viele merkwürdige Urkunden“ kopierte, Halt gemacht (siehe RT, 25.12.1872, S. 328).</note></seg> anche recentemente dai tesori degli Archivj di Roma, di <placeName key="G000894">Venezia</placeName> e di <placeName key="G000724">Mantova</placeName>. </p>
+<p><pb n="2"/><seg type="comment"><orig>Dell’onore compartito a me dai Municipj di <placeName key="G000729">Modena</placeName> e di <placeName key="G004691">Vignola</placeName> coll’invitarmi cosi gentilmente ad assistere al secondo Centenario del <persName key="G001438">Muratori</persName></orig><note xml:id="nw2p_qlz_ylb">Die Bürgermeister von Modena, Luigi Alfonso Tardini, und Vignola, Alessandro Plessi, hatten Gregorovius zur 200 Jahr-Feier zu Ehren des bedeutenden Historiographen Ludovico Antonio Muratori (1672–1750) eingeladen; siehe den Brief von Gregorovius an Luigi Alfonso Tardini vom 15.9.1872. Muratori war der Verfasser eines monumentalen Werks zur Geschichte und Literatur Italiens (Rerum italicarum scriptores ab anno aerae christianae 500 ad annunm 1500. 28 Bde., Mailand 1723–1751) und für Gregorovius somit eine wichtige Forschungsarbeit, auf die er sich in seiner „Geschichte der Stadt Rom im Mittelalter“ immer wieder dann bezog, wenn im der Zugang zu Quellen verwehrt blieb. Zu den Feierlichkeiten konnte er aufgrund seines Aufenthaltes in Deutschland nicht anreisen.</note></seg>, credetti e credo ancora di esser realmente debitore suo, illustre signor Conte. Avvegnachè nessun altro fra i distinti personaggi in <placeName key="G000690">Italia</placeName> avrebbe potuto averne l’idea fuori di Lei, che altre a tanti segni di benevolenza di cui mi onorò, <seg type="comment"><orig>mi aveva procurato anche, or diversi anni sono, l’accesso all’<orgName key="G004664">Archivio Estense di Modena</orgName></orig><note xml:id="ndpd_pmz_ylb">Er hatte im September 1869 in der Biblioteca Esetene und im Archiv des Hauses Este geforscht. Im Tagebucheintrag dazu verweist er immer wieder auf Muratoris Arbeit in diesen Einrichtungen und dessen Bedeutung für seine eigene Forschung (siehe RT, 29.9.1869, S. 265–266).</note></seg>. Si compiaccia dunque di accogliere la mia gratitudine sentita profondamente, quantunque esse, in quanto all’espressione sua, le si presenti un po’ ritardata.</p>
+<p><seg type="comment"><orig>Il Conte <persName key="ed_ecl_tzf_nlb">Agostino di Cossilla</persName>, quale Senatore del Regno collega suo proprio, <bibl corresp="G004327">tradusse i miei viaggi per l’Italia</bibl></orig><note xml:id="new1_1nz_ylb">Graf Agostino Nomis di Cossilla (1815–1881) war 1860 Bürgermeister von Turin, 1863 Präfekt von Palermo sowie 1865 von Genua. Seit 1868 war er Senator des Königreichs. Er übertrug mehrfach deutsche literarische und historische Werke ins Italienische, darunter Gregorovius’ „Wanderjahre in Italien“, die 1865 unter dem Titel „Ricordi storici et pittorici d’Italia“ in zwei Bänden in Mailand bei Manini erschienen. Gregorovius hatte ihm die Erlaubnis zum Neudruck der Übersetzung, bei welcher der Graf die „Wanderjahre“ durch eine Auswahl in zwei Bände zusammengefasst hatte, erteilt; siehe dazu den Brief von Gregorvius an den Verlag F. A. Brockhaus vom 31.3.1872, Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224 (114). Ende Dezember vermerkt Gregorovius seine Unzufriedenheit mit der Übersetzung (siehe RT, 25.12.1872, S. 328).</note></seg>, cioè egli ne restringe i <bibl corresp="G003130 G003191 G003266 G003301">quattro volumetti</bibl> a due volumi, scegliendone tanti articoli quanti credeva fossero i migliori oppure i meglio atti ad incontrare qualche accoglienza favorevole presso i lettori Italiani. Quelle coserelle, o <seg type="comment"><orig><foreign xml:lang="fra">causeries</foreign>,</orig><note xml:id="nbvd_bnz_ylb">Franz., veraltet für: Plauderei.</note></seg> alla francese per certo non varrebbero l’attenziona sua, o quella della insigne signora Contessa: però sarei ben contento, se volessero accettarne una copia, che a loro disposizione conservo in <pb n="3"/>casa mia.</p>
+<p>Del nostro buon <persName key="G001483">Perez</persName> non so altro che questo, <seg type="comment"><orig>essersi lui trasferito a <placeName key="G004692">Domodossola</placeName></orig><note xml:id="nr1w_cnz_ylb">Den aus Verona stammenden Dante-Forscher Graf Paolo Perez (1822–1879) kannte Gregorovius seit 1855. Perez hatte ihn in die römischen Kreis eingeführt und mit der Familie seiner Cousine, der Gräfin Gozzadini, bekannt gemacht. Perez war 1856 in das Noviziat der Rosminianer eingetreten, hatte 1860 die Priesterweihe erhalten. Gregorovius bedauerte diesen Schritt sehr (siehe RT, 19.9.1856, S. 63), besuchte Perez regelmäßig in Stresa; siehe den Brief von Gregorovius an Giovanni Gozzadini vom 4.7.1869. In vielen seiner Briefe an den Conte Gozzadini erwähnt er Perez.</note></seg>. </p>
+<p>Mi permetto di pregarla, signor Conte, di voler darmi buone nuove del benessere di Loro, alle quali mi raccomando caldamente.</p>
+</div>
+<closer>
+<salute xml:id="s1" next="#s2" rendition="#right">come Loro obbligatissimo</salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">Servitore</salute>
+<signed rendition="#right">F. Gregorovius </signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

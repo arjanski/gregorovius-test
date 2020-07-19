@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000346">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an die J. G. Cotta’sche Buchhandlung in Stuttgart. Rom, 30. Juni 1872</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (140)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ¼ S. – 2v, auR, Blatt um 180° gedreht, Eingangsvermerk: <hi rendition="#u">1872</hi> / <hi rendition="#aq">Gregorovius</hi> / <hi rendition="#aq">Rom</hi>, 30. <hi rendition="#aq">Juni</hi> – Dabei 1 Bl., 4°, ¼ S. vfrH ein „<hi rendition="#u">Auszug aus dem Schreiben von Ferd. Gregorovius vom 30. Juni 1872</hi>. Diese Arbeit hat Dr. Rühl stark angegriffen […] Index würde zu revidiren haben.“ (DLA Marbach, Cotta-Archiv, Cotta-Briefe, 140a)</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 57 Mappe 340–342 (nach D) und Karton 55 Mappe 336–337</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 314–315 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er wird Rom am 7. oder 8. Juli 1872 zu einem Kuraufenthalt im Salzkammergut verlassen. Der Gemeinderat berät auf Veranlassung des römischen Senators und Mitglieds des Stadtrats Francesco Nobili-Vitelleschi über die Kostenübernahme für die Vollendung der 1866 von Renato Manzato begonnenen italienischen Übersetzung (1866) seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872). Er bittet um Rat, wie der neue Verlagsvertrag mit Antonelli, nunmehr vertreten durch Cristiano Ribeschini, zu formulieren ist und die Kosten zu kalkulieren sind. Der römische Stadtrat wird ihm die Unterhandlung mit Antonelli-Ribeschini übertragen. Ihm selbst geht es in dem Vertrag auch um die Wahrung seiner Autorrechte. Franz Rühl hat den Buchstaben A des Gesamtregisters seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) an die Druckerei abgesandt; hiervon hätte er gerne einen Probedruck. Die Arbeit hat Rühl sehr angestrengt; er wünscht sich ein Honorar von 200 bis 300 Talern. Gregorovius schlägt vor, hiervon 100 Taler für die zweite Auflage in Aussicht zu stellen, bei der das Register von Rühl anzupassen ist.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1872-06-30" cert="high"/>
+</correspAction>
+                <correspAction type="received"><orgName key="G000523">J. G. Cotta'sche Buchhandlung</orgName>
+<placeName key="G000879">Stuttgart</placeName>
+</correspAction>
+<correspContext>
+<ref type="next">3. Juli 1872 (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VII, 773)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c"><hi rendition="#aq">Rom</hi> 30.<hi rendition="#aq"> Juni</hi> 1872.</dateline>
+<salute rendition="#c">Hochgeehrte Herren,</salute>
+</opener>
+<p>ehe ich Rom verlaße, was am 7. oder 8. Juli geschehen wird, um mich <seg type="comment"><orig>zunächst in ein Bad im <placeName key="G000888">Salzkammergut</placeName> zu begeben</orig><note xml:id="njnf_z1g_rlb">Gregorovius reiste am 11. Juli 1872 aus Rom ab; über Foligno und Innsbruck fahrend, traf er am 14. Juli in Traunstein ein, wo er bis zum 12. September 1872 blieb (siehe RT, 10.9. und 11.11.1872, S. 325–327).</note></seg>, erlaube ich mir Ihnen dies mitzuteilen, und zugleich einiges andere vorzutragen.</p>
+<p>Beim Gemeinderat von Rom ist der Plan angeregt worden, die Verdienste meiner Geschichte der Stadt Rom im Mittelalter dadurch zu ehren, daß das Municipium die <seg type="comment"><orig>Fortsetzung u<ex>nd</ex> Vollendung der <bibl sameAs="G004366">italien<ex>ischen</ex> Übersetzung</bibl></orig><note xml:id="ny3l_2bg_rlb">Renato Manzato hatte zwei Bände seiner „Geschichte der Stadt Rom im Mittelalter“ unter dem Titel „Storia della città di Roma nel Medio Evo dal secolo V al XVI“ als Prima versione italiana (Venedig, Turin: Guiseppe Antonelli 1866; (Nuova Collezione di Opere Storiche ; Vol. VIII) übersetzt, doch hatte Gregorovius wegen der mangelnden Übersetzungsqualität die Fortführung unterbunden.</note></seg> des Werks garantirt, also die Kosten dazu hergiebt. Da einer der einflußreichsten Männer hier, <persName key="G001450"><seg type="comment"><orig>Marchese Vitelleschi</orig><note xml:id="nzxt_gbg_rlb">Der römische Senator und Mitglied des Stadtrats Francesco Nobili-Vitelleschi (1829–1906) war seit Mai 1872 Mitglied der Commissione archeologica comunale di Roma.</note></seg></persName> diesen Plan angeregt hat, so glaube ich fest, daß man ihn, modificiert oder ohne weiteres, genehmigen wird. In einigen Tagen wird er im capitolischen Consilium zur Abstimmung kommen. V<ex>itelleschi</ex> fragt mich, welcher Vertrag mit dem <seg type="comment"><orig>Verleger der ital<ex>ienischen</ex> Übersetzung, <persName key="G000932"><hi rendition="#aq">Antonelli</hi></persName>-<persName key="G001528"><hi rendition="#aq">Rebeschini</hi></persName> in <placeName key="G000894">Venedig</placeName></orig><note xml:id="nnfh_lbg_rlb">Der Verleger Antonio Antonelli (1817–1889) war der Sohn der Verlagsgründers Giuseppe Antonelli (1793–1861). Der 1826 gegründete Verlag gehörte zu den modernsten und bedeutendsten in Europa, der sich durch seine literatur- und kulturhistorischen Bücher und seine Enzyklopädien eine Namen machte, auch wurden besondere Verfahren lithografischer Übertragungstechniken durch Antonelli entwickelt. Neben seinem Hauptsitz in Venedig hatte Antonelli Niederlassungen in Padua, Verona und Ferrara (siehe Paola Tentori: Artikel „Antonelli, Giuseppe“. In: DBI, Bd. 3, 1961).</note></seg> zu machen sei, im Falle das Municipium die Kosten des Drucks übernehmen sollte, und ich wünsche deshalb von Ihrer Güte einen praktischen Wink darüber, da in jenem Falle der römische Stadtrat mir den Abschluß des Vertrags übertragen dürfte.</p>
+<p><pb n="1v"/>Nach dem <seg type="comment"><orig>ursprünglichen Abkommen druckt <hi rendition="#aq">Antonelli</hi> 8 Bände à 1500 Exemplare. Nur mit Mühe verstand er sich dazu, mir als Symbol meines Autorrechts die Summe von 250 <hi rendition="#aq">Francs</hi> pro Band zu gewähren</orig><note xml:id="njrg_bcg_rlb">Der erste auf den 20. Juni 1865 datierte Vertrag mit Antonelli hat sich im Nachlass von Gregorovius erhalten (BSB München, NL Gregorovius, Gregoroviusiana 26,i). Der Verlag Antonelli wurde inzwischen von Cristiano Artaria Rebeschini (1830–1901) vertreten. Am 2. Juni 1872 heißt es dazu erläuternd im Tagebuch von Gregorovius: „Als mir 1865 Antonelli in Venedig durch Vermittlung Fulins den Antrag der italienischen Ausgabe meiner ‚Geschichte‘ machte, konnte ich nicht ahnen, daß der Sturz des Papsttums in Rom nahe sei; ich war froh, daß ein italienischer Buchhändler so viel Mut hatte, und überließ ihm das ausschließliche Druckrecht. Ich beanspruchte nur die Summe von 250 Francs für jeden Band, als Symbol meines Autorrechts. Der erste Band der Übersetzung Manzatos erschien 1866; die Fortsetzung unterblieb, und Antonelli machte außerdem Bankerott. Im Jahre 1869 trat als sein Administrator Rebeschini ein, worauf der Kontrakt erneuert wurde und im Frühjahr 1872 der zweite Band erschien. Ich bin in der Fessel dieses Vertrags. Wenn ich von ihm befreit wäre, so würde heute das Werk in einer von der Stadt Rom selbst veranstalteten und unter meinen Augen besorgten Ausgabe erscheinen können.“ (S. 325)</note></seg> – es kommt hier darauf nicht an, da ich <seg type="comment"><orig>ein neues Abkommen treffen könnte</orig><note xml:id="nstf_wbg_rlb">Am 11. Juli 1872 dokumentierte Gregorovius die neu gefundene Vertragsgrundlage für die italienische Übersetzung seiner „Geschichte der Stadt Rom im Mittelalter“: „Rebeschini ist hierher gekommen. Wir haben einen Modus gefunden oder eine neue Basis für den Vertrag.“ (S. 325) Der auf den 17. August 1872 datierte Vertrag hat sich im Nachlass von Gregorovius erhalten; des weiteren eine auf den 20. September 1872 datierte Verpflichtungserklärung von Antonelli gegenüber Gregorovius zur termingerechten Veröffentlichung der einzelnen Bände der italienischen Übersetzung (BSB München, NL Gregorovius, Gregoroviusiana 26,n-o). Auf der Grundlage der 2. Auflage (1869–1874) der deutschen Originalausgabe erschien die von Renato Manzato übersetzte „Geschichte der Stadt Rom im Mittelalter“ unter dem Titel „Storia della città di Roma nel Medio Evo dal secolo V al XVI“ als Prima traduzione italiana sulla seconda edizione tedesca di Renato Mánzato. 9 Bde. Venedig, Turin: Giuseppe Antonelli 1872–1876. (Nuova collezione di opere storiche).</note></seg>; es kommt lediglich auf das zu bestimmende Verhältniß <add place="superlinear">an zwischen</add> dem Municipium von Rom <del rendition="#s">an</del>, welches die Kosten bezahlt u<ex>nd</ex> natürlich auch decken will, und dem Verleger, dem diese ersprießliche Offerte gemacht werden soll.</p>
+<p>Der Verleger berechnet die Kosten ohne Autorrecht u<ex>nd</ex> Salar für den Übersetzer pro Bogen m<ex>it</ex> 16 <hi rendition="#aq">Scudi</hi> auf 44 <hi rendition="#aq">Franc<ex>s</ex></hi> 50 <hi rendition="#aq">c<ex>entimes</ex></hi>, mit ihnen auf 62 Francs. Jeder Band enthält die mittlere Bogenzahl von 44.</p>
+<p>Er verkauft jedes Exemplar zu dem discreten Preis von 5 ½ bis 6 ½ <hi rendition="#aq">Francs</hi>. Die beiden ersten gedruckten Bände kosten zusammen 11 <hi rendition="#aq">Francs</hi>. Ich habe Vitelleschi die Rechnung gemacht, daß bei der Annahme eines Reingewinnes von 3 ½ <hi rendition="#aq">Francs</hi> pro Exemplar die Kosten jedes Bandes mit 700 Exemplar<ex>en</ex> gedeckt sind, daß also ein Überschuß von mindestens 750 Exemplar<ex>en</ex> für einen absoluten Netto Gewinn sich ergeben würde.</p>
+<p>Meine Bitte ist nun diese, mir darüber einen Wink zu geben, was praktischer Weise <seg type="comment"><orig>bei solchen Verhältnißen das röm<ex>ische</ex> <pb n="2r"/>Municipium dem Verleger <hi rendition="#aq">Antonelli</hi> als Bedingung stellen solle, nachdem es ihm die Kosten des Drucks bezahlt?</orig><note xml:id="nkdl_jcg_rlb">Im Antwortschreiben von Cotta vom 3. Juli 1872 heißt es hierzu: „Da nach Ihren Mittheilungen das Municipium die Kosten des Druckes zahlen wird, so glauben wir Ihnen vorschlagen zu sollen, das Antonelli die Zahlung des Honorars aufzuerlegen sei u. er nach Absatz einer bestimmten Anzahl Exemplare einen Theil der Druckkosten zu ersetzen habe.“ (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VII, 773)</note></seg> Ich selbst würde dann auch <seg type="comment"><orig>mein Autorrecht wahren, und zwar wie</orig><note xml:id="nevd_mcg_rlb">Im Antwortschreiben von Cotta vom 3. Juli 1872 heißt es hierzu: „Was zunächst die Wahrung des Autorrechts betrifft, so giebt Ihnen das zwischen Italien u. Württemberg abgeschlossene Übereinkommen, welches wir mit unseren Schreiben gleichzeitig abgehen laßen, einige Auskunft. Unserer Ansicht nach, wird wenn auch nicht mehr für die ersten sieben Bände, doch für den 8 Band Schutz gegen eine von Ihnen nicht erlaubte Übersetzung zu erlangen sein.“ (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VII, 773)</note></seg>?</p>
+<p>Ich würde Ihnen, hochgeehrte Herren, sehr verpflichtet sein, wenn Sie mir über diese Frage eine Antwort erteilen wollten, u<ex>nd</ex> dieselbe noch vor dem 8. an mich gelangen ließen.</p>
+<p><seg type="comment"><orig><persName key="G001562">Dr. Rühl</persName> hat mir angezeigt, daß er die Index-Zettel vom Buchstab<ex>en</ex> <hi rendition="#aq">A</hi>. an Sie abgesandt hat</orig><note xml:id="nvxx_4cg_rlb">Siehe den Brief von Gregorovius an Franz Rühl, 22.6.1872 (in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 313–314).</note></seg>, u<ex>nd</ex> ich hoffe noch <seg type="comment"><orig>den Probedruck davon in Rom zu erhalten</orig><note xml:id="ntpw_scg_rlb">Im Antwortschreiben von Cotta vom 3. Juli 1872 heißt es hierzu: „Herr D<hi rendition="#sup"><hi rendition="#u" hand="">r</hi></hi> Rühl wird von dem Index zwei Abzüge erhalten und Ihnen einen davon mittheilen.“ (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VII, 773)</note></seg>. Aus <placeName key="G000620">Augsburg</placeName> schrieb man mir, daß nichts daselbst eingegangen sei: vielleicht, weil Sie den Index in <placeName key="G000879">Stuttgart</placeName> drucken laßen. Ich hoffe, er wird vollkommen gut u<ex>nd</ex> gründlich ausgefallen sein: Diese Arbeit hat Dr. Rühl stark angegriffen; sie ist freilich schrecklicher Natur. Vertrauensvoll sich aussprechend wünscht er ein Honorar <add place="left" hand="#addressee"><metamark target="#seg-1" function="used" rendition="#mMM"/></add><seg xml:id="seg-1">von 200 bis 300 Thalern; <seg type="comment"><orig>ich schrieb ihm, daß ich 200 vor Ihnen vertreten will</orig><note xml:id="nr4x_xcg_rlb">Im Brief von Gregorovius an Franz Rühl, 22.6.1872 (in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 313–314).</note></seg>, und denke mir, daß noch 100 Thaler gern</seg> von Ihnen bei der <bibl sameAs="G003442">2. Auflage des Bandes VIII.</bibl> <seg type="comment"><orig>werden bewilligt werden können</orig><note xml:id="nq54_ndg_rlb">Im Antwortschreiben vom 3. Juli 1872 stimmte Cotta Gregorovius zu: „Das Honorar von Herrn Dr Rühl werden wir nach Ihrem Vorschlage ordnen.“ (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VII, 773)</note></seg>, wofür er dann den Index würde zu revidiren haben. Da derselbe dem Bande VIII. einverleibt wird, ergibt sich folgender Übelstand, nämlich daß diejenigen, welche das Werk zum größeren oder kleineren Teil <seg type="comment"><orig>nicht in derselben Ausgabe besitzen mit dem Index nicht zurecht kommen</orig><note xml:id="nibq_rdg_rlb">Im Antwortschreiben von Cotta vom 3. Juli 1872 heißt es hierzu: „Daß für den Besitzer der 2<hi rendition="#sup"><hi rendition="#u" hand="">ten</hi></hi> Auflage der Index Unbequemlichkeiten haben wird, ist ein Uebelstand, den nicht wohl abzuhelfen ist. Wir hoffen, daß auch vom 7<hi rendition="#sup"><hi rendition="#u" hand="">ten</hi></hi> u. 8<hi rendition="#sup"><hi rendition="#u" hand="">ten</hi></hi> Bande eine neue Auflage in nicht zu langer Zeit nöthig sein wird, bei welcher Gelegenheit alsdann, Aenderungen und Zusätze leicht vorgenommen werden können.“ (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VII, 773)</note></seg>; denn <pb n="2v"/>ich weiß von mehreren Besitzern desselben, welche die <bibl corresp="G003463 G003470 G003477 G003489">ersten 4 Bände in der 2. Aufl<ex>age</ex></bibl>, die <bibl corresp="G003434 G003441 G003448 G003455">folgenden in der ersten Aufl<ex>age</ex> </bibl> besitzen.</p>
+<p>Entschuldigen Sie dies lange Schreiben. Es empfiehlt sich Ihnen, hochgeehrte Herren, mit großer Hochachtung und Ergebenheit</p>
+<closer>
+<signed rendition="#right"><hi rendition="#aq">FGregorovius</hi>.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

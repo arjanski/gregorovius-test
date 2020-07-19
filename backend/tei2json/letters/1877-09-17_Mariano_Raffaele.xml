@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000229">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Baden-Baden. München, 17. September 1877</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 1 S. </p>
+<p> Ein Band „Archivio della Società romana di storia patria“ (1877) und ein Brief von Pasquale Villari an Gregorovius (26.8.1877)</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+<p xml:lang="de">Er übersendet ein Bibliotheksexemplar des „Archivio della Società romana di storia patria“ (1877) mit Oreste Tommasinis Artikel „Della storia medievale di Roma e de’ più recenti raccontatori di essa“ (1877). Als Roms Ehrenbürger will er sich bei dem Bürgermeister Pietro Venturi über den Artikel in einer italienischen Zeitung beschweren oder eben seine „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) für sich selbst sprechen zu lassen. Er legt einen Brief Pasquale Villaris bei. Karl Lindemann-Frommel fährt morgen nach Heinsheim. Mathilde von Humdoldt ist zu Besuch.</p>
+<p xml:lang="it"/>
+<p xml:lang="en"/>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1877-09-17" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000623">Baden-Baden</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">München, 17. Sept<ex>ember</ex> 77.</dateline>
+                    <salute>Lieber Freund,</salute>
+                </opener>
+<p>obwohl das <seg type="comment"><orig>Heft des <orgName key="G000467">Archivio Storico</orgName></orig><note xml:id="nwqt_1z3_1mb">Das erste Heft des „Archivio della Società romana di storia patria“ (1877), in dem Oreste Tommasinis (1844–1919) Artikel „Della storia medievale di Roma e de' più recenti raccontatori di essa“ erschienen war (S. 1–46, zu Gregorovius bes. S. 37f.). Siehe dazu auch den Brief von Gregorovius an Raffaele Mariano vom 12.9.1877. </note></seg> der hiesig<ex>en</ex> <orgName key="G000510">Bibliothek</orgName> gehört, schicke ich es Ihnen doch zu, mit der Bitte den <bibl sameAs="G002309">Artikel</bibl> des <persName key="G001650">T<ex>ommasini</ex></persName> darin zu lesen, u<ex>nd</ex> mir dann Ihre Meinung zu sagen. <seg type="comment"><orig>Mein Brief an den <persName key="ed_8s1_n17_lm4"><foreign xml:lang="ita">Sindaco</foreign></persName></orig><note xml:id="nhys_bz3_1mb">In seinem Brief vom 15. September 1877 hatte Gregorovius einen Entwurf für einen Brief an Roms Bürgermeister Pietro Venturi (1824–1892) an Mariano zur Durchsicht geschickt. Die finale Fassung des Briefs ist auf den 23.9.1877 datiert.</note></seg> entsprang aus 2 Motiven, einmal keinen Angriff gegen mich zu dulden, welcher meine Berechtigung als <seg type="comment"><orig>röm<ex>ischer</ex> Bürger</orig><note xml:id="nobq_cz3_1mb">Am 8. März 1876 hatte der römische Gemeinderat die Entscheidung getroffen, dem Autor der „Geschichte der Stadt Rom im Mittelalter“ (8 Bde., 1859–1872) mit der Verleihung der Ehrenbürgerwürde Roms für seine Verdienste um die italienische Geschichtsschreibung zu danken; siehe den Brief von Gregorovius an Pietro Venturi vom 17.3.1876.</note></seg> beschädigen könnte, dann aber weil das neue Archivio Storico unter dem ausdrücklichen patrocinio del <hi rendition="#aq"><foreign xml:lang="ita"><orgName key="G004663">comune di Roma</orgName></foreign></hi> steht, also auch 1 comunalen Charakter hat. Ich würde natürlich dafür gesorgt haben, daß der Brief in ital<ex>ienischen</ex> Zeit<ex>ungen</ex> justizirt werde.</p>
+<p>Ich bin indeß von diesen Dingen so gelangweilt u<ex>nd</ex> so ermattet, daß ich jetzt zu der Ansicht neige, diese lästige Sache mit der Verachtung des Mitschweigens zu behandeln, u<ex>nd</ex> meine Verteidigung meinem <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Werke</bibl> selbst zu überlassen.</p>
+<p><seg type="comment"><orig>Ich lege bei 1 Brief <persName key="G001687">Villaris</persName></orig><note xml:id="nzc3_bkm_fmb">Siehe den Brief von Gregorovius an Mariano vom <ref target="G000228">15.9.1877</ref> – vermutlich handelt es um den Brief von Pasquale Villari (1827–1917) an Gregorovius, 26.8.1877 (in: „Un anello ideale" fra Germania e Italia. Corrispondenze di Pasquale Villari con storici tedeschi. A cura di Anna Maria Voci. Rom: Archivio Guido Izzi 2006. S. 166–168).</note></seg>. Bitte schicken Sie mir das Heft bald zurück. </p>
+<p><persName key="G001375">Lindem<ex>ann</ex></persName> reist morgen nach <placeName key="G000687">Heinsheim</placeName>. Wir alle grüßen Sie tausend mal.</p>
+                <closer>
+                    <salute rendition="#right"> Ihr FGr.</salute></closer>
+                    <note type="postscript">Bei uns ist <persName key="G001303"><seg type="comment"><orig>Fr<ex>äulein</ex> v<ex>on</ex> Humboldt</orig><note xml:id="ny3v_dz3_1mb">Mathilde von Humboldt (1830–1897) ist die Enkelin von Wilhelm von Humboldt (1767–1835) und Caroline, geb. von Dacheröden (1766–1829), deren Sohn Theodor von Humboldt (von Humboldt-Dacheröden) (1797–1871) 1818 mit Mathilde, geb. von Heineken (1800–1881) geheiratet hatte. </note></seg></persName>.</note>
+
+            </div>
+        </body>
+    </text>
+</TEI>

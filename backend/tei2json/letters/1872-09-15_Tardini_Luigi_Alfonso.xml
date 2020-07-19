@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067724">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Luigi Alfonso Tardini in Modena. München, 15. September 1872</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Lettere per occasione delle feste centenarie di Lodovico Antonio Muratori scritte da uomini illustri e pubblicate a spese del municipio di Modena. Modena: Tipografia Angelo Cappelli 1873. S. 7</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er kann nicht an den Festlichkeiten zum 200. Geburtstag von Lodovico Antonio Muratori teilnehmen, zu denen er von Tardini und Alessandro Plessi als Bürgermeister von Modena bzw. Vignola eingeladen wurde. </p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1872-09-15" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001635">Tardini, Luigi Alfonso (-)</persName>
+<placeName key="G000729">Modena</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="7"/>
+            <div type="writingSession">
+                <opener>
+<address>
+<addrLine>All’Ill<ex>ustrissi</ex>mo Signore <lb/>Il Signor Sindaco di Modena. </addrLine>
+</address>
+<salute rendition="#c">Illustrissimo <seg type="comment"><orig>Signore</orig><note xml:id="nuzz_tjz_ylb">Luigi Alfonso Tardini war von 1867–1875 Bürgermeister der Stadt Modena.</note></seg>.</salute>
+</opener>
+<p>Con sommo piacere ricevetti l’onorevole invito, con cui Ella e <seg type="comment"><orig>il <persName key="G004715">signor Sindaco di <placeName key="G004691">Vignola</placeName></persName></orig><note xml:id="nmvk_vjz_ylb">Alessandro Plessi (1824–1907) war von 1868–1891 Bürgermeister der Stadt Vignola, einer Gemeinde in der Provinz Modena.</note></seg> mi chiamarono ad assistere alle feste del secondo centenario di <seg type="comment"><orig><persName key="G001438">Lodovico Antonio Muratori</persName></orig><note xml:id="ndx5_wjz_ylb">Der in Vignola geborene und in Modena verstrobene Ludovico Antonio Muratori (1672–1750) gilt als Begründer der italienischen Geschichtsschreibung. 1694 empfing er die Priesterweihe. Nachdem er zunächst an der Biblioteca Ambrosiana in Mailand arbeitete, berief ihn 1700 der Herzog von Modena, Rinaldo d’Este (1655–1737), zum Archivar und Bibliothekar. Er bekleidete dieses Amt bis zu seinem Tod, kümmerte sich von 1716–1733 zudem als Propst um die Pfarrei Santa Maria della Pomposa in Modena. Seine wissenschaftlichen Studien, die Sammlung und Veröffentlichung unpublizierter Schriften wie zum Beispiel die „Anecdota latina ex Ambrosianae Bibliothecae codicibus“ (2 Bde., Mailand 1697–1698) und die „Delle antichità estensi ed italiane“ (2 Bde., Modena 1717 und 1740), führte er beständig fort. Dort wo Gregorovius die Archive verschlossen blieben, zog er immer wieder Muratoris monumentale Publikationen zur Geschichte Italiens heran, sie sind eine wichtige Referenz für seine „Geschichte der Stadt Rom im Mittelalter“ (8 Bde., Stuttgart: Cotta 1859–1872): „Ohne Muratori hätte ich die ‚Geschichte der Stadt‘ kaum schreiben können, […]. Kein Autor war so oft in meinen Händen als er, der Vater der modernen Geschichtsschreibung überhaupt.“ (RT, 29.9.1869, S, 266). Zur Feier seines 200. Geburtstages wurde ein Programmheft publiziert: Guida per le feste del 2° Centenario di Ludovico Antonio Muratori. Modena: Tipografia di Carlo Vincenzi 1872 (https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11008527_00005.html). Die Einladung an Gregorovius ist nicht überliefert.</note></seg>.</p>
+<p>I secoli, che tante glorie cancellano, danno vita sempre nuova agli uomini veramente grandi. Indelebile resta perciò il nome dell’insigne Modenese, che il primo rischiarò le tenebre del medio evo, raccolse <seg type="comment"><orig>le membra disperse della Storia d’<placeName key="G000690">Italia</placeName> in un solo <bibl sameAs="G004216">corpo monumentale</bibl> e diede alla sua nazione la prima storia completa dell’Intera <placeName key="G000690">patria</placeName></orig><note xml:id="nn3t_zjz_ylb">Das monumentale Werk zur Geschichte und Litertaur Italiens basiert auf einer Idee des Schriftstellers Apostolo Zeno (1668–1750) und besteht aus einer Sammlung von Texten und Quellen. Seine Veröffentlichung wurde von der Mailänder Società Palatina, einem Zusammenschluss von zwölf Aristokraten, gewünscht und unterstützt: „Rerum italicarum scriptores ab anno aerae christianae 500 ad annunm 1500“ (Mailand 1723–1738, dt.: „Geschichte von Italien – nach Ordnung der Jahre, vom Anfang der christlichen Zeitrechnung bis auf das Jahr 1500“, 9 Bde., Leipzig 1745–1750), „Antiquitates italicae medii aevi“ (6 Bde., Mailand 1738–1743) versammelt Abhandlungen über unterschiedliche historische Themen, „Novus thesaurus veterum inscriptionum (4 Bde., Mailand 1738–1742) enthält eine Sammlung alter Inschriften. Die „Annali d’Italia“ behandeln die chronologische Geschichte Italiens von der Geburt Christi bis zur Gegenwart (12 Bde., Mailand 1743–1749). Für breitere Rezeption sorgten die in italienischer Sprache verfassten „Dissertazioni sopra le Antichità italiane“ (5 Bde., Mailand 1751).</note></seg>. </p>
+<p>Se ogni altro popolo civile anche fuori dell’Italia venera nel Muratori uno de’ maggiori riformatori degli studi storici, la <placeName key="G000664">Germania</placeName> specialmente a buon diritto gli consacra un posto eccelso di onoranza fra gli ingegni i più benemeriti della scienza storica.</p>
+<p>Accorrerei quindi a Modena tutto grato e lieto anch’io, umile debitore del sommo storico, onde riverirvi la di lui memoria, e congratularmi poi coi dotti Italiani, perchè ora festosamente celebrano davanti <seg type="comment"><orig>la tomba del loro grande Patriota</orig><note xml:id="nj55_dkz_ylb">1931 wurde in der Kirche Santa Maria della Pomposa, die unter Propst Muratori restauriert wurde, ein Grabmonument ihm zu Ehren errichtet. </note></seg> come fatto compiuto della storia l’unità dell’Italia, di cui un tempo le opere grandiose del Muratori furono quasi l’unica espressione. <seg type="comment"><orig>Essendo io però trattenuto nella mia patria</orig><note xml:id="nbbm_fkz_ylb">Auf ärztliches Anraten war Gregorovius am 14. Juli nach Traunstein gereist, um sich dort durch Salzbäder von einer Erkältung aus dem letzten Winter zu kurieren. Er blieb dort bis zum 12. September, reiste dann nach München, wo er sich noch bis zum 12. November aufhielt. Er machte sich dann über Venedig und Mantua auf den Weg nach Rom, wo er am 29. November eintraf (siehe RT, S. 325–328).</note></seg>, forza è ch’io mi ristringa all’adempimento di questo pio dovere, di diriggere cioè per mezzo di V<ex>ostra</ex> S<ex>ignoria</ex> Ill<ex>ustrissi</ex>ma un saluto di venerazione divota alla memoria dell’immortale uomo e di fare nello stesso tempo voti sinceri acciochè la comunanza letteraria fra Italiani e Allemanni vada sempre più dilatandosi e fortificandosi.</p>
+<p>Aggradisca, illustre Signore, l’attestato della mia gratitudine e dell’alta stima, colla quale mi pregio di chiamarmi</p>
+                <closer>
+                    <salute rendition="#right">Il Servitore ossequioso</salute>
+                    <signed rendition="#right"> F. Gregorovius. </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

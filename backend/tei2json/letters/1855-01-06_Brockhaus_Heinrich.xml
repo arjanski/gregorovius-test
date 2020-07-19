@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000066">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Heinrich Brockhaus in Leipzig. Rom, 6. Januar
+                    1855</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummr 224 (11)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Bl., 4°, 2 S. – 1r aoR in einer Vignette geprägt: BATH – 1r aoR Eingangs- und Beantwortungsvermerk: 1855. / <hi rendition="#aq"><hi rendition="#aq">Rom</hi></hi>, 6/14. <hi rendition="#aq"><hi rendition="#aq">Jan</hi></hi>. / <hi rendition="#aq"><hi rendition="#aq">Gregorovius</hi></hi>. / Be. /1/II.</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Den von Brockhaus gewünschten Beitrag „Das Königreich beider Sicilien in seinen gegenwärtigen Zuständen“ kann er bis Ende April liefern. Er wartet noch auf Materialien aus Neapel und bittet um Richtlinen zur Konzeption des Beitrags. Derzeit arbeitet er an seinen Artikeln „Briefe aus Neapel“ und „Die öffentlichen Monumente von Florenz“ für die „Hausblätter“. Er wünscht Abzüge seines Beitrags „Ein Blick in die romanische Literatur Siciliens“ (1854) aus den „Blättern für literarische Unterhaltung“. Er bittet um Rücksendung seines vor drei Jahre beim „Deutschen Museum“ eingereichten, nicht veröffentlichen Manuskripts „Don Juan, Faust und Ahasver, ein Fragment zur Charakteristik Lenaus“ an seinen Bruder Julius Gregorovius in Königsberg.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He can provide his article „Das Königreich beider Sicilien in seinen gegenwärtigen Zuständen“, requested by Brockhaus, by the end of April. He is still waiting for materials from Naples and asks for guidelines for the conception of the article. He is currently working on his articles „Briefe aus Neapel“ and „Die öffentlichen Monumente von Florenz“ for the „Hausblätter“. He asks for copies of his article „Ein Blick in die romanische Literatur Siciliens“ (1854) from the „Blätter für literarische Unterhaltung“. He asks that his unpublished manuscript „Don Juan, Faust und Ahasver, ein Fragment zur Charakteristik Lenaus“, submitted to the „Deutschen Museum“ three years ago, be returned to his brother Julius Gregorovius in Königsberg. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1855-01-06" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+<persName key="G000996">Brockhaus, Heinrich (1804–1874)</persName>
+<placeName key="G000712">Leipzig</placeName>
+</correspAction>
+                <correspContext>
+                    <ref type="next">1. Februar 1855</ref>
+<ref type="prev">7. Dezember 1854</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+<opener>
+<dateline rendition="#c"><hi rendition="#aq">Roma</hi> d<ex>en</ex> 6. <hi rendition="#aq">Januar</hi> 1855.</dateline>
+</opener>
+<p>Ich habe Ihr geneigtes Schreiben v<ex>om</ex> 7. D<ex>e</ex>c<ex>em</ex>b<ex>e</ex>r 54, geehrtester Herr, richtig empfangen, u<ex>nd</ex> hätte früher geantwortet, wenn es mir möglich gewesen wäre. Gleich nach Empfang Ihres Briefes wandte ich mich nach <placeName key="G000737">Neapel</placeName>, Freunde für die Beschaffung des nötigen Materials zu einer „historisch-statist<ex>is</ex>chen <seg type="comment"><orig><bibl corresp="G003836">Arbeit über die letzten 10 Jahre beider Sicilien</bibl></orig><note xml:id="nx5y_h2y_mlb">Gregorovius übersendet das Manuskript seines Artikels „Das Königreich beider Sicilien in seinen gegenwärtigen Zuständen“ mit seinen Briefen vom <ref target="G000038">22.</ref> und <ref target="G000061">28.4.1855</ref>. Er wurde gedruckt in: Die Gegenwart. Eine encyklopädische Darstellung der neuesten Zeitgeschichte für alle Stände. Bd. 11. Leipzig: Brockhaus 1855. S. 149–189. Unter dem Titel „Neapel und Sicilien vom Jahr 1830 bis 1852“ wurde S. 164–189 aufgenommen in: Siciliana. Wanderungen in Neapel und Sicilien. Leipzig: Brockhaus 1861.</note></seg><supplied cert="high">“</supplied> zu interessiren. Noch habe ich keine Nachricht, kann Sie aber nicht länger warten laßen. Rom ist von Neapel wie durch eine ägyptische Finsterniß getrennt, Material schwer aufzutreiben. Da mir indeß viel daran liegt, für ein so verdienstliches Unternehmen, als die „Gegenwart“ ist, einen Beitrag zu liefern u<ex>nd</ex> nicht minder, einem ehrenvollen Auftrage zu entsprechen, so trage ich kein Bedenken, zu erklären: daß ich Ihnen die gewünschte Arbeit liefern werde zu dem von Ihnen mir freundlichst zu bestimmenden letzten Termin. Das Material werde ich mit Hilfe anderer beschaffen. Wenn Sie mir bis gegen das Ende April Zeit ließen, so wäre mir das erwünscht, da ich gegenwärtig mit dem Abschluß <bibl corresp="G003834 G003835 G003839">zweier Arbeiten</bibl> beschäftigt bin.</p>
+<p>Zugleich möchten Sie, geehrter Herr, die Freundlichkeit haben, mir genauere Andeutungen über alles zu geben, was Sie im Besonderen berücksichtigt wünschen; denn es wäre möglich, daß ich Einiges übersehen könnte; was Ihnen sonst in Betreff des Princips zuläßig erscheint oder nicht, <pb n="1v"/>auch darüber erbitte ich mir die nötige Andeutung. Ich für mich selber meine eine solche historische Skizze eben historisch u<ex>nd</ex> sachlich zu halten, im Sinne des Rechts u<ex>nd</ex> Fortschritts, einfach u<ex>nd</ex> mäßig.</p>
+<p>Ich werde mit Dank einen Abzug meines <bibl sameAs="G003825"><seg type="comment"><orig>Artikels über die sicilisch-romanische Literatur</orig><note xml:id="nkpv_ffy_mlb">Das Manuskript seines Beitags „Ein Blick in die romanische Literatur Siciliens“ hatte Gregorovius mit seinem Brief vom <ref target="G000007">30.5.1854</ref> an die Redaktion der „Blätter für literarische Unterhaltung“ übersandt; er erschien dort: Bd. 1. Nr. 1. Leipzig: Brockhaus 1.1.1855. S. 6–19.</note></seg></bibl> entgegen nehmen, und bitte auch der <note place="left" hand="#addressee">=</note>2 Redaktion der <orgName key="G000469">Bl<ex>ätter</ex> f<ex>ür</ex> lit<ex>erarische</ex> U<ex>nterhaltung</ex></orgName> meinen Dank zu sagen.</p>
+<p>Hiebei richte ich eine Bitte an Sie, betreffend das <orgName key="G000546">Deutsche Museum</orgName>, welches, wie ich weiß, in Ihren Verlag übergegangen ist.</p>
+<p>Vor fast 3 Jahren erlaubte ich mir, für dieses Journal von <placeName key="G000699">Königsberg</placeName> aus u<ex>nd</ex> direct an Herrn <seg type="comment"><orig><persName key="G001512">Robert Prutz</persName></orig><note xml:id="nkl3_kfy_mlb">Der Literaturhistoriker, Schriftsteller und Publizist Robert Prutz (1816–1872) war 1851–1866 der Herausgeber des „Deutschen Museums“.</note></seg> einen Artikel abgehen zu laßen: <seg type="comment"><orig><bibl sameAs="G004255">Don Juan</bibl></orig><note xml:id="nr31_pfy_mlb">Das seit 1844 entstandene, posthum publizierte Gedicht-Fragement „Don Juan“ des jungdeutschen Schriftstellers Nikolaus Lenau (1802–1850) war im ED erschienen in: Morgenblatt für gebildete Leser. Bd. 45. Nr. 82, 83,84, 86 Stuttgart: Cotta 5.4.-10.4.1851. S. 326, 330–331, 333–334, 341–342 (http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10531744–1) – Wiederabdruck unter dem Titel „Don Juan, ein dramatisches Gedicht“ in: Literarischer Nachlaß. Hrsg. von Atanasius Grün. Stuttgart, Tübingen: Cotta 1851. S. 1–102.</note></seg>, <bibl sameAs="G004308">Faust</bibl> u<ex>nd</ex> <bibl sameAs="G004258"><seg type="comment"><orig>Ahasver</orig><note xml:id="nsbj_5fy_mlb">Das 1832/1833 in Amerika entstandene Gedicht Nikolaus Lenaus „Ahasver, der ewige Jude“, das am 22.7.1833 im „Morgenblatt für gebildete Stände“ erschienen war (Nr. 174. S. 693–695).</note></seg></bibl>, <seg type="comment"><orig>ein Fragment zur Charakteristik Lenaus</orig><note xml:id="npyb_jgy_mlb">Ungedruckt. Unter dem Einfluss Lenaus waren auch Gregorovius’ „Polen- und Magyarenlieder“ (1849) entstanden; bereits 1850 hatte er unter dem Titel „Nikolaus Lenau. Eine Charakteristik“ einen längeren Artikel publiziert in: Königsberger Hartungsche Zeitung. Jg. 1. Nr. 216, 221, 226, 227, 231. Königsberg: Hartung 14.9.1850 bis 2.10.1850.</note></seg>. Ich habe noch bis auf den heutigen Tag nicht einmal eine Anzeige von dem Empfange des M<ex>anus</ex>k<ex>ript</ex>s erhalten, obwol man mir aus Königsb<ex>erg</ex> schrieb, daß einer meiner Freunde darum angefragt habe. Ich bitte Sie nun, geehrter Herr, die Redaction des D<ex>eutschen</ex> M<ex>useums</ex> dahin zu vermögen, in ihrem Repertoir nach dem M<ex>anus</ex>k<ex>ript</ex> zu suchen u<ex>nd</ex> solches an folgende Addresse gelangen zu laßen: <seg type="comment"><orig><persName key="G001203">Julius Gregorovius</persName></orig><note xml:id="nbrf_sl1_nlb">Sein Bruder.</note></seg> Artillerieoffizier Königsberg i<ex>n</ex> Pr<ex>eußen</ex> (auf buchhändlerischem Wege). Natürlich würde ich um keinen Preis den Abdruck jenes M<ex>anus</ex>kr<ex>ipts</ex> jetzt nach 3 Jahren wünschen, wo meine Ansicht u<ex>nd</ex> Schreibweise nicht mehr dieselbe ist. Ich bedaure es, daß die Redaction des D<ex>eutschen</ex> M<ex>useums</ex> mir, einem früheren Mitarbeiter, aus mir gänzlich unbekannten Gründen, es für immer unmöglich gemacht hat, für dies geachtete Journal thätig zu sein.</p>
+<closer>
+<salute xml:id="s1" next="#s2">Ich habe die Ehre, hochgeehrter Herr, Ihnen mit der größesten Hochachtung mich zu empfehlen</salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">als Ihr ganz ergebenster</salute>
+<signed rendition="#right">Ferd. Gregorovius.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

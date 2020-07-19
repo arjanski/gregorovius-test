@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000144">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Raffaele Mariano in Florenz. München, 11. Oktober 1874</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno> <idno type="shelfmark"/> </idno>
+                            </msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno> <idno type="shelfmark"/> </idno>
+                            </msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+<p xml:lang="de">Er hat die italienische Übersetzung seiner „Lucrezia Borgia“ (1874) erhalten. Die Qualität des Druckes ist schlecht und Le Monnier gibt zu wenige Freiexemplare, die er für Cesare Guasti, Stefano Davari, Giovanni Zucchetti, Luigi Napoleone Cittadella, Cesare Foucard, Giovanni Ognibene und Attilio Hortis bräuchte – letzterer hatte ihm Einsicht in seine „Scritti inediti di Fr. Petrarca, pubblicati ed illustrati“ (1874) ermöglicht. Bernardo Gatti bekommt kein Exemplar. Domenico Guglielmi soll die deutsche Originalausgabe seiner „Lucrezia Borgia“ (1874) erhalten, die Auguste Lindemann-Frommel aufbewahrt. Bei ihr befindet sich auch der achte Band seiner „Geschichte der Stadt Rom im Mittelalter“ in der zweiten Auflage (1874) für Pietro Venturi. Gregorovius wartet auf Post von Ersilia Caetani Lovatelli. Mariano soll bei Michelangelo Caetani in seinem Namen nach Neuigkeiten fragen. Er hat seinen Artikel „Lucera“ an Mariano schicken lassen, die Beiträge zu „Manfredonia“ und „Der Erzengel auf dem Berge Garganus“ sollen folgen (alle 1874). Ein französischer Verlag hat ihm ein Angebot zur Übersetzung seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) und seiner „Lucrezia Borgia“ (1874) gemacht. Er fürchtet ähnliche Komplikationen wie mit dem Verlag Antonelli bei der italienischen Übersetzung. Grüße von seinem Bruder Julius.</p>
+                <p xml:lang="en"/>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000734">München</placeName>
+                    <date when="1874-10-11" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000671">Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c">Monaco, <placeName key="ediarum_uqx_zzn_zlb">Maximil.str.</placeName> n. 6 <lb/>11. Ott<ex>o</ex>bre 74.</dateline>
+<salute rendition="#c">Caro amico Mariano,</salute>
+</opener>
+<p>ho ricevuto jeri la sua lettera accompagnata dallo <bibl corresp="G004388">stesso libro suo</bibl>. Si figuri, quanta doveva essere la mia soddisfazione di vedere ultimata la cosa anche <seg type="comment"><orig>più presto</orig><note xml:id="njmw_g14_zlb">Raffaele Marianos Übersetzung der „Lucrezia Borgia“ (1874) erschien noch im gleichen Jahr.</note></seg> di quello che non avrei sperato. Il volume, per vero dire, non è troppo nitido, però la carta mi sembra alquanto migliore di quella che ordinariamente si adopra da <orgName key="G000528">Le Monnier</orgName>. <seg type="comment"><orig>L’incisione della Medaglia rimane di molto inferiore a quella di <placeName key="G000636">Berlino</placeName></orig><note xml:id="nlwm_314_zlb">Für das Titelblatt seiner „Lucrezia Borgia“ (1874) hatte sich Gregorovius von dem Berliner Numismatiker Julius Friedländer (1813–1884) die Gips-Reproduktion nach einer Münze aus dem Berliner Münzkabinett besorgt, die ein als authentisch geltendes Lucrezia-Porträt zeigt und die auch für die italienische Übersetzung verwendet werden sollte (siehe die Briefe von Gregorovius an Cotta, 3.10.1873; DLA Marbach, Cotta-Archiv, Cotta-Briefe, 174 – gedruckt in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 338–340 und an Julius Friedländer, 3.10.1873, Sächsische Landesbibliothek – Staats-und Universitätsbibliothek Dresden, MscrDresd.s.863).</note></seg> in guisa che non torna <add place="superlinear">punto</add> a onore di Firenze, patria di tanti intagliatori famosi.</p>
+<p>Sono sorpreso di sentire, che il Le Monnier mi nega po<subst>
+                        <del rendition="#ow">cc</del>
+                        <add place="across">c</add>
+                    </subst>hissime copie del libro, cosa che è una vera vergogna per lui. Il <orgName key="G000523">Cotta</orgName> mi offerse di buona voglia 22 copie della prima edizione. Comunque vada la cosa, Ella potrà insistere, presso il grande parlamento che si convoca colà per le <pb n="1v"/>miserie tipografiche, acciochè mi vengano concedute almeno 5 esemplari. Intanto sarò contento che si spediscono in nome mio le copie destinate alle persone che seguono</p>
+<p>1. al <seg type="comment"><orig><persName key="G001218">Cesare Guasti</persName></orig><note xml:id="nhvt_j14_zlb">Der Schriftsteller und Archivar Cesare Guasti (1822–1889) arbeitete ab 1844 beim Archivio storcio italiano, ab 1854 als festes Redaktionsmitglied. 1852 wurde er zum Assistenten des neu gegründeten Staatsarchivs Florenz berufen, 1874 zu dessen Direktor. Ab 1853 war er Mitglied in der Accademia della Crusca. Gregorovius lernte ihn im September 1858 in dem Florentiner Archiv kennen (siehe RT, 13.9.1858, S. 74). In einem Brief an Guasti vom 26.4.1873 bat Gregorovius um die Abschriften einiger Dokumente für seine „Lucrezia Borgia“ (1874), für die er sich in deren Einleitung auch nachdrücklich bedankt (Bd. 1.1874, S. XV).</note></seg> </p>
+<p>1. allo <seg type="comment"><orig><persName key="G001069">Stefano Davari</persName></orig><note xml:id="ntww_k14_zlb">Der Historiker Gian Antonio Stefano Davari (1836–1909) war seit 1869 Sekretär im Archivio Gonzaga di Mantova, seit 1868 Teil des Archivio di Stato di Mantova, und dort bis zu seinem Lebensende tätig. Er publizierte zur Geschichte Mantuas. Gregorovius hatte ihn bei einem Besuch im Archiv im Jahre 1871 kennengelernt (siehe RT, S. 314). </note></seg> <placeName key="G000724">Mantova</placeName> </p>
+<p>1. a <persName key="G001725"><seg type="comment"><orig>Giovanni Zucchetti</orig><note xml:id="nom5_l14_zlb">Giovanni Zucchetti war Paläograph und arbeitete als Archivar sowie Direktor im Archivio Gonzaga. Zucchetti hatte ebenfalls ein Buch zu Lucrezia Borgia veröffentlicht: Lucrezia Borgia duchessa di Ferrara. Mantua: tip. Franc. Virg. Benvenuti 1860.</note></seg></persName> Mantova</p>
+<p>1. al  <seg type="comment"><orig><persName key="G001035">Cittadella</persName></orig><note xml:id="nxxs_m14_zlb">Luigi Napoleone Cittadella (1806–1877) war seit 1862 kommunaler Bibliothekar und Archivar in Ferrara.</note></seg> in <placeName key="G000670">Ferrara</placeName> </p>
+                <p>1. al <seg type="comment"><orig><persName key="G001134">Cesare Foucard</persName></orig><note xml:id="ndsz_n14_zlb">Cesare Foucard (1825–1892) war ein Archivar und Professor für Paläographie am Generalarchiv Venedig. Von 1873–1887 war er Direktor des Archivio di Stato in Modena. Gregorovius war bei mehreren Forschungsaufenthalten (u.a. 1873 u. 1874) Gast in Foucards Haus und würdigte dessen Entgegenkommen bei seinen Archivrecherchen im Vorwort der „Lucrezia Borgia“ (1874): „Dieser ausgezeichnete Mann bemühte sich für meinen Zweck mit einer wahrhaften Liberalität, wie sie eines Nachfolgers Muratori’s in jenem Amt würdig ist. Er erleichterte mir meine Arbeit auf jede Weise.“ (S. XV; siehe RT, S. 332 sowie den Brief von Gregorovius an Mariano, 21.7.1873).</note></seg>, Direttore</p>
+<p xml:id="p8" next="#p9"> dell’<orgName key="G067840">Archivio di Stato</orgName> in <placeName key="G000729">Modena</placeName>.<metamark/> </p>
+<p xml:id="p9" prev="#p8" place="mBottom">Va senza dire, che in questo numero di 5 copie sono comprese tutte quelle sopradette da spedirsi in nome mio.</p>
+<p>Sopprima dunque quella che destinai al <seg type="comment"><orig><persName key="G001161">Gatti</persName></orig><note xml:id="nc3b_p14_zlb">Bernardo Gatti war an der Biblioteca Ambrosiana in Mailand (siehe den Brief von Gregorovius an Raffaele Mariano vom 28. September 1874); er hat eine Edition von Briefen zu Lucrezia Borgias veröffentlicht: „Lettere di Lucrezia Borgia a Messer Pietro Bembo dagli autografi conservati in un codice della Biblioteca Ambrosiana“ Milano: Ambrosiana 1859.</note></seg> in <placeName key="G000721">Milano</placeName>. Ma compri una copia a spesa mia, per mandarla al <seg type="comment"><orig>Dr. <persName key="G001459">Ognibene</persName></orig><note xml:id="ngdg_q14_zlb">Giovanni Ognibene (1843–1911) war Archivar in Modena (seit 1870 Volontär am Archivio governativo di Modena; seit 1873 an den Archivi di Stato a Modena, seit 1875 Unterarchivar am Archivio di Stato in Modena).</note></seg>, impiegato al medesimo Archivio di Modena. Qualora avesse ottenuto le 5 copie cui pretendo, mi sarebbe cosa grata di spedirne una al signor <seg type="comment"><orig><persName key="G001298">Attilio Hortis</persName> Bibliotecario in <placeName key="G000890">Trieste</placeName></orig><note xml:id="ne4x_r14_zlb">Mario Attilio Francesco Carlo Hortis (1850–1926) war ein italienischer Literaturhistoriker, Bibliothekar und Politiker.</note></seg>, il quale ebbe la gentilezza di farmi dono della sua bellissima pubblicazione intorno agli <bibl sameAs="G067865">scritti inediti del <persName key="G001488">Petrarca</persName> </bibl>.</p>
+<p>Ho da pregarla di altri favori ancora, e sono questi. Ella troverà <pb n="2r"/>presso la signora <persName key="G001374">Lindemann</persName> la copia della<bibl sameAs="G003509"> Lucrezia</bibl> in legatura verde, <seg type="comment"><orig>la quale prego di mandare al <persName key="G001221">Guglielmi</persName></orig><note xml:id="nwfm_514_zlb">Domenico Guglielmi war der Neffe des Domherrn Guglielmi in Trani. Gregorovius besuchte ihn gemeinsam mit Raffaele Mariano und seinem Bruder Julius während süditalienischen Reise im Mai 1874 in Trani (siehe RT, S. 339–342). In einem Brief an Raffaele Mariano vom 26. Oktober 1874 ändert er die Zustellungsbestimmung; das Exemplar danach an die Gräfin Ersilia Caetani Lovatelli (1840–1925) gehen.</note></seg> da parte mia. Troverà dalla medesima signora Lindemann una copia legata del <bibl corresp="G003435">vol<ex>ume</ex> VIII° della mia storia di Roma</bibl>; essa deve completare la serie dei volumi, che nella primavera dell’anno corrente offrii al <orgName key="G004663">Municipio di Roma</orgName>. Prenda dunque quel volume e lo presenti, prego, facendo le mie veci, a chi attualmente fà le funzioni del sindaco di <placeName key="G000763">Roma</placeName> – sarà, come credo, lo stesso <seg type="comment"><orig>cavaliere <persName key="ed_8s1_n17_lm4">Venturi</persName></orig><note xml:id="nkkz_x14_zlb">Cavaliere Pietro Venturi (1830-?) war Assessor und Bürgermeister von Rom vom 31. Mai 1872 bis zum 26. November 1872 (Sinistra storica) und vom 5. August 1874 bis zum 14. Januar 1875 sowie vom 15. Januar 1875 bis zum November 1877 (Sinistra storica). In einem Brief vom 17. August 1872, der am 22. August 1872 im „Opinione“ veröffentlicht wurde, dankt Gregorovius dem Venturi für das auf den 7. August 1872 datierte Schreiben, das ihn informiert hatte, dass die Finanzierung der italienischen Übersetzung seiner „Geschichte der Stadt Rom im Mittelalter“ bewilligt ist (Brief von Gregorovius an den Cavalier Venturi. In: L’Opinione. Giornale Quotidiano. Jg. 25. Nr. 232. Rom 22.8.1872. S. 2.) In deutscher Sprache in: AZ. Nr. 240. Augsburg: Cotta 27.8.1872. S. 3669f. Zudem hat Gregorovius seinen Brief in sein Tagebuch aufgenommen (10.9.1872, S. 326–327).</note></seg>, con cui intratenni un carteggio onorevole due anni fà.</p>
+<p>Finalmente la prego di recarsi <seg type="comment"><orig>dal <persName key="G001004">Duca di Sermoneta</persName></orig><note xml:id="nbl1_z14_zlb">Gregorovius widmete seine „Lucrezia Borgia“ dem Duca di Sermoneta, Michelangelo Caetani (1804–1882), der ihm bereitwillig sein Archiv geöffnet und historische Urkunden und Dokumente zur Verfügung gestellt hatte – die Caetanis waren einst mit den Borgias verfeindet. Das Manuskript der Widmung und Einleitung traf am 11.3.1874 beim Verlag ein (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VIII, 296–297).</note></seg>, onde portargli i miei complimenti e domandargli da parte mia le sue nove, e quelle della <persName key="G001244">sua famiglia.</persName> <seg type="comment"><orig>Non ho scritto questa volta</orig><note xml:id="nmm2_1b4_zlb">Kurze Zeit später, am 15. November 1874, schrieb er schließlich an die Contessa Ersilia Caetani Lovatelli.</note></seg> – come feci altre volte, stando in <placeName key="G000664">Germania</placeName> – a <seg type="comment"><orig><persName key="G001011">Donna Ersilia</persName></orig><note xml:id="nn5s_bb4_zlb">Die etwa zwanzig Jahre jüngere Gräfin Ersilia Caetani Lovatelli (1840–1925), Tochter von Michelangelo Caetani (Herzog von Sermoneta 1804–1882), die sich mit ihren archäologischen und stadthistorischen Forschungen Ansehen erwarb, gehörte zu Gregorovius’ engem, späteren Bekanntenkreis in Rom. Im Alter von 24 Jahren wurde sie Ehrenmitglied des Deutschen Archäologischen Instituts. Seit 1879 war sie das erste weibliche Mitglied der römischen Accademia dei Lincei (vgl. RT, S.. 416). Gregorovius verkehrte wie auch Mommsen regelmäßig im Salon der „gelehrtesten Frau Roms und vielleicht Italiens“ (RT, S. 336). Seine Briefe an die Gräfin erschienen in Auszügen bereits 1896 (Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli, ed. Sigmund Münz, Berlin 1896), ihre Gegenbriefe sind erhalten, aber unveröffentlicht.</note></seg>, perchè volli farla capire le sue mancanze di amabiltà verso di me – e lo avrà capito per bene. È un vero peccato, che questa donna per tanti rispetti distinta difetta assolutamente di alcune <pb n="2v"/>qualità che costituiscono il maggior pregio della donna. Se la vedesse, dopo il suo ritorno da <placeName key="G000737">Napoli</placeName>, potrà, senz’altro dire, domandarla delle sue nuove da parte mia.</p>
+<p>L’altro jeri le spedii <bibl corresp="G003986 G003987">l’articolo su Lucera</bibl> avendolo diretto alla Tipografia <orgName key="G000528">Le Monnier</orgName>. Seguiranno presto anche gli altri su <bibl corresp="G003988 G003989">Manfredonia</bibl> e sul <bibl corresp="G003990 G003991 G003992">Gargano</bibl> </p>
+<p>Null’altro per oggi. Le stringo affettuosamente la mano, memore sempre di tante dimostrazioni d’amicizia che ho ricevuto e ricevo ognora da lei. Le auguro i migliori successi in Roma. Mi dia l’indirizzo suo, quanto presto avrà stabilito la nuova sua sede – non potrebbe forse prendersi quelle mie camere antiche in via Gregoriana?</p>
+<closer>
+<salute rendition="#right">Tutto suo di cuore</salute>
+<signed rendition="#right">F.Gregorovius. <lb/> <note type="postscript">Il mio <persName key="G001203">fratello</persName> le manda mille saluti di stima e di affetto. Mi furono fatte offerte di traduzione della <bibl sameAs="ed_ql2_hdw_8jm">storia di Roma</bibl> e della <bibl sameAs="ed_cbn_tdt_s05">Lucrezia</bibl> da <seg type="comment"><orig>due editori di <placeName key="G000749">Parigi </placeName></orig><note xml:id="nfmf_2fw_2mb">Die französische Übersetzung erschien im Folgejahr unter dem Titel „Lucrèce Borgia, d’après les documents originaux et les correspondances contemporaines“ nach der 3. Auflage der deutschen Ausgabe (1875) als „corrigée et augmentée“ (siehe auch den Brief von Gregorovius an Cotta vom 9.10.1874 sowie den Brief von Sandoz &amp; Fischbacher an Gregorovius vom 23.12.1874).</note></seg>– ed ecco <seg type="comment"><orig>le nuove seccature da incontrare con libraji forse al pari di quelle <placeName key="G000894">Veneziane</placeName></orig><note xml:id="ngbp_mmk_1mb">Zwei Bände seiner „Geschichte der Stadt Rom im Mittelalter“ wurden unter dem Titel „Storia della città di Roma nel Medio Evo dal secolo V al XVI“ als Prima versione italiana zunächst von Renato Manzato übersetzt und beim venezianischen Verlag Giuseppe Antonelli herausgegeben, doch unterband Gregorovius wegen der mangelnden Übersetzungsqualität die Fortführung; bald ging der Verlag in den Konkurs. </note></seg>.</note> </signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

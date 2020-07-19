@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000178">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Louis Roth in Stuttgart. Rom, 24. Juni 1863</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (55)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ¼ S. – 2v aoR Eingangs- und Beantwortungsvermerk: 1863. / <hi rendition="#aq">Rom</hi> 24. <hi rendition="#aq">Juni</hi> / <hi rendition="#aq">Fd. Gregorovius</hi> / <hi rendition="#aq">R</hi> 30 <hi rendition="#aq">Juni</hi> / <hi rendition="#aq">R</hi> 18 <hi rendition="#aq">Juli</hi> – 1r unter der Datumszeile Eingangs- und Beantwortungsvermerk: 30/18 <hi rendition="#aq">Juli</hi></p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark"><idno>Karton 57, Mappe 340–342 (nach D) und Karton 55, Mappe 336–337 (Ergänzungen nach H)</idno></idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 255–256 (leicht gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Seine „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) muss wegen der Fülle des Materials von sechs auf sieben Bände ausgeweitet werden. Der fünfte Band (1865) soll nunmehr bis zum Jahr 1300 reichen, der sechste Band (1867) bis 1377 und der siebte Band (1870) bis 1527. Er hat die Materialsammlung bis zum Jahr 1376 abgeschlossen und will im Winter an die Niederschrift des fünften Bandes gehen. Er wird sich ab Ende Juli für einen Monat für Bibliotheksarbeiten in München aufhalten. Er erkundigt sich nach den Absatzszahlen der ersten vier Bände seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1862) und seines „Corsica“ (1854).</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He needs to extend his „Geschichte der Stadt Rom im Mittelalter“ (1859-1872) from six to seven volumes due to the abundance of material. The fifth volume (1865) is now to last until 1300, the sixth volume (1867) until 1377 and the seventh volume (1870) until 1527. He has completed collecting material up to 1376 and intends to start writing the fifth volume in winter. He will be in Munich for a month of library work from the end of July. He inquires about the sales figures of the first four volumes of his „Geschichte der Stadt Rom im Mittelalter“ (1859-1862) and his „Corsica“ (1854). </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1863-06-24" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001559">Roth, Louis (1802–1875)</persName>
+<placeName key="G000879">Stuttgart</placeName>
+</correspAction>
+<correspContext>
+<ref type="next">18. Juli 1863 (h: DLA Marbach, Cotta-Archiv, Kopirbuch V, S. 485)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi>, 24. <hi rendition="#aq">Juni</hi> 63.</dateline>
+                    <salute rendition="#c">Hochverehrter Herr,</salute>
+                </opener>
+<p>in Bezug auf die <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Geschichte der Stadt Rom im Mittelalter</bibl> habe ich der <orgName key="G000523">J. G. Cotta’schen Buchhandlung</orgName> folgendes mitzuteilen, was ich Sie bitte zur Erwägung gefälligst bringen zu wollen. </p>
+<p>Aus der großen Menge des Materials zur Herstellung des Bandes V ergibt sich mir nämlich die Wahrscheinlichkeit, daß ich dieselbe nicht gut in einem Band werde zusammendrängen können.</p>
+<p><seg type="comment"><orig>Nach meiner ursprünglichen Ansicht, u<ex>nd</ex> der contractlichen Feststellung sollte das ganze Werk in 6 Bänden abgeschlossen werden, wovon nun 4 gedruckt sind</orig><note xml:id="nesr_dw3_cmb">Der Verlags-Vertrag vom 5.9.1858 sah für das Gesamtwerk seiner „Geschichte der Stadt Rom im Mittelalter“ einen Umfang von sechs Bänden vor (DLA Marbach, Cotta-Archiv, Cotta-Verträge 1)., der bis zum Abschluss (1872) auf acht Bände anwuchs. Gregorovius arbeitete gerade am 5. Band, der 1865 ausgegeben wurde.</note></seg>.</p>
+<p><seg type="comment"><orig>Für Band V sollte ich demgemäß die Periode vom Jahr 1200 bis 1376 bearbeiten</orig><note xml:id="nzjm_2w3_cmb">Band 5 beginnt mit dem Ponitfikat von Innozenz III. (1161–1216) im Jahr 1198 und endet 1305 mit dem, durch das französisch dominierte Kardinalskollegium, zum Papst gewählten Erzbischof von Bordeaux als Clemens V. (zwischen 1250 und 1265–1314).</note></seg>. </p>
+<p><seg type="comment"><orig>Band VI würde mit dem Jahr 1527 diese Geschichte des römischen Mittelalters zum Abschluß bringen</orig><note xml:id="nmr2_fw3_cmb">Band 8 seiner „Geschichte der Stadt Rom im Mittelalter“ endet mit dem Sacco di Roma am 6. Mai 1527, als es zur Plünderung Roms und des Kirchenstaats sowie zu Gewaltexzessen durch deutsche Landsknechte und spanische sowie italienische Söldner Karls V. (1500–1558) kam.</note></seg>.</p>
+<p>Ich habe demnach für Band V die Aufgabe, die inhaltsreichsten Epochen Roms, <seg type="comment"><orig>die Hohenstaufenzeit</orig><note xml:id="nbdx_fw3_cmb">Das schwäbische Adelsgeschlecht, das vom 11. bis zum 13. Jahrhundert mehrere römisch-deutsche Herzöge, Könige und Kaiser hervorbrachte (Konrad III., Friedrich I. Barbarossa, Heinrich VI., Philipp von Schwaben, Friedrich II., Konrad IV., Manfred und Konradin).</note></seg>, die Regierung des berühmten Senators <persName key="G000992"><hi rendition="#aq"><hi rendition="#aq"><seg type="comment"><orig>Brancaleone</orig><note xml:id="ncf5_gw3_cmb">Der Gegner des stadtrömischen Adels Brancaleone degli Andalò (um 1220–1258)</note></seg></hi></hi></persName>, die langen Kämpfe von <seg type="comment"><orig>Guelfen u<ex>nd</ex> Ghibellinen</orig><note xml:id="nvlj_hw3_cmb">Guelfen (Welfen), die Parteigänger des Papstes und Ghibellinen (Waiblinger) die Parteigänger des Kaisers.</note></seg> in der Stadt, endlich die Zustände während des <seg type="comment"><orig><placeName key="G000795">avignonischen</placeName> Exils</orig><note xml:id="nwlf_3w3_cmb">Zwischen 1309 und 1377 hatte sieben Päpste ihren Sitz in Avignon.</note></seg> u<ex>nd</ex> vor allen in dieser Zeit <pb n="1v"/>die Geschichte des <hi rendition="#aq"><persName key="G001547"><seg type="comment"><orig>Cola di Rienzo</orig><note xml:id="nk5v_3w3_cmb">Der römische Politiker und Volkstribun Cola di Rienzo (1313–1354).</note></seg></persName></hi> nach Urkunden zu entwickeln. Indem ich nun diesen reichen Stoff u<ex>nd</ex> die Fülle der von mir aus Archiven gezogenen Dokumente übersehe, fürchte ich, daß ich nicht im Stande sein werde, so viel in den einen Band zusammenzufaßen, ohne entweder denselben unverhältnißmäßig anzuschwellen, oder durch Kürzung des Inhalts den gleichmäßigen Charakter des ganzen Werks zu beschädigen.</p>
+<p>In dieser Voraussicht, die freilich noch immer nicht Gewißheit ist, erlaube ich mir der geehrten J. G. Cotta’schen Buchhandlung die Anfrage zu stellen: </p>
+<p>würde sie, in diesem Falle, darauf eingehen, das Werk um einen Band zu vermehren, also statt 6, 7 Bände im Ganzen festzusetzen, was dann durch einen <hi rendition="#aq">Additional-Artikel</hi> im Contract könnte verzeichnet werden?</p>
+<p>Es würde unter diesen Umständen die ursprünglich für den V. Band berechnete Masse in zwei Bände zu teilen sein, u<ex>nd</ex> zwar <seg type="comment"><orig>Band V reichen bis 1300</orig><note xml:id="nsbm_jw3_cmb">Band 5 endet schließlich im Jahr 1305 mit der Wahl Clemens V. (zwischen 1250 und 1265–1314).</note></seg>; <seg type="comment"><orig>Band <pb n="2r"/>VI die Epoche des <hi rendition="#aq">Cola</hi> u<ex>nd</ex> der Avignonischen Päpste umfaßen</orig><note xml:id="nxcy_tx3_cmb">Band 6 endet schließlich schon mit dem Einzug des Colonna-Papstes Martin V. (1368–1431) am 29. September 1420 in Rom.</note></seg>; <seg type="comment"><orig>Band VII endlich, für dessen Ausführung in den ursprünglichen Grenzen absolut kein Zweifel statt hat, den Rest bis zum Jahr 1527 enthalten</orig><note xml:id="ngj4_5x3_cmb">Band 7 reicht bis zum Tod des Borgia-Papstes Alexander VI. (*1431) im Jahr 1503.</note></seg>.</p>
+<p>Es wird dem geehrten Verlag das bisherige Resultat der Verkaufsfähigkeit dieses Werks, welches wie ich glaube günstig ist, als Maßstab bei der Beurteilung meines Vorschlags dienen; und somit werde ich bitten mir <seg type="comment"><orig>mitzuteilen, ob Sie mir hierbei freie Hand geben, oder ob es bei der contractlichen Stipulation in Bezug auf die Anzahl der Bände bleiben soll</orig><note xml:id="njm2_vx3_cmb">Der Verlag gab seine Zustimmung: „Ihre Mittheilung […] statt der ursprünglich verabredeten 6 Bände, nunmehr 7 Bände zu geben, ist uns nicht ganz angenehm, insofern dadurch der Preis des Buches nothwendig erhöht , wohl auch die Vollendung derselben etwas verzögert wird. Indessen wenn Ihnen diese Werkwirkung einmal nothwendig erscheint, so können wir sie unmöglich verweigern, da natürlich die Hauptsache ist, daß das Buch möglichst gut u. in möglichst gleichmäßigem Charakter herzustellen. Wenn sich also bei der Ausarbeitung wirklich die Nothwendigkeit eines siebenten Bandes ergeben sollte […] so ertheilen wir hiermit zum Voraus unsere Einwilligung.“ (Louis Roth an Gregorovius, 18.7.1863; DLA Marbach, Cotta-Archiv, Kopirbuch V, S. 485). </note></seg>.</p>
+<p>Ich habe alle Vorarbeiten für die ganze Masse des Bandes V oder die Epochen von 1200–1376 bereit, u<ex>nd</ex> gehe an die Ausführung in diesem Winter. Ich bitte, mir eine Mitteilung nach <seg type="comment"><orig><placeName key="G000734">München</placeName> zugehen zu laßen, wo ich am Ende des <hi rendition="#aq">Juli</hi> eintreffe, um einen Monat lang die dortige<orgName key="G000510"> Bibliothek</orgName> zu benutzen</orig><note xml:id="nnkv_vx3_cmb">Nach Aufenthalten am Viewaldstätter See und am Rheinfall reiste Gregorovius Ende Juli 1863 über Konstanz Anfang August nach München, wo er bis zum 30. August blieb. Nach einem Aufenthalt in Bad Reichenhall und Salzburg kehrte er am 5. September 1863 für fünf Tage nach München zurück (siehe RT, 14.7.-9.9.1863, S. 162–167). </note></seg>. Zugleich möchten Sie die Güte haben, mir mitzuteilen, <seg type="comment"><orig>wieviel Exemplare gegenwärtig sowol von der Geschichte Roms, als von dem <bibl sameAs="G003106">Werk über Corsica</bibl> abgesetzt <pb n="2v"/>sind</orig><note xml:id="nqm3_wx3_cmb">Dem Antwortbrief hatte der Verlag eine Übersicht des Absatzes von „Corsica“ (1854) und der ersten vier Bände seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1862) beigefügt (DLA Marbach, Cotta-Archiv, Cotta-Briefe, 56a) sowie die Honorarberechnung für das erste Semester 1863.</note></seg>.</p>
+                <closer>
+<salute xml:id="s1" next="#s2">Mit großer Hochachtung empfiehlt sich Ihnen, geehrter Herr, </salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">Ihr ganz ergebenster</salute>
+                    <signed rendition="#right">FGregorovius.</signed></closer>
+<note type="postscript">Der Brief geht durch Reisegelegenheit nach <placeName key="G000623">Baden</placeName>, wo er auf die Post kommt.</note>
+            </div>
+        </body>
+    </text>
+</TEI>

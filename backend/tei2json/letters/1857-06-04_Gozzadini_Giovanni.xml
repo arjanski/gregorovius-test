@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000395">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. Rom, 4. Juni 1857</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+<p>Brief von Gregorovius an Maria Teresa Serego Alighieri Gozzadini </p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Lettere di Storia e Archeologia a Giovanni Gozzadini. Pubblicate da Nerio Malvezzi con prefazione di Giosuè Carducci. Bd. 1. Bologna: Nicola Zanichelli [1898]. S. 202 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+<p xml:lang="de">Er bedauert, dass Gozzadini seine „Grabmäler der Römischen Päpste“ (1857) in deutscher Sprache nicht lesen kann. Seine „Geschichte der Stadt Rom im Mittelalter“ (1859) wird sicher ins Englische übersetzt. Im beiliegenden Brief an Maria Teresa Serego Alighieri Gozzadini findet er Informationen über Paolo Perez.</p>
+                <p xml:lang="en">He regrets that Gozzadini cannot read his „Grabmäler der Römischen Päpste“ (1857) in German. His „Geschichte der Stadt Rom im Mittelalter“ (1859) will certainly be translated into English. There is information on Paolo Perez in the enclosed letter to Maria Teresa Serego Alighieri Gozzadini. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1857-06-04" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni (1810–1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="202"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">Roma, 4 giugno 1857.</dateline>
+</opener>
+<p>Illustrissimo Signor Conte. La ringrazio sinceramente di avere gradito <seg type="comment"><orig>le <bibl sameAs="G003430">mie tombe papali</bibl></orig><note xml:id="njfr_3mq_tlb">„Die Grabmäler der Römischen Päpste“ waren kurz zuvor erschienen (vgl. RT, 14.6.1857, S. 66).</note></seg>; per causa della lingua in cui sono scritte, ho perduto in Lei un lettore di alto sapere, ma guadagnato probabilmente la sua benevolenza o credito per un poco più di tempo, e così quel libretto stiasi dentro la di Lei biblioteca come una bella e furba maschera. Bene sarebbe per me, se Ella un giorno volesse leggere <seg type="comment"><orig>il primo volume della mia <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Cronaca di Roma</bibl></orig><note xml:id="ncw4_kmq_tlb">Band 1 von Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ erschien 1859 bei Cotta in Stuttgart. </note></seg>, di cui io non dubito che <seg type="comment"><orig>si farà una <bibl sameAs="G004448">traduzione inglese</bibl></orig><note xml:id="nid4_lmq_tlb">Die Übersetzung erschien erst posthum: Annie Hamilton. History of the City of Rome in the Middle Ages. London: Bell &amp; Sons 1894–1902. Sie war nach der vierten deutschen Auflage erfolgt.</note></seg>; io parlo delle cose contenutevi, non parlo dell’arte. Perché gli Italiani anche oggidì vincono gli altri popoli nell’arte dello scrivere.</p>
+<p>Essendomi preso la libertà di unire a questa mia lettera un’altra indirizzata alla <persName key="G001092">signora Contessa</persName>, la prego di voler farsi partecipe di tutto quello che ho scritto del conte <persName key="G001483"><seg type="comment"><orig>P<ex>aolo</ex> Perez</orig><note xml:id="nvfc_qmq_tlb">Den 1856 in den Rosminianer-Orden eingetretenen Paolo Perez besuchte Gregorovius regelmäßig in Stresa (vgl. RT, 17.7.1867, S. 227; RT, 20.7.1869, S. 259).</note></seg>.</persName> È tornato l’anno, da quando quell’uomo infelice sì, ma in qualche punto ammirabile, se ne andò da Roma alla lor villa di <placeName key="G000822">Ronzano</placeName>. Vola il tempo, e quel poco che l’uomo raccoglie colla fatica stilla a goccia a goccia.</p>
+<p>Io Le auguro, signor Conte, la più bella e fruttifera stagione. Cogli atti i più sinceri della mia stima o riconoscenza servitor suo.</p>
+</div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_sy3_pms_flb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. Rom, 9. Mai 1878</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="restricted"><licence target="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International (CC BY 4.0) </licence></availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Adr.: Illmo Signore / il signor Conte Giovanni Gozzadini / Senatore del Regno / Bologna</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell’Archiginnasio</institution><collection>Ms. Gozzadini 442</collection><idno>(28)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er ist mit Raffaele Mariano und Carlo Marchese Guerrieri Gonzaga durch Latium gereist. Er dankt für die Widmung in seiner jüngst erschienen Studie „Giovanni Pepoli e Sisto V. Racconto storico“ (1879). Gozzadinis Bedeutung ist nicht nur durch dessen Herkunft aus einer der ältesten Familien Bolognas begründet, sondern auch durch seine wissenschaftlichen, politischen und kulturellen Leistungen. Auf seiner Rückreise nach München wird er die Gozzadinis in Bologna besuchen.</p>
+                <p xml:lang="en">He travelled through Lazio with Raffaele Mariano and Carlo Marchese Guerrieri Gonzaga. He is grateful for the dedication in his recently published study „Giovanni Pepoli e Sisto V. Racconto storico“ (1879). Gozzadini’s importance is not only due to his origin from one of the oldest families in Bologna, but also to his scientific, political and cultural achievements. On his return journey to Munich he will visit the Gozzadinis in Bologna.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1878-05-09" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni conte (1810-1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Roma, 9. Maggio 1878.</dateline>
+                    <salute rendition="#c">Illustre signor Conte,</salute>
+                </opener>
+<p><seg type="comment"><orig>ritornato in città da una escursione alle montagne del <placeName key="G000844">Lazio</placeName></orig><note xml:id="npw1_q2k_1mb">Gregorovius war am 5. Mai zusammen mit seinem Freund Raffaele Mariano (1840–1912) und Carlo Marchese Guerrieri Gonzaga (1827–1913) in das ca. 57 Kilometer östlich von Rom gelegene Olevano sowie von dort nach Subiaco, das für sein Benediktinerkloster berühmt ist, gereist: „Alle diese Orte in den Bergen sind im Verfall; der Schmutz Olevanos erschreckte mich; das Haus Baldi hat nicht die geringsten Fortschritte in der Kultur gemacht, alles dort ist primitiv geblieben. Wir sahen auch die Serpentara, den jetzt der deutschen Regierung von einigen Künstlern geschenkten Eichenwald; er ist der einzige Fleck Erde, welchen das deutsche Reich in Italien besitzt.“ (RT, 15.4.1878, S. 402).</note></seg>, ebbi il piacere di trovare sul mio tavolino ambedue le lettere, che Ella m’ha scritte.</p>
+<p>Non so esprimerle quanto io sia rimasto confuso dalla dimostrazione d’affetto e simpatia, con cui Ella distingue la mia persona, dandomi parte dell’intenzione sua, di voler mettere in fronte al <seg type="comment"><orig>suo nuovissimo <bibl sameAs="ed_amf_mg2_rlb">libro</bibl></orig><note xml:id="nywd_r2k_1mb">In einem früheren Brief hatte Gregorovius Gozzadini zur Wiederaufnahme der Arbeit an dieser historischen Erzählung beglückwünscht; siehe den Brief von Gregorovius an Giovanni Gozzadini vom 3.10.1877. </note></seg> <seg type="comment"><orig>il mio tenue nome</orig><note xml:id="nhhc_s2k_1mb">Gozzadinis Widmung in dem Buch spricht Gregorovius als den vortrefflichen Deutschen, den Geschichtsschreiber und römischen Bürger an: https://books.google.it/books?id=sDVWDEfPrFEC&amp;printsec=frontcover&amp;dq=giovanni+gozzadini+giovanni+pepoli&amp;hl=de&amp;sa=X&amp;ved=0ahUKEwjIj77VwoXoAhUFPewKHeR4DK4Q6AEIKDAA#v=onepage&amp;q&amp;f=false.</note></seg>. La coscienza di non possedere titoli sufficiente a farmi degno di un così insigne onore, e la temenza di toglierne il posto a persona più meritevole, avrebbe dovuto persuadermi di declinare tante onorificenza, ove non mi spingesse ad accetarla con gratitudine la deferenza verso la di lei volontà, ed inoltre la gioja che provo nel pensare, che mercé l’atto suo generoso il mio nome, inscritto in una sua opera, d’ora innanzi si onorerà della compagnia di quella d’un uomo, nel quale sin da molti anni <pb n="2"/>venero non solo le glorie secolari <seg type="comment"><orig>di una famiglia delle più celebri di Italia</orig><note xml:id="nrkb_52k_1mb">Die aus einfachen Verhältnissen stammende Bologneser Familie Gozzadini lässt sich bin in das 12. Jahrhundert zurückverfolgen. Damit zählt sie zu den ältesten Familien der Stadt. Ihr entstammen wichtige Vertreter des Bank- und Handelswesens sowie bedeutende Rechtsgelehrte. Im Spätmittelalter stand die Familie politisch auf der Seite der Guelfen. Ihren Ruhm behielt sie sich bis zu Zeiten von Giovanni Gozzadini, mit dessen Ableben ging auch die Bedeutung der Familie allmählich verloren.</note></seg>, ma anche <seg type="comment"><orig>le sue virtù proprie personali</orig><note xml:id="nbgn_v2k_1mb">Gozzadini war nicht nur ein angesehener Archäologe und Historiker, der große Ausgrabungen leitete sowie wichtige Schriften veröffentlichte, er war auch für seine politischen Aktivitäten geschätzt. Dafür wurde er mit vielen Ritterorden ausgezeichnet. 1860 zum Senator des Königreich Sardinies ernannt, fungierte der glühende Patriot im selben Jahr zugleich als Gründungsmitglied und Präsident der Deputazione di Storia Patria per le Province di Romagna. Dem folgten zahlreiche Präsidenschaften in Kommissionen und Leitungspositionen in kulturellen Einrichtungen.</note></seg>. </p>
+<p>Mi lusingo colla speranza, di poter ben presto riverire personalmente la S<ex>ignoria</ex> V<ex>ostra</ex> come quella della gentilissima Signora <persName key="G001092">Contessa</persName>, cui voglia portare i miei rispetti, essendo che fra dieci giorni o meno lascerò Roma a fine di ritornare a <placeName key="G000734">Monaco</placeName>, passando per <placeName key="G000671">Firenze</placeName> e Bologna. </p>
+<p>Intanto mi raffermo colla più alta e cordiale stima,</p>
+<p>illustre signor Conte,</p>
+                <closer>
+                    <salute rendition="#right">suo devotissimo</salute>
+                    <signed rendition="#right">Ferdin. Gregorovius.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

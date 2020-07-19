@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000160">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Karl Hase in Jena. München, 7. September 1862</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Privatbesitz</repository><idno>Kopie Autograph: GhStA Berlin, NL Waldemar Kampf, Karton 88, Mappe 1</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er übersendet ein Exemplar des soeben erschienenen vierten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“, dessen Teil-Manuskript Hase aus Rom mit nach Deutschland genommen hatte. Nach einem dreiwöchigen Kuraufenthalt in St. Moritz, einem Besuch in Heiden bei der Familie Thile und einem Aufenthalt in Ragaz als Gast russischen Großfürstin Elena Pawlowna ist er in München eingetroffen, um hier Bibliotheksarbeiten zu erledigen und seinen Bruder Julius zu treffen. In München sind bis auf Adolf Friedrich Graf von Schack alle verreist. Er will am 15. September nach Florenz abreisen. Hase soll ihm in die dortige Villa seines Freundes François Sabatier schreiben. Er bittet um ein Exemplar von Hases „Franz von Assisi. Ein Heiligenbild“ (1856) und um seine Photographie; er selbst will die seine schicken. Er bedauert den Tod von Frau Daniel, die er in Rom kennengelernt hatte.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He is sending a copy of the recently published fourth volume of his „Geschichte der Stadt Rom im Mittelalter“, a part of which Hase had taken from Rome to Germany. After a three-week stay at a health resort in St. Moritz, a visit to Heiden with the Thile family and a stay in Ragaz as a guest of the Russian Grand Duchess Elena Pawlowna, he arrived in Munich to do library work and meet his brother Julius. In Munich, everyone except Adolf Friedrich Graf von Schack is out of town. He wants to leave for Florence on September 15th. Hase is to write to him in the villa of his friend François Sabatier. He asks for a copy of Hase’s „Franz von Assisi. Ein Heiligenbild“ (1856) and for his photograph; he himself wants to send his own. He regrets the death of Mrs. Daniel, whom he had met in Rome. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1862-09-07" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001238">Hase, Karl (ab 1888) von (1800–1890)</persName>
+<placeName key="G000692">Jena</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">München, 7. <hi rendition="#aq">Sept<ex>em</ex>b<ex>e</ex>r</hi> 62.</dateline>
+                    <salute>Mein hochverehrter u<ex>nd</ex> teurer <seg type="comment"><orig>Herr</orig><note xml:id="nnzn_rn5_1mb">Der aus einer evangelischen Pfarrersfamilie stammende Kirchenhistoriker Karl Hase (1800–1890) war als Student wegen burschenschaftlicher Umtriebe von der Universtät Leipzig und der Universität Tübingen, wo er bei Friedrich Wilhelm Joseph Schelling (1775–1854) und Gotthilf Heinrich von Schubert (1780–1860) studiert hatte, verwiesen worden. Seine Teilnahme an der Burschenschaft in Erlangen hatte ihm sogar eine Haftstrafe eingetragen. Gleichwohl konnte er sich 1828 in Leipzig habilitieren, wo er 1829 außerordentlicher Professor der Philosophie wurde. Nach einer längeren Bildungsreise in Italien folgte er 1830 dem Ruf an die Universität Jena, wo er trotz Berufungen nach Bern und Zürich bis zu seiner Emiritierung 1883 lehrte. 1837 war er zum Kirchenrat ernannt worden, es folgten viele Auszeichnungen. Mit seiner Frau Pauline, geb. Härtel (1809–1885), Tochter des Leipziger Musikverlegers Gottfried Härtel, Inhaber des Musikverlages Breitkopf &amp; Härtel, hatte er sechs Kinder, die bereits das Erwachenenalter erreicht hatten, als Gregorovius Hase in Rom kennenlernte. Wann genau Gregorovius und Karl Hase sich das erste Mal begegnet sind, ist nicht bekannt, da Hase mindestens mehr als ein Dutzend Mal in Rom war – zuletzt im April/Mai 1862. Der recht vertrauliche Ton im vorliegenden Brief deutet auf einen schon länger andauernden Kontakt. In den Folgejahren nahm Hase, der laut Gregorovius ein „großer Theologe, Kirchenrat und Vertreter des himmlischen Jenseits, mit dem bescheidenen Namen Hase, aus dem bescheidenen Jena“ war (so im Brief an Marie Rückert vom <ref target="G000337">14.4.1870</ref>), immer wieder einmal Briefe und Manuskripte für Gregorovius mit nach Deutschland. Es ist von einem regelmäßigen Briefwechsel zwischen Gregorovius und Hase auszugehen, doch ist der vorliegende Brief von Gregorovius der einzig erhaltene und auch in seinem Nachlass findet sich lediglich ein Brief von Hase an Gregorovius aus dem Jahre 1877, der von ihrer fortdauernden Freundschaft zeugt.</note></seg>,</salute>
+                </opener>
+<p>empfangen Sie beikommend des <bibl sameAs="G003462"><seg type="comment"><orig>IV. Band der Geschichte der Stadt</orig><note xml:id="nlvk_sn5_1mb">Der soeben ausgegebene, vierte Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1862).</note></seg></bibl> als Denkmal Ihrer so großen Güte gegen mich. Möchten Sie sich beim Lesen <seg type="comment"><orig>erinnern, daß es die letzten 4 Capitel des VIII. Buches waren, welche Sie selbst mit so viel Liebenswürdigkeit mit ins <placeName key="G000664">Vaterland</placeName> nahmen</orig><note xml:id="ns13_tn5_1mb">Zusammen mit Gregorovius’ Brief an Cotta vom 10.5.1862 (in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 246–247) hatte Karl Hase einen Teil des Manuskripts vom vierten Band der „Geschichte der Stadt Rom im Mittelalter“ (1862) aus Rom nach Deutschland mitgenommen. </note></seg>.</p>
+<p>Ich bin an Ihren Grenzen, kann aber leider nicht bis zu Ihnen gelangen. Am 21. Juli verließ ich <placeName key="G000763">Rom</placeName>, nahm <seg type="comment"><orig>ohne Erfolg die Wasser von <hi rendition="#aq"><placeName key="G000875">S<ex>ank</ex>t Moritz</placeName></hi> in <placeName key="G067579">Engadin </placeName>durch 3 Wochen, lebte 8 Tage beim ehemaligen <placeName key="G000646">preuß<ex>ischen</ex> </placeName>Gesandten in Rom, <persName key="G001644">Herrn v<ex>on</ex> Thile</persName>, zu <hi rendition="#aq"><placeName key="G000686">Heiden</placeName></hi> oberhalb des <placeName key="G000856">Bodensees</placeName></orig><note xml:id="nmml_5n5_1mb">In St. Moritz hatte sich Gregorovius bis zum 20. August 1862 aufgehalten (siehe RT, 27.8.1862, S. 151) und fuhr dann, mit Zwischenhalt in Zürich, Ende August nach Heiden, wo er Hermann von Thile (1812–1889) mit seiner Familie und dessen Schwager Albrecht von Graefe (1828–1870) und seiner Frau Anna, geb. Gräfin Knuth (1842–1872), besuchte (siehe RT, 27.8.1862, S. 151).</note></seg>, <pb n="1v"/>mußte weiter zurück gegen <hi rendition="#aq"><placeName key="G067551">Cur</placeName></hi>, zu <seg type="comment"><orig>Besuch der <persName key="G001261">Großfürstin <hi rendition="#aq">Helène</hi></persName></orig><note xml:id="ncm3_vn5_1mb">Am 30. August 1862 war Gregorovius nach Ragaz gereist, um die dort weilende Großfürstin Elena Pawlowna (1807–1873) von Russland und ihre Gesellschafterin Editha von Rahden (1823–1885) zu treffen (siehe RT, 3.9.1862, S. 151 und den Brief von <ref target="G000159">Gregorovius an Thile, 4.9.1862</ref>).</note></seg>, u<ex>nd</ex> ging endlich hieher, die<orgName key="G000510"> Bibliothek</orgName> zu durchstöbern. Die ist die Chronik meiner nördlichen Reisen.</p>
+<p>Hier ist alles draußen, <seg type="comment"><orig>bis auf den trefflichen <persName key="G001573">Adolf v<ex>on</ex> <hi rendition="#aq">Schack</hi></persName></orig><note xml:id="nx2d_wn5_1mb">Gregorovius hatte Adolf Friedrich Graf von Schack (1815–1894) in seinem Palais in der Brienner Straße 22 besucht und ihn während seines Münchener Aufenthaltes bis zum 13. September häufiger getroffen (siehe RT, 3.-12.9.1862, S. 152–153). Siehe auch den Brief von <ref target="G000161">Gregorovius an Schack, 11.9.1862</ref>.</note></seg>, doch <seg type="comment"><orig>traf ich hier mit <persName key="G001203">einem meiner Brüder</persName> zusammen</orig><note xml:id="nihz_wn5_1mb">Julius Gregorovius (1819–1891) war am 5. September 1862 nach München gekommen (siehe RT, 8.9.1862, S. 152).</note></seg>, u<ex>nd</ex> hatte schöne Tage. <seg type="comment"><orig>Ich bleibe hier bis etwa zum 15. <hi rendition="#aq">Sept<ex>em</ex>b<ex>e</ex>r</hi>, u<ex>nd</ex> gehe sodann nach <placeName key="G000671">Florenz</placeName></orig><note xml:id="nxxs_xn5_1mb">Auf seinem Rückweg nach Rom hielt Gregorovius sich für Archivarbeiten für den fünften Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1865) vom 20. September bis 21. Oktober 1862 in Florenz auf (siehe RT, 20.9.-20.10.1862, S. 154–155).</note></seg>. Dorthin bitte, schreiben Sie mir ein paar Zeilen (<seg type="comment"><orig><hi rendition="#aq">Villa <persName key="G001565 G001665">Ungher-Sabatier</persName></hi></orig><note xml:id="nxd4_yn5_1mb">Die Villa des mit Gregorovius befreundeten Ehepaars François Sabatier (1818–1891) und Caroline Ungher-Sabatier (1803–1877).</note></seg>), damit ich weiß, daß es Ihnen herrlich ergeht, u<ex>nd</ex> Sie meiner noch wolwollend gedenken.</p>
+<p>Am besten: kommen Sie sehr <pb n="2r"/>bald wieder nach Rom.</p>
+<p>Haben Sie ein Exemplar Ihres <bibl sameAs="G067699">Franciscus</bibl>, so laßen Sie ihn mir durch <persName key="G001055">Cotta</persName> zukommen, u<ex>nd</ex> verzeihen Sie meiner Unverschämtheit.</p>
+<p>Die <seg type="comment"><orig>arme <persName key="G067633">Frau von </persName><hi rendition="#aq"><persName key="G067633">Danie</persName>l</hi></orig><note xml:id="nsph_b45_1mb">Nicht ermittelt – Gregorovius hatte die jüngst, plötzlich, „in noch frischer Lebenskraft“, verstorbene Frau Daniel in Rom kennengelernt, wie er Heinrich Brockhaus am 27. April 1862 mitgeteilt hatte (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 63).</note></seg>! Gott befohlen! und <hi rendition="#aq"><seg type="comment"><orig>Salem</orig><note xml:id="nkbw_b45_1mb">Arab.: Friede.</note></seg></hi>!</p>
+                <closer>
+<salute xml:id="s1" next="#s2">In treuer Verehrung, mein sehr teurer Herr, für dies u<ex>nd</ex> das andre Leben</salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">Ihr</salute>
+                    <signed rendition="#right">FGregorovius.</signed></closer>
+<note type="postscript">Ich muß Ihre Photographie haben, u<ex>nd</ex> schicke meine.</note>
+            </div>
+        </body>
+    </text>
+</TEI>

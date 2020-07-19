@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000103">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Hermann von Thile in Berlin. Rom, 11. April
+                    1859</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>96/937 (6) </idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 1 Bl., 8°, 6 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 59, Mappe 347 (nach D) und Karton 59, Mappe 346 (Ergänzungen nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 9–12 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Die Rückkehr Thiles nach Rom, nachdem sich der gesundheitliche Zustand des Sohnes Hans gebessert hat, würde ihn sehr erfreuen. Der erste Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1859) lässt er ihm durch Cotta zusanden und bittet um ein unumwundenes Urteil. Der zweite Band (1859) erschient in Kürze, für den dritten Band (1860) will er im Mai für Archichivarbeiten nach Montecassiono. Er fürchtet Kritik am ersten Band, weil er die jüngst von Constantin von Höfler aus dem Nachlass von Felix von Papencordt herausgebene „Geschichte der Stadt Rom im Mittelalter“ (1857) erst zu spät einsehen konnte. Sein von Thile gewürdigtes Gedicht „Hermus. Eine Nacht auf dem Mittelmeer“ will er noch einmal überarbeiten. Er begrüßt Thiles Bemühungen um eine finanzielle Unterstützung seitens der preußischen Regierung, doch ist sie nach dem Vertragsabschlusss mit Cotta nicht mehr existenziell. Über die von Camillo Benso von Cavour in Sardinien begonnenen politischen Reformen und die bevorstehende militärische Konfrontation mit Österreich. Clemens August Alertz ist wohlauf, Peter von Cornelius hat Besuch von seiner Tochter Maria Marcelli. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">Thiles’ return to Rome, after the health of his son Hans improves, would give him great pleasure. The first volume of his „Geschichte der Stadt Rom im Mittelalter“ (1859) will be sent to him by Cotta and he asks for candid judgement. The second volume (1859) will appear shortly, for the third volume (1860) he wants to go to Montecassiono in May for archival work. He fears criticism of the first volume because he was only able to view the „Geschichte der Stadt Rom im Mittelalter“ (1857), recently published by Constantin von Höfler from the estate of Felix von Papencordt, when it was too late. He wants to revise his poem „Hermus. Eine Nacht auf dem Mittelmeer“. He welcomes Thile’s efforts to obtain financial support from the Prussian government, but it is no longer vital after the conclusion of the contract with Cotta. About the political reforms begun by Camillo Benso von Cavour in Sardinia and the imminent military confrontation with Austria. Clemens August Alertz is well, Peter von Cornelius has a visit from his daughter Maria Marcelli. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1859-04-11" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001644">Thile, Hermann von (1812–1889)</persName>
+                    <placeName key="G000636">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right"><hi rendition="#aq">Rom</hi>, 11. <hi rendition="#aq">April</hi> 1859.</dateline>
+<salute rendition="#c">Mein hochverehrter Herr,</salute>
+</opener>
+<p>mit einer wahrhaften Freude habe ich Ihr freundliches Schreiben vom Januar erhalten u<ex>nd</ex> daraus gesehn, daß Sie und Ihre <persName key="G001645">Frau Gemalin</persName> mir doch gern ein wolwollendes Andenken bewahrt haben, wofür ich Ihnen von Herzen dankbar bin. Auch der <seg type="comment"><orig>Gesundheitszustand des lieben <persName key="G001643">Hans</persName></orig><note xml:id="nrcm_hqs_wlb">Wegen der Ende Juni 1858 erstmals aufgetretenen Epilepsie des Sohnes Hans (1848–1869) hatten die Thiles Ende Juli 1858 Rom verlassen. Um die erhoffte Genesung des Sohnes zu fördern, fuhr die Familie zuerst ins schweizerische Heiden und kehrte schließlich ganz nach Berlin zurück.</note></seg> scheint sich gebessert zu haben, was mir auch zu meiner großen Beruhigung andere Nachrichten bestätigt haben, so daß wol alles sich beßer wenden u<ex>nd</ex> keineswegs den gefürchteten Charakter annehmen wird. Nun aber kommt mir so eben die Mitteilung, daß Sie nach Rom zurückzukehren gedenken; obwol dieses ein so großes u<ex>nd</ex> freudiges Ereigniß wäre, daß ich noch an dessen Wirklichkeit zweifeln muß, so will ich doch diese Möglichkeit in den kleinen Kalender meiner besten Hoffnungen eintragen. Gefaßt hatte ich allerdings, um es zu gestehn, diese Hoffnung seit der Zeit, als ich sah, daß Sie <seg type="comment"><orig>keine der vacanten Legationen angenommen hatten</orig><note xml:id="nl2j_jqs_wlb">Vielmehr gab Hermann von Thile seinen Posten als bevollmächtigter Minister Preußens am Heiligen Stuhl auf und ließ sich in den vorläufigen Ruhestand versetzen.</note></seg>, u<ex>nd</ex> so mag denn ein gutes Gestirn diesen Wunsch erfüllen. Er wird <pb n="1v"/>nicht von mir allein ausgesprochen, sondern mit <hi rendition="#u" hand="">einer</hi> Stimme ist Ihr u<ex>nd</ex> Ihrer Frau Gemalin Fortgang hier beständig und aufrichtig beklagt worden, u<ex>nd</ex> mit <hi rendition="#u" hand="">einer</hi> Stimme werden Sie hier in Rom begrüßt werden.</p>
+<p>In diesen Tagen wird der <bibl sameAs="G003485"><seg type="comment"><orig>Erste Band der Geschichte von Rom</orig><note xml:id="nrhn_kqs_wlb">Im April war Bd. 1 von Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ ausgegeben worden (siehe den Ankündigungstext zu dessen Erscheinen in: Beilage zu Nr. 119 der AZ. Stuttgart: Cotta 29.4.1859. S. 1939).</note></seg></bibl> in Ihre Hände gelangen, wie ich der <orgName key="G000523">J. G. Cottaschen Buchhandlung</orgName> aufgetragen habe, ihn nach Berlin zu schicken. Sie werden ihn freundlich aufnehmen, deßen bin ich gewiß, und ich wünsche, er könnte nur zu einem Teile dem entsprechen, was ein solches Werk dem Plan nach sein sollte. Aber indem ich diesen Band nun gebunden vor mir habe, sehe ich selbst, wie wenig eigentlich geleistet worden ist, u<ex>nd</ex> wie auch die angestrengteste Arbeit im Verhältniß zu der immensen Aufgabe so winzig geblieben ist. Ich bitte Sie, mein verehrter Herr, mir unverholen Ihr Urteil auszusprechen, u<ex>nd</ex> alles mir gütigst zu bezeichnen, was Ihnen mißfällt oder fehlerhaft erscheint, denn weil doch dieses Werk fortgesetzt wird, muß <pb n="2r"/>ich aus dem Urteil der scharf und sicher blickenden Männer alles das zu lernen suchen, was mir für die folgenden Teile nützlich sein kann. Weil ich die <seg type="comment"><orig>Materialien <persName key="G001469">Papencordts</persName> in dem <bibl corresp="G004218">Höflerischen Bande</bibl></orig><note xml:id="neh1_tqs_wlb">Die „Geschichte der Stadt Rom im Mittelalter“ von Felix Papencordt (1811 oder 1812–1841), die Constantin von Höfler (1811–1897) aus dessen Nachlass herausgab (Paderborn: Schönigh 1857). Siehe https://archive.org/details/bub_gb_xHU2Q9F602oC/page/n7.</note></seg> erst am Ende des <seg type="comment"><orig><bibl sameAs="G003476">2. Bandes</bibl></orig><note xml:id="nosk_5qs_wlb">Bd. 2 von Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ wurde im September 1859 ausgegeben (siehe den Ankündigungstext zu dessen Erscheinen in: AZ. Nr. 263. Stuttgart: Cotta 20.9.1859, S. 4290).</note></seg> erhielt, habe ich sie erst dort benutzen können, u<ex>nd</ex> mit aller Anerkennung daselbst von Papencordt gesprochen u<ex>nd</ex> gesagt, daß er es eigentlich war, der unter den Deutschen den Plan zu dieser Geschichte zuerst faßte. Nun aber sieht es so aus, als hätte ich Papencordts nicht erwähnen wollen, da im Band I nicht von ihm die Rede ist, u<ex>nd</ex> ich glaube, man wird mir das von mancher Seite falsch auslegen. Hätte ich eine Vorrede geschrieben, so würde ich der Papencordtschen Arbeit noch nachträglich haben erwähnen können; jetzt aber mag das auf sich beruhen, bis der 2. Band erschienen ist, welcher übrigens fast fertig gedruckt ist. Auch der <bibl sameAs="G003469"><seg type="comment"><orig>3. Band</orig><note xml:id="nadg_yqs_wlb">Bd. 3 von Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ erschien Ende 1860.</note></seg></bibl> bis zum Tode <persName key="G004731">Ottos III</persName> im Jahr 1002 ist von mir geschrieben, wenn auch noch nicht vollendet. Um dies zu thun, will ich, und wahrscheinlich am <seg type="comment"><orig>Ende des Mai, nach <hi rendition="#aq"><placeName key="G000730">Monte Casino</placeName></hi> reisen</orig><note xml:id="nrhr_brs_wlb">Gregorovis fuhr für seine Archivarbeiten erst vom 5.-18. Oktober 1859 nach Montecassino (siehe den Brief von <ref target="G000405">Gregorovius an Kalefati, 12.8.1859</ref>).</note></seg>, u<ex>nd</ex> auch sonst noch einiges in Bibliotheken nach-<pb n="2v"/>tragen.</p>
+<p>Es hat <add place="intralinear">mich</add> überaus erfreut, daß Ihnen die <bibl corresp="G003872"><seg type="comment"><orig>poetische Schilderung von der Hermus-Catastrophe, im Morgenblatt</orig><note xml:id="njjn_2rs_wlb">Gregorovius wollte am Abend des 29.9.1858 auf dem Dampfer Hermus von Livorno nach Civitavecchia fahren. In der Meerenge von Piombino bei Elba rammte die Hermus den Dampfer Aventin, der kurz darauf sank (siehe RT, 3.10.1858, S. 75–76). Sein Erlebnis verarbeitete Gregorovius in einem Gedicht „Hermus. Eine Nacht auf dem Mittelmeer“ (Morgenblatt für gebildete Leser. Nr. 44. 31.10.1858).</note></seg></bibl>, der Bemerkung wert erschienen ist, u<ex>nd</ex> ich will deshalb noch einige Feile an dies Poem wenden, welches ich <seg type="comment"><orig><hi rendition="#aq"><foreign xml:lang="ita">di tutta furia</foreign></hi></orig><note xml:id="nuxm_grs_wlb">Ital: in Eile.</note></seg> in ein paar Stunden niederschrieb, u<ex>nd</ex> <seg type="comment"><orig>gleich wegschickte</orig><note xml:id="nyys_hrs_wlb">Gedicht im Anhang der Edition, S. 239ff. (gekürzt).</note></seg>. </p>
+<p><seg type="comment"><orig>Die italienische Angelegenheit, welche gegenwärtig die Welt in Aufregung versetzt</orig><note xml:id="nabq_3rs_wlb">Mit dem Einmarsch der Österreicher in das Piemont begann am 29. April 1859 der zweite Italienische Unabhängigkeitskrieg zwischen dem habsburgischen Kaisertum Österreich und Sardinien-Piemont mit dem französischen Kaiserreich unter Napoléon III. – der mit Camillo Benso von Cavour (1810–1861) im Juli 1858 einen geheimes Bündnis gegen die habsburgische Vormacht in Europa geschlossen hatte. Nachdem die österreichische Armee am 24. Juni 1859 in Solferino und San Martino von Frankreich und Sardinien geschlagen wurde, musste Österreich im Frieden von Zürich am 10. November 1859, die Lombardei an Frankreich abgeben; Napoleon III. reichte die Provinz an Sardinien weiter. In der Folge verlor das Haus Habsburg weitere italienische Besitzungen: Großherzog Leopold II. von Toskana (1797–1870) und auch Herzog Franz V. von Modena (1819–1875) wurden 1860 durch Volksabstimmungen abgesetzt und Italien zum Nationalstaat geeint. Einzig Venetien verblieb bei Österreich. Zwischen Napoléon III. und Vittorio Emanuele (1820–1878) wurde 1860 der Anschluss des Herzogtums Savoyen und der Grafschaft Nizza an Frankreich vollzogen; am 17. März 1861 wurde Vittorio Emanuele offiziell zum König von Italien proklamiert.</note></seg>, wird hier nur durch Vermittlung von Zeitungen gespürt. Alles ist ruhig, u<ex>nd</ex> auf dem faulsten Fleck Europas lebt man in idyllischem Behagen. Indeß sind auch einige Römer zu den Fahnen Piemonts wenn auch nicht geströmt, so doch abgegangen, u<ex>nd</ex> täglich wird in Toscana ein Ausbruch erwartet. Mit Tractaten u<ex>nd</ex> <seg type="comment"><orig>Congreßen</orig><note xml:id="nw1k_mrs_wlb">Ein europäischer Kongreß verhandelte die Italienfrage (siehe AZ. Nr. 287. 14.10.1859. S. 4677–4678).</note></seg> ist diesem Lande nicht zu helfen; wenn nicht die agrarischen Verhältniße und der Volksunterricht Reformen erfahren, ist alle <seg type="comment"><orig>politische Veränderung nichts als eben solche</orig><note xml:id="ns5f_nrs_wlb">Nach 1848 begannen unter dem Ministerpräsidenten Camillo Benso von Cavour (1810–1861) im Königreich Sardinien politische Reformen und militärische Vorbereitungen für einen erneuten italienischen Freiheitskampf.</note></seg>.</p>
+<p><persName key="G000913"><hi rendition="#aq">Alertz</hi></persName> ist ziemlich wol, <seg type="comment"><orig>bei <persName key="G001049">Cornelius</persName> steht es beim Alten, außer daß seine <persName key="G004701">Tochter, <seg type="comment"><orig><foreign xml:lang="ita">la contessa</foreign></orig><note xml:id="new2_5rs_wlb">Cornelius’ Tochter aus erster Ehe, Maria Cornelius (gest. 1860), die 1855 Conte Filippo Marcelli (gest. 1872) zu Clavi bei Urbino heiratete.</note></seg> <hi rendition="#aq">Marcelli</hi></persName>, bei ihm ist</orig><note xml:id="nm2v_vrs_wlb">Siehe den Brief von <ref target="G000106">Gregorovius an Hermann von Thile, 22.12.1858</ref>. Der Maler Peter von Cornelius (1783–1867) hatte Besuch von seiner Tochter Maria Marcelli (1815–1860), die seit 1855 mit dem Grafen Filippo Marcelli (†1872) aus Cagli bei Urbino verheiratet war.</note></seg>.</p>
+<p>Wie Sie, hochverehrter Herr, es bestimmt haben <seg type="comment"><orig>wegen der Schuld,</orig><note xml:id="ny32_bss_wlb">Gregorovius hatte sich von Thile Geld geliehen, siehe den Brief von <ref target="G000106">Gregorovius an Thile, 22.12.1858</ref>. In seinem Brief vom <ref target="G000094">7.1.1860</ref> kündigte Gregorovius bei Thile eine erste Zahlungsanweisung von 150 Talern zur Tilgung an, doch zu diesem Zeitpunkt hatte Thile ihm bereits weitere 2000 Franks zugesandt (siehe den Brief von <ref target="G000093">Gregorovius an Thile, 11.1.1860</ref>).</note></seg> erkenne ich freilich mit Dank Ihre immer liberalen Absichten; aber <seg type="comment"><orig>wenn auch an dem betreffenden Orte nichts erreicht werden sollte, und dies ist <pb n="3r"/>bei der jetzigen Krisis doppelt fraglich, so bin ich nicht in Verlegenheit</orig><note xml:id="noz3_hss_wlb">Siehe den Brief von <ref target="G000112">Gregorovius an Hermann von Thile, 23.9.1858</ref>. Nach einem Besuch von Friedrich Althaus bei Alexander von Humboldt (1768–1859), dem Präsidenten der Kommission zur Prüfung der Unterstützungsgesuche von Gelehrten und Künstlern, am 26. Juli 1856 in Berlin hatte Humboldt am 29. Juli 1856 einen Brief an Gregrorovius geschrieben, in dem er dessen „Corsica“ (1854) sehr lobte (BSB, Sign. Autogr.Cim. Humboldt, Alexander von.13 – siehe http://daten.digitale-sammlungen.de/bsb00091648/image_1). Durch zusätzliche Vermittlung Hermann von Thiles bekam Gregorovius ab Herbst 1860 eine jährliches Stipendium der preußischen Regierung für seine „Geschichte der Stadt Rom im Mittelalter“, das bis 1866 fortgezahlt wurde.</note></seg>. In Ihrer Obhut mich zu wißen, ist mir schon an sich förderlich; aber das Bewußtsein von dem, was ich Ihnen schon seit Jahren verdanke, kann durch Erfolg oder Fehlschlagen Ihrer Fürsprache beim <orgName key="G000541">Ministerium </orgName>weder gesteigert noch vermindert werden. Im Übrigen würde ich auch eine einmalige Unterstützung von Seiten des Staats dankbar annehmen, sollte an dem Unternehmen etwas erkannt werden, was der Förderung wert erscheint.</p>
+<p>Der Frühling ist nun gekommen; auf dem <placeName key="G000805">Pincio </placeName>steht alles im Flor, u<ex>nd</ex> diese architectonische u<ex>nd</ex> moralische Ruine Rom, von der man sagen darf: <seg type="comment"><orig><hi rendition="#aq"><foreign xml:lang="Lat">Roma stat suis antiquis superstitionibus et substructionibus</foreign></hi></orig><note xml:id="nofp_4ss_wlb">Lat. in etwa: Rom beruht auf seinen alten abergläubischen Vorstellungen und seinen Grundmauern.</note></seg>, prangt in einer unvergänglichen Schönheit. Stadt, Campagna, <placeName key="G000761">Capitol</placeName>, Ihre Wohnung laden Sie dringend zur Rückkehr ein; hören Sie die Stimme der ewigen u<ex>nd</ex> goldnen Roma, welche Sie nicht allein durch den Mund ihres jüngsten u<ex>nd</ex> schlechtesten Geschichtschreibers ruft, sondern durch den aller Steine, Lüfte u<ex>nd</ex> Quiriten.</p>
+<p rendition="#c"><seg type="comment"><orig><hi rendition="#aq"><foreign xml:lang="Lat">Tam cito Romuleis posse carere bonis? <lb/>Quid longum toto Romam venerantibus aevo? <lb/>Nil unquam longum est, quod sine fine placet.</foreign></hi></orig><note xml:id="npbr_5ss_wlb">Rutilius Claudius Namatianus: De reditu suo sive iter Gallicum, Liber primus, V. 2–4. Lat.: Dass ich so bald schon auf die Segnungen der Romolusstadt verzichten kann. Was heißt denn lang für die, die ein Leben lang Roma verehren? Nichts ist je lang, was ohne Ende gefällt.</note></seg></p>
+<p rendition="#right"><hi rendition="#aq"><persName key="G001564">Rutilius Numatianus</persName></hi></p><pb n="3v"/>
+<p>Nein! jene alte <seg type="comment"><orig>ἐπιθυμία της οῐκηςεως ἐν Ῥωμη</orig><note xml:id="nod1_l2q_2mb">Griech. für: Sehnsucht in Rom zu wohnen. Gregorovius zitiert den byzantinischen Historiker Proskopios von Caesarea (um 500–562) im ersten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1859), S. 426–427: Mit Proskopios’ Worten erläutert er den Moment, als Belisar (500–565) im Jahr 547 die Stadtmauern Roms wieder errichtet hat und die Römer damit beginnen, in ihre Stadt zurückzukehren.</note></seg> wird Sie Alle uns wieder zurückführen, wenn auch nicht im Sommer, so im Herbst, u<ex>nd</ex> jene schweren Prüfungen, welche Ihnen der Himmel gesendet hat, werden dann einer heiteren Gewißheit über die völlige Herstellung Ihres herrlichen Kindes weichen. An diesem guten Glauben will ich wahrlich auch mit ruhigem Mut festhalten.</p>
+<p>Ich empfehle mich Ihnen, sehr verehrte Frau von Thile, auf das Angelegentlichste; ich bitte mich Ihrem <persName key="G001189"><seg type="comment"><orig>Herrn Bruder</orig><note xml:id="ncrc_wss_wlb">Der in Berlin praktizierende Schwager Thiles, der Augenarzt Albrecht von Graefe (1828–1870).</note></seg></persName> zu empfehlen, deßen täglicher Umgang Ihnen so wol gethan haben wird, u<ex>nd</ex> Hänschen viele mal herzlich grüßend, wünsche ich nur den Tag herbei, wo ich Ihnen Allen in Rom persönlich meine Freude über Ihre Rückkehr aussprechen kann.</p>
+<closer>
+<salute rendition="#c">Mit großer u<ex>nd</ex> wahrhafter Verehrung</salute>
+<signed rendition="#right"><hi rendition="#aq">FGregorovius</hi>.</signed>
+</closer>
+<note type="postscript">Eben war der treffliche Alertz bei mir, und trägt mir viele u<ex>nd</ex> warme Empfehlungen auf, was auch der alte Herr Cornelius thäte, wenn er um mein Schreiben wüßte. Wir sprechen jedesmal von Ihnen, u<ex>nd</ex> er wünscht immer, wie Alle, Ihre Rückkehr.</note>
+</div>
+        </body>
+    </text>
+</TEI>

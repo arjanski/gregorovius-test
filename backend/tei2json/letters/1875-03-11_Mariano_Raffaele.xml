@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000167">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Raffaele Mariano in Rom. Mailand, 11. März 1875</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 1¾ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er recherchiert im Archivio di Stato in Mailand, unterstützt von Cesare Cantù und Pietro Ghinzoni. Anders als von Alberto Errera angenommen, gibt es dort keine wichtigen neuen Dokumente zu Lucrezia Borgia. Die geplante mailändische Quellenpublikation zu Lucrezia ist nicht zustande gekommen. Für die vierte Auflage seiner „Lucrezia Borgia“ (1906) hat Gregorovius Dokumente zu Ascanio Sforza Visconti und Giovanni Sforza gesichtet. Er hofft auf Einsicht in weitere, noch ungeordnete Dokumente von Stefano Taverna, dem mailändischen Botschafter Ludovico Sforzas. In der Biblioteca Queriniana in Brescia wurde er freundlich empfangen, in der Biblioteca Ambrosiana in Mailand abgewiesen. Er kommt am 19. März 1875 nach Rom und freut sich auf die Zusammenkunft mit Mariano und Karl Lindemann-Frommel.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000721">Mailand</placeName>
+                    <date when="1875-03-11" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c"><seg type="comment"><orig>Milano</orig><note xml:id="nsb1_hb5_zlb">Gregorovius reiste am 2. März 1875 von München über Verona, Brescia, Cremona und Pavia nach Mailand; dabei notiert er in sein Tagebuch: „Es war meine Absicht, diesmal einige lombardische Städte kennenzulernen, die ich bisher, trotz meines langen Lebens in Italien, noch nicht besucht hatte. Dies wollte ich auch wegen des projektierten Hohenstaufen-Albums tun, an dessen Durchführung ich noch glaubte.“ (RT, 31.3.1875, S. 346).</note></seg>, Marzo 11. 75.</dateline>
+                    <salute>Caro amico Mariano,</salute>
+                </opener>
+<p>sin da tre giorni sto scartabellando i carteggi diplomatici di questo <orgName key="G067882">archivio di Stato</orgName>, il quale, quantunque abbia molte lacune, tuttavia presenta ricchissima materia a chi voglia trattare i tempi dei <persName key="G001242">Borgia</persName>. Fui accolto qua dal <persName key="G001018"><seg type="comment"><orig>Cantù</orig><note xml:id="nalg_3b5_zlb">Cesare Cantù (1804–1895), Historiker, Archivar, Literat (Romanschriftsteller) und Politiker, Begründer des Archivio Storico Lombardo, seit Dezember 1875 Direktor des Staatsarchivs in Mailand. Gregorovius notierte über die erste Begegnung mit Cantù am 26. Juli 1862 in seinem Tagebuch: “Gestern besuchte ich Cesare Cantù (Via di Tor Morigio Nr. 1). Ich erwartete, einen alten Mann zu finden, es trat mir in einem Bibliothekzimmer, welches auf den Garten hinausgeht, ein frischer Fünfziger entgegen, von kleiner Statur, mit geistreichen Zügen und funkelnden Augen. Cantù machte einen sehr angenehmen Eindruck. Seine Tätigkeit ist enorm und seine Popularität als Historiker für das Volk groß.“ (S. 149)</note></seg></persName> con ogni dimostrazione di amicizia cosa che, come non sperata da me, mi sorprese. Mi disse, che <seg type="comment"><orig>un certo Grion</orig><note xml:id="natj_jb5_zlb">Nicht ermittelt; möglicherweise Giusto Grion (1827–1904), gebürtiger Triestiner, Gymnasiallehrer am klassischen (altsprachlichen) Gymnasium in Udine, ab 1866–1877 Direktor des Lyzeums Scipione Maffei in Verona, dann in Luca, Lodi und Cividale. Historische Studien, speziell zum Mittelalter. </note></seg> ebreo milanese aveva ricercato nell’Archivio alcuni documenti, per stamparli, come sappiamo, ma che la sua raccolta era riuscita meschinissima, che alla fine egli aveva smesso l’idea di stampare quel suo opuscolo. Le mie proprie ricerche facilitate dal Cantù e dal <seg type="comment"><orig><persName key="G001170">Ghinzoni</persName></orig><note xml:id="npkj_kb5_zlb">Pietro Ghinzoni (1828–1895), Dozent, Archivar, Historiker, Nachfolger des Luigi Ferrario an der „Scuola di Archivistica, Diplomatica e Paleografia dell’Archivio di Stato di Milano“.</note></seg> mi convincono, che nulla vi sia da cavare che torni a vituperio di <persName key="G000985">Donna Lucrezia</persName>; quindi quella opinione proferita dal <seg type="comment"><orig>suo amico <persName key="G001119">Errera</persName></orig><note xml:id="nqsv_lb5_zlb">Alberto Errera (1842–1894) Nationalökonom, Professur in Venedig, dann in Mailand, dort auch Redakteur der Tageszeitung „La Perseveranza“, die in Mailand von 1859 bis 1922 erschien.</note></seg>, esserci cioè rinvenuti alcuni argomenti che dovrebbero piuttosto gravare la colpa della donna, è cosa del tutto immaginaria, ovvero sicuramente per niun modo sostenuta dalle carte dell’Archivio di Milano. Vi trovai un ampio carteggio del <seg type="comment"><orig>cardinale <persName key="G001599">Ascanio</persName></orig><note xml:id="nv4w_mb5_zlb">Der Kardinal Ascanio Maria Sforza (1455–1505), sechster Sohn von Francesco I. Sforza (1401–1466), Gründer der Sforza-Dynastie und Herzog von Mailand, und Herzogin Bianca Maria Visconti (1425–1468).</note></seg>, non che <pb n="1v"/><seg type="comment"><orig>di <persName key="G001600">Giovanni di Pesaro</persName></orig><note xml:id="nym5_nb5_zlb">Giovanni Sforza (1466–1510) und Lucrezia Borgia (1480–1519) heirateten am 12. Juni 1493. Die Ehe der unehelichen Tochter von Papst Alexander VI. (1431–1503) war eine machtpolitische Entscheidung ihres Vaters, der so eine Allianz mit der Familie Sforza eingegangen war, und machte Lucrezia zur Gräfin von Pesaro. Allerdings kam es im Zuge des Eroberungszugs Karls VIII. (1470–1498) in Neapel zu Auseinandersetzungen zwischen dem Papst und seinem Schwager, woraufhin Sforza nach Pesaro flüchtete. Am 20. Dezember 1497 wurde die Eheschließung wegen angeblicher Impotenz des Gatten für als nicht vollzogen erklärt und die Verbindung aufgelöst (siehe dazu: Ferdinand Gregoroviu. Lucrezia Borgia. Bd. 1. 1874, S. 95–103).</note></seg>; me ne avvallerò <seg type="comment"><orig>per la </orig><note xml:id="nlvs_4b5_zlb">Die vierte Auflage sollte erst 1906 posthum erscheinen; sie ist nicht um die geannten Dokumente erweitert.</note></seg><bibl sameAs="G003508">quarta edizione del libro</bibl>; intanto c’è da sperare, che anche i dispacci di un accuratissimo agente del <seg type="comment"><orig><persName key="G001601">Moro</persName></orig><note xml:id="nfgt_pb5_zlb">Ludovico Maria Sforza (1452–1508), genannt il „Moro“, ab 1479 Herzog von Bari, von 1494 bis 1499 und 1500 Herzog von Mailand. Siehe auch die Anm. zuvor zu Giovanni Sforza.</note></seg>, <seg type="comment"><orig><persName key="G001638">Taverna</persName> </orig><note xml:id="nfg5_qb5_zlb">Ludovico Sforzas mailänder Botschafter Stefano Taverna.</note></seg>di cognome, saranno ordinati e messi alla mia disposizione.</p>
+<p>Anche a <placeName key="G000640">Brescia</placeName>, nella<orgName key="ed_utr_jng_zkb"> Biblioteca Queriniana</orgName>, fui accolto con calore, mentre questi buoni preti, che governano attualmente <orgName key="G067528">l’Ambrosiana</orgName> mi si facevano incontro con un muso piuttosto storto.</p>
+<p>Avrei salutato la cara <placeName key="G000690">Italia</placeName> con maggior espansione di cuore, se non era il freddo, che melo ristringeva. Rare volte ho patito disagi simili: a <placeName key="G000895">Verona</placeName> credevo di dover lasciare l’anima mia nell’albergo.</p>
+<p>Ora mi sono affrancato alquanto, e godo anche le bellezze grandiose di questa città. <seg type="comment"><orig>La sera del 19 sarò a Roma</orig><note xml:id="ndqc_sb5_zlb">Von Mailand aus setze Gregorovius seine Reise über Monza, Parma, Modena, Bologna und Florenz fort und traf am 21. April 1875 in Rom ein (siehe RT, 31.3.1875, S. 346–349).</note></seg>, dove avrò la soddisfazione di riabbriacciare lei e il caro amico <persName key="G001375">Lindemann</persName>.</p>
+                <closer>
+                    <salute rendition="#c">A rivederci dunque fra giorni!</salute>
+                    <signed rendition="#c">FGr</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

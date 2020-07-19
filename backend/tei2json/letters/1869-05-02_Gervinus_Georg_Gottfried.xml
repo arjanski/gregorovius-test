@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000292">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius und Auguste Lindemann-Frommel an Georg Gottfried
+                    Gervinus in Heidelberg. Rom, 2. Mai 1869</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Universitätsbibliothek Heidelberg</repository>
+                        <collection>NL Georg Gottfried Gervinus</collection>
+                        <idno>Heid. Hs. 2526,141 (5)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 8°, 3 + 1 S. – 1r + 2r aoR geprägt: ROMA</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 84, Mappe 6 (Alfred Löckle nach
+                                        H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 86, Mappe 4 (nach D)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Oswald Dammann: Ferdinand Gregorovius und Georg Gottfried Gervinus. Mit elf unveröffentlichten Gregoroviusbriefen. In: Zeitschrift für die Geschichte des Oberrheins. N. F. Bd. 56. Karlsruhe im Br.: Braun 1943. S. 629–630 (ohne die NAchschrift von Auguste-Lindemann-Frommel)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Vorliegender Brief wird ihm von Gabriele Contessa Lovatelli überbracht, deren Mutter, Elisabeth Gräfin von Ugarte, in Heidelberg wohnt. Von Wolfgang Erhardt weiß er, dass Victoria Gevinus ihr Augenleiden noch nicht überwunden hat. Durch die Buchhandlung Spithöver ist ihm Gervinus’ neueste Publikation „Händel und Shakespeare“ (1868) zugegangen, das seine musikalischen Kenntnisse übersteigt. Rom hatte im Winter sehr viele Besucher, die ihn von der Arbeit an seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) abgehalten haben. Deren letzter Band wird jetzt doch auf zwei Bände (1870–1872) aufgeteilt, so dass er noch mindestens bis 1871 daran zu arbeiten hat. Danach will er sich zum zum Invaliden erklären. – Auguste Lindemann-Frommel kann ihm eine römische Unterkunft in ihrem Hause in der Via Babuino 39 vermitteln, wenn er sie frühzeitig über sein Kommen informiert.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001374">Lindemann-Frommel, Auguste (1826–1876)</persName>
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1869-05-02" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001168">Gervinus, Georg Gottfried (1805–1871)</persName>
+<placeName key="G000685">Heidelberg</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c">2. <hi rendition="#aq">Mai</hi> 1869.</dateline>
+<salute rendition="#c">Mein hochverehrter Herr u<ex>nd</ex> Freund,</salute>
+</opener>
+<p>diese Zeilen nimmt nach Heidelberg die junge <persName key="G001388"><?oxy_comment_start author="Angela Steinsiek" timestamp="20200414T124213+0200" comment="Gabriele Contessa Lovatelli (1848–1935), geb. Gräfin von Ugarte hatte 1866 in Rom Carlo Conte Lovatelli (1843–1895) geheiratet, ein Sohn von Costanza Chigi della Rovere Albani (1807–1871) und Francesco, Conte Lovatelli (1808–1856). Gabriele Contessa Lovatelli war eine Tochter der aus Brandenburg stammenden Elisabeth Gräfin von Ugarte, geb. von Rochow-Briest (1822–1896) und des österreichischen Gesandten am württembergischen Hof Joseph Graf von Ugarte (1804–1862). Elisabeth Gräfin von Ugarte hatte im Frühjahr 1867 ihre Tochter in Rom besucht (siehe Kurd von Schlözer: Römische Briefe. Stuttgart, Berlin 1913. S. 315)."?>Gräfin <hi rendition="#aq">Gabriele Lovatelli</hi></persName>, deren <persName key="G001112">Mutter</persName> jetzt in Ihrer Stadt wohnt<?oxy_comment_end?> u<ex>nd</ex> Ihnen bekannt ist. </p>
+<p>Längst sehnten <persName key="ed_gbt_4bh_sfb ed_bzh_0vv_ukp">Lindemanns</persName> u<ex>nd</ex> ich sich nach Nachrichten von Ihnen, umsomehr, als uns <persName key="G001116"><hi rendition="#aq">Dr. Erhardt</hi></persName> leider mitteilte, daß das Augenleiden Ihrer <persName key="G001169">Frau Gemalin</persName> noch nicht gehoben ist.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190116T170809+0100" comment="Victoria Gervinus (1817 oder 1820–1893) litt seit dem Sommer 1868 an einer Erkrankung der Netzhaut (siehe Gregorovius an Gervinius, 14.8.1868, 8.9.1868, 8.11.1868 und 2.5.1869)."?><?oxy_comment_end?>Dies beklagen wir mit Ihnen und wünschen von ganzem Herzen, eine schnelle u<ex>nd</ex> gründliche Wiederherstellung.</p>
+<p>Durch <persName key="G001618"><hi rendition="#aq"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190116T170819+0100" comment="Der Inhaber der deutschen Buchhandlung in Rom Joseph Spithöver (1813–1892)."?>Spithöver<?oxy_comment_end?></hi></persName> ist mir <?oxy_comment_start author="Angela Steinsiek" timestamp="20200414T124404+0200" comment="Georg Gottfried Gervinus: Händel und Shakespeare. Zur Ästhetik der Tonkunst. Leipzig: Wilhelm Engelmann 1868 (siehe die Briefe von Gregorovius an Gervinus, 8.11.1868 und 25.12.1868)."?>Ihr <bibl sameAs="G004259">musikalisches Werk</bibl> zugegangen<?oxy_comment_end?>, wofür ich Ihnen wahrhaft Dank sage; es hat mir mannigfache Belehrung gebracht, doch muß ich bekennen, daß es nicht, wie Sie meinten, innerhalb des Horizontes <pb n="1v"/>profaner Unwißenheit liegt, wie es die meine ist, sondern weit darüber hinaus eine gründliche Bildung in der Musik verlangt. Es sind mir daher manche Partieen unklar geblieben; ich bemerke das nur, um zur Kenntniß des thatsächlichen Verhältnißes unmusikalischer Leser zu Ihrem Buche einen Beitrag zu liefern.</p>
+<p>Wir haben nun den Winter hinter uns, und sind dessen herzlich froh. Es gab eine ganz ungewöhnlich belebte Societät durch deutsche, amerikanische und englische Anzügler, worunter manche erlebenswerte Menschen waren. Aber meine <choice><sic>ernste</sic><corr cert="high">ernsten</corr></choice> Arbeiten litten unter diesem socialen Karneval, so daß ich nicht so vorwärts gekommen bin als ich wünschte.</p>
+<p>Überhaupt ist das sehnlich er-<pb n="2r"/>wartete Ziel meiner „Lossprechung“ von der Arbeit meines Lebens wieder um ein Jahr hinausgerückt, weil ich mich dazu habe entschließen müßen, <?oxy_comment_start author="Angela Steinsiek" timestamp="20200414T124502+0200" comment="Mit Cotta war Gregorovius dahingehend übereingekommen (siehe den Brief von Gregorovius an die Cotta’sche Buchhandlung, 7.2.1869). "?>aus dem letzten Bande doch <bibl corresp="G003434 G003441">zwei selbständige</bibl> zu machen<?oxy_comment_end?>, um nicht den aufgesammelten Schatz von Dokumenten gerade für die Epoche der Renaissance ungenutzt oder nur halbbenutzt in der Hand zu halten. </p>
+<p>Ich hoffe aber im Jahre 1871 frei zu werden und dann das Recht zu haben, mich für einen Invaliden zu erklären, welcher 16 Jahre lang bei der schweren Reiterei gedient hat, <?oxy_comment_start author="Angela Steinsiek" timestamp="20200414T124549+0200" comment="Nach Horaz „Carminum“ III 1/40: „Post equitem sedet atra cura“ ; dt. Hinter dem Reiter sitzt die schwarze Sorge."?><hi rendition="#aq"><foreign xml:lang="Lat">sedente post equitem atra cura<?oxy_comment_end?></foreign></hi>.</p>
+<closer>Die Freundin Lindemann will ein paar Zeilen beischreiben, u<ex>nd</ex> ich schließe mit den herzlichsten Grüßen u<ex>nd</ex> Wünschen für Sie und Ihre verehrte Frau Gemalin <signed rendition="#right"><hi rendition="#aq">Gregorovius</hi></signed> </closer>
+</div>
+            <div type="writingSession" n="2">
+                <opener>
+                    <salute>Hochgeehrter Herr Professor,</salute>
+                </opener>
+                <p>Erlauben Sie mir Gregorovius Zeilen eine eigenhändigen Gruß beizufügen, der Ihnen
+                    sage wie viel u<ex>n</ex>d mit welch herzlicher u<ex>n</ex>d theilnehmender
+                    Liebe man Ihrer hier gedenkt. Mögten Sie uns doch recht bald tröstliche
+                    Nachricht geben über die Augen Ihrer lieben Frau Gemahlin u<ex>n</ex>d zugleich
+                    die Anzeige daß Sie stark die Flügel schwingen, zum Fluge nach Rom. –</p>
+                <p>Ende Juli kömmt dann wohl mein Mann selbst als Mahner zu Ihnen. Der arme Mann hat
+                    durch Fieber diesen Winter viel gelitten, dabei stark gearbeitet. Viele neue
+                    Gesichter zogen vorüber. Rom wird mehr und mehr Badeort; für uns alte Römer ist
+                    dies ein Schmerz, ja eine Entweihung. Wenn Sie mir es frühe anzeigen könnte ich
+                    Ihnen vielleicht eine sehr nette Wohnung verschaffen, </p>
+                <p xml:id="p3" next="#p4">4 Zimmer, nicht groß, Sonne, still hoher erster Stock, ordentliche Leute 35 <hi rendition="#aq">Scudi</hi> d<ex>en</ex> Monat (d<ex>en</ex> Sc<ex>udi</ex> zu 5 Fr<ex>anken</ex> gerechnet) <?oxy_comment_start author="Angela Steinsiek" timestamp="20200414T124716+0200" comment="Das Atelier von Karl Lindemann-Frommel befand sich in der Via Babuino 39; im selben Haus war seit dem Vorjahr auch die Privatwohnung der Lindemann-Frommels (siehe Peter K. W. Freude: Karl Lindemann-Frommel. Ein Malerleben in Rom. Monographie und Werkverzeichnis seines graphischen und malerischen Schaffens. Murnau am Staffelsee 1997. S. 54)."?>unter Karl’s Atelier<?oxy_comment_end?> u<ex>n</ex>d somit auf <hi rendition="#u" hand="">frohes</hi></p>
+<p xml:id="p4" prev="#p3" place="right" rendition="#rotate90"> Wiedersehen worauf sich innigst freuen Ihre ergebensten</p>
+                <closer>
+                    <signed rendition="#right" place="left">Lindemann.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

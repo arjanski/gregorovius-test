@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000313">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Michele Amari in Florenz. Florenz, 20. September [1865 bis 1870]</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"> <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/"> Creative Commons
+                        Attribution 4.0 International (CC BY 4.0) </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Palermo, Biblioteca Centrale della Regione Siciliana</repository><collection>Carteggio Amari</collection><idno>3896<idno> </idno> </idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 1 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er lässt die von Michele Amari geliehenen drei Bände von Marie-Joseph Blaise de Chéniers „Théatre de M.-J. de Chénier“ (1818) und Francesco Antonio Vitales „Storia diplomatica de’ senatori di Roma dalla decadenza dell’Impero Romano fino ai nostri tempi“ (1791) über einen Boten von François Sabatier zurückbringen. Er will Florenz morgen verlassen.</p>
+                <p xml:lang="it">Ein Bote von François Sabatier wird Amari die „Storia diplomatica de’ senatori di Roma“ (1791) von Francesco Antonio Vitale sowie Marie-Joseph Blaise de Chéniers „Théatre“ (1818) zurückbringen. Gregorovius will morgen aus Florenz abreisen.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000671">Florenz</placeName>
+                    <date notBefore="1865-09-20" notAfter="1870-09-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G000924">Amari, Michele (1806–1889)</persName>
+<placeName key="G000671">Florenz</placeName>
+                </correspAction>
+
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <salute rendition="#c">Caro Signor Amari,</salute>
+                </opener>
+                <p>il postine di <persName key="G001565">Sabbatier</persName> le riporta <bibl sameAs="G004310">3 volumi del Chenier</bibl>, opera veramente degna di lode, e che non <choice><sic>a</sic><corr cert="high">ha</corr></choice> niente di Francese, e <seg type="comment"><orig>il primo tomo della</orig><note xml:id="nydj_1ry_ylb">Möglicherweise Francesco Antonio Vitale, Storia diplomatica de'senatori di Roma dalla decadenza dell'Impero Romano fino ai nostri tempi, Roma 1791, Bd. 1, S. 75. Gregorovius bezieht sich im fünften Band der „Geschichte der Stadt Rom im Mittelalter“ (1865) mehrfach, durchaus auch kritisch, auf dessen Forschungsergebnisse. </note></seg> <bibl sameAs="G004302">storia diplomatica</bibl>, cosiche pure un <seg type="comment"><orig><foreign xml:lang="Lat">notarius rogatus</foreign> </orig><note xml:id="nxyc_cry_ylb">Lat. für, sinngemäß: ein beauftragter Notar.</note></seg>potrebbe dichiarar con <seg type="comment"><orig><foreign xml:lang="Lat">optimâ formâ</foreign> </orig><note xml:id="ntqs_dry_ylb">Lat. für: einwandfrei.</note></seg>che tutto quello, che Lei gentilmente mi prestò, fu riportato alla casa sua. <seg type="comment"><orig>Allah</orig><note xml:id="nanm_gry_ylb">Michele Amari (1806–1889) war neben seiner politischen Tätigkeit von 1860 bis 1873 Professor am Lehrstuhl für arabische Sprache am Istituto di studi superiori in Florenz (spätere Universität). </note></seg> ne renda il merito! Essendo ch’<seg type="comment"><orig>io trovai vapore</orig><note xml:id="nyv2_3ry_ylb">Gemeint ist eine Eisenbahnverbindung.</note></seg> per domani, ne faccio profitto, e lascio questa bella e civilissima Firenze, però non senza vivissimo desiderio, di puoter continuare un’altra volta <seg type="comment"><orig>quelle gite alla <placeName key="G000891">Lastra</placeName>, che abbiamo fatto nelle domeniche su per la villa</orig><note xml:id="nxcw_jry_ylb">Lastra ist ein Vorort von Florenz, den Gregorovius im Jahre 1862 öfter gemeinsam mit Michele Amari aufsuchte: „Jeden Sonntag fuhr ich mit Michele Amari bis zur Lastra und dann auf die Villa.“ (RT, 20.10.1862, S. 155)</note></seg>. Le mando mille saluti. Mi riserbi buona memoria e benevolenza. Se io fossi come certi abbati, le vorrei dire molte cose, ma per gli uomini franchi e senza complimenti</p>
+                <closer>
+<salute>„<seg type="comment"><orig><foreign xml:lang="eng">the rest is silence</foreign>!</orig><note xml:id="ntzn_nry_ylb">Engl. für: der Rest ist Stille. Ein Zitat der letzten Worte von Prinz Hamlet in William Shakespeares gleichnamigen Stück.</note></seg>“</salute>
+<signed rendition="#right">FGregorovius</signed>
+<dateline>Firenze, 20. S<ex>ettem</ex>bre</dateline>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

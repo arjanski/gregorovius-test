@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000078">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Johann Georg von Cotta in Stuttgart. Rom, 3. Juni
+                    1855</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><idno>Cotta-Archiv (8)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 4°, 1 ¾ S. – 1r + 2r aoR in einer Vignette geprägt: BATH – 1r aoR Beantwortungsvermerk: 11. Jul. beantwortet</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach D1)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 212–213</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er empfiehlt sein Ende Mai an Cotta gesandtes Manuskript „Pandora, eine Sammlung kleiner Schriften aus Italien“ noch einmal zur Publikation. Er berichtet von seinen folgenden Plänen bei Brockhaus, die Übersetzung seiner „Lieder des Giovanni Meli von Palermo“ (1856) mit einer historischen Einleitung als Buch zu publizieren, von seiner Versdichtung, „Euphorion“ (1858) und von seinem Plan, „Die Kulturepochen Siziliens“ zu vollenden.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He once again recommends his manuscript „Pandora, eine Sammlung kleiner Schriften aus Italien“, which he sent to Cotta at the end of May, for publication. He reports on his subsequent plans at Brockhaus to publish the translation of his „Lieder des Giovanni Meli von Palermo“ (1856) as a book with a historical introduction, on his poetry, „Euphorion“ (1858), and on his plan to finish „Die Kulturepochen Siziliens“. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1855-06-03" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001055">Cotta von Cottendorf, Johann Georg
+                        (1796–1863)</persName>
+                    <placeName key="G000879">Stuttgart</placeName>
+                </correspAction>
+<correspContext>
+<ref type="next">11. Juli 1855 (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch IV, 328)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<salute rendition="#c">Hochgeehrter Herr Baron,</salute>
+</opener>
+<p>unter dem 29. <hi rendition="#aq">Mai</hi> habe ich mir erlaubt, der<orgName key="G000523"> J. G. Cotta’schen Buchhandlung</orgName> <seg type="comment"><orig>ein Manuscript zu übersenden, welches den ersten Band kleiner Schriften aus Italien enthält u<ex>nd</ex> den Titel <bibl sameAs="G003114"><hi rendition="#aq">Pandora</hi></bibl> führt</orig><note xml:id="nnyn_n3n_nlb">Gregorovius hatte das Manuskript seiner „Pandora, Eine Sammlung kleiner Schriften aus Italien“ mit seinem Brief vom <ref target="G000044">27.5.1855 an Cotta</ref> gesandt. Cotta lehnte den Verlag im Antwortschreiben vom 11.7.1855 ab, weil schon sein „Corsica“ (1854) sich in Deutschland schlecht verkaufe: (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch IV, 328). Zusammen mit diesem Antwortbrief Cottas übersandte er das Manuskript seiner „Pandora“ am <ref target="G000073">19.7.1855 an Brockhaus</ref>. Im Jahr darauf erschien der Band unter dem Titel „Figuren. Geschichte, Leben und Scenerie aus Italien“ in Leipzig bei Brockhaus (ab der 2. Auflage 1864 als Bd. 1 der „Wanderjahre in Italien“).</note></seg>; indem ich nun glaube, daß dasselbe in der zweiten Woche des Juni in <hi rendition="#aq">Stuttgart</hi> anlangen wird, ist es der Zweck dieses Schreibens, Ihnen, Herr Baron, jenes Manuscript zur freundlichen Teilnahme zu empfehlen.</p>
+<p>Ich selbst betrachte es als eine wolwollende Fügung, daß ich bald nach meiner Ankunft in <placeName key="G000690">Italien</placeName>, wohin mich Neigung u<ex>nd</ex> Studium führte, durch die Umstände an Ihre Institute gewiesen ward, u<ex>nd</ex> es ist mein sehnlicher Wunsch, daß Sie mir gestatten, eine solche Verbindung ferner zu erhalten.</p>
+<p>Mir scheint es eine Pflicht zu sein, Ihnen von denjenigen Arbeiten Rechenschaft zu geben, welche mich seither beschäftigt haben oder in nächster Zeit fortdauernd beschäftigen werden. Es würden auf den ersten Band <hi rendition="#aq">Pandora</hi> folgen:</p>
+<p><seg type="comment"><orig><bibl sameAs="G003817">Lieder des <hi rendition="#aq">Giovanni Meli von Palermo</hi></bibl></orig><note xml:id="nh5q_y3n_nlb">Seine Übersetzungen einiger „Liebeslieder des Giovanni Meli von Palermo († 1815)“ erschienen in: Morgenblatt für gebildete Leser. Jg. 48. Nr. 41. Stuttgart, München: Cotta 8.10.1854. S. 978–979. Das Manuskript der Buchpublikation seiner „Liebeslieder des Giovanni Meli von Palermo“ schickte Gregorovius – sicher nicht zuletzt wegen der Zurückweisung seiner „Pandora“ durch Cotta am 11.7.1855 – mit seinem Brief vom <ref target="G000073">19.7.1855 an Brockhaus</ref> nach Leipzig, der es zum Verlag annahm (Lieder des Giovanni Meli von Palermo. Aus dem Sicilianischen von Ferdinand Gregorovius. Leipzig: Brockhaus 1856).</note></seg>, ein sauberer Band, den ich jetzt abschließe, u<ex>nd</ex> worin die besten Gesänge dieses sicilianischen Nationaldichters übertragen sind; ihnen geht eine kleine, entsprechende Einleitung vorauf; hiernächst:</p>
+<p><seg type="comment"><orig><bibl sameAs="G003574"><hi rendition="#aq">Euphorion</hi></bibl>, eine Dichtung aus <placeName key="G000755"><hi rendition="#aq">Pompeji</hi></placeName> in vier Gesängen</orig><note xml:id="nrbk_hjn_nlb">Zu der Versdichtung „Euphorion“ war Gregorovius im Sommer 1853 bei einem Besuch in Neapel und Pompeji angeregt worden. Sie erzählt eine Liebesgeschichte im Schatten des Untergangs der Stadt Pompeji. Zunächst begann Gregorovius im Januar 1854 mit einer Prosanovelle, die den Titel „Der bronzene Kandelaber“ trug (siehe RT, 31.1.1854, S. 53). Mit seinem Brief vom <ref target="G000076">22.8.1855 an Brockhaus</ref> empfiehlt Gregorovius das vor dem Abschluss stehende Manuskript seines „Euphorion. Eine Dichtung aus Pompeji in vier Gesängen“ zur Publikation, wo es nach 1858 erschien.</note></seg>, welche die reizende Formenwelt Pompejis zum Gegenstand hat.</p>
+<p>Sobald ich diese beiden Schriften abgeschlossen habe, gedenke ich, etwa Anfangs September, <seg type="comment"><orig>nochmals nach <placeName key="G000575">Sizilien</placeName> zu gehn</orig><note xml:id="nrzj_2kn_nlb">Gregorovius fuhr nicht mehr nach Sizilien; seine ab 1854 v. a. in Blättern von Cotta erschienen Artikel über Sizilien wurden als Buchpublikation zusammengefasst in: Siciliana. Wanderungen in Neapel und Sicilien. Leipzig: Brockhaus 1861 (ab der 2. Auflage 1865 als Bd. 3 der „Wanderjahre in Italien“).</note></seg>, um dort ein umfaßendes Werk „<bibl sameAs="G003252">Die Culturepochen <pb n="1v"/>Siciliens</bibl>“ zu vervollständigen. Es wird dies namentlich die arabische, die normannische u<ex>nd</ex> hohenstaufische Zeit ausführlich behandeln, aber auch die hellenische Periode u<ex>nd</ex> die spanische, und wird die Culturphasen dieses Landes an den jedesmaligen Denkmälern erläutern, nicht minder auf die Literatur Rücksicht nehmen. Ein solches Werk fehlt in unserer Literatur, es bietet den reichsten Stoff dar, u<ex>nd</ex> soll mir wol gelingen, wenn ich nochmals an Ort u<ex>nd</ex> Stelle die Bibliotheken der <orgName key="G000470">Benediktiner</orgName> benutzen darf.</p>
+<p>Dies, hochgeehrter Herr Baron, sind meine Unternehmungen, welche ich Ihrer Teilnahme zu empfehlen so frei bin; denn es ist mein Wunsch, Ihrer Buchhandlung diese Schriften zu ihrer Zeit zur Prüfung und resp<ex>ective</ex> Annahme vorzulegen.</p>
+<p>Indem ich also die Ehre habe, meine literarischen Bemühungen Ihrer Obhut anzuempfehlen, wünsche ich nichts als die Überzeugung hegen zu dürfen, daß Sie ihnen Ihr wolwollendes Intereße schenken wollen.</p>
+<closer rend="paragraph">
+<salute rendition="#c">Mit großer Hochachtung unterzeichne ich mich <lb/>Herr Baron, Ihr ganz ergebenster Diener</salute>
+<signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi>.</signed>
+<dateline>Rom, den 3. Juni 1855.</dateline>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

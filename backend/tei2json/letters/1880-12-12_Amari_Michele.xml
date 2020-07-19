@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_ylg_r4k_tlb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Michele Amari in Rom. München, 12. Dezember 1880 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free">
+                <licence target="http://creativecommons.org/licenses/by/4.0/">
+                    Creative Commons Attribution 4.0 International (CC BY 4.0)
+                </licence>
+            </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Palermo, Biblioteca Centrale della Regione siciliana</repository><collection>Carteggio Amari</collection><idno>3902</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die gewünschten Informationen zu arabischen Schriftstellern und Geografen, die über Athen geschrieben haben. Über die dürftige Quellenlage zur mittelalterlichen Stadt Athen hat auch Jakob Philipp Fallmerayer geklagt. Bei Joseph von Hammer-Purgstall finden sich Zitate einiger türkischer Schriftsteller. Für seine Studie „Athen in den dunklen Jahrhunderten“ (in: Unsere Zeit, 1881) hat Gregorovius Pilgerberichte, Chroniken des Mittelalters, die Acta Sanctorum, byzantinische Schriftsteller, den Chronisten Ramon Muntaner sowie Papstbullen analysiert und sich hinsichtlich Nennungen Athens in den Isländersagas informiert. Über den von Francesco Morosini vor dem Arsenal in Venedig aufgestellten Löwen von Piräus, auf dem die von Carl Christian Rafn erkannten Waräger Runen eingemeißelt sind. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1880-12-12" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G000924">Amari, Michele (1806-1889)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Monaco 12. Dic<ex>em</ex>br<ex>e</ex> 80.</dateline>
+                    <salute rendition="#c">Gentilissimo ed illustre amico,</salute>
+                </opener>
+<p>Le rendo infinite grazie della premura, con la quale <seg type="comment"><orig>Ella ha corrisposto alle mie domande</orig><note xml:id="nsgz_zn5_5lb">10 Tage zuvor hatte Gregorovius ein Schreiben an Amari gerichtet, in dem er den ausgewiesenen Orientalisten um Informationen zu arabischen Schriftstellern und Geografen, die sich zu Athen geäußert haben, bittet; siehe den Brief von Gregorovius an Michele Amari vom 2.12.1880. Ein Vermerk auf diesem Brief lässt darauf schließen, dass Amari die Anfrage am 9. Dezember beantwortet hat; das Schreiben ist allerdings nicht erhalten.</note></seg>. Sono lieto di poter far profitto delle sue notizie, per iscarse che siano. Per altro non mene meraviglio punto, imperocchè <seg type="comment"><orig>il fiumicello della <bibl sameAs="G004030">storia di Atene nel medio evo</bibl></orig><note xml:id="nup2_n4p_vlb">Er arbeitete an einem Aufsatz mit dem Titel „Athen in den dunklen Jahrhunderten“, der 1881in der Zeitschrift „Unsere Zeit“ erscheinen sollte.</note></seg> <seg type="comment"><orig>corra più scarso ancora dello stesso <placeName key="ed_rd2_245_5lb">Ilisso</placeName></orig><note xml:id="nxzy_l45_5lb">Der Ilisos ist ein kleiner, kaum wasserreicher Fluss, der durch die Athen-Ebene fließt.</note></seg>. Per la qual cosa <seg type="comment"><orig>il celebre <persName key="ed_frn_2v4_qlb">Fallmeraier</persName></orig><note xml:id="naph_n45_5lb">Der Orientalist und Publizist Jakob Philipp Fallmerayer (1790–1861) hatte zunächst an der Universität Landshut studiert und war von dort an die Universität in Salzburg gegangen, wo er sich orientalischen Sprachen widmete. Nach einer Tätigkeit in der bayerischen Armee, ließ er sich als Privatdozent in Lindau nieder. Von 1826–1848 war er Professor an der Universität München für Philologie und Universalhistorie. Von 1831–1834 befand er sich auf einer Forschungsreise durch Griechenland. Zurück in München arbeitete er wieder als Privatdozent und Publizist für die Allgemeine Zeitung. Zu Fallmerayers wichtigsten Studien zählen seine „Fragmente aus dem Orient“ (2 Bde., Stuttgart: Cotta 1845). Zur Bedeutung Fallmerayers für Gregorovius’ Griechenlandstudien siehe den Brief von Gregorovius an Ersilia Caetani Lovatelli vom 26.11.1876.</note></seg> non esitò protestare, esser rimasta la città di <persName key="ed_sbg_pxn_5lb"><seg type="comment"><orig>Pericle</orig><note xml:id="nzpr_445_5lb">Staatsmann und Stratege im klassischen Athen.</note></seg></persName> deserta per il corso di tre o quattro secoli. </p>
+<p><seg type="comment"><orig>Il <persName key="ed_tb4_545_5lb">Hammer</persName> cita alcuni <pb n="1v"/>scrittori Turchi</orig><note xml:id="nmcd_1p5_5lb">Der österreichische Diplomat und Orientalist Joseph von Hammer-Purgstall (1774–1856) war vor allem als Übersetzer orientalischer Schriften bekannt geworden. Mit seiner breit angelegten „Geschichte des osmanischen Reiches“ in zehn Bänden (Pest: C. A. Hartleben 1827–1835) erlangte er noch mehr Bekanntheit. Seinen Tod vermerkte Gregorovius im Tagebuch (siehe RT, Rom, letzter Tag des Jahres 1856, S. 65).</note></seg>, che fanno menzione di Atene, ma non m’importa tanto il saperne, perchè sono di età piùttosto recente. Ho esaminato molti viaggi de’ pellegrini, le croniche del medio evo, <seg type="comment"><orig>le <orgName key="ed_mg4_mp5_5lb">Acta Sanctorum</orgName></orig><note xml:id="ny1j_r4p_vlb">Die älteres Wissen über Märtyrer und Heilige der griechischen und katholischen Kirche vereinende Legendensammlungen, die bereits seit Ende des 15. Jahrhunderts herausgegeben wurden. </note></seg>, gli scrittori Bizantini, il <persName key="ed_sgf_rp5_5lb"><seg type="comment"><orig>Ramon Muntaner</orig><note xml:id="nlwt_vp5_5lb">Der Katalane Ramon Muntaner (1265–1336) war einer der bedeutenden Chronist des Spätmittelalters. Er schrieb in den Jahren von 1325–1328 eine „Crònica“ über den Aufstieg der katalanisch-aragonesischen Dynastie, die in Teilen auf seinen eigenen Erlebnissen beruht.</note></seg></persName>, le Bolle de’ Papi, e diverse altre cose, e ho potuto cavarne tanto materiale da illustrare discretamente bene la quistione in proposito. Mi son rivolto pure ad <seg type="comment"><orig>un amico <add place="intralinear">mio </add>assai dotto in <placeName key="G067595">Cristiania</placeName>, </orig><note xml:id="njhr_cq5_5lb">Christiana war von 1624–1924 der Name der norwegischen Hauptsadt Oslo. Nicht ermittelt, um wen es sich hier handelt. Gregorovius’ norwegischer Freund, der Historiker Peter Andreas Munch (*1810), der 1858 gekommen war, war bereits 1863 verstorben (siehe RT, 17.5.–24.6.1863. S. 160–162).</note></seg>per <pb n="2r"/>informarmi di tutto ciò, che si trova scritto a proposito di Atene nelle <orgName key="ed_mbq_yp5_5lb"><seg type="comment"><orig>Sagas dell’ Islandia</orig><note xml:id="nh4j_1q5_5lb">Die Isländersagas gehören zur isländischen Sagaliteratur und thematisch zur altnordischen Literatur. Dabei handelt sich um anonym verfasste größere Prosawerke und kurze Erzählungen aus der Zeit ab 1200 bis ins 14. Jahrhundert.</note></seg></orgName>. Ella si ricorderà del fatto assai curioso, che <seg type="comment"><orig>il leone del <placeName key="ed_kcs_vtn_5lb">Pireo</placeName></orig><note xml:id="nnhs_2q5_5lb">Der aus Piräus, Gemeinde in der griechischen Region Attika und Hafenstadt Athens, stammende, antike und drei Meter hohe Marmorlöwe wurde um 360 v. Chr geschaffen und kam 1688 als Kriegsbeute nach Venedig. </note></seg> fatto collocare dal <persName key="ed_ifw_mq5_5lb"><seg type="comment"><orig>Monsini</orig><note xml:id="nf1w_rq5_5lb">Der 108. Doge von Venedig, Francesco Morosini (1618–1694), hatte die Regenschaft von 1688–1694 inne und machte sich als Führer der venezianischen Truppen einen Namen, die er im Krieg gegen das Osmanische Reich anführte. Während der Belagerung von Piräus im Großen Türkenkrieg durch Morosini und seine Männer 1687 fiel der Marmorlöwe in den Besitz der Eindringlinge. Einschußlöcher im Löwen belegen, dass es zu kämpferischen Auseinandersetzungen kam.</note></seg></persName> dinanzi all’ <placeName key="ediarum_atx_wq5_5lb">Arsenale di Venezia</placeName>, dove ancora si trova, porta sul suo dorso iscrizioni runiche, scolpitevi dai <seg type="comment"><orig>Varangi</orig><note xml:id="ns2t_zq5_5lb">Die Warägergarde ist die zumindest anfangs aus skandinavischen Wikingern formierte Leibgarde des byzantinischen Kaisers.</note></seg> circa l’anno 1048, <seg type="comment"><orig>come ha dimostrato il Rafn, interpretatore delle medesime</orig><note xml:id="nvzz_fr5_5lb">Carl Christian Rafn (1795–1864), dänischer Archäologe, machte die nordischen Sagas weltbekannt. Die Entzifferung der auf dem Löwe von Piräus eingeritzten, stark abgenutzten und deshalb schwer deutbaren Runen publizierte Rafn 1857: En Nordisk Runeindskrift i Piræeus, med Forklaring af C. C. Rafn. In: Antiquarisk Tidsskrift: Udgivet af det Kongelige Nordiske Oldskrift-Selskab 1855–57. 1859, S. 3–69: https://books.google.it/books?id=7khBAAAAYAAJ&amp;printsec=frontcover&amp;source=gbs_ge_summary_r&amp;redir_esc=y#v=onepage&amp;q&amp;f=true.</note></seg>.</p>
+<p>Chiudo la lettera, per non darle troppo fastidio. Tanti saluti cordiali a lei e alla sua gentilissima <persName key="G000990"><persName key="ed_kfg_1wr_rlb"><persName key="ed_nqf_2wr_rlb"><persName key="ed_tt3_hwr_rlb">famiglia</persName></persName></persName></persName>, e buone feste con ogni cosa bella che desiderar si possa.</p>
+                <closer>
+<signed rendition="#right">Ferd. Gregorovius</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000124">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Hermann von Thile in Heiden. Berlin, 30. September
+                    1860</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>96/937 (15)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¾ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 346 (nach D) und Karton
+                                        59, Mappe 346 (Ergänzungen nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print">Briefe von Ferdinand Gregorovius an den Staatssekretär
+                            Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S.
+                            32–33 (gekürzt)</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er bedauert, die in Heiden kurenden Thiles nicht mehr in Berlin anzutreffen. Die vielen kleinen Reisen zu Freunden und Verwandten in Ostpreußen und die „ewigen Scenen des Wiedersehens“ haben ihn ebenso ermüdet wie die geistige Untätigkeit. Er ist ungeduldig in Rom weiterzuarbeiten und Zeuge der Krise des Kirchenstaates zu werden. In Berlin stoßen ihn die „Rotten und Legionen“ von Geheimräten ab. In der Königlichchen Bibliothek hat er Georg Heinrich Pertz und Johann Martin Lappenberg getroffen. Justus Olshausen ist ihm sehr angenehm. Bei Moritz August von Bethmann Hollweg hat er sich brieflich für die Bewilligung der jährlichen Zuwendung der preußischen Regierung für die Fertigstellung seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) bedankt. Er will in Kürze über Straßburg, Lyon, Avignon und Marseille nach Rom zurückreisen. Seine Schulden bei Thile will er ab dem kommenden Jahr abtragen. Über eine Veröffentlichung der Briefe von Johann Caspar Goethe ist auch bei Karl Rosenkranz nichts herauszubekommen; er hat bei Brockhaus angefragt.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He regrets that the Thiles are no longer in Berlin, but in Heiden for their health. The many small trips to friends and relatives in East Prussia and the „eternal scenes of reunion“ tired him out as much as the mental idleness. He is impatient to continue working in Rome and to witness the crisis of the Papal States. In Berlin he is repulsed by the „hordes and legions“ of trusted advisors. In the Königlichche Bibliothek he met Georg Heinrich Pertz and Johann Martin Lappenberg. Justus Olshausen seems very pleasant to him. He has written to Moritz August von Bethmann Hollweg to thank him for the approval of the annual grant from the Prussian government for the completion of his „Geschichte der Stadt Rom im Mittelalter“ (1859-1872). He intends to return to Rome via Strasbourg, Lyon, Avignon and Marseilles in the near future. He wants to pay off his debts to Thile starting next year. There is also no information to be gained from Karl Rosenkranz about the publication of the letters of Johann Caspar Goethe; he has asked Brockhaus. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000636">Berlin</placeName>
+                    <date when="1860-09-30" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001644">Thile, Hermann von (1812–1889)</persName>
+                    <placeName key="G000686">Heiden (Schweiz)</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Berlin, d<ex>en</ex> 30 <hi rendition="#aq">S<ex>e</ex>pt<ex>em</ex>b<ex>e</ex>r</hi> 1860. <lb/>Voigts-Hôtel. Dorotheenstr<ex>aße</ex> 75.</dateline>
+                    <salute>Mein sehr teurer u<ex>nd</ex> verehrter Herr,</salute>
+                </opener>
+                <p>indem ich voraussehe, daß ich nicht mehr die Freude haben werde, Sie hier zu sehen, schreibe ich traurig diese Zeilen, u<ex>nd</ex> deponire sie in <seg type="comment"><orig>Ihrer Wohnung</orig><note xml:id="nrwk_j1z_ylb">Hermann von Thile wohnte am Wilhelmsplatz 3, im heutigen Ortsteil Mitte, angrenzend an die Wilhelmstraße.</note></seg>. Seit dem 23. <hi rendition="#aq">S<ex>e</ex>pt<ex>em</ex>b<ex>e</ex>r</hi> bin ich hier; das völlig unbeschäftigte Leben hat mich gezwungen von <placeName key="G000699">Königsberg</placeName> abzureisen, u<ex>nd</ex> die Sehnsucht, wieder einen ordentlichen Lebenswandel zu führen, treibt mich von hier an meine Arbeit zurück. <seg type="comment"><orig>Ich bin ganz ermüdet von den vielen Menschenströmen, u<ex>nd</ex> den ewigen kleinen Reisen nebst ewigen Scenen des Wiedersehens</orig><note xml:id="nzl3_gbz_ylb">Gregorovius war vom 3.-14. August 1860 in Danzig bei seinen Brüdern Rudolf (1808–1866) und Julius Gregorovius (1818–1891) und besuchte dann bis zum 22. September 1860 Familienangehörige und Freunde in Königsberg, Insterburg, Nordenthal, Gumbinnen, Goldap und Schippenbeil (siehe RT, 19.8.-25.9.1860, S. 107–109).</note></seg>, so daß ich nach nichts mehr verlange, als nach Ruhe. Obwol nun in <placeName key="G000763">Rom</placeName> wenig Ruhe wird zu finden sein, will ich doch abreisen, um auch <seg type="comment"><orig>jene Katastrophe</orig><note xml:id="ngm1_3bz_ylb">Gemeint ist der von Gregorovius als nahe vermutetete Zusammenbruch des Kirchenstaats, deren Provinzen Romagna, Umbrien und die Marken sich in Folge des sardinischen Krieges erhoben hatten. Lediglich Rom selbst und Latium, als unmittelbare Umgebung Roms, sind, durch französische Truppen gesichert, unter der weltlichen Herrschaft des Papstes verblieben.</note></seg> in der Nähe zu beobachten; denn nichts erwünschteres kann dem Geschichtschreiber Rom’s geboten werden als solche Anschauungen.</p>
+                <p>Ich habe hier zahllose Geheimräte gesehn, in Rotten u<ex>nd</ex> Legionen; ja, es ist unglaublich, wie viel es deren gibt. <seg type="comment"><orig><persName key="G001484">Pertz</persName> sah ich auf der<orgName key="G067524"> Bibliothek</orgName></orig><note xml:id="ndxh_jfz_ylb">Der Historiker Georg Heinrich Pertz (1795–1876) leitete seit 1823 die „Monumenta Germaniae historica“, die Editionsreihe deutscher Geschichtsquellen des Mittelalters und war seit 1842 Oberbibliothekar der Königlichen Bibliothek in Berlin.</note></seg>, wo ich auch <persName key="G067685"><seg type="comment"><orig>Lappenberg</orig><note xml:id="nk1g_lfz_ylb">Der Hamburger Historiker Johann Martin Lappenberg (1794–1865), Mitglied zahlreicher Akademien in Deutschland, sowie in Russland durch seine Forschungen der Hanse bekannt. Für die „Monumenta Germaniae Historica“ gab er die 1210 entstandene„Chronica Slavorum“ (Slawenchronik) von Arnold von Lübeck (um 1150–1211/1214) heraus.</note></seg></persName> fand; und <persName key="G067683"><seg type="comment"><orig>Olshausen’s</orig><note xml:id="nany_vfz_ylb">Der Orientalist Justus von Olshausen (1800–1882) war seit 1858 vortragender Rat für Universitätsangelegenheiten beim Preußischen Kultusministerium.</note></seg></persName> menschliche und angenehme Weise kann ich nicht genug rühmen.</p>
+                <p><seg type="comment"><orig>Das Ministerialschreiben, welches sehr liebenswürdig u<ex>nd</ex> fein abgefaßt ist, ist mir <pb n="1v"/>von Rom zugekommen</orig><note xml:id="npnf_yfz_ylb">Das offizielle Bewilligungsschreiben der preußischen Regierung über eine jährliche Zahlung vom 400 Talern für die Fertigstellung seiner „Geschichte der Stadt Rom im Mittelalter“, das er der Fürspache von Hermann von Thile und Christian Karl Josias Freiherr von Bunsen (1791–1860) verdankte. Die Zuwendung war zunächst auf zwei Jahre begrenzt und wurde bis 1866 jährlich verlängert. Siehe den Brief von Gregorovius an Thile vom <ref target="G000122">9.8.1860</ref>.</note></seg>; ich habe <seg type="comment"><orig>dem <persName key="G000967">Herrn Minister</persName></orig><note xml:id="ndlr_cgz_ylb">Dem preußischen Kultusminister Moritz August von Bethmann Hollweg (1795–1877).</note></seg> noch schriftlich gedankt. Die Legationskasse hat mir 200 Thaler als erste Rate gezahlt.</p>
+                <p>Ich habe hier nach unsagbaren Laufereien einen Ministerialpaß erhalten, u<ex>nd</ex> denke <seg type="comment"><orig>am 2. October über <placeName key="G000878">Strassburg</placeName>, <placeName key="G067546">Lyon</placeName>, <placeName key="G000795">Avignon</placeName>, nach <placeName key="G000725">Marseille</placeName> zu reisen</orig><note xml:id="nsxs_2gz_ylb">Gregorovius reiste wie geplant am 2. Oktober 1860 über Magdeburg, Göttingen und Heidelberg nach Straßburg, Lyon, Avignon und Arles. Am 9. Oktober schiffte er sich von Marseille nach Civitavecchia ein und war am 11. Oktober 1860 zurück in Rom (siehe RT, 30.6.-9.10.1860, S. 103–111).</note></seg>. Ich kann die Zeit nicht erwarten, allein im Waggon zu sitzen u<ex>nd</ex> mich sattzuschweigen. Ich kam hier nicht vom Straßenpflaster herunter, u<ex>nd</ex> arbeitete obenein noch in der <orgName key="G067524">Bibliothek</orgName>.</p>
+                <p>So muß ich denn, mein verehrter Herr, mich mit dem Bewußtsein <seg type="comment"><orig>trösten, daß ich Sie denn doch wiedersah</orig><note xml:id="nact_hgz_ylb">Die Thiles verbrachten den Sommer im schweizerischen Heiden, dort hatte sie Gregorovius vom 14.-23. Juli 1860 besucht (siehe RT, 18.7.1860, S. 105)</note></seg>, u<ex>nd</ex> mich überzeugte, daß Alles über Erwarten wol bei Ihnen steht. Ich denke mir, Sie werden die schöneren Herbsttage (das Wetter ist hier constant gut) noch draußen verleben, u<ex>nd</ex> kaum vor Mitte October hieher zurückkehren. Möchte Ihnen allen der Aufenthalt in der <placeName key="G000870">Schweiz</placeName> gut gethan haben, u<ex>nd</ex> Sie den Winter in Berlin wol überstehen.</p>
+                <p>Ich ganz abgehetzter Mensch muß nun diesen Brief schließen; ich werde ihn am Tage meiner Abreise in Ihre Wohnung tragen. Ich empfehle mich Ihnen u<ex>nd</ex> <persName key="G001645">Frau von Thile</persName> auf das Wärmste, ich grüße bestens <persName key="G001643">Hans</persName>; ich danke Ihnen nochmal <pb n="2r"/>für die schönen Tage in <hi rendition="#aq">Heiden</hi>. <choice><sic>Aus</sic><corr cert="high">Von</corr></choice> Rom aus werde ich mir erlauben, Ihnen Nachricht auch über den Stand der Dinge zu geben.</p>
+                <closer>
+                    <salute>Voll Verehrung, mein teurer Herr, grüßt Sie ergebenst</salute>
+                    <signed rendition="#right">Ferd. Gregorovius.</signed>
+                </closer>
+                        <note type="postscript">
+                            <p>Erlauben Sie mir die Bitte, mir zu gestatten, <seg type="comment"><orig>meine Schuld</orig><note xml:id="nvyn_jgz_ylb">Gregorovius hatte sich von Thile Geld geliehen (siehe die Briefe von Gregorovius an Thile, <ref target="G000106">22.12.1858</ref> und <ref target="G000103">11.4.1859</ref>). Bevor Gregorovius an die angekündigte Tilgung gehen konnte, hatte Thile mit einem (nicht erhaltenen) Brief vom 24.12.1859 weitere 2000 Franks übersandt (siehe den Brief von Gregorovius an Thile, <ref target="G000093">11.1.1860</ref>).</note></seg> mit dem Beginn des folgenden Jahres abzutragen. Das kann ich, ich bitte mir zu glauben, nunmehr sehr gut, denn ich habe große Einnahmen. Was ich Ihnen moralisch schulde, ist ein Capitel, das ich als nicht abtragbar gern bekenne.</p>
+                            <p>Kein Mensch hat mir sagen können, daß <seg type="comment"><orig>die bewußten <hi rendition="#aq"><bibl sameAs="G067697">Göthiana</bibl></hi> je edirt worden seien</orig><note xml:id="npmx_ngz_ylb">Thile hatte wissen wollen, ob die Briefe von Johann Caspar Goethe ediert worden sind. Gemeint sind die „Zwölf Briefe von Goethe’s Eltern an Lavater: Als Manuscript für Freunde zur Feier des 4. Januar 1860“ (Berlin: Hirzel 1860), Siehe die Briefe von Gregorovius an Hermann von Thile vom <ref target="G000122">9.8.1860</ref> und <ref target="G000127">16.12.1860</ref>.</note></seg>. <persName key="G001557"><seg type="comment"><orig>Rosenkranz</orig><note xml:id="negv_vgz_ylb">Der von Gregorovius verehrte Königsberger Lehrer, Karl Rosenkranz (1805–1872).</note></seg></persName> weiß nichts davon, u<ex>nd</ex> meint, es sei ein Irrtum. Ich habe <seg type="comment"><orig><persName key="G000995">Brockhaus</persName> aufgetragen, dies Object, wenn es vorhanden, an Ihre Adresse zu befördern</orig><note xml:id="nyys_ygz_ylb">Siehe <ref target="G000125">Brief</ref> und <ref target="G000120">Beilage</ref> von Gregorovius an Eduard Brockhaus vom 1.10.1860.</note></seg>.</p>
+                        </note>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000450">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. Rom, 30. Dezember 1870 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Adr.: All'Illustrissimo Signor Conte / Giovanni Gozzadini / Senatore del Regno / Bologna</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell’Archiginnasio</institution><collection>Ms. Gozzadini 442</collection><idno>(10)</idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Während seines mehrmonatigen Aufenthaltes in Deutschland hat er seinen vor Metz stationierten Bruder Julius besucht und dort den gescheiterten Ausbruchsversuch der französischen Armee unter Marschall Bazaine am 7. Oktober 1870 miterlebt. Seit mehreren Wochen ist er ohne Nachricht von Julius, der in der Schlacht von Amiens verletzt und zur Kur nach Rouen geschickt wurde. Er begrüßt den Anschluss des Kirchenstaats an das Königreich Italien unter Vittorio Emanuele II. Im Januar des kommenden Jahres will er das Manuskript des achten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1872) abschließen. Über Paolo Perez. Grüße an Maria Teresa Serego Alighieri Gozzadini.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1870-12-30" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni (1810–1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+            <div type="writingSession">
+                <opener>
+<dateline rendition="#right">Roma, 30. Dic<ex>em</ex>br<ex>e</ex> 1870</dateline>
+<salute rendition="#c">Illustre Signor Conte,</salute>
+</opener>
+<p>non voglio lasciar scomparire quest’anno di grandi catastrofi e di una rara giustizia, di cui in questo mondo, ingiusto e sleale, spesse volte si vidde un esempio, così stupendo, senza presentarmi alla benevola memoria di lei e della <persName key="G001092">signora contessa</persName>, augurandole ogni felicità possibile nell’anno venturo. Faccio voti, che ci porti la pace e la riconciliazione di tutti in contrasti ed errori, che nell’anno, che ora se ne va, riempirono popoli e familie di tristissimi guaj e di rovine.</p>
+<p><seg type="comment"><orig>Il nostro amico <persName key="G001483">Paolo</persName></orig><note xml:id="nvxc_1sy_ylb">Den aus Verona stammenden Dante-Forscher Graf Paolo Perez (1822–1879) kannte Gregorovius seit 1855. Perez hatte ihn in die römischen Kreis eingeführt und mit der Familie seiner Cousine, der Gräfin Gozzadini, bekannt gemacht.</note></seg>, <seg type="comment"><orig>ora uomo del tutto santo e spirituale</orig><note xml:id="nsm1_csy_ylb">Perez war 1856 in das Noviziat der Rosminianer eingetreten, hatte 1860 die Priesterweihe erhalten. Gregorovius bedauerte diesen Schritt sehr (siehe RT, 19.9.1856, S. 63), besuchte Perez aber regelmäßig in Stresa; siehe den Brief von Gregorovius an Giovanni Gozzadini vom 4.7.1869.</note></seg>, le avrà, come spero, più volte comunicato i miei rispettosi saluti come le mie nuove; di modo che loro sapranno ch’<seg type="comment"><orig>io per più mesi mi ero trattenuto in <placeName key="G000664">Germania</placeName></orig><note xml:id="now2_2sy_ylb">Er war am 4. Juli von Rom abgereist und erreichte München am 13. Juli. Am 15. Oktober trat er von dort die Rückreise nach Rom an, wo er am 17. Oktober eintraf (siehe RT, S. 285–297). </note></seg>, viaggiando finalmente fino sotto le mura di <placeName key="G000728">Metz</placeName>, <seg type="comment"><orig>per trovarvi l’unico <persName key="G001203">mio fratello</persName>, <pb n="2"/>comandante una parte dell’artiglieria sotto il generale <persName key="G001082">Manteufel</persName></orig><note xml:id="nght_gsy_ylb">Sein Bruder Julius Gregorovius (1819–1891) hatte am 27. November 1870 unter Generalfeldmarschall Edwin Freiherr von Manteuffel (1809–1885) an der Schlacht von Amiens teilgenommen. Gregorovius beschloß am 2. Oktober von Karlsruhe nach Metz zu fahren, um den Bruder zu treffen, der in Cheuby bei Sainte Barbe östlich von Metz stationiert war. Dort erlebte er den letzten Angriffs der französischen Rheinarmee am 7. Oktober mit (siehe RT, S. 296–297). Seine Eindrücke dieser Reise beschrieb Gregorovius in einer Folge von Artikeln in der Allgemeinen Zeitung: Fünf Tage vor Metz. In: Beilage zu Nr. 289 der AZ. 16.10.1870. S. 4585f (I); AZ. Nr. 290. 17.10.1870. S. 4595f.; Beilage zu Nr. 291 der AZ. 18.10.1870. S. 4609f.; Beilage zu Nr. 292 der AZ. 19.10.1870. S. 4626–4628 – zusammen aufgenommen in KS II/5 (S. 195–234).</note></seg>. Colà fui presente all’ultima sortita, che <seg type="comment"><orig>fece<persName key="G000961"> Bazaine</persName> prima della capitolazione sua</orig><note xml:id="nyfn_jsy_ylb">Als Führer der französischen Rheinarmee kapitulierte François-Achille Bazaine (1811–1888) am 27. Oktober 1870 in der eingeschlossenen Festung Metz.</note></seg> – </p>
+<p>Ora sto in continua pena per causa del mio fratello, il quale, dopo la battaglia di <placeName key="G000613">Amiens</placeName> <seg type="comment"><orig>avendone riportata una contusione</orig><note xml:id="nbhy_lsy_ylb">Julius hatte sich in der Schlacht von Amiens leicht am Fuß verletzt; siehe den Brief von Gregorovius an Ottilie Elgnowski vom 20.12.1870; BSB München, NL Gregorovius, Gregoroviusiana 20. Daraufhin reiste er nach Rouen, um sich dort auszukurieren. Im Tagebuch dokumentiert Gregorovius das Ankommen des Briefes seines Bruders aus Rouen auf den 10. Dezember (siehe RT, 31.12.1870, S. 301 und den Brief von Gregorovius an Ottilie Elgnowski vom 31.12.1870; BSB München, NL Gregorovius, Gregoroviusiana 20).</note></seg>, cagionatagli da una scheggia di granata dovette ritirarsi a <placeName key="G000861">Rouen</placeName> per curarsi e per aver un po’ di riposo. Mi scrisse l’ultima volta sul principio del Dicembre, ma d’allora in poi sono senza alcuna notizia sua. Mi rattristo ogni giorno di più calcolando le perdite enormi, che la mia patria ha dovuto soffrire, e che subirà ancora. Di fatti tutta la Germania è coperta di lutto e di dolore.</p>
+<p>Questo flagello sarebbe insopportabile per noi, se non avessimo almeno la coscienza pura e salva; e se questa tremenda guerra non ci fosse imposta come guerra di difesa nazionale, per cui mezzo finalmente <seg type="comment"><orig>troveremoci uniti e saldamente costituiti in casa nostra proprià.</orig><note xml:id="nhh4_psy_ylb">Er spielt auf die im Jahr 1866 zwischen den süddeutschen Staaten (Bayern, Württemberg, Baden) und Preußen geschlossenen Verträge für eine gemeinsame Sicherheitspolitik an. 1867 kam ein Bündnis mit Hessen dazu. Die Verträge waren auch Friedensverträge, da die süddeutschen Staaten im Deutschen Krieg auf der Seite Österreichs gegen Preußen gestanden hatten. Als der Deutsch-Französische Krieg ausbrach, erkannten die süddeutschen Staaten den Bündnisfall rasch an. Über die Euphorie und gebündelten Kräfte des geeinten Deutschlands berichtet Gregorovius auch in seinem Brief an Ersilia Caetani Lovatelli vom 16.8.1870.</note></seg> </p>
+<p>Più felice era l’<placeName key="G000690">Italia</placeName>; poichè quel <pb n="3"/>medesimo diritto naturale, di regolare nazionalmente i suoi propri destini, o non fu contrastato a lei, o gli ostacoli, che vi si opposero, furono sormontati senza quella profusione di sangue e di prosperità, con cui la mia patria deve rivendicare i diritti di nazionalità.</p>
+<p>Trovai qui il governo clericale già caduto e salutai <seg type="comment"><orig>questo improvviso cambiamento</orig><note xml:id="nf3m_dty_ylb">Am 8. Oktober 1870 war die Vereinigung des Kirchenstaats mit Italien proklamiert worden. Gregorovius dazu nach seiner Rückkehr im Tagebuch: „Die gewaltsame Umwälzung der Stadt erscheint mir wie die Metamorphose eines Taschenspiels. Italiener haben die Päpstlichen abgelöst. Statt der Zuaven durchziehen Bersaglieri die Straßen mit einer Art von Reiterbande-Musik.“ (RT, 30.10.1870, S. 297).</note></seg> come il principio di una nuova civiltà. Tornai a Roma per metter l’ultima mano al mio lavoro, e siccome io sono persuaso, che Loro non cessano di avere qualche simpatia per questa mia lunga pena, sono lieto di farle sapere, che <seg type="comment"><orig>spero venirne a capo dentro il Gennajo ed appunto nel giorno, in cui raggiungerò i cinquant’anni della mia vita</orig><note xml:id="nlvn_fty_ylb">Den achten und letzten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1872) schloss er am 19. Januar 1871 zu seinem 50. Geburtstag ab; siehe den Brief von Gregorovius an Ottilie Elgnowski vom 4.12.1870; BSB München, NL Gregorovius, Gregoroviusiana 20. An diesem Tag schrieb er in sein Tagebuch: „Heute bin ich 50 Jahre alt geworden; diesem Ereignis zu Ehren schrieb ich den Schluß der ‚Geschichte der Stadt Rom‘ nieder. Mir bleibt noch eine Nacharbeit von wenigen Monaten, um die Revision des Bandes zum Druck zu besorgen. So stehe ich am größten Abschnitt meines Lebens.“ (RT, 19.1.1871, S. 302).</note></seg>. </p>
+<p>Raccomandandomi, Signor Conte e Signora Contessa, alla di loro benevolenza, mi nomino per sempre il di loro</p>
+                <closer>
+                    <salute rendition="#right">veramente obbligato e divoto servitore</salute>
+                    <signed rendition="#right"> F. Gregorovius</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

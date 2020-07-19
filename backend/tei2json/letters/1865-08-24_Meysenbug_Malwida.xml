@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000233">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Malwida von Meysenbug in Bern. München, 24. August 1865</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>116/107 (8)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 5 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 86, Mappe 2 (nach D1)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Berta Schleicher: Ferdinand Gregorovius und Malwida von Meysenbug. Unveröffentlichte Briefe. In: Der Türmer. Monatsschrift für Gemüt und Geist. Jg. 25. H. 5. Stuttgart 1923. S. 312–313</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Von Wilhelmine von Stein hat er gehört, dass Malwida von Meysenbug in Bern nicht gesund ist. Nachdem ihre Pflegetochter Olga Herzen in die Berner Schule Abraham Emmanuel Fröhlichs eingetreten ist, rät er ihr, zu ihren Schwestern Laura Freiin von Meysenbug und Laura von Medem nach Detmold zu ziehen. Keinesfalls soll sie nach Italien zurückzukehren. Er hat den Sommer in der Heimat sehr genossen, er war in Kufstein, zwölf Tage in Bad Reichenhall mit Wilhelm Giesebrecht und den Botaniker Karl Gustav Sanio, danach in Salzburg, Gmunden und Linz. Nach Passau ist er per Schiff auf der Donau gelangt, wo er mit Schaustellern eine heitere und erholsame Zeit verbracht hat. Durch Cotta wird ihr der soeben erschienene fünfte Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1865) zugehen. Er will noch acht Tage in München bleiben und reist dann über Verona und Florenz noch Rom zurück.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He heard from Wilhelmine von Stein that Malwida von Meysenbug is not well in Bern. After her foster daughter Olga Herzen joins the Bernese school of Abraham Emmanuel Fröhlich, he advises her to move to Detmold to live with her sisters Laura Freiin von Meysenbug and Laura von Medem. Under no circumstances should she return to Italy. He enjoyed the summer at home very much, he was in Kufstein, twelve days in Bad Reichenhall with Wilhelm Giesebrecht and the botanist Karl Gustav Sanio, then in Salzburg, Gmunden and Linz. He arrived in Passau by ship on the Danube, where he spent a cheerful and relaxing time with showmen. Through Cotta she will receive the fifth volume of his „Geschichte der Stadt Rom im Mittelalter“ (1865), which has just been published. He wants to stay in Munich for another eight days and will then travel back to Rome via Verona and Florence. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1865-08-24" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001418">Meysenbug, Malwida von (1816–1903)</persName>
+<placeName key="G000637">Bern</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right"><hi rendition="#aq">München</hi>, 24. <hi rendition="#aq">Aug<hi rendition="#aq">ust</hi></hi> 65. <orgName key="G000472"><lb/>Liter<ex>arisch</ex> Artistische Anstalt Cotta</orgName>.</dateline>
+</opener>
+<p>Sie haben <seg type="comment"><orig><persName key="G001620">Fr<ex>äu</ex>l<ex>ein</ex> v<ex>on</ex> <hi rendition="#aq">Stein</hi></persName></orig><note xml:id="nayb_bfg_gmb">Die österreichische Porträtmalerin Wilhelmine von Stein (1825–1890) war 1865 in Rom (siehe RT, 26.11.1865, S. 202).</note></seg> geschrieben, daß Sie <seg type="comment"><orig>in Bern sehr leidend sind</orig><note xml:id="nsb2_cfg_gmb">Malwida von Meysenbug war mit ihren Pflegetöchtern Olga (1850–1953) und Natalie Herzen (1844–1936) im Frühjahr 1865 – dem Drängen des Vaters der Mädchen, Alexander Herzen (1812–1870), folgend – über Florenz reisend Richtung Schweiz gefahren, wo Meysenbug zunächst in einem Genfer Hotel wohnte, während Olga zur Bestürzung ihrer Pflegemutter in einem Berner Internat ihre Schulbildung beenden sollte. Meysenbug sah sich getäuscht, ihrer Rolle beraubt und erkrankte zudem körperlich. Auch Olga widersetzte sich der Trennung von ihrer Ziehmutter, so dass diese ihrer Pflegetochter bald nach Bern folgte.</note></seg> – was ist doch das für eine elende Welt, worin man <del rendition="#s">hört</del> nichts als von Krankheiten hört, – Die <seg type="comment"><orig><persName key="G001374"><hi rendition="#aq">Lindemann</hi></persName> elend</orig><note xml:id="nkpp_2fg_gmb">Der Gesundheitszustand von Auguste Lindemann-Frommel (1826–1876) verschlechterte sich bald so sehr, dass sie das Bett nicht mehr verlassen konnte.</note></seg>, die arme <seg type="comment"><orig><persName key="G001278"><hi rendition="#aq">Pauline</hi></persName> zwischen Leben u<ex>nd</ex> Tod</orig><note xml:id="nul4_ffg_gmb">In Florenz war seine enge Freundin Pauline Hillmann (1822–1866) schwer erkrankt, weshalb sich Gregorovius vom 25 Juni bis 22. Juli 1865 dort aufgehalten hatte, bis sich ihr Gesundheitszustand gebessert hatte (siehe RT, 24.6.-29.7.1865, S. 196 und den Brief von <ref target="G000151">Gregorovius an Meysenbug, 27.6.1865</ref>).</note></seg>, die junge <seg type="comment"><orig>Oppenheim</orig><note xml:id="nlyh_gfg_gmb">Nicht ermittelt.</note></seg> schon im Grabe – mir schrieb gestern von deren plötzlichem Tode <seg type="comment"><orig><persName key="G001665">Frau <hi rendition="#aq">Sabatier</hi></persName> aus <placeName key="G000801"><hi rendition="#aq">Karlsbad</hi></placeName></orig> <note xml:id="nwjt_jfg_gmb">Seine Florentiner Freundin Caroline Ungher-Sabatier (1803–1877), in deren Stadtvilla (in der Via del Renai) Pauline Hillmann vermutlich wohnte (siehe den Brief von <ref target="G000151">Gregorovius an Meysenbug, 27.6.1865</ref>).</note></seg>– dies Mädchen war also schon in <placeName key="G000763">Rom</placeName> vom Tode gezeichnet, und wir ahnten es nicht. Wenn solche Rosenblätter vor unsere Füsse gestreut werden, sollen wir die wenigen Jahre, die uns noch bleiben, um so mehr mit festem und ruhigem Schritte hinabgehen, jeder seine <hi rendition="#aq">Aufgabe</hi> vollendend.</p>
+<p><seg type="comment"><orig>Eine Ihrer <hi rendition="#aq">Aufgaben</hi> scheint Dank <persName key="G001268">Olgas</persName> sehr praktische Übersiedlung in ein Institut vollendet zu sein</orig><note xml:id="ntfr_nfg_gmb">Olga Herzen (1850–1953) war zusammen mit ihrer Schwester Natalie Herzen (1844–1936) seit 1853 die Pflegetochter von Malwida von Meysenbug; seit 1861 lebte sie mit ihnen zusammen. Olga war nach dem Wunsch des Vaters in die Berner Schule Abraham Emmanuel Fröhlichs (1796–1865) eingetreten, blieb dort jedoch nur kurz. Im November 1865 reiste Malwida von Meysenbug mit den Schwestern zurück nach Florenz, wo deren Bruder Alexander Herzen (1839–1906) ansässig war, und Olga besuchte dort ein von den Kaiserswerther Diakonissen geführtes Institut. Olga Herzen heiratete 1873 den französischen Historiker Gabriel Monod (1844–1912).</note></seg>, und ich stelle mir vor, dass auch Ihr, Leben in dem Herzenschen Hause, dadurch einen Abschnitt <pb n="1v"/>gefunden hat. <hi rendition="#aq">Auf</hi> meinen Wanderfahrten gedachte ich viel Ihrer, und wie Ihrem Leben eine heilsame Gestalt möchte gegeben werden – aber ich ersehe leider, dass Sie dem wärmsten meiner Wünsche für Sie nicht Wort geben, nämlich, <seg type="comment"><orig>in die <hi rendition="#aq">Arme</hi> Ihrer gewiß freundlichen und edel gebildeten <persName key="ed_vmf_545_njb ed_xn1_m45_njb">Schwestern</persName> sich zu werfen</orig><note xml:id="nmjn_4fg_gmb">Malwida von Meysenbugs unverheiratet in Detmold lebende jüngste Schwester, die Zeichnerin und Pianistin Laura von Meysenbug (1818–1887), die Klavierunterricht von Clara Schumann (1819–1896) und Johannes Brahms (1833–1897) erhalten hatte, und ihre ältere Schwester Louise (1810–1895), die seit 1830 mit Carl Freiherr von Medem (1806–1873) verheiratet war. Den Winter 1874/75 verbrachte Malwida von Meysenbug mit ihren Schwestern in Rom.</note></seg>, und mit dem besten <placeName key="G000664">Vaterlande</placeName> sich auszusöhnen.</p>
+<p>Ich würde Sie aufrichtig beklagen, kämen Sie wieder nach <placeName key="G000690">Italien</placeName>, wo Ihrer nur Einsamkeit, Enttäuschung, und das Gefühl eines unpraktischen Zustandes wartete.</p>
+<p>Ich trank wieder mit vollen Zügen die Luft der alten Heimat, die mich herrlich gestärkt hat. Ich gelobte, ins Vaterland zurückzukehren, wenn meine <hi rendition="#aq">Aufgabe</hi> jenseits der Berge vollendet sein wird. <seg type="comment"><orig>Schöne Tage lebte ich in <placeName key="G000711"><hi rendition="#aq">Kufstein</hi> am Inn</placeName></orig><note xml:id="nirl_pfg_gmb">Gregorovius hatte am 26. Juli 1865 auf dem Weg nach Reichenhall in Kufstein ungeplant Halt gemacht, wo er bis zum 5. August blieb (siehe RT, 29.7.-16.8.1865, S. 196–198).</note></seg>, in völliger Einsamkeit, welche die Dämonen nicht gestört haben, <seg type="comment"><orig>12 gesellige Tage in <placeName key="G000762"><hi rendition="#aq">Reichenhall</hi></placeName> mit trefflichen <pb n="2r"/>Menschen</orig><note xml:id="nd4r_qfg_gmb">In Reichenhall hatte Gregorovius Wilhelm Giesebrecht (1814–1889) und den Botaniker Karl Gustav Sanio (1832–1891) aus Königsberg getroffen und mit ihnen „viele Partien“ unternommen (siehe RT, 16.8.1865, S. 198).</note></seg> voll Güte und Geist. Die Deutschen sind doch das wahre Messias-Volk der Erde, so viel auch die Fremden uns schmähen.</p>
+<p>Ich war in dem schönen <seg type="comment"><orig><placeName key="G000867"><hi rendition="#aq"><hi rendition="#aq">Salzburg</hi></hi></placeName> wieder, ging nach <placeName key="G000803"><hi rendition="#aq">Gmunden</hi></placeName>, nach <placeName key="G000804"><hi rendition="#aq"><hi rendition="#aq">Linz</hi></hi></placeName>, machte eine köstliche <hi rendition="#aq">Nibelungenfahrt</hi> auf der majestätischen <placeName key="G000806">Donau</placeName> bis <placeName key="G000750">Passau</placeName></orig><note xml:id="nywn_rfg_gmb">Am 16. August 1865 fuhr Gregorovius nach Salzburg, wo er schon im Jahr 1863 war (siehe RT, 4.9.1863, S. 166–167). Zwei Tage später fuhr er über Lambach und Linz und am 20. August per Schiff für einen zweitägigen Aufenthalt nach Passau (siehe RT, 19.-21.8.1865, S. 198–199). </note></seg>, wo ich ganz glücklich war, viel mit dem Volk verkehrte, einen Bürgerball besuchte, und mehre Stunden <add place="superlinear">mit Handwerkern</add> zubrachte. Ich könnte den heitersten Roman über meine Irrfahrten schreiben, denn sie waren schön und heiter, und ich meiner unverwüstlichen „<hi rendition="#aq">Jugendlichkeit</hi>“ mir froh bewußt. So will ich weiter leben, und den Kopf, nicht zur Erde, hängen lassen. <seg type="comment"><orig>Auch mit Schauspielervolk trieb ich mich umher</orig><note xml:id="ninl_sfg_gmb">Die literarische Frucht seines Sommeraufenthaltes war „Das Tyroler Passionsspiel, von Bauern aufgeführt zu Thiersen, am 30. Juli 1865“, das im August in der Berliner „National-Zeitung“ gedruckt wurde.</note></seg>, und mit einer <hi rendition="#aq">Zigeunerbande</hi> – sie spielten ihre Lieder mir, <seg type="comment"><orig>von <hi rendition="#aq"><persName key="G000942">Rakoczy</persName> dem Rebellen</hi></orig><note xml:id="nocy_tfg_gmb">Der in Ungarn als Nationalheld geltende Franz II. Rákóczi (1676–1735); er war der Anführer des nach ihm benannten letzten und größten Aufstandes (1703–1711) ungarischer Adliger gegen die Habsburger.</note></seg>. Sie sehen, dies alles unternimmt noch mit Humor der Geschichtschreiber der Römer, und das, wie die arme <hi rendition="#aq">Pauline</hi> sagt, mit dem Mammutsorden gezierte, höchst gravitätische <seg type="comment"><orig>Mitglied <pb n="2v"/>der hochgelehrten <orgName key="G000494">Akademie der Wissenschaften von <hi rendition="#aq">München</hi></orgName></orig><note xml:id="nfnt_dgg_gmb">Am 25. Juli 1865 war Gregorovius zum korrespondierenden Mitglied der Königlich Bayerischen Akademie der Wissenschaften in München ernannt worden (BSB München, NL Gregorovius, Gregoroviusiana 19,3).</note></seg>. </p>
+<p><seg type="comment"><orig>Sie werden erhalten, oder erhalten haben den <bibl sameAs="G003455">Band V</bibl>, durch <orgName key="G000523">Cotta</orgName> in <placeName key="G000879"><hi rendition="#aq">Stuttgart</hi></placeName></orig>,<note xml:id="nckl_fgg_gmb">In seinem Brief vom 12. August 1865 hatte Gregorovius den Verlag um den Versand des soeben fertig gedruckten fünften Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1865) unter anderem an Malwida von Meysenbug ersucht (DLA Marbach, Cotta-Archiv, Cotta-Briefe, 65a).</note></seg> welchen ich Ihnen in Rom zum Dank für Ihre goldne Feder versprach, womit er abgeschrieben wurde – geschrieben ist er mit einer Schwanenfeder – die goldne ist caput, wie man sagt; das heißt, ich wollte sie gerade klopfen, wußte nicht dass eine Demantspitze daran sass, und zerschlug diese in meiner Dummheit. Ich betrachtete dies als <hi rendition="#aq">Schicksalszug</hi>, und legte sie fort – sie hat ihre Dienste gethan, jetzt schreibe ich mit Sabatier’schen <hi rendition="#aq">Stahlfehdern</hi>.</p>
+<p xml:id="p7" next="#p8">Ich bleibe hier 8 Tage; will mich nur vergnügen – ich thue gar nichts, nicht einmal lesen, ich gebe nur Geld aus – ich versenkte was mich an nicht von mir heraufbeschworenen Geistern überkam, in die stillen Tiefen, die der Welt nicht angehören, und ich bin für sie nur Oberfläche. Ich gehe nach 8 Tagen wahrscheinlich wieder nach Passau, und von dort </p>
+<p xml:id="p8" prev="#p7" place="left" rendition="#rotate90" next="#p9">auf <hi rendition="#aq"><placeName key="G000895">Verona</placeName></hi> zurück, für ein paar Stunden nach <hi rendition="#aq"><placeName key="G000671">Florenz</placeName></hi>, und sodann in mein geliebtes <seg type="comment"><orig>Rom, wo ich um den 10. <hi rendition="#aq">Sept<ex>em</ex>b<ex>e</ex>r</hi> zu sein gedenke</orig><note xml:id="nqqq_chg_gmb">Gregorovius blieb bis zum 31. August 1865 in München und kehrte dann, anders als hier geplant, über Innsbruck, Bozen, Bologna, Florenz (wo er den Zustand von Pauline Hillmann am 5. September „unverändert fand“) und Pisa reisend am 8. September nach Rom zurück (siehe RT, 4.-14.9.1865, S. 196–200).</note></seg>, und mit Ernst an meine</p>
+<p xml:id="p9" prev="#p8" place="mTop" rendition="#rotate180"><seg type="comment"><orig>Arbeit</orig><note xml:id="nu4n_fkg_gmb">Im Tagebuch dokumentierte Gregorovius, dass er am 22. September 1865 mit der Niederschrift des sechsten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1867) begann (siehe RT, 8.10.1865, S. 200).</note></seg> gehen will. Ich <seg type="comment"><orig>schicke den Brief nach <placeName key="G000676">Genf</placeName></orig><note xml:id="nkvr_mgg_gmb">Nach dem Brief von Gregorovius an Cotta vom 12. August 1865 (DLA Marbach, Cotta-Archiv, Cotta-Briefe, 65a) ging der Brief somit zunächst an Château la Boissière, nahe Genf, der Wohnsitz von Alexander Herzen (1812–1870), seit er im Frühjahr 1865 England verlassen hatte.</note></seg>, da ich Ihre Berner Adresse nicht weiß. Grüßen Sie mir herzlich <foreign xml:lang="eng">sweet</foreign> <hi rendition="#aq">Olga</hi>. Leben Sie wohl!</p>
+<closer>
+<signed place="mTop" rendition="#right #rotate180">G. </signed>
+</closer>
+<note type="postscript" place="left" rendition="#rotate90"><pb n="1r"/>Nach Briefen aus Florenz ist <hi rendition="#aq">Pauline</hi> unrettbar. <seg type="comment"><orig>Ich wünschte ihr einen baldigen Tod</orig><note xml:id="npbm_ngg_gmb">Pauline Hillmann starb am 3. April 1866 in Florenz.</note></seg> – dies ist doch die wahre Erlösung. Sie lebte genug. Ich will nicht klagen – wenn ich auch das Reinste und Schönste verliere, was mir im Leben nahe stand. Nie trübte auch nur ein Hauch unsere Freundschaft. Dessen gedenke ich froh!</note>
+</div>
+        </body>
+    </text>
+</TEI>

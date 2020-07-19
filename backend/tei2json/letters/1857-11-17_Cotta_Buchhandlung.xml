@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000036">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an die J. G. Cotta’sche Buchhandlung in Stuttgart. Rom,
+                    17. November 1857</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Briefe (11)</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¾ S. – 1r alR Empfängervermerke</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach D1)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 216–217</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er erinnert daran, ihm Abzüge seiner Artikel „Fragmente aus Sicilien. Syrakus“ (1854), „Saracenische Reminiscenzen vom Golfe von Salerno“ und „Zur Geschichte der Saracenen in Sicilien“ (1855) aus der „Allgemeinen Zeitung“ zu schicken. Das längst eingesandte Manuskript seines Artikels „Aus der Campagna von Rom. Subiaco, das älteste Benedictinerkloster des Abendlandes, seine Geschichte und seine Altertümer“ ist in der „Allgemeinen Zeitung“ noch immer nicht zum Abdruck gekommen, noch hat er Nachricht von der Redaktion – er bittet um Weitergabe an „Das Ausland“. Künftig wünscht er zeitnahe Rückmeldung oder verzichtet auf das Einsenden weitererer Artikel. Es ist die italienische Teilübersetzung seines „Corsica“ (1857) erschienen; dessen amerikanische Übersetzung „Wanderings in Corsica“ (1855) ist bereits vergriffen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He reminds Cotta to send him copies of his articles „Fragmente aus Sicilien. Syrakus“ (1854), „Saracenische Reminiscenzen vom Golfe von Salerno“ and „Zur Geschichte der Saracenen in Sicilien“ (1855) from the „Allgemeine Zeitung“. The manuscript of his article „Aus der Campagna von Rom. Subiaco, das älteste Benedictinerkloster des Abendlandes, seine Geschichte und seine Altertümer“, sent in a while ago, has still not been printed in the „Allgemeine Zeitung“, nor has he received any news from the editorial staff - he asks to pass it on to „Das Ausland“. He would like to receive prompt feedback in the future or he will refrain from sending in further articles. The partial translation of his „Corsica“ (1857) into Italian has been published; its American translation „Wanderings in Corsica“ (1855) is already out of stock. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1857-11-17" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="G000523">J. G. Cotta'sche Buchhandlung</orgName>
+                    <placeName key="G000879">Stuttgart</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev">Ende August 1857</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi>, d<ex>en</ex> 17. <hi rendition="#aq">Nov<ex>em</ex>b<ex>e</ex>r</hi> 1857.</dateline>
+                    <salute rendition="#c">Sehr geehrte Herren,</salute>
+                </opener>
+                <p>in Ihrem gefälligen Schreiben vom Ende August d<ex>iesen</ex> J<ex>ahres</ex> haben Sie mir die <seg type="comment"><orig>Abgabe von einigen meiner <bibl corresp="G003826 G003827"><bibl corresp="G003820 G003821 G003822 G003823 G003824"><bibl corresp="G003828 G003829">Artikel</bibl></bibl></bibl> zugesagt, welche früher in Ihren Blättern abgedruckt worden sind</orig><note xml:id="nujp_3sw_slb">Nach den Verlags-Notaten auf dem vorliegenden Brief hatte Gregorovius um die Zusendung seines Artikels „Fragmente aus Sicilien. Syrakus“ (Syrakus – 2. Achradina – 3. Neapolis –4. Tycha und Epipolä – 5. Der Anapus und das Olympion) aus dem Jahre 1854 (aus: Beilage zu Nr. 293, 295, 304, 310 und 317 der AZ. Augsburg: Cotta 20.10.- 30.11.1854) und um den seiner Artikel „Saracenische Reminiscenzen vom Golfe von Salerno“ und „Zur Geschichte der Saracenen in Sicilien“ aus dem Jahre 1855 (aus: Beilage zu Nr. 40–41 und 54–55 der AZ. Augsburg: Cotta 9.-10.2.1855 und 23.-24.3.1855) gebeten. – Zuletzt war in der „Allgemeinen Zeitung“ vom 15.12.1856 bis 6.5.1857 sein Artikel „Aus der Campagna von Rom“ in 14 Folgen erschienen.</note></seg>. Ich würde Sie nun um die einzelnen Nummern bitten, weil die Übersendung von Vierteljahrgängen dem Empfänger nicht ganz unbedeutende Porto-Kosten hierorts verursacht.</p>
+<p>Haben Sie demnach die Gewogenheit, mir die Nummern der „<hi rendition="#u" hand="#addressee">Fragmente aus Sizilien“ – <supplied cert="high">„</supplied>Syrakus</hi>“ – aus der betreffenden Beilage der<orgName key="G000462"> Allg<ex>emeinen</ex> Zeit<ex>ung</ex></orgName> gelegentlich per <placeName key="G000712">Leipzig</placeName> zukommen zu laßen, u<ex>nd</ex> ich behalte mir vor, später um andere Nummern zu bitten.</p>
+                <p>Aus dem Schweigen der Allg<ex>emeinen</ex> Zeit<ex>ung</ex> sehe ich, daß meine Einsendung: „<bibl corresp="G003859">Aus der Campagna von Rom – Subiaco, Geschichte der ältesten Benediktinerabtei u<ex>nd</ex> Schilderung ihrer Malereien etc</bibl>“ – dort liegen geblieben sei. Ich bitte Sie demnach, das Manuscript von<placeName key="G000620"> Augsburg</placeName> an sich zu nehmen u<ex>nd</ex> der <seg type="comment"><orig>Redaction des <orgName key="G004668">Auslands</orgName> zu übergeben</orig><note xml:id="nsjd_psw_slb">In Cottas Zeitschrift „Das Ausland. Eine Wochenschrift für Kunde des geistigen und sittlichen Lebens der Völker“ hatte Gregorovius schon früher publiziert.</note></seg>, sodann mir <seg type="comment"><orig>gefälligst anzuzeigen, ob dasselbe dort zum Abdruck <pb n="1v"/>komme, damit ich im anderen Falle darüber weiter disponiren kann</orig><note xml:id="njzt_qsw_slb">Das Manuskript seines unvollständig gedruckten Artikels „Aus der Campagna von Rom. Subiaco, das älteste Benedictinerkloster des Abendlandes, seine Geschichte und seine Altertümer“ wurde Gregorovius nach seinem Brief an Cotta vom <ref target="G000021">31.1.1858</ref> im Januar zurückgesandt. Der vollständige Druck erschien schließlich in: Deutsches Museum. Jg. 8. Bd. 2. Nr. 27–29. Leipzig: Brockhaus 1., 8., 15.7.1858. S. 1–10, S. 60–67 und S. 89–99.</note></seg>. Für die Folge kann ich Ihren Journalen nur dann Arbeiten anbieten, wenn Sie mir über deren Nichtannahme bestimmte Anzeige geben wollen; bei kleineren Dingen mag dies auf sich beruhen, ich kann indeß in Betreff größerer Arbeiten mich nicht monatelanger Ungewißheit aussetzen, da ein Teil meines Erwerbs auf sie angewiesen ist; u<ex>nd</ex> Sie haben gesehen, daß ich Ihre Spalten niemals mit elendem Zeuge belästigte, sondern Ihnen zusammenhängende Beiträge lieferte, die ich dann sammle. Um so mehr kränkt mich das Verfahren der Redaction der Allg<ex>emeinen</ex> Zeit<ex>ung</ex>, welche ihrem Mitarbeiter seit dem Jahre 1852 weder einen Brief beantwortet, noch einen billigen Wünsch erfüllt hat – ein Verhältniß, welches mich zwingen muß, auf das Vergnügen, für Ihre Zeitung zu arbeiten endlich zu verzichten.</p>
+                <p><seg type="comment"><orig><orgName key="G000528"><hi rendition="#aq">Le Monnier</hi></orgName> in <placeName key="G000671"><hi rendition="#aq">Florenz</hi></placeName> hat eine niedliche <bibl sameAs="G004322">Ausgabe der Geschichte der Corsen</bibl> ge-<pb n="2r"/>macht</orig><note xml:id="nagd_5sw_slb">Gregorovius’ Freund Paolo Perez (1822–1879) hatte anonym einen Auszug seines „Corsica“ (Stuttgart: Cotta 1854) übersetzt: Storia dei Corsi. Florenz: Tip. Felice Le Monnier 1857. </note></seg>, u<ex>nd</ex> <seg type="comment"><orig>die Fortsetzung der anderen Teile erscheint nächstdem</orig><note xml:id="ngjr_wsw_slb">Nach dem Brief von <ref target="G000048">Gregorovius an Alfred von Reumont, 8.11.1857</ref> hatte ihm die Gräfin Maria Teresa Serego Alighieri Gozzadini (1812–1881) eine vollständige Übersetzung seines „Corsica“ (1854) in Aussicht gestellt, zu der es dann nicht kam. Eine vollständige Übersetzung erschien erst 1912: Corsica. Rom: Enrico Voghera 1912.</note></seg>. <bibl sameAs="G004436">In America ist die erste Auflage</bibl> längst verkauft, aber die Deutschen lesen lieber Romane von Frauen, als ernste Dinge. Ich habe eine gewiße Neugier als Autor zu wißen, wie Sie nunmehr mit dem Absatz des Buches zufrieden seien.</p>
+                <closer>
+<salute xml:id="s1" next="#s2" rendition="#c">Mit großer Hochachtung, geehrte Herrn, </salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">Ihr ergebenster</salute>
+                    <signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi></signed><note type="postscript"><hi rendition="#aq"><hi rendition="#aq">Rom</hi>, Via della Purificazione N<ex>ummer</ex></hi> 63.</note>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

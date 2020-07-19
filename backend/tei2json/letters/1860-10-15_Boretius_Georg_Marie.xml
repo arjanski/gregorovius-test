@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000126">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Georg und Marie Boretius in Berlin. Rom, nach dem 11. Oktober 1860</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>nicht erhalten</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Beilage: Briefe von Gregorovius an Julius Pianka und Julius Gregorovius</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 55, Mappe 337 und Karton 57, Mappe
+                                        340–342 (nach D)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this">
+                        <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der
+                            Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S.
+                            240–241</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+<p xml:lang="de">Von seinem Cousin Julius Pianka hat er von ihrer Krankheit / Fehlgeburt (?) erfahren. Nach seinem Besuch in Berlin ist er über Südfrankreich zurück nach Rom gereist. Die Zustände sind nach wie vor chaotisch. Von seiner Cousine Ida Hedwig Kowallek und ihrem Mann aus Cottbus hat er nichts gehört; seine Tante Charlotte Pianka lässt er grüßen. Sein Cousin Julius Pianka hat ihm schwermütig aus dem Goldap geschrieben. Für die sechsjährige Tochter und den Sohn von Marie Boretius, Charlotte und Georg, fügt er einen Kinderreim ein. Beiliegende Briefe nach Goldap und an seinen in Graudenz stationierten Bruder Julius bittet er weiterzuleiten.</p>
+<p xml:lang="it"/>
+<p xml:lang="en">From his cousin Julius Pianka he learned about her illness / miscarriage (?). After his visit to Berlin, he travelled back to Rome through the south of France. The conditions are still chaotic. He has heard nothing from his cousin Ida Hedwig Kowallek and her husband from Cottbus; he sends his regards to his aunt Charlotte Pianka. His cousin Julius Pianka wrote to him gloomily from the Goldap. For the six-year-old daughter and son of Marie Boretius, Charlotte and Georg, he includes a nursery rhyme. He asks that enclosed letters to Goldap and to his brother Julius stationed in Graudenz be forwarded. </p>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date notBefore="1860-10-11" notAfter="1860-10-15" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+<persName key="G004698">Boretius, Georg (1813–1875)</persName>
+<persName key="G004742">Boretius, Marie (1833–1905)</persName>
+                    <placeName key="G000636">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="240"/>
+            <div type="writingSession">
+                <opener>
+<salute xml:id="s1" next="#s2"> Herr <seg type="comment"><orig>Boretius Geheinem Ober-Regierungsrat im Handelsministrium Berlin</orig><note xml:id="nh2k_gmz_ylb">Der in Königsberg geborene Jurist, Georg Boretius (1813–1875), hatte ebendort bis 1834 Jura studiert und war anschließend in den Staatsdienst eingetreten, 1844–1859 wirkte er in Königsberg, zuletzt als Oberpräsidialrat. 1859 war er Geheimer Ober-Regierungsrath und vortragender Rath im preußischen Handelsministerium Berlin. Er war seit 1853 mit Marie Boretius, geb. Pianka (1833–1905), verheiratet, mit der er acht Kinter bekam. Marie Boretius war eine Cousine väterlicherseits von Gregorovius: Die Mutter von Marie Boretius war die Schwester des Vaters von Gregorovius, Charlotte Pianka, geb. Gregorovius (1794–1892), Witwe von Siegismund Friedrich Pianka (1786–1857), Pfarrer in Mirunsken, ab 1856 Superintendent in Rhein am Spirdingsee in Masuren. </note></seg>.</salute>
+<salute xml:id="s2" prev="#s1" rendition="#c"><lb/>Teure Freunde in Berlin</salute>
+</opener>
+                <p>ich benutze den preußischen Kurier, Euch diese herzliche Depesche zu senden, die schon längst abgehen sollte. <persName key="G067678 G067674"><seg type="comment"><orig>Die <placeName key="G067548">Goldaper</placeName></orig><note xml:id="na52_4mz_ylb">Gregorovius hatte die Familie seines Cousins Julius Pianka (1818–1892), des ältesten Bruders von Marie Boretius, in Goldap besucht (siehe RT, 31.8.1860, S. 108–109). Julius Pianka war ein Schulfreund von Gregorovius in Gumbinnen; er hatte Medizin studiert und wurde 1864 Medizinalrat in Marienwerder und später Geheimer Medizinalrat in Berlin.</note></seg></persName> haben mich von allem benachrichtigt, was Euch betroffen hat, und von ganzem Herzen nehme ich daran teil. Ich wünsche zu erfahren, daß Du, liebe <seg type="comment"><orig>Schwester Marie</orig><note xml:id="nctz_pmz_ylb">Cousins und Cousinen wurden in der Familie Gregorovius oft als Brüder und Schwestern bezeichnet.</note></seg>, nun wohlauf bist, und bitte Euch dringend, mir ein paar Zeilen zu schreiben „Über <placeName key="G000674">Frankreich</placeName>“, denn im anderen Falle wird mich der Brief nicht erreichen; oder schickt ihn als preußische Depesche durch die Legation.</p>
+                <p>Ich denke oft und gerne an die schönen gastlichen Stunden in Eurem Hause, und wer weiß, ob ich Euch nicht bald wiedersehe. <seg type="comment"><orig>Meine Rückreise nahm ich über Südfrankreich und traf hier am 11. Oktober ein</orig><note xml:id="nplq_qmz_ylb">Gregorovius war am 2. Oktober 1860 über Magdeburg, Göttingen und Heidelberg nach Straßburg, Lyon, Avignon, Arles und Marseille gereist. Am 9. Oktober hatte er sich von Marseille nach Civitavecchia eingeschifft und war am 11. Oktober 1860 zurück in Rom (siehe RT, 30.6.-9.10.1860, S. 103–111).</note></seg>, mitten in ein Chaos von Parteien und politischen Verwirrungen, die kein Ende nehmen, und wovon Ihr genugsam unterrichtet seid. Ich weiß von den sibirischen Zuständen Eures Winters, von solcher Kälte, daß Sperlinge und Soldaten vom Himmel fallen, und ich habe dabei Mariens gedacht, denn wer weiß, ob Eure Salons recht warm zu bekommen sind. Von<persName key="G067675"> <seg type="comment"><orig>Kowalleks</orig><note xml:id="nctd_smz_ylb">Die ältere Schwester von Marie Boretius, Ida Hedwig Kwallek, geb. Pianka (1827–1907), war mit dem Kreisrichter Kowallek in Cottbus verheiratet, der später Direktor des Stadt- und Kreisgerichts in Danzig wurde.</note></seg></persName> hörte ich nichts; ich bitte, dort hinüber zu grüßen, und die gute alte <seg type="comment"><orig>Tante</orig><note xml:id="npqh_wmz_ylb">Seine Tante Charlotte Pianka, geb. Gregorovius (1794–1892).</note></seg>, dies Muster der Mütterlichkeit, grüße <pb n="241"/>ich viel tausendmal. <seg type="comment"><orig>Julius schreibt mir aus Goldap</orig><note xml:id="norn_xmz_ylb">Sein Cousin Julius Pianka (1818–1892) war seit 1849 als Kreis-Physikus praktischer Arzt, Operateur und Geburtshelfer in Goldap.</note></seg>, daß er krank gewesen sei; es geht aus seinem Briefe ein schwermütiger Zustand hervor, der mir gar nicht behagen will. Ein so trefflicher Mann sollte je eher je lieber aus dem Nest Goldap gezogen werden, über dessen triste Erscheinung in einer menschenöden Wüste ich noch oftmals nachdenke.</p>
+                <p>Wie geht es Dir, kleines munteres Ding, <persName key="G000981"><seg type="comment"><orig>Charlotte</orig><note xml:id="nfc1_zmz_ylb">Die Tochter von Marie Boretius hieß ebenfalls Charlotte (1854–1929). Sie war damals sechs Jahre alt. Später wurde sie Sopranistin in Berlin.</note></seg></persName> Widewotte, Widewitte Katotte, widewitte Katitte, katholische Lotte? Diese albernen Kinderverse sind übrigens so köstlich, daß ich mich manchmal, denkt nur, auf dem Forum von Rom damit unterhalte, sie fortzusetzen. Ich grüße auch <persName key="G067605">Georg</persName> <seg type="comment"><orig>Wideworg</orig><note xml:id="nfmy_1nz_ylb">Scherzreim auf Charlottes Bruder Georg.</note></seg> und alle Eure Kinder. Mag Euer Haus gedeihen wie bisher, in herzlicher Eintracht und Lebensgenüge, und möge ich Dich, teurer Freund, bald als Handelsminister und unnahbare Exzellenz mit mehren Sternen auf der Brust, <seg type="comment"><orig><hi rendition="#aq"><foreign xml:lang="Lat">signum excellentiae in vultu gerens</foreign></hi></orig><note xml:id="nmrw_qnz_ylb">Lat.: etwa sichtbare Zeichen der Exzellenz tragen.</note></seg>, wiedersehen. Dies alles kann werden, denn Du hast schon eine nahe Stufe erstiegen. </p>
+                <p>Bitte, einliegende Briefe befördern zu lassen; den nach Goldap legt Ihr wohl einem Schreiben bei und <seg type="comment"><orig>den nach <placeName key="G000682">Graudenz</placeName></orig><note xml:id="nrxr_vnz_ylb">An seinen Bruder Julius Gregorovius, von dem Gregorovius im Tagebuch unter dem 31. August 1860 notiert, dass er „seine Batterie nach Graudenz hatte fahren müssen“ (RT, S. 108).</note></seg> bitte in ein Postfach werfen zu lassen.</p>
+                <closer>
+                    <salute>Mit herzlicher Freundschaft</salute>
+                    <signed rendition="#right">Euer F. Gregorovius</signed></closer>
+                    <note type="postscript">Rom, Via Gregoriana N<ex>umme</ex>r 13.</note>
+                  </div>
+        </body>
+    </text>
+</TEI>

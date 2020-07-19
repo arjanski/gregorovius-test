@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000278">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Tommaso Gar in Neapel. Rom, 28. Februar 1865</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Biblioteca Comunale di Trento</repository><idno><idno>busta BCT1–2257/52</idno> </idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Seinen Brief hat er durch Otto Ludwig von Klumpp erhalten. Giuseppe Fiorelli soll Klumpp und die Fürstin Anna Feodora zu Hohenlohe-Langenburg durch Pompeji führen. Er dankt Gar und Madeleine Creutzer für ihre Besuche beim verletzten Alfred Boretius. Er wartet auf Nachricht vom Verlag Antonelli über den Vertragsabschluss zur italienischen Übersetzung seiner „Geschichte der Stadt Rom im Mittelalter“. Er ist auf eine Baronin de Caloz getroffen, deren emanzipiertes Auftreten ihm unangenehm war. Grüße von Karl und Auguste Lindemann-Frommel und an den Bekanntenkreis um die Buchhandlung Albert Detkens.</p>
+                <p xml:lang="en">He received his letter through Otto Ludwig von Klumpp. Giuseppe Fiorelli is to lead Klumpp and the princess Anna Feodora zu Hohenlohe-Langenburg through Pompeii. He thanks Gar and Madeleine Creutzer for their visits to the injured Alfred Boretius. He is waiting for news from the publishing house Antonelli about the contract for the Italian translation of his „Geschichte der Stadt Rom im Mittelalter“. He met a Baroness de Caloz, whose emancipated appearance made him uncomfortable. Greetings from Karl and Auguste Lindemann-Frommel and to the circle of friends around the bookshop Albert Detkens. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName>
+                    <date when="1865-02-28" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001158">Gar, Tommaso (1808–1871)</persName>
+<placeName key="G000737">Neapel</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<salute rendition="#c">Caro amico Gar,</salute>
+</opener>
+<p>questa mia se la porta <seg type="comment"><orig>il consigliere <persName key="G001340">di Klumpp</persName> della corte di <placeName key="G000879">Stuttgart</placeName></orig><note xml:id="nlbp_zpl_ylb">Otto Ludwig von Klumpp (1819–1902) war ab 1851 Hofrat im württembergischen Ministerium für auswärtige Angelegenheiten und von 1854–1869 Hofbibliothekar am württembergischen Königshaus. Gregorovius lernte ihn als Begleiter der Fürstin Anna Feodora zu Hohenlohe-Langenburg (1807–1872), geb. Prinzessin Feodora zu Leiningen, im Dezember 1864 in Rom kennen (siehe RT, 11.12.1864, S. 189).</note></seg>, uomo distinto per letteratura, e divenuto caro a me durante il suo lungo soggiorno a Roma, dove stavo in compagnia della <persName key="G001291">principessa Hohenlohe</persName>, sorella della <persName key="G001684">regina Inglese</persName>. Ho scritto al <seg type="comment"><orig><persName key="G001131">Fiorelli</persName></orig><note xml:id="nzh5_1ql_ylb">Giuseppe Fiorelli (1823–1896) war ein Archäologe und Numismatiker, 1860–1863 Professor für Archäologie an der Universität Neapel und langjähriger Direktor der Ausgrabungen in Pompeji und Herkulaneum, wo er eine systematische und dokumentierende Methode der Grabungen durchsetzte. Außerdem gab er die Ausgrabungen für die breite Öffentlichkeit zur Besichtigung frei. Im August 1864 besuchte Gregorovius mit ihm zusammen die Ausgrabungsstätten in Pompeji (siehe RT, 15.8.1864, S. 182).</note></seg>, perche sia cortese a codesti personaggi, una volta a <placeName key="G000755">Pompej</placeName>, come spero che farà, e non ne dubito punto. Il di Klumpp vi portera le mie nuove, e vi dica, che sto di buon essere, che godo perfetta salute, e che vado avanti nei lavori. S’ io l potessi, accorrerei in persona à Napoli, per stringer la mano a voi ed ella <persName key="G001056">Baronessa</persName>, e per visitar <seg type="comment"><orig>il povero <persName key="G000980">Boretius</persName>.</orig><note xml:id="nrxl_cql_ylb">Alfred Boretius (1836–1900) hatte sich bei der Ankunft in Neapel am Fuß verletzt; Gregorovius bat Gar sich nach ihm zu erkundigen (siehe den Brief von <ref target="G000275">Gregorovius an Tommaso Gar, 24.1.1865</ref>).</note></seg> Dio ve ne renda il merito, che l’avete salutato in nome mio, e che seguitate a vederlo qualche volta. La mala sorte, che lo colpì <pb n="1v"/>appena arrivato a Napoli, pare che gli abbia reso più danno nel morale ancora. Già era melancolico, e mi sembrava afflitto di qualche pensiere grave. Gli scrissi in questi giorni, e aspetto una sua risposta.</p>
+<p>La casa <persName key="G001374"> <persName key="G001375">Lindemann</persName> </persName> vi saluta; pure di essa sapra dirvi delle buone nuove il sign<ex>o</ex>r<ex>e</ex> de’ Klumpp. <seg type="comment"><orig>Aspetto lettere da <placeName key="G000894">Venezia</placeName></orig><note xml:id="njn4_dql_ylb">Gregorovius forderte in einem Brief vom <ref target="G000274">20.12.1864</ref> eine Entscheidung von Gar, ob dieser an der Übersetzung der „Geschichte der Stadt Rom im Mittelalter“ (Bde. 1–4; 1859–1862) festhalten will, welche dieser offenbar mit einer Ablehnung des Vorhabens beantwortete. In der Zwischenzeit hat auch Gregorovius eine Entscheidung getroffen; am 17.1.1865 schreibt er an die Cotta’sche Buchhandlung: „Ich bin von verschiedenen Seiten um die Authorisation zu einer italienischen Übersetzung des Werks angegangen worden, welche ich nunmehr gesonnen bin, einem Professor in Venedig [gem. ist Rinaldo Fulin (1824–1884)] zu geben.“</note></seg>; ho fatto di certe condizioni, per salvare i miei diritti e per non rendere illusorio il trattato internazionale. Se mai sortisse <seg type="comment"><orig>la prima traduzione della  <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">storia di Roma nel medio evo</bibl></orig><note xml:id="nllp_fql_ylb">Bisher waren die Bände 1–4 der „Geschichte der Stadt Rom im Mittelalter“ erschienen (1859, 1859, 1860 und 1862).</note></seg> sotto la protezion dell’<placeName key="G000647">Austria</placeName>, cui ancora soggiace la Venezia, di fatti io avrei d’onde diriggere qualche parola a voi Italiani! </p>
+<p> <pb n="2r"/>Intanto state bene! Vi saluto di tutto cuore, e spero di puoter rivedervi quando passerete per Roma onde recarvi alle <seg type="comment"><orig>feste di <persName key="G000916">Dante</persName></orig><note xml:id="ncts_gql_ylb">Festlichkeiten in Florenz zum 600. Geburtsjahr des Dichters Dante Alighieri (1265–1321), die zugleich das erste große Fest des 1861 gegründeten italienischen Nationalstaats waren, und u.a. Empfänge, Dante-Lesungen und Festumzüge sowie die Enthüllung einer Marmorstatue Dantes auf der Piazza Santa Croce umfassten.</note></seg>.</p>
+<closer>
+<salute>Il vostro</salute>
+<signed>Gregorovius.</signed>
+</closer>
+<note type="postscript">
+                    <p>Vidi la <seg type="comment"><orig>Baronessa de Caloz</orig><note xml:id="ndwb_3ql_ylb">Nicht ermittelt.</note></seg>; questa donna per quanto possa esser amabile e buona, per tanto mi pareva una <seg type="comment"><orig><foreign xml:lang="eng">veritable blue-stocking</foreign></orig><note xml:id="nmxm_jql_ylb">Englisch: Ein wahrhafter Blaustrumpf. „Blue-stockings“ bzw. „Blaustrümpfe“ war Ende des 18. und im 19. Jahrhundert ein Spottname für emanzipierte und nach Bildung strebende Frauen, die dadurch als ‚unweiblich‘ galten. Der Begriff geht auf die Londoner „Bluestocking Society“, einen intellektuellen Kreis um Elizabeth Montagu (1718–1800) aus dem 18. Jahrhundert, zurück.</note></seg>, e oltre modo fantastica – sicchè io mene sono allontanato un po’ alle buone e cortesamente.</p>
+                    <p>Scrivete mi delle vostre faccende, lavori, piaceri, e della amabilissima Baronessa – e salutate <seg type="comment"><orig>tutta la riunione <persName key="G001089">Detken</persName></orig><note xml:id="ndj5_kql_ylb">Die Buchhandlung Albert Detkens (1809–1887) war ein zentraler Treffpunkt für deutsche Wissenschaftler in Neapel.</note></seg>.</p>
+                </note>
+<dateline>Roma, 28. Feb<ex>b</ex>r<ex>aio</ex> 65.</dateline>
+</div>
+        </body>
+    </text>
+</TEI>

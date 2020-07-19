@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_ejj_hhy_flb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Rom. München, 24. Mai 1878</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free"><licence target="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International (CC BY 4.0) </licence></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Auf seiner Rückreise nach München hat er im Kartäuserkloster in Florenz, San Lorenzo di Galluzzo, bei den Gozzadinis in Bologna und im Staatsarchiv von Modena Halt gemacht. Dort hat ihn Cesare Foucard empfangen, für den er bei der Besetzung höherer Archivstellen nichts tun konnte. In Verona und Venedig beeindruckt in die italienische Baukunst, die er mit der Literatur Dantes vergleicht. Über Italien als das schöne Land der Künste. In München erfreut ihn nur das Zusammensein mit den Geschwistern. Er lässt Grüße an Karl Lindemann-Frommel, das Ehepaar Minghetti, die Gozzadinis, Eduard Mayer und Frau, seine ehemaligen Vermieter Sartori, Erhardts und Charlotte Freifrau von Wechmar ausrichten.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1878-05-24" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840-1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">München, 24. <hi rendition="#aq">Mai</hi> 78.</dateline>
+                    <salute>Lieber Freund,</salute>
+                </opener>
+<p><seg type="comment"><orig>meine Reise war sehr gut u<ex>nd</ex> schön</orig><note xml:id="ny4g_wdk_1mb">Gregorovius war nach einem mehrmonatigen Italienaufenthalt am 18. Mai von Rom in Richtung Heimat aufgebrochen. In München sollte er am 23. des Monats eintreffen (siehe RT, 16.5.1878, S. 403).</note></seg>; in Kürze habe ich dies davon zu melden. In <placeName key="G000671">Florenz</placeName> blieb ich den Sonntag, hatte keine Zeit jemand zu besuchen, und brachte den Nachmittag in der <seg type="comment"><orig><placeName key="ediarum_dbq_hjk_rlb">Certosa</placeName></orig><note xml:id="nttq_xdk_1mb">Das 1341 gegründete und wenige Kilometer südlich der Innenstadt von Florenz, auf einem Berg liegende Kartäuserkloster San Lorenzo di Galluzzo.</note></seg> zu, wo ich noch nicht gewesen war. Montag nach <placeName key="G000638">Bologna</placeName>; warf mich in 1 Wagen u<ex>nd</ex> fuhr zu <persName key="G001187"><seg type="comment"><orig><persName key="G001092">Gozzadini</persName></orig><note xml:id="np5d_zdk_1mb">Die wichtige Bologneser Familie Gozzadini. Conte Giovanni Gozzadini (1810–1887) hatte dem Freund Gregorovius jüngst sein neues Buch gewidmet; siehe den Brief von Gregorovius an Giovanni Gozzadini vom 9.5.1878. </note></seg></persName>: dies Opfer gebracht zu haben freut mich jetzt sehr. Nachts in Bologna. Dienstag nach <placeName key="G000729">Modena</placeName>: dort fand ich <seg type="comment"><orig>schöne Sachen im <orgName key="G067840">Staatsarchiv</orgName></orig><note xml:id="nszf_12k_1mb">„Dort sah ich Avvisi durch, die sich auf den 30jährigen Krieg beziehen.“ (RT, 16.5.1878, S. 403).</note></seg>, u<ex>nd</ex> blieb deshalb noch Mitwoch dort bis 12 Uhr Mittag. <hi rendition="#aq"><seg type="comment"><orig><persName key="G001134">Foucard</persName></orig><note xml:id="nl4f_c2k_1mb">Dem aus Venedig stammenden Archivaren und Professor für Paläographie Cesare Foucard (1825–1892), der seit 1873 die Direktorenstelle am Staatsarchiv in Modena innehatte, war Gregorovius freundschaftlich verbunden. Wenn er in Modena übernachtete, dann als Gast in Foucards Haus.</note></seg></hi> wollte von keinen wesentlichen Gründen seines Schweigens wissen, u<ex>nd</ex> fand ich ihn auch gegen mich unverändert, <seg type="comment"><orig>sonst mit seinem Schicksal zufrieden</orig><note xml:id="nxmm_22k_1mb">Aus einem früheren Brief von Gregorovius an Mariano geht hervor, dass sich Foucard hinsichtlich der Besetzung einer höheren Archivstelle die Fürsprache des Deutschen in römischen Kreisen erwartet hatte; siehe den Brief von Gregorovius an Raffaele Mariano vom 3.1.1878. Der sehr aktive Wissenschaftler Foucard hatte für das Staatsarchiv in Modena eine riesige Materialmenge zusammengetragen, dokumentiert und konserviert. </note></seg>, zumal er großes Ansehen in der Stadt erlangt hat. Die Nacht von <pb n="1v"/>Mitwoch bis Donnerstag brachte ich in <placeName key="G000895">Verona</placeName> zu. Dies ist eine wundervolle Stadt: wie in <placeName key="G000894">Venedig</placeName> ist die italienische Phantasie dort zu einem ganz bezaubernden Ausdruck gekommen – wenn man diesen aus strotzender Kraft und Grazie geformten Architecturen sieht, blickt man in eine fremde Sphäre des Menschengeistes von so wunderbarer Bildlichkeit, daß man sie in unserer Zeit der Cäsaren u<ex>nd</ex> des Salons gar nicht mehr faßt. Die Italiener sind nur originell gewesen in ihrer bildenden Kunst, und noch genialer fast in der Architectur als in der Malerei – in der Literatur kommt nur <persName key="G000916">Dante</persName> jenem gothischen Wesen gleich.Und man nennt jene Zeilen barbarisch! Wir sind nur <seg type="comment"><orig><foreign xml:lang="fra">Cretins</foreign></orig><note xml:id="np1k_f2k_1mb">Französisch für: Dummköpfe.</note></seg> in Frack und weißen Halsbinden: alles Geheimniß ist aus unserm Geist getrieben, alles Er$ abgeschliffen, alles Erstaunliche banal gemacht. </p>
+<p><pb n="2r"/>Ich nahm von Verona, d<ex>as</ex> h<ex>eißt</ex> von <placeName key="G000690">Italien</placeName> Abschied, u<ex>nd</ex> die ganze Liebe zu diesem Lande drang auf mich in. Das Genie der Welt sah sich am höchsten offenbart in <seg type="comment"><orig><hi rendition="#aq"><placeName key="G000683">Hellas</placeName></hi></orig><note xml:id="ncvv_g2k_1mb">Antike Bezeichnung für Griechenland.</note></seg> u<ex>nd</ex> dort. Wenn die moralischen Tugenden der Deutschen noch von den Italienern in Beschlag genommen wären, so würde das zu viel für ein Volk sein: es würde das Vollkommne der Menschheit darstellen. Als ich gegen die Alpen fuhr lag hyperboräische Finsterniß im Norden, aber hinter mir der <seg type="comment"><orig>Äter</orig><note xml:id="ngqv_h2k_1mb">Aus dem Altgriechischen für (blauer) Himmel.</note></seg>, in welchem die Schönheit wohnt und die künstlerische Phantasie ihre Flügel entfaltet. Ich fuhr ein in das graue München; das beßte was mir daraus entgegentrat, waren die <persName key="G001111"><persName key="G001203">Meinigen</persName></persName>. Der Bruder hatte einen Gichtanfall. Alle grüßen herzlich. <persName key="G001376">Manfred</persName> ist dick u<ex>nd</ex> fett, fast nur zu sehr.</p>
+<p>Ich würde Mühe haben, mich in diesen engen Dimensionen des Lebens wieder einzufügen. Auch ist das Clima schrecklich; <pb n="2v"/>zwar voller Frühling, u<ex>nd</ex> es blüht was blühen kann: doch immer grau schwüle Gewitterluft.</p>
+<p><foreign xml:lang="ita">Nient’ altro per oggi; dica al <persName key="G001375">Lindemann</persName>, che prestamente gli scriverò; tanti saluti ai nostri amici comuni. Caso mai vedesse ancora <seg type="comment"><orig>i <persName key="G001424"><persName key="G001423">Minghetti</persName></persName>,</orig><note xml:id="nkv1_j2k_1mb">Das Ehepaar Minghetti, Marco Minghetti (1818–1886) und Laura Acton (1829–1915), zählte zu Gregorovius’ engeren römischen Kontakten, blieb auch nach dessen Rückkehr nach Deutschland ein wichtiger Bezugspunkt. Minghetti war von März 1863 bis September 1864 und Juli 1873 bis März 1876 Ministerpräsident.</note></seg> loro porti i miei saluti e dica, che passando davanti la villa loro fuori di Bologna per recarmi più insù dai Gozzadini, mi rallegrai vedendola inghirlandita di mille rose, che ne coprivano le mura. Prego anche, di salutare caramente i <persName key="G001412"><persName key="G001413">Meier</persName></persName>; <seg type="comment"><orig>l’abbozzo delle <persName key="G004706">Venere</persName></orig><note xml:id="na3l_k2k_1mb">Nicht ermittelt.</note></seg>, che egli mi regalò, fu ammirato dai miei, ed ora è collocato nel nostro salone. Dica anche due parole di amicizia <seg type="comment"><orig>ai miei <persName key="ed_i5x_klk_rlb">expadroni</persName></orig><note xml:id="nybv_l2k_1mb">Seine ehemaligen Vermieter in der Via Gregoriana war die Familie Sartori.</note></seg>, cui darò le mie nuove fra poco. Stia bene, caro amico Mariano, e benedica la mia cara Roma, dandole dalla finestra in nome mio la più solenne benedizione <seg type="comment"><orig>(urbi!)</orig><note xml:id="njl3_n2k_1mb">Lat. für: der Stadt. Abgeleitet vom apostolischen Segen „Urbi et orbi“.</note></seg></foreign>.</p>
+                <closer>
+<signed rendition="#c">Gregorovius. <lb/><note type="postscript" rendition="#rotate90" place="left"><pb n="1r"/>Ich bitte <persName key="G001116"><persName key="G001115"><persName key="G001114">Erhardts</persName></persName></persName> u<ex>nd</ex> <seg type="comment"><orig>Frau v<ex>on</ex> <persName key="G001699">Wechmar</persName></orig><note xml:id="ndhj_42k_1mb">Die Tante von Manfred Lindemann-Frommel, Charlotte Freifrau von Wechmar (1835–1884), Witwe des württembergischen Justiz- und Innenministeriums Friedrich Freiherr von Wechmar (1801–1869) lebte auf dem Familiensitz in Roßdorf, nördöstlich von Meiningen. Sie war bereits in früheren Jahren nach Rom gereist, um ihre Schwester, Auguste Lindemann-Frommel (1826–1876) zu besuchen; siehe den Brief Gregorovius an Mathilde von Humboldt in Ottmachau vom 23.1.1876; SBB-PK, derzeit Biblioteka Jagiellońska Krakau).</note></seg> noch speciell zu grüßen.</note></signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

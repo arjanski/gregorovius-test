@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000423">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Luigi Tosti in Montecassino. Rom, 26. März 1860</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><collection>Montecassino, Archivio dell’Abbazia</collection><collection>Carteggio Tosti</collection><idno>117</idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 4°, 2 S. – Ausriss am oberen Rand mit geringem Textverlust auf 1v</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Tommaso Leccisotti: Alcune lettere di Ferdinando Gregorovius a Monaci Cassinesi. In: Benedictina. Fascicoli di studi Benededettini. Jg. 14. Fasc. 1. Rom: S. Paolo 1967. S. 143–144</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Giovanni Battista De Rossi hält ihn über Tosti auf dem Laufenden. Die Briefe von Sebastiano Kalefati gingen verloren. Von der Familie Sabatier-Unger in Palermo hat er lange nichts gehört. Er befürchtet Schwierigkeiten bei allzu deutlicher politischer Positionierung. Karl Witte arbeitet an der ersten kritischen Ausgabe der „Divina Commedia“ (1864) und hat ihm einen Auszug zum Abgleich mit der Handschrift in Montecassino geschickt; Tosti, Nicola d’Orgemont oder Cesare Quandel sollen hierbei helfen. Wilhelm von Giesebrechts „De litterarum studiis apud Italos primis medii aevi saeculis“ (1845) sendet er schnellstmöglich nach Montecassino. </p>
+                <p xml:lang="en">Giovanni Battista De Rossi  is keeping him up to date about Tosti. Sebastiano Kalefati’s letters were lost. He has not heard from the Sabatier-Unger family in Palermo for a long time. He fears difficulties with all too clear political positioning. Karl Witte is working on the first critical edition of the „Divina Commedia“ (1864) and has sent him an excerpt to compare with the manuscript in Montecassino; Tosti, Nicola d’Orgemont or Cesare Quandel are to help with this. He sends Wilhelm von Giesebrecht’s „De litterarum studiis apud Italos primis medii aevi saeculis“ (1845) to Montecassino as soon as possible.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1860-03-26" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001655">Tosti, Luigi (1811–1897)</persName>
+<placeName key="G000730">Montecassino</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<salute rendition="#c">Mio caro e reverissimo Don Luigi,</salute>
+</opener>
+<p>con vero piacer ho ricevuto la graziosa lettera sua, non chè tutte le notizie, che <seg type="comment"><orig>il gentil cavaliere <persName key="G001085">de Rossi</persName> mi ha dovuto communicare intorno allo di Loro ben essere</orig><note xml:id="nhxj_xsj_vlb">Der von Gregorovius sehr geachtete Archäologe Giovanni Battista De Rossi (1822–1894) war Überbringer eines früheren Briefes von Gregorovius an Tosti; siehe den Brief von Gregorovius an Luigi Tosti vom <ref target="G000422">12.2.1860</ref>. </note></seg>. Poche settimane fa <seg type="comment"><orig>mi venne pure una lettera del nostro venerabile<persName key="G001326"> Don Sebastiano</persName></orig><note xml:id="nimc_zsj_vlb">Don Sebastiano Kalefati (1817–1863), Archivleiter in Montecassino, hatte Gregorovius in die Abtei eingeladen; siehe den Brief von Gregorovius an Kalefati vom <ref target="G000405">12.8.1859</ref>. Zwischen den beiden entwickelte sich eine Freundschaft und sie pflegten einen schriftlichen Austausch.</note></seg>, la quale tanto più io accolsi con amore, quanto il desiderio, d<subst><del rendition="#ow">a</del><add place="across">i</add></subst> sapere qualche cosa dello stato di esso andava crescendo col tempo. <seg type="comment"><orig>Tutte le lettere dunque che Don Sebastiano a avuto la compiacenza di dirigere a me, si sono perdute per istrada</orig><note xml:id="ngw3_1tj_vlb">Es ist ein undatierter Brief von Kalefati an Gregorovius überliefert (BSB München, Nachlass Gregorovius, Gregoroviusiana 21).</note></seg>, come in generale si perde e si arresta nel bel mezzo del cammino una buona parte de’nostri godimenti umani, e delle nostre speranze. <seg type="comment"><orig>Una simile perdita di lettere la provai appunto in questi tempi, essendo che da tre mesi in qua alcuna notizia dalla parte di cari amici dimoranti ora a <placeName key="G000748">Palermo</placeName> a potuto farsi strada fino alla persona mia</orig><note xml:id="ngx1_dtj_vlb">Gregorovius schrieb am <ref target="G000104">19. März 1860</ref> in seinem Brief an Moritz Hartmann: „Eben geht ein Brief von unseren trefflichen Freunden Sabatiers aus Palermo ein – der erste seit December, denn keiner hat mich erreicht, auf Grund der neapolitanischen Barbarei, deren Ende mir noch wünschenswerter erscheint, als jenes von Österreich in Italien.“. Mit dem Florentiner Ehepaar François Sabatier (1818–1891) und Caroline Ungher-Sabatier (1803–1877) war Gregorovius mindestens seit Ende 1856 gut befreundet (siehe RT, 31.12.1856, S. 65). Sabatier hatte die Übersetzung von Gregorovius’ „Grabmälern der Römischen Päpste“ (1857) besorgt: Les tombeaux des Papes Romains. Traduit par François Sabatier, Paris 1859. Der hier gemeinte Brief der Sabatiers ist nicht erhalten.</note></seg>. Voglio sperare, che i saluti di questa lettera saranno senza difficolta diretti e guidati bene da un postino tutelare al glorioso Monte Casino. E di fatti null’altro vi sara dentro fuori di saluti perché <seg type="comment"><orig>in questi nostri tempi di confusione babilonica, dove il demone del sospetto, mostro tetro e insipido ricomincia di nuovo a girar attorno le case, i conventi, i palazzi</orig><note xml:id="ncvc_ftj_vlb">In den Jahren von 1849–1866 war Rom französische Garnisonsstadt und litt in dieser Zeit immer wieder unter kämpferischen Auseinandersetzungen zwischen dem Volk und den bewaffneten Truppen, päpstlichen Gendarmen sowie französischem Militär. Am 19. März 1860 kam es zu einem Zusammenstoß zwischen über hundert Römern und französischen Soldaten, bei dem es mindestens einen Toten und viele Verletzte gab. Gregorovius befand sich in unmittelbarer Nähe zum Ort des Geschehens und berichtet davon im Tagebuch (siehe RT, S. 94–95). </note></seg>, io per nessuna maniera vorrei scriverle <foreign xml:lang="Lat"><seg type="comment"><orig>de rebus qualibuscumque rationabilibus</orig><note xml:id="nrqc_gtj_vlb">Lat. sinngemäß für: von Vernunftdingen.</note></seg></foreign>.</p>
+<p>Avvi però in questa mia una domandao ed istanza, la quale caldamente io raccomando o a Lei, o al gentilissimo <persName key="G001064"><seg type="comment"><orig>padre d’Orgemont</orig><note xml:id="nzdy_htj_vlb">Nicola d’Orgemont (1826–1896) lehrte seit 1850 Philosophie, Naturwissenschaften und Mathematik in Montecassino. Dessen Sammlung philosophischer Werke hatte Gregorovius bei seinem Aufenthalt in Montecassino beeindruckt (siehe RT, 7.10.1859, S. 87).</note></seg></persName>. Eccovi „il terzo canto Div<ex>ina</ex> Commedia“, diretto a me dal <seg type="comment"><orig>professore <persName key="G001713">Witte</persName>, il quale <pb n="1v"/><unclear reason="illegible" cert="high">sta</unclear>mpa una<bibl sameAs="G004290"> nuova edizione del Dante</bibl></orig><note xml:id="nqxd_ktj_vlb">Obwohl der „Dante-Uebersetzer und Hohenpriester des Dantekultus“, Karl Witte (1800–1883), öfters in Italien war, lernte Gregorovius ihn erst im Herbst 1868 persönlich kennen (siehe RT, 5.10.1868, S. 253). Witte veröffentlichte die erste kritische Ausgabe der „Divina Commedia“: La Divina Commedia di Dante Allighieri. Secondo la lezione di Carlo Witte. Prima edizione italiana adorna di cento incisioni antiche. 3 Bde. Mailand 1864. Es sind keine Briefe zwischen Witte und Gregorovius erhalten.</note></seg>. Egli dunque desidera che questo testo annessovi si confronti col testo del prezioso <seg type="comment"><orig>Codice Dantesco che si riserva da loro</orig><note xml:id="nw5f_mtj_vlb">Archivio di Montecassino, Codex Nr. 512 - publiziert: Dante Alighieri. Il codice cassinese della Divina Commedia. Per la prima volta messo a stampa. Per cura dei monaci Benedettini della Badia di Monte Cassino, Monte Cassino 1865.</note></seg>. Forse il Padre D’Orgemont o il <persName key="G001518"><seg type="comment"><orig>Padre Quandel</orig><note xml:id="nplv_ntj_vlb">Cesare Quandel (1837–1880), später Bruder Mauro. Kalefati erzog ihn zu seinem Nachfolger (siehe RT, 15.10.1859, S. 88), er ist aber als solcher nicht dokumentiert.</note></seg></persName> un quarto d’ora di tempo a sacrificarlo per una buona causa letteraria; io ne sarei molto obbligato, e vorrei pregarla, di far mi venir indietro il foglio colle lezioni varianti prima della Pasqua.</p>
+<p>Mi riserbo il piacere di scrivere due righe al Padre d’Orgemont, come di salutare <seg type="comment"><orig>Don Sebastiano a <placeName key="G000737">Napoli</placeName></orig><note xml:id="nk3n_ptj_vlb">Kalefati befand sich bereits seit mindestens Ende November des vorangehenden Jahres in Neapel; siehe den Brief von Gregorovius an Sebastiano Kalefati vom <ref target="G000434">27.11.1859</ref>.</note></seg>. Saluto di cuore tutti i nobili amici di Monte Casino, e la prego di vuoler esprimere dalla parte mia i veraci sentimenti di ossequio riverente al venerabile <persName key="G001470"><seg type="comment"><orig>Padre Abbate</orig><note xml:id="nifm_qtj_vlb">Simplicio III Pappalettere da Barletta (1815–1883) war von 1858 bis 1863 Abt von Montecassino.</note></seg></persName>.</p>
+<p>Buona Primavera! Buona Pasqua di anima! Vita sempre serena, sempre feconda!</p>
+<p>Dio la conservi, nobilissimo Don Luigi, ed Ella non cessi a conservarmi una memoria benevole.</p>
+<p>Roma Marzo 26. 1860</p>
+  <closer><salute>Molti e caldi saluti dalla parte di <seg type="comment"><orig><persName key="G001173">Giesebrecht</persName>, il quale mi scrive che fra poco deve venire per Lei un’ altra Copia <bibl sameAs="G004287">de Litterarum studiis</bibl></orig><note xml:id="ntlz_rtj_vlb">Dem Historiker Wilhelm von Giesebrecht (1814–1889) war Gregorovius freundschaftlich verbunden. In früheren Briefen hatte Gregorovius Tosti bereits mitgeteilt, dass er Giesebrecht um ein Exemplar von dessen Buch „De litterarum studiis apud Italos primis medii aevi saeculis“ (Berlin 1845) für ihn gebeten hat; siehe die Briefe von Gregorovius an Luigi Tosti vom <ref target="G000421">23.12.1859</ref> und <ref target="G000422">12.2.1860</ref>. Ein Brief von Gregorovius an Giesebrecht mit dieser Bitte ist nicht erhalten.</note></seg> – la manderò, quanto presto essa sara arrivata.</salute>
+              
+<signed rendition="#right">Ferd. Gregorovius.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

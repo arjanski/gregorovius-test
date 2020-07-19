@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000333">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Manfred Lindemann-Frommel in Baden-Baden. München, 17. Juni 1870</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>BSB München</repository><collection>Autogr. Gregorovius, Ferdinand (5)</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ¾ S. – 1r + 2r aoR geprägt: ROMA</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er hat Rom am 4. Juli 1870, wie viele andere, außer Auguste Lindemann-Frommel und dem spanischen Diplomaten Fernandez y Ximenez, verlassen. Der Mutter geht es besser. Er glaubt, dass die Italiener im Falle eines deutsch-französischen Kriegs Rom einnehmen werden. Manfred Lindemann-Frommel ist mit achtzehn Jahren noch zu jung und er selbst zu alt für den Kriegsdienst, so müssen sie seinen Bruder Julius Gregorovius beneiden, der gegen den deutschen Erbfeind kämpfen darf. Auf den Besuch des Vaters Karl Lindemann-Frommel wird er unter diesen Umständen verzichten müssen. Er soll ihm schreiben, wenn er Nachrichten aus Rom hat und wie es in Baden-Baden aussieht. Er möchte wissen, wo sich Georg Gottfried und Viktoria Gervinus aufhalten und lässt den Heidelberger Gymnasialprofessor Wilhelm Frommel (?) grüßen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1870-07-17" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001376">Lindemann-Frommel, Manfred (1852–1939)</persName>
+<placeName key="G000623">Baden-Baden</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">München, <hi rendition="#aq">Hôtel Leinfelder</hi> <lb/>17. <hi rendition="#aq">Juli</hi> 1870.</dateline>
+                    <salute>Lieber Manfredi,</salute>
+                </opener>
+<p><placeName key="G000763">Rom</placeName> verließ ich am 4. Juli, wo Deine <persName key="ed_gbt_4bh_sfb ed_bzh_0vv_ukp">Eltern</persName> nun in Einsamkeit zurückgeblieben sind; denn fast alle Freunde sind fort, bis auf den Spanier <hi rendition="#aq"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190221T162032+0100" comment="Der spanische Diplomat Fernandez y Ximenez (siehe RT, 29.5. und 7.6.1870, S. 282–283)."?>Ximenez<?oxy_comment_end?></hi>. Deine Mutter war die ganze Zeit über viel woler, als im vergangenen <?oxy_comment_start author="Angela Steinsiek" timestamp="20190221T162050+0100" comment="Der Gesundheitszustand der an Lungentuberkulose leidenden Auguste Lindemann-Frommel (1826–1876) war seit längerer Zeit so schlecht, dass sie das Bett in ihrer römischen Wohnung in der Via Babuino 39 nicht mehr verlassen konnte."?>Jahre<?oxy_comment_end?>, u<ex>nd</ex> so können wir hoffen, daß sie die heiße Jahreszeit gut überstehen wird, wenn nicht die Aufregung der Zeitverhältnisse ihr schadet. Die Italiener werden, so denke ich, <pb n="1v"/>Rom überfallen, wenn der große Krieg ausbricht.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190221T162104+0100" comment="Rom wurde von den italienischen Truppen besetzt und am 20. September 1870 zur italienischen Hauptstadt erklärt. Angesichts des deutsch-französischen Kriegs rückten die italienischen Ereignisse für Gregorovius in den Hintergrund, der am 16. September notiert: „Gegen Rom rücken die Italiener, wo sie vielleicht schon heute eingezogen sind. Ich hätte doch gern den Fall des Papsttums mit Augen gesehen.“ – und wenige Tage später: „Am 20. September um 11 Uhr vormittags sind die Italiener in Rom eingezogen. Unter anderen Verhältnissen würde dies Ereignis die Welt aufgeregt haben, heute ist es nur eine kleine Episode des großen Weltdramas.“ (RT, 16. und 23.9.1870, S. 292–293). "?> <?oxy_comment_end?></p>
+<p>Das alles wird auch Dich tief aufregen, u<ex>nd</ex> Du wirst es bedauern, d<ex>a</ex>ß Du noch nicht in den Jahren bist, mit für das <placeName key="G000664">Vaterland</placeName> zu kämpfen. Ich nun bin schon zu alt dazu, u<ex>nd</ex> muß meinen Bruder beneiden, welcher auf den <placeName key="G000674">Erbfeind Deutschlands</placeName> seine Batterien gehörig abfeuern wird. Ich weiß noch nicht, ob der Krieg erklärt ist, denn wir haben bisher nur Gerüchte, von denen <pb n="2r"/>viele falsch sind, aber einmal muß doch der große Kampf gekämpft werden, der uns einig u<ex>nd</ex> stark machen soll.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190221T162120+0100" comment="Am 19. Juli 1870 erklärte der Kaiser Napoléon III. (1808–1873) Preußen den Krieg."?> <?oxy_comment_end?>Schreibe mir, lieber Manfred, eingehend in das Hôtel, wo ich vor der Hand bleibe, wie es Dir ergeht; ob Du Nachrichten von Rom hast; u<ex>nd</ex> wie es in Baden bei Euch aussieht. Den Vater wieder zu sehen, darauf wirst Du wol verzichten <?oxy_comment_start author="Angela Steinsiek" timestamp="20190221T162137+0100" comment="Karl Lindemann-Frommel (1819–1891) wollte seinen Sohn im August besuchen (siehe den Brief von Gregorovius an Gervinus, 16.7.1870 in: Oswald Dammann: Ferdinand Gregorovius und Georg Gottfried Gervinus. Mit elf unveröffentlichten Gregoroviusbriefen. In: Zeitschrift für die Geschichte des Oberrheins. N. F. Bd. 56. Karlsruhe im Br.: Braun 1943. S. 634)."?>müssen<?oxy_comment_end?> – es sind Zeiten, wo der Mensch sein persönliches Glück dem Vaterlande opfern muß.</p>
+<p><pb n="2v"/>Bitte mich Herrn Prof<ex>essor</ex> <persName key="G001150"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190221T162159+0100" comment="Wohl der Gymnasialprofessor und erste Pfarrer der Kapellengemeinde in Heidelberg, Wilhelm Frommel (1829–1896)."?>Frommel<?oxy_comment_end?></persName> freundlich zu empfehlen. Wo sind <persName key="ed_tqb_rgz_fcb ed_t6d_oxu_hrx">Gervinus</persName>? Ich schrieb gestern an ihn nach Heidelberg.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190221T162215+0100" comment="Georg Gottfried und Viktoria Gervinus (siehe den Brief von Gregorovius an Gervinus, 16.7.1870 in: Oswald Dammann: Ferdinand Gregorovius und Georg Gottfried Gervinus. Mit elf unveröffentlichten Gregoroviusbriefen. In: Zeitschrift für die Geschichte des Oberrheins. N. F. Bd. 56. Karlsruhe im Br.: Braun 1943. S. 634). Ende Juli 1870 teilte Gervinus mit, dass er in Heidelberg bleibt, wo Gregorovius ihn im September 1870 besuchte (RT, 24.7. und 29.9.1870, S. 286 und 293)."?> <?oxy_comment_end?></p>
+<p>Lebe wol, Manfredi, und rufen wir Hoch das deutsche Vaterland!</p>
+                <closer>
+<signed rendition="#right">FGregorovius</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

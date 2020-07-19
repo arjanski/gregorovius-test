@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000409">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Giovanni Battista De Rossi in Rom. Rom, 8. Mai 1862</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Rom, Biblioteca Apostolica Vaticana</repository><collection>Vat. Lat. 14243, Carteggio Giovanni Battista De Rossi 1862–1863</collection><idno><idno>fol. 145 Nr. 90</idno></idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 1 S.</p>
+<p>ein Blatt mit Fragen zum vierten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1862) </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er hat den ersten Band von De Rossis „Inscriptiones Christianae urbis Romae septimo saeculo antiquiores“ (1861) mit Gewinn studiert. Dem Brief liegt ein Blatt mit Fragen zum vierten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1862) bei. Er bittet um rasche Antwort, da das Manuskript am Folgetag nach Stuttgart gehen soll.</p>
+                <p xml:lang="en">He benefitted greatly from studying the first volume of De Rossi’s „Inscriptiones Christianae urbis Romae septimo saeculo antiquiores“ (1861). The letter is accompanied by a sheet of questions about the fourth volume of his „Geschichte der Stadt Rom im Mittelalter“ (1862) and asks for a quick reply, as the manuscript is to be sent to Stuttgart the following day.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1862-05-08" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001085">De Rossi, Giovanni Battista (1822–1894)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<dateline rendition="#c">Rom 8. Maj.</dateline>
+</opener>
+<p>M’increbbe, caro Signor Cavalliere, di non puoter aspettarla più a lungo in casa sua, dove mi trattenni fino alle nove, studiando con somma ammirazione della vastissima erudizione sua <subst><del rendition="#ow">I</del><add place="across">i</add></subst>l <seg type="comment"><orig>Vol<ex>ume</ex> I dell’ <bibl sameAs="G004300">Inscriptiones christianae</bibl></orig><note xml:id="nqfs_vjp_vlb">Im Jahre 1861 war der erste Band von De Rossis „Inscriptiones Christianae urbis Romae septimo saeculo antiquiores“ (Rom) erschienen. Der zweite Band wurde erst 1888 veröffentlicht.</note></seg>. </p>
+<p>Oggi ho grandissima premura, di saper da Lei quello, che mi prendo la libertà di annotare sul foglio annessovi. <seg type="comment"><orig>Sendo ch’io abbia da spedire domani sera il manoscritto del <bibl sameAs="G003462">tomo IV</bibl></orig><note xml:id="nef2_yjp_vlb">Am 10. Mai 1862 hatte Gregorovius den letzten Manuskriptteil des vierten Bandes der „Geschichte der Stadt Rom im Mittelalter“ (1862) dem Jenaer Kirchenhistoriker Karl August Hase (1800–1890) zur Übermittlung nach Stuttgart mitgegeben (siehe den Brief von Gregorovius an Johann Georg Freiherr Cotta von Cottendorf vom 10.5.1862, in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 246–247). An zwei Stellen bezieht sich Gregorovius in dem Band auf De Rossi: Geschichte der Stadt Rom im Mittelalter. Vierter Band. 1862, S. 610–611, 621–622.</note></seg>, vorrei pregarla di mandarmi questa sera o almeno domani matina la sua gentilissima risposta in margine. Mille cose avrei pero da domandare. Intanto Lei facilmente mi scusera </p>
+                <closer>
+<salute rendition="#right">Il suo affezioso servitor</salute>
+                    <signed rendition="#right">Gregorovius</signed></closer>
+                <note type="postscript"><placeName key="ediarum_lmm_slx_qlb">Via Gregoriana</placeName> n<ex>umero</ex> 13 <lb/>piano 4.</note>
+            </div>
+        </body>
+    </text>
+</TEI>

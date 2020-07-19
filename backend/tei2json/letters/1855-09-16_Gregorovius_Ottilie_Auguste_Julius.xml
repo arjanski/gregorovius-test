@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000037">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Auguste Emilie Gregorovius,  Julius Gregorovius und Ottilie Gregorovius. Rom, 16. September 1855</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>BSB München</repository><collection>NL Gregorovius</collection><idno>Gregoroviusiana 20, Elgnowski, Ottilie (1a) </idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. – 1r aoR in einer Vignette geprägt: BATH </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er gratuliert seiner Stiefschwester Ottilie zur geplanten Hochzeit mit dem Arzt Louis Elgnowski und entschuldigt sich, dass er wie sein Bruder Gustav bei der Feier nicht anwesend sein kann. Er freut sich, dass seine Brüder Julius und Rudolf dabei sein können und erinnert an die gemeinsame Zeit im Elternhaus. Seine Stiefmutter Emilie Auguste Gregorovius, mit der sie nun mit ihrem zukünftigen Mann in Insterburg leben wird, wird stolz auf ihre Tochter sein. Er gedenkt der verstorbenen Eltern Wilhelmine und Timotheus Gregorovius und dankt der Stiefmutter für ihre Fürsorge. Am Tag der Hochzeit wird er sich in Anzium erholen. Er erkundigt sich nach Hugo, Onkel und Tante. In zwei Jahren will er nach Ostpreußen zurückzukehren. Er sendet Grüße an die Mutter des Bräutigams und erkundigt sich nach Minchen Kall (?) und Schrage in Soldau. Er freut sich, dass der Bruder Rudolf Gregorovius das Paar traut und dass dieser die Pfarrei in Schippenbeil übernehmen konnte.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He congratulates his stepsister Ottilie on the planned wedding with the doctor Louis Elgnowski and apologizes that he, like his brother Gustav, cannot be present at the ceremony. He is happy that his brothers Julius and Rudolf can be there and reminisces about the time they spent together at home. His stepmother Emilie Auguste Gregorovius, with whom she will now live along with her future husband in Insterburg, will be proud of her daughter. He remembers their late parents Wilhelmine and Timotheus Gregorovius and thanks their stepmother for her care. On the day of the wedding, he will be resting in Anzium. He inquires about Hugo, their uncle and their aunt. He plans to return to Eastern Prussia in two years. He sends his regards to the groom’s mother and inquires about Minchen Kall (?) and Schrage in Soldau. He is pleased that their brother Rudolf Gregorovius will officiate the wedding and that he was able to take over the parish in Schippenbeil. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1855-09-16" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+<persName key="G001198">Gregorovius, Auguste Emilie (1797–1866)</persName>
+<persName key="G001111">Elgnowski, Ottilie (1834–1907)</persName>
+<persName key="G001203">Gregorovius, Julius (1819–1891)</persName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+<opener>
+<dateline rendition="#right"><hi rendition="#aq">Rom</hi> d<ex>en</ex> 16. <hi rendition="#aq">Sept<ex>em</ex>b<ex>e</ex>r</hi> 1855.</dateline>
+<salute rendition="#c">Meine liebe Schwester Ottilie,</salute>
+</opener>
+<p>Deinen Brief habe ich durch <seg type="comment"><orig>Julius</orig><note xml:id="ng5n_fzw_4lb">Sein Bruder Julius Gregorovius (1819–1891).</note></seg> erhalten, u<ex>nd</ex> mit einer großen Freude gelesen. Was Du mir geschrieben hast, hat mich im Innern bewegt, um so mehr, als das Schicksal mir nicht vergönnt, an <seg type="comment"><orig>Deinem Hochzeitstage</orig><note xml:id="nmfg_mzw_4lb">Seine Halbschwester Ottilie (1834–1907) heiratete am 4. Oktober 1855 den in Insterburg praktizierenden Allgemeinarzt Louis Elgnowski († 1860), mit dem sie den Sohn Hermann (1860–1936) bekam.</note></seg> neben <persName key="G001206"><seg type="comment"><orig>Rudolf</orig><note xml:id="napg_vzw_4lb">Der Theologe Rudolph Gregorovius (1808–1866), Gregorovius’ ältester Bruder, war 1833 Rektor in Willenberg geworden, wo er die Gutsbesitzerstochter Gr. Ottilie, geb. Schickert geheiratet hatte, 1839 wurde er Prediger in Schaken, 1845 Pfarrer in Rogehnen und übernahm am 21. Oktober 1855 die Pfarrerei in Schippenbeil (siehe Gustav Liek: Die Stadt Schippenbeil. Königsberg 1874. S. 251–253).</note></seg></persName> u<ex>nd</ex> Julius bei Dir zu sein. Denn an mir wird jener alte Spruch wahr, daß das Menschenleben nichts ist als eine Pilgerschaft u<ex>nd</ex> ein ruheloses Wandern, u<ex>nd</ex> weiß Gott wie lange ich noch Muschelhut u<ex>nd</ex> Pilgerstab tragen muß, bis ich in den Hafen der Ruhe komme. Nun werden meine Gedanken, trotz der vielen Meilen, bei Dir sein, u<ex>nd</ex> damit muß ich mich begnügen. Wie sich die Jahre wandeln u<ex>nd</ex> das Leben vorwärts hastet, das sehe ich nun, wenn ich mich in jene Jahre zurückversetze, wo ich im <seg type="comment"><orig>elterlichen Hause</orig><note xml:id="nubx_41x_4lb">Nach dem Tod seiner Mutter Wilhelmine Gregorovius, geb. Kausch (1783–1831), die mit Timotheus Gregorovius (1780–1848) neben Ferdinand noch die Kinder Rudolf (1808–1866), Gustav (1810–1862) und Julius (1819–1891) hatte, hatte sein Vater 1832 Emilie Auguste, geb. Dreßler, verw. von Collrepp (1797–1866) geheiratet, mit der er die gemeinsame Tochter Ottilie bekam. Sie hatte einen Sohn von Collrepp (*1827) mit in die Ehe gebracht. </note></seg> war, u<ex>nd</ex> Du noch ein Kind, jetzt im Begriff ein eignes Haus zu gründen u<ex>nd</ex> diesem großen Ernst menschlicher Freuden u<ex>nd</ex> Leiden entgegenzugehn. Da wünsche ich Dir, teure Schwester, allen Beistand des Himmels, denn von oben allein kommt das Gute, u<ex>nd</ex> es fehlt niemals dem Menschen, welcher auf Gott vertraut. So gehe Du, liebe Schwester, recht freudig in Deine neue Welt, u<ex>nd</ex> mögt ihr beide, Du u<ex>nd</ex> Dein <persName key="G001110">Louis</persName>, ein glückliches Paar sein u<ex>nd</ex> euch im Dauernden u<ex>nd</ex> Festen dieses schönen Lebens recht satt freuen. Ja! mögt ihr doch recht in der Liebe zu einander edle Menschen werden, u<ex>nd</ex> den höchsten Beruf <pb n="1v"/>erfüllen, auch andern wol zu thun. Den hast Du Dir, mein lieber Schwager Louis, den ich mit diesem Verwandtennamen herzlich willkommen heiße, schon vorweg, als Arzt, erwählt, u<ex>nd</ex> so viel ich Dich kennen gelernt habe, weiß ich wol, daß Du <seg type="comment"><orig>als ein kräftiger u<ex>nd</ex> thätiger Mann</orig><note xml:id="ntxd_y1x_4lb">Louis Elgnowski war schon damals an Lungenschwindsucht erkrankt.</note></seg> eine geachtete Stellung in der Welt einnehmen wirst, u<ex>nd</ex> daß meine Schwester mit dem besten Vertrauen ihr Glück in Deine Hände legen darf. So fehle es euch nie an Genüge, u<ex>nd</ex> mag euer Haus sich fest auf Liebe u<ex>nd</ex> Thätigkeit begründen, u<ex>nd</ex> wachst mir, gute Menschen, an aller Fülle bester Gaben, ungezählte Jahre lang.</p>
+<p>Mit welcher Rührung, wirst Du, liebe <seg type="comment"><orig>Mutter</orig><note xml:id="ntqn_2bx_4lb">Emilie Auguste, geb. Dreßler, verw. von Collrepp (1797–1866).</note></seg>, Deine einzige <seg type="comment"><orig>Tochter</orig><note xml:id="nsvk_brx_4lb">Ottilie Elgnowski, geb. Gregorovius (1834–1907).</note></seg> in ihre u<ex>nd</ex> nun auch Deine neue Heimat begleiten, mit wie viel Gedanken an unsern <seg type="comment"><orig>Vater</orig><note xml:id="nc1q_hrx_4lb">Wilhelmine Gregorovius, geb. Kausch (1783–1831).</note></seg>, der dies Glück nicht mehr erleben sollte. Aber ich freue mich, daß Dir der Himmel dies glückliche Alter neben Deiner Tochter u<ex>nd</ex> Schwiegersohn geschenkt hat, u<ex>nd</ex> daß Du nun in allen Freuden, welche beide in ihrem Hause haben werden, Dich mit verjüngen wirst. Wir alle, gute Mutter, kommen nun mit Ottilie an diesem Festtage zu Dir als Deine Kinder u<ex>nd</ex> danken Dir in unserem, wie in unseres Vaters Namen herzlich für die immer gleiche Liebe u<ex>nd</ex> Milde, die Du uns erwiesen hast. Es kann dies kein Lohn für Dich sein, aber es ist eine Beruhigung für uns selbst, Dir unsern Dank zu <pb n="2r"/>sagen. Wenn ihr alle an diesem Tage das Grab unseres Vaters besucht u<ex>nd</ex> unserer <persName key="G001207"><seg type="comment"><orig>Mutter</orig><note xml:id="ngqm_jrx_4lb">Wilhelmine Gregorovius, geb. Kausch (1783–1831).</note></seg></persName>, so gedenket vor ihnen auch meiner, <seg type="comment"><orig>des jüngsten ihrer Kinder</orig><note xml:id="nlz2_mcx_4lb">Ferdinand Gregorovius selbst, der 1852 nach Italien gegangen war.</note></seg>, des Heimatlosen, u<ex>nd</ex> gedenket mir <persName key="G001202"><seg type="comment"><orig>Gustavs</orig><note xml:id="nf1x_wcx_4lb">Gustav Gregorovius war nach Amerika ausgewandert und Redakteur der deutschsprachigen New-Yorker Criminal-Zeitung.</note></seg></persName> wol, u<ex>nd</ex> Du, lieber Julius, wirst zwei Kränze auf das Grab legen, im Namen unser beider, die wir entfernt sind.</p>
+<p>Ich werde an diesem Tage in der Einsamkeit meine Feier begehn, im Hafen von <seg type="comment"><orig><placeName key="G000652">Anzium</placeName> am<placeName key="G000837"> lateinischen Meer</placeName></orig><note xml:id="ny3t_2dx_4lb">Dort schrieb Gregorovius auch die Gedichte „Nettuno“, „Der sterbende Hadrian“ und „Astura“ (siehe RT, 28.9.1855, S. 57). </note></seg>, wohin ich am 19.<hi rendition="#sup">ten</hi> dieses Monats abreise, dort mich zu erholen.</p>
+<p>Sollte <seg type="comment"><orig>Hugo</orig><note xml:id="ne3v_gdx_4lb">Nicht ermittelt. Von einem Hugo ist auch in früheren Familienbriefen die Rede; möglicherweise heißt der von der Stiefmutter in die Ehe gebrachte Sohn, der sonst nur „Collrepp“ genannt wird, mit Vornamen Hugo.</note></seg>, was ich am Ende nicht glaube, anwesend sein, so bitte ich ihn bestens zu grüßen. Julius hat mir nur flüchtig von ihm geschrieben, ich wünschte mehr von ihm zu hören, u<ex>nd</ex> das Beste, was ich erwarte, da es ihm gut zu gehn scheint.</p>
+<p>Meine freundlichsten Grüße an <seg type="comment"><orig>Onkel und seine Frau</orig><note xml:id="nwzr_ldx_4lb">Nicht ermittelt. In direkter Linie lebten von den zehn Geschwistern seines Vaters Timotheus nur noch Charlotte Wilhelmine (1794–1892), die in Miersunken mit dem Pfarrer Sigismund Pianka (1786–1857) verheiratet war. Gemeint können aber auch Geschwister der Mutter Wilhelmine, geb. Kausch oder der Stiefmutter Emilie Auguste, geb. Dreßler, verw. von Collrepp sein.</note></seg>, u<ex>nd</ex> besten Dank für die angenehmen Zeilen.</p>
+<p>Wenn Ihr in <placeName key="G000689">Insterburg</placeName> seid, u<ex>nd</ex> euch eingerichtet habt, so hoffe ich von Dir liebe Ottilie u<ex>nd</ex> Louis, einen ausführlichen Bericht; wie ich überhaupt euch Dank wißen werde, wenn Ihr eine mehr geregelte Correspondenz mit mir einführt. Meine Adresse gibt euch Julius; ich verlaße mein Quartier nicht.</p>
+<p>Ihr möget immer denken, daß es mir wol geht, u<ex>nd</ex> saget Julius, welcher mit so brüderlicher Treue an mir hängt, daß meine Angelegenheiten gut stehen, u<ex>nd</ex> daß er von mir einen Brief bei seiner Rückkehr vorfinden wird, den ich am Meer schreiben werde. Wann ich zurückkomme, weiß ich noch nicht, <pb n="2v"/>doch meine ich es wird früher oder später innerhalb eines Zeitraums von zwei Jahren geschehen, sobald ich gewiße Pläne ausgeführt habe. Ich habe keine Sehnsucht nach dem <placeName key="G000664">Vaterlande</placeName>, wol aber nach euch, u<ex>nd</ex> es soll mir ein hoher Festtag sein, wenn ich in euer Haus in Insterburg eintrete. Ihr werdet mich dann sehr verändert finden, denn diese Jahre haben mich so herumgerüttelt, u<ex>nd</ex> ich habe in einem ewigen Kampf mit der Welt mich behaupten müßen, daß es mir scheint, ich hätte nicht drei Jahre, sondern ein Menschenalter gelebt.</p>
+<p>Es ist doch recht Schade, daß ich am 4. October nicht unter euch sein kann. Daß Ihr in der Stille dies hohe Fest begeht, das ist weise und schön, denn solche Feste muß man in nachdenklicher Liebe u<ex>nd</ex> stiller Freude begehn, nicht im Schwarm gleichgiltiger u<ex>nd</ex> schmausender Gäste.</p>
+<p>Ich bitte euch, die ganze Familie Louis’ auf das herzlichste zu grüßen, u<ex>nd</ex> ohne auch nur Einen zu vergeßen, doch vor allen andern zuerst <seg type="comment"><orig>seine Mutter</orig><note xml:id="nwbl_22x_4lb">Nicht ermittelt.</note></seg>, diese würdige u<ex>nd</ex> menschenfreundliche Frau, deren Bild ich mir sehr gern vergegenwärtige. Wie geht es unserer guten Freundin <seg type="comment"><orig><persName key="G001327">Minchen <unclear reason="illegible" cert="low">Kall</unclear></persName></orig><note xml:id="ns4w_g2x_4lb">Nicht ermittelt.</note></seg>? Auch sie bitte ich bestens zu grüßen! Wie geht es <seg type="comment"><orig>Schrage in <placeName key="G000872">Soldau</placeName></orig><note xml:id="nhfh_32x_4lb">Nicht ermittelt.</note></seg> – warum höre ich nichts von ihm?</p>
+<closer>
+<salute rendition="#c">Nun, Heil u<ex>nd</ex> Seen! lebt wol!</salute>
+    <signed rendition="#right">Ferd.</signed></closer>
+<note type="postscript">Daß<del rendition="#s">,</del> Rudolf <seg type="comment"><orig>durch</orig><note xml:id="nagv_j2x_4lb">Irrtümlich für "euch".</note></seg> traut, ist recht schön, u<ex>nd</ex> habe ich es mir gedacht. Das Glück, dieser Tage alle bei einander zu sein, wird auch er durch das seinige vermehren,<seg type="comment"><orig> da er die schöne Stelle erhalten hat</orig><note xml:id="nwwq_m2x_4lb">Rudolf Gregorovius (1808–1866) hatte am 21. Oktober 1855 die Pfarrei in Schippenbeil übernommen. </note></seg>.</note>
+</div>
+        </body>
+    </text>
+</TEI>

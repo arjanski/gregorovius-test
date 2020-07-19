@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_pyp_w2z_1mb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Francesco Azzurri in Rom. Rom, 5. April 1881</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free">
+                <licence target="http://creativecommons.org/licenses/by/4.0/">
+                    Creative Commons Attribution 4.0 International (CC BY 4.0)
+                </licence>
+            </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Rom, Archivio Accademico della Accademia di San Luca</repository><collection>vol. 143</collection><idno>Nr. 80</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl. , 4°, 3 S. – 1r aoR, Archivvermerk3: S 42 – Vol. 143 n. – 80 – Umschlag aoR, Archivvermerk: S42 – Umschlag: All’ Illmo signor / il signor Presidente dell’Accademia di S. Luca / Comre. Francesco Azzurri / Via Panisperna 69 / Città</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+<witness> <bibl type="print">Ferdinando Gregorovius cittadino di Roma. In: Roma. Rassegna mensile di attualità. Rom (Februar) 1959. S. 4 (ungenau)</bibl> </witness>
+<witness> <bibl type="print">Giovanni Incisa Della Rocchetta: Gregorovius, Roesler Franz e il Museo di Roma. In: Bollettino dei Musei Comunali di Roma. Jg. 22. Nr. 1-4. Rom 1975. S. 40–41 (fehlerhaft)</bibl> </witness>
+<witness> <bibl type="print">Cesare De Seta: Gregorovius und die Polemiken über den Wandel des römischen Stadtbildes. In: Ferdinand Gregorovius und Italien. Eine kritische Würdigung. Hrsg. von Arnold Esch u. Jens Petersen. Tübingen: Niemeyer 1993. S. 213–214 (ungenau) </bibl> </witness>
+<witness> <bibl type="print">Cesare De Seta (Hrsg.): Ferdinand Gregorovius e Roma medievale. In: Vedutisti e viaggiatori in Italia tra Settecento e Ottocento. Turin: Bollati Boringhieri 1999. S. 132–133 (Nuova cultura; 68) (ungenau, gekürzt) </bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Angeregt durch die Acquarellserie „Roma sparita“ von Ettore Roesler Franz, die Luigi Bellinzoni im „Popolo Romano“ (Nr. 78) bekannt gemacht hat, fordert er ihn auf, daran teilzunehmen, die im Zuge des Umbaus von Rom gefährdeten Bauten vor ihrem Verschwinden dokumentarisch festzuhalten. Da die Zerstörung des mittelalterlichen Stadtbildes nicht mehr aufgehalten werden kann, ist es höchste Zeit, Erinnerungen an die Monumente, in Form von Zeichnungen und Fotografien, zu schaffen. Er sieht die zeitgenössischen Künstler hier in der Pflicht. Ein wie von ihm gefordertes städtische Museum der Gemeinde Rom mit Stadtplänen und -ansichten sollte erst 1928 realisiert werden.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1881-04-05" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G000953">Azzurri, Francesco (1827-1901)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener> <salute xml:id="s1" next="#s2" rendition="#c">All’ illustre Signor Presidente</salute> <salute xml:id="s2" prev="#s1" next="#s3" rendition="#c">dell’<orgName key="ed_xfh_yvn_5lb">Accademia Romana di </orgName></salute><orgName key="ed_xfh_yvn_5lb"> </orgName><salute xml:id="s3" prev="#s2" rendition="#c" next="#s4"><orgName key="ed_xfh_yvn_5lb">belle Arti cognominata di S<ex>an</ex> Luca</orgName>.</salute> <salute xml:id="s4" prev="#s3">Ill<hi rendition="#sup"><ex>ustrissi</ex>mo</hi> <seg type="comment"><orig>Signor Commendatore</orig><note xml:id="ng52_dnw_2mb">Mit dem römischen Architekten Francesco Azzurri (1827–1901), seit 1880 Präsident der Accademia di San Luca, war Gregorovius bereits im Sommer 1880 in Kontakt getreten, um für seine Ernennung zum Ehrenmitglied der Akademie zu danken; siehe den Brief von Gregorovius an Francesco Azzurri vom 1.6.1880. Das vorliegende sowie die beiden weiteren Schreiben aus 1881, welche zusammen mit dem Brief vom Juni 1880 das Konvolut der Briefe von Gregorovius an Azzurri bilden, während nur ein Gegenbrief aus dem Mai 1881 erhalten ist, handeln vom Umbau der ewigen Stadt zur neuen Hauptstadt, der das mittelalterliche Stadtviertel zum Opfer fiel. Gregorovius verlangt dringend das Einschreiten der Akademie und ihres Präsidenten, um dem ein Ende zu setzen.</note></seg>,</salute> </opener>
+<p>la città di Roma, <seg type="comment"><orig>mentre subisce una delle sue maggiori trasformazioni storiche</orig><note xml:id="nmxm_gnw_2mb">Im RT spricht Gregorovius von einem Brief, den er am 9. April mit der Bitte um Einhaltung der städtischen Zerstörungen in der „Libertà“ an Azzurri richtete (siehe RT, Romfahrt 1881 und Rückkehr nach München, S. 422); möglicherweise handelt es sich um den hier vorliegenden Brief. Siehe zu dessen Einordnung in den Kontext von Gregorovius’ Beziehung zur Akademie von San Luca auch Cesare De Seta: Gregorovius und die Polemiken über den Wandel des römischen Stadtbildes. In: Ferdinand Gregorovius und Italien. Eine kritische Würdigung. Hrsg. von Arnold Esch u. Jens Petersen. Tübingen: Niemeyer 1993. S. 205.</note></seg>, va spogliandosi rapidamente della sua vecchia fisiognomia in guisa, che questa tra non molto sarà cancellata persino dalla memoria degli stessi Romani. E ciò sarà più tardi causa di non lieve rammarico, se non è venuto a tempo, <seg type="comment"><orig>per rimediare il danno</orig><note xml:id="na5f_3nw_2mb">Gregorovius sollte sich in der Sache zwei Jahre später auch den Archäologen Giovanni Battista De Rossi wenden und diesen um Engagement gegen das Projekt eines Nationaldenkmals für Vittorio Emanuele II. (1820–1878) bitten; siehe den Brief von Gregorovius an Giovanni Battista De Rossi vom 11.5.1883. Im Zuge der Errichtung des Denkmals sollte das mittelalterliche Stadtviertel Aracoeli zerstört werden. Veröffentlicht ist außerdem ein offener Brief von Gregorovius an Andrea Busiri (1818–1911), späterer Präsident der Akademie di San Luca, in dem er erneut seinen Proteste gegen den Abriss mittelalterlicher Bauten zum Ausdruck bringt; siehe den Brief von Gregorovius an Andrea Busiri vom 17.3.1886. </note></seg>, l’Arte, facendo nelle sue opere deposito dei ricordi monumentali Romani.</p>
+<p>E tempo davvero, anzi <add place="superlinear">già</add> ci stringe l’ultima ora, di salvare per via di riproduzioni a pennello e a fotografia i più importanti prospetti della Città medio-evali, prima che dessi siano distrutti per sempre. Noi <add place="superlinear">per certo</add> tutti quanti rendiamo grazie <seg type="comment"><orig>a quei pochi artisti del seicento e del settecento</orig><note xml:id="nivs_jnw_2mb">Siehe z. B. Lucia Cavazzi. Anita Margiotta. Simonetta Tozzi: Vedute romane del Seicento nella Raccolta Grafica comunale. Rom: Palombi 1991 sowie Anna Lo Bianco. Il Settecento a Roma. Mailand: Silvana 2005.</note></seg>, alle cui provide cure andiamo debitori dell’esserci rimasta tuttora qualche cognizione dell’aspetto che presentò Roma ai tempi loro. E dall’altra parte deploriamo la trascuranza di coloro, che non dieronsi premura di ritrarre per la posterità <seg type="comment"><orig>il sembiante di Roma nel cinquecento</orig><note xml:id="nsph_mnw_2mb">Siehe z. B. Étienne Du Pérac: Disegni de le ruine di Roma e come anticamente erono. Hrsg. v. Rudolf Wittkower. Mailand: Silvana 1964.</note></seg>.</p>
+<p>Or, nell’età nostra, sì abbondante <seg type="comment"><orig>di <pb n="1v"/>invenzioni techniche e di mezzi di riproduzione artistica</orig><note xml:id="nsnq_nnw_2mb">Anspielung auf das seinerzeit neue Medium der Fotografie.</note></seg>, i pittori Romani vorrebbero eglino forse starsi con le mani alla cintola a guardare con indifferenza come va a demolizione quella vecchia Roma, di cui il tipo dalla storia conservato fa pure la delizia di tante generazioni?</p>
+<p>M’incresce di non conoscere <add place="superlinear">gli</add> artisti che si sollecitino a rendersi, nel senso indicato, benemeriti di Roma, salvo un giovane pittore, che quantunque egli porti cognome straniero, tuttavia è Romano per nascità e per lingua. Nello studio del <seg type="comment"><orig>Signor <persName key="G001550">E<ex>ttore</ex> Roesler-Franz</persName></orig><note xml:id="nojg_14w_2mb">Der römische Maler Ettore Roesler Franz (1845–1907) besuchte von 1861–1863 das Kolleg der Brüder der christlichen Schule, anschließend das Collegio di Propaganda Fide. Zu dieser Zeit begann er, Vorlesungen in der Accademia di San Luca zu hören. Von 1864–1872 arbeitete er als Sekretär des britischen Konsuls, danach in einer Bank. Ab 1875 konzentrierte er sich ausschließlich auf die Malerei, hierbei vor allem auf die Acquarellmalerei. Sein beliebtes Sujet war seine Heimatstadt und deren Veränderungen, die er in situ in Skizzen und Fotografien festhielt, zu welchen er dann Acquarellbilder schuf. Roesler Franz war Gründer und mehrmaliger Präsident der römischen Associazione degli Acquarellisti romani. Bei einem Besuch in dessen Atelier kam Gregorovius die Idee, dass das mittelalterliche Stadtbild Roms künstlerisch festgehalten werden sollte (siehe RT, Romfahrt 1881 und Rückkehr nach München, S. 422).</note></seg> ebbi la soddisfazione di minare <seg type="comment"><orig>una prima serie di dipinti all’acquarello</orig><note xml:id="nq2s_b4w_2mb">Die Acquarellreihe „Roma Sparita“ von Roesler Franz umfasst 120 Werke, die in den Jahren zwischen 1878 und 1896 entstanden. Dargestellt sind Ansichten Roms und des Tibers sowie der Bewohner der ewigen Stadt, Paläste, Brücken, Kirchen, aber auch ländlichere Szenen in der Campagna. Roesler Franz fertigte die Serie nach seiner typischen Vorgehensweise, die Acquarelle nach Zeichnungen und Fotografien zu erstellen, an. Siehe zu der Serie Livio Jannattoni, Livio: Roma sparita negli acquarelli di Ettore Roesler Franz. Rom: Newton Compton 1981.</note></seg>, dei quali <seg type="comment"><orig>il signor <persName key="ed_apy_gmw_2mb">Bellinzoni</persName></orig><note xml:id="ni25_c4w_2mb">Luigi Bellinzoni war Kunstkritiker und dann Chefredakteru des „Il Popolo Romano“. </note></seg> ha reso conto al pubblico nel numero 78 del <seg type="comment"><orig><orgName key="ed_cpf_lmw_2mb">Popolo Romano</orgName></orig><note xml:id="nsjw_d4w_2mb">„Il Popolo Romano“ war eine in Rom angesiedelte Tageszeitung, die von 1873 bis 1922 erschien.</note></seg>, debitamente accennando il grande interesse, che nelle circostanze in cui attualmente versa Roma, <seg type="comment"><orig>cotali pitture dovrebbero eccitare</orig><note xml:id="ncc1_g4w_2mb">In einem öffentlichen Brief an Bellinzoni, der am 14. Februar 1880, im „Popolo Romano“ veröffentlicht worden war, beklagt Roesler Franz, die italienische Missachtung der Acquarellmalerei, die hingegen im Ausland geschätzt werde. Jüngstes Beispiel dieses fehlerhaften Verhaltens in Italien sei die „Esposizione di Piazza dei Popoli“, bei der die Acquarelle mit wenig Beleuchtung und in feuchter Umgebung gezeigt worden waren.</note></seg>. Imperocchè l’artista, penetrato da un patimento estetico quanto patriottico, si è studiato di raccogliere e di conservare con la sua arte le più caratteristiche vedute della vecchia Roma, che ora è per scomparire. E già ne ha ritratte diverse massime sul <placeName key="G067585">Tevere</placeName>, le cui sponde vanno cambiando totalmente d’aspetto, non che alcune <pb n="2r"/>altre località rimarchevoli della <placeName key="ed_hqc_lrv_gmb">campagna Romana</placeName>.</p>
+<p>Per ciò mi gode l’animo di accorgermi, che spontaneamente è nato nell’immaginazione di un artista Romano un concetto di tanta importanza, e che costui per ispirazione ha inndovinato, essere una tale opera non solo artisticamente piacevolissima, ma anche storicamente necessaria, perchè <seg type="comment"><orig>compito imposto agli artisti viventi dalla pietà verso il passato</orig><note xml:id="nppr_34w_2mb">„[...] indem ich auch die römischen Künstler aufforderte, durch ihre Kunst das Gemälde des althistorischen Rom der Nachwelt zu erhalten.“ (RT, Romfahrt 1881 und Rückkehr nach München, S. 422).</note></seg>.</p>
+<p>Quantunque io creda, che V<ex>ostra</ex> S<ex>ignoria</ex> sia informata del lodevolissimo tentativo del detto pittore romano, pur mi è parso di proposito pregarla a voler ajutare da sua parte <seg type="comment"><orig>un progetto così bene ideato, che avrebbe per fine di salvare col mezzo dell’arte dall’oblivione le memorie locali le più immportanti di Roma medio-evali</orig><note xml:id="nbq4_k4w_2mb">Gregorovius’ Vorschlag, ein städtisches Museum zu errichten, in welchem Stadtansichten, Pläne und Zeichnungen Roms aufbewahrt werden sollten, kam erst 1928 zur Realisierung. Siehe dazu Carlo Pietrangeli: Il Museo di Roma. Documenti e iconografia. Bologna: Cappelli 1971.</note></seg>. E l’appoggiare cosiffatti disegni progetti e dar loro un indirizzo autorevole parmi cosa di speciale competenza non solo di V<ex>ostra</ex> S<ex>ignoria</ex> come di Presidente dell’ insigne Accademia Romana di belle arti, ma ancora di tutto il corpo Accademico, del quale, <seg type="comment"><orig>per merito suo e quello dei suoi illustri colleghi, mi pregio anch’io di far parte come socio d’onore</orig><note xml:id="nndx_l4w_2mb">Laut Urkunde war Gregorovius am 21. März 1880 zum Ehrenmitglied der römischen Accademia di San Luca ernannt worden; ein auf den 31. März datiertes Schreiben des Präsidenten begleitete das Ernennungsdokument; BSB München, NL Gregorovius, Gregoroviusiana 19.</note></seg>.</p>
+<p>Accolga l’attestato della più profonda stima con cui mi raffermo</p>
+<p rendition="#c">di V<ex>ostra</ex> S<ex>ignoria</ex> Ill<hi rendition="#sup"><ex>ustrissi</ex>ma</hi></p>
+<closer><salute rendition="#c">devotissimo</salute> <signed rendition="#right">Ferdinando Gregorovius <lb/>cittadino Romano.</signed><dateline>Roma 5. Aprile </dateline>1881.</closer>
+</div>
+        </body>
+    </text>
+</TEI>

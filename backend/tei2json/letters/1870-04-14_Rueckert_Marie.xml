@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000337">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Marie Rückert. Rom, 14. April 1870</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Stadtarchiv Schweinfurt</repository><collection>Sammlung Rückert</collection><idno>A I 122 – 351</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ¼ S. – 1r + 2r aoR geprägt: ROMA</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Dass er ihr seit längerem nicht geantwortet hat, liegt wohl daran, dass alle Korrespondenzen irgendwann einschlafen, die nicht durch persönliche Begegnungen genährt werden. Zudem sind ihre inneren Welten so weit wie zwei Planeten voneinander entfernt. Ihre Frage nach Bergamo hat sie wohl selbst schon zwischenzeitlich vergessen. Da der Jenaer Kirchenhistoriker Karl Hase nichts von ihrem Aufenthalt in Jena weiß, vermutet er, dass sie schon abgereist ist.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1870-04-14" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001561">Rückert, Marie (1835–1920)</persName>
+<placeName key="G000661">Coburg-Neuses</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Gründonnerstag 1870.</dateline>
+                    <salute>Verehrtes Fräulein <hi rendition="#aq">Marie</hi>,</salute>
+                </opener>
+<p>ich sehe zu meiner Beschämung, d<ex>a</ex>ß ich seit längerer Zeit Ihr Briefschuldner bin, u<ex>nd</ex> würde Sie deshalb demütig um Entschuldigung bitten, wenn diese die Thatsache rückgängig machen könnte.</p>
+<p>Im Grunde liegt es aber doch daran, daß Correspondenzen früher oder später ins Stocken geraten müssen, wenn Ihnen nicht Realitäten des Lebens zur Hülfe kommen. Sie aber, meine liebenswürdige Correspondentin, u<ex>nd</ex> ich könnten sehr gut zwei Bewohner zweier Planeten vorstellen, von denen der eine <placeName key="G000591">Neuseß</placeName> u<ex>nd</ex> der andre Rom heißt, u<ex>nd</ex> zwischen beiden liegen nur Luftschichten. Doch hindert das gar nicht, daß ich Ihnen von meinem Globus aus einen goldnen römischen Sonnenstral, <pb n="1v"/>als Oster- u<ex>nd</ex> Frühlingsgruß durch Ihre Luftschichten hinübersende, wünschend, Sie möchten alles Göttliche in schönster irdischer Gestalt erfahren u<ex>nd</ex> erleben.</p>
+<p>Ich antworte nicht auf Ihre Fragen wegen <placeName key="G000635"><hi rendition="#aq">Bergamo</hi></placeName> – denn diese selbst haben Sie wol schon vergessen – es tauchen Ihnen ja Länder u<ex>nd</ex> Städte wie Traumbilder auf, woran Sie sich als ein Kind mit Seifenblasen ergötzen.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190228T114721+0100" comment="Im Mai 1869 hatte Marie Rückert nach Rom kommen wollen (siehe den Brief von Gregorovius an Marie Rückert, 12.5.1869)."?> <?oxy_comment_end?></p>
+<p>Ein großer Theologe, Kirchenrat und Vertreter des himmlischen Jenseits, mit dem bescheidenen Namen <hi rendition="#aq"><persName key="G001238"><hi rendition="#aq">Hase</hi></persName></hi>, aus dem <pb n="2r"/>bescheidenen <placeName key="G000692"><hi rendition="#aq"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190228T114738+0100" comment="Der mit Gregorovius befreundete Jenaer Kirchenhistoriker Karl Hase (1800–1890)."?>Jena<?oxy_comment_end?></hi></placeName> <?oxy_comment_start author="Angela Steinsiek" timestamp="20200106T171622+0100" comment="Anfang 1870 hatte Marie Rückert in Jena eine Affäre mit dem Chirurgen Franz Jordan von Ried (1810–1895)."?>wollte nichts von Ihrer Anwesenheit dort wissen, u<ex>nd</ex> das brachte mich auf die Vermutung, d<ex>a</ex>ß Sie Jena verlassen haben<?oxy_comment_end?> – denn Sie sitzen doch nicht gar als Sibylle noch in einer Studentenstube.</p>
+<p>Ich weiß nicht was die Zeit ist – denn <?oxy_comment_start author="Angela Steinsiek" timestamp="20200420T182801+0200" comment="Mit der Messe am Gründonnerstag beginnen die „Heiligen drei Tage“. Der Papst wegnet am Vormittag den Chrisam, das Öl, das für Taufen, Firmungen und Krankensalbungen verwendet wird. Am Abend wäscht er bei der Abendmahlsmesse in der Lateranbasilika zwölf Priestern die Füße. Danach schweigen die Glocken – sie „fliegen nach Rom“, wie es im Volksmund heißt – bis Mitternacht am Osterssonntag, wenn mit Festgeläut an die Auferstehung Christi erinnert wird."?>seit heute Mittag schweigt jede Glocke in Rom, u<ex>nd</ex> diese tiefsinnige Stille regt mich jedesmal so wunderbar auf, mehr als <del rendition="#s">als</del> oceanisches Lärmen es könnte – es ist das Schweigen der Ewigkeit in der ewigen Roma – so dauert es fort bis Sonnabend <?oxy_comment_start author="Angela Steinsiek" timestamp="20200420T183203+0200" comment="irrtümlich für: Mitternacht."?>Mitwoch<?oxy_comment_end?>, wo plötzlich alle Glocken mit Freude- u<ex>nd</ex> Jubelzungen losbrechen<?oxy_comment_end?>. Die ist ein Symbol auch vom Menschendasein, u<ex>nd</ex> so wünsche ich <pb n="2v"/>Lösung von jedem Banner auch für Sie.</p>
+                <closer>
+<signed rendition="#right">Ferdinand Gregorovius <lb/>von Rom.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

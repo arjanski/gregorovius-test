@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067736">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. Traunstein, 16. Juli 1873 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Adr.: All’Illustre Signor / il signor Conte Giovanni Gozzadini / Senatore del Regno / Bologna </p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell’Archiginnasio</institution><collection>Ms. Gozzadini 442</collection><idno>(18)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er hat in der Biblioteca Oliveriana in Pesaro für seine „Lucrezia Borgia“ (1874) Dokumente zu Giovanni Sforza eingesehen und dankt für seine Empfehlungsschreiben an die Bibliothekare Ciro Antaldi Santinelli und Gualterio Grossi. In Modena war ihm der Direktor des Staatsarchivs, Cesare Foucard, sehr behilflich. Seit einer Woche befindet er sich zur Erholung in Traunstein, wohin auch Auguste und Karl Lindemann-Frommel sowie Adolf Friedrich Graf von Schack gekommen sind. </p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000888">Traunstein</placeName><date when="1873-07-16" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni conte (1810–1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Traunstein in Baviera <lb/>16. Luglio 1873.</dateline>
+                    <salute rendition="#c"> Illustre signor Conte,</salute>
+                </opener>
+<p>Alle sue gentilissime raccomandazioni so grado della perfetta liberalità, e gentilezza, colla quale <seg type="comment"><orig>mi accolsero gli attuali direttori dell’<orgName key="G004666">Oliveriana </orgName>a <placeName key="G000752">Pesaro</placeName>, il <persName key="G067825">Marchese Antaldi</persName> e il <persName key="G067831">Dott<hi rendition="#sup"><ex>o</ex>r<ex>e</ex></hi> Grossi</persName></orig><note xml:id="nmpm_zj1_zlb">Er war am 1. Juli nach Pesaro aufgebrochen, wo er am Tag darauf ankam und für zwei Tage in der Biblioteca Oliveriana arbeitete. Dort wurde er von den Bibliothekaren, dem Marchese Ciro Antaldi Santinelli (1825–1907) und Gualterio Grossi, freundlich aufgenommen (siehe RT, 3.7.1873, S. 332). Dem waren seine Bitten um Empfehlungsschreiben durch Gozzadini (siehe den Brief von Gregorovius an Giovanni Gozzadini vom 26.6.1873) und den aus Pesaro stammenden Terenzio Mamiani della Rovere (1799–1885) vorausgegangen; siehe den Brief von Gregorovius an Terenzio Mamiani della Rovere vom 23.6.1873.</note></seg>. Quindi sento il caro dovere di ringraziarla cordialmente. </p>
+<p>Mi trattenni a Pesaro due giorni, e questo tempo mi bastava a raccogliere alcune notizie intorno a <seg type="comment"><orig>certe vicende di <persName key="G001600">Giovanni Sforza</persName>, marito infelice di <persName key="G000985">Madonna Lucrezia Borgia</persName></orig><note xml:id="nmmj_bk1_zlb">Lucrezia Borgia (1480–1519) und Giovanni Sforza (1466–1510) heirateten am 12. Juni 1493. Die Ehe der unehelichen Tochter von Papst Alexander VI. (1431–1503) war eine machtpolitische Entscheidung ihres Vaters, der so eine Allianz mit der Familie Sforza eingegangen war, und machte Lucrezia zur Gräfin von Pesaro. Allerdings kam es im Zuge des Eroberungszugs Karls VIII. (1470–1498) in Neapel zu Auseinandersetzungen zwischen dem Papst und seinem Schwager, woraufhin Sforza nach Pesaro flüchtete. Am 20. Dezember 1497 wurde die Eheschließung wegen angeblicher Impotenz des Gatten für als nicht vollzogen erklärt und die Verbindung aufgelöst (siehe dazu: Ferdinand Gregorovius. Lucrezia Borgia. Bd. 1. 1874, S. 95–103).</note></seg>, <seg type="comment"><orig>della quale famosissima donna io <bibl corresp="G003509">sto scrivendo la vita</bibl></orig><note xml:id="nryy_dk1_zlb">1874 erschien seine Biographie der „Lucrezia Borgia“ in zwei Bänden (Stuttgart: Cotta).</note></seg>, ovvero quella parte di vita, che la medesima passò in <placeName key="G000763">Roma</placeName>. Di documenti e di corrispondenze, che servissero ad illustrare questo subietto storico, nulla si è conservato in Pesaro, per quanto almeno colà mi si fosse dato ad intendere.</p>
+<p>Ma veri tesori si nascondono ancora e si vanno ritrovando <seg type="comment"><orig>nell’insigne <orgName key="G067840">Archivio di Modena</orgName>, dei quali mi fu largo il <pb n="2"/><persName key="G001134">signor Foucard,</persName> con farmi trascrivere molte carte preziose</orig><note xml:id="nydv_gk1_zlb">Nach seinem Aufenthalt in Pesaro reiste er nach Modena, wo ihn sein Freund, der Direktor des Archivio di Stato di Modena, Cesare Foucard (1825–1892), in seinem Haus aufnahm (siehe RT, S. 332). In der Einleitung zur „Lucrezia Borgia“ berichtet Gregorovius über diese „reichste Ausbeute“ im Archiv der Este (Ferdinand Gregorovius. Lucrezia Borgia. Bd. 1. 1874, S. XV).</note></seg>. Colà mi recai dopo di aver lasciato la bella città di Pesaro, e vi impiegai due altri giorni lietamente <seg type="comment"><orig>nella compagnia dell’eruditissimo Direttore di quell’Archivio</orig><note xml:id="ndc5_3k1_zlb">Auch bei späteren Besuchen in Modena sollte Gregorovius bei dem Paläographen Foucard zuhause Gast sein (siehe RT, 31.3.1875, S. 347–348; 20.5.1876, S. 363; 1877, S. 373).</note></seg>. <seg type="comment"><orig>Oramai sono in possesso di moltissime copie di documenti, raccolte da me stesso, o fatte per uso mio colla massima liberalità negli Archivi di Roma, di <placeName key="G000671">Firenze</placeName>, di <placeName key="G000724">Mantova</placeName>, di Modena e di <placeName key="G000894">Venezia</placeName></orig><note xml:id="nwxw_kk1_zlb">„In diesen Monaten habe ich die ‚Lucrezia Borgia‘ sehr gefördert. Man schickte mir Abschriften wichtiger Dokumente aus Mantua, Florenz und Modena. Namentlich im Archiv Este gibt es die wichtigsten Papiere.“ (RT, 28.6.1873, S. 331). Außerdem berichtet er im Tagebuch von für die „Lucrezia“ nützlichen Funden in der Universitätsbibliothek in Ferrara sowie im dortigen Münzkabinett (siehe RT, S. 333).</note></seg>, diguisa che posso lusignarmi colla speranza di produrre col tempo un libro, <seg type="comment"><orig>il quale non sarà discaro ai leggitori Italiani</orig><note xml:id="nslt_mk1_zlb">Siehe zur sehr disparaten Aufnahme des Buches: Johannes Hönig. Ferdinand Gregorovius. Eine Biographie. Stuttgart: Cotta Nachfolger 1944. S. 364–365.</note></seg>, giacchè desse farà tutto quanto frutto italiano. </p>
+<p>Da una settimana incirca mi ritrovo un’altra volta qua, in Traunstein, amenissimo paese alpestre nell’alta <placeName key="G000833">Baviera</placeName>. Qui sto perfettamente bene, e <seg type="comment"><orig>godo anche la compagnia di alcuni buoni amici</orig><note xml:id="nbyr_sk1_zlb">Von Modena fuhr er über Kufstein nach Traunstein, wo er am 9. Juli ankam (siehe RT, S. 332). Hierher war er bereits im Jahr zuvor auf ärztliches Anraten wegen der heilenden Salzbäder gekommen; siehe den Brief von Gregorovius an Ersilia Caetani Lovatelli vom 28.7.1872. Neben dem gut mit ihm befreundeten Maler Karl Lindemann-Frommel (1819–1891) samt Sohn Manfred (1852–1939) kam auch Adolf Graf von Schack (1815–1894) aus München zu Besuch bei ihm in Traunstein vorbei. „Von Gästen des vorigen Jahres waren da Graf Leutrum und Nichte. Sodann trafen ein die Generalin von Troschke und Sohn, Minister von Schleinitz und Frau, dessen Mutter, Fürstin Hatzfeldt und Frau von Wörmann.“ (RT, S. 332).</note></seg>. </p>
+<p>Ella mi farebbe un insigne piacere, se volesse darmi con due righe le nuove sue, e rassicurarmi del suo perfetto benessere e di quello della gentilissima <persName key="G001092">signora Contessa</persName>, alla cui benigna memoria come a quella di V<ex>ostra</ex> S<ex>ignoria</ex> si raccomanda affetuosamente e con profondo rispetto</p>
+                <closer>
+                    <salute rendition="#right">il servitor suo devoto</salute>
+                    <signed rendition="#right">F. Gregorovius</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

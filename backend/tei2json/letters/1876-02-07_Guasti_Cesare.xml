@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067770">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Cesare Guasti in Florenz. München, 7. Feburar 1876 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free"><licence target="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International (CC BY 4.0) </licence></availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Biblioteca Roncioniana Prato</repository><collection>Archivio Guasti, Busta 398</collection><idno>(15)</idno></msIdentifier>
+<physDesc>
+<p>1 VK</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er übermittelt Grüße von August von Druffel.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1876-02-07" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001218">Guasti, Cesare (1822–1889)</persName>
+<placeName key="G000671">Florenz</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession"><pb n="1r"/>
+<p>Al egregio Sig<ex>nore</ex> <seg type="comment"><orig>Direttore Cesare Guasti</orig><note xml:id="nlft_5m5_zlb">Den Archivar Cesare Guasti (1822–1889), der 1852 als Assistent an das Staatsarchiv Florenz gekommen und 1874 zu dessen Direktor ernannt worden war, kannte Gregorovius seit einem Florenzbesuch im September 1858; siehe den Brief von Gregorovius an Cesare Guasti vom 18.1.1874. Seitdem hatte er sich, häufiger vor allem in der ersten Hälfte der 1870er Jahre, mit wissenschaftlichen Belangen gewandt. Ein Treffen der beiden während Gregorovius’ Aufenthalt in Florenz im Juni 1876 hat Gregorovius zumindest im Tagebuch nicht dokumentiert (siehe RT, Sommer, Herbst und Winter 1876/77, S. 373).</note></seg> manda mille saluti per mezzo del signor</p>
+<p rendition="#c #mPrint">FERDINAND GREGOROVIUS</p>
+<p><seg type="comment"><orig>Dottore di <persName key="ed_xrl_4xs_plb">Druffel</persName></orig><note xml:id="nosr_vm5_zlb">Der Historiker August von Druffel (1841–1891) habilitierte sich nach seiner Teilnahme im Krieg gegen Frankreich an der Ludwig-Maximilians-Universität München und war ab 1884 ordentliches Mitglied der Akademie der Wissenschaften. 1885 wurde er zum ordentlichen Professor berufen. Möglicherweise kannten sich Gregorovius und Druffel aus der Münchner Akademie.</note></seg> di Monaco.</p>
+<p rendition="#right">Monaco in Baviera</p>
+<p rendition="#right">7. feb<ex>b</ex>r<ex>aio</ex> 1876.</p>
+</div>
+        </body>
+    </text>
+</TEI>

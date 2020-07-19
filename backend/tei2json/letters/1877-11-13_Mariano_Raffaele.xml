@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000245">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Rom. München, 13. November 1877</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt><respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Gestern vor einundzwanzig Jahren hat er mit der Niederschrift seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) begonnen. Seine Studien zum Dreißigjährigen Krieg hat er unterbrochen und bereitet einen Akademievortrag, „Ein deutscher Bericht über die Eroberung Roms durch die kaiserliche Armee Carl’s V. im Jahr 1527“ (1877) vor. Der fünfte und sechste Band seiner „Geschichte der Stadt Rom im Mittelalter“ werden in dritter Auflage gedruckt (beide 1878). Er bittet um drei Exemplare seiner Studie „Alcuni cenni storici sulla cittadinanza romana“ (1877), ein weiteres Exemplar soll Mariano direkt an Giuseppe Marcotti senden. Dieser hatte ihn in seinem Artikel „I Borgia“ (1877) gegen Henri Blaze de Burys Ausfälle in der „Revue des deux Mondes“ (1877) verteidigt. Es ist ihm nicht recht, dass Filippo Cagiati seine Auslagen nicht erstattet haben will;  Mariano soll alles notieren. Er ermutigt ihn bei der Suche nach einem Verleger für dessen „Cristianesimo, cattolicesimo e civiltà“ (1879). Er hat einem gewissen Lerra geschrieben, damit dieser seine Studien nicht aufgibt. Er hat Marianos „La philosophie contemporaine en Italie“ (1868) im „Conversations-Lexikon“ von Brockhaus entdeckt.</p>
+<p xml:lang="it"/>
+<p xml:lang="en"/>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1877-11-13" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">München, 13. Nov<ex>ember</ex> 77.</dateline>
+                    <salute>Lieber Freund,</salute>
+                </opener>
+                <p>ich war sehr erfreut gerade gestern Ihren Brief aus meiner alten Wohnung in der <placeName key="ediarum_lmm_slx_qlb"><seg type="comment"><orig>Via Gregoriana</orig><note xml:id="nbrn_4bj_1mb">Gregorovius wohnte 1861–1874 in der Via Gregoriana 13 in Rom.</note></seg></placeName> zu erhalten: denn der 12. Nov<ex>ember</ex> ist für mich der größeste aller Feiertage, als Geburtstag meiner <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Gesch<ex>ichte</ex> d<ex>er</ex> Stadt Rom</bibl>, welche ich an jenem Tage im Jahre 1856 an dem Tische u<ex>nd</ex> auf der Stelle niederzuschreiben begann, welche Sie jetzt glücklicher Weise einnehmen. Seither sind 3 mal sieben Jahre verflossen, <seg type="comment"><orig>so viel als <persName key="G001314">Jakob</persName> würde gebraucht haben um dreimal um <hi rendition="#aq"><persName key="G001524">Rahel</persName></hi> zu dienen</orig><note xml:id="nw3n_pbj_1mb">Siehe Gen 29,20: Jakob diente Rahel sieben Jahre. Weil er sie liebte, kamen sie ihm wie wenige Tage vor. (Zitiert nach: Die Bibel in der Einheitsübersetzung. Universität Innsbruck [AT] https://www.uibk.ac.at/theol/leseraum/bibel/gen29.html).</note></seg>, u<ex>nd</ex> indem ich diesen in einem Menschenleben welches nach Pulsschlägen zählt langen Zeitraum bedenke, u<ex>nd</ex> auch innerlich in <pb n="1v"/>mir selbst erfahre, wie sehr jene römische Zeit u<ex>nd</ex> Welt trotz ihren reellsten Mühen schon in die Mythe hinweggewandert ist, weiß ich nicht, ob ich mich freuen soll, daß sie überwunden ist, oder mich grämen, daß dem so ist. </p>
+<p>Die dicke Novemberluft, welche jetzt nicht als ein Schleier, sondern als ein von Näße vollgesogenes schweres Tuch über diesem miserabeln München hängt, erweckt mir freilich heiße Sehnsucht nach dem Götterodem des <placeName key="G000690">Südens</placeName>, den ich einst täglich geatmet habe – u<ex>nd</ex> wenn ich bedenke, mit welchen chritischen Hindernißen Menschen des Nordens zu kämpfen haben, um aus der irdischen Not durch Geistesarbeit sich in die Regionen des Idealen zu erheben, so muß ich doch sagen, daß die Germanen schon deshalb bewundernswürdig sind. </p>
+<p>Meine <bibl sameAs="G003523"><seg type="comment"><orig>Arbeiten über den 30-jährig<ex>en</ex> Krieg</orig><note xml:id="np55_qbj_1mb">Seine Studien zum Dreißigjährigen Krieg mündeten in das zwei Jahre später erscheinende „Urban VIII. im Widerspruch zu Spanien und dem Kaiser. Eine Episode des dreißigjährigen Kriegs“ (Stuttgart: Cotta 1879).</note></seg></bibl> habe ich augenblick- <pb n="2r"/>lich unterbrechen müßen, weil ich am 1. Dec<ex>ember</ex> in der <orgName key="G000494">Akademie</orgName> meinen <bibl sameAs="G004018">Vortrag</bibl> halten muß: ich behandle dazu einen unedirten Bericht über den <seg type="comment"><orig>Sacco di Roma</orig><note xml:id="ndqw_rbj_1mb">Der Sacco di Roma bezeichnet die unkontrollierte Plünderung Roms und des Kirchenstaats sowie die Gewaltexzesse durch deutsche Landsknechte und spanische sowie italienische Söldner Karls V. (1500–1558) am 6. Mai 1527.</note></seg>, von <seg type="comment"><orig>einem Baiern <hi rendition="#aq"><persName key="G001222">Gumpenberg</persName></hi></orig><note xml:id="nam5_sbj_1mb">Ambrosius von Gumppenberg (1501–1574) war Domherr und Diplomat. Ab 1525 hielt er sich als Agent zahlreicher Prälaten und Fürsten und als Prokurator der deutschen Nation in Rom auf. Er war Augenzeuge des Sacco di Roma.</note></seg>, welchen ich in der hiesiegen <orgName key="G000510">Bibliothek</orgName> gefunden habe, u<ex>nd</ex> in den <orgName key="ed_oc5_sl2_rlb">Denkschriften jener Akademie</orgName> veröffentlichen will. </p>
+<p>Das beste ist, daß der Druck der Gesch<ex>ichte</ex> d<ex>er</ex> Stadt schnell vorrückt. Der <bibl corresp="G003457">V. B<ex>an</ex>d</bibl> ist vollendet, u<ex>nd</ex> der <bibl corresp="G003450">VI.</bibl> in der Druckerei. </p>
+<p>Von den 4. Copien meiner <bibl sameAs="G004017">Memorie sulla cittadin<ex>anza</ex> rom<ex>ana</ex></bibl> seien Sie so gut mir 3 durch Post (richtig frankirt) hierher zu schicken. 1 Copie bitte ich als von mir kommend zu schicken an einen <seg type="comment"><orig>Herrn <hi rendition="#aq"><persName key="G001399">Marcotti</persName></hi></orig><note xml:id="njfv_tbj_1mb">Giuseppe Marcotti (1850–1922) war Schriftsteller und Journalist. Er schrieb u.a. für „Il Fanfulla“, „La Nazione, „La Stampa“, „Il Corriere della Sera“ und „Il Resto del Carlino“. Auch war er als Korrespondent für „Le Figaro“ in Paris tätig. Siehe Laura Cerasi: Artikel „Marcotti, Giuseppe“. In: DBI. Bd. 70 (2008).</note></seg>, welcher in der <hi rendition="#aq"><orgName key="G000482">Italia</orgName></hi> <seg type="comment"><orig>den Artikel</orig><note xml:id="njkb_vbj_1mb">Artikel nicht nachweisbar. In seinem römischen Tagbuch notiert Gregorovius, dass „die ‚Gazzetta d’Italia‘ einen langen und vorzüglichen Aufsatz ‚I Borgia‘ von Marcotti [brachte]“ (1877, S. 376)</note></seg> contra <persName key="G000971"><hi rendition="#aq"><seg type="comment"><orig>Blaze de Bury</orig><note xml:id="nwsq_grf_fmb">Henri Blaze de Bury (1813–1888) war Schriftsteller und Journalist der „Revue des deux Mondes“. Er hatte in dieser Zeitung am 15. März 1877 unter dem Titel „Les Borgia“ die „Lucrezia Borgia“ (1874) polemisch und verschmähend angegriffen, was zu einer Welle der Erwiderungen führte (siehe den Brief von Gregorovius an Mariano vom 21. September 1877 sowie RT, Rückkehr nach Rom im Jahre 1877, S. 375–376)</note></seg></hi></persName> geschrieben hat, u<ex>nd</ex> dessen Adresse Sie auf dem Bureau der <orgName key="G000482">Gazzetta d'Italia</orgName> erfahren werden. Es ist mir nicht lieb, daß <persName key="G001012">Cagiati</persName> die für mich gemachte <seg type="comment"><orig><foreign xml:lang="ita">spesa</foreign> </orig><note xml:id="nis5_wbj_1mb">Nicht ermittelt, welche Ausgaben Filippo Cagiati (1821–?) für Gregorovius getätigt hatte, dieser wollte sie jedoch begleichen (siehe den Brief von Gregorovvius an Raffaele Mariano, 6.11.1877).</note></seg>nicht an sich nehmen will. Ich habe so etwas nicht <pb n="2v"/>gerne, bitte Sie daher, alles zu notiren, was Sie für mich ausgeben. </p>
+<p>Für Ihre neue <bibl sameAs="ed_yr4_nvd_rlb">Schrift</bibl> wird sich doch wol ein Verleger finden. Es ist beklagenswert, daß die buchhändlerischen Verhältniße, welche in aller Welt günstiger werden, nur in Italien sich nicht beßern wollen. Diese Reform wird aber erst aus derjenigen des Unterrichts in der Schule selbst sich ergeben können.</p>
+<p><seg type="comment"><orig>Dem jungen Lerra</orig><note xml:id="ncbs_xbj_1mb">Nicht ermittelt.</note></seg> habe ich einen sehr ernsten Brief geschrieben, worin ich ihm sagte, daß er wol bedenken solle, daß ein Entschluß seine schon geordnete Bildung aufzugeben ohne die Absicht Jahre lang zu lernen u<ex>nd</ex> Kenntniße zu erwerben, sein Verderben sein könne. Hierauf hat er mir noch nicht geantwortet.</p>
+<p>Ich freute mich in dem neusten <bibl corresp="ed_hrp_xm2_rlb">Conversationslexicon</bibl> v<ex>on</ex> <orgName key="G000480">Brockhaus</orgName>, Artikel <hi rendition="#u">Italien<ex>ische</ex> Literatur</hi> Ihre <add place="superlinear">franz<ex>ösische</ex> </add><bibl sameAs="ed_hrm_2n2_rlb">Schrift</bibl> über d<ex>ie</ex> ital<ex>ienische</ex> Philosophie verzeichnet zu finden. Heute schrieb ich auch beklagend an Frau <persName key="G001215">Grunelius</persName>.</p>
+                <closer>Die <persName key="G001203"><persName key="G001111"><persName key="G001109">Meinigen</persName></persName></persName> grüßen Sie mit mir auf das Herzlichste. Grüße an alle unsre gemeinschaftlichen Freunde.<salute rendition="#right">Ihr <hi rendition="#aq">FGregorovius</hi>. </salute></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

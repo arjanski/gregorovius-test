@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000242">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Alfred von Reumont. Rom, 11. November 1866</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Universitäts- und Landesbibliothek Bonn</repository><collection>NL Reumont</collection><idno>S 1061 (295)</idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 4°, 1 ¾ S. – 1r aoR Empfängervermerk: pr. Mte Melmö$ / 19 Nov. 66.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 86, Mappe 9 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 82, Mappe 5 (nach h1) </idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Clemens August Alertz ist morgens nach kurzem Leiden verstorben.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">Clemens August Alertz died in the morning after suffering briefly.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1866-11-11" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001545">Reumont, Alfred von (1808–1887)</persName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi>, 11. <hi rendition="#aq">Nov<ex>em</ex>b<ex>e</ex>r</hi> 66.</dateline>
+                    <salute rendition="#c">Verehrter Herr,</salute>
+                </opener>
+<p>Sie haben von der Krankheit des herrlichen <persName key="G000913"><hi rendition="#aq">Alertz</hi></persName> noch durch ihn selbst gehört, und sein Neffe wird Ihnen, so glaube ich, in den letzten Tagen mitgeteilt haben, daß die Krankheit einen rapiden Verlauf zu nehmen begann. <seg type="comment"><orig><hi rendition="#aq">Alertz</hi> starb heute um 10 Uhr des Morgens</orig><note xml:id="nymf_sg3_gmb">Clemens August Alertz (*1800), ehemaliger Leibarzt der Päpste Gregor XVI. und Pius IX., des Prinzen Heinrich von Preußen (1781–1846) und zuletzt preußischer Gesandtschaftsarzt. Das offizielle Todesdatum wird auf dem Grabstein mit dem 10. November 1866 angegeben. Gregorovius schrieb einen ausführlichen Nachruf in der Berliner „National-Zeitung“ (11.12.1866), den er in seine „Kleinen Schriften“ aufnahm (Bd. 3, S. 73–85).</note></seg>. Ich habe in der Voraussetzung, daß der Neffe des Verstorbenen heute nicht die Ruhe findet, Ihnen zu schreiben, das an seiner Stelle zu thun für Pflicht gehalten, wol wissend, daß Sie in vergangenen Jahren Freundschaft mit dem edeln Manne verband, der auch mir seit fast 14 Jahren nahe stand, u<ex>nd</ex> dessen Verlust für mich lange fühlbar sein wird. <hi rendition="#aq">Alertz</hi>, seit 14 Tagen unfähig Nahrung einzunehmen, litt im Ganzen nicht schwer; nur die letzte Nacht war, in Folge bereits eingetretener Auflösung der inneren Organe, qualvoll genug. Ich kann <pb n="1v"/>es mir lebhaft vorstellen, wie schmerzlich es für Sie sein wird, daß Sie ihn nicht mehr sahen. Man wird ihn übermorgen am <placeName key="G000768"><hi rendition="#aq">Sanct Peter</hi> </placeName>begraben, in dessen Nähe er passend ruhen wird. <seg type="comment"><orig>Dies Jahr ist schrecklich und zerstörend genug</orig><note xml:id="nirz_tg3_gmb">Seine enge Freundin Pauline Hillmann war am 3. April 1866 in Florenz gestorben, sein ältester Bruder Rudolf Gregorovius (*1808) am 23. Juni 1866 in Königsberg und seine Stiefmutter Emilie Auguste, geb. Dreßler, verw. von Collrepp (*20.2.1797), verstarb am 13. August 1866.</note></seg>! </p>
+<p><seg type="comment"><orig>Ich habe nicht Ihre Adresse</orig><note xml:id="nycl_wg3_gmb">In den 1860er Jahre widmete sich Reumont, der kein öffentliches Amt mehr bekleidete, seinen Studien der Geschichte und der Literatur und lebte überwiegend in Aachen und Bonn.</note></seg>, muß daher meinen Brief der Direction des Glücks überlassen. </p>
+<p>In der Hoffnung, Sie selbst, verehrter Herr, in Rom als völlig wiederhergestellt bewillkommnen zu dürfen, empfehle ich mich Ihnen freundlich und hochachtungsvoll</p>
+                <closer>
+<signed rendition="#right"><hi rendition="#aq">Gregorovius</hi>.</signed>
+<note type="postscript"><hi rendition="#aq">Via Gregoriana</hi>, <hi rendition="#aq"><foreign xml:lang="ita">n</foreign><ex>umero</ex></hi> 13.</note>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000347">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Eduard und Rudolf Brockhaus in Leipzig. Traunstein, 19. Juli 1872</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Sächsisches Staatsarchiv Leipzig</repository><collection>Bestand 21083</collection><idno>Archivalnummer 224 (118)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¾ S. – 1r + 2r aoR in einer Vignette geprägt: BATH – 2v alR, Blatt um 90° gedreht, Eingangs-, Beantwortungs- und Verlagsvermerk: 1872. / <hi rendition="#aq">Traunstein</hi>, 19./20. <hi rendition="#aq">Juli</hi>. / <hi rendition="#aq">Gregorovius</hi>. / B. 6/VIII. / Notiz: wann u. wohin die Exemplare gegangen? </p>
+<p>Empfangsbestätigung des Honorars für die dritte Auflage seiner „Siciliana“ (1872) (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 119) 1 Bl., 8°, ½ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 55 Mappe 333 (nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er wird etwa vier Wochen in Traunstein bleiben. Das Titelblatt und die Zeichnungen von Theodor Grosse zu der illustrierten Ausgabe seines „Euphorion“ (1872) erwartet er dorthin. Er würde sich auch über die Zusendung der von Eduard Brockhaus publizierten Biographie des Verlagsgründers Friedrich Arnold Brockhaus (1872) freuen. Die am 28. Februar 1872 mitgeteilte Adressliste für die zu versendendenden Freiexemplare seines „Euphorion“ wird er rechtzeitig in veränderter Form übersenden. Die ihm von Brockhaus angetragene Schilderung Venedigs nach Art seiner „Wanderjahre in Italien“ lehnt er ab. Er dankt für die freundliche Aufnahme der von ihm empfohlenen Engländerin Helena Hadwen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000888">Traunstein</placeName><date when="1872-07-19" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G000995">Brockhaus, Eduard (1829–1914)</persName>
+<persName key="G000997">Brockhaus, Rudolf (1838–1898)</persName>
+<placeName key="G000712">Leipzig</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">3. Juli 1872</ref>
+<ref type="next">6. August 1872</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+<div type="writingSession">
+<opener>
+<dateline rendition="#c">Traunstein in Bayern <lb/><hi rendition="#aq">Stadtplatz n<ex>umero</ex></hi> 46. <lb/>19. Juli 1872.</dateline>
+<salute rendition="#c"><note place="left" hand="#addressee">Biops. Festbuch</note>Geehrte Herren,</salute>
+</opener>
+<p>ich erlaube mir Ihnen anzuzeigen, daß ich seit kurzem meinen Aufenthalt in <seg type="comment"><orig>Traunstein genommen habe, und hier etwa 4 Wochen zu bleiben gedenke</orig><note xml:id="nysd_2hm_rlb">Gregorovius war am 14. Juli in Traunstein eingetroffen, wo er schließlich bis zum 12. September 1872 blieb (siehe RT, 10.9. und 11.11.1872, S. 325–327).</note></seg>.</p>
+<p>Wenn unterdeß <seg type="comment"><orig>das Deckblatt u<ex>nd</ex> die Illustrationen <persName key="G001213">Grosse’s</persName> zur Ausgabe von <bibl sameAs="G003580">Euphorion</bibl> fertig geworden sein sollten</orig><note xml:id="nfgm_ghm_rlb">Die Quartausgabe seines 1858 zuerst erschienen Versgedichts „Euphorion“ erschien 1872 als „Illustrierte Prachtausgabe mit Original-Compositionen von Theodor Grosse“; sie sollte längst erschienen sein.</note></seg>, so würde ich mich freuen, diese hier zu erhalten. Vielleicht haben Sie auch die Güte, <seg type="comment"><orig>das <bibl sameAs="G004231">Leben des Gründers Ihres Hauses</bibl></orig><note xml:id="nsbh_jhm_rlb">Der Verlag war von Friedrich Arnold Brockhaus (1772–1823) 1805 gegründet worden und trug seit 1814 den Namen F. A. Brockhaus. Am 4. Mai 1872 hatte sich der Geburtstag des Verlagsgründers zum hundertsten Mal gejährt. Sein Enkel hatte eine Biographie publiziert. Eduard Brockhaus: Friedrich Arnold Brockhaus (1772–1823). Sein Leben und Wirken nach Briefen und andern Aufzeichnungen geschildert. 2 Tle. Leipzig: Brockhaus 1872 (https://archive.org/details/friedricharnold03brocgoog/page/n15 und https://archive.org/details/friedricharnold02broc/page/n8). Im Brief an Brockhaus vom 12.8.1872 bedankte sich Gregorovius für deren Zusendung nach Rom (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 121).</note></seg> hinzuzufügen, welches Sie, wenn ich nicht irre, mir in Aussicht gestellt haben.</p>
+<p>In Bezug auf die <seg type="comment"><orig>Liste der Addressen, an welche später die Prachtexemplare von Euphorion <pb n="1v"/>gelangen sollen, bemerke ich</orig><note xml:id="nqsf_mhm_rlb">Die Adressliste für den Versand seiner Freiexemplare hatte Gregorovius mit seinem Brief vom 28.2.1872 an den Verlag übersandt (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 113).</note></seg>, daß ich dieselbe zur Zeit verändern werde, u<ex>nd</ex> bitte daher von jener keinen Gebrauch zu machen, ehe ich sie durch eine andre Liste ersetze.</p>
+<p>In <seg type="comment"><orig>Ihrem letzten gefälligen Schreiben</orig><note xml:id="nvxn_nhm_rlb">Nach dem Beantwortungsvermerk auf dem Brief vom 26.6.1872 von Gregorovius an Brockhaus war dieses Schreiben auf dem 3.7.1872 datiert (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 117).</note></seg>, welches ich kurz vor meiner Abreise von <placeName key="G000763">Rom</placeName> erhielt, sprechen Sie den Wunsch aus, eine Schilderung <placeName key="G000894">Venedigs</placeName> von mir zu erhalten, welche sich den Bänden der <bibl corresp="G003130 G003191 G003266 G003301">„Wanderjahre“</bibl> anreihen könnte. Diesem Wunsche kann ich nicht genügen, denn meine Arbeiten dieser Art gehören einer abgeschloßenen Periode meines Lebens an. Aus ihr, aus meinen Wanderungen und <pb n="2r"/>Studien entstanden jene Bände, in welchen ich eine neue Form für Geschichte und Natur Italiens als künstlerisches Genre geschaffen habe. Diese „Wanderjahre“ werden noch lange nach mir dauern, denn sie besitzen einen positiven Kern und das Gepräge der Persönlichkeit zugleich. Doch für mich gehört das nun der Vergangenheit an.</p>
+<p>Ich danke Ihnen sehr für die <seg type="comment"><orig>freundliche Aufnahme von <persName key="G001225">Miß <hi rendition="#aq">Hadwen</hi></persName></orig><note xml:id="nbls_rhm_rlb">Mit seinem Brief vom 14.2.1868 hatte Gregorovius Heinrich Brockhaus (1804–1874) die in Rom unter seiner Aufsicht entstandene englische Übersetzung seiner „Grabmäler der Römischen Päpste“ (1857) von der Engländerin Helena Hadwen anempfohlen und gebeten, diese einem geeigneten Verlag anzubieten (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 88). Sie ist nie erschienen. Im Brief vom 8.5.1872 an Brockhaus hatte Gregorovius Helena Hadwen empfohlen, die sich nach ihrem Aufenthalt in Rom in Leipzig als Englischlehrerin niederlassen wollte (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 115).</note></seg>.</p>
+<p>Haben Sie die Güte mich Ihrem <persName key="G000996">Herrn Vater</persName> auf das wärmste zu empfehlen </p>
+</div>
+<div>
+<closer>
+<salute xml:id="s1" next="s2" rendition="#c">Mit hochachtungsvoller Ergebenheit <lb/>Ihr </salute>
+<signed rendition="#right"><hi rendition="#aq">FGregorovius</hi>.</signed>
+</closer>
+</div>
+</body>
+    </text>
+</TEI>

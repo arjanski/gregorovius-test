@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000411">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Giovanni Battista De Rossi in Rom. München, 24. Dezember 1882 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Rom, Biblioteca Apostolica Vaticana</repository><collection>Vat. Lat. 14268, Carteggio Giovanni Battista De Rossi 1882</collection><idno>fol. 291–292 Nr. 635</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ½ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt De Rossi für die ihm überlassenen Broschüren, von denen er in Kürze für den Wiederabdruck seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) Gebrauch machen kann. Der deutsche Buchhändler Theodor Ackermann hat in München die Münzsammlung des verstorbenen Biografen und Numismatiker Carlo Mòrbio versteigert und bittet Gregorovius beim Verkauf von dessen Bibliothek um Hilfe. Er soll sich mit einem Ankaufsvorschlag an den italienischen Bildungsminister Guido Baccelli wenden. Der italienische Staat ist der potentielle Käufer, für den der Mòrbio-Nachlass am bedeutsamsten ist. Gregorovius bittet De Rossi, seine Autorität für die Rückkehr des Nachlasses nach Italien einzusetzen. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1882-12-24" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001085">De Rossi, Giovanni Battista (1822–1894)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<salute rendition="#c">Gentilissimo Signor De <?oxy_comment_start author="weiger" timestamp="20190805T202130+0200" comment="Der Archäologe Giovanni Battista De Rossi (1822–1894)."?>Rossi<?oxy_comment_end?>,</salute>
+</opener>
+<p>io le rendo le più gentile grazie per gli importanti opuscoli, che Ella ebbe la gentilezza di donarmi,<?oxy_comment_start author="weiger" timestamp="20191212T125148+0100" comment="Nicht ermittelbar, um welche Schriften es sich hier handelt."?> <?oxy_comment_end?>e mi vennero graditissime non solo come cari ricordi della persona dell’ autore, ma ancora perché potró avvalermene al tempo non piú lontano, che sará per ristamparci la mia storia di Roma nel medio <?oxy_comment_start author="weiger" timestamp="20190815T182010+0200" comment="Die vierte, verbesserte Auflage von Band 1 seiner „Geschichte der Stadt Rom im Mittelalter“ erschien 1886."?>evo<?oxy_comment_end?>. </p>
+<p>Ho preso parte, almeno con i pensieri pieni di venerazione per Lei, a quella festa, che testé fu celebrata in onore dei suoi meriti, festa la quale ha segnata <pb n="1v"/>nella sua gloriosa vita letteraria un momento della maggior soddisfazione.<?oxy_comment_start author="weiger" timestamp="20190815T182035+0200" comment="Das zu De Rossis 60. Geburtstag veranstaltete Fest. "?> <?oxy_comment_end?></p>
+<p>Ella, m’immagino, avrà presa cognizione di un fatto, certamente penoso ad ogni scienziato italiano; intendo l’esportazione dall’ Italia della biblioteca del fu Morbio, la quale nell’ estate scorsa é stata acquistata da un consorzio tedesco, cui presiede il libraio Ackermann di Monaco.<?oxy_comment_start author="weiger" timestamp="20190815T182125+0200" comment="Einen Teil der Bibliothek des 1881 verstorbenen Bibliografen und Numismatikers Carlo Mòrbio (*1811) hatte dessen Tochter Giulia der Biblioteca civica di Novara überlassen. Der bedeutendere Anteil war an den deutschen Buchhändler Theodor Ackermann (1827–1911) in München gegangen. "?> <?oxy_comment_end?>Essa contiene non solo rari libri a stampa, ma la collezione preziosa di carte e di documenti originale, fatta dal <pb n="2r"/>Morbio all’ uopo dei suoi studj sui municipj italiani.<?oxy_comment_start author="weiger" timestamp="20190815T182220+0200" comment="Mòrbio hatte eine wertvolle Sammlung an bedeutenden Autographen berühmter Persönlichkeiten, Diplomen, Statuten, Papstbullen, Codices, besonderen Drucken, Siglen, Medallien und antiken Münzen aufgebaut. Sie diente ihm für seine „Storie dei municipj italiani“ (Mailand 1836–1846)."?> <?oxy_comment_end?>Ora, il suddetto librajo, avendo già venduto all’ incanto il medagliere morbiano, cerca a chi vender meglio la biblioteca, e facendo riflessione, che al governo italiano più che ad ogni altro amatore stia a cuore l’acquisto di siffatti oggesti, si rivolge a me colla preghiera, di preporre l’affare, mediante uno scritto, al ministro dell’istruzione pubblica in Roma.<?oxy_comment_start author="weiger" timestamp="20190815T182246+0200" comment="Mòrbios Münzsammlung hatte Ackermann im Oktober 1882 auf einer Auktion von F. J. Wesener in München verkauft. Von dessen Bitte an Gregorovius, seinen Einfluß bei der Regierung in Rom geltend zu machen, um die Bibliothek dorthin veräußern zu können, berichtet Gregorovius auch in seinem Brief an Wilhelm Henzen vom 7. Januar 1883 (Rom, Archäologisches Institut 27). Ackermann verkaufte die Bibliothek schließlich auf verschiedenen Auktionen an deutsche und italienische Bibliotheken, insbesondere an die Biblioteca Braidense di Milano, sowie an Privatleute. Der Römer Guido Baccelli (1830–1916) war in den Jahren von 1881–1884 Bildungsminister Italiens. "?> <?oxy_comment_end?></p>
+<p>Ho esaminato i libri e le carte, e per amor dell’Italia desidero, che ad essa si restituisca un tesoro scientifico, che <pb n="2v"/>per materia e provenienza é tutto suo.</p>
+<p>Ho creduto mio dovere, di dargli conto della cosa, afinché Ella faccia valere la sua autoritá per effettuare il riacquisto dei materiali morbiani dall’Italia.</p>
+                <closer>
+<salute xml:id="s1" next="#s2">Accolga i miei auguri per il capo d’anno, non che l’attestato della più alta stima, con cui mi raffermo</salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">suo devotissimo</salute>
+<dateline>Monaco <lb/>24. Dic<ex>em</ex>br<ex>e</ex> 82</dateline>
+<signed rendition="#right">Ferd. Gregorovius</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067757">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Luigi Giuseppe De Simone in Lecce. Rom, 26. Mai 1875</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Biblioteca Provinciale „Nicola Bernardini“ di Lecce</repository><collection>Sezione manoscritti, collocazione nn. 188/72–75 </collection><idno>(72)</idno></msIdentifier>
+<physDesc>
+<p> 3 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Luigi Giuseppe De Simone cent’anni dopo. Incontro di Studio Arnesano, 31 V 2002. Hrsg. von E. Imbriani. Castrignano dei Greci: Amaltea edizioni 2004 (Quaderni della Biblioteca Comunale ‚Luigi Giuseppe De Simone‘; 2). S. 73–74 (ungenau)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt De Simone für die Zusendung seiner Schriften zur Geschichte Apuliens. In München wird er einen Vortrag über seine Reise in der Region halten. Die von Konrad Bursian herausgegebenen „Jahresberichte über die Fortschritte der klassischen Alterthumswissenschaft“ sind ihm nicht bekannt. Er bittet um Informationen zum Gründungsdatum und zur Zusammensetzung der „Commissione storico-archeologica di Lecce“. Im Rathaus in Taranto wurde ihm die von Salvatore Grande besorgte Quellensammlung „Collana di opere scelte edite e inedite di scrittori di Terra d’Otranto“ (1867–1875) vorgelegt, die u. a. italienische Übersetzungen der Schriften von Antonio De Ferrariis und Tommaso Niccolò d’Aquino enthält. Er fragt, ob die „Commissione storico-archeologica di Lecce“ an der Herausgabe des Editionswerks beteiligt war.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1875-05-26" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001088">De Simone, Luigi Giuseppe (1835–1902)</persName>
+<placeName key="G067505">Lecce</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c"> Roma, 26. Maggio 1875.</dateline>
+<salute rendition="#c"> Onoratissimo <seg type="comment"><orig>Signore</orig><note xml:id="nk1x_lc5_zlb">Der in Lecce geborene Luigi Giuseppe De Simone (1835–1902) studierte in Neapel Jura und wurde im Mai 1863 zum Richter ernannt. Er interessierte sich für Archäologie, Geschichte, Philologie, Lokaltraditionen und -biographien, trug mit seinen Schriften maßgeblich zur Geschichtsschreibung Apuliens bei. De Simone und Gregorovius lernten sich nicht persönlich kennen und es sind nur zwei Briefe von Gregorovius an De Simone erhalten. Diese datieren in die unmittelbare Nähe zu dessen Aufenthalt in Apulien im Mai 1875. Die Korrespondenz ist bestimmt von einem freundlichen Ton und Gregorovius’ Interesse für die Heimat sowie Arbeit De Simones, unter anderem in der historisch-archäologischen Kommission Lecces.</note></seg>,</salute>
+</opener>
+<p>m’increbbe molto di dover <seg type="comment"><orig>lasciare la sua bella <placeName key="G000690">patria</placeName>, senza aver fatto la dì lei conoscenza personale</orig><note xml:id="nz3y_mc5_zlb">Gregorovius war am 1. Mai 1875 von Rom nach Neapel gereist, wo er für einige Tage blieb und einen mehrtägigen Ausflug nach Ischia machte. Am 8. Mai fuhr er über Caserta nach Benevent, von wo aus er, gemeinsam mit seinem Freund Raffaele Mariano (1840–1912), am 11. Mai die Fahrt nach Apulien antrat. Sie fuhren nach Trani, Andria, Castel del Monte, Ruvo, Brindisi und Lecce, trafen dort am 15. Mai ein. Am folgenden Tag reisten sie nach Tarent, blieben dort für zwei Tage. Am 19. Mai erfolgte die Rückreise über Massafra, Foggia, Benevent und Caserta nach Rom, wo sie am 21. ankamen (siehe RT, 23.5.1875, S. 351–355). </note></seg>, poichè chi visita paesi esteri, non per mera e vana curiosità, ma piuttosto per istruire se stesso, non può incontrarvi fortuna migliore di quella, che gli si offre nelle relazioni con uomini colti e gentili. La ringrazio sinceramente del dono dei suoi scritti, per mezzo dei quali avrò il bene di conoscerla come uomo letterato ed uno di quei cittadini di Lecce, <seg type="comment"><orig>che si dedicano a promuovere gli studi patrii</orig><note xml:id="nvmc_4c5_zlb">De Simone hatte bereits seine Dissertation einem Thema zu Apulien gewidmet: Degli Angioini principi di Taranto (1292–1373). Taranto: Tipografia Nazionale 1866; http://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai%3Awww.internetculturale.sbn.it%2FTeca%3A20%3ANT0000%3ASBL0738769&amp;mode=all&amp;teca=MagTeca+-+ICCU&amp;fulltext=1). 1872 publizierte er zu einem archäologischen Fund: Di un ipogeo messapico scoperto il 30 agosto 1872 nelle rovine di Rusce e delle origini de’popoli della Terra d’Otranto. Lecce: Tip. Editrice Salentina. 1874 war sein Buch „Lecce e i suoi monumenti descritti ed illustrati“ (Lecce: Gaetano Campanella) erschienen. </note></seg>. </p>
+<p>Di quella <orgName key="ed_kx2_pch_zkb"><seg type="comment"><orig>rivista critica</orig><note xml:id="nhvh_pc5_zlb">Es handelt sich wahrscheinlich um die 1873 von Bursian gegründeten und herausgegebenen „Jahresberichte über die Fortschritte der klassischen Alterthumswissenschaft“.</note></seg></orgName>, che mi accenna nella sua pregiata lettera, e di cui <seg type="comment"><orig>il professore <persName key="ed_qnj_rch_zkb">Bursian</persName></orig><note xml:id="nxvg_qc5_zlb">Der Altphilologe Conrad Bursian (1830–1883), den Gregorovius 1853 auf Sizilien kennengelernt hatte (siehe RT, 1.9.1853, S. 48) und der seit 1874 bis zu seinem Tod eine Professur in München innehatte. </note></seg> in <placeName key="G000734">Monaco </placeName>di <placeName key="G000833">Baviera</placeName> doveva fare da direttore, per vero dire non ho inteso mai nulla; e avrei dovuto esserne <pb n="1v"/>avvertito, qualora un tale periodico avesse visto la luce.</p>
+<p>Avrò occasione, come spero, di render conto in <placeName key="G000664">Germania</placeName> dei suoi scritti, essendo che mi sono proposto di far una relazione del mio viaggio nelle <placeName key="G000817">Puglie</placeName>, e di trattare in quella massimamente dello stato, <seg type="comment"><orig>in cui si trovano colà gli studj storici</orig><note xml:id="nuhw_sc5_zlb">Am 2. Dezember 1875 hielt Gregorovius in der historischen Klasse der Akademie der Wissenschaften in München einen Vortrag über Apulien: Die historischen Studien im alten Calabrien, der heutigen Terra d’Otranto. In: Sitzungsberichte der philosophisch-philologischen und historischen Classe der k. b. Akademie der Wissenschaften zu München. Jg. 1875. Bd. 2. H. 4. München 1875. S. 409–425. Darin erwähnt er De Simones Dissertation, bezeichnet ihn als verdienstvollen Kenner der apulischen Geschichte; siehe dazu auch: Wanderjahre in Italien. Bd. V. Apulische Landschaften. Leipzig: Brockhaus 1877, S. 244. </note></seg>. Per ciò fare in modo più esatto, desidero di avere alcuni cenni intorno all’ epoca precisa, in cui la <orgName key="ed_jgf_fdh_zkb">commissione storico-archeologica di Lecce</orgName> <seg type="comment"><orig>fu costituta</orig><note xml:id="ntvf_5c5_zlb">Die 1868 durch die Provinz Lecce gegründete „Commissione conservatrice dei monumenti storici e di belle arti di Terra d’Otranto“ bestand, möglicherweise unter anderen, aus De Simone, dem Duca Sigismondo Castromediano (1811–1895), Cosimo De Giorgi (1842–1922), Giovanni Tarantini (1805–1889), Francesco Casotti und Giacomo Arditi (1815–1891). Gregorovius bedankt sich in einem Brief vom 5. Dezember 1875 an die Kommission, namentlich an Francesco Casotti, für die ihm für seinen Vortrag rechtzeitig zugegangenen Informationen, legt diesen bei und berichtet von dessen Aufnahme in der Münchner Akademie; siehe den Brief von Gregorovius an die Commissione conservatrice dei monumenti storici e di belle arti di terra d’Otranto vom 5.12.1875.</note></seg>, non che <add place="superlinear">intorno </add>ai membri principali, che la compongono, e all’ operazione della medesima. Le sarei grato, se volesse fornirmi di tali notizie, mentre<seg type="comment"><orig> stò ancora in Roma</orig><note xml:id="nc5j_vc5_zlb">Gregorovius verließ Rom am 28. Juni 1875 (siehe RT, 1.3.1876, S. 357). Es muss mit Sicherheit einen Antwortbrief auf diesen Brief gegeben haben, da sich Gregorovius für einen solchen in seinem Brief vom 18. Juni 1875 an De Simone bedankt; siehe den Brief von Gregorovius an Luigi Giuseppe De Simone vom 18.6.1875.</note></seg>. <pb n="2r"/><seg type="comment"><orig>Allochè</orig><note xml:id="nqxh_wc5_zlb">Fälschlich für: allorché.</note></seg> fui in <placeName key="ed_q3w_jdh_zkb">Taranto</placeName>, vidi nella ben esigua biblioteca del <seg type="comment"><orig>Municipio</orig><note xml:id="numg_xc5_zlb">„Auf dem Municipio zeigte man uns eine kleine Büchersammlung – eine Bibliothek gibt es in Tarent nicht mehr […].“ (RT, 23.5.1875, S. 354)</note></seg> <bibl sameAs="ed_z5q_5dh_zkb">la Collana degli scrittori di terra d’Otranto</bibl>, dove sono riprodotte alcune opere notissime, come quelle del <seg type="comment"><orig><persName key="ed_gbc_p2h_zkb">Galateo</persName></orig><note xml:id="nvgc_zc5_zlb">Antonio De Ferrariis, genannt Galateo (1444–1517).</note></seg> e del <persName key="ed_sxq_pfh_zkb">d’Aquino</persName>, però in lingua volgare. Avrebbe questa pubblicazione alcuna attinenza colla Commissione sovradetta? Ovvero vien lei <add place="superlinear">alle stampe </add>piuttosto per cura di persone private?</p>
+<p>Ho l’onore di professarmi coi sensi della più alta stima</p>
+<p rendition="#c">di lei</p>
+<closer>
+<salute rendition="#right">servitor devoto</salute>
+<signed rendition="#right">Ferd. Gregorovius</signed>
+</closer>
+<closer rend="paragraph">
+<salute>Il mio indirizzo in Roma sarebbe per tutto il mese di Giugno ancora presso <seg type="comment"><orig>il <persName key="G001375">Signor Lindemann</persName></orig><note xml:id="ncqh_1d5_zlb">Gregorovius’ Freund, der Maler Karl August Lindemann-Frommel (1819–1891), hatte sich 1856 dauerhaft in Rom niedergelassen.</note></seg> <placeName key="ediarum_o24_dd5_zlb"><lb/>Via del Babuino</placeName> n<ex>umero</ex> 39.</salute>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

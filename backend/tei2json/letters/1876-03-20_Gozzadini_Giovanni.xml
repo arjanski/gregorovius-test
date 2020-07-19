@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067776">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. Rom, 20. März 1876 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell’Archiginnasio</institution><collection>Ms. Gozzadini 442</collection><idno>(25)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die Glückwünsche zu seiner Ernennung zum römischen Ehrenbürger. Er konnte das Ehepaar Gozzadini in Bologna nicht besuchen, da er zu seiner sterbenden Freundin, Auguste Lindemann-Frommel, nach Rom eilen mußte. Über die Ehre durch das Land, das durch Menschen wie die Gozzadini würdig repräsentiert wird. </p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1876-03-20" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni conte (1810–1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">13. März 1876 (H: BSB München, NL Gregorovius, Gregoroviusiana 18, 41)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Roma, 20. Marzo 1876.</dateline>
+                    <salute rendition="#c"> Illustre Signor Conte,</salute>
+                </opener>
+<p>la sua graziosissima lettera mi raggiunge <seg type="comment"><orig>in <placeName key="G000729">Modena</placeName></orig><note xml:id="ndtj_2dw_zlb">Er war am 15. März in Modena eingetroffen, wo er bis zum 17. bleiben sollte. Von dort reiste er nach Rom weiter, am 18. März kam er an (siehe RT, 20.5.1876, S. 363).</note></seg>, di dove volli portarmi a Bologna, onde ossequiare V<ex>ostra</ex> S<ex>ignoria</ex> e quella della gentilissima <persName key="G001092">Contessa</persName>, ma purtroppo la mia speranza fallì; chè per telegrafo venni chiamato a Roma da un <persName key="G001375">mio intimo amico</persName>, di cui <seg type="comment"><orig>la <persName key="G001374">consorte</persName> stava per morire</orig><note xml:id="nu3q_fdw_zlb">Auguste Lindemann-Frommel, geb. von Racknitz (*1826), die Frau seines Freundes, des Malers Karl Lindemann-Frommel (1819–1891), zählte zu Gregorovius’ Freunden. Gemeinsam mit dem Sohn des Paares, Manfred (1852–1939), war er nach Italien aufgebrochen (siehe RT, 20.5.1876, S. 363). Auguste verstarb nach längerer Krankheit am 18. März: „Ich kam jetzt als Ehrenbürger in die Stadt, aber in dies frohe Bewußtsein fiel als Schatten der Tod meiner Freundin, welche durch so lange Jahre die Zeugin meiner Arbeiten und in vieler Hinsicht auch mein guter Genius gewesen war. Ich fand sie noch lebend, der Anblick ihres Todeskampfes war herzerschütternd. Sie erkannte mich noch. Ihr letztes Lächeln galt der Freude, daß ich gekommen war. Um 11 Uhr nachts verschied sie. Wir begruben sie an der Pyramide des Cestius am 21. März […]. Der Tod dieser herrlichen Frau bezeichnet einen Abschnitt in meinem Leben; denn mit ihr begrub ich in Rom einen großen Teil von dem, was seit langen Jahren hier meinem Gemüt Pflege und Ermunterung gegeben hatte. Diese Stelle ist nun leer und in das Reich der Erinnerungen fortgerückt wie so vieles andere.“ (RT, 20.5.1876, S. 363–364).</note></seg>. Di fatti giunsi qui poche ore prima che quella distintissima signora spirasse. Per questa tristissima cagione persi il bene di fermarmi in Bologna, ed ora che sto in Roma mi sollecito di ringraziare le Signorie vostre di quei sentimenti di generosa simpatia, che <seg type="comment"><orig>mi hanno espresso in quella lettera</orig><note xml:id="nk2c_hdw_zlb">Auch im Namen seiner Frau hatte Gozzadini dem deutschen Freund zur Ernennung zum römischer Bürger am 13. März in einem Schreiben gratuliert; siehe den Brief von Giovanni Gozzadini an Gregorovius vom 13.31876 (BSB München, NL Gregorovius, Gregoroviusiana 18 -41 [Akz.-Nr.: 10/00/187]). Die Ernennung war bei einer Sitzung des römischen Gemeinderates am 8. März beschlossen worden, vorausgegangen war eine von vier Abgeordneten eingebrachte Petition; siehe dazu den Brief von Gregorovius an Pietro Venturi vom 17.3.1876.</note></seg>. Per vero nel sentire la voce affettuosa dei Gozzadini di Bologna, che si congratulavano meco dell’alta dignità a cui testè sono stato elevato fuori <seg type="comment"><orig>di ogni mio merito</orig><note xml:id="nvpb_3dw_zlb">Gregorovius war für eine „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) mit der Ehrenbürgerwürde Roms ausgezeichnet worden.</note></seg>, parevami di raccogliere non solo i voti d’applauso dalla parte di amici generosi, ma sì ancora quelli dell’<placeName key="G000690">Italia</placeName>, che sì degnamente è rappresentata da Lei, <pb n="2"/>Signor Conte, e dalla nobilissima signora Contessa <seg type="comment"><orig>discendente della più gloriosa casa di cui l’Italia si possa vantare</orig><note xml:id="nszn_jdw_zlb">Die Gräfin Gozzadini entstammt der Familie Serego Alighieri, zu deren Vorfahren Dante (1265–1321) zählt.</note></seg>. </p>
+<p>Tante ed infinite grazie!</p>
+<p>Coi sensi della più venerazione sono delle Signorie Vostre </p>
+                <closer>
+                    <salute rendition="#right">servitor devoto ed affettuoso <lb/>e concittadino Italiano</salute>
+                    <signed rendition="#right">Ferdin. Gregorovius </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

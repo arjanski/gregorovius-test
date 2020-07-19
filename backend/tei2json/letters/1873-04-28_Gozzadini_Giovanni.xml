@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067729">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. Rom, 28. April 1873 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Bologna, Biblioteca dell’Archiginnasio</repository><collection>Ms. Gozzadini 442 </collection><idno>(15)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 1 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die Übersendung von Gozzadinis „Memorie per la vita di Giovanni II. Bentivoglio“ (1839). Er benötigt das Buch für die zweite Auflage des achten Bands seiner „Geschichte der Stadt Rom im Mittelalter“ (1874). Grüße an Maria Teresa Serego Alighieri Gozzadini.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1873-04-28" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni conte (1810–1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Roma, 28. Aprile 1873.</dateline>
+                    <salute rendition="#c">Illustre Signor Conte,</salute>
+                </opener>
+<p><seg type="comment"><orig>ebbi il bene di ricevere <bibl sameAs="G004768">il suo libro intorno la vita e l’epoca di Giovanni Bentivoglio</bibl></orig><note xml:id="nuhp_vyz_ylb">Zehn Tage zuvor hatte Gregorovius den Grafen um Zusendung dieses Buches gebeten, da er es in Rom nicht auftreiben konnte; siehe den Brief von Gregorovius an Giovanni Gozzadini vom 10.4.1873. Es handelt von dem aus Bologna stammenden Adligen Giovanni II. Bentivoglio (1443–1508).</note></seg>, il quale avidamente perleggerò, <seg type="comment"><orig>servendomene per la <bibl sameAs="G003435">nuova edizione dell’ ultimo volume della mia storia di Roma</bibl></orig><note xml:id="nmtw_wyz_ylb">Die zweite, überarbeitete und erweiterte Auflage des achten und letzten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ sollte 1874 erscheinen.</note></seg>. Nel mentre io la ringrazio vivamente della sua liberalità, mi sento anche con grandissimo mio piacere debitore dell’ animo generoso della <persName key="G001092">Signore Contessa</persName>, dalla di cui parte mi viene quel prezioso dono.</p>
+<p>A lor Signorie tutto riconoscente si raccommanda </p>
+                <closer>
+                    <salute rendition="#right">lor servitor osseguioso</salute>
+                    <signed rendition="#right">Ferd. Gregorovius.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

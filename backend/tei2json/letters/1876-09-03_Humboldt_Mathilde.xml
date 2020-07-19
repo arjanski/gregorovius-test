@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067880">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Mathilde von Humboldt in Ottmachau. München, 3. September 1876</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>SBB-PK</repository><idno>derzeit Biblioteka Jagiellońska Krakau</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 1 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 2–3 (nach h1)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er war vier Wochen in Traunstein, wo er die letzten Tage von seinem Bruder Julius und seiner Halbschwester Ottilie Elgnowski mit ihrem Sohn Hermann besucht wurde. Mit ihnen war er in Salzburg und am Königssee. Die gemeinsame Wohnung in München ist schon wohnlicher. Das von Manfred Lindemann-Frommel stammende Wappen der Stadt Rom findet erst nach dessen Ankunft in München seinen Platz. Er will im September seinen Studienort Karlsruhe mit München vertauschen. Die Überlegung von Karl Lindemann-Frommel, nach dem Tod seiner Frau Auguste von Rom nach Deutschland überzusiedeln hält er für keine gute Idee; derzeit betreibt er Studien in Anzio. In München findet die Kunst- und Kunstgewerbeausstellung statt und in Bayreuth wurde auf den ersten Festspielen der „Ring des Nibelungen“ vor prominenten Publikum zu Gehör gebracht. Er kann die Begeisterung der Frauenwelt, darunter Marie Gräfin von Schleinitz und Marie Gräfin von Dönhoff, für diese Musik nicht nachvollziehen. Er will bis in den Winter in München bleiben – trotz seiner Ehrenbürgerschaft gehört Rom für ihn jetzt der Vergangenheit an. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1876-09-03" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001304">Humboldt, Mathilde von (1830-1897)</persName>
+<placeName key="G000746">Ottmachau</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">München, 3. <hi rendition="#aq">Sept<ex>em</ex>b<ex>e</ex>r</hi> 1876.</dateline>
+                    <salute rendition="#c">Verehrte Freundin,</salute>
+                </opener>
+<p>tausend Dank für Ihre freundlichen Zeilen, die ich bei meiner <seg type="comment"><orig>Rückkehr aus <placeName key="G000888">Traunstein</placeName> hier vorfand. Ich war nämlich wieder in jenem kleinen Badeort gewesen, allein, u<ex>nd</ex> 4 Wochen lang, bei einer ganz erquickenden, fast italienischen Witterung – sodann waren die Meinigen zu mir gekommen, </orig><note xml:id="nrm3_33g_wkb">Gregorovius hatte sich von Ende Juli bis zum 1. September 1876 in Traunstein aufgehalten (siehe RT, S. 373), wo er die letzten Tage von seinem Bruder Julius (1819–1891) und seiner Halbschwester Ottilie Elgnowski (1834–1907) mit ihrem Sohn Hermann besucht wurde.</note></seg>wir machten nun kleine Reisen nach <placeName key="G000867">Salzburg</placeName> und bis zum <placeName key="ediarum_cnf_psl_hmb">Königssee</placeName>, u<ex>nd</ex> kehrten sodann in unsre Hölen hier zurück. Diese sind etwas menschlicher <pb n="1v"/>und auch idealer geworden – wir haben rote <seg type="comment"><orig>Portieren</orig><note xml:id="nu53_k3g_wkb">Vorhänge vor den Türen.</note></seg> angebracht, u<ex>nd</ex> Fenstervorhänge und andern Übermut von Papier u<ex>nd</ex> Gold: so daß wir uns einbilden, wir wohnten in einem Palast. Das <seg type="comment"><orig>Wappen der Stadt <placeName key="G000763">Rom</placeName> von <persName key="G001375">Lindemann’s</persName> <persName key="G001376">Sohn</persName></orig><note xml:id="nz45_43g_wkb">Manfred Lindemann-Frommel (1852–1939) hatte Gregorovius ein Famileinwappen zu dessen Ehrenbürgerdiplom gemalt (nach dem Brief von Gregorovius an Manfred Lindemann-Frommel, 13.7.1876; Universität Würzburg, Martin-von-Wagner-Museum, NL Lindemann-Frommel, L 36–64, XVIII).</note></seg> ist aber noch geblieben wie es war, bis Manfred selbst herkommt. <seg type="comment"><orig>Er vertauscht nämlich München mit <placeName key="G000696">Karlsruhe</placeName> </orig><note xml:id="nbqr_r3g_wkb">Manfred Lindemann-Frommel wollte künftig statt in Karlsruhe in München studieren (nach den Briefen von Gregorovius an Manfred Lindemann-Frommel, 24.6.1876 und 13.7.1876; Universität Würzburg, Martin-von-Wagner-Museum, NL Lindemann-Frommel, L 36–64, XVII–XVIII).</note></seg>–oder vielmehr <hi rendition="#aq">K<ex>arlsruhe</ex></hi> mit <hi rendition="#aq">M<ex>ünchen</ex></hi> – u<ex>nd</ex> zieht hier am Ende <hi rendition="#aq">Sept<ex>em</ex>b<ex>e</ex>r</hi> an. <seg type="comment"><orig>Sein Vater, der jetzt in Porto d’<placeName key="ed_tgx_1yq_vlb">Anz<supplied cert="high">i</supplied>o</placeName> Studien macht</orig><note xml:id="nghc_z3g_wkb">Der ursprünglich zur Erholung geplante Aufenthalt in Anzio im August / September 1876 wurde dann doch für Studien genutzt. Aus Anzio schreibt Manfred Lindemann-Frommel (1819–1891) seinem Sohn Manfred (1852–1939) lange Briefe (19.8.1876, 5.9.1876 und 12.9.1876 in: Peter K. W. Freude: Karl Lindemann-Frommel. Ein Malerleben in Rom. Monographie und Werkverzeichnis seines graphischen und malerischen Schaffens. Murnau am Staffelsee 1997. S. 76–78).</note></seg>, will auch <seg type="comment"><orig>ab u<ex>nd</ex> zu nach <hi rendition="#aq">M<hi rendition="#aq">ünchen</hi></hi> kommen, doch glaube ich, daß dies kaum Boden für seine Kunst ist – er könnte hier <pb n="2r"/>weder mit dem localen Geschmack, noch auch vielleicht mit der Virtuosität concurriren, u<ex>nd</ex> thäte am besten in seinem alten römischen Fahrwasser zu bleiben. Die Veränderung, welche mit ihm vorgegangen ist, ist eine sehr große: er wird eine ganze Philosophie nötig haben, um sich darein zu finden. Aber am Ende – so traurig, so wahr ists doch – die Todten reiten schnell – u<ex>nd</ex> über alle Gräber wächst das Gras</orig><note xml:id="nn14_cjg_wkb">Nach dem Tod von Auguste Lindemann-Frommel am 18. März 1876 hatte ihr Mann Karl Lindemann-Frommel erwogen, von Rom nach Deutschland überzusiedeln, sich aus finanziellen Gründen aber bald dagegen entschieden (siehe Peter K. W. Freude: Karl Lindemann-Frommel. Ein Malerleben in Rom. Monographie und Werkverzeichnis seines graphischen und malerischen Schaffens. Murnau am Staffelsee 1997. S. 75).</note></seg>. Wäre es nicht so, wie sollte der Mensch dann leben.</p>
+<p><seg type="comment">Hier haben wir die <orig>Kunstausstellung</orig><note xml:id="nvmm_djg_wkb">Zum 25-jährigen Bestehen des Münchener Kunstgewerbevereins wurde vom 14. Juni bis 15. Oktober 1876 unter dem Motto „Unser Väter Werk“ eine viel beachtete große deutsche Kunst- und Kunstgewerbeausstellung im Münchener Glaspalast veranstaltet (siehe Carl Albert Regnet: Führer durch die Kunst- &amp; Kunstgewerbe-Ausstellung in München. Wien 1876). Der 1854 (zunächst als temporäres) Ausstellungsgebäude nach Plänen von August von Voit (1801-1870) auf dem Gelände des Alten Botanischen Gartens in der Münchner Innenstadt erbaute Glaspalast brannte 1931 ab (https://www.historisches-lexikon-bayerns.de/Lexikon/Glaspalast,_M%C3%BCnchen).</note></seg> – u<ex>nd</ex> hatten das große <seg type="comment"><orig>Fest des <seg type="comment"><orig><persName key="G067853">Wischnu</persName></orig><note xml:id="nhgc_2jg_wkb">Neben Schiwa und Brahma der Hauptgott im Hinduismus, der Gott der Gerechtigkeit, des Ausgleichs und der Dauerhaftigkeit.</note></seg> in <placeName key="ed_ug4_2tl_hmb">Bayreuth</placeName></orig><note xml:id="nsn2_gjg_wkb">Die ursprünglich schon für 1873 geplanten ersten Bayreuther Festspiele standen wegen der prekären finanziellen Planung und der explodierenden Kosten für das nach Plänen von Otto Brückwald (1841–1917) erbaute Festspielhaus (Richtfest 1871), das einzig der Aufführung der zehn letzten Opern Richard Wagners (1813–1883) gewidmet ist, immer wieder in Frage. Die ersten Festspiele begannen am 13. August und boten an drei Tagen und einem Vorabend bis zum 30. August 1876 die Uraufführung des kompletten „Rings des Nibelungen“ unter der musikalischen Leitung von Hans Richter (1843–1916). Trotz des großen Erfolgs beim Publikum blieben am Ende Schulden in Höhe von 148 000 Mark, so dass die nächsten Festspiele erst 1882 stattfinden konnten. – Siehe auch die heftigen Äußerungen von Gregorovius zu Wagner und den ersten Bayreuther Festspielen als „Rückschritt“ und „falsches Strebennach Nationalität“ in den Briefen an Louis Köhler, 19.12.1876 und an Ludwig Friedländer, 22.12.1876 (in: Ferdinand Gregorovius: Briefe nach Königsberg. Hrsg. von Dominik Fugger und Nina Schlüter. München: Beck 2013. S. 124–125 und 126).</note></seg>, wo die fanatisirte Frauenwelt sich förmlich von dem großen Götzenwagen hat zerquetschen lassen – <pb n="2v"/>es soll schauderhaft gewesen sein – Hitze, Hunger, Finsterniß und stundenlanger Blödsinn aus der <seg type="comment"><orig>Edda</orig><note xml:id="nzbc_fjg_wkb">Eine Sammlung altnordischer Götter- und Heldenlieder des 13. Jahrhunderts.</note></seg> mit Lindwürmern, ungeheuren Riesen, daumengroßen Zwergen, der <seg type="comment"><persName key="G001580"><orig>Frau von Schle<ex>initz</ex></orig></persName><note xml:id="nzdj_hjg_wkb">Die Berliner Salonnière Marie Gräfin von Schleinitz-Wolkenstein (1842–1912), die Ehefrau des preußischen Ministers Alexander von Schleinitz (1807–1885), eine enge Freundin von Cosima Wagner (1837–1930) und Gönnerin Richard Wagners (1813–1883), siehe RT, Sommer des Jahres 1873, S. 332.</note></seg>, der <seg type="comment"><persName key="ed_sqc_35l_hmb"><orig>Dönhoff</orig></persName><note xml:id="nvdm_3jg_wkb">Marie Gräfin von Dönhoff, geb. Becadelli di Bologna (1848–1929), die Frau des in Wien lebenden Diplomaten Karl August Graf von Dönhoff (1833–1906) schwärmte wie ihre Freundin Marie von Schleinitz für die Musik Richard Wagners und verkehrte wie diese in den höchsten aristoratischen Kreisen. Gregorovius kannte Gräfin Dönhoff seit 1873 (siehe RT, S. 332, 385, 401) über seine römischen Verbindungen, denn sie ist die Tochter von Domenico Beccadelli di Bologna (1826–1863), Principe di Camporeale und Laura, geb. Acton, verw. Becadelli di Bologna (1829–1915), die in zweiter Ehe mit dem italienischen Ministerpräsidenten Marco Minghetti (1818–1886) verheiratet war.</note></seg> <seg type="comment"><orig>etc etc.</orig><note xml:id="notq_ljg_wkb">Ein äußerst pominentes Publikum besuchte die ersten Bayreuther Festspiele: zugegen waren u. a. Franz Liszt (1811–1886), Anton Bruckner (1824–1896), Karl Klindworth (1830–1916), Peter Tschaikowski (1840–1893), Lew Tolstoi (1828–1910), Friedrich Nietzsche (1844–1900), Gottfried Semper (1803–1879), Kaiser Wilhelm I. (1797–1888) und König Karl von Württemberg (1823–1891) – der scheue Ludwig II. (1845–1886), der wesentliche Teile des Werks, des Festspielhauses und der Villa Wahnfried finanziert hatte, wohnte nur den Generalproben bei.</note></seg> </p>
+<p>Ich bleibe nun hier bis tief in den Winter hinein, u<ex>nd</ex> wäre nicht das gräßliche Clima, so thäte ich das nicht ungerne. Denn <seg type="comment"><orig>Rom, trotz dem ich sein Bürger bin</orig><note xml:id="nx5b_njg_wkb">Der römische Gemeinderat hatte am 8. März 1876 die Verleihung der Ehrenbürgerwürde der Stadt für Gregorovius beschlossen; am 9. Mai 1876 war ihm das Bürgerdiplom zugegangen (siehe RT, 20.5.1876, S. 368).</note></seg>, ist doch nun eine heilige Legende für mich, und ausgelebt – weh! mir, daß ich das schon so ruhig sagen kann.</p>
+                <closer>
+                    <salute>Bitte, empfehlen Sie mich Ihrer gütigen <persName key="G001303">Frau Mutter</persName>, und seien Sie von <persName key="G001203"><persName key="G001111"><persName key="G001109">uns allen</persName></persName></persName> freundlich gegrüsst.</salute>
+                    <signed rendition="#right">FGregorovius</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

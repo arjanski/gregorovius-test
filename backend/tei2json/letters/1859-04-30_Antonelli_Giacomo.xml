@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000403">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Kardinal Giacomo Antonelli in Rom. Rom, 30. April 1859</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Rom, Archivio Apostolico</repository><collection>Segreteria di Stato 1859</collection><idno>rubr. 47, fol 33 </idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 4°, 1 S. – 33v Eingangs- und Beantwortungsvermerke: 3 maggio 1859. / a monsig<ex>. </ex>Pmo Custode della Biblio. / teca Vaticana pel suo savio parere_ / Hg$ / Nulla osta / Alessandro di SanMarzano / <hi rendition="#u" hand="">Suo Custode</hi> / 10. Mag. / Evaso / <hi rendition="#u" hand="">R. d. 23.</hi></p>
+<p><ref target="G000402" type="hasAttachment">Brief von Alfred von Reumont an Kardinal Giacomo Antonelli, 28. April 1859</ref> (Rom, Archivio Segreto Vaticano, Segreteria di Stato 1859, rubr. 47, fol 30)</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er bittet um Zugang zur Vatikanischen Bibliothek, um Manuskripte von Pietro Mallio, Nicolò Signorili und Pier Luigi Galletti einsehen zu können. Er legt ein Empfehlungsschreiben von Alfred von Reumont bei.</p>
+                <p xml:lang="en">He asks for access to the Vatican Library to consult manuscripts by Pietro Mallio, Nicolò Signorili and Pier Luigi Galletti. He encloses a letter of recommendation from Alfred von Reumont.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1859-04-30" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G000933">Antonelli, Giacomo (1806–1876)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<salute>A <lb/>Sua Eminenza Reverendissima <lb/>Il Signor <seg type="comment"><orig>Cardinale Antonelli</orig><note xml:id="nu22_cv1_vlb">Der aus Sonnino, Region Latium, stammende Giacomo Antonelli (1806–1876) wurde 1847 zum Kardinal ernannt und war seit 1848 Kardinalstaatssekretär des Kirchenstaates. Er galt als diplomatisch versiert und guter Finanzier, auch organisierte er in späteren Jahren die Kirchenfinanzen neu. Gregorovius berichtete im Tagebuch am 30. April 1856 von einer Begegnung mit ihm: „[…] Antonelli war nur mit Damen beschäftigt. Man hält ihn für einen sehr geistreichen Mann.“ (RT, 30.4.1856, S. 61). Eine über den vorliegenden Brief hinausgehende Korrespondenz ist nicht erhalten.</note></seg> <lb/>Segretario di Stato di Sua Santità.</salute>
+</opener>
+                <p>il sottoscritto si prende la libertà di chieder umilmento Sua Eminenza volesse degnarsi <seg type="comment"><orig>di concedergli l’accesso alla <orgName key="G000506">biblioteca Vaticana</orgName></orig><note xml:id="nbr3_fv1_vlb">Im Tagebuch vermerkte Gregorovius den Beginn seiner Arbeiten in der Vatikanischen Bibliothek für den 24. Mai 1859: „Die gute Aufnahme, die ich dort beim Kustoden San Marzano fand, verdanke ich wohl dem Briefe Reumonts an Kardinal Antonelli.“ (RT, 27.5.1859, S. 79).</note></seg>; egli desidera di veder certi codici, come del <seg type="comment"><orig><persName key="G001394">Pietro Mallio</persName></orig><note xml:id="nuyz_fv1_vlb">Pietro Mallio war Kanoniker zur Zeit des Pontifikats Alexanders III. (1159–1181) und verfasste eine Beschreibung von Sankt Peter: Descriptio Basilicae Vaticanae.</note></seg>, del <persName key="G001605"><seg type="comment"><orig>Signorili</orig><note xml:id="npfw_gv1_vlb">Der Notar Nicolò Signorili (†1428/29), Kenner der kapitolinischen und römischen Verwaltung, veröffentlichte 1425 das Buch „De iuribus et excellentiis Urbis Romae“. Diese Auflistung der Rechte und der Rechtsprechung der Kommune Rom hatte den Zweck, die päpstliche Macht, die Martin V. während seines Pontifikats (1417–1431) wiederherzustellen versuchte, mittels vergessener Normen zu legitimieren. Teil des komplexen Werkes ist eine historische Beschreibung Roms, seiner Institutionen und Rechte.</note></seg></persName>, del <persName key="G001154"><seg type="comment"><orig>Galletti</orig><note xml:id="nusn_hv1_vlb">Der Benediktiner, Historiker und Archäologe Pier Luigi Galletti (1722–1788) hatte zahlreiche Abschriften von Quellenmaterial zu den ältesten, römischen Kirchen erstellt und zur Geschichte der frühen Kurie geforscht: Inscriptiones Venetae infimi aevi Romae exstantes. Rom 1757–1766; Del Vestarario della santa Romana chiesa. Rom 1758; Del Primicerio della S. Sede Apostolica e di altri Uffiziali Maggiori del Sacro Palazzo Lateranense. Rom 1776. Zu Gallettis Arbeit äußert sich Gregorovius in einem Brief an Sebastiano Kalefati vom <ref target="G000427">6.6.1861</ref>.</note></seg></persName>, in cui si tratta di materia di archeologia dei tempi antichi e del medio Evo. Onde introdursi qual’ uno, che per causa di gravi e faticosi studj abbia bisogno di quel favore, che Sua Eminenza suol concedere a professori di lettere di qualunque nazione, <seg type="comment"><orig>il sottoscritto si onora di acchiudervi una lettera del <persName key="G001545">baron de Reumont</persName></orig><note xml:id="ngwh_jv1_vlb">Das Empfehlungsschreiben des Leiters der preußischen Gesandtschaft in Florenz, Alfred von Reumont (1808–1887), an Kardinal Giacomo Antonelli vom 28.4.1859 (Rom, Archivio Segreto Vaticano, Segreteria di Stato 1859, rubr. 47, fol 30).</note></seg>, Ministro Prussiano residente a <placeName key="G000671">Firenze</placeName>, ed egli prega con calde e divote preghiere, che gli si dia la licenza desiderata di modo, ch’ egli possa approfitarsene in queste settimane, essendo che' egli parte presto da Roma.</p>
+                <closer>
+<salute rendition="#c">Di Sua Eminenza Reverendissima <lb/>umilissimo et devotissimo Servo</salute>
+<signed rendition="#c">Dr. Ferdinando Gregorovius di <placeName key="G000646">Prussia</placeName></signed>
+<dateline>Roma, 30 Aprile 1859 <lb/><placeName key="ediarum_tcc_4nv_slb">Via delle Purificazione</placeName> N<ex>ume</ex>ro 63.</dateline>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

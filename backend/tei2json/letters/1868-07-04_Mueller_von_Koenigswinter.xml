@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000267">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Wolfgang Müller von Königswinter in Köln. Rom, 4. Juli 1868</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Historisches Archiv Köln</repository><collection>NL Wolfgang Müller von Königswinter</collection><idno>Best. 1141</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ½ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Durch Karl Voß lässt er Müller von Königswinter den vorliegenden Brief mit seinen Dank für dessen Sonettsammlung „Der Pilger in Italien“ (1868) zukommen. Er hofft, ihn bald in Rom wiederzusehen, was durch die neu eröffnete Brennerbahn jetzt leichter möglich ist. Als er im letzten August kurz in Köln war, blieb keine Zeit ihn zu besuchen, auch erwartete er nicht ihn anzutreffen. Im Sommer will er für Bibliotheksarbeiten nach München.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1868-07-04" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001434">Müller von Königswinter, Wolfgang (1816–1873)</persName>
+<placeName key="G000698">Köln</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi>, 4. <hi rendition="#aq">Juli</hi> 1868.</dateline>
+                    <salute rendition="#c">Verehrter <?oxy_comment_start author="Angela Steinsiek" timestamp="20190104T214503+0100" comment="Peter Wilhelm Karl Müller, ab 1845 führte er den Künstlernamen Wolfgang Müller von Königswinter (1816–1873)"?>Herr<?oxy_comment_end?>,</salute>
+                </opener>
+<p>ich benütze die Güte von <persName key="G001695">Herrn <?oxy_comment_start author="Angela Steinsiek" timestamp="20190104T214514+0100" comment="Der aus Köln gebürtige klassizistische Bildhauer Karl Voß (1825–1896), der von 1850 bis 1894 in Rom lebte, hatte Müller von Königswinter bereits am 9. April 1868 gedankt: „Ihre schönen Sonette habe ich den 20. März durch Herrn Gregorovius erhalten und bin Ihnen unentlich dankbar für die schönen Poesien, in denen Sie meiner freundlichst gedachten. Herr Gregorovius hat mir aufgetragen, Ihnen in seinem Namen seine Dankbarkeit auszusprechen, und es hat ihn gefreut, eine so schöne Sprache in Ihren Sonetten gefunden zu haben.“ (Paul Luchtenberg: Wolfgang Müller von Königswinter. 2 Bde., Bd. 2. Köln: Verlag der Löwe, H. Reykers 1959. S. 326) An Karl Voß ist das 95. Sonett (S. 95) von Müller von Königswinter betitelt."?>Voß<?oxy_comment_end?></persName>, um Ihnen diese Zeilen zukommen zu laßen, Ihnen auf das herzlichste für die Übersendung Ihrer schönen <bibl sameAs="G004284">Sonette</bibl> zu danken. Sie haben darin als ein gedankenreicher Mann in schönster Form Ihr italienisches Tagebuch niedergelegt, und Ihre Verse werden vielen Landsleuten eine anregende Begleitung durch dies unerschöpfliche Wunderland darbieten.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190104T214528+0100" comment="Sein Buch „Der Pilger in Italien“ (Leipzig: Brockhaus 1868) ist der 180 Sonette umfassende dichterische Ertrag seiner Italienreise in den Jahren 1853 und 1865. Gregorovius hatte ihn zusammen mit dem katholisch-rheinischen Dichter Christian Joseph Mazerath (1815–1876) im April 1865 in der römischen Villa Albani kennengelernt (siehe RT, S. 193)"?> <?oxy_comment_end?></p>
+<p>Lassen Sie uns hoffen, Sie bald wieder u<ex>nd</ex> auf längere Zeit in Rom zu sehen, wohin <pb n="1v"/>Sie jetzt die um vieles leichtere Communication durch die neue <?oxy_comment_start author="Angela Steinsiek" timestamp="20190104T214545+0100" comment="Die Brennerbahn wurde am 24. August 1867 eröffnet und fuhr zwei Mal täglich von Innsbruck nach Botzen über den Brenner."?>Brennerbahn<?oxy_comment_end?> einladet. Im vorigen Jahr gedachte ich Ihrer lebhaft, da ich Ihrem schöngelegenen <placeName key="G000700">Geburtsort</placeName> am <placeName key="G000901">Rhein</placeName> vorüberfuhr. Ich war auch in Cöln, aber nur 1 Nacht und ½ <?oxy_comment_start author="Angela Steinsiek" timestamp="20190104T214601+0100" comment="Am 6.-7. August 1867 (siehe RT, S. 230)"?>Tag<?oxy_comment_end?>, so daß es mir nicht möglich war, Sie aufzusuchen – zumal ich zweifeln mußte, daß Sie (im August) dort zu finden wären. Vielleicht fügt es <pb n="2r"/>ein günstiger Zufall, daß ich Sie im Sommer in <placeName key="G000734">München</placeName> sehe, wohin ich bald abreise, die dortige <orgName key="G000510">Bibliothek</orgName> zu benutzen.</p>
+<p>Ihnen das schönste Lächeln der Muse u<ex>nd</ex> des Glückes wünschend</p>
+                <closer>
+<salute rendition="#right">Ihr aufrichtig ergebener</salute>
+<signed rendition="#right">FGregorovius.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

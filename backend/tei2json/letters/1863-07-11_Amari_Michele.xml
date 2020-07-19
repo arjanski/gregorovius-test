@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000315">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Michele Amari in Turin. Turin, 11. Juli 1863</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname>
+                        <forename>Frederike</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Palermo, Biblioteca Centrale della Regione Siciliana</repository><collection>Carteggio Amari</collection><idno><idno>3893 </idno> </idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 1 S. </p>
+<p>Eine Karte: „Intanto mi potrebbe far il bene, di legger questa acchiusavi carta“ </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er konnte Michele Amari gestern leider nicht empfangen und reist heute nach München ab. Im September wird er in Florenz sein. Er bittet um Empfehlungen für die Archive in Bologna, Neapel und Siena. Dem Brief liegt eine Karte bei.</p>
+                <p xml:lang="en">Unfortunately, he could not receive Michele Amari yesterday and is leaving for Munich today. In September he will be in Florence. He asks for recommendations for the archives in Bologna, Naples and Siena. A card is enclosed with the letter.</p>
+            </abstract>
+            <correspDesc>
+<correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000893">Turin</placeName>
+                    <date when="1863-07-11" cert="high"/>
+</correspAction>
+<correspAction type="received">
+<persName key="G000924">Amari, Michele (1806–1889)</persName>
+<placeName key="G000893">Turin</placeName>
+</correspAction>
+</correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<salute rendition="#c">Gentilissimo <seg type="comment"><orig>Signore</orig><note xml:id="nt52_m1r_vlb">Michele Amari (1806–1889) war Historiker und Orientalist, Universitätsprofessor für arabische Sprache (Pisa 1859, Florenz 1859 und 1864–1878) und Politiker. Nach dem Anschluss Siziliens an das Königreich Italien (1861) wurde er zum Senator ernannt, von 1862–1864 leitete er das Ministero dell’Istruzione Pubblica (Dt.: Bildungsministerium). Gregorovius lernte Amari im September 1861 in Florenz kennen (siehe RT, 17.9.1861, S. 137). Eines der bedeutendsten, von Gregorovius sehr geschätzten Werke Amaris ist die „Storia dei musulmani di Sicilia“ (3 Bde., Florenz: Le Monnier 1853–1873). Siehe „Siciliana. Wanderungen in Neapel und Sizilien“ (1861), S. 93 sowie den Brief von <ref target="G000064">Gregorovius an Theodor Heyse, 17.9.1855</ref>.</note></seg>,</salute>
+</opener>
+<p>quanto mi dispiace, di non aver potuto ricevere la sua visita di ieri non so dirle; <seg type="comment"><orig>oggi devo partire alle 8 ore et mezza</orig><note xml:id="nejs_n1r_vlb">Vermutlich schrieb Gregorovius den Brief in Turin am Morgen des 11.7.1863, d. h. am Tag seiner Abreise nach München (siehe RT, 14.7.1863, S. 163).</note></seg>; devo dunque rinunciare a rivederla; ma spero di trovarla a <placeName key="G000671">Firenze</placeName> nel mese di Settembre. Intanto mi potrebbe far il bene, di legger<del rendition="#s">e</del> questa acchiusavi carta; vorrei pur pregarla di <seg type="comment"><orig>scrivermi raccomandazioni per gli archivi di <orgName key="G000465">Bologna</orgName>, di <orgName key="G000565">Napoli</orgName>, e di <orgName key="G000566">Siena</orgName></orig><note xml:id="nmhv_p1r_vlb">Gregorovius erhielt von Amari Empfehlungen für die Archive in Bologna und Siena. Die Dokumente vom 12., 16. und 18.9.1863 (Bologna und Toskana) finden sich heute in Rom im Archivio Centrale dello Stato (Min. Pub. Istr., Personale 1860–1880, Gregorovius, busta 165). Im Tagebuch heißt es darüber am 20.9.1863: „Ich fand Briefe Amaris auf der Post, die mich an den Grafen Carlo Pepoli [Conte Carlo Pepoli (1796–1881)] empfahlen, den Syndikus Bolognas“ (S. 168) und am 4.10.1863: „Amari hatte mich von Turin aus empfohlen“ (S. 170).</note></seg>. Di questo potrei scriverle da <placeName key="G000734">Monaco</placeName>, per dove parto.</p>
+                <closer>
+                    <salute rendition="#c">Io la saluto di cuore,</salute>
+                    <signed rendition="#right">Gregorovius.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

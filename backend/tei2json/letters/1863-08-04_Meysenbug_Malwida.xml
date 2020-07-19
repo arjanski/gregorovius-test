@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000181">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Malwida von Meysenbug auf Capri. München, 4. August 1863</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>116/107 (4)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 5 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 86, Mappe 2 (nach D1)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Berta Schleicher: Ferdinand Gregorovius und Malwida von Meysenbug. Unveröffentlichte Briefe. In: Der Türmer. Monatsschrift für Gemüt und Geist. Jg. 25. H. 4. Stuttgart 1923. S. 238–239 (gekürzt, ungenau)</bibl> </witness>
+<witness> <bibl type="print">Berta Schleicher: Aus Briefen von Ferdinand Gregorovius an Malwida von Meysenbug. In: Almanach der Rupprecht-Presse auf die Jahre Neunzehnhundertsechundzwanzig-Achtunszwanzig. 1926 / 1927 /1928. Bd. 4. München: Beck [1926]. S. 34–35 (Auszug)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er vermutet sie mit den Lindemanns auf der Insel Capri. Auguste Lindemann-Frommel kann ihr von seiner Schweizer Rheinreise berichten. Er war so elend, dass er selbst den Anblick des Gotthard nicht genießen konnte; erst Schaffhausen und der Rheinfall belebten ihn. Seit dem 26. Juli ist er für Bibliotheksarbeiten in München. Ende August will er vielleicht nach Salzburg und erst Ende September nach Italien zurück. Wie einst ihm, werden Olga und Natalie Herzen die Landschaftserfahrungen auf Capri wohl tun. Er kommt nicht dazu, Friedrich Althaus zu schreiben oder Olga und Natalie Herzen Pfefferkuchen von der Münchner Dult zu schicken.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He assumes she is on the island of Capri with the Lindemanns. Auguste Lindemann-Frommel can tell her about his trip to the Swiss Rhine. He was so miserable that he could not even enjoy the sight of the Gotthard; it was only Schaffhausen and the Rhine Falls that revived him. Since July 26th, he has been in Munich to work in the library. He may want to go to Salzburg at the end of August and return to Italy only at the end of September. Like he once did, Olga and Natalie Herzen will enjoy the landscape experiences on Capri. He has not gotten around to writing to Friedrich Althaus or to sending Olga and Natalie Herzen Pfefferkuchen from the Munich Dult. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1863-08-04" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001418">Meysenbug, Malwida von (1816–1903)</persName>
+<placeName key="G000653">Capri</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<dateline rendition="#c">München, 4. <hi rendition="#aq">August</hi> 63.</dateline>
+</opener>
+<p>Wenn alle Menschen Ihre<choice><corr cert="high">Ihren</corr></choice> Traum besäßen, verehrte Freundin, so würden keine Kriege mehr geführt werden, die Wölfe mit den Lämmern weiden, und <hi rendition="#aq"><persName key="G067790"><seg type="comment"><orig>Febus</orig><note xml:id="njbs_xbj_cmb">Von Phoebus, dem Beinamen des griechischen Sonnengottes Apollon.</note></seg></persName></hi> würde nur Glückliche bescheinen. Dies meine ich in Bezug darauf, daß Sie so schön Wort gehalten haben.</p>
+<p><seg type="comment"><orig>Ich denke Sie mir jetzt in dem märchenhaften <hi rendition="#aq">Capri</hi></orig><note xml:id="npkv_ybj_cmb">Malwida von Meysenbug war mit ihren Pflegetöchtern Olga (1850–1953) und Natalie Herzen (1844–1936) im April 1863 nach Rom gekommen (siehe RT, 5.4.1863, S. 159). Mit den gemeinsamen Freunden Karl und Auguste Lindemann-Frommel und deren Sohn Manfred hielt sie sich seit Juli 1863 für zwei Monate in Capri und dann in Neapel auf (siehe den Brief von Gregorovius an Malwida von Meysenbug vom <ref target="G000188">13.9.1863</ref> und Peter K. W. Freude: Karl Lindemann-Frommel. Ein Malerleben in Rom. Monographie und Werkverzeichnis seines graphischen und malerischen Schaffens. Murnau am Staffelsee 1997. S. 42).</note></seg>, einer Insel der Seligen, oder Stern, der vom Himmel dicht neben das Tollhaus <placeName key="G000737">Neapel</placeName> niederfiel. <seg type="comment"><orig>Ich kenne jeden Punkt dort</orig><note xml:id="nx3c_ccj_cmb">Gregorovius war mit Friedrich Althaus vom 24. Juli bis 22. August 1853 auf Capri und hatte dort zahlreiche Zeichnungen angefertigt (BSB München, NL Gregorovius, Gregoroviusiana 8) und seine Reisebeschreibung „Capri, eine Einsiedelei“ niedergeschrieben, die dann in den Band „Figuren. Geschichte, Leben und Scenerie aus Italien“ einging.</note></seg>, u<ex>nd</ex> grüßen Sie wenn Sie auf der kleinen Marina sitzen die Möwen auf das Beste. Am Sonntag des Morgens, ehe die Sonne aufgeht, können Sie diese meine Geschwister besonders schön singen hören. Ihre Stimme ist wie die einer Harfe. </p>
+<p>Fordern Sie nicht von mir den Bericht meiner <seg type="comment"><orig>Wanderfahrten durch die <placeName key="G000870">Schweiz</placeName>, u<ex>nd</ex> längs des Vaters <placeName key="G000901">Rhein</placeName></orig><note xml:id="ni25_dcj_cmb">Gregorovius war am 8. Juli 1863 von Rom an den Vierwaldstätter See gereist und hielt sich vom 17.-22. Juli 1863 in der Nähe des Schaffhausener Rheinfall auf (RT, 14.-23.7.1863, S. 162–164).</note></seg>. <seg type="comment"><orig><persName key="G001374">Frau <hi rendition="#aq">L<ex>indemann</ex></hi></persName> wird Ihnen überdies davon mitteilen</orig><note xml:id="nng2_hcj_cmb">Ein entsprechender Brief von Gregorovius an Auguste Lindemann-Frommel ist nicht erhalten.</note></seg>. Ich fühlte mich so jammervoll elend, daß ich um den Genuß selbst <pb n="1v"/>der großartigsten aller Naturscenen, den <placeName key="G004678"><hi rendition="#aq">S<ex>ankt</ex></hi> Gotthard</placeName> kam. Erst am Rhein lebte ich wieder auf; <seg type="comment"><orig>ich wohnte 10 Minuten vom <placeName key="G067784">Rheinfall</placeName> 8 Tage</orig><note xml:id="nqc5_hcj_cmb">Am 25. Juli 1863 hielt Gregorovius im Tagebuch fest: „Am 17. auf der neuen badischen Eisenbahn, über Waldshut, nach dem Rheinfall beim Schloß Lauffen. Ich wollte weiter nach Konstanz; aber die Einsamkeit der Station Dachsen reizte mich. Ich blieb diese Tage über hier, zehn Minuten vom Rheinfall, eine halbe Stunde von Schaffhausen entfernt. Nach dieser Stadt gehe ich in der Regel morgens.“ (RT, 23.7.1863, S. 164).</note></seg>, u<ex>nd</ex> saß am Ufer die Füße in das Wasser hängend, was ganz wundervolle Wirkung hatte. Das Land um <placeName key="G000869">Schaffhausen</placeName> ist anmutig, das Grün entzückend – viel heimatliche Wälder voll wehmutigem Rauschen, u<ex>nd</ex> dazu der donnernde Rhein.</p>
+<p>Obwol ich <seg type="comment"><orig>Glücklich jene</orig><note xml:id="nxc2_jcj_cmb">Nicht ermittelt.</note></seg> welche nur 3 Stunden mit von mir wußte, so fühlte ich doch keine innere Anforderung sie zu sehen – dies des dürren u<ex>nd</ex> nichtssagenden Gemales wegen. Ich telegraphirte nur einen Gruß hinüber. Sie alle sind munter u<ex>nd</ex> singen, u<ex>nd</ex> baden im See.</p>
+<p>Seit dem 26. lebe ich in München. Es gefällt mir hier wol – die tägliche Arbeit auf der <orgName key="G000510">Bibliothek</orgName> (nur 4 Stunden lang) schützt mich vor dem Zerfall in mir; in der Stadt gibt es Manches, was zerstreut; sie tönt von Musik an allen Enden; die Luft ist frisch, wenn auch ohne jenen balsamischen Hauch des Südens. Es ist eine biedere u<ex>nd</ex> ehrliche Luft; nichts Verräterisches in ihr. So sind auch die Menschen; ihre Gutmütigkeit, die <pb n="2r"/>Freundlichkeit der Frauen u<ex>nd</ex> Kinder, habe ich sehr gern. Ich laße das alte gute <placeName key="G000664">Vaterland</placeName> auf mich wirken, u<ex>nd</ex> habe jede Waffe des Angriffs auf seine Blößen weit von mir gelegt. Glauben Sie immerhin, dies ist ein herrliches Land. </p>
+<p>Ich <seg type="comment"><orig>bleibe hier den ganzen August</orig><note xml:id="nely_jcj_cmb">Gregorovius blieb bis zum 30. August 1863 in München (siehe RT, 7.-1.9.1863, S. 165–166).</note></seg>, u<ex>nd</ex> <seg type="comment"><orig>gehe dann vielleicht nach <placeName key="G000867">Salzburg</placeName>, u<ex>nd</ex> erst spät im <hi rendition="#aq">Sept<ex>em</ex>ber</hi> in <placeName key="G000690">das Land, wo das <hi rendition="#aq"><foreign xml:lang="ita">dolce si</foreign></hi> erklingt</placeName></orig><note xml:id="nmln_lcj_cmb">Nach einer einwöchigen Reise nach Bad Reichenhall, Berchtesgaden und Salzburg kehrte er am 5. September 1863 für weitere fünf Tage nach München zurück (siehe RT, 1.-9.9.1863, S. 166–167). Über Heiden, Chur, Mailand und Parma reiste er nach Bologna und kehrte am 25. September mit Zwischenstationen in Ravenna, Florenz, Siena und Orvieto am 11. Oktober 1863 nach Rom zurück (siehe RT, 16.9.-14.10.1863, S. 167–172).</note></seg>. So lange als möglich will ich mein Vaterland genießen.</p>
+<p>Grüßen Sie Fräulein <hi rendition="#aq"><persName key="G001267">Natalie</persName></hi> u<ex>nd</ex> <persName key="G001268"><hi rendition="#aq">Olga</hi></persName> von 12 Jahren recht freundlich. Schreiben Sie noch einmal hieher. Leben Sie glücklich in der sonnigen Verklärung jener Zone, wo Luft, Licht u<ex>nd</ex> Farbe eine so selige Harmonie erzeugen, daß, wenn unser Geist als ein Mitklang darin könnte aufgenommen werden, dieses eine wunderbare Existenz der Freude darstellen müßte. Aber den wenigsten ist das durch die an den Sohlen haftenden bleiernen Schicksale vergönnt. Ich ahnte wol diese Stimmung, doch hatte ich sie auf keinem Punkt meines Lebens, welches nur schwermütig u<ex>nd</ex> peinvoll gewesen ist, so lange als ich bin. </p>
+<p><pb n="2v"/>Wenn auch die Jugend vorüber ist, <add place="intralinear">so</add> ging mit ihr zugleich jene plötzliche Blüte des Moments verloren, die wenigstens ein Sonnenstäubchen vom Glück ist, u<ex>nd</ex> dies manchmal ersetzt.</p>
+                <closer>
+<salute xml:id="s1" next="#s2"><seg type="comment"><orig><hi rendition="#aq"><foreign xml:lang="ita">Eh bene</foreign></hi>! <hi rendition="#aq"><foreign xml:lang="ita">pazienza</foreign></hi>!</orig><note xml:id="ncn4_ncj_cmb">Ital.: Nun gut! Geduld!</note></seg> </salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">Leben Sie wol, und gedenken Sie meiner bisweilen!</salute>
+                    <signed rendition="#right"><hi rendition="#aq">G</hi>.</signed></closer>
+<note><p>Es ist gut für Fräulein <hi rendition="#aq">Natalie</hi>, Himmel, Erde u<ex>nd</ex> Meer in solcher sonnenhaften Ruhe anzuschauen, als sich dort auf dem Eiland darstellt. Dies ist ein Blick in moralische Horizonte, u<ex>nd</ex> ideale Fernen, wo all das Eiferartige, u<ex>nd</ex> Kleine, was uns im Leben bedrängt, vollkommen aufgelöst wird. Es gibt dort keinen Widerspruch – und das wundervollste Geheimniß liegt so offen da, wie jeder junge Tag auf dem Meer. – Einmal, zur Belohnung, möchte ich noch <hi rendition="#aq">Capri</hi> wiedersehen.</p><p>Man sollte doch einmal an <persName key="G000920"><seg type="comment"><orig>Althaus</orig><note xml:id="nm23_4cj_cmb">Der mit beiden befreundete Friedrich Althaus (1829–1897), zu dem Malwida von Meysenbug während ihrer Zeit in London von Mai 1852 bis Ende 1859 engen Kontakt hatte.</note></seg></persName> schreiben; aber ich komme nicht dazu. Ich würde Ihnen gern u<ex>nd</ex> den <seg type="comment"><orig>beiden Schwestern</orig><note xml:id="nu4y_qcj_cmb">Ihre Pflegetöchter Olga (1850–1953) und Natalie Herzen (1844–1936), die Töchter des russischen Philosophen, Schriftstellers und Publizisten Alexander Herzen (1812–1870).</note></seg> die herrlichen <placeName key="G000743">Nürnberger</placeName> Pfefferkuchen schicken, die hier auf dem <seg type="comment"><orig>Dultmarkt</orig><note xml:id="nntt_rcj_cmb">Die traditionelle Auer Dult in München findet dreimal jährlich für neun Tage auf dem Mariahilfplatz im Münchner Stadtviertel Au statt. Die sogenannte Maidult beginnt am Samstag vor dem 1. Mai, die Jakobidult am Samstag nach Jakobi (25. Juli) und die Kirchweihdult am Samstag vor Kirchweih (am dritten Sonntag im Oktober).</note></seg> sind, u<ex>nd</ex> Sie schickten mir die kleinen Feigen dafür.</p>Schreiben Sie unfrankirt, wie ich.</note>
+            </div>
+        </body>
+    </text>
+</TEI>

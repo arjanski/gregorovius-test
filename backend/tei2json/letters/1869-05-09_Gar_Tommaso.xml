@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000287">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Tommaso Gar in Venedig. Rom, 9. Mai 1869</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Biblioteca Comunale di Trento</repository>
+                        <idno>
+                            <idno>busta BCT1–2257/52</idno>
+                        </idno>
+                    </msIdentifier>
+                    <physDesc>
+<p>1 Dbl., 8°, 3 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für Gars Engagement bei der Richtigstellung der falschen Behauptungen in einem Artikel von Julius August Schanz („Letteratura universale della Germania e poesia italiana, 1869), in dem er als Mitarbeiter an einer Ausgabe deutscher Übersetzungen von italienischer Lyrik genannt wird. Der Direktor von „Il Tempo“, Roberto Galli, soll Schanz von einem weiteren Missbrauch von Gregorovius’ Namen abhalten. Der Abschlussband seiner „Geschichte der Stadt Rom im Mittelalter“ wird in zwei separaten Bänden erscheinen (1870–1872). Gregorovius reist Anfang Juli über Florenz nach Deutschland. Er bestellt Grüße an Madeleine Creutzer und überbringt Grüße von Karl und Auguste Lindemann-Frommel.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName>
+                    <date when="1869-05-09" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001158">Gar, Tommaso (1808–1871)</persName>
+<placeName key="G000894">Venedig</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">9. Maggio 69.</dateline>
+                    <salute>Caro amico Gar,</salute>
+                </opener>
+<p>io vi ringrazio cordialmente della premura, con <seg type="comment"><orig>cui avete eseguito quello, che mi pareva necessario</orig><note xml:id="ntrr_bxr_ylb">Julius August Schanz (1828–1902) bezeichnete Gregorovius in der venezianischen Zeitung „Il Tempo“ („Letteratura universale della Germania e poesia italiana“, 1869) fälschlicherweise als Mitarbeiter seiner Sammlung deutscher Übersetzungen von italienischer Dichtung. Gar sollte bei der Redaktion von „Il Tempo“ auf eine Richtigstellung drängen. Siehe den Brief von Gregorovius an Gar, 25.4.1869.</note></seg>, onde non lasciar abusare il mio benchè piccolissimo nome, da tali sleaterelli, quale si è codesto <persName key="G001574">Schanz</persName>. Avete tutta raggione di credere, che questo affaruccio non va<subst><del rendition="#s">glia</del><add place="across">lga</add></subst> tanto da farmi insistere sulla primitiva forma della mia protesta. Forse avrete la gentilezza di far sapere al <seg type="comment"><orig><persName key="G001155">Direttore </persName> <orgName key="G000520">del Tempo</orgName></orig><note xml:id="ninc_dxr_ylb">Direktor von „Il Tempo“ ist zu diesem Zeitpunkt der Rechtsanwalt und Publizist Roberto Galli (1840–1931). </note></seg>, che quantunque io non truovi soddisfacente la forma che egli a data alla mia dichiarazione, mene contenterò; mà ch<subst><del rendition="#ow">e</del><add place="across">’io</add></subst> lo prega di notificare al sig<ex>no</ex>r Schanz dalla parte mia quanto segue: cioè, ch’io in nessun <del rendition="#s">qualunque</del> programma della sua opera, sia in <placeName key="G000690">Italia</placeName>, o in <placeName key="G000664">Germania</placeName>, non voglio figurare, col nome mio – non avendo egli <pb n="1v"/>alcuna autorisazione da me stesso, di chiamarmi cooperatore suo, ma al contrario avendo egli avuta da me la più recisa negativa; finàlmente, gli notifichi, ch’io non mancherò a protestare contro un tale abuso, se mai io truovassi inserito il mio nome frà gli altri nomi, che figurano nel programma così goffamente spacciato, e a tromba, da ciarlatano che deve muovere le risate di chi lo sente. E così basta di quelle burattinate.</p>
+<p>Essendo ci cresciuto a dismisura il materiale per <seg type="comment"><orig>quell’ultima parte <add place="superlinear">della Storia di Roma</add></orig><note xml:id="nrlw_wxr_ylb">Zum Zeitpunkt waren sechs Bände der „Geschichte der Stadt Rom im Mittelalter“ (1859–1867) erschienen.</note></seg>, che mi resta da compiere ancora, io pur troppo mi vedo forzato <seg type="comment"><orig>di far dell’ultimo volume</orig><note xml:id="ndzl_yxr_ylb">„Die Geschichte der Stadt Rom im Mittelalter“ war ursprünglich auf sieben Bände angelegt. Da der letzte Band aber zu umfangreich wurde, entschied Gregorovius, ihn in zwei Bände aufzuteilen; 1870 erschien Band 7, 1872 Band 8.</note></seg> <bibl corresp="G003434 G003441">due volumi</bibl> di modo che non ne verrò a capo prima dell’anno 1871. L’editore <persName key="G001053">Cotta</persName> da se stesso me lo propose, ed io lietamente accolsi l’offerta, che mi lascia tutta la libertà <pb n="2r"/>nel comporre e nello stendere le storie della rinascenza, oltre ch’io ne cavi anche un doppio salario. Resterò à Roma <seg type="comment"><orig>fino al principio del Luglio</orig><note xml:id="nn31_1yr_ylb">Er trat die Reise am 8.7.1869 an und erreichte nach diversen Zwischenstationen (u. a. in Siena, Florenz, Mailand und Zürich) am 25.8. Ulm und am 26.8.1869 Stuttgart (siehe RT, 11.7.1869, S. 258f. und 13.9.1869, S. 262).</note></seg>, dopo il quale penso à recarmi a <placeName key="G000671">Firenze</placeName>, e quindi proseguirò la solita strada, verso la Germania, senza toccar però questa volta Venezia, cosa che mi duole, perché sarei contentissimo di riveder voi, caro amico, e la gentilissima <persName key="G001056">baronessa</persName>, cui porterete i più caldi saluti come dalla parte mia, così da quella degli amici <persName key="G001374"> <persName key="G001375">Lindemann</persName></persName>. </p>
+                <closer>Vi stringo la mano, caro Gar, augurandovi ogni felicità e contentezza possibile;<salute rendition="#right">per sempre il vostro</salute> <signed rendition="#right">Gregorovius</signed> </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

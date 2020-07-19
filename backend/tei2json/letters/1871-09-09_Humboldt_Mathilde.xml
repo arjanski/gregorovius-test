@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000368">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Mathilde von Humboldt in Ottmachau. Stuttgart, 9. September 1871</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>SBB-PK</repository><idno> derzeit Biblioteka Jagiellońska Krakau</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 1 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 2–3 (nach h1)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Aus Rom ist er Ende Juli 1871 mit Bedauern über den schlechten Gesundheitszustand von Auguste Lindemann-Frommel abgereist. Er hat zehn Tage für Archivarbeiten in Venedig verbracht, wo ihn der Bruder Julius abholte, mit dem er nach München reiste. Er hat seinen Bruder Julius Wildbad besucht, dann reiste er in das idyllische Bad Berg-Cannstadt nahe Stuttgart, wo sein Verlag Cotta und Freunde wie Ferdinand Freiligrath ansässig sind. Mit seinem Bruder Julius will er der Halbschwester Ottilie Elgnowski bis Würzburg entgegen fahren. Den Winter will er in München verbringen, wo er sich möglicherweise bald niederlassen will. Wolfgang und Sophie Erhardt sind am Starnberger See. Er kann sie in diesem Jahr nicht in Ottmachau besuchen. Die leidende Elisabeth Baronesse von Wrangell will im Winter erneut nach Rom kommen; er wünschte, sie käme mit. Grüße an ihre Mutter Mathilde von Humboldt-Dacheroeden. Sie soll ihm nach Stuttgart schreiben.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000879">Stuttgart</placeName><date when="1871-09-09" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001304">Humboldt, Mathilde von (1830-1897)</persName>
+<placeName key="G000746">Ottmachau</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right"><hi rendition="#aq">Stuttgart</hi> (<hi rendition="#aq">Buchhandlung Cotta</hi>) <lb/>9. <hi rendition="#aq">Sept<ex>em</ex>b<ex>e</ex>r</hi> 1871.</dateline>
+</opener>
+<p>Sie haben mir, <?oxy_comment_start author="Angela Steinsiek" timestamp="20200218T135341+0100" comment="Mathilde von Humboldt (1830–1897) ist die Enkelin von Wilhelm von Humboldt (1767–1835) und Caroline, geb. von Dacheröden (1766–1829), deren Sohn Theodor von Humboldt (von Humboldt-Dacheröden) (1797–1871) 1818 mit Mathilde, geb. von Heineken (1800–1881) geheiratet hatte. Ihr älterer Bruder Wilhelm (*1823) war 1867 gestorben; er hinterließ drei Söhne und eine Tochter. Ende 1870 bis Ende Mai 1871 hielt sich Mathilde von Humboldt nach einer gescheiterten Verlobung in Rom auf, wo sie im Kreis deutscher Künstler auch Gregorovius kennenlernte. Nach ihrer Rückkehr nach Ottmachau wurde der Kontakt brieflich von beiden bis zum Tod von Gregorovius aufrecht erhalten. Aus gegenseitigem Respekt entwickelte sich bald ein freundschaftliches Verhältnis. Persönlich sahen sich Mathilde von Humboldt und Gregorovius im Herbst 1875 wieder, bei einem Besuch in der kurz zuvor von Gregorovius mit seinen Geschwistern angemieteten Münchener Wohnung. Als 1878 in Ottmachau ein größeres Konvolut von Briefen Alexanders von Humboldt an seinen Bruder Wilhelm gefunden wurden, veranlasste Gregorovius Mathilde von Humboldt, diese zu veröffentlichen. Dieser Publikation „Briefe Alexanders von Humboldt an seinen Bruder Wilhelm“ (Hrsg. von der Familie von Humboldt in Ottmachau. Stuttgart: Cotta 1880) stellte Gregorovius einen umfänglichen Essay „Geschichtliche Übersicht ihres Lebensganges bis zum Jahr 1835“ voran, der implizit den Charakter seiner eigenen Schriften spiegelt. Er ging unter dem Titel „Die Brüder von Humboldt“ in den zweiten Band seiner „Kleinen Schriften zur Geschichte und Cultur“ ein (Leipzig: Brockhaus 1888, S. 125-194). Nach dem Tod ihrer , siedelte  Mathilde Freifrau von Humboldt-Dachroeden Friederike, geb. von Heineken (1800–1881), mit der sie in Ottmachau zusammengelebt hatte, siedelte Mathilde von Humboldt im November 1881 nach Rom über, wo sie bis zu ihrem Tode ein reges Gesellschaftsleben unterhielt."?>verehrtes Fräulein<?oxy_comment_end?>, ein paar Zeilen aus <placeName key="G000664">Deutschland</placeName> erlaubt, und diese schreibe ich Ihnen weniger, um von mir Nachricht zu geben, als um Sie zu bewegen, wieder etwas von sich hören zu lassen.</p>
+<p>Am 30. Juli hatte ich <placeName key="G000763">Rom</placeName> verlaßen, recht betrübt über den schwachen Zustand von Frau L<ex>indemann</ex>. Ich ging nach <placeName key="G000894">Venedig</placeName>, wo ich zehn Tage zu thun hatte, bis mich dort mein <persName key="G001203">Bruder</persName>, jener von der Artillerie vor <hi rendition="#aq"><placeName key="G000728"><hi rendition="#aq">Metz</hi></placeName></hi>, abholte. Wir gingen zusammen nach <placeName key="G000734"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T140510+0200" comment="Gregorovius war am 1. August 1871 in Venedig angekommen; am 7. August trafen dort sein Bruder Julius und der Stiefbruder von Collrepp (*1827) ein, der im Deutsch-Französischen Krieg wie Julius Gregorovius längere Zeit vor Metz stationiert war. Am 13. Juni 1871 kamen sie über Bozen und Kufstein reisend in München an (RT, 10. und 24.8.1871, S. 308–309)."?>München<?oxy_comment_end?></placeName>, wo ich blieb, dann meinem Bruder in <placeName key="G000899">Wildbad</placeName> einen Besuch machte, und endlich hierher ging in das kleine Bad <placeName key="G000866">Berg-Cannstadt</placeName>, welches ganz in der Nähe von Stuttgart liegt. Ich liebe diesen in Gärten versteckten Ort sehr. Er bietet <pb n="1v"/>die Vorzüge reizender Stille und zugleich der schnellsten Verbindung mit Stuttgart dar, wo ich doch viele Freunde habe, <?oxy_comment_start author="Angela Steinsiek" timestamp="20200504T170105+0200" comment="Der Verlagsgründer Johann Friedrich Cotta von Cottendorf (1764–1832)  war der Verleger von Wolfgang von Goethe (1849–1832), Friedrich von Schiller (1759–1805) und von Wilhelm (1767–1835) und Alexander von Humboldt (1769–1859)."?>das Haus <hi rendition="#aq">Cotta</hi> <persName key="G067515">Göthe</persName>-<persName key="G001578">Schiller</persName>-<persName key="G001301"><persName key="G001302">Humboldtischen</persName></persName> Angedenkens<?oxy_comment_end?>, u<ex>nd</ex> andere treffliche Menschen, darunter auch <persName key="G001138">Freiligrat</persName> zu nennen ist.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T140651+0200" comment="Gregorovius hatte Ferdinand Freiligrath (1810–1876) bei seinem Stuttgarter Aufenthalt vom 26.8.–17.9.1869 kennengelernt (siehe RT, 13.9.1869, S. 263). Im September 1870 hatte Gregorovius ihn in Stuttgart wiedergetroffen (siehe RT, 23.9.1870, S. 292). Siehe auch den Brief von Gregorovius an Freiligrath, 22.4.1871."?></p><?oxy_comment_end?>
+<p>Am 13. kommt der Bruder aus Wildbad mich von hier abholen. Wir reisen an den Main unserer <persName key="G001111">Schwester</persName> entgegen, ich glaube nach <placeName key="G000900">Würzburg</placeName>.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T140708+0200" comment="Mit Ottilie Elgnowski (1834–1907) trafen die Ferdinand und Julius Gregorovius (1819–1891) am 17. September 1871 in Würzburg zusammen (siehe RT, 17.9.1871, S. 309)."?> <?oxy_comment_end?>Dort vereinigen wir drei Geschwister, der Rest unserer Familie, uns nach elf Jahren wieder, u<ex>nd</ex> wir trennen uns auch dort. Der Bruder führt die Schwester nach <placeName key="G000699">Königsberg</placeName> zurück, und geht dann nach der ihm noch nicht bekannten Stadt, wohin er als neu ernannter Regimentscommandeur beordert <pb n="2r"/><?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T140732+0200" comment="Am 1. Dezember 1871 heißt es im Tagebuch hierzu: „Am 28. November erhielt mein Bruder das Patent als Oberst des ersten Regiments ostpreußischer Festungsartillerie in Königsberg“ (RT, S. 313)."?>wird<?oxy_comment_end?>, und ich gehe über <placeName key="G000685">Heidelberg</placeName> nach München. <?oxy_comment_start author="Angela Steinsiek" timestamp="20200504T170509+0200" comment="Gregorovius hielt sich vom 1. Oktober bis zum 3. Dezember 1871 in seinem künftigen Wohnort München auf (siehe RT, 2.12.1871, S. 311–313)."?>Dort will ich bin in den Winter hinein bleiben, um die Probe zu machen, wie die barbarische Kälte auf einen Menschen wirken wird<?oxy_comment_end?>, welcher seit 19 Jahren in <placeName key="G000763">Rom</placeName> an die himmlische Sonne des Südens sich gewöhnt hat. Es ist wol mein Plan mich wieder im Vaterlande niederzulassen, da nun meine Lebensaufgabe eigentlich vollendet worden ist.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T140844+0200" comment="Seine „Geschichte der Stadt Rom im Mittelalter“ (1859–1872). "?> <?oxy_comment_end?></p>
+<p>Sie ersehen aus allen diesen meinen strategischen Plänen, daß ich diesmal nicht die <placeName key="G000854">Mainlinie</placeName> überschreiten kann, u<ex>nd</ex> so auf die Freude verzichten muß, eines Tages an die Pforten Ihres gastlichen Schlosses zu klopfen.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T140927+0200" comment="In seinem ersten Brief am Mathilde von Humboldt vom 10. Juni 1871 (als Nachschrift zu dem von Auguste Lindemann-Frommel) nach deren Romaufenthalt Ende 1870 bis Ende Mai 1871 hatte Gregorovius seinen Wunsch nach einem Besuch in Ottmachau geäußert (SBB-PK, derzeit Biblioteka Jagiellońska Krakau)."?> <?oxy_comment_end?>Dort haben Sie wol den Sommer mit den Ihrigen in der schönsten Stille <?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T140948+0200" comment="Ihr Vater Theodor von Humboldt-Dacheröden (*1797) war am 26. Juli 1871 verstorben."?>zugebracht<?oxy_comment_end?>, u<ex>nd</ex> ein so ruhiger u<ex>nd</ex> gleichmäßiger Zustand <pb n="2v"/>ist sicherlich dem zerstückten Wanderleben vorzuziehen, wie ich es nun seit Jahren führen muß. <persName key="G001116"><persName key="G001115">Erhardts</persName></persName> aus <?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T141005+0200" comment="Wolfgang und Sophie Erhardt."?>Rom<?oxy_comment_end?> haben sich zum Aufenthalt für den Sommer <hi rendition="#aq"><placeName key="G000669">Feldafing</placeName></hi> am Starnberger See gewählt, wo sie noch gegenwärtig sind.</p>
+<p>Frau L<ex>indemann</ex> schreibt mir, d<ex>a</ex>ß <persName key="G001717">Fr<ex>äu</ex>l<ex>ein</ex> v<ex>on</ex> Wrangel</persName> schon im November wieder in Rom sein <?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T141022+0200" comment="Elisabeth Baronesse von Wrangell (1842–1926), die Tochter des russischen Polarforschers und Marineministers Ferdinand Baron von Wrangell (1796–1870) und Elisabeth, geb. Baronin de Roussilion (1810–1854). Sie hatte Mathilde von Humboldt bei ihrem Romaufenthalt begleitet."?>wird<?oxy_comment_end?> – ich wünsche, Sie schlößen sich ihr wieder an – In <hi rendition="#aq">Wildbad</hi> wurde ich oft an Ihre liebenswürdige Freundin erinnert, wenn ich junge Damen an Krücken oder in Rollwagen sah, bleich u<ex>nd</ex> still, mit Schmerz im Angesicht.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T141049+0200" comment="Von dem anhaltenden Leiden von Elisabeth Baronesse von Wrangell ist auch im Brief von Gregorovius an Mathilde von Humboldt vom 18.12.1873 die Rede (SBB-PK, derzeit Biblioteka Jagiellońska Krakau)."?> <?oxy_comment_end?>Sollten nicht warme Bäder dem Leiden von Fr<ex>äu</ex>l<ex>ein</ex> v<ex>on</ex> W<ex>rangel</ex> vollständig abhelfen?</p>
+<p>Ich bitte um ein paar Zeilen von Ihnen durch das Cotta’sche Haus in Stuttgart, wo man stets von meinem Aufenthalt weiß. Empfehlen Sie mich dem gütigen Wolwollen Ihrer Frau <persName key="G001304"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T141106+0200" comment="Von dem anhaltenden Leiden von Elisabeth Baronesse von Wrangell ist auch im Brief von Gregorovius an Mathilde von Humboldt vom 18.12.1873 die Rede (SBB, Handschriftenabteilung, derzeit Krakau, Biblioteka Jagiellońska)."?>Mutter<?oxy_comment_end?></persName> voll Ehrerbietung, und erhalten Sie selbst mir Ihr freundliches Andenken.</p>
+<closer>
+<salute rendition="#c">Alles Gute und Schöne!</salute>
+<signed rendition="#right"><hi rendition="#aq">FGregorovius</hi>.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

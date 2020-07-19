@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067748">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Manfred Lindemann-Frommel in Triberg. Traunstein, 2. August 1874</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Universität Würzburg</repository><collection>Martin-von-Wagner-Museum</collection><idno>NL Lindemann-Frommel, L 36–64, XXV</idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 2 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die übersandten Photographien und die Einladung nach Triberg, doch möchte er den Kuraufenthalt mit seinem Bruder Julius in Traunstein nicht unterbrechen. Erst im September will er nach München gehen. Sein Vater Karl Lindemann-Frommel kommt leider nicht nach Traunstein, doch kann er es wegen des Börsenkrachs verstehen, der auch ihn betroffen hat. Sie haben ihren Aufenthalt im Gasthaus von Jopseph Wispauer behalten. Graf Hugo Leutrum von Ertingen mit seiner Nichte ist dort Adolf Friedrich Graf von Schack ist nicht gekommen. Er möchte wissen, ob seine Tante Charlotte Freifrau von Wechmar bei ihrem Burder Karl Freiherr von Racknitz in Heinsheim ist.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000888">Traunstein</placeName><date when="1874-08-02" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001376">Lindemann-Frommel, Manfred (1852–1939)</persName>
+<placeName key="G067560">Triberg</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Traunstein, 2. <hi rendition="#aq">Aug<ex>ust</ex></hi> 1874.</dateline>
+                    <salute rendition="#c">Lieber Manfredi,</salute>
+                </opener>
+<p>habe vielen Dank für die Photographie, u<ex>nd</ex> Einladung nach <seg type="comment"><orig>Triberg</orig><note xml:id="nebt_mwd_vlb">Im Schwarzwald, bei Verwandten, etwa 130 Kilometer südlich von Konstanz, wo Manfred Lindemann-Frommel Architektur studierte. Kurz darauf brach er sein Studium ab, um sich gegen den Rat seiner Eltern Karl und Auguste Lindemann-Frommel der Malerei zuzuwenden (siehe Peter K. W. Freude: Karl Lindemann-Frommel. Ein Malerleben in Rom. Monographie und Werkverzeichnis seines graphischen und malerischen Schaffens. Murnau am Staffelsee 1997. S. 69).</note></seg>. Aber <seg type="comment"><orig>leider können <persName key="G001203">wir</persName> ihr nicht folgen</orig><note xml:id="ng4q_pwd_vlb">Gregorovius war mit seinem Bruder Julius (1819–1891) in Traunstein zur Kur.</note></seg>, denn so würden wir uns aus einem ruhigen u<ex>nd</ex> heilsamen Zustand wieder entreißen. Wir bleiben hier bis in den <hi rendition="#aq">Sept<ex>em</ex>b<ex>e</ex>r</hi> hinein, u<ex>nd</ex> gehen dann nach <placeName key="G000734">München</placeName>.</p>
+<p>Es thut uns sehr Leid, daß Dein <persName key="G001375">Vater</persName> nicht herkommt. Aber ich begreife seine Gründe. <seg type="comment"><orig>Der große <placeName key="G000897">Wiener</placeName> Tempelkrach</orig><note xml:id="nynm_rwd_vlb">In Folge des wirtschaftlichen Wachstumsschubs nach der Reichsgründung 1871 mit rasant ansteigender Konjunktur stiegen die Aktienkurse und Investitionen entsprechend, bis die Spekulationsblase am 9. Mai 1873 in dem sogenannten Gründerkrach platzte, bei dem die Aktienkurse abstürzten und damit bis zum Ende der 1870er Jahre unzählige Firmen in Österreich-Ungarn, in England, Amerika und Deutschland in Konkurs gingen.</note></seg> hat in diesem Jahr auch bei ihm ein Echo gefunden. Es krachte bei ihm ein wenig – darum will ich Dir auch die <seg type="comment"><orig>Adresse Deines Vaters</orig><note xml:id="nenl_5wd_vlb">Karl Lindemann-Frommel (1819–1891) machte im September / Oktober 1874 eine Reise von Montecassino über Neapel an den Golf von Sorrent (siehe Peter K. W. Freude: Karl Lindemann-Frommel. Ein Malerleben in Rom. Monographie und Werkverzeichnis seines graphischen und malerischen Schaffens. Murnau am Staffelsee 1997. S. 69).</note></seg> nicht mehr geben, bis auf beßere Zeiten.</p>
+<p>Hier ist es still u<ex>nd</ex> gut. Wenig Menschen – <seg type="comment"><orig><persName key="G001367"><hi rendition="#aq">Leutrum</hi></persName> hier u<ex>nd</ex> Nichte,</orig><note xml:id="nrwb_ywd_vlb">Mit dem ehemaligen General-Staatsanwalt und Rat beim Zivilsenat des Obertribunals in Stuttgart Graf Hugo Leutrum von Ertingen (1814–1884) war Gregorovius bereits im Vorjahr in Traunstein zusammengetroffen (siehe RT, Sommer des Jahres 1873, S. 332 und den Brief von Gregorovius an Wilhelm Heyd, 17.8.1873).</note></seg> sonst ein paar munter junge Mädchen, welche schön singen. Das Bad ist recht stattlich geworden, u<ex>nd</ex> auch sonst vieles verbeßert worden, aber nicht am Fatum u<ex>nd</ex> sonstiger <hi rendition="#aq"><seg type="comment"><orig>carogna</orig><note xml:id="nfcw_ywd_vlb">Ital.: Aas, Leichnam, von lat. caro.</note></seg></hi>. <seg type="comment"><orig>Wir sind bei <persName key="G001712"><hi rendition="#aq">Wisp<ex>auer</ex></hi></persName> wohnen geblieben</orig><note xml:id="njwx_cxd_vlb">Bei dem Traunsteiner Weinwirt und Kaufmann Josef Wispauer (1785–1878), der 1840–1843 der Kammer der Abgeordneten des Bayerischen Landtags angehörte und 1842–1845 Bürgermeister von Traunstein war, oder bei dem gleichnamigen Sohn (1822–1894), der als Kaufmann, Spediteur und Bankier 1873–1878 Traunsteiner Bürgermeister wurde; 1874 wurde er als Mitglied der liberalen Partei Abgeordneter des deutschen Reichstags für Traunstein (hier hatte Gregorovius schon 1871 gewohnt nach den Brief von Gregorovius an Manfred Lindemann-Frommel, 15.9.1871; Universität Würzburg, Martin-von-Wagner-Museum, NL Lindemann-Frommel, L 36–64, III).</note></seg>. Auch <pb n="1v"/><seg type="comment"><orig><persName key="G001573">Schack</persName> ist nicht gekommen</orig><note xml:id="nhnk_fxd_vlb">Adolf Graf von Schack (1815–1894) war im Vorjahr aus München nach Traunstein gekommen (siehe RT, Sommer des Jahres 1873, S. 332). </note></seg>, u<ex>nd</ex> glücklicher Weise auch<seg type="comment"><orig> nicht die<placeName key="G000636"> berlinischen</placeName> <persName key="G001580"><persName key="ed_vsz_2yd_vlb">Salondamen</persName></persName></orig><note xml:id="nhy1_zxd_vlb">Im Sommer 1873 hatten auch die Berliner Salonnière Marie Gräfin von Schleinitz-Wolkenstein (1842–1912), die Ehefrau des preußischen Ministers Alexander von Schleinitz (1807–1885), eine enge Freundin von Cosima Wagner (1837–1930) und Gönnerin Richard Wagners (1813–1883), mit ihrer Mutter Marie, geb. von Nimptsch, verw. von Buch (1820–1897) mit Gregorovius in Traunstein gekurt (siehe den Brief von Gregorovius an Thile, 14.9.1873 und RT, Sommer des Jahres 1873, S. 332).</note></seg>.</p>
+<p>Schreibe mir doch, ob das excellente <persName key="G001699">Charlottchen</persName>, <seg type="comment"><orig>Deine ehrwürdige Tante</orig><note xml:id="nsvt_hxd_vlb">Manfred Lindemann-Frommels Tante mütterlicherseits: Charlotte Freifrau von Wechmar (1835–1884 in Rom), die zweite Ehefrau und Witwe des 1869 verstorbenen Präsidenten des württembergischen Justiz- und Innenministeriums Friedrich Freiherrn von Wechmar (*1801).</note></seg>, schon <seg type="comment"><orig>in <placeName key="G000687">Hainsheim</placeName></orig><note xml:id="ngfw_3xd_vlb">Heinsheim, etwa 60 Kilometer nördlich von Stuttgart war der Wohnsitz der seines Onkels Karl Freiherr von Racknitz (1827–1905) und seiner Frau Emma, geb. Freifrau von Gemmingen-Guttenberg zu Bonfeld vom Obern Schlosse (1839–1907) mit ihren fünf Kindern: Hans (*1861), Marie (*1863), Charlotte (*1868), Emma (*1869) und Karl Eduard (*1871).</note></seg> ist.</p>
+<p>So möge<del rendition="#s">n</del> es Dir gut gehen in Triberg, u<ex>nd</ex> durchstreife Wälder, Felder u<ex>nd</ex> Wiesen und Tempel jener schönen Gegend.</p>
+                <closer>
+<salute rendition="#c">Lebe wol!</salute>
+<signed rendition="#c">FGr</signed>
+<note type="postscript"><seg type="comment"><orig>Weißt Du was <hi rendition="#aq">Kele</hi> ist, und was <hi rendition="#aq">Sfai</hi></orig><note xml:id="nj35_jxd_vlb">
+<p>„Kele“ meint die österreichische Bahngesellschaft „Kaiserin-Elisabeth-Bahn“, SFAI (Strade Ferrate dell’Alta Italia) die oberitalienischen Eisenbahnen. </p>
+</note></seg>? Ich sehne mich <seg type="comment"><orig>von <hi rendition="#aq">Kele</hi> wieder auf <hi rendition="#aq">Sfai</hi> zu kommen</orig><note xml:id="nyzt_nmq_2mb"><p>Gregorovius meint die Bahnstrecke nach Italien. Siehe auch den Brief von Gregorovius an Manfred Lindemann-Frommel, 1.11.1874, wo allerdings von „Kepe“, statt hier von „Kele“ die Rede ist.</p></note></seg>, aber diesmal wird es lange dauern.</note>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

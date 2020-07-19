@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000325">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an den Verlag F. A. Brockhaus in Leipzig. Rom, 31. Dezember 1869</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Sächsisches Staatsarchiv Leipzig</repository><collection>Bestand 21083</collection><idno>Archivalnummer 224 (91)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¾ S. – 1r + 2r aoR geprägt: ROMA – 2v alR, Bl. um 90° gedreht, Eingangs- Beantwortungsvermerk: 1869. / <hi rendition="#aq">Rom</hi>, 31. <hi rendition="#aq">December</hi>/5. <hi rendition="#aq">Januar</hi>. / <hi rendition="#aq">Gregorovius</hi>. / B. 11/XII.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> Karton 55, Mappe 333</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er ist erfreut, dass Theodor Grosse die Zeichnungen für die illustrierte Ausgabe seines „Euphorion“ (1872) übernimmt und bittet um die Übersendung eines Exemplars einer früheren Ausgabe (1858) für die Textrevision. Die jetzt als erster Band seiner „Wanderjahre in Italien“ erschienene dritte Auflage seiner „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1870) und die positiven Absatzzahlen haben ihn veranlasst, über einen vierten Band nachzudenken. Er formuliert seine Vertrags- und Honorarbedingungen. Da Cotta ihn zu einer zweiten Auflage des dritten und vierten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1870) drängt, kann er erst im Sommer 1870 an die Zusammenstellung des Manuskripts des vierten Bandes der „Von Ravenna bis Mentana“ (1871) gehen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1869-12-31" cert="high"/>
+</correspAction>
+                <correspAction type="received"><orgName key="G000480">F.A. Brockhaus Verlag</orgName>
+<placeName key="G000712">Leipzig</placeName>
+</correspAction>
+<correspContext>
+<ref type="next">11. Januar 1869</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c">31. <hi rendition="#aq">D<ex>e</ex>c<ex>em</ex>b<ex>e</ex>r</hi> 1869</dateline>
+<salute>Sehr geehrte Herren,</salute>
+</opener>
+<p>ich ersehe mit Vergnügen aus Ihrem letzten Schreiben, d<ex>a</ex>ß <persName key="G001213">Herr Große</persName> die Illustration des <bibl sameAs="G003580">pompejanischen Gedichts</bibl> übernommen hat. <?oxy_comment_start author="Angela Steinsiek" timestamp="20190206T184205+0100" comment="Der Dresdener Maler Theodor Grosse (1829–1891) hatte für die 1832 bis 1834 im Neorenaissance-Stil durch den Leipziger Verleger Hermann Härtel (1803–1875) erbaute Villa 1855 mehrere Fresken ausgeführt, die an pompejanische Wanddekorationen erinnern."?>Wenn<?oxy_comment_end?> Sie noch ein Exemplar <add place="superlinear">von „Euphorion“</add> <del rendition="#s">davon</del> fortzugeben haben, so bitte ich mir dasselbe unter Kreuzband zu zuschicken, zum Behufe der Revision. Zugleich sagen Sie mir wol, wie lange es damit Zeit hat.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190206T184222+0100" comment="Die Quartausgabe seines 1858 zuerst erschienen Versgedichts „Euphorion“ wurde als „Illustrierte Prachtausgabe mit Original-Compositionen von Theodor Grosse“ 1872 ausgegeben."?></p><?oxy_comment_end?>
+<p>Die bevorstehende Ausgabe der <bibl sameAs="G003130">„Figuren“</bibl>, in 3. Auflage <?oxy_comment_start author="Angela Steinsiek" timestamp="20190206T184258+0100" comment="Der 1856 unter dem Titel „Figuren. Geschichte, Leben und Scenerie aus Italien“ erschienene Band war erstmals 1864 in etwas anderer Zusammensetzung als erster Band unter dem Reihentitel „Wanderjahre in Italien“ publiziert worden, 1870 erschien die dritte Auflage."?><?oxy_comment_end?> hat mich in Bezug auf diese Bände der <bibl corresp="G003130 G003183 G003259">„Wanderjahre“</bibl>, welche wie ich sehe sich in der Literatur befestigen und dem Verlag wie dem Autor einen fortdauernden sichern Ertrag versprechen, auf folgenden Gedanken gebracht. Ich habe <pb n="1v"/>im Plan, noch einen <bibl sameAs="G003301">4. Band</bibl> drucken zu lassen, jenen andern in Stärke u<ex>nd</ex> Inhalt conform, worin aufgenommen werden soll: <bibl sameAs="G003914">Ravenna</bibl>, <bibl corresp="G003933 G003934 G003935 G003936 G003937 G003938">die Geschichte der garibaldischen Invasion (1866)</bibl>, der Artikel: <bibl corresp="G003924 G003925 G003926 G003927 G003928 G003929">Das Reich, Rom u<ex>nd</ex> Deutschland</bibl>, u<ex>nd</ex> zwei andre.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190206T184320+0100" comment="Der vierte Band der „Wanderjahre in Italien“ erschien unter dem Titel „Von Ravenna bis Mentana“ 1871. Er enthielt in der ersten Auflage schließlich folgende Aufsätze, die 1862–1867 im Erstdruck in verschiedenen Periodia erschienen waren: „Ravenna“, „Streifzug durch die Sabina und Umbrien“, „Das Reich, Rom und Deutschland“, „Das Schloß der Orsini in Bracciano“, „Der Krieg der Freischaaren um Rom“."?> <?oxy_comment_end?>Ich würde Ihnen auch diesen Band zum Verlage darbieten unter folgenden Bedingungen:</p>
+<p>Für den 4. Band wird das Honorar von 300 Thalern für jedes Tausend Exemplare erster wie folgender Auflagen gezahlt.</p>
+<p>Zugleich wird der bestehende Contract über die früheren 3 Bände Wanderjahre zu Gunsten des Autors dahin revidirt, daß sich die Verlagshandlung verpflichtet, die dritte u<ex>nd</ex> jede folgende Auflage jedes Bandes der Wanderjahre mit 300 Thalern, statt mit 200 zu honoriren: worüber ein neuer Contract ausgefertigt wird. </p>
+<p>Schließlich verpflichtet sich die Verlagsbuchhandlung den Preis jedes <pb n="2r"/>Bandes, wie er bisher bestand in 1 Thal<ex>er</ex> 24 S<ex>ilber</ex>gr<ex>oschen</ex> nicht zu erhöhen.</p>
+<p>Zur Herstellung des 4. Bandes würde ich den Zeitraum fast eines Jahres beanspruchen, weil mich die Revision der 2. Ausgabe der Gesch<ex>ichte</ex> der Stadt jetzt sehr stark <?oxy_comment_start author="Angela Steinsiek" timestamp="20190206T184342+0100" comment="1870 erschienen der siebte Band seiner „Geschichte der Stadt Rom im Mittelalter“ in erster Auflage und der dritte und vierte Band in zweiter Auflage."?>bedrängt<?oxy_comment_end?> – doch würde ich hoffen, in der Sommermuße 1870 das Material zusammenstellen zu können.</p>
+<p>Dies sind die Vorschläge, auf welche Sie, geehrte Herren, mir gelegentlich Bescheid erteilen mögen.</p>
+<closer>
+<salute rendition="#c">Hochachtungsvoll ergeben </salute>
+<signed rendition="#right">FGregorovius</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

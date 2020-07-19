@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067746">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Francesco Protonotari in Florenz. Rom, 12. Juli 1874 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz, Biblioteca Nazionale Centrale</repository><collection>Carteggi Vari 135 </collection><idno>(76) 
+                </idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 1 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er sendet ihm seine Rezension von Hans Prutz’ biographischer Studie „Kaiser Friedrich I.“ (1871–1874) und bittet um deren Veröffentlichung in der von Protonotari herausgegebenen „Nuova Antologia“. Er dankt für Emilia Ferretti Violas Besprechung seiner „Lucrezia Borgia“ (1874) in derselben Zeitschrift („La Verità Storica Intorno a Lucrezia Borgia“, 1874).</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1874-07-12" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001510">Protonotari, Francesco (1836–1888)</persName>
+<placeName key="G000671">Florenz</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">12. Luglio 1874.</dateline>
+                    <salute rendition="#c">Egregio <seg type="comment"><orig>Signore</orig><note xml:id="nqlm_bnn_zlb">Francesco Protonotari (1836–1888) war ein Ökonom und Verleger, verantwortete seit 1866, Gründungsjahr, beim Florentiner Verlagshaus Le Monnier die Herausgabe der Zeitschrift „Nuova Antologia. Scienze, lettere ed arti“. Diese galt als Fortsetzung von Giovan Pietro Vieusseux’ (1779–1863) „Antologia“ und zählt heute zu den ältesten, renomiertesten Zeitschriften Italiens. Unter Protonotari nahm die Zeitschrift Beiträge von Wissenschaftlern, Schriftstellern und Künstlern auf, darauf achtend, nicht nur akademisch ausgerichtet zu sein. Bis auf eine Visitenkarte aus dem Jahre 1872 und vorliegenden Brief ist keine Korrespondenz zwischen Gregorovius und Protonotari nachweisbar. Eine persönliche Begegnung der beiden ist nicht dokumentiert.</note></seg>,</salute>
+                </opener>
+<p>vorrebbe Ella concedermi ospitalità nel pregiato periodico della <orgName key="G000538">Nuova Antologia</orgName>? <seg type="comment"><orig>Ecco <bibl corresp="G003993">l’articolo mio</bibl></orig><note xml:id="nrd4_dnn_zlb">Siehe dazu auch den Brief von Gregorovius an Raffaele Mariano vom 20.9.1874. Gregorovius hatte auch über Cesare Guasti versucht, Prutz’ Arbeit über Kaiser Friedrich I in Italien bekannt zu machen; siehe den Brief von Gregorovius an Cesare Guasti vom 18.1.1874.</note></seg>, che comprenderà non più di cinque pagine di stampa. </p>
+<p>Debbo pregarla di darmi risposta immediata, giacchè <seg type="comment"><orig>partirò da Roma fra tre giorni.</orig><note xml:id="nhzb_fnn_zlb">Den 14. Juli 1874 vermerkt Gregorovius als seinen „letzte[n] Tag in Rom“. Mit der Beendigung der „Geschichte der Stadt Rom im Mittelalter“ sah er auch seine Zeit in Italien als für beendet an, ging nach München, um dort mit seinen Geschwistern zusammenzuleben (siehe RT, 14.7.1874, S. 342–343).</note></seg> </p>
+<p>Se gradisce l’articolo, sello ritenga, se non le conviene, <seg type="comment"><orig>me lo mandi indietro a Roma</orig><note xml:id="np4r_gnn_zlb">Es ist kein Gegenbrief von Protonotari an Gregorovius erhalten.</note></seg>. </p>
+<p>Colgo l’occasione, onde ringraziarla dell’ insigne cortesia, con cui Ella a ripresa mi onorò, <seg type="comment"><orig>accogliendo nella N<ex>uova</ex> A<ex>ntologia</ex> degli <bibl corresp="G002493 G002838">articoli gentilmente dedicati all’ illustrazione di alcuni miei scritti minori</bibl></orig><note xml:id="nk2c_jnn_zlb">Gregorovius hatte der Schriftstellerin Emilia Ferretti Viola (1844–1829) durch die Cott’asche Buchhandlung ein Rezensionsexemplar der „Lucrezia Borgia“ (2 Bde., 1874) in das Büro der „Nuova Antologia“ zukommen lassen; siehe die Briefe von Gregorovius an Emilia Ferretti Viola vom 4.5.1874 und 28.6.1874. Unter der Verfasserangabe Emma erschien Ferretti Violas Rezension „La Verità Storica Intorno a Lucrezia Borgia“ in der „Nuova Antologia di Scienze, Lettere ed Arti“ (Bd. 26, 1874. S. 573–608). Noch im gleichen Jahr verfasste Raffaele Mariano mit „La Lucrezia Borgia del Gregorovius nella Nuova Antologia“ in „Il Diritto. Giornale della Democrazia Italiana“ (Jg. 21. Nr. 193. Rom 12. Juli 1874. S. 3) eine Replik auf Ferretti Violas Rezension; siehe den Brief von Gregorovius an Raffaele Mariano vom 14.7.1874. Ferretti Viola hatte bereits früher über Gregorovius in der „Nuova Antologia“ geschrieben: Viaggi in Italia di Ferdinando Gregorovius. In: Nuova Antologia di Scienze, Lettere ed Arti. Bd. 20. Florenz: Nuova Antologia 1872. S. 838–856.</note></seg>. </p>
+<p>Aggradisca i sentimenti della più alta stima, coi quali mi segno</p>
+                <closer>
+<salute rendition="#right">servitor suo devoto</salute>
+<signed>Ferdin. Gregorovius. <lb/></signed>
+</closer>
+<closer rend="paragraph">
+<salute rendition="#right">Roma, <placeName key="ediarum_lmm_slx_qlb">Via Gregoriana</placeName> 13.</salute>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

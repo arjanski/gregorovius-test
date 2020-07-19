@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000072">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Baden-Baden. München, 17. Dezember 1876</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt></titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. und 1 Bl., 4°, 2 S. </p>
+<p> ein Exemplar der „Apulischen Landschaften“ (1877) von Gregorovius</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness><bibl type="print">Alessandro Savorelli: Dal carteggio di Raffaele Mariano. In: Giornale critico della filosofia italiana. Jg. 72 (74). Ser. 6. Bd. 13. Florenz 1993. S. 222 (Auszüge)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+<p xml:lang="de">Brockhaus hat ihm eine Brief von Wilhelm Lang gesandt, der Marianos „Roma nel medio evo“ (1873) in deutscher Übersetzung eingereicht hat. Gregorovius wird um Begutachtung gebeten. Er rät Mariano ab. Brockhaus hat er mitgeteilt, dass die Übersetzung grundlegend überarbeitet werden muss, der Inhalt für den deutschen Buchmarkt überholt ist und daher allenfalls eine kleine Auflage ratsam ist. Mariano hätte ihn zuvor über das Unternehmen informieren sollen. In dieser Studie ist Mariano über die metaphysische heglianische Geschichtssauffassung noch hinausgegangen, was dem Buch geschadet hat. Es hätte vor seiner Übersetzung inhaltlich von Mariano überarbeitet werden müssen. Er übersendet seine „Apulischen Landschaften“ (1877) als Erinnerung an die gemeinsam unternommenen Reisen. Er ist in seine grichischen Studien vertieft. Grüße an Pierre Albert Tachard und Wilhelmine Tachard-Grunelius sowie an Karl Lindemann-Frommel.</p>
+<p xml:lang="en"/>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000734">München</placeName>
+                    <date when="1876-12-17" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000623">Baden-Baden</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">Monaco, 17. <foreign xml:lang="deu">Dec<ex>ember</ex></foreign> 1876.</dateline>
+<salute>Caro amico,</salute>
+</opener>
+<p>sono informato dal <orgName key="G000480">Brockhaus</orgName>, che gli è <add place="superlinear">stata</add> fatta l’offerta di stampare una versione tedesca del „<bibl sameAs="G004780">Roma nel medio evo</bibl>“. L’editore, avendomi mandato la lettera del <seg type="comment"><orig>Sig<ex>nor</ex> <persName key="G001354">Lang</persName></orig><note xml:id="nycw_hgw_zlb">Der Stuttgarter Publizist und Schriftsteller Wilhelm Lang (1832–1915) hatte eine Rezension der „Lucrezia Borgia“ (1874) von Gregorovius publiziert unter dem Titel „Aus dem Zeitalter der Renaissance“ in: Im neuen Reich. Wochenschrift für das Leben des deutschen Volkes in Staat, Wissenschaft und Kunst. Jg. 7. Bd. 2. Leipzig: Hirzel 1874. S. 321–327. Er gehörte in den 1870er Jahren zu den wichtigsten Mitarbeitern dieser Zeitschrift, deren Herausgeber er 1879–1881 wurde.</note></seg>, <seg type="comment"><orig>il quale è l’offerente</orig><note xml:id="najw_3gw_zlb">Die von Adelheid Grunelius (1813–1887) angefertigte Übersetzung Raffaele Marianos „Roma nel medioevo“ (1873) erschien nie im Druck. Gregorovius hielt die Übersetzung zu mangelhaft und Marianos Umgang mit Geschichte für zu philosophisch für den deutschen Markt (siehe den Brief von Gregorovius an Raffaele Mariano, 12.1.1877).</note></seg>, si rivolge a me colla domanda di <seg type="comment"><orig>dirgliene coscienziosamente il mio parere</orig><note xml:id="nn1t_jgw_zlb">Siehe Gregorovius Antwortschreiben an Wilhelm Lang vom 14.12. und 16.12.1876. In letzterem lehnt er die Bearbeitung der Übersetzung entschieden ab und bittet Lang, Mariano von dem Vorhaben ganz abzubringen (Württembergische Landesbibliothek &lt;Stuttgart&gt; ; Sign. Cod.hist.8° Nr. 156, Fasz 107).</note></seg>.</p>
+<p>La cosa mi ha sorpreso altamente, giacchè non ne seppi nulla finora, né lei punto me la fece richiedere allorchè ultimamente passò per Monaco.</p>
+<p>Il Sig<ex>nor</ex> <persName key="G001354">Lang</persName> offrì il manoscritto all’ editore con protestare, che vi occorrerebbe ancora una revisione, e che l’editore stesso dovrebbe, ove il volesse, assumersi l’incarico, di impiegare <pb n="1v"/>a questo fine una persona sufficiente, e ciò a spesa del traduttore.</p>
+<p>Ecco il primo passo sbagliato. Mi spiegherò. Come mai <del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del> <seg type="comment"><orig>puossi</orig><note xml:id="nttp_kgw_zlb">Historische Variante von „si può“.</note></seg> pretendere di trovarsi compiacente un editore qualunque, se la cosa offertagli è difettosa, se essa viene riconosciuta come tale dall’offerente, e, peggio ancora, se si pretende, che l’editore stesso s’aggravi le spalle della pena di andar in cerca di una terza persona, che attenda alla revisione del manoscritto difettoso?</p>
+<p>Ho scritto al Sig<ex>nor</ex> Lang, e da esso mi sono informato, che la versione del libro non va bene, che non gli bastava il tempo di attendere egli stesso a migliorarla, e <del rendition="#s">che</del> quindi che una terza persona vi dovrebbe attendere. Egli ha tutta ragione. Chè riformare una <pb n="2r"/>versione cattiva, è fatica, che equivale quella di rifarla tutta di pianta, giacchè il ritoccarla di qua e di la non serve a nulla.</p>
+<p>Essendo posto così fra due doveri, quello dell’amicizia con lei, e quell’altro della verità che debbo al <persName key="G000995">Brockhaus</persName>, mi sono spiegato verso lui in questi termini:</p>
+<p>prima: di non poter consigliargli l’impresa, ove non fosse convinto, che la traduzione è cosa buona; poi: il libro esser prodotto da un uomo pieno di spirito, ma non per tanto <subst><del rendition="#s">per</del><add place="superlinear">esser</add></subst> tale da non <add place="intralinear">puoter</add> venir apprezzato che da pochi lettori tedeschi, non contenendo per la <placeName key="G000664">Germania</placeName> cosa di nuovo, poiché quelle quistioni, che vi sono discusse, sono <add place="superlinear">state</add> molte volte disaminate dai tedeschi. Avendo dovuto spiegarmi in questo senso, nello stesso tempo ho detto al Brockhaus, che ciò non dovrebbe distornarlo dall’offerta, giacchè crederei, che la spesa della stampa <pb n="2v"/>verrà<del rendition="#s">nno</del> ricoperta, ove la si limitasse ad una quantità di copie adeguata ai bisogni del publico tedesco.</p>
+<p>Ecco, caro amico Mariano, che <add place="superlinear">le</add> mi metto dinanzi con ogni schiettezza di animo. Secondo quel che vedo io dal punto di vista non solo mercantile ma pure letterario, il suo libro è articolo, che difficilmente si farà strada in Germania, massimamente, e mi permetta di dirlo francamente, perché il metodo<del rendition="#s">,</del> di trattar i fatti di storia, adoperato<add place="superlinear">vi</add> da lei, sente troppo la formula <seg type="comment"><orig>del <persName key="G001253">Hegel</persName></orig><note xml:id="nq4q_lgw_zlb">Der Sohn des Philosophen Georg Wilhelm Friedrich Hegel (1770–1831), Karl von Hegel (1813–1901), den Gregorovius bereits im September 1863 persönlich kennengelernt hatte.</note></seg>, e si spinge a tale eccesso di speculazione metafisica, che la realtà delle cose vi si dissolve interamente in una generalità di riflessioni, la quale, come cosa oramai fuori di moda, non alletta più il lettore tedesco. Ed era appunto codesto metodo suo, che un dì mi mosse <seg type="comment"><orig>a ricamargli quelle parole „<foreign xml:lang="deu"><hi rendition="#aq">Mehr Erde</hi></foreign>!“</orig><note xml:id="nwbr_mgw_zlb">In seinem Brief vom 7. Juni 1876 riet er Raffaele Mariano zu mehr Bodenständigkeit bei seinen Arbeiten („Mehr Erde! Mehr Erde!“) und forderte ihn auf, der philosophierenden Reflexion zu entsagen sowie der Nachwelt ein wirkungsträchtiges Werk zu hinterlassen, zum Beispiel über die Geschichte des evangelischen Gedankens in Italien.</note></seg></p>
+<p>Sono persuaso che non avrà per male la mia franchezza, chè l’amicizia non varrebbe a nulla, <pb n="3r"/>ove <add place="superlinear">all’amico</add> non <del rendition="#s">le</del> forse lecito, di servirsi di altra lingua fuori di quella, che sta in bocca ai diplomatici.</p>
+<p>Se lei al tempo che era qui, avesse porto fiducia in me, con darmi parte dei suoi desideri, allora avremmo potuto combinar meglio l’affare. Chè anzi tutto l’avrei consigliato, di riformare il libro stesso, di restringere la parte filosofica troppo prolissa, e alla fine di renderne la versione cosa per ogni verso forbita.</p>
+<p>Ora, che la traduzione da offrirsi all’editore è in quello stato, che mi vien detto, non so precisamente, come servirla, e come servir me stesso, che non ho desiderio più vivo di quello, di puoter contribuire a renderla noto in Germania, massimamente per via di un libro, che lei spinto dalla simpatia sua verso di me, ha scritto più per causa mia proprio, che per qualunquesiasi altro motivo.</p>
+<p><pb n="3v"/>Colla medesima posta di quest’oggi le invierò sotto fascia il <bibl sameAs="G003342">V. volume dei Wanderjahre</bibl>, piccolo ricordo dei nostri viaggi per quelle parti della Puglia.</p>
+<p>Stò alquanto meglio, dacchè il rigore dell’inverno si è mitigato in guisa, che abbiamo tempo quasi di primavera. Mi sono immerso negli <bibl sameAs="G003531"><seg type="comment"><orig>studi del decadimento dell’ Ellenismo</orig><note xml:id="nhtq_ngw_zlb">Er begann die Arbeiten an seinem erst 1889 erscheinenden zweibändigen Werk zur „Geschichte der Stadt Athen im Mittelalter“ (siehe RT, Sommer, Herbst und Winter 1876/77, S. 373).</note></seg></bibl>, e spero di ricavarne un dì qualche frutto aggradevole.</p>
+<p>Non si disperi di animo, caro Mariano, per tutti quegli ostacoli, che ha da superare ancora nella sua camera. La vita è lotta; ed egli è col lottare che alla fine si vince, e si corona di allori. Ho lottato forse più di lei nell’età sua.</p>
+<closer>
+    <salute xml:id="s1" next="#s2">I <persName key="G001111"><persName key="G001203"><persName key="G001109">miei</persName></persName></persName> la salutano meco caramente. Faccia la mia parte in casa <persName key="G001632">Grunelius</persName> <foreign xml:lang="Lat">et</foreign> <persName key="G001631">Tachar</persName>, e stringa in nome mio la </salute>mano al Lindemann. Mi scriva presto. Tutto suo<salute xml:id="s2" prev="#s1" place="left" rendition="#rotate90"/>
+<signed rendition="#right">FGr.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

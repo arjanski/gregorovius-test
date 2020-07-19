@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000407">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Luigi Tosti in Montecassino. Rom, 25. Oktober 1859</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Montecassino, Archivio dell’Abbazia</repository><collection>Carteggio Tosti</collection><idno>115</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S. – 2v, Blatt um 90° gedreht, Adr.: Al / reverend<ex>.</ex> Padre / Don Luigi Tosti, Abbate </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Tommaso Leccisotti: Alcune lettere di Ferdinando Gregorovius a Monaci Cassinesi. In: Benedictina. Fascicoli di studi Benededettini. Jg. 14. Fasc. 1. Rom: S. Paolo 1967. S. 138–139</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die Geschenke, darunter Tostis „Storia di Bonifazio VIII. e de’suoi tempi“ (1846) und ermuntert zur Weiterarbeit an seinen „Prolegomeni alla storia universale della Chiesa“ (1861). Über den Frieden von Villafranca, den geplanten europäischen Kongress, die Situation in der Toskana und die Auseinandersetzungen Napoleons III. mit dem französischen Klerus. Tosti soll Nicola d’Orgemont über die prekäre politische Situation in Deutschland informieren. Grüße an den Prior Carlo II. de Vera.</p>
+                <p xml:lang="en">He expresses his gratitude for the gifts, including Tosti’s „Storia di Bonifazio VIII. e de’suoi tempi“ (1846) and encourages him to continue working on his „Prolegomeni alla storia universale della Chiesa“ (1861). On the Peace of Villafranca, the planned European Congress, the situation in Tuscany and Napoleon III’s clashes with the French clergy. Tosti is to inform Nicola d’Orgemont about the precarious political situation in Germany. He sends his regards to the Prior Carlo II de Vera.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1859-10-25" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001655">Tosti, Luigi (1811–1897)</persName>
+<placeName key="G000730">Montecassino</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">Roma, 25 Ott<ex>o</ex>bre 1859.</dateline>
+</opener>
+<p>Mi creda, chiarissimo <seg type="comment"><orig>Don Luigi</orig><note xml:id="nqhy_s4j_vlb">Der Historiker und Benediktiner Luigi Tosti (1811–1897) gehörte dem liberalen Klerus Italiens an und sprach sich für päpstlichen Verzicht auf weltliche Macht aus. Gregorovius lernte ihn im Oktober 1859 in Montecassino kennen und schätzen (siehe RT, 6.10.1859, S. 85 sowie den Brief von Gregorovius an Moritz Hartmann vom <ref target="G000080">10.12.1859</ref>). In Montecassino war Tosti ein wichtiger Gesprächspartner für Gregorovius. Sie besprachen theologische Fragen und politisches Zeitgeschehen, genauso wie Aspekte ihrer wissenschaftlichen Arbeiten. Im zweiten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1859, S. 9) verweist Gregorovius auf Tostis „Storia della badia di Monte Casino“ (3 Bde., Neapel 1842–1843). Während keine Briefe von Tosti an Gregorovius auf uns gekommen sind, haben sich im Archiv von Montecassino acht Autographen des Deutschen an den Pater erhalten. Der Ton in den Briefen, in denen es vornehmlich um die politischen Ereignisse der Zeit, um aktuelle wissenschaftliche und kulturelle Ereignisse sowie um die Forschungsarbeiten der beiden geht, ist ein sehr offen-zugewandter, der Gregorovius’ große Anerkennuung für Tosti erkennen läßt. Dem Deutschen war es ein Anliegen, sich dem Pater gegenüber in bestem Licht zu zeigen und seine tiefe Anerkennung für Montecassino als Wissenschaftsstandort auszudrücken.</note></seg>, che Monte Casino splenda <seg type="comment"><orig>nella mia memoria come fulgida stella</orig><note xml:id="ndm3_54j_vlb">Gregorovius war vom 5.–18. Oktober 1859 für Archivarbeiten für seine „Geschichte der Stadt Rom im Mittelalter“ in Montecassino; siehe die Briefe von Gregorovius an Sebastiano Kalefati vom <ref target="G000405">12.8.1859</ref> und <ref target="G000406">23.10.1859</ref>. </note></seg>. Le scrivo queste poche righe, onde salutarla di cuore, e per dirle, che delle ore passate in sua compagnia mi è rimasta una traccia viva. I suoi preziosi doni or fanno capo di fila in una scanzia tutta nuova, e in questi giorni mi mettero a leggere <seg type="comment"><orig>il primo tomo di <bibl sameAs="G004244">Bonif<ex>acio</ex> VIII</bibl>.</orig><note xml:id="nevf_w4j_vlb">Luigi Tosti. Storia di Bonifazio VIII. e de’ suoi tempi. Montecassino 1846 (2 Bde.): https://books.google.it/books?id=bIsQAAAAIAAJ&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false.</note></seg> Lei, Don Luigi, unisce nell’indole sua facoltà, che ordinariamente si trovano staccate una dall’altra; la sua forza, ei parmi così, sta nell’intuizione, e la sua mente posata felicemente sopra un fondo di meditazione filosofica ... agisce rapidamente coll’ indovinar poetico. Lei è nato per gettar larghi e lucenti lumi sopra le scienze. Scriva, scriva la <pb n="1v"/><choice><sic>la</sic><corr type="deleted"/></choice> <bibl sameAs="G004245">sua filosofia della storia della chiesa</bibl>, ossia dell’umanità, e noi ne vedremo nascere un magnifico risultato. Finalmente i turbini, cui opprimono al presente il movimento letterario, si calmeranno, e <seg type="comment"><orig>Lei potrà metter mano a quella già trattata edizione di Firenze</orig><note xml:id="nkgx_x4j_vlb">Tosti veröffentlichte 1861 seine über 500-seitigen „Prolegomeni alla storia universale della Chiesa“ (2 Bde., Florenz: Barbera): https://archive.org/details/prolegomenialla00tostgoog/page/n9. Gregorovius hörte aus dieser Schrift bei seinem Besuch in Montecassino (vgl. RT, 12.10.1859, S. 88). </note></seg>.</p>
+<p>Non sò quanto io potrei scriverle di cose politiche senza ch’io temi di destar infondati sospetti contra di Lei, se mai si aprisse una tale lettera innocua. La pacè e conchiusa sui 18. di questo mese, e sopra <seg type="comment"><orig>le basi di <placeName key="G000814">Villafranca</placeName></orig><note xml:id="nurs_z4j_vlb">Der in Villafranca di Verona geschlossene Vorfriede vom 11. Juli 1859 beendete den Sardinischen Krieg mit einem Sieg des Königreichs von Sardinien-Piemont über das Königreich Österreich. Gregorovius bezieht sich hier auf die im Oktober 1859 unterzeichneten Vertragsabschlüsse. Erst am 10. November 1859 wurde der Vorfriede im Definitivfrieden von Zürich endgültig bestätigt.</note></seg>. Si parla vieppiù di <seg type="comment"><orig>un congresso, di cui, dopo domande dell’<placeName key="G000647">Austria</placeName>, prenderanno parte undici, o tredici potenze, per far crescere il partito e i voti catolici</orig><note xml:id="nq1x_bpj_vlb">Ein europäischer Kongreß soll die Italienfrage verhandeln (siehe AZ, Nr. 287, 14.10.1859, S. 4677–4678).</note></seg>. La quistione italiana sta sul forse come prima, <pb n="2r"/>benchè <seg type="comment"><orig>si parli molto della restaurazione in <placeName key="G000823">Toscana</placeName></orig><note xml:id="nwqk_dpj_vlb">Leopold II. (1797–1870), Großherzog der Toskana, widersetzte sich im April 1859 einer Volkserhebung in Florenz, die ihn zwingen wollte, sich dem Königreich Sardinien-Piemont anzuschließen. Aus der Verpflichtung zur Neutralität Österreich gegenüber, verließ er die Toskana und dankte im Juli 1859 ab. Sein Sohn Ferdinand IV. (1835–1908) regierte allerdings nicht mehr, da sich die Toskana nach einer Volksabstimmung 1860 dem Königreich Sardinien anschloß. </note></seg>, la quale pare probabilissima. <seg type="comment"><orig>Si è messo in campo or ora contra <persName key="G001442">Napoleone</persName> una altra potenza, cioè tutto il clero della <placeName key="G000674">Francia</placeName>, o per meglio dire; l’episcopato</orig><note xml:id="nyg3_fpj_vlb">Kaiser Napoleon III., Louis Napoleon (1808–1873), unterstützte Italien auf dem Weg zur Einigung. Im Sardinischen Krieg stand Frankreich dem Königreich Sardinien zur Seite, was es sich nach dem Sieg über Österreich durch Abtretung der Grafschaft Nizza und Savoyens entgelten ließ. In Frankreich selbst machte sich der zunehmend autoritär regierende Napoleon durch Putschversuche und verlorene Schlachten immer unbeliebter.</note></seg>. Vedremo, se N<ex>apoleone</ex> alla lunga potra far fronte. Il mondo sta in una delle più forti crisi, che si abbia veduto mai. Il congresso deve trattare gli affari del dominio temporale, e la <orgName key="G000539">S<ex>anta</ex> Sede</orgName> non potra sommettersi ai voti di un congresso. <seg type="comment"><orig>N<ex>apoleone</ex> avendo proclamato la libertà dei voti dei popoli come la legittima sorgente del potere sovrano</orig><note xml:id="ngss_gpj_vlb">In seiner Neujahrsrede am 1. Januar 1859 hatte Louis Napoleon Österreich aufgrund seiner Rolle in Italien scharf angegriffen.</note></seg>, non potra fàr meno riguardo all’<placeName key="G000690">Italia</placeName>, e se mai cedesse al Clero, lui cede pure il proprio suo fondamento, e principico.</p>
+<p>Abbia la bontà di dire a <seg type="comment"><orig><persName key="G001064">Don Nicola</persName></orig><note xml:id="nfmz_hpj_vlb">Der Philosoph und Benediktiner Nicola d’Orgemont (1826–1896) lehrte seit 1850 in Montecassino und war dort Abt von 1871 bis 1896. </note></seg>, che il movimento nella <placeName key="G000664">Germania</placeName> vada indietro anzi che nò. </p>
+<p xml:id="p4" next="#p5">Duol mi di non aver potuto salutare <subst><del rendition="#ow">Il</del><add place="across">il</add></subst> chiarissimo <persName key="G001090"><seg type="comment"><orig>De Vera</orig><note xml:id="nvpm_jpj_vlb">Carlo II. Maria de Vera (*1820) war von 1863 bis 1871 Abt in Montecassino.</note></seg></persName>, padre priore, e la prego di vuoler esprimergli i miei </p>
+<p xml:id="p5" prev="#p4" place="left" rendition="#rotate90" next="#p6">profondi rispetti. Quando nella mattinà della mia partenza dal sempre risplendente cielo di M<ex>onte</ex> Casino calai nella fitta nebbia di <placeName key="G000815"><del rendition="#s">M. Casi</del> <seg type="comment"><orig>S<ex>an</ex> Germano</orig><note xml:id="na21_lpj_vlb">Damaliger Name der Gemeinde Cassino in der Provinz Frosinone.</note></seg></placeName>, e mi trovai fra <pb n="1v"/> </p>
+<p xml:id="p6" prev="#p5" place="left" rendition="#rotate90" next="#p7">i bugiardi vetturini, e il chiasso di quella piazza, <seg type="comment"><orig>io viddi il verace contrafatto della Transfigurazione di <persName key="G001522">Raffaello</persName></orig><note xml:id="nhcb_npj_vlb">Als Metapher für das von Raffael (1483–1520) 1516/1520 (Vatikanische Museen) geschaffene, zweigeteilte Bild, das im oberen, helleren Bereich die Verklärung Christi auf dem Berg Tabot und im unteren, dunkleren Bereich die Heilung des mondsüchtigen Knaben zeigt.</note></seg>. E meglio non si potrebbe depingere il contrasto fra M<ex>onte</ex><pb n="1r"/> </p>
+<p xml:id="p7" prev="#p6" place="left" rendition="#rotate90">Casino, e S<ex>an</ex> Germano. Felici loro, che godono luce, pace, non interrotti studj! Io saluto di cuore M<ex>onte</ex> Casino, e mi voglia bene, Don Luigi.</p>
+<closer>
+<salute rendition="#right">Con profonda e vera stima</salute>
+<signed rendition="#right">Servitor suo F. Gregorovius.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

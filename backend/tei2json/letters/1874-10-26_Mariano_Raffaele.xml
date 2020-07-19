@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000163">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Raffaele Mariano. München, 26. Oktober 1874</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno> <idno type="shelfmark"/> </idno>
+                            </msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno> <idno type="shelfmark"/> </idno>
+                            </msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er gratuliert zum Erscheinen von Marianos italienischer Übersetzung seiner „Lucrezia Borgia“ (1874). Cesare Foucard und Giovanni Ognibene haben Freiexemplare erhalten. Wenn Le Monnier keine weiteren Freiexemplare einräumen will, zahlt er sie selbst. Das Honorar soll an ihn als Autor und an Mariano gehen, der Rest soll für die Druckkosten des Gipsabdrucks der Lucrezia-Medaille und der Faksimiles verwendet werden; zudem sollen Aufwendungen von Auguste Lindemann-Frommel ersetzt und eine Rücklage für eine gemeinsame Reise im kommenden Jahr gebildet werden. Die dritte deutsche Auflage seiner „Lucrezia Borgia“ (1875) ist im Druck; sie wird zusätzliche Briefe von Lucrezia aus Nepi enthalten. Ein Exemplar der Erstauflage (1874) von Auguste Lindemann-Frommel soll an Ersilia Caetani Lovatelli gehen. Er sitzt Karl Lindemann-Frommel Porträt. Sein Artikel „Manfredonia“ ist auf dem Weg zu Mariano, Anfang November wird „Der Erzengel auf dem Berge Garganus“ folgen (beide 1874). Grüße an die Familie des Markgrafen Goachino Cutinelli Rendina, Clemente Maraini, Biagio Miraglia und Costantino Corvisieri sowie von seinem Bruder Julius.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName>
+                    <date when="1874-10-26" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000671">Florenz</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c">Monaco, 26. Ott<ex>o</ex>bre 1874.</dateline>
+<salute rendition="#c">Caro amico Mariano,</salute>
+</opener>
+<p> <bibl sameAs="G004388">la sua versione della Lucrezia</bibl> non lascia a desiderare nulla: essa è opera distinta tanto per eleganza di lingua, quanto per semplicità, e mi pare, che appunto in questa consiste l’arte dello scrivere. Credo, che ne proverà una vera soddisfazione.</p>
+                <p>Ebbi lettere dal <persName key="G001134"><seg type="comment"><orig>Foucard</orig><note xml:id="nzz3_kb4_zlb">Cesare Foucard (1825–1892) war ein Archivar und Professor für Paläographie am Generalarchiv Venedig. Von 1873–1887 war er Direktor des Archivio di Stato in Modena. Gregorovius war bei mehreren Forschungsaufenthalten (u.a. 1873 u. 1874) Gast in Foucards Haus und würdigte dessen Entgegenkommen bei seinen Archivrecherchen im Vorwort der „Lucrezia Borgia“ (1874): „Dieser ausgezeichnete Mann bemühte sich für meinen Zweck mit einer wahrhaften Liberalität, wie sie eines Nachfolgers Muratori’s in jenem Amt würdig ist. Er erleichterte mir meine Arbeit auf jede Weise.“ (S. XV; siehe RT, S. 332 sowie den Brief von Gregorovius an Mariano, 21.7.1873). </note></seg></persName>, il quale m’informa, che le due copie del libro destinate a lui e al <seg type="comment"><orig>Dr. <persName key="G001459">Ognibene</persName></orig><note xml:id="nf5n_lb4_zlb">Giovanni Ognibene (1843–1911) war Archivar in Modena (seit 1870 Volontär am Archivio governativo di Modena; seit 1873 an den Archivi di Stato a Modena, seit 1875 Unterarchivar am Archivio di Stato in Modena).</note></seg> sono giunte a <placeName key="G000670">Ferrara</placeName>. <seg type="comment"><orig>La ringrazio di questa spedizione</orig><note xml:id="nmhq_mb4_zlb">In einem Brief vom 11. Oktober 1874 hatte Gregorovius um den Versand von Freiexmplaren an die Archivmitarbeiter Cesare Guasti (1822–1889, Florenz), Stefano Davari (1836–1909, Mantua), Giovanni Zucchetti (Mantua), Luigi Napoleone Cittadella (1806–1877, Ferrara) und Cesare Foucard (1825–1892, Modena) gehen. ; dabei monierte er Le Monniers geringe Bereitschaft, eine anständige Menge an Freiexemplaren bereitzustellen. Exemplare, für die Gregorovius selbst aufkommen wollte, waren darüber hinaus für Giovanni Ognibene (1843–1911, Modena) und Attilio Hortis (1850–1926, Triest) geplant.</note></seg>, come di ogni altra già fatta o da farsi ancora. Se mai il <orgName key="G000528">Le Monnier</orgName>, ovvero il parlamento Fiorentino, che costui convoca per le sue miserie, non acconsentisse a regalarmi di quelle copie, che desiderai, farò io volentieri le spese di quelle mandate da lei in nome mio ai miei corrispondenti, non volendo io, che si privi, di esemplari che sono di competenza sua propria.</p>
+<p>In quanto allo sborsamento dei danari convenuti fra me e l’editore, Ella è il mio <foreign xml:lang="Lat">Alter Ego</foreign>, essendo <pb n="1v"/>anche munita di uno scritto mio autografo per ogni occorrenza riferentesi a questa faccenda. I danari bisogna riscuoterli: sono secondo il patto ossia il contenuto della lettera del Le Monnier, che tiene in mano, lire 1500, la quale somma però verrà diminuita di quanto il tipografo ha speso per la riproduzione <seg type="comment"><orig>della Medaglia e delle lettere autografe</orig><note xml:id="nv5s_nb4_zlb">Für das Titelblatt seiner deutschsprachigen „Lucrezia Borgia“ (1874) hatte sich Gregorovius von dem Berliner Numismatiker Julius Friedländer (1813–1884) die Gips-Reproduktion nach einer Münze aus dem Berliner Münzkabinett besorgt, die ein als authentisch geltendes Lucrezia-Porträt zeigt (siehe die Briefe von Gregorovius an Cotta, 3.10.1873). Am 7.2.1874 und erneut am 11.4.1874 hatte Gregorovius bei Cotta um unentgeltliche Überlassung der Abbildungsrechte für die Gips-Reproduktion der Medaille und der Faksimiles aus dem Archiv Este im Archivio di Stato di Modena und dem Archivio Gonzaga in Mantua für den Dokumenten-Anhang der italienischen „Lucrezia Borgia“ (1874) angefragt (DLA Marbach, Cotta-Archiv, Cotta-Briefe, 182 und 187 – 11.4.1874 gekürzt gedruckt in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 351).</note></seg>. Or, avendo io il diritto di disporre della somma da realizzarsi, ne disporrò di questo modo: Ella avrà da ritenere per sé e come proprietà sua lire 1000; il rimanente me le riserbo io per un piccolo viaggio, che faremo nell’anno avvenire insieme; per ciò la prego di consegnare la parte mia alla <persName key="G001374">signora Lindemann</persName>, con dirle che con questi danari cuopra certe spese fatte da essa per me.</p>
+<p> <pb n="2r"/>Stà sotto torchio <bibl corresp="G003507">l’edizione terza</bibl>, arricchita assai per mezzo di documenti nuovi, fra cui figurano anche 7 lettere di <persName key="G000985">Lucrezia </persName>scritte al tempo che pianse la morte del <persName key="G000939"><seg type="comment"><orig>giovane sposo</orig><note xml:id="nuqp_pb4_zlb">Alfonso d’Aragona (1481–1500), Herzog von Bisceglie (duca di Bisceglie), ab 21. Juli 1498 zweiter Ehemann von Lucrezia Borgia, der nach machtpolitischen Auseinandersetzungen sowohl mit Lucrezias Bruder Cesare (1475–1507) als auch mit ihrem Vater Papst Alexander VI. (1431–1503) aus Rom zunächst fliehen musste, und später dort Opfer eines Attentats wurde. Zwar überlebte er den Anschlag, allerdings wurde er noch während seiner Genesung erdrosselt. Der Mord, der vermutlich auf das Konto Cesare Borgias zurückgeht, spaltete die gesamte Familie und Lucrezia zog sich mit einer Gefolgschaft nach Nepi zurück. Aus dieser Zeit sind einige ihrer Briefe erhalten, die Gregorovius in seiner Lucrezia-Biografie (1874) beschreibt: „Wir besitzen aus der Zeit jenes trauervollen Aufenthaltes Lucrezias in der Burg Nepi einige ihrer Briefe, und diese sind außerordentlich wertvoll als die einzigen überhaupt, welche aus der ganzen römischen Periode der berühmten Frau erhalten oder doch bis jetzt entdeckt worden sind. Sie stammen aus ihrer Kanzlei in Ferrara. Lucrezia richtete sie an ihren vertrauten Diener Vincenzo Giordano in Rom, teils eigenhändig, teils durch ihren Sekretär Cristoforo. Sie unterzeichnete sich darin: »die unglückselige Prinzessin von Salerno«, doch hat sie dann die Worte principessa de Salerno selbst wieder durchstrichen und nur das Wort La infelicissima stehen lassen; nur in einem einzigen undatierten Briefe blieb die ganze Unterschrift.“ (Kap. XVII)</note></seg></persName> nell’esilio in <placeName key="G000740">Nepi</placeName> – lettere preziosissime, massimamente perché sono le sole rimasteci dal periodo romano, di questa donna. <bibl corresp="G003510"><seg type="comment"><orig>L’edizione</orig><note xml:id="ntmx_vb4_zlb">Die 3. „verbesserte und vermehrte Auflage“ seiner „Lucrezia Borgia“ (1875) wurde schließlich um 50 Seiten vermehrt – der Dokumenten-Anhang wurde um 27 Seiten vermehrt und enthielt nicht mehr 59, sondern 68 Nummern. Neu aufgenommen wurden: vier Briefe von Lucrezia Borgia an Vincenzo Giordano, 28.-30.10.1500; ein Dekret der Herzogin Lucrezia zum Schutz der Juden, 28.5.1506; der Brief von Isabella von Mailand a Perot Castellar, 14.10.1512; zwei Briefe von Don Juan Borgia an den Herzog Alfonso, 8. und 22.6.1519 sowie ein Verzeichnis von Büchern im Besitz der Donna Lucrezia aus den Jahren 1502 und 1508 (https://archive.org/details/lucreziaborgian01greggoog/page/n398).</note></seg></bibl> sarà pubblicata, come credo, al prossimo natale.</p>
+<p>La signora Lindemann conserva ancora una copia della <bibl corresp="G003509">Lucrezia</bibl> di legatura verde, destinata da me per  <seg type="comment"><orig><persName key="G001011">Donna Ersilia</persName></orig><note xml:id="npx5_yb4_zlb">Die etwa zwanzig Jahre jüngere Gräfin Ersilia Caetani Lovatelli (1840–1925), Tochter von Michelangelo Caetani (Herzog von Sermoneta 1804–1882), die sich mit ihren archäologischen und stadthistorischen Forschungen Ansehen erwarb, gehörte zu Gregorovius’ engem, späteren Bekanntenkreis in Rom. Im Alter von 24 Jahren wurde sie Ehrenmitglied des Deutschen Archäologischen Instituts. Seit 1879 war sie das erste weibliche Mitglied der römischen Accademia dei Lincei (vgl. RT, S.. 416). Gregorovius verkehrte wie auch Mommsen regelmäßig im Salon der „gelehrtesten Frau Roms und vielleicht Italiens“ (RT, S. 336). Seine Briefe an die Gräfin erschienen in Auszügen bereits 1896 (Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli, ed. Sigmund Münz, Berlin 1896), ihre Gegenbriefe sind erhalten, aber unveröffentlicht.</note></seg>. Abbia la compiacenza di prendere questa copia dalla signora Lindemann e di consegnarla a Donna Ersilia in nome mio, senza aggiungere altro, che il dire, esser lei incaricato da me a presentarle questo libro.</p>
+<p>Sto bene quà. Il tempo è magnifico; splende il sole, e l’aria alquanto fresca, ma serena mi rinnova le forze. Le mie occupazioni sono lievi, e nello stesso tempo anche amene. La <pb n="2v"/>signora Lindemann le avrà dato poste del <seg type="comment"><orig>nuovo disegno mio</orig><note xml:id="nf11_cc4_zlb">Nicht ermittelt.</note></seg>, per cui deve cooperare anche il nostro buon <persName key="G001375">Lindemann</persName>. Il piano è bello, e spero che, vinte le prime difficoltà, riuscirà perfettamente.</p>
+<p>Le spedii l’articolo sopra <bibl corresp="G003988 G003989">Manfredonia</bibl>. Ai primi del Novembre uscirà anche l’ultimo sull’<bibl corresp="G003990 G003991 G003992">Arcangelo del monte Gargano</bibl>, il maggiore e migliore di tutti <seg type="comment"><orig><bibl corresp="G003986 G003987">gli altri</bibl></orig><note xml:id="ngh4_dc4_zlb">Neben den hier genannten Beiträgen erschien noch „Lucera, die Saracenen-Colonie der Hohenstaufen in Apulien“ (ED in Beilage zu Nr. 276–277 der AZ. Augsburg: Cotta 3.-4.10.1874. S. 4293–4295).</note></seg>.</p>
+<p><seg type="comment"><orig>La famiglia <persName key="G001059">Cutinelli</persName></orig><note xml:id="nu2p_2c4_zlb">Die Familie des Senators Cutinelli Rendina (1829–1885), auf dessen Anwesen in Trani Gregorovius, sein Bruder Julius und Mariano während ihrer süditalienischen Reise zum Abendessen waren (siehe RT, 14.5.-7.6.1874, S. 339).</note></seg> doveva recarsi quest’inverno a <placeName key="G000763">Roma</placeName>; se ciò fosse, prego di portarle i miei ommaggi; e cosi faccia pure in casa <persName key="G001398"><seg type="comment"><orig>Maraini</orig><note xml:id="nxdk_fc4_zlb">Ingenieur und Eigentümer des römischen Journals Il Diritto.</note></seg></persName>.</p>
+<p>Se per caso vedesse il <seg type="comment"><orig><persName key="G001425">Miraglia</persName></orig><note xml:id="nz33_gc4_zlb">Biagio Miraglia (1823–1885), kalabresischer Dichter und erster Direktor des Staatsarchivs in Rom.</note></seg> e il <seg type="comment"><orig><persName key="G001050">Corvisieri</persName></orig><note xml:id="nzqk_hc4_zlb">Costantino Corvisieri (1824–1898), Archivar des Staatsarchivs Rom, durch den Gregorovius laut seinem Tagebuch beispielsweise Einsicht in das Archiv Sancta Sanctorum im Palast Nardini erhielt (siehe RT, 9.5.1872, S. 323).</note></seg> mi farebbe un piacere di salutarli in nome mio. </p>
+<p>Il mio <persName key="G001203">fratello</persName> vuole esser ricordato presso di lei; egli ora sta in perfettissima salute.</p>
+<closer>
+<salute>Mi scriva presto. Vi saluto <lb/>
+                        <foreign xml:lang="Lat">ex corde</foreign> </salute>
+<signed rendition="#right">F. Gregorovius.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_h5w_g1z_flb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Rom. München, 28. Mai 1878</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="restricted"><licence target="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International (CC BY 4.0) </licence></availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 12°, 3 ¼ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Über den Inhalt eines an ihn adressierten Pakets soll ihn Mariano in Kenntnis setzen. Er widmet sich den Studien zum Dreißigjährigen Krieg. Julius Gregorovius reist nach überstandener Gichterkrankung nach Dresden ab. Grüße an Carlo Marchese Guerrieri Gonzaga, Clemente Maraini, Ersilia Caetani Lovatelli und ihre römische Adelsfamilie. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1878-05-28" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840-1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c"><hi rendition="#aq">München</hi>, 28. Mai 78.</dateline>
+                    <salute>Lieber Freund,</salute>
+                </opener>
+<p>obwol es mir leid thut, daß Sie durch An<supplied cert="high">ge</supplied>legenheit des <seg type="comment"><orig>Postpakets</orig><note xml:id="nojv_mdk_1mb">Um was für ein Paket es sich handelt, ist nicht nachweisbar.</note></seg> uncommodirt werden, so verdanke ich ihr doch Ihre Zeilen, u<ex>nd</ex> mit ihnen wieder eine Stimme aus Rom. </p>
+<p>Der Vorschlag <persName key="G001375">Lindemanns</persName>, das Paket nach München zurückgehen zu lassen, wäre nur dann annehmbar, wenn mir keine weiteren Portoausgaben daraus erwachsen: ist aber das der Fall, so wird es praktischer sein, wenn Sie <pb n="1v"/>das Paket an sich nehmen, es öffnen u<ex>nd</ex> mir sagen, was es enthält u<ex>nd</ex> von wem es kommt. Zu diesem Zweck sende ich Ihnen die Bescheinigung. Legen Sie für mich das Porto aus, u<ex>nd</ex> ebenso was für das Hereinschaffen des Pakets zu zahlen ist, wobei, wenn dasselbe auf der <hi rendition="#aq"><foreign xml:lang="ita">Dogana</foreign></hi> sein sollte, der Portier Lindemanns verwendet werden könnte. L<ex>indemann</ex> wird auslegen, was dieser für d<ex>en</ex> Gang zu bekommen hat.</p>
+<p>Sie beklagen sich über <hi rendition="#aq"><foreign xml:lang="ita">Scirocco</foreign></hi>, <pb n="2r"/>und ich verwünsche das ewig wechselnde Wetter hier, welches bald eisig kalt, bald gewitterschwül ist. Doch habe ich meine <bibl sameAs="G003523">Arbeiten</bibl> rüstig wieder aufgenommen, u<ex>nd</ex> <seg type="comment"><orig>denke ein paar Monate dabei zu verweilen</orig><note xml:id="ntcy_4dk_1mb">„Nach meiner Rückkehr von Rom setzte ich mit mehr Eifer und Kraft die Studien zur Geschichte des 30jährigen Krieges fort, worüber die Monate Juni und Juli hingingen.“ (siehe RT, Sommer und Winter 1878/79, S. 403). Die Arbeiten endeten in der Abhandlung: Urban VIII. im Widerspruch zu Spanien und dem Kaiser. Eine Episode des dreißigjährigen Kriegs. Stuttgart: Cotta 1879. </note></seg>. </p>
+<p>Nichts neues hier; <seg type="comment"><orig>der <persName key="G001203">Bruder</persName> ist jetzt wolan</orig><note xml:id="nn3g_qdk_1mb">Nachdem er sich von einer längeren Gichterkrankung erholt hatte, begab sich der Bruder für einige Zeit nach Dresden.</note></seg>, u<ex>nd</ex> wird in der künftigen Woche seine Reise antreten. Grüßen Sie von mir sehr alle Freunde, auch besonders<seg type="comment"><orig> <hi rendition="#aq"><persName key="ed_nfl_yj2_rlb"><persName key="G001219">Guerrieris</persName></persName></hi></orig><note xml:id="nknx_sdk_1mb">Gemeinsam mit Carlo Guerrieri und Mariano hatte Gregorovius Anfang Mai eine Reise durch Latium gemacht; siehe den Brief von Gregorovius an Giovanni Gozzadini vom 9.5.1878.</note></seg> <hi rendition="#aq"><foreign xml:lang="ita">ed</foreign> <persName key="G067878">Maraini</persName></hi>, Donna <persName key="G001011">Ersilia</persName>, <pb n="2v"/>die <seg type="comment"><orig><hi rendition="#aq"><persName key="G001004">Gaetani</persName></hi></orig><note xml:id="nq43_5dk_1mb">Die römische Adelsfamilie Gaetani, mit der Gregorovius befreundet war.</note></seg> u<ex>nd</ex> s<ex>o</ex> w<ex>eiter</ex>.</p>
+<p>Die <persName key="G001111">Meinigen</persName> grüßen Sie herzlich. Leben Sie wol!</p>
+                <closer>
+                    <salute rendition="#c">Ihr</salute>
+                    <signed rendition="#right">FGr.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

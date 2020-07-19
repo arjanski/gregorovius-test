@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000149">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Hermann von Thile in Heiden. St. Moritz, 11. August 1862</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>96/937 (24)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 55–56 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Bevor ihn Moritz Wagner und der Karl von Scherzer aufsuchen, will er den vorliegenden Brief zuende schreiben. Wenn Hermann und Ottile von Thile mit dem genesenen Albrecht von Graefe und dessen Ehefrau Anna nach St. Moritz kommen, möchte er ihnen die beeindruckende Landschaft zeigen. Er hofft, dass das Ende des Kirchenstaats auf sich warten lässt, bis er zurück in Rom ist: Als Autor der „Geschichte der Stadt Rom im Mittelalter“ wünscht er unbedingt „Augenzeuge jener Transformation“ zu sein. Wolfgang und Sophie Erhardt verlassen St. Moritz in acht Tagen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">Before Moritz Wagner and Karl von Scherzer visit him, he wants to finish this letter. When Hermann and Ottile von Thile come to St. Moritz with Albrecht von Graefe, who has recovered, and his wife Anna, he wants to show them the impressive landscape. He hopes that the end of the Papal States will wait until he is back in Rome: As author of the „Geschichte der Stadt Rom im Mittelalter“ he desperately wants to be an „eyewitness to that transformation“. Wolfgang and Sophie Erhardt are leaving St. Moritz in eight days. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000875">St. Moritz</placeName><date when="1862-08-11" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001644">Thile, Hermann von (1812–1889)</persName>
+<placeName key="G000686">Heiden (Schweiz)</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+<div type="writingSession">
+<opener>
+<dateline rendition="#right"><hi rendition="#aq">S<ex>ank</ex>t Moritz </hi>11. <hi rendition="#aq">August</hi> 62.</dateline>
+</opener>
+<p>Ihr lieber Brief, mein hochverehrtester Herr, kam gestern Abend zu mir, u<ex>nd</ex> hat mich auf das Freudigste gestimmt. Ich eile ihn, wenn auch nur mit wenig Zeilen, zu beantworten, ehe ich durch zwei Weltumsegler, <hi rendition="#aq"><persName key="G067664"><seg type="comment"><orig>Moritz Wagner</orig><note xml:id="ns1h_5k5_1mb">Mit dem in München wohnhaften Forschungsreisenden und Zoologen Moritz Wagner (1813–1887) hielt Gregorovius auch weiter Kontakt (siehe den Brief von Moritz Wagner an Gregorovius, 8.1.1871; BSB München, NL Gregorovius, Gregoroviusiana 21).</note></seg></persName></hi> und <seg type="comment"><orig><persName key="G001577">Carl Scherzer</persName> von der <hi rendition="#aq">Novara</hi></orig><note xml:id="ncyd_vk5_1mb">Der österreichische Forschungsreisende Karl von Scherzer (1821–1903) hatte sich 1857–1859 an der Novara-Expedition genannten Weltumseglung als Expeditionsschreiber und Handelsdelegierter beteiligt. Nach seiner Expedition publizierte er seine „Reise der österreichischen Fregatte Novara um die Erde, beschreibender Teil“(3 Bde. Wien 1861–1862) und wenig später ergänzend „Reise der österreichischen Fregatte Novara um die Erde, statistisch-kommerzieller Teil“ (2 Bde., Wien 1864).</note></seg>, gestört werde, und so die um Mittag abgehende Post versäume. <seg type="comment"><orig>Ihre Ankunft hieher würde die Erfüllung eines schüchternen Wunsches sein</orig><note xml:id="nszv_vk5_1mb">Wegen anhaltenden Regenwetters kamen Thiles und Graefes nicht zu Besuch nach St. Moritz, stattdessen besuchte Gregorovius die Thiles entsprechend seiner ursprünglichen Planung in Heiden (siehe RT, 27.8.1862, S. 151, den Brief von Gregorovius an Cotta vom 17.8.1862 in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 250 und seinen Brief an Thile vom 17.8.1862 in: Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 56).</note></seg>, denn gar zu gern möchte ich mit Ihnen dieses Tal, u<ex>nd</ex> dann erst recht genießend, durchziehen. Es gibt hier reizende Orte, welche Ihnen, sehr verehrte<persName key="G001645"> Frau v<ex>on</ex> Thile</persName>, die Sie die Natur so lieben, eine wahrhafte Freude machen würden, besonders <placeName key="G067549"><seg type="comment"><orig>Pontresina</orig><note xml:id="nafp_wk5_1mb">Ein nahegelegener Bergort am Berninapass.</note></seg></placeName>, u<ex>nd</ex> <pb n="1v"/>die dort nahem Roseggletscher, oder die gigantische <placeName key="G067550"><seg type="comment"><orig>Bernina</orig><note xml:id="nndg_xk5_1mb">Der über 4000 Meter hohe Berg in Graubünden.</note></seg></placeName>, wohin fahrbare Straßen führen. Die <seg type="comment"><orig>Diligenca braucht 10 Stunden von <placeName key="G067551">Chur</placeName> über den <placeName key="G067552">Julius</placeName> hieher</orig><note xml:id="nzmc_yk5_1mb">Die Reisemöglichkeit, mit einen Wagen von St. Moritz über den Julierpass nach Chur zu fahren, nutzte Gregorovius am 20. August 1862 (siehe RT, 23.8.1862, S. 151).</note></seg>, u<ex>nd</ex> ebenso viel wol die Extrapost. Man langt in <placeName key="G000875">S<ex>ank</ex>t Moritz</placeName> an, um 6 Uhr N<ex>ach</ex> Mitt<ex>ag</ex>. Ich würde bitten, mir zu schreiben, wie viel Zimmer Sie brauchen. An Logis wird es, namentlich um die Zeit Ihres Eintreffens, nicht fehlen, doch bemerke ich, daß alles hier sehr primitiv ist. Jedenfalls müßten Zimmer vorher ausgesucht werden, wozu ich das Möglichste u<ex>nd</ex> Beste thun wollte.</p>
+<p>Seit gestern Nacht sind wir im tiefen Winter, nach zwei häßlichen <pb n="2r"/>Regentagen; es ist Schnee nicht allein auf die Berge, sondern auch in die Täler gefallen, und wir haben nur 4° Grad Wärme. Gleichwol ist die Luft herrlich; nur die Näße von unten ist unangenehm. Es klärt sich indeß heute der Himmel auf; man prophezeit gerade nach diesem <seg type="comment"><orig>bornalischen Intermezzo</orig><note xml:id="nomt_yk5_1mb">Anspielung auf die hohen Niederschlagsmengen auf der indonesischen Insel Borneo.</note></seg> ein schönes Wetter.</p>
+<p>Ihren <seg type="comment"><orig><persName key="G001189">Herrn Schwager</persName> als völlig Genesenen an der Seite einer jungen und schönen <persName key="G001191">Frau</persName></orig><note xml:id="nj15_zk5_1mb">Albrecht von Graefe (1828–1870) war im September 1861 an Tuberkulose erkrankt, wodurch sich die Vermählung mit Anna, geb. Gräfin Knuth (1842–1872), bis zum 7. Juni 1862 verschoben hatte.</note></seg> wieder zu sehen, würde mir ein recht herzstärkender u<ex>nd</ex> gleichsam mit allem Ungemach im Leben (so weit dies natürlicher Egoismus zuläßt) heiter aussöhnender Anblick sein, auf den ich nun bestimmt hoffe. Ich habe nur Eines, was meine Gedanken u<ex>nd</ex> Pläne bisweilen stört: <pb n="2v"/>Dies ist <seg type="comment"><orig>die Wendung, welche dem Schicksal der Stadt <placeName key="G000763">Rom </placeName>nahe bevorzustehen scheint</orig><note xml:id="nmpv_1l5_1mb">Gregorovius rechnete mit dem baldigen Ende des Kirchenstaats, nachdem die Presse zuletzt gemeldet hatte, dass Giuseppe Garibaldi (1807–1882) in Sizilien eine Freiwilligenarmee rekrutiert hatte und vom Süden aus in Rom einmarschieren wolle (siehe RT, 13.8.1862, S. 150 und den Brief von <ref target="G000148">Gregorovius an Cotta, 11.8.1862</ref>).</note></seg>. Es würde mir eine geschichtliche Anschauung, ja gleichsam das Finale der Geschichte selber, die ich schreibe, fehlen, wenn ich nicht Augenzeuge jener Transformation sein sollte. Doch hoffe ich, daß diese <seg type="comment"><orig><hi rendition="#aq">Rabbiati</hi> u<ex>nd</ex> <hi rendition="#aq">Piagnoni</hi></orig><note xml:id="nifk_bl5_1mb">Anspielung auf die Zeit der Republik nach der Vertreibung der Medici in Florenz, die von dem Dominikanermönch Girolamo Savonarola (1452–1498) gegründet wurde, dessen Anhänger von ihren Gegnern als „Piagnoni“ (Weiner/ Nörgler) bezeichnet wurden, weil sie die Notwendigkeit der Buße für Korruption der Sitten predigten. Im Gegensatz zu den Piagnoni wurden die Anhänger Roms und von Ludovico Maria Sforza (1452–1508) als „Arrabiati“ (Wütende) bezeichnet. Savonarola wurde schließlich von dem Borgia-Papst Alexander VI. (1431–1503) als Häretiker, Schismatiker und Verächter des Heiligen Stuhls exkommuniziert und hingerichtet.</note></seg> sich noch eine Weile um Rom streiten, und meine Zustimmung zum Fall des <seg type="comment"><orig><foreign xml:lang="Lat"><orgName key="ed_onw_cld_rlb">Dominium Temporale</orgName></foreign></orig><note xml:id="nc1z_bl5_1mb">Lat.: vorübergehendes Besitztum – der weltlichen Herrschaft des Papstes.</note></seg> zuvor einholen werden.</p>
+<p><persName key="G001114 G001115 ed_wc5_klp_lkb G001116"><seg type="comment"><orig>Erhards</orig><note xml:id="nulw_cl5_1mb">Der Arzt der deutschen Krankenhauses in Rom, Wolfgang Erhardt (1819–1906), kurte mit seiner Frau Sophie, geb. Meisrimmel (1826–1914), Tochter Gabriella (Jella, 1858–1920) und Sohn Walter (1860–1904) in St. Moritz (siehe den Brief von Gragorovius an Thile vom 17.8.1862 in: Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 54–55).</note></seg></persName> reisen in 8 Tagen von hier weiter. </p>
+<p>Ihnen herzlich mich empfehlend, beschwöre ich Sie, doch ja den schönen Plan festzuhalten, und so bald als möglich hier einzutreffen. Keine größere Freude könnte wahrlich mir hier beschert werden.</p>
+<closer>
+<salute rendition="#c">In Verehrung u<ex>nd</ex> innigst ergeben Ihr</salute>
+<signed rendition="#right">F Gregorovius</signed>
+</closer>
+</div>
+</body>
+    </text>
+</TEI>

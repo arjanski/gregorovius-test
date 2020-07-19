@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000186">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Rom. München, 23. November 1875</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt></titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. – 1v aoR, Blatt um 180 Grad gedreht, Vermerk vfH mit blauem Stift: „Canonico Fibiani – Cartalano – “ </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Sein Artikel „Andria“ (1875) wurde von Domenico Guglielmi an Wilhelm Nitka weitergegeben. Auf Guglielmis Initiative soll er Ehrenbürger von Andria werden. Er hält das für unangemessen und bittet Mariano einzugreifen. Der mit seinem Bruder Julius befreundete Theodor Freiherr von Troschke sucht einen italienischen Verleger für seine „Geschichte der Kriege der Neuzeit“ (1875). Gregorovius wird Moritz Walther von der römischen Buchhandlung Loescher ansprechen und bittet Mariano, Luigi Campo Fregoso anzuschreiben. Auguste Lindemann-Frommel geht es gesundheitlich sehr schlecht. Ihr Sohn Manfred war kürzlich in München. Gregorovius hat sich beim Herausgeber der Zeitschrift „Über Land und Meer“, Friedrich Wilhelm Hackländer, über Emil Frischauer beschwert. Dieser hat in seinem Artikel „Bilder aus der römischen Gesellschaft“ (1875) behauptet, Gregorovius war von der Kronprinzessin Margeritha von Savoyen sogar zuhause besucht worden. Er hatte gestern Besuch von Julie Salis-Schwabe, die eine große Zahl von gedruckten und noch zu druckenden Briefen mitbrachte.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1875-11-23" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Monaco, 23. November 1875.</dateline>
+                    <salute rendition="#c">Caro amico Mariano,</salute>
+                </opener>
+<p>jeri ebbi una lettera del <seg type="comment"><orig><persName key="G001449">signor Nitka</persName></orig><note xml:id="npfj_kpt_zlb">Vermutlich Wilhelm Nitka (1846–1922), Königlicher Baumeister zu Berlin, der ab 1892 an der Königlichen Technischen Hochschule lehrte, ab 1895 mit Prädikat Professor für Baukonstruktionslehre in der Abteilung I für Architektur der Königlichen Technischen Hochschule zu Berlin (ab 1919 Technische Hochschule zu Berlin). Nitka war bereits 1874 an einer Ausstellung von „Reiseskizzen nach dekorativen Werken Italiens“ im Deutschen Gewerbemuseum beteiligt (siehe „Beiblatt zur Zeitschrift für Bildende Kunst“, Nr. 40, 17.7.1874, S. 646).</note></seg> data a <placeName key="G000882">Taranto</placeName>, che mi da motivo a scriverle queste righe. Il N<ex>itka</ex> viaggiando nelle<placeName key="G000817"> Puglie</placeName> ebbe dal <bibl corresp="G003999 G004000">mio articolo su Andria</bibl> contezza del nostro comune amico <persName key="G001221">Guglielmi</persName>, cui fece una visita. <add place="superlinear">Essendo</add> accolto da quel cortesissimo giovane festosamente, egli perciò mi rende le grazie di questo accoglimento ospitale, e nello stesso tempo mi fà avvertito, <seg type="comment"><orig>che il <orgName key="ed_z5f_bzy_1lb">consiglio comunale di Andria</orgName> stia per conferirmi la cittadinanza</orig><note xml:id="nt55_lpt_zlb">Auf Domenico Guglielmis Initiative ernannte der Stadtrat von Trani Gregorovius zum Ehrenbürger von Andria (vmtl. Januar 1876). Nachdem Guglielmis Übersetzung von „Andria“ kurze Zeit später im „Costituzionale“ zu Trani erschienen war, machte der Stadtrat dies jedoch wieder rückgängig, da Gregorovius die Stadt als schmutzig und gesellschaftlich ausgestorben bezeichnet hatte (siehe den Brief von Gregorovius an Raffaele Mariano vom 27.1.1876 sowie „Allgemeine Zeitung“, 27.1.1876, Nr. 27, S. 383 und „Salzburger Zeitung“, Nr. 16, 21.1.1876).</note></seg>. Lei facilmente s’immaginerà, quanto io sia sorpreso di quell’ idea, la quale, per quanto lusinghevole ed onorevole per me possa essere, attualmente mi pare cosa fuori di ogni proposito. L’onore grande, di cui si tratta, deve esser proporzionato ai meriti di chi lo riceve; or, se questi meriti miei, in quanto al comune di Andria, non hanno altro fondamento fuori di un articoletto di poche pagine, sarebbe cosa tanto disproporzionata, da far ridere il mondo. La cognizione poi, che gli Andriesi posseggono di me e dei miei lavori scientifici, <pb n="1v"/>si ristringe indubitatamente sugli studj, che il solo sig<ex>nor</ex> Guglielmi ha dedicato alle mie opere. Lascio qui dapparte ogni altra riflessione, concernente i miei rapporti con Roma, poiché da se solo lei è in grado di riflettere a quello, che non dico. Lei poi converrà meco, che il nostro ottimo amico Guglielmi stà per eccedere nella simpatia, che nutre per me. Quindi bisogna cercare un modo di fare, per cui venga impedito quell’eccesso, senza che né il Guglielmi, né qualunquesiasi altra persona si senta offeso. La pregherei di scrivere al G<ex>uglielmi</ex> di tutta confidenza, e di sconsigliarlo del proponimento suo, con dirgli, che da me per ora potrebbe esser riputata cosa almeno precipitata, e anzi tutto tale, da sturbare la mia coscienza, dovendo io esser piuttosto oppresso che rallegrato da un’onore, che per nessun fatto ho meritato. Mi renderebbe un vero servizio, se voleste mettersi in relazione col Guglielmi senza indugio.</p>
+                <p>Un luogotenente-Generale di <placeName key="G000646">Prussia</placeName>, <pb n="2r"/><seg type="comment"><orig>barone de <persName key="G001660"><hi rendition="#aq">Troschke</hi></persName></orig><note xml:id="ncdb_npt_zlb">Der preußische Generalleutnant a. D. und Militärhistoriker Theodor Freiherr von Troschke (1810–1876). </note></seg>, ha scritto una <bibl corresp="ed_d54_mzy_1lb"><foreign xml:lang="deu"><hi rendition="#aq">Geschichte der Kriege der Neuzeit</hi></foreign></bibl>, (<placeName key="G067565">Darmstadt</placeName> e <placeName key="G000712">Leipzig</placeName>), che comprende il periodo dal 1790 a 1866. Siccome intrattengo con questo Signore, per mezzo del mio <persName key="G001203">fratello</persName>, delle relazioni amichevoli, gli ho promesso di cercare in Roma un’ editore di una versione italiana di questo eccellente lavoro, in caso vi si prestasse un militare capace di tradurlo. Il <persName key="G001381">Löscher</persName> pare figura sul frontispizio del libro come librajo–venditore. Penso di discorrere col <persName key="ed_kkt_k1z_1lb"><seg type="comment"><orig>sig<ex>nor</ex> Walter</orig><note xml:id="nnx4_4pt_zlb">Der aus Stuttgart gebürtige Moritz Walther († 1891), ab 1871 Leiter der Verlagsbuchhandlung Hermann Loescher in Rom. </note></seg></persName> intorno a questo affare, e di domandarlo, se, caso dato, volesse accingersi a questa impresa. Credo, che gli Italiani, appunto per causa del riorganizzamento militare, sarebbero contenti di questo lavoro. Per altro non ho attinenze di sorta nella sfera militare, se ne eccettui <seg type="comment"><orig>il <persName key="G001016">conte Campofregoso</persName></orig><note xml:id="ntkq_ppt_zlb">Conte Luigi Campo Fregoso (1844–1908), selbst auch als Schriftsteller tätig mit „Del primato italiano sul Mediterraneo“ (Turin: Loescher 1872).</note></seg>, affittuario delle <seg type="comment"><orig>mie camere in <placeName key="G067570">Ripetta</placeName></orig><note xml:id="ngly_qpt_zlb">Via di Ripetta Nr. 108, Gregorovius’ ehemaliges römisches Domizil.</note></seg>, <seg type="comment"><orig>capitano del genio</orig><note xml:id="nrt5_rpt_zlb"> „Arma del Genio“ (Deutsch: „Genietrupp“, „technische Truppe“ oder „Ingenieurtruppe“): Truppengattung, die im Krieg für technische Arbeiten bestimmt ist/war.</note></seg>, conoscitore della lingua tedesca, e amico di diversi distinti militari della mia <placeName key="G000664">patria</placeName>. Se volesse prendersi la pena di raggionare con esso lui, mi <pb n="2v"/>farebbe cosa gratissima, e poi gli scriverò. È un bravo giovane, che, per quanto possa indovinar io, avrà un bell’avvenire in<placeName key="G000690"> Italia</placeName>.</p>
+<p>Non sapendo dove dirizzare questa lettera a casa sua propria, l’indirizzo al Löscher. Intanto ogni giorno aspetto le sue nuove. Sono rattristato dalle cattive notizie, che ebbi dello stato quasi disperato della signora <persName key="G001374">Lindemann</persName>. Tre giorni fà, salutai il <persName key="G001376">figlio</persName>, che passò per Monaco, onde scendersi dalla povera mamma. La morte di quella segnerà per me un periodo di vita, e di vita romana, perché era l’intima mia confidente, che mi sollevò in tante, tante occorrenze morali. <persName key="G001109 G001111 G001203">I miei</persName> le mandano con me mille cordiali saluti.</p>
+                <closer>
+<salute rendition="#right">Il suo di cuore</salute>
+<signed rendition="#right">FGregorovius. </signed>
+<note type="postscript" xml:id="n1" next="#n1"><seg type="comment"><orig>Nel giornale illustrato <orgName key="G000568"><hi rendition="#aq">Über Land und Meer</hi></orgName></orig><note xml:id="nxl1_tpt_zlb">Über Land und Meer war ein illustriertes Unterhaltungsblatt, das von 1858 bis 1923 wöchentlich in Stuttgart erschien. </note></seg> troverà delle corrispondenze di Roma (<bibl sameAs="ed_tdq_zwy_1lb"><foreign xml:lang="deu">Bilder aus der römisch<ex>en</ex> Gesellschaft n. I</foreign></bibl>), che toccano me, e <seg type="comment"><orig>sono di una scocchiezza cosi atroce, che mi sono rivolto all’<persName key="G001224">editore</persName> con una protesta</orig><note xml:id="nhzs_5pt_zlb">Emil Frischauer hatte in „Bilder aus der römischen Gesellschaft“ behauptet, Gregorovius werde von der Kronprinzessin Margherita von Savoyen (1851–1926, ab 1878 Königin von Italien) gesellschaftlich und persönlich derart verehrt und bevorzugt, dass sie ihn sogar schon persönlich in seiner römischen Wohnung besucht habe. Hierauf schrieb Gregorovius zwei Beschwerdebriefe; am 19.11.1875 an den Redakteur von „Über Land und Meer“, Eduard Hallberger, und am 5.12.1875 an den Herausgeber der Zeitschrift, Friedrich Wilhelm Ritter von Hackländer. Eine kurze Gegendarstellung erschien in Nr. 13. S. 255 in einer Ankündigung des Erscheinens von Bd. 7 der italienischen Übersetzung der „Geschichte der Stadt Rom im Mittelalter“: „Wir bemerken bei dieser Gelegenheit, daß wir uns veranlaßt sehen zu erklären, daß die in dem kürzlich in unseren Blättern veröffentlichten Artikel Nr. 1 der ‚Bilder aus der römischen Gesellschaft‘ über die von Herrn Gregorovius durch hochgestellte Personen empfangenen Auszeichnungen vollkommen auf Erfindung beruhen.“ Vgl. den derzeit vom Autographenhändler INLIBRIS angebotenen Brief vom 26.12.1876 (1 Dbl., 8°, 1 S.) an einen namentlich nicht genannten Adressaten, wohl an den Hallberger oder Hackländer; darin heißt es: „Die große Menge am Jahresabschluß sich aufhäufender Correspondenzen verhinderte mich, Ihnen früher für die Bereitwilligkeit zu danken, mit welcher Sie die von mir gewünschte Berichtigung in ‚Über Land u Meer‘ aufgenommen haben. Indem ich dies heute thue, ersuche ich Sie noch Herrn Frischauer mitteilen zu lassen, daß ich seinen an mich gerichteten Brief deshalb nicht beantwortet habe, weil ich nichts darauf zu sagen hatte u eine mir unangenehme Angelegenheit nicht weiter erwähnen wollte [...]“.</note></seg>. La stupidità della gente è un vero fenomeno ai nostri giorni.</note>
+<note type="postscript" xml:id="n2" prev="#n2" place="left" rendition="#rotate90">Venne trovarmi jeri <seg type="comment"><orig>la <persName key="G004733">signora Schwabe</persName></orig><note xml:id="nq45_vpt_zlb"><p>Die vielreisende Philanthropin und Pädagogin Julie Salis-Schwabe (1818 oder 1819–1896), eine geborene Deutsche und Witwe des Industriellen Adolf Salis Schwabe (1800–1853) aus Manchester. Sie war eine gute Freundin von Malwida von Meysenbug (1816–1903).</p></note></seg>, tutta radiante di contentezza, e il saccoccio tutto ripieno di <seg type="comment"><orig>lettere stampate e da stamparsi ancora</orig><note xml:id="nosr_wpt_zlb">Nicht ermittelt.</note></seg> – vera figura da commedia, ma le voglio bene e la ammiro.</note>
+</closer></div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067767">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Luigi Fumi in Orvieto. München, 21. November 1875 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Archivio Fumi</repository><collection> Sezione di Archivio di Stato di Orvieto Crispino Ferri, Carteggio di Luigi Fumi</collection><idno>Busta 3, Fascicolo 40</idno></msIdentifier>
+<physDesc>
+<p> 1 Dbl., 8°, 3 ¼ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die Zusendung von Fumis Schriften „L’archivio segreto del comune di Orvieto“ und „I Paterini in Orvieto“ (1875). Die Arbeit zu den Paterini hat ihn an seine eigenen Forschungen zur römischen Inquisition im Archiv der Caetani erinnert. Er schlägt Fumi vor, ein Buch über den evangelischen Gedanken in Italien seit der Zeit Karls des Großen bis zur Reformation zu schreiben. Für besonders wichtig hält er die erste Hälfte des 14. Jahrhunderts, in der der Kardinallegat Gil Álvarez Carrillo de Albornoz gewirkt hat. Grüße an den Unterpräfekten und an Giacomo Bracci, den Bürgermeister von Orvieto.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1875-11-21" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001152">Fumi, Luigi (1849–1934)</persName>
+<placeName key="G000648">Orvieto</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Monaco in Baviera <lb/>21. Nov<ex>embre</ex> 1875.</dateline>
+                    <salute rendition="#c">Gentilissimo <seg type="comment"><orig>Signor Fumi</orig><note xml:id="nxwv_ypt_zlb">Den Archivar und vornehmlich zur Lokalgeschichte Umbriens forschenden Conte Luigi Fumi (1849–1934) hatte Gregorovius im März diesen Jahres in Orvieto getroffen; siehe den Brief von Gregorovius an Luigi Fumi vom 6.6.1875. Fumi sollte erst im Oktober 1876 in den staatlichen Archivdienst eintreten, war von 1873–1875 mit der Neuordnung des Archivio segreto del comune d’Orvieto betraut. Gregorovius versorgte er zu diesem Zeitpunkt mit der Überlassung seiner eigenen Schriften.</note></seg>,</salute>
+                </opener>
+<p>stavo proprio in punto di scriverle, quando mi giunse l’ultimo suo <bibl sameAs="ed_wgc_5xy_1lb">opuscolo sui Paterini in Orvieto</bibl>, per cui mi venne raddoppiata e la mia obligazione verso di lei, e la mia vergogna e colpa. Mi perdonerà il lungo ritardo della risposta, il quale era causato meno dalla mia pigrizia, che <seg type="comment"><orig>da molti disturbi e viaggi</orig><note xml:id="nmn2_1qt_zlb">Gregorovius war am 28. Juni von Rom nach Traunstein gereist, wo er den Juli und August verbrachte, am 1. September kehrte er nach München zurück (siehe RT, 1.3.1875, S. 359–360).</note></seg>, che mi toglierano l’agio di leggere e scrivere.</p>
+<p>Prima di ogni altra cura la ringrazio vivamente dell’uno e dell’altro scritto suo. La sua <bibl sameAs="ed_c4d_byy_1lb">relazione</bibl> sull’<orgName key="ed_a5v_yxy_1lb">archivio segreto del comune di Orvieto</orgName> è un bel testimonio, per cui chiaramente si mette alla luce non solo l’amore patriotico, che lei dedica al riordinamento di quel tesoro prezioso qual è l’archivio sopradetto <pb n="1v"/>ma anche la giustezza del metodo scelto da lei, onde dar buon’ esito <seg type="comment"><orig>alla sua difficilissima opera</orig><note xml:id="nd2c_cqt_zlb">Fumis grundlegende Arbeit im Geheimarchiv von Orvieto umfasste die erste Systematisierung aller Dokumente und die Erstellung eines Inventars. Seine Arbeit wurde bereits von den zeitgenössischen Kollegen sehr geschätzt. Im erwähnten Aufsatz sowie im Vorwort zum Inventar legte Fumi sein methodisches Vorgehen bei der Neordnung des Archivs dar.</note></seg>. Mene congratulo con lei; chè continuando di questo passo lei senza alcun dubbio si renderà benemerito della scienza storica, e lascierà nome gratissimo non solo ai concittadini ma a tutti coloro, che coglieranno i frutti delle di lei fatiche. E già vedo, che anche lei, non essendo soprafatto dalla materialità dell’opera, mentre deve attendere a registrare tante carte, ha cavato un bel frutto, che è tutto suo; intendo quell’ altro opuscolo intorno i Paterini in Orvieto, che proprio in questo momento ho finito di perleggere con tanto più soddisfazione, che la lettura mi rivocava alla mente i miei propri studi, e alcune carte riguardanti quella <pb n="2r"/>santissima Istituzione, che si chiamava<seg type="comment"><orig> <foreign xml:lang="Lat">Haereticae Pravitatis</foreign></orig><note xml:id="nvbn_dqt_zlb">Gemeint ist die Inquisition der römisch-katholischen Kirche, die im Mittelalter häufig als „Inquisitio haeretiacae pravitatis“ (lat. für: Inquisition gegen die Bosheit der Ketzer) bezeichnet wurde</note></seg>, le <seg type="comment"><orig>quali carte</orig><note xml:id="nfxn_2qt_zlb">Gregorovius bezieht sich hier auf seine Recherche zu einem Kapitel über die Inquisition in Rom, deren ältestes Zeugnis er in einem Dokument vom 22. Januar 1266 belegt sieht; siehe dazu den fünften Band der „Geschichte der Stadt Rom im Mittelalter“ (1865), S. 157–158.</note></seg> ritrovai nell’ <seg type="comment"><orig>Archivio di <persName key="G001244">casa Gaetani</persName> in <placeName key="G000763">Roma</placeName>.</orig><note xml:id="nifx_4wv_2mb">Michelangelo Caetani (1804–1882), Herzog von Sermoneta und Abkömmling der altrömischen Adelsfamilie Caetani, stellte Gregorovius seit Dezember 1857 das Familienarchiv zu Forschungszwecken zur Verfügung (siehe RT, 31.12.1857, S. 69). Im Gegenzug widmete Gregorovius dem Dante-Forscher seine „Lucrezia Borgia“ (2 Bde., 1874); siehe dazu den Brief von Gregorovius an Ersilia Caetani Lovatelli vom 17.2.1874.</note></seg> Per fermo, chi volesse oppure sapesse scrivere una storia del pensiero evangelico in <placeName key="G000690">Italia</placeName>, con principiar ne il processo almeno ai tempi di <persName key="G001330">Carlo Magno</persName>, e con proseguire fino all’ epoca della Riforma, <seg type="comment"><orig>farebbe una cosa italianissima e nello stesso tempo anche accetta a tutto il mondo</orig><note xml:id="nggr_3qt_zlb">Eine frühe, wenn auch mehr auf die Geschichte der Institution evangelische Kirche in Italien eingehende Schrift ist Giovanni Rodios „Sulla storia della Chiesa evangelica italiana: Discorso pronunziato alla XXII assemblea di detta Chiesa“ (Florenz: Chiesa Evangelica Italiana Edit. 1896).</note></seg>. Se Suo opuscolo, tutto fondato sui documenti originali, certamente farà nascere in lei la voglia e il bisogno di far profitto delle sue scoperte per altri lavori storici. E forse si, che sveglierà un periodo della storia orvietana, che, per esser men noto, oppure per esser più importante di altri periodi, varebbe la pena di esser trattato. Il tempo dell’<seg type="comment"><orig><persName key="G000911">Albornoz</persName></orig><note xml:id="ntyq_qqt_zlb">Kardinal Gil Álvarez Carrillo de Albornoz (1310–1367), ital. Egidio Albornoz. Dieser sorgte dafür, dass Bologna 1360 wieder dem Kirchenstaat zufiel und setzte sich in der Neustruktierung der kirchlichen Verwaltung ein. Außerdem gründete er eine Bibliothek in Bologna; siehe den Brief von Gregorovius an Luigi Frati vom 4.10.1863.</note></seg> per esempio, fornirebbe ad uno storico materia amplissima e una prospettiva assai vasta.</p>
+<p>Chiudo la lettera con pregarla di voler raccomandarmi alla bene- <pb n="2v"/>vole memoria del <seg type="comment"><orig>Signor Sottoprefetto</orig><note xml:id="npls_nqt_zlb">Nicht ermittelt.</note></seg> come a quella del <seg type="comment"><orig><persName key="ed_zcp_nyy_1lb">Signor Sindaco di Orvieto</persName></orig><note xml:id="nnt1_pqt_zlb">Giacomo Bracci (1826–1906) war seit 1860 Bürgermeister von Orvieto.</note></seg>, e con salutarla cordialmente.</p>
+                <closer>
+                    <salute rendition="#c"> Tutto suo</salute>
+                    <signed rendition="#right">Ferdin. Gregorovius. </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

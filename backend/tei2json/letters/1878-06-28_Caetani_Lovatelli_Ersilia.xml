@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_v2m_y4v_glb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Contessa Ersilia Caetani Lovatelli in Rom. München, 28. Juni 1878</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="restricted"><licence target="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International (CC BY 4.0) </licence></availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno>Karton 59, Mappe 348 (nach D)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"><bibl type="print">Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli. Hrsg. von Sigmund Münz. Berlin: Paetel 1896. S. 90–91 (gekürzt) </bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Auf seiner Heimreise nach München hat er die Gozzadinis in der Villa Ronzano besucht. Über die Zustände und politischen Folgen in Deutschland nach den Attentaten auf Kaiser Wilhelm I.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1878-06-28" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001011">Caetani Lovatelli, Ersilia contessa (1840-1925)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="90"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">München, 28. Juni 1878.</dateline>
+</opener>
+<p><gap reason="lost" unit="chars" quantity="1"/><seg type="comment"><orig>Ich bin in München seit dem 23. Mai</orig><note xml:id="nsjr_nbk_1mb">Gregorovius war von einem über viermonatigen Aufenthalt in Rom und Italien zurückgekommen (vgl. RT, 16.5.1878, S. 403).</note></seg>. Die Zeit vergeht so schnell, daß ich zu träumen glaube, in Rom gewesen zu sein….In <placeName key="G000638">Bologna</placeName> besuchte ich die <persName key="G001187"><persName key="G001092">Gozzadinis</persName></persName>, die <pb n="91"/>gewöhnt sind, <seg type="comment"><orig>ein fast mönchisches Leben auf dem Hügel von <placeName key="G000822">Ronzano</placeName></orig><note xml:id="nqjf_kck_1mb">Im Jahre 1848 hatten die Gozzadinis die Villa Ronzano außerhalb Bolognas erworben. Dort pflegten sie einen von illustren Persönlichkeiten besuchten Salon (siehe den Brief von Gregorovius an Giovanni Gozzadini vom 3.11.1856). Auch Gregorovius besuchte das Paar in der Villa regelmäßig. Nach dem Tod der Gräfin Serego Alighieri widmete Gregorovius dem Salon einen Essay: Die Villa Ronzano. Ein Musensitz der Gozzadini von Bologna (ED in: Nord und Süd. Eine deutsche Monatsschrift. Bd. 23. Breslau, Berlin: Schottlaender 1882. S. 312–321 – aufgenommen in: KS Bd. 3, S. 97–120).</note></seg> zu führen, den Sie kennen. Als ich den Hügel hinaufstieg, bewunderte ich die tausend Rosen, verspätet zwar, aber immerhin treu, die wie ein Liebesteppich die Mauern der Villa von <seg type="comment"><orig>Donna <persName key="ed_cxz_h4k_rlb">Laura</persName></orig><note xml:id="nppb_lck_1mb">Die von Petrarca (1304–1374) als Idealbild einer Frau verehrte Laura, die ihm nach einer Begegnung in der Klarissenkirche zu Avignon Zeit seines Schaffens Muße und Ziel seiner unerreichten, besungenen Liebe war. Möglicherweise handelte es sich bei der französischen Adligen Laura de Noves (1310–1348) um die von dem Dichter Angebeteten.</note></seg> bedecken – etwas, was mir durch den hervorstechenden Kontrast zu der strengen, aber würdevollen Monotonie von Ronzano manche Reflexion oder manchen Vergleich hätte eingeben können.<gap reason="lost" unit="chars" quantity="1"/></p>
+<p>Ich werde Ihnen nichts von jener schrecklichen Krise sagen, die <placeName key="G000664">Deutschland</placeName> jetzt infolge <seg type="comment"><orig>der in <placeName key="G000636">Berlin</placeName> begangenen Abscheulichkeiten</orig><note xml:id="nmjc_mck_1mb">In Berlin war nach einem ersten, missglückten Attentat auf Kaiser Wilhelm I. (1797–1888) am 11. Mai 1878 ein zweites Attentat auf diesen am 2. Juni erfolgreich verlaufen, so dass der Schwerverletzte den Kronprinzen Friedrich III. (1831–1888) zu seinem Stellvertreter ernennen musste. Erst im Dezember konnte Wilhelm die Amtsgeschäfte wieder aufnehmen. Neben der durch diese Ereignisse provozierten Unruhe im Volk festigte sich auch auf poplitischer Ebene die Einstelltung, dass die Sozialistische Arbeiterpartei für die Attentate verantwortlich zeichnete. Auch wenn keine Beweise dafür festgemacht werden konnte, kam es zum Verbot der Partei; siehe den Brief von Gregorovius an Raffaele Mariano vom 19.6.1878.</note></seg> durchmacht. Das sind keine persönlichen Exzesse politischer Raserei, sondern nur allzu sehr Symptome einer sozialen Krankheit. Der deutsche Sektenteufel übertrifft vielleicht, wenn er sich einmal der Zügel entledigt hat, in den Teufelsstreichen sogar den französischen, denn da er ein Deutscher ist, so ist er ein studirter und gelehrter Teufel. Schließlich werden wir denn doch siegen – ich bin überzeugt davon.</p>
+</div>
+        </body>
+    </text>
+</TEI>

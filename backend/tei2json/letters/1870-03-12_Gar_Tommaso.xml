@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000294">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Tommaso Gar in Venedig. Rom, 12. März 1870</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Biblioteca Comunale di Trento</repository>
+                        <idno>
+                            <idno>busta BCT1–2257/52</idno>
+                        </idno>
+                    </msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S. – 1r + 2r aoR geprägt: ROMA </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die Abschrift von drei Briefen des Cesare Borgia, auf die ihn Lord John Emmerich Dalberg-Acton hingewiesen hatte. Der siebte Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1870) ist im Druck. Der dritte Band wird in Kürze in zweiter Auflage (1870) erscheinen. Er will den Vertrag mit Antonelli über die italienische Übersetzung des Werks auflösen und bittet Gar um Vermittlung. Theodor von Troschke bittet, dessen Schrift „Die Militär-Literatur seit den Befreiungskriegen“ (1870) in Italien bekannt zu machen. Gar soll dabei helfen. Mit Karl und August Lindemann-Frommel bestellt er Grüße an Madeleine Creutzer.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName>
+                    <date when="1870-03-12" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001158">Gar, Tommaso (1808–1871)</persName>
+<placeName key="G000894">Venedig, Venetien</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">
+                        <choice>
+                            <sic>,</sic>
+                            <corr type="deleted"/>
+                        </choice> 12. Marzo 1870</dateline>
+                    <salute>Caro amico Gar,</salute>
+                </opener>
+<p>il Lord <persName key="G000906">John Acton</persName> mi communicò <seg type="comment"><orig>le copie di tre brevi del <persName key="G000983">Borgia</persName></orig><note xml:id="nint_fls_ylb">Es handelt sich möglicherweise um Briefe Cesare Borgias (1475/76–1507) an seinen Vater Papst Alexander VI. (1431–1503), nach denen sich Gregorovius bereits in seinem Brief vom 11.12.1869 bei Gar erkundigte, und zu deren Ausfindigmachen auch Sir John Emmerich Dalberg-Acton (1834–1902) Hinweise gab (siehe auch den Brief von Gregorovius an Gar, 27.12.1869).</note></seg>, che colla vostra solita gentilezza destinaste per me. Dio vene renda il merito. Accolgo questa occasione, per dimandarvi delle vostre nuove, cioè per pregarvi, che mi scriveste due righe assicurandomi del vostro ben essere, non chè della buona salute della amabile <persName key="G001056">Baronessa</persName>. Noi altri stiamo qui tanto bene, che saremo presto infallibili, e ci rideremo di tutto l’universo e di tutte le leggi della natura umana.</p>
+<p>Ho spinto avanti <seg type="comment"><orig>le mie Miserabilia di Roma</orig><note xml:id="nmsv_hls_ylb">Lateinisch Adj. „miserabilis“: elend, jämmerlich, beklagenswert; gemeint ist seine Arbeit an der „Geschichte der Stadt Rom im Mittelalter“.</note></seg> di modo, che il <bibl sameAs="G003441">volume VII</bibl>. stà sotto torchio, <seg type="comment"><orig>il <bibl sameAs="G003469">vol<ex>ume</ex> III</bibl> stà per uscire in edizione nuova</orig><note xml:id="no3g_jls_ylb">Die zweite durchgearbeitete Auflage des 3. Bandes der „Geschichte der Stadt Rom im Mittelalter“ erschien 1870 bei Cotta.</note></seg>. Ne avrete una copia quanto presto egli sara in corso.</p>
+                <p>Prevedendo il caso, che qualche editore più sollecito e stabile <pb n="1v"/>nell’impresa, che non sia <seg type="comment"><orig>il <persName key="G000932">Antonelli</persName></orig><note xml:id="ntrd_lls_ylb">Der Verleger Antonio Antonelli (1817–1889) war der Sohn von Giuseppe Antonelli (1793–1861). Der Verlag Giuseppe Antonelli mit Druckerei gehörte zu den modernsten und bedeutendsten in Europa. So wurde er nicht nur durch seine Verlegung literatur- und kulturhistorischer Bücher sowie bedeutender enzyklopädischer Werke bekannt, sondern vor allem auch durch die Entwicklung besonderer Verfahren lithografischer Übertragungstechniken in seiner Druckerei. Der Verlag hatte neben seinem Hauptsitz in Venedig Niederlassungen in Padua, Verona und Ferrara. Siehe Paola Tentori: Artikel „Antonelli, Giuseppe“. In: DBI, Vol. 3 (1961).</note></seg> voglia risolversi alla traduzione della mia opera – benchè io finora non ne sappia alcuno – <seg type="comment"><orig>vorrei esser disimpegnato e sciolto dalla stipulazione fatta coll’Antonelli</orig><note xml:id="nilr_rls_ylb">Er hatte das wenig profitable Angebot des Verlags zur Übersetzung der „Geschichte der Stadt Rom im Mittelalter“ vor dem Hintergrund der wirtschaftlichen Lage des Literaturbetriebs angenommen, bereute dies aber später. Am 2.6.1872 heißt es dazu in seinem Tagebuch: „Als mir 1865 Antonelli in Venedig durch Vermittlung Fulins [Rinaldo Fulin (1824–1884) ] den Antrag der italienischen Ausgabe meiner ‚Geschichte‘ machte, konnte ich nicht ahnen, daß der Sturz des Papsttums in Rom nahe sei; ich war froh, daß ein italienischer Buchhändler so viel Mut hatte, und überließ ihm das ausschließliche Druckrecht. Ich beanspruchte nur die Summe von 250 Francs für jeden Band, als Symbol meines Autorrechts. Der erste Band der Übersetzung Manzatos erschien 1866; die Fortsetzung unterblieb, und Antonelli machte außerdem Bankerott. Im Jahre 1869 trat als sein Administrator Rebeschini ein, worauf der Kontrakt erneuert wurde und im Frühjahr 1872 der zweite Band erschien. Ich bin in der Fessel dieses Vertrags. Wenn ich von ihm befreit wäre, so würde heute das Werk in einer von der Stadt Rom selbst veranstalteten und unter meinen Augen besorgten Ausgabe erscheinen können.“ (S. 325)</note></seg>. Mi fareste un vero servizio, se voleste scadervi mediatore frà di me e quell’editore veneto, proponendogli dalla parte mia il disimpegno mutuo: Rinunzio – s’intende bene – e cedo le lire 250 che secondo il tenore del nostro contratto l’Antonelli dovrebbe pagami pel diritto d’autore sopra il <bibl sameAs="G004366">volume I.°</bibl>, da esso lui stampato; e lo prego di vuoler rimetter alle vostre mani il contratto fermato da me, dopo di chè io vi manderò quello ch’egli fermò di pugno suo.</p>
+                <p>Giorni fà un insigne militare dell’<placeName key="G000646">armata Prussiana</placeName>, <seg type="comment"><orig>il <pb n="2r"/>Generale <persName key="G001660">Teodoro de Troschke</persName></orig><note xml:id="nspz_tls_ylb">Karl Wilhelm August Theodor Freiherr von Troschke (1810–1876) war ein preußischer Generalleutnant und Angehöriger des preußischen freiherrlichen Adelsgeschlechts von Troschke, der sich nach seiner Versetzung in den Ruhestand (1865) der militärischen Schriftstellerei widmete. Seine Verbindung zu Gregorovius entstand über dessen Bruder Julius Gregorovius (1819–1891), mit dem er befreundet war (siehe Gregorovius’; Brief an Raffaele Mariano vom 3. Dezember 1876).</note></seg> mi mandò un suo libro recente <bibl sameAs="G004233">„Die Militair-Litteratur seit den Befreiungskriegen von Theodor Freiherrn von Troschke, General-Lieutenant zur Disposition, Berlin 1870“</bibl> pregandomi di propagare un po’ questo suo scritto <add place="superlinear">in <placeName key="G000690">Italia</placeName> </add>, in cui egli fà rivista della scienza militare per quanto essa si fosse sviluppata dentro il periodo di 1820–1870. Siccome io non sto in alcuna relazione con degli istudi di questo genere nella vostra patria, io vene dò l’avviso, se mai foste in grado di eccitar qualche attenzione ad codesto scritto nelle sfere militari dell’Italia. Egli mi pare, che ben ne varrebbe la pena.</p>
+                <closer>Caro Gar, io vi saluto<seg type="comment"><orig> <foreign xml:lang="Lat">ex corde</foreign></orig><note xml:id="nsvn_zls_ylb">Lat. für: von Herzen.</note></seg>, sperando di puoter passare per Venezia in questo anno corrente. Mando molti saluti anche dalla parte dei <persName key="G001374"> <persName key="G001375">Lindemann</persName> </persName> a voi come alla signora Baronessa. <lb/> <salute>Tutto vostro FGregorovius</salute> </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

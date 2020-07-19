@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000175">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Raffaele Mariano in Morschwiller-le-Bas. Traunstein, 3. August 1875</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ¾ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er freut sich, dass Mariano auch andere Gegenden Deutschlands als Elsass-Lothringen bereisen will. Er lädt ihn nach München zu sich und seinen Geschwistern Julius und Ottilie ein. Sein Bruder Julius ist aus Metz zurückgekehrt und hat ihn in Traunstein besucht. Der Sommer im Kurort ist öde; er liest Sophokles. Die französische Übersetzung seiner „Lucrezia Borgia“ (1876) erscheint bald bei Sandoz et Fischbacher. Mit demselben Verlag verhandelt er auch über eine französische Übersetzung seiner „Geschichte der Stadt Rom im Mittelalter“. Grüße an die Familie Tachard und Adelheid Grunelius.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000888">Traunstein</placeName>
+                    <date when="1875-08-03" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000733">Morschwiller-le-Bas</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c">Traunstein in Baviera <lb/>3. Agosto 75.</dateline>
+<salute>Caro amico Mariano,</salute>
+</opener>
+<p>sono lieto di avere alla fine le sue nuove, e di sapere dove cercarla coi pensieri. Di tutto cuore le do il benvenuto in <placeName key="G000664">Germania</placeName>.</p>
+<p><seg type="comment"><orig>La casa </orig><note xml:id="naqq_qtt_zlb">Der Elsässer Jurist Pierre Albert Tachard (1826–1919), Mitbegründer von „Le Temps“, Botschafter in Brüssel und Elsässer Abgeordneter in Paris. Ab Oktober 1858 mit Wilhelmine („Mina“) Tachard-Grunelius (1836–1927) verheiratet. Tachard besaß in Moschwiller-le-Bas ein Schloß.</note></seg><persName key="G001631"> <persName key="G001632">Tachard</persName> </persName>le presterà ogni commodo per riposare, ed ogni mezzo per conoscere il nuovo „<placeName key="G000788"><foreign xml:lang="deu"><seg type="comment"><orig>Reichsland</orig><note xml:id="nb24_bpv_2mb">Elsaß-Lothringen war von 1871 bis 1918 ein Verwaltungsgebiet des Deutschen Reichs und unterstand als Reichsland unmittelbar dem Deutschen Kaiser. Gregorovius wurde im Herbst 1870 Zeuge der Kriegshandlungen im Elsaß als er seinen Bruder Julius, der als Soldat in Metz stationiert war, besuchte (siehe RT, 23.9.-14.10.1870, S. 292–298). Seine Eindrücke dokumentieren das Gedicht „Straßburg“ (Beilage zu Nr. 245 der AZ. 2.9.1870. S. 3900) und eine Reihe von Artikeln für die „Allgemeine Zeitung“, darunter „Die französische Kriegserklärung und Europa“, „Nemesis“, „Die Schuld und die Strafe Frankreichs“, „Nochmals Elsaß und Lothringen!“, „Pavia und Sedan“, „Paris und Rom“, „Der Krieg“, und „Fünf Tage vor Metz“ (26.7.-19.10.1870).</note></seg></foreign></placeName>“, terra per ora molto disgraziata, perché svelta dal seno della sua patria politica, e spinta a suo malgrado fra le braccia dell’antica madre, cui, per lungo divezzamento, non riconosce più tale. E perciò non la biasimo punto, chè la fù colpa nostra, se quella provincia, un tempo essenzialmente tedesca, quanto mai altra della Germania, si rese francese per disperazione del completo abbandono.</p>
+<p>Provo una vera soddisfazione nel sentire, che intende andar più oltre, visitare la <placeName key="ed_nwy_jzh_zkb">Selva Nera</placeName>, percorrere qualche altro tratto di Germania. Così spero, che prenderà <seg type="comment"><orig>la via di ritorno per <placeName key="G000734">Monaco</placeName></orig><note xml:id="nomv_ttt_zlb">Mariano hielt sich zwischen Ende September und Anfang Oktober acht Tage in München auf und logierte im Hotel Marienbad in der Maxvorstadt (siehe die Briefe von Gregorovius an Raffaele Mariano vom 27. September und 17. Oktober 1875 und RT, 1.3.1876, S. 361).</note></seg>, e che farà penitenza con noi altri in casa nostra. <pb n="1v"/><seg type="comment"><orig>Questa casa, non fornita ancora bastantemente</orig><note xml:id="nbv5_5tt_zlb">Er kehrte am 1. September 1875 von seinem Kuraufenthalt in Traunstein nach München zurück, wo er sich zwei Zimmer in einer gemeinsamen Wohnung mit seinem Bruder Julius Gregorovius (1818–1891) und seiner Schwester Ottilie Elgnowski (1834–1907) in der Barerstraße 5 einrichtete (siehe RT, 1.3.1876, S. 359–360).</note></seg>, per ogni verso a fronte di quella dei Tachard, le parrà un vero tugurio; ma non per tanto vi troverà ogni buona volontà pronta ad accoglierla.</p>
+<p>La prima visita della Germania le causerà forse una disillusione. A me stesso, ogni qual volta faccio ritorno dall’Italia in patria, il <unclear reason="illegible" cert="high">apresarmi</unclear> al sembiante di mamma mia, mi costa qualche pena. La terra germanica, come la sua razza, è punto bella; ove sembri esser men brutta, per vero non presenta pregi maggiori di un idillio. È ancora se non povera, almeno così poco ricca, che il suo stato si avvicina alla povertà. Molte volte ho dimandato a me stesso, come mai la Germania abbia potuto in sé raccogliere tanta virtù da acquistare l’impero in <placeName key="G000794">Europa</placeName>, accostarsi nelle sfere più sublimi del pensiero alla <placeName key="G000683">Grecia</placeName>, e dopo un lungo decadimento ricomparire più <pb n="2r"/>gagliarda di prima. Da filosofo saprà prendere quel punto di vista, onde meglio penetrare l’intrinseca natura della mia patria, tagliandone la scorza alquanto ruvida.</p>
+<p>Il mio <persName key="G001203">fratello</persName>, dopo di aver fatto il suo viaggio nei contorni di <placeName key="G000728">Metz</placeName>, è ritornato a Monaco poco dopo il mio arrivo in Traunstein. Fui a visitare lui e la <persName key="G001111">sorella</persName> colà. Poi venne egli farmi una visità a Traunstein, senza però lasciarsi sedurre dalle mie persuasioni, a rimanervi meco.</p>
+<p><seg type="comment"><orig>La società qui <add place="superlinear">rimane</add> sotto il livello del mediocre</orig><note xml:id="nmzv_vtt_zlb">Bereits seit Jahren verbrachte Gregorovius regelmäßig Kuraufenthalte in Traunstein. In diesem Jahr war er nach seinem Italienaufenthalt am 30. Juni dort eingetroffen und blieb bis zum 1. September 1875: „Mein Traunsteiner Sommer war öde, die Gesellschaft mangelhaft, das materielle Leben jämmerlich, die Luft meist kalt.“ (RT, 1.3.1876, S. 359).</note></seg>; è scarsa di numero, più scarsa ancora di qualità. Piove quasi sempre, e fà freddo. Oltre di ciò il difetto di vino (oh <seg type="comment"><orig>buono Tauraso</orig><note xml:id="nff1_xtt_zlb">Rotwein aus der Provinz Avelino.</note></seg>! che sono detaurasato e mezzo al secco!), e poi il troppo crudo contrasto del modo di vivere in genere è cosa, che reca danno sensibile alla mia salute. Sovente stò qui seduto sotto un pino nero <seg type="comment"><orig>„<foreign xml:lang="deu">Das Land der Griechen mit der Seele suchend.</foreign>“</orig><note xml:id="nikb_ytt_zlb">Zitat aus: Johann Wolfgang von Goethe: Iphigenie auf Tauris, 1. Aufzug, 1. Auftritt (Worte der Iphigenie).</note></seg> Ma <seg type="comment"><orig><foreign xml:lang="Lat">fuimus Troes</foreign>!</orig><note xml:id="npsv_ytt_zlb">„fuimus Troes, fuit Ilium et ingens gloria Teucrorum“: „Troer sind wir gewesen, gewesen ist Ilium und der Teukrer strahlender Ruhm“ - Zitat aus: Vergil: Aeneis, II, 325f; (Ausruf des Priesters Panthos beim Anblick des brennenden Troja).</note></seg> Ho perletto qui il <persName key="G001613">Sofocle</persName> – e quella bellezza maestosa mi fece piangere, chè mi sento nato ed intrinsecamente destinato a vivere in mezzo ad un mondo ideale. <pb n="2v"/>Però mi consolo, poiché talvolta tra<add place="superlinear">verso di</add> tante tenebre, che mi circondano, par mi scorgere un raggio di luce, che mi ridesterà.</p>
+<p>Starò in questi boschi tutto il mese corrente ancora; poi mi ricongiungerò coi miei in quella camera oscura che è Monaco.</p>
+<p>La <bibl corresp="G004429">Lucrezia francese</bibl> stà per uscire a <placeName key="G000749">Parigi</placeName>; lo stesso <orgName key="G000549">editore</orgName> colà sembra disposto a <seg type="comment"><orig>intraprendere la stampa della <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Storia di Roma</bibl></orig><note xml:id="nbwc_15t_zlb">Es erfolgte keine Französische Übersetzung der „Geschichte der Stadt Rom im Mittelalter“.</note></seg>; e ne sarei contentissimo non per vana gloria, ma per qualche speranza di poter illuminare alcune teste in <placeName key="G000674">Francia</placeName> intenebrate dai vapori della menzogna pretesca, mediante la lettura di quella opera. <seg type="comment"><orig><foreign xml:lang="deu">Mehr Licht!</foreign> </orig><note xml:id="nvhn_b5t_zlb">Angeblich die letzten Worte Johann Wolfgang von Goethes an seinem Sterbebett.</note></seg>ecco l’unico scopo di tutto il lavorio della storia.</p>
+<p>Non più altro! Faccia le mie parti ai Signori Tachard; e se mai avesse l’opportunità di conoscere <seg type="comment"><orig>la distintissima signora <persName key="G001215">Grunelius</persName></orig><note xml:id="nt5n_c5t_zlb">Die in Baden-Baden wohnhafte Adelheid Grunelius, geb. Fecht (1813–1887), Witwe des Frankfurter Bankiers Moritz Eduard Grunelius (1803–1846) und Mutter von Wilhelmine Tachard-Grunelius (1836–1927), die seit 1851 immer wieder für längere Aufenthalte nach Rom gekommen war. Gregorovius scheint sie erst bei einem Romaufenthalt von November 1861 bis Mai 1862 kennengelernt zu haben; es entwickelte sich schnell ein freundschaftliches Verhältnis. Später besuchte Gregorovius sie des Öfteren in der Villa Grunelius in Baden-Baden.</note></seg>, voglia ricordarmi presso di lei.</p>
+<closer>
+<salute rendition="#right">Le stringo la mano affettuosamente.</salute>
+<signed rendition="#right">FGregorovius. </signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

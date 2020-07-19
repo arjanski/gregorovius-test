@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067777">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Contessa Ersilia Caetani Lovatelli in Rom. Rom, o. D.</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+<msDesc type="copy"><msIdentifier><institution> GhStA Berlin</institution><collection>NL Waldemar Kampf,</collection><idno>Karton 59, Mappe 348 (nach D)</idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"> <bibl type="print">Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli. Hrsg. von Sigmund Münz. Berlin: Paetel 1896. S. 82 </bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Über seinen Freund, den Grafen Adolf von Schack, den er der Gräfin persönlich vorstellen möchte. Den vielreisenden Schack zieht es auch aufgrund seiner künstlerischen Interessen immer wieder nach Rom. In München baut er sich eine Kunstsammlung weitgehend mit Werken zeitgenössischer Künstler auf. Einen Namen gemacht hat sich der unter anderem auf dem Gebiet der Dichtung tätige Schack (Gesammelte Werke. 6 Bde. Stuttgart: Cotta 1883) mit einer dreibändigen Arbeit zur spanischen Literatur (Geschichte der dramatischen Literatur und Kunst in Spanien 1845–1846) und einer Übersetzung von Stücken des persischen Epikers Abū l-Qāsem-e Ferdousī (Heldensagen von Firdûsi 1851). Gregorovius vergleicht Schack mit den Brüdern August Wilhelm und Friedrich Schlegel sowie Ludwig von Tieck, die ebenfalls als Übersetzer brillierten. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date cert="low"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001011">Caetani Lovatelli, Ersilia contessa (1840–1925)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="82"/>
+            <div type="writingSession">
+                <opener>
+<salute rendition="#c">Verehrteste Frau Gräfin,</salute>
+</opener>
+                <p>ich war gerade im Begriffe, Ihnen einige Zeilen zu schreiben, als mir Ihr liebenswürdiges Billet zukam. <seg type="comment"><orig><persName key="G001573">Baron Schack </persName></orig><note xml:id="nscj_cg5_zlb">Adolf Friedrich Graf von Schack (1815–1894) war ein Kunstmäzen, Literat, Hispanist und Arabist. Er hatte sich 1855 in München niedergelassen, wurde dort 1856 Ehrenmitglied der Akademie der Wissenschaften und 1881 Ehrenbürger der Stadt. Gregorovius und Schack waren seit 1856 befreundet (siehe RT, letzter Tag des Jahres 1856, S. 65), schrieben und besuchten sich Zeit ihres Lebens regelmäßig. Nach Gregorovius’ Tod gab der Graf dessen verstreute Gedichte heraus: Gedichte. Hrsg. von Adolf Friedrich Graf von Schack. Leipzig: Brockhaus 1892.</note></seg>ist Ihnen sehr dankbar und verbunden; <seg type="comment"><orig>er nimmt die Ehre der Einladung an</orig><note xml:id="nixp_dg5_zlb">Schack reiste viele Male nach Italien und Rom, dessen Kunstschätze ihn besonders interessierten und immer wieder anzogen. Neben den von Gregorovius im Tagebuch dokumentierten Treffen der beiden in der italienischen Metropole, bei denen keine gemeinsame Begegnung mit Ersilia erwähnt wird, sind weitere deshalb weitere Zusammenkünfte vorstellbar. Siehe zu ihren Treffen in Rom den Brief von Gregorovius an Hermann von Thile vom 16.4.1864; RT, 7.1.1870, S. 273; RT, 5.2.1871, S. 302 und RT, 1874, S. 335. </note></seg> und wird sich Ihnen mit mir Donnerstag um 7 Uhr präsentiren. Mein Freund ist nicht Professor; er war zuerst in der Diplomatie thätig und lebt jetzt als sehr reicher <foreign xml:lang="ita">Signore</foreign> in <placeName key="G000734">München</placeName>, <seg type="comment"><orig>wo er ein schönes Haus mit einer Gemäldegalerie besitzt</orig><note xml:id="ndsp_2g5_zlb">Schack hatte in Bonn, Heidelberg und Berlin Jura studiert und war anschließend in den preußischen Staatsdienst eingetreten. Nach Quittierung dieses Dienstes und mehreren Auslandsreisen kehrte er 1849 auf einen diplomatischen Posten in Berlin zurück, den er bis 1852 innehatte. Nach einem Aufenthalt in Mecklenburg reiste er nach Spanien, um dort die maurische Geschichte zu studieren. Die Kunstsammlung, die er sich nach seiner Niederlassung in München, aufzubauen begann, enthält vornehmlich Werke bedeutender Maler aus dem 19. Jahrhundert. Thematisch lagen die Schwerpunkte auf der Mythologie und auf Fernreisen. 1862 ließ Schack auf seinem Grundstück ein Gebäude, nach dem Vorbild von Leo von Klenzes (1784–1864) Glyptothek, für seine Sammlung errichten; 1865 wurde dieses umgebaut und in den Jahren 1872–1874 erweitert. Schack überließ die Sammlung Kaiser Wilhelm II. (1859–1941), heute gehört sie zu den Bayerischen Staatsgemäldesammlungen. Siehe dazu: Adolf von Schack. Meine Gemäldesammlung. Stuttgart: Cotta 1894.</note></seg>. Schon als junger Mann machte er sich durch eine <bibl corresp="G067805">Geschichte der dramatischen Literatur der Spanier</bibl> bekannt. Dann <seg type="comment"><orig>übersetzte er die Dichtungen <persName key="G004760">Firdusis</persName> in so schönen Versen</orig><note xml:id="nv2f_3g5_zlb">Mit der Übersetzung einiger Stücke des persischen Epikers Abū l-Qāsem-e Ferdousī (940–1020) verschaffte sich Schack in weiten Kreisen hohes Ansehen: Heldensagen von Firdûsi. Zum ersten Male metrisch aus dem Persischen übersetzt nebst einer Einleitung über das Iranische Epos. Berlin: Wilhelm Hertz 1851. Seine Arbeit brachte ihm 1865 den persischen Sonnenorden ein; siehe den Brief von Gregorovius an Giovanni Gozzadini vom 17.8.1873.</note></seg>, daß diese seine Arbeit in nichts <seg type="comment"><orig>den Übersetzungen <persName key="G067812">Tieck’s</persName>, <persName key="G067810"><persName key="G067809">Schlegel’s</persName></persName> und anderer nachsteht</orig><note xml:id="ng4k_jg5_zlb">Die Brüder Friedrich (1772–1829) und August Wilhelm (1767–1845) Schlegel arbeiteten beide auch als Übersetzer; August hatte sich vor allem mit d er Übersetzung von 17 Stücken Shakespeares (1564–1616) einen Namen gemacht. Siehe zu ihrer Auseinandersetzung mit persischen Dichtern den Brief von Friedrich an August Wilhelm vom 21.7.1804: https://august-wilhelm-schlegel.de/briefedigital/letters/view/51?left=text&amp;right=manuscript&amp;query_id=5e184847e1d2e. Der Dichter Ludwig von Tieck (1773–1853) führte neben anderen Übersetzungstätigkeiten die von Schlegel begonnene Shakespeare-Übersetzung fort. Siehe zu Tiecks „orientalischer Abstinenz“: Andrea Polaschegg. Orientalismus. In: Ludwig Tieck. Leben, Werk, Wirkung. Hrsg. v. Claudia Stockinger, Stefan Scherer u.a. (De Gruyter Lexikon). Berlin: Walter de Gruyter 2011. S. 261–271.</note></seg>. Er hat überdies viele Gedichte verfaßt, die <seg type="comment"><orig>seiner eigenen poetischen Ader entströmten</orig><note xml:id="nlgp_kg5_zlb">Cotta gab Schacks Dichtung 1883 in einer Werkausgabe heraus: Gesammelte Werke. 6 Bde. Stuttgart: Cotta 1883.</note></seg>. Er ist<seg type="comment"><orig> <foreign xml:lang="Lat">integer vitae</foreign></orig><note xml:id="ntr4_lg5_zlb">Lat. für, frei übersetzt: Ehrenmann.</note></seg> und von edler Seele. Und so bin ich wahrhaft zufrieden, ihn Ihnen und Ihrem verehrten Hause vorstellen zu können.</p>
+                <closer>
+                    <salute rendition="#c"> Ihr ergebener Diener</salute>
+                    <signed rendition="#right"> F. Gregorovius.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

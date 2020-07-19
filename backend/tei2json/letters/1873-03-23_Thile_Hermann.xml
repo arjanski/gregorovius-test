@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000357">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Hermann von Thile in Berlin. Rom, 23. März 1873 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free"><licence target="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International (CC BY 4.0) </licence></availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>96/937 (42)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 1 Bl., 8°, 5 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 59, Mappe 346 (nach D) und Karton 59, Mappe 346 (Ergänzungen nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 90–92 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er befürwortet Thiles Rücktritt als Staatssekretär im Auswärtigen Amt, ebenso dass die Thiles die drei Kinder der am 22. März 1872 verstorbenen Schwägerin Anna von Graefe aufgenommen haben. Nach einem Kuraufenthalt in Traunstein hat er wie im letzen Jahr zwei Monate in München verlebt, kann sich aber trotz freundlicher gesellschaftlicher Aufnahme nicht dazu entschließen, sich dort niederzulassen. Er schreibt jetzt an einer ihren schlechten Ruf widerlegenden Biographie über Lucrezia Borgia. Von seiner „Geschichte der Stadt Rom im Mittelalter“ ist soeben der siebte Band in zweiter Auflage erschienen. Alfred von Reumont hat eine gekränkte Erwiderung auf die Rezension des achten Bandes in der „Allgemeinen Zeitung“ von Friedrich Althaus publiziert, in der er sich gegen dessen Vorwurf des „compendiösen Grundzug“ in seiner „Geschichte der Stadt Rom“ (Berlin 1866–1870) wehrt. Althaus ist vermutlich der Gregorovius und Reumont vergleichenden Rezension in der „Allgemeinen Zeitung“ von Johannes Scherr gefolgt, hat aber dennoch Recht. Er ist auf dem Weg zu einem Ausflug nach Frascati, wo er Thile 1858 besucht hatte. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+<correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1873-03-23" cert="high"/>
+</correspAction>
+<correspAction type="received">
+<persName key="G001644">Thile, Hermann von (1812–1889)</persName>
+<placeName key="G000636">Berlin</placeName>
+</correspAction>
+</correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi>, <hi rendition="#aq">Via Gregoriana</hi> n<ex>umero</ex> 13. <lb/>23. <hi rendition="#aq">März</hi> 1873.</dateline>
+                    <salute>Mein hochverehrter Herr,</salute>
+                </opener>
+<p>ich wollte Ihnen längst für Ihre freundlichen Zeilen vom Ende des Januar danken. In Wahrheit ist es mir eine Freude gewesen, nach langer Zeit wieder directe Nachrichten von Ihnen zu empfangen, und diese bestätigen mir, was ich schon aus Zeitungen erfahren hatte, <seg type="comment"><orig>Ihren definitiven Rücktritt aus dem Staatsdienste</orig><note xml:id="nxhp_y2d_tlb">Am 3. Oktober 1872 war der Außerordentliche und Bevollmächtigte Botschafter, Hermann Ludwig von Balan (1812–1874), von Brüssel nach Berlin zurückberufen worden, der nach dem Rücktritt Hermann von Thiles wegen der Verleihung des Schwarzen Adlerordens an den russischen und den österreichischen Botschafter am 30. September 1872 dessen kommissarischer Nachfolger als Staatssekretär im Auswärtigen Amt wurde. Am 9. Oktober 1873 folgte Bernhard Ernst von Bülow (1815–1879) von Balan in diesem Amt.</note></seg>. Da Sie nun diesen genommen haben, so kann ich Ihnen nur Glück wünschen zu einer so wolverdienten Ruhe und einer mit wahrhafter Würde erfüllten Muße, welche Sie noch lange Jahre genießen mögen. Ich habe mit gleichem Anteil erfahren, daß Sie und Ihre verehrte Frau <persName key="G001645">Gemalin</persName> <seg type="comment"><orig>die frühverwaisten <persName key="G001190"><persName key="G001193"><persName key="G001192">Kinder</persName></persName></persName> des edeln <persName key="G001189">Gräfe</persName> in <pb n="1v"/>Ihre Pflege und Erziehung genommen haben</orig><note xml:id="nq5n_cfd_tlb">Am 22. März 1872 war Anna von Graefe, geb. Gräfin Knuth (*1842) verstorben, die Witwe des berühmten Berliner Augenarztes Albrecht von Graefe (1828–1870) – und Bruder von Thiles Frau Ottilie (1816–1889). Sie hinterließ drei Kinder: Anna (1863–1939), Olga (1866–1949) und Karl (1868–1933).</note></seg>: dies sind heilige Liebespflichten, welche Ihr eigenes Leben noch mehr verschönern u<ex>nd</ex> auch verjüngern werden.</p>
+<p>Ich hatte vergebens gehofft, Ihnen im vorigen Herbst <seg type="comment"><orig>in <placeName key="G000734">München</placeName> zu begegnen, wo ich nach zuvor in dem schönen <placeName key="G000888">Traunstein</placeName> still verlebten Wochen wieder 2 Monate zubrachte bis zum Ende des Nov<ex>em</ex>b<ex>e</ex>r</orig><note xml:id="ne2s_gfd_tlb">Nach seinem Kuraufenthalt in Traunstein vom 14. Juli bis 12. September 1872 hatte sich Gregorovius bis zum 12. November 1872 in München aufgehalten (siehe RT, 10.9. bis 11.11.1872, S. 325–327).</note></seg>. Es war mein Plan, den ganzen Winter dort zuzubringen, aber ich führte ihn nicht aus. Ich bin der Lebensweise im <placeName key="G000664">Vaterlande</placeName> wenn auch nicht ganz entfremdet, so doch ungewohnt worden, und vieles erregt mir dort ein Mißgefühl, die ganze Art des Tagesdaseins, die Enge aller privaten Verhältniße, und der Klassen- u<ex>nd</ex> Kastengeist, der noch immer die Gesellschaft beherrscht. Es sind treffliche Menschen in München, u<ex>nd</ex> ich im Besondern habe mich nicht über sie zu beklagen, <pb n="2r"/>denn nirgend im Vaterlande erfuhr ich ein so aufrichtiges Wolwollen als dort. Aber dennoch konnte ich mich nicht entschließen, mich daselbst festzumachen. Wo alles für mich doch leer u<ex>nd</ex> bedeutungslos ist – eine Leere, die ich in meinem Alter nicht mehr weder durch Lebensschicksale noch durch eine neue Thätigkeit ausfüllen kann.</p>
+<p>Kurz u<ex>nd</ex> gut, ich kehrte für jetzt <seg type="comment"><orig>nach dem geliebten Rom zurück</orig><note xml:id="nyr2_kfd_tlb">Gregorovius war am 29.11.1872 zurück in Rom (siehe RT, 25.12.1872, S. 328).</note></seg>, u<ex>nd</ex> durfte dies um so mehr thun, als ich meine fraglich gewordene Wohnung behalten konnte. Nach dem <seg type="comment"><orig>Aufhören meiner Arbeit so langer Jahre</orig><note xml:id="no1n_mfd_tlb">Der achte und letzte Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) war soeben erschienen.</note></seg> überkam mich, ich glaube naturgemäß, eine <subst><del rendition="#ow">m</del><add place="intralinear">M</add></subst>onate-dauernde Abspannung; doch habe ich mich wieder daraus erhoben, und <seg type="comment"><orig>schreibe jetzt rüstig an einem Buch „<hi rendition="#aq"><bibl sameAs="G003509">Lucrezia Borgia</bibl></hi>“</orig><note xml:id="nivc_sfd_tlb">Ein Jahr später legte Gregorovius seine Biographie „Lucrezia Borgia“ vor (1874). Siehe hierzu auch den <ref target="G000360">Brief von Gregorovius an Franz Rühl, 20.2.1873</ref>.</note></seg>, worin ich viele Acten u<ex>nd</ex> Correspondenzen, <persName key="G000985">sie</persName> u<ex>nd</ex> ihre Familie betreffend, verwerten will, in deren Besitz ich gekommen bin. Es wird dies nur ein Band werden, und die Epoche des römischen Lebens jener unglücklichen Frau behandeln. Ich wollte einmal über sie klar werden, <pb n="2v"/>so weit dies möglich ist, u<ex>nd</ex> ich freue mich, daß ich Grund habe, ein schonendes Urteil auszusprechen; wie überhaupt die ganze Darstellung <seg type="comment"><orig>nichts enthalten soll, was die Gefühle der Humanität zu sehr beleidigen dürfte</orig><note xml:id="njqg_xfd_tlb">Wegen seines Bemühens, Lucrezia Borgia (1480–1519) vom Stigma der Giftmörderin zu befreien, wurde Gregorovius von seinen Zeitgenossen kritisiert; gleichwohl gilt seine Biographie noch heute als Standardwerk.</note></seg>. </p>
+<p>Ich habe unterdeß an der zweiten Auflage der Geschichte der Stadt fortgearbeitet, und so eben ist davon der <bibl sameAs="G003442">Band VII</bibl> fertig gedruckt worden. <seg type="comment"><orig>Eine <bibl corresp="G002717 G002718">Besprechung meines Werks in der Allg<ex>emeinen</ex> Zeit<ex>ung</ex></bibl></orig><note xml:id="nths_2gd_tlb">Die durch Gregorovius veranlasste Rezension des achten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1872) stammt von seinem Freund Friedrich Althaus (in: Beilage zu Nr. 58–59 der AZ. Augsburg: Cotta 27.–28–2.1873. S. 869–870, 886–887; siehe den Brief von Gregorovius an Cotta, 7.11.1872, gekürzt gedruckt in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 328–329). Im zweiten Teil der Besprechung von Althaus heißt es zu Afredvon Reumont: „Wir erinnern an das gleichnamige Werk Alfred v. Reumonts, welches letztere ganz direct von Gregorovius’ Werk veranlaßt wurde. Es war war auf Verlangen des Konig Max II von Bayern […] ein Compendium der ganzen Stadtgeschichte […]. Allein obgleich Reumont sein Werk weit über die ursprünglich beabsichtigten Gränzen ausdehnte, konnte er doch begreiflicherweise den compendiösen Grundzug nie ganz überwinden. Seine Geschichte der Stadt Rom liefert in der That keine selbständigen Forschungen, nicht einmal nach gedruckten Quellen. Trotz ihres unfraglichen Werthes als fleißige Zusammenstellung historischer Thatsachen ist daher, wir bemerken dies beiläufig, Reumonts Arbeit als Geschichtswerk nicht im entferntesten mit dem seins Vorgängers zu vergleichen.“</note></seg> hat<seg type="comment"><orig> <persName key="G001545">Reumont</persName> in Aufregung gebracht</orig><note xml:id="nrmq_fgd_tlb">Alfred von Reumont, der seine „Geschichte der Stadt Rom“ 1870 abgeschlossen hatte (4 Bde., Berlin 1866–1870), hatte eine Erwiderung auf die Rezension von Friedrich Althaus unter dem Titel „A. v. Reumonts Geschichte der Stadt Rom“ veröffentlicht in: Beilage zu Nr. 65 der AZ. Augsburg: Cotta 6.3.1873. S. 975–976. Hierin heißt es: „Die […] Besprechung […] bringt über meine Geschichte der Stadt Bemerkungen welche ich […] als völlige Verkennung des Charakters meines Buches betrachten muß und als Angriff auf dasselbe zurückweise. […] Der Wunsch des verewigten Königs Max, eine vollſtändige Geschichte der Stadt Rom vom Ursprung bis zur Gegenwart zu besitzen, hatte nichts mit dem Gregorovius’schen Werke zu schaffen, welches nur das Mittelalter behandelte. […] Mein Buch ist weder Compendium noch Compilation […]. Auch für das Mittelalter gibt es noch etwas ganz anderes als die ‚Resultate von Gregorovius.‘ Ich habe mich mit italienischer mittelalterlicher Geschichte und dem Studium römischen Bodens viele Jahre lang beschäftigt, ehe Ferdinand Gregorovius daran dachte nach Italien zu reisen. Sein Buch, besonders vom dritten zum fünften Bande, habe ich mit aufrichtigem Dank benutzt; seine späteren Bände sind theils gleichzeitig mit, theils nach den meinigen erschienen.“</note></seg>; ich bedaure dies sehr, aber ich habe nicht das Tactgefühl meiner Referenten in der Gewalt, so wenig als er über das der ihm freundlich gesinnten gebieten kann. Trotz der ausdrücklichen Bitte, die ich an den Berichterstatter zuvor gerichtet hatte, über Reumont <hi rendition="#u" hand="">nur</hi> Lobendes zu sagen, hat er sich doch zu einer Parallele hinreißen laßen, u<ex>nd</ex> ich glaube, er ist dabei <seg type="comment"><orig><bibl sameAs="G002239">Johannes Scherr</bibl> gefolgt</orig><note xml:id="nkhm_3gd_tlb">Johannes Scherr hatte unter dem Titel „Auch ein Unfehlbarer“ eine vergleichende Rezension über die „Geschichte der Stadt Rom im Mittelalter“ von Gregorovius und die „Geschichte der Stadt Rom“ von Alfred von Reumont geschrieben (in: Neue Freie Presse. Wien: Österreichisches Journal 17.10.1871. S.1–3). Siehe auch RT, 30.3.1873, S. 330).</note></seg>, welcher dem armen <hi rendition="#aq"><seg type="comment"><orig>Raymundus a Penna Forte</orig><note xml:id="nstm_lgd_tlb">Spitzname für den vielschreibenden Alfred von Reumont (siehe den Brief von Gregorovius an Thile, 16.2.1863).</note></seg></hi> noch übler mitgespielt hat.</p>
+<p>Im Grunde aber ist, was in der Allg<ex>emeinen</ex> Zeit<ex>ung</ex> gesagt wurde, richtig und wahr, u<ex>nd</ex> vielleicht ist es ja <pb n="1r"/>auch gut, daß man sich manchmal seiner Endlichkeit bewußt wird. Ich habe ja auch mein Teil in Journalen abbekommen, u<ex>nd</ex> wahrscheinlich nur das wenigste davon gesehen. Doch meine Maxime ist, zu schweigen: denn wie auch Mißverstand und Zunftneid an einem Werke rücken und dies verrücken mögen, es kommt doch die Zeit, wo es an den ihm gebührenden Platz gestellt wird, bis endlich die schärfsten aller nagenden Kritiker, die Mäuse, alle unsre papierne Unsterblichkeit zu Staub zermalmen.</p>
+<p>Ich werde eben abgerufen, nach <placeName key="G000675">Frascati</placeName> hinauszufahren, und erinnere mich dabei an <seg type="comment"><orig>jene Zeit, wo ich Sie daselbst besuchte</orig><note xml:id="nlg1_ngd_tlb">Im Juli 1858 (siehe RT, 8.7.1858, S. 72).</note></seg>. Ob Sie wol je sich entschließen könnten, dies sich täglich mehr u<ex>nd</ex> mehr verwandelnde Rom einmal wieder zu sehen?</p>
+                <closer>
+                    <salute>Ich schließe diese Zeilen mit den herzlichsten Wünschen für Ihr und Ihrer Frau Gemalin Wolergehen, und mit der Bitte, Sie beide möchten mir eine gütige Erinnerung ferner bewahren, der ich stets alles von Ihnen empfangenen Guten in Verehrung und Dankbarkeit eingedenk bleibe.</salute>
+                    <signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

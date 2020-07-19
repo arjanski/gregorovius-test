@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_ufc_zjp_qlb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Ercole Ricotti in Turin. Rom, 1. Februar 1880 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free">
+                <licence target="http://creativecommons.org/licenses/by/4.0/">
+                    Creative Commons Attribution 4.0 International (CC BY 4.0)
+                </licence>
+            </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Archivio Storico dell’Accademia delle Scienze di Torino</repository><collection>Cart. 36095</collection></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 2 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die Ernennung zum auswärtigen Mitglied der historischen Klasse der Turiner Akademie der Wissenschaften. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1880-02-01" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="ed_oxx_3kp_qlb">Ricotti, Ercole (1816-1883)</persName>
+<placeName key="G000893">Turin</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">14. Januar 1880 (BSB München, NL Gregorovius, Gregoroviusiana 19)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<salute rendition="#c">Onorevole Signor <seg type="comment"><orig>Presidente</orig><note xml:id="nj31_4rn_5lb">Ercole Ricotti (1816–1883) hatte sich zunächst an der Fakultät für Mathematik der Universität Turin eingschrieben und dort als Ingenieur im Jahre 1836 diplomiert. Anschließend studierte er Geschichte und wurde, nachdem er mit seiner Schrift „Storia delle compagnie di ventura in italia“ (4 Bde., Turin: Pomba 1844–1845) beeindruckt hatte, 1846 zum Professor für Militärgeschichte ernannt (die Umbenennung des Lehrstuhls in Neuere Geschichte erfolgte 1847). Seit 1862 war Ricotti Senator des Königreichs Italien und seit 1878 Präsident der Turiner Akademie der Wissenschaften, als welcher er sich an Gregorovius gewendet hatte. Die beiden hatten bereits 1872 im Zuge der von Michele Amari (1806–1889) vorgestandenen Giunta, die für das Bildungsministerium über die Regelimentierung von Ausgrabungen und Monumenten beraten sollten, miteinander zu tun gehabt (siehe RT, 1.4.1872, S. 322). Eine über diesen Brief und das vorausgegangene Begleitschreiben Ricottis mit der Ernennungsurkunde hinausgehende Korrespondenz ist nicht bekannt.</note></seg>,</salute>
+</opener>
+<p><seg type="comment"><orig>prima che partissi di <placeName key="G000734">Monaco</placeName>, affine di passare qualche mese in Roma</orig><note xml:id="nz5h_qrn_5lb">Er war am 20. Januar von München aufgebrochen und nach Stationen in Verona, Modena und Florenz am 24. des Monats in der ewigen Stadt eingetroffen. Erst am 5. Juni sollte er wieder nach München zurückkehren. In die Zeit dieses Romaufenthaltes fällt auch seine Reise nach Griechenland (siehe RT, Romfahrt und Griechische Reise 1880, S. 419–420).</note></seg>, ebbi l’onore di ricevere la lettera di V<ex>ostra</ex> S<ex>ignoria</ex> Ill<hi rendition="#sup"><ex>ustrissi</ex>ma</hi>, che <seg type="comment"><orig>mi diede parte della mia nomina a Socio Estraneo della <orgName key="ed_yzc_wrn_5lb">Classe delle Scienze morali, storiche e filologiche della R<ex>eale</ex> Accademia delle Scienze di Turino</orgName></orig><note xml:id="nbdk_1sn_5lb">Gregorovius war am 21. Dezember 1879 zum auswärtigen Mitglied der historischen Klasse ernannt worden; siehe die Urkunde mit dem Begleitschreiben des Präsidenten vom 14. Januar 1880 in BSB München, NL Gregorovius, Gregoroviusiana 19. Laut Tagebuch waren die beiden Schriftstücke am 17. Januar bei Gregorovius in München eingegangen (siehe RT, Sommer und Winteranfang 1879, S. 418).</note></seg>. </p>
+<p>Nell’atto di accusarle il ricevimento della lettera come del Diploma Accademico, sono ben consapevole dell’ alto significato dell’onoranza conferitami da <seg type="comment"><orig>cotesta <orgName key="ed_y3t_2sn_5lb">Accademia</orgName>, la quale si novera tra le più illustri dell’ <placeName key="G000794">Europa</placeName></orig><note xml:id="nwq2_jsn_5lb">Die Turiner Akademie der Wissenschaften war aus der 1757 gegründeten Società Scientifica Privata Torinese, die noch im Privathaus des Chemikers Giuseppe Angelo Saluzzo di Monesiglio (1734–1810) angesiedelt war, entstanden, und wurde 1783 durch Viktor Amadeus III. (1726–1796), König von Sardinien-Piemont, zur königlichen Akademie erhoben. Zu Beginn des 19. Jahrhunderts erfolgte unter Napoleon Bonaparte (1769–1821) die Unterteilung der Akademie in zwei Klassen, 1814 nach dessen Fall ihre „Säuberung“ von den mit den Franzosen sympathisierenden Wissenschaftlern. Der starke, auch ökonomische Einfluss der Savoyer-Dynastie bestimmte die Richtung der Akademie im 19. Jahrhundert. Die damit einhergehende Privilegierung des piemontesischen Adels an der Akademie endete erst 1878 mit der Ernennung Ricottis, und damit eines nicht Adligen, zum Präsidenten. </note></seg>. </p>
+<p>Il farne parte come socio quindi innanzi sarà per me cosa, che crescerà <seg type="comment"><orig>i tanti legami, che oramai mi stringono all’ <placeName key="G000690">Italia</placeName>, di un altro gratissimo quanto forte</orig><note xml:id="nc2n_lsn_5lb">Gregorovius war im März 1876 durch den römischen Gemeinderat zum Ehrenbürger der Stadt Rom ernannt worden; siehe den Brief von Gregorovius an Pietro Venturi vom 17.3.1876.</note></seg>. Perciò prego la S<ex>ignoria</ex> V<ex>ostra</ex> Ill<hi rendition="#sup"><ex>ustrissi</ex>ma</hi> <pb n="1v"/>ad accogliere le mie grazie le più vivamente sentite, e a compiacersi ancora di rendersene mio interprete presso l’illustre Accademia, che con sì insigne favore nel suo seno mi accolse.</p>
+<p>Aggradisca l’offerta dei sentimenti della più alta stima, con chi ho l’onore di protestarmi</p>
+<closer>
+<salute rendition="#c">di V<ex>ostra</ex> S<ex>ignoria</ex> Ill<ex>ustrissi</ex>ma</salute>
+<dateline>Roma 1. Febbrajo <lb/>1880</dateline>
+</closer>
+<closer rend="paragraph">
+<salute rendition="#right">divotissimo</salute>
+<signed rendition="#right">Ferdin. Gregorovius <lb/>cittadino Romano.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

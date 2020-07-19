@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000012">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Giuseppe De Leva in Padua. München, 21. September
+                    1884</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/"> Creative Commons
+                        Attribution 4.0 International (CC BY 4.0) </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Florenz, Biblioteca Nazionale Centrale (BNCF)</repository>
+                        <collection>Carteggi </collection>
+                        <idno>C. V. 490, 72 (2)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 8°, 4 S.</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+<?oxy_comment_start author="Angela Steinsiek" timestamp="20200221T112603+0100" comment="Sorge um die Freunde in Italien wegen der Cholera-Epidemie. Gratulation zu den Auszeichnungen für das monumentale Werk [Storia documentata di Carlo V in correlazione all’Italia]. Mitteilung des Erscheinens der vierten überarbeiteten Auflage der „Geschichte der Stadt Rom im Mittelalter“. Spricht vom europäischen Frieden, in dem Italien und Deutschland in Harmonie vereint sein werden."?>
+<p xml:lang="de"/><?oxy_comment_end?>
+<p xml:lang="it">Preoccupazione per gli amici in Italia a causa dell’epidemia di colera. Congratulazioni per i premi per l’opera monumentale [Storia documentata di Carlo V in correlazione all’Italia]. Annuncio della pubblicazione della quarta edizione rivista della „Geschichte der Stadt Rom“. Parla di una pace europea in cui Italia e Germania saranno unite in armonia.</p>
+<p xml:lang="en">Concern for friends in Italy due to cholera epidemic. Congratulations on the prizes for the monumental work [Storia documentata di Carlo V in correlazione all’Italia]. Announcement of the publication of the fourth revised edition of the „Geschichte der Stadt Rom“. Speaks of an European peace in which Italy and Germany will be united in harmony.</p>
+</abstract>
+            <correspDesc>
+<correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1884-09-21" cert="high"/>
+</correspAction>
+<correspAction type="received">
+<persName key="G001075">De Leva, Giuseppe (1821–1895)</persName>
+<placeName key="G000747">Padua</placeName>
+</correspAction>
+</correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Monaco, 21 VIIbre 84.</dateline>
+                    <salute>Caro e gentilissimo amico,</salute>
+                </opener>
+                <p>rivolgo ansiosamente I pensieri agli amici in Italia, dove il morbo fa tanta
+                    strage, massime nella povera Napoli. Mi consolo, è vero, a sapere che Roma ed
+                    altre contrade, e tra loro anche quella di Padova, sono finora rimaste
+                        <ex>risparmiate</ex> da cotesto flagello, ma temo anche, che il colmo non
+                    sarà per venire tanto presto, e che anzi farà il giro ancora nell’alta Italia, e
+                    poi nella Germania. <lb/>Perciò dirizzo queste righe a voi, per pregarvi delle
+                    vostre nuove, le quali mi auguro le più soddisfacenti. <pb n="1v"/>Credo di
+                    essermi digià congratulato con voi dei bene meritati premi, che riportò la
+                    vostra opera monumentale, e se trovate un momento di ozio, mi farete un vero
+                    piacere col farmi sapere, a quale punto del lavoro ora siete giunto. <lb/>Delle
+                    mie coserelle non avrei da darvi conto che sia importante. Ho fatto il mio
+                    tempo, e mi sono invecchiato quale veterano della honesta missio. Il testo della
+                    Storia di Roma lo sottoposi ad una revisione completa, per una nuova <pb n="2r"/>edizione da principiare sul finire dell’anno corrente, e ciò è per me
+                    consolazione non lieve, impercio<ex>c</ex>chè la quarta edizione di un libro
+                    cosi voluminoso ed inoltre costoso, dimostra che esso abbia preso piede nella
+                    letteratura. Consoliamoci dunque, che siamo compagni di lavoro. <lb/>Non occorre
+                    dire, quanto io mi tenevo contento dello sviluppo, che ognora mi prende la mia
+                    patria, e vado di convincermi, che la Germania ora saldamente sia stabilita
+                    quale talmodo della pace europea a segno, che <pb n="2v"/>ora toccerebbe a lei
+                    di pronunciare quella frase di Napoleone III „<foreign xml:lang="fra">l’émpire
+                        c’est la paix</foreign>“, e non sarebbe nè menzogna, nè presunzione. Così
+                    andranno d’ora in poi unite l’Italia e la Germania allo scopo di tutelare e di
+                    conoscere insieme i maggiori beni dell’armonia.</p>
+                <closer rend="paragraph"> Faccio voti, insigne amico, per la salute vostra e quella
+                    della vostra degnissima Signora e della amabile figliuola, alla memoria delle
+                    quali mi raccomando vivamente.  <salute rendition="#c">Tutto vostro
+                        </salute><signed rendition="#c">Ferd. Gregorovius. </signed>
+                </closer>
+            </div>
+            <note type="postscript">
+                Il nostro comune amico Thomas, or due mesi fa, intraprese un viaggio al mare, ed
+                    è già da un pezzo, che mi trovo privo delle sue nuove.
+            </note>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000355">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Otto Braun in Augsburg. Traunstein, 10. August 1873</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (168)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">An die Redaktion ist die von seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) inspirierte Studie „Roma nel Medio Evo“ (1873) von Raffaele Mariano, eines Schülers des neapolotanischen Hegelianers Augusto Vera, gesandt worden. Er empfiehlt sie zur Besprechung in der „Allgemeinen Zeitung“. Mariano ist ein Kenner der deutschen Literatur und Philsosophie, der häufig in der römischen Zeitschrift „Il Diritto. Giornale della Democrazia Italiana“ publiziert; seine Bewunderung der hegelschen Philosphie führt zuweilen zu einer orthodoxen Geschichtsauffassung in diesem Sinne, die er selbst ablehnt. Der Rezensent könnte einen Artikel über die wachsende Bedeutung der deutschen Philosophie in Italien schreiben und beispielsweise das Kapitel „Il nuovo impero Tedesco“ aus Marianos Schrift übesetzen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000888">Traunstein</placeName><date when="1873-08-10" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G000994">Braun, Otto (1824–1900)</persName>
+<placeName key="G000620">Augsburg</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Traunstein, 10. August 1873.</dateline>
+                    <salute rendition="#c">Sehr geehrter <seg type="comment"><orig>Herr</orig><note xml:id="nryb_t4r_tlb"><p>Der aus Kassel gebürtige Schriftsteller und Journalist Otto Braun (1824–1900) studierte in Bonn und Marburg und Heidelberg Geschichte, Neuere Sprachen und Schöne Wissenschaften. 1848 beteiligte er sich an den Verhandlungen des Studenten-Parlaments in Eisenach, danach ging er nach Paris, um Romanistik zu studieren, wo er sich auch mit den Exilianten Carl Schurz (1829–1906) und Adolf Strodtmann (1829–1876) anfreundete. 1855 wurde Braun auf Veranlassung des Verlegers Georg Freiherr Cotta von Cottendorf (1796–1863) als Korrespondent für die „Allgemeinen Zeitung“ nach Paris und Madrid entsandt. 1857 wurde er Redakteur des „Kasseler Sonntagsblatts“. 1860 wechselte er als Redakteur der „Allgemeinen Zeitung“ nach Augsburg. Als die Redaktion der Zeitung 1869 nach München verlegt wurde, wurde Braun Herausgeber und Schriftleiter (bis 1889), zog aber erst 1882 nach München. Neben seiner Tätigkeit als Feuilleton-Journalist schrieb und übersetzte Braun Gedichte. 1891 schied er aus Cottas „Allgemeiner Zeitung“ aus und übernahm in Stuttgart die Herausgabe des „Musen-Almanachs“ von Cotta.</p>  Eine persönliche Begegnung von Gregorovius mit dem Schriftsteller und Journalist Otto Braun (1824–1900) ist nicht belegt. Die Briefe von Gregorovius an Braun sind an die Funktion Brauns gebunden, der am 1. März 1869 (bis 1889) als Nachfolger von August Joseph Altenhöfer (1804–1876) Herausgeber und Schriftleiter der „Allgemeinen Zeitung“ geworden war. </note></seg>,</salute>
+                </opener>
+<p>durch Spedition des <seg type="comment"><orig>Buchhändlers <persName key="G001380">Löscher</persName> in <placeName key="G000763">Rom</placeName></orig><note xml:id="ntmc_w4r_tlb">Die seit 1861 von Hermann Loescher (1831–1892) betriebene Buchhandlung in Turin war eine der erfolgreichen Verlagsbuchhandlungen in Italien. Nach der Verlegung der italienischen Regierung nach Florenz und später nach Rom hatte Loescher Filialen in Florenz (1865) und in Rom (1870) eröffnet.</note></seg> ist an die Redaction der <orgName key="G000462">Allg<ex>emeinen</ex> Zeit<ex>ung</ex></orgName> <seg type="comment"><orig>ein Buch abgegangen, welches <bibl sameAs="G002110">Roma nel Medio Evo</bibl> heißt, u<ex>nd</ex> Herrn <persName key="G001401"><hi rendition="#aq">Rafaele Mariano</hi></persName> zum Verfaßer hat</orig><note xml:id="nfnr_bpr_tlb">Die in Rom bei Civelli 1873 erschienene Schrift „Roma nel Medio Evo“ seines Freundes Raffaele Mariano (1840–1912) hatte Gregorovius am 30.6.1873 bereits Cotta empfohlen und den vorliegenden Brief angekündigt (siehe in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 335).</note></seg>. Dasselbe ist eine Entwicklung des <seg type="comment"><orig>Ideengehalts oder der Grundgedanken meiner <bibl corresp="G003434 G003442 G003449 G003456 G003463 G003470 G003477 G003489">Geschichte der Stadt Rom im Mittelalter</bibl></orig><note xml:id="nitt_fpr_tlb">Marianos Studie ist ein philosophisches Kondensat der „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) von Gregorovius, hier durchgeführt bis zur Gründung des italienischen Nationalstaates und Ernennung Roms zur italienischen Hauptstadt; zu Gregorovius hierin siehe besonders S. 1–20.</note></seg>, u<ex>nd</ex> berechnet für das italien<ex>ische</ex> Publicum. </p>
+<p>Ich erlaube mir, Ihnen diese Schrift zu empfehlen in dem Sinn, daß Sie die Güte haben mögen, irgend einen Ihrer Mitarbeiter eine <seg type="comment"><orig>Besprechung desselben in der Beilage der <orgName key="G000462">Allg<ex>emeinen</ex> Zeit<ex>ung</ex></orgName> zu übertragen</orig><note xml:id="ncwx_3pr_tlb">Eine Rezension in der „Allgemeinen Zeitung“ ist nicht nachweisbar, es findet sich nur ein Hinweis, dass Marianos „Roma nel Medio Evo“ bei der Redaktion eingegangen ist, mit dem Vermerk „(Ispirato dalla lettura della Storia della Città di Roma del Gregorovius.)“ (in Außerorendliche Beilage zu Nr. 305 der AZ. Stuttgart 1.11.1873. S. 4636).</note></seg>. Diese würde eine wolverdiente<del rendition="#s">n</del> Anerkennung der Wirksamkeit Mariano’s sein, zumal seiner Kenntniß deutscher Sprache u<ex>nd</ex> Literatur, u<ex>nd</ex> seiner <pb n="1v"/>aufrichtigen, weil auf Studien begründeten Liebe zu <placeName key="G000664">Deutschland.</placeName></p>
+<p><hi rendition="#aq">M<ex>ariano</ex></hi> ist ein Neapolitaner, der beßte Publizist u<ex>nd</ex> Mitarbeiter des in Rom erscheinenden Jourmals <seg type="comment"><orig><hi rendition="#aq"><foreign xml:lang="ita"><orgName key="G000518">Il Diritto</orgName></foreign></hi></orig><note xml:id="nety_jpr_tlb">Il Diritto. Giornale della Democrazia Italiana (Rom 1871–1895).</note></seg>, in dessen Feuilleton seine Arbeit über Rom im Mittelalter auch zuerst abgedruckt wurde. Er ist zugleich einer der Verbreiter der <persName key="G001253">hegelschen Philosophie</persName> in Italien, und Schüler des bekannten <seg type="comment"><orig>Philosophen <persName key="G001675"><hi rendition="#aq">Vera</hi></persName>, eben des Haupts der hegelschen Schule <placeName key="G000737">Neapels</placeName>.</orig><note xml:id="nnd1_4pr_tlb">Zu Augusto Vera (1809–1885) siehe den Aufsatz von Gregorovius „Der Hegelianer Augusto Vera“ (in: Allgemeine Geschichte, Kultur-, Litteratur- und Kunstgeschichte. Bd. 4. Stuttgart: Cotta 1887. S. 561–576; aufgenommen in: Kleine Schriften zur Geschichte und Cultur. Bd. 3. S. 43–71).</note></seg> Seine große Bewunderung des hegel’schen Systems verleitet ihn bisweilen zu Extremen, wie auch aus seiner übertriebenen Auffassung des Zusammenhanges hervorgeht, in welchem meine Geschichte Roms zu jemem stehen soll; da er <seg type="comment"><orig>der wunderlichen Ansicht ist, daß dieselbe eine Evolution von hegelschen Formeln sei</orig><note xml:id="np3p_spr_tlb">Im Tagebuch notierte Gregorovius entsprechend: „Mariano hat seine Artikel über die ‚Geschichte der Stadt Rom im Mittelalter‘ erst im ‚Diritto‘ erscheinen lassen, dann aber als Buch herausgegeben unter dem Titel ‚Roma nel Medio Evo‘. Er entwickelt darin meine Ideen, spiritualisiert aber die Geschichte zu sehr. Er hat Geist und Herz – ein edler Mensch von idealer Richtung.“ (28.6.1873, S. 331)</note></seg>. Ich <seg type="comment"><orig>lehne dies ab</orig><note xml:id="njrb_bvr_tlb">Auch Adolf Stahr (1805–1876) hatte in einer Rezension des achten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1872) Gregorovius eine hegelianische Geschichtsvorstellung nach einem „vorherbestimmten göttlichen Plans, oder eines Fatums“ unterstellt (siehe Adolf Stahr: Ueber Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“. In: National-Zeitung. Jg. 26. Nr. 45 und 47. Berlin: National-Zeitung 28.–29.1.1873), worauf Gregorovius äußerst empfinglich reagiert hatte (siehe hierzu RT, 30.3.1873, S. 330 und den Brief von Gregorovius an Franz Rühl, 20.2.1873).</note></seg>, <pb n="2r"/>obwol ich dessen dankbar eingedenk bin, was ich dem <seg type="comment"><orig>Studium Hegels von früheren Zeiten her</orig><note xml:id="nnnw_dvr_tlb">Bevor Gregorovius im Frühjahr 1852 nach Italien aufbrach, hatte er in Königsberg zunächst Theologie studiert, dann aber zur Philosophie gewechselt und 1842 als Lieblingsschüler des Hegelinaners Karl Rosenkranz (1805–1879) promoviert.</note></seg> zu verdanken habe. </p>
+<p>Ein Beurteiler des Buchs <hi rendition="#aq">Mariano’s</hi> könnte ein paar willkommene Artikel darüber schreiben, insofern als dasselbe die immer mehr steigende Teilnahme <placeName key="G000690">Italiens</placeName> an der geistigen Welt <placeName key="G000664">Deutschlands</placeName> darthut. Ich würde namentlich wünschen, daß einige kleine Capitel des Buchs, worin <hi rendition="#aq">Mariano</hi> selbständig ist u<ex>nd</ex> wo meine eigene Arbeit in den Hintergrund tritt, teilweise in der Besprechung übersetzt werden mögen, dafür würde sich namentlich eignen <hi rendition="#aq"><foreign xml:lang="ita"><seg type="comment"><orig>Cap<ex>itolo</ex> XX. <hi rendition="#aq">Il nuovo impero Tedesco</hi></orig><note xml:id="nqtq_hvr_tlb">Raffaele Mariano: Roma nel Medio Evo. Rom 1873. S. 339–358.</note></seg></foreign></hi>. </p>
+<p>Ich hoffe, daß das Buch mittlerweile an Sie gelangt ist, und somit empfehle <add place="intralinear">ich</add> mich Ihnen in aufrichtiger Hochachtung</p>
+                <closer>
+<signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi>.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

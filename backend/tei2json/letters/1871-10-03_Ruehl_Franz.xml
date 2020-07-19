@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000370">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Franz Rühl in Leipzig. München, 3. Oktober 1871 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Universitäts- und Landesbibliothek Bonn</repository><collection>NL Franz Rühl</collection><idno>S 2606 (13)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 55 Mappe 336–337 (nach D)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 302–304</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Vor seinem Eintreffen in Venedig war Tommaso Gar bereits verstorben. Sein Bruder Julius, der für seine Verdienste im Deutsch-Französischen Krieg mit dem Eisernen Kreuz ausgezeichet wurde, holte ihn in Venedig ab, von wo aus sie nach München und Stuttgart reisten und schließlich mit der Halbschwester Ottilie Elgnowski in Würzburg zusammentrafen. Über Bamberg und Nürnberg ging er nach München zurück., wo er bis zum November bleiben will, da er überlegt, nach dem Abschluss seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) dorthin überzusiedeln. Bis dahin muss auch das von Rühl zu erstellende Gesamtregister abgeschlossen sein; auf etwaige Fehler soll Rühl ihn aufmerksam machen, weil er sie in der zweiten Auflage (1869–1874) korrigieren will. Die Besprechung des siebten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1870) von Hermann Doergens in den „Heidelberger Jahrbüchern der Literatur“ hat er gelesen. In München hat er von der Historischen Kommission Carl Hegel, Leopold von Ranke und Wilhelm von Giesebrecht getroffen. Er glaubt noch immer, dass Rühl eine Professur in der deutschen Neugründung der Universität Straßburg anstreben sollte, wohin auch der Sprachwissenschaftler Max Müller wechseln soll. Heinrich von Sybel soll einen Ruf dorthin abgelehnt haben.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1871-10-03" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001562">Rühl, Franz (1845–1915)</persName>
+<placeName key="G000712">Leipzig</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">München <hi rendition="#aq">Glück</hi>straße 1. B. <lb/>3. <hi rendition="#aq"><hi rendition="#aq">Oct<ex>o</ex>b<ex>e</ex>r</hi></hi> 1871.</dateline>
+<salute rendition="#c">Lieber Herr Rühl,</salute>
+</opener>
+<p>mein bisher zerstücktes Reiseleben im <placeName key="G000664">Vaterlande</placeName> ist Schuld daran, daß ich Ihnen erst heute schreibe. Denn in Wahrheit bin ich erst jetzt zur Ruhe gekommen.</p>
+<p><placeName key="G000763">Rom</placeName> verließ ich am 30. Juli. In <placeName key="G000894">Venedig</placeName>, wo ich 12 Tage zu thun hatte, u<ex>nd</ex> wo ich den guten Freund <persName key="G001158">Gar </persName>nicht mehr unter den Lebenden fand,<?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T143635+0200" comment="Tommaso Gar (*1808), seit 1867 Direktor des Archivio di Stato di Venezia und seit 1870 Präsident des Istituto veneto di scienze, lettere ed arti, war am 27. Juli 1871 während eines Aufenthaltes in Desenzano am Gardasee plötzlich verstorben. Gregorovius verfasste seinen Nachruf in: Beilage zu Nr. 224 der AZ. Augsburg: Cotta 12.8.1871. S. 3990–3991."?> <?oxy_comment_end?>holte mich mein <persName key="G001203">Bruder</persName> ab. Er ist jener, den ich bei <placeName key="G000728">Metz</placeName> besuchte, jetzt Oberst in der Artillerie, u<ex>nd</ex> mit dem eisernen Kreuz I. Classe für <placeName key="G000613">Amiens</placeName> decorirt, wo er verwundet ward.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T143650+0200" comment="In der Schlacht von Amiens am 27. November 1870 unter Generalfeldmarschall Edwin Freiherr von Manteuffel (1809–1885) hatte sich Julius Gregorovius eine Kontusion am Fußgelenk zugezogen. Siehe die Briefe von Gregorovius an Ottilie Elgnowski, 11. und 20.12.1870 (BSB München, NL Gregorovius, Gregoroviusiana 20, Elgnowski, Ottilie, 15 und 16)."?> <?oxy_comment_end?>Wir gingen zusammen nach München, <placeName key="G000879">Stuttgart</placeName>, u<ex>nd</ex> s<ex>o</ex> w<ex>eiter</ex>, dann hatten wir in <placeName key="G000900">Würzburg</placeName> unser Zusammentreffen mit der <persName key="G001111"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T143710+0200" comment="Mit Ottilie Elgnowski (1834–1907) waren die Brüder Ferdiand und Julius Gregorovius (1819–1891) am 17. September 1871 in Würzburg zusammengetroffen (siehe RT, 17.9.1871, S. 309)."?>Schwester<?oxy_comment_end?></persName>, so daß wir drei Geschwister nach elf langen Jahren uns wieder <pb n="1v"/>vereinigt fanden. In <placeName key="G000660">Coburg</placeName> trennten wir uns; ich ging über <placeName key="G000629">Bamberg</placeName> u<ex>nd</ex> <placeName key="G000743">Nürnberg</placeName> zurück nach München, wo ich vorgestern eintraf.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T143729+0200" comment="Gregorovius war am 1. August 1871 in Venedig angekommen; am 7. August waren auch sein Bruder Julius und der Stiefbruder von Collrepp (*1827) eingetroffen, der im Deutsch-Französischen Krieg wie Julius Gregorovius längere Zeit in Metz stationiert war. Am 13. August 1871 kamen sie über Bozen und Kufstein reisend in München an (siehe RT, 10. und 24.8.1871, S. 308–309)."?> <?oxy_comment_end?>Meine Absicht ist, hier bis tief in den Nov<ex>ember</ex> zu bleiben, um die Wetterprobe zu machen. Denn im Grunde ist es mein Plan, wieder ins Vaterland zurückzukehren, da nun meine römische Aufgabe beendigt ist, die ja auch überhaupt meine Lebensaufgabe war. <?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T143745+0200" comment="Gregorovius kehrte am 1. Oktober nach München zurück und blieb bis zum 3. Dezember 1871 in seinem künftigen Wohnort (siehe RT, 2.12.1871, S. 311–313)."?></p><?oxy_comment_end?>
+<p>Der <bibl sameAs="G003434">letzte Band der Geschichte der <?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T143800+0200" comment="Seine „Geschichte der Stadt Rom im Mittelalter“."?>Stadt<?oxy_comment_end?></bibl> ist abgeschloßen, u<ex>nd</ex> sein Druck wird schon Ende October beginnen. Man wird Ihnen die Abzugsbogen zusenden. Bis zur Ostermesse 72 könnte der Druck vollendet sein. Hoffentlich wird Sie nichts hindern, den Index bis zu dieser Zeit <pb n="2r"/>abzuschließen. Nehmen Sie im voraus meinen herzlichsten Dank für die Energie, mit welcher Sie, Ihrem letzten Briefe nach, an diese Aufgabe gegangen sind, u<ex>nd</ex> diese selbst wird für uns beide ein Denkmal römischen Zusammenseins u<ex>nd</ex> ein Freundschaftspfand für die Zukunft sein.</p>
+<p>Ich habe das <bibl corresp="G002701 G002702 G002703 G002704">Referat von <?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T143842+0200" comment="Eine lange Rezension des siebten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1870) von Hermann Doergens (1832–1879) erschien in: Heidelberger Jahrbücher der Literatur. Jg. 64. Nr. 19–20 und 31–32. Heidelberg: Mohr 1871. S. 303–304, 305–313, 488–496 und 497."?>Dörgens<?oxy_comment_end?></bibl> durchgelesen – der Verfasser ist mir unbekannt geblieben. Die <bibl sameAs="G003962">Ankündigung des VII. Bandes in der Allg<ex>emeinen</ex> Zeit<ex>ung</ex></bibl> ist längst geschehen, schon am Ende des vorigen Jahres, wenn ich nicht irre, oder doch am Anfange des laufenden.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T143857+0200" comment="Der Ankündigungstext zum Erscheinen des siebten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1870) war erstmals erschienen in: Beilage zu Nr. 292 der AZ. Stuttgart: Cotta 19.10.1870. S. 4630."?> <?oxy_comment_end?></p>
+<p>Ich habe hier noch einige Historiker von der <orgName key="G000466">histor<ex>ischen</ex> Commission</orgName> vorgefunden, namentlich <persName key="G001254"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T143913+0200" comment="Der seit 1856 in Erlangen als Historiker lehrende Sohn des Philosophen Georg Wilhelm Friedrich Hegel (1770–1831), Karl von Hegel (1813–1901), den Gregorovius im September 1863 in Berchtesgaden kennengelernt (siehe RT, 4.9.1863, S. 166) und in München wiedergetroffen hatte (siehe ebd., 2.12.1871, S. 313). Hegel war seit 1858 auswärtiges Mitglied der Bayerischen Akademie der Wissenschaften.
+"?>Hegel<?oxy_comment_end?></persName>; u<ex>nd</ex> <persName key="G001525"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T143939+0200" comment="Der berühmte Leopold von Ranke (1795–1886) war seit 1857 auswärtiges Mitglied der Bayerischen Akademie der Wissenschaften. Das erste Zusammentreffen von Gregorovius und Ranke, mit dem Gregorovius zu seinem Ärger als Historiker immer wieder verglichen wurde, überraschte ihn positiv: „Ich lernte auch Ranke kennen. Er ist ein kleines Männchen mit einem leise markierten Buckel, wie ihn [Friefrich] Schleiermacher [(1768–1834)] hatte; bei 76 Jahren noch sehr frisch und munter, fast wie ein Lebemann. Ein geistreiches Lächeln belebt seine Züge. Er imponiert nicht, aber er interessiert sehr. Ranke ist einer der interessantesten Menschen, die ich sah. So mag ungefähr [der französischer Politiker und HistorikerAdolphe] Thiers [(1797–1877)] aussehen, für dessen jüngeren Bruder ich ihn halten würde. Ich war bei Giesebrecht zu Tisch mit ihm, und da war auch Döllinger, stumm und in sich gekehrt, während Ranke von witziger Rede sprudelte. Ich erstaunte, in ihm auch einen Enthusiasten zu finden. Denn ganz in Feuer und Flammen rief er aus: ‚Das deutsche Imperium ist die größte Tat der Menschheit! ‘ Meiner ‚Geschichte der Stadt Rom im Mittelalter‘ warf Ranke vor, daß sie italienisierend sei. Ich erzählte darauf als Anekdote dies: Ein geistreicher Italiener sagte mir einst wörtlich folgendes: ‚Ihre Geschichte ist ganz vortrefflich, aber sie ist zu deutsch.‘“ (RT, 1.12.1871, S. 313)"?><?oxy_comment_start author="Angela Steinsiek" timestamp="20200504T193316+0200" comment="Historische Kommission bei der Bayerischen Akademie der Wissenschaften" mid="10"?>Ranke<?oxy_comment_end?><?oxy_comment_end mid="10"?></persName> soll ich heute Mittag bei<persName key="G001173"> <?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T143951+0200" comment="Wilhelm von Giesebrecht."?>Giesebrecht<?oxy_comment_end?></persName> treffen.</p>
+<p>Nun, bitte, schreiben Sie mir bald ausführliches über Ihre Lebenswege, u<ex>nd</ex> ob Sie die Habilitation hinter sich <?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T144007+0200" comment="Rühl habilitierte sich mit seiner Schrift „Die Verbreitung des Justinius im Mittelalter“ (Leipzig 1871) im selben Jahr in Leipzig."?>haben<?oxy_comment_end?>. Immer denke ich an<placeName key="G000878"> Straßburg</placeName> für <?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T144026+0200" comment="Ein Vorschlag, den Gregorovius Rühl schon in seinem Brief vom 14.5.1871 unterbreitet hatte (siehe in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 299–300). Bis 1789 war die 1538 gegründete Universität Straßburg im Wesentlichen eine deutsch geprägte Hochschule. Nach dem Deutsch-Französischen Krieg wurden sie als Kaiser-Wilhelm-Universität 1872 neu gegründet."?>Sie<?oxy_comment_end?>, wo doch jetzt die Universität eingerichtet werden <pb n="2v"/>soll. Man wird den Profeßoren, wie Giesebrecht sagte, sehr große Gehälter auswerfen. <persName key="G001433"><hi rendition="#aq">Max Müller</hi></persName> aus England hat die Absicht, dort hin zu <?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T144056+0200" comment="Der aus Dessau gebürtige Sprach- und Religionswissenschaftler Max Müller (1823–1900) war seit 1868 an der Universität Oxford Ordinarius für vergleichende Sprachwissenschaft. Im Sommer 1872 hielt er Vorlesungen in Straßburg, blieb aber in Oxford."?>gehen<?oxy_comment_end?>, Sybel soll einen Ruf ausgeschlagen haben.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T144112+0200" comment="Heinrich von Sybel (1817–1895), ein Schüler Rankes, hatte seit 1861 eine Professur an der Universität Bonn inne, seit dem Wintersemester 1867–1868 als deren Rektor. 1875 wechselte Sybel als Direktor der preußischen Staatsarchive nach Berlin."?> <?oxy_comment_end?>Das Leben in Straßburg dürfte für die nächsten Jahre freilich nicht lockend sein.</p>
+<p>Ich muß schließen. Es gehe Ihnen wol, und schreiben Sie recht bald.</p>
+<closer>
+<salute rendition="#c">Freundschaftlich Ihr</salute>
+<signed rendition="#right"><hi rendition="#aq">FGregorovius</hi>.</signed>
+</closer>
+<note type="postscript">Es ist mir sehr erwünscht, daß Sie alles bemerken, was Ihnen in meinen Bänden an Nachläßigkeiten u<ex>nd</ex> Unrichtigkeiten begegnet. Es liegt in der Natur der Sache, daß es daran nicht fehlen kann. Vieles habe ich in der 2. Aufl<ex>age</ex> verbeßert. Diese schreitet gut vor; der <bibl sameAs="G003456">B<ex>an</ex>d V.</bibl> wird nächstens ausgegeben, und <bibl sameAs="G003449">B<ex>an</ex>d VI.</bibl> ist in der Preße. Der Krieg hat freilich nachteilig auf den Umsatz gewirkt.</note>
+</div>
+        </body>
+    </text>
+</TEI>

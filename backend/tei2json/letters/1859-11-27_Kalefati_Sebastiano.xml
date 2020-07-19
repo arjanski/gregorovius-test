@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000434">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Sebastiano Kalefati in Neapel. Rom, 27. November 1859</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Montecassino, Archivio dell’Abbazia </repository><collection>Carteggio Kalefati</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl, 8°, 3 S. – 2v, Blatt um 90° gedreht, Adr.: Al Reverendissimo Padre / Il Padre Priore Archivista / Don Sebastiano Kalefati / nel Monistero di S<ex>an</ex> Severino / Napoli. – 2r arR geringer Textverlust durch Blattbeschädigung </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Tommaso Leccisotti: Alcune lettere di Ferdinando Gregorovius a Monaci Cassinesi. In: Benedictina. Fascicoli di studi Benededettini. Jg. 14. Fasc. 1. Rom: S. Paolo 1967. S. 139–140 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Friedrich von Kenner hat ihm die gewünschten Auskünfte zu drei Codizes aus der Wiener Hofbibliothek gegeben. Zwei davon wird der österreichische Slawist Franz Xaver Ritter von Miklosich in Kürze edieren. Für weitere Informationen kontaktiert er gegebenenfalls den ersten Kustos Friedrich Halm. Er arbeitet in der Vatikanischen Bibliothek und hat dort einen Codex gefunden, der für Montecassino interessant sein könnte. Grüße an Luigi Tosti und die anderen Mönche in Montecassino.</p>
+                <p xml:lang="en">Friedrich von Kenner gave him the information he requested on three codices from the Vienna Court Library. Two of them will soon be edited by the Austrian Slavist Franz Xaver Ritter von Miklosich. For further information he may contact the first curator Friedrich Halm. He works in the Vatican Library and has found a codex there that could be of interest to Montecassino. He sends his regards to Luigi Tosti and the other friars in Montecassino.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1859-11-27" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001326">Kalefati, Sebastiano</persName>
+<placeName key="G000730">Montecassino</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Roma 27 Nov<ex>em</ex>br<ex>e</ex> 1859. <lb/><placeName key="ediarum_tcc_4nv_slb">Via della Purificazione</placeName> N<ex>ume</ex>ro 63.</dateline>
+                    <salute rendition="#c">Reverito Don Sebastiano,</salute>
+                </opener>
+<p>con sommo piacere ho letto la sua graziosa lettera, come quella dell’ illustre <persName key="G001655">Don Luigi Tosti</persName>: <seg type="comment"><orig>e già molto prima Le avrei scritto due righe, se non mi ratteneva la speranza di puoter acchiudervi le notizie intorno a quei codici di <placeName key="G000897">Vienna</placeName></orig><note xml:id="nenp_gqj_vlb">Gregorovius hatte versprochen, sich hinsichtlich der von Kalefati gewünschten Informationen an den Archäologen Friedrich von Kenner (1834–1922) in Wien, der seit 1854 am dortigen Münz- und Antikenkabinett beschäftigt war, zu wenden; siehe den Brief von Gregorovius an Sebastiano Kalefati vom <ref target="G000406">23.10.1859</ref>.</note></seg>. Queste finalmente mi sono mandate da un impiegato <add place="superlinear">alla <orgName key="G000515">Bibl<ex>ioteca</ex> di <subst><del rendition="#ow">W</del><add place="across">V</add></subst>ienna</orgName></add>, ed io m’affretto di trascriverle in questa mia.</p>
+<p><seg type="comment"><orig>Il Cod<ex>ex</ex> 65 è di 308, Cod<ex>ex</ex> 66 di 222 fol<ex>ia</ex></orig><note xml:id="nokw_hqj_vlb">Die beiden Codices konnten nicht identifiziert werden. Die genannten Signaturen Cod. 65 und Cod. 66 sind mit keiner (Vor-)Signatur oder Katalognummer der Wiener Hofbibliothek bzw. der Österreichischen Nationalbibliothek in Einklang zu bringen. Die zum großen Teil nur fragmentarischen lateinischen Randbemerkungen geben keinen genauen Aufschluss über den Inhalt der Handschriften und lassen sich kaum sinnvoll übersetzen bzw. kontextualisieren, weshalb hier nur Übersetzungs- und Verständnishilfen gegeben werden können; das gilt auch für die Abkürzungen von Gregorovius, die oft nicht eindeutig aufgelöst werden können. Die meisten der genannten Namen lassen sich nicht mit Sicherheit einer bestimmten Person zuordnen. Beide Codices scheinen sich mit Fragen der kirchlichen Hierarchie zu befassen, Namen und Orte verweisen v. a. auf den Bereich des östlichen Christentums. </note></seg> – Secondo quello che il <persName key="G001334"><seg type="comment"><orig>Dottor Kenner</orig><note xml:id="nnrx_3qj_vlb">Der österreichische Archäologe Friedrich von Kenner (1834–1922).</note></seg></persName> mi dice, <seg type="comment"><orig>eglino</orig><note xml:id="nkcv_jqj_vlb">Plural von egli, antik.</note></seg> non anno niente da fare coi monasteri di <placeName key="G000816">Calabria</placeName> e <placeName key="G000817">Apulia</placeName>. Si trovano ne<subst><del rendition="#ow">ll</del><add place="across">l</add></subst><del rendition="#s">’</del> margine note come tali. Cod<ex>ex</ex> 65: fol<ex>io</ex> 169. <foreign xml:lang="Lat">De sacerdotis dignitate</foreign> - <persName key="G001513"><foreign xml:lang="Lat"><seg type="comment"><orig>Dionys areopag</orig><note xml:id="ndq3_lqj_vlb">Lat. für: über die Würde des Priesters. Der offenbar als Autor der Schrift genannte „Dionys areopag.“ ist sicher Pseudo-Dionysius Areopagita (um 500). Der Philosoph und Theologe hatte für die Rezeption des Neuplatonismus im Mittelalter große Bedeutung. Die erwähnte Schrift ist nicht nachweisbar.</note></seg></foreign>.</persName> 286: <foreign xml:lang="Lat"><seg type="comment"><orig>Ioannes Ung</orig><note xml:id="nyfq_4qj_vlb">Lat. für: Johannes von Ungarn (nicht eindeutig identifizierbar), entfremdete die Kirchen vom Papsttum.</note></seg></foreign> ... <foreign xml:lang="Lat">ecclesias abduxit a Romana sede. <seg type="comment"><orig>Philotheus Patriarcha</orig><note xml:id="npdy_qqj_vlb">Lat. für: der Patriarch Philotheus (nicht eindeutig identifizierbar).</note></seg> de Eccles. <seg type="comment"><orig>Servi</orig><note xml:id="nfh3_sqj_vlb">Lat. für: Diener oder Sklave.</note></seg> ... Metropolita <seg type="comment"><orig>Christopolis</orig><note xml:id="nl5p_tqj_vlb">Lat. für: Der Erzbischof von Christopolis (heute: Kavala), eine antike Stadt in Makedonien.</note></seg> simu .. regal eccl. Th</foreign> ..</p>
+<p>279. <foreign xml:lang="Lat"><seg type="comment"><orig>Sacerdos deponitur, qui in liturgia non communicat</orig><note xml:id="nxlh_vqj_vlb">Lat. für: Der Priester, der im Gottesdienst nicht die Heilige Kommunion spendet, wird abgesetzt.</note></seg>.</foreign></p>
+<p>280. <foreign xml:lang="Lat"><seg type="comment"><orig>De magis quibusdam damnatis</orig><note xml:id="np5m_wqj_vlb">Lat. für: von einigen verdammenswerten Magiern.</note></seg></foreign> ... 281. <foreign xml:lang="Lat">Sanducia.</foreign> </p>
+<p>285. <seg type="comment"><orig><foreign xml:lang="Lat"><seg type="comment"><orig>Ut Isaac Hieromonachus preasit ecclesiae Zichnam. Ut metropolita Bityniae gubernet</orig><note xml:id="nqd3_zqj_vlb">Lat. für: Dass Isaak Hieromonachus (der Name ist nicht nachweisbar) der Kirche in Zichnam (der Ortsname ist nicht nachweisbar) vorstehe/vorstehen soll. Dass der Erzbischof von Bithynien (eine antike Region im nordwestlichen Kleinasien) regiere/regieren soll.</note></seg> Triadijm</foreign></orig><note xml:id="nthm_yqj_vlb">Lat. für: Dass Isaak Hieromonachus (der Name ist nicht nachweisbar) der Kirche in Zichnam (der Ortsname ist nicht nachweisbar) vorstehe/vorstehen soll. Dass der Erzbischof von Bithynien (eine antike Region im nordwestlichen Kleinasien) regiere/regieren soll.</note></seg>$. </p>
+<p>Cod<ex>ex</ex> 66: fol<ex>io</ex> 43. <foreign xml:lang="Lat"><seg type="comment"><orig>Anathema ligat et Michael</orig><note xml:id="nrpq_1rj_vlb">Lat. für: Der Kirchenbann bindet auch Michael.</note></seg>. ... et magister Rhetor. Niceph. et Solinch</foreign>$. 47. <foreign xml:lang="Lat">Patriarcha nicus..</foreign> 51. <foreign xml:lang="Lat"><seg type="comment"><orig>Metropolitis Adrianopolis</orig><note xml:id="nvvd_crj_vlb">Lat. für: Adrianopel, das heutige Edirne im Westen der Türkei.</note></seg></foreign>. <foreign xml:lang="Lat">Episcopat. Agatho poleos.</foreign></p>
+<p><pb n="1v"/>77. <foreign xml:lang="Lat"><seg type="comment"><orig>Archiepiscopus Susdaliae in Mostuara</orig><note xml:id="nu2l_drj_vlb">Lat. für: Der Erzbischof von Susdal (russische Stadt, ca. 220 km nordwestlich von Moskau).</note></seg></foreign>$ 109. <foreign xml:lang="Lat"><seg type="comment"><orig>De obitu pat. Alexandr</orig><note xml:id="nagr_2rj_vlb">Lat. für: vom Tod des Pater Alexanders (oder: in Alexandria).</note></seg></foreign>. </p>
+<p><foreign xml:lang="Lat">Sultan Alexand.</foreign></p>
+<p>110. <foreign xml:lang="Lat">Ut Hier.. patriarch. ordinet…. Isidorus Archiep.</foreign></p>
+<p><foreign xml:lang="Lat"><seg type="comment"><orig>Thesalonici</orig><note xml:id="nh1x_frj_vlb"> Lat. für: Isidor, der Erzbischof von Thessaloniki (nicht eindeutig identifizierbar).</note></seg>…Nathanael.</foreign></p>
+<p>111. <foreign xml:lang="Lat">Theophylactus</foreign></p>
+<p>112. <seg type="comment"><orig><foreign xml:lang="Lat">Rex Hungarie</foreign></orig><note xml:id="nfgb_hrj_vlb">Lat. für: der König von Ungarn.</note></seg>. 114. <foreign xml:lang="Lat">De conparitione Sictae et <seg type="comment"><orig>Attaliae</orig><note xml:id="nypx_gn2_ylb">Lat. für: Antalya.</note></seg></foreign></p>
+<p><foreign xml:lang="Lat">ecclesiar.</foreign> 130. <foreign xml:lang="Lat">Patr. Nilus. </foreign>132. <foreign xml:lang="Lat">Officium achronos magnae Eccl. Enorata.</foreign></p>
+<p>133. <foreign xml:lang="Lat">Hyperpyta</foreign>. 193. <foreign xml:lang="Lat">Ungro …. <seg type="comment"><orig>Sive Moldavia vel Walachia</orig><note xml:id="nqnm_krj_vlb">Lat. für: dem Ungarn (?) … weder Moldawien noch die Walachei.</note></seg>.</foreign></p>
+<p><seg type="comment"><orig>Il terzo codice è un martirologio di fol<ex>ia</ex> 137, contenente <foreign xml:lang="Lat"><persName key="G001285">S. Barbara</persName>, <persName key="G001286">S. Nicolai Martyr</persName>., <persName key="G001317">S. Joannis Evang.</persName> Vita, <persName key="G001603">VII Dormientium Eph.</persName> Vita, <persName key="G001318">Chrisostomi </persName>Sermo</foreign></orig>.<note xml:id="nml5_qn2_ylb">Es handelt sich um Cod. Hist. gr. 126 in der Österreichischen Nationalbiliothek in Wien. Die Handschrift stammt aus dem 14. Jahrhundert und enthält eine Sammlung kurzer Passionsgeschichten von christlichen Märtyrern. Die Inhaltsangabe nennt jene Abschnitte der Handschrift, die ihr Vorbesitzer Sebastian Tengnagel (1563–1636) mit lateinischen Titeln am Rand hervorgehoben hat. Sie handeln von der Heiligen Barbara, dem Heiligen Nicetas (ein legendarischer Sohn des römischen Kaisers Maximinian, der von 286–305 regierte; statt fälschlich ‚Nicolai‘ steht im Codex ‚Nicetae‘), dem Apostel Johannes, den Sieben Schläfern von Ephesus und einer Predigt des Johannes Chrysostomos (349/344–407) über die Epiphanie. Für die Identifizierung des Kodex gilt unser Dank Friedrich Simader von der Österreichischen Nationalbibliothek.</note></seg> – </p>
+<p>Io le trascrivo tal quale mi scrisse quel signore – le note sue non pajonmi esatte. Mi dice, che quei due codici devono esser stampati fra poco dal <persName key="G001419"><seg type="comment"><orig>Signor Miselovich</orig><note xml:id="nxr4_nrj_vlb">Gemeint ist der österreichische Slawist Franz Xaver Ritter von Miklosich (1813–1891), der slowenischer Abstammung war. Er war von 1844–1862 Skriptor an der Wiener Hofblibliothek. Zwischen 1850 und 1886 war er ordentlicher Professor am erst kurz zuvor geschaffenen Lehrstuhl für slawische Philologie an der Universität Wien. Gregorovius verweist in seiner „Geschichte der Stadt Athen im Mittelalter“ (2 Bde., Stuttgart 1889) auf Miklosichs Forschungsergebnisse (Geschichte der Stadt Athen im Mittelalter, Bd. 2, 1889, S. 243 u. 296).</note></seg></persName>, scrittore della Bibl<ex>ioteca</ex> Cesar<ex>ea</ex> e Professore della Letteratura Slava a Vienna. Se Ella vuole esserne meglio informato, me lo dica, ed io ne scrivero subito al Bibliotecario, di cui ora ho l’indirizzo. <seg type="comment"><orig>Egli si è il <persName key="G001228">Conte de Munch-Bellinghausen</persName>, primo Custode della Bibl<ex>ioteca</ex> Cesarea, conoscente mio, per scritti di poesia famoso nella <placeName key="G000664">Germania</placeName></orig><note xml:id="nh1l_qrj_vlb">Der Österreicher Friedrich Halm (1806–1871), Freiherr von Münch-Bellinghausen, war seit 1845 erster Kustos an der Wiener Hofbibliothek und bekannt als Dichter und Dramatiker. </note></seg>. Se La posso servire in fatti <pb n="2r"/>di quella biblioteca, La prego di ricordarsi, che io attenda con piacere il momento di offerirle le mie deboli forze; e così per qualunque relazione colla Germania.</p>
+<p>Del suo soggiorno a <placeName key="G000737">Napoli</placeName> sono contentissimo; il clima più mite, Le darà nuova vita, e l’occuparsi della stampa di un lavoro di tanto polso, come si è <seg type="comment"><orig>quello del Codice Italo-Bizantino Le farà vieppiù grati i giorni di Napoli</orig><note xml:id="nd3f_srj_vlb">Kalefati wurde vom Direktor des Staatsarchivs in Neapel Angiolo Granito, Prinz von Belmonte (†1861), die Durchführung eines schon seit 1850 geplanten Editionsvorhabens zur byzantinischen Herrschaft und Kultur in Süditalien angetragen. Publiziert werden sollten alle griechischen Pergamente des 8.-15. Jh., die sich im Staatsarchiv in Neapel und den Archiven der Abteien Montecassino, Cava de’ Terreni und Monte Vergine befanden. Vgl. dazu: Della pubblicazione di un codice diplomatico italo-bizantino dall’8. al 15. Secolo. Rapporto di don Sebastiano Kalefati, monaco di Montecassino al principe di Belmonte. In: Archivio Storico Italiano. Bd. 12, 1 (1860), S. 186–191: https://www.jstor.org/stable/44452752?seq=1#metadata_info_tab_contents. Kalefati konnte die Arbeit an der Edition bis zu seinem Tod 1863 nicht abschließen.</note></seg>. </p>
+<p>Roma è vuota di forestieri – e in ques<gap reason="lost" unit="chars" quantity="2"/> solitudine, benché un po’ melanconica, si studia bene. Io continuo i lavori nella <orgName key="G000506">Vaticana</orgName>, dove jeri nel <seg type="comment"><orig>Cod<ex>ex</ex> Vat<ex>icanus</ex> 2953 in 8, scrittura romana del sec<ex>olo </ex>XII, io trovai la <foreign xml:lang="Lat">Historia Romana quam <persName key="G001489">Petrus Diaconus</persName> composuit</foreign> (fol<ex>io</ex> CXVIII – fol<ex>io</ex> CCXXIX)</orig><note xml:id="nfp4_5rj_vlb">Biblioteca Apostolica Vaticana, Cod. Vat. lat. 2953. Die Handschrift ist online einsehbar unter: https://digi.vatlib.it/view/MSS_Vat.lat.2953. Sie enthält u. a. die hier erwähnte, wohl von Petrus Diaconus (1107–1159) verfasste „Historia Romana“, die einen Abriss der römischen Frühgeschichte von Noah bis Romulus gibt. Sie gehört als einer von vier Teilen zur „Graphia aureae urbis Romae“ (Lat. für: Beschreibung der goldenen Stadt Rom). Ob Petrus Diaconus als Autor der gesamten „Graphia“ betrachtet werden kann, ist umstritten. Vgl. dazu: Kordula Wolf: Troja – Metamorphosen eines Mythos. Französische, englische und italienische Überlieferungen des 12. Jahrhunderts im Vergleich. Berlin: Akademie Verlag 2009. S. 113–114. Ediert in: Codice topografico della città di Roma. Hrsg. von Roberto Valentini und Giuseppe Zucchetti. Rom: Istituto Storico Italiano 1946 (Fonti per la Storia dʼItalia 90). S. 77–110.</note></seg>. <seg type="comment"><orig><foreign xml:lang="Lat">Incipit: Primus in Ytalia ut quibusdam placet regnavit <persName key="G001315">Janus</persName>, Denique <persName key="G001570">Saturnus</persName><persName key="G001323"> jovem</persName> filius e graecia fugiens in civitate quae ejus nomine dicta est <placeName key="G000820">saturnia</placeName> latuit</foreign> </orig><note xml:id="nh54_xrj_vlb">Lat. für: Incipit: Als erster herrschte Janus über Italien, wie manche meinen. Danach regierte sein Sohn Saturn, der sich auf der Flucht vor Jupiter in der Stadt versteckt hielt, die nach ihm „Saturnia“ benannt ist. – Janus ist eine der ältesten römischen Gottheiten und hat kein griechisches Pendant. Er war ein Gott der Ursprünge, des Anfangs und des Endes, der Ein- und Ausgänge, was symbolisch durch seine zweiköpfige Gestalt zum Ausdruck kommt. Janus soll – wie hier berichtet – im Goldenen Zeitalter als König über Latium geherrscht haben. Sein Sohn Saturn war ein Gott des Ackerbaus und entsprach dem griechischen Chronos, der von seinem Sohn Zeus (Jupiter) entmachtet wurde.</note></seg>– finisce la Storia con <persName key="G001656"><seg type="comment"><orig>Trajano</orig><note xml:id="nngv_yrj_vlb">Trajan (53–117) war von 98–117 Kaiser des Römischen Reichs.</note></seg></persName> – ed è compilata dalla <seg type="comment"><orig>Histor<ex>ia</ex> Miscella</orig><note xml:id="npz1_1sj_vlb">Gemeint ist die „Historia Miscella“ des Landulphus Sagax (Ende 10. bis Anfang 11. Jhd.), eine Überarbeitung und Fortsetzung der „Historia Romana“ des Paulus Diaconus (725/30–797/99). Vgl. dazu Paolo Chiesa: Landulphus Sagax. In: La trasmissione dei testi latini del medioevo – Mediaeval latin texts and their transmission. Hrsg. von dems. und Lucia Casteldi. Florenz: SISMEL 2004. S. 244–247. Ediert in: Landolfi Sagacis Historia Romana. Hrsg. von Amadeo Crivellucci. 2 Bde. Rom: Istituto Storico Italiano 1912–1913 (Fonti per la Storia d’Italia 49 und 50).</note></seg> ed altri autori. Le ne scrivo, perché se ne potrebbe servire per M<ex>onte</ex> Casino, in Caso che quel Codice Le fosse ignoto.</p>
+<p>Io chiudo la lettera, pregandola di vuoler salutare da parte mia affettuosamente Don Luigi e gli altri venerabili Padri di conoscenza mia – Fra poco mandero una lettera a M<ex>onte</ex> Casino.</p>
+<p>Il cielo Le dia ottima Salute, gioja e conforto per qualunque dei suoi nobili affari. Mi conservi la sua benevolenza. </p>
+                <closer>
+<salute xml:id="s1" next="#s2" rendition="#c">Di cuore Servitor suo sincero </salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">e affettuoso</salute>
+<signed rendition="#right">Ferdin. Gregorovius. </signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

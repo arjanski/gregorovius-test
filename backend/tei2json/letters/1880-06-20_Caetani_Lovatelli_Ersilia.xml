@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_ihq_tps_rlb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Contessa Ersilia Caetani Lovatelli in Rom. Rom, 20. Juni 1880</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="restricted"><licence target="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International (CC BY 4.0) </licence></availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin </institution><collection>NL Waldemar Kampf</collection><idno>Karton 59, Mappe 348 (nach D)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"><bibl type="print">Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli. Hrsg. von Sigmund Münz. Berlin: Paetel 1896. S. 97–98</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er möchte sich vor seiner Abreise nach München persönlich bei der Gräfin verabschieden.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1880-06-20" cert="low"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001011">Caetani Lovatelli, Ersilia contessa (1840-1925)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="97"/>
+            <div type="writingSession">
+                <opener>
+<dateline rendition="#right">Rom, <seg type="comment"><orig>Sonntag, 20. Juni</orig><note xml:id="nscy_ywn_5lb">Laut Tagebuch kam Gregorovius am 10. Mai von seiner Griechenlandreise nach Rom zurück. In München traf er am 5. Juni ein (siehe RT, Romfahrt und Griechische Reise 1880, S. 420). Das Datum muss also entweder von Münz oder im RT falsch transkribiert worden sein, möglicherweise war im Original vom 5. Juli die Rede.</note></seg>.</dateline>
+<salute rendition="#c">Verehrteste Frau Gräfin,</salute>
+</opener>
+                <p>Sie luden mich liebenswürdigst ein, <seg type="comment"><orig>mit Ihnen einen andern sehr schönen Ausflug von Rom weg zu machen</orig><note xml:id="nk1t_zwn_5lb">Einige Zeit zuvor hatte Gregorovius mit der Gräfin und deren Familie einen Ausflug in die nordöstlich von Rom gelegene Gemeinde Mentana unternommen; siehe dazu den Brief von Gregorovius an Ersilia Caetani Lovatelli von 1880.</note></seg>. Wenn es mir gegönnt sein darf, Ihnen dieses Versprechen in Erinnerung zu bringen, so werde ich bitten, mir zu gestatten, mich Dienstag um 6 Uhr in Ihr Haus zu begeben. So werde ich auch von Ihnen Abschied nehmen können, da ich in wenigen Tagen von Rom abreise, und Ihnen gegenüber die Hoffnung <pb n="98"/>aussprechen, daß mir bei Ihnen nicht zu schnell jenes Schicksal werde, das gewöhnlich all den Sterblichen zu Theil wird – ich meine die vollständige Vergessenheit. Denn<seg type="comment"><orig> <seg type="comment"><orig><seg type="comment"><orig><foreign xml:lang="Lat">facilis est descensus Averni</foreign></orig><note xml:id="nsv3_bxn_5lb"/></seg></orig><note xml:id="noyx_bxn_5lb"/></seg>. </orig><note xml:id="nydy_srp_vlb">Lat. für: Leicht ist der Abstieg zur Unterwelt. Zit. nach Vergil, Aeneis VI, 126.</note></seg>Das gilt auch in dem Sinne, <seg type="comment"><orig>daß man da oben im <placeName key="ed_ymy_yrp_vlb">Flusse Lethe</placeName> verloren geht</orig><note xml:id="nisw_dxn_5lb">Fluss in der Unterwelt der griechischen Mythologie; der Name bedeutet Vergessen, Vergessenheit.</note></seg>. Von diesem nämlich trinken die Menschen gieriger, als von anderm Tranke. Und mache auch ich das, so weiß ich nicht genau, ob ich gut oder schlecht handle.</p>
+                <closer>
+                    <salute>Hiermit verbleibe ich Ihr treuer Diener</salute>
+                    <signed rendition="#right">Ferd.Gregorovius. </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

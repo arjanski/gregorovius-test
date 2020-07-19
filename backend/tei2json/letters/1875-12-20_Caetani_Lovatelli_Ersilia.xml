@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067769">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Contessa Ersilia Caetani Lovatelli in Rom. München, 20. Dezember 1875 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution> GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno>Karton 59, Mappe 348 (nach D)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"><bibl type="print">Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli. Hrsg. von Sigmund Münz. Berlin: Paetel 1896. S. 81–82 (gekürzt) </bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er blickt auf die sechs Monate seit seinem Weggang aus Rom zurück, die er für sehr unproduktiv hält. Adolf von Schack ist gestern nach Rom aufgebrochen, nachdem er im Oktober in München seine Tragödie „Die Pisaner“ (1858) zur Uraufführung gebracht hatte.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1875-12-20" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001011">Caetani Lovatelli, Ersilia contessa (1840–1925)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="81"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">München, 20. Dezember 1875.</dateline>
+</opener>
+<p><gap reason="lost" unit="chars" quantity="1"/>Die Zeit läuft so schnell dahin, daß es mir wie ein Traum vorkommt, <seg type="comment"><orig>hier außerhalb Roms schon den sechsten Monat zu sein</orig><note xml:id="nqz5_14t_zlb">Sein letzter Aufenthalt in Rom war am 28. Juni 1875 geendet. Zuvor hatte er sich ab dem 2. März auf einer mehrmonatigen Reise durch Italien befunden (siehe RT, Romfahrt 1875, S. 346–358).</note></seg>, und was mich noch mehr überrascht oder vielmehr verletzt, das ist die Nichtigkeit meines trägen und unfruchtbaren Daseins. <seg type="comment"><orig>Ich habe wenig geschrieben</orig><note xml:id="nljz_b4t_zlb">Seit seiner Rückkehr aus Italien hatte er drei Artikel in der „Allgemeinen Zeitung“ veröffentlicht: Benevent. In: Beilage zu Nr. 268 der AZ. Augsburg: Cotta 25.9.1875. S. 4197–4199 und in: Beilage zu Nr. 269 der AZ. Augsburg: Cotta 26.9.1875. S. 4214–4216 – Andria. In: Beilage zu Nr. 288 der AZ. Augsburg: Cotta 15.10.1875. S. 4505–4507 und in: Beilage zu Nr. 289 der AZ. Augsburg: Cotta 16.10.1875. S. 4526–4527 – Castel del Monte. Schloß der Hohenstaufen in Apulien. I. In: Beilage zu Nr. 327 der AZ. Augsburg: Cotta 23.11.1875. S. 5093f; in: Beilage zu Nr. 328 der AZ. Augsburg: Cotta 24.11.1875. S. 5114–5116 und in: Beilage zu Nr. 330 der AZ. Augsburg: Cotta 26.11.1875. S. 5150f. Am 4. Dezember hatte er einen Vortrag mit dem Titel „Die historischen Studien im alten Calabrien, der heutigen Terra d’Otranto“ vor der historischen Klasse der Akademie der Wissenschaften gehalten; siehe den Brief von Gregorovius an die Commissione conservatrice dei monumenti storici e di belle arti di terra d’Otranto (Francesco Casotti) vom 5.12.1875.</note></seg>, wenig vorbereitet, sehr wenig gelesen, so daß ich offen auf der Stirne das<seg type="comment"><orig> <foreign xml:lang="Lat">Signum reprobationis</foreign></orig><note xml:id="nzbg_d4t_zlb">Lat. für: Zeichen der Ächtung.</note></seg> zu tragen glaube, das mir<persName key="G067790"> Apollo</persName>, der züchtigende Gott, aufgedrückt hat, der mich auch bald <seg type="comment"><orig>die Marsyas-Strafe</orig><note xml:id="nsg5_24t_zlb">Der Mythos um den Sartyr Marsyas berichtet, dass dieser eine von Athene verschmähte Flöte fand und nach langem Spielen, überzeugt von seinem Können, Apollon zu einem Wettkampf herausforderte. Die zur Jury bestimmten Musen erklärten schließlich Apollon, der sein Spiel mit der Kithara mit seinem Gesang begleitete, zum Gewinner. Der Sieger ließ Marsyas aufhängen und bei lebendigem Leib häuten. </note></seg> wird leiden lassen. Gestern ist <seg type="comment"><orig><persName key="G001573">Baron Schack</persName></orig><note xml:id="nbzs_f4t_zlb">Der Schriftsteller und Kunstsammler Adolf Graf von Schack (1815–1894) hatte als Jurist zunächst im preußischen Staatsdienst gearbeitet. Nach Reisen durch Italien sowie Ägypten und verschiedenen weiteren juristischen Tätigkeiten, ging er nach Spanien, um dort die maurische Geschichte zu studieren. 1855 ließ er sich in München nieder und baute seine Sammlung von Gemälden aus dem 19. Jahrhundert auf. Gregorovius hatte Schack Ende 1856 in Rom kennengelernt (siehe RT, letzter Tag des Jahres 1856, S. 65). Sie pflegten Zeit ihres Lebens eine enge Freundschaft, welche sich mit Gregorovius’ Niederlassung in München womöglich intensivierte.</note></seg> nach <placeName key="G000690">Italien</placeName> abgereist. In kurzem wird er sich, wie ich glaube, die Freiheit nehmen, Sie in Rom zu besuchen. <seg type="comment"><orig>Er hat hier seine Tragödie <bibl corresp="ed_uw3_y3z_1lb">„Die Pisaner“</bibl> aufführen lassen</orig><note xml:id="ngnp_h4t_zlb">Die Uraufführung fand am 20. Oktober 1875 im Königlichen Hof- und National-Theater in München statt; siehe dazu AZ. Augsburg: Cotta 2.11.1875. S. 4776.</note></seg> und dafür viel Beifall geerntet, wiewohl das Sujet, <seg type="comment"><orig>der <pb n="82"/>Fall und Tod <persName key="ed_rlw_2jz_1lb">Ugolino’s</persName></orig><note xml:id="notf_j4t_zlb">Zusammen mit seinen Söhnen und Enkeln war Ugolino von seinem Feind, dem Erzbischof Ruggieri degli Ubaldini (†1295), in einen Turm gesperrt worden, dessen Schlüssel man im Arno versenkte. Die Eingesperrten starben den Hungertod. Bekannter ist allerdings Dantes Auseinandersetzung mit Ugolinos Schicksal in der „Divina Commedia“ (1321). Der Dichter verbannt den Grafen und Pisaner Politiker als verdammte Seele in das Eis des neunten Höllenkreises; Inf. XXXIII, 13–18, 37–39, 43–75.</note></seg>, zu grausam ist, um das Herz rühren und zu Mitleid bewegen zu können. Man muß jedoch sagen, daß Schack es verstanden hat, den Gegenstand mit nicht gewöhnlicher Geschicklichkeit zu behandeln. Ich begleite meinen Freund in Gedanken nach Rom, ohne ihn zu beneiden; auch bin ich nicht so begierig, <seg type="comment"><orig>bald dahin zurückzukehren</orig><note xml:id="nr1l_k4t_zlb">Gemeinsam mit Manfred Frommel-Lindemann (1852–1939) sollte Gregorovius am 10. März 1876 erneut nach Rom aufbrechen (siehe RT, 20.5.1876, S. 363).</note></seg>, wiewohl ich das vollste Recht habe, an jenem alten Leiden zu erkranken, das ‚<foreign xml:lang="grc"><seg type="comment"><orig>ἐπιθυμία της οῐκηςεως ἐν Ῥωμη</orig><note xml:id="nz1j_zdq_2mb">Griech. für: Sehnsucht in Rom zu wohnen. Gregorovius zitiert den byzantinischen Historiker Proskopios von Caesarea (um 500–562) im ersten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1859), S. 426–427: Mit Proskopios’ Worten erläutert er den Moment, als Belisar (500–565) im Jahr 547 die Stadtmauern Roms wieder errichtet hat und die Römer damit beginnen, in ihre Stadt zurückzukehren.</note></seg></foreign>‘ heißt<gap reason="lost" unit="chars" quantity="1"/></p>
+</div>
+        </body>
+    </text>
+</TEI>

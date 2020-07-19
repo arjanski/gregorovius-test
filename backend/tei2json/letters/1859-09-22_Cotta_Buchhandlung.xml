@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000099">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an die J. G. Cotta’sche Buchhandlung in Stuttgart. Rom, 22. September 1859</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DLA Marbach</repository>
+                        
+                        <idno>34804</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Bl., 8°, 2 S.  </p>
+<p>Manuskript seines Aufsatzes „Die Sicilianischen Volkslieder“ mit Begleitbrief vom 22. September 1859 an Hermann Hauff (DLA Marbach, 34803)</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 84, Mappe 5 (Alfred Löcke nach
+                                        H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 84, Mappe 5 (nach h1,
+                                        gekürzt)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er übersendet das Manuskript seines Artikels „Die Sicilianischen Volkslieder“ miteinem Begleitbrief an Hermann Hauff. Bei Josef Spithöver hat er die fehlenden Aushängebogen des ersten und einige des zweiten Bandes seiner „Geschichte des Stadt Rom im Mittelalter“ (1859) vorgefunden; die verzeichneten, aber fehlenden drei Freiexemplare des ersten Bandes (1859) hat er sich von Spithöver geben lassen. Er bittet um Zusendung der Rezensionen, die neben der aus dem Menzelschen „Literaturblatt“ erschienen sind, und um die fehlenden Aushängebogen des zweiten Bandes. Freiexemplare sollen an seinen Bruder Julius nach Danzig und an den Großherzog Carl Alexander nach Weimar gehen. Er reist in acht Tagen nach Montecassino, wo er wohl bis Ende Oktober bleibt. Er bittet um Zusendung der „Regesta chronologico-diplomatica Karolorum“ (1833) von Johann Friedrich Böhmer.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He sends the manuscript of his article „Die Sicilianischen Volkslieder“ with an accompanying letter to Hermann Hauff. At Josef Spithöver’s place he found the missing galley proofs of the first and some of the second volume of his „Geschichte des Stadt Rom im Mittelalter“ (1859); the three complimentary copies of the first volume (1859), which were listed but missing, were given to him by Spithöver. He asks to be sent the reviews that have been published in addition to the one from Menzel’s „Literaturblatt“ and the missing galley proofs of the second volume. Complimentary copies are to go to his brother Julius in Danzig and to the Grand Duke Carl Alexander in Weimar. In eight days he will travel to Montecassino, where he will probably stay until the end of October. He asks to be sent the „Regesta chronologico-diplomatica Karolorum“  (1833) by Johann Friedrich Böhmer. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1859-09-22" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="G000523">J. G. Cotta'sche Buchhandlung</orgName>
+                    <placeName key="G000879">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <salute xml:id="s1" next="#s2" rendition="#c">Der sehr geehrten J. G. Cottaschen
+                        Buchhandlung. <lb/>Hochverehrte Herren,</salute>
+                </opener>
+                <p>eben <seg type="comment"><orig>aus der <placeName key="ed_hqc_lrv_gmb">Campagna</placeName> zurückgekehrt</orig><note xml:id="nzvy_th3_xlb">Im August / September 1859 machte Gregorovius mehrfach Ausflüge in die Campagna Romana; in Genazzano schrieb er im August beiliegenden Aufsatz (siehe RT, 28.8.-29.9.1859, S. 84–85).</note></seg>, erlaube ich mir Sie zu bitten, beikommende Abhandlung: <seg type="comment"><orig>„<bibl corresp="G003877 G003878">Die Sicilianischen Volkslieder</bibl>“ der Redaction des <orgName key="G000533">Morgenblattes</orgName></orig><note xml:id="nojp_wh3_xlb">Die sicilianischen Volkslieder. Canti Popolari Siciliani. Raccolti e illustrati da Lionardo Vigo. Catania 1857. In: Morgenblatt für gebildete Leser. Jg. 53. Nr. 49. Stuttgart; München: Cotta 4. und 11.12.1859. S. 1153–1161 und S. 1185–1193. Dem Manuskript lag auch ein Begleitbrief vom 22. September 1859 an den Redakteur Hermann Hauff (1800–1875) bei (DLA Marbach, 34803). Der Aufsatz wurde 1861 aufgenommen in den Band „Siciliana“ (1861), den späteren Bd. 3 der „Wanderjahre in Italien“.</note></seg> zu zustellen. </p>
+                <p>Ich habe hier bei <hi rendition="#aq"><orgName key="G000545"><seg type="comment"><orig>Spithöver</orig><note xml:id="nt3h_yh3_xlb">Die deutsche Buchhandlung in Rom von Josef Spithöver (1813–1892).</note></seg></orgName></hi> eine von Ihnen an mich adressirte Sendung vorgefunden, enthaltend: 1) die fehlenden Aushängebogen von <bibl corresp="G003485"><seg type="comment"><orig>B<ex>an</ex>d I</orig><note xml:id="ndcc_zh3_xlb">Von dem im April 1859 ausgegebenen ersten Band seiner „Geschichte der Stadt Rom im Mittelalter“.</note></seg></bibl> in richtiger Anzahl, so daß damit ein vollkommnes Exemplar hergestellt ist. 2) 6 Aushängebogen des <bibl corresp="G003476">Bandes II</bibl>.</p>
+                <p>3) der Aviso-Schein besagte: 3 Exemplare Geschichte der <add place="intralinear">S<ex>tadt</ex></add> Rom 1 Theil der Freiexemplare. Diese 3 Exemplare lagen indeß nicht dabei, und die Buchhandlung <hi rendition="#aq">Spithöver</hi> versicherte, das Paquet mir eingehändigt zu haben so wie es aus der römischen <hi rendition="#aq">Dogana</hi> gekommen war. Wollen Sie die Güte haben mir zu sagen, ob jene 3 Ex<ex>emplare</ex> beigepackt wurden, oder nicht, u<ex>nd</ex> ob ich in dem letzteren Falle darauf angewiesen war, diese Ex<ex>emplare</ex> von <hi rendition="#aq">Spithöver</hi> mir zu entnehmen. Denn dies habe ich nun gethan, so daß ich Herrn <hi rendition="#aq">Spith<ex>över</ex></hi> nunmehr 3 Exempl<ex>are</ex> B<ex>an</ex>d I schuldig bin, welche ich bitte <hi rendition="#u">unter meiner Adresse</hi> an ihn gelangen zu laßen. Vielleicht legen Sie gefälligst Recensionen bei, wenn solche erschienen sind. Ich habe nur <bibl corresp="G002619"><seg type="comment"><orig>die Menzel’sche</orig><note xml:id="nm2d_133_xlb">Die ungezeichnete Besprechung zu Bd. 1 seiner „Geschichte der Stadt Rom im Mittelalter“ aus: Literaturblatt. Hrsg. von Wolfgang Menzel. Nr. 41. Stuttgart: Neff 21.5.1859. S. 161–163.</note></seg></bibl> gelesen, welche Sie mir früher schickten. Ich bitte mir solche nicht per Kreuzband zu senden; das Porto für alle frankirten wie unfrankirten Briefe ist jetzt sehr hoch, u<ex>nd</ex> so habe ich für die regelrecht frankirten Aushängebogen des Bandes II hier so viel Nach-Porto zahlen müßen, daß ich den Band bereits mit mehr als 6 Thalern <pb n="1v"/>bezahlt habe.</p>
+                <p>Von den Aushängebogen des <seg type="comment"><orig>Bandes II</orig><note xml:id="nl12_b33_xlb">Bd. 2 von Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ war soeben ausgegeben worden.</note></seg> fehlen mir: 1, 2, 3, 13, 14, 17, 18, 19, 20, 21, 22, 23, 30, 31, 34, 35, nebst Titel u<ex>nd</ex> Inhalt zu einem vollständigen Exemplar.</p>
+                <p>Ich werde mir später erlauben, Sie um die Verteilung der Exemplare zu Band II zu bitten; für jetzt möchten Sie die Güte haben, <seg type="comment"><orig>meinem <persName key="G001203">Bruder</persName> in <hi rendition="#aq"><placeName key="G000663">Danzig</placeName></hi></orig><note xml:id="nqcx_c33_xlb">Sein Bruder Julius Gregorovius war als Hauptmann der Artillerie in Danzig stationiert.</note></seg> 2 Ex<ex>emplare</ex> B<ex>an</ex>d II zu senden, wenn dies nicht schon, auf sein Ersuchen, geschehen ist, u<ex>nd</ex> <seg type="comment"><orig>1 Exempl<ex>ar</ex> an den <persName key="G001022">Großherzog von <hi rendition="#aq">Weimar</hi></persName></orig><note xml:id="nstd_233_xlb">Auf die Aufforderung Carl Alexanders Großherzog von Sachsen-Weimar-Eisenach hatte Gregorovius diesem im April 1859 bereits den 1. Band seiner „Geschichte der Stadt Rom im Mittelalter“ vom Verlag zusenden lassen (siehe den Brief von <ref target="G000105">Gregorovius an Carl Alexander, 5.4.1859</ref>), der sich am 5. April 1859 bedankte: „Das Interesse für ein Buch wie das vorliegende wird nicht durch den Augenblick bestimmt; man erkennt den Werth dessen, was es und giebt, in jeder Zeit; in jeder Zeit hat man ein wohlthuendes Gefühl, daß solch ein Buch das ist; in jeder Zeit empfindet man dankbar für den Verfasser! – so auch Ich!“ (BSB München, NL Gregorovius, Gregoroviusiana 21).</note></seg> ohne Begleitschreiben, da ich heute <seg type="comment"><orig>direct an ihn schreibe</orig><note xml:id="nzx4_h33_xlb">Das Schreiben von Gregorovius an Carl Alexander ist nicht erhalten.</note></seg>.</p>
+                <p>Die zweite Honorarhälfte für B<ex>an</ex>d II bitte ich noch zurückzuhalten, bis ich selbst darum ersuche.</p>
+                <p>Ich habe von vielen Seiten viel gutes über das Werk gehört; möchte es allerwegen
+                    so viel Lob verdienen, als die herrliche Ausstattung.</p>
+                <p><seg type="comment"><orig>In 8 Tagen reise ich nach <placeName key="G000730"><hi rendition="#aq">Monte</hi> Casino</placeName>, wo ich wahrscheinlich den ganzen October bleibe</orig><note xml:id="npkg_333_xlb">Auf Einladung von Sebastiano Kalefati (1817–1863), den Leiter des Archivs von Montecassino, den Gregorovius im September 1858 in Florenz kennengelernt hatte, reiste er am 30. September 1859 über Genazzano, Paliano, Anagni, Ferention, Sora und Arpino für Archivarbeiten nach Montecassino, wo er bis zum 18. Oktober 1859 blieb. Der Aufenthalt beeindruckte ihn tief (siehe RT, 29.9.-17.10.1859, S. 85–90 und den Brief von <ref target="G000405">Gregorovius an Kalefati, 12.8.1859</ref>).</note></seg>, u<ex>nd</ex> wohin ich bitte Ihr Schreiben zu adressiren, (ohne Couvert, da dies die hohen Postsätze im <placeName key="G004694">Königreich Neapel</placeName> gleich verdoppelt, wenn nicht verdreifacht).</p>
+                <p><persName key="G001055">Herr Baron von Cotta</persName> wird nun wol aus dem Bade zurücksein, daher ich bitte mich verehrungsvoll zu empfehlen.</p>
+                <closer>Mit großer Hochachtung, sehr geehrte Herren, zeichne ich mich<salute xml:id="s2" prev="#s1" rendition="#c">Ihr ergebenster</salute> <signed rendition="#right"><hi rendition="#aq">FGregorovius</hi></signed><dateline><hi rendition="#aq">Rom</hi> 22. <hi rendition="#aq">Sept<ex>em</ex>b<ex>e</ex>r</hi> 1859.</dateline> </closer><note type="postscript" rendition="#rotate90" place="left">Ich habe vergeßen Sie um eine Gefälligkeit zu bitten: nämlich mir so bald als möglich über <placeName key="G000712"><hi rendition="#aq">Leipzig</hi></placeName> <bibl sameAs="G004794"><hi rendition="#aq">Böhmer Regesta <hi rendition="#u" hand="">Karolorum</hi></hi></bibl> zukommen zu laßen, u<ex>nd</ex> den Betrag einzurechnen.</note>
+            </div>
+        </body>
+    </text>
+</TEI>

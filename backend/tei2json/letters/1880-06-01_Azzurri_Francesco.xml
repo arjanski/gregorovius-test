@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_rw1_nsn_slb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Francesco Azzurri in Rom. Rom, 1. Juni 1880</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free">
+                <licence target="http://creativecommons.org/licenses/by/4.0/">
+                    Creative Commons Attribution 4.0 International (CC BY 4.0)
+                </licence>
+            </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Rom, Archivio Accademico della Accademia di San Luca </repository><collection>vol. 39: Lettere autografe di accettazion</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ½ S. – 1r aoR, Archivvermerk: N.° 136 / Gregorovius</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness><bibl type="print">Luigi Pirotta: Ferdinando Gregorovius cittadino di Roma. In: Roma. Rassegna mensile di attualità. Rom (Februar) 1959. S. 3–8</bibl> </witness>
+<witness> <bibl type="print">Cesare De Seta: Gregorovius und die Polemiken über den Wandel des römischen Stadtbildes. In: Ferdinand Gregorovius und Italien. Eine kritische Würdigung. Hrsg. von Arnold Esch u. Jens Petersen. Tübingen: Niemeyer 1993. S. 212–213 (unvollständig)</bibl> </witness>
+<witness> <bibl type="print">Cesare De Seta (Hrsg.): ‚Ferdinand Gregorovius e Roma medievale‘Vedutisti e viaggiatori in Italia tra Settecento e Ottocento. Turin: Bollati Boringhieri 1999. S. 132–133 (unvollständig) (Nuova cultura; 68)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de"> Er dankt für die Ernennung zum Ehrenmitglied der römischen Accademia di San Luca, die ihn als römischer Bürger nur noch mehr an die ewige Stadt bindet. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1880-06-01" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G000953">Azzurri, Francesco (1827-1901)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<note>
+<p rendition="#c">All’ Ill<ex>ustrissi</ex>mo signor Presidente dell’ Ins<ex>igne</ex> Accademia Romana delle Belle Arti,</p>
+<p rendition="#c">il signor Commendatore Francesco Azzurri.</p>
+<p rendition="#c">Ill<ex>ustrissi</ex>mo <seg type="comment"><orig>Signore</orig><note xml:id="nx3n_svn_5lb">Der Römer Francesco Azzurri (1827–1901) studierte an der Accademia delle belle arti in Rom bei seinem Onkel, dem berühmten, neoklassizistischen Architekten Giovanni Azzurri (1792–1858). Den architektonischen Strömungen Europas gegenüber verschlossen, orientierte sich Francesco vor allem auf die funktionale Ausrichtung der Architektur. 1862 errichtete er in Rom das Krankenhaus Santa Maria della Pietà, 1867 das Krankenhaus Fate-bene-Fratelli in Isola Tiberina, in den Jahren 1862–1870 die Nervenheilanstalten in Siena und Alessandria. 1880 wurde er zum Präsidenten der Accademia di San Luca ernannt. Von 1880–1886 erbaute Azzurri sein Hauptwerk, das Teatro Drammatico Nazionale in Rom, einen neoklassizistischen Bau, der 1929 einem anderen Gebäude weichen musste. Ein wichtiges Werk seiner späten Schaffensperiode ist der Palazzo Pubblico in San Marino von 1894. Gregorovius’ Korrespondenz mit Azzurri zählt heute vier Briefe des Deutschen an den Italiener. Während es im ersten, hier vorliegenden Brief um die Ernennung von Gregorovius zum Ehrenmitglied der Accademia di San Luca geht, und das in einem sehr höflich-formellen Ton, beziehen sich die drei anderen Schreiben, alle aus dem Jahre 1881, auf die Zerstörung mittelalterlicher Stadtviertel Roms im Zuge des Umbaus der Stadt. In diesen Briefen schlägt Gregorovius einen durchaus forschen Ton an, fordert den Akademiepräsidenten in dieser zerstörerischen Angelegenheit zum Handeln auf. </note></seg>, </p>
+</note>
+</opener>
+<p><seg type="comment"><orig>L’alta onoranza testè conferitami dall’insigne <orgName key="ed_xfh_yvn_5lb">Accademia Romana delle belle Arti</orgName>, cui Ella tanto degnamente presiede, mi torna tanto più dono prezioso, quanto meno potei prometterla</orig><note xml:id="nr2t_dwn_5lb">Laut Urkunde war Gregorovius am 21. März 1880 zum Ehrenmitglied der römischen Accademia di San Luca ernannt worden; ein auf den 31. März datiertes Schreiben des Präsidenten begleitete das Ernennungsdokument; BSB München, NL Gregorovius, Gregoroviusiana 19. </note></seg>. </p>
+<p><seg type="comment"><orig>Accolgo dalle mani di V<ex>ostra</ex> S<ex>ignoria</ex> Ill<hi rendition="#sup"><ex>ustrissi</ex>ma</hi> una così distinta dignità</orig><note xml:id="nh44_2wn_5lb">Gregorovius konnte das Diplom noch während seines Romaufenthaltes persönlich entgegennehmen (siehe RT, Romfahrt und Griechische Reise 1880, S. 420).</note></seg>, qual è la mia nomina a Socio d’onore della detta insigne Accademia, non solo come nuova dimostrazione di benevolenza verso di me da parte de’ cittadini Romani, ma la ritengo ancora sentenza generosamente data in mio favore dai più illustri artisti d’ <placeName key="G000690">Italia</placeName>. Chè essi, chiamando me scrittore delle storie urbane a prender posto in mezzo a loro, con tale atto di spontanea liberalità hanno protestato, che anch’ essi da lor parte riconoscono nel <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">mio lavoro sul medio evo della città</bibl>, per difettoso che sia, pur un tributo non del tutto indegno della maestà di Roma, cui esso venne con filiale deferenza offerto.</p>
+<p>L’ insigne Consiglio Accademico, mosso da sentimenti generosi, ha determinato <add place="sublinear">di</add> <pb n="1v"/>crescere i forti legami di affetto e di gratitudine, che oramai stringono <seg type="comment"><orig>me cittadino Romano a questa nostra Alma Madre comune, di un altro vincolo altrettanto forte quanto a me gratissimo</orig><note xml:id="nu3j_nwn_5lb">Im März 1876 war er vom römischen Gemeinderat zum Ehrenbürger der ewigen Stadt ernannten worden; siehe den Brief von Gregorovius an Pietro Venturi vom 17.3.1876.</note></seg>. Ed egli è perciò, che vado glorioso di appartenere quindi innanzi come socio legittimo a <seg type="comment"><orig>cotesta inclita ed antica Corporazione di cultori delle arti belle, la quale essendo oramai una gloria secolare di Roma</orig><note xml:id="nxr3_vwn_5lb">Die Künstlervereinigung Accademia nazionale di San Luca war 1593 durch den Maler Federico Zuccari (1539–1609) in Rom gegründet worden und stand in ihren frühen Jahren unter dem Patronat und der Kontrolle des Papstes. Erst nach der Einigung Italiens und der Annexion Roms zum Königreich 1870 wurde diese päpstliche Einflussnahme aufgegeben und 1872 die Akademie in eine „Accademia Reale“ umgewandelt. 1948 änderte sich der Namenszusatz in „nazionale“.</note></seg>, qui custodisce tuttora e sarà per custodire felicemente in tempi lontani ancora avvenire la più lucida e l’ imperit<choice><sic>a</sic><corr cert="high">u</corr></choice>ra fiamma della vita degli Italiani, che è per l’appunto l’arte. </p>
+<p>Ringraziando di tutto cuore V<ex>ostra</ex> S<ex>ignoria</ex> Ill<ex>ustrissi</ex>ma dell’ onorifico diploma, non che della cortesissima lettera, onde il medesimo venne accompagnato, la prego nell’ istesso tempo a rendersi interprete de’ miei sentimenti di più sentita riconoscenza appo gli <add place="sublinear">altri</add> <pb n="2r"/>illustri signori Accademici, tanto più, che <seg type="comment"><orig>stando io sul punto di lasciare Roma</orig><note xml:id="np3p_wwn_5lb">In den Tagen nach Abfassung dieses Schreibens verließ Gregorovius die Stadt, in München traf er am 5. Juni ein (siehe RT, Romfahrt und Griechische Reise 1880, S. 420).</note></seg>, per ora devo rinunziare al grato dovere di salutarli e ringraziarli personalmente.</p>
+<p>Aggradisca i sensi della mia più alta stima, con i quali ho l’onore di raffermarmi</p>
+<closer>
+<salute rendition="#c">di V<ex>ostra</ex> S<ex>ignoria</ex> Ill<ex>ustrissi</ex>ma</salute>
+<dateline>Roma 1. Giugno 1880</dateline>
+</closer>
+<closer rend="paragraph">
+<salute rendition="#c">divotissimo</salute>
+<signed rendition="#right">Ferdinando Gregorovius </signed>
+<signed rendition="#right">cittadino Romano. </signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

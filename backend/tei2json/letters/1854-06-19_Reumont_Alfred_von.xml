@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000017">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Alfred von Reumont in Florenz. Rom, 19. Juni
+                    1854</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Universitäts- und Landesbibliothek Bonn</repository><collection>NL Reumont</collection><idno>S 1061 (287)</idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 4°, 1 S. – 1r aoR in einer Vignette geprägt: BATH – 1r aoR Empfängervermerk: pr. <hi rendition="#aq"><hi rendition="#aq">Florenz</hi></hi> 10 <hi rendition="#aq"><hi rendition="#aq">Juli</hi></hi> 54.</p>
+<p>Corsica. 2 Bde. Stuttgart: Cotta 1854</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno><idno type="shelfmark">Karton 84, Mappe 6 (Alfred Löckle nach H)</idno></idno></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno><idno type="shelfmark">Karton 82, Mappe 5 (nach h1)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er übersendet ein Exemplar seines „Corsica“ (1854). Reumonts Aufsatz zu „Paoli und Corsica“ (1853) konnte er noch nicht lesen, weil Clemens August Alertz verreist ist und der Buchhändler Josef Spithöver kein Exemplar hatte. Reumonts Schrift „Die Carafa von Maddaloni. Neapel unter spanischer Herrschaft“ (1851) hat er mit Gewinn gelesen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He sends a copy of his „Corsica“ (1854). He has not been able to read Reumont’s essay on „Paoli und Corsica“ (1853), because Clemens August Alertz was away and the bookseller Josef Spithöver didn’t have a copy. He read Reumont’s „Die Carafa von Maddaloni. Neapel unter spanischer Herrschaft“ (1851) with great interest. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1854-06-19" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001545">Reumont, Alfred von (1808–1887)</persName>
+                    <placeName key="G000671">Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+                <opener>
+                    <salute>S<ex>eine</ex>r Hochwolgeborn <lb/>Herrn Legationsrath <seg type="comment"><orig>Alfred v<ex>on</ex> Reumont</orig><note xml:id="nlh3_4xn_llb">Der Historiker und Diplomat Alfred von Reumont (1808–1887) war nach einem abgebrochenen Medizinstudium Ende 1829 als Hauslehrer nach Florenz gekommen. Seine diplomatische Karriere begann 1830 ebendort als Legationssekretär unter dem preußischen Gesandten Friedrich von Martens (1778–1859). 1833 wurde er in Erlangen zum Doktor der Philosophie promoviert und betrieb neben seiner diplomatischen Karriere Studien zur italienischen und deutschen Geschichte und unterhielt eine umfangreiche Korrespondenz mit Historikern und Politikern. Viel beachtet wurden seine „Römische Briefe von einem Florentiner 1837–1838“ (4 Bde., Leipzig: Brockhaus 1840–1844). Nachdem er zuerst 1829 als Sekretär in der preußischen Gesandtschaft in Florenz tätig war, wechselte von 1836 bis 1851 zwischen Rom und Florenz. 1851 übernahm er die Leitung der preußischen Gesandtschaft in Florenz, auch begleitete er Friedrich Wilhelm IV. (1795–1861) häufiger auf Reisen. Ab 1856 wurde Reumont Ministerresident am Hof des Großherzogs von Toskana Leopold II. (1797–1870) bis dieser 1859 durch Volksabstimmungen im Zuge der Einigung Italiens abgesetzt wurde. Nach dem Tode Friedrich Wilhelm IV. wurde Reumont in den einstweiligen Ruhestand versetzt, lebte überwiegend in Aachen und Bonn und widmete sich fortan seinen Studien zur Geschichte und Literatur. Gregorovius hatte zu dem vielschreibenden Reumont ein eher schwieriges Verhältnis. Insbesondere nachdem dieser im Frühling 1863 von König Maximilian von Bayern den Auftrag erhalten hatte, eine Geschichte der Stadt Rom von der ältesten bis auf die neueste Zeit für einen größeren Leserkreis zu schreiben. In über 3500 Seiten in vier Bänden stellte er es zum fortgesetzten Spott und Ärger von Gregorovius, der von der Kritik immer wieder mit ihm verglichen wurde, in acht Jahren fertig (4 Bde., Berlin 1866–1870). Die Briefe von Gregorovius an Reumont scheinen weitgehend vollständig überliefert zu sein, während die Gegenbriefe von Reumont verloren sind. Von Gregorovius’ Seite ist die Korrespondenz zunächst durch die übergeordnete Stellung des sehr gut vernetzten Reumont geprägt (er ermöglicht ihm den Zugang zur Vatikana), wird aber bald selbstbewußter.</note></seg> <lb/>in Florenz. </salute>
+                </opener>
+                <p>Möchten Sie, hochgeehrter Herr, dieses Exemplar meines „<bibl sameAs="G003106">Corsica</bibl>“ als ein Zeichen der großen Hochachtung annehmen, welche mir Ihre Schriften eingeflößt haben u<ex>nd</ex> die ich nun froh bin, Ihnen ausdrücken zu können. Denn bei so umfaßender Kenntniß italienischen Lebens, als Ihnen zu Gebote steht, wenn Sie, wie ich wol überzeugt bin, dieser Arbeit Ihre freundliche Teilnahme nicht versagen.</p>
+                <p>Auch Sie haben den Corsen eine Studie gewidmet, eine <bibl sameAs="G004235">Abhandlung über <hi rendition="#aq">Pasquale Paoli</hi></bibl>, welche ich leider noch nicht lesen konnte, weil Herr Medicinalrath <seg type="comment"><orig><hi rendition="#aq"><persName key="G000913">Alerz</persName></hi></orig><note xml:id="nqtk_bd1_nlb">Clemens August Alertz (1800–1866), ein enger Freund von Gregorovius, war seit 1836 Leibarzt Gregor XVI. (1865–1846) und seines Nachfolgers Pius IX. (1792–1878), des Prinzen Heinrich von Preußen (1781–1846); 1846 wurde er preußischer Gesandtschaftsarzt.</note></seg>, der in ihrem Besitze ist u<ex>nd</ex> mir die Schrift zum Lesen verstatten wollte, verreist, bei <orgName key="G000545"><seg type="comment"><orig>Spithöver</orig><note xml:id="nd5s_q24_llb">Die deutsche Buchhandlung von Josef Spithöver (1813–1892) an der Piazza di Spagna.</note></seg></orgName> aber kein Exemplar mehr vorhanden ist. So muß ich das Vergnügen, den Aufsatz zu lesen, mir bis <hi rendition="#aq">October</hi> zum versparen. <seg type="comment"><orig><bibl sameAs="G004236">Die Geschichte des Hauses <hi rendition="#aq">Carafa</hi></bibl></orig><note xml:id="njbr_dd1_nlb">Alfred von Reumont: Die Carafa von Maddaloni. Neapel unter spanischer Herrschaft. 2 Bde., Berlin: Decker 1851 (https://reader.digitale-sammlungen.de/resolve/display/bsb10127234.html und https://reader.digitale-sammlungen.de/resolve/display/bsb10127235.html).</note></seg> dagegen ist mir zur Hand gekommen, u<ex>nd</ex> möchten Sie unter so vielen Dankbezeugungen, welches dies Werk wird eingeerntet haben, auch die meinige entgegen nehmen wollen; ich habe über dieses wunderbare Drama <hi rendition="#aq"><persName key="G000931"><seg type="comment"><orig>Masaniello</orig><note xml:id="nttn_kf4_llb">Der Anführer des neapolitanischen Volksaufstandes von 1647 gegen die spanischen Besatzer, der Fischer Tommaso Aniello (1620–1647), genannt Masaniello.</note></seg></persName></hi> wahrlich nichts gelesen, was mir eine gleiche Anschauung u<ex>nd</ex> einen gleichen Genuß gewährte.</p>
+                <p>Ich übersende Ihnen dies Schreiben u<ex>nd</ex> Buch durch Gelegenheit
+                        u<ex>nd</ex> wünsche, daß mir die richtige Besorgung desselben vergewißert
+                    würde, denn alle Communication liegt hier sehr im Argen.</p>
+                <closer>
+<salute xml:id="s1" prev="#s1" next="#s2">Ich habe die Ehre mich Ihnen, hochgeehrter Herr, zu empfehlen, den ich mit der vorzüglichsten Hochachtung mich unterzeichne</salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">Ihr ganz ergebenster</salute>
+                    <signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi></signed>
+                    <dateline rendition="#c">Roma d<ex>en</ex> 19 Juni 1854</dateline></closer>
+<note type="postscript" rendition="#c"><foreign xml:lang="ita">Libreria di Guiseppe Spithöver </foreign><lb/><foreign xml:lang="ita">Piazza di Spagna</foreign>.</note>
+            </div>
+        </body>
+    </text>
+</TEI>

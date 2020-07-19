@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000155">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Raffaele Mariano in Rom. München, 17. November 1874</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt>
+                    <persName>
+                        <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+<sourceDesc>
+<msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S.</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Seinen Artikel „Der Erzengel auf dem Berg Garganus“ hat er ihm geschickt. Domenico Guglielmi will diesen zusammen mit „Lucera“ und „Manfredonia“ übersetzen (alle 1874). Die neuen Faksimiles in der dritten deutschen Ausgabe seiner „Lucrezia Borgia“ (1875) werden nicht in die französische und italienische Übersetzung aufgenommen. Wegen der wenigen Freiexemplare will Gregorovius die Zusammenarbeit mit Le Monnier beenden. Mariano soll sich deshalb auch bei Pasquale Villari beschweren. Ein Faksimile aus dem Anhang seiner „Lucrezia Borgia“ (1875) ist falsch beschriftet. Die dritte Auflage des ersten Bandes einer „Geschichte der Stadt Rom im Mittelalter“ (1875) geht bald in den Druck. Michelangelo Caetani führt sich derzeit sehr seltsam auf, auch in politischer Hinsicht. Fast schämt er sich der Widmung seiner „Lucrezia Borgia“ für den Herzog. Auch dessen Tochter Ersilia Caetani-Lovatelli verhält sich ihm gegenüber kühl, doch korrespondiert er wieder mit ihr.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName>
+                    <date when="1874-11-17" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c"> <foreign xml:lang="deu">München</foreign>, <placeName key="ediarum_uqx_zzn_zlb">Maximilianstr.</placeName> n. 6 <lb/>17. Nov<ex>embre</ex> 1874.</dateline>
+                    <salute>Caro amico Mariano,</salute>
+                </opener>
+<p>ebbi le sue lettere, cui intendevo dare riscontro proprio quest oggi, avendole prima spedito l’<bibl corresp="G003990 G003991 G003992">articolo sul Gargano</bibl>.</p>
+<p>In quanto al desiderio dell’<seg type="comment"><orig>ottimo <persName key="G001221">Guglielmi</persName></orig><note xml:id="nifd_wc4_zlb">Domenico Guglielmi war der Neffe des Domherrn Guglielmi in Trani. Gregorovius besuchte ihn gemeinsam mit Raffaele Mariano und seinem Bruder Julius während süditalienischen Reise im Mai 1874 in Trani (siehe RT, S. 339–342).</note></seg> di tradurre <seg type="comment"><orig>le mie relazioni del nostro viaggio in Puglia</orig><note xml:id="nwnd_xc4_zlb">Die süditalienische Reise, die Gregorovius im Mai und Juni 1874 mit seinem Bruder Julius (1818–1891) und Raffaele Mariano unternahm, und auf der sie u.a. in Benevent, Foggia, Lucera, Manfredonia, dem Kap Gargano, Foggia, Barletta, Bari, Tarent und Massafra Station machten (siehe RT, S. 339–342). Im Anschluss an die Reise verfasste Gregorovius einige Beiträge über die Reise für die Augsburger Allgemeine, von denen diejenigen über Lucera, Manfredonia und das Kap Gargano in den 5. Band der „Wanderjahre in Italien“ (1877) aufgenommen wurden, und welche Mariano später unter dem Titel „Nelle Puglie“ (1882) übersetzte. Siehe Ferdinand Gregorovius: „Lucera, die Saracenen-Colonie der Hohenstaufen in Apulien“, ED in Beilage zu Nr. 276–277 der AZ. Augsburg: Cotta 3.-4.10.1874. S. 4293–4295 und S. 4311–4312; „Manfredonia“: ED in Beilage zu Nr. 288–289 der AZ. Augsburg: Cotta 15.-16.10.1874. S. 4473–4474 und S. 4490–4491; „Der Erzengel auf dem Berge Garganus“: ED in Beilage zu Nr. 311–313 der AZ. Augsburg: Cotta 7.-9.11.1874. S. 4833–4834, S. 4850–4852 und S. 4859–4860; Raffaele Mariano: „Nelle Puglie. Con noterelle di viaggio del traduttore. Versione dal tedesco di Raffaele Mariano.“ Florenz: Barbèra Editore 1882.</note></seg>, credò che non incontrerà difficoltà alcuna della parte dell’<orgName key="G000523">editore</orgName> dell’<orgName key="G000462">Allg<ex>emeine</ex> Zeitung</orgName>. Ne chiederò il permesso, e procurerò di mandar una copia degli articoli a <placeName key="G000887">Trani</placeName>.</p>
+<p>Quella stessa domanda poi che mi viene di setta mediante la sua di jeri, cioè di metter il <orgName key="G000528">Le Monnier</orgName> in possesso <seg type="comment"><orig>di quelle giunte</orig><note xml:id="nv53_yc4_zlb">Die 3. „verbesserte und vermehrte Auflage“ seiner „Lucrezia Borgia“ (1875) wurde schließlich um 50 Seiten vermehrt – der Dokumenten-Anhang wurde um 27 Seiten vermehrt und enthielt nicht mehr 59, sondern 68 Nummern. Neu aufgenommen wurden: vier Briefe von Lucrezia Borgia an Vincenzo Giordano, 28.-30.10.1500; ein Dekret der Herzogin Lucrezia zum Schutz der Juden, 28.5.1506; der Brief von Isabella von Mailand a Perot Castellar, 14.10.1512; zwei Briefe von Don Juan Borgia an den Herzog Alfonso, 8. und 22.6.1519 sowie ein Verzeichnis von Büchern im Besitz der Donna Lucrezia aus den Jahren 1502 und 1508 (https://archive.org/details/lucreziaborgian01greggoog/page/n398).</note></seg>, di cui sta per esser arrichita la<bibl corresp="G003507"> 3<hi rendition="#sup">a</hi> edizione della Lucrezia</bibl>, la negai giorni fà agli editori <orgName key="G000549"><seg type="comment"><orig>Sandoz et Fischbacher</orig><note xml:id="nvjx_zc4_zlb">Im Verlagshaus erschien die französische Übersetzung im Folgejahr unter dem Titel „Lucrèce Borgia, d’après les documents originaux et les correspondances contemporaines“ nach der 3. Auflage der deutschen Ausgabe (1875) als „corrigée et augmentée“ (siehe auch den Brief von Gregorovius an Cotta vom 9.10.1874 sowie den Brief von Sandoz &amp; Fischbacher an Gregorovius vom 23.12.1874).</note></seg></orgName> in <placeName key="G000749">Parigi</placeName>; porchè va senza dire che l’<orgName key="G000523">editore tedesco</orgName> non sarà troppo contento di veder uscire alla luce nell’essere una edizione migliorata prima che egli stesso non n’abbia pubblicato l’originale tedesco.</p>
+<p>Però la domanda che mi giunge dall’<placeName key="G000690">Italia</placeName> deve esser considerata sotto un’ altro aspetto. Del libro mio sono debitore agli Italiani stessi, vuol dire ad alcuni Archivi, ed esso è per materia ed interesse specialmente oggetto italiano. <pb n="1v"/>Cedo dunque a questa riflessione, ma per nulla alle istanze del LeMonnier, verso cui non mi sento obbligato punto. Anzi codesto piccol’uomo ebbe <seg type="comment"><orig>il coraggio di farsi pagare dall’autore la miseria di cinque copie chieste da lui ad uso suo proprio</orig><note xml:id="nqff_bd4_zlb">Der florentinische Verlagshaus Le Monnier gestattete ihm nur eine geringe Anzahl von Freiexemplaren, worüber Gregorovius u.a. in seinen Briefen an Raffaele Mariano vom 11. und 26.10.1874 moniert.</note></seg>, mentre il <orgName key="G000523">Cotta</orgName> oltre ogni altra liberalità usata meco mi fa largo ancora di 34 copie, di cui dodici di ottima legatura. E cosa convenevole, che lei faccia sentire al <seg type="comment"><orig><persName key="G001687">Villari</persName></orig><note xml:id="nyyd_cd4_zlb">Der mit Gregorovius befreundete neapolitanische Historiker Pasquale Villari (1827–1927) lebte seit der gescheiterten Revolution von 1848 in Florenz, 1859 war er zum Professor der Philosophie an der Universität Pisa ernannt worden. Er publizierte u.a. eine zweibändige Studie über den von dem Borgia-Papst Alexander VI. (1431–1503) als Häretiker, Schismatiker und Verächter des Hl. Stuhls exkommunizierten und 1498 hingerichteten Dominikanermönch Girolamo Savonarola (1452–1498): La storia di Girolamo Savonarola e de’suoi tempi. Florenz: Le Monnier 1859–1861.</note></seg> quel modo di agire del Le Monnier; e gli dica addirittura, che ne sono talmente disgustato, che per niun modo vorrei entrare in nuove relazioni con codesto editore. Non so quando l’edizione 3<hi rendition="#sup">a</hi> sara stampata; siamo ancora in mezzo la stampa. In ogni modo dopo qualche tempo le spedirò quelle bozze che saranno pronte.</p>
+<p>Bisogna <seg type="comment"><orig>cancellare un’ errore</orig><note xml:id="ngld_dd4_zlb">Die Überschrift des betreffenden Faksimileabdrucks (Nr. 62) lautet dennoch sowohl in den deutschen als auch in den italienischen Ausgaben weiterhin „Lucrezia Borgia an Isabella Gonzaga“ bzw. „Lucrezia Borgia ad Isabella Gonzaga“.</note></seg> in cui sono incorso nella soprascritta della lettera facsimilata di <persName key="G000985">Lucrezia</persName>, chè si deve mettere L<ex>ucrezia</ex> B<ex>orgia</ex> <hi rendition="#u" hand="">al <seg type="comment"><orig>Marchese <persName key="G001184">Gonzaga</persName></orig><note xml:id="nrfn_2d4_zlb">Francesco II Gonzaga (1466–1519), Markgraf von Mantua.</note></seg></hi>, invece di <seg type="comment"><orig><persName key="G001062">Isabella Gonzaga</persName></orig><note xml:id="ncpz_fd4_zlb">Isabella d’Este (1474–1539), verheiratet mit Francesco II Gonzaga.</note></seg>.</p>
+<p>Scrivo di premura, oppresso da molte corrispondenze. S’incomincierà presto <bibl corresp="G003436 G003443 G003450 G003457 G003464 G003471 G003478 G003483">la 3<hi rendition="#sup"> <hi rendition="#u" hand="">a</hi> </hi> edizione <pb n="2r"/>della storia di Roma </bibl>, opera che prende ogni giorno sviluppo maggiore sul mercato letterario.</p>
+<p>Null’altro perora, che non saluti a tutti che si ricordano di me, e all’amata Roma. Stiamo qua sotto la neve, cosa che invece di farmi male, mi rallegra non poco. Di tutti la vasta pianura di Monaco appunto per ciò è divenuta cosa stupenda.</p>
+                <closer>
+                    <salute rendition="#right">Le stringo affettuosamente la mano</salute>
+                    <signed rendition="#right">FGregorovius.</signed>
+                        
+                </closer>
+                <note type="postscript">
+                    <p>Le ultime stravaganze del <persName key="G001004">Duca</persName> non mi sorprendono più. La Dio menò egli rinunziò almeno alle sue pazzie in politica. Qualvolta mi vergogno quasi di avergli scritta <seg type="comment"><orig>una altra dedicatoria forse un po’ caldamente sentita</orig><note xml:id="nfxp_hd4_zlb">Gregorovius widmete seine „Lucrezia Borgia“ dem Duca di Sermoneta, Michelangelo Caetani (1804–1882), der ihm bereitwillig sein Archiv geöffnet und historische Urkunden und Dokumente zur Verfügung gestellt hatte – die Caetanis waren einst mit den Borgias verfeindet. Das Manuskript der Widmung und Einleitung traf am 11.3.1874 beim Verlag ein (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VIII, 296–297).</note></seg> – ma vada cosi, poiché con quella pagai il tributo mio dovuto a cortesie passate nel Archivio famigliare e anche in casa. È gente agghiacciata, non so come; deventa mumia pompeiana anche <seg type="comment"><orig><persName key="G001011">Donna Ersilia</persName></orig><note xml:id="niy1_jd4_zlb">Die etwa zwanzig Jahre jüngere Gräfin Ersilia Caetani Lovatelli (1840–1925), Tochter von Michelangelo Caetani (Herzog von Sermoneta 1804–1882), die sich mit ihren archäologischen und stadthistorischen Forschungen Ansehen erwarb, gehörte zu Gregorovius’ engem, späteren Bekanntenkreis in Rom. Im Alter von 24 Jahren wurde sie Ehrenmitglied des Deutschen Archäologischen Instituts. Seit 1879 war sie das erste weibliche Mitglied der römischen Accademia dei Lincei (vgl. RT, S.. 416). Gregorovius verkehrte wie auch Mommsen regelmäßig im Salon der „gelehrtesten Frau Roms und vielleicht Italiens“ (RT, S. 336). Seine Briefe an die Gräfin erschienen in Auszügen bereits 1896 (Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli, ed. Sigmund Münz, Berlin 1896), ihre Gegenbriefe sind erhalten, aber unveröffentlicht.</note></seg>, cui però <seg type="comment"><orig>ho scritto ultimamente</orig><note xml:id="nakk_kd4_zlb">Siehe den Brief von Gregorovius an Ersilia Caetani Lovatelli vom 15.11.1874.</note></seg> in seguito ad una sua lettera piena di buon senso.</p>
+                    <p>Qui godo pace e tranquillità perfetta, libero dal carnevale Romano, e da ogni altra <foreign xml:lang="eng">vanity fair</foreign>!</p>
+                </note>
+            </div>
+        </body>
+    </text>
+</TEI>

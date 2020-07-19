@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067837">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an die J. G. Cotta’sche Buchhandlung in Stuttgart. Traunstein, 27. August 1875</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (238)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¾ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 57 Mappe 340–342 (nach D) und Karton 55 Mappe 336–337 (Ergänzungen nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 384–385 (leicht gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">DDem Autor des ihm von Cotta zur Begutachtung zugesandten Teilmanuskripts von dem „Leben Boccaccio’s“ (1877), Markus Landau, rät er von der Veröffentlichung ab, wenn er keine unedierten Quellen zur Kulturgeschichte der Renaissance beibringen kann, die neue Aspekte von Boccaccios Biographie beleuchten. Für eine Studie gibt es derzeit keinen Markt, wenn ein Autor kein „durchdringender Geist“ wie Jacob Burckhardt in seiner „Cultur der Renaissance in Italien“ (1860) ist. Andernfalls muss er seiner Analyse eine populär geschriebene Biographie voranstellen, wie die des „Petrarka“ (1874) von Ludwig Geiger. Für ferneren Rat wird Markus Landau auch das Urteil des Dante-Forschers Karl Witte hilfreich sein. Ab dem 1. September 1875 wird er in München wohnen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000888">Traunstein</placeName><date when="1875-08-27" cert="high"/>
+</correspAction>
+                <correspAction type="received"><orgName key="G000523">J. G. Cotta’sche Buchhandlung</orgName>
+<placeName key="G000879">Stuttgart</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">23. August 1875 (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VIII, 692)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1t"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Traunstein, 27. Aug<ex>ust</ex> 1875.</dateline>
+                    <salute rendition="#c">Hochgeehrte Buchhandlung,</salute>
+                </opener>
+<p>meine <seg type="comment"><orig>Ansicht über das Ma<ex>nu</ex>scr<ex>ipt</ex> <bibl sameAs="ed_u2s_bd3_zkb">„Leben Boccaccio’s“</bibl></orig><note xml:id="nwtd_lbn_dmb">Cotta hatte Gregorovius die Hälfte eines Manuskripts des in Wien lebenden Schriftstellers und Literaturhistorikers Markus Landau (1837–1918) zur Begutachtung mit einem Begleitschreiben vom 23. August 1875 zugesandt (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VIII, 692). Der Schwerpunkt von Landaus Forschungen war, neben der Literatur des 18. und 19. Jahrhunderts, die ältere italienische Literatur, insbesondere Boccaccio. Seine Biographie „Giovanni Boccaccio: sein Leben und seine Werke“ erschien 1877 bei Cotta. </note></seg> ist, so weit ich aus den mir überschickten, nicht zusammen hängenden Teilen urteilen kann, folgende:</p>
+<p>Für ein wissenschaftliches Werk mangelt ihm die <hi rendition="#u" hand="">originale Forschung</hi> u<ex>nd</ex> die philosophische Vertiefung. So viel ich sehe, liefert es nichts Neues, u<ex>nd</ex> bezeichnet keinen Fortschritt über ital<ex>ienische</ex>, franz<ex>ösische</ex> u<ex>nd</ex> deutsche Vorgänger. Ich weiß nicht, ob die von mir nicht gesehenen Teile der Arbeit den Anforderungen mehr entsprechen, welche die heutige Wissenschaft an ein Buch stellt, dessen Gegenstand einen so bedeutenden Raum in der Culturgesch<ex>ichte</ex> der Renaissance einnimmt. Hat der <persName key="ed_uxc_hd3_zkb">Verf<ex>aßer</ex></persName> die Archive <placeName key="G000690">Italiens</placeName> nicht untersucht (wie ich annehmen muß), hat er kein neues unedirtes Material, Briefe u<ex>nd</ex> ähnliches beigebracht, wodurch neues Licht auf das Leben <persName key="ed_rrg_4d3_zkb">B<ex>occaccio</ex>’s</persName> u<ex>nd</ex> seiner Zeit fällt, so wird man ihm für seine Arbeit heute keinen Falls die Wissenschaftlichkeit zuerkennen. Denn mit einer bloßen Analyse der Schriften B<ex>occaccio</ex>’s begnügt sich heute das Publicum nicht mehr, es sei denn, daß dem Verfaßer ein so eminenter u<ex>nd</ex> <seg type="comment"><orig>durchdringender Geist der Kritik zu Gebote steht, wie ihn <persName key="ed_ohs_sd3_zkb">Burkard</persName> in seiner <bibl sameAs="ed_cdz_223_zkb">Cultur der Renaissance</bibl> zeigt</orig><note xml:id="nct4_nbn_dmb">Das epochemachende Werk von Jacob Burckhardt (1818–1897): Cultur der Renaissance in Italien (Basel: Schweighauser 1860), deren Überarbeitung und Redaktion für spätere Auflagen (in Leipzig bei Seemann) er dem Literatur- und Kulturhistoriker Ludwig Geiger (1848–1919) überließ.</note></seg>.</p>
+<p><pb n="1v"/>Es gäbe aber noch einen andern Gesichtspunkt für die Aufgabe des Verfaßers; ich meine den einer populären, anmutigen u<ex>nd</ex> einsichtigen Darstellung des Lebens u<ex>nd</ex> der Werke B<ex>occaccio</ex>’s für das große Publicum, wie z. B. neuerdings<seg type="comment"><orig> <persName key="ed_v53_ybn_dmb">L<ex>udwig</ex> Geiger</persName> <bibl corresp="ed_gl2_m23_zkb">Petrarca</bibl> so mit Glück behandelt hat</orig><note xml:id="nevk_jcn_dmb">Ludwig Geiger (1848–1919): Petrarka. Leipzig: Duncker &amp; Humblot 1874. Der aus Breslau stammende Reformjude Ludwig Geiger (1848–1919) war nach seinem Studium der Philologie in Heidelberg, Göttingen, Bonn und Paris seit 1870 Dozent an der Berliner Universität. In Berlin hatte er sich 1873 als Schüler des in Göttingen lehrenden Historikers Georg Waitz (1813–1886) unter den Auspizien von Leopold von Ranke (1795–1886) mit einer Arbeit über die Urteile griechischer und römischer Schriftsteller über Juden und das Judentum habilitiert. Als Jude war seine akademische Laufbahn aber 1880 mit der Ernennung zum außerordentlichen Professor an ihrem Höhepunkt. Neben seiner Vorlesungstätigkeit verfasste Geiger zahlreiche Bücher zur Renaissance, zum Humanismus, zur Reformation, zur Geschichte des deutschen Judentums, machte sich als Goethe-Philologe einen Namen und war Herausgeber von Zeitschriften. 1908 wurde er zum Geheimen Regierungsrat ernannt.</note></seg>. Ein so geschriebenes Leben B<ex>occaccio</ex>’s, mit kurzer Analyse seiner Schriften, würde recht gern gelesen werden. Auf diesem Standpunkt steht der Verf<ex>aßer</ex> nur halb, denn die (oft unnötige, u<ex>nd</ex> halbe Seiten füllende) Menge der Noten u<ex>nd</ex> Citate, welche sich sogar in den Text hineinziehen, belastet seine Arbeit mit einem Apparat, welchen das große Publicum nicht verträgt.</p>
+<p>Es wäre meiner Ansicht nach Schade, wenn der Verf<ex>aßer</ex> seine Arbeit wie sie vorliegt veröffentlichen wollte; er ist <seg type="comment"><orig>ein Mann von Talent u<ex>nd</ex> Belesenheit</orig><note xml:id="nmdj_lcn_dmb">Landau hatte sich mit seiner vergleichenden Literatur- und Stoffgeschichte zu Boccaccios Hauptwerk „Quellen des Decamerone“ einen Namen gemacht (Wien: Prandel 1869, 2. Auflage 1884). Jüngst waren seine „Beiträge zur Geschichte der italienischen Novelle“ erschienen (Wien: Rosner 1875).</note></seg>: er könnte aus diesem glücklich gewählten Stoff etwas Schönes herausgestalten, wenn er die Arbeit reif werden ließe, oder sie aus einem oder dem andern Gesichtspunkt des Zwecks noch einer gründlichen Kritik und Umformung unterwerfen wollte. <hi rendition="#u" hand="#addressee">Will er ein streng wissenschaftliches Werk liefern, so müßte er noch in Italien <pb n="2r"/>dafür Nachforschungen machen; will er ein angenehmes Lesebuch herstellen, so müßte er die Form des Ganzen gefälliger halten, und dasselbe zusammenziehen.</hi></p>
+<p>Ich weiß nicht, ob Herr L<ex>andau</ex> dem Rate wolmeinender älterer Autoren zugänglich ist, sonst wäre es, zu Gunsten der Sache, wünschenswert, daß er sich an <seg type="comment"><orig><persName key="G001713">Herrn Witte</persName> wendete, denn dessen Urteil würde für ihn von Bedeutung sein</orig><note xml:id="nymh_2dn_dmb">Der berühmte Jurist und Dante-Forscher Karl Witte (1800–1883), der Vater von Leopold Witte (1836–1921), der letzte Hauslehrer (1858–1860) bei Hermann von Thile (1812–1889) an der Preußischen Botschaft in Rom von dessen Sohn Hans von Thile (1848–1869). Siehe den Brief nur als Auszug überlieferten Brief von Gregorovius an Witte, 6.8.1858 in: Leopold D. Witte: Vor fünfzig Jahren in Rom. Erinnerungen von Professor D. Leopold Witte. Bielefeld, Leipzig: Velhagen &amp; Klasing 1910. S. 45–46. Karl Witte hatte Giovanni Boccaccios (1313–1375) „Il Decamerone“ (Venedig 1470) ins Deutsche übersetzt (Das Dekameron von Boccaccio. Aus dem Italienischen übersetzt von Karl Witte. 3 Bde., Leipzig: Brockhaus 1843). Witte war mehrfach länger in Italien, Gregorovius hatte den „Dante-Uebersetzer und Hohenpriester des Dantekultus“ im Herbst 1868 persönlich kennengelernt (siehe RT, 5.10.1868, S. 253).</note></seg>. In wie weit Sie selbst ihm die hier ausgesprochene Ansicht mitteilen wollen, muß ich Ihnen natürlich vollkommen überlaßen.</p>
+<p>Schließlich erlaube ich mir die Mitteilung, daß vom 1. <hi rendition="#aq">Sept<ex>ember</ex></hi> ab meine Wohnung sein wird, Barerstr<ex>aße</ex> n<ex>umero</ex> 3 in <placeName key="G000734">München</placeName>.</p>
+                <closer>
+<salute rendition="#c">In hochachtungsvoller Ergebenheit</salute>
+<signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi>.</signed>
+<note type="postscript">Das M<ex>anu</ex>scr<ex>ipt</ex> sende ich heute oder morgen an Sie zurück.</note>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000214">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Hermann von Thile in Berlin. Rom,  nach dem 8. und vor dem 19. April 1866 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository/></msIdentifier>
+<physDesc>
+<p> </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 6 (Alfred Löckle nach K)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 82, Mappe 8 (nach h1) </idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+<witness select="#this">
+<msDesc type="concept"><msIdentifier><institution>BSB München</institution><collection>NL Gregorovius</collection><idno> <idno type="shelfmark">Gregoroviusiana 20, Unbekannt (1) - 1 Dbl., 8°, 3 ¾ S. – geringer Textverlust durch Brandspuren auR 1r-2v</idno></idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Kurt von Schlözer hat ihm in Thiles Auftrag mitgeteilt, dass das seit Herbst 1860 durch Thile vermittelte Stipendium der preußischen Regierung für die Fertigstellung seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) künftig auf die Hälfte reduziert werden soll. Der Kultusminister Heinrich von Mühler hatte noch bei Gelegenheit der Übersendung seines fünften Bandes (1865) seine Wertschätzung ausgedrückt. Er hat sich der staatlichen Unterstützung seines wissenschaftlichen Wirkens durch die preußische Regierung in der Tradition von Wilhelm von Humboldt, Barthold Georg Niebuhr, Christian Karl Josias Freiherr von Bunsen und Ludwig August von Buch sicher gefühlt; jetzt sieht er sich getäuscht. Auch bereut er, dass er 1863 das Angebot einer Professur in München durch König Maximilian II. von Bayern ausgeschlagen hat. Sein Stolz erlaubt ihm nicht, die so geschmälerte Summe weiter zu beziehen und er bittet, dem Heinrich von Mühler seinen gänzlichen Verzicht mitzuteilen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">Kurt von Schlözer informed him on behalf of Thile that the scholarship of the Prussian government for the completion of his „Geschichte der Stadt Rom im Mittelalter“ (1859-1872), which had been arranged by Thile in the fall of 1860, is to be reduced by half in the future. The Minister of Culture Heinrich von Mühler had expressed his appreciation when he received its fifth volume (1865). He felt secure in the support of the Prussian government for his scientific work following in the footsteps of Wilhelm von Humboldt, Barthold Georg Niebuhr, Christian Karl Josias Freiherr von Bunsen and Ludwig August von Buch; now he feels he has been deceived. He also regretted that he turned down the offer of a professorship in Munich by King Maximilian II. of Bavaria in 1863. His pride will not allow him to continue on with sum thus reduced and he asks to inform Heinrich von Mühler that he will forgo it completely. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date notBefore="1866-04-09" notAfter="1866-04-19" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001644">Thile, Hermann von (1812–1889)</persName>
+<placeName key="G000636">Berlin</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<salute rendition="#c">Mein hochverehrter Herr,</salute>
+</opener>
+<p>Die freundliche Nachricht von Ihrer aller Wolergehen hat mich innig erfreut. Ich danke Ihnen herzlich, daß Sie auch jetzt wieder sich ein Stündchen Zeit abgewonnen haben, <seg type="comment"><orig>an mich den dankbaren Verehrer Ihres Hauses zu schreiben</orig><note xml:id="nywy_kb3_gmb">Zur Datierung vgl. RT, S. 207 und den Brief von <ref target="G000234">Gregorovius an Kuno Fischer, 20. April 1866</ref>.</note></seg>, der nie aufhören wird, Ihr u<ex>nd</ex> der Ihrigen Schicksale, welche stets glücklich sein mögen, mit getreuem Anteil zu begleiten.</p>
+<p>In meiner Angelegenheit, deren wiederholte Peinigung für Sie mich am empfindlichsten berührt, hat sich <seg type="comment"><orig>Legationsrat <persName key="G001583">v<ex>on</ex> Schlözer</persName> </orig><note xml:id="ncz2_nb3_gmb">Kurt von Schlözer (1822–1894) war im Februar 1864 als Legationssekretär nach Rom gekommen.</note></seg>wahrhaft freundschaftlich benommen. Er hat mir auch nach Ihrem Wunsch <seg type="comment"><orig>die betreffenden Mitteilungen gemacht</orig><note xml:id="nmwd_4b3_gmb">Am 8. April notiert Gregorovius in seinem Tagebuch: „Gestern brachte mir Schlözer einen Brief von Thile, welcher mir mitteilt, daß die Regierung in Berlin mir die Unterstützung von 400 Talern jährlich, die ich seit 1860 empfangen habe, auf 200 für zwei Jahre heruntersetzten will. Ich habe es abgelehnt.“ (RT, S. 207).</note></seg>, welche ich mit Ruhe angehört habe, u<ex>nd</ex> mit Offenheit beantworte.</p>
+<p><seg type="comment"><orig>Ich habe seit 1860 die kleine jährliche Summe von 400 Thalern von der preuß<ex>ischen</ex> Regierung dankbar empfangen</orig><note xml:id="nrzt_qb3_gmb">Vom Kultusministerium der preußischen Regierung erhielt Gregorovius auf Vermittlung Hermann von Thiles seit 1860 ein Stipendium zur Fertigstellung seiner „Geschichte der Stadt Rom im Mittelalter“ (siehe den Brief von Gregorovius an Hermann von Thile vom <ref target="G000122">9.8.1860</ref>).</note></seg>, nicht als eine meiner Person, sondern meinem Werk bestimmte Unterstützung, diesem zuerkannt von Seiten des <orgName key="G000541">Cultusministeriums</orgName>, welches die Rechte der Wissenschaft im Staat vertritt. Das Ministerium hat dadurch das Urteil gefällt, daß meine <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Gesch<ex>ichte</ex> d<ex>er</ex> Stadt R<ex>om</ex> im Mitt<ex>elalter</ex></bibl> würdig sei, aus der Staatskasse durch Mittel gefördert zu werden, die dazu beitragen, daß ich jährliche kostspielige Forschungen in Bibliotheken u<ex>nd</ex> Archiven <placeName key="G000690">Italiens</placeName>, u<ex>nd</ex> selbst weite Reisen zur <orgName key="G000510">Münchner Bibliothek</orgName> bestreite. Das Urteil des Cultusministeriums ist unverändert geblieben, wie das letzte anerkennende Schreiben des <persName key="G001229"><seg type="comment"><orig>Herrn Ministers</orig><note xml:id="ng1c_tb3_gmb">Heinrich von Mühler (1813–1874) führte als Nachfolger von Moritz August von Bethmann Hollweg seit dem am 18. März 1862 das preußische Kultusministerium.</note></seg></persName> beweist, welches ich auf die Einsendung des <bibl sameAs="G003455">V. Bandes jener Geschichte</bibl> empfangen habe. Ich konnte mit Recht überzeugt sein, daß die mir zuerkannte Unterstü<supplied cert="high">tzung</supplied><gap reason="lost" unit="lines" quantity="1"/> <pb n="1v"/>die Vollendung des Werks ist ungeschmälert fortdauern werde. Ich habe deshalb <seg type="comment"><orig>ehrenvolle u<ex>nd</ex> liberale Anerbietungen abgelehnt, die mir der hochgesinnte <persName key="G001408">König Maxim<ex>ilian</ex> von Baiern</persName> vor 3 Jahren in <placeName key="G000734">München</placeName> machen ließ, da er mich zur Audienz nach <placeName key="G000735">Nymphenburg</placeName> befahl</orig><note xml:id="njtz_tb3_gmb">Adolf Friedrich Graf von Schack (1815–1894) hatte Gregorovius im Herbst 1862 das Angebot einer Professur in München durch Maximilian II. König von Bayern (1811–1864) überbracht (siehe die Briefe von Gregorovius an Schack vom <ref target="G000161">11.9.1862</ref> und an Hermann von Thile vom <ref target="G000157">15.11.1862</ref>) Die Audienz bei Maximilian II. auf Schloss Nymphenburg fand im August 1863 statt (siehe den Brief von Gregorovius an Hermann von Thile vom <ref target="G000187">30.8.1863</ref> und RT, 7.8.1863, S. 165).</note></seg>; ich hielt es damals (was ich jetzt <del rendition="#s">tief</del> bedauer<subst><del rendition="#ow">e</del><add place="across">n</add></subst> <add place="superlinear">muß</add>) für Pflicht zu erklären, daß ich auf Grund der von der Regierung <placeName key="G000646">Preußens</placeName>, meines speciellen Vaterlandes, mir bewilligten Förderung meines Werks, mich im Dienste eben dieser Regierung betrachte, u<ex>nd</ex> ich habe von <placeName key="G000833">Baiern</placeName>, wo man die Wissenschaften so rühmlich fördert u<ex>nd</ex> auch ehrt, nichts empfangen, als das Diplom des Mitgliedes der <orgName key="G000494">Akademie der Wissenschaften in München</orgName>, welches mir durch einstimmigen Beschluß <del rendition="#s">jener</del> <add place="superlinear">dieser</add> Körperschaft im Sommer 1865 als Anerkennung verliehen ward.</p>
+<p>Indem ich, <del rendition="#s">mein</del> <del rendition="#s">hochverehrter</del> <del rendition="#s"><add place="superlinear">sehr</add></del> <del rendition="#s">Herr</del><del rendition="#s">,</del> heute nach unausgesetzten Mühen von mehr als zehn langen Jahren, in denen ich alle meine Kraft und jedes meiner Mittel an die Fortführung meiner Aufgabe gewendet habe, mich deren Vollendung nähere, in dem ich in Italien selbst die italienische Ausgabe meines Werks erscheinen sehe, werden mir von Berlin her jene Mitteilungen gemacht, wonach die meinem Werk bisher bewilligte Unterstützung auf die Hälfte erniedrigt wird. Ich verstehe vollkommen, <del rendition="#s">mein hochverehrter Herr</del> <add place="sublinear">mein hochverehrter Herr</add>, Ihre Meinung, wenn Sie mir sagen, ich möchte diese Mitteilungen im guten u<ex>nd</ex><gap reason="lost" unit="lines" quantity="1"/> <pb n="2r"/>dem höchsten sittlichen Begriff nach nur der der Ehre sein, u<ex>nd</ex> diese gebietet mir zu erklären:</p>
+<p>Daß ein Mann von 45 Jahren, über seinen wissenschaftlichen Arbeiten ergrauend, nahe am Ende seines mühevollen Werks, vielleicht seines Lebens, u<ex>nd</ex> im Besitz eines geachteten Namens in der literarischen Welt, wo <add place="superlinear">sich</add> seine Schriften, so gering sie immer sind, in vier Sprachen verbreitet sind <add place="superlinear">haben</add>, Darbietungen jener Art entschieden ablehnen muß, weil sie weder seiner, noch der Regierung des großen Staats würdig sind, welche sie macht. <seg type="comment"><orig>Ich bitte Sie dringend, meinen völligen u<ex>nd</ex> bestimmten Verzicht dem Herrn Minister des Cultus mitzuteilen</orig><note xml:id="nvkm_hc3_gmb">Die Korrespondenz mit Hermann von Thile ruhte daraufhin bis zum 15.10.1870.</note></seg>, damit demselben erspart bleibe, eine Ausfertigung an mich machen zu lassen, welche <del rendition="#s">er selbst</del> <add place="superlinear">sein Wolwollen u<ex>nd</ex> seine Einsicht</add> mißbilligen muß, u<ex>nd</ex> mir, sie <del rendition="#s">mit gleichen Worten</del> <add place="superlinear">von ihm</add> zu empfangen. Es war der schönste Ruhm Preußens, der Staat <del rendition="#s">der Bildung zu sein,</del> zu sein, welcher die Wissenschaften vor andern pflegte, <add place="superlinear">u<ex>nd</ex></add> wo, wie die Zeiten <persName key="G001447"><seg type="comment"><orig>Niebuhrs</orig><note xml:id="ner5_3c3_gmb">1816 bis 1823 war Barthold Georg Niebuhr (1876–1831) preußischer Gesandter beim Heiligen Stuhl.</note></seg></persName>, <persName key="G001302"><seg type="comment"><orig>Humboldts</orig><note xml:id="nr3w_jc3_gmb">Wilhelm von Humboldt war 1803–1808 preußischer Ministerresident am Heiligen Stuhl. Humboldts Residenz in der Villa Gregoriana ist der Treffpunkt der Künstler- und Gelehrtenkolonie. Nach dem Zusammenbruch Preußens geht er nach Deutschland zurück und übernimmt die Sektion für Kultus und Unterricht im Preußischen Innenministerium.</note></seg></persName>, u<ex>nd</ex> noch <persName key="G001410"><seg type="comment"><orig>Buchs</orig><note xml:id="np2m_lc3_gmb">Legationsrat Ludwig August von Buch (1801–1845) war 1837 der Nachfolger von Christian Karl Josias Freiherr von Bunsen als preußischer Gesandter am Heiligen Stuhl geworden. Im Jahr darauf wurde er zum selbständigen Geschäftsträger am päpstlichen Stuhl ernannt und blieb es bis zu seinem Tode.</note></seg></persName> u<ex>nd</ex> <persName key="G001001"><seg type="comment"><orig>Bunsens</orig><note xml:id="ndbd_4c3_gmb">Christian Karl Josias Freiherr von Bunsen (1791–1860) kam 1816 als Assistent von Barthold Georg Niebuhr nach Rom, als dieser den preußischen Gesandtenposten in Rom übernahm. 1823 übernahm er das Amt des preußischen Gesandten am Heiligen Stuhl, den er bis 1837 innehatte. In seine Amtszeit fällt der Erwerb des Palazzo Caffarelli auf dem Kapitol als preußischen Gesandtschaftssitz, den er zu einem einzigartigen kulturellen Mittelpunkt gestaltete. Auch die Gründung des Archäologischen Instituts in Rom geht auf Bunsen zurück.</note></seg></persName>, u<ex>nd</ex> Ihre <seg type="comment"><orig>eigne Vergangenheit in Rom</orig><note xml:id="nmks_sc3_gmb">Thile war von 1854 bis 1858 preußischer Gesandter in Rom.</note></seg> lehren, der Respect für erste wissenschaftliche Leistungen auf jedem Gebiet der Literatur hoch gehalten ward; wenn diese Zeiten (Gott verhüte es!) nicht mehr <del rendition="#s">sind</del> <add place="superlinear">sein sollten</add>, wenn die Regierung des größesten deutschen Staats jene Achtung auch nur in einem einzelnen Fall verletzen will, so dürfen diejenigen, welche der Wissenschaft dienen, umso weniger die Pflicht versäumen, sie durch sich selbst aufrecht zu <add place="intralinear">er</add>halten.</p>
+<p>Mir fehlen in Wahrheit Worte für alles, was ich bei dieser Gelegenheit bedenke, u<ex>nd</ex> was ich sonst zu sagen hätte. – Ich werde diese Sache ruhig den Folgen überlassen, welche sie haben wird. Ich bin für mich selbst der Billigung aller groß u<ex>nd</ex> edel Denkenden, u<ex>nd</ex> nicht in Deutschland allein, gewiß.</p>
+<p>Der Gedanke an das Schicksal meiner eignen geringen Person, an welcher sonst in der W<supplied cert="high">elt</supplied><gap reason="lost" unit="lines" quantity="1"/> <pb n="2v"/>heute dort jene<subst><del rendition="#s">r</del><add place="across">s</add></subst> <del rendition="#s">unselige Dämon, welches</del><add place="superlinear"> verhängniß spinnende Wesen </add>das die Griechen <persName key="G001411">Hybris</persName> genannt haben, u<ex>nd</ex> sein <del rendition="#s">fanal</del><del rendition="#s">volles</del><add place="superlinear"><del rendition="#s"><add place="superlinear">haftes</add></del></add> Spiel zieht in Schuldverflechtung die erste Schicksalsmacht herbei, welche <add place="superlinear">die</add> <persName key="G001363">Nemesis</persName> <add place="intralinear">der Geschichte</add> heißt. Sie ist <del rendition="#s">auch</del> die hohe sittliche Notwendigkeit, jene <seg type="comment"><orig>Αναγκη, das Symbol Ihres Ringes</orig><note xml:id="nndv_tc3_gmb">Im Februar 1863 bedankte sich Gregorovius bei Hermann von Thile für dieses Geschenk (siehe Gregorovius an Thile, 28.2.1863 in: Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 71–72). – „Αναγκη“: griech. für: Zwangsläufigkeit, Bedürfnis – Ananke ist in der griechischen Mythologie die Göttin für die Macht und Notwendigkeit des unpersönlichen Schicksals.</note></seg>, den ich als teures <seg type="comment"><orig>Xenion</orig><note xml:id="nvjf_cd3_gmb">Griech: Gastgeschenk von griech. xénos: Gast, Fremder.</note></seg> <add place="superlinear">u<ex>nd</ex> Pfand Ihres Wolwollens</add> aus besseren Zeiten von Ihnen <add place="superlinear">froh</add> bewahre. Ich werde den Tag als meine eigene Befreiung aus quälenden Widersprüchen froh begrüßen, wo Sie, ein edler Mann dessen hohe Rechtlichkeit mir noch verehrungswürdiger ist als seine seltne Bildung, wieder in das schöne Stillleben zurückgekehrt sein werden.</p>
+<p rendition="#c"><seg type="comment"><orig>Ανδρών δικαίων χρόνος σωτήρ άριστος</orig><note xml:id="nxs5_cd3_gmb">Griech.: Gerechtem Mann ist die Zeit der beste Retter – nach Pindar: Fragment 159 (siehe Lexicon to Pindar. Edited by William J. Slater. Berlin: Walter de Gruyter &amp; Co., 1969, S. 71, fr. 159 und Pindar: Nemean Odes. Isthmian Odes. Fragments. Hrsg. und übers. von William H. Race. Cambridge, MA 1997, S. 398–399, Fragment 159).</note></seg></p>
+                <closer>
+<salute xml:id="s1" next="#s2" rendition="#c">Mit <del rendition="#s">wahrer</del> <add place="superlinear">tiefer</add> Verehrung</salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">Ihr dankbar ergebener</salute>
+<signed rendition="#right">G </signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

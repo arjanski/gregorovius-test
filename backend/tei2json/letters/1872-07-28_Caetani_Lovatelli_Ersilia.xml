@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000453">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Contessa Ersilia Caetani Lovatelli in Rom. Traunstein, 28. Juli 1872</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno>Karton 59, Mappe 348 (nach D1)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"><bibl type="print">Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli. Hrsg. von Sigmund Münz. Berlin: Paetel 1896. S. 70–72 (gekürzt) </bibl> </witness>
+<witness> <bibl type="print">Johannes Hönig: Ferdinand Gregorovius. Der Geschichtsschreiber der Stadt Rom. Mit Briefen an Cotta, Franz Rühl und andere. Stuttgart, Berlin: Cotta Nachfolger 1921. S. 139 (Auszug nach D1) </bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Über die Idylle Traunsteins, die ihn an seine Kindheit in Neidenburg und an die Dichtung Joseph von Eichendorffs denken lässt. Der römische Gemeinderat ist dem Antrag von Francesco Nobili-Vitelleschi gefolgt und finanziert die Fortsetzung der italienischen Übersetzung seiner „Geschichte der Stadt Rom im Mittelalter“ (1872–1876). Er hat ihr Adelbert von Chamissos Novelle „Peter Schlemihls wundersame Geschichte“ (1814) zugesandt und schlägt die Übersetzung ins Italienische vor.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000888">Traunstein</placeName><date when="1872-07-28" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001011">Caetani Lovatelli, Ersilia (1840–1925)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="70"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">Traunstein, 28. Juli 1872.</dateline>
+</opener>
+<p>Nach einer glücklichen Reise<gap reason="lost" unit="chars" quantity="1"/><seg type="comment"><orig>bin ich in diesem Bergorte angekommen</orig><note xml:id="nwsh_32z_ylb">Gregorovius war am 14. Juli in Traunstein eingetroffen, wo er bis zum 12. September 1872 blieb: „Diesen Ort wählte ich auf Anraten des Dr. [Franz] Seitz [(1811–1892)], um dasselbst Salzbäder zu gebrauchen.“ (RT, 10.9.1872, S. 325–327).</note></seg>, der in der Nähe <placeName key="G000867">Salzburgs </placeName>liegt. Ohne den Ort überhaupt zu kennen, wählte ich ihn nur wegen seines Namens zu meinem Aufenthalte: Traunstein, das, wie Sie wohl verstehen werden, so viel bedeutet wie Stein des Vertrauens. In der That, in meinem ganzen Leben habe ich mich immer den Göttern und den Menschen anvertraut, und um die Wahrheit zu sagen, ich hatte dies selten zu bereuen. Jetzt vollends bin ich dafür außerordentlich belohnt. Dieses Traunstein nämlich ist ein wahres Bergidyll, schön und bezaubernd, und Schöneres kann man sich nicht wünschen. Stellen Sie sich eine kleine Landstadt vor, anmuthig und sauber, die auf einem lachenden Hügel liegt, zu dessen Fuße ein reißender Fluß, die <placeName key="G067820">Traun</placeName>, lärmend dahinläuft, während überall ringsherum dunkle Wälder und majestätische Berge den Ort einsäumen. Wenn ich durch jene Wälder streife, empfinde ich die ganze Wonne der <seg type="comment"><orig>Erinnerung an meine Kindheit</orig><note xml:id="ncbp_l2z_ylb">An das ostperußische Neidenburg, in dem Gregorovius bis zu seinem 12. Lebensjahr aufwuchs, grenzen im Nordosten weite Kiefernwälder an. 30 Prozent der Fläche des Kreises Neidenburg ist bewaldet. </note></seg>. Ich rufe mir ins Gedächtnis all die schönen Lieder zurück, die unsere Dichter dem Wald gewidmet haben, dem Wald, – der frommen Sagen Aufenthalt. Gewiß ist keine andere Dichtung so reich wie die deutsche an Waldliedern. <seg type="comment"><orig>Zu den wunderbarsten zählen die von <persName key="G067823">Eichendorff</persName></orig><note xml:id="neh4_n2z_ylb">Die Lyrik von Joseph von Eichendorff (1788–1857) zählt zu den meistgelesenen Texten der romantischen Dichtung. Ein zentrales Motiv darin ist der Wald, der als Projektionsfläche und Symbol fungiert sowie unterschiedliche Bedeutungsebenen bedient. Gregorovius waren die Texte von Eichendorff vertraut, er rezensierte desse Buch „Ueber die ethische und religiöse Bedeutung der neueren romantischen Poesie in Deutschland“ (Leipzig: Verlag von A. G. Liebeskind 1847) in einer Artikelfolge unter dem Titel „Die Romantik und Eichendorf’s jüngstes Buch“ in: Baltische Blätter für Literatur, Kunst und Theater. Königsberg: Samter 8.1.1848. Nr. 3. Sp. 20–24; 12.1.1848. Nr. 4. Sp. 29–32; 15.1.1848. Nr. 5. Sp. 37f; 19.1.1848. Nr. 6. Sp. 41–44.</note></seg>.</p>
+<p>Aus den Zeitungen und aus einem liebenswürdigen Briefe <seg type="comment"><orig><persName key="G001450">Vitelleschi’s</persName></orig><note xml:id="nfyx_42z_ylb">Marchese Francesco Nobili-Vitelleschi (1829–1906) war ab 1871 römischer Senator und seit Mai 1872 Mitglied der Commissione archeologica comunale di Roma.</note></seg> habe ich hier vernommen, daß der römische Gemeinderath so großmüthig war, das edle Projekt eben dieses <pb n="71"/>Vitelleschi zu billigen, dem zufolge <seg type="comment"><orig>die Fortsetzung und Vollendung des Druckes der <bibl corresp="G004368 G004369 G004370 G004371 G004372 G004373 G004374 G004375 G004376">italienischen Übersetzung meiner „Geschichte der Stadt Rom“</bibl> gesichert ist</orig><note xml:id="nt54_r2z_ylb">Auf Veranlassung Nobili-Vitelleschis wurde die Kostenübernahme für die Vollendung der 1866 von Renato Manzato begonnenen italienischen Übersetzung der „Geschichte der Stadt Rom im Mittelalter“ beschlossen, deren Fortführung Gregorovius wegen mangelnder Qualität unterbunden hatte; siehe dazu den Brief von Gregorovius an Giovanni Gozzadini vom 24.2.1867. In einem Brief vom 17. August 1872, der am 22. August 1872 im „Opinione“ veröffentlicht wurde, dankt Gregorovius dem Bürgermeister von Rom, Pietro Venturi (1824–1892), für die Bewilligung der Finanzierung der italienischen Übersetzung seiner „Geschichte der Stadt Rom im Mittelalter“; siehe den Brief von Gregorovius an Pietro Venturi vom 17.8.1872. Der Brief von Venturi an Gregorovius vom 7.8.1872 mit der Benachrichtigung über die Bewilligung ist nicht erhalten.</note></seg>. Die hohe Ehre, welche die Häupter der <seg type="comment"><orig><foreign xml:lang="Lat">Alma Roma</foreign> </orig><note xml:id="nnvv_s2z_ylb">Lat. für: das nährende Rom.</note></seg>einem Deutschen erweisen, macht, wie ich sehe, <seg type="comment"><orig>in meinem <placeName key="G000664">Vaterlande </placeName>tiefen Eindruck</orig><note xml:id="njp4_52z_ylb">Der Brief an Venturi wurde in deutscher Sprache auch in der „Allgemeinen Zeitung“ (Nr. 240. 27.8.1872. S. 3669f) veröffentlicht: https://opacplus.bsb-muenchen.de/title/3257931. Zudem hat Gregorovius ihn in sein Tagebuch aufgenommen (siehe RT, 10.9.1872, S. 326–327).</note></seg>. Ich freue mich darüber und bin dafür unendlich dankbar, denn jener hochherzige Beschluß nationalisirt sozusagen meine Arbeit in Rom. Ich werde demnach eines Tages zufrieden sterben können, da ich so in meinem geliebten Rom ein gutes, wenn auch nur vorübergehendes Andenken an mich zurücklasse – vorübergehend, wie die Werke der Sterblichen überhaupt und namentlich jener Männer, die mittelmäßig wie ich sind. Glauben Sie mir, Frau Gräfin, ich habe mich nun zu einer solchen Größe aufgeschwungen, daß ich schon einen wahrhaft schrecklichen Schatten zu werfen beginne – einen Schatten, dessen Spitze fast <placeName key="G000675"><seg type="comment"><orig>Frascati</orig><note xml:id="nzk5_v2z_ylb">Gemeinde 21 Kilometer südöstlich von Rom, in der die mit Gregorovius befreundete Familie Caetani ein Haus besaß. Er besuchte sie dort mehrere Male (siehe RT, 6.10.1867, S. 234; 13.10.1867, S. 235; 28.7.1871, S. 308). </note></seg> </placeName>berührt. Wenn Sie also in den Abendstunden manchmal in der Campagna von Frascati spazieren gehen und durch die Felder einen Schatten ohne sichtbaren Eigenthümer laufen sehen, so seien Sie überzeugt, daß dies der meine ist.</p>
+<p>Kaum in Traunstein angelangt, schickte ich Ihnen mit der <seg type="comment"><orig>Post unter Kreuzband</orig><note xml:id="numj_x2z_ylb">Die nach bestimmten Vorschriften klassifizierten Drucksachen, auch Sendungen unter Kreuzband, konnten für eine ermäßigte Gebühr versandt werden. Es war auch geregelt, welche handschriftlichen Zusätze der Sendung beigefügt werden konnten. Die Bezeichnung „unter Kreuzband“ ist den zwei sich kreuzenden Bändern entlehnt, die die Sendung zusammenhielten.</note></seg> die kleine Novelle <persName key="G067826">Chamisso’s</persName> <bibl corresp="ed_u4k_j3m_pkb">„Peter Schlemihl“</bibl>. Diese Novelle enthält eben die Geschichte des verlorenen Schattens, von der wir eines Abends in Ihrem Hause sprachen. Ich hoffe, Sie haben sie erhalten und schon mit Vergnügen gelesen; es ist ein reizendes Ding. Der Verfasser, einer der besten lyrischen Dichter Deutschlands, war <seg type="comment"><orig>auch in den Naturwissenschaften sehr bewandert</orig><note xml:id="njym_z2z_ylb">Der französischstämmige Adelbert von Chamisso (1781–1838) war auch Naturforscher, nahm in den Jahren von 1815–1818 an einer Weltumsegelung teil. Zu seinen Aufgaben zählte die Erfassung der Flora Alaskas und die Beschreibung der Lebensgewohnheiten der Eskimos und Aleuten. Er kartografierte die Küste Alaskas. Gregorovius zog Chamissos Gedichte über Korsika für sein Korsika-Buch (Corsica. 2 Bde. Stuttgart: Cotta 1854) heran.</note></seg>. Er machte die Reise um die Welt, und das erklärt den Inhalt der letzten Seite des kleinen Romans. Bei <seg type="comment"><orig>Ihrer Meisterschaft in der italienischen Sprache und Herrschaft auch über das Deutsche</orig><note xml:id="nqmb_bfz_ylb">Ersilia war sprachbegabt, sie beherrschte Latein, Altgriechisch und Sanskrit, brachte sich im Selbsstudium Deutsch bei.</note></seg> <pb n="72"/>könnten Sie wohl diese Novellette übersetzen und dann in Rom in einer niedlichen Ausgabe drucken lassen. So viel ich weiß, <seg type="comment"><orig>gibt es noch keine italienische Übersetzung von „Peter Schlemihl“</orig><note xml:id="nhmj_cfz_ylb">Die erste Übersetzung ins Italienische erfolgte 1923 durch Giovanni Vittorio Amoretti: Storia meravigliosa di Pietro Schlemhil. In: L'ideale 27, Facchi, Milano (1923).</note></seg><gap reason="lost" unit="chars" quantity="1"/> </p>
+</div>
+        </body>
+    </text>
+</TEI>

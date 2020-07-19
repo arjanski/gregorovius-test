@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000338">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Alfred von Reumont in Bonn. Stuttgart, 22. September 1870</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Universitäts- und Landesbibliothek Bonn</repository><collection>NL Reumont</collection><idno>S 1061 (297)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S. – 1r aoR Empfängervermerk: <hi rendition="#u" hand="#addressee">pr. 30 <hi rendition="#aq">Sept</hi>. 70</hi>.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 86, Mappe 9 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 82, Mappe 5 (nach h1)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er gratuliert zum Abschluss von Reumonts „Geschichte der Stadt Rom“ (1866–1870) und dankt für deren Übersendung. Der Ausbruch des Deutsch-Französischen Krieges hat ihn vergessen lassen, einen nach seiner Ankunft in München (Mitte September) geschriebenen Dankesbrief abzusenden. Den Vergleich der Rezensenten mit seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) hält er für abwegig. Es wird ihm in Kürze der siebte Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1870) zugehen, deren kulturgeschichtliche Abschnitte von Reumonts Werk profitiert haben. Den achten Band (1872) will er im kommenden Winter abschließen. Mitte Oktober kehrt er nach Rom zurück. Die Einnahme Roms durch die italienischen Truppen am 20. September 1870, rückt angesichts der Ereignisse im Vaterland in den Hintergrund. Er ist auf dem Sprung ins Rheingebiet, um seinen vor Metz stationierten Bruder Julius zu treffen. Reumonts Artikel in der „Allgemeinen Zeitung“ hat er gelesen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000879">Stuttgart</placeName><date when="1870-09-22" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001545">Reumont, Alfred von (1808–1887)</persName>
+<placeName key="G00067498">Bonn</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Stuttgart 22. <hi rendition="#aq">Sept<ex>ember</ex></hi> 1870.</dateline>
+                    <salute>Verehrter Herr,</salute>
+                </opener>
+<p>kurz vor meiner Abreise von <placeName key="G000763">Rom</placeName> (3. Juli) <seg type="comment"><orig>erhielt ich durch <persName key="G001618">Spithöver</persName> den <bibl sameAs="G004312">Schluß Ihres Werkes</bibl></orig><note xml:id="nk44_kn3_llb">Reumont hatte im Frühling 1863, während eines Besuches in München von König Maximilian von Bayern (1811–1864) den Auftrag erhalten, eine Geschichte der Stadt Rom von der ältesten bis auf die neueste Zeit für einen größeren Leserkreis zu schreiben. In über 3500 Seiten in vier Bänden stellte Reumont diese zum fortgesetzten Spott und Ärger von Gregorovius, der von der Kritik immer wieder mit ihm verglichen wurde, in acht Jahren fertig (4 Bde., Berlin 1866–1870).</note></seg>, worüber ich mich herzlich gefreut habe. Ich hatte einen Brief an Sie geschrieben, nahm denselben nach <placeName key="G000734">München</placeName> mit, wo er über den <seg type="comment"><orig>alsbald ausbrechenden, welterschütternden Ereignißen</orig><note xml:id="nw2w_ln3_llb">Am 19. Juli 1870 hatte Frankreich Preußen den Krieg erklärt.</note></seg> liegen blieb u<ex>nd</ex> veraltete. Demnach schreibe ich Ihnen von hier aus, um Ihnen herzlichst für Ihre Gabe zu danken, und Ihnen ebenso Glück zu wünschen, daß es Ihnen vergönnt war, dieses umfaßende Werk nach Ihrem Wunsche zu vollenden. Sie haben damit Ihre lange literarische Thätigkeit wahrhaft gekrönt, und können nun mit Genugthuung auf Ihre Mühen zurückblicken. Ihre Geschichte der Stadt Rom wird einen hervorragenden Platz in unserer Literatur behaupten, wo sie eine Lücke ausfüllt. Es gibt nun aber Leute, welche eine Freude daran haben, sich und andern einzubilden, daß unsere beiden Arbeiten sich zu einander feindlich verhalten; ich kenne diese <pb n="1v"/>Stimmen u<ex>nd</ex> verlache sie mit Ihnen. Wir werden hoffentlich mit gegenseitiger Genugt<del rendition="#s">t</del>huung unsere <hi rendition="#aq"><foreign xml:lang="Lat"><seg type="comment"><orig>opera de Urbe</orig><note xml:id="nnvk_dn3_llb">Lat.: Werke über die Stadt (Rom).</note></seg></foreign></hi> recht <seg type="comment"><orig>friedlich neben einander stellen, und uns freuen, daß ein gütiges Geschick uns dazu berief, diese Bausteine zu einem erhabenen Tempel historischer Wissenschaft zusammenzutragen</orig><note xml:id="nrzt_1n3_llb">Vgl. den Brief von Gregorovius an Reumont, 14.6.1868.</note></seg>. Ich im Besondern werde stets dessen eingedenk sein, mit welcher Freundlichkeit Sie <seg type="comment"><orig>meinem Unternehmen</orig><note xml:id="nxps_sn3_llb">Von seiner seit 1859 von Cotta verlegten „Geschichte der Stadt Rom im Mittelalter“ erschien 1870 der siebte Band; im selben Jahr wurden auch der dritte und vierte Band in zweiter durchgearbeiteter Auflage ausgegeben.</note></seg> zugeneigt waren, als ich es unter so erschwerenden Umständen begann.</p>
+<p>In Kurzem wird Ihnen die <orgName key="G000523">Cotta’sche Buchhandlung</orgName> den <bibl sameAs="G003441">VII. Band meiner Geschichte</bibl> zusenden, worin Sie sehen werden, daß ich von Ihren culturgeschichtlichen Abschnitten der Renaissance-Epoche guten Nutzen habe ziehen können. Ich habe noch eine mannhafte Winterarbeit übrig, um <seg type="comment"><orig>den <bibl sameAs="G003434">VIII. und letzten Band</bibl> zu vollenden</orig><note xml:id="ndkw_ym3_llb">Der achte Band seiner „Geschichte der Stadt Rom im Mittelalter“ erschien 1872. </note></seg>; zu <pb n="2r"/>welchem Zwecke ich um die <seg type="comment"><orig>Mitte des <hi rendition="#aq">October</hi> wieder in dem alten Rom einzutreffen gedenke</orig><note xml:id="ndg4_xm3_llb">Am 15.10.1870 brach Gregorovius von München auf und kam zwei Tage später in Rom an (siehe RT, 14.–30.10.1870, S. 297).</note></seg>. Es wird auch Sie das Geschick, welches sich dort vollzogen hat, tief ergriffen haben. Seine Tragweite, wer ermißt sie heute? Es selbst ist <seg type="comment"><orig>nur eine der Scenen dieses großen weltgeschichtlichen Dramas</orig><note xml:id="ngjc_wm3_llb">Rom war von den italienischen Truppen besetzt und am 20. September 1870 zur italienischen Hauptstadt erklärt worden. Angesichts des deutsch-französischen Kriegs rückten die italienischen Ereignisse für Gregorovius in den Hintergrund; am 16. September 1870 notierte er: „Gegen Rom rücken die Italiener, wo sie vielleicht schon heute eingezogen sind. Ich hätte doch gern den Fall des Papsttums mit Augen gesehen.“ – und wenige Tage später: „Am 20. September um 11 Uhr vormittags sind die Italiener in Rom eingezogen. Unter anderen Verhältnissen würde dies Ereignis die Welt aufgeregt haben, heute ist es nur eine kleine Episode des großen Weltdramas.“ (RT, 16. und 23.9.1870, S. 292–293).</note></seg>, welches heute vor unsern Augen unter erschütternden Schlägen sich entwickelt, und uns alle erstaunen macht und betäubt. <seg type="comment"><orig>Ich bin auf dem Sprunge an den <placeName key="G000901">Rhein</placeName>, hoffend meinen letzten <persName key="G001203">Bruder </persName>zu erreichen, welcher als Artillerie-Oberstleutnant vor <placeName key="G000728">Metz</placeName> steht</orig><note xml:id="ny35_sm3_llb">Anfang Oktober 1870 fuhr Gregorovius zunächst nach Straßburg und am 3. Oktober 1870 von Karlsruhe nach Metz, um den „dort im Felde stehenden Bruder zu besuchen, was mir auch gelang.“ (RT, S. 296); am 7. Oktober 1870 wurde er dort Zeuge der Kampfhandlungen (siehe RT, 23.9.–14.10.1870, S. 292–298). In seinem Gedicht „Straßburg“ (Beilage zu Nr. 245 der AZ. 2.9.1870. S. 3900) und einer Reihe von Artikeln für die „Allgemeine Zeitung“ (Die französische Kriegserklärung und Europa, Nemesis, Die Schuld und die Strafe Frankreichs, Nochmals Elsaß und Lothringen!, Pavia und Sedan, Der Krieg, Fünf Tage vor Metz) hielt er seine Eindrücke fest (26.7.–19.10.1870). Siehe auch den Brief von Gregorovius an Manfred Lindemann-Frommel, 17.7.1870.</note></seg>. Dann wünsche ich nach Rom heimzukehren, um mich wieder in Ruhe zu sammeln.</p>
+<p>Möchte es Ihnen, verehrter Herr, wolergehen. Ihre schönen Artikel in der <orgName key="G000462">Allg<ex>emeinen</ex> Zeit<ex>ung</ex></orgName> las ich <seg type="comment"><orig>in München, wo ich 2 Monate zugebracht habe</orig><note xml:id="nxrx_4n3_llb">Gregorovius hatte sich vom 13.7.–17.9.1870 in München aufgehalten (siehe RT, 24.7.–16.9.1870, S. 285–292).</note></seg>. </p>
+                <closer>
+                    <salute rendition="#c">Alles Gute wünscht Ihnen <lb/>mit aufrichtiger Hochachtung u<ex>nd</ex> Ergebenheit <lb/>Ihr</salute>
+                    <signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

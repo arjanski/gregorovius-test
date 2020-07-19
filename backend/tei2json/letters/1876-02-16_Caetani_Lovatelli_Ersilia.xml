@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067771">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Contessa Ersilia Caetani Lovatelli in Rom. München, 16. Februar 1876 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno>Karton 59, Mappe 348 (nach D)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"> <bibl type="print">Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli. Hrsg. von Sigmund Münz. Berlin: Paetel 1896. S. 83–84 (gekürzt) </bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Marie von Sachsen-Weimar-Eisenach, die Tochter von Carl Alexander von Sachsen-Weimar-Eisenach, der ein Freund von Michelangelo Caetani ist, war in München. Ihr Ehemann Prinz Heinrich VII. Reuß zu Köstritz ist als neuer deutscher Botschafter in Rom im Gespräch. Das schlechte Verhältnis des bisherigen Amtsinhabers Robert von Keudell zu Otto von Bismarck lässt dessen Verbleib unsicher erscheinen. Gregorovius wird im März nach Rom kommen. </p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1876-02-16" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001011">Caetani Lovatelli, Ersilia contessa (1840–1925)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+<body><pb n="83"/>
+<div type="writingSession">
+<opener>
+<dateline rendition="#right"> München, 16. Februar 1876.</dateline>
+</opener>
+<p><gap reason="lost" unit="chars" quantity="1"/>Es gibt hier nichts Neues, es sei denn, daß die <seg type="comment"><orig><persName key="ed_hlm_v3t_plb">Tochter des Großherzogs von Weimar</persName></orig><note xml:id="nflz_12v_zlb">Marie von Sachsen-Weimar-Eisenach (1849–1922) ist die älteste Tochter von Carl Alexander Sachsen-Weimar-Eisenach (181–1901), der seit 1853 regierender Großherzog war. </note></seg>, welcher <seg type="comment"><orig>der <persName key="ed_f4j_jjt_plb">Freund</persName> <persName key="G001004">Ihres Vaters</persName></orig><note xml:id="nonn_c2v_zlb">Die Archäologin und eng mit Gregorovius befreundete Ersilia ist die Tochter von Michelangelo Caetani (1804–1882), Herzog von Sermoneta. Den passionierten Dante-Forscher, dem Gregorovius bereits seit den späten 1850er Jahren verbunden war, hatte er zuletzt im Sommer 1875 in Rom getroffen (siehe RT, 27.6.1875, S. 358). Großherzog Carl Alexander und der Herzog von Sermoneta waren befreundet und standen in brieflichem Kontakt; siehe dazu Klára Hamburger: Franz Liszt, Carl Alexander gran duc de Weimar et Michelangelo Caetani duc de Sermoneta. In: Studia musicologica Academiae Scientiarum Hungaricae 25 (1983), S. 145–158.</note></seg> ist, die neue Gemahlin des <seg type="comment"><orig><persName key="ed_vnv_yjt_plb">Prinzen Reuß</persName></orig><note xml:id="nwdn_d2v_zlb">Prinz Heinrich VII. Reuß zu Köstritz (1825–1906) ehelichte Marie von Sachsen-Weimar-Eisenach am 6. Februar 1876.</note></seg>, von dem man so viel in den Zeitungen, insbesondere wegen des deutschen Botschafterpostens in Rom gesprochen hat, <seg type="comment"><orig>hier durchkam</orig><note xml:id="njr3_f2v_zlb">Der Prinz hatte sich nach einem Jurastudium 1853 für eine diplomatische Laufbahn entschieden, arbeitete von 1854–1863 in der preußischen Gesandschaft in Paris, anschließend in Kassel und München. Von 1873–1876 war er Generaladjutant. Zum Zeitpunkt seiner Hochzeitsreise nach Rom wurde Reuß als möglicher neuer Botschafter in Wien gehandelt; das Gerücht, er ginge nach Rom, um diesen Posten dort zu besetzen, stellte sich schnell als unwahr heraus; siehe Beilage zu Nr. 23 der AZ. Augsburg: Cotta 23.1.1876. S. 333: https://opacplus.bsb-muenchen.de/Vta2/bsb11349334/bsb:3257974?page=337.</note></seg>. Wiewohl <seg type="comment"><orig>das Verbleiben <persName key="G001335">Keudell</persName>’s</orig><note xml:id="nvbl_g2v_zlb">Der aus Königsberg stammende Robert von Keudell (1824–1903) war seit dem 2. Juli 1873 preußischer Gesandter am Quirinal. Der Aufstieg des äußerst kunstsinnigen, stillen Keudells im diplomatischen Dienst wird auch auf sein Klavierspiel und seine freundschaftliche Beziehung zur Familie Bismarck zurückgeführt. Gregorovius hatte Keudell in Rom kennengelernt und seinen durchaus postitiven Eindruck im Tagebuch festgehalten (siehe RT, 28.6.1873, S. 331–332).</note></seg> auf jenem von allen Diplomaten begehrten Posten im ganzen noch nicht sicher ist, so glaube ich doch, daß er dort verharren wird, so lange er nicht von einem <placeName key="ediarum_ohw_g2x_qlb"><seg type="comment"><orig>tarpeischen Felsen</orig><note xml:id="ndym_h2v_zlb">Der Tarpejische Felsen, die südliche Spitze des Kapitols, war der Ort, an dem im antiken Rom, Todesurteile durch Hinabstoßen vollzogen wurden.</note></seg></placeName> gestürzt wird und den Luftsprung macht, <seg type="comment"><orig>den <persName key="ed_jyn_4lt_plb">Bismarck</persName> manchmal von den Diplomaten verlangt</orig><note xml:id="nfwz_32v_zlb">Keudell wurde 1876 tatsächlich zum Botschafter berufen, was Gregorovius im Tagebuch folgendermaßen kommentiert: „Die Diplomatie ist aufgeregt über das ungeheure Glück Keudells, der nun doch Botschafter in Rom wird, wohin eigentlich Prinz Reuß gehen sollte. Man behandelt Keudell wie einen Parvenue und noch schlimmer. Er hat sich aber an die Rockschöße seines Herrn Bismarck angeklammter und sein Stück durchgesetzt.“ (RT, 1.3.1876, S. 360). Von Unstimmigkeiten zwischen Keudell und Bismarck, die diese Postenübernahme im Vorraus eher unvorstellbar erscheinen ließen und eine mögliche Kandidatur des Prinzen Reuß ins Gespräch brachten, berichtet die Presse; siehe AZ. Augsburg: Cotta 19.1.1876. S. 259: https://opacplus.bsb-muenchen.de/Vta2/bsb11349334/bsb:3257974?page=263.</note></seg>. Ich wollte jedoch von jener weimarischen Prinzessin sprechen – sie ist <seg type="comment"><orig>eine gute, ungewöhnlich unterrichtete Frau</orig><note xml:id="nb1f_k2v_zlb">Marie von Sachsen-Weimar-Eisenach hatte in ihrer Kindheit eine umfassende Erziehung genoßen, die von der freiheitlichen und toleranten Gesinnung sowie den künstlerischen Interessen des Weimarer Hofes geprägt war. </note></seg>.<gap reason="lost" unit="chars" quantity="1"/>Gegen Mitte März hoffe auch ich <seg type="comment"><orig>in dem geliebten Rom wieder aufzutauchen</orig><note xml:id="nlnw_l2v_zlb">Gemeinsam mit dem Sohn seines Malerfreundes Karl August Lindemann-Frommel (1819–1891), Manfred (1852–1939), sollte Gregorovius am 10. März von München Richtung Italien aufbrechen. In Rom traf er am 18. des Monats ein (siehe RT, 20.5.1876, S. 363).</note></seg>.<gap reason="lost" unit="chars" quantity="1"/>Glauben Sie nicht, daß ich so undankbar bin, nach und nach Rom zu vergessen. Wie sollte das wohl dem Historiker Roms passiren? Es wäre für mich ein noch häßlicheres Verbrechen, als für den Christen, die Kirche zu leugnen und ein Maure zu werden. Gerade <seg type="comment"><orig>weil ich so lange in Rom gelebt</orig><note xml:id="ntrb_42v_zlb">Mit der Beendigung seiner „Geschichte der Stadt Rom im Mittelalter“ sah Gregorovius auch seine Zeit in Italien für beendet an und kehrte im Juli 1874, nach knapp 22 Jahren in Rom, nach Deutschland zurück, wo er in München mit seinen Geschwistern zusammenleben wollte. </note></seg> und mir den idealen Besitz der Stadt vermittels der <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">„Geschichte Roms“</bibl> angeeignet habe, <pb n="84"/>finde ich mich mit jenen moralischen Kräften ausgestattet, die mich aufrecht halten und mir in meinem Exil Trost bieten.<gap reason="lost" unit="chars" quantity="1"/></p>
+</div>
+</body>
+</text>
+</TEI>

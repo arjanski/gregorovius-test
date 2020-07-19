@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000032">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Theodor Heyse in Florenz. Rom, 10. November
+                    1856</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository> Archiv der BBAW</repository><collection>NL Theodor Heyse</collection><idno>(4)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S. – Bleistiftanmerkungen (Trankriptionsnotate) vfrH </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 84, Mappe 6 (Alfred Löckle nach
+                                        H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach D)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print">Briefe von Ferdinand Gregorovius an Theodor Heyse. In:
+                            Mittheilungen aus dem Litteraturarchive in Berlin 1899. Berlin:
+                            Litteraturarchiv-Gesellschaft 1899. S. 186–188</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+<p xml:lang="de">Er bittet um Nachricht, ob Heyse noch in Florenz wohnt, wie Julius Muhr vermutet. In Rom ist die Bahnstrecke nach Frascati in Betrieb gegangen. Wie er selbst, ist Johannes Riepenhausen, Clemens August Alertz und der mit einem Familienmitglied der Bankiersdynastie Rothschild umgehende Anton Marstaller mittlerweile bald zur Legende geworden. Er hat in Rom jetzt weniger mit Deutschen Umgang, als mit Römern – darunter mit Giovanni Torlonia, der idyllische Verse schreibt. Von dem Druck seiner Übersetzung der „Lieder des Givanni Meli von Palermo“ (1856) wird Heyse von Paolo Emiliani Giudici gehört haben. In Florenz erscheint in Kürze die italienische Teilübersetzung seines „Corsica“ von Paolo Perez (1857). Heyse soll sein Versgedicht „Euphorion“ (1858) lesen, sobald es gedruckt sein wird. Seine Chronik von Rom will er in sechs Jahren abgeschlossen haben, auch wenn ihm die Arbeit gesundheitlich sehr zusetzt. Er möchte wissen, ob Heyse Umgang mit Alfred von Reumont hat, der kürzlich Ministerresident am Hof Leopolds II. geworden ist.</p>
+<p xml:lang="it"/>
+<p xml:lang="en">He asks for news about whether Heyse still lives in Florence, as Julius Muhr suspects. In Rome the railway line to Frascati has gone into operation. Like himself, Johannes Riepenhausen, Clemens August Alertz and Anton Marstaller, who is with a member of the Rothschild banking family, have become legends. In Rome he now has less contact with Germans than with Romans - including Giovanni Torlonia, who writes idyllic verses. Heyse will have heard of the publication of his translation of the „Lieder des Givanni Meli von Palermo“ (1856) from Paolo Emiliani Giudici. The partial translation of his „Corsica“ into Italian by Paolo Perez (1857) will soon be published in Florence. Heyse should read his poem „Euphorion“ (1858) as soon as it is printed. He wants to complete his chronicle of Rome in six years, even though the work is very hard on his health. He would like to know whether Heyse is in contact with Alfred von Reumont, who recently became Minister Resident at the court of Leopold II. </p>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1856-11-10" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001275">Heyse, Theodor (1803–1884)</persName>
+                    <placeName key="G000671">Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+                <opener>
+                    <dateline rendition="#c"><hi rendition="#aq">Roma</hi> 10 <hi rendition="#aq">Nov<ex>em</ex>bre</hi> 1856.<lb/><hi rendition="#aq">Via della Purificazione N<ex>ume</ex>ro</hi> 63.</dateline>
+                    <salute>Mein verehrter Freund,</salute>
+                </opener>
+                <p>von Ihnen nichts zu wißen, ist mir ein trauriger Gedanke, der mich seit langem
+                    mehr u<ex>nd</ex> mehr belästigt; ich schreibe daher heute an Ihre ehemalige
+                    Florentiner Adresse, u<ex>nd</ex> bitte Sie dringend, wenn Sie der Brief
+                    erreicht, mir zu sagen, daß es Ihnen wol gehe.</p>
+                <p>Ihre früheren Bekannten wißen mir nichts mitzuteilen, doch sagte mir <persName key="G001432"><seg type="comment"><orig>Muhr</orig><note xml:id="nr3x_f5n_slb">Der beiden bekannte Maler Julius Muhr (1819–1865), der sich 1852–1857 in Rom aufhielt (siehe auch den Brief von <ref target="G000064">Gregorovius an Theodor Heyse, 17.9.1855</ref>).</note></seg></persName>, <seg type="comment"><orig>Sie befänden sich wahrscheinlich noch in Florenz</orig><note xml:id="nhmb_j5n_slb">Seit dem Tod von Theodor Heyses Bruder Karl Wilhelm Ludwig Heyse (*1797) am 25. November 1855 in Berlin hielt sich das Gerücht, dieser werde nach München übersiedeln (siehe den Brief von <ref target="G000027">Gregorovius an Theodor Heyse, 20.12.1855</ref>). Heyse ging erst im Juli 1861 nach Deutschland zurück, ab 1862 lebte er in München, kehrte aber 1865 nach Florenz zurück, wo er bis zu seinem Tode lebte.</note></seg>, u<ex>nd</ex> jemand will Sie in einem sehr feinen Logis, wie es Ihnen zukommt, vor geraumer Zeit beglückwünscht haben. Dieser Mangel von Nachrichten von Ihnen zwingt mich, statt mit Ihnen vom Anteil an Ihren gegenwärtigen Schicksalen zu reden, nur von Rom u<ex>nd</ex> von mir selbst zu schreiben. Es ist immer die Unwißenheit, welche Egoisten macht. Rom hat sich, mit Ausnahme einer <seg type="comment"><orig>schüchternen Eisenbahn</orig><note xml:id="nkkk_t5n_slb">Von der Bahnstrecke Rom – Civitavecchia war als erste kurze Teilstrecke die von Rom nach Frascati am 7. Juli 1856 eingeweiht worden.</note></seg>, nicht weiter erdreistet. Die Menschen, wißen Sie, welche lange hier leben, werden bald mythisch – u<ex>nd</ex> auch ich bin schon eine Mythe geworden, nicht minder als <persName key="G001548"><seg type="comment"><orig>Riepenhausen</orig><note xml:id="nx55_z5n_slb">Der seit 1805 im Rom lebende Maler Johannes Riepenhausen (1784–1860); siehe den Brief von <ref target="G000034">Gregorovius an Theodor Heyse, 6.1.1856</ref>.</note></seg></persName>, als <persName key="G000913"><seg type="comment"><orig>Alertz</orig><note xml:id="nrwr_cvn_slb">Der mit Gregorovius eng befreundete Clemens August Alertz (1800–1866), der ehemalige Leibarzt der Päpste Gregor XVI. und Pius IX., des Prinzen Heinrich von Preußen (1781–1846) war zuletzt preußischer Gesandtschaftsarzt.</note></seg></persName>, als <seg type="comment"><orig>der noch immer mit dem kleinen <persName key="G001248">Rothschildchen</persName> herumlaufende <persName key="G001405">Wechsler, Consul u<ex>nd</ex> Ritter</persName> aus dem <hi rendition="#aq">Corso</hi></orig><note xml:id="ne3l_fvn_slb">Der Bankier und preußische Konsul Anton Marstaller (1815–1865) war im September 1855 mit einem Familienmitglied der von dem Frankfurter Mayer Amschel Rothschild (1744–1812) begründeten Bankiersdynastie aus Deutschland nach Rom zurückgekehrt (siehe die Briefe von Gregorovius an Theodor Heyse, <ref target="G000064">17.9.1855</ref> und <ref target="G000034">6.1.1856</ref>).</note></seg>. Von den Deutschen habe ich <pb n="1v"/>mich zurückgezogen, aber angenehme Frauen hier zum Besuch, u<ex>nd</ex> gute römische Familien, wo ich manchmal ein <foreign xml:lang="ita"><seg type="comment"><orig>pranzo</orig><note xml:id="neyh_mvn_slb">Ital.: Mittagessen.</note></seg></foreign> u<ex>nd</ex> das Herz einer Dame einnehme, dieses als sogenannte <foreign xml:lang="ita"><seg type="comment"><orig>tavola bianca</orig><note xml:id="nqcv_nvn_slb">Ital.: weiße Leinwand – hier als Bild im Sinne seines unschuldigen Umgangs.</note></seg></foreign>.<seg type="comment"><orig> Auch dem Prinzen <persName key="G001653"><hi rendition="#aq">Torlonia</hi></persName> bin ich in die Hände gefallen, u<ex>nd</ex> der gesamten Schäferwelt <placeName key="G000845">Arkadien’s</placeName>, wo die Menschen noch immer ihre Sonetten auf der Flöte <persName key="G001488">Petrarcas</persName> blasen</orig><note xml:id="nsvz_qvn_slb">Der zweite Sohn von Marino Torlonia (1796–1860), Herzog von Bracciano, der Dichter, Philosoph und Philanthrop Giovanni Torlonia (1831–1858), galt als sehr gebildet. Er stand in Kontakt mit einer Gruppe von römischen Dichtern, der sogenannten Scuola romana. Torlonia selbst schrieb Gedichte über Liebe, Blumen und die Betrachtung des Göttlichen. Am 30. April 1856 schreibt Gregorovius über seine Einladung in die Villa Torlonia: „Am 27. war ich mit Perez in der kleinen Villa Torlonia [die 1848 zerstörte Villla Costaguti aus dem 17. Jahrhundert an der Porta Pia], wo die Akademie der Quiriten das Fest Roms feierte. Der Prinz Giovanni las einen Discorso, worin er sagte, die Florentiner sprächen nur deshalb so schön italienisch, weil Florenz nicht weit von Rom läge. Hierüber lachte Perez herzlich. Auch eine alte und eine junge Dichterin trugen Sonette vor. Dann wurde Musik gemacht: ein schönes Konzert auf der Violine von Ettore Pinelli [1843–1915, dem römischen Violinisten und Dirigenten] und dergleichen.“ (RT, S. 61).</note></seg>. Zu diesen Schrecken brachte mich der <seg type="comment"><orig>Sicilianer <bibl sameAs="G004072">Meli</bibl></orig><note xml:id="nkzm_wvn_slb">Seine bei Brockhaus im Druck befindliche Übersetzung der „Lieder des Giovanni Meli von Palermo“.</note></seg>, von dem Sie in Florenz vielleicht durch <seg type="comment"><orig><hi rendition="#aq"><persName key="G001113">Emiliani-Giudici</persName></hi></orig><note xml:id="nzzv_yvn_slb">Der in Florenz an der Accademia delle Belle Arti lehrende Professor der Ästhetik Paolo Emiliani Giudici (1812–1872). Über Paolo Perez war Gregorovius mit Emiliani-Giudicis Literaturgeschichte Italiens (Storia della letteratura italiana. 2 Bde. Florenz: Le Monnier 1855) vertraut geworden. Siehe auch die Briefe von Gregorovius an Theodor Heyse vom <ref target="G000027">20.12.1855</ref> und an <ref target="G000393">Emiliani Giudici, 1.6.1856</ref>.</note></seg> hörten. Es schwebt hoffentlich kein Diplom über meinem Haupte. </p>
+                <p>Ohne Ihr Wißen befinde ich mich gegenwärtig <seg type="comment"><orig>in Florenz, unter der Preße <hi rendition="#aq"><orgName key="G000528">Le Monniers</orgName></hi>, der meine <bibl sameAs="G003106">Geschichte der Corsen</bibl> druckt, in der <bibl sameAs="G004324">Übersetzung meines Freundes <hi rendition="#aq">Perez</hi></bibl></orig><note xml:id="nzw3_3wn_slb">Der Dante-Kenner Graf Paolo Perez (1822–1879) übersetzte einen Auszug von Gregorovius’ „Corsica“ (Stuttgart: Cotta 1854): Storia dei Corsi. Florenz: Tip. Felice Le Monnier 1857.</note></seg>. Sie ist sehr meisterhaft an Stil u<ex>nd</ex> Sprache. Ich würde sonst Ihnen noch manches von meinen Arbeiten berichten, wenn ich nicht fürchtete, <seg type="comment"><orig>einen Mann zu langweilen, der hinter den Alten ein<bibl sameAs="G004273"> <hi rendition="#aq"><foreign xml:lang="Lat">non plus ultra</foreign></hi></bibl> gezogen hat</orig><note xml:id="nycb_mwn_slb">Theodor Heyse war Altphilologe und hatte jüngst seine Übersetzung von Catull’s „Buch der Lieder“ (Berlin 1855) publiziert.</note></seg>, u<ex>nd</ex> auf die Bestrebungen des modernen Scribentengeschlechts mit attischer Weisheit, aber auch <hi rendition="#aq">Hybris</hi> heruntersieht. Indeß werde ich Sie bitten, eines Tags den <bibl sameAs="G003574"><hi rendition="#aq"><seg type="comment"><orig>Euphorion</orig><note xml:id="neqc_4wn_slb">Gregorovius hatte soeben sein im Sommer 1853 begonnenes Versgedicht „Euphorion. Eine Dichtung aus Pompeji in vier Gesängen“ im Manuskript abgeschlossen, das er Brockhaus bereits in seinem Brief vom <ref target="G000076">22.8.1855</ref> als vor dem Abschluss stehend zum Verlag angetragen hatte (dort erschien es 1858). Siehe auch den Brief von Gregorovius an Brockhaus vom <ref target="G000019">1.10.1856</ref>.</note></seg></hi></bibl> von mir zu lesen, den ich Ihnen zusende, sobald er gedruckt ist; wenigstens wünsche ich Ihr Urteil über die Behandlung des Hexameter zu haben, <pb n="2r"/>von deßen erster Übung Sie eines Tages so schreckenerregende Proben menschenfreundlich anhörten. Sie werden hoffentlich sagen: eine guter Mensch in seinem dunkeln Drange, ist sich des rechten Verses doch bewußt.</p>
+                <p>Ich bin eben an den ersten Band meiner <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485"><seg type="comment"><orig>Chronik von Rom</orig><note xml:id="nutz_ryn_slb">Gregorovius’ späteres 8-bändiges Hauptwerk, die „Geschichte der Stadt Rom im Mittelalter“ (Stuttgart: Cotta 1859–1872). Siehe auch den Brief von <ref target="G000027">Gregorovius an Theodor Heyse, 20.12.1855</ref>.</note></seg></bibl> gegangen, u<ex>nd</ex> hoffe das ganze Werk in einem Raum von 6 Jahren zu beendigen. Ich las Bibliotheken, ward gefährlich krank im Februar, u<ex>nd</ex> schleppe mich so hin. <seg type="comment"><orig>Mein Nervensystem ist zerrüttet, u<ex>nd</ex> mein Kopf oft außer Faßung</orig><note xml:id="nwv1_vyn_slb">Gregorovius musste seine Studien krankheitsbedingt seit Ende Februar 1856 immer wieder unterbrechen und hatte am 16. März 1856 sogar sein Testament aufgesetzt (siehe RT, 24.3.1856, S. 60).</note></seg>, aber mein Wille soll ein Cäsar auf dem Triumfwagen werden, u<ex>nd</ex> ich will eher sterben, als diese Arbeit mutlos anderen überlaßen. <hi rendition="#aq"><foreign xml:lang="Lat"><seg type="comment"><orig>Est quodam prodire tenus, si non datur ultra</orig><note xml:id="nisr_wyn_slb">Nach Horaz, Epist. I 1,32 – etwa „Man geht so weit man kann, wenn weiter zu gehen nicht möglich ist.“</note></seg></foreign></hi>.</p>
+                <p><seg type="comment"><orig>Wie ich voraussagte, wird <hi rendition="#aq"><persName key="G001545">Herr von Reumont</persName></hi> noch einmal König</orig><note xml:id="nsxq_yyn_slb">Im Brief an Theodor Heyse vom <ref target="G000034">6.1.1856</ref> hatte Gregorovius gespottet, der Historiker und Diplomat Alfred von Reumont (1808–1887) werde einst einen Platz neben den jüngst in den Nischen der Uffizien aufgestellten Statuen toskanischer Persönlichkeiten erhalten.</note></seg>; <seg type="comment"><orig>Minister ist er schon</orig><note xml:id="nvwj_bzn_slb">Reumont war seit 1851 Leiter der preußischen Gesandtschaft in Florenz und war zudem seit Kurzem Ministerresident am Hof Leopolds II., Großherzogs der Toskana (1797–1870). </note></seg>. Haben Sie mit diesem merkwürdigen Manne freundschaftliche Beziehungen?</p>
+                <p>Ich schließe, verehrter u<ex>nd</ex> teurer Freund; wo sind die guten Abende von <hi rendition="#aq"><placeName key="G000773"><seg type="comment"><orig>S<ex>ant</ex>’Andrea delle Fratte</orig><note xml:id="na5g_gzn_slb">Eine der römisch-katholischen Titelkirchen aus dem im 17. Jahrhundert, nahe Piazza di San Silvestro, in der auch Rudolf Schadow (1786–1822) und Angelika Kauffmann (1741–1807) bestattet wurden. </note></seg></placeName></hi>? Das Leben ist ein Strom, auf dem einige auf bunten Schiffen toll u<ex>nd</ex> voll zum Ocean rennen, u<ex>nd</ex> andere bleiben als Trauerweiden am Ufer stehn, – u<ex>nd</ex> es fließt vorüber. Zu den letztern rechnen Sie diesen Ihren jüngeren, doch nicht untreuen Freund u<ex>nd</ex> <hi rendition="#aq"><persName key="G001630">Sisiphus</persName></hi> von Rom.</p>
+                <closer>
+<salute rendition="#right">Herzliches Lebewol!</salute>
+<signed rendition="#right"><hi rendition="#aq">Ferdin. Gregorovius</hi>.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

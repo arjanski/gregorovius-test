@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000359">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Eduard und Rudolf Brockhaus in Leipzig. Rom, 22. Januar 1873</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Sächsisches Staatsarchiv Leipzig</repository><collection>Bestand 21083</collection><idno>Archivalnummer 224 (128)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S. – 2v alR, Blatt um 90° gedreht, Eingangs- und Beantwortungsvermerk: 1873. / <hi rendition="#aq">Rom</hi>, 22./25. <hi rendition="#aq">Januar</hi>. / <hi rendition="#aq">Gregorovius</hi>. / B. 31/I. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Die jetzt notwendig werdende zweite Auflage des vierten Bandes seiner „Wanderjahre in Italien, „Von Ravenna bis Mentana“ (1873), möchte er um seine Aufsätze „Fünf Tage vor Metz“ und „Eine Pfingstwoche in den Abruzzen“ vermehren. Ersterer hat zwar keinen Bezug zu Italien, schließt aber inhaltlich an „Das Reich, Rom und Deutschland“ an. Für die zwei zusätzlichen Beiträge verlangt er ein zusätzlich 100 Taler bei gleichbleibendem Buchhandelspreis. Er möchte es bei den insgesamt vier Bänden seiner „Wanderjahre in Italien“ belassen. Er bedauert, Rudolf Brockhaus in München verfehlt zu haben.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1873-01-22" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G000995">Brockhaus, Eduard (1829–1914)</persName>
+<persName key="G000997">Brockhaus, Rudolf (1838–1898)</persName>
+<placeName key="G000712">Leipzig</placeName>
+</correspAction>
+<correspContext>
+<ref type="next">31. Januar 1873</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c"><hi rendition="#aq">Rom</hi>, <hi rendition="#aq">Via Gregoriana n<ex>umero</ex> </hi>13. <lb/>22. <hi rendition="#aq">Jan<ex>uar</ex></hi> 1873.</dateline>
+                    <salute>Geehrte Herren,</salute>
+                </opener>
+<p>in Bezug auf die nötig werdende neue Ausgabe des <bibl sameAs="G003307">Bandes IV. der Wanderjahre in Italien</bibl>, ersuche ich Sie mir ein Revisionsexemplar zugehen zu lassen: dies könnte Bogenweise unter Kreuzband geschehen, und ich würde bitten, mir <seg type="comment"><orig>diese Bogen <hi rendition="#u" hand="#addressee">planiren</hi> zu lassen</orig><note xml:id="nwyg_y4v_slb">Das Papier der einzelnen Bogen wird dabei durch eine Art Leimwasser verfestigt.</note></seg>.</p>
+<p>Mein Wunsch wäre eigentlich, diesen B<ex>an</ex>d IV. mit zwei Artikeln zu vermehren, welche sind: <seg type="comment"><orig><bibl corresp="G003958 G003959 G003960 G003961">Fünf Tage vor Metz</bibl> (im <hi rendition="#aq">Oct<ex>o</ex>b<ex>e</ex>r</hi> 1870, wo ich Zeuge der Belagerung u<ex>nd</ex> des letzten Ausfalles von <persName key="G000961">Bazaine</persName> war</orig><note xml:id="nhlc_fpv_slb">Gregorovius hatte seinen Bruder Julius (1819–1891), der in Cheuby bei Sainte Barbe, östlich von Metz stationiert war besucht, der als preußischer Oberst an der Belagerung der lothringischen Festung von Metz teilgenommen hatte, in der ab dem dem 20. August 1870 die Hauptarmee Frankreichs unter Marschall François Achille Bazaine (1811–1888) festgesetzt worden war. Während seines Aufenthaltes war Gregorovius Zeuge des letzten Angriffs der französischen Rheinarmee am 7. Oktober 1870 in der Nähe der Ortschaften Bellevue geworden, den er in seinem Artikel „Fünf Tage vor Metz“ schildert (siehe RT, 4.–14.10.1870, S. 296–297; ED in: AZ. Nr. 289–292. 16.–19.10.1870).</note></seg>), u<ex>nd</ex> <add place="left" hand="#addressee"><metamark target="#seg-1" function="used" rendition="#mMM"/></add><seg xml:id="seg-1">„<bibl corresp="G003971 G003972 G003973 G003974"><seg type="comment"><orig>eine Pfingstwoche in den Abruzzen</orig><note xml:id="nxkm_npv_slb">Mit Karl Lindemann-Frommel (1819–1891) hatte Gregorovius Pfingsten 1871 eine Reise in die Abruzzen unternommen (siehe RT, 8.6.1871, S. 305–306). Eine Schilderung dieser Reise erschien unter dem Titel „Eine Pfingstwoche in den Abruzzen“ in Beilage zu Nr. 244–247 der AZ. Augsburg: Cotta 1.–4.9.1871. Sie wurde in die zweite Auflage des vierten Bandes der „Wanderjahre in Italien“ (1873) aufgenommen.</note></seg></bibl></seg><supplied cert="high">“</supplied> (1871). Der erste Artikel, dessen Sie sich vielleicht aus der <orgName key="G000462">Allg<ex>emeinen</ex> Zeit<ex>ung</ex></orgName> erinnern, hat freilich <pb n="1v"/>mit Italien nichts zu thun, aber es käme dies kaum in Betracht, da er sich unmittelbar an den Aufsatz „<bibl corresp="G003924 G003925 G003926 G003927 G003928 G003929">Das Reich, Rom u<ex>nd</ex> Deutschland</bibl>“ anschließen würde, mit welchem er in einem inneren Zusammenhang steht.</p>
+<p>Wenn nun diese beiden Artikel dem IV. Bande beigegeben werden sollten, so müßte ich eine Entschädigung dafür beanspruchen, weil ich mich der Möglichkeit beraube, sie anderweitig in einem Buche zu verwerten. I<seg type="comment"><orig>ch müßte diese Entschädigung auf mindestens 100 Thaler für beide zusammen ansetzen</orig><note xml:id="nbsk_ksv_slb">Brockhaus stimmte der Honorarforderung nicht zu; es wurde nur die zusätzliche Aufnahme von „Eine Pfingstwoche in den Abruzzen“ vereinbart, wofür nach dem Brief von Gregorovius an Brockhaus vom 16.2.1873 „25 Thaler bei der 2., und ebensoviel bei der 3. Auflage des Bandes IV.“ vereinbart (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 129). „Fünf Tage vor Metz“ wurde in Gregorovius’ „Kleine Schriften zur Geschichte und Cultur“ (Bd. 2. Leipzig: Brockhaus 1888. S. 195–234) aufgenommen.</note></seg>, ohne daß in diesem Falle der Preis des so vermehrten Bandes vergrößert würde, was ja ohnehin die Gleichmäßigkeit des buchhändl<ex>erischen</ex> Preises der übrigen Bände aufheben würde. Selbst wenn Sie mir jene Summe zugestehen, bleibt mir die Sache doch bedenklich, aber wegen des Verlusts, der mir dauernd aus der Abgabe dieser beiden <pb n="2r"/>sehr lohnenswerten Stücke erwächst.</p>
+<p><seg type="comment"><orig>Vermehren möchte ich die Reihe dieser Bände nicht</orig><note xml:id="nbkq_psv_slb">1877 erschienen schließlich als fünfter Band der „Wanderjahre in Italien“ noch „Apulische Landschaften“ bei Brockhaus. Vorderhand lehnte Gregorovius einen weiteren Band in seinem Brief vom 9.10.1873 an Brockhaus erneut ab (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 139).</note></seg>: wie sie heute sind, vier an der Zahl, so ist es das Rechte. </p>
+<p>Haben Sie die Güte, meine Herren, meinen Vorschlag in Erwägung zu nehmen, u<ex>nd</ex> mir zur Zeit Ihre Ansicht mitzuteilen.</p>
+                <closer>
+<salute rendition="#c">Ihr hochachtungsvoll ergebener</salute>
+<signed rendition="#right">FGregorovius</signed>
+<note type="postscript">Ich habe es sehr bedauert Sie, <seg type="comment"><orig>Herr Rudolf Brockhaus, in <placeName key="G000734">München</placeName> verfehlt zu haben</orig><note xml:id="nwjz_ssv_slb"><p>Rudolf Brockhaus (1838–1898) war auf dem Weg nach Italien offenbar über München gefahren hatte Gregorovius zuvor um Empfehlungschreiben für Rom und Neapel gebeten (siehe den Brief von Gregorovius an Rudolf Brockhaus, 28.8.1872).</p></note></seg>: ich fand auf Ihrer Karte leider nicht Ihre dortige Wohnung angegeben, u<ex>nd</ex> fragte darnach vergebens in Buchhandlungen.</note>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

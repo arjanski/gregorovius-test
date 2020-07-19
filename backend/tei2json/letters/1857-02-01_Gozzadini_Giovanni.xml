@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000391">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. Rom, 1. Februar 1857</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness><bibl type="print">Lettere di Storia e Archeologia a Giovanni Gozzadini. Pubblicate da Nerio Malvezzi con prefazione di Giosuè Carducci. Bd. 1. Bologna: Nicola Zanichelli [1898]. S. 189–191 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er empfiehlt den Buchhändler Hugo Glück, der in Bologna eine Buchhandlung erworben hat und den er aus der deutschen Buchhandlung Joseph Spithövers in Rom kennt. Empfohlen wird Glück auch von Paolo Perez. Gregorovius kündigt die Übersendung eines Exemplars seiner „Grabmäler der Römischen Päpste“ (1857) an.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He recommends the book dealer Hugo Glück, who has bought a bookstore in Bologna and whom he knows from the German bookstore Joseph Spithövers in Rome. Glück is also recommended by Paolo Perez. Gregorovius announces that he will send a copy of his „Grabmäler der Römischen Päpste“ (1857).</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1857-02-01" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni (1810–1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="189"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">Roma, 1 febbraio 1857.</dateline>
+</opener>
+<p>Illustrissimo Signor Conte. Queste pochissime righe chiedono il lor perdono e favore per chi avrà l’onore di consegnarle. Questi si è <seg type="comment"><orig>un giovane libraio di nome <persName key="G001179">Ugo Glück</persName></orig><note xml:id="nas5_ycj_tlb">Hugo Glück war aus Burghaun nach Rom gekommen und betrieb ab 1857 eine Buchhandlung in Bologna. Dort verstarb er 1861.</note></seg>, il quale già da molti anni è stato il primo amministratore della <seg type="comment"><orig><orgName key="G000545">Libreria tedesca di Giuseppe Spithover</orgName> in Roma</orig><note xml:id="nh3k_bdj_tlb">Der westfälische Buchhändler, Kunsthändler und Mäzen Josef Spithöver (1813–1892) hatte sich 1841 in Rom niedergelassen, wo er 1845 an der Piazza di Spagna die führende deutsche Buchhandlung eröffnete.</note></seg>. Staccandosi da quel molto bene formato e distinto negozio, onde far da sè e stabilirsi <pb n="190"/>da padrone di una libreria in una altra città dell’Italia, il signor Glück ha potuto acquistare una libreria in Bologna. Egli dunque parte per la di Lei <placeName key="G000690">patria</placeName> colla speranza di poter fermarvisi, metter su una casa, e rendersi in qualche punto utile facendosi, <seg type="comment"><orig>come lo ha fatto il <persName key="G001436">Münster</persName> in <placeName key="G000894">Venezia</placeName> e in <placeName key="G000895">Verona</placeName></orig><note xml:id="nvgq_fdj_tlb">Hermann Friedrich Münster (1817–1868) führte ab 1846 eine deutsche Buchhandlung und Leihbibliothek an der Piazza San Marco in Venedig. 1850 eröffnete er eine Buchhandlung in der Via Lastricata Nuova in Verona. Im März 1859 stieg sein Bruder Max in die Firma ein.</note></seg>, e lo Spithover in Roma, mediatore fra la letteratura d’Italia, e quella della <placeName key="G000664">Germania</placeName>. Egli probabilmente sarà il primo libraio venuto a stabilirsi in Bologna, e, perchè io da quattro anni pratico il negozio dello Spithover, ben informarmi potevo come dei talenti, cosi dell’ottimo contegno di questo giovane; cosichè spero che ne potrà tornar qualche vantaggio per il commercio letterario di ambedue le nazioni, fra cui anche pel mezzo di librai viepiù va aumentandosi la comunicazione scientifica. Io mi prendo per questi riguardi la libertà di raccomandare il proposito di questo libraio alla di lei protezione, Signor Conte, in quanto Ella si compiacerà di onorarlo dei suoi favori: la medesima preghiera le avrebbe fatto pure il <seg type="comment"><orig><persName key="G001483">Conte Perez</persName>, che ben conosce il signor Glück</orig><note xml:id="nt51_jdj_tlb">Die Bekanntschaft mit Hugo Glück wird Paolo Perez (1822–1879), ein enger Freund von Gregorovius, in Rom vor seinem Eintritt in den Orden der Rosminianer in Stresa 1856 gemacht haben.</note></seg>. So bene che il passo di stabilirsi come libraio in una città da lui sconosciuta alle prime per un forestiere, non sarà tanto facile; ma i soccorsi di relazioni letterarie saranno sempre grandi rispetto ad una università, quale è quella di Bologna.</p>
+<p>Speravo di poter mandarle pel mezzo di questo libraio una copia delle mie <bibl sameAs="G003430">Tombe</bibl> ma si fanno aspet-<pb n="191"/>tare; in poche settimane però io avrò l’onore di presentarle questo piccolo omaggio della profondissima stima, con cui ho la soddisfazione di sottoscrivermi di Lei servitor devotissimo.</p>
+</div>
+        </body>
+    </text>
+</TEI>

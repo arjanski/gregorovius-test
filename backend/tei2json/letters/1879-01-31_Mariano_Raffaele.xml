@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_y43_pbv_llb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Rom. München, 31. Januar 1879</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="restricted"><licence target="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International (CC BY 4.0) </licence></availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 PK, 1 S. – 1v, Adr.: Al Signor Raffaele Mariano / <hi rendition="#u" hand=""><hi rendition="#u" hand="">Roma</hi></hi> / Via Gregoriana n<ex>umero</ex> 13.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er teilt die Verschiebung seiner Rom-Reise um einige Tage mit; Mariano soll sich weiterhin um die Anmietung einer Unterkunft kümmern. Er wird mit dem Verleger Nicola Zanichelli hinsichtlich der Veröffentlichung von Marianos Schrift „Cristianesimo, cattolicesimo e civiltà“ (1879) in Kontakt treten. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1879-01-31" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840-1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<salute> Lieber Freund,</salute>
+</opener>
+                <p>ich habe gestern Ihren Brief erhalten u<ex>nd</ex> eile<del rendition="#s">n</del> Ihnen mitzuteilen, <seg type="comment"><orig>daß ich meine Reise um 10 Tage aufgeschoben habe</orig><note xml:id="nvrq_n3j_1mb">In seinem vorangehenden Brief hatte Gregorovius Mariano über seine Reisepläne Anfang Februar informiert. Ursprünglich hatte er vorgesehen, München am 2. Februar zu verlassen und so schnell als möglich nach Rom zu reisen. In dem Schreiben hatte er Mariano auch um die Organisation einer Unterkunft gebeten; siehe den Brief von Gregorovius an Raffaele Mariano vom 16.1.1879.</note></seg>. Bitte also nichts zu fixiren. Ich werde Ihnen <seg type="comment"><orig>von <hi rendition="#aq"><placeName key="G000729">Modena</placeName></hi> aus</orig><note xml:id="nuwz_43j_1mb">Nach seiner Abreise am 6. Februar fuhr Gregorovius über Mantua, wo er sich einen Tag aufhielt, nach Modena. Auch dort arbeitete er im Archiv für seine Studien zum Dreißigjährigen Krieg (Urban VIII. im Widerspruch zu Spanien und dem Kaiser. Eine Episode des dreißigjährigen Kriegs. Stuttgart: Cotta 1879), verblieb für mehrere Tage in der Stadt (vgl. RT, Romfahrt, 1879, S. 411).</note></seg> schreiben. Natürlich wäre es mir sehr erwünscht, wenn ich <seg type="comment"><orig>bei der <hi rendition="#aq"><persName key="G001016">Campofregoso</persName></hi> </orig><note xml:id="nujk_q3j_1mb">In der Via di Ripetta Nr. 108 hatte Gregorovius einst zeitweise im Haus des Marchese und Capitano Luigi Campofregoso (1844–1908) gewohnt. Quartier bezog er auf dieser Romreise in der von Mariano angemieteten Wohnung im dritten Stock der Via Babuino 78, bei einer gewissen Frau Alessio.</note></seg>unterkommen könnte, u<ex>nd</ex> die dortige Wohnung nicht zu teuer ist. Gegen den 15. Febr<ex>uar</ex> könnte ich <seg type="comment"><orig>in Rom eintreffen</orig><note xml:id="nefl_r3j_1mb">Nach den beiden Archivaufenthalten in Mantua und Modena unterbrach Gregorovius seine Fahrt nach Rom für kurze Zwischenhalte in Bologna und Florenz. Mariano empfing ihn am 16. Februar in Rom (siehe RT, Romfahrt, 1879, S. 411). </note></seg>. Ich freue mich sehr über die Sie selbst betreffenden Mitteilungen. Wenn irgend möglich <seg type="comment"><orig>werde ich <hi rendition="#aq"><orgName key="G000537">Zannicheli</orgName></hi> aufsuchen</orig><note xml:id="nyxq_s3j_1mb">Er bezieht sich auf die bei Zanichelli in Bologna in Druck gegangene Schrift Marianos „Cristianesimo, cattolicesimo e civiltà“ (1879); siehe dazu den Brief von Gregorovius an Raffaele Mariano vom 30.7.1878. Bei dem Verleger, den er in Modena treffen wird, kann Gregorovius in der Sache eine Beschleunigung erwirken; siehe den Brief von Gregorovius an Raffaele Mariano vom 10.2.1879. Der aus Modena stammende Verleger Nicola Zanichelli (1819–1884) war Gründer und Geschäftsführer des gleichnamigen Verlags. 1866 erwarb er in Bologna eine Buchhandlung und transferierte seinen Verlag in die Universitätsstadt. </note></seg>. </p>
+                <closer>
+<salute>Die <persName key="G001203"><persName key="G001111"><persName key="G001109">Meinigen</persName></persName></persName> grüßen Sie mit mir auf das herzlichste</salute>
+<dateline>München 31. Jan<ex>uar </ex></dateline>
+<signed rendition="#right">FGr </signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

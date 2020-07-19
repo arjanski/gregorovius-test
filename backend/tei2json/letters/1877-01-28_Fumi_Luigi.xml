@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067873">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Luigi Fumi in Orvieto. München, 28. Januar 1877 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Archivio Fumi</repository><collection>Sezione di Archivio di Stato di Orvieto Crispino Ferri, Carteggio di Luigi Fumi</collection><idno>Busta 3, Fascicolo 40</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 12°, 4 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für Fumis Studie „Alessandro VI. e il Valentino in Orvieto“ (1877), die er für die dritte Auflage seiner „Geschichte der Stadt Rom im Mittelalter“ (1875–1881) nutzen will – deren erster Band (1875) ist bereits erschienen, der zweite und dritte Band (1876) wird in Kürze ausgegeben. Fumis Buch ist ein Beleg für den reichen Bestand des Archivs in Orvieto und seine verdienstvolle Arbeit als Archivar, der sich mit seiner Neuordnung der Dokumente und als Geschichtsforscher umbrischer und toskanischer Städte einen Namen gemacht hat. Seinen Brief lässt er durch Cesare Foucard überbringen. Auf seinem Weg nach Rom wird er vielleicht in Orvieto Halt machen. Grüße an den Unterpräfekten und den Bürgermeister von Orvieto.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1877-01-28" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001152">Fumi, Luigi (1849-1934)</persName>
+<placeName key="G000648">Orvieto</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Monaco in Baviera <lb/> 28. Gen<ex>naio</ex> 77.</dateline>
+                    <salute rendition="#c">Gentilissimo <seg type="comment"><orig>Signor Fumi</orig><note xml:id="ncm3_sq3_1mb">Conte Luigi Fumi (1849–1934) war Historiker und Archivar und in dieser Funktion seit Oktober 1876 im Staatsdienst, als Präfekt des Archivio storico municipale di Orvieto, tätig. Er war außerdem Mitglied der Regia Deputazione di Storia Patria di Torino. Gregorovius hatte Fumi im März 1875 in Orvieto kennengelernt und seit diesem Treffen zweimal brieflich kontaktiert; siehe die Briefe von Gregorovius an Luigi Fumi vom 6.6.1875 und vom 21.11.1875.</note></seg>,</salute>
+                </opener>
+<p>la ringrazio caramente della buona memoria, che serba di me, come testè l’ha dimostrato per mezzo del suo opuscolo<seg type="comment"><orig> „<bibl sameAs="ed_ogm_xjx_qlb">Alessandro VI e il Valentino in Orvieto</bibl>.“</orig><note xml:id="ngpl_tq3_1mb">Alessandro VI. e il Valentino in Orvieto. Notizie storiche raccolte da documenti inediti per le nozze del cav. G. Francesco Gamurrini, patrizio aretino, con la signora Anna Giulietti di Orvieto. 15 Gennaio 1877. Siena: Tipografia di Luigi Lazzeri 1877: https://books.google.it/books?id=lwn7trwxFN4C&amp;printsec=frontcover&amp;dq=luigi+fumi+alessandro+vi&amp;hl=de&amp;sa=X&amp;ved=0ahUKEwj11ZL-heDnAhU18aYKHfr4AuAQ6AEIKzAA#v=onepage&amp;q&amp;f=false. </note></seg> Me ne congratulo con lei: codesto lavoro è, fra <seg type="comment"><orig>tante altre dimostrazioni già fatte da lei</orig><note xml:id="nmpr_5q3_1mb">Fumi hatte bislang vor allem zur Geschichte verschiedener umbrischer und toskanischer Städte geforscht; siehe beispielsweise: Degli orvietani ascritti all’ordine equestre di S. Stefano in Toscana. Cenni storici. Pisa: Tipografia Nistri 1870; Gli statuti di Chianciano dell’anno 1787. Orvieto: tip. E. Tosini 1874.</note></seg>, una nuova testimonianza della sua attività nel trar <pb n="1v"/>profitto della ricchezza non ancora bene esplorata dell’<orgName key="ed_zj1_fhh_zkb">Archivio Orvietano</orgName>: e cosi vieppiù mi rallegro della buona sorte, che finalmente arride a quello, di aver trovato nella sua persona <seg type="comment"><orig>un riordinatore</orig><note xml:id="nq4y_vq3_1mb">Von 1873–1875 hatte Fumi die Neuordnung des Archivio segreto del comune d’Orvieto besorgt. Auch in späteren Jahren und in anderen Einrichtungen machte sich Fumi einen Namen durch Sortierung der Bestände.</note></seg>, di cui esso aveva bisogno. I documenti <add place="superlinear">da lei</add> tratti alla luce contribuiscono da lor parte <seg type="comment"><orig>a rischiarare meglio alcuni punti della <bibl corresp="G003507">storia dei Borgia</bibl></orig><note xml:id="nkrh_xq3_1mb">1875 hatte Gregorovius bereits die dritte, vermehrte Auflage seiner „Lucrezia Borgia“ (2 Bde. in 1) bei Cotta in Stuttgart herausgegeben. </note></seg>, e va senz’ altro dire, che <pb n="2r"/>me ne rallegro vivamente, e me n’aprofitterò per la terza edizione della mia storia di Roma, della quale oramai <seg type="comment"><orig>è uscito il <bibl corresp="G003483">primo volume</bibl></orig><note xml:id="njrl_yq3_1mb">Die dritte, verbesserte Auflage des ersten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ war 1875 erschienen.</note></seg>, e <seg type="comment"><orig>stanno per uscire <bibl corresp="G003471 G003478">altri due</bibl></orig><note xml:id="nc2k_zq3_1mb">Die dritte, verbesserte Auflage von Band zwei und drei der „Geschichte der Stadt Rom im Mittelalter“ war 1876 von Cotta herausgegeben worden. Noch in diesem Jahr sollte die dritte, verbesserte Auflage des vierten Bandes erscheinen.</note></seg>. </p>
+<p>Sarebbe un bel lavoro tutto conveniente alla posizione che <add place="superlinear">lei</add> occupa in Orvieto, di intraprendere cioè la storia della sua patria, fondata sui documenti: almeno faccio voti, che un dì s’accinga <seg type="comment"><orig>a questa impresa</orig><note xml:id="njy4_1r3_1mb">Eine weitere Quellenstudien zu Orvieto sollte Fumi 1884 publizieren: Codice diplomatico della città d’Orvieto. Documenti e regesti dal secolo XI al XV e la carta del popolo codice statutario del comune di Orvieto. Florenz: G.P. Vieusseux.</note></seg>. </p>
+<p><seg type="comment"><orig>Il mio amico <persName key="G001134">Foucard</persName></orig><note xml:id="nl2w_br3_1mb">Mit dem Archivar und Direktor des Staatsarchivs Modena Cesare Foucard (1825-1892) war Gregorovius seit 1873 befreundet, übernachtete regelmäßig bei diesem; siehe dn Brief von Gregorovius an Giovanni Gozzadini vom 26.6.1873. </note></seg> <pb n="2v"/>avrà la bontà di spedirle questa mia, poichè non so precisamente per dove indirizzarla, essendo che <seg type="comment"><orig>la sua lettera porta la data di <placeName key="G000871">Siena</placeName></orig><note xml:id="nozm_gr3_1mb">Es sind keine Briefe von Fumi an Gregorovius erhalten. Als Archivar im Staatsdienst arbeitete Fumi im Laufe der Jahre auch in Siena, weshalb die Stadt als Sendeort einer seiner Briefe nicht erstaunlich ist. </note></seg>. </p>
+<p>Sto per ritornare alla diletta <placeName key="G000763">Roma</placeName>: e forse per via, <seg type="comment"><orig>ovvero costì avrò il bene di salutarla in persona</orig><note xml:id="ncsq_hr3_1mb">Gregorovius verließ München am 1. Februar 1877 in Richtung Italien, von wo bis Anfang Juni blieb (siehe RT, S. 372–379). Ein Aufenthalt in Orvieto oder ein Treffen mit Fumi sind für die Zeit nicht nachweisbar.</note></seg>. Per altro sto tanto malfermo di salute, massimamente <seg type="comment"><orig>per causa di un mal d’occhio</orig><note xml:id="nl3r_3r3_1mb">Gregorovius litt bereits seit einiger Zeit an einem Augenkatarrh.</note></seg>, che il mio viaggio mi costerà qualche disturbo. Con pregarla, di portare i miei rispetti <seg type="comment"><orig>al Signor Sottoprefetto e al Sig<ex>nor</ex> Sindaco di Orvieto</orig><note xml:id="nutx_kr3_1mb">Nicht ermittelt. Zwei Jahre zuvor hatte Gregorovius den Unterpräfekten und den Bürgermeister der Stadt über Fumi kennengelernt (siehe RT, 31.3.1875, S. 349).</note></seg>, mi raffermo con verace stima il suo</p>
+                <closer>
+<signed rendition="#c">Ferd. Gregorovius. </signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

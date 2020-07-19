@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000208">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Baden-Baden. München, 22. Dezember 1876</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt></titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er ist überrascht, dass die deutsche Übersetzung von Marianos „Roma nel medioevo“ (1873) von Adelheid Grunelius stammt. Er hatte erstmals durch Wilhelm Lang von dem Übersetzungsvorhaben erfahren. Marianos Studie ist ihm ein Denkmal der Freundschaft, so dass er sich um deren Verbreitung persönlich nicht kümmern konnte. Gleichwohl hatte er sich um eine Besprechung in der „Allgemeinen Zeitung“ bemüht. Er hält die zu philosophische Behandlung des Stoffs für den deutschen Markt nach wie vor für ungeeignet. Dennoch will er die Revision der Übersetzung übernehmen. Stimmt Adelheid Grunelius zu, soll Mariano von Wilhelm Lang das Manuskript einfordern..</p>
+<p xml:lang="en"/>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1876-12-22" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000623">Baden-Baden</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">20. Dezember 1876</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline>München, 22. De<ex>cem</ex>b<ex>e</ex>r 1876.</dateline>
+<salute rendition="#c">Lieber Freund Mariano,</salute>
+</opener>
+<p>so eben, Abends 7 Uhr habe ich <seg type="comment"><orig>Ihren Brief</orig><note xml:id="nnks_dgw_zlb">Siehe den Brief von Raffaele Mariano an Ferdinand Gregorovius, 20.12.1876 in Alessandro Savorelli: Dal carteggio di Raffaele Mariano. In: Giornale critico della filosofia italiana. Jg. 72 (74). Ser. 6. Bd. 13. Florenz 1993. S. 221ff.</note></seg> erhalten u<ex>nd</ex> gelesen. Die Erregung, welche aus ihm spricht, bedrückt mich, besonders weil Sie leidend sind – ich antworte Ihnen daher gleich, in der Hoffnung, daß der Brief noch die Post erreicht.</p>
+<p>Ich wußte nicht, daß <seg type="comment"><orig>Frau <persName key="G001215">G<ex>runelius</ex></persName></orig><note xml:id="ngqs_2gw_zlb">Die in Baden-Baden wohnhafte Adelheid Grunelius, geb. Fecht (1813–1887), Witwe des Frankfurter Bankiers Moritz Eduard Grunelius (1803–1846) und Mutter von Wilhelmine Tachard-Grunelius (1836–1927), die seit 1851 immer wieder für längere Aufenthalte nach Rom gekommen war. Gregorovius scheint sie erst bei einem Romaufenthalt von November 1861 bis Mai 1862 kennengelernt zu haben; es entwickelte sich schnell ein freundschaftliches Verhältnis. Später besuchte Gregorovius sie des Öfteren in der Villa Grunelius in Baden-Baden.</note></seg> <seg type="comment"><orig>die Übersetzerin </orig><note xml:id="nxsn_fgw_zlb">Die von Adelheid Grunelius angefertigte Übersetzung Raffaele Marianos „Roma nel medievo“ (1873) erschien nie im Druck. Gregorovius hielt die Übersetzung zu mangelhaft und Marianos Umgang mit Geschichte für zu philosophisch für den deutschen Markt (siehe den Brief von Gregorovius an Raffaele Mariano, 12.1.1877).</note></seg>war.</p>
+<p>Ich wußte nicht, daß dieselbe selbst den Ausfall buchhändlerischer Einnahme zu tragen entschlossen ist.</p>
+<p>Als ich von der Sache durch <seg type="comment"><orig><persName key="G001354">Lang</persName></orig><note xml:id="na4j_ggw_zlb">Der Stuttgarter Publizist und Schriftsteller Wilhelm Lang (1832–1915) vermittelte Adelheid Grunelius’ Übersetzung an den Brockhaus-Verlag. Zuvor hatte er bereits eine Rezension von Gregorovius’ „Lucrezia Borgia“ (1874) unter dem Titel „Aus dem Zeitalter der Renaissance“ veröffentlicht (in: Im neuen Reich. Wochenschrift für das Leben des deutschen Volkes in Staat, Wissenschaft und Kunst. Jg. 7. Bd. 2. Leipzig: Hirzel 1874. S. 321–327). </note></seg> erfuhr, statt durch Sie, mußte ich mich verwundern; denn ich kannte ja die Gründe Ihres Schweigens nicht.<pb n="1v"/>Ihr <bibl sameAs="G004780">Buch</bibl> war mir stets ein teures Denkmal Ihrer Freundschaft wie Ihres Talents. Wenn ich nicht viel davon geredet habe, so kennen Sie ja meine schweigsame Art.</p>
+<p>Ich hatte erst gewünscht, es bekannt zu machen; da ich selbst persönlich zu sehr dabei beteiligt war, durfte ich es nicht anpreisen; <?oxy_comment_start author="Angela Steinsiek" timestamp="20200703T153058+0200" comment="siehe die Briefe von Gregorovius an Cotta! Bitte kommentieren!"?>ich wandte mich an Freunde in <placeName key="G000879">Stuttgart</placeName> deshalb<?oxy_comment_end?>: sie thaten nichts dafür.</p>
+<p>Ich kam zu der Ansicht, daß die Behandlung des Stoffes <hi rendition="#u" hand="">zu</hi> philosophisch ist; ich bin noch heute dieser Meinung, denn ich kenne das heutige <placeName key="G000664">Deutschland</placeName>, welches sich dem Realismus zugewendet hat. Ich fürchtete darum, daß Ihr Buch trotz des Geistes <pb n="2r"/>u<ex>nd</ex> Gedankenreichtums, der darin besteht nicht in Deutschland gut würde aufgenommen werden.</p>
+<p>Als mir <persName key="G000995">Brockhaus</persName> schrieb, kam ich in Verlegenheit. Er verlangte von mir, daß ich eine Einleitung dazu schreiben sollte, u<ex>nd</ex> ich argwohnte, daß die Übersetzung mangelhaft sei. Wenn sie aber so ist, so wäre es schade; denn eine schlechte Übersetzung bringt Ihr Buch um jede Wirkung.</p>
+<p>Brockhaus schrieb mir vorgestern: „Unter Voraussetzung einer den Ansprüchen genügenden deutschen Übersetzung würde ich wol nicht anstehen, das Buch zu verlegen“.</p>
+<p>Jetzt, lieber Freund, ist die Hauptsache, die Übersetzung zu revidiren. Ich glaube, Frau Grunelius, welche einen Anspruch <pb n="2v"/>macht ein Autor zu sein, wird auf meinen Vorschlag eingehen, die Übersetzung mir anzuvertrauen, damit ich <del rendition="#s">sie</del> selbst <add place="superlinear">sie</add> revidire.</p>
+<p>Dies fragen Sie dieselbe. Ich thue es nicht gern; stimmt sie ein, so mögen Sie Lang schreiben, daß er das Manuscript mir zuschickt.</p>
+<p>Ich erhielt heute Frau Gr<ex>unelius</ex> Brief. Empfehlen Sie mich dort sehr – ich muß zur Post mit diesem Briefe. Ich schreibe bald an Frau G<ex>runelius</ex>.</p>
+<closer>
+<salute>Leben Sie wol, <add place="intralinear">Freund</add> Mariano – kein Mißtrauen – guten Mut – gute Gesundheit u<ex>nd</ex> schöne Feste! Ihr</salute>
+<signed rendition="#right">FGr</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

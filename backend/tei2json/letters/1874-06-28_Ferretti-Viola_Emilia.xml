@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000314">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Emilia Ferretti Viola in Florenz. Rom, 28. Juni 1874</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+                <respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Mailand, Museo del Risorgimento</repository><collection>Cartella G4</collection><collection>numero di carico 31621</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 1 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er fragt, ob sie ihr Rezensionsexemplar seiner „Lucrezia Borgia“ (1874) erhalten hat. Im Verlustfall wird er ihr ein Exemplar nachschicken, damit sie ihren angekündigten Beitrag („La Verità Storica Intorno a Lucrezia Borgia“, 1874) verfassen kann.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName>
+                    <date when="1874-06-28" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001129">Ferretti Viola, Emilia (1844–1929)</persName>
+<placeName key="G000671">Florenz</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Roma, 28. Giugno 1874.</dateline>
+                    <salute>Gentilissima <seg type="comment"><orig>Signora</orig><note xml:id="nxpw_r53_zlb">Emilia Ferretti Viola (1844–1829), geb. Viola, war Schriftstellerin und Feministin. Sie schrieb unter dem Pseudonym Emma. Bekannt wurde sie 1874 mit ihrer Erzählung „Una fra tante“, die in der „Nuova antologia di scienze, lettere ed arti“ erschien; (Vol. 25, S. 109–150, 380–415). Thema ihrer Erzählung ist die weibliche Prostitution. Emilia Ferretti Viola stammte aus einer kultivierten und aufgeklärten Familie des gehobenen Bürgertums. Ihre Mutter, Saulina Viola-Barbavara (1812–1887), war eine bekannte Mailänder Salonnière des Risorgimento. Ferretti Viola hatte bereits 1872 über Gregorovius in der „Nuova Antologia“ geschrieben: Viaggi in Italia di Ferdinando Gregorovius. In: Nuova Antologia di Scienze, Lettere ed Arti. Bd. 20. Florenz: Nuova Antologia 1872. S. 838–856.</note></seg>,</salute>
+                </opener>
+<p>nell’ultima sua lettera che mi capitò in <placeName key="G000737">Napoli</placeName>, <seg type="comment"><orig>Ella promise di scrivermi di nuovo non appena le fosse giunta quella copia della <bibl corresp="G003510">Lucrezia Borgia</bibl></orig><note xml:id="nsbz_t53_zlb">Mit seinem Brief vom 4.5.1874 hatte Gregorovius Emilia Ferretti Viola (1844–1929) die Übersendung des Rezensionsexemplars seiner „Lucrezia Borgia“ (1874) angekündigt. </note></seg>, che doveva esserle spedita da <placeName key="G000879">Stuttgart</placeName> per via dell’ufficio della <orgName key="G000538">N<ex>uova</ex> A<ex>ntologia</ex> </orgName>. Avrò dunque da assumere dal suo silenzio, che codesta copia non è giunta punto alle sue mani? Me ne dorrebbe assai, ma in tal caso la colpa della ritardanza non sarà la mia.</p>
+<p>Intanto prego la S<ex>ignoria</ex> V<ex>ostra</ex> di attendere altri sei giorni ancora; se, trascorsi questi, la copia non sarà arrivata, Ella me ne dia avviso con due righe, acciochè io possa spedirle il libro direttamente da Roma, essendomene rimasta qui una copia <seg type="comment"><orig>di <bibl sameAs="G003509">prima edizione</bibl></orig><note xml:id="nbp1_v53_zlb">Die ersten beiden Auflagen der „Lucrezia Borgia“ erschienen 1874.</note></seg>.</p>
+<p>Niuna cosa mi sarà tanto grata, quanto il veder onorato il mio libro con <bibl corresp="G002838"><seg type="comment"><orig>un articolo, che Ella promette</orig><note xml:id="nnsj_w53_zlb">Unter der Verfasserangabe Emma erschien Ferretti Violas Rezension „La Verità Storica Intorno a Lucrezia Borgia“ in der „Nuova Antologia di Scienze, Lettere ed Arti“ (Bd. 26, 1874. S. 573–608) – noch im gleichen Jahr verfasste Raffaele Mariano mit „La Lucrezia Borgia del Gregorovius nella Nuova Antologia“ in „Il Diritto. Giornale della Democrazia Italiana“ (Jg. 21. Nr. 193. Rom 12. Juli 1874. S. 3) eine Replik auf Ferretti Violas Rezension (siehe auch den Brief von Gregorovius an Mariano, 14.7.1874).</note></seg></bibl> così gentilmente dedicargli. E qui potrei stendermi molto sulle sue rare qualità letterarie, però convien meglio tacermi con un profondo inchino</p>
+                <closer>
+                    <salute rendition="#right">quale servitor suo sinceramente devoto</salute>
+                    <signed rendition="#c">Ferd. Gregorovius.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_lpj_nsn_fmb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Contessa Ersilia Caetani Lovatelli in Agnani. Traunstein, 31. Juli 1881</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free">
+                <licence target="http://creativecommons.org/licenses/by/4.0/">
+                    Creative Commons Attribution 4.0 International (CC BY 4.0)
+                </licence>
+            </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark"><idno><idno type="shelfmark">Karton 59, Mappe 348 (nach D)</idno> </idno></idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"><bibl type="print">Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli. Hrsg. von Sigmund Münz. Berlin: Paetel 1896. S. 103–105</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Nach Vollendung der dritten Auflage seiner „Geschichte der Stadt Rom im Mittelalter“ (Bd. 8, 1881) arbeitet er an der vierten Auflage (Bd. 1, 1886) sowie an einer neuen Version seiner „Geschichte des römischen Kaisers Hadrian und seiner Zeit“ (1851), die unter dem Titel „Der Kaiser Hadrian. Gemälde der römisch-hellenistischen Welt zu seiner Zeit“ 1884 erscheinen wird. Er dankt für Informationen zum Tempel der römischen Famili Flavius. Pasquale Adinolfis „Roma nell’età di mezzo“ (2 Bde., 1881–1882) wünscht er trotz seiner Mängel eine positive Rezeption. Er fragt, ob sein aus Korfu stammender Bekannter Johannes Romanós eine aus dessen Heimat stammende Inschrift im Konservatorenpalast in Rom kopieren konnte. Von der Commissione Archeologica Comunale di Roma hält er nur Giovanni Battista De Rossi für großzügig genug, dies zugelassen zu haben. In Traunstein wird er mit Familie Erhardt und Karl Lindemann-Frommel zusammentreffen. Die Familie der Gräfin weiß er in Anagni, durch Papst Bonifatius VIII. schicksalsträchtiger Ort für die Familie Caetani.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000888">Traunstein</placeName><date when="1881-07-31" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001011">Caetani Lovatelli, Ersilia contessa (1840-1925)</persName>
+<placeName key="G067780">Anagni</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">3. Juli 1881 (BSB München, NL Gregorovius, Gregoroviusiana 21) </ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="103"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Traunstein in Bayern, 31. Juli 1881.</dateline>
+                    <salute rendition="#c">Verehrteste Frau Gräfin,</salute>
+                </opener>
+<p><seg type="comment"><orig>Ihr lieber Brief</orig><note xml:id="nfmd_4vn_fmb">Die Gräfin hatte ihm in einem Schreiben vom 3. Juli 1881 (BSB München, NL Gregorovius, Gregoroviusiana 21 – h: GhStA Berlin, NL Waldemar Kampf, Karton 86, Mappe 6) auf seine Fragen geantwortet; siehe den Brief von Gregorovius an Ersilia Caetani Lovatelli vom 26.6.1881.</note></seg> war mir dermaßen angenehm, daß ich mich schäme, Ihnen nicht früher als heute den schuldigen Dank <pb n="104"/>abgestattet zu haben. Ich litt an einer langandauernden Indisposition und vielen Beschwerden, die mich am Schreiben hinderten.</p>
+<p>Ich obliege der Revision meiner <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Geschichte der Stadt Rom im Mittelalter</bibl>, <seg type="comment"><orig>die ich für einen Neudruck vorbereite</orig><note xml:id="ncck_pvn_fmb">Die vierte, verbesserte Auflage vom ersten Band seiner „Geschichte der Stadt Rom im Mittelalter“ erschien 1886 (Stuttgart: Cotta). </note></seg>. Seit 1875, als ich die Arbeit für <seg type="comment"><orig>die <bibl corresp="G003436 G003443 G003450 G003457 G003464 G003471 G003478 G003483">dritte Auflage</bibl></orig><note xml:id="nn3h_svn_fmb">1881 vollendete er mit dem achten Band die dritte Auflage.</note></seg> der Prüfung unterzog, bis heute sind so viele neue Publikationen über das römische Mittelalter erschienen, <seg type="comment"><orig>daß ich fast darüber erschrecke</orig><note xml:id="nccl_tvn_fmb">Gregorovius war sehr viel daran gelegen, seine Bücher regelmäßig mit dem neusten Forschungsmaterial und hinzugewonnenen Entdeckungen zu aktualisieren.</note></seg>. Wie <placeName key="G000619">Athen</placeName>, so ist auch <placeName key="G000763">Rom</placeName> die privilegirte Stadt, zu deren Verherrlichung alle Nationen beigetragen. Der Geschichtschreiber befindet sich demnach, wenn er gewissenhaft ist, in einem wahren<seg type="comment"><orig> <foreign xml:lang="fra">embarras de richesse</foreign></orig><note xml:id="nn5h_5vn_fmb">Fr. für: überflüssige Vielzahl an Möglichkeiten.</note></seg>.</p>
+<p>Auch genügt mir nicht das Mittelalter, denn einer unerwarteten Kombination zufolge muß ich die gleiche Operation an einer <bibl sameAs="G003100">Monographie</bibl> von mir über den <persName key="ed_vft_15n_fmb">Kaiser Hadrian</persName> vornehmen. <seg type="comment"><orig>Auch diese muß in neuem Kleide wiedererscheinen</orig><note xml:id="nzny_vvn_fmb">„Da sie meine erste wissenschaftliche Jugendarbeit, zumal in Königsberg, gewesen ist, wo damals die Bibliothek sehr dürftig ausgestattet war, so muß ich das Buch ganz neu schreiben. Auch in der Form ist es so ungenügend, daß ich kaum einen Satz stehenlassen kann.“ (RT 1881, S. 424). Unter dem neuen Titel „Der Kaiser Hadrian. Gemälde der römisch-hellenistischen Welt zu seiner Zeit“ sollte die zweite ,neugeschriebene‘ Auflage seiner Hadrian-Monographie 1884 bei Cotta in Stuttgart erscheinen.</note></seg>. </p>
+<p><seg type="comment"><orig>Ich danke Ihnen sehr für die mir erteilte Information</orig><note xml:id="nhbd_bwn_fmb">Gregorovius hatte die Gräfin um Auskunft zur ursprünglichen Lage des unter Domitian (51–96 v. Chr.) erbauten Tempel der Familie Flavius, lat. Templum Gentis Flaviae, gebeten. Dieser hatte sich auf dem Quirinale und zwar an der Stelle von Domitians Vaterhaus befunden. Hier wurden die Familienmitglieder begraben. Caetani Lovatelli verweist in ihrer Antwort auf dessen Standort an der Stelle des neuen Finanzministeriums. Siehe dazu den Brief von Gregorovius an Ersilia Caetani Lovatelli vom 26.6.1881. </note></seg> über die Lage des <placeName key="ediarum_n4j_5yc_fmb">Tempels der<seg type="comment"><orig> <foreign xml:lang="Lat">Gens Flavia</foreign></orig><note xml:id="nj1h_xvn_fmb">Lat. für: Familie Flavius.</note></seg></placeName>, wie sie gelegentlich des Umgrabens beim Baue des <placeName key="ediarum_nsn_j5n_fmb">Palastes</placeName> des modernsten<seg type="comment"><orig> <foreign xml:lang="Lat">Comes Largitionum</foreign></orig><note xml:id="nrht_yvn_fmb">Ursprünglich ein römischer Amtstitel, der mit dem Anhang „sacrarum largitionum“ den Verwalter des kirchlichen Finanzwesen bezeichnete. Hier ist der Palazzo delle Finanze in der via XX Settembre gemeint, der als erster neuer Ministerialbau im Zuge der Umbauten Roms zur Hauptstadt des Königreichs Italien errichtet worden war.</note></seg> bestimmt wurde. </p>
+<p>Ich habe das <bibl sameAs="ed_tmg_n5n_fmb">Buch Adinolfis</bibl> durchgeblättert, das vortrefflich das Wesen <seg type="comment"><orig>jenes merkwürdigen <persName key="ed_kzf_s5n_fmb">Mannes</persName></orig><note xml:id="nlyb_dwn_fmb">Pasquale Adinolfi (1816–1882) war Priester und Archäologe sowie seit 1870 Mitglied der Consulta araldica und 1877 Gründungsmitglied der Società romana di storia patria. Sein zweibändiges Werk „Roma nell’età di mezzo“ gilt als sein Hauptwerk, für das er bekannt ist.</note></seg> zeigt, welcher der letzte Sprößling eines Stammes unermüdlicher römischer Arbeiter im Abate-Mäntelchen ist. Dieser Stamm ist nun ausgestorben. <seg type="comment"><orig>Wiewohl das Buch ungeschlachtes und unverdautes Zeug enthält, ist es dennoch sehr wertvoll, denn es bietet den Historikern nicht wenige kostbare Aufklärungen</orig><note xml:id="ndvg_fwn_fmb">Bei der Arbeit handelt es sich um eine exakte topographische Beschreibung Roms im 14. und 15. Jahrhundert, für welche Adinolfi über drei Jahrzehnte in den städtischen Archiven und Bibliotheken geforscht hatte. Kritik an Adinolfis Geschichte waren die fehlende kritische Methode und sein Verzicht auf eine Bibliographie der behandelten Themen.</note></seg>. Ich wäre <pb n="105"/>zufrieden, wenn Adinolfi eine solche Aufnahme fände, daß er Muth faßte, seine Studien fortzusetzen. </p>
+<p>Und ist <seg type="comment"><orig>mein <persName key="ed_ow3_dxc_fmb">korfiotischer Freund</persName>, der gute Phäake</orig><note xml:id="nbjm_hwn_fmb">Er meint den aus Korfu stammenden Wissenschaftler Johannes Romanós (1836–1892), der bereits in seinem letzten Brief an die Gräfin zur Sprache kommt und den er ihr als einen neuen wichtigen Korrespondenten zu seinen griechischen Forschungen vorstellt; siehe den Brief von Gregorovius an Ersilia Caetani Lovatelli vom 26.6.1881. In dem Schreiben hatte er Romanós Kommen nach Rom angekündigt, wo dieser eine Inschrift Korfus kopieren wollte, wofür sich Gregorovius das Wohlwollen der Commissione Archeologica Comunale di Roma erhoffte. </note></seg>, in Rom aufgetaucht und hat er die <orgName key="ed_otr_pyc_fmb">archäologische Kommission</orgName> genug weitherzig gefunden? Wenn es ausschließlich von <seg type="comment"><orig>der Hochherzigkeit <persName key="G001085">Gian Battista De Rossi’s</persName></orig><note xml:id="ntj5_3wn_fmb">Der von Gregorovius sehr geschätzte, römische Archäologe Giovanni Battista De Rossi (1822–1894), mit er in brieflichem Kontakt stand.</note></seg> abhinge, so wäre Romanós, ich bin überzeugt davon, mit seiner Absicht, <seg type="comment"><orig>den griechischen Marmor zu kopieren</orig><note xml:id="nnsc_lwn_fmb">Die Gräfin hatte in ihrer Antwort an Gregorovius bereits darauf verwiesen, dass Romanós kaum mit der Zustimmung der Kommission, die Inschrift kopieren und publizieren zu dürfen, rechnen könne, da diese eigene Forschungen dazu verfolge.</note></seg>, vollständig durchgedrungen. </p>
+<p>Seit vorgestern erst weile ich in diesem Traunstein, das Ihnen bereits als meine gewöhnliche Villeggiatur bekannt ist. Auch meine Freunde <persName key="G001116"><persName key="G001115"><persName key="G001114">Erhardt’s</persName></persName></persName> aus Rom haben hier Wohnung genommen, und auch <persName key="G001375">Lindemann</persName> wird erwartet. So werden wir eine wahrhaft erneute römische Kolonie in einer Gegend bilden, die noch immer die Spuren der alten römischen Kolonisatoren bewahrt. Sie indessen mit Ihrer lieben <persName key="G001004">Familie</persName> genießen von neuem die seligen Lüfte <placeName key="G000844">Latiums</placeName>, da Sie Ihren Thron in<seg type="comment"><orig> <foreign xml:lang="Lat">capite pontis</foreign></orig><note xml:id="nfcb_mwn_fmb">Lat. für: an dem Brückenkopfe.</note></seg> aufgeschlagen haben, – einer <seg type="comment"><orig>Stelle, die an Ihren unglücklichen <persName key="ed_sgj_jvn_fmb">Papst</persName> erinnert</orig><note xml:id="nxbm_pwn_fmb">Papst Bonifatius VIII., der als Benedetto Caetani (um 1235–1303) zur Welt kam. Gemeint ist hier Anagni, südlich von Rom, wo die Verbündeten des französischen Königs Philipp IV. (1268–1314) am 7. September 1303 ein Attentat auf Bonifatius verübten, durch das er wenige Wochen später verstarb.</note></seg>. Ich wünsche Ihnen wie Ihrer Familie schöne Tage.</p>
+                <closer>
+                    <salute rendition="#c"> Ihr aufrichtig ergebener</salute>
+                    <signed rendition="#right"> Ferdin.Gregorovius. </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000055">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Heinrich Brockhaus in Leipzig. Rom, 3. April 1856</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (29)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 8°, 2 ½ S. – 2v alR, Blatt um 90° gedreht, Eingangs- und Beantwortungsvermerk: 1856. / <hi rendition="#aq">Rom</hi>, 3./10. <hi rendition="#aq">April</hi>. / <hi rendition="#aq">Gregorovius</hi>. / B. 21/V.</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Friedrich Althaus teilte ihm mit, dass der Edinburgher Verlag Thomas Constable wegen des fehlenden Vermerks der Reservation der Übersetzungsrechte des Autors auf der Titelei seiner „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) das vertraglich vereinbarte Honorar für die englische Übersetzung nicht bezahlen will. Mit dem Londoner Verleger Nikolaus Trübner ersucht er Brockhaus um entsprechenden Umdruck der Titelei und um Vertretung seiner Rechte gegenüber Constable. Sein Bruder Julius Gregorovius hat ihm den Empfang seiner „Figuren“ in Königsberg bestätigt. Die für ihn über den Leipziger Komissionär Steinacker nach Rom in die Buchhandlung Josef Spithöver zu befördernden Exemplare sind noch nicht eingegangen. Auch die nach Rom und Königsberg gesandten Exemplare der amerikanischen Ausgabe seines „Corsica“ (Philadelphia 1855) sind noch nicht da.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">Friedrich Althaus informed him that because the reference to the reservation of the translation rights was missing on the title page of his „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856), the Edinburgh publishing house Thomas Constable does not want to pay the contractually agreed upon fee for the English translation. Along with the London publisher Nikolaus Trübner, he asks Brockhaus to have the title printed accordingly and to defend him to Constable. His brother Julius Gregorovius confirmed that he has received his „Figuren“ in Königsberg. The copies that are to be sent to to the Josef Spithöver bookshop in Rome through the Leipzig commission agent Steinacker have not yet arrived. The copies of the American edition of his „Corsica“ (Philadelphia 1855) sent to Rome and Königsberg are also not there yet. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1856-04-03" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G000996">Brockhaus, Heinrich (1804–1874)</persName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next">21. Mai 1856</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+<opener>
+<dateline rendition="#c">Roma d<ex>en</ex> 3 April 1856.</dateline>
+<salute rendition="#c">Sehr geehrter Herr,</salute>
+</opener>
+<p>durch <persName key="G000920"><hi rendition="#aq">Dr</hi>. Althaus</persName> in <placeName key="G000716">London </placeName>und <seg type="comment"><orig><persName key="G001661">Herrn <hi rendition="#aq">Trübner</hi></persName></orig><note xml:id="nalg_myw_qlb">Der seit 1843 in London tätige, deutsche Buchhändler und Verleger Nikolaus Trübner (1817–1884).</note></seg> erhalte ich so eben die Nachricht, daß mein <seg type="comment"><orig>englischer Verleger <persName key="G001044">Herr <hi rendition="#aq">Constable</hi></persName></orig><note xml:id="np4m_syw_qlb">Der Edinburgher Verlag von Thomas Constable (1812–1881).</note></seg> die Erklärung gemacht hat, wie er auf Grund der auf dem Titel der „<bibl sameAs="G003114">Figuren</bibl>“ ausgelaßenen <seg type="comment"><orig><hi rendition="#aq">Reservation</hi> des Autors</orig><note xml:id="nwrx_jzw_qlb">Die Reservation der Übersetzungsrechte des Autors.</note></seg> den mit mir stipulirten <seg type="comment"><orig><hi rendition="#aq">Contract</hi> nicht halten, also mir die Summe von £ 20 nicht zahlen werde</orig><note xml:id="ns51_vzw_qlb">In den Briefen vom <ref target="G000076">22.8.</ref> und <ref target="G000033">12.9.1855</ref> hatte Gregorovius Brockhaus mitgeteilt, dass der Edinburgher Verlag von Thomas Constable an der Übersetzung seiner „Figuren“ interessiert ist; in seinem Brief vom <ref target="G000044">27.5.1855 an Cotta</ref> ist sogar Constables Interesse an einem exklusiven Übersetzungs-Vertrag für England die Rede. Beides kam nicht zustande, trotzdem zahlte Constable das vereinbarte Honorar (siehe den Brief von <ref target="G000030">Gregorovius an Brockhaus, 28.5.1856</ref>).</note></seg>. Weil Sie von der englischen Ausgabe wußten, u<ex>nd</ex> <seg type="comment"><orig>an <hi rendition="#aq">Constable</hi> die Aushängebogen abgehen ließen</orig><note xml:id="niqc_21x_qlb">Friedrich Althaus hatte Brockhaus im Namen des Verlags von Thomas Constable um Zusendung der Druckfahnen der „Figuren“ gebeten, was Gregorovius dem Brockhaus-Verlag am <ref target="G000050">26.10.1855</ref> bestätigte.</note></seg>, habe ich selbst es für selbstverständlich gehalten, daß Sie jene <hi rendition="#aq">Reservation</hi> aufdrucken würden, deshalb nicht noch im Besondern darauf aufmerksam gemacht. Ich erspare mir Ihnen zu sagen, welche Verlegenheit mir der Ausfall jenes englischen Honorars bereiten würde; er wird um so empfindlicher sein, da ich auf dasselbe bestimmt gerechnet habe. Es wäre grausam, sollte sich ein <pb n="1v"/>Versehn, an dem ich unschuldig bin, mir so bitter bestrafen. Sie kennen meine Situation. <seg type="comment"><orig>Herr <hi rendition="#aq">Trübner</hi> läßt mich wißen, daß er Sie gebeten habe, die Titel umzudrucken</orig><note xml:id="nkbk_z1x_qlb">Ein Vermerk der Reservierung der Übersetzungsrechte des Autors ins Englische und ins Französische findet sich erst in der Titelei seines 1861 erschienenen Bandes „Siciliana“, dem späteren 3. Band der „Wanderjahre in Italien“.</note></seg>, u<ex>nd</ex> ich schreibe in Eile, Sie desgleichen darum zu bitten, wie überhaupt mich in dieser Angelegenheit auf das Nachdrücklichste gegen Herrn <hi rendition="#aq">Constable</hi> vertreten zu wollen. Ich selbst kenne die Preßgesetze nicht, u<ex>nd</ex> weiß nicht, ob mich der Umstand schützen darf, daß Herr <hi rendition="#aq">Const</hi><ex>able</ex> <hi rendition="#u">gleichzeitig</hi> die Ausgabe machte, also die Druckbogen mir contractlich abkaufte, Zahlung zusichernd an dem Tage der englischen Ausgabe in Edinburgh. Den durch Herrn <hi rendition="#aq">Trübner</hi> vermittelten <hi rendition="#aq"><seg type="comment"><orig>Contract</orig><note xml:id="nnyb_fbx_qlb">Der Vertrag war im Herbst 1855 abgeschlossen worden, siehe den Brief von <ref target="G000050">Gregorovius an Brockhaus, 26.10.1855</ref>.</note></seg></hi> habe ich in Händen.</p>
+<p><seg type="comment"><orig>Mein <persName key="G001203">Bruder</persName> hat mir den richtigen Empfang der Exemplare Figuren angezeigt.</orig><note xml:id="next_hbx_qlb">Gregorovius hatte Brockhaus am <ref target="G000023">16.2.1856</ref> angekündigt, dass er in einem weiteren Schreiben u.a. Weisung für den Versand der Freiexemplare seiner „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) und der „Lieder des Giovanni Meli von Palermo“ (1856) nach Königsberg zu seinem Bruder Julius Gregorovius geben wird.</note></seg> <seg type="comment"><orig>Ich selbst habe im Ballen für <hi rendition="#aq"><orgName key="G000545">Spithöver</orgName></hi> die mir noch zukommenden noch nicht erhalten.</orig><note xml:id="nyxh_mbx_qlb">Gregorovius hatte Brockhaus am <ref target="G000023">16.2.1856</ref> gebeten, dass der Leipziger Komissionär Steinacker (Friedrich Wilhelm Einhorn) alle seine Freiexemplare der „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) und der „Lieder des Giovanni Meli von Palermo“ (1856) der Sendung an die Buchhandlung Joseph Spithövers in Rom beifügt.</note></seg></p>
+<p>Da man kleinere Bücher per Kreuzband senden kann, so bitte ich Sie dringend mir per post 1 Exemplar des <bibl sameAs="G004072">Meli</bibl> zu schicken.</p>
+<p>Endlich noch diese Bitte: <hi rendition="#aq">Dr. Althaus</hi> schreibt <pb n="2r"/>mir, daß 2 Ex<ex>emplare</ex> <bibl corresp="G004436"><seg type="comment"><orig><hi rendition="#aq">Corsica</hi> amerikanische Ausgabe</orig><note xml:id="nqch_qbx_qlb">Die amerikanische Übersetzung seines „Corsica“ (1854) hatte der amerikanische Politiker und Diplomat Edward Joy Morris (1815–1881) besorgt, der 1850–1853 Gesandter im Königreich beider Sizilien mit Sitz in Neapel war. Wanderings in Corsica: Picturesque, Historical and Social. With a Sketch of the Early Life of Napoleon, and an Account of the Bonaparte, Paoli, Pozzo Di Borgo, and other Principal Families. Suggested by a Tour in the Island in 1852. Philadelphia: Parry &amp; M’Millan 1855.</note></seg></bibl> von ihm befördert seien, via Leipzig eins an mich nach Rom, das andere an meinen Bruder in <placeName key="G000699">Königsberg</placeName>. Weder hier noch dort sind sie angekommen. Möchten Sie die Gefälligkeit haben, nachfragen zu laßen, ob solche <seg type="comment"><orig>bei <persName key="G001107">Herrn <hi rendition="#aq">Steinacker</hi></persName> eingegangen</orig><note xml:id="nk5z_5bx_qlb">In dem von Johann Erdmann Ferdinand Steinacker (1764–1842) gegründeten Leipziger Verlags- und Komissionsgeschäft, das nach dessen Tod unter Beibehaltung des Firmennamens in den Besitz seines Neffen Friedrich Wilhelm Einhorn (1808–1889) übergegangen war; 1859 ging es an dessen Sohn Theodor Steinacker-Einhorn (†1878).</note></seg> sind.</p>
+<closer>
+<salute rendition="#c">Hochachtungsvoll u<ex>nd</ex> ergebenst</salute>
+<signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi></signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

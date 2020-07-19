@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000244">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Giovanni Battista Bolza in Wien. Rom, 7. April 1867</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><idno/></msIdentifier>
+<physDesc>
+<p/>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"> <bibl type="print">Wolfgang Wurzbach: [Ferdinand Gregorovius über Grillparzer und die geistigen Beziehungen zwischen Italien und Deutschland.]. In: Neue Freie Presse. Nr. 22524. Wien: Österreichisches Journal. 30.5.1927. S. 4. (Abendblatt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die Zusendung von Bolzas italienischer Übersetzung eines Gedichtes von Heinrich Heine und Franz Grillparzers Drama „Sappho“ (1864), die er als wichtigen Beitrag zum kulturellen Austausch zwischen Deutschland und Italien wertet. Er bittet Grillparzer seine „wärmsten und hochachtungsvollsten Empfehlungen darzubringen“.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1867-04-07" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G000973">Bolza, Giovanni Battista (1801–1869)</persName>
+<placeName key="G000897">Wien</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="4"/>
+            <div type="writingSession">
+                <opener>
+<salute>Geehrter <seg type="comment"><orig>Herr</orig><note xml:id="nijf_dwn_gmb">Der gebürtig aus der Lombardei stammende Giovanni Battista Bolza (1801–1869) hatte 1820 in Pavia sein Jurastudium abgeschlossen. Schon früh hatte er sich für Literatur interessiert. 1825 siedelte er nach Wien über, wo er eine Stelle im Kammergericht antrat. Er verstand sich als Mittler zwischen Italien und Österreich und veröffentlichte, neben seiner beruflichen Tätigkeit, italienische Übersetzungen aus dem Deutschen und Sprachstudien. Seit 1839 gab er die in Wien und Mailand verbreitete „Rivista Viennese“ heraus, in der zahlreiche Notizen, Aufsätze, Übersetzungen deutscher Schriften und Beiträge von ihm selbst und namhaften italienischen Autoren erschienen, bevor die Zeitschrift schon 1840 eingestellt wurde. Seine Sprachstudien sammelte er im dem Band „Vocabolario genetico-etimologico della lingua italiana“ (1852). Er war seit 1839 mit der Bankierstochter Eugenie Ritter aus Böhmstetten vermählt, die eigene Gedichte und Übersetzungen aus dem Italienischen und Englischen publizierte. Als er 1850 zum Präsidenten der Kommission für die Neuordnung der Schulen in der Lombardei und Venetien ernannt wurde, ließ er sich für etwa sechs Monate in Verona nieder und reiste von dort zu den Schulen in der Toskana, in Rom und Neapel. Zu Kaiser Franz Joseph, seinen Brüder und der Kaiserin hatte er freundschaftlichen Kontakt. Von 1856 bis zu seiner Pensionierung im Jahr 1860 war er Ministersekretär und widmete sich seitdem seinen literarischen Arbeiten. Einen Namen machte er sich mit der italienischen Übersetzung des Dramas „Sappho“ von Franz Grillparzer (Wien 1864) und mit einem Deutsch-Italienischen Wörterbuch. Der vorausgehende Brief von Giovanni Battista Bolza (1801–1869) an Gregorovius ist nicht erhalten. Eine über das vorliegende Schreiben hinausgehende Korrespondenz zwischen ihnen ist ebenso wenig nachweisbar wie eine persönliche Begegnung.</note></seg>,</salute>
+</opener>
+                <p>mit großer Freude habe ich vor kurzem Ihre gütigen Zeilen nebst den beiliegenden Uebersetzungen erhalten und sage Ihnen tausend Dank. Sie haben wohl den Beweis geliefert, daß die fortschreitende Kultur, welche die Schranken zwischen den Nationen mindert, auch deren Sprachen dem gegenseitigen Austausch näher bringt. <seg type="comment"><orig>Ihre Uebertragung des <persName key="G001256">Heineschen</persName> Liedes</orig><note xml:id="nspl_rwn_gmb">Titel nicht ermittelt. In der von Bolza herausgegebenen Zeitschrift „Rivista Viennese“ erscheint 1839 das Gedicht „Liebesgram“ in der Übersetzung von Tommaso Gar unter dem Titel „Cordoglio“ (Bd. 3, 1839, S. 356–360).</note></seg> läßt schwerlich etwas zu wünschen übrig; es scheint mir als das Beste der Art, was ich gelesen habe. Mit noch größerer Freude las ich <seg type="comment"><orig>Ihre <bibl sameAs="G004227">Uebersetzung der Sappho <persName key="G001210">Grillparzers</persName></bibl></orig><note xml:id="njbd_vwn_gmb">Das Drama „Sappho“ des österreichischen Dichters Franz Grillparzer (1791–1872) handelt von der unerwiderten Liebe der antiken Dichterin Sappho zu dem Jüngling Phaon und wurde 1818 in Wien uraufgeführt; im Druck unter dem Titel Saffo: tragedia di Francesco Grillparzer; tradotto in versi italiani dal Dr. G. B. Bolza, Wien 1864.</note></seg>, dieser reizenden Dichtung, welche wahrhafte Tragik mit der Anmut des Idylls verbindet, und stets den innersten Herzenslaut aufweckt, in welchen Lebensjahren man sie auch lesen mag. Ich wünschte wohl, daß Sie die Güte hätten, <seg type="comment"><orig>dem ehrwürdigen Dichter meine wärmsten und hochachtungsvollsten Empfehlungen darzubringen</orig><note xml:id="nptx_wwn_gmb">Ein persönlicher Kontakt zwischen Gregorovius und Grillparzer ist nicht nachweisbar. Nach dessen Tod bestellte Gregorovius in seinem Brief vom 11.7.1872 an Cotta die soeben erschienenen Bände von Franz Grillparzer: Sämtliche Werke in zehn Bänden (hrsg. von von Heinrich Laube und Joseph Weilen in Verb. mit Theobald von Rizy und Dr. Preyss. Stuttgart: Cotta 1872) – in seinem Brief vom 6.8.1872 bedankt er sich für den Versand der ersten vier Bände (in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 318–319, 323–324).</note></seg>. Wir Deutsche können es nur froh begrüßen, wenn die Italiener, für deren Genie wir ein inniges und freies Verständnis besitzen, uns nun auch entgegenkommen. So möchte unser beiderseitiges geistiges Besitztum bald zu einem Schatz von Sympathie werden, welche diese Zwillingsschwestern der Geschichte dauernd und friedlich verbinden soll. Ich empfehle mich Ihnen, geehrter Herr, mit wahrhafter Hochachtung und Ergebenheit, Ihnen einst im Leben zu begegnen wünschend,</p>
+                <closer>
+<signed>Ferd. Gregorovius.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

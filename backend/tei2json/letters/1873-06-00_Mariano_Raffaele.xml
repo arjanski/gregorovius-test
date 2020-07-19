@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000215">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Raffaele Mariano. [Januar-Juni 1873?]</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>2 Bl., 8°, 2 ¾ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er ist verärgert über Marianos Auslegung einer Textpassage aus dem siebten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1870). In seiner Studie „Roma nel Medio Evo“ (1873) lässt Mariano sich mehr von geschichtsphilosophischen Überzeugungen als vom Wortlaut seines Textes leiten. Dagegen hat Auguste Lindemann-Frommel den Sinn der Passage intuitiv richtig erfasst.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <date notBefore="1873-01-01" notAfter="1873-06-30" cert="low"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+</correspAction>
+                <note>Vermutlich schrieb Gregorovius den Brief in der ersten Hälfte des Jahres 1873, denn er empfiehlt Marianos „Roma nel Medio Evo“ am 30.6.1873 in einem Brief an die Cotta’sche Buchhandlung zur Rezension; d.h. er hat das Kondensat seiner „Geschichte der Stadt Rom im Mittelalter“ zu diesem Zeitpunkt mit aller Wahrscheinlichkeit bereits gelesen. Außerdem bezieht sich die am 28.6.1873 in seinem Tagebuch geäußerte Kritik an Mariano, dieser würde seine Ideen zu sehr „spiritualisier[en]“ (S. 331), möglicherweise auf die im Brief konkret formulierte Kritik.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<salute rendition="#c">Caro signor Mariano,</salute>
+</opener>
+                <p>mando indietro la correzione di quel passo, <seg type="comment"><orig>che mi fù causa di non lieve disturbo</orig><note xml:id="njfh_vzz_ylb">Gregorovius warf Mariano wiederholt eine zu spirituell angehauchte und hegelianisch-geprägte Geschichtsauffassung vor. Am 28.6.1873 notiert Gregorovius in sein Tagebuch (S. 331): „Mariano hat seine Artikel über die ‚Geschichte der Stadt Rom im Mittelalter‘ erst im ‚Diritto‘ erscheinen lassen, dann aber als Buch herausgegeben unter dem Titel ‚Roma nel Medio Evo‘. Er entwickelt darin meine Ideen, spiritualisiert aber die Geschichte zu sehr.“ Am 10.8.1873 schreibt er über Mariano an den damaligen Herausgeber der „Augsburger Allgemeinen“ Otto Braun: „Seine große Bewunderung des hegel’schen Systems verleitet ihn bisweilen zu Extremen […]“ Als Mariano einige Jahre später – und ohne Gregorovius miteinzubeziehen – den Plan fasst, die „Storia del Medio Evo“ (1873) auf Deutsch herauszugeben, richtet er seine Kritik auch an Mariano selbst: „[…] il metodo di trattar i fatti di storia, adoperatovi da lei, sente troppo la formula del Hegel, e si spinge a tale eccesso di speculazione metafisica, che la realtà delle cose vi si dissolve interamente in una generalità di riflessioni, la quale, come cosa oramai fuori di moda, non alletta più il lettore tedesco. Ed era appunto codesto metodo suo, che un dì mi mosse a ricamargli quelle parole ‚mehr Erde!‘“ (siehe Gregorovius an Raffaele Mariano, 17.12.1876).</note></seg>. Dico francamente che, abbenchè <add place="superlinear">vi</add> siano tolte quelle linee, che direttamente si riferivano all’indirizzo mio, la cosa in se stessa rimane quasi quale ella era. Poiché tutta la sua esposizione dell’essenza della libertà, che <add place="superlinear">per altro</add> ogni uomo raggionevole deve tenere per cosa superflua, rimane basata sopra quella erronea imputazione fatta a me anteriormente.</p>
+                <p>Se lei avesse tradotto ai suoi lettori le mie proprie parole, percerto ogni interpretazione falsa vi sarebbe stato evitata. Ecco le mie parole: <seg type="comment"><orig> <foreign xml:lang="deu">Denn wie sollte er (d<ex>er</ex> <persName key="G001448">Papst</persName>) anerkennen, daß auch das Princip seiner Gegner, <hi rendition="#u">geschichtlich begründet</hi> wie es war, immer wieder sein Recht verlangen, immer wieder in Kampf mit der päpstlichen Gewalt treten mußte. Die städtische Selbständigkeit <placeName key="G000763">Roms’</placeName>, deren Untergang Männer wie <seg type="comment"><orig><persName key="G001506">Porcaro</persName></orig><note xml:id="nhbx_5hk_1mb">Stefano Porcari (1400–1453) war Humanist und römischer Politiker. Er unternahm einen Aufstandsversuch gegen Papst Nikolaus V. und gegen das päpstliche Herrschaftssystem im Kirchenstaat, um in Rom eine republikanische Verfassung einzuführen.</note></seg> u<ex>nd</ex> <seg type="comment"><orig><persName key="G001309">Infessura</persName> </orig><note xml:id="neg1_whk_1mb">Stefano Infessura (1436–1500), Verfasser des „Diarium urbis Romae“, war seit 1478 Kommunalbeamter in Orte, ab 1481 Lektor der Jurisprudenz an der Universität Rom und ab 1487 auch Senatsschreiber.</note></seg>beweinten, war unrettbar geworden. Sie fiel früher, als <pb n="1v"/>die Autonomie anderer Republiken <placeName key="G000690">Italiens</placeName>; aber den Verlust dieser municipalen Freiheit <hi rendition="#u" hand="">ersetzte</hi> doch <hi rendition="#u">sowol die</hi> <hi rendition="#u">Natur</hi> <hi rendition="#u" hand=""> <placeName key="G000763">Roms</placeName> </hi> als die des <orgName key="G000539">Papsttums</orgName> durch ein großartiges, <hi rendition="#u">keiner</hi> <hi rendition="#u">andern</hi> Stadt der Erde eigenes Wesen, in dessen kosmopolitischer Luft sich alles <hi rendition="#u" hand="">Monarchische</hi> u<ex>nd</ex> <hi rendition="#u" hand="">Dynastische</hi> verzehrt.</foreign> Segue poi il periodo: <foreign xml:lang="deu">Es ist der moralische Weltbezug etc.</foreign></orig><note xml:id="nadk_xzz_ylb">Fast wortwörtlich übernommen aus Ferdinand Gregorovius: Geschichte der Stadt Rom im Mittelalter. Vom V. bis zum XVI. Jahrhundert. Bd. 7. Stuttgart: Cotta 1870. Kapitel 346, S. 137. Der Inhalt des Passus’ wird bei Mariano über mehrere Seiten paraphrasiert. Vgl. Raffaele Mariano: Roma nel medioevo, studi storico-critici, Roma: Civelli 1873. Kapitel XII „Tentativi di una costituzione comunale in Roma“, S. 181–199.</note></seg> </p>
+                <p>Veda dunque quanti anelli Ella abbia tolto dalla catena del sillogismo mio, onde costituirne, per dir lo francamente, una mostruosità dell’ autore. Già la parola<seg type="comment"><orig> <foreign xml:lang="deu">ersetzen</foreign></orig><note xml:id="nfmk_zzz_ylb">Gregorovius bezieht sich hier auf folgenden Passus aus Marianos Übersetzung bzw. Paraphrasierung seines Ausgangstextes: „E che in effetti l'idea cosmopolitica ed universale della Chiesa e del Papato dovesse offrire un certo compenso alla Città di Roma per la perduta autonomia, è molto naturale.“ aus Raffaele Mariano: Roma nel medioevo, studi storico-critici, Roma: Civelli 1873, S. 199. </note></seg> è tutt’altro che dare un <hi rendition="#u" hand="">largo</hi> <hi rendition="#u" hand="">compenso</hi>, come lei iperbolicamente si esprime. Un compenso <add place="superlinear">però</add> della perdita della libertà municipale ci doveva essere. La nostra buona signora <persName key="G001374">Lindemann</persName> è soltanto una femmina debole e sofferente, ma ella ne capì subito la ragione, dicendomi: come mai non ci doveva essere un compenso? I Romani avrebbero forse senza quello sopportato per tre secoli il giogo di una assoluta servitù, senza o morire sotto tale incubo, o spezzarlo mediante uno sforzo supremo?</p>
+<p>Lei, caro amico Mariano, operando nel suo scritto, abilmente <add place="superlinear">fatto</add> e con quello spirito filosofico che possiede, <pb n="2r"/>per necessità colle idee e coi fatti del mio lavoro, sentì, così direi, il bisogno della propria indipendenza, ed è per l’appunto questo bisogno che mi porge la chiave psicologica per alcuni passi negli suoi articoli.</p>
+                <p>Sarebbe oramai cosa nojosa, s’io volessi assicurarla di nuovo dei miei sentimenti, che nutro e nutrirò sempre verso di lei. Appunto per ragion di tali sentimenti, quella sua interpretazione doveva offendermi. Per altro anche lei sara <del rendition="#s">assai</del> tanto giusto con me da riflettere, che un’autore, il quale ha spese le fatiche della sua vita a comporre un’opera grande benchè difettosa, non può rimanere insensibile, quando incontra le osservazioni erronee di chi poi ne fà un sunto suo, e sia pure un relatore par suo, vuol dire il lettore e critico più attento e più amichevole.</p>
+                <closer>
+<salute rendition="#c">Le stringo la mano <lb/>tutto suo</salute>
+<signed rendition="#right">FGregorovius</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

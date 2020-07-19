@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000276">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Friedrich Theodor Vischer in Tübingen. München, 24. September 1868</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Universitätsbibliothek Tübingen</repository><collection>NL Friedrich Theodor Vischer</collection><idno>Md 787–316</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S. – 1r + 2r aoR geprägt: ROMA</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 6 (nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Mit der Cotta’sche Buchhandlung bittet er um eine Rezension der zweiten Auflage des ersten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1869) in der „Allgemeinen Zeitung“, die nicht den Inhalt, sondern den historischen und philosophischen Standpunkt seines Werks beleuchten soll. Er bedauert, ihn im Vorjahr in Stuttgart nicht persönlich getroffen zu haben. Er hörte, dass Vischer nach München übersiedeln will. In desem Jahr können sie sich dort nicht mehr treffen, weil er im Begriff ist, nach Rom zurückzureisen. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1868-09-24" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001690">Vischer, Friedrich Theodor von (1807–1887)</persName>
+<placeName key="G000892">Tübingen</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">München, 24. <hi rendition="#aq">Sept<ex>em</ex>b<ex>e</ex>r</hi> 68.</dateline>
+                    <salute rendition="#c">Verehrter <?oxy_comment_start author="Angela Steinsiek" timestamp="20190109T162146+0100" comment="Der Theologe, Kunst- und Literaturwissenschaftler, Politiker, Journalist, Essayist, linkshegelianische Philosoph und Schriftsteller, Friedrich Theodor Vischer (1807–1887) hatte in Tübingen Theologie, Philosophie und Philologie studiert und 1832 seine theologische Promotion abgelegt. Nach einem Vikariat und Repetentenstellen in Maulbronn (1831) und am Tübinger Stift (1834) entschloss Vischer sich für eine wissenschaftliche Laufbahn. Ab 1835 lehrte er an der Tübinger Universität als Privatdozent, 1836 habilitierte er sich mit der Schrift „Über das Erhabene und das Komische“, 1844 bekam er eine ordentliche Professur für Ästhetik und Literatur, doch sorgte seine Parteinahme für den Pantheismus in seiner Antrittsvorlesung für einen Skandal und ein zweijähriges Lehrverbot. In dieser Zeit begann Vischer sein großangelegtes, an Georg Wilhelm Friedrich Hegel (1870–1831) geschultes philosophisches Hauptwerk, die „Ästhetik oder Wissenschaft des Schönen“ (6 Bde., 1846–1857). 1848 wurde er kurzzeitig Abgeordneter der Linksdemokraten in der Frankfurter Nationalversammlung. 1855 erhielt er eine Professur für Ästhetik und deutsche Literatur nach Zürich, wo er mit Gottfried Keller (1819–1890), Jacob Burckhardt (1818–1897), Gottfried Semper (1803–1879) und Richard Wagner (1813–1883) engen Umgang pflegte. 1866 kehrte Vischer an die Universität Tübingen zurück. Einen Ruf an das Polytechnikum in München lehnte er 1868 ab, doch wechselte er 1869 als Ordinarius auf den Lehrstuhl für Deutsche Literatur, Ästhetik und Redeübungen an das Königlich Württembergischen Polytechnikum in Stuttgart. 1870 wurde er geadelt und zog als Abgeordneter in den württembergischen Landtag. Sein satirisch-philosophischer autobiographischer Roman „Auch Einer. Eine Reisebekanntschaft“ (1878), der ein Panorama zeitgenössischer Themen scharfsinnig und eloquent beleuchtet, erfuhr zahlreiche Neuauflagen. Zu seinem Freundeskreis zählte Gottfried Keller (1819–1890), Eduard Mörike (1804–1875) und David Friedrich Strauß (1808–1874). 1839–1840 unternahm Vischer Studienreisen nach Italien und Griechenland, weitere Italienreisen in den Jahren 1858, 1860, 1867, 1870 und 1881 folgten.
+Gregorovius hatte den Professor für Literaturwissenschaft und Ästhetik Friedrich Theodor Vischer (1807–1887) vielleicht schon 1858 und / oder 1860 in Italien kennengelernt, doch haben sich hierüber keine Zeugnisse erhalten. Belegt ist der Besuch von Gregorovius bei Vischer Ende August 1862 in Zürich, über den er in seinem Tagebuch vermerkte: „Ich besuchte […] den Ästhetiker Vischer ein kleiner, untersetzter Mann mit rotem Bart, in den Vierzigern, schwäbischen Dialekt redend; sehr natürlichen und einfachen Wesens, voll Wissen und Geist“ (RT, 23.8.1862, S. 151). Noch Monate später berichtet er Ludwig Friedländer über dieses Zusammentreffen nach Königsberg: „Vischer sah ich in Zürich; einer der besten Köpfe Deutschlands, dessen großes Werk [Ästhetik oder Wissenschaft des Schönen, 6 Bde., 1846–1857] bleiben wird.“ (Brief von 10.12.1862 in: Ferdinand Gregorovius: Briefe nach Königsberg. Hrsg. von Dominik Fugger und Nina Schlüter. München: Beck 2013. S. 86–87). Dem vorliegenden Brief und einer im Nachlass von Vischer erhaltene Visitenkarte von Gregorovius ist zu entnehmen, dass dieser sich im Juli 1867 vergeblich um ein Treffen in Stuttgart bemühte. Mit Sicherheit hat auch Vischer sich für den Historiker Gregorovius interessiert, der seine „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) als „Epos“ und „geistiges Totalbild“ verstand; hierüber hatte Gregorovius in Vischers „Ästhetik oder Wissenschaft des Schönen“ (1846–1857) die ebenso hegelianisch geschulten Ausführungen finden können: „Durch diese Fülle des Inhalts gibt die epische Poesie ein ganzes Weltbild: ein Nationalleben, ein Zeitalter in der Gesamtheit seiner Zustände, und darin ausdrücklicher, als es anderer Kunstformen vermögen, einen Spiegel des Menschenlebens überhaupt, also eine Totalität. […] Es [das Epos] gibt durch seine Breite ein relativ Ganzes von ungleich größerem Umfang, als irgend ein anderes Werk der Kunst: ganze Nationen werden nach allen Seiten ihres Lebens, Bildungszustandes, Strebens, dazu im Konflikte mit anderen geschildert.“ (Bd. 6: Kunstlehre. Dichtkunst / Register. 2. Aufl. München 1923, S. 137) Eine über den vorliegenden Brief hinausgehende Korrespondenz ist nicht nachweisbar, die hierin von Gregorovius erbetene Rezension der zweiten Auflage des ersten Bandes der „Geschichte der Stadt Rom im Mittelalter“ (1869) durch Vischer unterblieb. "?>Herr<?oxy_comment_end?>,</salute>
+                </opener>
+<p>die eben begonnene <bibl corresp="G003435 G003442 G003449 G003456 G003463 G003470 G003477 G003489">neue Ausgabe der Geschichte der Stadt Rom im Mittelalter</bibl>, wovon der I. Band die Preße verläßt, macht es <?oxy_comment_start author="Angela Steinsiek" timestamp="20200407T123611+0200" comment="Die Cotta’sche Buchhandlung hatte Gregorovius am 21.9.1868 gebeten: „Was die Besprechung dieser 2ten Auflage für die Allgemeine Zeitung betrifft, so wäre es uns sehr angenehm, wenn dieselbe Herr Professor Vischer übernehmen würde. Wir glauben, daß es wirksamer wäre, wenn Sie selbst genannten Herrn darum angehen würden; das Recensionsexemplar würden wir abgeben, sobald Herr Professor Vischer sich zur Besprechung bereit erklärte“ (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VI, 982)."?>mir wie dem <orgName key="G000523">Cotta’schen Verlag</orgName> wünschenswert, daß eine Ankündigung dieser Ausgabe für die <orgName key="G000462">Allg<ex>emeine</ex> Zeit<ex>ung</ex></orgName> von einer Autorität der Wissenschaft ausgehe<?oxy_comment_end?>. Wir würden es für eine Förderung und Auszeichnung dieses Werks halten, wenn Sie ein Wort darüber sagen wollten. Es handelt sich dabei nicht um die Darlegung des Inhalts, da derselbe hinlänglich besprochen worden ist, sondern um den Standpunkt, welchen es in der Literatur einzunehmen berechtigt sein mag, u<ex>nd</ex> um die geschichtlichen u<ex>nd</ex> philosophischen Gesichtspunkte, aus denen heraus es geschrieben worden ist. Diese Ankündigung dürfte daher höchstens eine oder zwei Spalten der Allg<ex>emeine</ex> Zeit<ex>ung</ex> einnehmen. Wenn ich <pb n="1v"/>nun annehmen darf, dass Sie der Fortsetzung dieses Werks mit jener Teilnahme gefolgt sind, welche Sie zu meiner Freude den ersten Bänden geschenkt haben, so möchte ich hoffen, dass <?oxy_comment_start author="Angela Steinsiek" timestamp="20200407T123527+0200" comment="Die Rezension durch Vischer unterblieb (siehe den Brief von Gregorovius an die Cotta’sche Buchhandlung, 16.12.1868 in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 278–279)."?>Sie gern unsern Wunsch im Interesse vaterländischer Literatur genehmigen werden<?oxy_comment_end?>. In diesem Falle würde ich Sie bitten, dies der Cottaschen Buchhandlung wissen zu lassen, welche Ihnen dann ein Exemplar des I. B<ex>an</ex>d<ex>e</ex>s zukommen lassen wird. Im entgegengesetzten Falle bitte ich Sie in diesem Wunsch immer ein Zeichen der Hochachtung zu sehen, welche ich für Sie empfinde.</p>
+<p>Die Gesch<ex>ichte</ex> der Stadt Rom im Mittelalter beginnt jetzt, wie ich mit Freuden sehe, mehr ins Publikum <pb n="2r"/>einzudringen, und da sie die 1. Auflage hinter sich gelassen hat, möchte sie den Beweis liefern, daß sie den Kampf um das Dasein siegreich überstanden hat. Ich habe <bibl corresp="G003476 G003485">die ersten zwei Bände</bibl>, welche auch in der Darstellung viele Mängel hatten, den folgenden conform zu machen gesucht, u<ex>nd</ex> dürften sie jetzt, so viel mir möglich war, correct sein.</p>
+<p>Zu meinem großen Bedauern <?oxy_comment_start author="Angela Steinsiek" timestamp="20200407T181259+0200" comment="Gregorovius war vom vom 20.–27.7. und (nach einer Rheinreise mit seinem Bruder Julius) vom 21.8.–11.9. in Stuttgart (siehe RT, 27.7.1867, S. 227–232). Aus der Zeit seines ersten Aufenthaltes mag eine Visitenkarte stammen, die Gregorovius Vischer hinterlassen hatte, bevor er am Montag den 22. Juli 1867 die Königliche Bibliothek aufsuchte: „Ferdinand Gregorovius wünschte sehr Herrn Prof. Vischer zu begrüssen, obwol er daran verzweifelt wegen der weiten Wege und seiner zerstreuten Beschäftigung. Monat um 11 Uhr bin ich auf der Bibliothek“ (Universitätsbibliothek Tübingen, NL Friedrich Theodor Vischer, Md 787–316)."?>verfehlte ich Sie im vorigen Jahre in <placeName key="G000879">Stuttgart</placeName><?oxy_comment_end?>; nun höre ich, dass Sie <?oxy_comment_start author="Angela Steinsiek" timestamp="20200407T181313+0200" comment="Einen Ruf an das Polytechnikum in München lehnte Vischer 1868 ab."?>Ihren Sitz in München aufzuschlagen gedenken<?oxy_comment_end?>; aber leider werde ich Sie hier in diesem Jahre nicht mehr erreichen, da ich auf dem Sprunge bin, nach <placeName key="G000763">Rom</placeName> zurückzureisen.</p>
+                <closer>
+<salute rendition="#c">Mit den freundlichsten Wünschen Ihr hochachtungsvoll ergebener</salute>
+<signed rendition="#right"><hi rendition="#aq">FGregorovius</hi>.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

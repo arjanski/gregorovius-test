@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000159">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Hermann von Thile in Heiden. München, 4. September 1862</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>96/937 (26)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ¾ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 59, Mappe 346 (nach D und Ergänzungen nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 56–57 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er war in Ragaz als Gast der dort kurenden russischen Großfürstin Elena Pawlowna, wo sich auch ihre Gesellschafterin Editha von Rahden und der russischen Gesandten in Bern, Aleksandr Petrovič Ozerov, aufgehalten hat. In der Wohnung Wolfgang Erhardts war nichts für Thile hinterlegt, er hat ihm aber geschrieben. Auf der Bahnfahrt nach München ist er von der Tochter des St. Galler Oberst Carl Emil von Gonzenbach einmal mehr mit Abrecht von Graefe verwechselt worden. Er hat Adolf Friedrich Graf von Schack besucht und war in der Pinakothek und in der Glyptothek. Morgen erwartet er seinen Bruder Julius in München, wo er noch zwei Wochen bleiben will. Er ernnnert sich gern an die gemeinsame Zeit in Heiden und gedenkt der kleinen Gertrud, der Tochter des Kurarztes Johannes Küng von Gais.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He was in Ragaz as a guest of the Russian Grand Duchess Elena Pawlowna, who was spending time there for her health. Her companion Editha von Rahden and the Russian envoys in Bern, Aleksandr Petrovič Ozerov, also stayed there. In Wolfgang Erhardt’s apartment there was nothing deposited for Thile, but he wrote to him. On the train journey to Munich he was once again mistaken for Abrecht von Graefe by the daughter of the St. Gallen colonel Carl Emil von Gonzenbach. He visited Adolf Friedrich Graf von Schack and was in the Pinakothek and the Glyptothek. Tomorrow he expects his brother Julius in Munich, where he wants to stay for another two weeks. He remembers the time spent together in Heiden with fondness and thinks of little Gertrud, the daughter of the sanatorial physician Johannes Küng von Gais. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1862-09-04" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001644">Thile, Hermann von (1812–1889)</persName>
+<placeName key="G000686">Heiden (Schweiz)</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<dateline rendition="#right">München. Augsburger Hof. <lb/>4 <hi rendition="#aq">S<ex>e</ex>pt<ex>em</ex>b<ex>e</ex>r</hi> 1862.</dateline>
+</opener>
+<p>Diese wenigen Zeilen sollen Ihnen, sehr teurer Herr, anzeigen, daß ich vorgestern glücklich hier anlangte. <seg type="comment"><orig>In <placeName key="G067553">Ragatz</placeName> wurde ich von der<persName key="G001261"> Großfürstin</persName> sofort u<ex>nd</ex> freundlich angenommen</orig><note xml:id="najj_2l5_1mb">Nach seinem Aufenthalt in Heiden war Gregorovius am 30. August 1862 nach Ragaz gereist, da sich dort die Großfürstin Elena Pawlowna (1807–1873) von Russland aufhielt (siehe RT, 3.9.1862, S. 151). Bei ihren wiederholten Badereisen dort pflegte sie üblicherweise Umgang mit russischen Persönlichkeiten und mit Gelehrten aus der Schweiz.</note></seg>, mußte mit ihr frühstücken u<ex>nd</ex> diniren, u<ex>nd</ex> mich unterhalten. Nur die <seg type="comment"><orig><persName key="G001523"><hi rendition="#aq">Rahden</hi></persName> war dort</orig><note xml:id="nkrc_fl5_1mb">Die von Gregorovius hoch geschätzte Gesellschafterin der Großfürstin, Editha von Rahden (1823–1885).</note></seg>, u<ex>nd</ex> Abends der <seg type="comment"><orig><persName key="G067630">rußische Gesandte</persName> in <placeName key="G000637"><hi rendition="#aq">Bern</hi></placeName>, ehedem in <placeName key="G000619">Athen</placeName></orig><note xml:id="ngsy_fl5_1mb">Im Tagebuch von Gregorovius „Uwaroff“ benannt, ein Transkriptionsfehler der Herausgeber oder ein Hörfehler von Gregorovius. Gemeint ist Aleksandr Petrovič Ozerov (1817–1900), der als russischer Gesandter in Athen (1856) tätig war, bevor er 1858 nach Bern kam und 1862 bis 1869 dort Ausserordentlicher Gesandter und bevollmächtigter Minister wurde.</note></seg>, doch <seg type="comment"><orig>nach Ihrer Zeit</orig><note xml:id="nw52_hl5_1mb">Hermann von Thile war 1852–1853 preußischer Gesandter in Athen.</note></seg>.</p>
+<p><seg type="comment"><orig>In <persName key="G001116">Erhards</persName> Wohnung</orig><note xml:id="njrt_hl5_1mb">Der Arzt des deutschen Krankenhauses in Rom, Wolfgang Erhardt (1819–1906), war vom 18.-28. August in Bad Pfäfers bei Bad Ragaz (siehe den Brief von Gregorovius an Thile, 17.8.1862 in: Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 56).</note></seg> war nichts abgegeben; man wußte jedoch von einem nachgesandten Tuch; ich <seg type="comment"><orig>schrieb an ihn von <placeName key="G000620">Augsburg</placeName> aus, wo ich die Nacht u<ex>nd</ex> einen halben Tag blieb</orig><note xml:id="ndxw_3l5_1mb">Gregorovius hatte in Augsburg die Redaktion der „Allgemeinen Zeitung“ besucht (siehe RT, 3.9.1862, S. 151). Der Brief von Gregorovius an Wolfgang Erhardt ist nicht erhalten.</note></seg>. Seine Adresse bis zum 10. <hi rendition="#aq">S<ex>e</ex>pt<ex>em</ex>b<ex>e</ex>r</hi> ist <placeName key="G067594">Münster bei Cannstadt</placeName>.</p>
+<p>Auf der Eisenbahn (n<ex>ach</ex> Ragatz) <pb n="1v"/>passirte mir wieder die Spaßhafte Komödie der Irrungen, da mich ein <seg type="comment"><orig>schön Fräulein für <persName key="G001189">Herrn v<ex>on</ex> Gräfe</persName> hielt, u<ex>nd</ex> dieserhalb ihren Vater (<persName key="G067631">Oberst <hi rendition="#aq">Gonzenbach</hi></persName> aus <placeName key="G000580">S<ex>ank</ex>t <hi rendition="#aq">Gallen</hi></placeName>) zu mir schickte</orig><note xml:id="np55_jl5_1mb">So auch im Brief von Gregorovius an Hermann von Thile vom <ref target="G000135">12.7.1861</ref>. Der eidgenössische Oberst Carl Emil von Gonzenbach (1816–1886), sein Bruder August von Gonzenbach (1808–1887) war Teilhaber des Handelshauses der Gebrüder Gonzenbach in St. Gallen. Carl Emil von Gonzenbach hatte mit seiner Frau Anna Maria Dorothea, geb. Wetter (1826–1911), drei Kinder. Da ihr ältestes Kind Maria Karolina (1854–1882) damals acht Jahre war, ist sie hier sicher nicht mit dem Oberst gereist.</note></seg>. Ich hoffe noch mehr so angenehme <seg type="comment"><orig><hi rendition="#aq"><foreign xml:lang="Lat">qui pro quo</foreign></hi></orig><note xml:id="njmq_ml5_1mb">Lat.: dies für das.</note></seg> zu erleben.</p>
+<p>Die meisten Münchner, die ich sehen wollte, sind draußen. Ich komme eben ermüdet von der<orgName key="G000510"> Bibliothek</orgName>, u<ex>nd</ex> <seg type="comment"><orig>bin auf dem Sprunge zu<add place="intralinear">m</add> Mittagstisch zu <persName key="G001573">Herrn v<ex>on </ex>Schack</persName> zu gehen, den ich gestern aufsuchte u<ex>nd</ex> fand</orig><note xml:id="npbm_nl5_1mb">Gregorovius hatte den Kunstmäzen, Schriftsteller, Hispanisten und Arabisten Adolf Friedrich Graf von Schack (1815–1894) in seinem Palais in der Brienner Straße 22 besucht und ihn während seines Aufenthaltes bis zum 13. September häufiger getroffen (siehe RT, 3.-12.9.1862, S. 152–153). Siehe auch den Brief von <ref target="G000161">Gregorovius an Schack, 11.9.1862</ref>. </note></seg>. Er sieht sehr wol u<ex>nd</ex> heiter aus; mit großer Liebe u<ex>nd</ex> Verehrung denkt er Ihrer. Seine Wohnung ist kleinstädtisch reizend, und <pb n="2r"/>comfortable.</p>
+<p><seg type="comment"><orig>Ich erwarte morgen meinen <persName key="G001203">Bruder</persName></orig><note xml:id="nvx3_4l5_1mb">Julius Gregorovius (1819–1891) kam am 5. September 1862 nach München (siehe RT, 8.9.1862, S. 152).</note></seg>. Noch sah ich wenig von München, doch durchstrich ich <orgName key="G067529"><seg type="comment"><orig>Pinakothek</orig><note xml:id="ndfb_pl5_1mb">Die 1836 unter König Ludwig I. von Bayern (1786–1868) eröffnete Alte Pinakothek.</note></seg></orgName> u<ex>nd</ex> <orgName key="G067530"><seg type="comment"><orig>Glyptothek</orig><note xml:id="na5s_pl5_1mb">Das unter König Ludwig I. von Bayern (1786–1868) von 1816 bis 1830 nach Plänen von Leo von Klenze (1784–1864) am Königsplatz errichtete Museum für antike Skulpturen.</note></seg></orgName>, u<ex>nd</ex> <seg type="comment"><orig>manche Teile der Stadt</orig><note xml:id="nyxh_ql5_1mb">In seinem Tagebuch hält Gregorovius wenige Tage später über seinen späteren Wohnsitz fest: „Immer aber wird es bewundernswürdig sein, was ein geistreicher Fürst [König Ludwig I. von Bayern] hier geschaffen hat. Die Künste blühten hier wirklich: Cornelius, Schwanthaler, Schnorr, Rottmann, Klenze, Veit, Overbeck, Ohlmüller, Gärtner etc. Die Sammlungen in den Pinakotheken und der Glyptothek würden selbst Florenz und Rom zieren.“ (RT, 8.9.1862, S. 152).</note></seg>. Das Wetter ist gut. Ich bleibe wol noch 14 Tage hier, um zu arbeiten.</p>
+<p>Wenn mir gegeben wäre, Worte zu machen, statt hölzerner Art zu sein, so würde ich vieles von dem sagen, was mich, trotz des elenden Regens, <seg type="comment"><orig>bei Ihnen so sehr erquickt hat</orig><note xml:id="nqqz_ql5_1mb">Gregorovius war am 20. August 1862 über den Julierpass von St. Moritz über Chur mit Zwischenhalt in Zürich nach Heiden gefahren, wo er Hermann von Thile (1812–1889) mit seiner Familie und dessen Schwager Albrecht von Graefe (1828–1870) und seiner Frau Anna, geb. Gräfin Knuth (1842–1872), traf (siehe RT, 27.8.1862, S. 151).</note></seg>. Dies ist das Herrlichste gewesen, daß mir bewußt ward, wie Sie u<ex>nd</ex> <persName key="G001645">Ihre Frau Gemalin </persName>mir wolwollend geblieben sind. Bleiben Sie mir so gesinnt, das Leben <pb n="2v"/>lang. Und nun muß ich schließen – „der Rest sei Schweigen.“</p>
+                <closer>
+<salute xml:id="s1" next="#s2">Mit inniger Verehrung und Dankbarkeit</salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">Ihr</salute>
+                    <signed rendition="#right">FGregorovius</signed></closer>
+<note type="postscript">Grüßen Sie doch, verehrte <seg type="comment"><orig>Frau v<ex>on</ex> Thile</orig><note xml:id="nymd_sl5_1mb">Ottilie von Thile.</note></seg>, auch <persName key="G067632"><seg type="comment"><orig>Trudelchen</orig><note xml:id="nnyt_sl5_1mb">Gertrud Küng von Gais, die Tochter des Kurarztes Johannes Küng von Gais (1800–1885) aus Heiden.</note></seg></persName> recht schön von mir; ich kann nicht sagen, welch’ ein freundliches Andenken an <hi rendition="#aq">Heiden</hi> Sie selbst in dem kleinen Bild mir geschenkt haben.<p><persName key="G001643">Hans</persName> u<ex>nd</ex> <seg type="comment"><orig>Herrn <unclear reason="illegible" cert="high">Borstedt</unclear></orig><note xml:id="nvdl_tl5_1mb">Nicht ermittelt.</note></seg> bitte ich nicht zu vergeßen.</p></note>
+            </div>
+        </body>
+    </text>
+</TEI>

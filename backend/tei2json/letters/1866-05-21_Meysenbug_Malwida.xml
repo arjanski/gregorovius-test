@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000237">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Malwida von Meysenbug in Florenz. Rom, 21. Mai 1866</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>116/107 (10)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¾ S. – 2r Textverlust auR durch Blattabschnitt </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 5 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution> GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 86, Mappe 2 (nach D1)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Berta Schleicher: Ferdinand Gregorovius und Malwida von Meysenbug. Unveröffentlichte Briefe. In: Der Türmer. Monatsschrift für Gemüt und Geist. Jg. 25. H. 5. Stuttgart 1923. S. 314</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die freundlichen Beileidsbekundungen zu seiner in Florenz verstorbenen Freundin Pauline Hillmann. Über die politische Situation Italiens, die sie vermutlich veranlasst, in die Schweiz zu gehen. Er bittet um Nachrichten über ihren gemeinsamen Freund Friedrich Althaus.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He thanks for the kind condolences after his friend Pauline Hillmann passed away in Florence. About the political situation in Italy, which probably prompted her to go to Switzerland. He asks for news about their mutual friend Friedrich Althaus. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1866-05-21" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001418">Meysenbug, Malwida von (1816–1903)</persName>
+<placeName key="G000671">Florenz</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right"><hi rendition="#aq">Rom</hi> 21. <hi rendition="#aq">Mai</hi> 66.</dateline>
+</opener>
+<p>Ich danke Ihnen erst Spät für Ihre freundlichen Worte, die Sie mir bei einer so <seg type="comment"><orig>trauervollen Gelegenheit</orig><note xml:id="nbtd_5d3_gmb">Am 3. April 1866 war seine enge Freundin Pauline Hillmann in Florenz gestorben.</note></seg> geschrieben haben, doch soll deshalb meine Erkenntlichkeit nicht minder herzlich sein. Das Leben wird immer öder um mich her, und wol darf ich sagen, und dies in jeder Hinsicht, daß alles was im Höchsten wertvoll darin für mich war, nun schon jenseits der Wirklichkeit liegt.</p>
+<p>So dunkel das Persönliche, so tief verworren das Allgemeine, und so aufregend der Schmerz um die abschreckende Lage des <placeName key="G000664">Vaterlandes</placeName>, wo frevelvoller Übermut die schönsten Mittel der Lösung unbrauchbar werden ließ. Das zieht nach Gesetzen der Natur chaotische Auflösung nach sich.</p>
+<p><pb n="1v"/><seg type="comment"><orig>Unter den jetzigen Verhältnissen werden auch Sie keine angenehmen Tage mehr in Florenz haben, wo die Aufregung bei einer, wie es scheint, verfrühten Kriegsfurie, welche nicht aus dem Instinkt des Volkes, sondern nur aus politischen Verhältnißen entstanden ist</orig><note xml:id="nr2g_wd3_gmb">Der Dritte Italienische Unabhängigkeitskrieg, der der Eroberung der noch immer unter österreichischem Herrschaft stehenden Venetien galt, stand kurz bevor. Am 8. April 1866 hatte die italienische Regierung ein Militärbündnis mit Preußen geschlossen, denn wie Preußen sah auch Italien Österreich als Hindernis auf dem Weg zu ihrer jeweiligen nationalen Einigung. Unter Vermittlung Frankreichs schloss sich Italien der preußischen Kriegserklärung an Österreich an. Auf italienischer Seite endete der Krieg zwar mit einer militärischen Niederlage gegen Österreich, aber schlussendlich doch mit dem angestrebten territorialen Erfolg: Österreich unterlag in der Schlacht bei Königgrätz in Böhmen am 3. Juli 1866 gegen die preußischen Truppen und musste schließlich kapitulieren und an Frankreich abtreten. Am 12. August 1866 wurde in Cormòns (Friaul) der Waffenstillstand zwischen Österreich und Italien unterzeichnet. Im Frieden von Prag wurde dem italienischen König am 23. August 1866 die Lombardei übergeben. Frankreich reichte Venetien im Frieden von Wien an Italien weiter. Da Italien Venetien nicht als Geschenk von Frankreich annehmen wollte, wurde am 21. und 22. Oktober 1866 ein Plebiszit durchgeführt, das sich mehrheitliche für einen Anschluss an Italien aussprach.</note></seg>, sehr peinlich sein muß. Ich wünsche wol den Italienern einen guten u<ex>nd</ex> mannhaften Krieg, damit sie darin sich selbst erringen – <seg type="comment"><orig>ihre Erfolge von 1859 waren glückliche Geschicke, doch keine eigenen Thaten zu nennen</orig><note xml:id="nbfx_b23_gmb">Der von Sardinien-Piemont provozierte, zweite Italienische Unabhängigkeitskrieg gegen Österreich endete nur mit Hilfe der verbündeten französischen Truppen zugunsten Italiens. Nachdem die österreichische Armee am 24. Juni 1859 in Solferino und San Martino von Frankreich und Sardinien geschlagen wurden, musste Österreich im Frieden von Zürich am 10. November 1859 die Lombardei an Frankreich abgeben; Napoleon III. reichte die Provinz an Sardinien weiter. In der Folge verlor Österreich durch Volksabstimmungen 1860 auch die Toskana und Modena. Italien wurde zum Nationalstaat geeint. Zwischen Napoléon III. und Vittorio Emanuele wurde 1860 der Anschluss des Herzogtums Savoyen und der Grafschaft Nizza an Frankreich vollzogen. Auch der Kirchenstaat büßte große Teile seines Territoriums an des neue Italien ein: die Romagna, Umbrien und die Marken. Lediglich Rom selbst und Latium verblieben, durch französische Truppen gesichert, im Besitz des Kirchenstaates. Am 17. März 1861 war Vittorio Emanuele zum König von Italien proklamiert worden.</note></seg>; u<ex>nd</ex> nur mit solchen wird das geschichtliche Leben das Eigentum der Nation.</p>
+<p>Ich denke mir, daß Sie bald <pb n="2r"/>ein <seg type="comment"><orig>Asyl in der <placeName key="G000870">Schweiz </placeName>aufsuchen werden, und würde Ihnen Glück zu einem ruhigen und ungestörten Leben in <placeName key="G000676">Genf</placeName> wünschen</orig><note xml:id="nwcm_j23_gmb">Malwida von Meysenbug ging 1867 nach Venedig.</note></seg>. </p>
+<p>Es wird nun bald ein Jahr, daß ich nach Florenz reiste – die Zeit stürmt vorüber, und Gras wächst schon über den Gräbern, wo diejenigen, welche uns teuer waren, eben versenkt worden sind.</p>
+<p>Möchte es Ihnen u<ex>nd</ex> den <persName key="ed_e35_qhg_l3b ed_el2_phg_l3b"><seg type="comment"><orig>Kindern Herzens</orig><note xml:id="nabs_k23_gmb">Die Töchter Alexander Herzens, die Pflegetöchter Malwida von Meysenbugs, Olga und Natalie Herzen. </note></seg></persName> wol ergehen – ich gedenke oft Ihrer aller in Freundlichkeit.</p>
+<p>Wenn Sie etwas über das Schicksal von <persName key="G000920"><seg type="comment"><orig>Althaus</orig><note xml:id="ny1d_n23_gmb">Beider in London lebender Freund Friedrich Althaus.</note></seg></persName> wissen, so bitte ich, mir davon mitzuteilen. Es beunruhigt mich, mir vorzustellen, daß er vielleicht in Bekümmerniß u<ex>nd</ex> Sorge seine Tage hinbringt. </p>
+<p><gap reason="lost" unit="lines" quantity="1"/></p>
+</div>
+        </body>
+    </text>
+</TEI>

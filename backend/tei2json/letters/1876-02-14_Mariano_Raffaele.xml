@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000198">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Rom. München, 14. Februar 1876</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt></titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 1 ¼ S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Sein Bruder Julius trauert um den plötzlich verstorbenen Theodor Freiherr von Troschke. Mariano soll einen bereits abgeschlossenen Artikel über diesen als Nachruf in „Il Diritto“ veröffentlichen. Von Antonino Bertolotti hat er zwei Artikel aus „Il Diritto“ (1876) und „L’Eco delle Alpi Cozie“ (1876) über die Rücknahme seiner Ernennung zum Ehrenbürger erhalten. Die Angelegenheit belastet ihn ähnlich wie die Komplikationen bei der italienischen Übersetzung seiner „Geschichte der Stadt Rom im Mittelalter“ (1866; 1872–1876). Er hegt dennoch keinen Groll gegen Domenico Guglielmi, der seine Ernennung zum Ehrenbürger von Andria forciert hatte.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1876-02-14" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Monaco, 14. Feb<ex>b</ex>r<ex>aio</ex> 76.</dateline>
+                    <salute>Caro amico Mariano,</salute>
+                </opener>
+<p>il mio <persName key="G001203">fratello</persName>, tutto afflitto, le comunica la subitanea morte del povero generale de <seg type="comment"><orig><persName key="G001660">Troschke</persName></orig><note xml:id="nvpb_pdv_zlb">Der preußische Generalleutnant a. D. und Militärhistoriker Theodor Freiherr von Troschke (1810–1876). </note></seg>, avvenuta 3 giorni fà, mentre egli stava <seg type="comment"><orig>in legno</orig><note xml:id="nzk2_qdv_zlb">Gemeint ist eine Pferdekutsche.</note></seg>, per recarsi ad un’adunanza della commissione militare. In quest’uomo cavalleresco e pieno d’ingegno il mio fratello perde un vero amico. Ora lei potrà rendere la defunto un tributo di onore pio, con far inserire nel <orgName key="G000518">Diritto</orgName> quell’<seg type="comment"><orig>articolo</orig><note xml:id="nkw1_rdv_zlb">Nicht ermittelt.</note></seg>, che tiene in mano bello e pronto; e potrà anche dire, che il Troschke sarà compianto da tutta l’armata tedesca come un militare raro per le sue virtù, e massime per le sue profondissime cognizioni nel<del rendition="#s">la</del> vasto campo della scienza sua propria.</p>
+<p>Stò malissimo cogli occhi.</p>
+                <p>Ho indovinato l’autore dell’<seg type="comment"><orig>articolo</orig><note xml:id="nrjf_sdv_zlb">Nicht ermittelt.</note></seg> riferentesi alla <seg type="comment"><orig><add place="superlinear">benedetta</add> cittadinanza</orig><note xml:id="nekj_tdv_zlb">Auf Domenico Guglielmis Initiative ernannte der Stadtrat von Trani Gregorovius zum Ehrenbürger von Andria (vmtl. Januar 1876). Nachdem Guglielmis Übersetzung von Gregorovius’ „Andria“ (1875, „Allgemeine Zeitung“) kurze Zeit später im „Costituzionale“ zu Trani erschienen war, machte der Stadtrat dies jedoch wieder rückgängig, da Gregorovius die Stadt als schmutzig und gesellschaftlich ausgestorben bezeichnet hatte. Sowohl die italienische als auch die deutsche Presse thematisierte den Vorgang (siehe „Allgemeine Zeitung“, 27.1.1876, Nr. 27, S. 383 und „Salzburger Zeitung“, Nr. 16, 21.1.1876; Grundlage der deutschsprachigen Berichte war ein Artikel aus der italienischen Tageszeitung „Il Fanfulla“. Siehe auch den Brief von Gregorovius an Raffaele Mariano vom 27.1.1876).</note></seg>, stampato nel Diritto. Egli dev’essere <seg type="comment"><orig>il <persName key="G000966">Bertolotti</persName></orig><note xml:id="nacq_5dv_zlb">Antonino Bertolotti (1834–1893), Archivar und Schriftsteller, seit 1871 im Archivio di Stato di Roma, wo er insbesondere Archivalien zu den römischen Künstlern des 15. bis 18. Jh. sichtete und in Fachorganen zwischen 1875 und 1880 publizierte. Seit 1880 Direktor des Staatsarchivs in Mantua; siehe Guglielmo Capogrossi Guarna: Bertolotti, Antonio, in: DBI, 9, 1967, S. 612–613.</note></seg> dell’<orgName key="ed_xmf_1hh_zkb">Archivio di Stato Romano</orgName>, persona per altro ottima e che mi vuol bene, ma eccede e travvede in questo suo amore. L’articolo mi venne tramandato proprio da lui, e poco dopo egli mi spedì un’<seg type="comment"><orig>altra relazione</orig><note xml:id="natt_vdv_zlb">Nicht ermittelt.</note></seg> inserita nell’<seg type="comment"><orig><orgName key="G000479">Eco delle Alpe Cozie</orgName></orig><note xml:id="nk15_wdv_zlb">„L’Eco delle Alpi Cozie“, Tageszeitung des Gebiets von Pinerolo; die Alpi Cozie sind die südwestlichen Alpen auf der Grenze zwischen Frankreich und Italien.</note></seg> (ed è la patria del B<ex>ertolotti</ex> il <placeName key="G000753">Pinerolo</placeName>); le manderò più tardi questo scritto, che per difetto di tatto sapeva ogni altra cosa di questo genere. La relazione è del 30. Gennaro. Sono più che stufo di questa faccenda, che chiamo la maggior seccatura mia dopo quella sofferta da me per tanto tempo per causa della <bibl corresp="G004366"><seg type="comment"><orig>versione <pb n="1v"/>italiana della mia opera</orig><note xml:id="nnws_xdv_zlb">Die erste Auflage der italienischen Übersetzung der „Geschichte der Stadt Rom im Mittelalter“ („Storia della città di Roma nel Medio Evo, dal secolo V al XVI. Prima versione italiana di Renato Manzato. “ beim Verlag Antonelli (Venedig, Turin 1866) wurde nach zwei Bänden von Gregorovius auf Grund von mangelnder Qualität abgebrochen; der Verlag war außerdem bankrott. Die auf Antrag des Marchese Francesco Vitelleschi (1829–1906) ab 1872 vom römischen Stadtrat finanzierte neue Übersetzung der „Storia della città di Roma nel Medio Evo“ erschien bis 1876 in acht Bänden.</note></seg></bibl>.</p>
+<p>Se crede, <seg type="comment"><orig>scriverò due righe al <persName key="G001221">Gugl<ex>ielmi</ex></persName>,</orig><note xml:id="ncyv_ydv_zlb">Er schrieb Domenico Guglielmi, erhielt jedoch erst im April Antwort (siehe die Briefe von Gregorovius an Raffaele Mariano, 28.2. und 18.4.1876)</note></seg> per confortarlo e per rassicurarlo intorno i miei sentimenti per lui, che non sono alterati. M’immagino, ch’egli sarà molto afflitto, e oppresso anche da rimproveri – e per vero dire, egli ne ha ben donde.</p>
+                <closer>
+                    <salute>Termino la lettera con tanti saluti dei miei.</salute>
+                    <signed rendition="#c">FGr.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067761">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. Rom, 16. Juni 1875 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p> Adr.: Illustrissimo Signore / il Signor Conte Giovanni Gozzadini / Senatore del Regno / Bologna</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell’Archiginnasio</institution><collection>Ms. Gozzadini 442</collection><idno>(24)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für Gozzadinis Studie „De quelques mors de cheval italiques et de l'épée de Ronzano en bronze“ (1875) und für ein Werk von Carlo Pepoli. Über seine Apulienreise zu den Monumenten der Hohenstaufen und seine Arbeit im Archivio di Stato in Rom. Er plant, jährlich nach Italien zu kommen, um seine Freundschaften zu pflegen. Grüße an Maria Teresa Serego Alighieri Gozzadini.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1875-06-16" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni conte (1810–1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Roma, 16. Giugno 1875.</dateline>
+                    <salute rendition="#c">Gentilissimo signor Conte,</salute>
+                </opener>
+<p>le rendo mille grazie del prezioso dono, che nuovamente mi ha fatto, destinandomi una copia dell’<bibl sameAs="ed_tgn_zmh_zkb">ultima sua opera</bibl>, scritta in lingua francese. Io ammiro la sua attività, rallegrandomene intimamente, e potrei dire anche vergognandomi nello stesso tempo di quella pigrizia, in cui pur troppo mi trovo immerso. Chè per verita non ho fatto nulla quì, che meriti il sacro nome del lavoro. <seg type="comment"><orig>Feci si un viaggio nelle province meridionali</orig><note xml:id="ndbt_p15_zlb">Er war vom 1.-21. Mai durch Apulien gereist (siehe RT, 23.5.1875, S. 351–355), vornehmlich um die mit der Hohenstauffer-Zeit verbundenen Monumente zu besichtigen. Allerdings wurde sein, auf einer seinem Brief vom 24.9.1874 beigelegten fünfseitigen Liste beruhender Plan mit den einzelnen „Illustrationen zu den Geschichtlichen Denkmälern der Hohenstaufen in Italien“ von Barbarossa bis Conradin (DLA Marbach, Cotta-Archiv, Cotta-Briefe, 208 und 208a – ohne die Beilagen gedruckt in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 367–368) von Cotta aus Kostengründen abgelehnt. Die für das Album vorgesehenen Texte wurden von Gregorovius im 5. Band der „Wanderjahre in Italien“ (1877) zusammengefasst. Im Vorwort dieses Bandes heißt es dazu: „Ich wollte nämlich ein Album historischer Landschaften und Monumente in Italien herausgeben, bezüglich auf die Geschichte der Hohenstaufen. Zu diesem Zweck hatte ich mich mit meinem Freunde Karl Lindemann vereinigt, welcher die betreffenden Zeichnungen zu liefern übernommen hatte, und von seiner bewährten Meisterhand konnte nur etwas wirklich Schönes und Künstlerisches erwartet werden. Diesen Plan hindert noch die Kostspieligkeit des Unternehmens, oder der Druck, welcher augenblicklich auf allen größeren Unternehmungen auch solcher Natur lastet. Ich glaube, daß dies zu bedauern ist. Wenigstens sollten wir Deutsche ein Werk dieser Art besitzen.“ </note></seg> dell’Italia, affine di conoscere alcuni monumenti e locali, che sono conservati alla memoria della casa degli <persName key="G067884">Hohenstauffen</persName>, e rovistai un po’ nelle carte dell’<orgName key="ed_xmf_1hh_zkb">Archivio di Stato</orgName>, <seg type="comment"><orig>che si sta formando attualmente in Roma</orig><note xml:id="nk4d_r15_zlb">Die aus den säkularisierten Klöstern entwendeten Bibliotheken und Dokumentsammlungen gingen in das 1871 gegründete Archivio di Stato di Roma ein. Gregorovius verfasste dazu in der „Historischen Zeitschrift“ einen Aufsatz mit dem Titel „Das Römische Staatsarchiv“ (Bd. 36. München: Oldenbourg 1876. S. 141–178).</note></seg>. </p>
+<p>Ora la mi dimora quì volge alla sua fine; ritornerò in <placeName key="G000664">patria</placeName> dopo quindici giorni, <seg type="comment"><orig>per riunirmi colla <persName key="G001203 G001204">mia famiglia</persName> in <placeName key="G000734">Monaco</placeName></orig><note xml:id="nsv3_s15_zlb">Er verließ Rom am 28. Juni und reiste über Kufstein und Traunstein, wo er zwei Monate blieb, nach München. Dort traf er am 1. September ein (siehe RT, 1.3.1875, S. 359). Am 10. September 1874 hatte er sich dort mit seinem Bruder Julius (1819–1891) und ihrer gemeinsamen Halbschwester Ottilie (1834–1907) niedergelassen; siehe den Brief von Gregorovius an Raffaele Mariano vom 20.9.1874.</note></seg>. Quantunque io abbia dato fine a <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">quegli studi storici</bibl>, che <seg type="comment"><orig>per tanto tempo mi <pb n="2"/>legarono a Roma</orig><note xml:id="nxs3_t15_zlb">Für die Arbeit an seiner „Geschichte der Stadt Rom im Mittelalter“ (8 Bde., 1859–1872) und seine anderen historischen Arbeiten hatte er 22 Jahre, von 1852–1874, in Italien verbracht; siehe dazu den Brief von Gregorovius an Ersilia Caetani Lovatelli vom 15.11.1874.</note></seg>, non dispero di poter ritornare in <placeName key="G000690">Italia</placeName> ogni anno, per rinnovarmi le mie relazioni, acciochè io non troppo presto sia dimenticato in Italia. In quanto a Lei e la gentilissima <persName key="G001092">signora Contessa</persName> mi lusingo colla certissima speranza, che Lor Signorie continueranno a serbarmi una memoria benevola. Ho il debito ancora di ringraziarla dell’essersi incaricato di spedirmi l’opuscolo del <seg type="comment"><orig><persName key="ed_v4j_cph_zkb">Conte C<ex>arlo</ex> Pepoli</persName></orig><note xml:id="nnhl_515_zlb">Der in Bologna geborene und ansässige Conte Carlo Pepoli (1796–1881) war Dichter und Politiker. Er war seit 1860 Abgeordneter im Parlament der Romagna, seit 1862 Senator des Königreichs und von 1862–1866 Bürgermeister von Bologna. Seit 1860 unterrichtete er Philosophie an der Universität von Bologna und war Sekretär der Akademie der Schönen Künste. Seine Sammlung bologneser Architekturzeichnungen vermachte er 1863 der Biblioteca Comunale dell’Archiginnasio. Es ist nicht ermittelbar, welche Publikation Pepolis Gregorovius über Gozzadini zugegangen war.</note></seg>, il quale ringraziai del dono fattomi mediante una lettera, cui quel distinto Signore diede <seg type="comment"><orig>gentilissimo riscontro</orig><note xml:id="ntrj_v15_zlb">Es ist kein Brief von Gregorovius an Carlo Pepoli oder ein Gegenbrief erhalten.</note></seg>. </p>
+<p>Augurando a Lor Signorie una perfetta salute e la più bella villeggiatura <seg type="comment"><orig>in <placeName key="G000822">Ronzano</placeName></orig><note xml:id="nung_w15_zlb">Zu dem von Gozzadinis in der Villa Ronzano unterhaltenen Salon, in dem auch Gregorovius regelmäßig gast war, siehe den Brief von Gregorovius an Giovanni Gozzadini vom 3.11.1856. Nach dem Tod der Gräfin Maria widmete Gregorovius dem Salon einen Essay: Die Villa Ronzano. Ein Musensitz der Gozzadini von Bologna (ED in: Nord und Süd. Eine deutsche Monatsschrift. Bd. 23. Breslau, Berlin: Schottlaender 1882. S. 312–321 – aufgenommen in: KS Bd. 3, S. 97–120).</note></seg>, mi raffermo con affettuosa venerazione</p>
+                <closer>
+                    <salute rendition="#right">Lor servitor devoto</salute>
+                    <signed rendition="#right">Ferd. Gregorovius</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

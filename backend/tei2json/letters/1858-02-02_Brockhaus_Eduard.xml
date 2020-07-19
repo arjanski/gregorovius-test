@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000065">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Eduard Brockhaus in Leipzig. Rom, 2. Februar 1858</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (47)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 8°, 1 ¾ S. – 1r alR, Blatt um 90° gedreht, Eingangs- und Beantwortungsvermerk: 1858. / <hi rendition="#aq">Rom</hi>, 2./12. <hi rendition="#aq">Febr</hi>. / <hi rendition="#aq">Gregorovius</hi> / Unser Brief ist ohne weiteres Anzeichen dieses Schr heute abgegangen / B. 8./III.</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er erinnert an den Versand seines „Euphorion“ (1858) an Ottilie von Thile und reklamiert erneut die fehlende Verlagsanzeige des Erscheinens in der „Allgemeinen Zeitung“. Dieses fehlende Interesse des Verlags steht im Gegensatz zur Aufnahme seiner Schriften beim Publikum – darunter Carl Alexander Großherzog von Sachsen-Weimar-Eisenach. Das fehlende Engagement des Verlags hat ihn auch gehindert, Brockhaus seine „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) zum Verlag anzubieten, von der jetzt zwei Bände (1859) abgeschlossen sind. Sollte innerhalb von drei Wochen keine plausible Erklärung auf seine Reklamationen erfolgen, will er künftig anderen Verlagen seine Schriften anbieten.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He reminds Brockhaus to send his „Euphorion“ (1858) to Ottilie von Thile and complains once again about the publisher not advertising the publication in the „Allgemeinen Zeitung“. This lack of interest on the part of the publishing house contrasts with the reception of his writings by the public - including Carl Alexander Grand Duke of Saxony-Weimar-Eisenach. The publisher’s lack of commitment also prevented him from offering Brockhaus his „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) for publishing, two volumes (1859) of which have now been completed. If there is no plausible explanation in response to his complaints within three weeks, he will offer his publications to other publishers in the future. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1858-02-02" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+<persName key="G000995">Brockhaus, Eduard (1829–1914)</persName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next">8. März 1858</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Roma</hi> 2. <hi rendition="#aq">Februar</hi> 1858.</dateline>
+                    <salute rendition="#c">Sehr geehrter Herr,</salute>
+                </opener>
+                <p>unter dem 2. Januar habe ich Ihnen den <seg type="comment"><orig>Empfang der Exemplare des <hi rendition="#aq"><bibl sameAs="G003574">Euphorion</bibl></hi> angezeigt, Sie um die Zusendung eines Exemplars an die <persName key="G001645">Baronin v<ex>on</ex> Thile</persName> nach <placeName key="G000636">Berlin</placeName> ersucht, u<ex>nd</ex> endlich Sie gebeten, mich darüber aufklären zu wollen, weshalb Sie das Buch nicht anzeigen</orig><note xml:id="nqjm_vpc_tlb">Siehe Brief von <ref target="G000031">Gregorovius an Brockhaus, 2.1.1858</ref>. Nach dem Erledigungsvermerk des Verlags auf diesem Brief war der Versand eines Exemplars seines „Euphorion“ (1858) an Ottilie von Thile mit dem Begleitbrief von Gregorovius am 18. Januar 1858 erfolgt.</note></seg>. Es ist dasselbe nunmehr seit einem Vierteljahr ausgegeben, u<ex>nd</ex> <seg type="comment"><orig>durch die Nichtanzeige sind ihm die Wege der Bekanntwerdung bisher verschloßen</orig><note xml:id="nrjl_zpc_tlb">Die erste Rezension von Gregorovius’ „Euphorion“ erschien ohne Verfasserangabe in: Literaturblatt. Hrsg. von Wolfgang Menzel. Nr. 18. Stuttgart: Neff 3.3.1858. S. 71–72. In der „Allgemeinen Zeitung“ erschien statt einer Verlagsanzeige eine Rezension (Beilage zu Nr. 87 der AZ. Augsburg: Cotta 28.3.1858. S. 1386–1387. Für die Brockhaus-Zeitschrift „Blätter für literarische Unterhaltung“ schrieb ihr Herausgeber Rudolf Gottschall (1823–1909) eine Besprechung (Bd. 1. Nr. 16. Leipzig: Brockhaus 15.4.1858. S. 289–291).</note></seg>. Indem ich meine Verwunderung über diese mir gänzlich unerklärliche Thatsache <seg type="comment"><orig>wiederholt ausdrücke</orig><note xml:id="npfm_tqc_tlb">Siehe den Brief von Gregorovius an Brockhaus vom <ref target="G000031">2.1.1858</ref>.</note></seg>, bekenne ich, daß mich diese Erfahrung mit einem tiefen Schmerz erfüllt. Soll ich, geehrter Herr, annehmen, daß Sie so weit das Interesse an meinen Schriften verloren haben, daß es Ihnen selbst gleichgültig ist, ob sie <subst><del rendition="#ow">von</del><add place="across">in</add></subst> Deutschland todt geschwiegen werden? Dies kann ich doch nicht glauben, da mir so viele Stimmen, nämlich auch <seg type="comment"><orig>die des <persName key="G001022">Großherzogs von Sachsen</persName></orig><note xml:id="nasc_brc_tlb">Am 29.12.1857 hatte Carl Alexander Großherzog von Sachsen-Weimar-Eisenach (1818–1901) brieflich den Kontakt zu Gregorovius aufgenommen, dessen Schriften er schon länger bewundere und ihn gebeten, ihn insbesondere über seine „Grabmäler der Päpste“ (1857) näher in Kenntnis zu setzen (BSB München, NL Gregorovius, Gregoroviusiana 21). Siehe auch das geschmeichelte, aber eher reservierte Antwortschreiben von Gregorovius an den Großherzog vom <ref target="G000043">4.2.1858</ref>.</note></seg>, kommen, welche ihre Freude an meinen Arbeiten aussprechen. Ich bitte Sie demnach nochmals, mich über meine <pb n="1v"/>Frage aufzuklären, u<ex>nd</ex> so bald wie möglich, denn dieser Umstand hat mich bis heute verhindert, Ihnen <seg type="comment"><orig>die Offerte meiner Geschichte Rom’s zu machen, deren<bibl corresp="G003476 G003485"> erste 2 Bände</bibl> ich jetzt zum Druck einrichte</orig><note xml:id="nqnb_frc_tlb">Wie aus einem Brief von Robert Prutz (1816–1872) an Gregorovius vom 12.11.1857 hervorgeht, hatte sich Gregorovius schon im Vorjahr Gedanken gemacht, welcher Verlag zur Publikation seiner „Geschichte der Stadt Rom im Mittelalter“ (Stuttgart: Cotta 1859–1872) in Frage kommt. Prutz hatte ihm geraten, sich an Cotta oder Brockhaus zu wenden, aber auch einige andere Vorschläge gemacht (BSB München, NL Gregorovius, Gregoroviusiana 21). Gregorovius trug schließlich am <ref target="G000069">8. März 1858</ref> zuerst Brockhaus den Verlag seiner „Geschichte der Stadt Rom im Mittelalter“ an und legte seinem Brief ein ausführliches Konzept seines späteren 8-bändigen Hauptwerks bei. In seinem Brief an Brockhaus vom <ref target="G000088">19.4.1858</ref> drängt Gregorovius auf einen eindeutigen Bescheid. Brockhaus lehnte schließlich ab, so dass Gregorovius am <ref target="G000085">20. Mai 1858</ref> Johann Georg Freiherr Cotta von Cottendorf sein Werk zum Verlag anbot.</note></seg>. Wenn Sie, geehrter Herr, mich nicht innerhalb 3 Wochen durch eine Antwort beruhigen, werde ich annehmen, daß Sie auf ein weiteres Verhältniß zu mir nicht mehr reflectiren, u<ex>nd</ex> so schmerzlich es auch ist, lieb gewordene Beziehungen aufzugeben, werde ich mir dann nicht mehr erlauben, Ihrem geschätzten <orgName key="G000480">Verlage</orgName> Anträge zu machen.</p>
+                <closer>
+<salute rendition="#c">Mit großer Hochachtung, geehrter Herr, <lb/>Ihr ergebenster </salute>
+<signed rendition="#right">Ferd. Gregorovius</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

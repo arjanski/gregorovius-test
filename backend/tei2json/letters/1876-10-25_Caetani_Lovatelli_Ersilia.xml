@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067871">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Contessa Ersilia Caetani Lovatelli in Rom. München, 25. Oktober 1876</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno>Karton 59, Mappe 348 (nach D)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"><bibl type="print">Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli. Hrsg. von Sigmund Münz. Berlin: Paetel 1896. S. 85–86 (gekürzt) </bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Über seine Sehnsucht nach Rom, die Kälte in Deutschland und seine Vaterlandsliebe. Nach langen Jahren an seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) möchte er sich jetzt Griechenland zuwenden. In München fehlt ihm das gesellschaftliche Zentrum, auch Ludwig II. von Bayern wohnt auf dem Lande. </p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1876-10-25" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001011">Caetani Lovatelli, Ersilia contessa (1840-1925)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="85"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">München, 25. Oktober 1876.</dateline>
+</opener>
+<p>Sie werden nun schon mit Ihrer <persName key="G067827">Familie</persName> <seg type="comment"><orig>nach Rom zurückgekehrt sein</orig><note xml:id="nwmc_qhw_zlb">Aus einem früheren Brief ist bekannt, dass sich die Gräfin mit ihrer Familie während des Sommers am Golf von Neapel aufgehalten hat; siehe den Brief von Gregorovius an Ersilia Caetani Lovatelli vom 20.7.1876.</note></seg>. Darum adressiere ich dies mein Schreiben nach <seg type="comment"><orig>Ihrem <placeName key="ediarum_c23_sn4_qlb">Palast</placeName>,</orig><note xml:id="nibd_2xw_2mb">Der im späten 16. Jahrhundert errrichtete Palazzo Caetani Lovatelli im Stadtviertel Campitelli im historischen Zentrum Roms. </note></seg> und sehr gern würde ich selbst kommen, statt Sie durch einen todten Brief zu begrüßen. Aber die Nothwendigkeit erheischt es, <seg type="comment"><orig>daß ich noch manchen Monat hier in diesem Nebel, in dieser Kälte zubringe</orig><note xml:id="ns4b_shw_zlb">Am 1. Februar 1877 machte sich Gregorovius erneut nach Italien auf, erreichte Rom am 11. des Monats, wo er unter anderem auch die Freundin aufsuchte (siehe RT, Sommer, Herbst und Winter 1876/77, S. 373–374).</note></seg>, die wohl der vorschnelle Bote eines entsetzlichen Winters ist. Ich erinnere mich an eine Stelle in <seg type="comment"><orig><persName key="ed_oy1_j44_qlb">Tacitus</persName>’ „<bibl sameAs="ed_kkt_4gx_qlb">Germania</bibl>“,</orig><note xml:id="nttd_thw_zlb">Eine eindeutige Datierung der Schrift hat sich nicht durchgesetzt; vorgeschlagen wird auch eine Entstehung nach 103–106 n. Chr. Der römische Historiker und Senator beschreibt in dem kurzen, ethnographischen Werk Kultur und Geographie der Germanen, widmet sich deren Alltag, privaten und öffentlichen Leben sowie den verschiedenen regionalen Stämmen. Die Schrift ist geprägt durch Tacitus’ vergleichenden Ansatz seines eigenen Volkes gegenüber den Germanen.</note></seg> die besagt: <?oxy_comment_start author="Angela Steinsiek" timestamp="20200703T135257+0200" comment="bitte Stellennachweis!"?>„Wer wohl verließe <placeName key="ed_a5j_y44_qlb">Asien</placeName>, <placeName key="ed_g1g_5cy_1lb">Afrika</placeName> oder <placeName key="G000690">Italien</placeName> und gienge nach <placeName key="G000664">Deutschland</placeName>, wo der Himmel kalt ist und ein Land ohne Anmuth den traurigsten Anblick bietet, wenn er nicht von der Liebe zum Vaterlande dorthin getrieben würde?<?oxy_comment_end?>“ Es ist also diese heilige Liebe, die mich hier aufrecht hält, und um der vaterländischen Kultur nicht Unrecht zu thun, so gibt es hier noch sehr viel anderes Gutes, was mich tröstet. Ohne zu lügen, möchte ich sogar sagen, daß ich hier sehr zufrieden wäre, wenn mich nicht <seg type="comment"><orig>das barbarische Klima</orig><note xml:id="ncr4_hxw_2mb">Im Tagebuch heißt es in diesem Jahr: „Der Winter war ungewöhnlich milde, trotzdem litt ich gar sehr, namentlich an dem fortgesetzten Augenkatarrh.“ (RT, Sommer, Herbst und Winter 1876/77, S. 373).</note></seg> an meiner Gesundheit verzweifeln ließe. </p>
+<p>Nachdem ich durch so lange Zeit nicht ruhmlos <seg type="comment"><orig><foreign xml:lang="Lat">sub vexillo Romae</foreign> </orig><note xml:id="nizl_vhw_zlb">Lat.: unter römischer Fahne.</note></seg>gekämpft und <seg type="comment"><orig>mich der Muse zur Verfügung gestellt habe</orig><note xml:id="nprn_whw_zlb">Anspielung auf seinen Beitrag zur römischen Geschichtsschreibung und seine „Geschichte der Stadt Rom im Mittelalter“ (8 Bde., 1859–1872), für welche er im März diesen Jahres mit der römischen Ehrenbürgerwürde ausgezeichnet worden war; siehe den Brief von Gregorovius an Pietro Venturi vom 17.3.1876.</note></seg>, fühle ich nun auch das Bedürfniß, mich vermittels mancher Gedankenelemente zu erneuern, die von jenen meiner <pb n="86"/>Vergangenheit verschieden sind. <seg type="comment"><orig>Ich wollte demnach <placeName key="G000683">Griechenland</placeName> besuchen</orig><note xml:id="neql_xhw_zlb">Gregorovius plante mit seinem Bruder Julius (1819–1891) im März 1877 nach Griechenland zu reisen, was allerdings nicht erfolgte, da die ungelöste „Orientalische Krise“ die bis 1878 andauernde Balkankrise auslöste, bei welcher die Balkanländer durch kriegerische Aufstände um ihre Souveranität vom Osmanischen Reich kämpften. Erst Ende März 1880 brachen die Brüder zu einer anderthalbmonatigen Griechenlandreise auf; siehe RT, Romfahrt und Griechische Reise 1880, S. 419–420. Mit der griechischen Geschichte und Kultur hatte sich Gregorovius bereits früher beschäftigt: Geschichte des römischen Kaisers Hadrian und seiner Zeit. Königsberg: Bon 1851. XII, 282 S. Auch in späteren Jahren reiste er noch einmal nach Griechenland und setzte sich literarisch mit dem Orient auseinander; siehe RT, 26.2.1882, S. 426 sowie seine Arbeit „Der Kaiser Hadrian. Gemälde der römisch-hellenistischen Welt zu seiner Zeit“ (2. ‚neugeschriebene‘ Aufl. Stuttgart: Cotta 1884).</note></seg>.<gap reason="lost" unit="chars" quantity="1"/></p>
+<p>Was die Gesellschaft in diesem München anbelangt, so wären hier so viele höchst würdige und gelehrte Menschen, mit denen man verkehren könnte; diese jedoch erscheinen nicht in der Gesellschaft, leben isolirt und verkriechen sich sozusagen wie die Ratten. In München nämlich <seg type="comment"><orig>gibt es keinen gesellschaftlichen Mittelpunkt</orig><note xml:id="nut2_zhw_zlb">Entgegen seines Lamento ist anzunehmen, dass Gregorovius am gesellschaftlichen Leben Münchens teilnahm. So stand er mit der Akademie der Wissenschaften im Kontakt, hielt dort einen Vortrag (siehe den Brief von Gregorovius an die Commissione conservatrice dei monumenti storici e di belle arti di terra d’Otranto (Francesco Casotti) vom 5.12.1875), traf sich mit seinen Münchner Freunden wie dem Kunstsammler Adolf Graf von Schack (1815–1894), dem Kirchenhistoriker Ignaz von Döllinger (1799–1890) sowie dem Schriftsteller, Dichter und Übersetzer Paul Heyse (1830–1914). </note></seg>, es sei denn mancher Verein; die Vereine jedoch fliehe ich wie die Pest. Der Hof existirt nicht – <seg type="comment"><orig>der <persName key="ed_cgz_jp4_qlb">König</persName></orig><note xml:id="ncj2_13w_zlb">Ludwig II. von Bayern (1845–1886) war seit 1864 König von Bayern. </note></seg> versteckt sich im Walde. Er hat vielleicht Land und Zeit verfehlt. Er würde in der römischen Kaiserzeit ein schrecklicher Mensch geworden sein; gegenwärtig ist er ein Gemisch von <seg type="comment"><orig><persName key="ed_l5f_gq4_qlb">Caligula</persName></orig><note xml:id="nsd2_b3w_zlb">Gaius Caesar Augustus Germanicus (12–41), postum Caligula, römischer Kaiser von 37–41, der für seinen autokratischen Herrschaftsstil bekannt ist und schließlich ermordet wurde. </note></seg> und <seg type="comment"><orig><persName key="ed_tkl_nq4_qlb">Lohengrin</persName></orig><note xml:id="nwb2_c3w_zlb">Die Figur des Loherangrin stammt aus dem mittelalterlichen Versepos „Parzival“ von Wolfram von Eschenbach (um 1160/80–um/nach 1220). Der Ritter ist der Sohn des Gralskönigs Parzival und tritt als Helfer der Herzogin von Brabant auf. Da sich die Herzogin jedoch nicht an das Verbot hält, Lohengrin niemals nach seinem Namen zu fragen, ist er gezwungen, sie wieder zu verlassen. </note></seg> und schadet Niemandem.<gap reason="lost" unit="chars" quantity="1"/></p>
+</div>
+        </body>
+    </text>
+</TEI>

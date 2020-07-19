@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000069">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Eduard Brockhaus in Leipzig. Rom, 8. März 1858</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (49)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 8°, 4 S. – 1r aoR Eingangs- und Beantwortungsvermerk: 1858. / <hi rendition="#aq"><hi rendition="#aq">Rom</hi></hi>, 8/16. <hi rendition="#aq"><hi rendition="#aq">März</hi></hi> / <hi rendition="#aq"><hi rendition="#aq">Gregorovius</hi></hi> / B. 8./IV. </p>
+<p>Manuskript des Aufsatzes „Aus der Campagna von Rom. Subiaco, das älteste Benedictinerkloster des Abendlandes, seine Geschichte und seine Altertümer“ und <ref target="G000035" type="hasAttachment">Konzept seiner „Geschichte der Stadt Rom im Mittelalter“</ref>, Rom, 7. März 1858.</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Die „Allgemeine Zeitung“ hat von seinem Aufsatz „Aus der Campagna von Rom. Subiaco, das älteste Benedictinerkloster des Abendlandes, seine Geschichte und seine Altertümer“ nach langer Wartezeit nur den ersten Teil gedruckt und sein Manuskript wegen konfessioneller Bedenken dann zurückgesandt. Er möchte den Beitrag im „Deutschen Museum“ gedruckt sehen. Mit der Übersendung eines ausführliches Konzepts seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) bietet er Brockhaus sein Lebenswerk zum Verlag an, von dem bereits zwei Bände im Manuskript abgeschlossen sind (1859); er verlangt hierfür das höchstmögliche Honorar. Jean-Jacques Ampère will für das „Journal des débats politiques et litteraires“ eine Rezension seiner „Grabmäler der Päpste“ (1857) schreiben. Sein „Euphorion“ (1858) ist in Deutschland bislang wenig beachtet worden. Sein „Corsica“ (dt. 1854) soll derzeit ins Französische und die „Figuren. Geschichte, Leben und Scenerie in Italien“ (dt. 1856) ins Russische übersetzt werden.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">The „Allgemeine Zeitung“ printed only the first part of his essay „Aus der Campagna von Rom. Subiaco, das älteste Benedictinerkloster des Abendlandes, seine Geschichte und seine Altertümer“, after a long time, and then returned his manuscript due to denominational concerns. He would like to see the article printed in the „Deutsches Museum“. By sending a detailed concept of his „Geschichte der Stadt Rom im Mittelalter“ (1859–1872), he offers Brockhaus his life’s work for publishing, of which two volumes have already been completed in manuscript (1859); he demands the highest possible fee for this. Jean-Jacques Ampère wants to write a review of his „Grabmäler der Päpste“ (1857) for the „Journal des débats politiques et litteraires“. His „Euphorion“ (1858) has so far received little attention in Germany. His „Corsica“ (ger. 1854) is currently being translated into French and the „Figuren. Geschichte, Leben und Scenerie in Italien“ (ger. 1856) are to be translated into Russian. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1858-03-08" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+<persName key="G000995">Brockhaus, Eduard (1829–1914)</persName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next">8. April 1858</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <salute rendition="#c">Sehr geehrter Herr,</salute>
+                </opener>
+                <p>beikommend erhalten Sie eine Abhandlung <seg type="comment"><orig>„<del rendition="#s">das</del> <bibl corresp="G003860 G003861 G003862">Subiaco, die älteste Benedictinerabtei des Abendlande</bibl>s“. Sie war ursprünglich für die Beilage der <orgName key="G000462">Augsburger Allg<ex>emeinen</ex> Zeit<ex>ung</ex></orgName> bestimmt; nachdem dieselbe <bibl sameAs="G003859">zwei Sparten davon in einer der letzten <hi rendition="#aq">December</hi>-Nummern</bibl> abgedruckt hatte, schickte sie mir das Manuscript zurück</orig><note xml:id="nefd_rbn_5lb">Der Abruck seines im August eingesandten Artikels „Aus der Campagna von Rom. Subiaco, das älteste Benedictinerkloster des Abendlandes, seine Geschichte und seine Altertümer“ war erst im Dezember erfolgt und nach der ersten Folge eingestellt worden (Beilage zu Nr. 345 der AZ. Augsburg: Cotta 11.12.1857. S. 5509–5510). Siehe den Brief von Gregorovius an Cotta, <ref target="G000036">17.11.1857</ref> und <ref target="G000021">31.1.1858</ref>.</note></seg>, weil die Redaction sich fürchtete, katholische Interessen zu beleidigen. Diese Ängstlichkeit ist freilich etwas stark. Ich sende Ihnen die <seg type="comment"><orig>Arbeit zu, welche ich mit vielen Umständen u<ex>nd</ex> Kosten in der Abtei selbst herstellte</orig><note xml:id="nzrg_xbn_5lb">Der Artikel entstand im Sommer 1857, als Gregorovius am 28. Juni von Rom über Subiaco und Olevano am 3. Juli nach Gennazano gereist war, wo er bis zum 1. September 1857 blieb (siehe RT, 2.7.-5.9.1857, S. 67–68).</note></seg>; ich würde sie gern <seg type="comment"><orig>im <orgName key="G000546">Deutsch<ex>en</ex> Museum</orgName> sehn</orig><note xml:id="nyrx_zbn_5lb">Der vollständige Druck von Gregorovius’ Artikel erschien unter diesem Titel in: Deutsches Museum. Jg. 8. Bd. 2. Nr. 27–29. Leipzig: Brockhaus 1., 8., 15.7.1858. S. 1–10, S. 60–67 und S. 89–99.</note></seg>, aber dann mindestens 16 Thaler pro Bogen Honorar beanspruchen, denn es ist dies keine leicht abgefallne Schreiberei. Wollen Sie mir das bewilligen, so nehmen Sie das M<ex>anu</ex>scr<ex>ipt</ex> dafür, wonicht so bitte ich mir zu sagen, für welches besser honorirende Journal Sie es verwenden wollen. Ich kann nach meinen Verhältnißen mich nicht mit den geringen Honoraren der Journale begnügen, denn ich will leben, es wird mir schwer genug, zumal hier in Rom.</p>
+                <p>Gleichfalls schicke ich Ihnen <seg type="comment"><orig>beiliegend einen Abriß meines Plans zu dem Werk von „<bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Der Geschichte der Stadt Rom im Mittelalter</bibl>“</orig><note xml:id="ncrz_bcn_5lb">Siehe die <ref target="G000035">auf den 7. März datierte Beilage</ref> zu vorliegendem Brief. </note></seg> – dies ist der Titel, wie ich ihn jetzt festgestellt habe. <pb n="1v"/>Ich habe die 2 ersten Bände fertig (jeder Band wird betragen circa 450 Seiten im angemeßenen guten Druck), u<ex>nd</ex> sie werden Ende Mai abgehen können. Ich spreche mich zu Ihnen <hi rendition="#aq"><foreign xml:lang="fra"><seg type="comment"><orig>sans géne</orig><note xml:id="nwpp_2cn_5lb">Frz. sans gêne: ungeniert.</note></seg></foreign></hi> und <seg type="comment"><orig><hi rendition="#aq"><foreign xml:lang="fra">sans phrase</foreign></hi></orig><note xml:id="nvkq_22n_5lb">Frz.: unumwunden.</note></seg> aus, denn ich weiß, was ich Ihnen offerire, u<ex>nd</ex> Sie sind nicht der Mann, der nicht wißen sollte, welche Bedeutung dies Geschichtswerk in der Literatur beansprucht. Ich rede nicht von der unsäglichen Mühe, die ich seit Jahren <choice><sic>daraufverwendet</sic><corr cert="high">darauf verwendet</corr></choice> habe, u<ex>nd</ex> ich staune selbst, daß ich es bis so weit denn doch glücklich zu Stande brachte. Ich habe das Bewußtsein, u<ex>nd</ex> ein sehr ruhiges u<ex>nd</ex> positives, daß ich das Beste Ihnen darbiete, was ich je schrieb oder leisten werde, denn ich betrachte „Die Geschichte Rom’s“ als mein Lebenswerk. Es wird mich freuen, wenn es in Ihre Hände kommt, denn nur einem der ersten Verlage in der Literatur überhaupt werde ich es anbieten. Wir werden uns, geehrter Herr, bald entscheiden, denn lange Unterhandlungen werden nicht nötig sein, sondern wir kommen wol <seg type="comment"><orig>schnell entweder auf Ja oder Nein heraus</orig><note xml:id="najb_g2n_5lb">In seinem Brief an Brockhaus vom <ref target="G000088">19.4.1858</ref> drängte Gregorovius auf einen eindeutigen Bescheid. Brockhaus lehnte schließlich ab, so dass Gregorovius am <ref target="G000085">20. Mai 1858</ref> Johann Georg Freiherr Cotta von Cottendorf sein Werk zum Verlag anbot.</note></seg>.</p>
+                <p>Ich beanspruche für „Die Geschichte Roms im Mittelalter“ das höchste Honorar, welches für <pb n="2r"/>Werke dieses Charakters in Deutschland gezahlt werden; u<ex>nd</ex> ich bitte mir einfach zu sagen, welches Sie mir pro Bogen, (ich nehme als <hi rendition="#aq">maximum</hi> den Druck meines <bibl sameAs="G003106"><hi rendition="#aq">Corsica</hi></bibl> an, was ich nicht zu übersehn bitte) geben können. Es scheint mir, dies der einfachste Weg des Vertrauens zu sein, denn natürlich vertraue ich Ihnen, daß Sie mir für ein solches Unternehmen dasjenige darbieten werden, was Sie mir im Höchsten bieten können. Sie sind mit meiner Schreibart bekannt, u<ex>nd</ex> ich füge hinzu, d<ex>a</ex>ß meine Geschichte <hi rendition="#u">vollständig</hi> gründlich aus Quellen geschöpft ist, ohne die Leichtigkeit der Darstellung <?oxy_comment_start author="Gregorovius" timestamp="20191112T122443+0100" comment="Text geändert: &quot;zu&quot; statt &quot;au&quot;"?>zu<?oxy_comment_end?> beeinträchtigen; ich übernehme gern das Risiko, daß Sie von jedem Pact abstehen, wenn Ihnen nach Empfang des Manuscripts das Werk nicht zusagt, denn es wird <seg type="comment"><orig>keinen bemittelten Buchhändler in der Welt geben, der es nicht mit Freuden acceptirte, wenn er es sah</orig><note xml:id="nlxm_l2n_5lb">Wie aus einem Brief von Robert Prutz (1816–1872) an Gregorovius vom 12.11.1857 hervorgeht, hatte sich Gregorovius schon im Vorjahr Gedanken gemacht, welcher Verlag zur Publikation seiner „Geschichte der Stadt Rom im Mittelalter“ (Stuttgart: Cotta 1859–1872) in Frage kommt. Prutz hatte ihm geraten, sich an Cotta oder Brockhaus zu wenden, aber auch einige andere Vorschläge gemacht (BSB München, NL Gregorovius, Gregoroviusiana 21).</note></seg>. Aber es Ihnen erst im Mai zu schicken u<ex>nd</ex> dann darauf zu unterhandeln ist ein langer Weg; darum schlage ich den ein, Sie einfach zu fragen: welches Honorar können Sie für ein solches Geschichtswerk auswerfen, von dem Sie annehmen, daß es Ihren Erwartungen entspricht. Diese vorläufige Frage u<ex>nd</ex> Beantwortung wird uns beiden jedenfalls Weitläufigkeiten ersparen, u<ex>nd</ex> wenn ich erst Ihre Ansicht weiß, werde <pb n="2v"/>ich Ihnen entweder positive Anerbietungen für einen <hi rendition="#aq">Contract</hi> in aller Form zu machen mir erlauben, oder davon abstehn. – Ich habe <seg type="comment"><orig><persName key="G000928">Herrn <hi rendition="#aq">Ampère</hi></persName> vom <orgName key="G004669">Institut <hi rendition="#aq">De France</hi></orgName>, einem der wenigen Gelehrten, die das Mittelalter<del rendition="#s">s</del> Rom’s kennen, viele Abschnitte zur Prüfung vorgelegt</orig><note xml:id="nvvf_42n_5lb">Der französische Historiker, Schriftsteller und Philologe Jean-Jacques Ampère (1800–1864) war seit 1833 Professor am Collège de France. Gregorovius hatte ihn bereits 1857 in Rom kennen und schätzen gelernt (siehe RT, 14.6.1857, S. 66) und dem für ihn „geistreichsten Franzosen, gutmütig, wohlwollend, beweglich und, was selten bei ihnen gefunden wird, ohne Eitelkeit“ ein Kapitel aus seiner „Geschichte der Stadt Rom im Mittelalter“ vorgelesen (siehe ebd., 14.6.1858, S. 71). </note></seg>, u<ex>nd</ex> er ist sehr eingenommen – es wird in Kurzem <seg type="comment"><orig>von ihm über <bibl corresp="G002608 G002609">unsre Grabmäler der Päpste, u<ex>nd</ex> auch andre meiner Schriften u<ex>nd</ex> das Werk über Rom, ein Artikel in den <hi rendition="#aq">Debats</hi></bibl> erscheinen</orig><note xml:id="npkx_t2n_5lb">Die Rezension von Gregorovius’ jüngst erschienenen „Grabmäler der Päpste“ (1857) von Jean-Jaques Ampère: Les Tombeaux des Papes. M. Gregorovius. In: Journal des débats politiques et litteraires. Clermont-Ferrand 20. und 22.6.1858.</note></seg>, u<ex>nd</ex> vielleicht laßen Sie ihn für eins Ihrer Journale übersetzen. Denn die Deutschen wollen erst vom Ausland aufmerksam gemacht sein; ich sehe wie lau das <placeName key="G000664">Vaterland</placeName> den <bibl sameAs="G003574"><hi rendition="#aq">Euphorion</hi></bibl> behandelt, ein Product, welches dennoch in der Literatur bleiben wird, sie mögen sich dagegen sträuben oder nicht.</p>
+                <p>Wolan, denn, mein geehrter Herr, ich habe Ihnen von der Geschichte Roms geschrieben, u<ex>nd</ex> es steht bei Ihnen ein Werk in Verlag zu nehmen, welches auch selbst dann, wenn es mir schlecht gerät, uns eine Weile überdauern, u<ex>nd</ex> dem Vaterland keine Unehre machen wird.</p>
+                <p>Ich höre, d<ex>a</ex>ß man <seg type="comment"><orig>in <placeName key="G000716">London</placeName> die Grabmäler übersetzt</orig><note xml:id="nbv4_x2n_5lb">Eine erste englische Übersetzung des Werks erschien erst 1895 (The Tombs of the Popes: Landmarks in the History of the Papacy. Translated from the German by Louisa Ward Terry. Rom: Victoria Home 1895).</note></seg>, habe aber noch nichts Definitives darüber; gleichfalls ist mir <seg type="comment"><orig>eine <bibl corresp="G004412 G004413">Übersetzung des <hi rendition="#aq">Corsica</hi> von einer Französin</bibl> als unter den Händen avisirt</orig><note xml:id="nc1n_z2n_5lb">In der „Revue Germanique“ erschienen anonym Übersetzungsproben: „La Corse.“ und „Sampièro. Vie d’un héros Corse“ (Bd. 13. Paris 1861. S. 52–72 und S. 347–364).</note></seg>, u<ex>nd</ex> der <seg type="comment"><orig>Figuren ins Rußische von <placeName key="G000876">Petersburg</placeName> aus</orig><note xml:id="nrv5_1fn_5lb">Eine russische Übersetzung von Gregorovius’ „Figuren. Geschichte, Leben und Scenerie in Italien“ (1856) ist nicht nachweisbar.</note></seg>.</p>
+                <closer>
+<salute rendition="#c">Hochachtungsvoll, geehrter Herr, Ihr ergebenster</salute>
+<signed rendition="#c">Ferdin <hi rendition="#aq">Gregorovius</hi></signed>
+<dateline><hi rendition="#aq">Rom März</hi>. 8. 1858.</dateline>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

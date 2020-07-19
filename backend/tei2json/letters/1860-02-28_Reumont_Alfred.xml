@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000089">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Alfred von Reumont in Florenz. Rom, 28. Februar
+                    1860</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Universitäts- und Landesbibliothek Bonn</repository>
+                        <collection>NL Reumont</collection>
+                        <idno>S 1061 (293)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Bl., 4°, ¾ S. </p>
+<p>Jahrbücher des Deutschen Reichs unter dem Sächsischen Hause (4 Bde., 1838–1840)</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 86, Mappe 9 (Alfred Löckle nach
+                                        H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 82, Mappe 5 (nach h1) </idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er übersendet die von Reumont entliehenen „Jahrbücher des Deutschen Reichs unter dem Sächsischen Hause“ (4 Bde., 1838–1840) die Zeit der Ottonen (936–1002) betreffend zurück. Der Druck des dritten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1860) hat begonnen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He sends back the „Jahrbücher des Deutschen Reichs unter dem Sächsischen Hause“ (4 vols., 1838-1840) concerning the time of the Ottonians (936-1002), borrowed from Reumont. The printing of the third volume of his „Geschichte der Stadt Rom im Mittelalter“ (1860) has begun. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1860-02-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001545">Reumont, Alfred von (1808–1887)</persName>
+                    <placeName key="G000671">Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi> 28. <hi rendition="#aq">Feb<ex>rua</ex>r</hi> 1860.</dateline>
+                    <salute rendition="#c">Hochgeehrter Herr,</salute>
+                </opener>
+                <p>eine sichere Gelegenheit hat es mir möglich gemacht, die <seg type="comment"><orig><bibl corresp="G004776 G004777 G004778 G004779">Deutschen Jahrbücher</bibl> Ihnen zu remittiren</orig><note xml:id="nhqt_rtm_ylb">Gregorovius hatte sich die vier Bände Ende September 1859 von Reumont erbeten (siehe den Brief von <ref target="G000098">Gregorovius an Reumont, 28.9.1859</ref>), die er nicht nur für den 3. Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1860) brauchte, sondern auch für ein Drama über Otto III. (980–1002), das er im August 1859 in Genazzano begonnen hatte; Ende Dezember 1859 hatte er den 2. Akt abgeschlossen (siehe RT, 28.8.und 31.12.1859, S. 84 und 92). Sein Drama blieb unvollendet und wurde vermutlich von Gregorovius selbst vernichtet. Siehe hierzu den Brief von <ref target="G000093">Gregorovius an Hermann von Thile, 11.1.1860</ref> und Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 55–56.</note></seg>, für deren Benutzung ich mir erlaube, Ihnen meinen verbindlichsten Dank zu sagen. Ich würde die Hefte haben einbinden laßen, wenn ich das ohne Ihre vorgängige Erlaubniß hätte thun dürfen; Sie werden sie indeß nicht malträtirt finden.</p>
+                <closer>
+                    <salute xml:id="s1" next="#s2" rendition="#c">Mit großer Hochachtung empfiehlt sich</salute>
+                    <salute xml:id="s2" prev="#s1" rendition="#right">ganz ergebenst</salute>
+                    <signed rendition="#right">Ferd. Gregorovius.</signed></closer><note type="postscript">Der <bibl sameAs="G003469">III. Band der Geschichte Rom’s im Mittelalter</bibl> ist bereits in die Preße gegangen; es sind darin viel Documente verarbeitet, u<ex>nd</ex> hoffe ich damit mehr Ihre Beistimmung zu verdienen, als es bei <bibl corresp="G003476 G003485">den ersten Bänden</bibl> der Fall sein konnte.</note>
+                </div>
+        </body>
+    </text>
+</TEI>

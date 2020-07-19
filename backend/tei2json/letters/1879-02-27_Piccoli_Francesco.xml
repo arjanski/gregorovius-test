@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_kf3_vpw_llb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Francesco Piccoli in Padua. Rom, 27. Februar 1879 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Padua, Biblioteca civica</repository><collection>C.A. 712.1</collection></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 1 S. – 1v, Bearbeitungsvermerk: N. 1637 / N. 4287-471 III / Padova li 4/3-79 / Alla Direzione del Museo / Civico / Padova / per notizia e conservazione. / Il Sindaco / Piccoli</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für den Erhalt eines Bandes des Paduaner Museo Civico mit einer von Pietro Selvatico Estense. Das Geschenk verstärkt seine gute Erinnerung an Piccoli, den er 1878 im Haus des ehemaligen Ministerpräsidenten Minghetti in Rom getroffen hat.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1879-02-27" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="ed_sph_tqw_llb">Piccoli, Francesco (1835-1883)</persName>
+<placeName key="G000747">Padua</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<salute rendition="#c">Onorevole <seg type="comment"><orig>signor Sindaco</orig><note xml:id="nnzp_cjj_1mb">Der aus der norditalienischen Landschaft Friaul stammende Politiker Francesco Piccoli (1835–1883) war von 1867–1883 für sechs Legislaturperioden Abgeordneter des Königreichs Italien und bekleidete von 1871-1881 des Bürgermeisters von Padua. Es ist keine über diesen Brief hinausgehende Korrepsondenz zwischen Gregorovius und Piccoli bekannt.</note></seg>,</salute>
+</opener>
+<p>non prima del <seg type="comment"><orig>mio ritorno a Roma</orig><note xml:id="nflw_djj_1mb">Gregorovius war am 6. Februar von München aufgebrochen und, nach Stationen in Mantua, Modena, Bologna und Florenz, am 16. des Monats in Rom eingetroffen (siehe RT; Romfahrt, 1879, S. 411).</note></seg>, effettuato or sono dieci giorni, vennemì consegnato <seg type="comment"><orig>il fascicolo I.</orig><note xml:id="nqbw_2jj_1mb">Nicht ermittelt.</note></seg> del <orgName key="ed_kwh_5lr_rlb">Museo Civico di Padova</orgName>, contenente il notevole scritto <seg type="comment"><orig>di <persName key="ed_tnn_cmr_rlb">Pietro Selvatico</persName></orig><note xml:id="nwjg_gjj_1mb">Der Paduaner Pietro Selvatico Estense (1803–1880) war ein Architekt, Kunsthistoriker und –kritiker. Neben der Realisierung von Kirchen und Kirchenrestaurierungen in Venetien und Trentino, unterrichtete er seit 1849 Ästhetik und Architekturgeschichte Akademie der Schönen Künste in Venedig. Selvatico setzte sich unermüdlich für die Giotto-Fresken in der Cappella Scrovegni ein und war maßgeblich an der Entscheidung zur Fassadenneugestaltung der Florentiner Kirche Santa Maria del Fiore beteiligt. Welche seiner Schriften Gregorovius hier erhalten hat, ist nicht ermittelbar.</note></seg>. Per ciò V<ex>ostra </ex>S<ex>ignoria</ex> Ill<hi rendition="#sup"><hi rendition="#u" hand=""><ex>ustrissi</ex>ma</hi></hi> mi tenga per iscusato, se tanto tardi ne rendo le dovute grazie all’ onorevole <orgName key="ed_fwr_pmr_rlb">Municipio</orgName> cui presiede.</p>
+<p>Dall’ offerta gratissima sono lieto di desumere, che lei, egregio Signore, cui l’ anno scorso ebbi la fortuna d’ incontrare<seg type="comment"><orig> in casa <persName key="G001424"><persName key="G001423">Minghetti</persName></persName></orig><note xml:id="ndlv_hjj_1mb">Marco Minghetti (1818–1886) war von März 1863 bis September 1864 und Juli 1873 bis März 1876 Ministerpräsident Italiens. Seit 1864 war er mit Laura Acton (1829-1915) verheiratet. Gregorovius und die Minghetti pflegten ein freundschaftliches Verhältnis und das Paar blieb für den Deutschenauch nach seiner Rückkehr nach Deutschland eine wichtige Anlaufstelle in Rom. Während seines mehrmonatigen Romaufenthaltes im Jahre 1878 war Gregorovius nachweislich mindestens einmal bei der Familie Mingehtti eingeladen. Ob er bei diesem Anlass im Februar 1878 auch auf Piccoli traf, ist nicht verzeichnet (siehe RT, 14.2.1878, S. 390).</note></seg>, ha riservato così benevole memoria di me, cosa che nel mio sentire raddoppia il valore del dono.</p>
+<p>Aggradisca l’attestato della più alta stima, con cui mi pregio di raffermarmi</p>
+                <closer>
+<salute xml:id="s1" next="#s2" rendition="#c">di V<ex>ostra </ex>S<ex>ignoria</ex> Ill<hi rendition="#sup"><hi rendition="#u" hand=""><ex>ustrissi</ex>ma</hi></hi> </salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">devotissimo</salute>
+<signed rendition="#right">Ferdin. Gregorovius</signed>
+<dateline>Roma 27. febbr<ex>aio</ex> 1879.</dateline>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

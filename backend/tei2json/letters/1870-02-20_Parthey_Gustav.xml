@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000330">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Gustav Parthey in Florenz. Rom, 20. Februar 1870</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+<p>Brief von Paul Heyse an Gustav Parthey </p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"> <bibl type="print">Herman Granier: Neue Briefe von Ferdinand Gregorovius. I. In: Sonntagsblatt der Neuen Preußischen (Kreuz-)Zeitung. Nr. 485. Beilage (Literatur – Kunst – Wissenschaft) Nr. 43. Berlin 29.10.1922</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er hat den Winter produktiv verbringen können, da in Rom wenig Fremde sind. Als Urheber der papstkritischen Korrespondenzen der „Allgemeinen Zeitung“ über das Konzil wurde Albert Dressel beschuldigt, doch stammen die „Römische Briefe vom Concil“ von dem britischen Historiker John Emerich Lord Dalberg-Acton. Er sieht zuweilen Teilnehmer des Konzils wie den Erzbischof Lajos Haynald aus dem ungarischen Kalocsa. Die Deutschen Konzilsteilnehmer bleiben papstkritisch – eine Stimmung, die auf die Römer abstrahlt. Karl und Auguste Lindemann-Frommel grüßen, letztere bittet um einen Brief seiner Tochter Veronika Parthey. Er bedauert, dass Parthey die Neuauflage seines „Corsica“ (1869) ungebunden von Cotta erhalten hat. Er legt einen Brief von Paul Heyse bei. Er lädt ihn schon jetzt zum Abschluss seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872), den er in der „Albergo del Sole“ feiern will. Georg Gottfried Gervinus wird hoffentlich auch dabei sein. Grüße an Theodor Heyse.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1870-02-20" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001472">Parthey, Gustav (1798–1872)</persName>
+<placeName key="G000671">Florenz</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">(Roma), 20. Februar 70.</dateline>
+<salute rendition="#c">Verehrter Freund und Gönner.</salute>
+</opener>
+<p>Haben Sie herzlichen Dank für Ihre freundlichen Nachrichten, welche mir sagen, daß Sie, von der Kälte abgesehen, wol, und thätig sind – und dies ist das Beste, was Sterblichen zu Teil werden kann. Der <?oxy_comment_start author="Angela Steinsiek" timestamp="20190215T170731+0100" comment="Favonius: Westwind"?>Favonus<?oxy_comment_end?> wird nun auch am <placeName key="G067580">Arno</placeName> das Eis aufgethaut haben, wie hier, wo der Himmel wieder stralend auf das Treiben der Menschen und ihr <hi rendition="#aq"><foreign xml:lang="eng">Vanity Fair</foreign></hi><?oxy_comment_start author="Angela Steinsiek" timestamp="20190215T171209+0100" comment="Jahrmarkt der Eitelkeiten."?> <?oxy_comment_end?>herunterscheint.</p>
+<p>Wir hatten einen leidlichen Winter, still und ruhevoll, worin alles privatim Menschliche gefördert worden ist. Es fehlte indeß an interessanten Persönlichkeiten, und war die Frauenwelt auch nicht durch ein einziges Prachtexemplar vertreten.</p>
+<p>Die <orgName key="G000462">Allgemeine Zeitung</orgName> wird Sie über die unsere conciliaren Antiquitäten gut unterrichtet haben. Diese alte Vase hat sich durch die Artikel darüber etwas aufgefrischt und angeschminkt, und wieder zu einer Macht gebracht. Man fahndete hier nach den Verfassern und Verrätern, vergriff sich selbst an dem alten blinden <persName key="G001098"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190215T170750+0100" comment="Der erblindete Albert Dressel (1808–1875) war Korrespondent der „Allgemeinen Zeitung“. Er war 1833 als Hauslehrer bei Josias von Bunsen (1791–1860) nach Rom gekommen (siehe Carl Justi: Briefe aus Italien. Bonn 1922. S. 69)."?>Dressel<?oxy_comment_end?></persName>, doch wußte man sehr wol, daß er an solchen Attentaten unschuldig sei. Die Artikel schreibt seltsamer Weise ein <persName key="G001065">englischer Lord</persName>, mir, wie ich glaube auch Ihnen wol bekannt.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190215T170805+0100" comment="Die „Allgemeine Zeitung“ hatte bereits vor dem am 8. Dezember 1869 eröffneten Ersten Vatikanischen Konzil berichtet und ließ neuerdings eine papstkritische Berichterstattung zu. Federführend war unter dem Pseudonym ‚Janus‘ Ignaz von Döllinger (1799–1890 – siehe den Brief von Gregorovius an Döllinger, 8.12.1869) Während des Konzils erschienen die Korrespondenzen erst unter den Titel „Die Anfänge des Concils“ (Nr. 351–352 der Beilage der AZ. 17.–18.12.1869) und ab dem 27.12.1869 unter dem Titel „Römische Briefe vom Concil“ (Beilage Nr. 361 des AZ) fortlaufend in 67 Folgen bis zum 29.7.1870 (Beilage zu Nr. 210 den AZ). Neben Gregorovius standen verschiedene Personen als Mitarbeiter des Blattes im Verdacht. Nach dem Erscheinen der von John Emmerich Dalberg Acton (1834–1902) unter dem Pseudonym „Quirinus“ gesammelt publizierten „Römischen Briefe vom Concil“ (München 1870) stand dieser als Urheber fest, die er im Vorwort als Gemeinschaftswerk dreier in Rom befindlicher Freunde bezeichnet: „Drei verschiedenen Nationen und Lebenskreisen angehörig, schon vor dem Beginn des Concils durch längeren Aufenthalt in Rom mit den dortigen Zuständen und Personen vertraut“ (S. IV). Informanten Döllingers waren der in Rom weilende britische katholisch-liberale Historiker und Publizist John Emerich Lord Dalberg-Acton (1834–1902) und sein Schwager von Ludwig Graf von Arco-Valley (1845–1891). Eine Vermutung, die auch Gregorovius in seinem Tagebuch vermerkt: „Von Döllinger rühren vielleicht auch die vortrefflichen Artikel der Allgemeinen Zeitung über das Konzil her; Material dazu liefern ihm, so glaube ich, Lord Acton und der junge Graf Arco von hier“ (RT, 30.1.1870, S. 275)."?> <?oxy_comment_end?></p>
+<p>Ich sehe bisweilen einige <hi rendition="#aq"><foreign xml:lang="Lat">Patres conscripti</foreign></hi>, zumal einen der besten Redner des Concils, <persName key="G001252">Erzbischof <?oxy_comment_start author="Angela Steinsiek" timestamp="20190215T170831+0100" comment="Lajos Haynald (Stephan Franz Ludwig von Haynald,1816–1891) seit 1867 Erzbischof des ungarischen Kalocsa."?>Haynald<?oxy_comment_end?></persName>. Die Deutschen halten sich wacker in der Opposition, und werden sich (wie Schade!) <hi rendition="#aq"><foreign xml:lang="fra">le couronnement de lʼédifice</foreign></hi><?oxy_comment_start author="Angela Steinsiek" timestamp="20190215T170917+0100" comment="Frz.: dem krönenden Abschluss."?> <?oxy_comment_end?>verhindern. Uebrigens ist Rom so geartet, daß Manche, welche draußen bei uns als römisch oder finster, oder doch als Dämmerlinge erscheinen, hier von urrevolutionärem Lichte erstralen – und so sind sie durch die Folie Roms plötzlich zum Ruf des Liberalismus gekommen, worüber sie wol innerlich selbst erschrecken. – Es ist doch merkwürdig hier zu sein, als stiller Beobachter. Ich sehe zwar nicht in die große Küche hinein, worin die Weltfinsternis gebraut wird, aber in der Gesellschaft sehe ich die <hi rendition="#aq"><foreign xml:lang="fra">Colporteurs</foreign></hi> dieser Finsternis umherschleichen, und andere, die von ihr betrunken sind.</p>
+<p>Beide <persName key="G001375"><persName key="G001374"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190215T170930+0100" comment="Auguste und Karl Lindemann-Frommel."?>Lindemann<?oxy_comment_end?></persName></persName> haben mir viel Grüße an Sie aufgetragen; Frau L<ex>indemann</ex> empfiehlt sich mit mir angelegentlich Ihrer <persName key="G001473">Frau Tochter</persName> und wünscht ein paar Zeilen von ihr.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190215T170944+0100" comment="Mit seiner Tochter Veronika (1828–1893) hatte Gustav Parthey den Winter 1868–1869 in Rom verbracht."?> <?oxy_comment_end?>Ich sehe, daß <orgName key="G000523">Cotta</orgName> mein <bibl sameAs="G003107">Corsica </bibl>uneingebunden geschickt <?oxy_comment_start author="Angela Steinsiek" timestamp="20190215T170957+0100" comment="Die 1869 erschienene Neuauflage seines „Corsica“."?>hat<?oxy_comment_end?>, was nicht artig war, und woran ich keine Schuld habe. Ich soll Ihnen auch Empfehlungen von <persName key="G001274">Dr. Heyse</persName> einlegen.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190215T171009+0100" comment="Der Münchener Schriftsteller und Übersetzer Paul Heyse (1830–1914) hielt sich häufig in Rom auf, Gregorovius hatte ihn im September 1869 im München wiedergetroffen (siehe RT, 24.9.1869, S. 264)."?> <?oxy_comment_end?></p>
+<p>Vielleicht kommen Sie herüber. Ich lade Sie schon fest zu einem bescheidenen Festmal ein, welches ich im <orgName key="G000489"><hi rendition="#aq">Sole</hi></orgName>, dem ältesten Hotel Roms, auf dem <placeName key="G000767"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190215T171026+0100" comment="Die noch heute (umgebaut) existierende „Albergo del Sole“ in der Via Biscione 76, an der nordlöstlichen Ecke des Campo de’ Fiori, gilt als das älteste Gasthaus Roms, das aus dem Material des Pompejus-Theaters erbaut und gegen den Hof hin noch mehrere antike halbvermauerte Säulen zeigt (siehe Theodor Gsell-Fels: Rom und die Campagna, Leipzig 1883, S. 811)."?>Pompeiustheater<?oxy_comment_end?></placeName> Freunden geben will, wenn die letzte Zeile an meinem Lebenswerke geschrieben ist.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190215T171037+0100" comment="Vor dem Abschluss stand der siebte Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1870), der letzte Band folgte 1872."?> <?oxy_comment_end?>Dabei wird, so hoffe ich, auch <persName key="G001168">Gervinus</persName> sein. <?oxy_comment_start author="Angela Steinsiek" timestamp="20190215T171046+0100" comment="Georg Gottfried Gervinus (*1805) erlebte den Abschluss seines Lebenswerks nicht mehr; er starb am 18. März 1871. Und auch Parthey starb am 2. April 1872 in Rom; Gregorovius hielt die Grabrede (siehe RT, 7.4.1872, S. 323)."?></p><?oxy_comment_end?>
+<closer>
+<salute xml:id="s1" next="#s2" rendition="#c">Verehrungsvoll</salute>
+<salute xml:id="s2" prev="#s1" next="#s3" rendition="#c">Ihr Ihnen infallibel</salute>
+<salute xml:id="s3" prev="#s2" rendition="#right">ergebener</salute>
+<signed rendition="#right">F. Gregorovius.</signed>
+<note type="postscript">Viel Grüße <?oxy_comment_start author="Angela Steinsiek" timestamp="20200420T162259+0200" comment="Der in Florenz lebende Altphilologe Theodor Friedrich Heyse (1803–1884)."?>an <persName key="G001275">Heyse<?oxy_comment_end?></persName>.</note>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

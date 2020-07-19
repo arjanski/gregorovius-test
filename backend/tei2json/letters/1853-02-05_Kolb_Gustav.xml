@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000004">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Gustav Kolb in Augsburg. Rom, 5. Februar
+                    1853</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>SBB-PK - derzeit Biblioteka Jagiellońska Krakau</repository><idno><idno>Hs.A.36.55</idno></idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 4°, 1 S.</p>
+<p>Manuskript seines Artikels „Sampiero. Ein Heldenbild aus der Geschichte der Corsen“</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 84, Mappe 6 <idno><idno type="shelfmark">(<idno><idno type="shelfmark">Alfred Löckle nach
+                                        H)</idno></idno></idno></idno></idno></idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er übersendet das Manuskript seines Artikels „Sampiero. Ein Heldenbild aus der Geschichte der Corsen“ zum Abdruck in der „Allgemeinen Zeitung“ als Seitenstück zu seiner bereits abgedruckten Beitragsfolge „Wanderungen durch Corsica“ (1852). Gerne liefert er weitere Reisenotizen. Karl August Mebold und August Joseph Altenhöfer bittet er zu grüßen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He sends the manuscript of his article „Sampiero. Ein Heldenbild aus der Geschichte der Corsen“ to be printed in the „Allgemeine Zeitung“ as a companion piece to his already printed series of articles „Wanderungen durch Corsica“ (1852). He would be happy to provide further travel notes. He asks to give his regards to Karl August Mebold and August Joseph Altenhöfer. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1853-02-05" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001344">Kolb, Gustav (1798–1865)</persName>
+                    <placeName key="G000620">Augsburg</placeName>
+                </correspAction>
+                <correspContext>
+<ref type="prev">14. Januar 1853</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<dateline rendition="#right">Rom d<hi rendition="#aq"><ex>en</ex></hi> 5. <hi rendition="#aq">Februar</hi> 1853. </dateline>
+<salute xml:id="s1" next="#s2">Herrn <hi rendition="#aq"><seg type="comment"><orig><hi rendition="#aq">Dr</hi>. <hi rendition="#aq">Gustav Kolb</hi></orig><note xml:id="nx1w_mkq_jlb">Gustav Kolb (1798–1865) war seit 1828 Redakteur und 1837–1865 Redaktionsleiter der „Allgemeinen Zeitung“.</note></seg></hi>. </salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">Hochgeehrter Herr, </salute>
+</opener>
+                <p>gestatten Sie mir, d<ex>a</ex>ß ich Ihnen für die Freundlichkeit Ihres Schreibens vom 14. Januar persönlich danke – ja, wahrhaft hat es mich im fremden Lande deutsch angesprochen und mich hoch erfreut. Nun meine ich, d<ex>a</ex>ß ich Ihnen meine Ergebenheit nicht besser beweisen kann, als indem ich Ihnen das beifolgende Stück <seg type="comment"><orig>Granit</orig><note xml:id="nxqw_1mp_jlb">Korsika ist reich an Granit.</note></seg> <bibl corresp="G003785 G003786 G003787 G003788 G003789 G003790"><seg type="comment"><orig>Sampiero</orig><note xml:id="nfxs_tmp_jlb">Unter dem Titel „Sampiero. Ein Heldenbild aus der Geschichte der Corsen“ erschien Gregorovius’ Beitrag über den korsischen Freiheitskämpfer und Volkshelden Sampièro di Bastelìca, Herr von Ornano, auch Sampiero d’Ornano oder Sampiero Corso (1497–1567), in 7 Folgen vom 16.-23.2.1853 in der Beilage zur „Allgemeinen Zeitung“; er ging leicht verändert in sein „Corsica“ (1854) ein (Bd. 1, S. 34–53).</note></seg></bibl> übersende mit der Bitte, es der <orgName key="G000462">Allgemeinen Zeitung</orgName> einverleiben zu wollen. Denn dasjenige überblickend was Ihren Lesern nun <seg type="comment"><orig>von <bibl corresp="G003764 G003765 G003766 G003767 G003768 G003769 G003770 G003771 G003772 G003773 G003774 G003775 G003776 G003777 G003778">corsischen Dingen</bibl> mitgeteilt</orig><note xml:id="nilm_vkq_jlb">Zuvor waren Gregorovius’ Beiträge zu Korsika unter dem Titel „Wanderungen durch Corsica“ in 15 Folgen vom 29.9.–24.12.1852 in der Beilage zur „Allgemeinen Zeitung“ erschienen.</note></seg> worden ist, schien mir noch dieses <hi rendition="#u" hand="">historische</hi> Charakterbild zu fehlen, um das Ganze zu vervollständigen u<ex>nd</ex> dem <hi rendition="#aq">Napoleon</hi> den <hi rendition="#aq">Pendant</hi> zu geben. In diesem Sinne nehme ich dieses Fragment einer Geschichte <add place="superlinear">d<ex>er</ex></add> Corsen als interessant für unsere Zeit, u<ex>nd</ex> ich glaube d<ex>a</ex>ß es nicht ohne Anteil gelesen werden dürfte. Die Nummern im Manuscript sind lediglich Capitelnummern u<ex>nd</ex> haben mit den Nummern der Artikel nichts zu thun. Wenn Sie die <hi rendition="#aq"><foreign xml:lang="fra">piece</foreign></hi> fortlaufend geben könnten würde es ihr selbstredend zu gute kommen, da sie doch ein geschlossenes Ganze ist.</p>
+                <p>Von Ihrer Erlaubniß, verehrter Herr, für die Allg<ex>emeine</ex> Zeit<ex>ung</ex> weiteres aus dem Süden zu liefern mache ich mit Freuden Gebrauch u<ex>nd</ex> habe manchen Stoff. Abgesehn davon d<ex>a</ex>ß der Schriftsteller wahrlich ohne Phrase sagen kann, wie es ihm Ehre bringt für Ihre Zeitung zu schreiben, ist diese mir hier von einem unschätzbaren Werte als alleinige Verbindung mit dem <placeName key="G000664">Vaterlande</placeName>, was Politik u<ex>nd</ex> Literatur im Ganzen betrifft.</p>
+                <p>Die <orgName key="G000523">Cottasche Verlagshandlung</orgName> hat mir einen <seg type="comment"><orig>Wechsel – Expedit<ex>ion</ex> der Allg<ex>emeinen</ex> Zeit<ex>ung</ex> – zugehen lassen</orig><note xml:id="nuxs_hnp_jlb">Am 15.1.1853 (Honoraranweisung – DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch IV, 28); eine Empfangsbestätigung sandte Gregorovius am selben Tag auch an den Cotta-Verlag (DLA Marbach, Cotta-Archiv, Cotta-Briefe, 1).</note></seg>, was ich nun bemerke.</p>
+                <closer>Indem ich Sie bitte mich den <seg type="comment"><orig>Herrn Drr. <persName key="G001414">Meybold</persName></orig><note xml:id="nxj3_nnp_jlb">Irrtümlich für den Publizisten Karl August Mebold (1798–1854); er war 1842 bis 1854 Redaktionsmitglied der „Allgemeinen Zeitung“.</note></seg> und <persName key="G000918"><seg type="comment"><orig>Altenhöfer</orig><note xml:id="nowq_wnp_jlb">August Joseph Altenhöfer (1804–1876) war seit 1833 Herausgeber der Augsburger Postzeitung. Er zählte zu den wichtigsten Redaktionsmitgliedern der „Allgemeinen Zeitung“; nach dem Tod des Chefredakteurs Gustav Kolb übernahm er diese Funktion.</note></seg></persName> freundlichst empfehlen zu wollen, wünsche ich Ihnen, verehrter Herr, stets empfohlen zu sein, der ich <lb/><salute rendition="#c">mit großer Hochachtung u<ex>nd</ex> Ergebenheit bin <lb/>Ihr</salute><signed rendition="#right">Ferd. Gregorovius.</signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

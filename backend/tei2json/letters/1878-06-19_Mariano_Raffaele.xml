@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_uzq_bv5_glb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Rom. München, 19. Juni 1878 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free"><licence target="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International (CC BY 4.0) </licence></availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Über das zweite Attentat auf Kaiser Wilhelm I., dessen politische Folgen in Deutschland sowie den die Balkanfrage diskutierenden Berliner Kongress der europäischen Großmächte. Er wird im September mit dem Bruder nach Paris zur Weltausstellung reisen, wo der von Lorenz Gedon bespielte deutsche Ausstellungssaal großen Erfolg hat, und von dort nach Baden-Baden zu Adelheid Grunelius. Den hohen Zollkosten für ein Buch von Georg Gottfried Gervinus hält er das Privatrecht des Juristen Rudolf von Ihering entgegen. Die dritte Auflage von „Corsica“ (2 Bde., 1878) ist erschienen. Grüße an Karl Lindemann-Frommel, Familie Mayer und seine ehemaligen Vermieter Sartori. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1878-06-19" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840-1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c"><hi rendition="#aq">München</hi>, 19. Juni 78.</dateline>
+<salute>Lieber Freund,</salute>
+</opener>
+<p>die Zeit eilt so sehr, dass ich nun bald 1 Monat zähle, <seg type="comment"><orig>seit ich Rom verlasse habe</orig><note xml:id="nvbh_4ck_1mb">Nach über vier Monaten Aufenthalt in Rom hatte Gregorovius die Stadt am 18. Mai verlassen und war über Florenz, Bologna, Modena und Verona nach München zurückgereist (vgl. RT, 16.5.1878, S. 403).</note></seg>. Unterdeß ist ganz <placeName key="G000664">Deutschland</placeName> durch <seg type="comment"><orig>die zweite Schreckensthat in </orig><note xml:id="nb5m_pck_1mb">Am 11. Mai 1878 war ein Attentat auf Kaiser Wilhelm I. (1797–1888) durch den Arbeiter Max Hödel (1857–1878) gescheitert. Am 2. Juni verletzte Karl Eduard Nobiling (1848–1878) den Kaiser bei einem zweiten Anschlag hingegen so schwer, dass dieser, nach einem Genesungsaufenthalt in Baden und Wiesbaden, erst zum Ende des Jahres wieder nach Berlin zurückkehren konnte. Siehe zum zweiten Attentat auch Gregorovius in seinem Tagebuch, S. 408–409.</note></seg><placeName key="G000636"><seg type="comment"><orig>Ber</orig><note xml:id="nb5m_pck_1mb"/></seg>lin</placeName> aufgeregt worden. Schlimme Zeichen der Verwilderung der deutschen Natur, und der revolutionären Elemente, die unsre Gesellschaft so weit untergraben konnten. Die Umkehr ist jetzt nötig, selbst wenn der Staat mit vollen Segeln in eine Periode der Reaction treiben sollte. Das Volk selbst scheint dies vorzuziehn, und aus eigenem Antrieb die Rettung <seg type="comment"><orig>in einem allgemeinen Kampf gegen die Socialdemokratie</orig><note xml:id="nl12_tck_1mb"><?UNIQUE_CARET_MARKER_FOR_AUTHOR?></note></seg> zu suchen.<?oxy_comment_start author="weiger" timestamp="20200406T130136+0200" comment="Bereits nach dem ersten Attentat hatte sich Reichskanzler Otto von Bismarck (1815–1898) erfolglos für ein Verbot der Sozialdemokraten ausgesprochen. Die Unruhen nach dem zweiten Attentat führten jedoch erneut zu Druck auf die gemäßigten Kräfte, woraufhin der Reichstag am 11. Juni aufgelöst wurde. Die Zahl der Gegner der Sozialisten erhöhte sich nun durch das Hinzukommen der Nationalliberalen und Bismarck erreichte sein Ziel durch das Sozialistengesetz, das jegliche sozialistische, kommunistische und sozialdemokratische Aktivität verbot; dieses war bis 1890 gültig. Siehe dazu auch den Brief von Gregorovius an Ersilia Caetani-Lovatelli vom 28.6.1878."?> <?oxy_comment_end?>Von <pb n="1v"/>der Bestürzung u<ex>nd</ex> Entrüstung, die sich aller noch gesunden Schichten der Gesellschaft bemächtigt hat, haben Sie kaum eine Vorstellung. Doch genug von diesen Schrecken.</p>
+<p>Mein <persName key="G001203">Bruder</persName> ist gestern nach Dresden abgereist, wo er längere Zeit bleiben wird. Er war fast 5 Wochen krank an der Gicht, u<ex>nd</ex> konnte das Zimmer nicht verlassen. Jetzt wird ihm diese Veränderung der Luft u<ex>nd</ex> der Lebensweise wol thun.</p>
+<p>So bin ich hier mit der guten <persName key="G001111">Schwester</persName> und <seg type="comment"><orig>dem wackern <persName key="G001109">Neffen</persName> al</orig><note xml:id="nofy_tck_1mb">Der Sohn von Gregorovius’ Halbschwester sollte die Abitursprüfung am Ludwigsgymnasium wenig später mit Erfolg ablegen (siehe RT, Sommer und Winter 1878/79, S. 403).</note></seg>lein, u<ex>nd</ex> dieser wird in wenigen Wochen sein Examen zur Universität ablegen. <seg type="comment"><orig>Ich arbeite viel u<ex>nd</ex> komme vorwärts</orig><note xml:id="nn3y_5ck_1mb">Gregorovius widmete sich seit dem vergangenen Jahr (vgl. RT, Sommer und Winter 1877/78, S. 379) einer Forschungsarbeit zum Dreißigjährigen Krieg: Urban VIII. im Widerspruch zu Spanien und dem Kaiser. Eine Episode des dreißigjährigen Kriegs. Stuttgart: Cotta 1879.</note></seg>, sonst <pb n="2r"/>lebe ich ganz einsam, u<ex>nd</ex> sehe nur ab u<ex>nd</ex> zu <persName key="G001573">Schack</persName>. Vor einigen Tagen fuhr ich mit den Meinigen nach <placeName key="G067562">Tegernsee</placeName>, wo wir die herrliche Alpenlandschaft bewunderten. Meine Schwester wird wol in der Mitte Juli die Reise nach <placeName key="G000902">Ostpreußen</placeName> antreten, dann bleibe ich allein, u<ex>nd</ex> weiß noch nicht, was aus mir werden soll. Ich glaube doch, <seg type="comment"><orig>daß ich nach <placeName key="G000749">Paris</placeName> gehe, u<ex>nd</ex> nach Baden-<placeName key="G000623">Baden</placeName>, aber nur auf einige Tage</orig><note xml:id="nckz_vck_1mb">Zur Besichtigung der Weltausstellung reiste Gregorovius gemeinsam mit dem Bruder am 21. September über Nacht nach Paris; dort blieben sie bis zum 2. Oktober. Während Julius von Paris direkt nach München zurückkehrte, begab sich Gregorovius nach dem Aufenthalt in der französischen Hauptstadt für mehrere Tage zu seiner Freundin Adelheid Grunelius (1813–1887) nach Baden-Baden (siehe RT, Aufenthalt in Paris, S. 404– 409).</note></seg>. Erst im Juli werde ich meine Entschlüße fassen. </p>
+<p>Ich danke für die Besorgung des <seg type="comment"><orig>Buchs des <persName key="G001168">Gervinus</persName></orig><note xml:id="nhbg_xck_1mb">Um welches Buch von Gervinus es sich hier handelt, ist nicht ermittelt.</note></seg>. Wie aber konnte die <hi rendition="#aq"><foreign xml:lang="ita">Dogana</foreign></hi> dafür 2 <foreign xml:lang="fra">f</foreign><foreign xml:lang="fra">r<ex>ancs</ex></foreign> etc fordern? Dies scheint mir 1 Unrecht, u<ex>nd</ex> sollte nach der <seg type="comment"><orig>Theorie <persName key="ed_wkn_hnk_rlb">Iherings</persName></orig><note xml:id="njp5_yck_1mb">Der Jurist Rudolf von Ihering (1818–1892) hatte seit 1872 einen Lehrstuhl an der Universität in Göttingen inne und war vor allem für seine Arbeit auf dem Gebiet Privatrecht bekannt. Seiner Theorie zufolge hat das Recht die individuellen und gesellschaftlichen Belange zu schützen.Gregorovius hatte sich erfolgreich für Iherings Auszeichnung als korrenspondierendem Mitglied der Accademia dei Lincei eingesetzt (vgl. RT, Rückkehr nach Rom im Jahre 1877, S. 374–375). </note></seg> bekämpft werden. </p>
+<p><pb n="1r"/>Die 3. Aufl<ex>age</ex> <bibl corresp="G003108">Corsica</bibl>’s ist ausgegeben, u<ex>nd</ex> halte ich Ihr Exemplar hier zu Ihrer Disposizion.</p>
+<p>Hoffentlich bringt <seg type="comment"><orig>der <hi rendition="#aq">Berliner Congress</hi></orig><note xml:id="ngg2_1dk_1mb">Während des vom 13. Juni bis 13. Juli 1878 tagenden Berliner Kongresses verhandelten die Vertreter der europäischen Mächte über die Balkankrise und den Frieden in Südosteuropa. An dessen Ende stand der sog. „Berliner Frieden“, ein Vetrag zur Aufteilung des Balkans, welcher die verschiedenen Staaten nur in Teilen zufriedenstellen konnte: Österreich und Russland fanden zu keiner Lösung auf dem Balkan, das Osmanische Reich verlor zahlreiche Territorien. Großbritannien und das Deutsche Reich hingegen verbuchten mit der Exklusion Russlands aus dem Mittelmeerraum und der Anerkennung der Stellung der europäischen Großmächte einen großen Erfolg.</note></seg> Frieden, u<ex>nd</ex> damit neuen Aufschwung auch der Literatur. </p>
+<p>Alle Blätter sind voll von der Bewunderung, welche <seg type="comment"><orig>die deutsche Kunstausstellung in Paris</orig><note xml:id="na2s_bdk_1mb">Bestandteil der vom 1. Mai bis zum 31. Oktober 1878 auf dem ehemaligen Militärgelände Champ de Mars stattfindenden Weltausstellung in Paris war die Präsentation von Werken der bildenden Kunst; siehe dazu: Friederike Vosskamp. Die Präsentation der deutschen Kunst auf der Weltausstellung 1878 in Paris. Ausstellungspolitik zwischen nationaler Selbstdarstellung und diplomatischer Rücksichtnahme. In: Zeitschrift für Kunstgeschichte 77. Bd., H. 2 (2014). S. 241–256.</note></seg> erregt. Besonders soll die Decoration des Saals (von <seg type="comment"><orig><persName key="ed_zxj_rnk_rlb">Gedon</persName> aus München</orig><note xml:id="nbbc_ddk_1mb">Der aus München stammende Bildhauer und Architekt Lorenz Gedon (1844–1883) hatte an der Münchner Akademie studiert. In den Jahren von 1871/2–1874 gestaltete er die Fassade des Palais, in dem die Kunstsammlung von Gregorovius’ Freund Adolf Graf von Schack untergebracht war, im Neurenaissance-Stil um. Nach Gedons erfolgreicher Beteiligung auf einer Münchner Ausstellung zum Kunstgewerbe im Jahre 1877, wählte Anton von Werner (1843–1915) diesen für die Gestaltung des deutschen Ausstellungssaals in Paris aus. Siehe dazu eine zeitgenössische Rezeption in „Die Gartenlaube“ (Heft 46. 1878. S. 768): https://de.wikisource.org/wiki/Noch_einmal_die_deutsche_Kunst_auf_der_Pariser_Weltausstellung. Gedon präsentierte mit 180 Bildern und Skulpturen, darunter Arbeiten von Adolph Menzel, Christian Ludwig Bokelmann, Franz von Defregger, Friedrich August Kaulbach und Franz von Lenbach, die zeitgenössische deutsche Kunst in Frankreich. Die Präsentation beeindruckte auch durch ihre Schlichtheit. </note></seg>) ein Unicum von Geschmack sein. </p>
+<p>Tausend Grüße an alle Freunde, voran <persName key="G001375">Lindeman</persName>, auch <hi rendition="#aq"><persName key="G001412"><persName key="G001413">Meiers</persName></persName></hi>, u<ex>nd</ex> <seg type="comment"><orig>meine ehemalige <hi rendition="#aq">padroni <persName key="ed_i5x_klk_rlb">Sartori</persName></hi></orig><note xml:id="nm4b_2dk_1mb">Die nicht genauer bestimmbare Familie Sartori war Gregorovius’ Vermieter in der Via Gregoriana.</note></seg> bitte schön zu grüßen, u<ex>nd</ex> alle Römer. </p>
+<closer>
+<salute>Schreiben Sie mir bald! Alles Gute u<ex>nd</ex> Schöne!</salute>
+<signed rendition="#right">FGr.</signed>
+</closer>
+<closer rend="paragraph">
+<salute>Hier ist endloser <hi rendition="#aq"><foreign xml:lang="ita">Scirocco</foreign></hi>, ärger als in Rom.</salute>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

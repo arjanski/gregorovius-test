@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000138">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Raffaele Mariano in Lenk. Traunstein, 2. August 1874</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno> <idno type="shelfmark"/> </idno>
+                            </msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno> <idno type="shelfmark"/> </idno>
+                            </msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er ist am 15. Juli 1874 über Bologna nach Modena gereist, wo er Cesare Foucard besucht und Einsicht in Dokumente zu Giovanni Borgia erhalten hat. Über Verona erreichte er am 19. Juli Traunstein, wo er mit seinem Bruder Julius zusammengekommen ist. Er genießt das gesellschaftliche Leben und widmet sich der Lektüre des Thukydides. Er hat die Druckfahnen des sechsten Bandes der italienischen Übersetzung seiner „Geschichte der Stadt Rom im Mittelalter“ (1875) erhalten. Die dritte Auflage seiner „Lucrezia Borgia“ (1875) hat er durchgesehen. Auguste Lindemann-Frommel hat sein Fortgang aus Rom schwer getroffen. Karl Lindemann-Frommel wird den Sommer über in der Stadt bleiben. Ende August nimmt er sich mit seinem Bruder Julius eine Wohnung in München, wohin er Mariano einlädt. Er lässt Clemente Maraini grüßen und richtet Grüße von Julius aus.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000888">Traunstein</placeName>
+                    <date when="1874-08-02" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000713">Lenk, Kanton Bern</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Traunstein in Baviera <lb/>2. Ag<ex>osto</ex> 1874.</dateline>
+                    <salute rendition="#c">Caro amico Mariano,</salute>
+                </opener>
+                <p>la sua lettera mi è rècapitata qua, pochi giorni fà. Essa mi risvegliò un grande desiderio dei tempi passati, massimamente <seg type="comment"><orig>dell’ultimo viaggio</orig><note xml:id="njtd_g4n_zlb">Gregorovius war am 14.5.1874 mit seinem Bruder Julius (1818–1891) von Rom nach Süditalien aufgebrochen; noch am gleichen Tag stieß Raffaele Mariano in Caserta zu ihnen. Gemeinsam führten sie die Reise fort, und machten dabei u.a. in Benevent, Foggia, Lucera, Manfredonia, dem Kap Gargano, Foggia, Barletta, Bari, Tarent und Massafra Station. In Trani trennte sich Mariano am 23.5. von den Gregorovius-Brüdern, welche am 6. Juni nach Rom zurückkehrten (siehe RT, S. 339–342). Im Anschluss an die Reise verfasste Gregorovius einige Beiträge über die Reise für die Augsburger Allgemeine, von denen diejenigen über Lucera, Manfredonia und das Kap Gargano in den 5. Band der „Wanderjahre in Italien“ (1877) aufgenommen wurden, und welche Mariano später unter dem Titel „Nelle Puglie“ (1882) übersetzte. Siehe Ferdinand Gregorovius: „Lucera, die Saracenen-Colonie der Hohenstaufen in Apulien“, ED in Beilage zu Nr. 276–277 der AZ. Augsburg: Cotta 3.-4.10.1874. S. 4293–4295 und S. 4311–4312; „Manfredonia“: ED in Beilage zu Nr. 288–289 der AZ. Augsburg: Cotta 15.-16.10.1874. S. 4473–4474 und S. 4490–4491; „Der Erzengel auf dem Berge Garganus“: ED in Beilage zu Nr. 311–313 der AZ. Augsburg: Cotta 7.-9.11.1874. S. 4833–4834, S. 4850–4852 und S. 4859–4860; Raffaele Mariano: „Nelle Puglie. Con noterelle di viaggio del traduttore. Versione dal tedesco di Raffaele Mariano.“ Florenz: Barbèra Editore 1882.</note></seg>, che facemmo insieme. Ora mi pare un sogno. Ma tutta la vita non è altro che un album di ricordi, e per necessitò bisogna esser filosofi.</p>
+                <p>Lasciai la diletta <placeName key="G000763">Roma</placeName> ai 15. del Luglio, di mattina, non avendo prima preso congedo da nissuno, neppure dalla città di Roma. Giacchè il distaccarmi da quella, e sia pure col pensiero, è cosa totalmente impossibile. Dice bene il <persName key="G001598">Seneca</persName>, che ogni uomo che pensa e sente, porta seco la patria nell’esilio, e cosi porterò anch’io meco Roma per ogni dove. Abbiamo poi tutti i vantaggi, di cui Seneca era privo: le <seg type="comment"><orig>strade <add place="intralinear">ferrate,</add> </orig><note xml:id="nehv_wgw_2mb">Gemeint ist die Eisenbahnverbindung.</note></seg>e l’indipendenza, sommo bene dell’uomo.</p>
+                <p>Mi fermai tre ore di sera in <placeName key="G000671">Firenze</placeName>, poi proseguii la via per <placeName key="G000638">Bologna</placeName> e <placeName key="G000729">Modena</placeName>. Colà lasciando il treno diretto mi arrestai fino alle undici di <pb n="1v"/>mattina, non potendo resistere al desiderio, direi anche al dovere mio, di salutare <seg type="comment"><orig>il <persName key="G001134">Foucard</persName></orig><note xml:id="nysn_34n_zlb">Cesare Foucard (1825–1892) war ein Archivar und Professor für Paläographie am Generalarchiv Venedig. Von 1873–1887 war er Direktor des Archivio di Stato in Modena. Gregorovius war bei seinem kurzen Forschungsaufenthalt im Sommer 1873 Gast in Foucards Haus und würdigte dessen Entgegenkommen bei seinen Archivrecherchen im Vorwort der „Lucrezia Borgia“ (1874): „Dieser ausgezeichnete Mann bemühte sich für meinen Zweck mit einer wahrhaften Liberalität, wie sie eines Nachfolgers Muratori’s in jenem Amt würdig ist. Er erleichterte mir meine Arbeit auf jede Weise.“ (S. XV; siehe RT, S. 332 sowie den Brief von Gregorovius an Mariano, 21.7.1873). Auch wenn er in späteren Jahren von Deutschland aus kommend Modena besuchte, beherbergte ihn Foucard (siehe RT, 31.3.1875, S. 347–348; 20.5.1876, S. 363; 1877, S. 373).</note></seg> e di rivedere <orgName key="G067840">l’archivio</orgName>. Ivi fui accolto con ogni dimostrazione di amicizia: anzi mi si presentavano altri documenti ancora, che si riferiscono alle vicende del misterioso <persName key="G000984"><seg type="comment"><orig>Don Giovanni Borgia</orig><note xml:id="nwzn_j4n_zlb">Giovanni Borgia (1498–1548), von 1501/1502 bis 1503 Herzog von Camerino, Nepi und Palestrina, war offiziell ein unehelicher Sohn von Papst Alexander VI. (1492–1503). Es wird aber auch angenommen, dass er ein unehelicher Sohn der Lucrezia Borgia und des Pagen Pedro Calderón (Perotto) gewesen oder gar aus einer inzestuösen Beziehung des Papstes zu seiner Tochter Lucrezia hervorgegangen sei.</note></seg></persName>, Duca di Camerino.</p>
+                <p>La sera dello stesso giorno mi fermai a <placeName key="G000895">Verona</placeName>. Un temporale <add place="intralinear">poi</add> mi accolse con ogni furia di tuoni e di fulmini proprio nel valicare le chiese di Verona, cosa che mi sarebbe parso un augurio sinistro, s’io fossi più pagano ancora di quello che non sono, almeno secondo l’opinione del nostro amico <persName key="G001375">Lindemann</persName>.</p>
+                <p>Giunsi a <placeName key="G000711">Kufstein</placeName> sulla frontiera della <placeName key="G000833">Baviera </placeName>la mattina del 17., sbattuto dal viaggio, arrostiti dai calori, e stracco per modo, che determinai di rimanere nella miserabile locanda <pb n="2r"/>di quel paese, per altro bello e pittorico, quasi due giorni. Indi mi recai a Traunstein, dove ben presto mi raggiunse il mio <persName key="G001203">fratello</persName>.</p>
+                <p>Il tempo era bellissimo e caldo; ma non durò cosi; si ruppero prestamente le cateratte di questo ciclo piovoso, e ne stò zuppo fino alla gola. Abbiamo prese le camere nel maggior albergo del paese, e ci truoviamo discretamente bene. La società è patriarcale nei modi e nei bisogni, ma colta e gentile. La serata si passa nella sala dei bagni similmente alla patriarcale, se non che alcune signorine di <placeName key="G00067499">Frankfurt</placeName> si fanno sentire al pianforte cantando anche perfettamente bene.</p>
+                <p>Non faccio altro che leggere pochi libri, fra cui <seg type="comment"><orig>il <persName key="G001648">Tucidide</persName></orig><note xml:id="nm3c_l4n_zlb">Der aus Athen stammende Thucydides (vor 460 v. Chr – vor 400 v. Chr.) war ein Stratege und griechischer Historiker. Er ist vor allem für sein herausragendes, wenn auch unvollendetes Werk über den Peloponnesischen Krieg bekannt, in dem er eine objektiv-wissenschaftliche Geschichtsschreibung begründete.</note></seg>. Da pochi giorni sono ricomparse anche le <bibl corresp="G004373">bozze di stampa del vol<ex>ume</ex> VI. della storia</bibl>. Ho finito pure <bibl corresp="G003507">la revisione della Lucrezia per una terza edizione</bibl>, la quale, come ho qualche argomento di sperare, si potrà stampare nel corso dell’anno avvenire.</p>
+                <p>Ebbi lettere dai <persName key="G001374">Lindemann</persName>. Il Lindemann questa volta non si muoverà di Roma, cosa che deploro per conto di lui, ma che mi piace riguardo alla povera <persName key="G001374">signora</persName>, sua moglie, perché altrimenti <pb n="2v"/>ella vi rimarrebbe in un abbandono completo. Già la mia lontananza sarà una precazione durissima per lei, essendo che ella da tanti anni era accostumata a vedermi ogni giorno, e a discorrere con me di tante cose. E nello stesso grado sentirò anch’io un vuoto, fin chè non sarà passato dopo tanto tempo quanto basterà a sanare questa piaga.</p>
+                <p>In un’altra mia le darò parte delle nostre determinazioni in quanto alla dimora da prendere e da stabilire. Per quanto adesso vedo chiaro, resteremo in Traunstein per tutto il mese corrente ancora, <seg type="comment"><orig>quindi andremo a <placeName key="G000734">Monaco</placeName></orig><note xml:id="nwcm_q4n_zlb">Ab dem 10. September ließ er sich mit seinem Bruder Julius in München nieder (siehe den Brief von Gregorovius an Raffaele Mariano, 20.9.1874).</note></seg> e forse un po’ più oltre verso il <placeName key="G000901">Reno</placeName>.</p>
+                <closer rend="within the line">
+<salute>Se non fosse cosa di necessità, che si impone a me e al fratel mio, di rimanere cioè in questa quiete che ci ristora, accorrersi un giorno in <seg type="comment"><orig>Bad <placeName key="G000713">Lenk</placeName></orig><note xml:id="nics_r4n_zlb">Lenk (im Simmental in der Schweiz) zog mit seinen Mineralbädern bereits ab Ende des 17. Jahrhunderts Touristen aus ganz Europa an. </note></seg>, onde stringerle la mano. Intanto faccio voti, che si ritempri colà nelle forze fisiche e morali, e che venga nel Settembre a Monaco, se ciò sarà possibile. Mi scriva ben presto. Mando mille saluti di amicizia al <seg type="comment"><orig><persName key="G001398">signor Maraini</persName></orig><note xml:id="npfz_s4n_zlb">Ingenieur und Eigentümer des römischen Journals Il Diritto.</note></seg>, e alla gentilissima famiglia di lui. Mi voglia bene coi sentimenti di amicizia vera tutto suo</salute>
+<signed rendition="#right">Ferd. Gregorovius.</signed>
+                </closer>
+                <note type="postscript" place="left" rendition="#rotate90">Il mio fratello, non bene disposto di salute da qualche giorno, le ricambia vivamente i sentimenti di amicizia, e la saluta di tutto cuore.</note>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

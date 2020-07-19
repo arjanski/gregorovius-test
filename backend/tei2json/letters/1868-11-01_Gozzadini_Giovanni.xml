@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000441">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. Rom, 1. November 1868 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell’Archiginnasio</institution><collection>Ms. Gozzadini 442 </collection><idno>(7)</idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Über seine enge Beziehung zu den Caetani und den Gozzadini, die er wegen seiner schwachen Gesundheit nicht in Bologna besuchen konnte. Paolo Perez hat in Stresa die Überschwemmung des Lago Maggiore beobachtet, die zu Toten und großen Schäden geführt hat. Über die angespannte politische Lage in Deutschland. Er hofft, dass der Herzog von Montpensier nicht spanischer König wird. Über Maforio und Pasquino, zwei der sogenannten „sprechenden Statuen“ in Rom, an die anonyme Schmähtexte über die Machthaber angeheftet werden. Ein zukünftiges geeintes Deutschland wird liberal und friedfertig sein. Grüße an Anna Gozzadina Gozzadini. </p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1868-11-01" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni (1810–1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+            <div type="writingSession">
+                <opener>
+<dateline rendition="#right">Roma 1. Nov<ex>embre</ex> 1868.</dateline>
+</opener>
+<p>La sua lettera tanto amabile, gentilissimo signor Conte, mi toccò vivamente nel cuore, facendomi sentire dolore e gioja insieme.</p>
+<p>Ella e la <persName key="G001092">signora Contessa</persName> stanno convinti, che la benevolenza loro verso di me, da me stesso è ricevuta come un dono prezioso. Difatti fra tutte le conoscenze italiane, che da anni godo, si è questa della <seg type="comment"><orig>Casa Gozzadini</orig><note xml:id="nhhc_lpr_ylb">Mit den Gozzadinis war er über seinen Freund, den Dante-Forscher Graf Paolo Perez (1822–1879), bekannt geworden und stand seit mindestens Herbst 1856 in Kontakt mit ihnen (siehe RT, 2.10.1856, S. 64). Das Ehepaar besaß seit 1848 eine Villa in Ronzano bei Bologna, wo sie einen prominent besuchten Salon unterhielten, in dem auch Gregorovius verkehrte. Nach dem Tod der Gräfin widmete er diesem einen Essay: Die Villa Ronzano. Ein Musensitz der Gozzadini von Bologna (ED in: Nord und Süd. Eine deutsche Monatsschrift. Bd. 23. Breslau, Berlin: Schottlaender 1882. S. 312–321 – aufgenommen in: KS Bd. 3, S. 97–120). Der Conte unterstützte ihn durch die Bereitstellung der Quellen seines Archivs bei der Entstehung der „Geschichte der Stadt Rom im Mittelalter“ (Stuttgart: Cotta) sowie der „Lucrezia Borgia“ (Stuttgart: Cotta).</note></seg> e della <seg type="comment"><orig><persName key="G001244">casa Gaetani</persName> di Roma</orig><note xml:id="ndwr_mpr_ylb">Die alte römische Adelsfamilie. Michelangelo Caetani (1804–1882), Herzog von Sermoneta, hatte Gregorovius das Familienarchiv ab Dezember 1857 bereitwillig zur Verfügung gestellt (siehe RT, 31.12.1857, S. 69). Ihm widmete er seine „Lucrezia Borgia“ (Stuttgart: Cotta 1874, 2 Bde.). Mit der Tochter des Hauses, Ersilia Gräfin Caetani-Lovatelli (1840–1925), einer Archäologin, war Gregorovius gut befreundet, verkehrte regelmäßig in ihrem Salon und blieb mit ihr auch nach seinem Weggang aus Rom in brieflichem Kontakt (Sigmund Münz. Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli, Berlin: Paetel 1896). Allerdings kam es in späteren Jahren auch zu Spannungen in seiner Beziehung zu den Caetanis wie Briefe an Raffaelo Mariano belegen; siehe die Briefe von Gregorovius an Raffaele Mariano vom 6.11.1877 und 29.11.1877.</note></seg>, che coi più vivi sentimenti di affetto e di stima vorrei coltivare per sempre. Se questo dico – che già dovrebbe andare senza dire – mi scuseranno, perdonandomi la mia fuga di Bologna. Anche <seg type="comment"><orig>a <placeName key="G000668">Fano</placeName>, dove, da certe persone amiche, fui aspettato</orig><note xml:id="nx2j_ppr_ylb">Die Küstenstadt in der Region Marken, Provinz Pesaro und Urbino. Gregorovius hatte dort auf seiner Reise nach München im Juli 1868 Halt gemacht: „Der Bibliothekar Luigi Masetti führte mich gestern ins Gemeindearchiv. Eine Kammer dort ist massenhaft mit Scripturen angehäuft. Die Diplome lagen in Kasten versiegelt. Ich fand nur eine Reihe von Libri Reformationum vor, die mit Anno 1416 beginnen. Daraus kopierte ich einiges aus der Zeit, da Cesare Borgia dort gewaltig war. Man versprach mir, die Diplome später aufzuschließen.“ (RT, 19.7.1868, S. 249).</note></seg>, per la medesima causa non mi fermai, dovendo evitare massimamente i discorsi ed il parlare, per cagione della <seg type="comment"><orig>mia testa dolente</orig><note xml:id="ni5n_qpr_ylb">Gregorovius hatte im Sommer unter der Hitze und den Archivarbeiten in Venedig gelitten, was ihm auch in der folgenden Zeit noch Beschwerden bereitete; siehe den Brief von Gregorovius an Giovanni Gozzadini vom 5.10.1868.</note></seg>. Mi sono ristabilito oramai di modo ch’io ho potuto riprendere i miei lavori.</p>
+<p>Mi rallegro di sentire, che loro hanno passato bene l’estate, pessima questa volta per tutta l’<placeName key="G000690">Italia</placeName>, febbricosa oltre il solito a Roma, dove parecchi <pb n="2"/>amici ritrovai molto sofferenti e malandati. Uno dei <orgName key="G000455">Rosminiani</orgName> stabiliti quà nella Via Alessandrina mi portò le ultime notizie di<seg type="comment"><orig><persName key="G001483"> Paolo</persName></orig><note xml:id="nqhn_spr_ylb">Dem Veroneser Graf Paolo Perez (1822–1879), der Gregorovius in die römischen Kreise eingeführt hatte, widmete er sein 1858 erschienenes Gedicht „Euphorion“ (Leipzig: Brockhaus). In der zweiten Auflage des Gedichts (1872) fehlt die Widmung wunschgemäß. 1856 trat Perez in den Orden der Rosiminaner in Stresa ein, was Gregorovius sehr betrübte (siehe RT, 19.9.1856, S. 63). Regelmäßig besuchte er ihn dort und erwähnte ihn in seinen Briefen an die Gozzadinis. </note></seg>, il quale dall’altura della sua casa ha potuto esser testimone dello <seg type="comment"><orig>straripamento del </orig><note xml:id="nfcc_wpr_ylb">Der September 1868 war sehr regenreich gewesen, so dass die Seestände bereits hoch waren. Darauf folgten starke Niederschlagsphasen am 27./28. September und vom 1.–5. Oktober. Sie führten zu Überschwemmungen auf beiden Seiten der Alpen. Am 4. Oktober erreichte der Lago Maggiore seinen höchsten jemals gemessenen Wasserstand (199,98 m ü. M.). 51 Menschen starben, das Ausmaß der Schäden ging ins Unermessliche. Siehe AZ, Beilage zum 11. Oktober 1868, S. 4329: https://opacplus.bsb-muenchen.de/Vta2/bsb10504468/bsb:3257908?page=173.</note></seg><placeName key="G000826">Lago Maggiore.</placeName> I danni che ha sofferto la<placeName key="G000870"> Svizzera</placeName> in più parti sono stragrandi, e da non riparare in molti anni. Per far crescere i patimenti della povera umanità ci mancherebbe ancora la guerra fra la <placeName key="G000664">Germania</placeName> e la <placeName key="G000646">Prussia</placeName>; spero però, che questo flagello si potrà evitare e vieppiù se venisse fatto, <seg type="comment"><orig>che <persName key="G001005">il Montpensier</persName> salisse sul trono della <placeName key="G000874">Spagna</placeName></orig><note xml:id="npwg_zpr_ylb">Nach dem Septemberaufstand und der Machtenthebung der Monarchin Königin Isabella II. María Luisa (1830–1904) stand Spanien vor der Aufgabe, eine neue Regierung zu bilden. Die unterschiedlichen Ziele der Aufständischen erschwerten diesen langwierigen Prozess. Der französische Offizier Antoine-Marie-Philippe-Louis d’Orléans (1824–1890), Herzog von Montpensier, tötete seinen Konkurrenten und disqualifizierte sich somit für die Thronfolge. </note></seg>.</p>
+<p><seg type="comment"><orig><placeName key="G000786">Marforio</placeName> e Marforio pare che non vengano a trovare <placeName key="G000787">il Pasquino </placeName>di Roma</orig><note xml:id="nwlw_bqr_ylb">Marforio und Pasquino sind zwei der sechs frühchristlichen, sogenannten sprechenden Statuen Roms. Marforio ist ein liegender Flussgott, Pasquino ein Torso einer Skulpturngruppe. Seit dem 16. Jahrhundert war es Brauch, anonyme Schmähschriften und Spottgedichte über die Herrschenden und politischen Zuständen der Stadt an diesen anzubringen. Dadurch kommunizierten die Statuen in gewisser Weise miteinander. Gregorovius’ Aussage ist in diesem Sinne zu verstehen.</note></seg>, e fanno bene: arrecherebbero un imbarazzo di più al <seg type="comment"><orig><persName key="G001497">Papa</persName></orig><note xml:id="nykf_dqr_ylb">Papst Pius IX. (1792–1878). Er amtierte von 1846 bis 1878. </note></seg>. </p>
+<p>Il mondo intanto cambia faccia, <seg type="comment"><orig><foreign xml:lang="Lat">et surgit novus ordo</foreign>.</orig><note xml:id="na1x_2qr_ylb">Lat. für: es erhebt sich eine neue Ordnung.</note></seg></p>
+<p>Chi non vuol sentirne ancora, ne proverà gli effetti. La mia patria di fatti si rinnova: in un decennio riformeremo l’impero, costrutto non più sopra i fondamenti della feudalità, ma si sopra quelli della <seg type="comment"><orig>civiltà largamente libera</orig><note xml:id="nodl_gqr_ylb">Anspielung auf den Liberalismus.</note></seg>.</p>
+<p>La ricostituzione della Germania, <pb n="3"/>che non cerca conquiste, sarà il più grande fatto dell’epoca nostra, perchè essa, e non la volubile <placeName key="G000674">Francia </placeName>col suo <seg type="comment"><orig>cesarismo</orig><note xml:id="nizt_hqr_ylb">Der in der Zeit aufkommende Begriff „Cäsarismus“ lehnt an Julius Cäsar an, bezeichnet aber eine moderne politische Erscheinung und meint eine auf der Herrschaft eines Einzelnen beruhende, autoritäre Regierung. </note></seg> aventuriere, farà reso quel detto: <seg type="comment"><orig>„<foreign xml:lang="fra">l’empire c’est la paix</foreign>”</orig><note xml:id="nvwb_jqr_ylb">Franz. für: das Reich bedeutet Frieden. Nach Napoleon III. (1808–1873).</note></seg>. Coll’alleanza germanica riacquisterà anche l’<placeName key="G000690">Italia</placeName> la facoltà di rassodarsi nazionalmente.</p>
+<p>Con queste speranze, che troveranno l’eco nelle anime loro, chiudo questa lettera affettuosamente raccomandandomi a Loro</p>
+                <closer>
+                    <salute rendition="#right"> come il veracemente obbligato cliente dell’illustre casa de’ Gozzadini</salute>
+                    <signed rendition="#right"> Gregorovius<note type="postscript">Abbiano la compiacenza di rinnovarmi nella memoria della <seg type="comment"><orig>gentile loro <persName key="G001188">figlia</persName></orig><note xml:id="no14_kqr_ylb">Contessa Anna Gozzadina Gozzadini (1845–1899). Sie heiratete 1865 Conte Anonio Zucchini Solimei (1846), starb kinderlos und hinterließ das Familienerbe dem Krankenhaus von Bologna, heute die nach ihr benannte Clinica Pediatrica Universitaria di Bologna (worauf eine Gedenktafel verweist). Siehe dazu: Umberto Dallari: L’archivio della famiglia Gozzadini riordinato per cura di Gozzadina Gozzadini Zucchini. Bologna: Zanichelli 1890.</note></seg>.</note></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067813">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Pietro Venturi in Rom. Rom, 5. Mai 1876</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Archivio Storico Capitolino di Roma</repository><collection>Gabinetto del Sindaco (1877), posizione 48</collection><idno>busta 23, fascicolo 7</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 4°, 2 S. – 2v Bearbeitungsvermerk: 6 Maggio / Al Gab / $ / al Gab per cura al Ministro della publica ist. / onde $ $ $ / Venturi – 1r aoR im Stempel: $2bl5 / 7 maggio 1876 – 1r aoR im Stempel: 523 / Li 8 Maggio 1876</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Die italienische Übersetzung der zweiten Auflage seiner „Geschichte der Stadt Rom im Mittelalter“ (1872–1876) ist abgeschlossen; sie wird für breite Rezeption in Italien sorgen und die Geschichtswissenschaft im Land fördern. Er ist der Stadt Rom für die Finanzierung dieser Übersetzung zu Dank verpflichtet. Er empfiehlt den Übersetzer Renato Manzato für seine Arbeit mit Nachdruck für eine Würdigung.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001674">Venturi, Pietro (1824–1892)</persName>
+<placeName key="G000763">Rom</placeName><date when="1876-05-05" cert="high"/>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Roma, <placeName key="ediarum_njc_s3x_qlb">Via di Ripetta</placeName> n<ex>umero</ex> 108. <lb/>5. Maggio 1876.</dateline>
+                    <salute rendition="#c">Onorevole <seg type="comment"><orig>signor Sindaco</orig><note xml:id="nxxb_l2w_zlb">Mit dem seit Januar 1875 als Bürgermeister Roms tätigen Juristen Pietro Venturi (1824–1892) stand Gregorovius im Jahr 1876 eigentlich hinsichtlich der ihm verliehenen römischen Bürgerrechte in regelmäßigem Kontakt; siehe den Brief von Gregorovius an Pietro Venturi vom 17.3.1876. Der vorliegende Brief bezieht sich hingegen auf das zweite, die rein berufliche Beziehung der beiden prägende Thema, namentlich die Übertragung von Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ (8 Bde., Stuttgart: Cotta 859–1872) ins Italienische.</note></seg>,</salute>
+                </opener>
+<p>ora che la traduzione italiana della <bibl corresp="G004367">storia di Roma nel medio evo</bibl> col volume ottavo ha raggiunto il desiderato termine, sono compreso, direi quasi più vivamente che mai, dal sentimento di gratitudine verso l’illustre <orgName key="G004663">Municipio di Roma</orgName>, per cui soccorso generoso <seg type="comment"><orig>venne facilitata e condotta anche alla fine <add place="superlinear">la versione di </add><bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">codesta mia opera</bibl></orig><note xml:id="nymk_42w_zlb">Auf Antrag des Marchese Francesco Nobili-Vitelleschi (1829–1906) hatte der Gemeinderat Roms am 13. Juli 1872 die Kostenübernahme für die Fortsetzung der Übersetzung von Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ ins Italienische beschlossen; siehe den Brief von Gregorovius an Pietro Venturi vom 17.8.1872. In den folgenden Jahren kam es mit dem die Übersetzung verantwortenden venezianischen Verlag Antonelli zu Schwierigkeiten hinsichtlich ausstehender Zahlungen und Einhaltungen von Lieferfristen, weshalb sich Gregorovius bereits früher in dieser Angelegenheit mehrfach an den Bürgermeister gewandt hatte; siehe die Briefe von Greorovius an Pietro Venturi vom 14. und 22.6.1875. </note></seg>. Quindi mi permetto di darne di bel nuovo espressione a V<ex>ostra</ex> S<ex>ignoria</ex> Ill<hi rendition="#sup"><ex>ustrissi</ex>ma</hi> come all’ onorevole consiglio comunale, cui sempremai mi terrò obbligato. <seg type="comment"><orig>Il diffondersi dell’opera in Roma e in tutta l’ <placeName key="G000690">Italia</placeName></orig><note xml:id="nrh2_q2w_zlb">Bereits in den 1860er Jahren kam es von Seiten verschiedener italienischer Kulturschaffender zu Initiativen, die italienische Ausgabe der „Geschichte der Stadt Rom im Mittelalter“ in den Gymnasien Italiens in Umlauf zu bringen und somit die Fortführung der Übersetzung von Gregorovius’ Arbeit zu finanzieren; siehe die Briefe von Gregorovius an Aleardo Aleardi vom 14.3.1867 und an Giovanni Gozzadini vom 12.5.1867.</note></seg> è cosa, che mi fà sperare, che ne risulteranno frutti buoni per gli studj di storia e di civiltà. </p>
+<p>Ho ancora una preghiera da rivolgere alla S<ex>ignoria</ex> V<ex>ostra</ex> Ill<hi rendition="#sup"><ex>ustrissi</ex>ma</hi>, la quale riguarda <seg type="comment"><orig>il traduttore dell’ opera, il signor <persName key="ed_mbt_yjh_zkb">Renato Manzato</persName></orig><note xml:id="ng1y_r2w_zlb">Auf Grundlage eines Vertrags mit dem Verlag Giuseppe Antonelli vom 20. Juni 1865 (BSB München, NL Gregorovius, Gregoroviusiana 26) hatte der im Übersetzen unerfahrene Lehrer an der R. Scuola Superiore di Commercio di Venezia, Jurist und Historiker Renato Manzato (1847–1925) die ersten beiden Bände von Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ übersetzt (Storia della città di Roma nel Medio Evo, dal secolo V al XVI. Prima versione italiana di Renato Manzato. Venedig, Turin: Guiseppe Antonelli 1866. (Nuova Collezione di Opere Storiche ; Vol. VIII). Gregorovius zeigte sich mit dieser ersten Übersetzung allerdings unzufrieden und verbot deren Fortsetzung (siehe den Brief von Gregorovius an Franz Rühl vom 29.6.1871; Universitäts- und Landesbibliothek Bonn, NL Franz Rühl; Sign. S 2606 (12)). Auf Grundlage der 2. Auflage der deutschen Ausgabe besorgte Manzato von 1872–1876 erneut eine Übersetzung der „Geschichte der Stadt Rom im Mittelalter“ ins Italienische und brachte diese 1876 mit neun Bänden zu einem Ende.</note></seg>, avvocato, e nello stesso tempo professore in una scuola marittima in <placeName key="G000894">Venezia</placeName>. La fatica grande, indefessa e coscienciosa, che il detto giovane da parecchi anni a questa parte ha dedicato alla difficile traduzione dell’opera voluminosa e corredata di tante note, nonchè l’abilità e capacità, di cui egli vi ha dato prova, sono per certo titoli <pb n="1v"/>di merito, i quali non <seg type="comment"><orig>ponno</orig><note xml:id="nqmx_s2w_zlb">Antik für: possono.</note></seg> rimanere inosservati nè da V<ex>ostra</ex> S<ex>ignoria</ex> Ill<hi rendition="#sup"><ex>ustrissi</ex>ma</hi>, nè dai <seg type="comment"><orig>rispettivi <persName key="ed_f2r_nh5_plb">Ministeri dell’ Interno</persName> e dell’ <persName key="G000979">Istruzione publica</persName></orig><note xml:id="nbn1_v2w_zlb">Giovanni Nicotera (1828–1894) war von März 1876 bis Dezember 1877 Innenminister, Ruggiero Bonghi (1826–1895) von September 1874 bis November 1876 Bildungsminister des Königreichs Italien. Gregorovius hatte sich bereits früher gegenüber dem Verlag Antonelli für Manzato eingesetzt und um einen Teil des finanziellen Ausgleichs für die Arbeit des Übersetzers gebeten; siehe den Brief von Gregorovius an den Verlag Giuseppe Antonelli vom 14.6.1875.</note></seg>. </p>
+<p>Per questa ragione mi prendo la libertà, di raccomandare alla di lei protezione il sovradetto Signor Renato Manzato, il quale può andar sicuro di ottenere, mediante il favore di una sola parola di V<ex>ostra</ex> S<ex>ignoria</ex> Ill<hi rendition="#sup"><ex>ustrissi</ex>ma</hi>, in premio del suo ottimo lavoro una ben meritata <seg type="comment"><orig>destinzione</orig><note xml:id="nifv_t2w_zlb">Für distinzione = Auszeichnung.</note></seg> dalla parte <seg type="comment"><orig>dell’ alto governo di <persName key="G001692">Sua Maestà il Re</persName></orig><note xml:id="nt5d_x2w_zlb">Ein Briefentwurf vom 8. Mai 1876 an den Bildungsminister Ruggiero Bonghi belegt Venturis Engagement in der von Gregorovius erbetenen Sache. In dem Schreiben bittet der Bürgermeister um eine Auszeichnung Manzatos durch das Ministerium; siehe den Briefentwurf im römischen Amtsbuch vom 8.5.1876 (Archivio Storico Capitolino di Roma, Gabinetto del Sindaco (1877), posizione 48, busta 23, fascicolo 7). Ein weiteres Bittschreiben von Gregorovius an Venturi in derselben Angelegenheit und ein erneutes Entwurfsschreiben des Bürgermeisters an den Bildungsminister ein Jahr später belegen, dass dieser erste Vorstoß zugunsten einer Auszeichnung des Übersetzers nicht den erwünschten Erfolg hatte; siehe den Brief von Gregorovius an Pietro Venturi vom 25.5.1877.</note></seg>: essendosi egli dimostrato giovane degnissimo dell’ attenzione del medesimo Governo anche quanto ed esser impiegato al tempo occorrente in un posto conveniente alle sue non comuni qualità.</p>
+<p>Coi sensi del più alto rispetto ho l’onore di protestarmi e di offrirmi di V<ex>ostra</ex> S<ex>ignoria</ex> Ill<hi rendition="#sup"><ex>ustrissi</ex>ma</hi></p>
+                <closer>
+                    <salute rendition="#right">devotissimo servitore</salute>
+                    <signed rendition="#c">Ferdinando Gregorovius <lb/>cittadino Romano.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

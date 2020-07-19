@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000389">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Maria Teresa Serego Alighieri Gozzadini in Bologna. Rom, 3. November 1856</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"><bibl type="print">Giovanni Gozzadini: Maria Teresa di Serego-Allighieri Gozzadini. Bologna: E. Fava e Garagnani 1882. S. 304–305</bibl> (gekürzt) </witness>
+<witness> <bibl type="print">Giovanni Gozzadini: Maria Teresa di Serego-Allighieri Gozzadini. Seconda edizione ampliata con prefazione di Giosuè Carducci. Bologna: Nicola Zanichelli 1884. S. 444–445</bibl> (nach D1)</witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er schätzt ihre anerkennenden Worte zu seiner Übersetzung der „Lieder des Giovanni Meli“ (1856). Er hofft, den sizilianischen Dichter mit seiner Veröffentlichung in Deutschland und England bekannter zu machen. Er würdigt sie als Kennerin der Literatur und Wissenschaft und hebt ihr Engagement für die italienische Übersetzung von Austen Henry Layards „Nineveh and its Remains“ (1848) hervor. Von ihren Aktivitäten hat ihm auch Paolo Perez berichtet.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He appreciates her praise for his translation of the „Lieder des Giovanni Meli“ (1856). He hopes to make the Sicilian poet better known in Germany and England with his publication. He honors her as a connoisseur of literature and science and emphasizes her commitment to the Italian translation of Austen Henry Layard’s „Nineveh and its Remains“ (1848). Paolo Perez also told him about her activities.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1856-11-03" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001092">Serego Alighieri Gozzadini, Maria Teresa (1812–1881)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="304"/>
+            <div type="writingSession">
+                <opener>
+<salute>Nobilissima Signora <seg type="comment"><orig>Contessa</orig><note xml:id="nwhj_hsb_tlb">Mit der Gräfin Maria Teresa Serego Alighieri Gozzadini (1812–1881) und deren Ehemann Giovanni Gozzadini (1810–1887) war Gregorovius über ihren Cousin Graf Paolo Perez (1822–1879) bekannt geworden, den er seit 1855 kannte. Die Contessa sah sich als Nachfahrin Dantes und pflegte mit Gregorovius eine rege, freundschaftliche Beziehung. Vier Briefe von Gregorovius an die Gräfin belegen ihren vertraulichen Umgang. Sie handeln von seinen wissenschaftlichen Arbeiten, der gemeinsam verbrachten Zeit und dem Vetter der Gräfin, Paolo Perez.</note></seg></salute>
+<dateline rendition="#right">Roma 3 Novembre 1856.</dateline>
+</opener>
+<p>La sua lettera gentile mi assicura ch’ella non cessa di dimostrarsi benevola verso di me. La di lei approvazione della<bibl sameAs="G004072"> traduzione del <seg type="comment"><orig>poeta Meli</orig><note xml:id="nzvv_nsb_tlb">Mit der Dichtung des Sizilianers Giovanni Meli (1740–1815) war Gregorovius auf seiner Sizilienreise im Herbst 1853 bekannt geworden. Er hatte der Gräfin die Übersetzung seiner „Lieder des Giovanni Meli von Palermo“ (Leipzig: Brockhaus 1856) gesandt. Ein Vorabdruck einzelner Lieder war im „Morgenblatt für gebildete Leser“ erschienen (Nr. 41, Stuttgart, München: Cotta 8.10.1854, S. 978–979). </note></seg></bibl>, la tengo quale alto premio di quelle fatiche che ho speso per le poesie siciliane. Difatti il Meli poco era conosciuto in <placeName key="G000664">Germania</placeName> ed in <placeName key="G000599">Inghilterra</placeName>, ed ora son lieto di vedere che la traduzione delle migliori cose di lui si gradisce presso quelle due nazioni. <seg type="comment"><orig>Non ho trovato poeta simile fra i moderni</orig><note xml:id="nmbf_wsb_tlb">Der Buchpublikation hatte er eine ausführliche Studie zu Giovanni Meli vorangestellt.</note></seg>, se s’attende alla preziosa sua naturalezza di sentire gli affetti soavi e di esprimerli con genialità. Per questo pregio delicato <seg type="comment"><orig>il <placeName key="G000748">Palermitano</placeName> merita di essere accolto dalle donne gentili</orig><note xml:id="noh4_5sb_tlb">Die Gozzadinis unterhielten in ihrer Villa Ronzano einen prominent besuchten Salon; siehe hierzu den Brief von Gregorovius an Giovanni Gozzadini vom <ref target="G000388">3.11.1856</ref>.</note></seg>.</p>
+<p>Quale produzione però dell’ingegno umano potrebbe sfuggire alla di lei attenzione, sia opera di fantasia poetica, sia generata da studi di discipline più profonde e più reali? Rammento non solo quello che mi disse il suo cugino <persName key="G001483">Paolo</persName>, ma un bellissimo fatto mi sta dinanzi agli occhi in quella <bibl sameAs="G004269">traduzione del libro di Layard sulle scoperte di Ninive</bibl>, <seg type="comment"><orig>la quale la sua patria non avrebbe <pb n="305"/>visto uscire alla luce senza il di lei impulso generoso</orig><note xml:id="ngsp_rtb_tlb"><p>Das Buch „Nineveh and its Remains“ (2 Bde., London: Murray 1848) des britischen Archäologen Austen Henry Layard (1817–1894), ein Bericht über dessen Ausgrabungen, war von Ercole Malvasia Tortorelli 1855 ins Italienische übersetzt worden (Delle scoperte di Ninive. Bologna: Società tipografica bolognese e Ditta Sassi 1855). </p></note></seg> <del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del></p>
+                <closer>
+                    <salute rendition="#right">servitore grato e sincero</salute>
+                    <signed rendition="#right">Gregorovius.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000387">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Guglielmo und Erminia De Sanctis in Rom. München, 27. Dezember 1886</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">A. Bartolini.: Gregorovius paesista. In: Giornale arcadico. Rivista di scienze, lettere ed arti. Jg. 1. Ser. VI. Fasc. 10. Rom: Polizzi &amp; Valentini Oktober 1906. S. 604</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Nach seiner Umsiedlung nach München kann er nicht mehr jedes Jahr nach Rom zurückkehren, auch schmerzt ihn das nach der Verlegung der Hauptstadt nach Rom einsetzende Verschwinden des mittelalterlichen Roms. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1886-12-27" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001087">De Sanctis, Guglielmo (1829–1911)</persName>
+<persName key="G001086">De Sanctis, Erminia (1840–1919)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="604"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Monaco, 27. Dicembre 1886.</dateline>
+                    <salute>A Guglielmo de <?oxy_comment_start author="Angela Steinsiek" timestamp="20190702T174838+0200" comment="Der Römer Guglielmo de Sanctis (1829–1911) war ein von den Nazarenern beeinflusster Historien- und Porträtmaler, dem namhafte Würdenträger, beispielsweise der italienische König Umberto I., Politiker und Geschäftsleute Modell saßen. Er war Ehrenmitglied der Accademia di San Luca in Rom und Präsident der Società Amatori e Cultori di Belle Arti."?>Sanctis<?oxy_comment_end?> e sua gentilissima <?oxy_comment_start author="Angela Steinsiek" timestamp="20190702T174904+0200" comment="Seine Schwester Erminia de Sanctis (1840–1919) war als Blumenmalerin tätig. "?>sorella<?oxy_comment_end?>,</salute>
+                </opener>
+<p>Tanti ringraziamenti dell’amabile saluto, il quale ricambio con altrettanti auguri di felicità.</p>
+<p>Ch’io disami Roma, è cosa che non può succeder mai; però ben può darsi, ch’io non ci torni più ogni <?oxy_comment_start author="Angela Steinsiek" timestamp="20190702T174927+0200" comment="Im Juli 1874 war Gregorovius von Rom nach München übersiedelt. "?>anno<?oxy_comment_end?>, non avendoci più nulla di serio da fare, e poi non volendo, per vero dire, ogni anno assistere ai funerali di quella storica <?oxy_comment_start author="Angela Steinsiek" timestamp="20190702T174950+0200" comment="Als im Januar 1871 die italienische Hauptstadt von Florenz nach Rom verlegt worden war, begann ein beispielloser Umbau der Stadt, dem große Areale mittelalterlicher Bebauung zum Opfer fielen."?>Roma<?oxy_comment_end?>, che tanto studiai ed amai.</p>
+                <closer>
+<signed rendition="#right">Ferdinando Gregorovius.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

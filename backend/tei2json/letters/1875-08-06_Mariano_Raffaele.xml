@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000179">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Morschwiller-le-Bas. München, 6. August 1875</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 2 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er lädt Mariano zu sich und seinen Geschwistern Julius und Ottilie nach München ein. Ottilies Sohn Herman Elgnowski ist derzeit in Wiesbaden. Auguste Lindemann-Frommel geht es gesundheitlich schlecht, von ihrem Sohn Manfred hat er nichts gehört. Domenico Guglielmi hat sich nach Mariano erkundigt. Grüße an die Familie Tachard.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1875-08-06" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000733">Morschwiller-le-Bas</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Monaco, 6. Agosto 1875.</dateline>
+                    <salute>Caro amico Mariano,</salute>
+                </opener>
+<p>mi tardavo molto di avere le sue nuove, non sapendo dove forse sto, e supponendo, dietro il contenuto dell’ultima sua, che avesse digià lasciato l’<placeName key="G000788">Alsazia</placeName> per visitare altri luoghi in <placeName key="G000664">Germania</placeName>. Or mi rallegro e della sua prolungata dimora nella casa ospitale <persName key="G001631"><seg type="comment"><orig>Tachard</orig><note xml:id="nnbh_mtt_zlb">Der Elsässer Jurist Pierre Albert Tachard (1826–1919), Mitbegründer von „Le Temps“, Botschafter in Brüssel und Elsässer Abgeordneter in Paris. Ab Oktober 1858 mit Wilhelmine („Mina“) Tachard-Grunelius (1836–1927) verheiratet. Tachard besaß in Moschwiller-le-Bas ein Schloß.</note></seg></persName>, e della promessa, che mi fà, di <seg type="comment"><orig>non ritornare in <placeName key="G000690">Italia</placeName> prima di aver visitato me e <persName key="G001203 G001204">i miei</persName> qui in Monaco</orig><note xml:id="nvck_ntt_zlb">Mariano hielt sich zwischen Ende September und Anfang Oktober acht Tage in München auf und logierte im Hotel Marienbad in der Maxvorstadt (siehe die Briefe von Gregorovius an Raffaele Mariano vom 27. September und 17. Oktober 1875 und RT, 1.3.1876, S. 361).</note></seg>.</p>
+<p>Sarò brevissimo in questa mia, essendo anche per caso carico di lettere da assolvere oggidì, così che mi ristringo a poche parole, riserbandomi molte cose a dirle a voce, quando sarà giunto qui. Sappia dunque, che fin dal primo del mese <seg type="comment"><orig>mi sono riunito coi miei in una casa</orig><note xml:id="nsrl_4tt_zlb">Gemeinsam mit seinem Bruder Julius Gregorovius (1818–1891) und seiner Schwester Ottilie Elgnowski (1834–1907) bezog Gregorovius im September 1875 eine Wohnung in München in der Barerstraße 5 (siehe RT, 1.3.1876, S. 359–360).</note></seg>, che, dopo di esser fornita un po’ di mobili, mi pare sufficiente ai nostri bisogni. La attendiamo con <pb n="1v"/>grande desiderio. Mi faccia avvertito del giorno e dell’ora precisa del suo arrivo, acciocchè io venga ad incontrarla in stazione e condurla meco.</p>
+<p>Il <persName key="G001109">figlio</persName> della mia sorella attualmente stà fuori a <placeName key="G000898">Wiesbaden</placeName> da amici nostri. Noi altri tre membri principali della famiglia non lasceremo più la casa; ci troverà tutti qui.</p>
+<p>Ho lettere di <placeName key="G000763">Roma</placeName>, che mi rattristano, perché la salute della signora <persName key="G001374">L<ex>indemann</ex></persName> va peggiorando. Di <persName key="G001376">Manfredi</persName> non ho inteso nulla. Del <persName key="G001221">Guglielmi</persName> ebbi una lettera, in cui domanda di lei, volendo esser ricordato dal suo amico. Egli oramai è ristabilito nella salute.</p>
+<p>Null’altro per ora, senon la preghiera di salutare cordialmente i signori Tachard.</p>
+                <closer> 
+                    <salute rendition="#c"><foreign xml:lang="deu">Auf frohes Wiedersehen</foreign></salute>
+ <signed rendition="#right">FGregorovius </signed> </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

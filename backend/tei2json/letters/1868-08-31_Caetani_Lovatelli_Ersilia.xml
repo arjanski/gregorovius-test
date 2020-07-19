@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000447">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Contessa Ersilia Caetani Lovatelli in Frascati. Bad Schachen, 31. August 1868</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno>Karton 59, Mappe 348 (nach D2)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Sigmund Münz: ‚Einige Briefe von Ferdinand Gregorovius‘ in: Neue Freie Presse. Morgenblatt. Nr. 11092. Wien: Österreichisches Journal 13.7.1895. S. 2 (gekürzt)</bibl> </witness>
+<witness select="#this"> <bibl type="print">Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli. Hrsg. von Sigmund Münz. Berlin: Paetel 1896, S. 64–65 (gekürzt) </bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Über die Herzogin Margaret Knight und seinen Aufenthalt in Bad Schachen, das ihn an die verstorbenen Eltern und Brüder erinnnert. Im Juli war er zu Forschungsaufenthalten in Spoleto, Gubbio und Venedig, bevor er in München die Arbeit in der Bayerischen Staatsbibliothek aufnahm. Vom Bodensee wird er nach München reisen und Ende September nach Rom zurückkehren. Mit Wilhelm von Giesebrecht und Wolfgang Erhardt hat er einige Tage in Kufstein verbracht.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000627">Bad Schachen</placeName><date when="1868-08-31" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001011">Caetani Lovatelli, Ersilia (1840–1925)</persName>
+<placeName key="G000675">Frascati</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+<body><pb n="64"/>
+<div type="writingSession">
+<opener>
+<dateline rendition="#c">Schachen-Bad bei <placeName key="G000714">Lindau</placeName>, 31. August 1868.</dateline>
+<salute rendition="#c">Verehrte Frau Gräfin,</salute>
+</opener>
+<p>ich sehe mit Freude, daß <seg type="comment"><orig>die <persName key="G001008">Frau Herzogin</persName></orig><note xml:id="nidp_xgr_ylb">Ersilias Vater, der Herzog von Sermoneta Michelangelo Caetani (1804–1882), war seit 1854 in zweiter Ehe mit Margaret Knight (1810–1872) verheiratet. Ersilias Mutter, die erste Frau des Herzogs, die polnische Adlige Calixta Rzewuska (*1810) war 1842 verstorben. Gregorovius war auch dem Herzog freundschaftlich verbunden. </note></seg>  sich erholt hat und <seg type="comment"><orig>alle Mitglieder des Hauses sich in Frascati</orig><note xml:id="nzch_1hr_ylb">Gemeinde 21 Kilometer südöstlich von Rom, in der die Caetanis ein Haus besaßen. Gregorovius besuchte sie mehrere Male dort (siehe RT, 6.10.1867, S. 234; 13.10.1867, S. 235; 28.7.1871, S. 308). </note></seg> wohl befinden. Nun aber bitte ich Sie, mir angesichts dieser Zeilen ein paar Worte unter der obenstehenden Adresse zu schreiben, damit ich weiß, wie Ihr Sommer in<seg type="comment"><orig><placeName key="G004677"> Tusculum</placeName></orig><note xml:id="ntvs_bhr_ylb">Antike Stadt auf dem Monte Tuscolo, oberhalb des heutigen Frascati, von der Ausgrabungen zeugen. </note></seg> war und wie Sie dort die sonnigen Tage hinbringen. Es gibt keinen größeren Gegensatz als der zwischen Frascati und <placeName key="G000714">Lindau</placeName> ist, <seg type="comment"><orig>aber auch hier ist ein Paradies</orig><note xml:id="ngyb_dhr_ylb">Gregorovius war am 26. August nach Lindau gereist, nachdem er Immenstadt besucht hatte und es ihm als Sommersitz nicht zusagte. Am 27. August bezog er eine Wohnung in dem am See gelegenen Ort Bad Schachen (siehe RT, 20.9.1868, S. 252).</note></seg>. Ich wohne an einem vergißmeinnichtfarbigen See von 18 Stunden Länge, welchen die <placeName key="G000870">Schweizer</placeName> <placeName key="G000855">Alpen </placeName>und der <placeName key="G000581">Bregenzerwald</placeName> umschließen. Ringsum ist ein meilenweiter Garten von Weinreben und Fruchtbäumen, worin nur glückliche Menschen wohnen, die kein Verbrechen kennen. Mein Haus steht im Garten, ich höre alle Augenblicke die roten Aepfel von den Bäumen fallen, ein Ton aus meiner Kindheit, der mir <seg type="comment"><orig>Erinnerungen an <persName key="G001201 G001207">meine todten Eltern</persName></orig><note xml:id="nejs_2hr_ylb">Seine Mutter Wilhelmine Gregorovius, geb. Kausch (*1783), war 1831 verstorben, sein Vater, der Jusitzrat Ferdinand Timotheus Gregorovius (*1780), 1848. Dieser war seit 1832 in zweiter Ehe mit Emilie Auguste, geb. Dreßler, verw. von Collrepp (*1797), verheiratet gewesen, die wiederum 1866 verstarb. Gregorovius hatte ein gutes Verhältnis zu ihr; siehe den Brief von Gregorovius an Auguste Emilie Gregorovius, Julius Gregorovius und Ottilie Gregorovius vom 16.9.1855. </note></seg> und <seg type="comment"><orig><persName key="G001198 G001203 G001206">Geschwister</persName> </orig><note xml:id="nvpv_ghr_ylb">Wilhelmine und Timotheus Gregorovius hatten neben Ferdinand die Söhne Rudolf (1808–1866), Gustav (1810–1862) und Julius (1819–1891). Mit Emilie Auguste, die einen Sohn von Collrepp (*1827) mit in die Ehe gebracht hatte, bekam der Vater die Tochter Ottilie (1834–1907). Diese heiratete 1855 Louis Elgnowski († 1860), mit dem sie kurz darauf den Sohn Hermann (1860–1936) bekam. Gregorovius stand mit seinen Geschwistern in regelmäßigem Kontakt, sie schrieben und besuchten sich gegenseitig. Nach seiner Rückkehr aus Rom lebte er gemeinsam mit der verwitweten Halbschwester und dem Bruder Julius zusammen.</note></seg>er- <pb n="65"/>weckt. Die Gänge durchs Land und am See sind zauberisch, überall Segen, Frieden und die unergründliche Seelengüte der deutschen Natur. <seg type="comment"><orig>Hier will ich noch drei Wochen bleiben und dann südwärts gen <placeName key="G000763">Rom</placeName> gehen</orig><note xml:id="nm5q_3hr_ylb">Er reiste am 23. September vom Bodensee nach München. Von dort machte er sich am 26. September in Richtung Italien auf, traf am 29. September wieder in Rom ein (siehe RT, 5.10.1868, S. 253). </note></seg>.</p>
+<p>Ich machte <seg type="comment"><orig>meine Reise nach <placeName key="G000802">Spoleto</placeName> und <placeName key="G000835">Gubbio</placeName> und dann nach der <placeName key="G067507">Romagna</placeName></orig><note xml:id="nvjf_khr_ylb">In Spoleto und Gubbio hatte er im Juli auf dem Weg nach Deutschland für Archivarbeiten Halt gemacht (siehe RT, 16.7.1868, S. 247–248), war dann nach Rimini weitergereist (siehe RT, 21.7.1868, S. 250). Siehe dazu auch den Brief von Gregorovius an Giovanni Gozzadini vom 28.7.1868. </note></seg>. Zehn Tage verbrachte ich in <placeName key="G000894">Venedig</placeName>, wo ich die <orgName key="G000562">Marciana</orgName> und <seg type="comment"><orig>das <orgName key="G000564">Staatsarchiv</orgName> durchwühlte</orig><note xml:id="neb1_mhr_ylb">Im Staatsarchiv von Venedig im Konvent der Franziskaner, zu dem auch das Archiv des Konvents gehört, studierte er unter anderem die „Diarii“ des Marin Sanudo (1466–1536), eine Aufzeichnung aller Ereignisse Venedigs bis ins Jahr 1533. </note></seg>. Ich trug von dort unglaubliche Schätze <seg type="comment"><orig>für die </orig><note xml:id="ndtr_nhr_ylb">1869 erschienen die überarbeiteten, aktualisierten ersten beiden Bände seiner „Geschichte der Stadt Rom im Mittelalter“.</note></seg><bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485"><seg type="comment"><orig>Geschichte Roms</orig><note xml:id="ndtr_nhr_ylb"/></seg> </bibl>davon. Die Hitze jedoch war <seg type="comment"><orig>außerordentlich</orig><note xml:id="nk5m_5hr_ylb"/></seg>;<?oxy_comment_start author="weiger" timestamp="20190927T072108+0200" comment="Die Hitze Venedigs machte ihm sehr zu schaffen und er beklagte sich zu unterschiedlichen Gelegenheiten darüber."?> <?oxy_comment_end?>ich mußte geradeaus nach <placeName key="G000734">München</placeName> reisen, wo ich fortfuhr, in der <seg type="comment"><orig>sehr reichen <orgName key="G000510">Bibliothek</orgName> zu studieren</orig><note xml:id="nxg2_23r_ylb">In München arbeitete er im August in der Bayerischen Staatsbibliothek (siehe RT, S. 251–252). </note></seg>. Dann brachte ich <seg type="comment"><orig>entzückende Tage unter den Freunden in <placeName key="G067508">Tirol</placeName></orig><note xml:id="nvfj_g3r_ylb">In Kufstein verbrachte Gregorovius einige Tage mit dem Historiker Wilhelm von Giesebrecht (1814–1889), einem der ersten, der in italienischen Archiven das mittelalterliche Quellenmaterial studiert hatte. Giesebrecht zählte für ihn zu den wichtigsten Kennern der Stadt Rom im Mittelalter; siehe den Brief von Gregorovius an Johann Georg Freiherr Cotta von Cottendorf vom 22.12.1859. Wolfgang Erhardt (1819–1906), ein deutscher, in Rom lebender Arzt, samt Familie, mit dem Gregorovius ebenfalls befreundet war, war ebenfalls in Kufstein (siehe RT, 20.9.1868, S. 252).</note></seg> hin, und nun bin ich endlich in dieser anmuthsvollsten Einsamkeit, wo ich mit<seg type="comment"><orig> <foreign xml:lang="ita">dolce far niente</foreign></orig><note xml:id="nojx_h3r_ylb">Ital. für: süßes Nichtstun.</note></seg> ausruhe. Ich laufe herum oder bin im Dampfer auf dem See, oder ich fische, und die Fische, die ich gefangen, werfe ich wieder ins Wasser.<gap reason="lost" unit="chars" quantity="1"/></p>
+</div>
+</body>
+</text>
+</TEI>

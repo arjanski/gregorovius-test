@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_h14_j2d_hmb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. München, 1. Oktober 1881</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free">
+                <licence target="http://creativecommons.org/licenses/by/4.0/">
+                    Creative Commons Attribution 4.0 International (CC BY 4.0)
+                </licence>
+            </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"><bibl type="print">Giovanni Gozzadini: Maria Teresa di Serego-Allighieri Gozzadini. Bologna: E. Fava e Garagnani 1882. S. 474.</bibl> </witness>
+<witness><bibl type="print">Giovanni Gozzadini: Maria Teresa di Serego-Allighieri Gozzadini. Seconda edizione ampliata con prefazione di Giosuè Carducci. Bologna: Nicola Zanichelli 1884. S. 642.</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Kondolenzschreiben zum Tod der Gräfin Maria Teresa Serego Alighieri Gozzadini. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1881-10-01" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni conte (1810-1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+<dateline rendition="#right"> Monaco 1 Ottobre 1881.</dateline>
+</opener>
+<p>Illustrissimo sig<ex>nor</ex> Conte, uomo venerando. Non trovo parole, onde esprimerle la costernazione, che mi causò <seg type="comment"><orig>la dolorosa partecipazione giuntami in questo momento, della morte di quella <persName key="G001092">donna</persName> preclara, che fu sua compagna di vita</orig><note xml:id="nmrl_qfd_hmb">Die 1812 in Verona adlig geborene Maria Teresa Serego Alighieri Gozzadini, Ehefrau des Conte Gozzadini, war am 26. September 1881 in Bologna verstorben. Cousin und Cousine hatten 1840 geheiratet und acht Jahre später einen auf einem Berg gelegenen Konvent am Rande Bolognas, der Ende des 18. Jahrhunderts zu einer Villa umgebaut worden war, erworben. Dort unterhielten sie einen von gebildeten Persönlichkeiten gut besuchten Salon; siehe den Brief von Gregorovius an Giovanni Gozzadini vom 3.11.1856. Nach dem Tod der Gräfin (1881) widmete Gregorovius dem Salon, in dem auch er häufig zu Gast war, einen Essay: Die Villa Ronzano. Ein Musensitz der Gozzadini von Bologna (ED in: Nord und Süd. Eine deutsche Monatsschrift. Bd. 23. Breslau, Berlin: Schottlaender 1882. S. 312–321 – aufgenommen in: KS Bd. 3, S. 97–120). </note></seg>. </p>
+<p>Proprio <seg type="comment"><orig>in questi giorni volli scriverle</orig><note xml:id="nqc5_rfd_hmb">Gregorovius hatte die Gräfin einst über seinen guten Freund Paolo Perez (1822–1879), einen Cousin ihrerseits, kennengelernt und auch mit ihr einen Briefaustausch sowie eine jahrelange Freundschaft gepflegt.</note></seg>, digiuno, come già da un pezzo ero dello loro nuove. Ora invece debbo rivolgere i miei pensieri ad <seg type="comment"><orig>una tomba recente, recente</orig><note xml:id="ngz5_sfd_hmb">Die Gräfin wurde auf dem Friedhof der Certosa di Bologna beigesetzt.</note></seg>! </p>
+<p>Non oso parlargliene, nè dar molestia al di lei animo tutto immerso nel più amaro, più profondo e sacro dolore. Voglio stringerle soltanto affettuosamente la mano, e dirle che piango con lei e colla <seg type="comment"><orig>sua <persName key="G001188">figliuola</persName></orig><note xml:id="nofs_tfd_hmb">Die 1845 geborene Anna Gozzadini (†1899) war das einzige Kind von Maria Teresa und Giovanni Gozzadini, hatte 1865 den Conte Antonio Zucchini Solimei geheiratet und blieb kinderlos. Sie hinterließ das Familienerbe dem Krankenhaus von Bologna, heute die nach ihr benannte Clinica Pediatrica Universitaria di Bologna. Siehe dazu: Umberto Dallari: L’archivio della famiglia Gozzadini riordinato per cura di Gozzadina Gozzadini Zucchini. Bologna: Zanichelli 1890.</note></seg>, io che da tanti anni ho goduto <seg type="comment"><orig>la insigne benevolenza di quell’anima generosa</orig><note xml:id="nkk5_5fd_hmb">Die Gräfin, die sich schon seit Kindertagen in intellektuell-patriotischen Kreisen bewegt und mit dem Studium klassischer Disziplinen begonnen hatte, war nicht nur eine enge Freundin des Poeten Aleardo Aleardi (1812–1878) gewesen, sondern auch geschätzt von beispielsweise Karl Witte (1800–1883) und Marco Minghetti (1810–1886). Kein Geringerer als Giosuè Carducci (1835–1907), der eine tiefe Verehrung für die Nachfahrin der Familie Dante verspürte, sollte sie 1882 in der „Nuova Antologia“ porträtieren, was dann als Vorwort in das Buch ihres Mannes über sie einging: Giovanni Gozzadini: Maria Teresa di Serego-Allighieri Gozzadini. Seconda edizione ampliata con prefazione di Giosuè Carducci. Bologna: Nicola Zanichelli 1884.</note></seg>, cui serberò eterna gratitudine e memoria.</p>
+                <closer>
+<salute xml:id="s1" next="#s2" rendition="#c">Di tutto cuore</salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">suo devotissimo e afflitto di dolore</salute>
+<signed rendition="#right">Ferd. Gregorovius. </signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

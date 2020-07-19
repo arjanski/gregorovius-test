@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000398">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Giovanni Battista De Rossi in Rom. Rom, 18. April 1858</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Rom, Biblioteca Apostolica Vaticana</repository><collection>Vat. Lat. 14241, Carteggio Giovanni Battista De Rossi 1858–1859</collection><idno>fol. 158 Nr. 97</idno></msIdentifier>
+<physDesc>
+<p>BK, 1 S. – 1r auR: 18 aprile</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er bittet für Auguste Julia Stubbe um Zugang zu den vatikanischen Grotten im Petersdom und zu den illuminierten Handschriften der Vatikanischen Bibliothek.</p>
+                <p xml:lang="en">He asks for Auguste Julia Stubbe to be granted access to the Vatican grottoes in St. Peter's Basilica and the illuminated manuscripts in the Vatican Library.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1858-04-18" cert="low"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001085">De Rossi, Giovanni Battista (1822–1894)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<salute rendition="#c">Chiarissimo Signore,</salute>
+</opener>
+                <p><seg type="comment"><orig>la <persName key="G000905">signora Stubbe</persName>, quella donna di corte presso la <persName key="G001261">granduchessa</persName></orig><note xml:id="nzyh_ndm_5lb">Julia Fedorovna Abaza, geb. Auguste Julia Stubbe (1830–1915), später verheiratet mit dem Finanzminister Alexander Aggejevii Abaza (1821–1895). Gregorovius erwähnt „Fräulein Stubbe“ in seinem Tagebuch als Kammersängerin der Großfürstin Helene Pawlowna (1807–1873) (vgl. RT, 10.6.1858, S. 70).</note></seg> mi a domandato, di pronunciarle un permesso per <seg type="comment"><orig>le grotte del <placeName key="G000860">Vaticano</placeName></orig><note xml:id="npyj_4dm_5lb">Die vatikanischen Grotten in der Basilika Sankt Peter erstrecken sich vom Baldachin Berninis im Chor bis ungefähr zur Hälfte des Mittelschiffs. Neben verschiedenen Papst- und Herrschergräbern beherbergen sie frühchristliche Sarkophage, architektonische Fragmente und Überreste der alten Basilika.</note></seg>, e un’altro per le miniature della<orgName key="G000506"> Biblioteca.</orgName> Io riccordo alla di Lei gentilezza, onde chiederne la Sua protezione e ajuto. Domani sera io torno, onde saperne che consiglio e favor mi potra dare. </p>
+                <closer>
+<salute rendition="#c">Aggradisca i miei rispetti i più profondi. </salute>
+<dateline>Roma Domenica.</dateline>
+<signed rendition="#right">Ferd. Gregorovius</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

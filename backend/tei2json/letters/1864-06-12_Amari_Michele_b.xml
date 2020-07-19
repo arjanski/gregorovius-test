@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000318">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Michele Amari in Turin. Rom, 12. Juni 1864</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Palermo, Biblioteca Centrale della Regione Siciliana</repository><collection>Carteggio Amari</collection><idno> 3894 </idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. ‒ 1r aoR: Beantwortungsvermerk: Risp[osto] 17. Giugno </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Alberto Forni: Der Erfolg von Gregorovius in Italien. In: Ferdinand Gregorovius in Italien. Eine kritische Würdigung. Hrsg. von Arnold Esch und Jens Petersen. Tübingen 1993. S. 18, FN 31</bibl> (Auszug) </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er lehnt die Auszeichnung mit dem Königlichen Ritterorden der Heiligen Mauritius und Lazarus ab. Er will als Wissenschaftler nicht in den Konflikt zwischen Staat und Kirche involviert werden, weil er auch ferner auf freien Zugang zu römischen Archiven und Bibliotheken angewiesen ist. Er möchte dem Innenminister Ubaldino Peruzzi vorgestellt werden. Neben dieser privaten Mitteilung schickt er am selben Tag ein formelles Schreiben an Amari als Innenminister.</p>
+                <p xml:lang="en">He turns down the award of the royal order of knights of the saints Mauritius and Lazarus. He wants to remain independent as a scientist and not be involved in the conflict between state and church. Also, a partisanship would harm the credibility of his „Geschichte der Stadt Rom im Mittelalter“ (1859–1872). He sees the fate of the nations of Italy and Germany historically intertwined. In addition to this formal letter to Amari as Minister of the Interior, he is sending a private note to him on the same day.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1864-06-12" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G000924">Amari, Michele (1806–1889)</persName>
+<placeName key="G000893">Turin</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next">17. Juni 1864</ref>
+                </correspContext>
+                <note>Neben dieser privaten Nachricht an Michele Amari schickt er am selben Tag eine förmliche Mitteilung an Amari als Bildungsminister [1864–06–12_Amari_Michele_a], in der er die Verleihung des Ordens der Heiligen Mauritius und Lazarus ebenfalls ablehnt. </note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Roma, addì 12 Giugno <lb/>1864. </dateline>
+                    <salute rendition="#c">Mio caro Signor Amari,</salute>
+                </opener>
+                <p><seg type="comment"><orig>ho ricevuto un’avviso da <placeName key="G000893">Torino</placeName></orig><note xml:id="nogq_wdr_vlb">Er hatte die Mitteilung seiner Auszeichnung mit dem Orden der Heiligen Mauritius und Lazarus am 7. Juni 1864 erhalten (siehe BSB München, NL Gregorovius, Gregoroviusiana 18, Nr. 1; fälschlicherweise auf den 7. Juni 1862 statt 1864 datiert). Am 13.6.1864 folgte außerdem ein Dekret, in dem Gregorovius auf Empfehlung des Bildungsministers Michele Amari (1806–1889) zum Ritter (Cavaliere) des Ordens ernannt wird (siehe Rom, Archivio Centrale dello Stato, Min. Pub. Istr., Personale 1860–1880, Gregorovius, busta 165).</note></seg> colla mia nomina di <seg type="comment"><orig><orgName key="G000504">Cavalier</orgName></orig><note xml:id="nhww_xdr_vlb">Der Orden der Heiligen Mauritius und Lazarus (Ital.: Ordine dei Santi Maurizio e Lazzaro) entstand im 15. Jahrhundert als Militär- und Hospitalorden des Hauses Savoyen.</note></seg> per ordine del Re. Siccome codesto avviso è firmato dal <persName key="G001485"><seg type="comment"><orig>ministro dell’Interno</orig><note xml:id="nrmz_ydr_vlb">Ubaldino Peruzzi de' Medici (1822–1891) war unter der Regierung Minghetti I vom 24. März 1863 bis 28. September 1864 Innenminister des Königreichs Italien.</note></seg></persName>, diretto però à me dal <orgName key="G000503">Ministero dell’Istruzione Pubblica</orgName>, io ho creduto di non peccare, diriggendo la mia prima lettera al suddetto Ministero. Se tocca a Lei, come Min<ex>istro</ex> dell’Istr<ex>uzione</ex> Pubbl<ex>ica</ex>, di prender l’iniziativa di leggerla, egli ci sta bene; se no, si compiaccia di consegnarla à chi deve riceverla ex officio.</p>
+                <p>Scrivo queste righe a Lei, <seg type="comment"><orig>no come Ministro di Stato</orig><note xml:id="npz1_12r_vlb">Die Ablehnung des Verdienstordens formulierte er auch in einem offiziellen Schreiben vom <ref target="G000319">12.6.1864</ref> an Michele Amari als Bildungsminister.</note></seg>, ma come l’aulico e benevole amico dai tempi passati di <placeName key="G000671">Firenze</placeName>. Credetti di truovar pure il bel testimonio delle nostre amichevoli relazioni nell’argomento del surreferito avviso.</p>
+                <p>Resto sorpreso nel medesimo tempo al vedermi onorato dalla benevolenza di altre persone altamente <pb n="1v"/>locate, che conosco probabilmente soltanto di nome e di fama.</p>
+                <p>Pruovo una verace pena, ed un verò dolore, di duover recusare oggidì tanto onor; ma non temo di far la cattivà figura dell’ingrato; poichè io sto convinto, che Ella ed altri appruoveranno i miei urgenti motivi. Lei leggerà quello che scrissi nella mia lettera per così dir ufficiale. Come storico Lei converra <seg type="comment"><orig>meco</orig><note xml:id="nd1y_12r_vlb">Literarisch "con me".</note></seg> nel confessar la giustezza della massima: <?oxy_comment_start author="frederike" timestamp="20190725T190922+0200" comment="Siehe auch RT, 19.6.1864, S. 178: „Amari schickte mir den Orden St. Mauritius und Lazarus. Ich lehnte ihn ab, weil ich frei sein will. Ich schreibe die Geschichte der Stadt für keine andere Partei als die der Wahrheit. Ich glaube auch, daß unter meinen vielen Fehlern und Schwächen Eitelkeit nicht die erste Stelle einnimmt.“"?>ch’io quale <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">storico di Roma</bibl>, e scrivendo <seg type="comment"><orig>le mie storie nella stessa Roma</orig><note xml:id="nesy_b2r_vlb">Von der „Geschichte der Stadt Rom im Mittelalter“ waren von 1859–1862 die ersten vier Bände erschienen.</note></seg>, avanti tutto debba sostenere il carattere d’uomo assolutamente indipendente.<?oxy_comment_end?> Nei tempi, che corrono oggidì, di lotta fra due <seg type="comment"><orig>principij</orig><note xml:id="nbhj_d2r_vlb">Er bezieht sich hier auf die Spannungen zwischen weltlichen und kirchlichen Mächten, denen Italien durch den Konflikt zwischen dem 1861 gegründeten Königreich Italien unter Vittorio Emanuele II. und dem Vatikanstaat unter der Protektion des Französischen Kaiserreichs unter Napoleon III. ausgesetzt war. </note></seg>, di cui il vero centro è Roma ed il <orgName key="G000539">Papato</orgName>, senza alcun dubbio lo storico delle cose di Roma, decorato con una croce <pb n="2r"/>dal <persName key="G001692">Rè d’Italia</persName>, non isfuggirebbe al sospetto, di esser divenuto uomo di partito politico. Io so bene, che la storia, ch’io scrivo, è affare per se indifferente; ma comunque sia, nulla, poca, o buona, egli non importa: bisogna stare col principio.</p>
+                <p>Aggiungo confidenzialmente questa dimanda; crede Lei, ch’io dopo di esser decorato dal Rè d’Italia per titolo della mia storia di Roma, al cui suolo i miei studj necessariamente restano attaccati, ch’io codesti studj potrei continuare nella medesima Roma? Di certo, nò; mi si fermerebbono per sempre gli archivj e tutte le biblioteche. Bisogna dunque scegliere tra l’uno e l’altro; tra una decorazione, sopra di cui <add place="superlinear">valore</add>, quantunque sia onorevole, noi ambidue come pensatori facilmente andremo d’accordo, o tra l’abandono de’ miei studj Romani. Non ho potuto esitar un momento; nè ho bisogno di dir di più.</p>
+                <p>Non posso accettar <del rendition="#s">
+                        <gap reason="illegible" quantity="1" unit="words"/>
+                    </del> il prezioso <pb n="2v"/>dono; accetto però con somma gratitudine l’alto favore di coloro che me n’anno voluto fregiare. La bella intenzione loro, di dar à me straniero un segno della stima d’Italia, è pienamente eseguita; ne resto nell’anima toccato.</p>
+                <p>Confidandomi nei, come spero non alterati sentimenti, che più volte Ella mi a cortesemente dimostrate, io ricorro lietamente a Lei, illustre Amari, acciochè Ella feci il patrocinatore di me innanzi a chi vorrebbe attribuirmi altri motivi fuori di quelli, che veracemente regolano la mia condotta. Desidero di esser presentato da Lei alla benevolenza dell’insigne signor Ministro Peruzzi.</p>
+                <p>Se vuole darmi due parole, anche intorno alle mie premure per certi archivi, di cui scrissi nell’antecedente mia, ne saro veramente felice, ed intanto Le stringo la mano </p>
+                <p>affettuosamente e con profondo rispetto</p> <closer>
+                    <salute rendition="#c">il vostro</salute>
+                    <signed rendition="#right">Gregorovius</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

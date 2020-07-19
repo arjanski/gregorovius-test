@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000302">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Tommaso Gar in Venedig. Rom, 10. April 1871</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Biblioteca Comunale di Trento</repository>
+                        <idno>busta BCT1–2257/52</idno>
+                    </msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. </p>
+<p>Brief an Rinaldo Fulin</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Sein Band „Von Ravenna bis Mentana“ (1871) wird mit einer Widmung an Gar erscheinen. Der Druck der italienischen Übersetzung seiner „Geschichte der Stadt Rom im Mittelalter“ soll mit dem zweiten Band (1872) fortgesetzt werden. Gregorovius verlangt ein höheres Honorar von dem Verlag Antonelli. Er verweist dabei auf das höhere Einkommen der Malers Karl Lindemann-Frommel. Er verurteilt die bevorstehende Exkommunikation von Ignaz von Döllinger. Im nächsten Brief will er auf die geplante zweite Auflage von Gars „Quadro storico-critico della letteratura germanica del nostro secolo“ (1868) eingehen. Er regt eine nähere Auseinandersetzung mit dem kürzlich verstorbenen Gottfried Georg Gervinus an. Grüße an Madeleine Creutzer.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName>
+                    <date when="1871-04-10" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001158">Gar, Tommaso (1808–1871)</persName>
+<placeName key="G000894">Venedig</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">8. April 1871</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Roma, 10. Aprile 1871.</dateline>
+                    <salute>Caro amico Gar,</salute>
+                </opener>
+<p>ho avuto questa mane la vostra del 8. Ne ricavo la soddisfazione, che avret<subst><del rendition="#ow">a</del><add place="intralinear">e</add></subst> appr<subst><del rendition="#ow">celer</del><add place="intralinear">ov</add></subst>ato il mio pensiere, di <seg type="comment"><orig>darvi un piccolo segno della mia verace stima e amicizia nel dedicarvi una benchè minima cosa</orig><note xml:id="na2z_cwy_ylb">Gregorovius schrieb für den vierten Band der „Wanderjahre in Italien“ („Von Ravenna bis Mentana“ 1871) eine mehrseitige Dedikation „An Herrn Tommaso Gar in Venedig“, unterzeichnet mit „Rom, 27. März 1871. F. G.“. Die Widmung beginnt mit den Worten: „Ich sende Ihnen, lieber Freund Gar, diesen Band mit dem Wunsche, daß Sie sich dabei an unser Zusammensein in Florenz, Neapel, und Venedig erinnern mögen. Auch wünsche ich Ihnen zu sagen, daß ich der Liebenswürdigkeit eingedenk bin, mit der Sie mir stets entgegengekommen sind, zumal in dem venetianischen Archiv, […]“. Nachfolgend preist er die Befreiung und Einigung Italiens, die bei seiner erstmaligen Ankunft in Italien im Jahre 1852 noch in weiter Ferne schien, und deren Entwicklung und Bedeutung er eng mit dem Schicksal Deutschlands verknüpft sieht.</note></seg>, qual è l’<bibl sameAs="G003301">ultimo volumetto degli Anni di pelegrinaggio nell’Italia</bibl>. <seg type="comment"><orig><foreign xml:lang="Lat">Eheu fugaces, Posthume</foreign>!</orig><note xml:id="nlmh_fwy_ylb">Nach Horaz, „Oden“, Buch II, 14, 1: Eheu fugaces, Postume, Postume, / labuntur anni nec pietas moram / rugis et instanti senectae / adferet, indomitaeque morti. Zu Deutsch: Ach, wie im Fluge, Postumus, Postumus, / Entfliehn die Jahre! Frömmigkeit hält umsonst / Das Alter, das die Schläfe furchet, / Hält den unbändigen Tod umsonst auf.</note></seg> </p>
+                <p>Ho scritto colla medesima posta al <seg type="comment"><orig>Sig<ex>nor</ex> <persName key="G001151">Fulin</persName></orig><note xml:id="nesp_gwy_ylb">Der Venezianer Rinaldo Fulin (1824–1884), der 1871 das Archivio Veneto begründete, war der eigentliche Herausgeber der italienischen Übersetzung der „Geschichte der Stadt Rom im Mittelalter“ (Bde. 1–2, 1866; Bde. 1–9, 1872–1876). Er stellte den Kontakt zwischen Gregorovius und dem Verleger Giuseppe Antonelli her und nahm die Übersetzung in die Reihe „Collezione di opere storiche“ auf. </note></seg>, ed egli ve ne farà parte. Ricorso alla <seg type="comment"><orig>vostra gentilezza in questo affare della versione</orig><note xml:id="np3x_hwy_ylb">Gregorovius hatte Gar gebeten, den zweiten Anlauf zur Übersetzung der „Geschichte der Stadt Rom im Mittelalter“ mit zu überwachen und deren Einleitung zu verfassen; es kam allerdings nicht mehr dazu, da Gar am 27. Juli 1871 verstarb.</note></seg>, il quale, come sapete, mi arrecò negli anni addietro tanta nuoja, per dir lo francamente, quanto disgusto. Avrei potuto entrare qui in trattative, essendo Roma resa italiana e libera – preferii però di tenermi ai patti stipulati coll’<persName key="G000932"><seg type="comment"><orig>editore veneto</orig><note xml:id="nnjz_jwy_ylb">Der Verleger Antonio Antonelli (1817–1889) war der Sohn von Giuseppe Antonelli (1793– 1861). Der Verlag Giuseppe Antonelli mit Druckerei gehörte zu den modernsten und bedeutendsten in Europa. So wurde er nicht nur durch seine Verlegung literatur- und kulturhistorischer Bücher sowie bedeutender enzyklopädischer Werke bekannt, sondern vor allem auch durch die Entwicklung besonderer Verfahren lithografischer Übertragungstechniken in seiner Druckerei. Der Verlag hatte neben seinem Hauptsitz in Venedig Niederlassungen in Padua, Verona und Ferrara. Siehe Paola Tentori: Artikel „Antonelli, Giuseppe“. In: DBI, Vol. 3 (1961).</note></seg></persName>. Ora vorrei assicurar un po’ meglio le mie raggioni. <pb n="1v"/>Vedo dalla vostra lettera, che, <seg type="comment"><orig>l’opera debbasi continuare, col <bibl sameAs="G004369">vol<ex>ume</ex> 2<hi rendition="#sup"> <hi rendition="#u">o</hi> </hi> </bibl>, no ricominciare col</orig><note xml:id="ncm1_mwy_ylb">Es wurde dann doch die Übersetzung des ersten Bandes auf der Basis der zweiten deutschen Auflage von 1869 („Prima Traduzione Italiana Sulla Seconda Edizione Tedesca“) vorgenommen; vgl. das Frontispiz der Ausgabe von 1872.</note></seg> <bibl sameAs="G004368">vol<ex>ume</ex> I secondo la 2<hi rendition="#u"> <hi rendition="#sup">a</hi> </hi> edizione</bibl>. Ora, in conseguenza del contratto l’amministratore dell’ Antonelli è tenuto, di sborsarmi prima, lire 250 per il vol<ex>ume</ex> 1<hi rendition="#sup"> <hi rendition="#u">o</hi> </hi>, prima che si accinga alla stampa del vol<ex>ume</ex> 2<hi rendition="#sup"> <hi rendition="#u">o</hi> </hi>. Si mandino i danari, per farmi vedere, che si voglia esser pronti e leali. Dichiari <seg type="comment"><orig><persName key="G001528">il successore dell’ Antonelli</persName></orig><note xml:id="nnt3_nwy_ylb">Der Verlag firmierte mit dem Namen Antonelli bis mindestens 1895 (Venezia: Nel Privil. Stab. di Gius. Antonelli; Venezia: Nello Stab. di G. Antonelli; Venezia: Tipografia Antonelli). Wie aus Gregorovius’ Tagebuch hervorgeht war zum Zeitpunkt der Wiederaufnahme der Übersetzung der „Geschichte der Stadt Rom im Mittelalter“ ein gewisser Rebeschini der Administrator des Verlags. (5.7.1872, S. 325 sowie den Brief von Gregorovius an Tommaso Gar, 4.6.1871)</note></seg> con un’ aggiunta fatta all’ antico patto, che, in nome dell’ Antonelli e per amministratione di esso sia subentrato al <del rendition="#s"> <gap reason="illegible" quantity="1" unit="words"/> </del> contratto, e chè si obblighi di sborsare volume per volume la somma convenuta, di modo, chè qualunque volume corrente di seguito non possa esser dato alla stampa, prima chè l’autore non sia soddisfatto nella ragione sua intorno al volume anteriore. Il totale di questa mia raggione per 8 volumi sarebbe la veramente ridicola somma di 2000 lire; ora, considerando, <pb n="2r"/>la pro<add place="superlinear">ba</add>bilità di una buona riuscita dell’impresa, a cagion dell’importanza sua, del tutto nazionale ed a ragione del più vasto campo di smercio e diffusione che l’assesto dell’<placeName key="G000690">Italia</placeName> offre e guarantisce alla „Storia di Roma“, mi pare ragionevole, che, il nuovo amministratore conceda all’autore <seg type="comment"><orig>un miglior accordo <add place="superlinear">di quello</add>, che <add place="intralinear">non</add> <unclear reason="illegible" cert="high">glisi</unclear> poteva concedere all’epoca</orig><note xml:id="nwfx_4wy_ylb">Er hatte das wenig profitable Angebot des Verlags zur Übersetzung der „Geschichte der Stadt Rom im Mittelalter“ vor dem Hintergrund der wirtschaftlichen Lage des Literaturbetriebs angenommen, bereute dies aber später. Am 2.6.1872 heißt es dazu in seinem Tagebuch: „Als mir 1865 Antonelli in Venedig durch Vermittlung Fulins [Rinaldo Fulin (1824–1884) ] den Antrag der italienischen Ausgabe meiner ‚Geschichte‘ machte, konnte ich nicht ahnen, daß der Sturz des Papsttums in Rom nahe sei; ich war froh, daß ein italienischer Buchhändler so viel Mut hatte, und überließ ihm das ausschließliche Druckrecht. Ich beanspruchte nur die Summe von 250 Francs für jeden Band, als Symbol meines Autorrechts. Der erste Band der Übersetzung Manzatos erschien 1866; die Fortsetzung unterblieb, und Antonelli machte außerdem Bankerott. Im Jahre 1869 trat als sein Administrator Rebeschini ein, worauf der Kontrakt erneuert wurde und im Frühjahr 1872 der zweite Band erschien. Ich bin in der Fessel dieses Vertrags. Wenn ich von ihm befreit wäre, so würde heute das Werk in einer von der Stadt Rom selbst veranstalteten und unter meinen Augen besorgten Ausgabe erscheinen können.“ (S. 325)</note></seg>, nella quale, il contratto primitivo fù stipulato. Gli faccio dunque la proposizione, che, quella somma totale per 8 volumi si accresca di almeno <add place="superlinear">altre</add> 1000 lire. L’amministratore stesso sceglierà il modo che crede il più conveniente – vuol dire, o egli crescerà la somma da sborsare volume per volume, a proporzione dell’aumento di 1000 lire, o egli si obblighera à pagarmi per una volta 1000 lire appena <del rendition="#s">l’</del>uscito <bibl sameAs="G004373">il volume VI.</bibl> della versione, dovendo poi come per il sesto, così per gli ultimi volumi tenersi alle somme già ordinate volume per volume. Vedete, caro Gar, che cosa si possa combinare, e fate sì, che si metta l’aggiunta al contratto gia fermato, o che si <pb n="2v"/>faccia una nuova scrittura intiera. Vedete che somme, che bagatelle, nelle nostre faccende letterarie, e come stanno meglio gli artisti, come il <persName key="G001375">Lindemann</persName>, che per una fatica di 6 mesi ritrae buoni 10000 franchi contanti in oro!</p>
+<p xml:id="p3" next="#p4">Scusate mi, che sono stato troppo diffuso e lungo.</p>
+<p>Riguardo alle <seg type="comment"><orig>copiè da fare per conto mio nell’<orgName key="G000562 G000564">archivio</orgName></orig><note xml:id="ncjn_jxy_ylb">Für die Fertigstellung des achten Bandes der „Geschichte der Stadt Rom im Mittelalter“ (1872) hatte er um Kopien von Dokumenten mit Bedeutung für die Zeit von 1503 bis 1530 aus dem Staatsarchiv und der Biblioteca Marciana in Venedig gebeten. Siehe Brief von Gregorovius an Tommaso Gar, 2.4.1871.</note></seg>, prego di indicare al copista soltanto cose di rilievo ed importanza, e non perdete il tempo vostro tanto prezioso in ricerche da farsi per me, se esse non <seg type="comment"><orig>ponno</orig><note xml:id="nl1p_kxy_ylb">Historische Variante von „possono“.</note></seg> far anche per conto vostro.</p>
+<p xml:id="p5" next="#p6"><seg type="comment"><orig>Che dite del <persName key="G001094">Döllinger</persName></orig><note xml:id="neds_lxy_ylb">Johann Joseph Ignaz von Döllinger (1799–1890) war ein katholischer Theologe und Kirchenhistoriker, der am 17. April 1871 aus der Kirche exkommuniziert wurde, was zum Zeitpunkt des Verfassens des Briefes wohl bereits absehbar war, da sich Gregorovius darauf bezieht. Döllinger war zu Beginn seiner Karriere als Gegner des Protestantismus und der Aufklärung eher konservativ ausgerichtet war, im Laufe der Zeit aber einen nationaleren und liberaleren Katholizismus vertrat. Zum Bruch mit der römischen Kirche kam es über die Verkündigung des Unfehlbarkeitsdogmas beim ersten Vatikanischen Konzil (1869/70), das in Döllinger einen scharfen Gegner fand. Unter dem pseudonymen Titel „Der Papst und das Konzil von Janus“ (Leipzig 1869) war von Döllinger im Herbst 1869 die überarbeitete Buchfassung seiner zwischen dem 10. und 15. März 1869 in der „Allgemeinen Zeitung“ zuerst gedruckten Angriffe gegen die Infallibilisten („Das Konzilium und die Civiltà“) erschienen. Nach 1871 setzte er seine wissenschaftliche Karriere als Rektor der Universität München (1872) und Präsident der Bayerischen Akademie der Wissenschaften (1873–1890) fort. Gregorovius schreibt in seinem Tagebuch über Döllinger: „[…] er ist ein feiner, kalter, trockner Mann, der sich mit Klugheit ausspricht. Er erkannte die vorurteilsfreie Stellung meiner Geschichte der Stadt Rom“ (7.8.1863, S. 165).</note></seg>! State sicuri, che vi si alza una burrasca, perche noi altri in <placeName key="G000664">Germania</placeName> siamo nati proprio colla filosofià in corpo da riformare il Cristianesimo.</p>
+
+                <closer>Mando i miei cordiali rispetti alla signora <persName key="G001056">Baronessa</persName> e vi abbraccio amicalmente<salute rendition="#c">come il vostro</salute> <signed rendition="#c">FGregorovius </signed> </closer>
+                <note type="postscript">Un’altra volta vi scrivero intorno alla <seg type="comment"><orig>2. edizione dei vostri <bibl sameAs="G004767">raggionamenti sopra la letteratura <metamark/> </bibl><bibl sameAs="G004767"> <metamark/> Allemana</bibl></orig><note xml:id="nz2s_4xy_ylb"><p>Tommaso Gar: Quadro storico-critico della letteratura germanica nel secolo nostro. Venezia : presso la segreteria del R. Istituto nel palazzo ducale privil. stab. naz. di Gius. Antonelli 1868. Gar konnte die zweite Edition nicht mehr abschließen, da er am 27. Juli 1871 verstarb.  </p></note></seg> <p xml:id="p2" prev="#p1" place="left" rendition="#rotate90">di cui mi congratulo con voi. Avanti tutto non ho truovato alcuno malinteso nella <del rendition="#s">second</del> prima stampa, ma puotreste bene dilatarvi un puo’ in certi punti, e <seg type="comment"><orig>massimamente adesso intorno al <persName key="G001168">Gervinus</persName></orig><note xml:id="nmbp_qxy_ylb">Georg Gottfried Gervinus (1805–1871) war ein enger Freund von Gregorovius, der am 18. März 1871 plötzlich verstorben war. Gregorovius bezieht sich hier auf Gervinus' Hauptwerk „Geschichte der poetischen National-Literatur der Deutschen“, das zwischen 1835–1842 in 5 Bde. im Verlag von Wilhelm Engelmann in Leipzig erschien.</note></seg>.</p></note>
+            </div>
+        </body>
+    </text>
+</TEI>

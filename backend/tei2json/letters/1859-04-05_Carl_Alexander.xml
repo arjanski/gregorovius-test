@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000105">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Carl Alexander Großherzog von
+                    Sachsen-Weimar-Eisenach in Weimar. Rom, 5. April 1859</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Landesarchiv Thüringen – Hauptstaatsarchiv Weimar </repository><collection>Großherzogliches Hausarchiv A XXVI</collection><idno>Nr. 319, Bl. 6</idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 4°, 1 ¼ S. – Umschlag mit Adr.: Sr. Königlichen Hoheit / dem durchlauchtigsten Großherzog / Carl Alexander / von Sachsen-Weimar.</p>
+<p>Bd. 1 seiner „Geschichte der Stadt Rom im Mittelalter“ (1859)</p>
+</physDesc>
+</msDesc>
+                <listWit>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GSA Weimar</institution><collection>96/4337c (vfrH)</collection></msIdentifier>
+</msDesc>
+</witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno><idno type="shelfmark">Karton 86, Mappe 7 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno><idno type="shelfmark">Karton 82, Mappe 7 (nach h2)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+<p xml:lang="de">Er übersendet den ersten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1859), der „vielfach die tragische Verbindung Italiens und Deutschlands zum Gegenstande hat“.</p>
+<p xml:lang="it"/>
+<p xml:lang="en">He sends the first volume of his „Geschichte der Stadt Rom im Mittelalter“ (1859), which „often deals with the tragic connection between Italy and Germany“.</p>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1859-04-05" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001022">Carl Alexander, Großherzog von
+                        Sachsen-Weimar-Eisenach (1818–1901)</persName>
+                    <placeName key="G000896">Weimar</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev">30. März 1858 (BSB München, NL Gregorovius, Gregoroviusiana 21)</ref>
+                    <ref type="next">5. Juli 1859 (BSB München, NL Gregorovius, Gregoroviusiana 21)</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <address>
+                        <addrLine>S<ex>eine</ex>r Königlichen Hoheit <lb/>dem durchlauchtigsten Großherzog <lb/><hi rendition="#aq">Carl Alexander</hi> von Sachsen-Weimar</addrLine>
+                    </address>
+                    <salute rendition="#c">Durchlauchtigster Fürst und Herr,</salute>
+                </opener>
+                <p><seg type="comment"><orig>Ew. Königliche Hoheit hatten die Gnade, mir die Übersendung meiner <bibl sameAs="G003485">Geschichte der Stadt Rom im Mittelalter</bibl> zu erlauben</orig><note xml:id="npmx_rms_wlb">Großherzog Carl Alexander hatte Gregorovius am <ref target="G000052">22.2.1858</ref> augefordert, ihm seine Werke zuzusenden.</note></seg>, und ich bin glücklich, diesem Befehl nachzukommen, nachdem der <seg type="comment"><orig>erste Band die Preße verlaßen hat</orig><note xml:id="nwsg_vms_wlb">Im April war Bd. 1 von Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ ausgegeben worden (siehe den Ankündigungstext zum Erscheinen in: Beilage zu Nr. 119 der AZ. Stuttgart: Cotta 29.4.1859. S. 1939).</note></seg>. Der <seg type="comment"><orig><persName key="G001055">Herr Baron von Cotta</persName> hat dies Werk mit einer seines Namens würdigen Bereitwilligkeit übernommen</orig><note xml:id="nhvw_xms_wlb">Nach der Ablehnung von Brockhaus, hatte Johann Georg von Cotta auf das Verlagsersuchen von Gregorovius im Brief vom <ref target="G000085">20.5.1858</ref> für seine „Geschichte der Stadt Rom im Mittelalter“ interessiert reagiert und man war sich schnell handelseinig geworden. Der Verlags-Vertrag war am 9. September von Gregorovius unterzeichnet worden (DLA Marbach, Cotta-Archiv, Cotta-Verträge 1).</note></seg>; und sich durch die ungünstigen Verhältniße der Gegenwart nicht abschrecken zu laßen, den Mut gehabt. Aber die Schwierigkeit der Aufgabe, die völlige Grenzenlosigkeit des Materials mögen dem Verfaßer ein Recht auf Nachsicht geben. Dies Buch hofft demnach bei seinen vielen Mängeln der Entschuldigung eines edeln Fürsten sicher zu sein, welcher ernstgemeinten Bestrebungen vaterländischer Wißenschaft gerne Anerkennung zollt. Es würde dem Verfaßer eine große Aufmunterung sein, wenn Ew. Königliche Hoheit urteilten, daß sein Werk oder Versuch dem <placeName key="G000664">Vaterland</placeName> auch nur zu einem Teile zur Ehre gereichen darf. Vielleicht ist gerade in dieser Zeit, <seg type="comment"><orig><?oxy_comment_start author="Angela Steinsiek" timestamp="20191021T154104+0200" comment="Napoléon III. (1808–1873) hatte sich kurz zuvor sich der Neutralität Russlands im Falle eines Krieges gegen Österreich versichert. Mit dem Einmarsch der Österreicher in das Piemont begann am 29. April 1859 der zweite Italienische Unabhängigkeitskrieg zwischen dem habsburgischen Kaisertum Österreich und Sardinien-Piemont mit dem französischen Kaiserreich unter Napoléon III. – der mit Camillo Benso von Cavour (1810–1861) im Juli 1858 einen geheimes Bündnis gegen die habsburgische Vormacht in Europa geschlossen hatte. Nachdem die österreichische Armee am 24. Juni 1859 in Solferino und San Martino von Frankreich und Sardinien geschlagen wurde, musste Österreich im Frieden von Zürich am 10. November 1859, die Lombardei an Frankreich abgeben; Napoleon III. reichte die Provinz an Sardinien weiter. In der Folge verlor das Haus Habsburg weitere italienische Besitzungen: Großherzog Leopold II. von Toskana (1797–1870) und auch Herzog Franz V. von Modena (1819–1875) wurden 1860 durch Volksabstimmungen abgesetzt und Italien zum Nationalstaat geeint. Einzig Venetien verblieb bei Österreich. Zwischen Napoléon III. und Vittorio Emanuele (1820–1878) wurde 1860 der Anschluss des Herzogtums Savoyen und der Grafschaft Nizza an Frankreich vollzogen; am 17. März 1861 wurde Vittorio Emanuele offiziell zum König von Italien proklamiert."?>wo die Cultur Deutschlands durch fremde Vermessenheit mit Krieg bedroht wird<?oxy_comment_end?></orig><note xml:id="nx14_cns_wlb">Napoléon III. (1808–1873) hatte sich kurz zuvor der Neutralität Russlands im Falle eines Krieges gegen Österreich versichert. Mit dem Einmarsch der Österreicher in das Piemont begann am 29. April 1859 der zweite Italienische Unabhängigkeitskrieg zwischen dem habsburgischen Kaisertum Österreich und Sardinien-Piemont mit dem französischen Kaiserreich unter Napoléon III. – der mit Camillo Benso von Cavour (1810–1861) im Juli 1858 ein geheimes Bündnis gegen die habsburgische Vormacht in Europa geschlossen hatte. Nachdem die österreichische Armee am 24. Juni 1859 in Solferino und San Martino von Frankreich und Sardinien geschlagen wurde, musste Österreich im Frieden von Zürich am 10. November 1859, die Lombardei an Frankreich abgeben; Napoleon III. reichte die Provinz an Sardinien weiter. In der Folge verlor das Haus Habsburg weitere italienische Besitzungen: Großherzog Leopold II. von Toskana (1797–1870) und auch Herzog Franz V. von Modena (1819–1875) wurden 1860 durch Volksabstimmungen abgesetzt und Italien zum Nationalstaat geeint. Einzig Venetien verblieb bei Österreich. Zwischen Napoléon III. und Vittorio Emanuele (1820–1878) wurde 1860 der Anschluss des Herzogtums Savoyen und der Grafschaft Nizza an Frankreich vollzogen; am 17. März 1861 wurde Vittorio Emanuele offiziell zum König von Italien proklamiert.</note></seg>, eine Geschichte willkommen, welche vielfach die tragische Verbindung <placeName key="G000690">Italiens</placeName> und Deutschlands zum Gegenstande hat, und die Stellung zu schildern sucht, <pb n="1v"/>welche unser großes Vaterland in der Weltstadt Rom und durch sie eingenommen hat.</p>
+                <p>Ew. Königliche Hoheit mögen demnach die Übersendung des Ersten Bandes gnädigst
+                    genehmigen, und dem Verfaßer dies geringe Zeichen seiner ehrfürchtigen Gesinnung
+                    gestatten,</p>
+                <closer>
+                    <salute xml:id="s1" next="#s2" rendition="#c">Ew. Königlichen Hoheit</salute>
+                    <salute xml:id="s2" prev="#s1" rendition="#right">tief gehorsamster
+                        Diener</salute>
+                    <signed rendition="#right"><hi rendition="#aq">Ferdinand Gregorovius</hi> </signed>
+                    <dateline><hi rendition="#aq">Rom</hi>, 5. <hi rendition="#aq">April</hi> 1859.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

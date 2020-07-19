@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000139">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Raffaele Mariano in Florenz. München, 20. September
+                    1874</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+              <respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno> <idno type="shelfmark"/> </idno>
+                            </msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno> <idno type="shelfmark"/> </idno>
+                            </msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er ist seit dem 10. September 1874 in München und vermisst Rom und sein Domizil in der Via Gregoriana. Der Höhepunkt seines Lebens ist mit dem Abschluss seiner „Geschichte der Stadt Rom im Mittelalter“ (1858–1872) überschritten. Mariano soll Sorge tragen, dass ein Exemplar seiner „Lucrezia Borgia“ (1874) von Auguste Lindemann-Frommel zu Domenico Guglielmi kommt. Marianos italienische Übersetzung des Werks (1874) ist im Druck. Der Artikel „Manfredonia“ von Gregorovius wird in der „Allgemeinen Zeitung“ (1874) erscheinen. Nach Briefen von Luisa Gadda denkt er an deren Freundin Emilia Ferretti Viola. Er möchte ihr schreiben und nach Marianos harscher Replik („La Lucrezia Borgia del Gregorovius nella Nuova Antologia“, 1874) auf ihre Rezension („La Verità Storica Intorno a Lucrezia Borgia“, 1874) Frieden stiften. Er fragt, ob seine Rezension „L’Imperatore Frederico I (Barbarossa) di Giovanni Prutz“ (1874) inzwischen erschienen ist, die er dem Herausgeber der „Nuova Antologia“ Francesco Protonotari zugesandt hatte. Aus Rom ist ihm ein Gedicht mit dem Titel „Kyffhäuser“ eines „di Romito“ zugegangen und er erkundigt sich nach der Identität des Verfassers. Grüße von seinem Bruder Julius.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000734">München</placeName>
+                    <date when="1874-09-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000671">Florenz</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Monaco in Baviera, <placeName key="ediarum_uqx_zzn_zlb">Maximilianstr.</placeName> 6/3 <lb/>20. <foreign xml:lang="deu">Sept<ex>ember</ex> </foreign> 1874.</dateline>
+                    <salute rendition="#c">Caro amico Mariano,</salute>
+                </opener>
+                <p><seg type="comment"><orig>prima di partire da <placeName key="G000888">Traunstein</placeName></orig><note xml:id="nlns_cxn_zlb">Nach seiner Abreise aus Rom hielt er sich zunächst ab 19. Juli mit seinem Bruder Julius in Traunstein auf (siehe den Brief von Gregorovius an Raffaele Mariano, 2.8.1874).</note></seg> ebbi il bene, di ricevere la sua gentilissima lettera, data da <placeName key="G000720">Lugano</placeName>. Ora i miei pensieri la cercano nella bella Firenze.</p>
+                <p>L’estate se n’è <seg type="comment"><orig>ita</orig><note xml:id="nvty_dxn_zlb">Literarische Form von „essere“ [lat. īre].</note></seg> celeramente, e noi altri qui siamo già avviluppati nelle nebbie, per cui solo di rado si fà strada il raggio dell’<seg type="comment"><orig>Amor che muove il sole e l’altre stelle</orig><note xml:id="nupn_fxn_zlb">Gregorovius zitiert hier den Schlussvers von Dantes 'Divina Commedia': "l’amor che move il sole e l’altre stelle" (Par. XXXIII, v. 145)</note></seg>. Arrivammo in Monaco ai 10. del mese. La nostra casa, situata in una delle migliori strade della città, e commoda assai e fornita anche di qualche lusso. Così stò <add place="superlinear">materialmente</add> mille volte meglio che non stavo nelle <seg type="comment"><orig>camere mie in <placeName key="ediarum_lmm_slx_qlb">Via Gregoriana</placeName></orig><note xml:id="ntwc_3xn_zlb">Einen Eindruck der Wohnung in der Via Gregoriana 13 in Rom vermitteln die Gemälde des Malers Karl Lindemann-Frommel (1819–1891), die heute in Gregorovius’ Nachlass an der Bayerischen Staatsbibliothek aufbewahrt werden. Auf dem Aquarell „Gregorovius am Schreibtisch in seiner Wohnung in Rom“ (12.7.1874) ist auch die über dem Schreibtisch angebrachte Büste Homers sichtbar. Vgl. BSB Gregoroviusiana 30a.9.</note></seg>. Però che cosa significa questo commodo locale, quando mi raffiguro quel vasto teatro, che stava distesa dinanzi alle mie fenestre in <placeName key="G000763">Roma</placeName>. Vivevo allora nel tugurio del filosofo coll’<persName key="G001294">Omero</persName> al di sopra del mio tavolino, e ogni <pb n="1v"/>mio sguardo cadeva su un oceano indeterminato di tempi e di lor storie. <seg type="comment"><orig>Dovetti scendere da quell’altura ideale, a ciò sforzato dallo stesso destino, che mi aveva fatto vi salire un dì: e cosi sono arrivato alla<placeName key="G000817"> Puglia</placeName> piana della mia vita</orig><note xml:id="nvtl_jxn_zlb">Die Beschreibung des Aufstiegs auf einen Hügel, der Abstieg und das Angelangen in einer Ebene (Apulien ist die flachste Region Italiens) kann man sinnbildlich für Gregorovius wissenschaftliche Laufbahn, deren Mission und Höhepunkt die Arbeit und Fertigstellung der „Geschichte der Stadt Rom im Mittelalter“ (8 Bde., 1858–1972) war, verstehen. Siehe dazu auch RT, 14.7.1874, S. 342–343: „Meine Mission in Rom ist beendigt. Ich war hier Botschafter in bescheidenster Form, doch vielleicht in einem höheren Sinnn als diplomatische Minister. Ich kann von mir sagen, was Flavius Blondus von sich gesagt hat: ich schuf, was noch nicht da war, ich klärte elf dunkle Jahrhunderte der Stadt auf und gab den Römern die Geschichte ihres Mittelalters. Das ist mein Denkmal hier. So darf ich ruhig von hinnen gehen.“</note></seg>, distretto che pian piano conduce alla tomba. Però non creda, ch’io sia divenuto malinconico in questa parte, anzi sto contento e perfettamente bene.</p>
+                <p>Monaco è cosa indifferente per me, quantunque città buona e bella anche per più riguardi. La grazia latina vi manca assolutamente, come dappertutto nella <placeName key="G000664">Germania</placeName>; questo difetto di bella attualità è cosa che si farà sentire nell’anima mia, ma forse sarà necessità, onde dar riposo ai miei spiriti troppo agitati durante <pb n="2r"/>il lungo periodo della mia vita operosa romana. Ma se fosse altrimenti, se un dì mi persuadessi, che lo stare qui mi opprimerà, allora tornerò alle mie antiche abitudini italiane. Per ogni modo farò delle <seg type="comment"><orig>visite lunghe alla mia diletta Roma</orig><note xml:id="nmm1_lxn_zlb">Am 2. März 1875 kehrte er nach Rom zurück, wo er bis Ende Juni 1875 blieb (RT, S. 346–358).</note></seg>.</p>
+                <p>M’imagino, che <add place="superlinear">lei</add> ora stà spingendo l’ultimazione <seg type="comment"><orig>della stampa della <bibl corresp="G004388">Lucrezia</bibl> in Firenze</orig><note xml:id="nvrs_mxn_zlb">Es handelt sich um den Erstdruck der italienischen Übersetzung, die Raffaele Mariano besorgte. F. Gregorovius: Lucrezia Borgia. Secondo documenti e carteggi del tempo. Traduzione dal tedesco per Raffaele Mariano. Florenz: Successori Le Monnier 1874. XI, 438 S. : Ill.</note></seg>. In un’<seg type="comment"><orig>altra mia</orig><note xml:id="nwm1_4xn_zlb">Siehe die Briefe an Raffaele Mariano vom 28.9. und 11.10.1874, in denen Gregorovius Instruktionen zum Versand der Freiexemplare gibt.</note></seg> la pregherò di spedirne due o tre copie in nome mio a quelle persone, che indicherò.</p>
+                <p><seg type="comment"><orig>La copia della <bibl sameAs="G003509">Lucrezia</bibl></orig><note xml:id="nplx_pxn_zlb">Er hatte Exemplare seiner Biografie „Lucrezia Borgia“ (1874) nach Rom geschickt, eines davon für Domenico Guglielmi in Trani (siehe den Brief von Gregorovius an Raffaele Mariano, 26.8.1874).</note></seg> destinata da me al nostro ottimo <persName key="G001221">Guglielmi Domenico</persName>, la troverà presso la signora <persName key="G001374">Lindemann</persName>, dalla quale potrà ritirarla e spedirla al commodo suo a <placeName key="G000887">Trani</placeName>. <bibl corresp="G003988 G003989">L’articolo mio su <placeName key="G000723">Manfredonia</placeName> </bibl> sarà stampato nell’<orgName key="G000462">Allg<ex>emeine</ex> Zeitung</orgName> nel corso del prossimo mese d’Ottobre; sarò sollecito di spedirgliene un esemplare. È un articolo distesamente trattato, e a quanto mi <pb n="2v"/>sembra, interessante.</p>
+                <p>Ebbi gentilissime <seg type="comment"><orig>lettere della Signora <persName key="G001153">Gadda</persName></orig><note xml:id="nfjz_rxn_zlb">Luisa Gadda, geb. Luisa Belloni, war eine in Rom bekannte Salonnière und seit 1848 mit Giuseppe Gadda (1812–1901) verheiratet. Ihr Mann war 1867 Präfekt in Perugia und wurde im Januar 1871 zum Kommissar für die Verlegung der Hauptstadt nach Rom bestellt; von 1871–1876 war er der erste Präfekt der neuen römischen Provinz. Die Briefe sind nicht überliefert.</note></seg>, la quale è amica di <seg type="comment"><orig><persName key="G001129">Emma</persName></orig><note xml:id="naqh_5xn_zlb">Emilia Ferretti Viola (1844–1829), geb. Viola, war Schriftstellerin und Feministin. Sie schrieb unter dem Pseudonym Emma. Bekannt wurde sie 1874 mit ihrer Erzählung „Una fra tante“, die in der „Nuova antologia di scienze, lettere ed arti“ erschien; (Vol. 25, S. 109–150, 380–415). Thema ihrer Erzählung ist die weibliche Prostitution. Emilia Ferretti Viola stammte aus einer kultivierten und aufgeklärten Familie des gehobenen Bürgertums. Ihre Mutter, Saulina Viola-Barbavara (1812–1887), war eine bekannte Mailänder Salonnière des Risorgimento.</note></seg>: perciò mi fà ricordare <bibl corresp="G002112">il suo articolo</bibl> veemente sì, ma pur utile, e <seg type="comment"><orig>il colpo che quella povera scrittrice ne avrà avuto</orig><note xml:id="ny42_wxn_zlb">Gemeint ist Marianos Beitrag „La Lucrezia Borgia del Gregorovius nella Nuova Antologia“ in „Il Diritto. Giornale della Democrazia Italiana“ (Jg. 21. Nr. 193. Rom 12. Juli 1874. S. 3), den er als Replik auf Emilia Ferretti Violas Rezension der „Lucrezia Borgia“ (1874) verfasste, die unter dem Titel „La Verità Storica Intorno a Lucrezia Borgia“ in der „Nuova Antologia di Scienze, Lettere ed Arti“ (Bd. 26, 1874. S. 573–608) erschienen war.</note></seg>. La compiango; le scriverò, desiderando sommamente che per quel colpo di grazia non sia stato alterata la buona relazione, che intratenni finora colla gentilissima Emma.</p>
+                <p><seg type="comment"><orig>Il <persName key="G001510">Protonotari</persName></orig><note xml:id="nnvf_xxn_zlb">Vgl. den Brief an Francesco Protonotari (1836–1888) vom 12. Juli 1874. Der Jurist und Sozialökonom war 1866 Mitbegründer der Zeitschrift „Nuova Antologia“.</note></seg>, ha egli mai stampato <bibl corresp="G003993">il mio articolo sul <persName key="G001145">Barbarossa</persName></bibl>? Mi venne spedito da Roma <seg type="comment"><orig>un <bibl sameAs="G067868">poemetto italiano, intitolato Kyffhäuser</bibl></orig><note xml:id="na5t_zxn_zlb">Es handelt sich dabei um das Gedicht „Kyffhäuser“ (Untertitel: „Leggenda“) eines gewissen G. di Romito. Es ist nicht bekannt, in welcher Form bzw. Ausgabe das Gedicht Gregorovius erreichte, es erschien aber im gleichen Jahr im „Almanacco-annunzi della Gazzetta d'Italia“, Florenz 1874, S. 225–231. Das Gedicht verarbeitet die Sage vom Kaiser Friedrich Barbarossa im Kyffhäusergebirge, nach welcher der Kaiser mit seiner Gefolgschaft in einer Höhle des Kyffhäuserbergs schläft, um eines Tages zu erwachen und das Reich zu retten. Quelle: https://books.google.de/books?id=PGFgAAAAcAAJ&amp;pg=PA222&amp;dq=%22Kyffhauser:+Leggenda%22&amp;hl=de&amp;sa=X&amp;ved=0ahUKEwi19Jr5pIPmAhWN-6QKHeu-BoIQ6AEINTAB#v=onepage&amp;q=%22Kyffhauser%3A%20Leggenda%22&amp;f=false</note></seg>. Chi sarebbe quel poeta, che si ferma col nome di <persName key="G001554">Romito</persName>? Accludo alla mia i saluti del mio <persName key="G001203">fratello</persName>, il quale oramai si è liberato dalla febbre.</p>
+             
+                <closer>
+                    <salute>Mi scriva ben presto le sue nuove. Di tutto cuore il suo</salute>
+                    <signed rendition="#right">FGregorovius. </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000062">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Alfred von Reumont in Berlin. Rom, 29. Mai 1855</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Universitäts- und Landesbibliothek Bonn</repository><collection>NL Reumont</collection><idno>S 1061 (288)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ¼ S. – 1r + 2r aoR in einer Vignette geprägt: BATH – 1r aoR Empfängervermerk: <hi rendition="#u" hand="#addressee">Pr. Berlin 13 Juni 55</hi>.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 86, Mappe 9 (Alfred Löckle nach
+                                        H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 82, Mappe 5 (nach h1)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die Zusendung des „Spettatore“ mit dem Beitrag von Cesare Guasti über die Übersetzungen der Poesie des Giovanni Meli von Casimiro Basi. Nach der Veröffentlichung einiger „Liebeslieder des Giovanni Meli von Palermo“ im „Morgenblatt für gebildete Leser“ plant er eine Buchpublikation seiner inzwischen deutlich vermehrten Übersetzungen mit einer historischen Einleitung – auch wenn dabei die Herkunft des Dialekts aus dem Italienischen des Mittelalters (Jacopo da Lentini) verloren geht. Die sizilianischen Dithyramben Giovanni Melis zieht er den Toskanischen des Francesco Redi vor. Die Prosa Melis hat er nicht übersetzt, von den Jahreszeiten-Eklogen nicht alle; am besten gefällt ihm die „Pescatoria“. Melis reimlose Verse hat er in Hexameter übertragen. Für seine Einleitung hat er wenig über Meli und dessen Vorgänger Antonio Veneziano und Simon Marchese Rao e Requesenz gefunden. Er plant eine Studie über die „Cultur-Epochen Siciliens“. Er dankt für die positive Aufnahme seines „Corsica“ (1854). Von Clemens August Alertz hat er Reumonts „Beiträge zur italienischen Geschichte“ (1853–1855) bekommen. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He thanks him for sending the „Spettatore“ with the article by Cesare Guasti on the translations of Giovanni Meli’s poetry by Casimiro Basi. After the publication of some of the „Liebeslieder des Giovanni Meli von Palermo“ in the „Morgenblatt für gebildete Leser“, he plans to publish a book of his now significantly increased number of translations with a historical introduction - even if the origin of the dialect from medieval Italian (Jacopo da Lentini) gets lost in translation. He prefers Giovanni Meli’s Sicilian dithyrambs by to Francesco Redi’s Tuscan ones. He did not translate Meli’s prose, not all of the seasonal eclogues; he likes the „Pescatoria“ best. He turned Meli’s blank verses into hexameter. He found little on Meli and his predecessors Antonio Veneziano and Simon Marchese Rao e Requesenz for his introduction. He is planning a study on the „cultural eras of Sicily“. He thanks him for the positive reception of his „Corsica“ (1854). He received Reumont’s „Beiträge zur italienischen Geschichte“ (1853–1855) from Clemens August Alertz. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1855-05-29" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001545">Reumont, Alfred von (1808–1887)</persName>
+<placeName cert="low" key="G000636">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+<opener>
+<salute>Hochverehrter Herr,</salute>
+</opener>
+<p>bald nach dem Empfange eines Briefes des Herrn Medicinalrat <persName key="G000913"><seg type="comment"><orig>Alertz</orig><note xml:id="nwf2_gwm_nlb">Der mit Gregorovius und Reumont eng befreundete Clemens August Alertz (1800–1866), ehemaliger Leibarzt der Päpste Gregor XVI. und Pius IX., des Prinzen Heinrich von Preußen (1781–1846) und zuletzt preußischer Gesandtschaftsarzt.</note></seg></persName>, welcher mir Ihre freundliche Zusendung der 1. Nummer des Spettatore ankündigte, ist mir diese richtig zugegangen; ich beeile mich, Ihnen meinen verbindlichsten Dank zu sagen. Ich habe den <seg type="comment"><orig><bibl sameAs="G004240">Aufsatz des <hi rendition="#aq">Cesare Guasti</hi></bibl></orig><note xml:id="nabf_pwm_nlb">Cesare Guasti: Lezione [über die Übersetzungen der Poesie des Giovanni Meli von Casimiro Basi (1794–1853)] detta nella Società Colombaria, la mattina del 28 dicembre 1854. In: Lo Spettatore. Rassegna letteraria, artistica, scientifica e industriale. Nr. 1. Florenz 4.2.1855. S. 2–5 (siehe https://opacplus.bsb-muenchen.de/metaopac/search?View=default&amp;db=100&amp;id=9373171).</note></seg> mit manchem Erfolg für mich selber gelesen, wenigstens in so fern, als ich die große <seg type="comment"><orig>Schwierigkeit den <persName key="G001416">Meli</persName> zu übersetzen</orig><note xml:id="nztq_vwm_nlb">Der aus Palermo stammende Dichter, Arzt und Naturwissenschaftler Giovanni Meli (1740–1815) schrieb seine Werke in sizilianischem Dialekt. Eine erste Gesamtausgabe seiner „Poesie Siciliane“ in 5 Bänden erschien 1787 (Palermo: Solli). Posthum erschien: Poesie siciliane di Giovanni Meli. 8 Bde. Palermo: Eredi Abbate 1830–1839, von der 1857 bereits die 4. Auflage gedruckt wurde.</note></seg> noch deutlicher erkannt habe.</p>
+<p>Herr Alertz wird Ihnen gesagt haben, daß ich auf den Gedanken verfiel das Beste dieses Sicilianers ins Deutsche zu übertragen, u<ex>nd</ex> erlauben Sie mir, daß ich mich über diesen Plan ausspreche, was ich nicht wagen würde, wenn ich nicht wüßte, daß Sie als einer der umfaßendsten Vermittler deutscher u<ex>nd</ex> italien<ex>ischer</ex> Literatur davon freundlich Notiz nehmen wollen.</p>
+<p>Als ich im September 1853 nach <placeName key="G000575">Sicilien</placeName> gegangen war, fiel mir der Meli in die Hände; er sprach mich an um seines originalen u<ex>nd</ex> melodiösen Charakters willen, u<ex>nd</ex> ich gab mir die Mühe diesen schwierigen Dialekt zu verstehn. Weil mir Verse einigermaßen leicht von der Hand gehn, übersetzte ich in Mußestunden fast sämtliche Oden, wovon ich einige <seg type="comment"><orig><bibl corresp="G003817">Proben im Cottaschen Morgenblatt</bibl></orig><note xml:id="nabz_vxm_nlb">Einige „Liebeslieder des Giovanni Meli von Palermo († 1815) nach dem Sicilianischen von Ferdinand Gregorovius“ hatte er publiziert in: Morgenblatt für gebildete Leser. Nr. 41. Stuttgart, München: 8.10.1854. S. 978–979.</note></seg> gab. Die Zahl der übersetzten Stücke ist mir auf etwa 60–70 angewachsen, so daß ich <pb n="1v"/>sie als <seg type="comment"><orig>ein <bibl sameAs="G004072">Bändchen</bibl> mit einer Einleitung</orig><note xml:id="nghp_nym_nlb">Mit seinem Brief vom <ref target="G000073">19.7.1855 an Brockhaus</ref> kündigte Gregorovius das Manuskript der Buchpublikation seiner „Lieder des Giovanni Meli von Palermo“ an, das er am 21.7.1855 übersandte (siehe RT, 23.7.1855, S. 56). Es wurde von Brockhaus angenommen und erschien mit einer 35-seitigen Einleitung 1856.</note></seg> herausgeben will. Wenn ich auch einsehe, daß der originale Reiz des Dialectes, welcher das Graziöse der modernen italien<ex>ischen</ex> Sprache gleichsam mit dem altertümlichen Rest jener Sprache des <seg type="comment"><orig><persName key="G001360">Jacopo da Lentini</persName></orig><note xml:id="njfy_tym_nlb">Der italienische Notar Giacomo da Lentini (1212-um 1260) am Hofe Friedrichs II. (1194–1250) in Palermo gilt als bedeutendster Vertreter der Sizilianischen Dichterschule „Scuola Siciliana“. </note></seg> u<ex>nd</ex> seiner Zeitgenoßen verbindet, schlechterdings verloren gehn muß, daß die Sprachfülle wiederum u<ex>nd</ex> die mimische Natur jener Poesie (wie namentlich in der Dithyrambe Melis, die ich dem <bibl sameAs="G004243">Gedicht des <seg type="comment"><orig>Redi</orig><note xml:id="ngxk_dzm_nlb">Der aus Arezzo stammende Arzt, Toxikologe und Philosoph Francesco Redi (1626–1697) verfasste neben zahlreichen literarischen Schriften die Dithyramben „Bacco in Toscana“ (Florenz: Matini 1685).</note></seg></bibl> weit vorziehn muß, unausdrückbar ist; so meine ich doch, es ist ein Versuch zu wagen, u<ex>nd</ex> immer beßer, Art u<ex>nd</ex> Wesen eines Poeten von dieser ausgezeichnet nationalen Stellung durch Ubersetzungs Proben erkennen zu laßen, als durch ein literaturhistorisches Kapitel.</p>
+<p>Ich habe es nicht versucht die epischen Stücke Melis wiederzugeben, weil diese für uns ungenießbar wären, und auch seine schwächsten Productionen sind.</p>
+<p>Von seinen <bibl sameAs="G004246">Jahreszeiten</bibl> gebe ich auch nicht alle, denn sie würden ermüden, u<ex>nd</ex> eigentlich ist er nur in einer, in der <bibl sameAs="G004247">Pescatoria</bibl>, ganz vorzüglich original.</p>
+<p>Was aber werden Sie zu dem Wagniß sagen, daß ich diese Idyllen in Hexameter umgegoßen habe? Ich habe es versucht, die <hi rendition="#aq"><seg type="comment"><orig>versi sciolti</orig><note xml:id="nzhh_hzm_nlb">Ital.: reimlose Verse.</note></seg></hi> beizubehalten, aber ein deutsches Ohr ist viel zu sehr verwöhnt, als daß <del rendition="#s">sie</del> es deren Form ertragen würde, zumal bei oft inhaltloser Breite Melis, welche auch manche seiner Oden beeinträchtigt.</p>
+<p>Kurz u<ex>nd</ex> gut, dies, hochverehrter Herr, ist mein Unternehmen, u<ex>nd</ex> ich weiß nicht, ob es Ihre Billigung erfahren wird. Für die historische Einleitung über Meli steht mir freilich fast nichts zu Gebote, als er selber, da <persName key="G001593"><seg type="comment"><orig>Domenico Scinà</orig><note xml:id="nldf_c1n_nlb">Der Physiker und Historiker Domenico Scinà (1765–1837) aus Palermo galt als einer der besten Kenner der Geschichte Siziliens, der auch eine Literaturgeschichte Sizliens im 18. Jahrhundert vorgelegt hatte: „Prospetto della storia letteraria di Sicilia nel secolo decimottavo“ (Palermo: Reale stamperia 1827).</note></seg></persName> so wenig über die modernen Poeten Siciliens sagt, u<ex>nd</ex> ich keine Arbeit kenne, welche von dessen (Melis) Vorgängern <persName key="G001526"><seg type="comment"><orig>Rao</orig><note xml:id="nlwr_p1n_nlb">Der Palermitaner Mathematiker und Astronom Simon Marchese Rao (auch Rau) e Requesenz (1609–1659) ist für seine sizlianischen Kanzonen bekannt.</note></seg></persName> u<ex>nd</ex> <persName key="G001673"><seg type="comment"><orig>Viniziano</orig><note xml:id="nj1q_w1n_nlb">Der Palermitaner Antonio Veneziano (1543–1593) schrieb seine Gedichte in sizilianischem Dialekt. </note></seg></persName> handelte. Da ich <seg type="comment"><orig>nochmals nach Sicilien gehe</orig><note xml:id="nbv3_bbn_nlb">Gregorovius fuhr nicht mehr nach Sizilien; seine ab 1854 v. a. in Blättern von Cotta erschienen Artikel über Sizilien wurden als Buchpublikation zusammengefasst in: Siciliana. Wanderungen in Neapel und Sicilien. Leipzig: Brockhaus 1861 (ab der 2. Auflage 1865 als Bd. 3 der „Wanderjahre in Italien“).</note></seg>, eine umfaßende Arbeit dort zu vervollständigen, „<bibl sameAs="G003252">Die Cultur-Epochen Siciliens</bibl>“, so hoffe ich dort <pb n="2r"/> in den Bibliotheken für jene mittlere Periode Sicilianischer Poesie noch Einiges herausfinden zu können.</p>
+<p>Es war lange mein Vornehmen, Ihnen, geehrter Herr, einmal für das vorjährige Schreiben zu danken, welches mir den Beweis gegeben hat, daß Ihnen <seg type="comment"><orig>die Sendung meines „<bibl sameAs="G003106">Corsica</bibl>“</orig><note xml:id="nfhd_dbn_nlb">Gregorovius hatte sein „Corsica“ mit seinem Brief vom <ref target="G000017">19.6.1854 an Reumont</ref> übersandt.</note></seg> nicht unangenehm gewesen ist; u<ex>nd</ex> daß Sie auf eine liberale u<ex>nd</ex> ermunternde Weise jenes Buch auch sonst in Ihren Schutz genommen haben, dies verpflichtet mich Ihnen zu lebhaftestem Danke.</p>
+<p>Ich weiß nicht, <seg type="comment"><orig>ob die Italiener irgend sonst von meiner Arbeit Notiz genommen haben; vielleicht hat es der <hi rendition="#aq">Cimento</hi> in Turin gethan</orig><note xml:id="nkld_5dn_nlb">In der 1852 gegründeten Zeitschrift „Il Cimento. Rivista di scienze, lettere ed arti“ wurde sein „Corsica“ nur erwähnt (Bd. 3. Ser. 2. Turin 1853, S. 762).</note></seg>. Hier sind wir außer aller Verbindung mit überrömischer Literatur, u<ex>nd</ex> mein einziger Zusammenhang mit italienischen Literaten beschränkt sich auf den <seg type="comment"><orig>corsischen Dichter <persName key="G001678">Salvadore Viale</persName></orig><note xml:id="nyhp_zdn_nlb">Der mit Gregorovius befreundete, korsische, patriotische Dichter Salvatore Viale (1787–1861) hatte ihm im Dezember 1854 geschrieben (siehe RT, 31.12.1854, S. 54).</note></seg>, welcher das <seg type="comment"><orig><bibl sameAs="G004248">Capitel über die Todtenklagen</bibl> für eine Sammlung Novellen hat übersetzen lassen</orig><note xml:id="nrmk_f2n_nlb">Sopra i canti Funerbi dei Corsi. Estatto dalla seconda parte della Corsica di Ferdinando Gregorovius di Conigsberga. In: Canti popolari corsi con note. Secona Edizione Riveduta e Ampliata, a cui sono Aggiunt Alcuni Nuovi versi Italiani di moderni Autori Corsi. Bastia: Cesare Fabiani 1855. S. 116–124 (nach Gregorovius: Corsica. Bd. 2. Stuttgart: Cotta. S. 29–40). Aufgenommen nach „Corsica“ von Gregorovius (ebd. S. 47–48, S. 49–51, S. 53, S. 54–55) sind der „Vocero einer Hirtin von Talavo auf den Tod ihres Mannes, eines Rinderhirten“ – „Vocero der Nunziola auf den Tod ihres Mannes“ – „Vocero eines Mädchens an der Leiche des ermordeten Vaters“ – „Vocero der Maria Felice von Caluccia auf den Tod des Bruders“ (S. 21–23, S. 23–26, S. 88–89, S. 82–83).</note></seg>. </p>
+<p>Der Freundlichkeit des Herrn Alertz, dieses trefflichen Mannes, deßen Abwesenheit ich sehr beklage, verdanke ich es, daß Sie nicht aufhören, mich zu bilden u<ex>nd</ex> zu unterrichten, indem ich nach u<ex>nd</ex> nach Ihre Bände von ihm entnommen u<ex>nd</ex> mit Freude gelesen habe. Möchte Ihnen der Himmel diese seltne Kraft erhalten, u<ex>nd</ex> möchten Sie uns noch viele solcher Darstellungen liefern, als Ihre <seg type="comment"><orig><bibl sameAs="G004250">Beiträge zur italienischen Geschichte</bibl></orig><note xml:id="nekg_v2n_nlb">Alfred von Reumont: Beiträge zur italienischen Geschichte. 4 Bde. Berlin: Decker 1853–1855. Bis 1857 erschienen noch zwei weitere Bände dieser Aufsatzsammlung.</note></seg> enthalten; würden derartige Schriften mehr vorhanden u<ex>nd</ex> weiter in das Publikum verbreitet sein, so würden sie dazu mithelfen, uns von dem Wust der seichten Belletristik zu erlösen, welche in <placeName key="G000664">Deutschland</placeName> alles zu ersticken droht.</p>
+<p>Sobald ich die Nummer des Spettatore noch einmal gelesen habe, werde ich nicht ermangeln, Sie sofort zurück zu senden. Dies scheint ein würdiges Blatt werden zu wollen, u<ex>nd</ex> auch die äußere Ausstattung <pb n="2v"/>könnte sich manches Institut zum Muster nehmen</p>
+<closer>
+<salute xml:id="s1" next="#s2">Mit dem herzlichsten Dank wünsche ich Ihnen, geehrter Herr, ferner empfohlen zu sein als </salute>
+<salute xml:id="s2" prev="#s1" rendition="#right"><lb/>Ihr hochachtungsvoll ergebener</salute>
+<signed rendition="#right">Ferdinand Gregorovius.</signed>
+<dateline>Rom d<ex>en</ex> 29 Mai 1855.</dateline>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

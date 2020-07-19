@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000349">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Rudolf Brockhaus in Leipzig. Traunstein, 28. August 1872</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Sächsisches Staatsarchiv Leipzig</repository><collection>Bestand 21083</collection><idno>Archivalnummer 224 (122)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¾ S. – 1r + 2r aoR in einer Vignette geprägt: BATH – 2v alR, Blatt um 90° gedreht, Eingangs-, Beantwortungs- und Verlagsvermerk: 1872. / <hi rendition="#aq">Traunstein</hi>, 28./30. <hi rendition="#aq">August</hi>. / <hi rendition="#aq">Gregorovius</hi>. – B. 19/IX. – Mit Hr. Rudolf Br. besprechen. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 55 Mappe 333 (nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er bedauert, dass er während des geplanten Italienaufenthalts von Rudolf Brockhaus in Rom und Neapel noch nicht zurück in Rom sein wird. Die gewünschten Empfehlungsschreiben hält er für sinnlos, weil sie massenweise geschrieben werden. Seine Freunde Wolfgang Erhardt und Karl Lindemann-Frommel werden ihn aber gerne aufnehmen. In Neapel wird ihm bei dem Buchhändler Albert Detken und dem Arzt Eduard Obenaus schon die Nennung seines Namens die Türen öffnen. An den Leiter der pompeijanischen Ausgrabungen Giuseppe Fiorelli kann er schreiben, doch ist der Nutzen für Brockhaus nicht gewiss. Er wiederholt seinen Wunsch, einige der Freiexemplare der illustrierten Ausgabe seines „Euphorion“ (1872) vor der Ausgabe zu versenden und bittet, die im Februar 1872 mitgeteilte Adressliste für den Versand seiner Freiexemplare nicht zu versenden; auch verlangt er erneut die Zusendung des Titelblatts und der Zeichnungen von Theodor Grosse. Er bleibt noch bis etwa zum 10. September 1872 in Traunstein.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000888">Traunstein</placeName><date when="1872-08-28" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G000997">Brockhaus, Rudolf (1838–1898)</persName>
+<placeName key="G000712">Leipzig</placeName>
+</correspAction>
+<correspContext>
+<ref type="next">19. September 1872</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c"><hi rendition="#aq">Traunstein</hi>, <hi rendition="#aq">Bayern</hi>, <lb/>28. <hi rendition="#aq">Aug<ex>ust</ex></hi> 72.</dateline>
+</opener>
+<p>Ich bedaure, geehrter Herr, daß <seg type="comment"><orig>Ihr projectirter Aufenthalt in <placeName key="G000763">Rom</placeName></orig><note xml:id="nkgx_whn_rlb">Nach dem Brief von Gregorovius an Brockhaus vom 29.10.1872 plante Rudolf Brockhaus einen Italienaufenthalt (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 127).</note></seg> in die Zeit meiner Abwesenheit von dort fallen wird, denn voraussichtlich, werde ich nicht vor dem Ende des Jahres in Rom sein.</p>
+<p>Nach meinen praktischen Erfahrungen bringen Adressen, wie Sie solche wünschen, fast niemals einen wirklichen Nutzen, weil Personen, an welche sie abgegeben werden, in der Regel nichts für den Überbringer thun, sowol auf Grund solcher massenhaften Zuschriften, als wegen Mangels an Zeit. Wollen Sie in Rom meine speciellen Freunde, <persName key="G001116"><hi rendition="#aq">Dr</hi>. Erhardt</persName> u<ex>nd</ex> Maler <persName key="G001375">Lindemann</persName> besuchen, deren Adresse Ihnen <persName key="G001618">Spithöver </persName>geben wird, so werden Sie diese sofort bereit finden, Ihnen dienstbar zu sein, u<ex>nd</ex> Sie werden in deren Hause angenehme Abendstunden zubringen können. Von französisch redenden Römern wüßte ich nur einige Fürstenhäuser zu nennen, wo es in der Regel bei höflichen Formeln verbleibt. <seg type="comment"><orig>Für <pb n="1v"/>Neapel haben Sie <persName key="G001089">Detken</persName></orig><note xml:id="no4m_zhn_rlb">Der aus Bremen gebürtige Albert Detken (1809–1887) betrieb die Libreria Detken, ab 1866 Alberto Detken &amp; Rocholl, in Neapel (siehe R. Rocholl: Geschichte des Geschlechts Rocholl aus Radevormwald. Berlin 1938. S. 172).</note></seg> und den <seg type="comment"><orig><persName key="G001454"><hi rendition="#aq">Dr</hi>. <hi rendition="#aq">Obenaus</hi></persName></orig><note xml:id="nizw_13n_rlb">Der seit den 1850er Jahren in Neapel praktizierende Leipziger Arzt Eduard Obenaus (1817–1890) leitete dort die deutsch-evangelische Gemeinde-Anstalt für Kranke (Ospedale tedesco). Er war seit 1857 mit der aus Freiberg stammenden Johanna, geb. von Bose verheiratet. Im August 1864 hatte Obenaus Gregorovius behandelt (siehe RT, 21.8.1864, S. 184). </note></seg>, der wenn Sie ihm meinen Namen nennen das für einen Brief gelten läßt. Meine italienischen Bekanntschaften dort sind lediglich wissenschaftlicher Natur, in Archiven, Bibl<ex>iotheken</ex> etc. Wenn Sie es wünschen, schicke ich Ihnen zur Zeit ein paar Zeilen für <seg type="comment"><orig><persName key="G001131"><hi rendition="#aq">Fiorelli</hi></persName>, den Intendanten der pompejan<ex>ischen</ex> Ausgrabungen u<ex>nd</ex> Director der <orgName key="ed_hcg_cyh_zkb">Museen</orgName></orig><note xml:id="ndqq_d3n_rlb">Mit dem Archäologen Giuseppe Fiorelli (1823–1896) war Gregorovius im August 1864 in den Ausgrabungen (siehe RT, 15.8.1864, S. 182). Fiorelli hatte in Pompeji die erste Archäologenschule begründet und eine Methode der Ausgrabungen entwickelt, über die es bei Gregorovius heißt: „Fiorelli erklärte uns vieles und teilte uns seine Pläne mit. Dieser Mann von sehr sympathischem Äußern hat sich bereits unsterbliche Verdienste um Pompeji erworben. In vier Jahren hat er ein Drittel der Stadt ausgegraben. Man gräbt jetzt horizontal, nicht vertikal.“ (ebd.)</note></seg>: ich stehe aber nicht dafür, daß er mein Billet <add place="superlinear">nicht</add> einfach <hi rendition="#aq"><foreign xml:lang="Lat">ad acta</foreign></hi> legt, weil er mit solchen Briefen jahr aus jahr ein überschüttet zu werden pflegt.</p>
+<p>Aus Ihrem gütigen Schreiben geht die <seg type="comment"><orig>baldige Ausgabe von <bibl sameAs="G003580">Euphorion</bibl></orig><note xml:id="npvy_g3n_rlb">Das Erschienen der Quartausgabe seines 1858 zuerst erschienen Versgedichts „Euphorion“, die als „Illustrierte Prachtausgabe mit Original-Compositionen von Theodor Grosse“ noch 1872 ausgegeben wurde, ließ seit längerem auf sich warten.</note></seg> hervor. Ich wiederhole deshalb hier die Bitte:</p>
+<p><add place="left" hand="#addressee"><metamark target="#seg-1" function="used" rendition="#mMM"/></add>Von der <seg type="comment"><orig>Liste der Adressen zur Versendung meiner Freiexemplare</orig><note xml:id="nojr_33n_rlb">Die Adressliste für den Versand seiner Freiexemplare hatte Gregorovius mit seinem Brief vom 28.2.1872 an den Verlag übersandt (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 113) und im Brief an Brockhaus vom 19.7.1872 die Übersendung einer veränderten Liste angekündigt (ebenso im Brief vom 12.8.1872; Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 121).</note></seg> <hi rendition="#u">keinen</hi> Gebrauch zu machen;</p>
+<p><add place="left" hand="#addressee"><metamark target="#seg-2" function="used" rendition="#mMM"/></add>mir <seg type="comment"><orig><hi rendition="#u">vor</hi> d<ex>er</ex> Ausgabe des illustr<ex>irten</ex> Gedichts einige Prachtexemplare direct mit der Post zuzusenden</orig><note xml:id="nvnd_k3n_rlb">In seinem Brief vom 28.2.1872 hatte Gregorovius mitgeteilt, dass er von den Prachtexemplaren seines „Euphorion“ einige „abgeben möchte, ehe das Buch in Circulation kommt“ (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 121).</note></seg>. <pb n="2r"/>Ich bat schon vor einigen Wochen, mir <note place="right" hand="#addressee"><metamark target="#seg-1" function="used" rendition="#mMM"/>(1 Ex)</note><seg type="comment"><orig><seg xml:id="seg-1">die <hi rendition="#u" hand="#addressee">Decke</hi> und die <hi rendition="#u" hand="#addressee">4 Blätter</hi></seg> <persName key="G001213">Großes</persName> hierher zu senden</orig><note xml:id="nqc2_m3n_rlb">Siehe den Brief von Gregorovius an Brockhaus vom 19.7.1872.</note></seg>, wenn sie schon fertig sind; damit ich so aus den mir nach Rom gesendeten Aushängebogen ein vollständiges Exemplar herstelle.</p>
+<p>Haben Sie daher die Güte mir <add place="left" hand="#addressee"><metamark target="#seg-2" function="used" rendition="#mMM"/></add><seg xml:id="seg-2">diese Dinge senden zu laßen, <hi rendition="#u" hand="#addressee">sobald es eben geht</hi></seg>.</p>
+<closer>
+<salute rendition="#right">Ihr hochachtungsvoll ergebener </salute>
+<signed rendition="#right">FGregorovius</signed>
+<note type="postscript">Ich <seg type="comment"><orig>bleibe wol noch bis zum 10. Sept<ex>em</ex>b<ex>e</ex>r hier in Traunstein</orig><note xml:id="nxhr_n3n_rlb"><p>Gregorovius blieb bis zum 12. September in Traunstein und hielt sich dann bis zum 12. November 1872 in München auf (siehe RT, 10.9. und 11.11.1872, S. 325–327).</p> </note></seg>, und werde mir erlauben Ihnen zur Zeit meine Ortsveränderung anzuzeigen. </note>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

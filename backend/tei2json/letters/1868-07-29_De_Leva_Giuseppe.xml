@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000008">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Giuseppe De Leva in Padua. Venedig, 29. Juli
+                    1868</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz, Biblioteca Nazionale Centrale (BNCF)</repository><collection>Carteggi C. V. 490, 72 </collection><idno>(1)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 1 ¼ S. </p>
+<p>Giuseppe de Leva: Storia documentata di Carlo V in correlazione all’Italia. Bde. 1–3 (von 5 Bde.) Venezia: Naratovich 1863–1867.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er sendet die ersten drei Bände von de Levas „Storia documentata di Carlo V in correlazione all’Italia“ (1863–1867) zurück, die er von Giovanni Gozzadini erhalten hatte. Er reist in den nächsten Tagen nach München und wird vielleicht in Padua bei De Leva Halt machen.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+<correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000894">Venedig</placeName><date when="1868-07-29" cert="high"/>
+</correspAction>
+<correspAction type="received">
+<persName key="G001075">De Leva, Giuseppe (1821–1895)</persName>
+<placeName key="G000747">Padua</placeName>
+</correspAction>
+</correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c">Venezia Luglio 29. 1868. </dateline>
+<salute>Onorevole <seg type="comment"><orig>Signor Professore</orig><note xml:id="ncd5_yfr_ylb">Giuseppe de Leva (1821–1895) studierte in Padua Philosophie und Jura, bevor er sich historischen Studien zuwandte. Ab 1855 hatte er eine Professur für Geschichte an der Paduaner Universität inne. Im achten Band der „Geschichte der Stadt Rom im Mittelalter“ (1872) verweist Gregorovius mehrfach auf de Levas Studie zu Karl V. (Giuseppe de Leva. Storia documentata di Carlo 5. in correlazione all'Italia, 5 Bde. Venedig: Naratovich, Padua: Sacchetto, Bologna: Zanichelli 1863–1894).</note></seg>, <lb/> </salute>
+</opener>
+<p>nell’anno scorso ebbi <seg type="comment"><orig>per gentilissima intercessione del <persName key="G001187">Conte Giov. Gozzadini</persName></orig><note xml:id="nhdr_bgr_ylb">Giovanni Gozzadini (1810–1887) stammte aus einer der ältesten Bologneser Familien und war mit der Gräfin Maria Teresa Serego Alighieri Gozzadini (1812–1881) verheiratet. Gregorovius fand in diesem „ausgezeichneten Menschen aus dem berühmten bologneser Geschlecht“ (siehe RT, 21.9.1863, S. 169) einen lebenslangen Freund und Unterstützer bei der Herausgabe seiner italienischen Übersetzung der „Geschichte der Stadt Rom“ sowie seiner weiteren Forschungen, etwa zu Lucrezia Borgia. Gregorovius hatte Gozzadini ursprünglich gebeten, ihm einen Aufsatz von Giuseppe de Leva (1821–1895) zu schicken: Giuseppe de Leva. Il saccheggio di Roma del 1527, saggio critico sulla storia di Carlo V. per le nozze Salvadego-Plattis, Padua 1857 (siehe u.a. den Brief von Gregorovius an Giovanni Gozzadini vom 12.5.1867).</note></seg> tre fascicoli della Sua integra opera „<bibl sameAs="G004283">Storia di Carlo V</bibl>“ de’i quali Ella a avuto la bontà di spedir a <placeName key="G000638">Bologna</placeName>, accioché io me ne servissi a per de’miei studi storici.</p>
+<p>Avendo io intanto presa l’associazione alla sua opera, io le rimando codesti fascicoli, ringraziandola distintamente; cosi non si distruggerà un’intera copia del Suo lavoro. </p>
+<p><seg type="comment"><orig>Parto fra pochissimo</orig><note xml:id="ndgg_jgr_ylb">Er trat die Reise am 31. Juli an und machte auf dem Weg nach München u.a. einen mehrstündigen Zwischenstop in Padua (siehe RT, 1.–19.8.1868, S. 251).</note></seg>, forse domani o dopodomani da Venezia a <placeName key="G000734">Monaco</placeName>; nel caso mi fermassi due ore a Padova, mi prenderei la libertà di recarmi da Lei, onde esprimerle <pb n="1v"/>a viva voce; sentimenti di alta stima, che professo verso di Lei</p>
+<closer>
+<salute rendition="#c">come il Suo devoto Servitore </salute>
+<signed rendition="#right">Ferd. Gregorovius </signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

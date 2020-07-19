@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000082">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Theodor Heyse in Florenz. Rom, 29. Oktober
+                    1858</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository> Archiv der BBAW</repository><collection>NL Theodor Heyse</collection></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 1 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 84 , Mappe 6 (Alfred Löckle nach
+                                        H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Heinrich von Brunn bislang keines seiner Bücher verkaufen können – er schlägt vor, diese in eine Auktion zu geben. Er wird das nicht mehr jugendliche Fräulein Ravert demnächst besuchen, die ihm Heyses Brief übergeben hat.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">Heinrich von Brunn has not yet been able to sell any of his books - he suggests that they be put up for auction. He will soon visit the no longer youthful Miss Ravert, who delivered Heyse’s letter to him. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1858-10-29" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001275">Heyse, Theodor (1803–1884)</persName>
+                    <placeName key="G000671">Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">29. Oct<ex>o</ex>b<ex>e</ex>r 58.</dateline>
+                </opener>
+                <p><seg type="comment"><orig>Gestern war ich bei <persName key="G004709">Brunn</persName>. Er hat <hi rendition="#u">nichts</hi> von den Büchern abgesetzt</orig><note xml:id="nis2_dbb_vlb">Der Archäologe Heinrich Brunn (1822–1894) sollte sich um den Verkauf der Bücher von Theodor Heyse kümmern, die dieser im Juni 1855 bei seinem Umzug von Rom nach Florenz hinterlassen hatte (siehe den Brief von Gregorovius an Theodor Heyse, <ref target="G000026">29.10.1855</ref> und <ref target="G000087">28.10.1858</ref>).</note></seg>, u<ex>nd</ex> fragt an, ob er sie nicht auf eine Auction geben soll? Ob Sie auf den vorgeschriebenen Preisen bestehen, oder sich der <hi rendition="#aq"><foreign xml:lang="Lat">fortuna auctionaria</foreign></hi> auf Discretion ergeben wollen? Nichts anderes bleibt am Ende einem verkaufslustigen Christenmenschen übrig.</p>
+                <p>Bei Brunn fand ich auch Fr<ex>äu</ex>l<ex>ein</ex> <hi rendition="#aq">M. <unclear reason="illegible" cert="high">Ravert</unclear></hi>, welche mir Ihren Brief gab. Da diese Dame auf dem Hermus des Lebens längst den Äquator passirt hat, so wird sie mir nicht gefährlich werden, u<ex>nd</ex> ich werde ihr nächstens einen Besuch machen. Herumführen aber führe ich niemand herum. Es freut mich unendlich, d<ex>a</ex>ß Sie wol u<ex>nd</ex> heiter sind. Hier ist ewiger <hi rendition="#aq">Scirocco</hi>.</p>
+                <closer><hi rendition="#aq"><foreign xml:lang="Lat"><seg type="comment"><orig>Multum esset scribendum, quod dimitto in calamo</orig><note xml:id="nb43_3bb_vlb">Lat. etwa: Vieles wäre zu schreiben, was ich in der Feder lasse. Zitat aus den Aufzeichnungen eines Chronisten des 15. Jahrhunderts, Diar. Romanum Antonii Petri ab A. 1404–1417 (siehe „Geschichte der Stadt Rom im Mittelalter“, Bd. 6, 1867, S. 671, FN 2 sowie auch den Brief von Gregorovius an Theodor Heyse vom <ref target="G000068">24. April 1857</ref>).</note></seg></foreign></hi>, mit dieser Phrase lateinischer Chronisten, u<ex>nd</ex> herzlichem Gruß schließe ich dieses <hi rendition="#aq">scriptum</hi>. <signed rendition="#c">FGr.</signed> </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

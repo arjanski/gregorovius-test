@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000020">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Gustavo Strafforello in Turin. Florenz, 25. September 1858</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Florenz, Biblioteca Nazionale Centrale (BNCF)</repository>
+                        <collection>Carteggio Tommaseo</collection>
+                        <idno>
+                            <idno>88, 56</idno>
+                        </idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 4°, 3 S.</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Über Maria Teresa Serego Alighieri Gozzadini hat er von Strafforellos Rezensionen und Übersetzungen seiner „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856), „Grabmäler der römischen Päpste“ (1857) und seines „Euphorion“ (1858) erfahren. Er hat sich die Nummern der „Gazzetta Piemontese“ von Gaetano De Pasquali geliehen; Strafforello soll ihm aber auch Exemplare nach Rom schicken. Die ersten beiden Bände seiner „Geschichte der Stadt Rom im Mittelalter“ (1859) sind im Druck. Bei Gian Pietro Vieusseux hat er von Alessandro D’Ancóna erfahren, dass Gaspero Barbera die italienische Übersetzung seines „Euphorion“ von De Pasqualis drucken will (1858). Übersetzungsfehler und Personennamen wären zu berichtigen. Mit Theodor Heyse richtet er Grüße an Niccolò Tommaseo aus. Er erinnert sich an dessen „Canti Corsi“ (1841) und an seine eigene Korsikareise 1852, wo er Francesco Costantino Marmocchi kennenlernte. In Kürze kehrt er nach Rom zurück. </p>
+                <p xml:lang="en">Via Maria Teresa Serego Alighieri Gozzadin he has heard about Strafforello’s reviews and translations of his „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856), „Grabmäler der römischen Päpste“ (1857) and his „Euphorion“ (1858). He has borrowed the issues of the „Gazzetta Piemontese“ from Gaetano De Pasquali; Strafforello should also send him copies to Rome though. The first two volumes of his „Geschichte der Stadt Rom im Mittelalter“ (1859) are in print. With Gian Pietro Vieusseux he learned from Alessandro D’Ancóna that Gaspero Barbera wanted to print the Italian translation of his „Euphorion“ by De Pasqualis (1858). Translation errors and personal names would have to be corrected. With Theodor Heyse he sends greetings to Niccolò Tommaseo. He remembers his „Canti Corsi“ (1841) and his own trip to Corsica in 1852, where he met Francesco Costantino Marmocchi. He will return to Rome shortly.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000671">Florenz</placeName>
+                    <date when="1858-09-25" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001625">Strafforello, Gustavo (1820–1903)</persName>
+                    <placeName key="G000893">Turin</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener> <dateline rendition="#right">Firenze 25 Sett<ex>em</ex>bre 1858. </dateline>
+                    <salute rendition="#c">Gentilissimo <seg type="comment"><orig>Signore</orig><note xml:id="ngdx_tdm_5lb">Gustavo Strafforello (1820–1903) war ein vorrangig in Turin aktiver Schriftsteller, Journalist und Übersetzer, sowie ein Anhänger der Risorgimento-Bewegung. In dem von ihm gemeinsam mit Emilio Treves (1834–1916) herausgegebenen „Dizionario universale di geografia, storia e biografia.“ (Bd. 1, A–M) wird Gregorovius mit einem Eintrag berücksichtigt; über eine nähere Bekanntschaft mit Gregorovius geben weder Briefe noch Tagebücher Aufschluss.</note></seg>, <lb/> </salute>
+                </opener>
+                <p>eravi la <persName key="G001092">contessa Gozzadini</persName> di <placeName key="G000638">Bologna</placeName>, che si compiaque di darmi l’avviso <seg type="comment"><orig>delle <bibl corresp="G002292 G002293 G002294 G002295 G002296 G002297">appendici della Gazzetta Piemontese</bibl></orig><note xml:id="nkgv_wdm_5lb">In der „Gazzetta Piemontese“ (1858) erschienen von Strafforello übersetzte Textauszüge aus bzw. Besprechungen von Gregorovius’ bei Brockhaus erschienenen Schriften: „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856), „Grabmäler der römischen Päpste“ (1858) und „Euphorion“ (1858). </note></seg>, in cui Ella con tanta benevolenza a trattato le mie cose letterarie; e dopodiche <seg type="comment"><orig>ebbi scritto una lettera al Signor de <persName key="G001083">Pasquali</persName></orig><note xml:id="nsgm_12m_5lb">Gaetano De Pasquali (1818–1902) war ein Schriftsteller, Journalist und Politiker, dessen Übersetzung des „Euphorion“ 1858 in Auszügen in der „Revista Contemporanea“ (Jg. 6, Bde. 14–15), sowie vollständig im Druck bei dem Verleger Gasparo Barbera erschien. Über eine nähere Bekanntschaft mit Greogorovius geben weder Briefe noch Tagebücher Aufschluss.</note></seg>, mi vennero alle mani questi giornali. Or, in punto di lasciar questa città di Firenze, onde recarmi di nuovo alla mia abitazione di<placeName key="G000763"> Roma</placeName>, mi prendo la libertà di ringraziarla con queste righe. Ed io lo faccio di cuore. Di tutto quello, che Ella ha detto di me, una cosa vi è verissima, cioè che io ami <placeName key="G000690">l’ Italia</placeName>; in molte altre ben vedo, che la di Lei amabil<supplied cert="high">i</supplied>tà vieppiù oltrepassi i miei meriti. Spero però di puoter giustificare il suo elogio, da me non del tutto meritato, almeno da qualche parte quando sia curata la mia <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">storia del medio evo di Roma</bibl>, lavoro assai faticoso, di cui ora i primi due volumi stanno sotto i torchi del baron di <persName key="G001055">Cotta</persName> a <placeName key="G000879">Stutgarda</placeName>. Sarei ben felice, di puoter rendere un servizio come agli Italiani così ai miei compatrioti, essendoche questa storia tocchi gli intimi rapporti fra l’una e l’altra nazione. <seg type="comment"><orig>Egli vi era <pb n="1v"/>una verace soddisfazione per me, di vedermi stimato nella patria dell’ <persName key="G000915">Alfieri</persName>, e <bibl corresp="G002292 G002293 G002294 G002295 G002296 G002297 G004360 G004361 G004362">quelle gentilezze</bibl>, che Ella come il Signor de Pasquali mi anno dimostrato</orig><note xml:id="nex2_q2m_5lb">Gemeint sind die Übersetzungen und Besprechungen von Gregorovius’ literarischen Arbeiten durch Gustavo Strafforello (1820–1903) und Gaetano De Pasquali (1818–1902), die Gregorovius auch in seinem Tagebuch am 13.9.1858 erwähnt: „In Turin übersetzte Gaetano de' Pasquali meinen ‚Euphorion‘ in versi sciolti, wovon der erste Gesang in der ‚Rivista Contemporanea‘ erschien. Gleichzeitig schrieb über meine Arbeiten Gustavo Stufforella [sic!] Feuilletonartikel in der ‚Gazzetta Piemontese‘.“ (S. 74).</note></seg>, mi resteranno qual’ un splendido ricordo. Per cui vorrei pregarla avesse la compiacenza, di mandarmi quelle appendici sotto fascia a Roma, perchè qui non ho potuto acquistarne alcuna copia. Il Signor <seg type="comment"><orig><persName key="G001060">Alessandro d’Ancona</persName></orig><note xml:id="nay4_s2m_5lb">Alessandro d’Ancona (1835–1914) war ein Schriftsteller und Literaturhistoriker, der in Florenz zum Umfeld des „Gabinetto Scientifico Letterario G. P. Vieusseux“ zählte.</note></seg>, cui ebbi il piacer di conoscere <seg type="comment"><orig>in una riunione dal</orig><note xml:id="nlpd_52m_5lb">Vermutlich ist damit ein Treffen im „Gabinetto Scientifico Letterario G. P. Vieusseux“ gemeint (siehe RT, 31.8.1858, S.73).</note></seg> signor <seg type="comment"><orig><persName key="G001681">Viesseux</persName></orig><note xml:id="nayr_52m_5lb">Giovan Pietro Vieusseux (1779–1863), ein aus der französischen Schweiz stammender Kaufmann, Verleger und Privatgelehrter, gründete 1819 in Florenz das „Gabinetto Scientifico Letterario G. P. Vieusseux“, einen wissenschaftlichen und literarischen Zirkel und spätere Bibliothek.</note></seg>, mi a detto, <seg type="comment"><orig>che <seg type="comment"><orig><persName key="G000959">il suo amico</persName> </orig><note xml:id="nu1h_w2m_5lb">Vermutlich handelt es sich um den Verleger Gasparo Barbera (1818–1880), der regelmäßig im „Gabinetto Vieusseux“ zu Gast war und der Gaetano de Pasqualis Übersetzung des „Euphorion“ (1858) herausgab.</note></seg>voglia stampar a parte la traduzione dell’ <bibl sameAs="G004362">Euforione</bibl></orig><note xml:id="nw5v_w2m_5lb">Gaetano De Pasqualis (1818–1902) Übersetzungen des ersten und zweiten Gesangs von „Euphorion“ waren 1858 bereits in der „Rivista Contemporanea“ (Jg. 6, Bde. 14–15) erschienen; im gleichen Jahr gab der Turineser Verleger Gasparo Barbera (1818–1880) De Pasqualis Übersetzung als selbständigen Druck heraus.</note></seg>, cosa che mi sara graditissima e onorevole, e in questo caso mi permetterei di notargli pochissimi punti di sbaglio, principalmente in certi nomi, come, per osservarne uno, si trova il nome Cirene, in vece di quello di <persName key="G001108">Eirene</persName> o Irene, dea della pace.</p>
+                <p><seg type="comment"><orig>Il medesimo Signor d’Ancona seppe raccontarmi delle di lor cose di <placeName key="G000839">Piemonte</placeName></orig><note xml:id="nrbp_y2m_5lb">Nicht ermittelt.</note></seg>, interessantissime per me; mi nominò quell’ ingegnoso e fecondo autore <persName key="G001649">Tommaseo</persName>, da me già da molto conosciuto, benchè veduto mai. Abbia la bontà di esprimergli i miei profondi rispetti, e i vivaci auguri per la sua salute; vi acchiudo altritanti <pb n="2r"/>dalla parte del Dottor <persName key="G001275">Teodoro Heyse</persName>, amico mio, attualmente di dimora in Firenze, traduttore del <bibl sameAs="G004273">Catullo</bibl>, un di ben conosciuto dal Signor Tommaseo a <placeName key="G000894">Venezia</placeName>. Scrivendo questo la mia imaginazione mi porta alla <placeName key="G000710">Corsica</placeName>, di cui <bibl sameAs="G004645">i canti popolari</bibl> la prima volta diede fuora Tommaseo; <foreign xml:lang="Lat"><seg type="comment"><orig>quot dolor!</orig><note xml:id="nybm_z2v_5lb">Latein: Welch Schmerz!</note></seg></foreign> rammento la perdita del <seg type="comment"><orig><persName key="G001404">Marmocchi</persName></orig><note xml:id="nq3m_1fm_5lb">Francesco Costantino Marmocchi (1805–1858) war ein italienischer Geograph und Patriot, der sich 1831 der Bewegung „Giovine Italia“ um Giuseppe Mazzini (1805–1872) anschloss und 1848 Minister des Inneren unter Francesco Guerrazzi (1804–1873) wurde. Nach der Niederschlagung der Revolution ging er 1849 auf Geheiß der Franzosen nach Korsika ins Exil, wo er 1852 auf Gregorovius traf, der die Begegnung und eine gemeinsame Wanderung später in „Corsica“ schildert (vgl. „Corsica“, Bd. 1, Kap. 4 u. 5, 1854; siehe auch den Brief von Gregorovius an Albrecht Pancritius vom 14.9.1852 in Ferdinand Gregorovius: Briefe nach Königsberg. Hrsg. von Dominik Fugger und Nina Schlüter. München: Beck 2013. S. 39f.). </note></seg>; lo trovai, sei anni fa, essente nella terra di <placeName key="G000631">Bastia</placeName>, passai in compagnia sua più giorni felici, e ne portai una bellissima imagine, come d’un uomo oltremodo eloquente e pieno di vaste cognizioni.</p>
+                <p>Io lascio Firenze, dove connobbi molti distinti letterati, e dove gli archivi mi furono aperti con una liberalità veramente degna di questa coltissima città. Spero, che, quando io saro di ritorno a Roma avro il piacere <seg type="comment"><orig>di continuare le relazioni sulla repubblica letteraria del libero paese di Piedmonte</orig><note xml:id="nptj_bfm_5lb">Nicht ermittelt, siehe oben.</note></seg>, quali mi furon concesse dalla di loro parte. I miei saluti di amicizia al Signor de Pasquali! ed Ella, egregio Signor, mi creda di ben vero affetto </p>
+                <closer>
+                    <salute rendition="#right">il di Lei obligatissimo</salute>
+                    <signed rendition="#right">Ferdin. Gregorovius</signed>
+                </closer>
+                <note type="postscript">Roma <placeName key="ediarum_tcc_4nv_slb">Via della Purificazione</placeName> n<ex>ume</ex>r<hi rendition="#sup"> <hi rendition="#uu" hand="">o</hi> </hi>63.</note>
+            </div>
+        </body>
+    </text>
+</TEI>

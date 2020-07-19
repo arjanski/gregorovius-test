@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000024">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Hermann von Thile in Berlin. Rom, 24. Dezember
+                    1857</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>96/937 (1)</idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 1 ½ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach D) und Karton
+                                        59, Mappe 346 (Egänzungen nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 1–2 (leicht gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er hofft, dass es den Thiles und Albrecht von Graefe in Berlin wohl ergeht. Eduard Schulz glaubt, Thile werde nach Rom zurückkehren. Er wünscht von ihm eine Empfehlung für die vatikanische Bibliothek, um dort Materialien für den Abschluss der ersten beiden Bände seiner „Geschichte der Stadt Rom im Mittelalter“ (1859) einzusehen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He hopes that the Thiles and Albrecht von Graefe are doing well in Berlin. Eduard Schulz believes Thile will return to Rome. He wants him to write a letter of recommendation to the Vatican Library so that he can examine materials for the completion of the first two volumes of his „Geschichte der Stadt Rom im Mittelalter“ (1859). </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1857-12-24" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001644">Thile, Hermann von (1812–1889)</persName>
+                    <placeName key="G000636">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi> 24. <hi rendition="#aq">Dec<ex>em</ex>b<ex>e</ex>r</hi> 1857.</dateline>
+                    <salute rendition="#c">Hochverehrter Herr <seg type="comment"><orig>Minister</orig><note xml:id="ntdl_gtw_slb">Der Diplomat Hermann von Thile (1812–1889) war Ende 1837 bis November 1839 erstmals als Legationssekretär der preußischen Gesandschaft in Rom stationiert. In den folgenden Jahren wurde er nach Bern, 1842 nach Wien und London entsandt, 1849 wurde er Legationsrat in Frankfurt am Main, 1849 Geschäftsträger in Kassel und 1852 Gesandter in Athen. Im Dezember 1854 bis Ende Juli 1858 war er als preußischer Gesandter beim Heiligen Stuhl in Rom eingesetzt und dort zuletzt bevollmächtigter Minister Preußens. Thile war seit 1846 mit Ottilie, geb. von Graefe (1816–1898), verheiratet – einer Tochter des Mediziners Karl von Graefe (1787–1840) und Schwester des Augenarztes Albrecht von Graefe (1828–1870) – mit der er den Sohn Hans (1848–1869) hatte. Dessen im Juni 1858 erstmals aufgetretene Epilepsie veranlassten ihn, im Juli 1858 erst ins schweizerische Heiden und dann ganz nach Deutschland zurückzukehren, wo er sich in den vorläufigen Ruhestand versetzen zu ließ. 1862 kehrte er als Unterstaatssekretär im Außenministerium in den diplomatischen Dienst zurück. Im März 1871 wurde er unter Otto von Bismarck (1815–1898) erster Staatssekretär des Auswärtigen Amtes im neu gegründeten Deutschen Kaiserreich, trat Ende September 1872 wegen der Verleihung des Schwarzen Adlerordens an den russischen und den österreichischen Botschafter aber zurück. Gregorovius hatte Hermann von Thile gleich nach dessen Ankunft in Rom kennengelernt. Zu ihm, dessen große „Kenntnis in vielen Literaturen“ (RT, 17.9.1857, S. 68) er bewunderte, und zu seiner Familie entwickelte sich schnell einen freundschaftlich-familiäres Verhältnis, das nach Thiles Weggang aus Rom brieflich aufrecht erhalten und jährlich beim gemeinsamen Kuraufenthalt im schweizerischen Heiden gepflegt wurde. Thile war es, der Gregorovius 1860 beim Kultusministerium der preußischen Regierung ein Stipendium zur Fertigstellung seiner „Geschichte der Stadt Rom im Mittelalter“ vermittelte (siehe den Brief von Gregorovius an Hermann von Thile vom <ref target="G000122">9.8.1860</ref>). Als Thile ihm im Frühjahr 1866 mitteilte, dass diese Unterstützung um die Hälfte gekürzt werden würde, nahm Gregorovius ihm das persönlich übel (siehe RT, 8.4.1866, S. 207 und den Brief-Entwurf von Gregorovius an Thile, <ref target="G000214">nach dem 8.4. und vor dem 19.4.1866</ref>) und ihr Briefwechsel ruhte bis 1870, als er die Famile Thile zufällig in München wiedertraf (siehe RT, 24.9.1869, S. 265). Die rund 135 Briefe von Gregorovius an Thile und seine Frau Ottilie sind 1898 von den Erben nahezu vollständig an das GSA in Weimar gegeben worden (zumeist gekürzt gedruckt in: Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Hermann von Petersdorff. Berlin 1894), während von Thiles Gegenbriefen nur wenige späte Schreiben (1885–1889) von Johannes Hönig aus dem Besitz von Thiles Verwandten an entlegener Stelle herausgegeben wurden (1928 in „Die Kultur. Wissenschaftliche Beilage der Schlesischen Volkszeitung“). Gregorovius muss Thile mindestens diese Briefe vor seinem Tod wieder zurückgegeben haben.</note></seg>,</salute>
+                </opener>
+                <p>es ist mir nicht möglich, das Jahr zu Ende gehen zu laßen, ohne Ihnen mit diesen wenigen Worten zu sagen, daß ich nun täglich betrübt nach Berlin denke. Möchte Ihre <persName key="G001645">Frau Gemalin</persName> wol sein! Dies auf dem <placeName key="G000761">Capitol</placeName> zu erfahren, ist mein sehnlicher Wunsch – es kam dort nur einmal Nachricht. Ich hoffe dies auch von <persName key="G001189">Herrn v<ex>on</ex> Gräfe</persName>, u<ex>nd</ex> denke auch, daß <seg type="comment"><orig>sich leichter alles im Heimischen trägt, als es hier in Rom würde möglich gewesen sein</orig><note xml:id="nc5m_ltw_slb">Thile war mit seiner Familie am 24. November 1857 zu seiner im Sterben liegenden Schwiegermutter Auguste von Graefe, geb. von Alten (1797–27.11.1857), nach Berlin gereist (siehe RT, 31.12.1857, S. 68–69, der irrig davon ausging, dass Auguste von Graefe bereits gestorben war), wo er bis zum Mai 1858 blieb.</note></seg>.</p>
+                <p>Das Capitol ist still und öde – <seg type="comment"><orig>„die Spinne hat ihr Netz aufgehangen im gastlichen Palaste, u<ex>nd</ex> der Eule Nachtgesang tönt vom Turme zu Afrasiab“; so kann ich nun mit dem <persName key="G004760">persischen Poeten</persName> klagen</orig><note xml:id="nezk_qtw_slb">Im iranischen Nationalepos „Schahname“ des persischen Dichters Abū ʾl-Qāsim Firdausī (940–1020) tötet der turanische König Afrasiab den iranischen Prinz Siyawasch, in dessen Haus er sich geflüchtetet und der ihm seine Tochter zur Ehe gegeben hatte, und wird damit zum größten Feind der Iraner. Hier vermutlich als Andeutung, dass es Begehrlichkeiten auf den Posten von Thile in Rom gab. Thile wurde von seinem engen Freund Alfred von Reumont vertreten (siehe RT, 31.12.1857, S. 69).</note></seg>.</p>
+                <p>Heute machte mir <persName key="G004761"><seg type="comment"><orig>Herr Schulz</orig><note xml:id="nxgz_ttw_slb">Eduard Schulz (1816–1899), der Kanzleisekretär der preußischen Gesandtschaft, der 1836 als Organist der prußischen Gesandtschaftskapelle nach Rom gekommen war.</note></seg></persName> wieder Hoffnung, daß Sie wiederkehren würden, u<ex>nd</ex> so will ich den Zeitungen noch keinen Glauben schenken. Für den Fall Ihrer längeren Abwesenheit, habe ich eine Bitte; es ist die der <seg type="comment"><orig>erforderlichen Empfehlung an die Bibliothekare der <orgName key="G000506">Vaticana</orgName>, für den Einlaß. Ihnen wünschte ich diese Empfehlung zu verdanken</orig><note xml:id="nl2z_vtw_slb">Das Empfehlungsschreiben zur Benutzung der Vatikanischen Bibliothek schrieb am 28. April 1859 Alfred von Reumont für Gregorovius an Kardinal Giacomo Antonelli (1806–1876), der diesem am 30. April 1859 eine Darstellung seines Forschungsvorhabens hinterhersandte.</note></seg>. Ich bin am <seg type="comment"><orig>Ende meines <bibl sameAs="G003476">2. Bandes</bibl></orig><note xml:id="nbmc_ztw_slb">Der zweite Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1859), für die Gregorovius zu diesem Zeitpunkt noch gar keinen Verlag gefunden hatte, reichte bis ins Jahr 800.</note></seg>, u<ex>nd</ex> habe noch einige Nachträge in den Bibliotheken, obwol ich dort für jene Perioden wenig finden werde.</p>
+                <p>Ich grüße sehr <persName key="G001643">Hänschen</persName> u<ex>nd</ex> Herrn <seg type="comment"><orig><unclear reason="illegible" cert="high">Helsig</unclear></orig><note xml:id="nvh1_b5w_slb">Nicht ermittelt.</note></seg>; ich glaube <pb n="1v"/>jenem wird Berlin schöner vorkommen als Rom.</p>
+                <p>Und nun, Herr Minister, an Sie u<ex>nd</ex> Ihre verehrte Frau Gemalin meine Empfehlung. Wie soll ich Ihnen mit Worten sagen, daß all das unverdiente Wolwollen, welches Sie mir schenkten, recht tief in meine Seele gegangen ist. Mag das neue Jahr Ihrem edeln Hause das Glück in aller Weise verdoppeln.</p>
+                <closer>
+<salute rendition="#c" xml:id="s1" next="#s2">In größter Hochachtung u<ex>nd</ex> Verehrung <lb/></salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">Ihr ergebenster Diener</salute>
+<signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi>.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

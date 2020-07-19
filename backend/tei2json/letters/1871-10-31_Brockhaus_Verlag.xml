@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000372">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Eduard und Rudolf Brockhaus in Leipzig. München, 31. Oktober 1871 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Sächsisches Staatsarchiv Leipzig</repository><collection>Bestand 21083</collection><idno>Archivalnummer 224 (109)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ¾ S. – 2v alR, Blatt um 90° gedreht, Eingangs- und Beantwortungsvermerk: 1871. / <hi rendition="#aq">München</hi>, 31. <hi rendition="#aq">October</hi>. /1. <hi rendition="#aq">November</hi>. / <hi rendition="#aq"><hi rendition="#aq">Gregorovius</hi></hi>. / B. 6/XI. </p>
+<p>Skizze des Deckblatt-Cartons für die illustrierte Ausgabe seines „Euphorion“ (1872)</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 55, Mappe 333 (nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Das vom Verlag gemachte Vertragsangebot bezüglich der illustrierten Ausgabe seines „Euphorion“ (1872) ist für ihn nicht attraktiv, daher wünscht er zumindest am Ertrag nachfolgender Neuauflagen beteiligt zu werden. Den Entwurf der Illustration für das Deckblatt von Theodor Grosse hält er mit Adolf Friedrich Graf von Schack für sehr gelungen. Neue Werke zum Verlag hat er nicht anzubieten, wünscht sich nach dem Abschluss seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) vor allem Ruhe. Die Druckfahnen seines „Euphorion“ würde er gerne noch in München durchsehen. Mitte Dezember wird er zurück in Rom sein.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1871-10-31" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G000995">Brockhaus, Eduard (1829-1914)</persName>
+<persName key="G000997">Brockhaus, Rudolf (1838-1898)</persName>
+<placeName key="G000712">Leipzig</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">27. Oktober 1871</ref>
+<ref type="next">6. November 1871</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c">München, Glückstr<ex>aße</ex> 1. <hi rendition="#aq">B</hi>. <lb/>31. <hi rendition="#aq">Oct<ex>o</ex>b<ex>e</ex>r</hi> 1871.</dateline>
+<salute rendition="#c">Geehrte Herren,</salute>
+</opener>
+<p>in Ihrem Schreiben vom 27. d<ex>iesen</ex> M<ex>onats</ex> erklären Sie sich bereit mir beim Erscheinen der <bibl sameAs="G003580">illustr<ex>irten</ex> Ausgabe des <?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T151617+0200" comment="Die Quartausgabe seines 1858 zuerst erschienen Versgedichts „Euphorion“ wurde als „Illustrierte Prachtausgabe mit Original-Compositionen von Theodor Grosse“ 1872 ausgegeben."?>Gedichts<?oxy_comment_end?></bibl> die Summe von 200 Thal<ex>ern</ex> zu zahlen, wogegen Sie erwarten, daß ich auf das Honorar für die wol zum Frühjahr zu machende 2. Auflage desselben Gedichts in gewöhnlicher Ausstattung verzichte. Ihr meinen Wünschen in Betreff der illustr<ex>irten</ex> Ausgabe gemachtes Zugeständniß enthält demnach keinen materiellen Vorteil für mich, es sei denn den der um einige Monate verfrühten Zahlung von 100 Thalern, was für mich nur dann ein Vorteil wäre, wenn ich dieser Summe, wie es nicht der Fall ist, schnell benötigt wäre. Rechtmäßig steht mir für jede neue Aufl<ex>age</ex> des Gedichts die Summe von 100 Thal<ex>ern</ex> zu, u<ex>nd</ex> selbstverständlich würde ich auf das Honorar für eine Extraausgabe, wie es die illustrirte ist, niemals verzichten, da ich vom <pb n="1v"/>Ertrage meiner Arbeit leben muß. </p>
+<p>Heut zu Tage ist eine Summe von 100 Thalern ein geringfügiges Ding, was auch ein Unbemittelter, wie ich aus meinen Reiseerfahrungen weiß, in der kürzesten Zeit verzehrt. Darum macht mich die Vorstellung etwas mutlos, daß dies zum Gegenstand einer wenn auch nur flüchtigen Differenz, zwischen Uns werden darf. Ich wünsche aber schnell darüber wegzukommen, indem ich mich bereit erkläre Ihren Vorschlag anzunehmen, wenn Sie mir für spätere Ausgaben des Gedichts meine Autorrechte zu garantiren bereit sind, in der hier folgenden Faßung:</p>
+<p>Der Autor erhält beim Erscheinen der illustr<ex>irten</ex> Ausgabe des Gedichts Euphorion in 1000 Exemplaren die Summe von 200 Thalern.</p>
+<p>Das Honorar für d<ex>ie</ex> 2. Auflage desselben Gedichts von 1000 Ex<ex>emplaren</ex>, in seiner ersten Gestalt ohne Illustrationen und mit demselben bei der ursprünglichen Ausgabe festgestellten Verkaufspreise, <pb n="2r"/>wird in der Summe von 200 Thalern für die illustr<ex>irte</ex> Ausgabe als inbegriffen und erledigt angesehen.</p>
+<p>Dafür genehmigt der Verlag:</p>
+<p>1. Dem Autor oder seinen Rechtsnachfolgern für jede wiederholte illustrirte Ausgabe zu 1000 Ex<ex>emplaren</ex>, dieselbe Summe von 200 Thalern zu zahlen;</p>
+<p>2. Desgleichen genehmigt er die Summe von 200 Thalern für jede gewöhnliche nichtillustrirte Auflage des Gedichts zu 1000 Ex<ex>emplaren</ex>, von der 3. Auflage eben dieser gewöhnlichen Ausgabe an gerechnet.<?oxy_comment_start author="Angela Steinsiek" timestamp="20200505T170747+0200" comment="Nach dem Brief von Gregorovius an Brockhaus vom 20.11.1871 wurde der Forderung von Gregorovius entsprochen (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 109)."?></p><?oxy_comment_end?>
+<p>Ich sende Ihnen die Skizze des Deckblatt-Cartons zurück, welcher in der Ausführung schön u<ex>nd</ex> graziös zu werden verspricht. Auch <persName key="G001573">Baron von Schack</persName>, dem ich sie vorlegte, hat sich sehr daran erfreut. Alle drei an diesem Product beteiligte <persName key="G001213"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T151651+0200" comment="Neben Gregorovius und dem Verlag der die Illustrationen beisteuernde Dresdener Maler Theodor Grosse (1829–1891)."?>Parteien<?oxy_comment_end?> </persName>werden demnach die Genugthuung finden, etwas ins Leben gefördert zu haben, was viele zur Freude stimmen u<ex>nd</ex> einen bleibenden Wert beanspruchen kann.</p>
+<p>Ich habe nichts Neues zum Drucke. Nach <pb n="2v"/>den langen Anstrengungen meines Lebens in <placeName key="G000763">Rom</placeName> fühle ich mich tief ermüdet, u<ex>nd</ex> habe keinen andern Wunsch, als den der Ruhe. </p>
+<p>Wie ich Ihnen schrieb, bleibe ich in München noch den <hi rendition="#aq">Nov<ex>ember</ex></hi> über. Es wäre daher gut, wenn ich innerhalb dieser Zeit die Correctur des Gedichts erledigen könnte. Wenn Sie mir diese zukommen laßen, so bitte ich das Manuscr<ex>ipt</ex> beizufügen, weil ich kein Ex<ex>emplar</ex> des Gedichts besitze.</p>
+<p>Vom 15. Dec<ex>ember</ex> an gedenke ich wieder in Rom zu sein.</p>
+<closer>
+<salute rendition="#c">Es empfiehlt sich hochachtungsvoll u<ex>nd</ex> ergebenst Ihr</salute>
+<signed rendition="#right"><hi rendition="#aq">FGregorovius</hi>.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

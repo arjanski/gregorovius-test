@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000270">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Eduard Brockhaus in Leipzig. Lindau, 27. August 1868</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Sächsisches Staatsarchiv Leipzig</repository><collection>Bestand 21083</collection><idno>Archivalnummer 224 (89)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 1 ½ S. – 1r + 2r aoR geprägt: ROMA – 2v alR, Bl. um 90° gedreht, Eingangsvermerk: 1868. / <hi rendition="#aq">Lindau</hi>, 27./30. <hi rendition="#aq">August</hi> / <hi rendition="#aq">Gregorovius</hi>.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 55, Mappe 333</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Der Aufforderung, für die deutsche Übersetzung von Pasquale Villaris „La storia di Girolamo Savonarola e dei suoi tempi“ (1859–1861) durch Moritz Berduschek (1868) ein Vorwort zu schreiben, kann er nicht entsprechen, da ihm der ausdrückliche Wunsch von Villari nicht vorliegt und auch der Übersetzer dies nicht wünscht. Er wünscht, dass mit der illustrierten Ausgabe seines „Euphorion“ (1872) begonnen wird. Anfang Oktober ist er zurück in Rom.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000714">Lindau</placeName><date when="1868-08-27" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G000995">Brockhaus, Eduard (1829–1914)</persName>
+<placeName key="G000712">Leipzig</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Lindau, 27. Aug<ex>ust</ex> 68.</dateline>
+                    <salute>Sehr geehrter Herr,</salute>
+                </opener>
+<p>mein Hin- u<ex>nd</ex> Herreisen verzögerte bis heute die Bescheinigung des Empfanges Ihres freundlichen Schreibens.</p>
+<p>Ihr Wunsch, <?oxy_comment_start author="Angela Steinsiek" timestamp="20200406T172329+0200" comment="Siehe das Empfehlungsschreiben von Gregorovius an Eduard Brockhaus vom 29.1.1867, in dem er sich für den Verlag der deutschen Übersetzung von Paquale Villaris „La storia di Girolamo Savonarola e dei suoi tempi“ (2 Bde. Florenz: Le Monnier 1859–1861) von Moritz Berduschek verwandt hatte."?>die <bibl sameAs="G004282">Übersetzung von „<hi rendition="#aq"><bibl sameAs="G004271">Savonarola</bibl></hi>“</bibl> durch mich eingeführt zu sehen, kann schon deshalb nicht verwirklicht werden, weil ich ein derartiges Vorwort nicht ohne das vorgängige Ersuchen des <persName key="G001687">Autors</persName> machen darf<?oxy_comment_end?>. Ein solches ist nicht an mich gelangt. Ich habe Grund anzunehmen, daß Prof<ex>essor</ex> <hi rendition="#aq">Villari</hi> selbst solches nicht wünscht, da ihm meine Bevorwortung als Bevormundung erscheinen möchte. Außerdem erhielt ich einen Brief von <persName key="G000964">Herrn Barduschek</persName>, woraus hervorgeht, daß diese Angelegenheit seiner Seits auf einem Mißverständniße beruht, u<ex>nd</ex> er diesem Ihrem Vorschlage bereits durch eine Reihe von Gründen zu begegnen gesucht hat.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190108T121508+0100" comment="Der Brief ist nicht erhalten. Die Übersetzung erschien noch 1868 (Geschichte Girolamo Savonarola’s und seiner Zeit. 2 Bde. Übersetzt aus dem Italienischen von Moritz Berduschek. Leipzig: Brockhaus 1868)."?> <?oxy_comment_end?>Er hat mir dieselben mitgeteilt, u<ex>nd</ex> ich erkenne sie meist als triftig an. Ihr Schreiben u<ex>nd</ex> das Seinige widersprechen sich demnach, u<ex>nd</ex> Sie selbst werden daraus entnehmen, daß ich mich über jene Übersetzung weder durch eine Einleitung, noch sonst auf irgend eine Weise mehr aussprechen kann. </p>
+<p>Das Buch ist gut u<ex>nd</ex> auf Studien begründet; es wird daher sich wenigstens so weit <pb n="1v"/>verkaufen, daß die Kosten gedeckt werden können. So wenigstens darf man hoffen oder erwarten.</p>
+<p>Es wäre schön, <?oxy_comment_start author="Angela Steinsiek" timestamp="20200406T172749+0200" comment="Den Vorschlag einer illustrierten Edition seiner Versdichtung „Euphorion“ (1858) hatte Gregorovius bereits am 23.8.1865 Eduard Brockhaus unterbreitet (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 86). Sie erschien erst 1872 (Euphorion. Eine Dichtung aus Pompeji in vier Gesängen. Illustrierte Prachtausgabe mit Original-Compositionen von Theodor Grosse. Leipzig: Brockhaus 1872)."?>wenn die Illustration unseres „<bibl sameAs="G003580">Euphorion</bibl>“ in Gang käme<?oxy_comment_end?>. </p>
+<p>Sie haben wol die Güte, mir zur Zeit davon Nachricht zu geben, u<ex>nd</ex> zwar nach <placeName key="G000763">Rom</placeName>, wo mich Briefe wieder mit Sicherheit am Anfange des October treffen.</p>
+                <closer>
+                    <salute rendition="#right">Mit den freundlichsten Empfehlungen <lb/>Ihr hochachtungsvoll ergebener</salute>
+                    <signed rendition="#right"><hi rendition="#aq">FGregorovius</hi>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

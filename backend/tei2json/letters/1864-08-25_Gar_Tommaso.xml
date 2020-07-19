@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000256">
+                    <teiHeader>
+                                        <fileDesc>
+                                                  <titleStmt>
+                                                  <title>Ferdinand Gregorovius an Tommaso Gar in
+                                                  Neapel. Sorrent, 25. August 1864</title>
+                                                  <editor>
+                                                  <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname>
+                                                  <forename>Angela</forename>
+                                                  </persName>
+                                                  </editor>
+                                                  <respStmt>
+                                                  <persName>
+                                                  <surname>Costea</surname>
+                                                  <forename>Theodor</forename>
+                                                  </persName>
+                                                  <resp>
+                                                  <note type="remarkResponsibility">Mitarbeit</note>
+                                                  </resp>
+                                                  </respStmt>
+                                                  <respStmt>
+                                                  <persName ref="http://d-nb.info/gnd/1121508855">
+                                                  <surname>Neuber</surname>
+                                                  <forename>Frederike</forename>
+                                                  </persName>
+                                                  <resp>
+                                                  <note type="remarkResponsibility">Mitarbeit</note>
+                                                  </resp>
+                                                  </respStmt>
+                                                  </titleStmt>
+                                                  <editionStmt>
+                                                  <edition>
+                                                  <title>Fredinand Gregorovius, gesammelte
+                                                  Briefe</title>
+                                                  </edition>
+                                                  </editionStmt>
+                                                  <publicationStmt>
+                                                  <publisher>
+                                                  <orgName xml:lang="de">Deutsches Historisches
+                                                  Institut in Rom</orgName>
+                                                  <orgName xml:lang="it">Istituto Storico Germanico
+                                                  di Roma</orgName>
+                                                  <orgName xml:lang="en">German Historical Institute
+                                                  in Rome</orgName>
+                                                  <address>
+                                                  <addrLine>Via Aurelia Antica, 00165 Rom,
+                                                  Italien</addrLine>
+                                                  </address>
+                                                  </publisher>
+                                                  <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                                                  <availability status="free">
+                                                  <licence target="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International
+                                                  (CC BY 4.0) </licence>
+                                                  </availability>
+                                                  </publicationStmt>
+                                                  <sourceDesc>
+                                                  <msDesc>
+                                                  <msIdentifier>
+                                                  <repository>Biblioteca Comunale di
+                                                  Trento</repository>
+                                                  <idno>
+                            <idno>busta BCT1–2257/52</idno>
+                        </idno>
+                                                  </msIdentifier>
+                                                  <physDesc>
+                                                  <p>1 Dbl., 8°, 3 S.</p>
+                                                  </physDesc>
+                                                  </msDesc>
+                                                  <listWit>
+                                                  <witness>
+                                                  <msDesc type="copy">
+                                                  <msIdentifier>
+                                                  <institution/>
+                                                  <collection/>
+                                                  <idno>
+                                                  <idno type="shelfmark"/>
+                                                  </idno>
+                                                  </msIdentifier>
+                                                  </msDesc>
+                                                  </witness>
+                                                  <witness>
+                                                  <msDesc type="concept">
+                                                  <msIdentifier>
+                                                  <institution/>
+                                                  <collection/>
+                                                  <idno>
+                                                  <idno type="shelfmark"/>
+                                                  </idno>
+                                                  </msIdentifier>
+                                                  </msDesc>
+                                                  </witness>
+                                                  <witness>
+                                                  <bibl type="print"/>
+                                                  </witness>
+                                                  </listWit>
+                                                  </sourceDesc>
+                                        </fileDesc>
+                                        <profileDesc>
+                                                  <abstract>
+                                                            <p xml:lang="de">Er ist immer noch krank. Zusammen mit Karl und Auguste Lindemann-Frommel erholt er sich in Sorrent. In fünfzehn Tagen wird er nach Neapel zurückkehren, um noch acht Tage in der Nationalbibliothek zu arbeiten. Er erinnert sich an Gars Mühsale und Verdienste als Leiter der Bibliothek der Universität Neapel und rät ihm, sich nach einer neuen Tätigkeit umzusehen. Er erwartet ihn und Madelaine Creutzer sowie Giuseppe De Blasiis Anfang September in Sorrent.</p>
+                                                  <p xml:lang="en">He’s still sick. Together with Karl and Auguste Lindemann-Frommel he is recovering in Sorrento. In fifteen days he will return to Naples to spend another eight days working in the National Library. He remembers Gars Mühsale and earnings as head of the library of the University of Naples and advises him to look for a new job. He is expecting him and Madelaine Creutzer as well as Giuseppe De Blasiis in Sorrento in early September.</p>
+                                                  </abstract>
+                                                  <correspDesc>
+                                                  <correspAction type="sent">
+                                                  <persName key="G001200">Gregorovius,
+                                                  Ferdinand (1821–1891)</persName>
+                                                  <placeName key="G000873">Sorrent</placeName>
+                                                  <date when="1864-08-25" cert="high"/>
+                                                  </correspAction>
+                                                  <correspAction type="received">
+                                                  <persName key="G001158">Gar, Tommaso
+                                                  (1808–1871)</persName>
+                                                  <placeName key="G000737">Neapel</placeName>
+                                                  </correspAction>
+                                                  </correspDesc>
+                                        </profileDesc>
+                    </teiHeader>
+                    <text>
+                                        <body>
+                                                  <pb n="1r"/>
+                                                  <div type="writingSession">
+                                                  <opener>
+                                                  <dateline rendition="#right">Sorrento, <seg type="comment"><orig>25. Agosto 64.</orig><note xml:id="nrjs_5gk_ylb">Sein Aufenthalt in Sorrent begann am 22.8.1864 (siehe RT, 21.8.1864, S. 184).</note></seg></dateline>
+                                                            <salute rendition="#c">Mio caro amico <seg type="comment"><orig>Gar</orig><note xml:id="nqrg_xgk_ylb">Tommaso Gar (1808–1871) war ein Historiker und Literat, der u. a. Direktor der städtischen Bibliothek (Biblioteca Civica) in Trient (1853–1862), der Bibliothek der Universität Neapel (1863–1867) und des Staatsarchivs in Venedig (1867–1871) war. Nach Gregorovius’ Tagebuchaufzeichnungen lernte er Gar im deutsch-florentinischen Salon bei Caroline Unger-Sabatier (1803–1877) und François Sabatier (1818–1891) kennen (siehe RT, 27.9.1863, S. 170). 1871 widmete er Gar den vierten Band der „Wanderjahre in Italien“ („Von Ravenna bis Mentana“); im gleichen Jahr erschien ein Nachruf auf Gars Tod in der „Allgemeinen Zeitung“, der Gregorovius’ immense Wertschätzung für Gar als Wissenschaftler und Mensch ausdrückt (vgl. F. Gregorovius: Tommaso Gar. In: Beilage zu Nr. 224 der AZ. Augsburg: Cotta 12.8.1871. S. 3990f.).</note></seg>,</salute>
+                                                  </opener>
+                                                  <p>finalmente mi vien fatto, di scrivervi queste due righe. Trovai questo paese di Sorrento talmente pieno di forestieri, che dovetti impiegare due giorni interi nel ricercar di una misera abitazione. <seg type="comment"><orig><persName key="ed_gbt_4bh_sfb ed_bzh_0vv_ukp">I miei amici</persName></orig><note xml:id="nvwq_zgk_ylb">Gregorovius reiste mit dem Landschaftsmaler Karl Lindemann-Frommel (1819–1891) und seiner Frau Auguste, geb. Freiin von Racknitz (1826–1876), am 22.8.1864 von Neapel nach Sorrent, vmtl. war Sohn Manfred (1852–1939) ebenfalls dabei (siehe RT, 21.8.1864, S. 184). Der Maler Karl Lindemann-Frommel lebte von 1844 bis 1848 und – gemeinsam mit seiner stets bettlägerigen Frau – ab 1856 dauerhaft in Rom. Im Sommer 1859 reiste er gemeinsam mit Gregorovius nach Genazzano, 1864 nach Neapel und von dort aus nach Sorrent weiter. </note></seg> erano più fortunati di me; poichè potettero rimanere nell’<orgName key="ed_mtt_pjc_hlb">Albergo di Roma</orgName>, dove ci fermammo il giorno del nostro arrivo. Oggi presi abitazione per me nella strada principale (3 franchi al giorno); il pranzo faccio nel suddetto albergo. <seg type="comment"><orig>Non mi sono rimesso ancora nella salute</orig><note xml:id="nfmb_chk_ylb">Wegen der Hitze und der anstrengenden Archivarbeit war er in Neapel erkrankt (siehe RT, 21.8.1864, S. 184 und den Brief von <ref target="G000213">Gregorovius an Hermann von Thile, 31.10.1864</ref>).</note></seg>, e ne dubito forte fintantochè non saro <pb n="1v"/>tornato a Roma. Qui non si gode nè cielo, nè mare, nè terra – si sta fra le mura e dentro delle nuvole di polvere. Parmi, che <seg type="comment"><orig>il più brutto paesaccio della <placeName key="ed_hqc_lrv_gmb">campagna di Roma</placeName> sia un paradiso a fronte di queste rinomate bellezze di Sorrento</orig><note xml:id="nh1x_2hk_ylb">Weitaus positiver sind wenig später verfasste Schilderungen Sorrents im Tagebuch (siehe RT, 31.8. und 15.9.1864, S. 184–185).</note></seg>, di cui finora non ho potuto accorgermi.</p>
+                                                  <p>Egli vi è il pensier mio, <seg type="comment"><orig>di rimaner qua 15 giorni</orig><note xml:id="nwgm_ghk_ylb">Gregorovius hielt sich vom 22.8. bis 16.9.1864 in Sorrent auf (siehe RT, 21.9.1864, S. 185).</note></seg>, di <seg type="comment"><orig>fermarmi altri 8 a <placeName key="G000737">Napoli</placeName></orig><note xml:id="ntf5_3hk_ylb">Er hielt sich von 16. bis 29.9.1864 in Neapel auf (siehe RT, 24.9. und 16.10.1864, S. 185–186).</note></seg> per causa della <orgName key="G000492">Biblioteca nazionale</orgName>, e di ritornami poi a briglia sciolta a Roma.</p>
+                                                  <p>Se io penso alle vostre non interrotte fatiche
+                                                  à Napoli, allora io vi compiango. Le vostre pene,
+                                                  ed i vostri meriti dovrebbero essere un dì
+                                                  coronati se non <pb n="2r"/>à Roma (Dio lo conceda
+                                                  però), almeno da un posto insigne à <placeName key="G000671">Firenze</placeName>.</p>
+                                                  <p>Non dovete sacrificarvi a Napoli più lungo tempo ancora, che un altro anno al più. Allora <seg type="comment"><orig>avrete infuso una nuova vita ed un migliore spirito a quegli istituti</orig><note xml:id="nglh_khk_ylb">Gars Verdienste um die Bibliothek der Universität Neapel erwähnt Gregorovius auch in seinem Tagebuch: „Am folgenden Tage suchte ich Gar auf, der jetzt Bibliothekar der Universität ist. Er hat viel für die Vergrößerung der Bibliothek getan, 3000 deutsche Bände angeschafft, ein Lesekabinett errichtet, wo 21 deutsche Zeitschriften aufliegen.“ (siehe RT, 15.8.1864, S. 182)</note></seg>, cui sorvegliate fino adesso, e potrete spinger la vostra barca in un mare più libero, rialzando le vele dell’ingegno piu libero. Non c’è giorno, dove io non pensi à voi in questo senso, e con vivi voti e desideri.</p>
+                                                  <p>Intanto fatemi sperare di venir qui sul principio del Settembre – <seg type="comment"><orig>la <persName key="G001056">baronessa</persName></orig><note xml:id="nzkv_mhk_ylb">Madeleine Creutzer, verwitwete Baronin Prohaska, war ab 1863 Tommaso Gars Lebensgefährtin, und zog wegen ihm im gleichen Jahr von Paris nach Neapel. Als Gar 1867 Direktor des Archivio generale in Venedig wurde, ging sie mit ihm und blieb bei ihm bis zu seinem in Desenzano eingetretenen Tod am 27. Juli 1871.</note></seg>, cui <seg type="comment"><orig><foreign xml:lang="spa">beso las manos</foreign></orig><note xml:id="ns4s_4hk_ylb">Span.: Ich küsse die Hände.</note></seg>, e <seg type="comment"><orig><persName key="G001072">de Blasiis</persName></orig><note xml:id="nndn_whk_ylb">Giuseppe De Blasiis (1832–1914) war ein Historiker, der nach einem Studium der Rechtswissenschaften am Krimkrieg der Türkei gegen die Russen (1854) teilnahm und in russische Gefangenschaft geriet. Nach seiner Rückkehr nach Italien wurde er Bibliothekar an der Nationalbibliothek in Neapel und widmete sich seinem Werk „L'insurrezione pugliese e la conquista normanna nel secolo XI“ (3 Bde., 1864–1873), das auf Vorlesungen Michele Amaris (1806–1889) basiert. 1861 wurde er als Professor für Geschichte an die Universität Neapel berufen, wo er bis zu seiner Pensionierung 1901 lehrte. Gregorovius lernte De Blasiis Anfang August 1864 über Tommaso Gar (1808–1871) in Neapel kennen (siehe RT 15.8.1864, S. 182).</note></seg> <seg type="comment"><orig>dovranno mantener parola</orig><note xml:id="ntwf_13k_ylb">Offenbar wollten Tommaso Gar (1808–1871), die Baronin Prohaska und Giuseppe de Blasiis (1832–1914) in Sorrent zu Gregorovius stoßen, konnten die Verabredung jedoch nicht halten. Siehe den Brief von Gregorovius an Tommaso Gar vom <ref target="G000257">12.9.1864</ref>: „Non siete venuto a Sorrento, ed io capisco, che siete trattenuto à Napoli, mentre che anche de Blasiis per causa della stampa di Datto e Melo non potè lasciare Napoli.“ </note></seg>. Per le camere si ci aggiustera alla meglio.</p>
+                                                  <p>Le mie lettere, se ce nè – prego di spedirle
+                                                  qui: Hôtel de Rome – </p>
+                                                  <closer>
+                                                  <salute>Con mille saluti, gentilissimo Gar, il
+                                                  vostro per sempre.</salute>
+                                                  <signed rendition="#right">Gregorovius</signed>
+                                                  </closer>
+                                                  </div>
+                                        </body>
+                    </text>
+</TEI>

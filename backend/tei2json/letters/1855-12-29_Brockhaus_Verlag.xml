@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000029">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an den Verlag F. A. Brockhaus in Leipzig. Rom, 29.
+                    Dezember 1855</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummr 224 (24)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Bl., 8°, 1 S. – 1v: Adr.: Der / sehr geehrten Buchhandlung / F. A. Brockhaus. – 1v auR, Bl. um 180° gedreht, Eingangs- und Beantwortungsvermerk: 1855. / <hi rendition="#aq">Rom</hi>, 29. <hi rendition="#aq">Dec</hi>./5. <hi rendition="#aq">Jan</hi>. / <hi rendition="#aq">Gregorovius</hi>. 10 Ex / B. 10/I / Bi Freiexemplare. </p>
+<p>Brief von Ferdinand Gregorovius an Friedrich Althaus</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er bittet um den Versand von Freiexemplaren seiner „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) an Georg Friedrich Althaus, Friedrich Althaus (mit beiliegenden Brief), seinen Bruder Julius Gregorovius und an sich nach Rom durch die Buchhandlung Josef Spithöver. Wegen der vom Verlag nicht befolgten eigenen Orthographie in den „Figuren“ erwartet er den Abdruck der mitgeteilten Rechtfertigung. Sollte sein an den Verkauf gekoppeltes Honorar für seine Übersetzung der „Lieder des Giovanni Meli von Palermo“ (1856) nicht akzeptiert werden, will er sein Manuskript einem anderen Verlag anbieten.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He asks for complimentary copies of his „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) to be sent to Georg Friedrich Althaus, Friedrich Althaus (with the enclosed letter), his brother Julius Gregorovius and himself to Rome through the Josef Spithöver bookshop. Because the publisher didn’t follow his orthography in the „Figuren“, he expects him to print the justification he sent. If his fee for the translation of the „Lieder des Giovanni Meli von Palermo“ (1856), which is linked to the sales, is not accepted, he will offer his manuscript to another publisher. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1855-12-29" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="G000480">F. A. Brockhaus Verlag</orgName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+<correspContext>
+<ref type="next">10. Januar 1855</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+<opener>
+<salute rendition="#c">Der sehr geehrten Buchhandlung F. A. Brockhaus.</salute>
+</opener>
+<p>Ergebenst bitte ich um die Gefälligkeit der Versendung folgender Exemplare der<seg type="comment"><orig> „<bibl sameAs="G003114">Figuren</bibl>“</orig><note xml:id="nh53_zpp_qlb">Seine im Druck befindlichen „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856).</note></seg>:</p>
+<p>
+<list>
+<item><note place="left" hand="#addressee">-</note>1 Ex<ex>emplar</ex> Herrn Generalsuperintendend. <seg type="comment"><orig><persName key="G000921"><hi rendition="#aq">Althaus</hi></persName> zu <placeName key="G0008255">Detmold</placeName></orig><note xml:id="nlss_1qp_qlb">Georg Friedrich Althaus (1790–1863), der Vater von Friedrich Althaus (1829–1897), war von 1836 bis 1857 Generalsuperintendent des Fürstentum Lippe in Detmold.</note></seg>, nebst Adreße.</item>
+<item><note place="left" hand="#addressee">-</note>5 Ex<ex>emplare</ex> Herrn <hi rendition="#aq"><persName key="G000920">Friedrich <hi rendition="#aq">Althaus</hi></persName></hi>, <hi rendition="#aq"><placeName key="G000716">London</placeName> South Bank</hi>. Regents Park 21. mit beikommendem Briefe</item>
+<item><note place="left" hand="#addressee">-</note>2 Ex<ex>emplare</ex> Herrn <persName key="G001203"><hi rendition="#aq">Julius Gregorovius</hi></persName> Adjudant im Regim<ex>ent</ex> Artillerie zu <placeName key="G000699">Königsberg</placeName> <hi rendition="#aq">i<ex>n</ex></hi> <hi rendition="#aq">Pr<ex>eußen</ex></hi></item>
+<item><note place="left" hand="#addressee">-</note>2 Ex<ex>emplare</ex> an mich durch die <orgName key="G000545">Spithöversche</orgName> <unclear reason="illegible" cert="high">Concession</unclear> Leipzig-Rom.</item>
+</list>
+</p>
+<p>Ich nehme an, daß Sie mir 10 Ex<ex>emplare</ex> gern bewilligen.</p>
+<p>Die letzten Bogen habe ich erhalten; <seg type="comment"><orig>die Note betreffs der Orthographie werden Sie zur Zeit erhalten haben</orig><note xml:id="nwvk_dqp_qlb">Siehe den Brief von <ref target="G000042">Gregorovius an Brockhaus vom 28.11.1855</ref>, in dem er die vom Verlag nicht befolgte, eigene Orthographie in den Druckfahnen seiner „Figuren“ beklagt. Im Brief vom <ref target="G000056">11.12.1855</ref> hatte Gregorovius von Brockhaus eine auf der letzten Seite einzurückende Rechtfertigung verlangt. Sie wurde verkürzt abgedruckt (S. 392)</note></seg>, so daß ich hoffe diese Angelegenheit durch deren Anfügung bemerkt zu sehen.</p>
+<p>Das Verzeichniß von Druckfehlern’, deren es im Ganzen sehr wenige gibt, habe ich nicht ausgezogen, weil ich das Buch der mir widerstrebenden Schreibart willen, aufrichtig gesagt, nur habe überfliegen können.</p>
+<p><seg type="comment"><orig>Wenn Sie betreffs des <hi rendition="#aq"><bibl sameAs="G004072">Meli</bibl></hi> nicht auf die Proposition von 50 Th<ex>alern</ex> vorauf Zahlung u<ex>nd</ex> andern 50 Th<ex>alern</ex> nach Verkauf von 400 Ex<ex>emplaren</ex> eingehen zu können glauben, so werde ich Sie ersuchen, das M<ex>anus</ex>kr<ex>ipt</ex> derjenigen Buchhandlung zukommen zu laßen, welche darum schreiben wird.</orig><note xml:id="nl54_nqp_qlb">Das am 21.7.1855 von Gregorovius an Brockhaus übersandte Manuskript seiner „Lieder des Giovanni Meli von Palermo“ (siehe RT, 23.7.1855, S. 56) wurde wegen der im Brief von Gregorovius vom <ref target="G000076">22.8.1855</ref> geäußerten Honorarforderungen (100 Taler) zunächst abgelehnt. Im Brief <ref target="G000028">an Brockhaus vom 13.12.1855</ref> hatte Gregorovius gebeten, das Manuskript im Verlag zu verwahren, bis er eine andere Idee hierfür hat oder einen anderen Verlag gefunden hat.</note></seg> Ich werde auf <seg type="comment"><orig>Ihre Antwort</orig><note xml:id="nyxr_sqp_qlb">Das Manuskript wurde im Januar 1856 schließlich von Brockhaus angenommen (siehe den Brief von <ref target="G000077">Gregorovius an Brockhaus, 19.1.1856</ref>) und erschien im selben Jahr.</note></seg> warten bis zum 15t<ex>en</ex> <hi rendition="#aq">Januar</hi> 56, u<ex>nd</ex> so bald ich dann nicht beschieden bin, annehmen, d<ex>a</ex>ß Sie die <hi rendition="#aq">Offerte</hi> definitiv refusirt haben.</p>
+<closer>
+<salute rendition="#c">Hochachtungsvoll u<ex>nd</ex> ergebenst gezeichnet</salute>
+<signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi></signed>
+<dateline><hi rendition="#aq">Roma</hi> 29. <hi rendition="#aq">D<ex>e</ex>c<ex>em</ex>b<ex>e</ex>r</hi> 1855.</dateline>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

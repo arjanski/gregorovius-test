@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067732">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. Rom, 8. Juni 1873 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Bologna, Biblioteca dell’Archiginnasio</repository><collection>Ms. Gozzadini 442 </collection><idno>(16)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 1 S. – Umschlag mit Adr.: All’ Illustrissimo Signore / il signor Conte Giovanni Gozzadini / Senatore del Regno / Bologna</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für den Erhalt der „Atti e memorie della Regia Deputazione di storia patria per le provincie di Romagna“ (1862–1876). Demnächst wird er ihm die „Statuti di Bologna dall’anno 1245 all’anno 1267“ (1869–1877) zusenden, die ihm Luigi Frati schon vor der Veröffentlichung zur Verfügung gestellt hat. Gozzadini soll den Sekretär der „Deputazione“ Giosue Carducci über die Sendung unterrichten.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1873-06-08" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni conte (1810–1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Roma addì 8. Giugno 1873.</dateline>
+                    <salute rendition="#c">Illustre Signor Conte,</salute>
+                </opener>
+<p>una piccola indisposizione mia, cioè un male al braccio destro causò il ritardo della mia lettera, colla quale mi pregio accusare la ricevuta dei <seg type="comment"><orig>preziosi volumi, gli <bibl sameAs="G004769">Atti e Memorie della R<ex>egia</ex> Deputazione della Storia Patria</bibl></orig><note xml:id="nnv1_jb1_zlb">Die Atti erschienen jährlich; es ist nicht ermittelbar welchen Band Gregorovius erhalten hat. Am 28. April 1873 war er von der Deputazione einstimmig zum korrespondierenden Mitglied ernannt worden (BSB München, Nachlass Gregorovius, Gregoroviusiana 19). Sein Freund, der Conte, hatte ihn über die Ernennung bereits früher unterrichtet; siehe den Brief von Gregorovius an Giovanni Gozzadini vom 18.4.1873. Das offizielle Schreiben mit der Begründung, dass er aufgrund seines Beitrags zur römischen Geschichtsschreibung, namentlich der „Geschichte der Stadt Rom im Mittelalter“, ernannt wurde, datiert auf den 29. Mai und ist Gregorovius unmittelbar zugegangen; siehe den Brief von Gregorovius an Giovanni Gozzadini vom 1.6.1873.</note></seg> etc: <seg type="comment"><orig>del quale generoso dono ringrazio la V<ex>ostra</ex> S<ex>ignoria</ex> Ill<hi rendition="#sup"><ex>ustrissi</ex>ma</hi> vivamente</orig><note xml:id="nljk_pb1_zlb">Seit 1860 war Graf Gozzadini (1810–1887) erster Präsident der im selben Jahr neu gegründeten Deputazione di Storia Patria per le Province di Romagna, die ihren Sitz bis heute in Bologna hat.</note></seg>. </p>
+<p>Fra poco le spedirò quei fascicoli degli <bibl sameAs="G004305">Statuti di Bologna</bibl>, che negli anni addietro <seg type="comment"><orig>ebbi in dono dall’ egregio professore <persName key="G001136">Frati</persName>.</orig><note xml:id="ntfc_sb1_zlb">Luigi Frati (1815–1902) war zunächst Direktor der erzbischöflichen Bibliothek in Bologna und ab 1858 bis zu seinem Tod Leiter der Biblioteca Comunale dell’Archiginnasio. Von 1855–1853 war er Mitglied im Stadtrat. 1860 war er mit Graf Gozzadini Gründungspartner der Deputazione di Storia Patria per le Province di Romagna sowie deren Sekretär von 1860 bis 1863. Gregorovius lernte Frati im September 1863 in Bologna kennen, als dieser ihm das Archivio pubblico im Palazzo del Podestà zugänglich machte (siehe RT, 20.9.1863, S. 168). Nach diesem Besuch schreibt er ihm einen dankenden Brief, indem er Frati unter anderem Erfolg bei seiner Arbeit an den „Statuti di Bologna“ wünscht; siehe den Brief von Gregorovius an Luigi Frati vom 4.10.1863. Offensichtlich hatte Gregorovius auf das erst 1869–1877 erscheinende Werk von Frati bereits früher Zugriff; siehe den fünften Band der „Geschichte der Stadt Rom im Mittelalter“ (1865), S. 284. Auch mit Gozzadini hatte Gregorovius hinsichtlich Fratis „Statuti di Bologna“ bereits früher kommuniziert; siehe den Brief von Gregorovius an Giovanni Gozzadini vom 7.7.1867. </note></seg> Ella voglia quindi aver la compiacenza di darne avviso al signor <persName key="G001021">Secretaier della Deputazione</persName>. </p>
+<p>Intanto mi professo colla più alta stima e gratitudine</p>
+                <closer>
+                    <salute rendition="#right">servitor suo devoto</salute>
+                    <signed rendition="#right">F. Gregorovius.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

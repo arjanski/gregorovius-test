@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000301">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Gustav Parthey in Berlin. Stuttgart, 13. September 1869</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"> <bibl type="print">Herman Granier: Neue Briefe von Ferdinand Gregorovius. I. In: Sonntagsblatt der Neuen Preußischen (Kreuz-)Zeitung. Nr. 485. Beilage (Literatur – Kunst – Wissenschaft) Nr. 43. Berlin 29.10.1922</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für den durch Cotta überbrachten Brief und die Zusendung von Partheys „Mirabilia Romae“ (1869), die dieser ihm gewidmet hat. Nach Ende Mai beginnenden Fieberschüben war er weitgehend vergeblich für fünf Wochen zur Erholung nach Zürich gereist. Er ist seit drei Wochen in Stuttgart, wo soeben der Druck der zweiten Auflage des zweiten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1869) abgeschlossen wurde und die zweite Auflage des dritten Bandes(1870) bevorsteht. In acht Wochen soll auch die Neuauflage seines Erstlings „Corsica“ (1889) abgeschlossen sein; er wird sie Partheys Tochter Veronika zusenden. Am 16. September will er für kurze Zeit nach München, wo sich auch Karl Lindemann-Frommel aufhält. Am 1. Oktober will er zurück in Rom sein. In Stuttgart hat ihn soeben der Ludwig Friedländer besucht, auch den evangelischen Theologen Ferdinand Piper sah er, der im Winter für seine „Maulwurfsgeschäfte“ wieder nach Rom kommen will. – Die Quelle für Cola di Rienzos Volkstribunat 1347 sind nicht die „Mirabilia Urbis Romae“ (1140), sondern die „Graphia aurea urbis Romae“ (1155).</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000879">Stuttgart</placeName><date when="1869-09-13" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001472">Parthey, Gustav (1798–1872)</persName>
+<placeName key="G000636">Berlin</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right"><hi rendition="#aq"><seg type="comment"><orig>Stukkert</orig><note xml:id="njdz_rbj_jlb">Dialektal für Stuttgart.</note></seg></hi> in Schwaben , 13. September 1869.</dateline>
+<salute rendition="#c">Mein verehrter <seg type="comment"><orig>Freund und Gönner</orig><note xml:id="ngbz_sbj_jlb"><p>Der Buchhändler und Altertumsforscher Gustav Parthey (1798–1872), ein Enkel des Berliner Verlegers Friedrich Nicolai (1733–1811). Parthey hatte in Berlin und Heidelberg Philosophie und Altertumskunde studiert. Nach seiner Promotion 1820 ging er auf eine ausgedehnte Studienreisen nach Frankreich, England, Italien, Griechenland und den Orient. 1824 heiratete Parthey die aus Karlsbad stammende Wilhelmine Mitterbacher (1799–1876), der er seine Reiseschilderung „Wanderungen durch Sicilien und die Levante“ (2 Bde., 1834–1840) widmete – mit ihr hatte er die Kinder Marie (1825–1826), Anna (1826–1846), Bernhard (1828–1875) und Veronika (1829–1893). Im Jahr darauf übernahm er die Nicolaische Buchhandlung seines Großvaters, die nach diesem sein Vater Daniel Friedrich Parthey (1745–1822) bis zu seinem Tod geführt hatte, doch konnte er sich Dank seiner Geschäftsführer auch weiterhin als Privatgelehrter seinen kunst- und kulturgeschichtlichen Studien und der Erweiterung der Bibliothek seines Großvaters widmen. 1857 wurde Parthey in die Preußische Akademie der Wissenschaften aufgenommen. Er vermachte seine mehr als 5000 Bände umfassende Bibliothek dem Deutschen Archäologischen Institut in Rom.</p>Gregorovius hatte den Besitzer der Berliner Nicolaischen Buchhandlung und Altertumsforscher Gustav Parthey (1798–1872) in Rom kennengelernt. Ob sie sich schon bei dessen Aufenthalt im Mai–Juni 1854, im Mai 1863 begegnet sind, ist nicht belegt. Erstmals taucht Parthey im August 1867 im Tagebuch von Gregorovius auf, als er mit Parthey und Georg Gottfried Gervinus von Berg nahe Stuttgart einen Ausflus nach Schwetzingen unternahm (siehe RT, 19.8.1867, S. 231). Enger wurde ihr Umgang, als Parthey mit seiner jüngsten Tochter Veronika (1828–1893) den Winter 1868–1869 in Rom verbrachte (siehe den Brief von Gregorovius an Georg Gottfried Gervinus, 8.11.1868 und 25.12.1868). Seine „Mirabilia Romae“ (Berlin 1869), eine Edition topographischer Codices aus der Mitte des 12. Jahrhunderts, hat er Gregorovius gewidmet. Ihr freundschaftlicher Umgang spiegelt sich auch in den wenigen überlieferten Briefen von Gregorovius an Parthey, der bis zu seinem Tode noch zwei Mal nach Rom kam (1870–1871 und Oktober 1871–1872) wo er am 2. April 1872 starb. Er wurde an der Pyramide des Cestius begraben und Gregorovius hielt seine Grabrede: „Am 4. April begruben wir Parthey aus Berlin, welcher am 2. auf dem Kapitol gestorben war, im Alter von 74 Jahren. Ich hielt ihm die Grabrede, gedachte darin seiner Wanderungen an den Küsten des Mittelmeers und seiner Forschungen in Bibliotheken Italiens. Noch vor wenigen Jahren hatte er eine neue Ausgabe der ‚Mirabilia Urbis Romae‘ gemacht und diese mir gewidmet. Parthey war von der Mutter her ein Enkel Nicolais. Seine ansehnliche Bibliothek hat er dem archäologischen Institut in Rom vermacht.“ (RT, 7.4.1872, S. 323). </note></seg>!</salute>
+</opener>
+<p>Die <orgName key="G000523">Cottasche Buchhandlung</orgName> übergab mir heute Ihren lieben Brief, für den ich Ihnen herzlich danke, sowie für <seg type="comment"><orig>die große Ehre, welche Sie mir durch ihre <bibl sameAs="G004316"><hi rendition="#aq">Mirabilia</hi></bibl> angethan haben</orig><note xml:id="nkk5_fz3_jlb">Mirabilia Romae, e Codicibus Vaticanis emendata edidit Gustavus Parthey. Berolini in aedibus Friderici Nicolai 1869. Die nach den im Vatikan aufbewahrten topographischen Codices aus der Mitte des 12. Jahrhunderts edierten Handschriften waren Gregorovius gewidmet (siehe <ptr target="https://archive.org/details/mirabiliaromaee01kiepgoog/page/n5"/>https://archive.org/details/mirabiliaromaee01kiepgoog/page/n5 sowie auch RT, 10.10.1869, S. 266 und den Brief von Gregorovius an Parthey, 31.12.1869).</note></seg>. Sie sollen mir stets als das Denkmal Ihres Wohlwollens gegen mich von hohem Werte bleiben.</p>
+<p>Sie sehen aus dem Ort oben, daß ich nicht mehr in der <placeName key="G000763"><hi rendition="#aq"><foreign xml:lang="Lat">Aurea Roma</foreign></hi></placeName> bin. <seg type="comment"><orig><hi rendition="#aq"><foreign xml:lang="ita">La febbre Romana</foreign></hi></orig><note xml:id="nwvm_hz3_jlb">Ital.: das römische Fieber, deren Ursache in den pontinischen Sümpfen vermutet wurde.</note></seg> überfiel mich Ende Mai, warf mich nieder, rüttelte meine 7 elenden Knochen zusammen, und that mir sonst Böses genug an, <seg type="comment"><orig>so daß ich mich auch in der <placeName key="G000870">Schweiz</placeName> nicht erholt habe, wo ich 5 Wochen oberhalb <placeName key="G000903">Zürich </placeName>war. Hier bin ich schon in der 3. Woche hinein</orig><note xml:id="nmb2_pz3_jlb">Nach seit dem Frühjahr andauernden Fieberschüben war Gregorovius Anfang Juli zur Erholung nach Zürich gereist; siehe die Briefe von Gregorovius an Marie Rückert, 28.6.1869, an Georg Gottfried Gervinus, 4.8.1869 und an Wilhelm Heyd, 5.8.1869 (Württembergische Landesbibliothek Stuttgart; Cod. hist 4° 391, Kaps. I 217) und RT, 26.7.–21.8.1869, S. 259–262. Zu seinem Stuttgarter Aufenthalt vom 26.8.–17.9.1869 siehe RT, 13.9.1869, S. 262–264.</note></seg>. Wollte auch in meinen Cottaschen Backofen sehen, wo alles, was ich schlecht angeteigt, wenigstens gut ausgebacken ist. <seg type="comment"><orig>Von meinen <hi rendition="#aq"><foreign xml:lang="Lat">Miserabilia Urbis Romae</foreign></hi> ist der <bibl sameAs="G003477">2. Band, 2. Auflage</bibl> eben herausgekommen, und wird nächstens eingeschoben <bibl sameAs="G003470">3. Band</bibl></orig><note xml:id="nuky_21j_jlb">Scherzhaft für ital. „Mirabilia Urbis Romae“ – dt.: Die Wunderwerke der Stadt Rom, hier die zweite Auflage des zweiten und dritten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1869–1870).</note></seg>. In den Ofen geschoben ist ferner die <seg type="comment"><orig>neue Ausgabe von <bibl sameAs="G003107">Corsica</bibl></orig><note xml:id="nlld_q1j_jlb">Eine Neuauflage seines italienischen Erstlings „Corsica“ (1854) war im September 1869 in Stuttgart beschlossen worden (siehe RT, 13.9.1869, S. 262).</note></seg>, welche zierlich ausfallen und in 8 Wochen fertig sein soll. Ihrer <persName key="G001473">Frau Tochter</persName>, der ich mich herzlich empfehle, werde ich davon 1 Exemplar zu Füßen legen, wenn sie es nämlich für der Mühe wert hält, es anzunehmen.</p>
+<p><persName key="G001375">Lindemann</persName> ist in <placeName key="G000734">München</placeName>, wohin ich abreise am 16. Dort ist meine Adresse die Litterarisch-Artistische Buchhandlung Cotta – für den Fall, daß Ihre Wege Sie dorthin führten. Ich bleibe freilich nie lange Zeit in München, <seg type="comment"><orig>will nach <placeName key="G000633">Berchtesgaden</placeName></orig><note xml:id="nngp_w1j_jlb">Diese Reise unterblieb.</note></seg>, und von dort etwas nach Rom, wo ich <hi rendition="#aq"><foreign xml:lang="ita">sui primi dellʼottobre</foreign></hi> eintreffe.</p>
+<p><seg type="comment"><orig>Eben besuchte mich <persName key="G001143">Ludwig Friedlaender</persName></orig><note xml:id="nqgg_y1j_jlb">Siehe RT, 13.9.1869, S. 263. Der Königsberger Altphilologe Ludwig Friedländer (1824–1909; die 35 Briefe von Gregorovius an Friedländer in: Ferdinand Gregorovius: Briefe nach Königsberg. Hrsg. von Dominik Fugger und Nina Schlüter. München: Beck 2013). </note></seg>, und <seg type="comment"><orig>sah ich auch <persName key="G067603">Piper</persName> <seg type="comment"><orig><hi rendition="#aq"><foreign xml:lang="Lat">et </foreign></hi><hi rendition="#aq"><foreign xml:lang="Lat">Papaver, hominem Catacombarum</foreign></hi></orig><note xml:id="ntr2_bz3_jlb">Lat.: Piper (= Pfeffer) und Mohn, den Mann der Katakomben.</note></seg> nämlich, welcher in Rom diesen Winter seine Maulwurfsgeschäfte zu treiben gedenkt</orig><note xml:id="nt1w_lbj_jlb">Der evangelische Theologe und Archäologe Ferdinand Piper (1811–1889), ein Schüler des Berliner Erweckungstheologen August Neander (1789–1850). Piper verstand Kunstwerke als materiellen Ausdruck einer geistig-geschichtlichen Wirklichkeit; 1867 war seine „Einleitung in die Monumentale Theologie“ erschienen. Piper war erstmals vom Oktober 1853 bis zum Mai 1854 in Rom auf und kam danach häufiger nach Rom.</note></seg>. </p>
+<p>Alles Gute wünscht Ihnen und Ihrer Frau Tochter, in aufrichtiger Freude Sie bald in Urbe wieder zu haben.</p>
+<closer>
+<salute xml:id="s1" next="#s2" rendition="#c">In treuer Ergebenheit</salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">Ihr</salute>
+<signed rendition="#right">F. Gregorovius</signed>
+<note type="postscript"><seg type="comment"><orig><persName key="G001547">Cola di Rienzo</persName> las wohl nicht in den Mirabilien jene Stelle, sondern in der Graphia</orig><note xml:id="ntq3_pbj_jlb"><p>Die etwas später als die „Mirabilia Urbis Romae“ (1140) zu datierende Stadtbeschreibung „Graphia aurea urbis Romae“ (1155). Im sechsten Band der seiner „Geschichte der Stadt Rom im Mittelalter“ (1867) hatte Gregorovius von Cola di Rienzo (1313–1354), der sich mit sechs Kronen krönen lies, bemerkt: „Er hatte sicherlich in den Mirabilien Roms den Abschnitt gelesen, der von den mehrfachen Kronen der alten Cäsaren handelt.“ (S. 280)</p></note></seg>, die ich eben in der ganzen Kategorie begriff. </note>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

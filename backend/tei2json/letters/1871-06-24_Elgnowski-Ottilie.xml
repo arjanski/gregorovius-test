@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000367">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Ottilie Elgnowski in Königsberg. Rom, 24. Juni 1871</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>BSB München</repository><collection>NL Gregorovius</collection><idno>Gregoroviusiana 20, Elgnowski, Ottilie (23)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ¼ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 88, Mappe 17 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 88, Mappe 2 und Karton 55, Mappe 335 (nach h1)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er freut sich, dass der Bruder Julius als „Abschluß seines Feldzuges“ in Paris war. Er vermutet ihn jetzt auf der Rückreise nach Ostpreußen, auf der er sie in Königsberg besuchen wird. Er will seine Sommerpläne nach dem Aufenthalt des Bruders richten, um das 1870 ausgefallene Treffen mit beiden Geschwistern in Deutschland nachzuholen. Nach Königsberg will er der vielen nötigen Besuche von Freunden und Verwandten wegen nicht kommen. Von Brockhaus wird sie inzwischen den vierten Band seiner „Wanderjahre in Italien“ (1871) erhalten haben und ein Exemplar an die Schwägerin Ottilie Gregorovius geschickt haben. Übermorgen wird Vittorio Emanuele II. in Rom einziehen, womit Rom Hauptstadt wird. Es wird überall in Rom gebaut. Die Feierlichkeiten zum 25-jährigen Pontifikat von Pius IX. waren unwürdig.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1871-06-24" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001111">Elgnowski, Ottilie (bis 1855 Gregorovius, Ottilie) (1834–1907)</persName>
+<placeName key="G000699">Königsberg</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right"><hi rendition="#aq">Rom</hi>, <hi rendition="#aq">St. Johann</hi> 71.</dateline>
+<salute rendition="#c">Liebe Schwester,</salute>
+</opener>
+<p>der <persName key="G001203">Bruder</persName> wird Dir geschrieben haben, daß er in <placeName key="G000749">Paris</placeName> gewesen ist, worüber ich mich sehr freue; denn dies ist so ein glänzender Abschluß seines Feldzuges gewesen. Es ist zu erwarten, d<ex>a</ex>ß er jetzt auf dem Rückmarsch begriffen ist, so daß Du ihn wol bald sehen wirst.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T135230+0200" comment="Julius Gregorovius schrieb am 8. Juli 1871 aus Graudenz, dass er die Halbschwester Ottilie einige Stunden in Königsberg besucht hat (BSB München, NL Gregorovius, Gregoroviusiana 21)."?> <?oxy_comment_end?>Wie ich glaube, wird er nach seiner Heimkehr Urlaub nehmen, um in ein Bad zu gehen. Darnach möchte ich selbst meine Reise einrichten, obwol ich eigentlich noch den ganzen Juli in Rom bleiben müßte, um dann erst im August nach <placeName key="G000894">Venedig</placeName> zu gehen, wo ich zu thun habe. Wir wollen später sehen, wie Alles dies auf das Beste <pb n="1v"/>einzurichten ist. Vor der Hand will ich meinen Wunsch aussprechen, Dich in diesem Sommer oder Herbst zu sehen, u<ex>nd</ex> zwar so daß wir Geschwister irgend wo in Deutschland uns zusammenfinden, wie es schon im vorigen Jahre geschehen sollte.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T135347+0200" comment="Wegen des Kriegsausbruchs fand das Zusammentreffen zu dritt nicht statt (siehe den Brief von Gregorovius an Ottilie Elgnowski, 17.6.1870; BSB München, NL Gregorovius, Gregoroviusiana 20, Elgnowski, Ottilie, 1d), doch fuhr Gregorovius im Oktober 1870 zu seinem vor Metz stationierten Bruder Julius und wurde Zeuge der Kampfhandlungen. Gregorovius seinen Bruder Julius und den Stiefbruder von Collrepp (*1827), der im Deutsch-Französischen Krieg wie Julius Gregorovius längere Zeit vor Metz stationiert war, am 7. August 1871 in Venedig. Am 13. Juni 1871 kamen sie über Bozen und Kufstein reisend in München an und am 17. September trafen beide im Würzburg mit der Halbschwester Ottilie zusammen: „Nach elf Jahren vereinigten wir Geschwister uns wieder“, schrieb Gregorovius in seinem Tagebuch (10.8. –25.9.1871, S. 308–310)."?> <?oxy_comment_end?>Dies kannst Du mit dem Bruder besprechen. Nach Königsb<ex>erg</ex> mag ich nicht aus vielen Gründen, u<ex>nd</ex> besonders deshalb, weil ich in Folge dieser Reise gezwungen würde, viele andere Besuche zu machen u<ex>nd</ex> eine Flut von Menschen über mich her kommen zu lassen. Ich werde alt u<ex>nd</ex> liebe die Ruhe, auch bin ich ganz aus dem Zusammenhange mit den Verwandten heraus.</p>
+<p>Mittlerweile wirst Du den <bibl sameAs="G003301">IV. Band der Wanderjahre </bibl><?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T135406+0200" comment="Die Übersendung hatte Gregorovius in seinem Brief vom 6. Juni 1871 der Halbschwester Ottilie angekündigt (BSB München, NL Gregorovius, Gregoroviusiana 20, Elgnowski, Ottilie, 22)."?>erhalten<?oxy_comment_end?>, u<ex>nd</ex> auch das für die <pb n="2r"/>Schwägerin bestimmte <?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T135422+0200" comment="Für die Witwe seines ältesten Bruders Rudolph Gregorovius (1808–1866), Gr. Ottilie, geb. Schickert."?>Exemplar<?oxy_comment_end?> abgeschickt haben. </p>
+<p>Es wird hier schon sehr heiß und deshalb unbequem; weil aber die Stadt jetzt stille ist, so genieße ich diese Ruhe mit Behagen. Übermorgen kommt der <persName key="G001683">König Italiens</persName> her, u<ex>nd</ex> wird Rom factisch zur Hauptstadt, da auch die Ministerien am 1. Juli einziehen.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T135443+0200" comment="Der erste Besuch Vittorio Emanueles II. (1820–1878) in Rom fand am 31. Dezember 1870 statt; am 2. Juli 1871 zog der König von Neapel kommend in Rom ein, was Gregorovius mit bedauerndem Staunen im Tagebuch dokumentiert (siehe RT, 2.7.1871, S. 308)."?> <?oxy_comment_end?>Es wird an allen Enden gebaut, so daß man in den Straßen seines Lebens kaum sicher ist. Der <persName key="G001497">Papst</persName> aber hat mit seinem Jubileum, wo große Wunder geschehen sollten, ein klägliches Fiasco gemacht, u<ex>nd</ex> seine weltliche Herrlichkeit hat für immer ein Ende. <?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T135502+0200" comment="Anlässlich des 25-jährigen Ponifikats von Pius IX. (1792–1878) wurde im Petersdom oberhalb des Baldachins der um 1300 von Arnolfo di Cambio (um 1240/45–1302/10) geschaffenen bronzenen Sitzfigur von Heiligen Petrus ein Medaillon angebracht, das auf die bis dahin unerreichte Amtszeit nach Petrus verweist. Dazu heißt es im Tagebuch von Gregorovius: „Der Papst hat das 25. Regierungsjahr erlebt und so die Mythe non habebis annos Petri zu Schanden gemacht. Man fürchtete Exzesse, doch verlief der 16. Juni ruhig. Nur wenige Deputationen waren angelangt; tiroler und bayerische Pfaffen hatten einiges Landvolk mit sich geführt, welches durch seine Erscheinung in den Straßen auffiel. Vittorio Emanuele hatte den General Bartolè-Viale an den Papst mit Glückwünschen geschickt, aber er wurde nicht angenommen. Gestern war Funktion im St. Peter. Der Fürst der Apostel wurde mit pontifikalen Gewändern bekleidet, und viel Volk drängte sich herzu, um dem bronzenen Götzen den Fuß zu küssen. Ich sah ein junges Mädchen, welches im Gedränge nicht zum Fuß gelangen konnte; sie warf ihm ein Kußhändchen zu – welch ein prächtiger Stoff zu einem Genrebild für Passini. Das Domkapitel hat über der Apostelfigur das Medaillon Pius des IX. angebracht; Engel tragen dasselbe; eine Inschrift sagt, daß dieser einzige Papst die Regierungsjahre Petri erreicht habe. Ist es ein Glück für ihn, St. Peter und sich selbst zu überleben?“ (RT, 18.6.1871, S. 306)"?></p><?oxy_comment_end?>
+<p>Ich habe gar viele Briefe zu schreiben, muß <pb n="2v"/>daher abbrechen. Grüße das <persName key="G001198">Haus <?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T135513+0200" comment="Verwandte der Stiefmutter von Gregorovius, Emilie Auguste Gregorovius, geb. Dreßler, verw. von Collrepp (1797–1866), die insgesamt zehn Geschwister hatte."?>Dressler<?oxy_comment_end?></persName>, u<ex>nd</ex> so lebet herzlich wol. Bis auf Weiteres.</p>
+<closer>
+<signed rendition="#c">FGr.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

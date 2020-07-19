@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000184">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Florenz. München, 17. Oktober 1875</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt></titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. </p>
+<p>Abdrucke von Gregorovius’ Artikel „Andria“ und von Friedrich Vischers Aufsatz „Ein italienisches Bad“ (1875) – ein Brief aus Montreux</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er hat Wolfgang Erhardt und dessen Familie getroffen. Mathilde von Humboldt ist in München. Er bedauert Marianos Abreise aus München und leitet ihm einen Brief nach Florenz weiter. Er übersendet seinen Artikel „Andria“ (1875) und von Friedrich Vischer die Reiseschilderung „Ein italienisches Bad“ (1875) bei. Mariano soll Vischers Artikel zur italienischen Übersetzung in „Il Diritto“ empfehlen. Er rechnet mit negativen Rezensionen von Pasquale Villaris „Dispacci di Antonio Giustinian“ (1876). Er selbst war mit den italienischen Besprechungen seiner Arbeiten nie ganz zufrieden, abgesehen von Emilia Ferretti Violas Besprechung der „Viaggi in Italia di Ferdinando Gregorovius“ (1873). Eine Abneigung gegen Deutsche sieht er auch in einem Artikel der Zeitung „La Perseveranza“. Er bittet, sich über die Preise von Wein aus Capri zu informieren. Grüße an Augusto Vera.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1875-10-17" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000671">Florenz</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Monaco, 17. Ott<ex>o</ex>bre 1875.</dateline>
+                    <salute rendition="#c">Caro amico Mariano,</salute>
+                </opener>
+<p>giunse gratissima a <persName key="G001109 G001111 G001203">noi tutti quanti</persName> la sua lettera, benchè ci facesse crescere il rincrescimento <seg type="comment"><orig>di aver perduta cosi presto la sua cara compagnia</orig><note xml:id="nqdq_sqt_zlb">Mariano hielt sich zwischen Ende September und Anfang Oktober acht Tage in München auf und logierte im Hotel Marienbad in der Maxvorstadt (siehe die Briefe von Gregorovius an Raffaele Mariano vom 27. 9. und 17.10.1875 und RT, 1.3.1876, S. 361).</note></seg>. Per altro mi congratulo con lei, <seg type="comment"><orig>chè oramai lei è liberato dalla monotonia di Monaco</orig><note xml:id="ncjn_tqt_zlb">In seinem Römischen Tagebuch notiert Gregorovius die Eindrücke des Freundes bei dessen Münchenbesuch: „Was ihm [= Mariano] in München am meisten auffiel, war der Mangel an Vornehmheit in einer so großen Stadt“ (1.3.1876, S. 361)</note></seg> e dall’intemperie del clima, il quale persevera ancora con pioggia, vento, freddo, fango e ogni altra sorta di turpitudini.</p>
+<p>Passò per qui alla volta di <placeName key="G000895">Verona</placeName> <seg type="comment"><orig>il <persName key="G001116">Dr. <hi rendition="#aq">Erhardt</hi></persName></orig><note xml:id="nufn_5qt_zlb">Wolfgang Erhardt (1819–1906) war Arzt der Deutschen Botschaft und des deutschen Krankenhauses in Rom. Gregorovius kannte Erhardt mindestens seit Sommer 1858 (siehe RT, 10.6.1858, S. 70), unternahm Ausflüge und Urlaube mit ihm sowie seiner Frau Auguste von Racknitz (†1876). </note></seg> colla famiglia, senza fermarsi più di una notte; così appena ebbimo tempo di salutare questi amici sulla stazione di ferrovia.</p>
+                <p>Non appena che era uscito lei dalla sua camera meschina nel <seg type="comment"><orig><orgName key="ed_hvf_3ny_1lb">Marienbad</orgName></orig><note xml:id="ng1n_vqt_zlb">Hotel in der Münchener Maxvorstadt.</note></seg>, vi prese posto una mia conoscente, <seg type="comment"><orig>la <persName key="G001304">nipote</persName></orig><note xml:id="nzv4_wqt_zlb">Mathilde von Humboldt (1830–1897) ist die Enkelin von Wilhelm von Humboldt (1767–1835) und Caroline, geb. von Dacheröden (1766–1829), deren Sohn Theodor von Humboldt (von Humboldt-Dacheröden) (1797–1871) 1818 mit Mathilde, geb. von Heineken (1800–1881) geheiratet hatte. </note></seg> di <persName key="G001302"><hi rendition="#aq">Wilhelm von Humboldt</hi></persName>, per la <pb n="1v"/>qual cosa ho dovuto costì continuare le mie visite.</p>
+<p>Alla posta di Monaco non trovai lettera indiritta a lei, fuori di quella un pò grossa, venuta come credo da <placeName key="G000732">Montreux</placeName>, la quale le diressi a <placeName key="G000721">Milano</placeName> (ferma in posta). Spero, che le sarà giunta senz’ altro ritardo.</p>
+<p>Siccome lei vuole schivare <seg type="comment"><orig>le feste di Milano</orig><note xml:id="nokm_xqt_zlb">Kaiser Wilhelm I. (1797–1888) strebte verschiedene Bündnisse mit Nachbarstaaten an, um zumindest den äußeren Frieden zu wahren. So stand seine Reise nach Mailand im Zeichen der Annäherung, es gind ihm darum, dem italienischen König, Vittorio Emanuele II. (1820–1878), die Hand zu schütteln. Dieser hatte Berlin auf Einladung Kaiser Wilhelms im Herbst 1873 besucht (siehe den Brief von Gregorovius an Ersilia Cateani Lovatelli vom 10.9.1873) und dem Deutschen Kaiser dabei das Versprechen eines Gegenbesuchs abgenommen. Aus gesundheitlichen Gründen erfolgte dieser allerdings erst zwei Jahre später. Als Kaiser Wilhelm am 18. Oktober in Mailand einfuhr, wurde er unter großem Jubel des Volkes empfangen. Siehe dazu Beilage zu Nr. 292 der AZ. Augsburg: Cotta 19.10.1875. S. 4568–4569.</note></seg>, sia per necessità materiale, ossia per evitare quella folla chiassosa, che vi confluirà, suppongo, che proprio quest’oggidì avrà lasciato Milano, per recarsi a Firenze. Perciò diriggo questa mia costì; aggiungovi anche una copia dell’<bibl corresp="G003999 G004000">articolo su Andria</bibl>, moderato alquanto più per causa sua, che per quella degli Italiani – parlo, come intenderà, di quel passo, che riguarda le simpatie <pb n="2r"/>platoniche dell’<placeName key="G000690">Italia</placeName> alla<placeName key="G000664"> Germania</placeName>. Nel medesimo plico troverà una copia di <bibl sameAs="ed_is3_5ny_1lb">certi articoli</bibl> scritti dal <seg type="comment"><orig>celebre <persName key="G001690">Friedrich Vischer</persName></orig><note xml:id="nhyv_yqt_zlb">Der Philosoph, Literaturwissenschaftler und Politiker Friedrich Theodor Vischer (1807–1887). Vischer war im Herbst 1875 zum wiederholten Mal nach Italien gereist; dabei besuchte er das italienische Bad Recoaro (eine nordostitalienische Gemeinde in der Provinz Vicenza in Venetien). Vischer hatte sich in der „Allgemeinen Zeitung“ in seinem Beitrag „Ein italienisches Bad“ gegen die Tierquälerei in Italien ausgesprochen (Beilagen zu Nr. 278–280 vom 5.–7.10. 1875. S. 4345–4347, S. 4661–4364 und S. 4378–4380), die er während seines Aufenthalts in Recoaro wahrgenommen hatte, das er daraufhin empört verlassen hatte. Der Artikel war Gregorovius von der Redaktion der „Allgemeinen Zeitung“ zur Weiterleitung nach Italien zugesandt worden (siehe den Brief von Gregorovius an die  Redaktion der Allgemeinen Zeitung, 24.10.1875 in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 386). Unter der Überschrift „Italienische Tierquälerei“ hatte die Redaktion der „Allgemeinen Zeitung“ danach noch einmal einen langen Artikel gegen diese Paxis protestiert (in: Beilage zu Nr. 295, 22.10.1875. S. 4619–4620). Ein weiterer Artikel von Vischer unter dem Titel „Noch ein Wort über Thiermißhandlung in Italien“ erschien am 26. Dezember in der „Allgemeinen Zeitung“ (Nr. 360, S. 5601–5603).</note></seg>, professore di estetica a <placeName key="G000879">Stuttgart</placeName>. Costui me li mandò con pregarmi, di farli conoscere in qualche modo in Italia – lei vedrà che lo scopo di quegli scritti è filantropico, o piuttosto filoterico, oppure filobestiale, avendovi il Vischer alzata la voce contra un vero e ben deplorevole vizio degli Italiani. Se crede fare cosa grata alle bestie di costi, <seg type="comment"><orig>ne dica qualcosa nel <orgName key="G000518">Diritto</orgName></orig><note xml:id="nkrf_1rt_zlb"><p>Vischers „Italienisches Bad“ erschien in italienischer Übersetzung in der „Gazzetta d’Italia“ (siehe Friedrich Theodor Vischer: Altes und Neues. Bd. 2. Stuttgart: Adolf Bonz 1881. S. 217; siehe https://haab-digital.klassik-stiftung.de/viewer/image/1237270251/227/LOG_0010/).</p> </note></seg>, e ne avrà per ricambio un voto di fiducia dalla parte della bestialità maltrattata, e poi le risate dell’altra bestialità, che è bipede.</p>
+<p>Se vede <seg type="comment"><orig>il <persName key="G001687">Villari</persName></orig><note xml:id="nplq_brt_zlb">Der Politiker und Historiker Pasquale Villari (1827–1917) gehörte zu einem Kreis von exilierten Süditalienern in Florenz. Ab 1859 hatte er eine Professur in Philosophie in Pisa inne, verfasste eine zweibändige Biographie Savonarolas (La storia di Girolamo Savonarola e de’suoi tempi. Florenz 1859–1861). Gregorovius lernte ihn im Sommer 1858 in Florenz kennen (RT 31.8.1858, S. 73), knüpfte durch diesen engen Freund wichtige Kontakte. Der Briefwechsel der beiden wurde jüngst publiziert: „Un anello ideale fra Germania e Italia. Corrispondenze di Pasquale Villari con storici tedeschi.“ A cura di Anna Maria Voci. Rom 2006. </note></seg>, gli dica che sono bramoso di avere la <bibl sameAs="ed_e2y_r4y_1lb">sua pubblicazione</bibl> <seg type="comment"><orig>dei dispacci del <persName key="G001178">Giustinian</persName></orig><note xml:id="nvtq_crt_zlb">Antonio Giustinian (1466–1524) entstammt einer venezianischen Familie von Bischöfen und war von 1502 bis 1505 Botschafter seiner Heimatstadt in Rom. Villari veröffentlichte dessen Briefe 1876 in drei Bänden: Dispacci di Antonio Giustinian. Ambasciatore veneto in Roma dal 1502 al 1505. Florenz: Successori Le Monnier (https://archive.org/details/dispaccidianton04giusgoog/page/n9). Gregorovius bestätigt den Erhalt der drei Bände in einem Brief an Pasquale Villari, 26.12.1875.</note></seg>; se s’incontra poi con quel fiore schiacciato crudelmente <pb n="2v"/>dalla sua critica, procuri con ogni modo placarne lo sdegno e risanarne le ferite. Per vero dire, mi duole di quella offesa, tanto più che nessun Italiano ha raggiunto delle mie cose, principalmente dei <bibl corresp="G003121 G003183 G003301">Wanderjahre</bibl> con pari gentilezza e penetrazione artistica, <seg type="comment"><orig><bibl corresp="G002493">come ha fatto <persName key="G001129">Emma</persName></bibl>.</orig><note xml:id="najg_25v_2mb">1872 erschien Emilia Ferretti Violas (1844–1829) Rezension „Viaggi in Italia di Ferdinando Gregorovius“ („Nuova Antologia di Scienze“, Lettere ed Arti. Bd. 20. Florenz 1872. S. 838–856). Weniger positiv nahm Gregorovius die zwei Jahre spätere unter der Verfasserangabe „Emma“ erscheinende Rezension „La Verità Storica Intorno a Lucrezia Borgia“ („Nuova Antologia di Scienze, Lettere ed Arti“, Bd. 26, 1874. S. 573–608) auf; Raffaele Mariano reagierte darauf mit seiner Replik „La Lucrezia Borgia del Gregorovius nella Nuova Antologia“ („Il Diritto. Giornale della Democrazia Italiana“, Jg. 21. Nr. 193. Rom 12. Juli 1874. S. 3; siehe den Brief von Gregorovius an Raffaele Mariano vom 14.7.1874).</note></seg> Ne dovetti di bel nuovo esser ricordevole, allorche <seg type="comment"><orig>lessi l’articolo nella <orgName key="G000527">Perseveranza</orgName></orig><note xml:id="nbxn_frt_zlb">Nicht ermittelt.</note></seg>, in cui al parer mio spira alquanto l’antico odio contro quei „buoni“ Tedeschi, e quei „bravi“ Prussiani – </p>
+                <p>Non dimentichi, di salutar cordialmente <seg type="comment"><orig>il signor <persName key="G001675">Vera</persName></orig><note xml:id="nzgn_grt_zlb">Der Philosoph Augusto Vera (1813–1885) machte sich als Übersetzer und Interpret Hegels um dessen Verbreitung in Italien und Frankreich verdient und war außerdem Marianos Lehrer. Gregorovius traf Vera erstmals im Mai 1875 in Neapel (siehe den Brief von Gregorovius an Raffaele Mariano, 2.5.1875). Gregorovius widmete Vera einen Aufsatz: „Der Hegelianer Augusto Vera in: Allgemeine Geschichte, Kultur-, Litteratur- und Kunstgeschichte. Bd. 4. Stuttgart: Cotta 1887. S. 561–576; ausgenommen in: Kleine Schriften zur Geschichte und Cultur. Bd. 3. S. 43–71).</note></seg>. Avrei anche da pregarla di un’altra cosa, ed è questa: di informarvi in <placeName key="G000737">Napoli</placeName> nel negozio di un ben conosciuto venditor di vini, di cui il nome mi è sfuggito, quale sarebbe il prezzo da pagarsi per il vino di <placeName key="G000653">Capri,</placeName> compresavi anche la spesa di spedizione.</p>
+<p><persName key="G001111"><persName key="G001203">I miei</persName></persName> vi accludono i più cordiali saluti. Stia bene, caro Mariano, e mi scriva quanto presto sia possibile.</p>
+                <closer>
+                    <salute rendition="#c">Di tutto cuor il suo</salute>
+                    <signed rendition="#right">FGregorovius. </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

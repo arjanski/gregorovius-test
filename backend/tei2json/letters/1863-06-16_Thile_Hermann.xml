@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000177">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Hermann von Thile in Berlin. Rom, 16. Juni 1863</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>96/937 (29)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 59, Mappe 346 (nach D) und Karton 59, Mappe 346 (Ergänzungen nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 63–65 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Peter Andraes Munch ist in Rom plötzlich verstorben, kurz bevor er seine geisteskranke Frau Natalie und seine vier Töchter, Juliane, Sophie, Johanne Nathalie und Laura nach Oslo zurückholen wollte. Mit Lindemann-Frommels und Anton Marstaller war er täglich bei ihnen in Frascati. Munchs einziger Sohn Edvard wird die Famile in Kürze nach Oslo zurückführen. Er wird Anfang Juli über Bologna und die Schweiz nach München gehen, um dort einige Wochen für Bibliotheksarbeiten zu bleiben. Er möchte die Thiles auch in diesem Jahr in Heiden treffen. Friedrich Adolf Freiherr von Willisen scheint in Rom unzufrieden, seine Frau Pauline hat er noch nicht kennengelernt. Clemens August Alertz ist sehr schwach geworden, mit Conte Lucas Gozze pflegt er weiter Umgang. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">Peter Andraes Munch died suddenly in Rome, just before he wanted to bring his mentally ill wife Natalie and his four daughters, Juliane, Sophie, Johanne Nathalie and Laura, back to Oslo. With Lindemann-Frommels and Anton Marstaller, he was with them every day in Frascati. Munch's only son Edvard will soon lead the family back to Oslo. He will go to Munich via Bologna and Switzerland at the beginning of July to stay for a few weeks so that he can work in the library. He wants to meet the Thiles in Heiden this year as well. Friedrich Adolf Freiherr von Willisen seems dissatisfied in Rome, he has not yet met his wife Pauline. Clemens August Alertz has become very weak, he continues to stay in contact with Conte Lucas Gozze. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1863-06-16" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001644">Thile, Hermann von (1812–1889)</persName>
+<placeName key="G000636">Berlin</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<dateline rendition="#right"><hi rendition="#aq">Rom</hi>, 16. <hi rendition="#aq">Juni</hi> 63.</dateline>
+</opener>
+<p>Ihr gütiger Brief, mein hochverehrter Herr, gelangte richtig zu mir; die guten Nachrichten, die er mir gab, erfreuten mich hoch, nicht minder die schöne Gewißheit, daß Sie selbst in so drangvollen u<ex>nd</ex> mit <seg type="comment"><orig>Geschäften überfüllten Zeiten</orig><note xml:id="nvzq_zp3_cmb">Thile war Ende 1862 als Unterstaatssekretär (bis 1872) im preußischen Ministerium der auswärtigen Angelegenheiten, unter dem neuen preußischen Ministerpräsidenten Otto von Bismarck (1815–1898), in den Staatsdienst zurückgekehrt.</note></seg> meiner noch wolwollend gedenken. </p>
+<p>Der Sommer ist vor der Thüre, u<ex>nd</ex> <seg type="comment"><orig>fast ein Jahr vergangen, seit ich die Freude hatte Sie u<ex>nd</ex> <persName key="G001643 G001645">die Ihrigen</persName> in <placeName key="G000686"><hi rendition="#aq">Heiden</hi></placeName> zu sehen</orig><note xml:id="ngcq_1q3_cmb">Gregorovius hatte die Thiles für eine Woche in ihrem Kuraufenthalt in Heiden besucht (siehe RT, 27.8.1862, S. 151).</note></seg>. Nur an der Masse aufgehäufter Scripturen ermesse ich, daß wirklich so viel neuer Staub mehr aus dem Zeitenglas geronnen ist. Ich war vergraben in archivistischen Arbeiten für die <seg type="comment"><orig>Fortsetzung der <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Geschichte der Stadt</bibl></orig><note xml:id="neps_cq3_cmb">Gregorovius arbeitete am fünften Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1865).</note></seg>, bis diese gleichmäßige Thätigkeit vor 3 Wochen durch den <seg type="comment"><orig>jähen Tod <persName key="G067667">Munchs</persName> von <placeName key="G067595">Christiania</placeName></orig><note xml:id="neyc_2q3_cmb">Der 1858 nach Rom und 1861 als Reichsarchivar des Reichsarchivs ohne seine Familie nach Oslo zurückgekehrte norwegische Historiker Peter Andreas Munch (*1810) war am 25. Mai 1863 an einem Gehirnschlag verstorben (siehe RT, 17.5.-24.6.1863. S. 160–162).</note></seg> durchschnitten wurde. Ich bin noch erschüttert von diesem tragischen Fall, u<ex>nd</ex> werde Zeitlebens ihn in der Seele spüren. Munch starb plötzlich, nachdem er gekommen war, seine <seg type="comment"><orig><persName key="G067795">geisteskranke Frau</persName> u<ex>nd</ex> seine <persName key="G067711 G067710 G067708 G067709">vier jungen Töchter</persName> nach <placeName key="G067782">Norwegen</placeName> zurückzuführen</orig><note xml:id="ninc_fq3_cmb">Mit Natalie Charlotte Linaae (1812–1900) hatte Munch die Töchter: Karen Juliane (Julie) (1843–1928), Sophie (1840–1918), Johanne Nathalie (1836–1904) und Laura Larsen-Naur (1835–1913).</note></seg>, mitten unter den Zurüstungen zur Heimkehr. Was ist die <seg type="comment"><orig>Mythe von den Kindern der <persName key="G067786">Niobe</persName></orig><note xml:id="nmr1_gq3_cmb">Aus Stolz auf ihre sieben Söhne und sieben Töchter stellte Niobe ihre Kinder über Apollon und Artemis, die Kinder der Göttin Latone. Sie erzürnte daraufhin und ließ Apollon und Artemis die Kinder töten, um sich an Niobe zu rächen. Die Eltern überlebten den Schmerz nicht: Vater Amphion tötete sich selbst mit dem Schwert und Niobe erstarrte vor Schmerz über den Verlust zu Stein.</note></seg> gegen diese <pb n="1v"/>Wirklichkeit des Schmerzes, den ich dort sah u<ex>nd</ex> mit empfand! Die Tage waren furchtbar, und dennoch möchte ich um keinen Preis ihr heiliges Andenken dahingeben. <persName key="G001374 G001375"><seg type="comment"><orig>Lindemanns</orig><note xml:id="nors_gq3_cmb">Der Maler Karl und und seine Frau Auguste Lindemann-Frommel.</note></seg></persName>, die sich als wahrhaft edle Menschen bewährten, <persName key="G001405"><seg type="comment"><orig>Marstaller</orig><note xml:id="naph_hq3_cmb">Der Bankier und preußische Konsul Anton Marstaller (1815–1865).</note></seg></persName>, u<ex>nd</ex> ich waren die <seg type="comment"><orig>Freunde jenes Hauses, u<ex>nd</ex> noch sind wir dort täglich</orig><note xml:id="nqbv_hq3_cmb">Über den freundschaftlichen Umgang von Lindemann-Frommels, Marstaller und den Munch-Töchtern hatte Gregorovius Thile auch im Brief vom <ref target="G000166">16.2.1863</ref> berichtet.</note></seg>. Der <persName key="G067787"><seg type="comment"><orig>König von Schweden</orig><note xml:id="nqfm_3q3_cmb">Karl XV. (1826–1872), der ein Legat für die Hinterbliebenen auslobte.</note></seg></persName> schickte <persName key="G067780"><seg type="comment"><orig>Munchs Sohn</orig><note xml:id="nic1_jq3_cmb">Edvard Munch (1837–1882) reiste am 24. Juni mit seiner Familie ab (siehe RT, 17.6.1863, S. 161–162). Munch heiratete 1868 die Schwester von Auguste Lindemann-Frommel, Thekla, geb. von Racknitz (1837–1887).</note></seg></persName> hieher, welcher Officier in der Garde ist; er kam vorgestern; in 8 Tagen führt er die Armen in die kalte Heimat zurück. Dies habe ich Ihnen mitgeteilt, damit es den Trübsinn entschuldige, der vielleicht diesem Brief aufgedrückt sein wird.</p>
+<p><seg type="comment"><orig>Ich denke mir wohl richtig, daß Ihre Frau Gemalin u<ex>nd</ex> Hans wieder nach <hi rendition="#aq">Heiden</hi> gehen werden, daß Ihnen aber die Fülle der Arbeiten es nicht gestattet, mit zu reisen</orig><note xml:id="ngwz_jq3_cmb">Die ganze Familie kurte auch in diesem Jahr in Heiden, wo sie Gregorovius zwei Tage im September besuchte (siehe RT, 12.9.1863, S. 167).</note></seg>. Ich war fast willens, diesen Sommer bis Berlin zu gehen, Sie, mein teurer Herr, dort zu finden; aber ich habe den Plan aufgegeben schon deshalb, weil die in <placeName key="G000699">Königsberg</placeName> wohnenden Meinigen dann mit vollem Recht auf meinen Besuch Ansprüche machen würden, ich aber aus mehren Gründen nicht so weit reisen will. <seg type="comment"><orig>Ich verlaße Rom am 4 oder 5. Juli; <pb n="2r"/>arbeite vielleicht noch in dem <orgName key="G000465">Stadtarchiv von Bologna</orgName>, u<ex>nd</ex> gehe dann über die <placeName key="G000870">Schweiz</placeName> nach <placeName key="G000734">München</placeName>, wo ich am Ende des Juli sein werde, um 5 Wochen auf der <orgName key="G000510">Bibliothek</orgName> zuzubringen</orig><note xml:id="nmy4_kq3_cmb">Gregorovius reiste am 8. Juli 1863 direkt von Rom an den Viewaldstätter See und den Rheinfall und Ende Juli 1863 über Konstanz nach München, wo er bis zum 30. August blieb. Nach einem Aufenthalt in Bad Reichenhall und Salzburg kehrte er am 5. September 1863 für fünf Tage nach München zurück und fuhr am 10. September über Augsburg nach Heiden. Am 14. September reiste er über Chur nach Mailand und von dort über Parma nach Bologna, wo er am 17. September eintraf (siehe RT, 14.7.-20.9.1863, S. 162–168).</note></seg>. Wenn es nicht unbescheiden ist, so würde ich dringend bitten, mich mit ein paar Worten entweder noch nach Rom, oder doch nach München (<orgName key="G067779">Buchhandlung Cotta</orgName>) wissen zu laßen, wo Sie des Sommers sein werden. Einer Ihrer Secretäre könnte mir ja dies melden, da ich Sie selbst nicht beschweren möchte.</p>
+<p>Ich komme eben aus <placeName key="G000675">Frascati</placeName>, wohin ich gegangen war, jenen Trauernden, die dort in der <seg type="comment"><orig><placeName key="G067783">Villa Piccolomini</placeName></orig><note xml:id="ngpm_lq3_cmb">Die Ende des 16. Jahrhundert errichtete, prächtige Villa, die ihren Namen von Pietro Piccolomini hatte (der sie 1730 erworben und restauriert hatte). Sie wechselte einige Male den Besitzer und ist heute nach Prinz Filippo Massimo Lancellotti (1843–1915) benannt, der sie 1866 erwarb. In der Villa wurden Zimmer und Wohnungen an Fremde vermietet.</note></seg> in Marstallers Begleitung <add place="superlinear">sind,</add> etwas frische Luft zu atmen, den Bruder zuzuführen, u<ex>nd</ex> ich dachte lebhaft der Zeit, wo <seg type="comment"><orig>Sie einst dort in dem großen Gasthof so trübe Tage zubrachten</orig><note xml:id="nuj2_mq3_cmb">Wegen der Ende Juni 1858 in Rom erstmals aufgetretenen Epilepsie des Sohnes Hans (1848–1869) waren die Thiles nach Frascati ausgewichen, wo Gregorovius sie besucht hatte, bevor die Familie über die Schweiz endgültig nach Berlin zurückkehrte (siehe den Brief von Gregorovius an Thile, 10.7.1858 in: Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 4–5).</note></seg>. Dies nun hat sich alles schön gewendet. Sie werden Ihren begabten u<ex>nd</ex> liebenswerten Sohn groß u<ex>nd</ex> zum edeln Bürger im Staat erziehen; <del rendition="#s">der </del>seinen Vätern nacheifernd wird er von Ihnen lernen. Ich denke mir jetzt <seg type="comment"><orig><persName key="G001189 G001191">Herrn u<ex>nd</ex> Frau von Gräfe</persName>, denen ich mich freundlichst empfehle, in <persName key="G001190">neuem Glücke</persName> schwelgend</orig><note xml:id="nzcn_nq3_cmb">Albrecht von Graefe (1828–1870) und seine Frau Anna, geb. Gräfin Knuth (1842–1872), erwarteten ihre erste Tochter, die am 23. Juni 1863 zur Welt kam (Anna †1939).</note></seg>. So blüht auch von dieser Seite Ihnen Freude entgegen.</p>
+<p>Von den hiesigen Verhältnissen kann ich Ihnen nichts Nennenswertes melden. <persName key="G001706"><seg type="comment"><orig>Herr vo<ex>n</ex> Willisen</orig><note xml:id="nof1_qq3_cmb">General Friedrich Adolf Freiherr von Willisen (1798–1864) war im Juli des Vorjahres erster Gesandter Preußens am italienischen Königshof geworden. Für diplomatische Missionen war er zuvor nach Wien, Konstantinopel und Paris entsandt worden.</note></seg></persName> <pb n="2v"/>welchen ich einige Male sah, lebt zurückgezogen, und, nach seinen Äußerungen zu schließen, unzufrieden mit Rom und der Entsagung von Bedürfnißen, die ihm andere u<ex>nd</ex> so verschiedene Lebenskreise zur Gewohnheit machten, die aber auf dieser römischen Inselscholle nicht Befriedigung finden. Er ladet nicht Deutsche zu sich ein, außer jene vom <placeName key="G000761">Capitol</placeName>; ich habe noch nicht die Ehre gehabt, <seg type="comment"><orig><persName key="G001707">Frau v<ex>on</ex> W<ex>illisen</ex></persName></orig><note xml:id="nb2k_rq3_cmb">Willisen war seit 1834 mit Pauline, geb. von Brause (1815–1880), verheiratet.</note></seg> vorgestellt zu sein; auch war sie lange Zeit unwol.</p>
+<p><hi rendition="#aq"><persName key="G000913">Alertz</persName></hi> ist ein schwacher Greis geworden. Selbst Marstaller hat durch eine Krankheit in diesem Frühjahr einen solchen Stoß <subst><del rendition="#ow">erhalten</del><add place="across">erlitten</add></subst>, d<ex>a</ex>ß er um zehn Jahre älter erscheint. <persName key="G067672"><seg type="comment"><orig>Graf <hi rendition="#aq">Gotze</hi></orig><note xml:id="nrkp_sq3_cmb">Der mit Gregorovius befreundete österreichische Diplomat und Sekretär beim Kapitel des Malteserordens in Rom Lucas Conte Gozze (1803–1871).</note></seg></persName> ist noch immer lebhaft an Geist, u<ex>nd</ex> unerschöpflich in klassischen Citaten; doch altert auch er zusehens.</p>
+<p>Die Sommerhitze ist eingetreten. Ich kann kaum noch 6 Stunden am Tage arbeiten, u<ex>nd</ex> indem ich mich dieser schmachvollen Trägheit hingebe, stelle ich mir oft genug vor, wie viele Stunden Sie thätig sind in so anstrengendem u<ex>nd</ex> großen Beruf, nach deßen Geschäften Sie gewiß noch zu Ihren Griechen u<ex>nd</ex> Gothen zurückkehren. <seg type="comment"><orig><hi rendition="#aq"><foreign xml:lang="Lat">In campum Martium omnes, qui nascimur, vocati sumus</foreign></hi></orig><note xml:id="nnbh_5q3_cmb">Lat. nach Francesco Petrarca (1304–1374): Epistolarum familiarum Libri V, 15: Zum Marsfeld werden wir, so wir geboren sind, alle gerufen.</note></seg>!</p>
+<p>Alles Glück und jene edle Freude Ihnen allen wünschend, mein teurer Herr, bitte ich Sie mir wolwollend zu bleiben wie immer.</p>
+                <closer>
+<salute rendition="#c">Mit herzlicher Verehrung</salute>
+<signed rendition="#right">Fd. <hi rendition="#aq">Gregorovius</hi>.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

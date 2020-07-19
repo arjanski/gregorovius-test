@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000342">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an den Verlag F. A. Brockhaus in Leipzig. Berg, 16. September 1871</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Sächsisches Staatsarchiv Leipzig</repository><collection>Bestand 21083</collection><idno>Archivalnummer 224 (107)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ¼ S. – 2v alR, Blatt um 90° gedreht, Eingangs- und Beantwortungsvermerk: 1871. / <hi rendition="#aq"><hi rendition="#aq">Berg</hi></hi>, 16./17. <hi rendition="#aq"><hi rendition="#aq">September</hi></hi> / <hi rendition="#aq"><hi rendition="#aq">Gregorovius</hi></hi>. / B. 5/X </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 55, Mappe 333 (nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Nach Sicht der übersandten Satzproben hält er die deutsche Schrift für die illustrierte Ausgabe seines „Euphorion“ (1872) für geeigneter. Er bittet um Nachbesserung einiger von Theodor Grosse angefertigter Zeichnungen und um Einfügung von Titelvignetten vor jedem Gesang. Wegen der Illustration des Deckblattes kann er Karl oder Ferdinand von Piloty fragen, wenn er am 5. Oktober 1871 zurück in München ist. Dorthin bittet er die Druckfahnen seines „Euphorion“ zu senden. Er möchte zudem ein Exemplar der Erstausgabe seiner „Grabmäler der Römischen Päpste“ (1857) zur Textrevision für die zweite Auflage (1881), die er noch in Deutschland erledigen will. Nach Leipzig kann er in diesem Jahr nicht kommen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000634">Berg</placeName><date when="1871-09-16" cert="high"/>
+</correspAction>
+                <correspAction type="received"><orgName key="G000480">F.A. Brockhaus Verlag</orgName>
+<placeName key="G000712">Leipzig</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">31. August 1871</ref>
+<ref type="prev">9. September 1871</ref>
+<ref type="next">5. Oktober 1871</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Berg bei Stuttgart <lb/>16. Sept<ex>ember</ex> 71.</dateline>
+                    <salute rendition="#c">Geehrte Herren,</salute>
+                </opener>
+<p>Ihre Zeilen vom 31. <hi rendition="#aq">Aug<ex>ust</ex></hi> u<ex>nd</ex> 9. Sept<ex>ember</ex> habe ich richtig erhalten.</p>
+<p>Bezüglich der für die <bibl sameAs="G003580">illustrirte Ausgabe des <?oxy_comment_start author="Angela Steinsiek" timestamp="20190412T182110+0200" comment="Die Quartausgabe seines 1858 zuerst erschienen „Euphorion“ wurde als „Illustrierte Prachtausgabe mit Original-Compositionen von Theodor Grosse“ 1872 ausgegeben."?>Gedichts<?oxy_comment_end?></bibl> anzuwendenden Schrift erscheint auch mir der latein<ex>ische</ex> Charakter, wenigstens<choice><sic>,</sic><corr type="deleted"/></choice> dem Auslande<choice><sic>,</sic><corr type="deleted"/></choice> gegenüber praktisch. Die beigelegte Probe aber fällt zu Gunsten des deutschen Druckes aus. Vielleicht finden Sie lateinische Charaktere, die weniger dünn u<ex>nd</ex> schwach aussehen.</p>
+<p>Die Ausführung Ihres Schnittes dürfte wol Anerkennung bei Fachverständigen finden, u<ex>nd</ex> mehr als die <?oxy_comment_start author="Angela Steinsiek" timestamp="20190412T182128+0200" comment="Die Illustrationen steuerte der Dresdener Maler Theodor Grosse (1829–1891) bei, der für die 1832–1834 im Stil der Neorenaissance durch den Leipziger Verleger Hermann Härtel (1803–1875) erbaute Villa 1855 mehrere Fresken ausführte, die an pompejanische Wanddekorationen erinnern."?>Composition<?oxy_comment_end?>. Sie bemerken auf dem mir zugeschickten Probeblatt das häßlich verkürzte Antlitz der sitzenden Figur, welche Euphorions Arm erfaßt. Könnte dies nicht noch geändert werden?</p>
+<p>Desgleichen ist auf dem ersten Blatte, vorstellend die Scene im Atelier Euphorions, unter der <pb n="1v"/>Composition der Sturz des Ikarus dargestellt, in einer physisch-materiellen Unförmlichkeit. Dies ist ganz unerträglich; kein alter Künstler würde dies gethan haben. Ich wünsche sehr, daß dies entfernt würde, u<ex>nd</ex> an Stelle dieser Figur ein Symbol gesetzt würde, wozu ich vorschlage, entweder eine tragische Maske, oder ein Medusenhaupt.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190412T182157+0200" comment="Dem Wunsch von Gregorovius wurde entsprochen, unter der ersten Tafel ist in einem Fries ein Medusenhaupt."?> <?oxy_comment_end?>Es ließe sich dies vielleicht noch machen.</p>
+<p>Ich weiß nicht, ob an <hi rendition="#u" hand="#addressee">Initialen</hi> am Anfang jedes Gesanges gedacht worden ist, welche doch einen schönen u<ex>nd</ex> leicht zu schaffenden Schmuck geben würden.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190412T182215+0200" comment="Dem Wunsch von Gregorovius wurde entsprochen."?> <?oxy_comment_end?>Auch würde es keine Mühe kosten, die jedem Gesange entsprechende <hi rendition="#u" hand="#addressee">Lampe</hi> abzubilden u<ex>nd</ex> ihm <?oxy_comment_start author="Angela Steinsiek" timestamp="20190412T182236+0200" comment="Dem Wunsch von Gregorovius wurde entsprochen: Jeder Gesang beginnt mit einer entsprechenden Vignette."?>vorauf<?oxy_comment_end?>, oder an dessen Ende aufzudrücken.</p>
+<p>Wegen der Zeichnung des <hi rendition="#u" hand="#addressee">Deckblattes</hi> werden Sie gesorgt haben; wenn nicht so will ich deshalb <persName key="G001495"><hi rendition="#aq">Piloty</hi></persName> in <placeName key="G000734"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190412T182254+0200" comment="Vermutlich der Münchener Maler und Illustrator Ferdinand von Piloty (1828–1895) oder vielleicht auch sein mit Gregorovius befreundeter, berühmter Bruder, der Historienmaler Karl von Piloty (1826–1886), seit 1856 Professor an der Akademie der Bildenden Künste in München (siehe auch dem Brief von Gregorovius an Piloty, 14.5.1861)."?>München<?oxy_comment_end?></placeName> um Rat fragen, wenn es Ihnen Recht ist. Ich verlaße morgen <pb n="2r"/>Berg, um nach dem <placeName key="G000854">Main</placeName> zu gehen. Um den 5. Oct<ex>ober</ex> bin ich wieder in München, wo ich Ihre Mitteilungen erwarte, u<ex>nd</ex> die Correctur ohne Unterbrechung besorgen kann. Meine Adresse ist dort Glückstraße 1<hi rendition="#sup">B.</hi> bei <persName key="G001479">Herrn <hi rendition="#aq">Pendele</hi></persName>.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190412T182307+0200" comment="Bei dem Säcklermeister (Lederhosenmacher) Max Pendele."?> <?oxy_comment_end?></p>
+<p>Ich wünsche auch das Geschäftliche wegen dieser illustrirten Ausgabe Euphorions erledigt zu sehen, u<ex>nd</ex> bitte mir daher Ihre Ansicht in Bezug auf die Zahl der abzudruckenden Exemplare u<ex>nd</ex> das Honorar mitzuteilen. </p>
+<p>Ferner ersuche ich Sie um ein Revisions-Exemplar der <bibl sameAs="G003430">Grabmäler der Päpste</bibl>, welche ich für jeden Fall für eine <bibl sameAs="G003431">neue Ausgabe</bibl> berichtigen <?oxy_comment_start author="Angela Steinsiek" timestamp="20190412T182324+0200" comment="Eine „Zweite neu umgearbeitete Auflage“ erschien nach der Erstauflage seiner „Grabmäler der Römischen Päpste“ von 1857 unter dem Titel „Grabdenkmäler der Päpste. Marksteine der Geschichte des Papsttums“ erst 1881."?>möchte<?oxy_comment_end?>, so lange ich in Deutschland bin. Nach der Michaeli-Messe dürfte sich, so denke ich, mindestens doch der Absatz von 250 Ex<ex>emplaren</ex> herausstellen. In <placeName key="G000763">Rom</placeName> ging das Buch zuletzt sehr stark, <?oxy_comment_start author="Angela Steinsiek" timestamp="20200504T183811+0200" comment="Hermann Loescher (1831–1892), der seit 1870 Buchhandlung in Rom betrieb."?>wie mir <persName key="G001380">Löscher</persName> versicherte<?oxy_comment_end?>.</p>
+<p>Leider erreichte ich diesmal nicht Leipzig, u<ex>nd</ex> komme so um die Freude <pb n="2v"/>des persönlichen Verkehrs mit Ihnen.</p>
+                <closer>
+                    <salute rendition="#right">Ihr hochachtungsvoll ergebener</salute>
+                    <signed rendition="#right"><hi rendition="#aq">FGregorovius</hi></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

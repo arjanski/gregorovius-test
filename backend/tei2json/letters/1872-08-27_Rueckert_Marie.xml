@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000348">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Marie Rückert in Coburg-Neuses. Traunstein, 27. August 1872</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Stadtarchiv Schweinfurt</repository><collection>Sammlung Rückert</collection><idno>A I 122 – 352</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¼ S. – 1r + 2r aoR in einer Vignette geprägt: BATH </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er ist seit der letztjährigen Rückreise nach Rom im Winterfrost krank und jetzt seit Wochen zu einem Kuraufenthalt in Traunstein, wo auch Karl Lindemann-Frommel ist und ihn Ludwig Friedländer aus Tegernsee kommend besucht hat. Den achten und letzten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1872) hat er abgeschlossen. In Kürze wird er nach München und Stuttgart abreisen. Er hat bedauert, ihre Freunde und Verwandten nicht in Rom getroffen zu haben.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000888">Traunstein</placeName><date when="1872-08-27" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001561">Rückert, Marie (1835-1920)</persName>
+<placeName key="G000661">Coburg-Neuses</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right"><hi rendition="#aq">Traunstein</hi> in Bayern <lb/>27. <hi rendition="#aq">Aug<ex>ust</ex> </hi>1872.</dateline>
+<salute rendition="#c">Verehrtes Fräulein,</salute>
+</opener>
+<p>ich bin Ihnen aufrichtig dafür dankbar, daß Sie in Güte wiederholt sich meiner erinnern, u<ex>nd</ex> eile von hier aus Ihnen dafür zu danken.</p>
+<p>In Folge meiner Rückreise im harten Winterfrost des vergangenen Jahres hatte ich mir eine Krankheit zugezogen, deren Residuum ich jetzt in den Salzbädern dieses Orts zu überwinden suche. Es ist ein reizendes Fleckchen Gebirgsrand, zwischen Wald, Wasser u<ex>nd</ex> Bergen gelegen, von einem einfachen u<ex>nd</ex> freundlichen Volk bewohnt, u<ex>nd</ex> durch Zudrang von Gästen nicht beunruhigt. Ich habe hier stille Wochen verlebt, für welche ich recht dankbar bin, wenn auch meine stark erschütterte Gesundheit mir einige Sorge machen könnte: dies thut sie aber nicht, <pb n="1v"/>da ich nicht ängstlich an dem Schellenspiel des Daseins hänge, u<ex>nd</ex> außerdem <seg type="comment"><orig>meine kleine Lebensaufgabe recht glücklich vollendet habe</orig><note xml:id="nz1x_ycn_rlb">Der achte und letzte Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1872) war abgeschlossen und im Druck.</note></seg>. Es fehlt hier nicht an gutem Umgange, da doch manche treffliche, auch wolgeartete Badegäste hier sind; auch habe ich die Freude, <seg type="comment"><orig>intime <persName key="G001375"><persName key="G001143">Freunde</persName></persName> aus <placeName key="G000763">Rom</placeName> bei mir zu haben</orig><note xml:id="nllz_3dn_rlb"><p>Der Maler Karl Lindemann-Frommel (1819–1891) war am 13. oder 14. August 1872 nach Traunstein gekommen; zudem hatte ihn Ludwig Friedländer (1824–1809) aus Tegernsee kommend in Traunstein besucht (siehe die Briefe von Gregorovius an Ludwig Friedländer, 6. und 8.8.1872 in: Ferdinand Gregorovius: Briefe nach Königsberg. Hrsg. von Dominik Fugger und Nina Schlüter. München: Beck 2013. S. 104–105).</p></note></seg>. Nun wird aber bald die Stunde des Abzuges schlagen, u<ex>nd</ex> ich werde mit Trauer <seg type="comment"><orig>dies schöne Idyll mit <placeName key="G000734">München</placeName> u<ex>nd</ex> <placeName key="G000879">Stuttgart</placeName> vertauschen</orig><note xml:id="nlxv_ldn_rlb">Gregorovius blieb bis zum 12. September 1872 in Traunstein, wo er sich seit dem 14. August aufhielt (siehe RT, 10.9. und 11.11.1872, S. 325–327).</note></seg>.</p>
+<p>Sie haben es vorgezogen, wie ich annehme, den Sommer <seg type="comment"><orig>auf Ihrem schönen Landsitz</orig><note xml:id="nlgh_ndn_rlb">Marie Rückert wohnte in Coburg-Neuses, auf dem Gut Nattermannshof der Schwiegereltern ihre Vaters Friedrich Rückert (1788–1866), auf dem er seit 1848 gelebt hatte.</note></seg> zuzubringen. Dort wünsche ich Ihnen heitre Tage, hoffend, d<ex>a</ex>ß auch alle diejenigen, die Ihnen teuer sind, Ihnen keinen Grund zur Klage geben, sondern daß es ihnen wolergeht.</p>
+<p><pb n="2r"/>Ich habe es aufrichtig bedauert, diese Ihre Freunde u<ex>nd</ex> Nächsten nicht in Rom getroffen zu haben.</p>
+<closer>
+<salute rendition="#c">Alles Gute u<ex>nd</ex> Schöne! <lb/>Ihr ergebener</salute>
+<signed rendition="#right">FGregorovius</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000166">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Hermann von Thile in Berlin. Rom, 16. Februar 1863</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>96/937 (28)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S.</p>
+<p>ein Brief</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 59, Mappe 346 (nach D) und Karton 59, Mappe 346 (Ergänzungen nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 61–63 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Von Thiles Wiedereintritt in den Staatsdienst hat ihm Alfred von Reumont berichtet. Thile billigt hoffentlich seine Gründe, das Angebot einer Professur in München von König Maximilian II. von Bayern ausgeschlagen zu haben. Seine „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) will er in fünf Jahren abschließen. Der Tod des Senior-Verlegers Johann Georg Freiherr Cotta von Cottendorf bedeutet auch einen persönlichen Verlust für ihn. Der neue preußische Gesandte Adolf Freiherr von Willisen ist in Rom eingetroffen. Dass Alfred von Reumont diesen Posten nicht bekam, ermöglicht diesem eine unabhängige Existenz. Clemens August Alertz wird nicht so bald aus Genf zurückkehren. Anton Marstaller trifft er häufig bei Lindemann-Frommels, zusammen mit den Töchtern von Peter Andreas Munch. Mit Conte Lucas Gozze pflegt er weiter Umgang. Die plötzliche Geisteserkrankung des Gesandten Karl Freiherr von Canitz und Dallwitz erschüttert ihn. Ebenso das Schicksal der Polen nach dem Januaraufstand. Beiliegenden Brief bittet er zu besorgen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">Alfred von Reumont told him about Thile’s re-entry into the civil service. Hopefully, Thile approves of his reasons for declining the offer of a professorship in Munich by King Maximilian II. of Bavaria. He plans to complete his „Geschichte der Stadt Rom im Mittelalter“ (1859-1872) in five years. The death of the senior publisher Johann Georg Freiherr Cotta von Cottendorf is a personal loss for him. The new Prussian envoy Adolf Freiherr von Willisen has arrived in Rome. The fact that Alfred von Reumont did not get this post ensures that he can live independently. Clemens August Alertz will not be returning from Geneva soon. He often meets Anton Marstaller at Lindemann-Frommels’, together with the daughters of Peter Andreas Munch. He is still in contact with Conte Lucas Gozze. The sudden mental illness of envoy Karl Freiherr von Canitz und Dallwitz is shocking to him. The same applies to the fate of the Poles after the January Uprising. He asks him to forward the enclosed letter. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1863-02-16" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001644">Thile, Hermann von (1812–1889)</persName>
+<placeName key="G000636">Berlin</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi>, 16. <hi rendition="#aq">Februar</hi> 63.</dateline>
+                    <salute rendition="#c">Mein hochverehrter Herr,</salute>
+                </opener>
+<p>oftmals hat es mich getrieben, Ihnen in dem Neuen Jahr zu schreiben, u<ex>nd</ex> zu der <seg type="comment"><orig><foreign xml:lang="ita">vita nuova</foreign> aufrichtig Glück zu wünschen, welche sie mit ihm selbst angetreten haben</orig><note xml:id="nx3n_q23_cmb">Thile war als Unterstaatssekretär (bis 1872) im preußischen Ministerium der auswärtigen Angelegenheiten, unter dem neuen preußischen Ministerpräsidenten Otto von Bismarck (1815–1898), in den Staatsdienst zurückgekehrt.</note></seg>; wenn ich mir aber die Fülle Ihrer Geschäfte vorstellte, so stand ich immer wieder von meinem Vorhaben ab. Nun aber, da Sie in alter Freundlichkeit mich zum Schreiben ermuntern, wie mir das <persName key="G001545"><seg type="comment"><orig>Raymundus a Peñafort</orig><note xml:id="nwsg_r23_cmb">Spitzname für den vielschreibenden Alfred von Reumont (1808–1887).</note></seg></persName> eben mitteilte, thue ich es auch mit tausend Freuden, u<ex>nd</ex> wünsche Ihnen aus aufrichtigem Herzen zu einer hohen u<ex>nd</ex> großen Thätigkeit Glück, welche Ihnen zur inneren Befriedigung, u<ex>nd</ex> dem <placeName key="G000664">Vaterlande</placeName> zur Förderung, unter so schwierigen Umständen, gereichen möge. Gerne würde ich, in der demütigen Gestalt eines Clienten aus Rom, stundenlang in Ihrem von Schwärmen der Menschheit erfüllten Vorzimmer warten, wenn ich dadurch die Freude haben könnte, Ihnen all dies persönlich zu wünschen.</p>
+<p>Der römische Winter ist unterdeß mit seiner bekannten kalendarischen Folgerichtigkeit, u<ex>nd</ex> seiner <persName key="G001297">horazischen</persName> <hi rendition="#aq"><seg type="comment"><orig>Fugacität</orig><note xml:id="nljb_s23_cmb">Flüchtigkeit.</note></seg></hi> dahingegangen; <pb n="1v"/>er ward verschönert durch eine milde Geselligkeit mit reichem Anteil menschlicher Gefühle, und veredelt durch vorwärtsschreitende Arbeit. In meiner <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003477 G003485">Geschichte der Stadt</bibl>, diesem Ocean, den ein größerer <hi rendition="#aq"><seg type="comment"><orig>conquistador</orig><note xml:id="nrgv_s23_cmb">Portugiesisch: Eroberer.</note></seg></hi> hätte beschiffen sollen, als ich es bin, kam ich bereits in den guten Breitengrad, wo man das <placeName key="G067705"><seg type="comment"><orig><foreign xml:lang="spa">Cap de buena Esperanza</foreign></orig><note xml:id="napr_t23_cmb">Span.: Kap der guten Hoffnung – die zwanzig Kilometer ins Meer reichende Felsenzunge nahe der Südspitze Afrikas wurde im April 1488 von dem portugiesischen Seefahrer und Entdecker Bartolomeu Diaz (um 1450–1500) erstmals vermessen. Es war die Entdeckung des Seewegs nach Indien, der jedoch wegen seiner Klippen gefürchtet war; zahllose Schiffe havarierten. Mit der Eröffnung des Sueskanals im November 1869 verlor die Route um die Südspitze Afrikas an Bedeutung.</note></seg></placeName> von weitem erblickt, aber in die Häfen <placeName key="G067601">Indiens</placeName> werde ich deshalb wol nicht einlaufen. Ich hoffe, daß Sie, mein verehrter Herr, die Gründe billigen, die mich stets abhalten werden, <seg type="comment"><orig>von <placeName key="G000734">Münchner </placeName>Privatgnaden zu leben</orig><note xml:id="nrfy_523_cmb">Adolf Friedrich Graf von Schack (1815–1894) hatte Gregorovius im September 1862 das Angebot einer Professur in München durch König Maximilian II. von Bayern (1811–1864) überbracht (siehe den Brief von Gregorovius an Schack vom <ref target="G000161">11.9.1862</ref> und den von Gregorovius an Thile vom <ref target="G000157">15.11.1862</ref>).</note></seg>, u<ex>nd</ex> daß Sie mir selbst, nach <seg type="comment"><orig>Vollendung meiner Geschichte, die noch etwa 5 Jahre in Anspruch nehmen wird</orig><note xml:id="nypw_v23_cmb">Gregorovius arbeitete gerade am fünften Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1865), der achte und letzte Band erschien 1872.</note></seg>, es anwünschen werden, noch irgend wie in der Stille jener leichtergeschürzten Muse zu leben, die mir manchmal, in Nächten, vorwurfsvoll an dem westlichen Horizont meines Lebens erscheint.</p>
+<p>Ich habe durch den <seg type="comment"><orig>Tod des <persName key="G001055">Baron Cotta</persName></orig><note xml:id="nojx_w23_cmb">Der Senior-Verleger Johann Georg Freiherr Cotta von Cottendorf (*1796) war am 1. Februar 1863 verstorben.</note></seg> einen Verlust erfahren, der für mich das Ansehen einer Calamität hat; <seg type="comment"><orig>seit 10 Jahren stand ich mit ihm in Verkehr; er war mir persönlich wolwollend, u<ex>nd</ex> hatte eine aufrichtige Freude an meinem Werk</orig><note xml:id="nnbw_x23_cmb">In seinem letzten Brief an Gregorovius hatte Cotta am 5. Januar 1863 geschrieben: „Wegen Ihres Werkes habe ich nicht bang. Ich bin stolz auf seinen Verlag und wird sich gewiß Bahn brechen, wenn auch etwas langsamer wegen seiner wie natürlich langsamen Erscheinung.“ (BSB München, NL Gregorovius, Gregoroviusiana 21). Siehe auch den Brief von Gregorovius an Cotta vom 31.12.1862 (in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 252–253), RT, 22.2.1863, S. 158 sowie den Kondolenzbrief von Gregorovius an den Geschäftführer Louis Roth (1802–1875) vom <ref target="G000153">21.2.1863</ref>.</note></seg>; in ihm lebte noch die Tradition <pb n="2r"/>der großen Literatur-Epoche, deren kleine Epigonen wir sind – u<ex>nd</ex>, kurz u<ex>nd</ex> gut, hier ist auch in meinen Beziehungen eine Lücke entstanden, die mir sehr fühlbar bleiben wird.</p>
+<p>Ich habe Ihnen aus Rom nicht viel zu melden. Der <seg type="comment"><orig>neue <persName key="G001706">Minister Preußen’s</persName></orig><note xml:id="ndjj_z23_cmb">Der preußische General Friedrich Adolf Freiherr von Willisen (1798–1864) war, nachdem Preußen am 23. Juli 1862 das Königreich Italien anerkannt hatte, erster Gesandter der preußischen Staatsregierung am italienischen Königshof von Vittorio Emanuele II. (1820–1878) geworden (siehe RT, 22.2.1863, S. 158).</note></seg> ist angekommen, ein, wie es scheint, human gesinnter Mann, von erleuchtetem Geist. <seg type="comment"><orig>Herr v<ex>on</ex> <hi rendition="#aq">Reumont</hi> hatte diese Stelle erhofft als den Gipfel seiner Wünsche</orig><note xml:id="nmf2_1f3_cmb">Alfred von Reumont, ehemaliger Ministerresident am Hof des Großherzogs Leopold II. von Toskana (1797–1870), war zum 1. Januar 1861 in den einstweiligen Ruhestand versetzt worden, nachdem die Toskana Teil des neuen italienischen Königreichs geworden war. </note></seg>; in manchem Betracht wäre es für die hiesigen Deutschen von Förderung gewesen, da er Wissenschaft u<ex>nd</ex> Kunst liebt, u<ex>nd</ex> auch sonst wolwollenden Sinnes ist. Da er aber diesen Posten natürlich nicht erhalten konnte, mag er sich mit einer schönen u<ex>nd</ex> unabhängigen Existenz begnügen, welche am Ende doch das Ziel der Weisen bleibt. <seg type="comment"><orig><hi rendition="#aq"><persName key="G000913">Alertz</persName></hi> kündigte mir im Januar seine Rückkehr nach Rom an, u<ex>nd</ex> daß seine Koffer gepackt neben ihm (in <placeName key="G000676">Genf</placeName>) stehn, wo er nun den Wind abwarte, loszusegeln. Aber jetzt ist wieder seine Spur verloren, und schwerlich kehrt er noch zum Frühjahr zurück</orig><note xml:id="nckj_bf3_cmb">In seinem Brief an Gregorovius vom 4. Januar 1863 schrieb Clemens August Alertz: „Jetzt aber ist mein Koffer bereits gepackt und ich stehe im Begriff von hier mit der Eisenbahn nach Marseille zu gehen, wo ich aber ein günstiges Wetter abwarten werde, bevor ich mich zum Einschiffen entschließen werde.“ (BSB München, NL Gregorovius, Gregoroviusiana 21) Wenige Tage später traf Alertz in Rom ein (siehe RT, 22.2.1863, S. 158).</note></seg>. <persName key="G001405"><seg type="comment"><orig>Marstaller</orig><note xml:id="nswd_cf3_cmb">Der in Rom ansässige Bankier und preußische Konsul Anton Marstaller (1815–1865).</note></seg></persName> sehe ich oft im <persName key="G001374 G001375 G001376"><seg type="comment"><orig>Hause Lindemann</orig><note xml:id="nc2z_cf3_cmb">Der Maler Karl Lindemann-Frommel und seine Frau Auguste.</note></seg></persName>, wo uns <persName key="ed_alx_mjn_nkb ed_jmw_kjn_nkb ed_ij5_2jn_nkb ed_mvv_3jn_nkb"><seg type="comment"><orig>norwegische junge Damen</orig><note xml:id="ngfx_df3_cmb">Die Töchter des 1858 nach Rom gekommenen norwegischen Historikers Peter Andreas Munch (1810–1863). Als Munch 1861 als Reichsarchivar des Reichsarchivs nach Christiania zurückgekehrt war, blieb seine Familie in Rom zurück. Mit Natalie Charlotte Linaae (1812–1900) hatte er die Kinder: Edvard Munch (1837–1882), Karen Juliane (Julie) Munch (1843–1928), Sophie Munch (1840–1918), Johanne Nathalie Munch (1836–1904) und Laura Larsen-Naur (1835–1913).</note></seg></persName> durch Gesang erheitern, u<ex>nd</ex> den geistreichen <persName key="G067672"><seg type="comment"><orig>Grafen <hi rendition="#aq">Gotze</hi></orig><note xml:id="nhjs_2f3_cmb">Der österreichische Diplomat und Sekretär beim Kapitel des Malteserordens in Rom, Lucas Conte Gozze (1803–1871), war ein enger Freund von Gregorovius (vgl. den Brief von Gregorovius an Hermann von Thile vom 21.1.1872 in: Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 89–90 und Kurd von Schlözer: Römische Briefe, Stuttgart-Berlin 1913 S. 11–12).</note></seg></persName> treffe ich noch Morgens auf dem <hi rendition="#aq"><placeName key="G000805">Pincio</placeName></hi>.</p>
+<p>Wie sehr Sie <seg type="comment"><orig>das erschreckende <pb n="2v"/>Schicksal des <persName key="G004720">Herrn v<ex>on</ex> <hi rendition="#aq">Canitz</hi></persName></orig><note xml:id="nmnx_ff3_cmb">Karl Friedrich Ernst Freiherr von Canitz und Dallwitz (1812–1894), 1859–1862 preußischer außerordentlicher Gesandter am Heiligen Stuhl, war Ende November 1862 einer Geisteskrankheit verfallen, erholte sich aber wieder (siehe RT, 20.11.1862, S. 155–156 und 28.4.1868, S. 244). Seinen Posten übernahm der bisherige preußische Bundestagsgesandte von Usedom Guido Graf von Usdom (1805–1884).</note></seg> <del rendition="#s">Sie</del> erschüttert haben mag, kann ich mir vorstellen. Sein Sträuben, selbst im Wahnsinn, seine Würde u<ex>nd</ex> Freiheit aufzugeben, hatte etwas tief Ergreifendes. Und was überhaupt ist alle Größe u<ex>nd</ex> Höhe der Verhältniße in der Welt, da wir Menschen auf einer so unsagbaren Grenze zwischen dem Glück und dem Verderben stehen. Das Gute siege immerdar!</p>
+<p>Ich schließe den zu langen Brief, mein hochverehrter Herr, <seg type="comment"><orig><foreign xml:lang="spa">por no causar a Vuestra Merced enojo ŷ pesadumbre</foreign></orig><note xml:id="nv4v_gf3_cmb">Span.: Um Eurer Barmherzigkeit keine Ursache für Wut und Trauer zu geben – frei nach Miguel de Cervantes Saavedra „Don Quijote de la Mancha“.</note></seg>, mit den herzlichsten Wünschen für Ihr aller Wol. Möchten auch Sie, verehrte <persName key="G001645">Frau v<ex>on</ex> Thile</persName>, meiner noch wolwollend gedenken; oft sehe ich das schöne <seg type="comment"><orig>Bildniß von <persName key="G067632">Trudely</persName></orig><note xml:id="np3h_3f3_cmb">Von Gertrud Küng von Gais, der Tochter des Kurarztes Johannes Küng von Gais (1800–1885) aus Heiden (siehe den Brief von <ref target="G000159">Gregorovius an Hermann von Thile, 4.9.1862</ref>).</note></seg> an, u<ex>nd</ex> denke dann, wie doch so schnell alles im Leben Erlebte <add place="superlinear">zum</add> Bild der Erinnerung wird. Ich grüße <persName key="G001643">Hans</persName> bestens, u<ex>nd</ex> empfehle mich auf das Wärmste <persName key="G001189">Herrn</persName> u<ex>nd</ex> <persName key="G001191">Frau von <hi rendition="#aq">Gräfe</hi></persName>.</p>
+                <closer>
+<salute rendition="#c">Mit Verehrung und Ergebenheit <lb/>Ihr </salute>
+                    <signed rendition="#right"><hi rendition="#aq">FGregorovius</hi>.</signed></closer>
+<note type="postscript" xml:id="n1" next="#n2">Ich habe die Kühnheit um die Besorgung des anliegenden Briefes nach einer <foreign xml:lang="ita">bocca di posta</foreign> durch Ihren Diener zu bitten.</note>
+<note type="postscript" xml:id="n2" prev="#n1" place="left" rendition="#v"><seg type="comment"><orig>Das arme, unselige <placeName key="G000704">Polen</placeName></orig><note xml:id="nzg2_lf3_cmb">Im Mai 1862 hatte Zar Alexander II. (1818–1881) seinen als liberal geltenden Bruder Großfürst Konstantin (1827–1892) zum Vizekönig ernannt und die Regierung Alexander Wielopolski (1803–1877) übertragen, der zur Jahreswende eine langjährige Wehrpflicht in der Armee des Zaren verfügt hatte, um die polnisch-nationale Freiheitsbewegung der jungen Aktivisten zu unterdrücken. Das im Warschauer Untergrund agierende Zentralkomitee der „Roten“ hate am 22. Januar 1863 den Aufstand ausgerufen, der blutig niedergeschlagen wurde und in dessen Folge 400 Aufständische hingerichtet wurden; viele Tausend Polen wurden zur Zwangsarbeit in Sibirien verurteilt oder in andere Teile Russlands deportiert.</note></seg>! </note>
+            </div>
+        </body>
+    </text>
+</TEI>

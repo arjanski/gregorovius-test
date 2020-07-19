@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000311">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Aleardo Aleardi in Florenz. Rom, 14. März 1867</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Verona, Biblioteca Civica</repository><collection>Carteggio Aleardi, busta 660</collection><idno>no. 60</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ⅓ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Von Giovanni Gozzadini und Paolo Perez hat er erfahren, dass sich Aleardi beim Kultusministerium für die Nutzung der Bücher aus der historischen Reihe des Verlags Antonelli im Schulunterricht einsetzt. Die Idee zur finaziellen Rettung Verlags stammt von Rinaldo Fulin. Über seine Arbeit an der „Geschichte der Stadt Rom im Mittelalter“ und die von Renato Manzato besorgte italienische Übersetzung. </p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1867-03-14" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G000912">Aleardi, Aleardo (1812–1878)</persName>
+<placeName key="G000671">Florenz</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">11. März 1867 (BSB München, NL Gregorovius, Gregoroviusiana 21)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">Roma, <placeName key="ediarum_lmm_slx_qlb">Via Gregoriana</placeName> N<ex>umero</ex> 13. <lb/>Marzo 14. 1867.</dateline>
+<salute rendition="#c">Illustre Signor <seg type="comment"><orig>Conte Aleardi</orig><note xml:id="nn5f_qwl_ylb">Aleardo Aleardi (1812–1878), geboren als Gaetano Maria Aleardi, war ein Dichter der Romantik und ein Politiker. Er studierte in Padua Jura und begab sich anschließend nach Verona, wo er sich der Dichtung und Kunstkritik zuwandte. Depressiv sowie wegen seiner anti-österreichischen Haltung in Mantua in Haft genommen (1852), gelang ihm erst ab 1856 eine beachtlichere Lyrik. 1859 geriet er erneut in Haft und wurde nach Josephstadt in Böhmen gebracht. Von dort ging er nach Brescia und 1864 nach Florenz, um den Lehrstuhl für Ästhetik an der Akademie der schönen Künste zu übernehmen. 1873 wurde er zum Senator ernannt. Aleardi war Zeit seines Lebens eng mit den Gozzadinis befreundet. Über die gemeinsamen Freunde lässt sich auch die Beziehung zwischen Aleardi und Gregorovius erklären. Bis auf Aleardis Schreiben vom 11. März 1867, auf welchen Gregorovius mit vorliegendem Schreiben antwortete, ist keine weitere Korrespondenz zwischen den beiden erhalten. </note></seg>,</salute>
+</opener>
+<p>egli mi fù una vera gioja, di ricevere <seg type="comment"><orig>la sua lettera</orig><note xml:id="nepy_rwl_ylb">Aleardis Brief an Gregorovius vom 11. März 1867 ist erhalten (BSB München, NL Gregorovius, Gregoroviusiana 21). In dem Schreiben berichtet Aleardi von seiner Anfrage beim Kultusministerium um Unterstützung bei der Fortführung der italienischen Ausgabe von Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ durch eine Einführung des Buches in den italienischen Gymnasien: „Egli [der Minister] mi rispose, che quanto ad ajutar la pubblicazione Italiana della Sua celebre istoria cercherebbe mezzo; ma avventurarsi \a/üdZ proteggere una collezione di 300 e più volumi, non si sentiva in grado.“ Im Folgenden bittet Aleardi Gregorovius um Zusendung des Verlagsprogramms des venezianischen Verlegers Giuseppe Antonelli (1793–1861), mit dem er noch einmal beim Minister vorstellig werden möchte. Auch Pasquale Villari (1827–1917) unterstützte das Vorhaben, das allerdings keinen Erfolg haben sollte (siehe den Brief von Gregorovius an Pasquale Villari, 25.1.1867; Anna Maria Voci. Un anello ideale fra Germania e Italia. Corrispondenze di Pasquale Villari con storici tedeschi, Rom 2006, S. 155–156).</note></seg>, e con essa il desiderato bene, di puoter riverir e salutar di voce personale l’insigne poeta, il quale ora sul Parnasso Italiano tiene <seg type="comment"><orig>la più alta palma</orig><note xml:id="nn3k_twl_ylb">Aleardi war zu dieser Zeit ein etablierter Dichter, dessen Vorlesungen in Florenz unter Begeisterungsstürmen gehört wurden.</note></seg>. Di questo bene sono sommamente riconoscente al nobile <persName key="G001187">Conte Gozzadini</persName>, e a <seg type="comment"><orig><persName key="G001483">Paolo Perez</persName></orig><note xml:id="nblg_zxl_ylb">Der Dante-Forscher Graf Paolo Perez (1822–1879), ein Cousin der Gräfin Gozzadini, hatte Gregorovius in die römischen Kreise eingeführt. Er war 1856, trotz der Bedenken aus seinem Umfeld, in den Orden der Rosminianer in Stresa eingetreten. Ihm hatte Gregorovius sein 1858 erschienenes Gedicht „Euphorion“ (Leipzig: Brockhaus) gewidmet. Gregorovius besuchte ihn regelmäßig in Stresa (siehe RT 17.7.1867, S. 227; RT 20.7.1869, S. 259).</note></seg>, con cui passai a Roma due anni di indelebile memoria, prima che questo ammirabile uomo chinoesse se stesso e i suoi rari talenti dentro di una tomba, qual è il convento suo di <placeName key="G000797">Stresa</placeName>.</p>
+<p>Vedo che Lei abbia notizia dei miei mediocri lavori, e che per naturale generosità, virtù principale nelle anime dirette dalle Muse ad alto volo, Lei mi sia largo di maggior lode, di quello ch’io non meriti. In questo però puotrò convenir con Lei, cioè, che quel poco che ho saputo scrivere sia dettato da verace amor dell’<placeName key="G000690">Italia</placeName>, terra gloriosa, cara a tutte le nazioni, più cara alla <placeName key="G000664">nazione mia propria</placeName>. <seg type="comment"><orig>Egli si è oramai da 12. anni, ch’io sto scrivendo<bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003483"> la storia della città di Roma nel medio evo</bibl></orig><note xml:id="nwvg_byl_ylb">Gregorovius war im Oktober 1852 nach Rom gekommen (siehe RT, 4.10.1852, S. 44), Ende 1855 hatte er mit der „Geschichte der Stadt Rom im Mittelalter“ begonnen (siehe RT, S. 58).</note></seg>, storia verso di cui io fui trasportato da <seg type="comment"><orig>un’ispirazione spontanea e per così dire fatale, standomi un dì sul <placeName key="G000785">ponte Cestio</placeName></orig><note xml:id="nyqz_cyl_ylb">Über seinen Entschluss, diese Geschichte zu verfassen, schreibt er im Tagebuch: „Für diese Arbeit bedarf es, so scheint mir, einer höchsten Disposition, ja, so recht eines Auftrags vom Jupiter Capitolinus selbst. Ich faßte den Gedanken dazu, ergriffen vom Anblick der Stadt, wie sich dieselbe von der Inselbrücke S. Bartolomeo darstellt.“ (RT, 3.10.1854, S. 53). Der Ponte Cestio, auch Ponte di San Bartolomeo genannt, wurde 46 oder 44 v. Chr. von Gaius Cestius oder Lucius Cestius errichtet. Die Brücke verbindet die Tiberinsel mit dem Stadtteil Ripa. Zum Topos der Inspiration siehe Angela Steinsiek: Ich lese jetzt wieder Gibbon. Auch ihn [...] begeisterte Rom zu seinem Werke. Ferdinand Gregorovius und Edward Gibbon. In: Edward Gibbon im deutschen Sprachraum. Bausteine einer Rezeptionsgeschichte. Hrsg. von Cord-Friedrich Berghahn und Till Kinzel. Heidelberg 2015. S. 265–276, bes. die S. 266 u. 268. </note></seg>. Di sommo <pb n="1v"/>ardore m’accinsi a quest’impresa ardua; e Le ho da piangere l’insufficienza delle mie deboli forze, almen io ho goduto quella consolazione, che da un’ idea superiore scende nell’anima nostra, e la godo tuttora. Passar la vita con nobili pensieri e con simili dolori, vale già in se stesso la pena di vivere, ed alla fine avvi sempre qualche cima raggiante di luce ideale, dove l’uomo, pacificato e tranquillizzato si possa stare con nella mano <seg type="comment"><orig>un discreto ramicello d’olivà</orig><note xml:id="novr_2yl_ylb">Der Ölzweig ist seit der Antike Symbol des Friedens, auch nach dem Tod. Das Bild des Ölzweiges in der Hand verweist auf Frieden und die Aufnahme ins Paradies. So wurden und werden beispielsweise Heilige mit dem Ölzweig in der Hand dargestellt. </note></seg>, quando il sacro alloro gli vien negato dai superi.</p>
+<p>L’esser la mia storia di Roma nell’età di mezzo la prima che si forse scritta finora – cosa molto singolare, se si mira l’oggetto – fù la causa, per chè certi veneti formando società per lo scuopo di introdurre opere estere di storia nella letteratura Italiana, la riputassero degna di questo onore. <seg type="comment"><orig>Ed io con piacere trasmisi al Cavalier <persName key="G000932">Antonelli</persName> il diritto della ristampa Italiana</orig><note xml:id="nlqz_fyl_ylb">Am 20. Juni 1865 schloss der venezianische Verlag Giuseppe Antonelli mit Renato Manzato (1847–1925) einen Vertrag über die Übersetzung der „Geschichte der Stadt Rom im Mittelalter“ ins Italienische (BSB München, NL Gregorovius, Gregoroviusiana 26). Die ersten beiden Bände erschienen als erster Band der italienischen Ausgabe. Die Übersetzung war aufgrund fehlender Erfahrung des Juristen und Historikers mangelhaft, weshalb Gregorovius die Fortführung untersagte (siehe den Brief von Gregorovius an Franz Rühl vom 29.6.1871; Universitäts- und Landesbibliothek Bonn, NL Franz Rühl; Sign. S 2606 (12)). Briefe aus den 1870er Jahren belegen allerdings, dass Gregorovius seine Meinung über Manzatos Arbeit revidierte (siehe die Briefe von Gregorovius an Pietro Venturi vom <ref target="G067813">5.5.1876</ref> und <ref target="G067891">25.5.1877</ref>).</note></seg>. Dei <bibl corresp="G003462 G003469 G003476 G003485">4. volumi</bibl> usciti finora in Germania, fu tradotto e stampato <bibl sameAs="G004366">il primo</bibl>, il quale insieme col secondo non forma altro che la base del concetto intero. Mi fù scritto da <placeName key="G000894">Venezia</placeName>, che si dubitasse, di puoter proseguire <seg type="comment"><orig>nella 'collezione storica'</orig><note xml:id="nasr_nyl_ylb">Manzatos Übersetzung war in der Reihe „Collezione di opere storiche“ erschienen.</note></seg>, per cause facili da indovinare. Il Sign<supplied cert="high">o</supplied>r <persName key="G001151">Rinaldo Fulin</persName>, Professor al Liceo Reale di S<ex>an</ex> Caterina a Venezia, uomo molto dotto e per amor di lettere sollecito <seg type="comment"><orig>a spinger avanti la collezione dell’Antonelli</orig><note xml:id="nntc_qyl_ylb">Rinaldo Fulin (1824–1884) war Professor für Geschichte am Königlichen Lyzem von Santa Caterina in Venedig. Er gab die Reihe „Collezione di opere storiche“ für Antonelli heraus und setzte sich für die Fortsetzung der Übersetzung der „Geschichte der Stadt Rom im Mittelalter“ ein (siehe den Brief von <ref target="G000438">Gregorovius an Giovanni Gozzadini, 21.4.1868</ref>). </note></seg>, mene diede <pb n="2r"/>avviso solendosi delle cattive condizioni del tempo e <seg type="comment"><orig>dimandando</orig><note xml:id="nzv1_ryl_ylb">Antik für: domandando.</note></seg> se puotessi racommandare l’impresa intera a persone influenti, acciochè <seg type="comment"><orig>il <persName key="G001010">ministro dell’Istruzion publica</persName></orig><note xml:id="nlzf_syl_ylb">Bildungsminister war zu diesem Zeitpunkt Cesare Correnti (1815–1888).</note></seg> la favorisse interessando i licei dell’Italia a prender parte dell’associazione. Sono veramente lieto che <seg type="comment"><orig>il nobile conte Gozzadini abbia accolto bene quello gli scrissi</orig><note xml:id="ncsh_5yl_ylb">Gregorovius hatte in einem früheren Brief seinem Freund, dem Grafen Gozzadini, bereits von den Schwierigkeiten mit dem Verkauf der italienschen Ausgabe der „Geschichte der Stadt Rom im Mittelalter“ und der Idee, den Verkaufsabsatz des Werkes über die Einführung an italienischen Gymnasien zu steigern, berichtet (siehe den Brief von <ref target="G000433">Gregorovius an Giovanni Gozzadini, 24.2.1867</ref>).</note></seg>, e che Lei ora sia generosamente entrato in campo, onde sostener l’impresa veneta in quanto egli sia possibile.</p>
+<p>Se Lei me lo permettesse, vorrei esortar il Sig<ex>nor</ex> Fulin di diriggersi francamente a Lei onde darle la spiegazione di quello che si desideri a Venezia, poichè io stesso non ne sono capace. Per quanto io possa penetrar nei desiderj del signor Fulin o del cavalier Antonelli, il desiderabile si sarebbe questo, di soccorrer l’Antonelli nello spacciarsi di copie, raccommandando le opere ai molti Licei dell’Italia, di modo chè essi si obbligassero a prendere delle poche versioni fatte una copia per Liceo.</p>
+<p>In quanto alla mia opera, io naturalmente e per ragion d’ autore, e per lasciar nelle mani degli amici Italiani qualche ben chè tenne memoria di me, non posso non desiderare che si compisca un giorno la versione di quella storia di Roma, la quale almen<supplied cert="high">o</supplied> per materia e per i tempi che corrono attualmente, forse non sara del tutto priva di qualche giovamento agli studj storici.</p>
+<p>Ora finisco, illustre Conte Aleardi, la <pb n="2v"/>già troppo lunga lettera, facendone appello alla sua buona indulgenza, e avanti tutto ringraziandola di cuore della gentil benevolenza di cui Lei si è mostrato animato verso di me. E cosi io La saluto rispettuosamente, con sincero affetto, e con lieti auguri per l’Italia felicemente rinata.</p>
+<signed rendition="#right">Fd. Gregorovius.</signed>
+</div>
+        </body>
+    </text>
+</TEI>

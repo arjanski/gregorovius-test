@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000402">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Alfred von Reumont an Kardinal Giacomo Antonelli in Rom. Florenz, 28. April 1859</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Rom, Archivio Apostolico</repository><collection>Segreteria di Stato 1859</collection><idno>rubr. 47, fol 30</idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 4°, 1 ¾ S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er bittet um Zugang zur Vatikanischen Bibliothek für Ferdinand Gregorovius. Antonelli soll sich dafür beim ersten Kustoden, Alessandro Asinari di San Marzano, einsetzen.</p>
+                <p xml:lang="en">He asks for access to the Vatican Library for Ferdinand Gregorovius. Antonelli is to ask the first Custodian for it, Alessandro Asinari di San Marzano.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001545">Reumont, Alfred von (1808–1887)</persName>
+<placeName key="G000671">Florenz</placeName><date when="1859-04-28" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G000933">Antonelli, Giacomo (1806–1876)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<salute>Eminenza <seg type="comment"><orig>Reverendissima</orig><note xml:id="nkl1_54t_5lb">Der aus Sonnino, Region Latium, stammende Giacomo Antonelli (1806–1876) wurde 1847 zum Kardinal ernannt und war seit 1848 Kardinalstaatssekretär des Kirchenstaates. Er galt als diplomatisch versiert und guter Finanzier, auch organisierte er in späteren Jahren die Kirchenfinanzen neu.</note></seg></salute>
+</opener>
+                <p>Il <persName key="G001200">Dottore Ferdinando Gregorovius</persName>, mio connazionale e distinto scrittore di cose storiche, <seg type="comment"><orig>mi ha pregato di munirlo di alcune parole le quali potessero servirgli di raccomandazione</orig><note xml:id="nngx_v4t_5lb">Gregorovius gab Reumont schriftlich Rückmeldung zu seinem Gesuch: „[...] seit 2 Tagen bin ich in der Vaticana, wo Monsignor S. Marzano sich mir freundlich bewärte, und wo ich mich gerne erinnere, daß ich nur Ihnen diese Aufnahme zu verdanken habe.“ Siehe den Brief von Gregorovius an Alfred Reumont vom <ref target="G000100">26.5.1859</ref>. </note></seg> <seg type="comment"><orig>presso Vostra Eminenza Reverendissima</orig><note xml:id="nwwj_w4t_5lb">Dem Empfehlungsschreiben von Reumont liegt der Entwurf einer Zusage der Vatikanischen Bibliothek bei: „Raccolte quindi le opportune informazioni ho il piacere di significarle, essersi date a Monsignore Primo Custode della Biblioteca Vaticana le necessarie facoltà perchè il suo raccomandato consegna lo scopo della domanda, ed al qual effetto potrà egli rivolgersi.“; Rom, Archivio Segreto Vaticano, Segreteria di Stato 1859, rubr. 47, fol 32.</note></seg>. <seg type="comment"><orig>Conoscendolo da varj anni</orig><note xml:id="ncf1_x4t_5lb">Den Historiker und Diplomaten Alfred von Reumont (1808–1887), der seit 1851 die preußische Gesandtschaft in Florenz leitete, hatte Gregorovius über den Gesandten am Heiligen Stuhl, Hermann von Thile (1812–1889), kennengelernt. Nach Thiles Abreise aus Rom (siehe dazu den Brief von Gregorovius an Leopold Witte vom 6.8.1858, in: Leopold D. Witte: Vor fünfzig Jahren in Rom. Erinnerungen von Professor D. Leopold Witte. Bielefeld, Leipzig: Velhagen &amp; Klasing 1910. S. 45f.) stellte Reumont für ihn eine wichtige Bezugsperson dar, um Kontakte in Italien zu knüpfen. </note></seg>, e sapendo con quanto ardore e talento egli si dedica agli studj, non ho voluto rifiutarmi alla di lui richiesta, reso coraggioso dalla somma bontà e gentilezza di cui L’ Eminenza Vostra Rev<ex>erendissi</ex>ma mi è stata larga in tanti incontri. Occupato in una <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Storia di Roma</bibl> nei tempi di mezzo, <seg type="comment"><orig>di cui si è già principiata la stampa avendola condotta l’autore sin’ all’ incoronazione di </orig><note xml:id="np1z_z4t_5lb">Der erste Band von Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ erschien 1859. Der zweite Band (1859) setzt mit dem Verfall der antiken Gestalt Italiens und der Stadt Rom nach dem Untergang des gotischen Reiches ein.</note></seg><persName key="G001330"><seg type="comment"><orig>Carlomagn</orig><note xml:id="np1z_z4t_5lb"/></seg>o</persName>, il D<hi rendition="#sup">r</hi> Gregorovius è molto desideroso di essere ammesso a consultare ed <pb n="1v"/>a spogliare varj manoscritti della <orgName key="G000506">Biblioteca Vaticana</orgName>, che gli paiono necessarj onde condurre a compimento il suo Lavoro, Lavoro il quale certamente gli procaccierà fama nel mondo letterario. Ed è perciò che mi permetto di raccomandarlo a Vostra Eminenza Rev<ex>erendissi</ex>ma, pregandoLa di voler degnarsi d’accordargli La Sua protezione presso <seg type="comment"><orig><persName key="G000951">l’Eccell<ex>issi</ex><hi rendition="#sup"><hi rendition="#u" hand="">mo</hi></hi> e Rev<ex>erendissi</ex>mo M<ex>on</ex>s<ex>i</ex>g<ex>no</ex>r<ex>e</ex> Primo Custode</persName> della Vaticana</orig><note xml:id="nqql_kht_wlb">Alessandro Asinari di San Marzano (1795–1876) war seit 1853 erster Kustode der Vatikanischen Bibliothek. Zuvor war er Nuntius in Belgien. </note></seg>, essendo sicuro dell’onoratezza e dell’alto sentire del mio compatriota.</p>
+                <closer> <salute xml:id="s1" next="#s2">PregandoLa di scusare il mio ardire, colgo con piacere quest’incontro per dirmi con alta stima e profondo ossequio</salute> <salute xml:id="s2" prev="#s1" rendition="#c">di Vostra Eminenza Reverendissima</salute> <dateline>Dal<placeName key="G000761">Campidoglio</placeName> <lb/>li 28 Aprile 1859</dateline> <salute xml:id="s3" prev="#s2" rendition="#right">di Vostra Eminenza ReverendissimaUmilissimo dev<ex>otissi</ex>mo Servitore </salute><lb/><signed rendition="#right">A. de Reumomt</signed> </closer>            </div>
+        </body>
+    </text>
+</TEI>

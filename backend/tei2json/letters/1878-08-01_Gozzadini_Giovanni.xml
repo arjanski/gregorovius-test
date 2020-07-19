@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_gbw_1dq_jlb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. München, 1. August 1878</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Adr.: All’Illmo Signore / il $ Conte Giovanni Gozzadini / Senatore del Regno / Bologna </p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell’Archiginnasio</institution><collection>Ms. Gozzadini 442</collection><idno>(30)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Über Gozzadinis Ernennung zum Generaldirektor des Museo civico archeologico di Bologna und zum auswärtigen Mitglied der Historischen Klasse der Königlich Bayerischen Akademie der Wissenschaften sowie über die von dem Organ herausgegebenen wichtigen Schriftenreihen: Die Chroniken der deutschen Städte vom 14. bis ins 16. Jahrhundert (1862–1968); Deutsche Reichstagsakten (seit 1867); Geschichte der Wissenschaften in Deutschland (1864–1913); Allgemeine Deutsche Biographie (1875–1912). Gozzadini soll dem Präsidenten der Akademie, Ignaz von Döllinger, schriftlich danken, da Gregorovius erst Anfang Dezember mit einem Vortrag zum Dreißigjährigen Krieg vor die Klasse treten wird; seine Schrift dazu (Urban VIII. im Widerspruch zu Spanien und dem Kaiser. Eine Episode des dreißigjährigen Kriegs) erschien 1879. Die von königlicher Seite (Maximilian II., Ludwig II.) stets unterstützte Münchner Akademie steht für die historische Forschung in Deutschland. In Berlin arbeitet die „Gesellschaft für ältere deutsche Geschichtskunde“ an der Veröffentlichung der „Monumenta Germaniae Historica“ (seit 1872). Die kommenden Wochen wird er mit seinem in London lebenden Freund Friedrich Althaus verbringen. Er hat einen Brief von Paolo Perez erhalten.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1878-08-01" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni conte (1810-1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">Monaco 1. Agosto 1878.</dateline>
+<salute rendition="#c">Ill<hi rendition="#sup"><ex>ustrissi</ex>mo</hi> signor Conte,</salute>
+</opener>
+<p>mi gode l’animo di sentire, che Ella abbia gradito <seg type="comment"><orig>il conferitole Diploma</orig><note xml:id="nxcx_rsj_1mb">Gozzadini war, wie sein Landsmann Luigi Cremona (1830–1903), Matehmatiker und Politiker, wenige Wochen zuvor von der Historischen Klasse der Königlich Bayerischen Akademie der Wissenschaften zum auswärtigen Mitglied ernannt worden; siehe dazu den Brief von Gregorovius an Giovanni Gozzadini vom 14.7.1878. Gregorovius selbst war diese Ehrung am 25. Juli 1871 zugekommen, korrespondierendes Miglied der Königlich Bayerischen Akademie war er bereits seit dem 25. Juli 1865 (BSB München, NL Gregorovius, Gregoroviusiana 19).</note></seg>. Lo associare il suo venerato nome nel suolo dei socj estranei era cosa, che <orgName key="G000494">all’Accademia</orgName> nostra tornava di vero decore. Mi tenei assai onorato, se potessi rendermi interprete a voce dei suoi gentili ringraziamenti, ma a ciò fare dovrei aspettare il momento della <seg type="comment"><orig>riunione della classe storica</orig><note xml:id="nkf3_5sj_1mb">Am 7. Dezember 1878 sollte Gregorovius in der Akademie einen Vortrag zu seinen Studien zum Dreißigjährigen Krieg halten (vgl. RT, S. 409). Seine Schrift dazu erschien im darauffolgenden Jahr: Urban VIII. im Widerspruch zu Spanien und dem Kaiser. Eine Episode des dreißigjährigen Kriegs. Stuttgart: Cotta.</note></seg>, la quale non avrà più luogo prima del Novembre avvenire. Intanto Ella a suo comodo, con poche righe scritte in lingua italiana, potrà accusare la ricevuta del diploma <seg type="comment"><orig>al <persName key="G001094">presidente</persName> dell’Accademia</orig><note xml:id="nbvh_vsj_1mb">Der Theologe Ignaz von Döllinger (1799–1890) war seit 1873 bis zu seinem Tod Präsident der Akademie der Wissenschaften. Gregorovius und Döllinger kannten sich seit den frühen 1860er Jahren persönlich und standen Zeit ihres Lebens in freundschaftlichem Austausch.</note></seg>. La nostra <orgName key="G000466">corporazione</orgName>, di cui prima del Döllinger faceva <del rendition="#s"/> il presidente <seg type="comment"><orig>il <persName key="G001370">Liebig</persName></orig><note xml:id="nqfj_wsj_1mb">Der Chemiker Justus Freiherr von Liebig (1803–1873) hatte ab 1852 eine Professur an der Münchner Univeristät inne, am 15. Dezember 1859 wurde er zum Präsidenten der Akademie ernannt. Dieses Amt bekleidete er bis zu seinem Tod. Gregorovius hatte Liebig bei einem Aufenthalt in München im Jahre 1870 besucht: „Eine hohe Gestalt mit schönen, klaren, bedeutenden Gesichtszügen: es spricht daraus Vollendung des Lebens auf sicherstem Grunde“ (RT, 15.8.1870, S. 289–290). </note></seg>, può da due decenni a questa parte gloriarsi di alcuni lavori di molta importanza: intendo la lunga serie di<seg type="comment"><orig> <bibl corresp="ed_sny_hxk_rlb">cronache cittadine di Germania</bibl></orig><note xml:id="namp_xsj_1mb"><p>Die Chroniken der deutschen Städte vom 14. bis ins 16. Jahrhundert. Hrsg. durch die Historische Kommission bei der Königlich Bayerischen Akademie der Wissenschaften. Leipzig: Hirzel 1862–1968:</p> <p>https://de.wikisource.org/wiki/Die_Chroniken_der_deutschen_St%C3%A4dte. Georg Heinrich Pertz (1795–1876) hatte 1858 für die Aufnahme des Editionsunternehmens in das Akademieprogramm plädiert.</p> </note></seg>, e <seg type="comment"><orig>gli <bibl sameAs="ed_xvf_nxk_rlb">atti dell’Impero</bibl></orig><note xml:id="ni5z_ysj_1mb">Deutsche Reichstagsakten. Auf Veranlassung und mit Unterstützung seiner Majestät des Königs von Bayern Maximilliam II. Hrsg. von der Bayerischen Akademie der Wissenschaften. Historische Kommission: https://de.wikisource.org/wiki/Deutsche_Reichstagsakten. Es handelt sich um die von Leopold von Ranke (1795–1886) 1858 angestoßene und von der Historischen Kommission der Akademie herausgegebene, nicht abgeschlossene Edition der Reichsakten des Heiligen Römischen Reiches. 1867 wurde der erste Band publiziert. Die Veröffentlichung dieser Quellen zur Frühen Neuzeit in Deutschland erfolgt in vier Reihen: Ältere, Mittlere, Jüngere Reihe und die Reichsversammlungen.</note></seg> messi a stampa, essendo stato a questo fine, <pb n="2"/>sotto gli auspici del <seg type="comment"><orig><persName key="G001525">Raune</persName></orig><note xml:id="nybx_zsj_1mb">Fälschlich für: Ranke.</note></seg> e il patrocinio del fu <seg type="comment"><orig>re <persName key="G001408">Massimiliano</persName></orig><note xml:id="nnpv_1tj_1mb">Maximilian II. (1811–1864) war seit 1848 und bis zu seinem Tod König von Bayern. Noch zu seiner Regierunszeit und unter seiner Schirmherrschaft war das Editionsprojekt zu den Deutschen Reichsakten beschlossen worden.</note></seg>, costituita la <seg type="comment"><orig>Commissione Storica</orig><note xml:id="nfxr_btj_1mb">Die Historische Kommission wurde 1858 mit der Festsetzung der Publikation der Reichsakten bei der Bayerischen Akademie der Wissenschaften gegründet. Ziel war (und ist) die Veröffentlichung von Quellen der deutschen Gesichte. 1880 wurde ihre Arbeit urkundlich durch König Ludwig II. (1845–1886) gesichert.</note></seg>. Oltre di ciò la mia <placeName key="G000664">patria</placeName> va debitrice alla medesima di altre imprese di gran polso, cioè <seg type="comment"><orig>la <bibl corresp="ed_lb4_wxk_rlb">storia universale delle scienze germaniche</bibl></orig><note xml:id="npst_ctj_1mb">Geschichte der Wissenschaften in Deutschland. Auf Veranlassung und mit Unterstützung seiner Majestät des Königs von Bayern Maximilian II. Hrsg. durch die Historische Commission bei der Königlichen Akademie der Wissenschaften. München: Cotta 1864–1913: https://de.wikisource.org/wiki/Geschichte_der_Wissenschaften_in_Deutschland.</note></seg>, distribuita in discipline e <seg type="comment"><orig>la <bibl corresp="ed_pnr_myk_rlb">Biografia universale tedesca</bibl></orig><note xml:id="nov5_dtj_1mb">Allgemeine Deutsche Biographie. Hrsg. von der Historischen Commission bei der Königlichen Akademie der Wissenschaften. München, Leipzig: Duncker &amp; Humblot 1875–1912: https://de.wikisource.org/wiki/Allgemeine_Deutsche_Biographie. </note></seg>: opere oramai celebri, che progredendo alacremente saranno condotte a termine fra una decina di anni. Ciò basterà a dimostrare, che cotesta Accademia Bavarese, per un favor singolare di circostanze, massimamente mercè gli elevati sensi del Re Massimiliano, oramai ferma il reso centro di studj storici in Germania, mentre <placeName key="G000636">Berlino</placeName> in sè raccoglie quella Commissione centrale, che attende alla publicazione delle <seg type="comment"><orig>„<bibl corresp="G004294">Monumenta Germanica</bibl>“.</orig><note xml:id="nxst_2tj_1mb">Monumenta Germaniae Historica. 1872–heute. Ihr Ursprung geht auf die 1819 vom Reichsfreiherrn Karl vom Stein (1757–1831) gegründete „Gesellschaft für ältere deutsche Geschichtskunde“ zurück. Pertz hatte die Herausgabe dieses Quellenwerks zur mittelalterlichen Geschichte Deutschlands von 1823–1874 geleitet, ab 1875 zeichnete Georg Waitz (1813–1886) für ihr Erscheinen verantwortlich. </note></seg> </p>
+<p><seg type="comment"><orig>La sua nomina a Direttore dei <orgName key="ed_orb_xyk_rlb">Musei patrii di Bologna</orgName></orig><note xml:id="ngq4_ftj_1mb">1878 war Gozzadini zum Generaldirektor des neuen Museo civico archeologico di Bologna berufen worden, das 1881 eingeweiht werden sollte. Entstanden war das Museum aus dem Zusammenschluss des Universitätsmuseums und des städtischen Museums.</note></seg>, mi ha riempito di soddisfazione tanto perchè cotesta carica non poteva affidarsi a persona più degna di lei, quanto perchè è un fatto che mi persuade essere la gratitudine una delle virtù umane, che alle volte si fanno vive ancora fra i mortali – </p>
+<p><pb n="3"/>Sono rimasto qui solo solo col <seg type="comment"><orig>mio <persName key="G001109">nipote</persName>, il quale avendo onorevolmente assoluto l’esame liceale</orig><note xml:id="nbqq_gtj_1mb">Der Neffe beendete seine Schullaufbahn am Ludwigsgymnasium mit Erlanung der Hochschulreife (siehe RT, Sommer und Winter 1878/79, S. 403).</note></seg>, ora sta sul partire alla volta di <seg type="comment"><orig><placeName key="G000699">Konigzberg</placeName></orig><note xml:id="nldl_htj_1mb">Fälschlich für: Königsberg.</note></seg>, per raggiungervi la <persName key="G001111">madre</persName> e lo <persName key="G001203">zio</persName>. Quanto a me, sono necessitato di rimanermi quì un pezzo ancora, finchè non venga trovarmi <seg type="comment"><orig>un mio antico <persName key="G000920">amico</persName> di <placeName key="G000716">Londra</placeName>,</orig><note xml:id="nbtj_3tj_1mb">Mit Friedrich Althaus (1829–1879) verbrachte Gregorovius mehrere Wochen reisend durch Bayern und Österreich (vgl. RT, Sommer und Winter 1878/79, S. 404). </note></seg> non visto più da me sin da ventiquattro anni. Per altro il tempo, sempre triste e piovoso, poco m’invita a recarmi in campagna. Beati Loro, che placidamente seduti sulla vetta dei <seg type="comment"><orig>Frati Gaudenti</orig><note xml:id="nr1k_jtj_1mb">Die frati Gaudenti waren eine um 1250 von sechs Rittern und adligen Bolognesern gegründete Bruderschaft, die von Urban IV. 1261 anerkannt wurde und deren Gründungssitz die Villa Ronzano war – jene Villa, welche die Gozzadinis 1848 ankauften und zu ihrem von illustren Persönlichkeiten besuchten Salon machten.</note></seg> contemplano il radicante cielo in sù, e sotto ai lor piedi la vasta e ridente <placeName key="G067507">Romagna</placeName>.</p>
+<p>Colla protesta dei sensi di venerazione e d’affetto, mi raccomando a Lei, signor Conte, come alla gentilissima signora <persName key="G001092">Contessa</persName></p>
+<closer>
+<salute rendition="#right">quale di lor devotissimo</salute>
+<signed rendition="#right"> F. Gregorovius</signed>
+</closer>
+<closer rend="paragraph">
+<salute>Ebbi lettera di <seg type="comment"><orig><persName key="G001483">Paolo</persName></orig><note xml:id="nhsg_ktj_1mb">Mit dem schöngeistigen Cousin der Gräfin, Paolo Perez (1822–1879), war Gregorovius insbesondere vor dessen Eintritt in den Rosminianer-Orden 1856 freundlschaftlich verbunden. Perez hatte den Deutschen in die literarischen Kreise Roms eingeführt. Die Gozzadinis waren für Gregorovius die Ansprechspartner, wenn er sich über Perez austauschen wollte.</note></seg>, che mi conforta davvero. Egli lavora di sue cose proprie avendo alla fine felicemente messo sotterra l’eterno <orgName key="G000455">Rosmini</orgName>.</salute>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

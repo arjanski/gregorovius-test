@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000028">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Heinrich Brockhaus in Leipzig. Rom, 13. Dezember
+                    1855</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (23)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Bl., 8°, 1 S. – 1v aoR Eingangs- und Beantwortungsvermerk: 1855. / <hi rendition="#aq">Rom</hi>, 13./21. <hi rendition="#aq">Dec</hi>. / <hi rendition="#aq">Gregorovius</hi>. / B. 10/I.</p>
+<p>Manuskript seiner Gedichte „Der Turm Astura“, „Nettuno“ und „Klagesang der Kinder Juda in Rom“</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er übersendet das Manuskript seiner Gedichte „Der Turm Astura“, „Nettuno“ und „Klagesang der Kinder Juda in Rom“ für das „Deutsche Museum“ und bittet um Abzüge des Drucks. Demnächst kann er einen Zyklus von zwölf römischen Kaisersonnetten einsenden. An Robert Eduard Prutz hat er wegen des von Brockhaus abgelehnten Manuskripts seiner Übersetzung der „Lieder des Giovanni Meli von Palermo“ (1856) nicht schreiben können. Er bittet einstweilen um Verwahrung des Manuskripts.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He sends the manuscript of his poems „Der Turm Astura“, „Nettuno“ and „Klagesang der Kinder Juda in Rom“ for the „Deutsches Museum“ and asks for the printed copies. He will soon be able to send in a cycle of twelve sonnets on Roman emperors. He was unable to write to Robert Eduard Prutz about his translation of the „Lieder des Giovanni Meli von Palermo“ (1856) , which Brockhaus rejected. For the time being, he asks Brockhaus to keep the manuscript safe. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1855-12-13" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G000996">Brockhaus, Heinrich (1804–1874)</persName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next">10. Januar 1856</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+<opener>
+<salute rendition="#c">Sehr verehrter Herr</salute>
+</opener>
+<p>beikommend übersende ich für das Deutsche Museum die <bibl sameAs="G003838">3 Stücke</bibl></p>
+<p>
+<list>
+<item>1. Der Turm Astura</item>
+<item>2. Nettuno</item>
+<item>3. Klagesang der Kinder Juda in Rom,</item>
+</list>
+</p>
+<p>mit der Bitte, falls Sie dieselben für geeignet halten, sie in 3 nachfolgenden Nummern geben zu wollen. Der Turm Astura als ein nationales Gedicht möchte dem <hi rendition="#u">Deutsch<ex>en</ex></hi> Museum wol anpaßen, ich fürchte nur, daß Sie mir ein paar Verse darin beanstanden, u<ex>nd</ex> sollte dies geschehn, so bitte ich, lieber das Gedicht zurückzulegen, als jene zu streichen.</p>
+<p>Wenn Ihnen dann u<ex>nd</ex> wann auch solche Kleinigkeiten willkommen sind, so würde ich Ihnen später gern einen <seg type="comment"><orig>Cyclus von 12 römischen Kaiser <unclear reason="illegible" cert="low">köpfen</unclear> (in Sonetten)</orig><note xml:id="njzd_2dp_qlb">Nicht überliefert.</note></seg> antragen.</p>
+<p>Von diesen Poesien ersuche ich Sie mir gefälligst 3 Abzüge bewilligen zu wollen.</p>
+<p><seg type="comment"><orig>Wegen des <bibl sameAs="G004072"><hi rendition="#aq">Meli</hi></bibl> bitte ich, das M<ex>anus</ex>kr<ex>ipt</ex> noch nicht aus der Hand zu geben</orig><note xml:id="nvkk_gdp_qlb">Das am 21.7.1855 von Gregorovius an Brockhaus übersandte Manuskript seiner „Lieder des Giovanni Meli von Palermo“ (siehe RT, 23.7.1855, S. 56) wurde wegen der im Brief von Gregorovius vom <ref target="G000076">22.8.1855</ref> geäußerten Honorarforderungen zunächst abgelehnt (siehe den Brief von <ref target="G000064">Gregorovius an Theodor Heyse, 17.9.1855</ref>).</note></seg>, denn ich fürchte <persName key="G001511">Herrn Prutz</persName> zu beschweren; indem ich versuchte, ein Schreiben an eine andere Buchhandlung aufzusetzen, fiel mir dabei die Feder aus der Hand, <seg type="comment"><orig>so sehr ist es mir unangenehm, von Ihnen zu gehn</orig><note xml:id="nllm_5dp_qlb">Das Manuskript wurde schließlich von Brockhaus angenommen und erschien 1856.</note></seg>. Und so will ich noch warten, bis mir irgend ein Rat oder Gedanke kommt.</p>
+<closer>
+<salute rendition="#c">Hochachtungsvoll mich empfehlend</salute>
+<signed rendition="#right">FGregorovius</signed>
+<dateline><hi rendition="#aq">Roma</hi>. 13. <hi rendition="#aq">D<ex>e</ex>c<ex>em</ex>b<ex>e</ex>r</hi> 1855.</dateline>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

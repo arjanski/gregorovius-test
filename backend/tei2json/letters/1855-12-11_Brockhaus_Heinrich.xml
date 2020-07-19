@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000056">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Heinrich Brockhaus in Leipzig. Rom, 11. Dezember
+                    1855</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (22)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 8°, 4 S.; 2v alR, Blatt um 90° gedreht, Eingangs- und Beantwortungsvermerk: 1855. / <hi rendition="#aq">Rom</hi>, 11./18. <hi rendition="#aq">Dec</hi>. / <hi rendition="#aq">Gregorovius</hi>. / B. 19/XII.</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Das Formular für die englischen Übersetzungsrechte seiner „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) bei Thomas Constable in Edinburgh und den weitere Druckfahnen des deutschen Bandes hat er erhalten. Wegen der vom Verlag nicht befolgten eigenen Orthographie verlangt er eine auf der letzten Seite einzurückende Rechtfertigung. Er bittet um Übersendung eines Rezensionsexemplars an August Joseph Altenhöfer von der „Allgemeinen Zeitung“. Er bedauert die Ablehnung des Manuskripts seiner „Lieder des Giovanni Meli von Palermo“ (1856) und das jetzt geäußerte Desinteresse an seinen kulturhistorischen Studien Siziliens. Trotz finanzieller Not ist er an die Erarbeitung der „Chronik der Stadt Rom im Mittelalter“ gegangen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He received the form for the rights to the English translation of his „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) with Thomas Constable in Edinburgh and the other proofs of the German volume. Due to the publisher not following his orthography, he demands a justification to be inserted on the last page. He requests that a review copy be sent to August Joseph Altenhöfer of the „Allgemeine Zeitung“. He regrets the rejection of the manuscript of his „Lieder des Giovanni Meli von Palermo“ (1856) and the disinterest in his cultural history studies in Sicily, expressed only now. Despite financial hardship, he went to work on the „Chronik der Stadt Rom im Mittelalter“. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1855-12-11" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G000996">Brockhaus, Heinrich (1804–1874)</persName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+                <correspContext>
+<ref type="prev">1. Dezember 1855</ref>
+<ref type="next">18. Dezember 1855</ref>
+<ref type="next">19. Dezember 1855</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+<opener>
+<dateline rendition="#c"><hi rendition="#aq">Rom</hi> d<ex>en</ex> 11 <hi rendition="#aq">Dec<ex>em</ex>b<ex>e</ex>r</hi> 1855.</dateline>
+<salute rendition="#c">Sehr geehrter Herr,</salute>
+</opener>
+<p>Ihr Schreiben vom 1. Dec<ex>ember</ex> d<ex>ieses </ex>ist mir heute zugegangen, <seg type="comment"><orig>nebst dem Formular für <hi rendition="#aq"><orgName key="G000471">Constable et Comp</orgName></hi>, welches ich der Angabe gemäß vollziehn u<ex>nd</ex> nach <placeName key="G000650"><hi rendition="#aq">Edinburgh</hi></placeName> senden werde</orig><note xml:id="nujb_vcf_plb">In seinen Briefen vom <ref target="G000076">22.8.</ref> und <ref target="G000033">12.9.1855</ref> hatte Gregorovius Brockhaus mitgeteilt, dass der Edinburgher Verlag von Thomas Constable (1812–1881) an der Übersetzung seiner „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) interessiert ist und Brockhaus am 26.10.1855 gebeten, die Druckfahnen für die Übersetzung auch an Constable nach Edinburgh zu senden, mit dem er sich hierfür vertraglich geeinigt hat.</note></seg>. </p>
+<p>Gleichfalls ist mir gestern <seg type="comment"><orig>eine weitere Sendung von 8 Druckbogen</orig><note xml:id="ni3b_dff_plb">Mit seinem Brief vom <ref target="G000026">29.10.1855</ref> hatte Gregorovius den Erhalt der ersten Druckfahnen seiner im Druck befindlichen „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) bestätigt.</note></seg>, also inclusive der 17<hi rendition="#sup"><hi rendition="#u">t<ex>e</ex>n</hi></hi>, der „<bibl sameAs="G003114">Figuren</bibl>“ zugekommen; <seg type="comment"><orig>wie ich nun aus diesen, wie aus Ihrem Briefe ersehen habe, hat sich die orthographische Angelegenheit nicht mehr ändern laßen</orig><note xml:id="nz5q_mff_plb">Siehe den Brief von <ref target="G000042">Gregorovius an Brockhaus, 28.11.1855</ref>.</note></seg>. Indem ich hier nur von dem <hi rendition="#aq">Factum</hi> selber reden will, mag ich nicht nochmals des weiteren aussprechen, in welches Mißverhältniß ich selbst als Autor zu diesem Buche versetzt worden bin. <seg type="comment"><orig>Ich ersuche Sie nun dem Buch folgende Note auf der hintersten Seite anzuschließen</orig><note xml:id="nc5n_tff_plb">Die hier geforderte Anmerkung wurde in seinen „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) verkürzt abgedruckt: „Denjenigen Lesern gegenüber, welche mit seinem Buche ‚Corsica‘ oder mit seinen früheren Schriften bekannt sind, bemerkt er, daß in dem vorliegenden Bande aus Versehen meistenteils die Schreibart der Officin angewendet worden ist. Er bemerkt dies, um sich vor dem Vorwurfe der Inconsequenz zu schützen“ (S. 392).</note></seg>:</p>
+<p rendition="#c">Anmerkung</p>
+<p>Der Verfaßer bemerkt denjenigen seiner Leser gegenüber, welche mit seinem Werke „<bibl sameAs="G003106"><hi rendition="#aq">Corsica</hi></bibl>“, oder mit seinen früheren Schriften bekannt sind, daß in dem vorliegenden Buche durch Versehn der Setzer die Orthographie der Officin des Verlags gebraucht worden ist. Die Entfernung Roms vom Druckorte macht es <add place="superlinear">ihm</add> nicht möglich, dies zu verhindern, weil er die Druckbogen nicht selbst revidiren konnte. Der Autor bemerkt dies, um sich vor dem Vorwurf der Inconsequenz in der Schreibweise zu schützen.</p>
+<p>Diese Note wird, wenn sie mir auch nicht mehr mein gekränktes Recht wiedergeben kann, so doch mich insofern beruhigen, als sie, wie ich darin sage, <pb n="1v"/>mich vor den Lesern meiner Schriften wenigstens rechtfertigt; denn ohne diese Anmerkung müßten jene glauben, daß ich über Nacht närrisch geworden bin, weil ich eine seit fast 10 Jahren geübte Schreibweise urplötzlich aufgegeben habe. Sollte Ihre geehrte Buchhandlung mir auch dies billige Recht der Verteidigung in meinem Buche selbst nicht bewilligen, so würde ich dann gezwungen sein, auf jedem andern Wege vor dem Publicum mich zu rechtfertigen.</p>
+<p>Wegen der <seg type="comment"><orig>Freiexemplare</orig><note xml:id="nwnr_wff_plb">Im Brief vom <ref target="G000026">29.10.1859 an Brockhaus</ref> hatte Gregorovius zehn Freiexemplare beansprucht.</note></seg> habe ich in einem meiner letzten Schreiben meine Wünsche ausgesprochen, u<ex>nd</ex> werde mir demnächst erlauben, Sie um gefällige Versendung solcher Exemplare zu ersuchen.</p>
+<p>Ich bitte unter den Redactionsexemplaren, welche üblich zu sein pflegen, eines so bald als möglich an die Augsb<ex>urger</ex> <orgName key="G000462">Allg<ex>emeine</ex> Zeit<ex>ung</ex></orgName> zu versenden, u<ex>nd</ex> zwar direct an <seg type="comment"><orig><persName key="G000918"><hi rendition="#aq">Dr.</hi> Altenhöfer</persName></orig><note xml:id="npbn_p54_qlb">August Joseph Altenhöfer (1804–1876) zählte zu den wichtigsten Redaktionsmitgliedern der „Allgemeinen Zeitung“; nach dem Tod des Chefredakteurs Gustav Kolb (1798–1865) übernahm er dessen Funktion.</note></seg>, <seg type="comment"><orig>mit welchem ich persönlich bekannt bin</orig><note xml:id="nqx1_w54_qlb">Mit August Joseph Altenhöfer war Gregorovius am 11.9.1855 in Tivoli (siehe RT, 13.9.1855, S. 57), bevor dieser mit Emil Braun (1809–1856), dem leitenden Sekretär des Istituto di Correspondenza Archaeologica in Rom, nach Neapel abreiste  (siehe den Brief von <ref target="G000064">Gregorovius an Theodor Heyse, 17.9.1855</ref>).</note></seg>, u<ex>nd</ex> dem ich von diesem Buche Kenntniß gegeben habe. Er wird ohne Zweifel für eine <bibl sameAs="G002439"><seg type="comment"><orig>Anzeige in seiner Zeitung</orig><note xml:id="nzc3_hw4_qlb">Ohne Verfasserangabe erschien eine ausführliche Besprechung von Gregorovius’ „Figuren“ in: Beilage zu Nr. 156 der AZ. Augsburg: Cotta 4.6.1856. S. 2489–2491.</note></seg></bibl> sorgen, die auf den Verkauf wolthätig wirken kann.</p>
+<p><seg type="comment"><orig>In Bezug auf die „<bibl sameAs="G004072">Lieder des <hi rendition="#aq">Giovanni Meli</hi></bibl>“ wiederhole ich, daß mich Ihre nun bestimmte Ablehnung nicht kränkt</orig><note xml:id="ndzg_rw4_qlb">Das am 21.7.1855 von Gregorovius an Brockhaus übersandte Manuskript seiner „Lieder des Giovanni Meli von Palermo“ (siehe RT, 23.7.1855, S. 56) wurde zunächst abgelehnt, weil Brockhaus sich mit dem im Brief vom <ref target="G000076">22.8.1855</ref> geäußerten Honorarforderungen von Gregorovius schwertat (siehe den Brief von <ref target="G000064">Gregorovius an Theodor Heyse, 17.9.1855</ref>). Das Manuskript wurde schließlich von Brockhaus angenommen und erschien 1856.</note></seg>, aber daß es in meiner Lage sehr peinlich ist, die kostbare Zeit so vieler Monate verloren zu haben, welche hingereicht haben würde, wegen eines Verlages in Deutschland mehr als zwei andere Schritte zu thun. Die Bedingungen die ich stellte, discret u<ex>nd</ex> dürftig genug für einen Schriftsteller, der weder Neuling mehr noch ganz der Anerkennung in der literarischen Welt baar ist, würde ich gern ganz <seg type="comment"><orig>cediren</orig><note xml:id="nhqf_bx4_qlb">abtreten</note></seg>, aber davon halten mich zwei Gründe ab, einmal das Gerechtigkeitsgefühl, das andere Mal meine sehr sorgenvolle Existenz, welche es meiner Vernunft zur Pflicht macht, den Verdienst zu suchen, der mir rechtlich gebührt. Denn obwol ich <pb n="2r"/>durch viele Lebenskämpfe stoisch gewöhnt mich mit dem schmalsten Bißen Brod begnüge, könnte ich ihn doch nicht ganz entbehren. Ich werde demnach andere Schritte thun, u<ex>nd</ex> wenn auch diese fehlschlagen, mag der <hi rendition="#aq">Giovanni Meli</hi> im Namen des <placeName key="G000664">Vaterlandes</placeName> als Manuscript ruhig <foreign xml:lang="ita"><hi rendition="#aq"><foreign xml:lang="Lat"><seg type="comment"><orig>ad acta Martyrum</orig><note xml:id="nlff_jx4_qlb">Verhöre, die die christlichen Märtyrer zu bestehen hatten.</note></seg></foreign></hi></foreign> gelegt werden. Wäre ich der englischen Sprache schon so mächtig, wie ichs der italienischen bin, so könnte ich meinen Schriften in der Fremde materielle u<ex>nd</ex> alle andern Vorteile mit Ruhe sichern, indem ich ganz dem Vaterlande entsagte, aber dies würde mir wenig Ruhe geben. Wollen Sie, geehrter Herr, die Gefälligkeit haben, das <hi rendition="#aq">M</hi><ex>anu</ex><hi rendition="#aq">S</hi><ex>c</ex><hi rendition="#aq">r</hi><ex>ipt</ex> noch bei sich zu behalten; indem ich nächster Tage <seg type="comment"><orig>für das Deutsche Museum einige poetische Stücke: <bibl sameAs="G003838">Der Turm <hi rendition="#aq">Astura</hi>, <hi rendition="#aq">Nettuno</hi>, u<ex>nd</ex> einen Klagegesang der Kinder Juda in Rom</bibl>: absende</orig><note xml:id="nshl_wx4_qlb">Gregorovius übersandte das Manuskript seiner Gedichte bereits mit seinem Brief vom <ref target="G000028">13.12.1855 an Brockhaus</ref>. „Klagegesang der Kinder Juda in Rom“, „Der Thurm Astura“ und „Nettuno“ wurden gedruckt in: Deutsches Museum. Zeitschrift für Literatur, Kunst und öffentliches Leben. Jg. 6. Nr. 12. Leipzig: Brockhaus 20.3.1856. S. 417–423.</note></seg>, werde ich <seg type="comment"><orig><persName key="G001511">Herrn <hi rendition="#aq">Prutz</hi></persName></orig><note xml:id="nzyn_tx4_qlb">Der Schriftsteller, Politiker, Literaturhistoriker und Vormärz-Publizist Robert Eduard Prutz (1816–1872) war 1851–1866 Herausgeber der Brockhaus-Zeitschrift „Deutsches Museum“.</note></seg> bitten, mir wegen des <hi rendition="#aq">Meli</hi> zu raten, u<ex>nd</ex> dann Sie ersuchen, ihm denselben zukommen zu laßen. Ich selbst weiß keinen Rat, auch bin <add place="intralinear">ich</add> voll von Sorgen, u<ex>nd</ex> stand eben nur von einer Krankheit auf.</p>
+<p>Laßen Sie mich nun noch von <seg type="comment"><orig>meinem Sicilien</orig><note xml:id="nlbn_by4_qlb">Zu seinem nicht ausgeführten Plan einer Studie zu den „Culturepochen Siziliens“ siehe den Brief von <ref target="G000078">Gregorovius an Cotta, 3.6.1855</ref>. </note></seg> sprechen, u<ex>nd</ex> verargen Sie mir den Ausdruck einer gewißen Verwunderung nicht, deren ich mich nicht erwehren konnte, als ich den Schluß Ihres Briefes las, denn, indem Sie mir früher gerade für dieses Werk Ihre <hi rendition="#u">besondere</hi> Teilnahme zu erkennen gaben, sehe ich, daß Ihre Ansichten sich nun durch mir unbekannte Gründe gerade zum Gegenteil verändert haben. Ich glaube Sie daher richtig zu verstehn, wenn ich annehme, <seg type="comment"><orig>daß Sie von vornherein einer Offerte dieses Werkes entgegen treten wollen. Und so sei demnach keine Rede mehr von ihm</orig><note xml:id="ntgx_hz4_qlb">Seine ab 1854 v. a. in Blättern von Cotta erschienen Artikel über Sizilien wurden als Buchpublikation zusammengefasst in: Siciliana. Wanderungen in Neapel und Sicilien. Leipzig: Brockhaus 1861 (ab der 2. Auflage 1865 als Bd. 3 der „Wanderjahre in Italien“).</note></seg>. Erlauben Sie nur weniges <pb n="2v"/>dem beizufügen. Indem ich die Erfahrung gemacht habe, daß ich durch den Erlös der Figuren u<ex>nd</ex> des <hi rendition="#aq">Meli</hi> nicht zu den Mitteln gelangen kann, jenes Werk auszuführen, habe ich seit jetzt zwei Monaten die Studien dazu ausgesetzt u<ex>nd</ex> bin an die Ausführung eines andern nur 1 Bändigen Werks gegangen, einen schon 3jährigen Lieblingsplan ins Leben zu bringen, den mir nicht allein die Engländer, sondern auch die Franzosen gern bezahlen werden. Es ist dies die <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Geschichte der Stadt u<ex>nd</ex> Volks von Rom im Mittelalter</bibl> u<ex>nd</ex> ihrer Kämpfe um die Selbständigkeit, ein Studium das so unendlich intereßant ist, wie wenige andere in der Historie. <seg type="comment"><orig>Das Werk wird heißen Chronik der Stadt Rom im Mittelalter</orig><note xml:id="nm2k_m1p_qlb">Die erste Erwähnung seines späteren 8-bändigen Hauptwerks in den Briefen von Gregorovius. Im Tagebuch taucht sein Plan, die Geschichte der Stadt Rom im Mittelalter zu schreiben, erstmals am 3.10.1854 auf („Ich beabsichtigte, die Geschichte der Stadt Rom im Mittelalter zu schreiben. Für diese Arbeit bedarf es, so scheint mir, einer höchsten Disposition, ja, so recht eines Auftrags vom Jupiter Capitolinus selbst. Ich faßte den Gedanken dazu, ergriffen vom Anblick der Stadt, wie sich dieselbe von der Inselbrücke“, RT, S. 53). Die Niederschrift beginnt ein Jahr später: „Seit dem Oktober habe ich mich an die Vorstudien zur Geschichte der Stadt Rom im Mittelalter gemacht. Ich arbeite in dem schönen Saal der Angelica von 8 bis 12 Uhr. Erst will ich den Stoff übersehen. Dies sind meine köstlichsten Stunden.“ (26.11.1855, S. 57).</note></seg>. Ich schreibe es ohne die Pedanterei deutscher Gelehrten, mit künstlerischem Bewußtsein, u<ex>nd</ex> doch <seg type="comment"><orig>mit gediegenem Quellenstudien, denn mehr als 100 Werke habe ich nach u<ex>nd</ex> nach bereits dafür benutzt</orig><note xml:id="nopm_cbp_qlb">Zu Weihnachten 1855 heißt es zum Fortgang der Arbeit: „Viel an der Chronik von Rom gearbeitet. Es ist ein Ozean, auf den ich mich wage, so allein auf mich gewiesen, und so mittellos, daß ich mir kaum ein Buch erschwingen kann. Haufenweise schleppe ich geliehene Bücher aus der Bibliothek von [Clemens August] Alertz oder der vom Kapitol in meine Wohnung.“ (RT, S. 58)</note></seg>. Genug, ich gebe Ihnen davon Kunde, nicht um Ihnen eine <hi rendition="#aq">Offerte</hi> zu machen, sondern um Ihnen zu zeigen, daß so arm u<ex>nd</ex> verlaßen von der Welt ich bin, ich nicht aufhöre, wie es einem Manne geziemt, mit allen edeln Waffen des Geistes gegen das Mißgeschick zu kämpfen. Es gibt aber noch eine andere Welt, in welcher die Ideen zuletzt den Sieg behalten; u<ex>nd</ex> indem ich selbst in diese hineinsehe, was mir dort alles noch aufbehalten ist, u<ex>nd</ex> wie sich von Tag zu Tage mir die Lebensstoffe mehren, so preise ich die ewigen Götter in all dieser Misere u<ex>nd</ex> mich selber, daß sie mich solcher Kämpfe gewürdigt haben. Ihnen, mein Herr, bewahre ich immer meinen Dank, u<ex>nd</ex> es wird keine Zeit kommen, wo ich vergeßen werde, daß Sie mir einst ein menschliches Herz gezeigt haben.</p>
+<closer>
+<salute rendition="#c">Mit Hochachtung u<ex>nd</ex> Ergebenheit</salute>
+<signed rendition="#right">Ihr <hi rendition="#aq">FGregorovius</hi>.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

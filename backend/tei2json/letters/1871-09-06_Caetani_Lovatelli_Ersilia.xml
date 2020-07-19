@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000451">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Contessa Ersilia Caetani Lovatelli in Rom. Stuttgart, 6. September 1871</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno>Karton 59, Mappe 348 (nach D)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"><bibl type="print">Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli. Hrsg. von Sigmund Münz. Berlin: Paetel 1896. S. 68–69 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Über seinen Aufenthalt in Berg und seine Arbeit in der Königlichen Landesbibliothek in Stuttgart. Er wird im Oktober nach München zurückkehren.; Ignaz von Döllinger und Wilhelm von Giesebrecht wollen ihn zur dauerhaften Niederlassung bewegen. Michelangelo Caetani hat ihn zum Testamentszeugen bestellt. Sein in der „Allgemeinen Zeitung“ anonym abgedruckter Artikel zur Eingliederung des Kirchenstaats in das Königreich Italien („Der Sturz des Papstthums in Rom“, 1871) wurde in der „Libertà“ unter seinem vollen Namen veröffentlicht („Il potere temporale e la Storia“, 1871) veröffentlicht. Er befürchtet, dass ihm deshalb der Zugang zu den römischen Bibliotheken verwehrt wird.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000879">Stuttgart</placeName><date when="1871-09-06" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001011">Caetani Lovatelli, Ersilia (1840–1925)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+<body><pb n="68"/>
+<div type="writingSession">
+<opener>
+<dateline rendition="#c">Stuttgart, Buchhandlung Cotta, 6. September 1871.</dateline>
+</opener>
+<p><seg type="comment"><orig>Ich habe die süße Einsamkeit des Mineralbades <placeName key="G000634">Berg-Cannstatt</placeName>, einen reizenden Ort in der Nähe Stuttgarts, aufgesucht</orig><note xml:id="nywj_1bz_ylb">Das Mineralbad Berg in Stuttgart-Ost wurde im Jahre 1856 eröffnet und ist eines von drei Mineralbädern in Stuttgart. Es befindet sich im heutigen Heilquellenschutzgebiet Stuttgart. Gregorovius hatte 1867 und 1869 für jeweils ungefähr drei Wochen eine Wohnung in Berg angemietet, wobei er die Tage meist in Stuttgart verbrachte, um in der Bibliothek zu arbeiten und erst am Abend wieder nach Berg zurückkehrte (siehe RT, S. 231–232 und S. 262–264). Sein Aufenthalt im Jahre 1871 in Stuttgart, Wildbad und Berg datiert in die Zeit vom 25. August bis zum 17. September (siehe RT, S. 309 und den Brief von Gregorovius an Mathilde von Humboldt vom 9.9.1871).</note></seg>. Da ruhe ich ein wenig aus, studire jedoch viele Stunden in der<seg type="comment"><orig> <orgName key="G067814">Bibliothek der Hauptstadt</orgName></orig><note xml:id="nzv3_cbz_ylb">Die Königliche Landesbibliothek in Stuttgart geht auf die 1765 gegründete Herzogliche Öffentliche Bibliothek zurück. Ab 1803 hieß sie Kurfürstliche Öffentliche Bibliothek und ab 1806 Königliche Öffentliche Bibliothek. Gregorovius kannte den seit 1857 dort tätigen Bibliothekar und Historiker Wilhelm Heyd (1823–1906), der 1873 die Leitung der Bibliothek übernahm, aus Rom und war mit ihm befreundet; siehe den Brief von Gregorovius an Wilhelm Heyd vom 5.8.1869; Württembergische Landesbibliothek Stuttgart / Cod. hist 4° 391, Kaps. I, 217.</note></seg>.<gap reason="lost" unit="chars" quantity="1"/>Im Oktober werde ich zurück<seg type="comment"><orig> in <placeName key="G000734">München</placeName> sein</orig><note xml:id="nglg_2bz_ylb">Er reiste am 17. September von Stuttgart in Richtung Würzburg, um dort gemeinsam mit dem Bruder Julius (1819–1891) die Schwester Ottilie (1834–1907) zu treffen. Nach Stationen in Bamberg, Coburg, Lichtenfels, Nürnberg und Bergau hielt er sich ab dem 1. Oktober in München auf, wo er bis zum 3. Dezember bleiben sollte (siehe RT, S. 309–313). </note></seg>. <seg type="comment"><orig><persName key="G001094">Döllinger</persName></orig><note xml:id="nijt_fbz_ylb">Der katholische Theologe und berühmte Kirchenhistoriker Johann Joseph Ignaz von Döllinger (1799–1890) wurde 1872 Rektor der Universität München und war von 1873–1890 Präsident der Bayerischen Akademie der Wissenschaften. Er orientierte sich zunehmend an einem liberalen Katholizismus und war ein scharfer Gegner des Unfehlbarkeitsdogmas, was schließlich zu seinem Bruch mit der katholischen Kirche und seiner Exkommunikation 1871 führte. Gregorovius schreibt über ihn: „[…] er ist ein feiner, kalter, trockner Mann, der sich mit Klugheit ausspricht. Er erkannte die vorurteilsfreie Stellung meiner ‚Geschichte der Stadt Rom‘.“ (RT, 7.8.1863, S. 165). Die beiden standen bis zu Döllingers Tod in Kontakt miteinander.</note></seg>, <seg type="comment"><orig><persName key="G001173">Giesebrecht</persName></orig><note xml:id="ni3p_hbz_ylb">Mit dem ab 1862 in München beheimateten Historiker Wilhelm von Giesebrecht (1814–1889), einem der ersten in italienischen Archiven das mittelalterliche Quellenmaterial erforschenden Wissenschaftler, war Gregorovius gut befreundet. Er hielt ihn für einen der wichtigsten Kenner der Stadt Rom im Mittelalter; siehe den Brief von Gregorovius an Johann Georg Freiherr Cotta von Cottendorf vom 22.12.1859. Wenn Gregorovius nach München kam, traf er sich mit Giesebrecht, gemeinsam unternahmen sie Ausflüge.</note></seg> und andere wollen <seg type="comment"><orig>mich dort mit Gewalt als Mitglied der <orgName key="G000494">Akademie der Wissenschaften</orgName> festhalten</orig><note xml:id="nw4j_jbz_ylb">Gregorovius war am 25. Juli 1865 zum korrespondierenden Mitglied der Königlich Bayerischen Akademie der Wissenschaften und am 25. Juli 1871 zum auswärtigen Mitglied der Historischen Klasse der Königlich Bayerischen Akademie der Wissenschaften ernannt worden (BSB München, NL Gregorovius, Gregoroviusiana 19).</note></seg>, und ich will wenigstens versuchen, <seg type="comment"><orig>welche Wirkung auf meine nervöse und so sensible Konstitution jenes kalte und fast entsetzliche Klima üben wird</orig><note xml:id="nynp_lbz_ylb">Diese Zeit in München verstand er als eine Art Probeleben in seinem künftigen Wohnort; siehe dazu den Brief von Gregorovius an Mathilde von Humboldt vom 9.9.1871.</note></seg>.<gap reason="lost" unit="chars" quantity="1"/>Ich brauche wohl nicht zu sagen, daß ich mich auf der Reise oft der edlen und unvergleichlichen Freunde erinnere, die jetzt <seg type="comment"><orig>in <placeName key="G000675">Frascati</placeName> wohnen</orig><note xml:id="nay1_4bz_ylb">Die römische Adelsfamilie Caetani, mit der Gregorovius befreundet war, besaß in Frascati, 21 Kilometer südöstlich von Rom, ein Anwesen. Gregorovius besuchte sie mehrere Male dort (siehe RT, 6.10.1867, S. 234 und 13.10.1867, S. 235). </note></seg>. Sagen Sie dem <persName key="G001004">Herzog</persName>, Ihrem Vater, daß mich der Gedanke, <seg type="comment"><orig>als Zeuge auf seinem Testament zu figurieren</orig><note xml:id="nimv_pbz_ylb">Dem Herzog von Sermoneta und Dante-Forscher Michelangelo Caetani (1804–1882), Ersilias Vater, war Gregorovius freundschaftlich verbunden. Der Herzog hatte ihm das Familienarchiv zu Recherchezwecken zur Verfügung gestellt, was er gelegentlich nutzte (siehe RT, 29.5.1864, S. 178 und 11.7.1868, S. 247). Am 16. Juli 1871, als Gregorovius die Caetanis wieder einmal in Frascati aufsuchte, kam es zur erwähnten Szene mit der Unterzeichnung des caetanischen Testaments durch Gregorovius als Zeugen (siehe RT, 28.7.1871, S. 308).</note></seg>, <pb n="69"/>mit Stolz erfüllt. Dieses Testament wird durch den Namen Ihres Vaters von historischer Bedeutung für die Familie Gaetani sein. Vielleicht habe ich nicht unverdient den Namen meiner Wenigkeit darauf verzeichnet. Das darf ich mit Rücksicht auf die große Liebe sagen, die ich für das Haus Gaetani hege und immer hegen werde.</p>
+<p>Aus Rom kamen mir Briefe, die mir von einem mich betreffenden wahrhaft beklagenswerthen Faktum Kunde gaben. Ich hatte <bibl corresp="G003968">für die „Allgemeine Zeitung“ einen Artikel über den Untergang des politischen Papstthums geschrieben</bibl>, um die öffentliche Meinung in meinem <placeName key="G000664">Vaterlande</placeName>, die sich nicht überall der gewaltsamen Transformation des römischen Staates günstig gezeigt hat, <seg type="comment"><orig>ein wenig zu beeinflussen</orig><note xml:id="nuh4_sbz_ylb">Anonym abgedruckt als „Der Sturz des Papstthums in Rom“. In: Beilage zu Nr. 206 der Allgemeinen Zeitung 25.7.1871. S. 3685f: https://opacplus.bsb-muenchen.de/title/3257921 – wieder abgedruckt in: Ferdinand Gregorovius und Italien. Eine kritische Würdigung. Hrsg. von Arnold Esch u. Jens Petersen. Tübingen: Niemeyer1993. S. 281–285.</note></seg>. Ich unterzeichnete diesen etwas heftigen Artikel mit meiner gewohnten Chiffre, die in meinem Vaterlande wohl bekannt ist. Ein Römer nun, höchst indiskret, wenn er mein Freund, abgefeimt und perfid, wenn er mein Feind ist, hat ohneweiteres <bibl sameAs="G003969">den Artikel übersetzt</bibl> und darauf mit meinem vollen Namen drucken lassen. Man schrie ihn in ganz Rom aus und schleppte ihn sozusagen durch den Schmutz des niedrigsten Boulevard-Journalismus. Meine Freunde avisierten mich mit Unwillen davon. Und wahrhaftig, ich war über den Mißbrauch meines Namens und diese Indiskretion geradezu bestürzt. Die Folge davon wird sein, daß <orgName key="G000506">die vatikanische</orgName> und überhaupt eine jede Bibliothek Roms mir nun für immer hermetisch verschlossen bleibt. Ich bin davon so angewidert, daß jene indiskrete That meine Absicht sehr beeinflußt, <seg type="comment"><orig>Rom für immer zu verlassen</orig><note xml:id="ny41_wbz_ylb">Er verließ Rom im Juli 1874 endgültig, ging nach München, um dort mit seinen Geschwistern zusammen zu leben (siehe RT, 14.7.1874, S. 342–343). Siehe zu dem Artikel über den „Sturz des Papstthums in Rom“ auch: Alberto Forni. Der Erfolg von Gregorovius in Italien. In: Ferdinand Gregorovius und Italien. Eine kritische Würdigung. Hrsg. von Arnold Esch u. Jens Petersen. Tübingen: Niemeyer 1993. S. 12–41, hier S. 22–23.</note></seg>. Entschuldigen Sie, Frau Gräfin, daß ich Sie mit diesem Jammer langweile, aber ich wollte mich in Gegenwart einer Person aussprechen, die, wie Sie, mir gegenüber diskret und wohlwollend ist.<gap reason="lost" unit="chars" quantity="1"/></p>
+</div>
+</body>
+</text>
+</TEI>

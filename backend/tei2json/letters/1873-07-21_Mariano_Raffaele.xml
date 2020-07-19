@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000128">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Raffaele Mariano in Capua (?). Traunstein, 21. Juli 1873</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ¾ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er wurde von Auguste Lindemann-Frommel über Marianos Abreise nach Neapel informiert. In Pesaro wurde er auf Empfehlung von Terenzio Mamiani vom Bürgermeister freundlich empfangen. Er war in Modena bei Cesare Foucard und ist mit vielen Materialien für seine „Lucrezia Borgia“ (1874) über Mantua nach Traunstein gereist. Er ist dort in der Gesellschaft von Karl Lindemann-Frommel und dessen Sohn Manfred sowie weiterer Bekannter. Ende August ist er mit seinem Bruder Julius auf der fünften Weltausstellung in Wien. Marianos „Roma nel Medio Evo“ (1873) ist noch nicht bei Cotta eingetroffen und soll in der „Allgemeinen Zeitung“ besprochen werden. Er bittet, ihn bei Augusto Vera zu empfehlen. Grüße von Karl und Auguste Lindemann-Frommel.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000888">Traunstein</placeName>
+                    <date when="1873-07-21" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000654">Capua</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Traunstein in Baviera <lb/>21. Luglio 1873. </dateline>
+                    <salute rendition="#c">Caro amico <seg type="comment"><orig>Mariano</orig><note xml:id="nxcb_pnh_zlb">Raffaele Mariano (1840–1912) war ein italienischer Philosoph und Historiker sowie treuer Schüler des neapolitanischen Hegelianers Augusto Vera (1813–1885). Er beschäftigte sich mit der Philosophie und Geschichte der Religionen, lehrte Kirchengeschichte an der Universität von Neapel von 1885–1904. Der knapp zwanzig Jahre jüngere Mariano war Gregorovius von seinem Lehrer Karl Rosenkranz (1805–1879) empfohlen worden, dem Mariano eine Abhandlung über die moderne italienische Philosophie gewidmet hatte (La philosophie contemporaine en Italie. Essai de philosophie hégélienn. Paris: Germer Bailliére 1868: https://gallica.bnf.fr/ark:/12148/bpt6k54250588/f5.image.texteImage). Gregorovius und Mariano lernten sich Anfang 1872 persönlich kennen (siehe RT, 10.2.1872, S. 317). Sie wurden enge Freunde, reisten miteinander. Nach seinem Weggang aus Italien wurde Mariano zu einem der wichtigsten Korrespondenten für Gregorovius. Mariano sollte einige seiner Werke übersetzen: Lucrezia Borgia. Secondo documenti e carteggi del tempo. Traduzione dal tedesco per Raffaele Mariano. Florenz: Successori Le Monnier 1874; Nelle Puglie. Con noterelle di viaggio del traduttore. Versione dal tedesco di Raffaele Mariano. Florenz: Barbèra Editore 1882; La Villa Ronzano. In: Gozzadini, Giovanni: Maria Teresa di Serego-Allighieri Gozzadini. Bologna: E. Fava e Garagnani 1882. Außerdem verfasste er ein philosophisches Kondensat der „Geschichte der Stadt Rom im Mittelalter“, hier durchgeführt bis zur Gründung des italienischen Nationalstaates und Ernennung Roms zur italienischen Hauptstadt: Raffaele Mariano. Roma nel Medio Evo. Rom: Civelli 1873. Im Tagebuch notiert Gregorovius hierzu: „Mariano hat seine Artikel über die ‚Geschichte der Stadt Rom im Mittelalter‘ erst im ‚Diritto‘ erscheinen lassen, dann aber als Buch herausgegeben unter dem Titel ‚Roma nel Medio Evo‘. Er entwickelt darin meine Ideen, spiritualisiert aber die Geschichte zu sehr. Er hat Geist und Herz – ein edler Mensch von idealer Richtung.“ (28.6.1873, S. 331)</note></seg>,</salute>
+                </opener>
+                <p>non voglio temere che a questa mia lettera toccherà la sorte di quella dell’anno scorso, la quale per via andette perduta.</p>
+                <p>Dalla signora <persName key="G001374">Lindemann</persName> fui informato
+                    della sua partenza alla volta di <placeName key="G000654">Capua</placeName> ossia <placeName key="G000737">Napoli</placeName>:
+                    cosa che mi dà la soddisfazione, di sapere, che anche lei si è sottratta per
+                    qualche tempo ai calori eccessivi di <placeName key="G000763">Roma</placeName>, che per quanto sento dire sono divenuti ormai quasi
+                    insopportabili.</p>
+                <p>Lei avrà inteso le mie piccole vicende di viaggio: ma non già la mia dimora nella campagna di <placeName key="G000729">Modena</placeName> in casa del <seg type="comment"><orig>signor <persName key="G001134">Foucard</persName></orig><note xml:id="nxxb_tnh_zlb">Cesare Foucard (1825–1892) war ein Archivar und Professor für Paläographie am Generalarchiv Venedig. Von 1873–1887 war er Direktor des Archivio di Stato in Modena. Gregorovius war bei seinem kurzen Forschungsaufenthalt im Sommer 1873 Gast in Foucards Haus und würdigte dessen Entgegenkommen bei seinen Archivrecherchen im Vorwort der „Lucrezia Borgia“ (1874): „Dieser ausgezeichnete Mann bemühte sich für meinen Zweck mit einer wahrhaften Liberalität, wie sie eines Nachfolgers Muratori’s in jenem Amt würdig ist. Er erleichterte mir meine Arbeit auf jede Weise.“ (S. XV; siehe RT, S. 332). Auch wenn er in späteren Jahren von Deutschland aus kommend Modena besuchte, beherbergte ihn Foucard (siehe RT, 31.3.1875, S. 347–348; 20.5.1876, S. 363; 1877, S. 373). </note></seg>, direttore dell’<orgName key="G004664">archivio d’Este</orgName>, persona dotta e amabile.</p>
+                <p><seg type="comment"><orig>Carico di molti tesori</orig><note xml:id="nl4r_5nh_zlb">In der Einleitung zur „Lucrezia Borgia“ berichtet Gregorovius über diese „reichste Ausbeute“ im Archiv der Este (Ferdinand Gregorovius. Lucrezia Borgia. Bd. 1. 1874, S. XV).</note></seg>, cioè di una cinquantina di copie fatte colà con massima liberalità a mio pro, lasciai Modena, <seg type="comment"><orig>per fermarmi poi un giorno a <placeName key="G000724">Mantova</placeName></orig><note xml:id="ntpd_xnh_zlb">Er reiste am 6. Juli nach Mantova, um bei einem eintägigen Zwischenstopp im Archivio Gonzaga in Mantua (heute Archivio di Stato di Mantua) Materialien für die 1874 erscheinende Biographie „Lucrezia Borgia“ zu sichten (siehe RT, Sommer des Jahres 1873, S. 332).</note></seg>, e per correre finalmente a dirittura a questo amato mio paese alpesta di Traunstein.</p>
+                <p>Vi rincontrai alcuni buoni amici, <seg type="comment"><orig>compagni miei dell’anno<pb n="1v"/>passato</orig><note xml:id="nfkn_ynh_zlb">Am 8. Juli reiste er über Kufstein nach Traunstein, wo er am 9. Juli angelangte (siehe RT, Sommer des Jahres 1873, S. 332). Er war bereits im Vorjahr zuvor auf ärztliches Anraten wegen der heilenden Salzbäder gekommen (siehe den Brief von Gregorovius an Ersilia Caetani Lovatelli vom 28.7.1872). Neben dem gut mit ihm befreundeten Maler Karl Lindemann-Frommel (1819–1891) samt Sohn Manfred (1852–1939) kam auch Adolf Friedrich Graf von Schack (1815–1894) aus München zu Besuch bei ihm in Traunstein vorbei. „Von Gästen des vorigen Jahres waren da Graf Leutrum und Nichte. Sodann trafen ein die Generalin von Troschke und Sohn, Minister von Schleinitz und Frau, dessen Mutter, Fürstin Hatzfeldt und Frau von Wörmann.“ (RT, Sommer des Jahres 1873, S. 332).</note></seg>, e poco dopo di me giunse anche il <persName key="G001375">Lindemann</persName>, non che il suo figlio <persName key="G001376">Manfredi</persName>. Tutti e tre stiamo nella medesima casa.</p>
+                <p>La nostra vita è semplice, regolata e buona. Mi alzo dopo le 5 ore, vado girando poi per le selve, come <del rendition="#s"> <gap reason="illegible" quantity="1" unit="words"/> </del> girai a Roma sul <placeName key="G000805">Pincio</placeName>, rientro in casa, <seg type="comment"><orig>scrivo</orig><note xml:id="nnxp_b4h_zlb">Im Römischen Tagebuch notiert Gregorovius über den Sommer des Jahres 1873: „Ich benutzte die Sommerstille, um das große Material für ‚Lucrezia Borgia‘, welches [Cesare] Foucard mir mitgegeben hatte, zu verarbeiten.“ (S. 332)</note></seg>, prendo un bagno, mi metto a leggere, faccio il pranzo. Dopo il pranzo ecco le lettere, il più grave e direi quasi l’unico peso, ch’ io abbia da portare quà sopra le mie spalle. La giornata si termina con una passeggiata maggiore e con una cena frugale in comitiva allegra.</p>
+                <p>In questo modo di vivere continuerò a Traunstein, <seg type="comment"><orig>fino agli ultimi di Agosto</orig><note xml:id="nfgc_d4h_zlb">Er verließ Traunstein am 5. September und begab sich zunächst bis zum 21. September nach München, von wo aus er eine neuntägige Reise über Linz nach Wien zur 5. Weltausstellung unternahm. In Wien traf er mit seinem Bruder Julius (1819–1891) und Karl Lindemann-Frommel (1819–1891) zusammen (siehe RT, Sommer des Jahres 1873, S. 332–333).</note></seg>. Nel caso il mio <persName key="G001203">fratello</persName> potesse venire a prendermi qua <choice><orig>seco</orig><reg>con se</reg></choice>, andrei in sua compagnia a <placeName key="G000897">Vienna</placeName>; ma egli non si staccherà tanto facilmente dai suoi affari, dovendo egli attendere alla demolizione della fortezza di <placeName key="G000682">Graudenz</placeName>.</p>
+                <p>Che piacere proverei, se lei, caro Mariano, un dì comparisse, non oso dire quà in Traunstein, ma almeno a <placeName key="G000734">Monaco</placeName>, dove<pb n="2r"/>sarò certamente nel corso del Settembre e fors’ anche per una buona parte dell’Ottobre.</p>
+                <p><seg type="comment"><orig>Ebbi ieri lettere dal <persName key="G001053">Cotta</persName></orig><note xml:id="nmft_24h_zlb">Der besagte Brief der Cotta’schen Buchhandlung an Gregorovius ist bereits auf den 15. Juli 1873 datiert; dort heißt es: „In Erwiderung Ihrer geschätzten Zuschrift vom 30 vorigen Monats beehren wir uns, Sie zu benachrichtigen, daß das in Aussicht gestellte Buch des Herrn Mariano und bis jetzt noch nicht zugegangen ist.“ </note></seg> editore mio, il quale mi partecipa : non esser arrivato ancora  <bibl sameAs="G002110">il libro del Mariano</bibl> : aver egli scritto però alla redazione dell’ <orgName key="G000462">Allg<ex>emeine</ex> Zeitung</orgName>, <seg type="comment"><orig>per insistere acciochè si facesse sollecitamente un articolo sopra quel libro</orig><note xml:id="nhzd_g4h_zlb">Gregorovius hatte die von seiner „Geschichte der Stadt Rom im Mittelalter“ inspirierte Studie in seinem Brief vom 30.6.1873 zur Rezension in der „Allgemeinen Zeitung“ empfohlen (DLA Marbach, Cotta-Archiv, Cotta-Briefe, 165). Eine Rezension ist allerdings nicht nachweisbar, es findet sich nur ein Hinweis, dass Marianos „Roma nel Medio Evo“ bei der Redaktion eingegangen ist, mit dem Vermerk „(Ispirato dalla lettura della Storia della Città di Roma del Gregorovius.)“ (in Außerorendliche Beilage zu Nr. 305 der AZ. Stuttgart 1.11.1873. S. 4636).</note></seg>, apena che esso fosse giunto a <placeName key="G000620">Augsburg</placeName>. L’articolo si scriverà, ma ci vorrà del tempo.</p>
+                <p>Questa mia lettera non è, e non può essere altro che un saluto cordiale, quindi
+                    ella è breve; tuttavia la brevità non toglie nulla al valore dell’affetto.</p>
+                <p>Mi scriva delle sue cose. Goda la vita, secondo le massime di <persName key="G001297">Orazio</persName>, un po’ temprate però dalla filosofia moderna. Giacchè il <hi rendition="#aq"> <foreign xml:lang="Lat"><seg type="comment"><orig>quid cras futurum sit fuge quaerere </orig><note xml:id="npwg_h4h_zlb">quid sit futurum cras, fuge quaerere = Was morgen sein wird, versuche du nicht zu suchen […]. Aus Horaz, Carmina, Buch 1, 9. Ode, Vers 13 (Hor. c. 1,9 : An Thaliarchus : Vertreibe den Winter!)</note></seg></foreign> </hi>, ai tempi nostri non vale nulla se non per chi già è ben rassicurato del suo avvenire.</p>
+                <closer>
+                    <salute rendition="#c">Mi creda il suo amico <lb/>di tutto cuore</salute>
+                    <signed rendition="#right">FGregorovius.</signed>
+                    <note type="postscript">
+                            <p>Se la non è cosa indiscreta, vorrei pregarla di raccommandarmi alla bene<pb n="2v"/>volenza dell’ <seg type="comment"><orig>insigne filosofo <persName key="G001675">Vera</persName></orig><note xml:id="npqx_34h_zlb">Augusto Vera (1813–1885), Philosoph und Politiker, Senator des Königreichs Italien, Lehrer des Raffaele Mariano (1840–1912). Gregorovius sollte erst zwei Jahre später mit ihm zusammentreffen (siehe den Brief von Gregorovius an Raffaele Mariano 2.5.[1875]).</note></seg>.</p>
+                            <p><seg type="comment"><orig>Il <persName key="G001396">Mamiani</persName></orig><note xml:id="nhq3_k4h_zlb">Der in Pesaro geborene Terenzio Mamiani della Rovere (1799–1885) war Philosoph, Politiker und Schriftsteller sowie ein Cousin Giacomo Leopardis (1798–1873). 1872 kam er in Florenz in Kontakt mit dem Kreis um Giovan Pietro Vieusseux (1779–1863), begann bei dessen Zeitschrift „Antologia“ mitzuarbeiten. Von dort ging er nach Bologna, wo er 1831 nach dem städtischen Aufstand gegen die päpstliche Restauration Innenminister der vorübergehenden Regierung der Province Unite Italiane wurde. 1848 von Pius IX. zum Innenminister und Ministerpräsident des Kirchenstaates ernannt, trat er wegen Streitigkeiten nach wenigen Monaten von diesen Ämtern zurück. Er war von 1860–1861 Bildungsminister, ab 1864 Senator von Rom und bis 1867 für das Königreich Italien als Diplomat tätig. Neben seinen politischen Aktivitäten lehrte er an der Militärakademie Turin Rhetorik, von 1857–1860 und dann 1871 Geschichte an den Universitäten von Turin und Rom. Gregorovius berichtet im Februar 1872 von einer Begegnung mit „namhaften Italienern“, darunter Mamiani, im Salon seiner Freundin, der Archäologin Ersilia Gräfin Caetani Lovatelli (1840–1925) (siehe RT, 10.2.1872, S. 315). Auch in späteren Jahren trifft er in den kulturellen Kreisen Roms immer wieder auf Mamiani. In der historischen Einleitung zu seiner Übersetzung der „Lieder des Giovanni Meli von Palermo“ (Leipzig: Brockhaus 1856) hatte Gregorovius ein Motto Mamianis zu Meli eingefügt: https://opacplus.bsb-muenchen.de/Vta2/bsb10756792/bsb:BV006957232?page=28.</note></seg> stà in villeggiatura a <placeName key="G000675">Frascati</placeName>. <seg type="comment"><orig>Ebbi una sua lettera per il <persName key="G001157">sindaco</persName> di <placeName key="G000752">Pesaro</placeName>, che mi procurò di buone accoglienze in quella città papalissima</orig><note xml:id="ncbs_l4h_zlb">Gregorovius notiert dazu am 3. Juli 1873 in seinem Tagebuch: „Ich habe Nachforschungen in der Biblioteca Oliveriana gemacht und manches Brauchbare notiert. Gozzadini hatte mich dort bei den Bibliothekaren Marchese Analdi und Grossi angemeldet und Terenzio Mamiani mir einen Brief an den Syndicus Graf Gallucci mitgegeben. Ich wurde auf das liebenswürdigste empfangen.“ (S. 332; siehe auch den Brief von Gregorovius an Terenzio Mamiani della Rovere, 15.7.1873)</note></seg>. Vidi colà pure la casa del Mamiani, con sopravi scritto in caratteri d’oro qui nacque etc. Vidi perfino il busto suo collocato nella sala della casa comunale. Sicchè il nostro buono <persName key="G001396">Terenzio</persName> può andar superbo degli onori, che gli rende la sua patria, patria grata e disuguale a molte altre città patrie, dove nulla vale il profeta. </p>
+                        </note>
+                    <salute>I due Lindemann le mandano mille saluti.</salute>
+                    <signed rendition="#c">FGr</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

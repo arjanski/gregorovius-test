@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000022">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Eduard Brockhaus in Leipzig. Rom, 28. September 1857</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (45)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Bl., 4°, 2 S. – 1r alR Eingangs- und Beantwortungsvermerk: 1857. / <hi rendition="#aq">Rom</hi>, 28. <hi rendition="#aq">Septbr</hi>./5. <hi rendition="#aq">Octbr</hi>. / <hi rendition="#aq">Gregorovius</hi>. / B. 3./XI.  </p>
+<p>Brief von Gregorovius an Wolfgang von Goethe.</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Von den Druckfahnen seines „Euphorion“ (1858) fehlen ihm noch der Anfang und der Schluss. Er bittet um den Versand seiner Freiexemplare an Julius Gregorovius, an Wolfgang Maximilian von Goethe nach Dresden (mit beiliegendem Begleitbrief), Anton Schurz nach Wien, Friedrich Althaus, Rudolf Jonas und an sich nach Rom über Josef Spithöver. Auf seine Rechnung sollen weitere Exemplare an Alexander Jung und Wolfgang Müller von Königswinter gehen. Wünsche eigener gebundener Exemplare. Im Winter schließt er das Manuskript des zweiten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1859) ab; hierüber wird er dem Verlag ein Angebot unterbreiten.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He still needs the galley proofs of the beginning and end of his „Euphorion“ (1858). He asks that his complimentary copies be sent to Julius Gregorovius, to Wolfgang Maximilian von Goethe in Dresden (with the accompanying letter), Anton Schurz in Vienna, Friedrich Althaus, Rudolf Jonas and himself in Rome via Josef Spithöver. Further copies are to go to Alexander Jung and Wolfgang Müller von Königswinter at his expense. Wishes of bound copies for himself. In winter he will complete the manuscript of the second volume of his „Geschichte der Stadt Rom im Mittelalter“ (1859); he will submit an offer to the publisher. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1857-09-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+<persName key="G000995">Brockhaus, Eduard (1829–1914)</persName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next">3. November 1857</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+                <opener>
+                    <dateline rendition="#c"><hi rendition="#aq">Rom</hi> 28. <hi rendition="#aq">S<ex>e</ex>pt<ex>em</ex>b<ex>e</ex>r</hi> 1857.</dateline>
+                    <salute>Geehrtester Herr,</salute>
+                </opener>
+                <p><seg type="comment"><orig>8 Aushängebogen des „<bibl sameAs="G003574">Euphorion</bibl>“ sind mir zu gekommen (bis zur Seite 128), u<ex>nd</ex> sehe ich demnach der Zusendung des Schlußes u<ex>nd</ex> Anfangs entgegen.</orig><note xml:id="nl54_mqv_slb">Gregorovius’ „Euphorion. Eine Dichtung aus Pompeji in vier Gesängen“ erschien erst 1858.</note></seg></p>
+                <p>Von den mir zukommenden 15 Freiexemplaren ersuche ich Sie um die Gefälligkeit an
+                    folgende Adressen senden zu laßen:</p>
+                <p rendition="#c">
+<list>
+<item>
+<p>
+<list>
+<item><note place="left" hand="#addressee">dir.</note>7 (sieben) Ex<ex>emplare</ex> an den <seg type="comment"><orig><persName key="G001203">Hauptmann <hi rendition="#aq">Gregorovius</hi></persName></orig><note xml:id="nfky_kqv_slb">Sein Bruder Julius Gregorovius.</note></seg> in <placeName key="G000699">Königsberg</placeName>.</item>
+<item><note place="left" hand="#addressee">dir.</note>1 Ex<ex>emplar</ex> an <seg type="comment"><orig>Herrn <persName key="G001181"><hi rendition="#aq">Wolfgang</hi> v<ex>on</ex> <hi rendition="#aq">Göthe</hi></persName> nach <hi rendition="#aq"><placeName key="G000666">Dresden</placeName></hi></orig><note xml:id="nabd_pqv_slb">Wolfgang Maximilian von Goethe (1820–1883), ein Enkel des Dichters Johann Wolfgang von Goethe, kannte Gregorovius aus Rom. Er war von Juni 1852 bis Mai 1856 preußischer Legationsrat beim Vatikan. 1856 wurde er an die preußische Botschaft in Dresden versetzt und 1860 im Range eines Legationsrates pensioniert (siehe den Brief von <ref target="G000034">Gregorovius an Theodor Heyse, 6.1.1856</ref>).</note></seg> nebst beikommendem Briefe.</item>
+<item><note place="left" hand="#addressee">wradelen$</note>i – an Herrn <seg type="comment"><orig><hi rendition="#aq">Anton Schurz</hi> k. k. Hofbuchhalter a. D. Schwarzspanier <hi rendition="#aq">Haus N<ex>ume</ex>ro</hi> 200 zu <placeName key="G000897"><hi rendition="#aq">Wien</hi></placeName></orig><note xml:id="nztq_tqv_slb">Anton Schurz (1794–1859), ein Wiener Rechnungsbeamter, Schriftsteller und Biograph des jungdeutschen Schriftstellers Nikolaus Lenau (1802–1850), war seit 1821 mit dessen älterer Schwester Theresia (Terese) Anna, geb. Niembsch (1801–1878) verheiratet. Gregorovius kannte Schurz bereits aus Königsberg, als er 1851 das Manuskript seines frühen Stückes, „Der Tod des Tiberius“ (1851), zur Aufführung im Wiener K. K. Hof- und Nationaltheater nach Wien mitgenommen und dem dem artistischen Direktor Heinrich Laube (1806–1884) überbracht hatte (ÖNB, Teilnachlass Laube, Autogr. 156/1–1 HAN MAG), der das Stück indes abgelehnte (SBB-PK, Slg. Darmstaedter 2m 1840: Laube, Heinrich, Bl. 1–2 acc. 1930.8). Siehe auch den Brief von <ref target="G067718">Gregorovius an Karl Ritter von Scherzer, 15.12.1862</ref>.</note></seg> mit der Bemerkung „vom Verfaßer“.</item>
+<item><note place="left" hand="#addressee"><hi rendition="#aq">Trüb</hi>. e lage$.</note>i an <hi rendition="#aq">Dr. <persName key="G000920">Friedrich Althaus</persName></hi> <placeName key="G000716"><hi rendition="#aq">London</hi></placeName> <hi rendition="#aq">South-Bank</hi> <hi rendition="#aq">N<ex>ummer</ex></hi> 5. <add place="sublinear"><del rendition="#s"><hi rendition="#aq">Nro.</hi></del></add></item>
+<item><note place="left" hand="#addressee"><orgName key="G000472"><hi rendition="#aq">Lit.art.</hi> Anst</orgName>.</note>i an den <seg type="comment"><orig>Maler <persName key="G001319"><hi rendition="#aq">Rudolf Jonas</hi></persName> </orig><note xml:id="nrvm_4rv_slb">Der ostpreußische Landschaftmaler Rudolf Jonas (1822–1888), für dessen auf Korsika entstandene Zeichnungen und Bilder Gregorovius Cotta (vergeblich) zum Verlag in einem Album angetragen und an verschiedene andere Stellen engagiert hatte. Siehe auch den Brief von <ref target="G000070">Gregorovius an Friedrich Eggers, 11.11.1856</ref>.</note></seg><placeName key="G000734">München</placeName> <hi rendition="#aq">Schwanthaler</hi>-Straße <hi rendition="#aq">N<ex>ume</ex>ro</hi> 26</item>
+<item><note place="left" hand="#addressee"><hi rendition="#aq">Spithöver</hi>.</note>4 an mich per <orgName key="G000545"><hi rendition="#aq"><hi rendition="#aq">Spithöver</hi></hi></orgName> Rom</item>
+</list>
+</p>
+</item>
+</list>
+</p>
+                <p>Ich wünsche diese letzten vier gebunden, u<ex>nd</ex> indem ich nicht vergeßen habe, daß ich Ihnen noch 2 Einbände der <bibl sameAs="G003430">Papstgräber</bibl> schulde, bitte ich gelegentlich die Abrechnung zu machen. Man sagt mir, daß die Postanstalten auch gebundene Bücher geringen Volumens per Kreuzband annehmen; sollte dies möglich sein u<ex>nd</ex> nicht zu befürchten, d<ex>a</ex>ß der Einband darunter leide, so würde ich Ihre Buchhandlung sehr ersuchen, mir ein Ex<ex>emplar</ex> von den 4 auf diesem Wege zu schicken, u<ex>nd</ex> den Porto-Betrag mir in Rechnung zu setzen. </p>
+                <p>Ich sehe, daß <pb n="1v"/>ich schlechterdings noch 3 Exemplare für meinen Bedarf brauche, um einigen Artigkeiten zu genügen, u<ex>nd</ex> da es unbillig ist, von Ihnen über die vertragsmäßige Zahl der Freiexemplare hinaus noch einige zu verlangen, so bitte ich wenigstens mir solche zum Buchhändlerpreis abzulaßen u<ex>nd</ex> mich zu authorisiren, bei <persName key="G001618">Herrn <hi rendition="#aq">Spithöver</hi></persName> dieselben gegen Baarbetrag entnehmen zu können. Sie werden gewiß an die Buchhandlung Spith<ex>över</ex> Exemplare senden; diese hat leider durch <seg type="comment"><orig>das Etablissement des ehemaligen Geschäftsführers <persName key="G001179">Herrn <hi rendition="#aq">Glück</hi></persName> in <hi rendition="#aq"><placeName key="G000638">Bologna</placeName></hi></orig><note xml:id="nuhp_wrv_slb">Hugo Glück († 1861) war aus Burghaun nach Rom gekommen und hatte in der Buchhandlung Joseph Spithövers in Rom gearbeitet. 1857 betrieb er eine Buchhandlung in Bologna (siehe den Brief von <ref target="G000391">Gregorovius an Giovanni Gozzadini, 1.2.1857</ref>).</note></seg> die ehemals lebhaftere Beziehung zu <placeName key="G000664">Deutschland</placeName> beschränkt.</p>
+                <p>Da ich voraussetzen darf, daß Sie Exemplare zur Besprechung an einige Redactionen senden, so würde ich Ihnen danken, wollten Sie eins an <seg type="comment"><orig><persName key="G001322"><hi rendition="#aq">Dr. Jung</hi></persName> in Königsberg</orig><note xml:id="nwlb_csv_slb">Sein Königsberger Freund, der Dichter, Publizist, Kritiker und Literaturhistoriker Alexander Jung (1799–1884); siehe die nur unvollständig erhaltenen Briefe von Gregorovius an Jung in: Ferdinand Gregorovius: Briefe nach Königsberg. Hrsg. von Dominik Fugger und Nina Schlüter. München: Beck 2013.</note></seg>, u<ex>nd</ex> ein anderes an <seg type="comment"><orig><persName key="G001434"><hi rendition="#aq">Dr. Wolfgang Müller</hi> (von <hi rendition="#aq">Königswinter</hi>)</persName> in <placeName key="G000698">Kölln</placeName></orig><note xml:id="nj3z_dsv_slb">Peter Wilhelm Karl Müller, ab 1845 führte er den Künstlernamen Wolfgang Müller von Königswinter (1816–1873). Persönlich lernte Gregorovius den rheinschen Dichter erst im Fühjahr 1865 in Rom kennen (siehe RT, 9.4.1865, S. 193). Siehe auch den Brief von <ref target="G000267">Gregorovius an Wolfgang Müller von Königswinter, 4.7.1868</ref>.</note></seg> direct abgehen laßen.</p>
+                <p>In diesem Winter schließe ich den <bibl sameAs="G003476">2. Band meiner Geschichte Roms im Mittelalter</bibl> ab, u<ex>nd</ex> werde mich dann zu Ihnen aussprechen, damit der Druck dieses Unternehmens beginne, auf welches ich den Schweiß von Tag u<ex>nd</ex> Nacht verwende.</p>
+                <p>Möchten Sie mir doch etwas Tröstliches über den Gang der Grabmäler sagen.</p>
+                <p rendition="#c">„Gerechter Männer bester Heiland ist die Zeit“. <lb/><persName key="G001496"><add place="sublinear"><hi rendition="#aq">Pindar</hi></add></persName></p>
+                <closer>
+                    <salute xml:id="s1" next="#s2">Mit aufrichtiger Hochachtung, verehrter Herr, Ihr </salute>
+                    <salute xml:id="s2" prev="#s1" rendition="#right">sehr ergebner</salute>
+                    <signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

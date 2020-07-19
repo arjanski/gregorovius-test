@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000446">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Contessa Ersilia Caetani Lovatelli in Rom. Rom, 30. April 1867</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+<p>Ausgabe seines „Euphorion“ (1858)</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 59, Mappe 348 (nach D2)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Sigmund Münz: ‚Einige Briefe von Ferdinand Gregorovius‘ in: Neue Freie Presse. Morgenblatt. Nr. 11092. Wien: Österreichisches Journal 13.7.1895. S. 2</bibl> </witness>
+<witness select="#this"> <bibl type="print">Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli. Hrsg. von Sigmund Münz. Berlin: Paetel 1896. S. 63–64 </bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für ihre Porträt-Fotofgrafie und sendet ein Exemplar seines „Euphorion“ (1858). Grüße an die Familie Caetani.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1867-04-30" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001011">Caetani Lovatelli, Ersilia (1840–1925)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="63"/>
+            <div type="writingSession">
+                <opener>
+<salute rendition="#c">Verehrte Frau Gräfin,</salute>
+</opener>
+                <p>Sie haben mich hoch erfreut durch <seg type="comment"><orig>Ihre wohlgetroffene Photographie</orig><note xml:id="nxzq_xyl_ylb">Die Gräfin bedankt sich mit ihrem Bild für seine, ihr Ende Dezember 1866 zugesandte Photographie (siehe den Brief von <ref target="G000445">Gregorovius an Ersilia Caetani Lovatelli, 31.12.1866</ref>).</note></seg>. Sie wird bei mir dauernd sein als ein geweihtes Andenken edler und guter Tage von Rom und mich freundlich an Sie gemahnen, wenn <seg type="comment"><orig>ich nicht mehr hier bin</orig><note xml:id="nisv_yyl_ylb">Erst 1874 sollte er Rom endgültig verlassen (vgl. RT, S. 342–343).</note></seg>. Ich danke Ihnen wahrhaft und darum nur mit diesen wenigen Worten. Ich bitte Sie, <seg type="comment"><orig>dies kleine <bibl sameAs="G003574">Buch</bibl> zum Zeichen meiner Verehrung gegen Sie aufzunehmen</orig><note xml:id="nac1_bzl_ylb">Gregorovius legte dem Brief eine Ausgabe seines „Euphorion“ (Leipzig: Brockhaus 1858) bei. Zu der Versdichtung war Gregorovius im Sommer 1853 bei einem Besuch in Neapel und Pompeji angeregt worden. Sie erzählt eine Liebesgeschichte im Schatten des Untergangs der Stadt Pompeji. Zunächst begann Gregorovius im Januar 1854 mit einer Prosanovelle, die den Titel „Der bronzene Kandelaber“ trug (siehe RT, 31.1.1854, S. 53), später empfohl er sie Brockhaus als „Eine Dichtung aus Pompeji in vier Gesängen“ zur Publikation (siehe den Brief von <ref target="G000038">Gregorovius an Heinrich Brockhaus, 22.4.1855</ref>). </note></seg>. Ich wünschte, es wäre werthvoller und Ihrer würdiger. Aber wie dem, in dessen <pb n="64"/>Seele die Musik eingeboren ist, nur ein paar Accorde genügen, um sich eine ganze Welt von Tönen hervorzuzaubern, so werden auch für Ihren Geist diese dürftigen Verse hinreichen, die Welt der antiken Schönheit sich klarer hervorzurufen, als ich sie auszusprechen vermochte. Ihnen und Ihrem <seg type="comment"><orig>ganzen edlen <persName key="G001004">Hause</persName></orig><note xml:id="nzjr_czl_ylb">Auch mit Ersilias Vater, dem Herzog von Sermoneta und Dante-Forscher Michelangelo Caetani (1804–1882), stand Gregorovius in vertrautem Kontakt. </note></seg> sendet den Maiengruß und wünscht sonnige Tage immerdar <lb/>Am letzten April 1867. </p>
+                <closer>
+<signed rendition="#right">Gregorovius</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

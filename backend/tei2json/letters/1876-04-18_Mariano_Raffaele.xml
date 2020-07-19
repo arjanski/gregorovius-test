@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000200">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Rom. Castellammare di Stabia, 18. April 1876</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt></titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Seine Reise nach Reggio Calabria, Messina, Taormina und Catania war kurz und diesmal leider ohne Marianos Gesellschaft. Karl Lindemann-Frommel hat ihm sein angenehmes Hotel in Castellammare di Stabia empfohlen. Gesellschaft leisten ihm ein Spanier und der Hotelwirt, ein Maler. IEr fühlt sich verjüngt. Im Museo Archeologico Nazionale di Napoli hat er die gleiche Inspiration wie zur Zeit der Entstehung seiner Versdichtung „Euphorion“ (1858) empfunden. Zurück wird er über Pompeji und Nocera nach Neapel reisen und dort Augusto Vera aufsuchen. Von Domenico Guglielmi hat er einen liebenswürdigen Brief erhalten. Über die Gestaltung seines Familienwappens für sein Diplom der Ehrenbürgerwürde von Rom. Sein Bruder Julius ist sehr stolz auf ihn. Er freut sich über die Drucklegung von Marianos Buch „L’individuo e lo stato nel rapporto economico e sociale“ (1876)  Grüße an Adelheid Grunelius und Filippo Cagiati.</p>
+<p xml:lang="en"/>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000656">Castellammare di Stabia</placeName><date when="1876-04-18" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c"><seg type="comment"><orig>Castellamare (Napoli)</orig><note xml:id="nijb_tdw_zlb">Am 7. April hatte er Rom verlassen und war nach Neapel gereist. Von dort aus reiste er zunächst nach Reggio Calabria, Messina, Taormina und Catania. Am 14. April kehrte er nach Neapel zurück und begab sich direkt nach Castellammare di Stabia. Am. 25. April kehrte er nach Neapel und am 30. April schließlich nach Rom zurück (siehe RT, 20.5.1876, S. 367).</note></seg> <lb/><placeName key="ediarum_ulw_vxv_qlb">Albergo di Stabia</placeName>, 18. Aprile 76.</dateline>
+<salute>Caro amico,</salute>
+</opener>
+<p>il mio viaggio a <placeName key="G000760">Reggio</placeName> in <placeName key="G000816">Calabria,</placeName> a <placeName key="G000727">Messina</placeName>, <placeName key="G000881">Taormina</placeName> e <placeName key="G000657">Catania</placeName>, bello sì ma troppo veloce, è oramai cosa, che mi pare un sogno; e per vero dire tale parmi ancora la mia dimora in Roma, che in se racchiude tanti contrasti, tanta perdita, tanto acquisto.</p>
+<p>Mi dolse di viaggiare questa volta senza la di lei amabilissima compagnia – avremmo goduto insieme di belle cose, e per lei del tutto nuove.</p>
+<p>Il <persName key="G001375">Lindemann</persName> le avrà dato parte della mia residenza attuale, in Castellamare, <seg type="comment"><orig>dove mi truovo perfettamente bene</orig><note xml:id="nvgb_5dw_zlb">In seinem Tagebuch notiert Gregorovius über den Aufenthalt in Castellammare di Stabia: „Dort lebte ich, wie ich beschlossen hatte, eine Reihe von Tagen in der tiefsten Einsamkeit. Ich wohnte im Albergo di Stabia, dessen Wirt ein Bekannter [Karl] Lindemanns und ein nicht ungeschickter Maler von Architektur- und Landschaftsbildern ist. Im Hause wohnte als beständiger Gast nur ein Junger Spanier aus Navarra, welcher dort Handelsverbindungen hatte.“ (20.5.1876, S. 367)</note></seg>, senon che il tempo s’era fatto brutto di modo, che solo per poche ore di tregua ho potuto uscire di casa. L’albergo è <pb n="1v"/>pulito, la camera che occupo bellissima. Uno spagnuolo mi fa compagnia assieme col locandiere, persona di garbo, che avrebbe <add place="superlinear">potuto</add> elevarsi al di sopra del suo stato, ove avesse fatto degli studj a <placeName key="G000737">Napoli</placeName>. Egli fa anche il pittore.</p>
+<p>Starò qui sino alla domenica prossima, tutto contento della perfetta quiete che godo, e della compagnia che mi fanno le amatissime divinità del mare, delle montagne, e del pensiero silenzioso. E costui, ovvero questa parola, di cui per altro si fa tanto abuso, revoca alla mia mente il <persName key="G001675">Vera</persName>. Lo avrei visitato in Napoli, ma non potei farlo, imperocchè vi stetti una giornata sola, <pb n="2r"/>la quale volli dedicare tutt’intera a quelle <seg type="comment"><orig>maraviglie</orig><note xml:id="ne3y_5dw_zlb">Variante von: meraviglie.</note></seg> dell’arte, che riunisce in se il <orgName key="ed_hcg_cyh_zkb">Museo</orgName>. Ne tornai uomo ringiovinito per cosi dire, e sentivo rinascermi alle spalle quelle ale, che un dì, <seg type="comment"><orig>quando ideava l’ <bibl sameAs="G003574">Euforione</bibl></orig><note xml:id="niz3_wdw_zlb">Gregorovius’ Versdichtung „Euphorion“ erzählt eine Liebesgeschichte im Schatten des Untergangs der Stadt Pompeji. Zunächst begann Gregorovius mit einer Prosanovelle, die den Titel „Der bronzene Kandelaber“ trug und zu der Gregorovius im Sommer 1853 bei einem Besuch in Neapel und Pompeji bzw. speziell durch einen vierarmigen Kerzenhalter im (heutigen) Archäologisches Nationalmuseum Neapel angeregt wurde. Schon bald wandelte er die Erzählung in Hexameter um. „Euphorion. Eine Dichtung aus Pompeji in vier Gesängen“ erschien erstmals 1858 bei Brockhaus.</note></seg>, mi portarono alla regione del sublime.</p>
+<p>Farò di ritorno di qua a Napoli <seg type="comment"><orig>per <placeName key="G000755">Pompeji</placeName> e <placeName key="G000742">Nocera</placeName></orig><note xml:id="nz1h_xdw_zlb">Am 23. April besuchte er Pompeji, am 24. April Nocera (siehe RT, 20.5.1876, S. 367).</note></seg>, e poi mi fermerò in quella città alcuni giorni: cosi <seg type="comment"><orig>avrò il desiderato bene di stringere la mano al Vera</orig><note xml:id="nenc_ydw_zlb">Bei seinem Aufenthalt zwischen dem 25. und 30. April in Neapel war er „einmal zu Tisch bei Augusto Vera, welcher sein einsiedlerisches Leben auf der Höhe von Capodimonte fortsetzt“ (siehe RT, 20.5.1876, S. 367).</note></seg>.</p>
+<p>Ebbi una lettera affettuosa dal nostro <persName key="G001221">Guglielmi</persName>, il quale mi communica, essersi riavuto perfettamente il venerabile <persName key="G001220">zio</persName>.</p>
+<p>Ora avrò da dire qualcosa dello stemma di famiglia mia, che, come suppongo, sarà dipinto <seg type="comment"><orig>sul diploma capitolino</orig><note xml:id="nzqd_zdw_zlb">Die Urkunde über das römische Bürgerrecht wurde am 8. Mai vom Roms Bürgermeister Pietro Venturi (1824–1892) ausgestellt: „Am 8. Mai unterschrieb der Stadtrat mein Bürgerdiplom, welches mir der Syndikus schon vorher gezeigt hatte. Die Urkunde auf Pergament ist ein schönes, mit vielen Miniaturen verziertes Kunstwerk. Sie wurde mir am 9. Mai des Abends ohne weitere Form in das Haus geschickt, wie man mir vorher einen Orden so zugeschickt hatte. Ich ging folgenden Tages aufs Kapitol, dem Syndikus zu danken.“ (RT, 20.5.1876, S. 368–369 sowie eine Kopie der Urkunde im Nachlass BSB München, NL Gregorovius, Gregoroviusiana 18). Eine Beschreibung der von dem Graveur Francesco Bedoni gestalteten Urkunde findet sich in: Il Diritto. Giornale della Democrazia Italiana. Jg. 23. Rom 10.5.1876. </note></seg>. Questo caso di fortuna mi fa sorridere, mentre fa giubilare il mio <persName key="G001203">fratello</persName>, il quale <pb n="2v"/>come capo di famiglia tiene molto a queste cose. Mi scrive ancora, che la cittadinanza del povero paese di <seg type="comment"><orig><placeName key="ed_qlh_vcc_hmb">Neidenburg</placeName></orig><note xml:id="nwqz_zdw_zlb">Die Heimatstadt der Gregorovius-Brüder.</note></seg> non cape più nella pelle sua per la grande contentezza che pruova dell’essersi un piccolo concittadino suo elevato al sommo grado di cittadino Romano.</p>
+<p xml:id="p8" next="#p9">Ma volevo parlare dello stemma mio, e non ne so dire nulla, in quanto ai colori. Per altro ne ho esposto l’opinione mia al Lindemann. Se dunque, come pare a me, i colori gentilizi non si ritruovano simboleggiati in quello stemma, forza è che io gli inventi di pianta. Si divida dunque lo stemma in due parti, rossa l’una, l’altra bianca (quella di sotto, intendo) – è tradizione in casa nostra, che l’uccello sia un corvo, quantunque io lo creda piuttosto una colomba, con un’annello d’oro in becco. Non importa. L’elmetto deve esser di color d’argento; il ferro di cavallo nerastro; la bandina azzurina. E basta – Mi scriva due righe – godo di pensare, che la stampa </p>
+<p xml:id="p9" prev="#p8" place="left" rendition="#rotate90">del <bibl sameAs="ed_ryn_pjn_plb">suo libro</bibl> stia in buona via. Tanti saluti affettuosi alla signora<persName key="G001215"> <seg type="comment"><orig>Grunelius</orig><note xml:id="nskh_b2w_zlb">Die in Baden-Baden wohnhafte Adelheid Grunelius, geb. Fecht (1813–1887), Witwe des Frankfurter Bankiers Moritz Eduard Grunelius (1803–1846) und Mutter von Wilhelmine Tachard-Grunelius (1836–1927), die seit 1851 immer wieder für längere Aufenthalte nach Rom gekommen war. Gregorovius scheint sie erst bei einem Romaufenthalt von November 1861 bis Mai 1862 kennengelernt zu haben; es entwickelte sich schnell ein freundschaftliches Verhältnis. Später besuchte Gregorovius sie des Öfteren in der Villa Grunelius in Baden-Baden.</note></seg></persName> e sua famiglia tutt’intera. Amichevolmente</p>
+<closer>
+<signed rendition="#right" place="left">il suo F Gregorovius. <lb/></signed>
+<note type="postscript" rendition="#rotate90" place="left"><pb n="1r"/>Prego di salutar da parte mia <seg type="comment"><orig>il gentilissimo Filippo <persName key="G001012">Cagiati</persName></orig><note xml:id="nbbl_c2w_zlb">Filippo Cagiati (*1821) initiierte die Petition zur Verleihung der Ehrenbürgerwürde Roms an Gregorovius, die dem römischen Bürgermeister am 12. Februar von einer Gruppe von Befürwortern übergeben wurde. Gregorovius war über die öffentliche Petition beschämt: „Diese Römer, namentlich Cagiati, welchen ich entfernter stand als anderen […], beschämten also durch praktische Teilnahme viele meiner sogenannten Freunde aus langer Bekanntschaft, ja aus täglichem Umgange, wie namentlich die Mitglieder des Hauses Caetani.“ (RT, 1.3.1876, S. 361–362).</note></seg>.</note>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000262">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Carl Freiherr Cotta von Cottendorf in Stuttgart. Rom, 25. Dezember 1867</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (80)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ½ S. – 1r + 2r aoR in einer Vignette geprägt: Roma – 1r aoR Eingangsvermerk: <hi rendition="#aq">R</hi>. 31/XII 67 </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 55, Mappe 336–337 (nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die Bildnisse des verstobenen Johann Georg Freiherr Cotta von Cottendorf und seines Sohnes Carl. Der Vater hatte die Entstehung seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) mit persönlicher Teilnahme begleitet. Es ist ein Trost, sein vor dem Abschluss stehendes Werk bald dem Sohn und Nachfolger übergeben zu können. In Rom ist der vereitelte Versuch von Giuseppe Garibaldis Rom einzunehmen noch immer Thema. Carl von Cottas Ehefrau Amélie Charlotte und seiner Tante Ida Freifrau von Reischach hat er die von Karl Lindemann-Frommel illustrierte Ausgabe seiner Reiseschilderung „Die Insel Capri“ (1868) gesandt. Grüße an Hermann Freiherr von Reischach und seinen Sohn Hermann Albert. Sollte sein kürzlich übersandter Artikel „Mentana. Fünf Wochen römischer Geschichte“ nicht in der „Allgemeinen Zeitung“ zum Abdruck kommen, schlägt er vor, ihn in einer anderen Cotta-Zeitschrift zu veröffentlichen. Grüße an Moritz Hartmann.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1867-12-25" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001053">Cotta von Cottendorf, Carl Freiherr von (1835–1888)</persName>
+<placeName key="G000879">Stuttgart</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right"><hi rendition="#aq">Rom</hi>, Weihnachtstag 67 <lb/>Via Gregoriana 13.</dateline>
+</opener>
+<p>Ihre freundliche Sendung, verehrter Herr Baron, ist zu mir gelangt, u<ex>nd</ex> verpflichtet mich Ihnen zu dem wärmsten Dank. Ich habe das Porträt Ihres <seg type="comment"><orig><persName key="G001055">Herrn Vaters</persName></orig><note xml:id="nim1_p55_gmb">Johann Georg Freiherr Cotta von Cottendorf (*1796) war am 1. Februar 1863 plötzlich verstorben.</note></seg> nebst dem Ihrigen in mein Album gelegt als <add place="intralinear">mir</add> bedeutungsvolles Zeugniß der Vergangenheit wie der Gegenwart. Die größesten Mühen und Freuden meines Lebens sind durch die <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Geschichte der Stadt Rom</bibl> mit Ihrem <orgName key="G000523">Hause</orgName> verbunden, u<ex>nd</ex> wenn es mich schmerzt, daß Ihr Herr Vater, welcher die persönlichste Teilnahme für dieses Werk besaß, hinwegstarb, ehe ich es ihm vollendet übergeben konnte, so ist es doch tröstlich für mich, daß jene auf dessen Sohn u<ex>nd</ex> Nachfolger übergegangen ist.<?oxy_comment_start author="Angela Steinsiek" timestamp="20181221T200754+0100" comment="Nach dem Tod Johann Georg Freiherr von Cotta wurde der Verlag zunächst von dessen Teilhaber Louis Roth (1802–1875) geführt, dann bis 1875 von seinem Sohn Carl Freiherr Cotta von Cottendorf (1835–1888) und seinen Vetter Hermann Albert Freiherr von Reischach (1826–1876)."?> <?oxy_comment_end?>Ich habe nun Hand an den letzten Band gelegt, den schwierigsten wegen der Fülle des Materials, während mich zugleich der Gedanke traurig macht, in wenigen Jahren von einer Arbeit zu scheiden, welche, wenn sie vollendet ist, 15 Jahre meines Lebens <pb n="1v"/>wird ausgefüllt haben, wonach ich auch dessen eigentliche Aufgabe für geleistet betrachten muß.</p>
+<p>Gleich nach meiner Rückkehr nach Rom erlebte ich hier das modernste u<ex>nd</ex> auch kläglichste Stück der Geschichte der Stadt, unter dessen Folgen, Belagerungszustand u<ex>nd</ex> andre schöne Dinge, wir noch leiden.<?oxy_comment_start author="Angela Steinsiek" timestamp="20181221T200810+0100" comment="Nach seinem vorübergehenden Rückzug hatte Giuseppe Garibaldi (1807–1882) im Oktober 1867 mit einigen Freischaren versucht Rom einzunehmen, was durch die Schlacht bei Mentana vereitelt wurde."?> <?oxy_comment_end?>Diese Verwirrungen dürfen Sie indeß nicht abhalten, Ihren Plan einmal hierher zu kommen auszuführen. Um Sie u<ex>nd</ex> Ihre <persName key="G001051">Frau <?oxy_comment_start author="Angela Steinsiek" timestamp="20181221T200823+0100" comment="Carl von Cotta war mit Amélie Charlotte, geb. de la Harpe (1835–1915) verheiratet."?>Gemalin<?oxy_comment_end?></persName>, welcher wie der <persName key="G001540">Frau Baronin von <?oxy_comment_start author="Angela Steinsiek" timestamp="20181221T200836+0100" comment="Die Frau von Hermann Freiherr von Reischach (1798–1876), Ida Freifrau von Reischach, geb. Cotta von Cottendorf (1806–1862), eine Schwester von Johann Georg von Cotta (1796–1863)."?>Reischach<?oxy_comment_end?></persName> ich mich freundlich zu empfehlen bitte, dazu anzulocken, habe ich mir erlaubt, an beide Damen das Capri-Album zu senden, wenigstens in der Einbildung, daß der Anblick der schönen Zeichnungen <persName key="G001375">Lindemanns</persName> sie erfreuen würde. Ich habe dieses Werk selbst noch nicht gesehen, doch kenne ich die Zeichnungen auf Holz, wo sie sich reizend genug ausnahmen.<?oxy_comment_start author="Angela Steinsiek" timestamp="20181221T200904+0100" comment="Die soeben erschienene illustrierte Quartausgabe seines Aufsatzes aus dem ersten Band der „Wanderjahre in Italien“ (1864) mit acht ganzseitige Illustrationen: Die Insel Capri. Mit Bildern und Skizzen von Karl Lindemann-Frommel. Holzschnitte aus den xylographischen Anstalten von R. Brend’Amour, F. A. Brockhaus, Gebrüder Dalziel u. G. Flegel. Leipzig: Dürr 1868."?></p><?oxy_comment_end?>
+<p><pb n="2r"/>Man schreibt mir aus <placeName key="G000664">Deutschland </placeName>von viel Schneefall u<ex>nd</ex> Kälte, wo denn auch Ihr schönes Stuttgart nicht recht geheuer sein mag. Indeß auch wir haben hier Kälte genug, nämlich manchmal nur 1 bis 2 Grad Wärme.</p>
+<p>Ich bitte mich dem Herrn Baron Reischach, <persName key="G001538"><seg type="comment"><orig>Vater</orig><note xml:id="ntnl_gv5_gmb">Hermann Freiherr von Reischach (1798–1876), Schwager von Johann Georg von Cotta (1796–1863) – verheiratet mit dessen Schwester Ida Freifrau von Reischach, geb. Cotta von Cottendorf (1806–1862) – und Mitinhaber des Verlags.</note></seg></persName> u<ex>nd</ex> <persName key="G001537"><seg type="comment"><orig>Sohn</orig><note xml:id="nqng_hv5_gmb">Hermann Albert Freiherr von Reischach (1826–1876), mit dem Carl von Cotta den Verlag bis 1876 leitete.</note></seg></persName>, freundlich zu empfehlen. Die schönen Stunden, welche diese Herren u<ex>nd</ex> Sie selbst mir in Stuttgart gegönnt haben, sind in meiner Erinnerung, wie mein ganzer dortiger Aufenthalt, bewahrt. Auch <seg type="comment"><orig><persName key="G001559">Herrn Roth</persName></orig><note xml:id="njkp_3v5_gmb">Louis Roth (1802–1875), seit dem Tod des Senior-Verlegers Johann Georg Freiherr Cotta von Cottendorf am 1. Februar 1863 Geschäftsführer der J. G. Cotta’schen Buchhandlung</note></seg> bitte ich freundlich zu grüßen. Und so, verehrter Herr Baron, die besten Wünsche zum neuen Jahr für Ihr Aller Wolergehen</p>
+<closer>
+<salute rendition="#c">von Ihrem aufrichtig ergebenen</salute>
+<signed rendition="#right"><hi rendition="#aq">F. Gregorovius</hi>.</signed>
+<note type="postscript" place="left" xml:id="n1" next="#n2">
+<p>Ich habe eine Bitte an die Cottasche Buchhandlung: Die <seg type="comment"><orig>Sendung von 150 Thalern Preuß<ex>ischen</ex> Werts, welche der Gutsbesitzer <persName key="G001277"><hi rendition="#aq">Adolf Hillmann</hi></persName> aus <placeName key="G000701">Nordenthal</placeName> in Ostpreußen im Januar an mich zu machen hat</orig><note xml:id="nstn_lv5_gmb">Der Gutsherr auf Nordenthal und spätere Abgeordnete des Wahlkreises Gumbinnen im Deutschen Reichstag, Adolf Hillmann (1816–1880), war der Bruder von Gregorovius’ enger Freundin Pauline Hillmann (*1822), die im April 1866 in Florenz verstorben war. Gregorovius hatte das Erbe Pauline Hillmanns ausgeschlagen, ließ sich von ihrem Bruder aber fortan jährlich den Zinsertrag von 150 Talern aus dem ihm zugedachten Erbe über den Cotta-Verlag zusenden.</note></seg>, in meinem Namen anzunehmen, u<ex>nd</ex> mir dafür den Betrag in einem Wechsel auf <placeName key="G000620">Augsburg</placeName> nach Rom zu kommen zu laßen. Dies würde mir u<ex>nd</ex> jenem Herrn einige Weitläufigkeiten u<ex>nd</ex> Verluste ersparen. <pb n="2v"/>Ich würde Ihnen sehr dankbar sein, wenn Sie mir diese Gefälligkeit bewilligen wollen.</p>
+<p xml:id="p2" next="#p3">Der Redaction der <orgName key="G000462">Allg<ex>emeinen</ex> Zeit<ex>ung</ex></orgName> schickte ich Ende Nov<ex>em</ex>b<ex>e</ex>r ein Manuscript von 1. Bogen Stärke, <seg type="comment"><orig><bibl corresp="G003933 G003934 G003935 G003936 G003937 G003938">die Darstellung der jüngsten Ereigniße Rom’s enthaltend</bibl></orig><note xml:id="nqtm_gnv_gmb">Siehe den Brief von Gregorovius an die Cotta’sche Buchhandung vom <ref target="G000261">29.11.1867</ref>. Sein Beitrag erschien unter dem Titel „Mentana, fünf Wochen römische Geschichte“ in sechs Folgen vom 19.-24.12.1867 in der „Allgemeinen Zeitung“ – er wurde unter dem Titel „Der Krieg der Freischaren um Rom“ in den 4. Band der „Wanderjahre in Italien“ (1871) aufgenommen.</note></seg>. Im Falle es angelangt ist, und der Redaction nicht convenirt, wünsche ich dasselbe zu Ihrer sonstigen Verfügung für Ihre anderen Journale gestellt zu wissen. </p>
+</note>
+<note type="postscript" xml:id="n2" prev="#n1" place="left" rendition="#rotate90"><pb n="1r"/>Ich bitte <seg type="comment"><orig><persName key="G001237">Moritz Hartmann</persName> bestens von mir grüßen zu wollen</orig><note xml:id="nxxh_2v5_gmb">Moritz Hartmann (1821–1872) war seit 1863 in Stuttgart Redakteur der „Allgemeinen Zeitung“ und der Zeitung „Freya“.</note></seg>.</note>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

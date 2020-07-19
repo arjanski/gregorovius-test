@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000068">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Theodor Heyse in Florenz. Rom, 24. April
+                    1857</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository> Archiv der BBAW</repository><collection>NL Th. Heyse</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°. 1 ¾ S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 84, Mappe 6 (Alfred Löckle nach
+                                        H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er soll den in Florenz ansässigen Überbringer des Briefes François Sabatier und seine Frau Caroline Ungher sowie deren Pflegetochter Louise Bouquet kennenlernen, die den Winter in Rom verbracht haben. Er dankt für die Unterstützung beim Druck der italienischen Teilübersetzung seines „Corsica“ von Paolo Perez (1857). </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He is to meet François Sabatier, the Florence-based bearer of the letter, and his wife Caroline Ungher and their foster daughter Louise Bouquet, who spent the winter in Rome. He is grateful for the assistance with the publication the partial Italian translation of his „Corsica“ by Paolo Perez (1857). </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1857-04-24" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001275">Heyse, Theodor (1803–1884)</persName>
+                    <placeName key="G000671">Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+                <opener>
+                    <dateline rendition="#c"><hi rendition="#aq">Roma</hi> 24. <hi rendition="#aq">April</hi> 1857.</dateline>
+                    <salute rendition="#c">Verehrtester Freund,</salute>
+                </opener>
+                <p>diese wenigen Zeilen u<ex>nd</ex> viele Grüße bringt Ihnen <persName key="G001565"><hi rendition="#aq"><seg type="comment"><orig>Francoir Sabatier</orig><note xml:id="nqpy_1t5_slb">Der vermögende französische Gelehrte, Kunstkritiker und Übersetzer François Sabatier (1818–1891), Sohn eines reichen Bankiers und Grundbesitzers nahe Montpellier, zu dem sich eine lebenslange Freundschaft entwickelte. Gregorovius hatte Theodor Heyse das in Florenz ansässige Ehepaar Sabatier-Unger schon im seinem Brief von <ref target="G000025">Weihnachten 1856</ref> empfohlen.</note></seg></hi></persName>, der Sie gern kennen lernen möchte, da er auch <bibl sameAs="G004273">Ihren <hi rendition="#aq">Catull</hi></bibl> kennt – ein viel begabter Mann u<ex>nd</ex> Mensch, wie seine Frau <hi rendition="#aq"><hi rendition="#aq"><persName key="G001665"><seg type="comment"><orig>Caroline Unger</orig><note xml:id="nahh_nt5_slb">Die ehemalige österreichische Sopranistin Caroline Unger (1803–1877). Siehe den Brief von <ref target="G000025">Gregorvius an Theodor Heyse, Weihnachten 1856</ref>.</note></seg></persName></hi>,</hi> u<ex>nd</ex> <seg type="comment"><orig>Pflegetochter <persName key="G000990"><hi rendition="#aq">Louise</hi></persName></orig><note xml:id="ntyb_rt5_slb">Ihre Pflegetochter Louise Bouquet (1835–1906), die Tochter des Malers Auguste Bouquet (*1810), ein enger Freund von François Sabatier, der 1846 in Lucca einem Lungenleiden erlegen war. Sie erhielt eine umfassende Ausbildung, auch als Malerin; 1865 heiratete sie den Historiker Michele Amari (1806–1889).</note></seg> ganz seltene Naturen sind. Es ist mein sehnlicher Wunsch, daß Sie diese Familie kennen lernten, u<ex>nd</ex> wenn dies der Fall gewesen, werden Sie dieselbe auch lieb gewinnen. Durch <hi rendition="#aq"><orgName key="G000528">Le Monnier</orgName></hi> erfuhr ich, daß Sie mir gewohnter <hi rendition="#aq">Liberalität</hi> den Correctoren von der <bibl sameAs="G004322"><seg type="comment"><orig><hi rendition="#aq">Perez</hi> Übersetzung</orig><note xml:id="ndm3_yt5_slb">Paolo Perez (1822–1879) hatte einen Auszug von Gregorovius’ „Corsica“ (Stuttgart: Cotta 1854) übersetzt: Storia dei Corsi. Florenz: Tip. Felice Le Monnier 1857.</note></seg><seg type="comment"><orig> <hi rendition="#aq"><foreign xml:lang="Lat">de rebus Corsicis</foreign></hi></orig><note xml:id="nwpk_b55_slb">Lat.: Über die korsischen Angelegenheiten.</note></seg></bibl> Ihren Rat u<ex>nd</ex> Aushilfe gaben – u<ex>nd</ex> diese Nachricht hat mich bis zur Rührung erfreut.</p>
+                <p>In dem <seg type="comment"><orig>Katalog meiner Briefe</orig><note xml:id="nwcv_c55_slb">Nicht erhalten.</note></seg> (Sie sehen ich bin ordentlich wie ein <hi rendition="#aq">Scholasticus</hi> oder <hi rendition="#aq">Notar</hi>) finde ich, daß ich <seg type="comment"><orig>einen Brief an Sie schickte am 24. Dec<ex>em</ex>b<ex>e</ex>r 1856</orig><note xml:id="nsb2_255_slb"><ref target="G000025">Gregorovius an Theodor Heyse, Weihnachten 1856</ref>.</note></seg>. Ich hoffe, daß Sie ihn erhalten haben. Warum darf <add place="intralinear">ich</add> <pb n="1v"/>nichts hören von dem, was Sie betroffen hat u<ex>nd</ex> betrifft – möchte es alles Gute sein. <hi rendition="#aq">Sabatier</hi> wird Ihnen erzählen, wie angenehm wir den Winter, zumal unter musical<ex>ischen</ex> Genüßen, zugebracht haben. Ein lebendiges Wort ist mehr als ein Kasten voller Briefe. Darum schließe ich mit den Worten eines Chronisten: <hi rendition="#aq"><foreign xml:lang="Lat"><seg type="comment"><orig>multum esset scribendum, quod dimitto in calamo</orig><note xml:id="nnms_g55_slb">Lat.; Zitat aus den Aufzeichnungen eines Chronisten des 15. Jahrhunderts, Diar. Romanum Antonii Petri ab A. 1404–1417 – dt. etwa: Vieles wäre zu schreiben, was ich in der Feder lasse. Siehe Geschichte der Stadt Rom im Mittelalter, Bd. 6 (1867), S. 671, FN 2.</note></seg></foreign></hi>. </p>
+                <closer>Heil u<ex>nd</ex> Segen, u<ex>nd</ex> hoffentlich ein gutes Wiedersehn <seg type="comment"><orig>Ende Juni, wenn ich meinen Sommerplan für jene Gegenden ausführen sollte</orig><note xml:id="nk2n_355_slb">Gregorovius fuhr erst im Juli 1858 nach Florenz, wo er Theodor Heyse wiedersah. Er blieb bis zum 28. September 1858 Gast in der Villa Sabatier (siehe RT, 15.7.1858, S. 72–75).</note></seg>! <signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi>.</signed> <note type="postscript" rendition="#right"><hi rendition="#aq">Via della Purificazione N<ex>ummer</ex></hi> 63.</note></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

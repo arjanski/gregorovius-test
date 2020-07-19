@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000043">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Carl Alexander Großherzog von
+                    Sachsen-Weimar-Eisenach in Weimar. Rom, 4. Februar 1858</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Landesarchiv Thüringen – Hauptstaatsarchiv Weimar</repository><collection>Großherzogliches Hausarchiv A XXVI</collection><collection>Nr. 319 (Bl. 2–3)</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 4°, 2 ¾ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GSA Weimar</institution><collection>96/4337c (vfrH)</collection></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno><idno type="shelfmark">Karton 86, Mappe 7 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+    <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno><idno type="shelfmark">Karton 82, Mappe 7 (nach h2)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Von seiner großen Aufgabe der „Geschichte der Stadt Rom im Mittelalter“ (1859–1872), vor der seine Vorgänger und römischen Kollegen Edward Gibbon, Carlo Fea, Pietro Ercole Visconti, Giovanni Battista De Rossi und Felix Papencordt zurückschreckten, hat er die ersten zwei Bände (1859) im Manuskript abgeschlossen. Er will nicht nur ein poltisches Geschichtswerk schreiben, sondern alle Aspekte des Lebens und der Kultur mit einbeziehen. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He completed the first two volumes (1859) of the manuscript of his great task „Geschichte der Stadt Rom im Mittelalter“ (1859–1872), which his predecessors and Roman colleagues Edward Gibbon, Carlo Fea, Pietro Ercole Visconti, Giovanni Battista De Rossi and Felix Papencordt shrank from. He does not only want to write a political history book, but wants to include all aspects of life and culture. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1858-02-04" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+<persName key="G001022">Carl Alexander, Großherzog von Sachsen-Weimar-Eisenach (1818–1901)</persName>
+                    <placeName key="G000896">Weimar</placeName>
+                </correspAction>
+<correspContext>
+<ref type="prev">29. Dezember 1857 (BSB München, NL Gregorovius, Gregoroviusiana 21)</ref>
+<ref type="next">30. März 1858 (BSB München, NL Gregorovius, Gregoroviusiana 21)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+<opener>
+<salute rendition="#c">Durchlauchtigster <seg type="comment"><orig>Fürst und Herr</orig><note xml:id="nagm_4rc_tlb">Carl Alexander Großherzog von Sachsen-Weimar-Eisenach (1818–1901) hatte 1853 die Nachfolge seines Vaters, Großherzog Carl Friedrich (1783–1853), angetreten. Er erhielt auf Veranlassung seiner Mutter, der Zarentochter Maria Pawlowna (1786–1859), eine umfassende Bildung. Er studierte Geschichte, Jura und Naturwissenschaften in Leipzig und Jena und unternahm Bildungsreisen nach Italien, Wien, Ungarn, England, Russland und in die Niederlande. 1841 wurde er als Jurist promoviert und durchlief nur eine kurze militärische Ausbildung in Breslau. 1842 heiratete er seine Cousine, Prinzessin Sophie von Oranien-Nassau (1824–1897), mit der er einen Sohn und drei Töchter hatte. Der sprachbegabte und kunst-, literatur- und geschichtsinteressierte Großherzog sah sich in der Tradition des „Musenhofs“ seiner Urgroßmutter Anna Amalia (1739–1807). Mit zahlreichen Künstlern, Schriftstellern, Musikern und Historikern stand er in engem (auch brieflichem) Kontakt. Auf ihn geht der historisierende Ausbau der Wartburg als „Denkmal deutscher Geschichte“ zurück. Er förderte Franz Liszt (1811–1886), Richard Wagner (1813–1883) und Hector Berlioz (1803–1869), stiftete 1860 die Kunstschule Weimar, 1872 die Musikschule und gründete 1886 das Goethe-Nationalmuseum; Großherzogin Sophie gab den Bau des 1896 eröffneten Goethe- und Schiller-Archivs in Auftrag. – Großherzog Carl Alexander war Ende Dezember 1857 brieflich an Gregorovius herangetreten und hatte seine Bewunderung für dessen Werke zum Ausdruck gebracht. Die vermutlich nahezu vollständig erhaltenene Korrespondenz (10 Briefe von und 15 Briefe an Gregorovius) ist vom Werben des Großherzogs und der geschmeichelten Reserviertheit von Gregorovius geprägt, der ein Stipendium mit Verweis auf seine Unabhängigkeit ablehnte, wie auch die Autorschaft der Geschichte der Wartburg und die der Biographie Bernhards von Sachsen-Weimar (1604–1639). Deutlich wird dies noch in den persönlich teilnehmenden Telegrammen des Großherzogs aus den letzten Lebensmonaten von Gregorovius (BSB München, NL Gregorovius, Gregoroviusiaina 21). Persönlich sind sich Carl Alexander und Gregorovius nie begegnet, doch hatte er ab Dezember 1865 (siehe RT, 17.12.1858, S. 202) engen Umgang mit dessen Sohn und Erbprinzen Karl August (1844–1894), der sich bis zum Frühling 1866 in Rom aufhielt.</note></seg>!</salute>
+</opener>
+<p>Die Stimme des hochgesinnten Herrschers jenes glücklichen Landes, deßen ruhmvolle Fürsten und Fürstinnen seit nun vielen Generationen der Stolz unserer Geistescultur, und die Liebe des <placeName key="G000664">Vaterlandes</placeName> sind, hat mein Inneres freudig und mächtig aufgeregt. Ew. Königlichen Hoheit <seg type="comment"><orig>huldreiches Schreiben</orig><note xml:id="ntq4_qrc_tlb">Am 29.12.1857 hatte Carl Alexander Großherzog von Sachsen-Weimar-Eisenach brieflich den Kontakt zu Gregorovius aufgenommen, dessen Schriften er schon länger bewundere und ihn gebeten, ihn insbesondere über seine „Grabmäler der Päpste“ (1857) näher in Kenntnis zu setzen (BSB München, NL Gregorovius, Gregoroviusiana 21). Siehe auch RT, 10.6.1858, S. 70. Tatsächlich war Carl Alexander einer Empfehlung des von Gregorovius wenig geschätzen Schriftstellers Joseph Victor Scheffel gefolgt (1826–1886), der dem Großherzog am 19. Dezember 1857 geschrieben hatte: „Ich erlaube mir, Euer Königlichen Hoheit […] einen Schriftsteller zu bezeichnen, der einsam und fern auf den Pfaden des Schönen wandelt u. wohl der Erwähnung verdient, die dem jenseits der Alpen Weilenden nicht allzu reich zu Theil wird. Es ist ein Norddeutscher, Ferdinand Gregorovius, seit Jahren in Rom, durch ein ethnographisch wie geschichtlich tüchtiges Buch über Corsica den Engländern und Franzosen fast mehr bekannt als seinen Landsleuten. Seine ‚Figuren aus Italien‘, wie die ‚Grabmäler der römischen Päpste‘ und mannigfache Schilderungen in der Allgemeinen Zeitung z. B. neulich die des Klosters Subiaco bewähren ihn als feinen Beobachter gegenwärtigen wie vergangenen italischen Lebens. Eine Weihnachtsgabe von ihm ist ‚Euphorion‘, eine Dichtung aus Pomjeji, die in schlichter an die Thätigkeit eines pompeijanischen Erzgiessers anknüpfender Darstellung den herzerschütternden Untergang jener blühenden Culturstätte von Neuem vor Augen führt. Alles, was von jener Feder ausgeht, trägt den Stempel anspruchsloser künstlerischer Arbeit; ein Zeichen der Anerkennung – u. wenn es nur ein freundlich Wort ist, thut dem von der Heimath Getrennten wohl und erfrischt wie perlender Morgenthau. Euer Königliche Hoheit, die mit so reichem Gemüth Allem zugewandt ist, was in den stillen Werkstätten der Kunst geschaffen wird, werden mich nicht tadeln ob einer Sympathie, die kaum eine persönliche ist, da ich dem Genannten nur zwei oder dreimal auf römischen Campagnawanderungen flüchtig begegnet bin.“ (Briefwechsel zwischen Joseph Viktor von Scheffel und Carl Alexander, Großherzog von Sachsen-Weimar-Eisenach. Hrsg. von Conrad Höfer. Karlsruhe: Deutscher Scheffelbund 1928. S. 8–11, hier S. 10). Scheffel, einer der erfolgreichsten Schriftsteller seiner Zeit, hatte sich vom Juni 1852 bis zum Mai 1853 in Rom aufgehalten, kurz bevor sein erster Roman, „Der Trompeter von Säckingen“, erschienen war. 1858 und 1859 war Scheffel Hofbibliothekar in Donaueschingen. Im Tagebuch von Gregorovius wird Scheffel erst 1870 erwähnt: „Er empfing mich mit den Manieren eines Wilden, brüllte mir ganz unsinniges zusammenhangsloses Zeug entgegen, wobei er sich als Sozialdemokrat gebärdete – ich war erschreckt, glaubte, einen Betrunkenen oder Wahnsinnigen vor mir zu sehen“ (RT, 27.9.1870, S. 293). Abgestoßen war Gregorovius auch von Scheffel als Schriftsteller. 1876 heißt es in seinem Tagebuch: „Nichts war mir bei meiner Rückkehr nach Deutschland widerlicher als die Wahrnehmung des ungeheuren Beifalls, welchen die burschikosen Dichtungen Scheffels in der Nation finden“ (RT, 1.3.1876, S. 360).</note></seg> empfing ich wie Einer, dem ein unverdientes Glück widerfährt, und welcher solcher Überraschung nichts entgegenzustellen weiß, als den ernsten Wunsch, jenes einmal würdig zu sein.</p>
+<p>Meine Arbeiten sind gering wie meine Talente, und das Einzige, was sie zu beanspruchen wagen, ist die aufrichtige und unabhängige Liebe zur Wißenschaft und Wahrheit. Indem sie nun, Erlauchter Fürst, durch Ew. Königlichen Hoheit Billigung ausgezeichnet worden sind, empfange ich darin hohen Lohn, lebhafte Ermutigung, ernste Pflicht ihrer Fortsetzung.</p>
+<p>Als mich im Jahre 1852 die den Deutschen eingeborne Sehnsucht nach <placeName key="G000690">Italien</placeName> aus <placeName key="G000699">Königsberg</placeName> hierher führte, <seg type="comment"><orig>faßte ich den Plan die „<bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Geschichte der Stadt Rom im Mittelalter</bibl>“ zu schreiben</orig><note xml:id="nxx2_4vc_tlb">Tatsächlich hatte Gregorovius im Oktober 1854 den Entschluss gefasst, seine „Geschichte der Stadt Rom im Mittelalter“ (Stutttgart: Cotta 1859–1872) zu schreiben (siehe RT, 3.10.1854, S. 53).</note></seg>. Die Ruhe für seine Ausführung erkämpfte ich mir durch einige kleinere Schriften, und <seg type="comment"><orig>seit ungefähr drei Jahren bin ich an’s Werk gegangen</orig><note xml:id="nd3w_pvc_tlb">Mit der Niederschrift seines späteren 8-bändigen Hauptwerks hatte Gregorovius im Oktober 1855 begonnen (siehe RT, 26.11.1855, S. 57).</note></seg>. Zurückgeschreckt durch die Hinderniße die aus der Natur der Römischen Verhältniße einem Fremden sich erzeugen, durch die Unermeßlichkelt des Stoffs, <pb n="1v"/>endlich durch die fast furchtbare Größe der <seg type="comment"><orig>Aufgabe selbst, welche <persName key="G001171">Gibbon</persName> zuerst beabsichtigte</orig><note xml:id="nsxp_2xc_tlb">Edward Gibbon (1737–1794): History of the Decline and Fall of the Roman Empire, 6 Bde. London: Strahan &amp; Cadell 1782–1788.</note></seg>, <seg type="comment"><orig><hi rendition="#aq"><persName key="G001127">Fea</persName></hi> fallen ließ</orig><note xml:id="nktv_fxc_tlb">Der Jurist Carlo Fea (1753–1836) hatte sich bald der Archäologie zugewandt. Ab 1801 war er Kommissar der Altertümer Roms und hatte verschiedene Ausgrabungen geleitet. Fea hat die „Nuova Descrizione di Roma Antica e Moderna e de suoi Contorni“ (3 Bde., Rom 1820) geschrieben und eine annotierte italienische Übertsetzung von Johann Joachim Winckelmanns (1717–1758) „Geschichte der Kunst des Alterthums“ (Dresden 1764) herausgegeben: Storia Delle Arti Del Disegno Presso Gli Antichi. 3 Bde. Rom: Pagliarini 1783–1784.</note></seg>, <hi rendition="#aq"><persName key="G004702"><seg type="comment"><orig>Visconti</orig><note xml:id="ncpt_3xc_tlb">Die Visconti waren in Rom eine Archäologendynastie, die nach Winckelmann über hundert Jahre das Amt des Antikendirektors bekleideten. Pietro Ercole Visconti (1802–1880) war seit 1823 Mitglied der Accademia di Archeologia, 1836–1870 war er Commissario delle Antichità und 1836 Direktor der päpstlichen Museen. Visconti führte im Auftrag von Pius IX. ab 1855 systematische Grabungen in Ostia durch. Seine Geschichte der Familien Roms und des Kirchenstaats (Città e famiglie nobili e celebri dello Stato Pontificio. Dizionario storico del commendatore. 2 in 4 Bden. Rom 1847–1848) blieb unvollendet. Sein Nachfolger als Commissario delle Antichità wurde sein Neffe Carlo Ludovico (1818–1894).</note></seg></persName></hi> und <seg type="comment"><orig><hi rendition="#aq"><persName key="G001085">de Ross</persName>i</hi></orig><note xml:id="nj5g_4xc_tlb">Der Archäologe und Epigraphiker Giovanni Battista De Rossi (1822–1894) wurde besonders durch die Wiederentdeckung der Calixtus-Katakombe im Jahr 1849 (die Gregorovius in Frühjahr 1857 zusammen mit ihm besichtigte, siehe RT 14.6.1857, S. 66) und die Entdeckung des „Codex Amiatinus“ 1888 bekannt. Sein wichtigstes Werk sind die „Inscriptiones Christianae urbis Romae septimo saeculo antiquiores“ (2 Bde., Rom: Libr. Pontificia 1861–1888).</note></seg> als Römer nicht zu leisten wagen, schwankte ich lange in einem demütigen Verzagen. Aber es dünkte mir, daß ich fürder nicht würdig leben könnte, wenn ich nicht meine noch so geringe Kraft an dies Unternehmen setzte. Die Neuheit und Bedeutung des Gegenstandes, Reiz und Fülle dieser außerordentlichen Dinge forderten mich allzu lebhaft heraus, und ich sagte mir, daß, wenn den Römern ihre Geschichte zu schreiben verwehrt sei, keine Nation sonst ein tiefer begründetes Recht darauf habe, als die Deutsche: ich hoffte ein nationales Werk zu unternehmen, weil doch das Schicksal dieses ewige Rom durch lange Jahrhunderte an das Vaterland gebunden, und weil das Römische Reich Deutscher Nation dort mehr als die Titel seines Ruhms geholt hat.</p>
+<p>Indem ich seit fünf Jahren Rom in diesem Sinn betrachtete, und Materialien sammelte, habe ich die zwei ersten Bände des Werks vollendet, und richte sie zum Drucke ein. Sie umfaßen 400 Jahre, von dem <seg type="comment"><orig>ersten Falle Rom’s unter das Schwert des <persName key="G000910">Alarich</persName></orig><note xml:id="nox5_rxc_tlb">Die Plünderung der Hauptstadt des weströmischen Imperiums durch den westgotischen Heerführer Alarich (370–410) im Jahre 410, die zum Zerfall des weströmischen Reichs führte (siehe „Geschichte der Stadt Rom im Mittelalter“, Bd. 1, S. 113–121).</note></seg> bis zur <seg type="comment"><orig>Kaiserkrönung <persName key="G001330">Karls</persName></orig><note xml:id="nwjg_txc_tlb">Am 25. Dezember 800 wurde Karl der Große (747/748–814) im Aachener Dom als erster westeuropäischer Herrscher seit der Antike zum Kaiser gekrönt (siehe „Geschichte der Stadt Rom im Mittelalter“, Bd. 2, S. 536–548).</note></seg>. <seg type="comment"><orig>Vier andere Bände sollen die Geschichte bis auf die Mitte des XVI. Jahrhunderts weiter führen</orig><note xml:id="nypq_5xc_tlb">Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) wurde schließlich erst auf sieben, dann auf acht Bände erweitert und endete mit dem Sacco di Roma 1527.</note></seg>. Meine Aufgabe ist nicht allein die <seg type="comment"><orig>politische Geschichte der Stadt, wie sie <pb n="2r"/>der verdiente <persName key="G001469">Papencordt</persName> einst beabsichtigte</orig><note xml:id="np2l_xxc_tlb">„Geschichte der Stadt Rom im Mittelalter“ von Felix Papencordt (1811 oder 1812–1841), die Constantin von Höfler (1811–1897) 1857 aus dessen Nachlass herausgab.</note></seg>, sondern das allseitige Gemälde ihrer Metamorphosen, der Geschichte Ihrer Ruinen, ihrer Kunst und Literatur, ihrer Sagen, der Sitten des Volks, der Kämpfe der Römer mit dem Papsttum, endlich der eigentümlichen und localen Gestaltung des Christentums, ja des Mittelalters überhaupt in Rom.</p>
+<p>Es demütigt mich, eine so bedeutende und ungewiße Ferne aufgerollt zu haben: doch immer ist es, wie die Alten sagen, schön, nach dem Großen auch nur zu streben. Und wenn ich die Segel meines kleinen Schiffs allzukühn auf hoher See erhebe, so überlaße ich Steuer und alles Übrige jener höchsten Intelligenz, welche das Maß der Arbeit an die Sterblichen verteilt.</p>
+<p>Auf Ew. Königlichen Hoheit Befehl habe ich meine Bekenntniße hier aufgeschrieben; sind sie zu lang, so hoffe ich da mich der Gegenstand so sehr erfüllt, gnädige Verzeihung.</p>
+<closer>
+<salute xml:id="s1" next="#s2">Voll Ehrfurcht </salute>
+<salute xml:id="s2" prev="#s1" rendition="#c" next="#s3">Durchlauchtigster Fürst und Herr, <lb/>Ew. Königlichen Hoheit </salute>
+<salute xml:id="s3" prev="#s2" rendition="#right">sehr dankbarer Diener</salute>
+<signed rendition="#right">Ferdinand Gregorovius</signed>
+<dateline>Rom. 4. Februar 1858. </dateline>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

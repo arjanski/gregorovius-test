@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000005">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an die Redaktion der Allgemeinen Zeitung in Augsburg.
+                    Rom, 19. Mai 1853</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (2c)</idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 4°, 1 S. – 1r aoR in einer Vignette geprägt: BATH – 1v auR, Blatt um 180° gedreht, Adr.: Der sehr geehrten Redaction / der Allg<ex>emeinen</ex> Zeit<ex>ung</ex></p>
+<p>Manuskript seines Artikels „Der Ghetto und die Juden in Rom“</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er übersendet den vorliegenden Brief mit dem Manuskript seines Artikels „Der Ghetto und die Juden in Rom“ als Beischluss zum Brief an Johann Georg Freiherr Cotta von Cottendorf (20. Mai 1853). Er fragt, ob das am 25. April 1853 abgesandte Manuskript seiner „Römischen Figuren“ angekommen ist. Er möchte wissen, ob der Numismatiker Heinrich Hirsch einen Beitrag über die Juden in Livorno als Seitenstück zu seinem eigenen Artikel einsenden soll. Er bittet um Abzüge aller seiner Beiträge aus der „Allgemeinen Zeitung“.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He encloses this letter as well as the manuscript of his article „Der Ghetto und die Juden in Rom“ with the letter to Johann Georg Freiherr Cotta von Cottendorf (May 20th, 1853). He asks whether the manuscript of his „Römische Figuren“, sent on April 25th, 1853, has arrived. He would like to know whether the numismatist Heinrich Hirsch should send a contribution about the Jews in Livorno as a companion piece to his own article. He asks for copies of all his contributions to the „Allgemeine Zeitung“. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1853-05-19" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="G000462">Allgemeine Zeitung</orgName>
+                    <placeName key="G000620">Augsburg</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Rom den 19 Mai 1853. </dateline>
+                    <salute rendition="#c">Der sehr geehrten Redaction der Augsburger Allg<ex>emeine</ex><ex>n</ex> Zeitung </salute>
+                </opener>
+                <p>übersende ich ganz ergebenst beikommende Abhandlung <bibl corresp="G003799 G003800 G003801 G003805 G003806"><seg type="comment"><orig>„Der Ghetto u<ex>nd</ex> die Juden in Rom“</orig><note xml:id="nhc3_jfz_klb">Vorliegender Brief mit dem Manuskript des Artikels von Gregorovius „Der Ghetto und die Juden in Rom“ wurden als Beischluss zum Brief von <ref target="G000006">Gregorovius an Johann Georg Freiherr Cotta von Cottendorf vom 20.5.1853</ref> gesandt. Das Manuskript von „Der Ghetto und die Juden in Rom“ hatte er in seinem Brief an Cotta vom 26.4.1853 angekündigt (DLA Marbach, Cotta-Archiv, Cotta-Briefe, 2b). Der Beitrag wurde vom 7.9.1853 bis 21.9.1853 in 5 Folgen in der Beilage der „Allgemeinen Zeitung“ gedruckt. </note></seg></bibl> welche ich Ihnen anzukündigen mir erlaubt, Ich habe nämlich unterm 25. April per post an Sie abgesandt einen gleich umfangreichen Aufsatz <seg type="comment"><orig><bibl corresp="G003791 G003792 G003793 G003794 G003795 G003796 G003797 G003798">„Römische Figuren“</bibl></orig><note xml:id="nimb_rfz_klb">Mit seinem Brief vom 26.4.1853 an Cotta hatte Gregorovius das Manuskript seiner „Römischen Figuren“ gesandt; sie wurden in 8 Folgen vom 21.5.1853 bis 12.6.1853 in der Beilage der „Allgemeinen Zeitung“ gedruckt (DLA Marbach, Cotta-Archiv, Cotta-Briefe, 2b).</note></seg>, von dem ich wünsche <del rendition="#s">ich</del>, daß er Ihnen richtig zugekommen sein möge. Ist das nicht der Fall gewesen, so erbitte ich mir gefällige Benachrichtigung; denn es soll sich wol ereignen, daß Sendungen verloren gehen.</p>
+                <p>Was den beikommenden Artikel betrifft, so glaube ich, er wird recht interessiren, u<ex>nd</ex> ich glaubte, im Interesse Ihrer geehrten Zeitung zu handeln, indem ich an einen meiner Bekannten in <placeName key="G000715">Livorno</placeName> die Aufforderung richtete, eine kleine Abhandlung über die Juden in Livorno, da doch nebst Rom dies Volk Israel in Livorno historisch am merkwürdigsten ist, was <placeName key="G000690">Italien</placeName> betrifft. Dieser mein Bekannter ist ein <placeName key="G000620">Augsburger</placeName> Numismatiker, <seg type="comment"><orig><persName key="G001281">Herr Hirsch</persName></orig><note xml:id="nhl2_nhz_klb">Der aus Kriegshaber bei Augsburg stammende Numismatiker Heinrich Hirsch (1820–1886) war ursprünglich Philologe, ab 1872 Mitglied der Wiener numismatischen Gesellschaft. Hirsch gründete ein eigenes Geschäft und handelte vor allem mit antiken und italienischen Münzen, da er im Winter immer wieder in Rom und im Sommer in München lebte. Gregorovius kannte ihn seit 1852, als er mit ihm in Livorno und Elba war (siehe RT, S. 44).</note></seg> aus <placeName key="G000598">Kriegshaber</placeName> wie ich glaube, u<ex>nd</ex> da er selber Jude ist, so wird er besser Auskunft geben können als ich. Er hat mir zugesagt, solchen Artikel zu liefern u<ex>nd</ex> vorbehaltlich Ihrer Genehmigung wird er Ihnen zur Zeit zugehen. So möchte sich der Ghetto Roms dadurch später vervollständigen.</p>
+                <p>Schließlich erlaube ich mir die Bitte, alle Artikel, welche ich für Ihre Zeitung schreibe u<ex>nd</ex> geschrieben habe, mir in einem Exemplar zurückzulegen u<ex>nd</ex> gelegentlich einmal durch die <orgName key="G000523">J. G. Cottasche Buchhandlung</orgName> an mich gelangen zu laßen, was sich vielleicht <del rendition="#s">in</del> einer späteren Buchsendung beifügen ließe.</p>
+                <closer rend="paragraph">
+<salute xml:id="s1" next="#s2" rendition="#c">Mit der größten Hochachtung </salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">Ihr ganz ergebener</salute>
+<signed rendition="#right">FGregorovius</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

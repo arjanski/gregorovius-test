@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_j1g_154_slb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. München, 19. September 1880</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free">
+                <licence target="http://creativecommons.org/licenses/by/4.0/">
+                    Creative Commons Attribution 4.0 International (CC BY 4.0)
+                </licence>
+            </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell’Archiginnasio</institution><collection>Ms. Gozzadini 442 </collection><idno>(36)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für zwei Exemplare von Gozzadinis Schrift „Di alcuni monumenti che ricordano i conti di Panico“ (1880); eines wird er an die Akademie der Wissenschaften weiterleiten. Über die schwierige Zeit, die Ersilia Caetani Lovatelli durchmacht. Hermann Elgnowski geht zum Studieren nach Leipzig, mit den Geschwistern ist er in München vereint. Für die Publikation der Humboldt-Korrespondenz hat er das Vorwort verfasst (Briefe Alexanders von Humboldt an seinen Bruder Wilhelm. Hrsg. von der Familie Humboldt in Ottmachau 1880). Seine Studien zum Dreißigjährigen Krieg (Urban VIII. im Widerspruch zu Spanien und dem Kaiser. Eine Episode des dreißigjährigen Kriegs 1879) musste er wegen anderer Tätigkeiten unterbrechen. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1880-09-19" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni conte (1810-1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Monaco 19. VIIbre 1880</dateline>
+                    <salute rendition="#c"> Illustre Signor Conte</salute>
+                </opener>
+<p>Ho il piacere di attestarle il ricevimento di due copie della <bibl sameAs="ed_pyd_jtn_5lb">nuovissima opera sua</bibl>, per mezzo della quale Ella ha dato nuovo lustro a se stessa, <seg type="comment"><orig>alla celebre famiglia de’ Gozzadini</orig><note xml:id="nef2_514_5lb">Die aus einfachen Verhältnissen stammende Bologneser Familie Gozzadini lässt sich bin in das 12. Jahrhundert zurückverfolgen. Damit zählt sie zu den ältesten Familien der Stadt. Ihr entstammen wichtige Vertreter des Bank- und Handelswesens sowie bedeutende Rechtsgelehrte. Im Spätmittelalter stand die Familie politisch auf der Seite der Guelfen. Ihren Ruhm behielt sie sich bis zu Zeiten von Giovanni Gozzadini, mit dessen Ableben ging auch die Bedeutung der Familie allmählich verloren. Gregorovius referierte gelegentlich auf die Bedeutung der Familie des Grafen.</note></seg>, e alle lettere. Quindi ringraziandola caramente del gentilissimo dono, mi congratulo con lei, perché le Muse non cessano mai a coronare le sue fatiche con tanto ardore dedicate agli studi. La copia destinata all’<orgName key="G000494">Accademia bavarese</orgName>, la presenterò <seg type="comment"><orig>alla <orgName key="ed_zds_w14_5lb">classe storica</orgName></orig><note xml:id="nlzl_1b4_5lb">Conte Gozzadini war seit Juli 1878 auswärtiges Mitglied der Historischen Klasse der Münchner Akademie der Wissenschaften; siehe dazu den Brief von Gregorovius an Giovanni Gozzadini vom 1.8.1878.</note></seg>, tostochè la medesima al cominciare del prossimo Novembre avrà ripreso le sue solite sedute.</p>
+<p>Le nuove che Ella, nell’ultima sua, mi diede intorno alla disgrazia, onde la povera Donna <persName key="G001011">Ersilia</persName> venne colpita per un atto di disobbedienza commesso <seg type="comment"><orig>dal suo figliuolo</orig><note xml:id="noqq_cb4_5lb">Die Gräfin und ihr Ehemann Giacomo Lovatelli (1832–1879) hatten fünf gemeinsamen Kinder: Callista (1860), Rosalia Gabriella (1872), Filippo (1874), Giovanni (1859) und Witoldo (1869). Um welchen der drei Söhne es sich hier handelt, ist nicht ermittelbar.</note></seg>, mi hanno fatto pena di sentirle, e vedo perciò comprovata la tristissima verità, che ogni uomo vivente prova, <seg type="comment"><orig>che cioè una disgrazia non avviene mai isolata</orig><note xml:id="nplw_db4_5lb">Ersilia hatte am 21. September 1879 ihren Ehemann verloren, da dieser verstorben war; siehe dazu den Brief von Gregorovius an Ersilia Caetani Lovatelli vom 16.11.1879.</note></seg>, anzi i demoni ordinariamente ci assalgono a frotta, come gli à raffigurati <persName key="G000916">Dante</persName>. Meno male, che lo sciagurato giovane non si era lasciato rapire a correr a vie di fatto, per ogni modo però egli finirà per essere cacciato dal suo posto. Anche <persName key="G001387"><persName key="ed_crd_tt4_qlb"><persName key="ed_eks_vt4_qlb"><persName key="ed_snq_qt4_qlb"><persName key="ed_c2r_xt4_qlb">gli altri figliuoli</persName></persName></persName></persName></persName> di donna Ersilia non fanno nulla di buono; per disobbedienza e pigrizia ogni tano licenziati dalle scuole, essi vanno girando per <placeName key="G000893">Torino</placeName> da collegio in collegio, di modo che donna Ersilia un giorno, in presenza <pb n="2"/>mia, si lamentò di esserne madre.</p>
+<p><seg type="comment"><orig>Ho passato placidamente il mese di Agosto nella bella solitudine alpina di <placeName key="G000888">Trueenstein</placeName>, ed ora mi sono riunito coi <persName key="G001203"><persName key="G001111">miei</persName></persName>, i quali pur essi sono tornati da viaggi</orig><note xml:id="ndrm_qb4_5lb">"Trueenstein" = fälschlich für: Traunstein. Gregorovius hatte, wie auch oft in den Jahren zuvor, den August in Traunstein verbracht, während Julius in Aibling und Ottilie mit ihrem Sohn in Wiesbaden gewesen war. Anfang September trafen die Geschwister in München wieder zusammen (siehe RT, Romfahrt und Griechische Reise 1880, S. 420).</note></seg>. La partenza però dell’unico <persName key="G001109">figliuolo</persName> della mia buona sorella, ci ha lasciato un vuoto assai sensibile. Egli, giovane coltissimo, si è trasferito all’ <orgName key="ed_gb4_sb4_5lb">università di Lipsia</orgName>, che per frequenza di scolari, e per fama di professori quasi quasi supera <orgName key="ed_e2x_vb4_5lb">quella di Berlino</orgName>. Nella loro dirò delle cose mie proprie, che non sono punto di conto. <bibl sameAs="G004068"><seg type="comment"><orig>La pubblicazione delle lettere di Alessandro Humboldt al suo fratello</orig><note xml:id="nbj3_bc4_5lb">Nachdem Gregorovius der Enkelin Wilhelm von Humboldts, Mathilde (1830–1897), bei der Transkription der Briefe Alexanders an seinen Bruder geholfen hatte, verfasste er für die Publikation der Korrespondenz das anonym gedruckte Vorwort: Die Brüder von Humboldt. Geschichtliche Übersicht ihres Lebensganges bis zum Jahr 1835. In: Briefe Alexanders von Humboldt an seinen Bruder Wilhelm. Hrsg. von der Familie Humboldt in Ottmachau. Stuttgart: Cotta 1880. Das anonyme Vorwort wurde ohne den Untertitel in KS II/4 (S. 125-194) aufgenommen. Siehe zu Gregorovius’ Beteiligung an der Veröffentlichung der Humboldt-Briefe die Briefe von Gregorovius an Raffaele Mariano vom 17.12.1878 und 30.11.1879.</note></seg></bibl>, e poi <seg type="comment"><orig>la mia Odisea in <placeName key="G000683">Grecia</placeName></orig><note xml:id="ni4v_cc4_5lb">Gregorovius war mit dem Bruder am 28. März von Rom nach Griechenland aufgebrochen, wo die beiden bis zum 6. Mai durch das Land reisten (siehe RT, Romfahrt und Griechische Reise 1880, S. 419–420). In einem früheren Schreiben an Gozzadini hatte Gregorovius ihr intensives Reiseprogramm bereits ausführlich beschrieben; siehe den Brief von Gregorovius an Giovanni Gozzadini vom 30.7.1880.</note></seg> <seg type="comment"><orig>hanno interrotto i miei lavori sull’epoca della guerra de’ trent’anni</orig><note xml:id="nc45_fc4_5lb">Nach seiner Griechenlandreise widmete er sich verschiedenen Abhandlungen zu dem Land: „Schon in Traunstein hatte ich den ersten Artikel über Korfu geschrieben. Ich ließ den zweiten von München aus folgen. Beide brachte die Brockhaus-Revue ‚Unsere Zeit‘ im Oktober- und Novemberheft. Ich schrieb dann die Skizze ‚Aus der Landschaft Athens‘, welche dieselbe Zeitschrift am 1. Januar 1881 gebracht hat. Ich war unausgesetzt beschäftigt, die Abhandlungen zu schreiben: ‚Mirabilien der Stadt Athen‘, welche ich im großen und ganzen am Weihnachtsabend beendigt habe.“ (RT, Romfahrt und Griechische Reise 1880, S. 420).</note></seg>, in cui il discorso sui rapporti di <persName key="ed_w45_gsl_rlb">Urbano VIII</persName> con la <placeName key="G000874">Spagna</placeName> e coll’Impero, doveva essere <bibl sameAs="G003523">un primo saggio</bibl>. Ho fatto il mio tempo, e quindi debbo contentarmene.</p>
+<p>Mi perdonino, Signor Conte e Signora <persName key="G001092">Contessa</persName>, il fastidio di questa lunga chiaccherata, che ora termino, raccomandandomi alla loro benevolenza per me tanto preziosa, e raffermandomi con venerazione ed affetto</p>
+                <closer>
+<salute xml:id="s1" next="#s2" rendition="#c">Di Loro</salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">Devotissimo</salute>
+<signed rendition="#right">Ferd. Gregorovius<note type="postscript">Mi dolse di sentire, quale e quanto sia stato <seg type="comment"><orig>il danno sofferto dalle superbe piante che ornano la loro famosa Villa di <placeName key="G000822">Ronzano</placeName></orig><note xml:id="ng1l_5c4_5lb">In Ronzano, wenige Kilometer außerhalb Bolognas, besaßen die Gozzadinis eine Villa, in der sie einen von Intellektuellen besuchten Salon unterhielten, den auch Gregorovius regelmäßig aufsuchte. Nach dem Tod der Gräfin widmete er diesem einen Essay: Die Villa Ronzano. Ein Musensitz der Gozzadini von Bologna (ED in: Nord und Süd. Eine deutsche Monatsschrift. Bd. 23. Breslau, Berlin: Schottlaender 1882. S. 312–321 – aufgenommen in: KS Bd. 3, S. 97–120). Gregorovius war bereits an anderer Stelle auf die Blumenpracht der Villa eingegangen; siehe den Brief von Gregorovius an Raffaele Mariano vom 24.5.1878.</note></seg>.</note></signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

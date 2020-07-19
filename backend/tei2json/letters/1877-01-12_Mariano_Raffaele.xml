@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000216">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Rom. München, 12. Januar 1877 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt></titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 2 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Adelheid Grunelius’ wird ihm mitgeteilt haben was er über ihre deutsche Übersetzung von Raffaele Marianos „Roma nel medioevo“ (1873) geschrieben hat. Er hält sie ffür so mangelhaft, dass auch seine Revision nicht helfen würde. Er rät von einer Publikation ab, die Marianos Ruf schaden würde. Er verlässt München am 20. Januar und plant am 8. Februar 1877 in Rom einzutreffen. Grüße an Karl Lindemann-Frommel. Er leidet unter Schlafmangel und Augenschmerzen.</p>
+<p xml:lang="en"/>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1877-01-12" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">München, 12. Jan<ex>uar</ex> 77.</dateline>
+                    <salute>Lieber Freund,</salute>
+                </opener>
+<p><seg type="comment"><orig>Frau <persName key="G001215">Grun<ex>elius</ex></persName></orig><note xml:id="ndn2_hq3_1mb">Die in Baden-Baden wohnhafte Adelheid Grunelius, geb. Fecht (1813–1887), Witwe des Frankfurter Bankiers Moritz Eduard Grunelius (1803–1846) und Mutter von Wilhelmine Tachard-Grunelius (1836–1927), die seit 1851 immer wieder für längere Aufenthalte nach Rom gekommen war. Gregorovius scheint sie erst bei einem Romaufenthalt von November 1861 bis Mai 1862 kennengelernt zu haben; es entwickelte sich schnell ein freundschaftliches Verhältnis. Später besuchte Gregorovius sie des Öfteren in der Villa Grunelius in Baden-Baden.</note></seg> wird Ihnen mitteilen, was ich ihr über <seg type="comment"><orig>ihre Übersetzung</orig><note xml:id="nc5z_3q3_1mb">Die von Adelheid Grunelius angefertigte Übersetzung Raffaele Marianos „Roma nel medioevo“ (1873) erschien nie im Druck. Gregorovius hielt die Übersetzung zu mangelhaft und Marianos Umgang mit Geschichte für zu philosophisch für den deutschen Markt (siehe den Brief von Gregorovius an Raffaele Mariano, 12.1.1877).</note></seg> Ihrer <bibl sameAs="G004780">Schrift</bibl> gesagt habe. Sie ist nicht druckbar, und so sehr Grauenhaft, daß sie jedes literarischen Charakters entbehrt. Einer solchen Arbeit kann durch bloße Revision nicht geholfen werden : man müßte sie neu schreiben. Dann aber wäre die Übersetzung nicht mehr das, was ihr für Sie den Wert gibt, nämlich das Werk der Frau G<ex>runelius</ex> selbst. Sie wissen, daß mir keine Mühe zu groß sein kann, um Ihnen einen Dienst zu leisten. Aber hier ist jede Mühe nutzlos. Ein literarisches Object läßt sich nicht so leicht revidiren wie eine Rechnung, oder so leicht reinigen, wie ein Kleidungsstück.</p>
+<p>Im Übrigen seien Sie froh, <pb n="1v"/>daß Ihre Schrift nicht übereilt <add place="superlinear">von <placeName key="G000892">Tübingen</placeName> aus</add> in den Druck kam: sie hätte Ihnen viel Ärger bereitet. Denn, unbeschadet des Gefühls der Pietät für die vortreffliche Frau G<ex>runelius</ex>, werden Sie selbst doch nicht Ihre Stellung als Schriftsteller, welcher einem Publicum gegenüber steht, dem noch so schönen u<ex>nd</ex> legitimen Privatgefühl unterordnen wollen.</p>
+<p>Ich reise nach dem 20. Jan<ex>uar</ex> ab von hier, u<ex>nd</ex> nehme das M<ex>anu</ex>scr<ex>ipt</ex> mit. <seg type="comment"><orig>Um den 8. Febr<ex>uar</ex> hoffe ich in Rom zu sein</orig><note xml:id="nxp5_jq3_1mb">Am 1. Februar verließ er München und reiste über Verona, Mantua, Modena, Bologna und Florenz nach Rom, wo er am 11. Februar eintraf (siehe RT, Rückkehr nach Rom im Jahre 1877, S. 373–374). </note></seg>. Grüßen Sie von mir <persName key="G001375">Lindem<ex>ann</ex></persName>, an welchen ich noch schreiben werde.</p>
+<p>Ich danke Ihnen für die Zuschickung des Briefes.</p><p>So in Hoffnung, Sie bald wol wieder zu sehen</p>
+                <closer>
+                    <salute rendition="#right">Ihr getreuer Freund</salute>
+                    <signed rendition="#right">FGregorovius <lb/><note type="postscript">Ich bin sehr leidend durch Schlaflosigkeit u<ex>nd</ex> mein Augenübel.</note></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000095">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Eduard Brockhaus in Leipzig. Rom, 10. Dezember
+                    1859</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (53)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Bl., 8°, 1 S. – 1v alR, Blatt um 90° gedreht, Adr.: Der / sehr geehrten Buchhandlung / <hi rendition="#aq">F. A. Brockhaus</hi> / Herrn Eduard Brockhaus / <hi rendition="#aq">Leipzig</hi>.– 1v aoR Eingangsvermerk: 1859. / <hi rendition="#aq"><hi rendition="#aq">Rom</hi></hi>, 10/21 <hi rendition="#aq">Dec</hi>. / <hi rendition="#aq">Gregorovius</hi>.</p>
+<p>Begleitbrief von Gregorovius an René Gaspard Ernest Taillandier (?)</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er bittet um Übersendung von Exemplaren seiner „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856), seiner „Lieder des Giovanni Meli“ (1856), und seines „Euphorion“ (1858) an René Gaspard Ernest Taillandier, der sie für die „Revue des Deux Mondes“ besprechen will. Heinrich Brockhaus bittet er zu grüßen. Er kündigt einen längeren Artikel für das „Deutsche Museum“ an. Von den ungarischen Verwandten seiner Gattin Emilia Brockhaus hat er lange nichts gehört. Er bedauert die Unterbrechung ihres Kontakts. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He asks for copies of his „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856), his „Lieder des Giovanni Meli“ (1856), and his „Euphorion“ (1858) to René Gaspard Ernest Taillandier, who wants to review them for the „Revue des Deux Mondes“. He asks to give his regards to Heinrich Brockhaus. He announces a longer article for the „Deutsches Museum“. He has not heard anything from the Hungarian relatives of his wife Emilia Brockhaus for a long time. He regrets the hiatus of their contact. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1859-12-10" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G000995">Brockhaus, Eduard (1829–1914)</persName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession"><note rendition="#right" hand="#author"><hi rendition="#u">Beilage</hi></note>
+<opener>
+<salute>Sehr geehrter Herr,</salute>
+</opener>
+<p>wollen Sie die Gefälligkeit haben, in Ihrem wie meinem Intereße je ein Exemplar von den <bibl sameAs="G003114">Figuren</bibl>, vom<bibl sameAs="G004072"> Meli</bibl>, u<ex>nd</ex><bibl sameAs="G003574"> Euphorion</bibl> zu senden an <hi rendition="#aq"><seg type="comment"><orig><hi rendition="#aq">M<ex>onsieur</ex> <persName key="G004751">S<ex>ain</ex>t</persName></hi> <persName key="G004751">René Taillandier</persName>, professeur de Littérature à la faculté de <placeName key="G000799">Montpellier</placeName>, Departement de l’Herault. <placeName key="G000674">France</placeName></orig><note xml:id="nhjd_by2_ylb">Der Literaturwissenschaftler und Historiker René Gaspard Ernest Taillandier, genannt Saint-René Taillandier (1817–1879) hatte in Heidelberg und München studiert. Danach lehrte er an der Universität Straßburg, bevor er sich 1843 in Paris habilitierte. Seit 1846 (bis 1863) hatte er eine Professur an der Universität Montpellier und schrieb zahlreiche Beiträge für die „Revue des Deux Mondes“.</note></seg></hi>. Dieser Herr wünschte solche zu haben, um in der <seg type="comment"><orig><hi rendition="#aq"><orgName key="ed_dff_kyv_gmb">Revue des deux mondès</orgName></hi> einen Artikel über meine Sachen zu schreiben</orig><note xml:id="ntw3_hy2_ylb">Gregorovius ließ ihm auch ein Exemplar seiner „Geschichte der Stadt Rom im Mittelalter“ zur Rezension mit einem persönlich Begleitbrief zukommen (siehe den Brief von Gregorovius an Cotta, <ref target="G000081">22.12.1859</ref>). Keine der Schriften wurde in der „Revue des deux Mondes“ besprochen.</note></seg>; u<ex>nd</ex> ich glaube, daß dies nicht unwichtig ist. </p>
+<p>Es freut mich, d<ex>a</ex>ß ich bei dieser Gelegenheit meine warmen Grüße an Sie senden kann, u<ex>nd</ex> die Bitte mich Ihrem <seg type="comment"><orig><persName key="G000996">Herrn Vater</persName> angelegentlichst zu empfehlen</orig><note xml:id="nnsp_qy2_ylb">Der Verlagsleiter Heinrich Brockhaus (1804–1874), der Ende Januar 1857 schwer erkrankt war. Um sich zu erholen, befand er sich bis Mitte 1859 auf Reisen nach Ägypten, Palästina, Syrien, Griechenland und Italien. Währenddessen führte sein Sohn, Eduard Brockhaus (1829–1914), die Verlagsgeschäfte. Im Dezemer 1858 hatte er an den sizilianischen Dichter, Philologen und Politiker Marchese Lionardo Vigo (1799–1879) einen Empfehlungsbrief für Heinrich Brockhaus geschrieben, der kurz darauf zu einem mehrmonatigen Aufenthalt auf Sizilien eintraf (siehe Gregorovius an Lionardo Vigo, <ref target="G000400">14.12.1858</ref> und <ref target="G000401">25.4.1859</ref>).</note></seg>. Vielleicht habe ich das Vergnügen, <seg type="comment"><orig>ihn bald zu sehn</orig><note xml:id="nmsv_vy2_ylb">Heinrich Brockhaus war im März 1859 in Rom, wo Gregorovius befand, er sei „ein lebenskräftiger und einfacher Mann“ (siehe RT, 2.4.1859, S. 78).</note></seg>. Auch von den <persName key="G004752"><seg type="comment"><orig>Ungarischen Damen</orig><note xml:id="nfwc_xy2_ylb">Eduard Brockhaus (1829–1914) war seit 1854 mit Emilia (Milly), geb. Weisz (1836–1914) verheiratet, der Tochter des einflussreichen ungarischen Bankiers Bernat Ferencz Weisz (1800–1888).</note></seg></persName> habe ich lange nichts gehört. Ich hoffe Ihnen zur Zeit eine <seg type="comment"><orig>längere Arbeit ins <orgName key="G000546">D<ex>eutsche</ex> Museum</orgName> schicken zu können</orig><note xml:id="narg_yy2_ylb">Gregorovius dachte vermutlich, seinen Aufsatz „Von den Ufern des Liris“ im „Deutschen Museum“ zu publizieren, den er dann an die „Allgemeine Zeitung“ gab (er erschien in neun Folgen vom 27.3.-9.5.1860). Auch seinen Aufsatz „Aus den Bergen der Volsker“ gab er an ein Blatt Cottas (Das Ausland. Eine Wochenschrift für Kunde des geistigen und sittlichen Lebens der Völker. Jg. 33. Nr. 34–37. Stuttgart; Augsburg: Cotta 19.8.-9.9.1860) – beide aufgenommen in den Band „Lateinische Sommer“, Bd. 2 der „Wanderjahre in Italien“ (Leipzig: Brockhaus 1864).</note></seg>; die Unterbrechung der so angenehmen Beziehung zu Ihnen ist mir sehr unlieb, u<ex>nd</ex> ich bitte Sie, mich freundlichst als Ihren sehr ergebenen Anhänger zu betrachten. Sie haben ja <seg type="comment"><orig>4 <bibl sameAs="G003430">Schriften</bibl> von mir in Verlag</orig><note xml:id="nh12_fz2_ylb">Neben den oben genannten außerdem Gregorovius’ „Grabmäler der Römischen Päpste. Historische Studie“ (Leipzig: Brockhaus 1857).</note></seg>; ein Band, welcher wie ich hoffe, in moralischem Wirken der Teilnahme noch dauert.</p>
+<closer>
+<salute rendition="#c">Hochachtungsvoll, geehrter Herr,</salute>
+<signed rendition="#right">Ihr <hi rendition="#aq">F. Gregorovius</hi>.</signed>
+<dateline>Rom. X. <hi rendition="#aq">D<ex>e</ex>c<ex>em</ex>b<ex>e</ex>r</hi> 59.</dateline>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

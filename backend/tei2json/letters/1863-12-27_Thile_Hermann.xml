@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000189">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Hermann von Thile in Berlin. Rom, 27. Dezember 1863</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>96/937 (31)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ½ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 59, Mappe 346 (nach D) und Karton 59, Mappe 346 (Ergänzungen nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 68–69 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Auf seiner Rückreise nach Rom hat er in Archiven von Bologna, Siena und Orvieto viel Material für den fünften Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1865) einsehen können. Die Besetzung von Holstein und Lauenburg durch die Truppen des Deutschen Bundes im Dezember lassen ihn die eigenen Geschäfte nichtig erscheinen. Er ist jetzt häufig zu Gast bei Adolf Freiherr von Willisen und seiner Frau Pauline, die wöchentlich Deutsche empfangen. Er hofft, dass Clemens August Alertz bei seinen Verwandten in Aachen bleibt. Dass Alfred von Reumont von König Maximilian II. von Bayern den Auftrag übernommen hat, eine Geschichte der Stadt Rom von der ältesten bis auf die neueste Zeit zu schreiben, ist ihm so unverständlich wie Reumont selbst. Adelheid Grunelius ist erneut in Rom.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">On his way back to Rome, he was able to consult the archives in Bologna, Siena and Orvieto for the fifth volume of his „Geschichte der Stadt Rom im Mittelalter“ (1865). The occupation of Holstein and Lauenburg by the troops of the German Confederation in December makes his own business appear null and void. He is now a frequent guest of Adolf Freiherr von Willisen and his wife Pauline, who receive Germans every week. He hopes that Clemens August Alertz will stay with his relatives in Aachen. The fact that Alfred von Reumont was commissioned by King Maximilian II. of Bavaria to write a history of the city of Rome from the oldest to the most recent times is as incomprehensible to him as Reumont himself. Adelheid Grunelius is in Rom again. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1863-12-27" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001644">Thile, Hermann von (1812–1889)</persName>
+<placeName key="G000636">Berlin</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi>, 27. <hi rendition="#aq">Dec<ex>em</ex>b<ex>e</ex>r</hi> 63.</dateline>
+                    <salute rendition="#c">Mein hochverehrter Herr,</salute>
+                </opener>
+<p>Obwol ich mir den großen Zudrang von Menschen, von privaten u<ex>nd</ex> welthistorischen Dingen zu Ihnen lebhaft vorstelle, so kann ich es doch nicht unterdrücken, Ihnen am Schluße des Jahres meinen herzlichsten Glückwunsch zuzurufen. Das Jahr 1864 soll demnach über Ihr ganzes verehrtes Haus prachtvoll aufgehen, sich immer herrlicher gestalten, und kurz sehr schön werden. Dies wünsche ich wahrlich recht warm u<ex>nd</ex> aufrichtig. <seg type="comment"><orig>Das scheidende Jahr hatte mir die Freude gebracht, Sie alle wol u<ex>nd</ex> heiter wiederzusehen</orig><note xml:id="ncfg_y3p_cmb">Gregorovius hatte die Thiles vom 11. bis 14. September 1863 in Heiden besucht (siehe RT, 12.9.1863, S. 167).</note></seg>. Nachdem ich die <placeName key="G000870">Schweiz</placeName> verlaßen hatte, war ich noch <seg type="comment"><orig>einen ganzen Monat lang in den Archiven von <placeName key="G000638"><hi rendition="#aq">Bologna</hi></placeName>, <placeName key="G000871"><hi rendition="#aq">Siena</hi></placeName> u<ex>nd</ex> <hi rendition="#aq"><placeName key="G000648">Orvieto</placeName></hi> beschäftigt</orig><note xml:id="nhk5_y3p_cmb">Gregorovius arbeitete am fünften Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1865). Über Heiden, Chur, Mailand und Parma war er nach Bologna gereist und war mit Zwischenstationen in Ravenna, Florenz, Siena und Orvieto am 11. Oktober 1863 nach Rom zurückgekehrt (siehe RT, 16.9.-14.10.1863, S. 167–172).</note></seg>, wo ich durch mancherlei <hi rendition="#aq">nova</hi> recht belohnt worden bin. Seit der Mitte October lebe ich hier in hergebrachten Verhältnißen, u<ex>nd</ex> gänzlich in Arbeit vergraben, welche mir recht gut von der Hand geht. Aber die <pb n="1v"/>politische Bewegung draußen fängt an „die kleinen Mäusegeschäfte“ privater Natur zu verhöhnen, u<ex>nd</ex> ich wäre lieber daheim im <placeName key="G000664">Vaterland</placeName>, wo man um große Intereßen kämpft. Die <seg type="comment"><orig><placeName key="G067799">Schleswig-Holsteinische</placeName> Katastrophe</orig><note xml:id="ngdq_z3p_cmb">Mit der sogenannten Novemberverfassung der dänischen Regierung von 1863 sollte Schleswig verfassungsrechtlich stärker an das eigentliche Königreich gebunden werden. Um deren Zurücknahme zu erwirken, besetzten 1863 die Truppen des Deutschen Bundes im Dezember die Bundesstaaten Holstein und Lauenburg. Das mündete Anfang Februar 1864 in den Krieg zwischen Dänemark, Preußen und Österreich um die nationale Zugehörigkeit von Schleswig und Holstein, den Deutsch-Dänischen Krieg.</note></seg> regt mich sehr auf, nicht um meiner persönlichen Lage, sondern um Deutschlands willen, an welches jetzt wiederum die Frage gestellt ist, ob es eine Macht sein<del rendition="#s"> will</del>, oder in schimpflicher Ohnmacht verharren will. Wenn es doch heute einen Mann gäbe, der wie der <persName key="G067800"><seg type="comment"><orig>alte Fritz</orig><note xml:id="nlpm_1jp_cmb">Der preußische König Friedrich II. (1712–1786), volkstümlich der „Alte Fritz“.</note></seg></persName> die Dinge, ohne viel zu fackeln u<ex>nd</ex> am Recht zu deuteln, beim Kragen nähme, so würde das Vaterland bald groß u<ex>nd</ex> herrlich dastehen, u<ex>nd</ex> jedem Feind unantastbar sein. Ich denke mir, daß Sie selbst in großer Unruhe leben, preise Sie jedoch glücklich, gerade heute <seg type="comment"><orig>im hohen Staatsdienst auf einem Posten</orig><note xml:id="nvyc_bjp_cmb">Thile war als Unterstaatssekretär (bis 1872) im preußischen Ministerium der auswärtigen Angelegenheiten unter dem neuen preußischen Ministerpräsidenten Otto von Bismarck (1815–1898) in den Staatsdienst zurückgekehrt.</note></seg> zu stehn, wo<del rendition="#s"> eine </del>patriotische Gesinnung u<ex>nd</ex> ein heller <pb n="2r"/>Blick so viel zu rechter Stunde wirken können.</p>
+<p><seg type="comment"><orig>Ich sehe jetzt sehr oft <persName key="G001706">Herrn v<ex>on</ex> Willisen</persName>; er und <persName key="G001707">seine Frau</persName> sind sehr einfache und liebenswürdige Menschen; ihr Haus ist jeden Mitwoch Abend allen Deutschen aufgethan</orig><note xml:id="nyzz_mmx_cmb">General Friedrich Adolf Freiherr von Willisen (1798–1864) war im Juli 1862 erster Gesandter der preußischen Staatsregierung am italienischen Königshof geworden. Er war mit Pauline, geb von Brause (1815–1880), verheiratet (siehe den Brief von <ref target="G000177">Gregorovius an Thile, 16.6.1863</ref>). Die „Mittwochs Soireen beim Gesandten“ hielt Gregorovius auch in seinem Tagebuch fest (22.11.1863, S. 173).</note></seg>, so daß dort immer viel Gesellschaft ist. <seg type="comment"><orig><hi rendition="#aq"><persName key="G000913">Alertz</persName></hi> ist noch in <placeName key="G000807">Aachen</placeName></orig>,<note xml:id="nk42_smx_cmb">Der ehemalige Arzt der preußischen Gesandtschaft, Clemens August Alertz (1800–1866), stammte aus Aachen. Er kehrte Mitte Oktober 1864 nach Rom zurück (siehe RT, 16.10.1864, S. 187).</note></seg> u<ex>nd</ex> ich hoffe, daß er dort, wo er Liebe u<ex>nd</ex> Pflege von Verwandten findet, bleiben wird. <seg type="comment"><orig><persName key="G001545">Reumont</persName> kam vor kurzem, u<ex>nd</ex> sitzt bereits mit Energie an der <bibl corresp="G004234 G004309 G004311 G004312">Geschichte der Stadt Rom</bibl></orig><note xml:id="ns5b_slx_cmb">Alfred von Reumont (1808–1888) blieb bis Ende April 1864 in Rom. Er hatte während eines Besuches im Frühling 1863 in München von König Maximilian II. von Bayern (1811–1864) den Auftrag erhalten, eine Geschichte der Stadt Rom von der ältesten bis auf die neueste Zeit für einen größeren Leserkreis zu schreiben. In über 3500 Seiten stellte Reumont seine „Geschichte der Stadt Rom“ (4 Bde., Berlin 1866–1870) fertig – zum Ärger von Gregorovius, dessen „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) von der Kritik immer wieder mit der von Reumont verglichen wurde.</note></seg>, welche in zwei Bänden die ganze <hi rendition="#aq"><seg type="comment"><orig>Historia Urbis</orig><note xml:id="npzg_5lx_cmb">Lat.: Geschichte der Stadt.</note></seg></hi> alter und neuer Zeit, von<seg type="comment"><orig> <persName key="G067801">Romulus</persName> u<ex>nd</ex> <persName key="G067802">Remus</persName></orig><note xml:id="nuzx_wlx_cmb">Die mythischen Gründer der Stadt Rom, die von einer Wöfin gesäugten Zwillinge Romulus und Remus.</note></seg>, bis auf <hi rendition="#aq"><persName key="G001497">Pius</persName></hi> und <persName key="G000933"><hi rendition="#aq"><seg type="comment"><orig>Antonelli</orig><note xml:id="nhth_ylx_cmb">Der einflussreiche Kardinalstaatssekretär Giacomo Antonelli (1806–1876).</note></seg></hi></persName> behandeln soll. Wie er sich eine solche compendiöse Hetzjagd und Eisenbahnrennen durch die Weltgeschichte hat aufbürden lassen können, begreift er jetzt selber nicht. In 3 Jahren soll dies fertig sein. Ich war <seg type="comment"><orig>mit ihm einmal zum <hi rendition="#aq"><persName key="G001408">Rex Bavarie</persName></hi> geladen</orig><note xml:id="nwbs_3jp_cmb">Am 13. Oktober 1863 fuhr Gregorovius zur Ankunft des bayerischen Königs nach Civitavecchia und teilte mit ihm dasselbe Zugabteil nach Rom (siehe RT, 14.10.1863, S. 172). Kurz vor dessen Abreise aus Rom Anfang Dezember war Gregorovius zusammen mit Reumont in der Villa Malta beim König zu Tisch geladen (siehe RT, 20.12.1863, S. 173–174). Über die erste Audienz von Gregorovius am 3. August 1863 auf Schloss Nymphenburg siehe den Brief von <ref target="G000187">Gregorovius an Thile, 30.8.1863</ref> und RT, 7.8.1863, S. 165.</note></seg>, welcher sich mir sehr wolwollend gezeigt hat, um so mehr, als er nun weiß, daß ich <seg type="comment"><orig>von den Königen wie <persName key="G067803">Diogenes </persName>nichts mehr begehre, als <pb n="2v"/>den unbehinderten Sonnenschein</orig><note xml:id="ndlw_jjp_cmb">Nach einer schon in der Antike überlieferten Anekdote hatte Alexander der Große (356–323 v. Chr.) den in einem Fass hausenden Philosophen Diogenes von Sinope (um 413–323 v. Chr.) aufgesucht, um ihn zu fragen, ob er etwas für ihn tun könne, der nur erwiderte: „Geh mir aus der Sonne.“ </note></seg>. Aber dies Begehren ist freilich groß genug, wenn man es an die Schicksalsmächte stellt; und selten gewähren sie es dem Menschenleben.</p>
+<p>Auch <seg type="comment"><orig><persName key="G001215">Frau Grunelius</persName> ist wieder hier</orig><note xml:id="nlmx_kjp_cmb">Die in Baden-Baden wohnhafte Bankierswitwe Adelheid Grunelius, geb. Fecht (1813–1887), war im November 1863 nach Rom gekommen und blieb bis Mitte April 1864.</note></seg>. </p>
+<p>Ich schließe diese Zeilen, mein hochverehrter Herr, mit den wärmsten Grüßen u<ex>nd</ex> Wünschen für Sie alle, u<ex>nd</ex> möchten Sie mich auch der <persName key="G001189 G001191">Familie v<ex>on</ex> Gräfe</persName> bestens empfehlen.</p>
+                <closer>
+<salute rendition="#c">In wahrhafter Verehrung<lb/>Ihr</salute>
+<signed rendition="#right"><hi rendition="#aq">FGregorovius</hi>.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

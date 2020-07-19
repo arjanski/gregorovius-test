@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000339">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Ottilie Elgnowski in Königsberg. Rom, 10. November 1870</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>BSB München</repository><collection>/ NL Gregorovius </collection><idno>Gregoroviusiana 20, Elgnowski, Ottilie (13)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 88, Mappe 17 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 88, Mappe 2 und Karton 55, Mappe 335 (nach h1)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er wird ihr seinen Artikel „Fünf Tage vor Metz“ über seinen Aufenthalt an der Front vor Metz bei seinem Bruder Julius schicken. Er hat von ihm einen aus Cheuby erhalten, der ihm von der Kapitulation in der Festung von Metz eingeschlossenen französischen Rheinarmee geschrieben hat. Dessen künftiger Stationierungsort ist ungewiss. Der Johanniter von Collrepp wird nicht mehr mit ihm sein; Carl Johann Oloff aus Insterburg ist verstorben. Die Welt sehnt sich nach Frieden, doch wird sich Frankreich nicht ergeben. Nach dem Sturz des Papsttums ist Rom unruhig geworden, er hat Mühe, den letzten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1872) fertigstellen. Vittorio Emanuele II. soll am 1. Dezember 1870 in Rom einziehen, nachdem sich die neue Regierung gewaltsam den Quirinals-Palast angeeignet hat. Der Papst und seine Getreuen verschanzen sich noch immer im Vatikan. Geldangelegenheiten. Grüße an die Witwe des 1866 verstorbenen Bruders Rudolf in Schippenbeil.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1870-11-10" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001111">Elgnowski, Ottilie (bis 1855 Gregorovius, Ottilie) (1834–1907)</persName>
+<placeName key="G000699">Königsberg</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c">Rom, 10. <hi rendition="#aq">Nov<ex>em</ex>b<ex>e</ex>r</hi> 70.</dateline>
+<salute rendition="#c">Liebe Schwester,</salute>
+</opener>
+<p>ich sende Dir unter Kreuzband <seg type="comment"><orig>die <bibl corresp="G003958 G003959 G003960 G003961">Artikel von Metz</bibl>, welche ich Dich bitte aufzuheben, da ich sie später brauchen werde. Aus mir unbegreiflichen Gründen sind dieselben weder an Dich noch an den <persName key="G001203">Bruder</persName> gelangt</orig><note xml:id="nmdj_n4v_llb">Gregorovius hatte am 11. Oktober 1870 die Übersendung seines Artikels „Fünf Tage vor Metz“ zum Abdruck für die „Allgemeine Zeitung“ angekündigt und gebeten, von dem Abdruck Abzüge an seinen Bruder Julius Gregorovius nach Cheuby und an seine Halbschwester Ottilie Elgnowski nach Königsberg zu senden (DLA Marbach, Cotta-Archiv, Cotta-Briefe, 117). Er war erschienen in: Beilage zu Nr. 289–292 der AZ. Augsburg: Cotta 16.–19.10.1870. Im Brief an Cotta vom 27.11.1870 beschwerte Gregorovius sich über dieses Versäumnis (DLA Marbach, Cotta-Archiv, Cotta-Briefe, 121).</note></seg>. Wenn ich dessen genaue Adresse wüßte, so wäre es das Beste, wenn Du sie ihm von Königsb<ex>erg</ex> aus schicktest. Doch wollen wir das abwarten.</p>
+<p>Ich habe <seg type="comment"><orig>vom Bruder einen Brief erhalten, dat<ex>irt</ex> 1. Nov<ex>ember</ex> noch aus <placeName key="G000586">Cheuby</placeName></orig><note xml:id="npqn_gpv_llb">So auch in RT, 13.11.1870, S. 298.</note></seg>, worin er mir Mitteilungen über die <seg type="comment"><orig>Capitulation von <placeName key="G000728">Metz</placeName></orig><note xml:id="nxpt_t4v_llb">Die preußische Belagerung der in der Festung von Metz eingeschlossenen französischen Rheinarmee unter Marschall François Achille Bazaine (1811–1888) war am 27. Oktober 1870 zuende gegangen. Im Tagebuch vermerkte Gregorovius: „Gestern kam die verspätete Depesche aus Metz. Am 27. hat Bazaine kapituliert – 173 000 Gefangene, darunter 3 Marschälle und 6000 Offiziere, ein ganzes Heer. Und so viele Krieger vermochten nicht, die Belagerungskette von 230 000 Mann zu durchbrechen, sie streckten die Waffen.“ (30.10.1870, S. 298)</note></seg> macht. Er wußte damals seinen weiteren Bestimmungsort nicht, u<ex>nd</ex> nur aus den Zeitungen entnehme ich, d<ex>a</ex>ß das I. Armeecorps zu Operationen im Norden<placeName key="G000674"> Frankreichs</placeName> bestimmt ist, also wol gegen <placeName key="G000587">Thonville</placeName> oder <placeName key="G000588">Lille</placeName> marschiren wird. Der Bruder war gesund; <seg type="comment"><orig><persName key="G001041">Collrepp</persName> sollte nach Metz selbst kommen</orig><note xml:id="namz_4pv_llb">Der Sohn von Emilie Auguste Gregorovius, geb. Dreßler, verw. von Collrepp (1797–1866), den die Stiefmutter von Gregorovius 1832 in die Ehe mit seinem Vater Ferdinand Timotheus Gregorovius (1780–1848) gebracht hatte. Gregorovius’ Stiefbruder von Collrepp (*1827) war im zivilen Leben Landwirt und im Deutsch-Französischen Krieg damals als Delegierter des Johanniter-Ordens Balley Brandenburg für die freiwillige Krankenpflege im Oktober 1870 in Avancy und einen Monat später wieder in Metz stationiert (siehe Wochenblatt des Johanniter-Ordens Balley Brandenburg. Nr. 41 und 46. Berlin 12.10. und 16.11.1870. S. 266, 305 und Jahrbücher für die deutsche Armee und Marine. Bd. 1. Berlin 1871. S. 67).</note></seg>, u<ex>nd</ex> ich bedaure daher dessen Trennung vom Bruder. Er teilte <pb n="1v"/>mir den <seg type="comment"><orig>Tod des armen <persName key="G001462"><hi rendition="#aq">Dr. Oloff</hi></persName></orig><note xml:id="ndkb_spv_llb">Der Feldstabsarzt Carl Johann Oloff aus Insterburg (*1835) war am 31.10.1870 im Lazarett Teterchen an der Ruhr gestorben (siehe auch Militair-Wochenblatt. Unabhängige Zeitschrift für die deutsche Wehrmacht. Jg. 25. Nr. 146. Berlin 4.11.1870. S. 992). </note></seg> mit, den ich dort in Cheuby auf dem Krankenlager gesehen hatte. Es ist wol ein Jammer, daß alle diese Opfer u<ex>nd</ex> Leiden noch kein Ende finden. Die Welt murrt u<ex>nd</ex> verlangt den Frieden; doch rast der Krieg weiter, u<ex>nd</ex> dies kann u<ex>nd</ex> konnte nicht anders kommen. Frankreich wird sich nur sterbend dem Sieger ergeben. Es bleibt uns nichts übrig, als mutige Geduld, bis der Bruder wolbehalten wieder kehrt.</p>
+<p>Nun ist der Winter nahe, auch in Rom regnet es täglich. Ich habe mit großer Anstrengung mich an meine <seg type="comment"><orig><bibl sameAs="G003434">letzte Arbeit</bibl> für mein Lebenswerk</orig><note xml:id="nbdf_wpv_llb">Die Ausarbeitung des achten und letzten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1872).</note></seg> gesetzt, u<ex>nd</ex> hoffe diese in 3 Monaten u<ex>nd</ex> weniger abzuschließen. Es ist viel Unruhe in der Stadt hier, doch weiche ich ihr aus, um meine Ruhe zu behalten. Ich besuche wenige Menschen, u<ex>nd</ex> werde von wenigen besucht.</p>
+<p><seg type="comment"><orig>Am 1. Dec<ex>ember</ex> soll der <persName key="G001683">König Italiens</persName> in Rom einziehen</orig><note xml:id="nt5s_cqv_llb">Nach einer Volksabstimmung war am 8. Oktober 1870 durch ein königliches Dekret von Vittorio Emanuele II. (1820–1878) die Vereinigung des Kirchenstaats mit Italien proklamiert worden. Der erste Besuch Vittorio Emanueles II. in Rom fand am 31. Dezember 1870 statt. Am 26. Januar 1871 wurde die italienische Hauptstadt von Florenz nach Rom verlegt.</note></seg>, wo seine <pb n="2r"/>Regierung eben <seg type="comment"><orig>mit Gewalt den päpstlichen <placeName key="G000766">Palast des Quirinal </placeName>aufgebrochen hat</orig><note xml:id="nahb_hqv_llb">In seinem Tagebuch vermerkte Gregorovius: „Die neue Regierung hat die Türen des Quirinal gewaltsam aufgebrochen und sich des Palasts als künftiger Residenz des Königs von Italien bemächtigt. Der Papst hat Protest eingelegt.“ (13.11.1870, S. 298)</note></seg>. Der<seg type="comment"><orig> Papst sitzt im <placeName key="G000860">Vatican</placeName> mit seinen Getreuen, u<ex>nd</ex> verläßt dies sein freiwilliges Gefängniß nicht</orig><note xml:id="ni11_jqv_llb">So auch in RT, 30.10.1870, S. 297.</note></seg>. So wird auch hier ein großes, Trauerspiel aufgeführt.</p>
+<p>Ich freue mich, d<ex>a</ex>ß die <seg type="comment"><orig>Gelder eingegangen sind; doch hast Du mir diese Zinsen-Raten nicht genau angegeben. Auch dem Rechtsanwalt kannst Du bei Gelegenheit schreiben, daß der Zinsfuß fortan auf 5% ermäßigt worden ist</orig><note xml:id="nhkp_yqv_llb">Ottilie Elgnowski erhielt Zinsen aus Wertpapieren von Gregorovius (siehe den Brief von Gregorovius an Ottilie Elgnowski, 17.6.1870), deren prozentuale Erträge sie ihrerseits kürzen sollte. Um diese Reduzierung hatte Gregorovius seine Halbschwester schon in den Briefen 31.8.1870 und 13.10.1870 gebeten (BSB München, NL Gregorovius, Gregoroviusiana 20, Elgnowski, Ottilie, 5 und 11).</note></seg>. Das Geld, welches ich Dir von <placeName key="G000734">München</placeName> aus schickte, ist Dein Eigentum. </p>
+<p>Wenn Du an <seg type="comment"><orig>die <persName key="G001204">Schwägerin</persName> in Schippenbeil schreibst, so bitte ich sie von mir zu grüßen, u<ex>nd</ex> ihr zu sagen, d<ex>a</ex>ß ich mich nach ihrem Ergehen erkundigt habe. Sie wird wol dort bleiben. Wie traurig ist es, d<ex>a</ex>ß der arme Bruder <persName key="G001206">Rudolf </persName>diese Zeiten nicht erleben durfte</orig><note xml:id="ndgs_frv_llb">Gregorovius’  ältester Bruder Rudolph  (1808–1866) war 1855 Pfarrer in Schippenbeil geworden; seine Witwe war dieGutsbesitzerstochter Gr. Ottilie, geb. Schickert aus Willenberg. Ihr letztes Kind Richard war schon 1852 gestorben (siehe Gustav Liek: Die Stadt Schippenbeil. Königsberg 1874. S. 251–253).</note></seg>. </p>
+<closer>
+<salute xml:id="s1" next="#s2">Jetzt lebt wol, Schwester u<ex>nd</ex> <persName key="G001109">Neffe</persName>, und es gehe euch gut. Schreibe recht bald, wie es bei Euch u<ex>nd</ex> sonst in der Heimat steht.</salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">In Treue </salute>
+<signed rendition="#right">FGr</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

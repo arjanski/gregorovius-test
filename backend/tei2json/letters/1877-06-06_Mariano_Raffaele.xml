@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000221">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Rom. München, 6. Juni 1877</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt></titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er war von Rom über Pisa, Lucca und Genua in das schöne Mailand gereist. Die Brera war geschlossen, so dass er nur in die Biblioteca Braidense unter der Direktion von Federico Odorici und in der Biblioteca Ambrosiana war. Nach einem kurzen Aufenthalt in Bozen ist er am 4. Juni 1877 in München angekommen. Er hat bislang nur Franz Seitz getroffen. Im Juli will Gregorovius zur Kur nach Traunstein. Seine Halbschwester Ottilie Elgnowski geht für mehrere Wochen nach Wiesbaden. Mariano wird bereits von seinem traurigen Aufenthalt in Capua zurück sein. Er soll seine Post in Rom besorgen. Grüße an Wolfgang Erhardt und Familie, Clemente Maraini, Anselmo Guerrieri-Gonzaga sowie an Eduard Mayer und Familie.</p>
+<p xml:lang="en"/>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1877-06-06" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">München, <placeName key="ediarum_s5l_b42_rlb">Barerstr.</placeName> 3 <lb/>6. Juni 1877.</dateline>
+                    <salute rendition="#c">Lieber Freund,</salute>
+                </opener>
+<p>ich schreibe Ihnen von hier, wo ich vorgestern Abend eingetroffen bin, und die <persName key="G001111"><persName key="G001109">Meinigen</persName></persName> im beßten Wolsein angetroffen habe. Meine Reise war sehr schön; von <placeName key="G000754">Pisa</placeName> ging ich nach dem schönen <placeName key="G000717">Lucca</placeName>, wo ich einen Tag blieb, dann nach <placeName key="G000677">Genua</placeName>, wo strömender Regen den Aufenthalt belästigte. In <placeName key="G000721">Mailand</placeName> logirte ich ausgezeichnet im <hi rendition="#aq"><orgName key="ed_ekf_gwc_rlb">Rebecchino</orgName></hi>. Ich empfehle Ihnen dies Hôtel schon wegen seiner centralen Lage in der Stadt; mit zwei Schritten ist man von dort am <orgName key="ed_tf3_mwc_rlb">Dom</orgName>. Ich <pb n="1v"/>erfreute mich wieder an der Pracht <ex>und</ex> dem Leben Mailands, welches wie es mir scheint diejenige Stadt <placeName key="G000690">Italiens</placeName> ist, welche die größeste Entwicklungsfähigkeit besitzt. Die <seg type="comment"><orig>Brera</orig><note xml:id="nyzk_vt3_1mb">Accademia di Belle Arti di Brera. Mit der Gründung der Kunstakademie 1776 erfolgte der Aufbau einer Kunstsammlung, insbesondere einer Sammlung von Gemälden. 1882 wurden die Akademie und das Museum in zwei selbständige Organisationen geteilt, so entstand die Pinacoteca di Brera.</note></seg> fand ich leider geschlossen, weil darin gebaut wird: Besuche machte ich nur dort auf der <orgName key="ed_kch_qwc_rlb">Bibliothek</orgName>, wo <hi rendition="#aq"><seg type="comment"><orig><persName key="G001456">Oderici</persName></orig><note xml:id="nzqj_wt3_1mb">Federico Odorici (1807–1884), Bibliothekar und Historiker, seit 1876 Präfekt der Biblioteca Braidense in Mailand.</note></seg></hi> Director ist, u<ex>nd</ex> auf der <orgName key="G067528">Ambrosiana</orgName>, wo alles in Händen der Pfaffen liegt.</p>
+<p>Nach einer Nacht in <placeName key="G000639">Botzen</placeName> traf ich also am 4. in München ein. Ich sah noch niemand außer <seg type="comment"><orig><persName key="G001597">Seitz</persName></orig><note xml:id="nq34_xt3_1mb">Franz Seitz (1811–1892) war Professor an der Universitäts-Klinik in München. Gregorovius kannte ihn aus München und pflegte mit ihm regelmäßigen Umgang (siehe RT, 14.10.1870, S. 297, 2.12.1871, S. 312). </note></seg>. Hier ist alles im Frühling, aber erstickende Hitze ohne Luft empfing mich, so daß ich davon ganz krank geworden bin. <pb n="2r"/>Die plötzliche Veränderung der Lebensweise, bereits die Entbehrung des guten Trinkwassers ist mir sehr empfindlich, u<ex>nd</ex> überhaupt sehe ich, daß ich mich hier nicht mehr wieder eingewöhnen kann. Ich will im Juli nach <placeName key="G000888">Traunstein</placeName> gehen; die <persName key="G001111">Schwester</persName> geht in kurzer Zeit auf mehre Wochen nach <placeName key="G000898">Wiesbaden</placeName>.</p>
+<p>Sie werden von Ihrem <seg type="comment"><orig>traurigen Aufenthalt in <placeName key="G000654">Capua</placeName></orig><note xml:id="nxgr_yt3_1mb">Nicht ermittelt; Gregorovius erwähnt Marianos Capua-Reise auch in den Briefen vom 17.6. und 25.7.1877.</note></seg> schon zurücksein; eine schwere Last wird voraussichtlich auf Sie kommen, doch wird dieselbe durch Pietät u<ex>nd</ex> Pflichtgefühl erleichtert werden. Und im Ganzen: die Pflicht <pb n="2v"/>ist für den Menschen ein so starker Anker im Leben, wie die Arbeit. Ich will daher jeden glücklich preisen, der eine Pflicht zu erfüllen und eine Arbeit zu leisten hat.</p>
+<p>Ich bitte Sie in meinem <seg type="comment"><orig>Hause in der <placeName key="ediarum_lmm_slx_qlb">Gregoriana</placeName></orig><note xml:id="ng14_zt3_1mb">Gregorovius’ Quartier während seinem Romaufenthalt im Frühjahr 1877 (siehe RT, Rückkehr nach Rom im Jahre 1877, S. 374). </note></seg> nochmals anzusagen, daß alles für mich dort Eingelieferte an Sie gebracht werde. Dem Portier, welcher nichts oder doch wenig für mich gethan hat, gab ich im Ganzen 8 lire; er schien wenig lirisch davon gestimmt zu sein, u<ex>nd</ex> mehr zu erwarten. Da ich nun keine schiefen Gesichter leiden kann, so dach<add place="intralinear">te</add> ich diesem Brief <add place="intralinear">noch</add> 3 lire bei<add place="superlinear">zulegen</add>, u<ex>nd</ex> <del rendition="#s">bitte</del> Sie <add place="superlinear">zu bitten</add> ihm dieselben zu geben, u<ex>nd</ex> zu sagen, daß ich sie seinem kleinen Töchterchen schenken wollte, u<ex>nd</ex> das vergaß. <add place="intralinear">Aber ich finde das doch überflüßig.</add></p>
+<p>Tausend Grüße von den Meinigen. Schreiben Sie bald</p>
+                <closer>
+<salute rendition="#right">Ihr</salute>
+<signed rendition="#right">FGr.</signed>
+<note type="postscript" rendition="#rotate90" place="left">Bitte <seg type="comment"><orig><persName key="G001116">Erhardts</persName></orig><note xml:id="nscw_b53_1mb">Familie des Wolfgang Erhardt (1819–1906), seit 1845 Arzt des deutschen Krankenhauses in Rom und der Preußischen Gesandtschaft, später der Deutschen Botschaft. </note></seg> u<ex>nd</ex> alle Freunde, auch <seg type="comment"><orig><persName key="G001398">Maraini</persName></orig><note xml:id="nhhx_c53_1mb">Ingenieur und Eigentümer des römischen Journals „Il Diritto“.</note></seg> u<ex>nd</ex> <seg type="comment"><orig>Guerrieri</orig><note xml:id="noyx_d53_1mb">Anselmo Guerrieri-Gonzaga (1819–1879), Politiker, Schriftsteller und Übersetzer. Gregorovius verkehrte mit ihm u.a. bei Ersilia Caetani Lovatelli (siehe RT, 10.2.1872, S. 317).</note></seg> zu grüßen; ebenso <persName key="G001412"><seg type="comment"><orig>Meiers</orig><note xml:id="nfbb_f53_1mb">Der Eigentümer von Gregorovius’ ehemaliger und Marianos aktueller Wohnung in der Via Gregoriana, der Bildhauer Eduard Mayer (1812–1881) und Familie. </note></seg>.</persName> </note>
+</closer>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000040">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an die J. G. Cotta’sche Buchhandlung in Stuttgart.
+                    Genzano, 14. September 1854</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/"> Creative Commons
+                        Attribution 4.0 International (CC BY 4.0) </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>DLA Marbach</repository>
+                        <collection>Cotta-Archiv</collection>
+                        <idno>Cotta-Briefe (5)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 4°, 2 S. – 2r-v Briefentwurf zu A: Cotta an Gregorovius, 3.
+                            Oktober 1854 </p>
+                        <p>Brief von Russell Martineau an Gregorovius. Moffat, vor dem 14. September 1854 – Manuskript  der Übersetzung einiger „Liebeslieder des Giovanni Meli von Palermo“</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach D)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der
+                            Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S.
+                            207–208</bibl> (gekürzt)</witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er bestätigt den Erhalt des Honorars für seine im „Ausland“ gedruckten „Fragmente aus Sicilien“. Er wünscht Rat über internationales Verlagsrecht, da Friedrich Althaus mit John Murray in London eine englische Übersetzung seines „Corsica“ (1854) plant. Auch Russell Martineau ist in derselben Sache an ihn herangetreten – seinen Brief sendet er anbei. In Piemont ist eine italienische Übersetzung in Planung. Er bedauert den Tod der Redakteure Eduard Widenmann und Karl August Mebold. Er übersendet das Manuskript seiner Übersetzung einiger „Liebeslieder des Giovanni Meli von Palermo“. Von dem in Deutschland unbekannten Dichter wurde in Johann Gottfried von Herders „Stimmen der Völker in Liedern“ (1807) nur ein Lied und von Johann Wolfgang von Goethe nur wenige Verse zum Abdruck gebracht. Er kündigt das Manuskript seines Beitrags „Syrakus“ an und bittet um Abzüge seiner bislang erschienen Beiträge. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He confirms that he has received the fee for his „Fragmente aus Sicilien“ printed in the „Ausland“. He wants advice on international publishing law, since Friedrich Althaus is planning an English translation of his „Corsica“ (1854) with John Murray in London. Russell Martineau also approached him regarding this matter - he encloses his letter. An Italian translation is being planned in Piedmont. He mourns the death of editors Eduard Widenmann and Karl August Mebold. He sends the manuscript of his translation of some of the „Liebeslieder des Giovanni Meli von Palermo“ to be printed in the „Morgenblatt für gebildete Leser“. Only one song by the poet, who is relatively unknown in Germany, was published in Johann Gottfried von Herder’s „Stimmen der Völker in Liedern“ (1807) and Johann Wolfgang von Goethe only printed a few verses. He announces the manuscript of his article „Syrakus“ and asks for copies of his previously published contributions. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000678">Genzano</placeName>
+                    <date when="1854-09-14" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="G000523">J. G. Cotta’sche Buchhandlung</orgName>
+                    <placeName key="G000879">Stuttgart</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev">15. Juli 1854 (h: DLA Marbach, Cotta-Archiv, Cotta-Copirbuch
+                        IV, 190)</ref>
+                    <ref type="next">3. Oktober 1854 (K: DLA Marbach, Cotta-Archiv, Cotta-Briefe, 5,
+                        2r-v)</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <salute rendition="#c">Der hochgeehrten J. G. Cotta’schen Buchhandlung in
+                        Stuttgart.</salute>
+                </opener>
+                <p>Erst jetzt ist es mir möglich anzuzeigen, d<ex>a</ex>ß mir der Wechsel aus
+                        <placeName key="G000620">Augsburg</placeName> betragend Fl<ex>orins</ex> 63.
+                    38 groschen in 24 f. <unclear reason="illegible" cert="low">fy.</unclear>$ als
+                    Honorar für die <seg type="comment"><orig>im Ausland erschienenen <bibl corresp="G003807 G003808 G003809 G003810">Fragmente aus
+                                Sicilien</bibl></orig><note xml:id="nwhh_n34_llb">Gregorovius’
+                            „Fragmente aus Sicilien“ (1. Die Saracenen in Sicilien. – Die Cuba und
+                            die Zisa; 2. Die normännische Periode Siciliens; 3. Der Dom von
+                            Monreale; 4. Die Kathedrale und andere Kirchen von Palermo) waren
+                            erschienen in: Das Ausland. Eine Wochenschrift für Kunde des geistigen
+                            und sittlichen Lebens der Völker. Jg. 27. Nr. 24–27. Stuttgart,
+                            Augsburg: Cotta 16.6. bis 7.7.1854.</note></seg> dato Juni 1854 richtig
+                    zugegangen ist, worüber ich hiermit ergebenst dankend quittire.</p>
+                <p>Mittlerweile sind mir in betreff meines <bibl sameAs="G003106">Corsica</bibl> Übersetzungsanträge aus <placeName key="G000599">England </placeName>gemacht worden, u<ex>nd</ex> Sie erlauben mir, mich deshalb an Sie zu wenden, sowol um Ihren geneigten Rat in einer Angelegenheit zu erbitten, für welche mir jede Erfahrung fehlt, als vor allen Dingen Ihren eigenen Verlagsrechten nicht entgegen zu treten. Zunächst schrieb Herr <hi rendition="#aq">Dr</hi>. <persName key="G000920"><hi rendition="#aq">Althaus</hi></persName> aus <placeName key="G000716">London</placeName> an mich, ein mir befreundeter Mann, u<ex>nd</ex> teilte mir mit, d<ex>a</ex>ß er im Verein mit einem andern Herrn sich an eine <seg type="comment"><orig>Übersetzung des C<ex>orsica</ex></orig><note xml:id="nmbs_wk4_llb">Gregorovius hatte seinen seit 1853 in London lebenden Freund Friedrich Althaus (1829–1897) um Vermittlung einer englischen Übersetzung seines „Corsica“ gebeten (siehe den Brief von <ref target="G000014">Gregorovius an Althaus, 8.1.1854</ref>).</note></seg> zu machen wünsche, d<ex>a</ex>ß er bereits <seg type="comment"><orig>Unterhandlungen mit <orgName key="G000547"><hi rendition="#aq">Murray</hi></orgName></orig><note xml:id="nhsh_vm4_llb">Unterhandlungen mit dem für seine Reisewerke und wissenschaftlichen Titel berühmt gewordenen, 1768 gegründeten und jetzt von John Murray (1808–1892) geführten Verlag in London verliefen im Sande.</note></seg> angeknüpft habe, ohne jedoch für jetzt bei obwaltenden schwierigen Verhältnißen zu einem definitiven Resultat gediehen zu sein. Da Herr <hi rendition="#aq">Althaus</hi> mir persönlich bekannt ist, so habe ich den besondern Wunsch, er möchte sich mit Liebe an dies Unternehmen machen, u<ex>nd</ex> habe ihm geschrieben, d<ex>a</ex>ß ich definitiven Entscheidungen entgegen sehe. Das <seg type="comment"><orig>zweite Anerbieten wurde mir eben durch Herrn <persName key="G001406"><hi rendition="#aq">Russell Martineau</hi></persName>, datirt <hi rendition="#aq"><placeName key="G000649">Moffat</placeName> Scotland</hi></orig><note xml:id="nm53_tn4_llb">Moffat im Landesinnern südlich von Glasgow und Edinburgh. Bald nach dem ersten Erscheinen von „Corsica“ (1854) wurden gleich drei englischsprachige Übersetzungen in England, Amerika und Schottland angefertigt: neben der Übersetzung des aus Dublin stammenden Orientalisten Russell Martineau (1831–1898) unter dem Titel „Corsica in its Picturesque, Social, and Historical Aspects. The Record of a Tour in the Summer of 1852‟ (London: Longman, Brown, Green 1855), erschienen „Wanderings in Corsica: Picturesque, Historical and Social. With a Sketch of the Early Life of Napoleon, and an Account of the Bonaparte, Paoli, Pozzo Di Borgo, and other Principal Families. Suggested by a Tour in the Island in 1852‟ (übersetzt von Edward Joy Morris. Philadelphia: Parry &amp; M’Millan 1855) und „Wanderings in Corsica: Its History an its Heroes‟ (übersetzt von Alexander Muir. 2 Bde. Edinburgh: Constable and Co. 1855).</note></seg>, welcher mir ebensowenig bekannt ist als der Ort. Ich erlaube mir der Kürze wegen sein Schreiben beizulegen, mit der Bitte, dasselbe mir gefälligst zurück kommen zu laßen. Es scheint, als meine Herr <hi rendition="#aq">R<ex>ussell</ex> M<ex>artineau</ex></hi>, der Verfaßer solle für sein Unternehmen eine <hi rendition="#aq">Extra</hi>-Ausgabe liefern, wozu ich selbstredend mich niemals entschließen werde, außer d<ex>a</ex>ß ich einem englischen Übersetzer, so bald er sich mit mir in Benehmen setzt, nötige Verbesserungen übermachen werde. Ich halte es also für meine Pflicht, Ihnen hochgeehrte Herren, von jenen Offerten Mitteilung zu machen, u<ex>nd</ex> zu bitten mir gefälligst schreiben zu wollen, ob Sie selber als Verleger u<ex>nd</ex> bei Ihren Beziehungen zu England ein Übersetzungsunternehmen vermitteln oder unterstützen mögen, da es vielleicht nicht dem Zweifel unterliegen möchte, d<ex>a</ex>ß das Werk über kurz oder lang <bibl corresp="G004435 G004436 G004437">ins Englische übersetzt werden wird</bibl>. <pb n="1v"/>Dieselbe nicht unbegründete Erwartung darf ich von einer <seg type="comment"><orig>italienischen Ausgabe in <hi rendition="#aq"><placeName key="G000839">Piemont</placeName></hi></orig><note xml:id="nxdd_ym4_llb">Die erste (auszugsweise) italienische Übersetzung fertigte Gregorovius’ Freund Paolo Perez unter dem Titel „Storia dei Corsi“ (Florenz: Tip. Felice Le Monnier 1857). </note></seg> hegen. Da ich nun nicht weiß, ob u<ex>nd</ex> <seg type="comment"><orig>welche Preßkonvention zwischen <placeName key="G000664">Deutschland</placeName> u<ex>nd</ex> England u<ex>nd</ex> <placeName key="G000690">Italien</placeName> die literarischen Eigentumsrechte des Verlags u<ex>nd</ex> des Autors schütze</orig><note xml:id="nv3w_zs4_llb">Im Antwortschreiben vom 3.10.1854 teilte Cotta mit, dass der Verlag das Übersetzungsrecht ins Englische, Französische und Italienische abtritt und erklärte „Es soll uns aufrichtig freuen wenn Sie damit ein gutes Geschäft machen, was immerhin leicht möglich ist.“ (K: DLA Marbach, Cotta-Archiv, Cotta-Briefe, 5, 2r).</note></seg>, so wünsche ich auch hierüber eine gefällige Mitteilung, wie ich überhaupt von meiner Seite nichts veranlaßen möchte, ohne Einverständniß mit Hochdenselben. Sobald ich Ihre Meinung weiß, will ich jenem Herrn <hi rendition="#aq">Martineau</hi> antworten, welchem gegenüber ich mich schon passiv verhalten muß, so lange ich nicht weiß, ob Herr <hi rendition="#aq">Althaus</hi> das Unternehmen wirklich beginnt oder nicht.</p>
+                <p>Gestatten Sie mir, persönlichen Anteil zu nehmen an jenen <seg type="comment"><orig>Verlusten, welche Ihre Institute schmerzlich betroffen haben</orig><note xml:id="ntdz_ft4_llb">Karl August Mebold (1798–1854), seit 1842 Redakteur der „Allgemeinen Zeitung“, war am 20. August 1854 an der Cholera gestorben. Der Publizist Hermann Orges (1821–1874) wurde sein Nachfolger. Eduard Widenmann (1801–1854) war seit 1828 Redakteur der von ihm zu einem geographischen Blatt umgestalteten Zeitschrift „Das Ausland“ und zeitweise der der „Allgemeinen Zeitung“. Er war, wie Mebold, am selben Tag an der Cholera gestorben. Sein Nachfolger wurde der Geograph Oscar Ferdinand Peschel (1826–1875).</note></seg>, um so mehr als auch ich <persName key="ed_kg2_trd_f3b ed_z3s_hf2_r3b">beiden Verstorbenen</persName>, zumal Herrn <hi rendition="#aq">Dr</hi>. Widenmann reichlich verpflichtet bin, u<ex>nd</ex> diese Verpflichtung jetzt mit doppeltem Dankgefühl empfinden muß. Es freut mich, d<ex>a</ex>ß die Aufsätze über <hi rendition="#aq"><placeName key="G000748">Palermo</placeName></hi> der Redaction willkommen waren, u<ex>nd</ex> ich spreche die Hoffnung aus, d<ex>a</ex>ß ein kleinerer <bibl sameAs="G003820">Aufsatz über <hi rendition="#aq">Syrakus</hi></bibl> es nicht minder sein dürfte. Ich werde mir erlauben, denselben mit nächstem einzusenden. Das gegenwärtig durch die Cholera pestartig mitgenommene schöne Land dürfte bald auch in anderer Hinsicht unsere Aufmerksamkeit auf sich lenken. Mit diesem Schreiben erlaube ich mir der Redaction des <orgName key="G000533">Morgenblattes</orgName> beikommende <seg type="comment"><orig><bibl sameAs="G003817">Liebeslieder des <hi rendition="#aq">Giovanni Meli</hi></bibl> von <hi rendition="#aq">Palermo</hi></orig><note xml:id="nfgk_d54_llb">Der Abdruck erfolgte unter dem Titel „Liebeslieder des Giovanni Meli von Palermo († 1815) nach dem Sicilianischen von Ferdinand Gregorovius“ in: Morgenblatt für gebildete Leser. Nr. 41. Stuttgart, München: 8.10.1854. S. 978–979. Er enthielt die Lieder „Die Augen“, „Die Lippe“, „Der Mund“, „Die Stimme“ und „Amor der Pilot“ (aus Poesie Siciliane dell’ Abate Giovanni Meli. 5 Bde. Palermo 1787).</note></seg> zu übersenden; ich zweifle nicht, d<ex>a</ex>ß sie Beifall finden werden, weil sie echt sicilianisch fein u<ex>nd</ex> geistreich sind. Deutschland kennt diese Lieder noch nicht, die „Biene“ allein hat <seg type="comment"><orig>Herder in den <bibl sameAs="G004238">Stimmen der Völker</bibl></orig><note xml:id="npm5_w54_llb">In der posthum von Johannes von Müller (1752–1898), aus dem Nachlass seines Freundes Johann Gottfried von Herder (1744–1803), herausgegebenen erweiterten Sammlung: Stimmen der Volker in Liedern. Tübingen: Cotta 1807. S. 177–178 (https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10713458_00199.html).</note></seg> übersetzt, u<ex>nd</ex> <seg type="comment"><orig>Göthe von den „<bibl sameAs="G004239">Augen</bibl>“ einige Verse mitgeteilt</orig><note xml:id="nab1_hv4_llb">Goethe übersetzte nur die zwei ersten der insgesamt zwölf Strophen des Liedes von Giovanni Meli im Brief an Carl Friedrich Zelter vom 28.2.1811 nach Josef Hager: Gemälde von Palermo. Berlin 1799. S. 138–139 (siehe https://digitale.bibliothek.uni-halle.de/vd18/content/pageview/10218238); aufgenommen unter dem Titel „Sicilianisches Lied“ in: Goethes Werke: Vollstandige Ausgabe letzter Hand. Bd. 1. Stuttgart, Tübingen: Cotta 1828. S. 168 (https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10713356_00184.html).</note></seg>. </p>
+                <p>Schließlich spreche ich die Bitte aus, mir von solchen Artikeln, welche Ihre
+                    Journale von mir annehmen, einen Abzug gestatten zu wollen, unter Kreuzband auf
+                    meine Kosten; u<ex>nd</ex> wenn solches möglich ist, so würde ich Sie auch um
+                    jene Fragmente im Auslande bitte, welche mir noch nicht zu Gesichte gekommen
+                    sind.</p>
+                <closer>
+                    <salute xml:id="s1" next="#s2">Ich habe die Ehre mit größester Hochachtung mich
+                        zu empfehlen als Ew. Hochwohlgeboren</salute>
+                    <salute xml:id="s2" prev="#s1" rendition="#right">ergebenster</salute>
+                    <signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi>.</signed>
+                    <dateline><hi rendition="#aq">Genzano</hi> im Albanergebirg <lb/>d<ex>en</ex> 14
+                            <hi rendition="#aq">S<ex>e</ex>pt<ex>em</ex>b<ex>e</ex>r</hi> 1854.
+                    </dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

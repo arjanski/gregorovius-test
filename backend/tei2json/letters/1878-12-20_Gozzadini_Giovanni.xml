@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_lpk_hsh_llb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. München, 20. Dezember 1878</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="restricted"><licence target="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International (CC BY 4.0) </licence></availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Adr.: All’Illmo Signore / il sr. Conte Giovanni Gozzadini / senatore del Regno / Bologna</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell’Archiginnasio</institution><collection>Ms. Gozzadini 442 </collection><idno>(32)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er gratuliert zu Gozzadinis jüngster Schrift „Giovanni Pepoli e Sisto V.“ (1879). Eines der drei ihm zugegangenen Exemplare wird er der Bibliothek der Bayerischen Akademie der Wissenschaften übergeben. Dank der Neuordnung der Archive Bolognas, an der auch Gozzadini beteiligt war, sind neue Forschungen zu erwarten. Anfang Februar 1879 wird er die Gozzadinis besuchen. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1878-12-20" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni conte (1810-1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Monaco, 20. Dec<ex>em</ex>bre 78</dateline>
+                    <salute rendition="#c"> Illustrissimo signor Conte,</salute>
+                </opener>
+<p>congratulandomi con lei della publicazione del suo nuovissimo libro, „<bibl sameAs="ed_amf_mg2_rlb">Giovanni Pepoli e Sisto V</bibl>.“ ho da congratularmi ancora con me stesso, imperocchè l’opera sua, derivata alla mia tenue persona, d’ora in poi rimarrà nella letteratura italiana quale testimonianza di benevolenza, contribuita a me, <seg type="comment"><orig>cittadino di <placeName key="G000763">Roma</placeName></orig><note xml:id="nvz4_hnj_1mb">Gregorovius war im März 1876 vom römischen Gemeinderat zum Ehrenbürger der ewigen Stadt ernannt worden; siehe den Brief von Gregorovius an Pietro Venturi vom 17.3.1876.</note></seg>, dai <seg type="comment"><orig>più distinti e virtuosi uomini in Italia</orig><note xml:id="npss_3nj_1mb">Gregorovius hatte sich bereits früher mit dieser Publikation Gozzadinis beschäftigt; siehe den Brief von Gregorovius an Giovanni Gozzadini vom 3.10.1877.</note></seg>. E questo segno onorevole, quantunque esso di gran lunga superi i miei meriti, io l’accolgo da nessuna persona un maggior soddisfazione e gratitudine che dalla S<ex>ignoria</ex> V<ex>ostra</ex>.</p>
+<p>Mi affretterò di consegnare al bibliotecario dell’<orgName key="G000494">Accademia delle Scienze</orgName> quella copia, che da lei venne destinata alla medesima; delle altre due copie farò dono a chì me ne parrà il più degno.</p>
+<p>Mi lusingo con la speranza, che dopo di aver dato termine al sovradetto lavoro, <pb n="2"/>Ella prepari altre publicazioni onde illustrare la storia della sua gloriosa patria, la quale mercè <seg type="comment"><orig>il riordinamento degli archivi cittadini</orig><note xml:id="nus1_knj_1mb">Gozzadini war maßgeblich an der Neuordnung des 1874 gegründeten Archivio di Stato di Bologna beteiligt.</note></seg> sarà per ricevere nuova luce. </p>
+<p><seg type="comment"><orig>Spero di riverire Lor Signorie entro la prima metà del febrajo avvenire</orig><note xml:id="nilz_knj_1mb">Gregorovius besuchte die Gozzadinis am 14. Februar 1879, als er auf dem Weg nach Rom in Bologna Halt machte (vgl. RT, Romfahrt, 1879, S. 411).</note></seg>, e pensandovi ne anticipole gioje. Intanto auguro a lei, come alla gentilissima signora <persName key="G001092">Contessa</persName>, le più placide feste del Natale, non chè dell’anno entrante, il quale alla nobilissima casa loro sia largo dispensatore di ogni prosperità desiderabile.</p>
+<p>Coi sensi di venerazione e di affetto</p>
+                <closer>
+                    <salute rendition="#right">Lor sinceramente devoto</salute>
+                    <signed rendition="#right">Fer. Gregorovius</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

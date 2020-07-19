@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067719">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Giovanni Eroli in Narni. Rom, 11. Juni 1871</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Archivio di Stato di Terni</repository><collection>Archivio Giovanni Eroli, b. 3, fasc. 230 </collection><idno>(218)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 1 ½ S. – 1v Archivvermerk: Lettera del rinomato storico tedesco / Doktor Ferdinando Gregorovius / al marchese Giovanni Eroli di Narni</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Für die Arbeit am achten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1872) bittet er um die Zusendung von Erolis „Miscellanea storica Narnese“ (1858) über die Plünderung Narnis durch die Landsknechte Karls V. im Jahr 1527.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1871-06-11" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001118">Eroli, Giovanni (1813–1904)</persName>
+<placeName key="G067506">Narni</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Roma, <placeName key="ediarum_lmm_slx_qlb">Via Gregoriana</placeName> n<ex>umero</ex> 13. <lb/>11. Giugno 1871.</dateline>
+                    <salute rendition="#c">Pregiatissimo Signor <seg type="comment"><orig>Marchese</orig><note xml:id="np3w_pzy_ylb">Der aus der Regium Umbrien, Provinz Terni, stammende Marchese Giovanni Eroli (1813–1904) war ein Schriftsteller und Antiquar, der sich besonders für (Lokal-)Geschichte, Paläografie und Archäologie interessierte. Auf Wunsch des Vaters schlug er zunächst eine kirchliche Ausbildung in Rom ein, kehrte jedoch 1840 in seine Geburtsstadt Narni zurück, wo er sich seinen Interessen widmete. Er verfasste journalistische Beiträge und Poesie, beispielsweise für Hochzeiten von Adligen, konzentrierte sich aber vornehmlich auf die lokale Geschichtsschreibung. Gregorovius hatte Eroli vermutlich im August 1861 kennengelernt, als er auf einer Reise von Rom nach Perugia auch in Terni Halt machte (siehe RT, 26.8.1861, S. 136). Auch wenige Wochen vor Abfassung des vorliegenden Briefes hatte sich dort aufgehalten (siehe RT, 8.6.1871, S. 305). In „Wanderjahre in Italien. Bd. IV. Von Ravenna bis Mentana“ (Leipzig: Brockhaus 1871) skizziert Gregorovius Erolis Person, geht auf dessen Bedeutung sowie historiographische Arbeit für Narni ein. Ferner beschreibt er Erolis Experimente mit dem neuen Medium Photographie (siehe: Wanderjahre in Italien. Bd. IV. Von Ravenna bis Mentana. Leipzig: Brockhaus 1871, S. 69–70). Es sind zwei Briefe von Gregorovius an Eroli erhalten; der ebenfalls im Archiv in Terni aufbewahrte Brief von Eroli an Gregorovius datiert auf den 19. Juni 1871 und darf, ohne seinen Inhalt zu kennen, als Antwort auf die Schreiben des Deutschen gelten.</note></seg>,</salute>
+                </opener>
+<p>Ella scrisse, diversi anni fà, <bibl sameAs="G067819">un opuscolo</bibl> intorno al <seg type="comment"><orig>sacco di Narni fatto dall’esercito di <persName key="G004705">Carlo V</persName> nel 1527</orig><note xml:id="nm3t_rzy_ylb">Nach dem Sacco di Roma fiel Karl V. (1500–1558) mit seinen ca. 20.000 Soldaten in Narni ein und zerstörte die Stadt am 17. Juli 1527 nahezu vollständig. Erolis Auseinandersetzung mit dem Ereignis fand ihren ersten Niederschlag in einer Erzählung: Il sacco de’ Borboni in Narni. Racconto storico. Fatto da Giovanni Eroli con la scorta di alcuni documenti. Terni: tipografia Possenti 1848. Sie war Ausgangspunkt für eine wissenschaftliche Arbeit zu dem Thema, die in den ersten Band seiner „Miscellanea storica narnes“ (2 Bde., Narni: Tipografia del Gattamelata 1858–1862) eingefügt ist. </note></seg>. Non mi venne alle mani, per quanto io ne abbia ricevuto nelle biblioteche di Roma. Or, siccome, <seg type="comment"><orig>trattando di quest’epoca nell’ <bibl corresp="G003434">ultimo volume della mia Storia di Roma</bibl> nei tempi bassi</orig><note xml:id="nwwd_tzy_ylb">Auf den Seiten 563–564 des achten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1872) setzt sich Gregorovius mit dem Sacco di Narni auseinander, bezieht sich dabei unter anderem auf Erolis ersten Band der „Miscellanea storica narnes“. </note></seg>, io desidero di puoter servirmene, mi prendo la libertà di diriggermi alla di Lei gentilezza digià più volte pruovata da me, pregandola, volesse mandarmene <pb n="1v"/>una copia. Appena ne avrò presi gli appunti, <seg type="comment"><orig>le farò ritornare l’esemplare</orig><note xml:id="nasn_zzy_ylb">Ein von Gregorovius wenige Tage später verfasster Brief an Eroli belegt, dass er das gewünschte Exemplar unmittelbar nach seiner Anfrage erhielt; siehe den Brief von Gregorovius an Giovanni Eroli vom 18.6.1871.</note></seg>. Intanto spero, che Ella gode buonissima salute e tempo abbastanza libero, per dedicarsi ai suoi nobili studì.</p>
+<p>Aggradisca, Signor Marchese, i sentimenti della mia distinta stima, con cui mi onoro di nominarmi</p>
+<p rendition="#right">il suo sinceramente</p>
+                <closer>
+<salute rendition="#right">devoto servitor</salute>
+<signed rendition="#c">D<ex>okto</ex>r Ferdin. Gregorovius. </signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

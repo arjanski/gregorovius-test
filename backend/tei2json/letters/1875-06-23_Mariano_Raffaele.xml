@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000172">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Raffaele Mariano in Rom. Rom, 23. Juni 1875</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ¾ S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er hat Domenico Guglielmi Riccardo d’Ursos „Storia della città di Andria dalla sua origine sino al corrente anno 1841“ (1842) zurückgeschickt. Er dankt für die Zusendung eines sehr gelungenen kirchenkritischen Artikels von Edmondo de Amicis über die römischen Jubeljahre. Ersilia Caetani-Lovatelli hat sich bei ihm nach Marianos Adresse erkundigt. Michelangelo Caetani hat Harriet Georgina Ellis geheiratet. die ihm über Aleksandra Osipovna Smirnowa-Rosset bekannt ist. Wolfgang Erhardt geht mit seiner Familie schon am Freitag nach Deutschland; er selbst reist am Sonntag nach Traunstein. Er wird den Sommer mit seinem Bruder Julius, seiner Schwester Ottilie Elgnowski und deren Sohn Hermann zwischen München und Traunstein verbringen. Grüße an Augusto Vera.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName>
+                    <date when="1875-06-23" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c"><seg type="comment"><orig>Roma, 23. Giugno 1875</orig><note xml:id="nrwk_lyt_zlb">Von 11. bis 21. Mai waren Gregorovius und Raffaele Mariano gemeinsam durch Apulien gereist. Sie machten in Trani, Andria, Castel del Monte, Ruvo, Brindisi, Lecce und Tarent Station, bevor sie ab 19. Mai über Massafra, Foggia, Benevent und Caserta nach Rom zurückreisten (siehe RT, 23.5.1875, S. 351–355).</note></seg>.</dateline>
+                    <salute rendition="#c">Caro amico Mariano,</salute>
+                </opener>
+<p>tante grazie per la sua lettera di jeri. Di fatti ripresi dalla posta quella del nostro buon <persName key="G001221">Guglielmi</persName>, tutto lieto di esser liberato da alcuni sospetti penosi, come quello, che il nostro amico forse ricaduto nella malatia. L’altrojeri gli ritornai il prestatomi <seg type="comment"><orig><bibl corresp="ed_zlc_lrh_zkb">libro dell’Urso</bibl></orig><note xml:id="nf1p_myt_zlb">Vermutlich Riccardo d’Ursos „Storia della città di Andria dalla sua origine sino al corrente anno 1841 compilata dal sacerdote Riccardo D'Urso“ (Napoli: Tipografia Varana, 1842), die Gregorovius im fünften Band seiner „Wanderjahre in Italien“ in den „Apulischen Landschaften“ im Kapitel über Andria erwähnt (S. 135). Gregorovius und Raffaele Mariano hatten Guglielmi im Mai auf ihrer Apulienreise in Andria besucht.</note></seg>, e oggidì gli scriverò per dargli parte della mia partenza.</p>
+<p>Col mandarmi l’articolo sugli <seg type="comment"><orig>Anni Santi di Roma</orig><note xml:id="nddy_nyt_zlb">Heilige Jahre oder Jubeljahre sind Jubiläumsjahre in der römisch-katholischen Kirche, die 1300 eingeführt wurden und ab 1475 alle 25 Jahre begangen werden. In einem Jubeljahr gewährt der Papst den Gläubigen unter Auflagen einen vollständigen Ablass. Die Jubeljahre 1850 und 1875 waren beide ausgefallen: 1850 war Pius IX. von November 1848 bis März 1850 vor republikanischen Revolutionären aus Rom geflohen; 1875 wurde das Jubiläumsjahr wegen Italiens Annexion des Kirchenstaates nicht begangen.</note></seg>, lei mi ha reso un vero servizio, che brevemente le spiegherò. Un dì, era nel Marzo, trovandomi nella biblioteca dell’Università, mi si avvicinò un giovane impiegato di quella dalle maniere un po’ grossolane; egli mi porse quello stesso articolo con invitarmi a leggerlo e a dargli risposta se occorresse; un po’ sorpreso dai modi del giovane, gli restituii il foglio, appena datavi un’occhiata, con dire che non avessi tempo <pb n="1v"/>da perdervi. Il giovane alquanto confuso si ritirò. Avevo creduto che l’articolo di proposito fosse un’invettiva contro di me; ora, avendolo perletto, vedo, che è cosa buona, quantunque fatto di tendenza tale, da irritare in massimo grado i nervi dei Monsignori, e farli anche arrabiati contro di me. Quest’ oggi ritornerò a quella biblioteca, onde ritrovarvi il giovane ed informarmi dell’autore, che forse è <seg type="comment"><orig>il <persName key="G001071">de Amicis</persName></orig><note xml:id="nyn1_pyt_zlb">Möglicherweise Edmondo De Amicis (1846–1908), italienischer Schriftsteller und Journalist bei der Florentiner Tageszeitung „La Nazione“. Sein wohl bekanntestes Werk ist das 1886 erschienene „Cuore“, in dem sich die nationalistischen und laizistischen Bestrebungen des Risorgimento ausdrücken.</note></seg>.</p>
+<p> <persName key="G001011">Donna Ersilia</persName>, colla quale feci jeri un’ altra <seg type="comment"><orig>passeggiata in legno</orig><note xml:id="ndyx_pyt_zlb">Gemeint ist eine Spazierfahrt in der Kutsche.</note></seg>, si dimostrò contenta della sua lettera, diman<add place="superlinear">dan</add>domi anche del suo indirizzo. Vidi <persName key="G001007">la nuova duchessa</persName>, e, a mia sorpresa non piccola, riconobbi in lei una conoscente dell’anno scorso, che ebbi visitato allora nelle „Isole Britanniche“, avendomi ella mandata una lettera di <seg type="comment"><orig><persName key="G001611">Madama S<ex>mirnova</ex></persName>,</orig><note xml:id="ndwg_ryt_zlb">Aleksandra Osipovna Smirnowa-Rosset (1809–1882), geb. Rosset, verh. seit 1832 mit dem russischen Diplomaten Nikolai Smirnov, war eine russische Hofdame. Sie führte in Sankt Petersburg einen elitären Salon, in dem große russische Schriftsteller ihrer Zeit verkehrten. In Italien hielt sie sich u.a. in Florenz und Rom auf. Siehe auch RT S. 69–71, S. 454, Anm. 27.</note></seg> Russa dell’alta aristocrazia di <placeName key="G000876">Pietroburgo</placeName> <pb n="2r"/>e conoscente mia sin da 15 anni. Si figuri dunque la mia sorpresa; massimamente dovendomi io rimproverar<subst><del rendition="#s">mi</del><add place="superlinear">e</add></subst> di aver negletta del tutto e quasi dimenticata la persona di <seg type="comment"><orig>Miss Ellis</orig><note xml:id="nlj2_syt_zlb">Harriet Georgina Ellis (1831–1906), Tochter des britischen Diplomaten Charles Augustus Ellis (1799–1868), 6th Baron Howard de Walden und 2nd Baron Seaford, heiratete 1875 Michelangelo Caetani und wurde Enricchetta Caetani genannt.</note></seg>, caldamente raccommandatami da Madama S<ex>mirnova</ex>, quella stessa persona cioè, che ora mi si faceva in contro come la duchessa di Sermoneta. Poco mancò che non scoppiassi in una risata. È carina, rassomiglia all’<seg type="comment"><orig><persName key="G001008">antica Duchessa</persName></orig><note xml:id="nkn3_tyt_zlb">Ersilias Vater, der Herzog von Sermoneta Michelangelo Caetani (1804–1882), war seit 1854 in zweiter Ehe mit Margaret Knight (1810–1872) verheiratet. Ersilias Mutter, die erste Frau des Herzogs, die polnische Adlige Calixta Rzewuska (*1810) war 1842 verstorben.</note></seg>, la supera però di spirito e di istruzione. Il <persName key="G001004">duca</persName> pareva contentone; vennero tutti i due jeri a visitarmi; pranzerò con loro venerdì sera. Coincidenza strana di casi! Compatisco la donna, che si è risoluta a fare un passo tanto ardito, da rendersi anche martire per via.</p>
+<p><seg type="comment"><orig>Gli <persName key="G001116">Erhardt</persName></orig><note xml:id="nmjn_5yt_zlb">Familie des Wolfgang Erhardt (1819–1906), seit 1845 Arzt des deutschen Krankenhauses in Rom und der Preußischen Gesandtschaft, später der Deutschen Botschaft. </note></seg> partiranno venerdì. Quanto a me partirò la domenica. Se il caldo non mi ammazza per via, sarò lunedì sera in <placeName key="G000888">Traunstein</placeName>. Ivi <seg type="comment"><orig>aspetterò il ritorno del <persName key="G001203">fratello</persName> da <placeName key="G000728">Metz</placeName></orig><note xml:id="nxrq_vyt_zlb">Julius Gregorovius reiste ohne Umweg über Traunstein direkt nach München (siehe den Brief von Gregorovius an Raffaele Mariano, 3. August 1875).</note></seg>, per recarmi lo stesso giorno del suo arrivo <pb n="2v"/>a <placeName key="G000734">Monaco</placeName>, e ciò sarà, come credo, <seg type="comment"><orig>il dieci del Luglio</orig><note xml:id="nc34_wyt_zlb">Er verließ Rom am 28. Juni 1875 und reiste über Kufstein nach Traunstein, wo er zwei Monate verbrachte. Am 1. September 1875 kam er nach München zurück, wo er sich zwei Zimmer in einer gemeinsamen Wohnung mit seinem Bruder Julius Gregorovius (1818–1891) und seiner Schwester Ottilie Elgnowski (1834–1907) einrichtete (siehe RT, 1.3.1876, S. 359–360).</note></seg>. Starò alcuni giorni coi miei colà, quindi farò ritorno a Traunstein. Se il fratello, e la <persName key="G001111">sorella</persName> col <persName key="G001109">figlio</persName> <seg type="comment"><orig>mi faranno compagnia</orig><note xml:id="nncr_xyt_zlb">Nur sein Bruder Julius Gregorovius besuchte ihn in Traunstein (siehe den Brief von Gregorovius an Raffaele Mariano, 3. August 1875).</note></seg>, e se preferiranno di rimanere in Monaco, è cosa che si deciderà sul luogo.</p>
+<p>Intanto i miei pensieri l’accompagneranno a <placeName key="G000737">Napoli</placeName>, dove prego di portar mille saluti da mia parte al <seg type="comment"><orig><persName key="G001675">Vera</persName></orig><note xml:id="ns1r_yyt_zlb">Der Philosoph Augusto Vera (1813–1885) machte sich als Übersetzer und Interpret Hegels um dessen Verbreitung in Italien und Frankreich verdient und war außerdem Marianos Lehrer. Gregorovius traf Vera erstmals im Mai 1875 in Neapel (siehe den Brief von Gregorovius an Raffaele Mariano, 2.5.1875). Gregorovius widmete Vera einen Aufsatz: „Der Hegelianer Augusto Vera in: Allgemeine Geschichte, Kultur-, Litteratur- und Kunstgeschichte. Bd. 4. Stuttgart: Cotta 1887. S. 561–576; ausgenommen in: Kleine Schriften zur Geschichte und Cultur. Bd. 3. S. 43–71).</note></seg> – mi scriva a Traunstein (Hôtel <seg type="comment"><orig><persName key="G001712">Wispauer</persName></orig><note xml:id="nxyn_zyt_zlb">Der Traunsteiner Weinwirt und Kaufmann Josef Wispauer (1785–1878), der 1840 bis 1843 der Kammer der Abgeordneten des Bayerischen Landtags angehörte und 1842 bis 1845 Bürgermeister von Traunstein war.</note></seg>), massimamente quando sarà giunto in <placeName key="G000870">Svizzera</placeName>.</p>
+                <closer>
+                    <salute>La saluto cordialmente. <seg type="comment"><orig>A rivederci dunque nell’autunno</orig><note xml:id="ncdm_1zt_zlb">Mariano hielt sich zwischen Ende September und Anfang Oktober acht Tage in München auf (siehe die Briefe von Gregorovius an Raffaele Mariano vom 27. September und 17. Oktober 1875 und RT, S. 361).</note></seg>.</salute>
+                    <signed rendition="#right">Ferd. Gregorovius.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

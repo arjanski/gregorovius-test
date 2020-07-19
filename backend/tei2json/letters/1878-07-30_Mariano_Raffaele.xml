@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_t2t_3cj_jlb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Celerina. München, 30. Juli 1878 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¾ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er wird mit Friedrich Althaus, den er 25 Jahre nicht gesehen hat, durch Bayern und Österreich reisen. Zu Adelheid Grunelius fährt er erst Anfang Oktober. Er hofft vor dem Hintergrund der (sozial-)politischen Entwicklungen in Deutschland auf eine Übertragung von Marianos Schrift „Cristianesimo, cattolicesimo e civiltà“ (1879) ins Deutsche (Christenthum, Katholicismus und Kultur. Leipzig: Breitkopf &amp; Härtel 1880). Zu diesem Zweck bietet er seine Vermittlung zu Cotta und zur Allgemeinen Zeitung an. Erster hatte sein Hohenstaufen-Album aus Kostengründen abgelehnt. Grüße an Augusto Vera. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1878-07-30" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840-1912)</persName>
+<placeName key="ed_qzp_vwb_hlb">Celerina</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">München, 30. <hi rendition="#aq">Juli</hi> 78.</dateline>
+                    <salute>Lieber Freund,</salute>
+                </opener>
+<p>nur kurz kann ich Ihnen schreiben, weil ich durch den Einfluß des Clima ganz elend bin.</p>
+<p>Meine <persName key="G001111">Schwester</persName> fuhr am 24. Juli nach <placeName key="G000636">Berlin</placeName> zum <persName key="G001203">Bruder</persName>; an demselben Tage <seg type="comment"><orig>bestand ihr <persName key="G001109">Sohn</persName> glücklich das Examen</orig><note xml:id="ny2m_qtj_1mb">Der Neffe erlangte sein Abitur am Ludwigsgymnasium (siehe RT, Sommer und Winter 1878/79, S. 403).</note></seg>. Er reist ihnen nach am 9. August. Auch ich mus noch hier blieben; mein Freund<hi rendition="#aq"> <persName key="G000920">Althaus</persName></hi> aus <placeName key="G000716">London</placeName> hat sich mir zum Besuch angesagt, und will mich durchaus in München sehen. <seg type="comment"><orig>Wie lange er bleibt weiß ich nicht – meine Sommerplane sind gestört, wol auch jene für <placeName key="G000623">Baden-Baden</placeName></orig><note xml:id="na5s_rtj_1mb">Gemeinsam mit seinem Freund Althaus, den er seit 25 Jahren nicht gesehen hatte, reiste Gregorovius am 10. August nach Traunstein, von wo aus sie Ausflüge nach Reichenhall, Salzburg und bis in die Steiermark machten. Schließlich verbrachten sie einige Tage in Berchtesgarden: „Durch dies mehrwöchentliche Zusammensein gewann unser langjähriger, nur durch briefliche Mitteilung unterhaltener Verkehr die lebendige Persönlichkeit.“ (RT, Sommer und Winter 1878/79, S. 404). Nach Baden-Baden zu seiner Freundin Adelheid Grunelius (1813–1887) begab er sich Anfang Oktober nach einer Paris-Reise mit dem Bruder (vgl. RT, Aufenthalt in Paris, S. 404– 409).</note></seg>. </p>
+<p>Ich gratuliere zur Vollendung <seg type="comment"><orig>Ihrer <bibl sameAs="ed_yr4_nvd_rlb">Schrift</bibl></orig><note xml:id="nhgs_stj_1mb">Nach langer Suche nach einem geeigneten Verleger, in die sich auch Gregorovius eingeschaltet hatte (siehe den Brief von Gregorovius an Raffaele Mariano vom 8.12.1877), konnte Mariano seine Schrift „Cristianesimo, cattolicesimo e civiltà“ (1879) schließlich bei Zanichelli in Bologna zum Druck einreichen.</note></seg> – sie wird ein gereiftes Product sein, da Sie lange darüber brütend geseßen haben. Wie sehnlich wünsche ich, <seg type="comment"><orig>daß Sie in <placeName key="G000664">Deutschl</placeName><ex>and</ex> übersetzt u<ex>nd</ex> gedruckt werden</orig><note xml:id="nu1r_ttj_1mb">Marianos „Christenthum, Katholicismus und Kultur“ erschien 1880 bei Breitkopf &amp; Härtel in Leipzig. </note></seg>! Es könnte ja auch für Deutsche interessant u<ex>nd</ex> belehrend sein, zu lesen, <pb n="1v"/>wie ein ital<ex>ienischer</ex> Patriot voll Wärme des Gefühls u<ex>nd</ex> von philosof<ex>ischem</ex> Geist <gap reason="illegible" unit="chars" quantity="1"/>alle kirchlich-politischen Verhältniße zumal in seinem <placeName key="G000690">Vaterlande</placeName> auffaßt. Die Zeit ist aber jetzt nicht mehr so günstig für diese Fragen, wie vor noch ½ Jahre. <seg type="comment"><orig>Die <hi rendition="#u" hand="">socialen</hi> Probleme</orig><note xml:id="nimh_vtj_1mb">Mit dem Fortschreiten der Industralisierung im 19. Jahrhundert kam es zunemend zu einer Kluft zwischen dem Bürgertum sowie den Industriellen einerseits und der Landbevölkerung andererseits, die wiederum in der Kirche und dem antiliberalen Adel ihre Unterstützer fand.</note></seg> drängen die kirchlichen ganz in den Hintergrund; der Kampf um den Ausbau unserer Verfassung auf Grund der volkswirtschaftlichen Verhältniße bewegt ganz Deutschland. Vom <seg type="comment"><orig>Culturkampf </orig><note xml:id="nwjg_wtj_1mb">Der sog. Kulturkampf bezeichnet in Deutschland die Auseinandersetzungen zwischen Preußen, später dem Deutschen Kaiserreich und der katholischen Kirche, die ab 1871 eskalierten und bis 1878 andauerten sowie 1887 auf diplomatischer Ebene geregelt werden konnten. Gestritten wurde um die politische und rechtliche Ablösung des Staates von der Kirche sowie um den Status der verbliebenen katholischen Minderheit. Mit dem Tod Pius IX. (7.2.1878) und unter Leo XIII. (1810–1903) setzten Verhandlungen über die harten kurialen Gesetze ein, was ab 1882 zur Wiederaufnahme der diplomatischen Beziehungen zwischen dem Vatikan und dem Kaiserreich führte. 1886 und 1887 folgten Friedensgesetzt, am 23. Mai 1887 verkündete der Papst das Ende des Kampfes.</note></seg>will man nichts mehr wissen und hören; der <seg type="comment"><orig>Altkatholicismus</orig><note xml:id="nxnc_xtj_1mb">Die von der katholischen Kirche exkommunizierten Gegner der Beschlüsse des Ersten Vatikanischen Konzils (1870) – namentlich die Dogmen von der Unfehlbarkeit und des Jurisdiktionsprimats des Papstes – gründeten eigene Gemeinden, versammelten sich fortan in den Altkatholischen Kirchen. </note></seg> ist in der Auflösung.</p>
+<p>Um praktisch zu verfahren, um nichts vornherein mit einem Buchhändler zu verderben, <seg type="comment"><orig>halte ich für nötig</orig><note xml:id="nb4k_ytj_1mb">Siehe zu Gregorovius’ Empfehlungen hinsichtlich einer Einführung von Marianos Schrift auf dem deutschen Buchmarkt, noch einmal den Brief von Gregorovius an Raffaele Mariano vom 8.12.1877.</note></seg>, keinen Schritt zu thun, ehe nicht Ihr Buch gedruckt ist. Ist es dies, so muß es in der <orgName key="G000462">Allg<ex>emeinen</ex> Zeit<ex>ung</ex></orgName> besprochen werden, u<ex>nd</ex> das wird <seg type="comment"><orig><persName key="G001713">Witte</persName></orig><note xml:id="nt5q_ztj_1mb">Wahrscheinlich der in Halle lehrende Jurist und berühmte Dante-Forscher Carl Witte (1800–1883), der mehrfach länger in Italien war und den Gregorovius im Herbst 1868 persönlich kennengelernt hatte (siehe RT, 5.10.1868, S. 253).</note></seg> besorgen. Alsdann kann ich mit <orgName key="G000523">Cotta</orgName> conferiren, und zwar muß dann die <bibl sameAs="ed_drr_cr2_rlb">Übersetzung</bibl> fertig sein, und nicht etwa erst im Project; <pb n="2r"/>ich hoffe, daß ich ihn bewegen werde, obwol er mir selbst, wie Sie sich erinnern, <seg type="comment"><orig>den Verlag des Hohenstaufen-Album</orig><note xml:id="nd1c_b5j_1mb">Cotta hatte Gregorovius’ Plan für ein Album mit den einzelnen „Illustrationen zu den Geschichtlichen Denkmälern der Hohenstaufen in Italien“ von Barbarossa bis Conradin (DLA Marbach, Cotta-Archiv, Cotta-Briefe, 208 und 208a – ohne die Beilagen gedruckt in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 367–368) aus Kostengründen abgelehnt. Die vorgesehenen Texte wurden von Gregorovius im 5. Band der „Wanderjahre in Italien“ (1877) zusammengefasst. Siehe dazu den Brief von Gregorovius an Giovanni Gozzadini vom 7.2.1875.</note></seg> versagt hat. Weil Ihre Schrift nicht über 400 Seit<ex>en</ex> in 8° betragen wird, glaube ich um so mehr Aussicht zu haben. Nur wird ein Honorar <seg type="comment"><orig>für den Übersetzer</orig><note xml:id="nbkj_c5j_1mb">Soweit ermittelt verantwortete Mariano die Übertragung ins Deutsche selbst.</note></seg> schwerlich zu erlangen sein, denn Ihre Schrift wird der Buchhändler nicht zu denen zählen, welche Gegenstände <add place="intralinear">d<ex>er</ex></add> Speculation ein Geschäft sein können. Suchen Sie demnach einen Übersetzer unter solchen Bedingungen zu erlangen, während Ihre Schrift bogenweise ihm abgeliefert werden kann.</p>
+<p>Ich erwarte Althaus am 5. Aug<ex>ust</ex>. Vielleicht gehe ich mit ihm aufs Land. Grüßen Sie vielemale <hi rendition="#aq"><persName key="G001675"><seg type="comment"><orig>Vera</orig><note xml:id="nwfp_d5j_1mb">Der Philosoph Augusto Vera (1813–1885) hatte sich als Übersetzer Hegels und Verbreiter von dessen Schriften in Italien und Frankreich verdient gemacht. Gregorovius lernte ihn auf einer Neapel-Reise im Mai 1875 kennen (vgl. RT, 23.5.1875, S. 352) und widmete ihm Jahre später einen Aufsatz: Der Hegelianer Augusto Vera. In: Zeitschrift für Allgemeine Geschichte, Kultur-, Litteratur- und Kunstgeschichte. Bd. 4. Stuttgart: Cotta 1887. S. 561–576. Aufgenommen in KS III/4 (S. 43–71).</note></seg></persName></hi>; leben Sie wol in dem schönen, frischen <placeName key="G067579">Engadin</placeName>, wo ich <seg type="comment"><orig>vor mehren Jahren in <placeName key="G000875">S<ex>ankt</ex> Moritz</placeName></orig><note xml:id="niss_25j_1mb">Er hatte im August 1862 knapp drei Wochen in Sankt Moritz verbracht (vgl. RT, S. 149–151).</note></seg> war</p>
+                <closer>
+<signed rendition="#c">Ihr FGr.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

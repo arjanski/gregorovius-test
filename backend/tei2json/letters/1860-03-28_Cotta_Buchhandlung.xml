@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000117">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an die Cotta’sche Buchhandlung in Stuttgart. Rom, 28.
+                    März 1860</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (29)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¾ S. – 2v aoR Eingangsvermerk: 1860 / <hi rendition="#aq">Gregorovius</hi> / <hi rendition="#aq">Rom</hi> 28 <hi rendition="#aq">Maerz</hi></p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno>Karton 57, Mappe 340–342 (nach D) und Karton 55, Mappe 336–337 (Ergänzungen nach H)</idno></idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der
+                            Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S.
+                            237–239</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Die beim Verlag noch nicht eingetroffene erste Hälfte des Manuskripts des dritten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1860) hat er am 27. Januar 1860 über die preußische Gesandtschaft in Wien abgesandt. Im Falle des Verlustes kann er innerhalb von vierzehn Tagen eine erneute Reinschrift anfertigen. Die zweite Hälfte des Manuskripts hat Heinrich Hirsch Ende Februar mit nach Deutschland genommen. Um den Druck nicht zu verzögern, kann mit der zweiten Hälfte begonnen werden. Die von ihm gewünschten „Regesta chronologico-diplomatica Karolorum“ (1833) sind noch immer nicht eingetroffen, inzwischen braucht er sie nicht mehr. Anfang Februar hat er die erste Hälfte des Manuskripts seines Aufsatzes „Von den Ufern des Liris“ eingesandt, hat aber bislang keine Rückmeldung von der Redaktion der „Allgemeinen Zeitung“. Die Nachschrift bestätigt den Eingang der „Regesta chronologico-diplomatica Karolorum“, die auf dem Zollamt unetikettiert wegen der noch ausstehenden kirchlichen Zensur liegen geblieben waren. Dieser Umgang ist ihm beispielhaft für die rechtlichen Zustände in Rom und im Königreich Neapel.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">The first half of the manuscript of the third volume of his „Geschichte der Stadt Rom im Mittelalter“ (1860), which has not yet arrived at the publishing house, was sent by the Prussian legation in Vienna on January 27th, 1860. Should it be lost, he could make a new fair copy within fourteen days. Heinrich Hirsch took the second half of the manuscript to Germany at the end of February. In order not to delay the printing, Cotta could start with the second half. The „Regesta chronologico-diplomatica Karolorum“ (1833) he had requested have still not arrived, but he no longer needs them. At the beginning of February, he sent in the first half of the manuscript of his essay „Von den Ufern des Liris“, but has not yet received any feedback from the editorial staff of the „Allgemeine Zeitung“. The postscript confirms the receipt of the „Regesta chronologico-diplomatica Karolorum“, which had been left unlabelled at the customs office because the church censorship is still pending. He sees this process as an example of the legal conditions in Rome and the Kingdom of Naples. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1860-03-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="G000523">J. G. Cotta'sche Buchhandlung</orgName>
+                    <placeName key="G000879">Stuttgart</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev">21. März 1860</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<salute rendition="#c">Hochgeehrte Herren,</salute>
+</opener>
+                <p>gleich nach dem heutigen Empfange Ihres geneigten <seg type="comment"><orig>Schreibens vom 21. <hi rendition="#aq">März</hi> habe ich wegen des Manuscripts Erkundigungen eingezogen</orig><note xml:id="npcp_spr_ylb">Am selben Tag notierte Gregorovius im Tagebuch: „Ich erhielt die erschreckende Nachricht, daß die erste Hälfte meines Bandes III nicht in Stuttgart angekommen sei. Ich habe nach Wien geschrieben. So kann ich durchaus nicht zur Ruhe gelangen.“ (RT, 28.3.1860, S. 95).</note></seg>. <seg type="comment"><orig>Das Paquet ist durch den <placeName key="G000647">öster<ex>reichischen</ex></placeName> Gesandtschaftscourier in einer Sendung <placeName key="G000646">preußischer</placeName> Briefe an die preußische Gesandtschaft in <placeName key="G000897">Wien</placeName> am 27. Jan<ex>uar</ex> von hier abgegangen</orig><note xml:id="nicd_5pr_ylb">So die Mitteilung von der Übersendung der ersten Hälfte des Manuskripts des 3. Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1860) in den Briefen von Gregorovius an Cotta vom 26.1.1860 (in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 235–236) und <ref target="G000091">13.3.1860</ref>. Siehe auch RT, 27.1.1860, S. 91.</note></seg>, mit der Ordre es in Wien auf die Post zu geben. Ich schreibe heute nach Wien, damit ein Laufzettel ausgeschickt werde, u<ex>nd</ex> dasselbe geschieht auch von Seiten der hiesigen Gesandtschaft. <seg type="comment"><orig>Im besten Falle wäre das M<ex>anu</ex>scr<ex>ipt</ex> im dortigen Bureau liegen geblieben</orig><note xml:id="nb2j_ypr_ylb">Wie aus dem Tagebuch-Eintrag vom 8.5.1860 (RT, S. 98) und einem Brief von Gregorovius an Thile vom 30.4.1860 hervorgeht (Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 25–27), wurde das Manuskript, wenn auch verspätet, dem Verlag zugestellt.</note></seg>. Ich kann mir doch das Nichteintreffen auf andere Weise nicht erklären, da die Post zwischen Wien u<ex>nd</ex> Stuttgart jedenfalls sicher ist, u<ex>nd</ex> das Paquet in Wachsleinwand mit der Adresse „Herrn Baron v<ex>on</ex> Cotta in Stuttgart“ gehörig versehen war.</p>
+                <p><seg type="comment"><orig>Die 2. Hälfte nahm ein <persName key="G001281">sicherer Mann </persName>am 29. <hi rendition="#aq">Febr<ex>uar</ex></hi> mit; innerhalb 4 Wochen wollte derselbe das M<ex>anu</ex>sc<ex>ript</ex> an eins Ihrer Häuser in <placeName key="G000620">Augsburg</placeName> oder <placeName key="G000734">München</placeName> abliefern</orig><note xml:id="nh34_bqr_ylb">Die zweite Hälfte des Manuskripts vom 3. Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1860) hatte vermutlich der in München ansässige Numismatiker Heinrich Hirsch (1820–1886) auf seinem Rückweg mit nach München genommen, der den Winter immer wieder in Rom verbrachte (siehe auch den Brief von <ref target="G000091">Gregorovius an Cotta, 13.3.1860</ref>). Er hatte für Gregorovius auch die vier Ende September 1859 von Alfred von Reumont entliehenen Bände der „Jahrbücher des Deutschen Reichs“ (1838–1840) mit nach Florenz genommen (siehe den Brief von <ref target="G000092">Gregorovius an Reumont, 10.3.1860</ref>).</note></seg>. Ich muß daher denken, daß dies schon geschehen sei. Könnte nicht der Druck mit der 2. Hälfte begonnen werden? Der Zeitverlust ist empfindlich, denn es liegt im Interesse der Sache, die Bände so bald wie möglich einander folgen zu laßen.</p>
+                <p>Da nun diese unerwartete Fatalität eingetroffen ist, kann ich nichts anderes thun, als in Geduld <pb n="1v"/>die Erfolge der Nachforschungen abwarten; sobald sich das <hi rendition="#aq">Manuscr<ex>ipt</ex></hi> als verloren herausstellt, werde ich eilen die Reinschrift noch einmal zu fertigen, was ich in 14 Tagen kann, da ich die erste Schrift besitze. Vielleicht wäre es zweckdienlich, auch von Stuttgart aus einen Laufzettel gegen Wien zu senden.</p>
+                <p><seg type="comment"><orig>Die <bibl sameAs="G004794"><hi rendition="#aq">Regesta Karolorum</hi></bibl> habe ich vergebens auf der Post erfragt</orig><note xml:id="nu2s_vqr_ylb">Gregorovius hatte am <ref target="G000099">22.9.1859</ref> um Zusendung von Johann Friedrich Böhmers (1795–1863) „Regesta chronologico-diplomatica Karolorum. Die Urkunden sämmtlicher Karolinger in kurzen Auszügen“ (Frankfurt: Varrentrapp 1833) gebeten und in seinen Briefen vom 26.1.1860 (Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 235–236) und <ref target="G000091">13.3.1860</ref> angezeigt, dass diese noch nicht eingegegangen sind.</note></seg>; ich will noch einen Versuch in dem Chaos der hiesigen Dogana anstellen. Im Übrigen kann ich jetzt diese Regesten mißen, da ich alle betreffenden Documente, u<ex>nd</ex> selbst solche, die Böhmer nicht hat, verwendet habe.</p>
+                <p>Am 6. <hi rendition="#aq">Febr<ex>uar</ex></hi> sandte ich durch die Post die <seg type="comment"><orig>erste Hälfte eines Artikels <bibl corresp="G003882 G003883 G003884 G003885 G003886 G003887 G003888 G003889">„Vom Ufer des Liris“</bibl> an die Redaction der <orgName key="G000462">Allg<ex>emeinen</ex> Zeit<ex>ung</ex></orgName></orig><note xml:id="nyqd_crr_ylb">Gregorovius hatte die Übersendung seines Beitrags im Brief an Cotta vom 26.1.1860 angekündigt (Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 235–236). Sein Beitrag „Von den Ufern des Liris“ erschien in acht Folgen in: Beilage zu Nr. 87, 89, 96, 125–127 und 129–130 der AZ. Augsburg: Cotta 27.3.-9.5.1860 – er wurde in den 2. Band der „Wanderjahre in Italien“, „Lateinische Sommer“ (Leipzig: Brockhaus 1864) aufgenommen.</note></seg>. Ich habe angefragt, ob dieser Artikel eingetroffen sei.</p>
+<p>Mit dem heißen Wunsche, daß <bibl sameAs="G003469">Band III</bibl>, der Beste der bisher erschienenen, bald in Ihre Hände gelange, u<ex>nd</ex> mit der Bitte, mir dann gütigst Nachricht geben zu wollen, empfehle ich mich, hochgeehrte Herren,</p>
+                <closer>
+<salute rendition="#right">in großer Hochachtung u<ex>nd</ex> Ergebenheit</salute>
+<signed rendition="#right">FGregorovius.</signed>
+                    <dateline>Rom 28 <hi rendition="#aq">März</hi> 1860.</dateline></closer>
+<note type="postscript"><pb n="2r"/><hi rendition="#u" hand="">Nachschrift</hi><lb/><p>Eben glückte es mir unter einem Wust von Paketen auf der <hi rendition="#aq">Dogana</hi> die <hi rendition="#aq">Regesta Karolor<ex>um</ex></hi> zu entdecken, welche einen neuen Umschlag irgendwo bekommen hatten, mit der Aufschrift <hi rendition="#aq">Gregoris</hi>. Die Sendung liegt schon seit dem 8. Januar dort – so etwas erfährt man nur durch Zufall. Ich habe sie vor der Hand ausgelöst mit 2 Thalern 6 S<ex>ilber</ex>gr<ex>oschen</ex> Preuß<ex>isches</ex> Geld, aber noch nicht in Empfang nehmen können, weil das Buch erst an die betreffende <orgName key="G000522">Commission der heiligen Inquisition</orgName> wandern muß, die mich dann schließlich bescheiden wird. Ich schreibe Ihnen, verehrte Herren, dies nur als Beispiel hiesiger Zustände; wer sie hier u<ex>nd</ex> im <placeName key="G004694">Königreich Neapel</placeName> selbst erfährt, hat wol Grund die Zeit zu ersehnen, wo endlich einmal eine rechtliche Existenz begründet wird. Denn von oben herab bis unten ist jeder Zustand der Willkür, der Erpreßung, u<ex>nd</ex> dem öffentlichen wie privaten Raube ausgesetzt.</p><p>Wenn nun die Regesta Karolor<ex>um</ex> hieher glücklich anlangten, ist zu hoffen, daß auch mein M<ex>anu</ex>scr<ex>ipt</ex> zu Ihnen kommen werde. Ist es vielleicht auf der Stuttgarter Post liegen geblieben? Es war in schwarzer Wachsleinwand länglicher Form verpackt, mit der Aufschrift, <hi rendition="#aq">Monsieur le</hi> Baron <foreign xml:lang="fra">de</foreign> Cotta.</p><p rendition="#c">________________</p></note>
+            </div>
+        </body>
+    </text>
+</TEI>

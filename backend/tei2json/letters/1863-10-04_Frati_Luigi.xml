@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000428">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Luigi Frati in Bologna. Siena, 4. Oktober 1863</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Bologna, Biblioteca dell’Archiginnasio</repository><collection>f.s. Luigi Frati</collection><idno>Cart. XIII, N. 53</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ½ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die Unterstützung bei seinen Forschungen im Archivio pubblico in Bologna. Dank an die Zuständigen im Archivio notarile und Grüße an Michelangelo Gualandi. Im Staatsarchiv in Siena sind ihm der Direktor Filippo Polidori und Luciano Banchi sehr behilflich. Er will nach Bologna zurückkehren, um das von Kardinal Aegidius Albornoz herausgegebene „Liber Constitutionum Sanctae Matris Ecclesiae“ (1357) im Collegio di Spagna einzusehen. Er bittet um Informationen zum Zustand der Herculanensischen Papyri. Frati wünscht er Erfolg für seine „Statuti di Bologna dall’anno 1245 all’anno 1267“ (1869–1877).</p>
+                <p xml:lang="en">He thanks him for the help with his research at the Archivio pubblico in Bologna. He thanks the people responsible in the Archivio notarile and sends his regards to Michelangelo Gualandi. At the State Archives in Siena, the director Filippo Polidori and Luciano Banchi are very helpful to him. He intends to return to Bologna to consult the „Liber Constitutionum Sanctae Matris Ecclesiae“ (1357) published by Cardinal Aegidius Albornoz at the Collegio di Spagna. He asks for information on the state of the Herculanensic Papyri. He wishes Frati success for his „Statuti di Bologna dall’anno 1245 all’anno 1267“ (1869-1877).</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000871">Siena</placeName><date when="1863-10-04" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001136">Frati, Luigi (1815–1902)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><del rendition="#s">Bologna</del> <lb/> Siena, 4. Ott<ex>o</ex>bre 63.</dateline>
+                    <salute rendition="#c">Gentilissimo Signor <seg type="comment"><orig>Cavaliere</orig><note xml:id="ns3c_bbr_vlb">Luigi Frati (1815–1902) war zunächst Direktor der erzbischöflichen Bibliothek in Bologna und ab 1858 bis zu seinem Tod Leiter der Biblioteca Comunale dell’Archiginnasio. Von 1855–1853 war er Mitglied im Stadtrat. Als Bibliotheksdirektor des Archiginnasio trieb er wichtige bibliothekarische Reformen mit voran, wie die Neuordnung und Katalogisierung der kommunalen Bestände. 1860 war er Gründungspartner der Deputazione di Storia Patria per le Province di Romagna sowie deren Sekretär von 1860 bis 1863. Ihm ist die Zusammenlegung der beiden archäologischen Museen Bolognas in das erste städtische Museum, das Museo Archeologico Comunitativo, zu verdanken. Gregorovius lernte Frati im September 1863 in Bologna kennen, als dieser ihm das Archivio pubblico im Palazzo del Podestà zugänglich machte (siehe RT, 20.9.1863, S. 168). Im Archiv der Biblioteca dell’Archiginnasio sind eine unbeschriebene Visitenkarte und vier Briefe von Gregorovius an Frati erhalten. Sie datieren in einen zwanzjährigen Zeitraum, von 1863 bis 1883, und zeugen von einer langjährigen, kollegialen Verbindung. Allein ein Gegenbrief aus dem September 1875 ist erhalten. Der Inhalt der Briefe ist vornehmlich wissenschaftlicher Natur und Anlass gebunden, das heißt, Gregorovius bittet um archivarische Informationen, berichtet gelegentlich von seinen Reiseplänen und Forschungsaufenthalten oder von seinem Gesundheitszustand.</note></seg>,</salute>
+                </opener>
+<p><seg type="comment"><orig>mi trovo oramai à Siena, dove godo la richezza dell’ <orgName key="G000566">Archivio di Stato</orgName></orig><note xml:id="ni4r_cbr_vlb">Gregorovius hielt sich vom 30. September bis zum 8. Oktober 1863 in Siena auf, wo er im Staatsarchiv, dank eines Empfehlungsschreiben von Michele Amari (1806–1889), arbeiten konnte (siehe den Brief von <ref target="G000315">Gregorovius an Michele Amari, 11.7.1863</ref>). Die Stadt gefiel ihm nicht, seine Forschungen dort waren jedoch erfolgreich (siehe RT, S. 170–171).</note></seg>; trovai delle migliori gentilezze pure in questa città, e le premure dei Signori <seg type="comment"><orig><persName key="G001503">Polidori</persName></orig><note xml:id="nm2z_dbr_vlb">Filippo Luigi Polidori (1801–1865) war ein Schriftsteller, der sich in Florenz niederließ und dort unter anderen mit Giovan Pietro Vieusseux (1779–1863) sowie Niccolò Tommaseo (1802–1874) zusammenarbeitete. In den Jahren 1859–1865 war er Direktor des Archivio di Stato di Siena, wo Gregorovius ihn am 1. Oktober 1863 kennenlernte (siehe RT, 4.10.1863, S. 170).</note></seg> e <seg type="comment"><orig><persName key="G000956">Banchi</persName></orig><note xml:id="nwzj_fbr_vlb">Der Politiker und Archivar Luciano Banchi (1837–1887) war auf Wunsch von Polidori im September 1859 als „sottoarchivista“ in das siensische Staatsarchiv gekommen. Nach Polidoris Tod (1865) wurde Banchi stellvertretender Direktor, von 1857–1887 war er Direktor des Archivs. </note></seg> mi anno fatto facilmente raggiungere lo scuopo mio.</p>
+<p><seg type="comment"><orig>Prima che io parta da qui a <placeName key="G000763">Roma</placeName></orig><note xml:id="nepc_hbr_vlb">Er reiste am 8. Oktober von Siena nach Orvieto und von dort am 11. Oktober nach Rom (siehe RT, S. 171–172).</note></seg>, le mando queste righe, ringraziandola di cuore di tutto quello, che Lei si cortesemente a fatto per me. Non me ne scorderò alla vita mia, e sarei felice puotendo star ai commandi suoi, e servirla in qualche punto. La prego di vuoler esser latore degli stessi sentimenti di riconoscenza <choice><sic>agili</sic><corr cert="high">agli</corr></choice> signori, che nell ’<seg type="comment"><orig><orgName key="G000457">Archivio notarile</orgName> mi accolsero si benignamente</orig><note xml:id="nq5h_kbr_vlb">Als Gregorovius in Bologna im Archivio pubblico war, nutzte er auch das Archivio notarile: „Dagegen sind die Notariats-Akten der späteren Epoche, wie überall in Italien, trefflich gehalten. Unter dem Regiment der Päpste hätte man mir nimmer diese Freiheit gestattet; jetzt ist alles der Forschung zugänglich.“ (RT, 20.9.1863, S. 168).</note></seg>, non chè al <seg type="comment"><orig><persName key="G001217">Signor Gualandi</persName></orig><note xml:id="nmwj_lbr_vlb">Der Kunsthistoriker Michelangelo Gualandi (1795–1865) war als Archivar im Archiv von Bologna tätig und publizierte zur Kunst Bolognas: „Ich lernte Michelangelo Gualandi kennen, einen namhaften Antiquar.“ (RT, 20.9.1863, S. 169). </note></seg>. <seg type="comment"><orig>Spero di puoter ritornar a Bologna</orig><note xml:id="nhz4_mbr_vlb">Ein weiterer Besuch bei Frati in Bologna datiert in den September 1865 (siehe RT, 4.9.1865, S. 199–200). </note></seg>; làdove altre carte debono esser ritrovabili, rapporto a quelle storie, che tratto; non ho visto ancora le pergamene dell’ Archivio il quale si <seg type="comment"><orig>riserba</orig><note xml:id="nmjq_nbr_vlb">Literarisch für: riserva.</note></seg> nell’ <seg type="comment"><orig><orgName key="G000458">Albornoziana</orgName></orig><note xml:id="ndjr_4br_vlb">Die dem Collegio di Spagna zugehörige Bibliothek in Bologna, gegründet 1365–1367 von Kardinal Gil Álvarez Carrillo de Albornoz (1310–1367), ital. Egidio Albornoz. </note></seg>; <pb n="1v"/>avvi di certo un codice<del rendition="#s"><gap reason="illegible" unit="chars" quantity="2"/></del> membraneo, contenente gli atti del <seg type="comment"><orig>governo di quel famoso <persName key="G000911">Cardinale</persName></orig><note xml:id="nmdl_qbr_vlb">Kardinallegat Albornoz setzte sich seit 1353 mit Erfolg für die Restauration des Kirchenstaates in Italien ein, im Zuge dessen fiel auch Bologna 1360 wieder in die Regierungsgewalt des Heiligen Stuhles. Albornoz ordnete die kirchliche Verwaltung, gab ein, für alle Provinzen des Kirchenstaates verbindliches, einheitliches Gesetzbuch heraus, worauf sich Gregorovius hier bezieht: Liber Constitutionum Sanctae Matris Ecclesiae, 1357. Siehe zu Albornoz auch: Geschichte der Stadt Rom im Mittelalter. Sechster Band. Stuttgart 1867. S. 388–423. </note></seg>. Intanto forse Lei o il signor Gualandi avrà l’occasione, di informarsi di quello che è rimasto delle <seg type="comment"><orig>carte <placeName key="G000829">Ercolaneasi</placeName></orig><note xml:id="nops_rbr_vlb">Die Herculanensischen Papyri sind Schriftstücke aus der römischen Antike und wurden bei Ausgrabungen in der Villa der Papyri in Herkulaneum zwischen 1752–1754 entdeckt. Da sie einer hohen Hitzeeinwirkung ausgesetzt waren, als die Stadt verschüttet wurde, wurden sie nicht zersetzt.</note></seg>, un dì donate all’<orgName key="G000465">Archivio pubblico</orgName>, e poi di nuovo riportate in casa Ercolani. Egli si sarebbe cosa di rilievo pure per Loro, se si rischiarisse il fatto di codeste pergamene.</p>
+<p>Se mai s’ incontrasse Lei in qualche documento facente per me e per i miei studij, la pregherei, di vuoler ricordarsi di me.</p>
+<p>Le auguro lieti progressi in tutto quello che Lei con tanto ardore intraprende per lo sviluppo degli <seg type="comment"><orig><bibl sameAs="G004305">studj storici della sua nobile patria</bibl></orig><note xml:id="ngdg_tbr_vlb">Auf die von Frati erst 1869–1877 herausgegebenen „Statuti di Bologna dall’anno 1245 all’anno 1267“ (Bologna. 3 Bde.) hatte Gregorovius offensichtlich bereits früher Zugriff; siehe seine „Geschichte der Stadt Rom im Mittelalter“ (1865), S. 284.</note></seg>; <pb n="2r"/>e di certo Lei vedra quel tempo, dove raccoglierà i frutti delle sue generose fatiche.</p>
+<p>Lieto di aver fatto la conoscenza della sua persona, e sperando di mantener con Ella delle relazioni letterarie, io mi pregio, caro Signor, di chiamarmi affettuosamente</p>
+                <closer>
+<salute rendition="#right">servitor suo devotissimo</salute>
+                    <signed rendition="#right">Ferd. Gregorovius. </signed></closer>
+<dateline>Roma, <placeName key="ediarum_lmm_slx_qlb">Via Gregoriana</placeName>, n<ex>ume</ex>ro 13. </dateline>
+            </div>
+        </body>
+    </text>
+</TEI>

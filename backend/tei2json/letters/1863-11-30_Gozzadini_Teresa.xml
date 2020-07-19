@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000430">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Maria Teresa Serego Alighieri Gozzadini in Sasso. Rom, 30. November 1863</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+<p>eine Fotografie</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Giovanni Gozzadini: Maria Teresa di Serego-Allighieri Gozzadini. Bologna: E. Fava e Garagnani 1882. S. 306–307 (unvollständig)</bibl></witness>
+<witness select="#this"> <bibl type="print">Giovanni Gozzadini: Maria Teresa di Serego-Allighieri Gozzadini. Seconda edizione ampliata con prefazione di Giosuè Carducci. Bologna: Nicola Zanichelli 1884. S. 446–447 (unvollständig)</bibl></witness> 
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er schickt der Gräfin eine Fotografie und erinnert an die gemeinsamen Stunden in der Villa Gozzadini in Sasso Marconi im September. </p>
+                <p xml:lang="en">He sends the Countess a photograph and recalls the hours spent together at the Villa Gozzadini in Sasso Marconi in September.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1863-11-30" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001092">Serego Alighieri Gozzadini, Maria Teresa (1812–1881)</persName>
+<placeName key="G000572">Sasso Marconi</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="446"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Roma <seg type="comment"><orig>31 Novembre</orig><note xml:id="nnqw_wcr_vlb">Im Druck fälschlicherweise als 30. November bezeichnet.</note></seg> 1863.</dateline>
+                    <salute>Gentilissima signora Contessa. </salute>
+                </opener>
+<p>Un Ungherese di <placeName key="G000643"><seg type="comment"><orig>Pesth</orig><note xml:id="nztb_ycr_vlb">Pest, Stadt in Ungarn, aus der, neben Buda, 1873 die Hauptstadt Budapest entstand.</note></seg></placeName> che parte in fretta per <placeName key="G000638">Bologna</placeName> non <pb n="447"/>mi lascia il tempo di scrivere agiatamente come vorrei. Mando dunque <seg type="comment"><orig><foreign xml:lang="Lat">Qualecumque literam</foreign></orig><note xml:id="nx4g_zcr_vlb">Lat. für: ein wie auch immer beschaffener Brief; sinngemäß: ein paar kurze Sätze.</note></seg>, acchiudendovi una fotografia, la quale Ella gentilmente à voluto accettare. Quante volte io mi consoli col rivocarmi <seg type="comment"><orig>quelle rapide ma deliziose ore che passai al Sasso</orig><note xml:id="nsrm_bdr_vlb">Die Contessa verbrachte das Jahr 1863 in Sasso Marconi, in der Nähe Bolognas, wo die Gozzadinis eine Villa besaßen. Gregorovius berichtet von seinem Besuch im September 1863: „Auf der Fahrt nach Sasso traf ich mit Graf Gamba zusammen, welcher auch zu Gozzadini fuhr. Dieser empfung uns auf der Station; wir fuhren nach dem Landhaus. Ich verlebte zwei herrliche Stunden mit diesen ausgezeichneten Menschen aus dem berühmten bologneser Geschlecht. Die Gräfin sieht geistreich aus, spricht viel und lebhaft. Wir sprachen von Perez, und die ganze Liebe zu diesem Verlorenen wurde wieder wach in mir.“ (RT, 21.9.1863, S. 169).</note></seg>, non è facile a dirlo. Le gioie che l’uomo coglie nella vita, spesse volte gli si presentano nella forma di momenti, in cui tutto un bene di lunghi anni sembra esser raccolto e racchiuso.</p>
+<p><gap reason="lost" unit="chars" quantity="1"/> Intanto, facendo caldissimi voti per il loro benessere, m’inchino con rispettoso affetto</p>
+                <closer>
+                    <salute rendition="#right">come loro servitore sincero e devoto</salute>
+                    <signed rendition="#right">Gregorovius.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

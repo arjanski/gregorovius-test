@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000058">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Eduard Brockhaus in Leipzig. Rom, 3. Mai 1857</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (42)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p> 1 Dbl., 8°, 3 ½ S. – 2v alR, Blatt um 90° gedreht, Eingangs- und Beantwortungsvermerk: 1857. / <hi rendition="#aq">Rom</hi>, 3/11. <hi rendition="#aq">Mai</hi>. / <hi rendition="#aq">Gregorovius</hi>. / B. 8/VII. / Manuscript an / H. Siegfried</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er nimmt das Honorarangebot für sein Versgedicht „Euphorion“ (1858) an und äußert Gestaltungswünsche. Das Format sollte sich an der Übersetzung seiner „Lieder des Giovann Meli von Palermo“ (1856) und an seinen „Grabmälern der Römischen Päpste“ (1857) orientieren. Da er an seiner „Chronik von Rom“ arbeiten muss, kann er zum „Supplement zur elften Auflage des Conversations-Lexikons“ (1872–1873) keine Beiträge liefern. Die übersandten Hefte von „Unsere Zeit“ wird er durch Josef Spithöver zurücksenden. Er bittet um Übersendung von Rezensionen der „Grabmäler“ aus katholischen Zeitschriften.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He accepts the offer for the fee for his poem „Euphorion“ (1858) and expresses his wishes regarding the layout. The format should be based on the translation of his „Lieder des Giovann Meli von Palermo“ (1856) and his „Grabmäler der Römischen Päpste“ (1857). Since he has to work on his „Chronik von Rom“, he cannot provide articles for the „Supplement zur elften Auflage des Conversations-Lexikons“ (1872–1873). He will send back the booklets of „Unsere Zeit“ through Josef Spithöver. He asks for reviews of the „Grabmäler“ from Catholic magazines to be sent to him. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1857-05-03" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+<persName key="G000995">Brockhaus, Eduard (1829–1914)</persName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev">21. April 1857</ref>
+                    <ref type="next">8. Juli 1857</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Roma</hi> 3. <hi rendition="#aq">Mai</hi> 1857.</dateline>
+                    <salute rendition="#c">Sehr geehrter Herr,</salute>
+                </opener>
+                <p>Ihr Schreiben vom 21. April habe ich richtig erhalten, u<ex>nd</ex> was Sie mir darin <seg type="comment"><orig>in Bezug auf meinen „<bibl sameAs="G003574">Euphorion</bibl>“ antworten</orig><note xml:id="ntgv_l55_slb">In seinem letzten Brief vom <ref target="G000075">2.4.1857 an Brockhaus</ref> hatte Gregorovius seine Vertragsbedingungen für den Verlag des eingesandten Manuskripts seines „Euphorion“ (1858) formuliert. „Euphorion. Eine Dichtung aus Pompeji in vier Gesängen“ erschien erst 1858.</note></seg>, diese Tage mit Muße überlegt. Ich entnehme zuerst daraus, daß Sie <add place="intralinear">den</add> Preis des Gedichtes im Verhältniß zu dem relativ kleinen Umfang ansetzen wollen, u<ex>nd</ex> erkenne allerdings, daß sich damit der Ertrag für den Verleger verringert. Noch mehr als dies, (womit mir wenigstens ein schnellerer Verkauf der ersten Auflage in nähere Aussicht gestellt wird), bewegen mich die Vorteile, die mit Ihrem <orgName key="G000480">Verlage</orgName> für mich verbunden sind, Ihre Offerte nunmehr anzunehmen. <seg type="comment"><orig>Ich werde also, um es kurz zu sagen, Ihr Honorar von 150 Thalern für die erste Aufl<ex>age</ex> von 1000 Exemp<ex>laren</ex>, u<ex>nd</ex> von 100 Th<ex>alern</ex> für <bibl corresp="G003575 G003576 G003577 G003578 G003579">jede folgende</bibl> im Maximum derselben Zahl von Exempl<ex>aren</ex> annehmen.</orig><note xml:id="nxxz_455_slb">Gregorovius hatte in seinem Brief vom <ref target="G000075">2.4.1857</ref> für die 1. Auflage von 1000 Exemplaren 200 Taler und für jede weitere 150 Taler von Brockhaus verlangt.</note></seg> Zu seiner Zeit, vielleicht Ende Juni werde ich <pb n="1v"/>die Summe in einem Wechsel ziehn.</p>
+                <p>Ihre Absicht ist es, das Gedicht in Miniaturformat auszustatten: mir scheint <seg type="comment"><orig>für lange Hexameter wiederum ein Format wünschenswert, welches nicht allzuklein wäre</orig><note xml:id="nfds_s55_slb">Das Format wurde so klein gewählt, dass die Verse tatsächlich nicht auf eine Zeile passten.</note></seg>. Jenes des <bibl corresp="G004072"><hi rendition="#aq">Meli</hi></bibl> u<ex>nd</ex> der <hi rendition="#aq"><bibl sameAs="G003430">Grabmäler</bibl></hi> sieht sehr sauber aus, u<ex>nd</ex> ich finde, daß im Durchschnitt 16 Hexam<ex>eter</ex> auf die Seite kommen, eine Zahl, die durch etwas mehr Rand oben u<ex>nd</ex> unten passend auf 14 oder 15 ermäßigt werden könnte; so daß dies Buch immer 8 Bogen im Druck umfaßen würde. Indeß bitte ich nach Ihrem Sinne zu verfahren, u<ex>nd</ex> wünsche nur klare Schrift u<ex>nd</ex> Papier. Wenige Gedichte eignen sich so für <note place="left" hand="#addressee">–</note>saubere Ausstattung, als dies pompejanischen Inhaltes, u<ex>nd</ex> ich wäre sehr froh, wollten Sie so viel daran wenden, daß <seg type="comment"><orig>das Titelblatt mit einem jener feinen Arabeskenränder umfaßt würde</orig><note xml:id="nzz3_x55_slb">Auch dieser Wunsch wurde vom Verlag nicht erfüllt.</note></seg>, wie wir sie aus <placeName key="G000755">Pompeji</placeName> kennen. Desgleichen <note place="left" hand="#addressee">–</note>wäre es gar angenehm, wollten Sie <seg type="comment"><orig>über jedem Gesange eine kleine Arabeske zeichnen laßen, mit der betreffenden pompejanischen Lampe</orig><note xml:id="nn45_y55_slb">Auch dieser Wunsch wurde vom Verlag nicht erfüllt, doch in der als „Illustrierte Prachtausgabe mit Original-Compositionen von Theodor Grosse“ erschienen Quartausgabe von Gregorovius’ „Euphorion“ 1872 realisiert.</note></seg><del rendition="#s">n</del>. <pb n="2r"/>Denn es entsprechen die Gesänge den <seg type="comment"><orig>Lampen des Candelabers</orig><note xml:id="ngkm_cv5_slb">Zu der Versdichtung „Euphorion“ war Gregorovius im Sommer 1853 bei einem Besuch in Pompeji und im Museo Borbonio (heute Museo archeologico nazionale di Napoli) in Neapel angeregt worden, wo er den dorthin verbrachten vierarmigen Leuchter aus der Villa des Arrius Diomedes gesehen hatte. Siehe dazu den Brief von Gregorovius an Brockhaus vom <ref target="G000019">1.10.1856</ref>.</note></seg>: <persName key="G004717"><hi rendition="#aq"><seg type="comment"><orig>Oneiros</orig><note xml:id="nxtf_hv5_slb">In der griechischen Mythologie Gott des Traumes, bzw. die Verkörperung der Träume / des Träumens. </note></seg></hi></persName>, <seg type="comment"><orig><hi rendition="#aq"><persName key="G000927">Amor</persName></hi> u<ex>nd</ex> <hi rendition="#aq"><persName key="G001515">Psyche</persName></hi></orig><note xml:id="nvy4_jv5_slb">Die Liebesbeziehung zwischen Amor, dem Gott der Liebe, und der sterblichen Königstochter Psyche nach dem, unter dem Titel „Der goldene Esel“ berühmten, Roman von Apuleius (* um 123 bis † nach 170).</note></seg>, <persName key="G004744"><seg type="comment"><orig><hi rendition="#aq">Pallas</hi> <hi rendition="#aq">Athene</hi></orig><note xml:id="nyzt_bw5_slb">In der griechischen Mythologie die Göttin der Weisheit, der Kriegskunst, der Kunst und des Handwerks – und Namenspatronin Athens. </note></seg></persName>, <persName key="G004728"><hi rendition="#aq"><seg type="comment"><orig>Thanatos</orig><note xml:id="nghx_cw5_slb">In der griechischen Mythologie ein Totengott.</note></seg></hi></persName> u<ex>nd</ex> <persName key="G001108"><hi rendition="#aq"><seg type="comment"><orig>Eirene</orig><note xml:id="nlrh_gw5_slb">In der griechischen Mythologie Göttin des Friedens. </note></seg></hi></persName>. Ich selbst könnte Ihnen diese kleinen Zeichnungen hier, wie ich nicht zweifle, ohne jegliche Kosten durch einen Künstler machen laßen. Im Übrigen sind dies Wünsche, u<ex>nd</ex> nichts weiter; sie werden durch die Sache selbst hervorgerufen.</p>
+                <p>Da ich nur bis <seg type="comment"><orig>Johanni</orig><note xml:id="nsvf_jw5_slb">Der Namenstag von Johannes dem Täufer, am 24. Juni.</note></seg> in der Stadt bleibe, u<ex>nd</ex> dann <seg type="comment"><orig>eine dreimonatliche Erholungsfahrt antrete</orig><note xml:id="ndff_lw5_slb">Wie 1856 litt Gregorovius auch in diesem Jahr unter gesundheitlichen Problemen. Er reiste am 28. Juni von Rom über Subiaco und Olevano am 3. Juli nach Genazzano, wo er bis zum 1. September 1857 blieb (siehe RT, 2.7.-5.9.1857, S. 67–68).</note></seg>, bitte ich Sie, mir <seg type="comment"><orig>bisdahin die Correcturbogen zusenden zu wollen</orig><note xml:id="ncyj_rw5_slb">Der Druck verzögerte sich. Bis zu seiner Abreise Ende Juni waren noch immer keine Druckfahnen in Rom eingegangen (siehe den Brief von Gregorovius an Brockhaus, 27.6.1857; Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 43).</note></seg>; was in einer zweimaligen Sendung leicht abzuthun ist.</p>
+                <p>Ich entnehme Ihre <seg type="comment"><orig>Aufforderung zu Beiträgen für die <bibl sameAs="G004773">Supplemente Ihres Conversationslexicon’s</bibl> mit allem Dank, u<ex>nd</ex> würde ihr ohne Zögern Folge leisten, wenn ich es könnte</orig><note xml:id="npnf_1x5_slb">Gregorovius übernahm hierfür 1872 dann doch den Artikel Rom. In: Supplement zur elften Auflage des Conversations-Lexikon. Encyklopädische Darstellung zur neuesten Zeit nebst Ergänzungen früherer Artikel. Bd. 2: Horst bis Zündnagelgewehr. Leipzig: Brockhaus 1873. S. 439–441. Siehe Brief von Gregorovius an Brockhaus, 28.5.1872 (Ferdinand Gregorovius: Briefe nach Königsberg. Hrsg. von Dominik Fugger und Nina Schlüter. München: Beck 2013. S. 102–104).</note></seg>. Aber jede Stunde Arbeit meines Tages gehört nun ausschließlich der <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Chronik von Rom</bibl>, u<ex>nd</ex> an diesem meinem Lebenswerke darf mich keine Zwischenarbeit von einigem Umfang an Zeit u<ex>nd</ex> Studien stören. Ich werde <orgName key="G000569"><seg type="comment"><orig>die beiden Hefte „Unserer Zeit“</orig><note xml:id="nsyb_lx5_slb">Das seit Anfang 1857, zunächst als „Unsere Zeit. Jahrbuch zum Conversations-Lexikon“, jährlich herausgegebene Periodikum erschien ab 1865 (bis 1891) monatlich als „Unsere Zeit. Deutsche Revue der Gegenwart. Monatsschrift zum Conversationslexikon“ bei Brockhaus. Das Jahrbuch sollte für rasche Aktualisierung des „Conversations-Lexikons“ auf dem stark umkämpften Markt der Universal-Lexika sorgen.</note></seg></orgName> demnach bei <hi rendition="#aq"><orgName key="G000545"><seg type="comment"><orig>Spithöver</orig><note xml:id="nm2j_qx5_slb"> Die deutsche Buchhandlung von Josef Spithöver (1813–1892) in Rom.</note></seg></orgName></hi> für Sie niederlegen, u<ex>nd</ex> Ihnen so mit wieder zu <pb n="2v"/>kommen laßen, worüber Sie demnächst verfügen mögen.</p>
+                <p>Schließlich ersuche ich Sie mir etwaige <seg type="comment"><orig>Recensionen <hi rendition="#u">katholischer</hi> Blätter über die Papstgräber</orig><note xml:id="njkg_wy5_slb">Über Gregorovius’ „Grabmäler der Römischen Päpste. Historische Studie“ (Leipzig: Brockhaus 1857) von seinem protestantischen Standpunkt aus, erschien eine Artikel in „Wiener Kirchenzeitung für Glauben, Wissen, Freiheit und Gesetz in der katholischen Kirche“ (Jg. 10. Nr. 69. Wien: Mayer 28.8.1857. S. 549 – sie enthielt einen gekürzten Auszug). Eine anonyme Rezension wurde gedruckt in „Katholische Literatur-Zeitung“ (Jg. 4. Nr. 38. Wien: Mayer 21.9.1857. S. 305–306).</note></seg> <note place="left" hand="#addressee">=</note>zugehn zu laßen, weil mir dies in Betreff meiner Chronik von Wichtigkeit sein dürfte.</p>
+                <closer>
+                    <salute rendition="#c">Hochachtungsvoll u<ex>nd</ex> ergebenst empfehle ich mich
+                        Ihnen, geehrter Herr,</salute>
+                    <signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000343">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Theodor Freiherr von Troschke in Berlin. Rom, 7. Januar 1872</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>SBB-PK</repository><idno>Slg. Autographa</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¾ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 88, Mappe 1 (nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die Übersendung von Troschkes Aufsatz „Das eiserne Kreuz“ (1871) und freut sich über dessen Teilnahme an seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872). Seiner Anregung, diese bis zur Gegenwart fortzusetzen, ist ihm schon verschiedentlich nahegelegt worden und er wird sich darüber am Ende des achten Bandes (1872) äußern. Sein Werk musste mit der Reformation enden, weil Rom in moderner Zeit nur noch als Sitz des Papsttums Bedeutung hat. Seinem Bruder Julius hätte er einen reizvolleren Ort als Königsberg für seine dauernde Stationierung gewünscht.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1872-01-07" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001660">Troschke, Theodor Freiherr von (1810-1876)</persName>
+<placeName key="G000636">Berlin</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c"><hi rendition="#aq">Rom</hi>, 7. Januar 1872.</dateline>
+                    <salute>Ew. <?oxy_comment_start author="Angela Steinsiek" timestamp="20190423T151516+0200" comment="Der aus einer Berliner Militärdynastie stammende Theodor Freiherr von Troschke (1810–1876) durchlief von 1820 bis zu seiner Ernennung zum Generalleuntnant im Jahr 1863 und seiner schließlichen Verabschiedung 1865 eine erfolgreiche Karriere im preußischen Militär in verschiedensten Funktionen, darunter 1857 als Direktor der Vereinigten Artillerie- und Ingenieurschule sowie als Mitglied der Ober-Militär-Studienkommission und der Artillerieprüfungskommission. Nach seiner Verabschiedung wurde er hochdekoriert. Zudem blieb er stimmführendes Mitglied des Generalartilleriekomitees und der Generalordenskommission, wurde 1867 Parlamentsmitglied des Norddeutschen Bundes für die Stadt Gartz als Kandidat für das aufgestellt und hinterließ ein umfangreiches militärhistorisches Werk (darunter „Friedrich des Grossen Jugendjahre. Ein Beitrag zur Gedächtnissfeier des Helden“ Berlin 1840).
+
+Wann und wo Gregorovius den preußischen Generalleuntnant a. D. und Militärhistoriker Theodor Freiherr von Troschke (1810–1876) kennenlernte, bevor er diesem im Mai 1870 erstmals einen Band seiner „Geschichte der Stadt Rom im Mittelalter“ vom Cotta-Verlag zusenden ließ, ist nicht bekannt. Möglich ist, dass Gregorovius ihn bereits während eines Berlin-Aufenthaltes im Herbst 1860 kennenlernte, aber auch, dass sein Bruder Julius Gregorovius (1819–1891) den Kontakt herstellte, der ihm im Juli 1871 über seinen Berlinaufenthalt schrieb, dass er ihn zwar persönlich nicht angetroofen habe, mit ihm „aber in lebhafter Correspondenz“ stehe (8.7.1871, BSB München, NL Gregorovius, Gregoroviusiana 21, Gregorovius, Julius). Dieser gehörte als Artillerie-Oberst dem Ostpreußischen Artillerie-Regiment Nr. 1 an, das Troschke um 1848 selbst kommandiert hatte und Julius Gregorovius publizierte wie Troschke in der Berliner „Militär-Zeitung“. Eine persönliche Begegung von Gregorovius uns Troschke ist nicht nachweisbar – im Juli 1873 traf Gregorovius bei einem Erholungsurlaub in Traunstein aber mit dessen Frau Laura Troschke, geb. Krause (1824–1894) zusammen (siehe RT, Sommer des Jahres 1873, S. 332). Eine über den vorliegenden Brief hinausgehende Korrespondenz zwischen Gregorovius und Troschke ist nicht erhalten."?>Excellenz<?oxy_comment_end?></salute>
+                </opener>
+<p>gütiges Schreiben mit der schönen Beilage, Ihrer <bibl sameAs="G004232">Geschichte des ruhmvollsten aller militärischen Ehrenzeichen, des eisernen <?oxy_comment_start author="Angela Steinsiek" timestamp="20190423T151531+0200" comment="Theodor von Troschke: Das eiserne Kreuz. Zum Besten der Kaiser-Wilhelms-Stiftung für deutsche Invaliden. Abdruck aus den Jahrbüchern für die deutsche Armee und Marine. Bd. 1. Berlin: Schneider 1871. S. 1–29; siehe http://digital.ub.uni-duesseldorf.de/ihd/content/pageview/9080176)."?>Kreuzes<?oxy_comment_end?></bibl>, hat mich hocherfreut und zu lebhaftem Danke verpflichtet. Es ist mir in Wahrheit von hohem Werte zu wißen, daß Sie mir fortdauernd ein freundliches Wolwollen bewahren und mit ermunternder Theilnahme meine historischen Studien <?oxy_comment_start author="Angela Steinsiek" timestamp="20190423T151602+0200" comment="Gregorovius hatte Troschke bereits im Mai 1870 vom Verlag ein Exemplar der zweiten Auflage des dritten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1870) und im Dezember 1871 eines der zweiten Auflage des fünften Bandes (1871) nach Berlin schicken lassen (nach den Briefen von Gregorovius an Cotta, 9.5.1870 und 1.12.1871; DLA Marbach, Cotta-Archiv, Cotta-Briefe, 108 und 130). "?>verfolgen<?oxy_comment_end?>. Diese selbst sind nur dürftige Fragmente des Weltlebens, hier aufgelesen vom Scherbenberg der Geschichte, dieser alten Roma, welche so plötzlich eine der gewaltigsten ihrer Metamorphosen durchmachen soll.</p>
+<p>Von vielen Seiten ist mir die Aufforderung zugekommen, welche auch Ew. Excellenz an mich gerichtet haben, die Geschichte der Stadt Rom bis auf unsre Tage fortzusetzen. Ich werde <pb n="1v"/>daher genötigt sein, mich am Schluße des <bibl sameAs="G003434">Werkes</bibl> über die Gründe auszusprechen, welche mich hindern diesem Wunsche Folge zu geben.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190423T151620+0200" comment="Am Schluss des achten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1872) findet sich ein ausführliches, auf dem 19. Januar 1872 datiertes Resümee: „Schluß der Geschichte der Stadt Rom im Mittelalter“ (S. 645–659), wo es heißt es: „Ich begann meine Aufgabe im Jahre 1855, und ich beendigte sie im Jahre 1871, in derselben Zeit wo der Untergang des weltlichen Staats der Päpste eine geschichtliche Thatsache wurde. In Wahrheit, es konnte keinen mehr bedeutenden und beziehungsvollen Augenblick für die Vollendung der Geschichte der Stadt Rom im Mittelalter geben. Freunde dieses Werkes fordern mich auf, die Geschichte der Stadt bis zu dieser abschließenden Gegenwart in derselben Weise fortzuführen, wie ich das Mittelalter aus seinen Urkunden zu behandeln versucht habe. Sie nötigen mich deshalb Ihnen zu sagen, daß und warum ich diese neue Aufgabe nicht übernehmen werde.“ (S. 647–648) Siehe https://gutenberg.spiegel.de/buch/geschichte-der-stadt-rom-im-mittelalter-2408/412 oder https://books.google.de/books?id=kxQ4AAAAcAAJ&amp;printsec=frontcover&amp;hl=de&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false)."?> <?oxy_comment_end?>Es war stets nur meine Absicht, die <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Geschichte der Stadt Rom im Mittelalter</bibl>, vom Fall des Reichs bis auf die Reformation zu schreiben, das Dunkel dieser Epoche so viel es möglich war urkundlich aufzuhellen, und das Princip der Stadt als eines weltgeschichtlichen Factors darzulegen. Wenn mich nicht Übersättigung an diesem großen Stoff; u<ex>nd</ex> Ermüdung am Ende der Arbeit an der Fortsetzung dieser Geschichten hinderten, so würde es die Vorstellung thun, daß Rom in den modernen Jahrhunderten nur noch Bedeutung hat als Sitz des <orgName key="G000539">Papsttums</orgName>, dessen Geschichte zugleich keine großen die Welt durchwirkenden Ideen und Züge mehr darbietet. Einem späteren Geschlecht wird es vorbehalten bleiben, die Geschichte der Stadt wieder aufzunehmen, wenn neue Schicksale an u<ex>nd</ex> in ihr vollzogen sein werden. Denn dies kosmopolitische Wesen, welches Rom heißt, dürfte <pb n="2r"/>im Lauf der Jahrhunderte noch viele Wandlungen erleben u<ex>nd</ex> Bestimmungen erfüllen, von denen wir heute keine Ahnung haben. </p>
+<p>Ich erhielt Nachricht von meinem <persName key="G001203">Bruder</persName> auch über seinen befriedigenden Aufenthalt in Berlin. Wol hätte ich ihm eine günstigere Garnison gewünscht, als dort in dem rauhen u<ex>nd</ex> reizlosen, obwol von geistigem Leben durchdrungenen <placeName key="G000699"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190423T151645+0200" comment="Am 2. Dezember 1871 hatte Gregorovius er in seinem Tagebuch vermerkt: „Am 28. November erhielt mein Bruder [Julius] das Patent als Oberst des ersten Regiments ostpreußischer Festungsartillerie in Königsberg“ (S. 313)."?>Königsberg<?oxy_comment_end?></placeName>; doch soll der thätige Mensch ruhig seiner Pflicht nachgehen und persönliche Wünsche still zur Seite legen.</p>
+<p>Möchte das neue Jahr Ew. Excellenz, Ihrer verehrten <persName key="G001659">Frau <?oxy_comment_start author="Angela Steinsiek" timestamp="20190423T151701+0200" comment="Troschke war seit 1843 mit Laura, geb. Krause (1824–1894) verheiratet. Sie hatten die Kinder Ernst (1846–1900), Magdalene (1847–1904, verh. Freiherrin von Puttkamer) und Karl August Theodor (1851–1908). "?>Gemalin<?oxy_comment_end?></persName> und edelm Hause die Fülle alles Guten u<ex>nd</ex> Schönen darbringen. Mit diesem herzlichen Wunsche empfiehlt sich Ihrem wolwollenden Andenken</p>
+                <closer>
+                    <salute rendition="#right">Ihr ehrerbietig ergebener</salute>
+                    <signed rendition="#right"><hi rendition="#aq">FGregorovius</hi>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

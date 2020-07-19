@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000001">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an die Redaktion der Allgemeinen Zeitung in Augsburg.
+                    Rom, 4. Januar 1853</title>
+                <editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>                
+                <idno>
+                    <idno type="URLWeb"/>
+                    <idno type="URLXML"/>
+                    <idno type="URLText"/>
+                    <idno type="ID"/>
+                </idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>SBB-PK</repository><collection>Slg. Darmstadter</collection><collection>2 Philosophische Wissenschaften, 2 f Geschichte</collection></msIdentifier>
+<physDesc>
+<p>1 Bl., 4°, ¾ S.</p>
+<p> Manuskript seines Artikels „Ein Besuch auf Elba“</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 84, Mappe 5 (Alfred Löckle nach
+                                        H)</idno></idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er übersendet das Manuskript seines Artikels „Ein Besuch auf Elba“ und bittet um die gedruckten Beiträge über Corsica und Elba sowie Anweisung seines Honorars nach Rom. Am 20. Februar will er „auf unsicher zu bestimmende Wanderungen“ gehen und kündigt Reisenotizen über Sardinien an.</p>
+                <p xml:lang="it">Invia il suo saggio „Ein Besuch auf Elba“, richiede gli articoli stampati sulla Corsica e l’Elba e che il compenso per la stesura di questi venga inviato a Roma. Dal 20 febbraio si incamminerà „in passeggiate non ben definite“ e annuncia appunti di viaggio riguardanti la Sardegna.</p>
+                <p xml:lang="en">He sends the manuscript of his article „Ein Besuch auf Elba“ and asks for his printed articles about Corsica and Elba and gives instructions for his fee to be sent to Rome. On February 20th, he wants to „embark on unpredictable wanderings“ and he announces travel notes about Sardinia. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1853-01-04" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="G000462">Allgemeine Zeitung</orgName>
+                    <placeName key="G000620">Augsburg</placeName>
+                </correspAction>
+<correspContext>
+<ref type="next">15. Januar 1853 (h: Honoraranweisung – DLA Marbach, Cotta-Copirbuch IV, 28)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<salute>Einer sehr geehrten Redaction der Augsburger Allgemeinen Zeitung</salute>
+</opener>
+<p>erlaube ich mir nunmehr beikommenden Aufsatz „<bibl corresp="G003779 G003780 G003781 G003782 G003783 G003784">Ein Besuch auf Elba</bibl>“ zu überschicken.</p>
+<p>Zugleich richte ich an Hochdieselben die Bitte, mir diejenigen Blätter gütigtst übersenden zu wollen, welche meine Artikel sowol über <bibl corresp="G003764 G003765 G003766 G003767 G003768 G003769 G003770 G003771 G003772 G003773 G003774 G003775 G003776 G003777 G003778"><seg type="comment"><orig>Corsica</orig><note xml:id="nd3l_rhp_jlb">Gregorovius’ Beiträge zu Korsika waren unter dem Titel „Wanderungen durch Corsica“ in 15 Folgen vom 29.9.1852 bis 24.12.1852 in der Beilage zur „Allgemeinen Zeitung“ erschienen.</note></seg></bibl> als über <bibl corresp="G003779 G003780 G003781 G003782 G003783 G003784">Elba</bibl> enthalten, und sobald die letzteren gedruckt sind, würden Sie mich durch Übersendung des betreffenden Honorars wol verbinden, weil ich wahrscheinlich nur bis zum 20. Februar dieses Jahres in Rom bleibe, dann aber auf unsicher zu bestimmende Wanderungen gehe. Bis dahin aber treffen mich Briefe in Rom, <placeName key="G00076555">Café Greco</placeName>, Via Condotti.</p>
+<p>Da es meine Absicht ist, die Insel<placeName key="G000862"> Sardinien</placeName> kennen zu lernen, so würde ich mir im Laufe dieses Sommers die Freiheit nehmen, Ihnen auch aus diesem Lande Notizen anzutragen, welches des Interessanten und wenig Gekannten genug enthält.</p>
+<closer>
+<salute rendition="#c">Hochachtungsvoll habe ich die Ehre mich zu empfehlen <lb/>Ihr ganz ergebenster.</salute>
+<signed rendition="#right">Ferdin. Gregorovius.</signed>
+<dateline> Rom den 4. Januar 1853.</dateline>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

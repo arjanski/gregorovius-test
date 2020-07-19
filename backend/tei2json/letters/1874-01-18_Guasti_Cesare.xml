@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067744">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Cesare Guasti in Florenz. Rom, 18. Januar 1874</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Biblioteca Roncioniana Prato</repository><collection>Archivio Guasti, Busta 398 </collection><idno>(14)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Die von einem Schüler von Georg Waitz erbetenen Abschriften der Regesten Heinrichs VII. sind in Göttingen angekommen. Er hat Paul Scheffer-Boichorst, der ihn ebenfalls um die Kopien gebeten hatte, an diesen verwiesen. Er empfiehlt Hans Prutz’ biographische Studie „Kaiser Friedrich I.“ (1871–1874) zur Rezension im „Archivio Storico Italiano“. Prutz hatte sein Werk bei der Redaktion eingesendet, aber keine Antwort erhalten.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1874-01-18" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001218">Guasti, Cesare (1822–1889)</persName>
+<placeName key="G000671">Florenz</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Roma 18. di Gennaio 1874.</dateline>
+                    <salute rendition="#c">Egregio Signore,</salute>
+                </opener>
+<p>dalla parte del <seg type="comment"><orig><persName key="G067854">prof<ex>essore </ex>Waitz</persName> in <placeName key="G067846">Göttingen</placeName></orig><note xml:id="nsqq_sq3_zlb">Der Rechtshistoriker und Mediävist Georg Waitz (1813–1886) war ein Schüler von Leopold von Ranke (1795–1886) und arbeitete ab 1842 bei den „Monumenta Germaniae Historica“ mit. Im selben Jahr wurde er von der Uni Kiel zum Professor berufen, 1848 ging er an die Göttinger Universität, gründetet dort das Historische Seminar mit. 1875, als Präsident der „Monumenta Germaniae Historica“, kehrte er nach Berlin zurück. Er war wesentlich an der „Quellenkunde der deutschen Geschichte“ beteiligt. Gregorovius lernte ihn, „[...] einen staatlichen Mann von größerer Art, als sonst deutsche Professoren zu haben pflegen“, im November 1872 in München kennen (RT, 11.11.1873, S. 327).</note></seg> vienmi notificato l’arrivo dei desideratissimi <bibl sameAs="G067866"><seg type="comment"><orig>Regesta di Enrico VII</orig><note xml:id="nbpr_5q3_zlb">Der Historiker, Archivar und Generalintendant der toskanischen Staatsarchive Francesco Bonaini (1806–1874) veröffentlichte die Regesten 1877: Acta Henrici VII. Romanorum imperatoris et monumenta quaedam alia suorum temporum historiam illustrantia. 2 Bde. Florenz: Typis Galileianis M. Cellinii et soc.</note></seg>,</bibl> per cui mi preme di ringraziarla di tutto cuore dell’ insigne gentilezza, colla quale Ella ha dato ascolto ai bisogni di <seg type="comment"><orig>quel discepolo del Waitz</orig><note xml:id="nqgh_tr3_zlb">Um welchen Schüler von Waitz es sich hier handelt, ist nicht ermittelt. Gregorovius hatte Guasti wenige Wochen zuvor darum gebeten, dem jungen Göttinger Forscher die zu dem Zeitpunkt noch nicht publizierten Regesten Heinrichs VII. (1278/79–1313) in Kopie zukommen zu lassen; siehe den Brief von Gregorovius an Cesare Guasti vom 7.12.1873. Durch den sechsten Band der „Geschichte der Stadt Rom im Mittelalter“ (1867) hatte der Schüler erfahren, dass Gregorovius die besagten Regesten bereits früher hatte einsehen können. Dass die Anfrage durch Gregorovius an Guasti im Namen des Göttinger Forscher positiv beantwortet wurde, ist belegt; siehe den Brief von Gregorovius an Cesaer Guasti vom 13.12.1873.</note></seg>. Per una strana coincidenza avvenne, che ancora un altro giovane compartita mio si è rivolto a me per lo stesso motivo; egli si è <seg type="comment"><orig>il <persName key="G067857">Scheffer-Boichhorst</persName></orig><note xml:id="nhrp_5r3_zlb">Paul Scheffer-Boichorst (1843–1902) wurde 1867 mit einer Schrift über Kaiser Friedrich I. (1122–1190; Kaiser Friedrichs I. letzter Streit mit der Kurie. Berlin: Mittler 1866: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10017079_00007.html) an der Universität Leipzig promoviert. Anschließend arbeitete er an den „Regesta Imperii“ mit, ab 1872 an den „Monumenta Germaniae Historica“. 1875 erhielt er eine Professur an der Universität Gießen, lehrte in Straßburg und Berlin.</note></seg>, che forse le sarà noto per fama. <seg type="comment"><orig>Gli ho risposto, che potrà approfittarsi di quei Regesta in Göttingen, ed egli ne sarà ben lieto</orig><note xml:id="nwzm_wr3_zlb">Dieser Briefwechsel ist nicht erhalten.</note></seg>. </p>
+<p>Diversi mesi fà il<persName key="G001511"> <seg type="comment"><orig>Dottor Prutz</orig><note xml:id="nc5l_zr3_zlb">Hans Prutz (1843–1929), Sohn des Schriftstellers und Publizisten Robert Eduard Prutz (1816–1872), wurde 1863 in Geschichte promoviert und war zunächst als Gymnasiallehrer in Danzig tätig. 1873 habilierte er sich an der Universität Berlin. Ein Jahr später reiste er nach Syrien, um die Grabstelle Kaiser Friedrichs aufzufinden. 1877 wurde er zum ordentlichen Professor an die Universität Königsberg berufen.</note></seg>,</persName> autore di <seg type="comment"><orig>un <bibl sameAs="G004321">lavoro esatto e importante sull’ imperatore Federigo I (Barbarossa)</bibl></orig><note xml:id="nqt2_bs3_zlb">Noch in diesem Jahr erschien eine Rezension von Gregorovius darüber: L’Imperatore Frederico I (Barbarossa) di Giovanni Prutz (Kaiser Friedrich I, von Hans Prutz, 3 Laenk, Danzig, 1871–1874.). In: Nuova Antologia di Scienze, Lettere ed Arti. Bd. 26. Florenz: Nuova Antologia 1874. S. 927–934; siehe dazu den Brief von Gregorovius an Francesco Protonotari vom 12.7.1874.</note></seg>, rimandò, dietro il mio consiglio, una copia alla <seg type="comment"><orig>Redazione dell’ <orgName key="G004667">Archivio Storico Italiano</orgName></orig><note xml:id="nu4g_ds3_zlb">Guasti arbeitete seit 1844 in der Redaktion der 1842 von Giovan Pietro Vieusseux (1779–1863) in Florenz gegründeten und ältesten, geschichtswissenschaftlichen Zeitschrift „Archivio Storico Italiano“ mit. Zu jener Zeit erschien sie alle vier Monate, heutzutage vierteljährig: https://www.olschki.it/riviste/3.</note></seg>, pregando quella di far sì, che si renda conto di questa opera in qualche articolo da inserirsi nel suddetto periodico. <pb n="1v"/>Or, non avendovi il Prutz avuto finora alcun riscontro alla sua preghiera, egli si rivolge di nuovo a me, colla speranza di truovar in me<seg type="comment"><orig> <foreign xml:lang="Lat">sollicitatorem causae suae</foreign></orig><note xml:id="nznt_ks3_zlb">Lat. für: einen Fürsprecher in seiner Angelegenheit.</note></seg>. Quindi non posso far a meno di appellarmi perciò a lei con pregarla di informarvi intorno all’ accoglienza che <seg type="comment"><orig>quell’opera abbia avuto presso la redazione dell’ Archivio Storico, o che abbia da sperare ancora</orig><note xml:id="no4y_ms3_zlb">Es ist nicht klar, ob es an Gregorovius’ Fürsprache in dieser Sache lag, jedenfalls erschien 1875 im „Archivio Storico Italiano“ (Vol. 21, No. 85. 1875, S. 113–133) eine Rezension der Arbeit von Prutz zu Friedrich I.: https://www.jstor.org/stable/44453632?seq=1#metadata_info_tab_contents. </note></seg>. </p>
+<p>Caldamente gliela raccomando, imperocchè essa sia un lavoro realmente buono, e tale, da gettar nuova luce su <seg type="comment"><orig>quell’ epoca tanto rilevante nella storia d’ <placeName key="G000690">Italia</placeName></orig><note xml:id="nltm_4s3_zlb">Er meint hier die Epoche Friedrichs I.</note></seg>. </p>
+<p>Scusi l’incomodo, e mi voglia bene.</p>
+<p rendition="#c">Colla più alta stima</p>
+                <closer>
+                    <salute rendition="#right">servitor suo oblig<hi rendition="#u" hand=""><hi rendition="#sup"><ex>atissi</ex>mo</hi></hi></salute>
+                    <signed rendition="#right">FGregorovius.<note type="postscript">Ella perdonerà l’ innavvertenza mia, per cui ho preso il foglio a rovescio. </note></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

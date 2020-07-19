@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000261">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an die J. G. Cotta’sche Buchhandlung in Stuttgart. Rom, 29. November 1867</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (79)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 1 ¾ S. – 1r unterhalb der Datumszeile Eingangs- und Beantwortungsvermerk: 2/5 <hi rendition="#aq">Dec</hi>b – 2v aoR Eingangs- und Beantwortungsvermerk: 1867 / <hi rendition="#aq">Rom</hi> 29 <hi rendition="#aq">November</hi> / <hi rendition="#aq">D<hi rendition="#sup">r.</hi> F. Gregorovius</hi> / <hi rendition="#aq">R</hi> 2 <hi rendition="#aq">Dec</hi>/<hi rendition="#aq">R</hi> 5 ead </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 57, Mappe 340–342 (nach D) und Karton 55, Mappe 336–337 (Ergänzungen nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 268–269</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Wie zuvor mit Louis Roth in Stuttgart besprochen, soll Friedrich Althaus ein Rezensionsexemplar des sechsten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1867) erhalten, um ihn in der „Allgemeinen Zeitung“ zu besprechen. Der Band ist in London bislang nicht eingetroffen. An August Joseph Altenhöfer hat er einen Artikel über durch den die Schlacht bei Mentana vereitelten Versuch Giuseppe Garibaldis Rom einzunehmen („Mentana. Fünf Wochen römischer Geschichte“) übersandt. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1867-11-29" cert="high"/>
+</correspAction>
+                <correspAction type="received"><orgName key="G000523">J. G. Cotta'sche Buchhandlung</orgName>
+<placeName key="G000879">Stuttgart</placeName>
+</correspAction>
+<correspContext>
+<ref type="next">5. Dezember 1867 (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VI, 724)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right"><hi rendition="#aq">Rom</hi>, 29. <hi rendition="#aq">Nov<ex>embe</ex>r</hi> 1867</dateline>
+<salute rendition="#c">Sehr geehrte Herren,</salute>
+</opener>
+<p>während meiner Anwesenheit in Stuttgart kamen wir überein, die Anzeige des <bibl sameAs="G003448">VI. Bandes der Geschichte der Stadt Rom</bibl> Herrn <persName key="G000920">Friedrich Althaus</persName> (<placeName key="G000716">London</placeName>, 5. <hi rendition="#aq">South Bank</hi>, <hi rendition="#aq">Regents Park</hi>) zu übertragen, u<ex>nd</ex> <persName key="G001559"><seg type="comment"><orig>Herr Roth</orig><note xml:id="ngd4_qt5_gmb">Louis Roth (1802–1875) war seit dem Tode des Senior-Verlegers Johann Georg Freiherr von Cotta zu Cottendorf am 1. Februar 1863 Geschäftsführer der J. G. Cotta’schen Buchhandlung. </note></seg></persName> gab in meinem Beisein auf, an diese Adresse das Recensionsexemplar abzusenden. Leider erhalte ich in diesem Augenblick von Dr. Althaus die Anzeige, daß dies Exemplar bis zur Stunde noch nicht in seinen Händen ist, er also den Artikel für die Allg<ex>emeine</ex> Zeit<ex>un</ex>g nicht schreiben kann. Dies ist mir sehr bedauerlich, da es gerade Althaus war, welcher vortreffliches Verständniß für diese Geschichte <pb n="1v"/>besitzt. Ich bitte demnach dringend, den Band an ihn gelangen zu lassen, u<ex>nd</ex> ihn noch zur <seg type="comment"><orig>Verfassung des von ihm bereitwillig übernommenen Artikels</orig><note xml:id="nfxr_smv_gmb">Ohne Angabe des Verfassers erschien eine ausführliche Rezension des sechsten Bandes der „Geschichte der Stadt Rom im Mittelalter“ (1867) in Nr. 53–57 der Beilage der „Allgemeinen Zeitung“ (22.-26.12.1867).</note></seg> zu ermuntern.</p>
+<closer>
+<salute>In der Hoffnung, daß es Ihnen, hochgeehrte Herren, wolergeht, u<ex>nd</ex> der schönen Tage in Stuttgart eingedenk zeichnet sich wahrhaft verehrungsvoll u<ex>nd</ex> ergeben</salute>
+<signed rendition="#right"><hi rendition="#aq">FGregorovius</hi>.</signed>
+<note type="postscript">Ich habe an <persName key="G000918"><seg type="comment"><orig>Dr. Altenhofer</orig><note xml:id="nr4m_rt5_gmb">August Joseph Altenhöfer (1804–1876) war 1865 bis 1869 Schriftleiter und Herausgeber der „Allgemeinen Zeitung“. </note></seg></persName> vor Kurzem einen langen <seg type="comment"><orig><bibl corresp="G003933 G003934 G003935 G003936 G003937 G003938">Bericht über die miserable Geschichte der letzten 5 Wochen Roms</bibl></orig><note xml:id="ncld_tt5_gmb">Nach seinem vorübergehenden Rückzug hatte Giuseppe Garibaldi (1807–1882) im Oktober 1867 mit einigen Freischaren versucht, Rom einzunehmen, was durch die Schlacht bei Mentana vereitelt wurde. Unter dem Titel „Mentana, fünf Wochen römische Geschichte“ erschien der Beitrag in sechs Folgen vom 19.-24.12.1867 in der „Allgemeinen Zeitung“ – er wurde unter dem Titel „Der Krieg der Freischaren um Rom“ in den 4. Band der „Wanderjahre in Italien“ aufgenommen.</note></seg> abgesendet, u<ex>nd</ex> hoffe, daß er angelangt sein wird.</note>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

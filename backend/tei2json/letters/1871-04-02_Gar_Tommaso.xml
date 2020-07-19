@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000300">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Tommaso Gar in Venedig. Rom, 2. April 1871</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Biblioteca Comunale di Trento</repository>
+                        <idno>busta BCT1–2257/52</idno>
+                    </msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Sergio Benvenuti: Dalle lettere del Gregorovius al Gar nella Biblioteca comunale di Trento. In: Studi Trentini di Science Storici. Bd. 41. Nr. 1. Trento: Società di Studi per la Venezia Tridentina 1962. S. 96–97 (ungenau)</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er widmet ihm seinen Band „Von Ravenna bis Mentana“ (1871). Gar soll zwei Herren für die Überbringung eines wertvollen Buches danken. Die italienische Übersetzung der „Geschichte der Stadt Rom im Mittelalter“ wird bei Antonelli fortgeführt. Gar soll sie überwachen und den ersten Band (1872) einleiten. Für den achten Band seines Werks (1872) will er in Venedig recherchieren. Er bittet um Archivmaterialien zu Julius II., Clemens VII., Girolamo Morone und Francesco Maria della Rovere. Lord John Emmerich Dalberg-Actons Artikel „The Borgias and their Latest Historian“ (1871) hat er nicht gelesen. Er trauert um Georg Gottfried Gervinus. Sein Bruder Julius hat sich in Rouen von seiner Verwundung erholt. Mit Karl und Auguste Lindemann-Frommel bestellt Gregorovius Grüße an Madeleine Creutzer.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName>
+                    <date when="1871-04-02" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001158">Gar, Tommaso (1808–1871)</persName>
+<placeName key="G000894">Venedig</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline>2. Aprile 1871.</dateline>
+                    <salute>Caro amico Gar,</salute>
+                </opener>
+<p>per buona coincidenza, mi venne la vostra gentilissima lettera nel momento proprio, quando stavo, diriggendovi una mia da stampare. La cosa brevemente sarebbe questa. Uscirà in poche settimane <bibl sameAs="G003301">l’ultimo dei volumetti miei, che corrono sotto titolo: <seg type="comment"><orig>„<foreign xml:lang="deu">Wanderjahre in Italien</foreign>“</orig><note xml:id="nirf_l5y_ylb">Auf den 1871 veröffentlichten vierten Band folgt 1877 noch ein fünfter Band („Apulische Landschaften“).</note></seg> </bibl>, e di cui, se non isbaglio, la gentilissima <persName key="G001056">baronessa</persName>, possiede uno o due forse. Ora supponendo che mene darete l’assenso, io mi ho preso la libertà, di dedicarvi quest’ ultimo volume con <seg type="comment"><orig>una lettera</orig><note xml:id="np2m_m5y_ylb">Gregorovius schrieb für den vierten Band der „Wanderjahre in Italien“ („Von Ravenna bis Mentana“ 1871) eine mehrseitige Dedikation „An Herrn Tommaso Gar in Venedig“, unterzeichnet mit „Rom, 27. März 1871. F. G.“. Die Widmung beginnt mit den Worten: „Ich sende Ihnen, lieber Freund Gar, diesen Band mit dem Wunsche, daß Sie sich dabei an unser Zusammensein in Florenz, Neapel, und Venedig erinnern mögen. Auch wünsche ich Ihnen zu sagen, daß ich der Liebenswürdigkeit eingedenk bin, mit der Sie mir stets entgegengekommen sind, zumal in dem venetianischen Archiv, […]“. Nachfolgend preist er die Befreiung und Einigung Italiens, die bei seiner erstmaligen Ankunft in Italien im Jahre 1852 noch in weiter Ferne schien, und deren Entwicklung und Bedeutung er eng mit dem Schicksal Deutschlands verknüpft sieht.</note></seg>, in cui mi rallegro, dei felicissimi risultati delle aspirazioni nazionali dell’ <placeName key="G000690">Italia</placeName> come della <placeName key="G000664">Germania</placeName>, facendo voti che ne seguitasse uno stretto legame di vicendevole amicizia e di gara, in tutte le opere della civilità<del rendition="#s">tzione</del>. Desideravo vivamente, di inserire il vostro nome, caro Gar, in <pb n="1v"/> <choice><sic>in</sic><corr type="deleted"/></choice> uno de’ miei libri, acciochè ivi rimanesse, come monumento dell’ affetto e della stima ch’io sento per voi – e cosi senza dilatarmi in parole, di che frà di noi non c’è bisogno alcuno – spero chè benevolmente accetterete i miei sentimenti.</p>
+                <p>Vi prego di esser l’interprete della mia gratitudine presso <seg type="comment"><orig>i due signori</orig><note xml:id="nsh4_n5y_ylb">Nicht ermittelt.</note></seg>, che tanto gentilmente mi fecero il dono del <seg type="comment"><orig>prezioso volume</orig><note xml:id="nfy5_45y_ylb">Nicht ermittelt.</note></seg>, che presto incomincierò ad esaminare. Và senza dire, che sento con piacere, che <seg type="comment"><orig>si tratti di riprendere l’opera della<bibl sameAs="G004366"> traduzione della Storia di Roma nei bassi tempi</bibl></orig><note xml:id="nw5s_q5y_ylb">Diese erste Übersetzung blieb unvollendet, nur Bd. 1–2 wurde übersetzt, weil Gregorovius die Fortführung wegen der mangelhaften Übersetzung verbot. Die auf Antrag des Marchese Francesco Vitelleschi (1829–1906) ab 1872 vom römischen Stadtrat finanzierte neue Übersetzung der ‚Storia della città di Roma nel Medio Evo‘ erschien bis 1876 in acht Bänden.</note></seg> – mi dorrebbe però se voi per causa mia dovreste mettervi un’ altro peso sulle spalle, quale sarebbe la sorveglianza della versione. Desidero soltanto, che metteste sul <bibl sameAs="G004368">primo volume</bibl> tradotto <seg type="comment"><orig>una intro- <pb n="2r"/>duzione di penna vostra propria</orig><note xml:id="nu4s_s5y_ylb">Es kam nicht mehr dazu, da Gar am 27. Juli 1871 verstarb. Das Vorwort (Prefazione) wurde von dem Rechtsanwalt und Übersetzer Renato Manzato verfasst (S. V–XIV), der es mit „Venezia, nell Aprile 1872“ firmierte. Manzato hatte auch für die erste italienische Edition 1866 die Übersetzung besorgt. In dieser wandte sich der Verleger Antonelli mit einem Vorwort an die Leser und Gregorovius verfaßte eine Vorbemerkung (Avvertimento). – Auf dem Frontispiz der zweiten italienischen Edition 1872 wurde nun eigens vermerkt, dass es sich hier um die erste italienische Übersetzung handelt, die auf der zweiten deutschen Edition (1869) beruht („Prima Traduzione Italiana Sulla Seconda Edizione Tedesca“).</note></seg>.</p>
+<p>Sto preparando <bibl sameAs="G003434">l’ultimo volume</bibl> dell’opera per la stampa. Se mi bastasse il tempo, sarei lieto <seg type="comment"><orig>di recarmi subito a Venezia</orig><note xml:id="nmvy_t5y_ylb">Er sollte erst wieder nach Gars Tod (27.7.1871) am 1.8.1871 nach Venedig reisen. Siehe RT, 10.8.1871, S. 380.</note></seg>, per terminarvi certe ricerche <seg type="comment"><orig>nell’<orgName key="G000564">Archivio vostro</orgName></orig><note xml:id="nulh_v5y_ylb">Das Staatsarchiv in Venedig, dessen Direktor Tommas Gar von 1867 bis 1871 war. </note></seg>, non chè <seg type="comment"><orig>alla <orgName key="G000562">Marciana</orgName></orig><note xml:id="nwdk_w5y_ylb">Die Biblioteca Nazionale Marciana (auch Markusbibliothek) ist eine der größten Nationalbibliotheken Italiens in Venedig und berühmt für ihre Sammlungen von orientalischen, griechischen und lateinischen Handschriften. </note></seg>. Ma vedo che non potrò esservi prima che non siano terminati i miei lavori qui a Roma, di modo che sarò a Venezia non prima del Luglio, e pur troppo, <add place="superlinear">forse</add> in un’ epoca dove non vi sarete voi.</p>
+<p>Intanto vorrei far’ un nuovo appello alla vostra instancabile bontà: cioè di <hi rendition="#u" hand="">farmi copiare</hi> a spesa mia qualche documento che potrebbe fare per me, se ve n’è di documenti non ancora stampati e di qualche rilievo per i miei bisogni. Siccome il mio ultimo volume comprende il periodo da 1503 <ex>a</ex> 1530, ogni cosa di importanza per i fatti correnti in quell’epoca, riguardo a Roma, potrebbe servirmi bene; avanti tutto per esempio, documenti intorno alla <seg type="comment"><orig>guerra di <persName key="G001321">Giulio II</persName> <pb n="2v"/>con Venezia</orig><note xml:id="nvws_x5y_ylb">Julius II. (ehemals Giuliano della Rovere, 1443–1513) wurde 1503 zum Papst gewählt und war in seiner zehnjährigen Amtszeit weniger spirituelles Kirchenoberhaupt als Territorialfürst des Kirchenstaates. Mit der „Liga von Cambrai“ (1508/09) gewann er als Bündnispartner von u.a. Frankreich Gebiete der Romagna von der Republik Venedig zurück. Siehe „Die Geschichte der Stadt Rom im Mittelalter“, Bd. 8 (1871), vierzehntes Buch.</note></seg>, altri intorno alla <seg type="comment"><orig>congiura del <persName key="G001430">Morone</persName></orig><note xml:id="nmyd_z5y_ylb">Girolamo Morone (1470–1529) war Diplomat und Großkanzler des Herzogs von Mailand. Nach dem Sieg der Habsburger unter Karl V. über Frankreich in der Schlacht von Pavia (1525) plante Morone mit Unterstützung von Clemens VII. die Bildung einer Liga zwischen den italienischen Staaten und Frankreich, die Fernando Francesco d'Avalos (Marquis von Pescara) anführen sollte. Die Verschwörung scheitere am Verrat d’Avalos, woraufhin Morone inhaftiert wurde. Siehe auch Band 8 der „Geschichte der Stadt Rom im Mittelalter“ (1872, u.a. S. 446f.). </note></seg>, altri riguardo alle <seg type="comment"><orig>guerre di <persName key="G001039">Clemente VII</persName></orig><note xml:id="nkw3_1vy_ylb">Papst Clemens VII. (1523–1534) war in die Konflikte um die Vorherrschaft in Oberitalien involviert, welche die Habsburger unter Karl V. mit Franz I. von Frankreich ab 1521 führten. Anfänglich neutral, dann, dann in einer Allianz mit Karl V., schloss er sich schließlich der Liga von Cognac (1526–1530) an, die auf Bestreben des Papstes zwischen Frankreich, Mailand, Florenz, Venedig und dem Kirchenstaat gebildet wurde, um der Macht Karl V. entgegenzuwirken. Daraufhin eroberten die kaiserlichen Truppen 1527 Rom und es kam zur Plünderung der Stadt. Clemens VII. rettete sich in die Engelsburg, musste sich jedoch ergeben. Der Friede von Barcelona, geschlossen am 29. Juni 1529, beendete den Konflikt zwischen Karl V. und Papst Clemens VII., der die Herrschaft über den Kirchenstaat zurückerhielt. Clemens VII. krönte Karl V. 1530 in Bologna zum Kaiser. </note></seg>, e agli affari del <seg type="comment"><orig><persName key="G001078">duca d’Urbino</persName></orig><note xml:id="np3t_bvy_ylb">Francesco Maria I. della Rovere (1490–1538), von 1508 bis 1516 und von 1521 bis 1538 Herzog von Urbino, war unter Julius II. Oberbefehlshaber der Truppen des Kirchenstaats und kämpfte in den italienischen Kriegen der Liga von Cambrai (1508/09) und der Heiligen Liga (1511). Als Herzog von Urbino dehnte er seine Herrschaft bis nach Pesaro aus. Während des Pontifikats Leo X. (1513–1521) wurde seine Machtstellung geschwächt, er wurde sogar exkommuniziert. Erst während der Italienischen Kriege ab 1521 kehrte er u.a. als Oberbefehlshaber der Liga von Cognac (1526) auf die politisch-militärische Bühne zurück, allerdings besonders ruhmreich: Die Plünderung Roms im Jahre 1572 wird v.a. seiner Untätigkeit während der Invasion der kaiserlichen Truppen Karl V. zugeschrieben. </note></seg>. Ora se ce n’è cosa importante e nuova, vi pregherei di farla copiare per me da un copista – ora non c’è più alcuna difficoltà, di spedire danari per la posta da Roma –.</p>
+<p>Non ho inteso niente di quell’<bibl sameAs="G002693">articolo</bibl> che  <seg type="comment"><orig><persName key="G000906">Lord Acton</persName></orig><note xml:id="niz2_2vy_ylb">Gregorovius lernte den englischen katholischen Theologen und Historiker Sir John Emmerich Dalberg-Acton (1834–1902) bereits 1864 in Rom kennen und bezeichnete ihn als „sehr belesen in aller Literatur“ (siehe RT, 31.12.1864, S. 191). 1869 reiste Acton nach Rom, um dort beim Vatikanischen Konzil Informationen für die Gegner des Unfehlbarkeitsdogmas zu sammeln.</note></seg>, come accennate, si era proposto di inserire nella<seg type="comment"><orig> <foreign xml:lang="eng">British review</foreign></orig><note xml:id="nmm4_fvy_ylb">Lord Acton schrieb bis zu dessen Einstellung 1872 für die liberale Zeitschrift „North British Review“.</note></seg>. Benchè le cose di Roma si sieno migliorate assai, generalmente parlando, qui stiamo ancora ben indietro in ogni bisogno del mondo letterario.</p>
+<p>Mando mille saluti alla signora Baronessa da parte mia, come da quella dei conjugi <persName key="G001374"> <persName key="G001375">Lindemann</persName> </persName>, i quali si raccommandano pure alla vostra memoria. Stiamo afflitti per <seg type="comment"><orig>la morte del <persName key="G001168">Gervinus</persName></orig><note xml:id="npp5_gvy_ylb">Georg Gottfried Gervinus (1805–1871) war ein enger Freund von Gregorovius, der am 18. März 1871 plötzlich verstorben war. Gregorovius bezieht sich hier auf Gervinus' Hauptwerk „Geschichte der poetischen National-Literatur der Deutschen“, das zwischen 1835–1842 in 5 Bde. im Verlag von Wilhelm Engelmann in Leipzig erschien.</note></seg>, e per tante altre perdite subite per causa della guerra. <seg type="comment"><orig>Il mio <persName key="G001203">fratello</persName> fù ferito alla battaglia di <placeName key="G000863">St. Quentin</placeName></orig><note xml:id="nlwy_3vy_ylb">Julius Gregorovius (1819–1891) hatte eine Offizierslaufbahn eingeschlagen und kämpfte als Artillerieoffizier im Deutsch-Französischen Krieg. 1870 erhielt er das Eiserne Kreuz (siehe u.a. RT, 29.9.1870, S. 293 sowie den Brief von Gregorovius an Ersilia Caetani Lovatelli, 16.8.1870). Die Schlacht nahe der nordfranzösischen Stadt Saint-Quentin ereignete sich am 19. Januar 1871 zwischen der französischen Nordarmee unter General Louis Faidherbe (1818–1889) und der deutschen 1. Armee unter General August Karl von Goeben (1816–1880). Offenbar hatte sich Julius, der von der Schlacht von Amiens am 27.11.1870 eine Kontusion am Fußgelenk davongetragen hatte (siehe den Brief von Gregorovius an Friedrich Althaus, 18.12.1870), eine weitere Verletzung zugezogen. </note></seg>, ora stà bene e colla truppa a <placeName key="G000861">Rouen</placeName>. Chi avrebbe mai creduto chè questa disgraziata <placeName key="G000674">Francia</placeName> dovesse dare cosi miseramente in un così profondo precipizio!</p>
+<p xml:id="p7" next="#p8">Caro amico Gar, </p>
+<p xml:id="p8" prev="#p7" place="left" rendition="#rotate90">prendete cura della vostra salute; farete bene di prendere le acque di <placeName key="G000695">Carlsbad</placeName>. Vi saluto<seg type="comment"><orig> <foreign xml:lang="Lat">ex corde</foreign></orig><note xml:id="nerv_mvy_ylb">Lat. für: von Herzen.</note></seg>,</p>
+                <closer rendition="#rotate90" place="left">
+<salute rendition="#c">Il vostro</salute>
+<signed rendition="#right">FGregorovius</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

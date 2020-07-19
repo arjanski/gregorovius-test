@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000358">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Adolf Friedrich Graf von Schack in München. Rom, 22. April 1873</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GhStA Berlin</repository><collection>NL Waldemar Kampf</collection><idno>Karton 88, Mappe 11</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 82, Mappe 6</idno> (nach H)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Schacks neue Lustspiele „Der Kaiserbote“ und „Cancan“ (1873) hat er zu Ostern in Terracina gelesen. „Der Kaiserbote“ hält er für eine gelungene poetische Erfindung, doch sind ihm die Figuren nicht typisch und nicht ernsthaft genug für die Zeit. Seine Biographie „Lucrezia Borgia“ (1874) hat er vorangebracht – sie ist ihm das spielerische Gegenstück zu seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) und soll ihm die Reise nach Griechenland finanzieren. Im Sommer will er auf seiner Reise nach Deutschland in Pesaro Halt machen. Er bedauert den Tod den großen Chemikers Justus von Liebig und bittet seiner Witwe Henriette von Liebig sein Beileid auszusprechen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1873-04-22" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001573">Schack, Adolf Friedrich von (1815–1894)</persName>
+<placeName key="G000734">München</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Rom, 22. April 1873.</dateline>
+                    <salute>Lieber Freund,</salute>
+                </opener>
+<p>herzlichen Dank für Ihren Brief und die beiden <seg type="comment"><orig>Komödien  <bibl corresp="G004224"> <add place="superlinear">(„Cancan“ und „Der Kaiserbote“)</add></bibl></orig><note xml:id="nkgq_34d_tlb">Adolf Friedrich von Schack: Der Kaiserbote und Cancan. Zwei politische Lustspiele. Leipzig: Brockhaus 1873. Siehe Adolf Friedrich von Schack: Der Kaiserbote und Cancan. Zwei politische Lustspiele. Leipzig: Brockhaus 1873. Siehe <ptr target="https://opacplus.bsb-muenchen.de/title/BV006692462"/>https://opacplus.bsb-muenchen.de/title/BV006692462). Siehe auch das Urteil von Gregorovius zu Schacks „Lothar: ein Gedicht in zehn Gesängen“ (1872) in seinem Brief an Schack vom 1.7.1872.</note></seg> deren Lectüre ich sogleich anfing und <seg type="comment"><orig>am Meer in <placeName key="G000883">Terracina</placeName></orig><note xml:id="nr5l_k4d_tlb">Am Tyrrhenischen Meer, siehe RT, 28.6.1873, S. 331.</note></seg> fortsetzte und beendigte. Denn dort habe ich die Osterwoche zugebracht, um mich aus den Menschenfluten Roms an jene tiefen und stillen <persName key="G067829"><seg type="comment"><orig>Amphitrites</orig><note xml:id="nz1p_l4d_tlb">Eine Meeresnymphe in der griechischen Mythologie.</note></seg></persName> zu retten.</p>
+<p>Da es für jeden Leser schwer ist, sein Maul zu halten, und doppelt schwer für mich, der ich mit der wärmsten Sympathie an alles was Sie uns geben, herantrete, so will ich sagen, welches der Eindruck Ihrer Komödien auf mich gewesen ist. <seg type="comment"><orig>Die erste ist genial erfunden, und hat vorweg für sich den schönsten nationalen Mythus zum Hintergrunde</orig><note xml:id="nlj5_422_tlb">Im Druck steht „Der Kaiserbote“ vor „Cancan“. Der 1850 entstandene „Kaiserbote“ spielt im Jahr 1848: Der Kaiserbote Klaus wird von Kaiser Barbarossa ausgesendet, um zu erkunden, ob es die politische Reife der Deutschen erlaubt, dass er zurückkehre – Klaus stellt den Deutschen ein schlechtes Zeugnis aus. Zusammen mit seinem Begleiter, dem Deutsch-Amerikaner Till greift der Kaisebote in die Handlung ein, Till als Mephisto und Klaus in Narrentracht, der eine Kaiserrede hält, die die Wiedererneuerung des Reiches durch die Hohenzollern prophezeit, die im letzten Akt in Erfüllung geht. </note></seg>, wodurch das Ganze bedeutend wird, und einen durchaus poetischen Reflex empfängt. Doch die darin auftretenden Figuren sind mir nicht frappant typisch genug, und <pb n="1v"/>nicht geschichtliche Wirklichkeiten jener Zeit. Wir haben nicht mehr die Freiheit des <persName key="G000946"><seg type="comment"><orig>Aristophanes</orig><note xml:id="nr2x_r4d_tlb">Der griechische Komödiendichter Aristophanes (*450–444 v. Chr. † um 380 v. Chr.).</note></seg></persName>, welcher auch die großen Charactere seiner Zeit auf die Bühne brachte: Darum scheitert bei uns der Effect solcher politischer Kömödie an der Allgemeinheit; u<ex>nd</ex> davon glaube ich, ist bei Ihnen hier zu viel, und sind zuviel Längen darin, wenigstens für mich. Außerdem ist das Jahr 1870/71 das große Versöhnungsjahr für 1848, und wol auch das Jahr der Rechtfertigung für die Bestrebungen von jenen, welche irrten aber irrend den Pfad suchten, worauf die rechten Männer u<ex>nd</ex> die rechten Thaten gegangen sind. Ich wenigstens hätte diese Komödie heute nicht abgedruckt, sondern sie in meinem Nachlaß finden laßen, wenn ich ihr Autor gewesen wäre. Sie hat aber Wert, u<ex>nd</ex> das ist’s worauf Sie sich berufen können: ich glaube Sie [sic] hat mehr dichterischen Wert (als poetische Erfindung) als <seg type="comment"><orig>der „Cancan“</orig><note xml:id="nqdb_s22_tlb">Im Mittelpunkt von „Cancan“ steht Napoleon III., dessen Kriegserklärung gegen Preußen in den aristophanischen Chorreden des französischen Abenteurerer Cancan gegeißelt wird.</note></seg>, u<ex>nd</ex> doch wird dies letztere Stück allen mehr zusagen. Und so <hi rendition="#aq"><foreign xml:lang="ita">cum bona Musa</foreign></hi> auf Ihrem Parnaß weiter fort!</p>
+<p>Ich habe sehr <seg type="comment"><orig><hi rendition="#aq"><foreign xml:lang="ita">Madonna Lucrezia</foreign></hi> gefördert</orig><note xml:id="ng1q_v4d_tlb">Seine Biographie „Lucrezia Borgia“ (1874). – Lucrezia Borgia (1480–1519) war die Tochter von Papst Alexander VI. (1431–1503) und die Schwester Cesare Borgias (1475/76–1507), die 1502 in dritter Ehe Alfonso I. d’Este, Herzog von Ferrara (1476–1534) geheiratet hatte. Siehe hierzu auch den Brief von Gregorovius an Franz Rühl, 20.2.1873.</note></seg>; <bibl sameAs="G003509">das Buch</bibl> ist ein Spiel für mich, so ein Satirspiel <seg type="comment"><orig>nach meiner <bibl corresp="G003434 G003442 G003449 G003456 G003463 G003470 G003477 G003489">Stadt-Tragödie</bibl></orig><note xml:id="ndtt_w4d_tlb">Seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872).</note></seg>, u<ex>nd</ex> soll <pb n="2r"/>mir jene kleine <hi rendition="#aq"><persName key="ed_tft_ppd_tlb"><seg type="comment"><orig>Cleopatra</orig><note xml:id="nq1k_vqd_tlb">Die letzte Königin des ägyptischen Ptolemäerreiches und zugleich als letzter weiblicher Pharao Kleopatra (69–30 v. Chr.) </note></seg></persName></hi> <seg type="comment"><orig>meine Reise nach <placeName key="G000683">Griechenland</placeName> bezahlen</orig><note xml:id="nhjh_y4d_tlb">Gregorovius reiste erst im Frühjahr 1880 nach Griechenland.</note></seg>. Es wird aber ein merkwürdiges Buch werden, so glaube ich wenigstens vorauszusehen.</p>
+<p>Ich weiß noch nichts über meinen Sommer, außer daß ich <seg type="comment"><orig>auf meiner Reise ins <placeName key="G000664">Vaterland</placeName> in <placeName key="G000752">Pesaro</placeName> anhalten werde, wo ich zu thun habe. Jedenfalls sehe ich Sie in Deutschl<ex>and</ex></orig><note xml:id="nmgs_brd_tlb">Gregorovius reiste am 1. Juli 1873 über Pesaro (für Archivarbeiten in der Biblioteca Olveriana), Modena, Mantua und Kufstein nach Traunstein zu einem Kuraufenthalt vom 9. Juli bis 5. September 1873, wohin auch Schack aus München kam. Danach wohnte er bis zum 13. Oktober 1873 in München, unterbrochen von einer neuntägigen Reise über Linz nach Wien zur Weltaustellung. Über Venedig, Ferrara, Bologna, Modena und Florenz zurückreisend, war er am 29. Oktober 1873 wieder in Rom (siehe RT, Sommer des Jahres 1873, S. 332–334).</note></seg>, u<ex>nd</ex> schreibe Ihnen zu seiner Zeit.</p>
+<p>Tief schmerzt mich der <seg type="comment"><orig>Tod des edeln <persName key="G001370">Liebig</persName></orig><note xml:id="nf1k_wrd_tlb">Den in München am 18. April 1873 an einer Lungenentzündung verstorbenen, hochdekorierten Chemiker und Präsidenten der Bayerischen Akademie der Wissenschaften Justus Freiherr von Liebig (*1803) hatte Gregorovius 1870 kennengelernt (siehe den Brief von Gregorovius an Theodor Heyse, 25.8.1870 in: Mittheilungen aus dem Litteraturarchive in Berlin 1899. Berlin: Litteraturarchiv-Gesellschaft 1899. S. 199–200 und RT, 15.8.1870, S. 289–290).</note></seg>, mit dem ein echtes Stück von Humboldtnatur verloren ging. Ich glaube, <placeName key="G000734">München</placeName> muß sich jetzt ansehn, als wäre es halb abgebrannt. Sehen Sie <seg type="comment"><orig>seine <persName key="G001369">Wittwe</persName> u<ex>nd</ex> <persName key="G001532"><persName key="G001641">Tochter</persName></persName></orig><note xml:id="no32_3vd_tlb">Henriette von Liebig, geb. Moldenhauer (1807–1881) hatte noch zwei lebende Töchter: Marie, verh. Reichau (1834–1920) und Johanna (1836–1925), seit 1858 verheiratet mit dem Chirurgen Carl Thiersch (1822–1895). </note></seg>, so bitte, sagen Sie diesen, daß ich mit Schmerz u<ex>nd</ex> Freude zugleich an das rein menschliche Wolwollen zurückdenke, welches dieser herrliche Mann mir stets zu erkennen gab.</p>
+                <closer>
+<salute xml:id="s1" next="#s2">Leben Sie, teurer Freund, wol und rüstig vorwärts, wie immer, in allem Guten u<ex>nd</ex> Bleibenden.</salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">Ihr</salute>
+<signed rendition="#right">FGregorovius.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

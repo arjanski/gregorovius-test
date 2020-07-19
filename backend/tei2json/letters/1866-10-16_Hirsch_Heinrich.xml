@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000240">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Heinrich Hirsch in München. Rom, 16. Oktober 1866</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Stadtarchiv Hannover</repository><idno>764</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¾ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Julius von Fickers „Urkunden zur Geschichte des Römerzuges Kaiser Ludwig des Bayern“ (1865) braucht er nicht mehr, weil er sie bereits in Neapel einsehen konnte. Dagegen bittet er für die Fürstin Carolyne von Sayn-Wittgenstein um die erste deutsche Übertragung des finnischen Nationalepos „Kalewala“ von Franz Anton Schiefner (1852). Er hat in wenigen Monaten neben vielen Bekannten seinen ältesten Bruder Rudolf und seine Stiefmutter Emilie Auguste verloren.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He no longer needs Julius von Ficker’s „Urkunden zur Geschichte des Römerzuges Kaiser Ludwig des Bayern“ (1865), because he was already able to view them in Naples. Instead, he asks for the first German translation of the Finnish national epic „Kalewala“ by Franz Anton Schiefner (1852) for Princess Carolyne von Sayn-Wittgenstein. In just a few months he has, among many other friends, lost his oldest brother Rudolf and his stepmother Emilie Auguste. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1866-10-16" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001194">Hirsch, Heinrich (1820–1886)</persName>
+<placeName key="G000734">München</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right"><hi rendition="#aq">Rom</hi> 16 <hi rendition="#aq">Oct<ex>o</ex>b<ex>e</ex>r</hi> 66.</dateline>
+<salute rendition="#c">Lieber Freund <seg type="comment"><orig>Hirsch</orig><note xml:id="ngs5_nf3_gmb">Der aus Kriegshaber bei Augsburg stammende Numismatiker Heinrich Hirsch (1820–1886) war ursprünglich Philologe. Hirsch hatte in München ein Geschäft, in dem er vor allem mit antiken und italienischen Münzen handelte. Den Winter verbrachte er immer wieder in Rom und lebte im Sommer in München. Ab 1872 war Hirsch Mitglied der Wiener numismatischen Gesellschaft. Gregorovius kannte ihn seit 1852, als er mit ihm in Livorno und Elba war (siehe RT, S. 44). Im Tagebuch und in der Korrespondenz von Gregorovius taucht Hirsch regelmäßig auf. Mal transportiert er Manuskripte von Italien nach Deutschland, mal besorgt er, wie hier, Bücherwünsche für Gregorovius. Es hat sich über den vorliegenden Brief hinaus keine weitere Korrespondenz zwischen Gregorovius und Hirsch erhalten.</note></seg>,</salute>
+</opener>
+<p>ich habe gehört, dass Sie wieder nach Rom gekommen, und schreibe Ihnen deshalb noch in Eile, hoffend, dass Sie mein Brief noch in München findet.</p>
+<p>Sie haben mir nicht, wie ich Sie <hi rendition="#u">dringend bat</hi>, zugeschickt <bibl sameAs="G004241"><hi rendition="#aq">Fickers</hi> Urkunden zur Geschichte Romerzuges Ludwigs des Baiern</bibl> – Nun hilft mir das Buch nicht mehr, da ich es schon in <placeName key="G000737">Neapel</placeName> benutzen konnte – wenn irgend möglich, so bitte ich, dasselbe abzugeben, wenn Sie es kauften. Nehmen Sie überhaupt auch die Bücher nicht für mich, um welche ich Sie sonst bat – haben Sie sie aber gekauft, so bringen Sie dieselben nur nach Rom. Dagegen bitte ich Sie um Folgendes: Die <seg type="comment"><orig><persName key="G001572">Fürstin Wittgenstein</persName></orig><note xml:id="nlyx_rf3_gmb">Die aus polnischem Adel stammende Carolyne von Sayn-Wittgenstein (1819–1887), seit 1836 unglücklich mit Prinz Nikolaus zu Sayn-Wittgenstein-Berleburg-Ludwigsburg verheiratet, hatte 1847 Franz Liszt kennengelernt und war kurz darauf zu ihm nach Weimar geflüchtet. 1860 reisten beide nach Rom, um beim Vatikan die Eheerlaubnis zu erwirken, was schließlich am Widerstand der Verwandten scheiterte. Carolyne von Sayn-Wittgenstein blieb bis zu ihrem Tod im Jahre 1887 in Rom; hier entstand ihr 24-bändiges Hauptwerk „Des causes intérieures de la faiblesse extérieure de l’Église“, das erst posthum erschien.</note></seg> ersucht mich, ihr <pb n="1v"/>aus <placeName key="G000664">Deutschland</placeName> zu besorgen die deutsche <bibl sameAs="G004242"><seg type="comment"><orig>Übersetzung des <hi rendition="#aq"><hi rendition="#u">Finnischen Nationalepos Kalewala</hi></hi>; es gibt eine von <hi rendition="#aq">Anton Schiefner</hi>, Helsingfors 1852</orig><note xml:id="nskw_5f3_gmb">Das finnische Nationalepos „Kalevala“ war erst 1833–53 von dem finnischen Schriftsteller, Philologen und Arzt Elias Lönnrot (1802–1884) aus den Quellen zusammengetragen worden. Auf dieser Textgrundlage erschien 1835 das sogenannte „Alte Kalevala“, 1849 gab er eine vervollständigte Ausgabe heraus. Dieser Ausgabe folgt auch die erste deutsche Übersetzung des später in unzählige Sprachen übertragenen „Kalevala“ des deutschbaltischen Sprachforschers und Ethnologen Franz Anton Schiefner (1817–1879): Kalewala, das National-Epos der Finnen. Helsingfors: J. E. Frenckell &amp; Sohn 1852. Der Germanist Hermann Paul (1846–1921) legte 1885 eine Übertragung unter dem Titel „Kalewala, das Volksepos der Finnen“ (2 Bde., Helsingfors: J.W. Edlund) vor.</note></seg></bibl>. Ob noch eine spätere? Wenn irgend möglich bringen Sie mir dieselbe gebunden mit – ist sie nicht in München, so bitte ich Sie umgehend zu <unclear reason="illegible">verschreiben</unclear>. Sie erleben grosse Dinge – <hi rendition="#aq"><foreign xml:lang="ita">benedetto Lei</foreign></hi>! – Davon alles Mündlich in Rom. Ich war 4 Wochen in Neapel. Ich bin niedergebeugt – in wenig Monaten verlor ich die teuerste Freunde, <pb n="2r"/>die ich hatte, meinen <persName key="G001206"><seg type="comment"><orig>ältesten Bruder</orig><note xml:id="ngc4_yf3_gmb">Der Schippenbeiler Pfarrer Rudolf Gregorovius (*1808) war am 23. Juni 1866 in Königsberg gestorben.</note></seg></persName>, meine ehrwürdige <persName key="G001198"><seg type="comment"><orig>Stiefmutter</orig><note xml:id="nwbk_zf3_gmb">Die Stiefmutter von Gregorovius, Emilie Auguste, geb. Dreßler, verw. von Collrepp (*20.2.1797), war am 13. August 1866 verstorben.</note></seg></persName> – und viel <persName key="G001278"><seg type="comment"><orig>Bekannte</orig><note xml:id="novn_1g3_gmb">Am 3. April 1866 war auch seine enge Freundin Pauline Hillmann in Florenz gestorben.</note></seg></persName>. –––</p>
+<p>Möchten Sie mit gewohnter Güte mir auch Cigarren mitbringen?</p>
+<closer>
+<salute rendition="#c">Tausend herzliche Grüsse <lb/>und Handschlag <lb/>Ihr</salute>
+<signed rendition="#c">FGregorovius</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

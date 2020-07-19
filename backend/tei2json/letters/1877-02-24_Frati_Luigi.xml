@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067874">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Luigi Frati in Bologna. München, 24. Februar 1877</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Bologna</repository><collection>Biblioteca dell’Archiginnasio, f.s. Luigi Frati, Cart. XIII</collection><idno>N. 55</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 2 ¼ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die Abschrift eines Briefes der Königin von Neapel, Johanna I. von Anjou, den dritten Band von Fratis „Statuti di Bologna dall’anno 1245 all’anno 1267“ (1869–1877) und Ernesto Masis Buch „I Burlamachi e di alcuni documenti intorno a Renata d’Este“ (1876). Masi wird er nach Lektüre schreiben. Nach seiner Ankunft in Rom musste er mit einer starken Erkältung das Bett hüten und ist erstzwei Tagen wieder auf den Beinen. Für die freundliche Aufnahme in der Biblioteca comunale dell’Archiginnasio dankt er. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1877-02-24" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001136">Frati, Luigi (1815-1902)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Roma, 24. Feb<ex>b</ex>r<ex>aio</ex> 1877</dateline>
+                    <salute rendition="#c">Gentilissimo <seg type="comment"><orig>Signor mio</orig><note xml:id="nfbc_5r3_1mb">Mit dem aus Bologna stammenden Luigi Frati (1815–1902), Leiter der Biblioteca Comunale dell’Archiginnasio, stand Gregorovius seit Anfang der 1860er Jahre in einem freundschaftlich-kollegialen Verhältnis; siehe den Brief von Gregorovius an Luigi Frati vom 4.10.1863. Erst vor kurzem, am 7. Februar diesen Jahres, hatte er den Bibliotheksleiter in Bologna besucht (siehe RT, Rückkehr nach Rom im Jahre 1877, S. 374). </note></seg>,</salute>
+                </opener>
+<p>la ringrazio tante volte della nuova testimonianza di cortesia e amicizia, datami da lei per mezzo di tante cose belle, come sono <seg type="comment"><orig>la sua cara lettera, la copia della lettera di Giovanna Regina di Napoli</orig><note xml:id="ncqp_wr3_1mb">Der hier erwähnte Brief von Frati an Gregorovius ist nicht erhalten und um welchen Brief der Johanna I. von Anjou (um 1326–1382) es sich handelt ist nicht ermittelbar.</note></seg>, <seg type="comment"><orig>il nuovo fascicolo della sua preziosa edizione degli <bibl corresp="ed_pcw_fnx_qlb">Statuti di Bologna</bibl></orig><note xml:id="nopt_xr3_1mb">Siehe dazu auch Gregorovius’ fünften Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1865), S. 284.</note></seg>, e finalmente <seg type="comment"><orig>il <bibl sameAs="ed_rsn_34x_qlb">libro</bibl> sui Borlamacchi e la <persName key="ed_uxk_xnx_qlb">Renata d’Este</persName></orig><note xml:id="nosr_1s3_1mb">Fälschlich für: Burlamacchi. Ernesto Masi. I Burlamachi e di alcuni documenti intorno a Renata d’Este, duchessa di Ferrara. Studi sulla riforma in italia nel secolo 15. Bologna: Nicola Zanichelli 1876: https://books.google.it/books?id=y5ZpAAAAcAAJ&amp;pg=PA156&amp;dq=gregorovius+ernesto+masi&amp;hl=de&amp;sa=X&amp;ved=0ahUKEwiPzozf9-nnAhUN2aYKHeqmCUQQ6AEITjAE#v=onepage&amp;q&amp;f=false. </note></seg>. Quanto prima avrò letto codesto libro, <seg type="comment"><orig>scriverò una lettera di ringraziamento al Sig<ex>nor</ex> <persName key="ed_ylt_p4x_qlb">Masi</persName></orig><note xml:id="nym2_ds3_1mb">Es ist kein Schreiben von Gregorovius an den Juristen und als Historiker tätigen Ernesto Masi (1836–1908) erhalten. Masi stammt wie Frati aus Bologna, war politisch liberal eingestellt und von 1873–1887 Schulamtsleiter in seiner Heimatstadt. Publizistisch widmete er sich insbesondere der Darstellung außergewöhnlicher Persönlichkeiten, wie beispielsweise der Renée de France, in dem er auch Gregorovius’ „Storia di Roma nel Medio Evo“ und dessen „Lucrezia Borgia“ zitierte.</note></seg>; intanto la prego di far la mia parte presso il cortesissimo autore. </p>
+<p>Purtroppo, <seg type="comment"><orig>non appena <pb n="1v"/>giunto in questa mia diletta Roma</orig><note xml:id="nalp_2s3_1mb">Er war am 1. Februar von München nach Italien aufgebrochen und war nach verschiedenen Zwischenhalten in Norditalien am 11. Februar in Rom eingetroffen (siehe RT, Rückkehr nach Rom im Jahre 1877, S. 373–374). An einem Augenkatarrh litt Gregorovius bereit seit Ende des letzten Jahres.</note></seg>, dovetti mettermi al letto, per causa di un fortissimo raffreddore e massimamente per una infiammazione d’ochij. Ed è da soli due giorni, che mi trovo meglio, quantunque alquanto indebolito di vista, cosa che seriamente mi fà paura.</p>
+<p>Torno a ringraziarla di nuovo delle <seg type="comment"><orig>gentili accoglienze che Ella mi ha fatto nell’ora della mia visita all’<orgName key="ed_vs1_nh3_zkb">Arciginnasio</orgName></orig><note xml:id="nuhp_gs3_1mb">Die wenigen Stunden Aufenthalt in Bologna hatte Gregorovius dazu genutzt, Frati und den Freund Conte Giovanni Gozzadini (1810–1887) aufzusuchen (siehe RT, Rückkehr nach Rom im Jahre 1877, S. 374).</note></seg>, locale ed istituzione magnifico, nel quale Ella si è eretto un monumento duraturo, <seg type="comment"><orig>come riordinatore e amplificatore</orig><note xml:id="nhj5_hs3_1mb">In seiner Funktion als Direktor des Archiginnasio ordente Frati die komunalen Bestände neu und katalogisierte siehe: Biblioteca comunale dell’Archiginnasio. Opere della bibliografia bolognese. Hrsg. v. Luigi Frati. Sala Bolognese: A. Forni stampa 1979. </note></seg> <pb n="2r"/>del medesimo. E cosi felicitandola ed augurandole ogni altra felicità sono colla più alta stima</p>
+                <closer>
+                    <salute rendition="#right">il suo affettuosamente devoto</salute>
+                    <signed rendition="#right">Ferd. Gregorovius <lb/>   civis Romanus. </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

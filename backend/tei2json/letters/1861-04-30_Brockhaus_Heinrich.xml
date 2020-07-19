@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000133">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Heinrich Brockhaus in Leipzig. Rom, 30. April
+                    1861</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (62)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 8°, 3 S. </p>
+<p>Brief von Gregorovius an Karl Hase</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 55, Mappe 332 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die Spende seiner bei Brockhaus erschienenen Werke für die Bibliothek der Deutschen im Palazzo Caffarelli, auch im Namen des Bibliothekars Julius Troschel. Sein Antwortschreiben auf den von Brockhaus übermittelten Brief von Karl Hase geht mit derselben Post wie der vorliegende Brief nach Deutschland. Alfred von Reumont zieht nach Deutschland. Reumont hat eine Rezension der ersten beiden Bände seiner „Geschichte der Stadt Rom im Mittelalter“ (1859) für die „Blätter für literarische Unterhaltung“ geschrieben. Das Manuskript des vierten Bandes (1862) will er im Sommer abschließen. In Turin hat man Giuseppe Garibaldi durch die Entlassung eines Großteils seiner Freischarenarmee desavouiert. Das geeinte Italien kann nur Bestand haben, wenn es Camillo Benso von Cavour gelingt, die unterschiedlichen Interessen der Regionen zusammenzubinden. Das Kennenlernen des Leipziger Verlagshauses im Vorjahr hat ihn beeindruckt. Er bedauert, Eduard Brockhaus nicht kennengelernt zu haben.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He thanks him for the donation of his works published by Brockhaus for the Bibliothek der Deutschen in the Palazzo Caffarelli, the librarian Julius Troschel is also grateful. His reply to the letter from Karl Hase passed on by Brockhaus is being sent to Germany by the same mailing as the present letter. Alfred von Reumont is moving to Germany. Reumont wrote a review of the first two volumes of his „Geschichte der Stadt Rom im Mittelalter“ (1859) for the „Blätter für literarische Unterhaltung“ . He plans to complete the manuscript of the fourth volume (1862) in the summer. In Turin, Giuseppe Garibaldi was disavowed by the dismissal of a large part of his army of irregulars. A united Italy can only survive if Camillo Benso of Cavour succeeds in bringing together the different interests of the regions. He was impressed upon meeting the Leipzig publisher last year. He regrets not having met Eduard Brockhaus. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1861-04-30" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G000996">Brockhaus, Heinrich (1804–1874)</persName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi> 30. <hi rendition="#aq">April</hi> 1861</dateline>
+                </opener>
+                <p>Haben Sie meinen besten Dank, hochverehrter Herr, für Ihr freundliches Schreiben und die Sorge um meine Angelegenheiten. <seg type="comment"><orig><bibl corresp="G003114 G003252 G003430 G003574 G004072">Die Bücher</bibl> sind hier noch nicht eingegangen, werden indeß wol bald eintreffen</orig><note xml:id="nd3k_4jk_1mb">Gregorovius hatte mit seinem Brief vom 3. März 1861 um die Spende seiner bei Brockhaus erschienenen Werke für die Bibliothek der Deutschen im Palazzo Caffarelli gebeten (siehe den Brief von <ref target="G000129">Gregorovius an Heinrich Brockhaus, 3.3.1861</ref>).</note></seg>. Der Bibliothekar der <seg type="comment"><orig><orgName key="G000460">Bibliothek der Deutschen</orgName>, <persName key="G067615">Professor <hi rendition="#aq">Troschel</hi></persName> (Bildhauer)</orig><note xml:id="ndc4_rjk_1mb">Der aus Berlin stammende Julius Troschel (1806–1863), ein Schüler von Christian Daniel Rauch (1777–1857), der sich mit Reliefs und Statuetten zu mythologischen und genrehaften Themen einen Namen machte, war 1834 zunächst mit einem Stipendium nach Rom gekommen und geblieben.</note></seg> sagt Ihnen im Namen der Bibliothek seinen ergebensten Dank. </p>
+                <p>Ich habe mich sehr über die <seg type="comment"><orig>Zeilen des <persName key="G001238">Herrn Professor Hase</persName> gefreut, und antworte ihm heute durch dieselbe Gelegenheit, welche diesen Brief nach <hi rendition="#aq"><placeName key="G000685">Heidelberg</placeName></hi> mitnimmt</orig><note xml:id="nn5w_sjk_1mb">Der mit Gregorovius befreundete Jenaer Kirchenhistoriker Karl Hase (1800–1890) hatte den Brief von Gregorovius an Brockhaus vom <ref target="G000129">3. März 1861</ref> von Rom mit nach Deutschland genommen. Weder ist der von Brockhaus übermittelte Brief von Hase an Gregorovius erhalten noch das dem vorliegendenden Brief mitgesandte Schreiben von Gregorovius an Hase. </note></seg>.</p>
+                <p><seg type="comment"><orig><persName key="G001545">Herr v<ex>on</ex> <hi rendition="#aq">Reumont</hi></persName><bibl corresp="G002642 G002643 G002644"> sagte mir, daß er einen starken Bericht über die Geschichte der Stadt Rom für eins Ihrer Journale (ich glaube die Bl<ex>ätter</ex> f<ex>ür</ex> L<ex>iterarische</ex> Unterh<ex>altung</ex>) fertig habe</bibl></orig><note xml:id="nfws_1kk_1mb">Die ausführliche Rezension der ersten beiden Bände von Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ (1859) von Alfred von Reumont (1808–1887) erschien unter dem Titel „Gregorovius’ Geschichte Roms in Mittelalter“ in: Blätter für literarische Unterhaltung. Bd. 1. Nr. 1, 7 und 24. Leipzig 1.1.1862. S. 7–13, 13.2.1862, S. 117–123 und 12.6.1862. S. 429–434.</note></seg>. <seg type="comment"><orig>Er reist nun <hi rendition="#aq"><foreign xml:lang="Lat">in <placeName key="G000664">patriam</placeName></foreign></hi></orig><note xml:id="ng3h_2kk_1mb">Als Friedrich Wilhelm IV. am 2. Januar 1861 verstarb, fand sich für Reumont als „Repräsentant der romantisch-christlichen Ära“ (Jens Petersen) keine neue diplomatische Verwendung mehr. Er war zuletzt am 19. Oktober 1860 als Privatmann nach Rom gekommen und blieb bis zum 1. Mai 1861 (siehe auch den Brief von Gregorovis an Thile 16.12.1860). Reumont ließ sich später in Bonn nieder. – „in patriam“: Lat.: ins Vaterland. </note></seg>, und ich beneide ihn darum. Dieses Jahr werde ich mich damit begnügen müßen, <seg type="comment"><orig><placeName key="G000671">Florenz </placeName>zu besuchen, um meinen <bibl sameAs="G003462">IV. Band</bibl> aus den dortigen Bibliotheken zu vervollständigen</orig><note xml:id="nshv_hkk_1mb">Für Archivrecherchen für den vierten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1862) reiste Gregorovius am 24. August 1861 über Civitavecchia und Terni nach Foligno und Perugia; am 28. August fuhr er weiter nach Florenz, wo er bis zum 20. September 1861 blieb (siehe RT, 26.8.-17.9.1861, S. 136–137).</note></seg>. <pb n="1v"/>Ich bin vergraben in einen Schutthaufen von Codices, Chroniken, Pergamenten, aber der Gedanke, <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">die Geschichte von Rom</bibl> vollendet zu hinterlaßen, erhält mich frisch u<ex>nd</ex> munter, u<ex>nd</ex> es beweist sich die Arbeit an sich als die Macht, welche uns Sterblichen am heilsamsten u<ex>nd</ex> am treuesten bleibt.</p>
+                <p>Die hiesigen Zustände sind der Lösung nicht näher gerückt; die <seg type="comment"><orig>Einheit <placeName key="G000690">Italiens</placeName> dürfte am <orgName key="G000539">S<ex>ankt</ex> Peter</orgName> scheitern</orig><note xml:id="ndkq_jkk_1mb">In der Turiner Sitzung hatte der für Neapel in der Deputirtenkammer sitzende General Giuseppe Garibaldi am 18. April 1861 Aufklärung über die Auflösung der neapolitanischen Armee verlangt. Weiter heißt es im Bericht der „Allgemeinen Zeitung“: Garibaldi verlangte in seiner Rede „eine Nationalbewaffnung wie sie in England erfolgt sey. Er nennt die Haltung der französischen Armee eine feindliche, indem sie Rom besetzt halte, und bezeichnet als das einzige Mittel einer Aussöhnung mit dem Ministerium die Wiederherstellung des Freiwilligenheeres und dessen (oder seine) Absendung nach Neapel.“ (Nr. 110, 20.4.1861, S. 1789). Im Ergebnis wurden nur einige Offiziere aus den Freischaren übernommen, ein Großteil der Freiwilligenarmee Garibaldis wurde entlassen. Ein ausführliches Protokoll der Sitzung in der „Allgemeinen Zeitung“ vom 23. April 1861 (Nr. 113, S. 1843). Siehe auch RT, 24.4.1861, S. 130.</note></seg>. Zwischen diesen beiden Principien, welche mit einander kämpfen, gibt es in Rom heute keine Brüder. Sie haben mit Verwunderung gesehen, wie man den <seg type="comment"><orig>Nimbus <persName key="G001160">Garibaldis</persName> in <placeName key="G000893">Turin</placeName> zerstört</orig><note xml:id="nvq5_nkk_1mb">In Folge der Niederlage Österreichs im Zweiten italienischen Unabhängigkeitskrieg hatten sich die östlichen Provinzen des Kirchenstaates erhoben, so dass die Romagna, Umbrien und die Marken abgespalten wurden und der Kirchenstaat auf die Unterstützung Frankreichs angewiesen war, um sein auf Rom und Latium beschränktes Territorium zu halten.</note></seg> hat. Man hat diesen costümirten Patrioten dort förmlich lächerlich gemacht; das Lächerliche ist freilich in Italien keine Macht, wie in <placeName key="G000674">Frankreich</placeName>, aber das Rachegefühl der Faction ist es nur zu sehr. Wenn es <persName key="G004721"><seg type="comment"><orig>Cavour</orig><note xml:id="nbjv_qkk_1mb">Der Ministerpräsident Camillo Benso von Cavour (1810–1861).</note></seg></persName> gelingt, die Parteien zu beseitigen, und einer organischen Regierungsgewalt Raum zu schaffen, so <pb n="2r"/>würde Hoffnung für die Befestigung der hiesigen Zustände zu faßen sein. Doch können Sie sich Süditalien nicht widerstrebend, u<ex>nd</ex> chaotisch genug denken.</p>
+                <p>Meine Erwartungen sinken täglich mehr. Die Lösung all’ dieser Spannungen wird indeß doch nur der Krieg bringen, der mit dem Sturze <persName key="G001442">Napoleons</persName> endigt.</p>
+                <p><seg type="comment"><orig>Ich denke noch oft mit Freude an die schönen Stunden, welche Sie mir in Ihrem Gartenhause schenkten, u<ex>nd</ex> bedaure lebhaft Ihren <persName key="G000995">Herrn Sohn</persName> nicht kennen gelernt zu haben</orig><note xml:id="nyrs_skk_1mb">Gregorovius hatte bei Heinrich Brockhaus am 31. Juli 1860 in Leipzig zu Abend gegessen, der seinetwegen von seinem Landsitz in Dresden gekommen war. Sein Sohn Eduard Brockhaus (1829–1914), der die Verlagsgeschäfte führte, wenn Heinrich Brockhaus auf Reisen war, war nicht in der Stadt (siehe RT, 31.7.1860, S. 107 und den Brief von <ref target="G000122">Gregorovius an Hermann von Thile, 9.8.1860</ref>).</note></seg>, welchem mich zu empfehlen Sie die Güte haben mögen. Es gehe Ihnen wol, mein teurer Herr, in dem guten Vaterlande, in Ihrem literarischem Fürstentum <hi rendition="#aq">Leipzig</hi> (denn Ihre großartigen Etablissements dort haben mi<subst><del rendition="#ow">ch</del><add place="across">r</add></subst> gar sehr imponirt), und endlich auf Ihrer nun wol mit Blüten bedeckten Villa <placeName key="G000666">Dresdens</placeName>.</p>
+                <closer>
+                    <salute xml:id="s1" next="#s2">Mit wahrhafter Verehrung und </salute>
+                    <salute xml:id="s2" prev="#s1" rendition="#c">Ergebenheit</salute>
+                    <signed rendition="#right">FGregorovius</signed> </closer>
+                    <note type="postscript"><hi rendition="#aq"><hi rendition="#aq">Rom</hi> Via Gregoriana</hi> XIII.</note>
+                           </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000263">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Tommaso Gar in Neapel. Rom, 7. Dezember 1864.</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+                <respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Biblioteca Comunale di Trento</repository>
+                        <idno>
+                            <idno>busta BCT1–2257/52</idno>
+                        </idno>
+                    </msIdentifier>
+                    <physDesc>
+<p>1 Dbl., 8°, 3 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die Auskünfte für seinen jetzt erschienen Artikel „Die Universität Neapel und dortige Studien“ (1864) . Giuseppe de Blasiis und Francesco Dall’Ongaro haben ihm Buchgeschenke gemacht. Der Abschluss des Manuskripts des fünften Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1865) steht bevor. Er gratuliert Gar zur Verleihung des Ordenskreuzes der Heiligen Mauritius und Lazarus, auf das er selbst verzichtet hatte. Gar soll es für seine Karriere nutzen. Er erkundigt sich, ob Bartolomeo Capasso seine Fotografie erhalten hat und dankt Albert Detken für De Blasiis „La insurrezione pugliese e la conquista normanna nel secolo XI.“ (1864). Mit Karl und Auguste Lindemann-Frommel bestellt er Grüße an Madeleine Creutzer.</p>
+                <p xml:lang="en">He thanks him for the information he provided for his recently published article „Die Universität Neapel und dortige Studien“ (1864). Giuseppe de Blasiis and Francesco Dall’Ongaro generously gave him books. The completion of the manuscript of the fifth volume of his „Geschichte der Stadt Rom im Mittelalter“ (1865) is near. He congratulates Him on the award of the Order Cross of Saints Mauritius and Lazarus, which he himself had turned down. Gar should use it for his career. He inquires whether Bartolomeo Capasso has received his photograph and thanks Albert Detken for De Blasiis „La insurrezione pugliese e la conquista normanna nel secolo XI.“ (1864). Together with Karl and Auguste Lindemann-Frommel he sends his regards to Madeleine Creutzer.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName>
+                    <date when="1864-12-07" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001158">Gar, Tommaso (1808–1871)</persName>
+<placeName key="G000737">Neapel</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c">Roma, 7. Di<ex>cem</ex>br<ex>e</ex> 64.</dateline>
+<salute rendition="#c">Carissimo amico,</salute>
+</opener>
+<p><seg type="comment"><orig>ho ricevute due vostre care lettere</orig><note xml:id="nylg_gll_ylb">Offenbar versorgte Gar Gregorovius mit Material für den Artikel „Die Universität Neapel und dortige Studien“, der am 26.11.1864 anonym in der „Allgemeinen Zeitung“ (Beilage zu Nr. 331 der AZ. Augsburg: Cotta. S. 5377f.) erschien. Siehe dazu auch den Brief von Gregorovius an Gar vom <ref target="G000258">9.10.1864</ref>, in dem er sich ebenfalls für den Erhalt von Informationen für den geplanten Artikel bedankt.</note></seg>, ed ora di certo tocca a me, di scrivere poche righe e di rendervene le mie grazie. La vostra gentilezza ha voluto commutare un mio debito verso di voi in un atto di liberalità; se io scrissi <seg type="comment"><orig><bibl sameAs="G003918">quell’ articolo</bibl></orig><note xml:id="nwsp_hll_ylb">Der Artikel erschien anonym. γρ: Die Universität Neapel und dortige Studien. In: Beilage zu Nr. 331 der AZ. Augsburg: Cotta 26.11.1864. S. 5377f. </note></seg>, che senza le vostre carte non avrei potuto stendere, egli vi era, per rivocarmi alla mente il piacevolissimo, benchè <seg type="comment"><orig>per indisposizion mia</orig><note xml:id="nvxr_3ll_ylb">Wegen Krankheit musste Gregorovius seinen Aufenthalt in Neapel unterbrechen und zog sich zur Genesung nach Sorrent zurück. Siehe auch die Briefe an Gar vom <ref target="G000256">25.8.1864</ref>, <ref target="G000063">4.9.1864</ref> und <ref target="G000257">12.9.1864</ref>.</note></seg> un poco turbato soggiorno, che feci fra di voi Italiani a Napoli. Non ero dunque capace di far mi interprete nè dei meriti vostri, nè <del rendition="#s">degli</del> di quelli degli altri amici di Napoli, essendo io troppo da poco per averne il credito. Comunque siasi, io sono veramente lieto, che avete potuto gradire quello, che scrissi. Ringraziate il <persName key="G001072">De Blasiis</persName> e <seg type="comment"><orig><persName key="G001066">dall’ Ongaro</persName></orig><note xml:id="nucp_kll_ylb">Francesco Dall’ Ongaro (1808–1873) war ein Schriftsteller, Dichter und Dramaturg, der antike Stoffe auf die italienische Bühne übertrug, darunter „Fasma, commedia di Menandro, Interpretata da Francesco Dall'Ongaro.“ Milano: G. Daelli e C. Editori 1863. Gregorovius und Dall’Ongaro lernten sich im September 1864 in Neapel kennen (siehe RT, 24.9.1864, S. 185: „Ich lernte kennen dell' Ongaro, einen namhaften Poeten, welcher die verlorene und nur im Skelett der Fabel bekannte Komödie Menanders, ‚Fasma‘, recht geschickt bearbeitet hat“).</note></seg> in nome mio dei graziosi doni; li <seg type="comment"><orig>perleggero</orig><note xml:id="nljw_lll_ylb">Vermutlich ein frei kreierter Germanismus: „durchlesen“ (per + leggere).</note></seg> quanto prima mi basterà la lena, poiché attualmente essendo occupatissimo colla redazione del<bibl sameAs="G003455"> V. tomo</bibl> per la prossima stampa, io, invece di ricorrere ad ameni studi, che sempre sono studi, di sera cerco ricovero e <pb n="1v"/>sollevamento della stancata mente presso qualche società lieta.</p>
+<p>Mi congratulo della <seg type="comment"><orig>croce vostra</orig><note xml:id="nx5p_pll_ylb">Offensichtlich wurde Gar der Orden der Heiligen Mauritius und Lazarus verliehen; Belege gibt es dafür allerdings nicht.</note></seg>. Siamo nati da vero da portar la croce, <seg type="comment"><orig><foreign xml:lang="Lat">homines nati de muliere; viventes paucos annos, repleti multis miseriis</foreign></orig><note xml:id="ni5x_qll_ylb">Frei zitiert nach Hiob (14, 1); dort: „Homo natus de muliere, brevi vivens tempore, repletur multis miseriis.“. Zu Deutsch: „Der Mensch, vom Weibe geboren, lebt kurze Zeit und ist voll Unruhe.“</note></seg> – veramente <seg type="comment"><orig>Lazzari</orig><note xml:id="naqx_rll_ylb">Auch Lazzaroni (Pl.) bzw. Lazzarone (Sg.): Vom 17. bis 19. Jahrhundert Bezeichnung für die neapolitanische Unterschicht; geht auf die Figur des armen Lazarus aus dem Lukasevangelium (Lk 16,19–31) zurück.</note></seg>, massimamente nella carriera di lettere, che distrugge il nostro dominio temporale e la salute, mentre che viviamo, e che al più non frutta altro, che un tardivo alloro sulla tomba. Io portero <seg type="comment"><orig>la mia croce di S. Lazzaro</orig><note xml:id="nk1b_tll_ylb">Gregorovius wurde der Ritterordern der Heiligen Mauritius und Lazarus im Juni 1864 verliehen, er lehnte ihn jedoch ab, um wissenschaftlich unabhängig zu bleiben. Siehe die beiden Briefe vom <ref target="G000319">12.6.1864</ref> <ref target="G000318">an Michele Amari</ref>.</note></seg> invisibilmente nel cuore, come uomo che<seg type="comment"><orig> fece il gran rifiuto, ma grazie a dio no per viltade</orig><note xml:id="nfkn_5ll_ylb"><p>Frei zitiert nach Dante Alighieri: Divina Commedia, Inferno, Canto III, 60. Die Vollständige Strophe lautet: „Poscia ch'io v'ebbi alcun riconosciuto, / vidi e conobbi l'ombra di colui / che fece per viltade il gran rifiuto“. Dazu die deutsche Übersetzung nach Richard Zoozmann (1922): „Als erst der Blick Bekannte mir erlaubte / Zu sehn, sah ich auch den der durch Entsagen / Aus Feigheit großen Gutes sich beraubte“. Gemeint ist Papst Coelestin V. (um 1210–1296), der nach seiner Wahl im Juli 1294 bereits im Dezember frewillig abdankte. </p></note></seg>. Ella vi starà bene, poichè militate in uffizii pubblici; e vene potete far qualche mezzo di miglioramento dello stato vostro, siccome il mondo è e sarà sempre tale, da vuoler vedere segni e miracoli.</p>
+<p>Se mai vedeste il signor <persName key="G001019">Capasso</persName>, vuorete domandargli, se abbia ricevuto la mia fotografia, la quale io gli mandai per la posta, ora più di 15 giorni sarà. <foreign xml:lang="Lat">Ad vocem</foreign> <hi rendition="#u" hand="">posta</hi> vi racommando, di non <pb n="2r"/>spedir à Roma libri sotto fascia, perchè questa posta gli fa pagare quasi a peso di lettera. Sono grato pure al Sign<ex>or</ex> <seg type="comment"><orig><persName key="G001089">Detken</persName></orig><note xml:id="nltw_wll_ylb">Albert Detken (1809–1887) war ein Buchhändler in Neapel. Seine im Oktober 1836 an der zentralen Piazza del Plebiscito eröffnete Verlagsbuchhandlung („Libreria Detken“, ab 1862 „Detken &amp; Rocholl“) war ein zentraler Treffpunkt für deutsche Wissenschaftler in Neapel.</note></seg>, cui mi raccomando amicalmente, della <seg type="comment"><orig><bibl corresp="G004256">storia del De Blasiis</bibl></orig><note xml:id="nvl1_yll_ylb">Giuseppe De Blasiis (1832–1914) publizierte bei Albert Detken (1809–1887) sein Werk: L'insurrezione pugliese e la conquista normanna nel secolo XI. 3 Bde. Neapel: Alberto Detken. Bd. 1 1864. Bd. 2 1864. Bd. 3 1873.</note></seg>, da esso lui stampata.</p>
+<p>Salutate dalla parte mia come da quella di <persName key="G001374"> <persName key="G001375">Lindemann</persName> </persName>, che vi ritornano i saluti, la gentilissima <persName key="G001056">Baronessa</persName>. Noi tutti stiamo discretamente bene; la signora Lindemann però soffre del freddo, che si fà ogni giorno di più forte.</p>
+<p>Se mai trovaste occasion di mano, vorrei pregarvi di comprar per me 100 di quei zigari di <placeName key="G067815">Virginia</placeName>, che prima mi strozzavano poi mi vennero gratissimi. Me ne feci portare à Roma 50 per un conoscente mio, e ne fumai deliziosamente ogni mattina uno; ma ora <choice><sic>ora</sic><corr type="deleted"/></choice> me nè rimasto uno solo, che voglio fumare un giorno, quando mi occorrera qualche cosa di stra<supplied cert="high">or</supplied>dinario piacere. Credo però, che per questo starà lungo tempo quieto. Se potete mandarmi cotali zigari, indicatemi la via, per dove rimborsarvi la spesa.</p>
+<closer>
+<salute>Vi abbraccio, caro Gar, lietamente, e chiudo la lettera, perché <seg type="comment"><orig>certe signorine</orig><note xml:id="nylc_zll_ylb">Nicht ermittelt.</note></seg> mi chiamano a condurle dal <persName key="G001264">Ercole</persName> <seg type="comment"><orig>di Bronzo</orig><note xml:id="nfh4_1ml_ylb">Die vergoldete Bronzestatue des Herkules wurde am 8.8.1864 während Grabungen unter dem Hof des Palazzo Pio Righetti nahe des Campo de’ Fiori in Rom entdeckt und wenig später Papst Pius IX. geschenkt. Gregorovius war bei der Hebung der Statue wohl zugegen; im Tagebuch heißt es am 16.10.1864: „– ich sah diese Statue aus ihrem Grabe auferstehen, woraus sie mit Stricken, Schrauben und Winden herausgezogen ward –, Volk, Arbeiter ringsumher, alle voll Anteil und heiterem Ernst – eine echt römische Szene.“ (S.187)</note></seg>. Con tutto cuore il vostro </salute>
+<signed rendition="#right">Frd. Gregorovius</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

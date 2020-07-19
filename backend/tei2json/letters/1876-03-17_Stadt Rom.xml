@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067774">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an die Stadt Rom. Modena, 17. März 1876 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness select="#this">
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Kampf</collection><idno>Karton 88, Mappe 1 (nach einem Ausschnitt aus einer römischen Zeitung, Slg. Jeß)</idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Königsberger Hartungsche Zeitung. Nr. 74. Königsberg 27.3.1876. S. 799 (Abend-Ausgabe) </bibl> (in deutscher Übersetzung)</witness>
+<witness> <bibl type="print">Allgemeine Zeitung. Nr. 90. Augsburg: Cotta 30.3.1876. S. 1360 (in deutscher Übersetzung)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt den römischen Bürgern für die ihm verliehene Ehrenbürgerwürde der Stadt Rom. Hier hat er nach mehr als zwanzig Jahren seine „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) vollendet. Die Verleihung des römischen Bürgerrechts sieht er als größten Beweis, dass er hier kein Fremder mehr ist. Die vielen Unterzeichner des Antrags genauso wie auch fehlende Unterschriften haben ihn nicht unberührt gelassen. Über das Glück von nun an zwei Vaterländer zu haben. </p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000729">Modena</placeName><date when="1876-03-17" cert="high"/>
+</correspAction>
+                <correspAction type="received"><orgName key="G067704">Stadt Rom</orgName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Modena, 17 marzo 1876.</dateline>
+                    <salute><seg type="comment"><orig>Miei generosi amici di Roma</orig><note xml:id="nawn_fcw_zlb">Der Brief ist an die römischen Bürger gerichtet und ist nach der Angabe auf der zugrundeliegenden Abschrift in einer römischen Zeitung publiziert worden. Wenige Tage später wurde der Brief in deutsche Übersetzung veröffentlicht in: Königsberger Hartungsche Zeitung. Nr. 74. Königsberg 27.3.1876. S. 799 (Abend-Ausgabe). Ein seperates Dankschreiben von Gregorovius vom selben Tag (<ref target="G067775">17.3.1876</ref>) ist an den Bürgermeister Roms, Pietro Venturi (1824–1892), adressiert.</note></seg>, </salute>
+                </opener>
+<p>Uno tra gli antichi ha detto che i soli schiavi si reputarono stranieri in Roma. Ed <seg type="comment"><orig>io che ho vissuto, o nobilissimi romani, tanti anni in mezzo a voi</orig><note xml:id="nj2q_gcw_zlb">Gregorovius war am 2. Oktober 1852 in Rom eingetroffen (siehe RT, 4.10.1852, S. 45) und sollte die Stadt nach knapp 22 Jahren Aufenthalt am 15. Juli 1874 endgültig verlassen (siehe RT, 14.7.1874, S. 342–343). </note></seg>, contento nell’ammirare e nell’illustrare quest’eterna città, circondato ognora dalla vostra squisitissima benevolenza, doveva forse reputarmi tale?</p>
+<p>Ora per darmene la più chiara e magnanima prova, avete desiderato che io divenissi vostro concittadino legittimo e ne avete chiesta <seg type="comment"><orig>la conferma al vostro <orgName key="G004663">illustre Municipio</orgName></orig><note xml:id="namx_hcw_zlb">In seiner Sitzung vom 8. März hatte der römische Gemeinderat dem von den Abgeordneten Filippo Cagiati (*1821), Augusto Ruspoli (1817–1882), Ignazio Ciampi (1824–1880) und Quirino Leoni (1828–1897) eingebrachten Antrag, dem Verfasser der „Geschichte der Stadt Rom im Mittelalter“ die Ehrenbürgerwürde Roms zu verleihen, stattgegeben. Die bereits am 12 Februar dem Bürgermeister persönlich von einer Deputation überreichte und am 14. Februar in der Tageszeitung „Perseveranza“ publizierte Petition war zunächst angefechtet worden, was eine Verteidigung Gregorovius’ durch Cagiati in der „Libertà“ nach sich zog (Jahr VII, Nr. 57, 26.2.(1876). Cagiati widerlegte eine angeblich zu stark deutsche Haltung des Historikers und äußerte sich zur von den Petenten in Frage gestellte Überreichung der römischen Bügerrechte an General Nicolas Charles Victor Oudinot (1791–1863) im Jahr 1849. Dabei stellte er klar, dass keinesfalls eine Beleidung der franzöischen Nation intendiert war; der Artikel, den Gregorovius im Tagebuch eingeklebt hatte, ist im RT, S. 540–541, wiedergegeben.</note></seg>. Accetto dalle vostre mani, con animo grato e commosso, l’onoratissimo titolo, e me ne glorio come colui che <seg type="comment"><orig>ha raggiunto la meta sublime della sua vita</orig><note xml:id="nchv_3cw_zlb">Er spielt auf die Erfüllung seines Hauptwerks an, die „Geschichte der Stadt Rom im Mittelalter“ (8 Bde., Stuttgart: Cotta 1859–1872). Für diese war ihm die Ehrenbürgerwürde zugesprochen worden.</note></seg>, non affatto infruttosa. </p>
+<p>Certo che ad uomini di modeste abitudini val meglio vedersi amati che onorati, ma nel leggere le numerose firme apposte alla domanda vostra gentile, rimasi preso di lieta ammirazione trovandovi altrettante (o non aspettate) testimonianze di benigna simpatia verso di me quanti erano <seg type="comment"><orig>i vostri riveriti ed illustri nomi</orig><note xml:id="npw5_jcw_zlb">Im Tagebuch reflektiert Gregorovius über die Unterzeichner des Antrags genauso wie über die unter dem Text fehlenden Namen. So schreibt er zum einen, dass die Petition, die von ihm nicht nahestehenden Personen initiert worden war, seine wahren Freunde wie beispielsweise die Familie Caetani beschämt hat. Zum anderen merkt er an, dass Unterschriften wie zum Beispiel jene von Giovanni Battista De Rossi (1822–1894) fehlten, was ihn offensichtlich nicht unberührt ließ. Einige der Unterzeichner kannte er nicht, über das Auftauchen anderer Namen freute er sich; siehe RT, 1.3.1876, S. 361–362.</note></seg>. </p>
+<p>La vita dell’uomo si svolge pur troppo tra angusti limiti di fratellanza, ed anzi perciò non è forse un diletto, direi quasi più che umano, veder allargarsi i diritti e i confini di patria guadagnandoli per forza d’affetto ed aggiungendoli a quelli della prima terra nativa?</p>
+<p>Non posso esprimervi, o magnanimi romani, quale e quanta è la gioia che provo ora che per tutta la mia vita andrò glorioso di chiamare la stessa alma Roma, l’amatissima mia seconda patria.</p>
+<p rendition="#right">Modena, 17 marzo 1876.</p>
+<p rendition="#c">Il concittadino vostro riverente,</p>
+                <closer>
+                    <salute rendition="#c">grato ed affettuoso</salute>
+                    <signed rendition="#c">Ferdin. Gregorovius. </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_fxr_wnc_tlb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Rom. München, 21. November 1880</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free">
+                <licence target="http://creativecommons.org/licenses/by/4.0/">
+                    Creative Commons Attribution 4.0 International (CC BY 4.0)
+                </licence>
+            </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 4 S. 17,7x11,4</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Über die Aufnahme von Marianos „Christenthum, Katholicismus und Kultur“ (1880) in Deutschland. Zwischen Mariano und Clemente Maraini sowie Carlo Guerrieri Gonzaga kam es aufgrund unterschiedlicher Ansichten zum Zerwürfnis. Im Deutschen Kaiserreich wächst die antisemitische Bewegung um Adolf Stoecker. Über Ersilia Caetani Lovatelli. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1880-11-21" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840-1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c"> München, 21. N<ex>o</ex>ve<ex>mbre</ex> 80.</dateline>
+<salute rendition="#c"> Lieber Freund,</salute>
+</opener>
+<p>die Auskunft, welche Sie über die Besprechungen Ihres <bibl sameAs="ed_drr_cr2_rlb">Buches</bibl> wünschen, ist, so weit ich Sie zu geben im Stande bin, folgende:</p>
+<p><orgName key="G000521"><hi rendition="#aq"><hi rendition="#u" hand="">Im neuen Reich</hi></hi> </orgName><seg type="comment"><orig>(die Nummern werden Ihnen bekannt sein; ich kenne sie nicht)</orig><note xml:id="nydr_5vt_5lb">Lang, Wilhelm: Ein Italiener über Kirche und Staat. In: Im neuen Reich. 9. Jahrgang (1879), Zweiter Band. S. 391–395.</note></seg>; </p>
+<p><hi rendition="#aq"><orgName key="ed_kgz_vvt_5lb"><hi rendition="#u" hand="">Neue Evangel<ex>ische</ex></hi> Kirchenzeitung</orgName></hi> v<ex>on</ex> Mettner 22 Jahrg<ex>ang</ex> <seg type="comment"><orig>N<ex>ummer</ex> 33.34.</orig><note xml:id="ne1v_yfj_1mb">Neue Evangelische Kirchenzeitung. Herausgeg. von D. H. Mettner. Berlin 21. August 1880. Jahrgang 22, Nr. 33/34. Seitenzahlen nicht ermittelt.</note></seg> </p>
+<p><hi rendition="#aq"><orgName key="ed_qgh_zvt_5lb"><hi rendition="#u" hand="">Grenzboten</hi></orgName></hi> 1880. <seg type="comment"><orig>N<ex>ummer</ex> 39</orig><note xml:id="nacz_zfj_1mb">Die Grenzboten. Zeitschrift für Politik, Literatur und Kunst. 39. Jahrgang, Nummer 3 (1880). S. 66.</note></seg>. </p>
+<p><orgName key="G000530"><hi rendition="#aq"><hi rendition="#u" hand="">Literarisches</hi></hi> Centralblatt</orgName> <seg type="comment"><orig>N<ex>ummer</ex> 39</orig><note xml:id="nuz5_bgj_1mb">Literarisches Centralblatt für Deutschland. Nummer 39 vom 27. September 1879.</note></seg>. </p>
+<p>Mehr Artikel sind mir nicht zu Gesicht gekommen, ob-<pb n="1v"/>wol ich darnach gesucht habe. Ihr deutscher <orgName key="G000473">Verleger</orgName> wird Ihnen alles Erschienene der Art genau anzugeben wissen. <seg type="comment"><orig>Die Aufnahme Ihres Buches in Deutschland ist, nach jenen Besprechungen zu urteilen, eine sehr günstige, so daß Sie mit Ihrem Debut hier zufrieden sein können</orig><note xml:id="nzg2_svt_5lb">Für Marianos selbst in deutsch verfasster Schrift „Christenthum, Katholicismus und Kultur“ (Leipzig: Breitkopf &amp; Härtel 1880) hatte Gregorovius die Korrektur sowie einen einführenden Text besorgt: Christenthum, Katholicismus und Civilisation. In: Unsere Zeit. Deutsche Revue der Gegenwart. Bd. 1. Leipzig: Brockhaus 1880. S. 347–369. U. d. T. Cristianesimo, cattolicismo e civiltà zeitgleich in italienischer Sprache erschienen in La Nuova Rivista Internazionale. Periodico di lettere, scienze ed arti. Jg. 1. Nr. 12. Florenz: Tipografia del Vocabolario 1880. Siehe dazu die Briefe von Gregorovius an Raffaele Mariano vom 30.11. und 29.12.1879.</note></seg>.</p>
+<p>Ich freue mich Sie in den Elementen Ihres <placeName key="G000690">Vaterlandes</placeName> wieder heimisch zu wissen und <seg type="comment"><orig>denke Sie mir dort mit neuen Arbeiten beschäftigt</orig><note xml:id="nf24_hwt_5lb">Im kommenden Jahr sollte Mariano eine Biographie veröffentlichen: Giordano Bruno: la vita e l’uomo. Saggio biografico-critico. Rom: Tip. eredi Botta 1881.</note></seg>; denn die Arbeit ist doch unter allen menschlichen Verhältnißen das einzige Mittel, die Miserabilität des Lebens erträglich oder doch weniger empfindlich <pb n="2r"/>zu machen, wie <persName key="G067806">Friedrich der Große</persName> u<ex>nd</ex> <persName key="G067640">Voltaire</persName>, u<ex>nd</ex> 1000 andre gesagt haben.</p>
+<p><seg type="comment"><orig>Der Verlust guter Freunde, wie <persName key="G067878">Maraini</persName> u<ex>nd</ex> <persName key="G001219">Carlo Guerrieri</persName> wird Ihnen empfindlich sein</orig><note xml:id="nt4b_qwt_5lb">Da mit dem angesprochenen „Verlust guter Freunde“ weder Marainis noch Guerrieris Ableben gemeint sein kann, muss Gregorovius hier ein Zerwürfnis zwischen Mariano und den beiden meinen. </note></seg>; wie sehr Ihnen der letztere untauglich war, hat er dadurch bewiesen, daß er Ihre Ansicht über das Judentum als Schi$ hingenommen hat, trotz <seg type="comment"><orig>seiner <persName key="ed_yj4_twt_5lb">Frau</persName>, <add place="superlinear">von </add>welcher man eine gleiche Höhe der Betrachtung nicht verlangen darf</orig><note xml:id="ntzs_ywt_5lb">Guerrieri Gonzaga hatte die aus Mannheim stammende, deutsche Jüdin Emma Julia Hohenemser (1835–1900) geheiratet, die sich als Pädagogin für die Förderung von Bildungs- und Erziehungseinrichtungen engagierte. Zudem war sie Anhängerin der pädagogischen Ideen des Friedrich Wilhelm August Fröbel (1782–1852). Die Eheleute bekamen drei Kinder: Luigi, Maria (1869–1950) und Sofia (1873–1961). </note></seg>. Ihre Ansichten in diesem Punkt, wie manche andre habe auch ich nicht zu teilen vermocht. Die Zeitungen werden Ihnen von dem Auftreten der <seg type="comment"><orgName key="ed_fgt_cj5_5lb"><orig><seg type="comment"><orig>humanitären Partei</orig><note xml:id="nyl3_fj5_5lb">Die 1875 aus dem Zusammenschluss der Sozialdemokratischen Arbeiterpartei und des Allgemeinen Deutschen Arbeitervereins entstandene Sozialistische Arbeiterpartei Deutschlands.</note></seg></orig></orgName><note xml:id="nu1v_zwt_5lb"/></seg> in unserem Lande gegen die Hetzer berichten, <seg type="comment"><orig>die Pseudo-<pb n="2v"/>christen à la <persName key="ed_f2h_3j5_5lb">Stöcker</persName>, welche die Zeiten des <hi rendition="#aq">Ghetto</hi> und der gelben Schandzeichen wieder erneuern möchten</orig><note xml:id="nnc2_tj5_5lb">Der evangelische Theologe und Politiker Adolf Stoecker (1835–1909) war als Mitglied der Christlich-sozialen Partei, deren Vorsitzender er bis zu seinem Tod war, Begründer der sog. Berliner Bewegung, einer antisemitischen Bewegung, die Ende der 1870er entstand und besonders in den 1880er Jahren im Deutschen Kaiserreich aktiv war. Bezeichnet werden damit verschiedene Gruppierungen, deren gemeinsamer Nenner der Judenhass war. Am 19. September 1879 hielt Stoecker eine Rede mit dem Titel „Unsere Forderungen an das moderne Judenthum“, die heute als Beginn des modernen Antisemitismus gilt. </note></seg>. Indeß hat <persName key="ed_q1s_wj5_5lb">Lessing</persName> doch nicht umsonst gelebt!</p>
+<p>Ich beklage das Unglück der armen Donna <persName key="G001011">Ersilia</persName> durch die Unbesonnenheit <seg type="comment"><orig>ihres Sohnes, vielleicht aller ihrer Söhne</orig><note xml:id="nw3t_ck5_5lb">Neben den beiden Töchtern Callista (1860) und Rosalia Gabriella (1872) hatte die Gräfin mit ihrem 1879 verstorbenen Ehemann Giacomo Lovatelli (1832) die Söhne Filippo (1874), Giovanni (1859) und Witoldo (1869) bekommen. Welcher der drei Söhne Ersilia Kummer bereitete, ist nicht ermittelbar. Siehe dazu den Brief von Gregorovius an Giovanni Gozzadini vom 19.9.1880.</note></seg>. Sie schreibt öfter an mich, so daß ich die Tugend treuer freundlicher Anhänglichkeit wol an ihr zu rühmen habe, u<ex>nd</ex> außer dieser besitzt Sie auch einen entschiedenen Sinn für wenigstens ein Gebiet des Wissens u<ex>nd</ex> Denkens, u<ex>nd</ex> <seg type="comment"><orig>das erhebt Sie hoch über die römischen Frauen ihrer Gesellschaft</orig><note xml:id="nvjx_dk5_5lb">Die Gräfin war als anerkannte Archäologin tätig und im Jahr zuvor als erste Frau zum Mitglied der Accademia dei Lincei ernannt worden; siehe den Brief von Gregorovius an Raffaele Mariano vom 11.5.1879.</note></seg>. </p>
+<p>Ich habe Ihnen nichts von uns zu melden, als die Grüße der <persName key="G001203"><persName key="G001111">Meinigen</persName></persName> – in unserem bescheidenen Dasein sind wir alle zufrieden u<ex>nd</ex> thätig.</p>
+<p>Ich wünsche Ihnen u<ex>nd</ex> Ihrer <persName key="ed_ezy_g42_rlb">Frau</persName> alles Gute.</p>
+<closer>
+<salute xml:id="s1" next="#s2" rendition="#c">In unerschütterlicher</salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">Anhänglichkeit Ihr</salute>
+<signed rendition="#c">FGr.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

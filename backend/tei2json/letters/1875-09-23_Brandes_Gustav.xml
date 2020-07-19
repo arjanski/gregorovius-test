@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067838">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Gustav Brandes in Hannover. München, 23. September 1875</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>BSB München</repository><collection>Autogr. Gregorovius, Ferdinand</collection><idno>78/8618</idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 1 ¾ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er bedauert, ihn nicht mehr in München angetroffen zu haben – so konnte er ihm leider auch nicht seine Geschwister Julius und Ottilie Elgnowski vorstellen. Wie Georg Schweinfurth nach Beendigung seiner Exepedition nach Zentralafrika, blickt er melancholisch auf seine italienischen Jahre zurück. Brandes’ Übersetzung von „Giacomo Leopardi’s Dichtungen“ (1869) hatte er schon häufig in Händen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1875-09-23" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G067703">Brandes, Gustav (1821–1880)</persName>
+<placeName key="G000618">Hannover</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">München, 23. <hi rendition="#aq">Sept<ex>em</ex>b<ex>e</ex>r</hi> 1875.</dateline>
+                    <salute>Verehrter <seg type="comment"><orig>Freund</orig><note xml:id="nurf_hx3_2mb"><p>Der aus Hannover stammende Gustav Brandes (1821–1880) hatte in Göttingen und Berlin Medizin studiert. Seit 1845 praktizierte er in seiner Heimatstadt als Chirurg, wurde aber bald auch Spezialist für Geisteskrankheiten. Seit 1847 war Brandes Stadtphysicus, kurze Zeit später wurde er Leiter des Städtischen Krankenhauses in Linden. Neben seiner Tätigkeit als Mediziner unternahm Brandes Ende der 1860er Jahre auch Studienreisen nach Florenz, Rom und Neapel und versuchte sich als Übersetzer aus dem Italienischen. Zuletzt hatte Brandes „Giacomo Leopardi’s Dichtungen“ übersetzt (Hannover: Rümpler 1869). </p><p>Gregorovius wird den in Hannover als Spezialist für Geisteskrankheiten praktizierenden Arzt Gustav Brandes (1821–1880), der Ende der 1860er Jahre Studienreisen nach Florenz, Rom und Neapel unternommen hatte und sich als Übersetzer aus dem Italienischen in Italien versuchte, in Italien kennengelernt haben. Über ihren Umgang ist nichts weiter bekannt, eine über diesen Brief hinausgehende Korrespondenz ist nicht überliefert.</p></note></seg>,</salute>
+                </opener>
+<p>ich war zu Ihnen gegangen in den <seg type="comment"><orig><orgName key="ed_e4q_hcy_1lb">Augsburger Hof</orgName></orig><note xml:id="nup1_jx3_2mb">Das Münchener Hotel Augsburger Hof befand sich in der Schützenstraße 12.</note></seg>, wo man mir zu meinem Bedauern anzeigte, daß Sie abgereist wären. So kam ich um die Freude, Sie zu mir abzuholen und <seg type="comment"><orig>mit meinen <persName key="G001203"><persName key="G001111">Geschwistern</persName></persName> bekannt zu machen</orig><note xml:id="nxf1_nx3_2mb">Gregorovius war am 1. September 1875 mit seinem Bruder Julius Gregorovius (1818–1891), seiner Halbschwester Ottilie Elgnowski (1834–1907) und deren Sohn Hermann (1860–1936) in eine Wohnung in der Barerstraße 3 zusammengezogen.</note></seg>, u<ex>nd</ex> auch diese drücken Ihnen durch mich ihr Bedauern aus.</p>
+<p>Wir sind hier bereits in stark herbstliche Zustände eingetreten: es ist regnerisch, u<ex>nd</ex> deshalb kalt. So gehe ich den langen grauen Tagen, Wochen u<ex>nd</ex> Monaten entgegen, welche ich hier verleben will, während <placeName key="G000763">Rom</placeName> u<ex>nd</ex> meine römische Epoche immer mehr vor meinem getrübten Blick versinkt. Um das zu bezeichnen, will ich ein Bild <persName key="G001592"><seg type="comment"><orig>Dr. Schweinfurts</orig><note xml:id="nryc_1y3_2mb">Der Afrikaforscher Georg Schweinfurth (1836-1925) hatte im Auftrag der Humboldt-Stiftung 1869–1871 das obere Nil-Gebiet bereist. Aus Malta und Sizilien kommend hielt er sich im März / April 1872 in Rom auf, wo ihn Gregorovius als einen Mann „von sehr angenehmem Äußeren“ kennengelernt hatte“ (siehe RT, 1.4.1872, S. 322), von dem Gregorovius drei Briefe der Jahre 1872 und 1877–1878 bewahrt hat (BSB München, NL Gregorovius, Gregoroviusiana 21).</note></seg></persName> gebrauchen, welcher <seg type="comment"><orig>von <placeName key="ed_g1g_5cy_1lb">Centralafrika</placeName> scheidend sich u<ex>nd</ex> seinen Erinnerungen dem Zustande eines Menschen vergleicht, der auf dem Rücksitz eines Wagens u<ex>nd</ex> durch <pb n="1v"/>dessen Fenster auf die Landschaft blickt, von welcher er sich entfernt</orig><note xml:id="nnzd_dy3_2mb">Die ethnographischen, botanischen und geographischen Ergebnisse seiner Afrika-Reise hatte Schweinfurth in seinem einflussreichen Hauptwerk, „Im Herzen von Afrika. Reisen und Entdeckungen im Centralen Aequatorial-Afrika während der Jahre 1869 bis 1871“, zusammengefasst (2 Bde., Leipzig: Brockhaus 1874). Über die Rückreise von seiner Expedition heißt es dort: „Ferne Reisebilder tauchten dann vor meiner Seele auf, Bilder wie aus dem kleinen Fenster im Rücksitz des Reisewagens, und sie entrollten mir die abgelaufenen Karte meines Lebens.“ (Bd. 2. Leipzig: Brockhaus 1874. S. 479; siehe http://www.archive.org/stream/imherzenvonafri00schwgoog#page/n521/mode/2up).</note></seg>. Es ist etwas Furchtbares um die Vollendung einer Lebensepoche, welche unwiederruflich historisch wird. Sie mögen denken, daß ich eine Art Patrificirung an mir erlebe, u<ex>nd</ex> wünschen muß, es wäre alles schon Stein u<ex>nd</ex> abgethan.</p>
+<p>Bitte, empfehlen Sie mich freundlich Ihrer <seg type="comment"><orig>Frau Gemalin u<ex>nd</ex> <persName key="ed_zg2_gdy_1lb">Fräulein Tochter</persName></orig><note xml:id="nrnl_jy3_2mb">Die Ehefrau von Brandes konnte nicht ermittelt werden. Gustav Brandes’ Tochter Elisabeth war Friedrich Nietzsche (1844–1900) von Malwida von Meysenbug (1816–1903) als eine mögliche (vermögende) Heiratskandidation nehegelegt worden – neben einer Elise von Bülow und Natalie Herzen (1844–1936; siehe den Brief von Friedrich Nietzsche an Elisabeth Nietzsche, 24.4.1877, in: Friedrich Nietzsche. Sämtliche Briefe. Abt. II, Bd. 5: Januar 1875 – Dezember 1879. München 1986. S. 231).</note></seg>, u<ex>nd</ex> behalten Sie mich dauernd in Ihrem Andenken. Ihre herrliche <bibl sameAs="ed_zts_gfy_1lb"><seg type="comment"><orig>Übersetzung Leopardi’s</orig><note xml:id="nf4s_zy3_2mb">Giacomo Leopardi’s Dichtungen. Deutsch von Gustav Brandes. Mit einer Einleitung über das Leben und Wirken des Dichters. Hannover: Rümpler 1869, siehe (https://books.google.de/books?id=DkunC_4XXaYC&amp;printsec=frontcover&amp;hl=de&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false).</note></seg></bibl> ziert meine Büchersammlung und oft greife ich nach ihr.</p>
+                <closer>
+<salute xml:id="s1" next="#s2" rendition="#c">Alles Gute u<ex>nd</ex> Schöne</salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">von Ihrem aufrichtig ergebenen</salute>
+<signed rendition="#right"><hi rendition="#aq">Ferdin. Gregorovius</hi>.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

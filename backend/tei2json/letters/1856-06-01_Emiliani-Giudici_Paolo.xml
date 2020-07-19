@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000393">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Paolo Emiliani-Giudici in Florenz. Rom, 1. Juni 1856</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Archivio di Stato di Firenze</repository><idno>ASFI-R-00310</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 S. – 2v, Blatt um 90° gedreht, Adr.: Al / chiarissimo Signor il Signor / Emiliani-Giudici / di Firenze</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Sein neuer Bekannter Paolo Perez hat ihn auf Emiliani-Giudicis „Storia della letteratura italiana“ (1855) hingewiesen, das ihm bei seiner Übersetzung der „Lieder des Giovanni Meli von Palermo“ (1856) hilfreich war. Er hofft auf größere Verbreitung von Melis Lyrik außerhalb Italiens. Über Hugo Glück lässt er ihm ein Exemplar zukommen. In Rom erwartet man das Erscheinen von Emiliani-Giudicis Edition der Gedichte von Giuseppina Turrisi-Colonna. Er wünscht ihn in Florenz zu treffen und sich mit ihm über die sizilianische Dichtung des Mittelalters auszutauschen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">His new acquaintance Paolo Perez drew his attention to Emiliani-Giudici’s „Storia della letteratura italiana“ (1855), which helped him in his translation of the „Lieder des Giovanni Meli von Palermo“ (1856). He hopes for a wider distribution of Meli’s poetry outside Italy. He sends him a copy via Hugo Glück. The publication of Emiliani-Giudici’s edition of Giuseppina Turrisi-Colonna’s poems is expected in Rome. He wishes to meet him in Florence and exchange ideas with him about Sicilian poetry in the Middle Ages.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1856-06-01" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001113">Emiliani-Giudici, Paolo (1812–1872)</persName>
+<placeName key="G000671">Florenz</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+<div type="writingSession">
+<opener>
+<salute rendition="#c">Onoratissimo <seg type="comment"><orig>Signor</orig><note xml:id="nz31_wgv_slb">Der sizilianische Literarhistoriker Paolo Emiliani-Giudici (1812–1872) war Professor der Ästhetik an der Accademia delle Belle Arti in Florenz. 1867 wurde er ins italienische Parlament gewählt. Er verfasste als erster eine von Gregorovius geschätzte Literaturgeschichte Italiens (Storia della letteratura italiana. 2 Bde. Florenz: Le Monnier 1855). Siehe hierzu den Brief von Gregorovius an Theodor Heyse vom <ref target="G000027">20.12.1855</ref>.</note></seg>,</salute>
+</opener>
+<p>ebbi la bella fortuna, di far qui <seg type="comment"><orig>la conoscenza del <persName key="G001483">Conte Paolo Perez</persName></orig><note xml:id="nojv_bhv_slb">Der schöngeistige Graf Paolo Perez (1822–1879) führte Gregorovius in die literarischen Kreise Roms ein.</note></seg>, e pel mezzo di lui anche di Ella, cioè del suo <bibl sameAs="G004275">libro sopra la Letteratura Italiana</bibl>. <seg type="comment"><orig>Potevo avalermene per un certo punto di critica riguardo alla mia <bibl sameAs="G004072">traduzione del famoso di lei Compatriota Giovanni Meli di Palermo</bibl></orig><note xml:id="nahv_k3v_slb">Für die Übersetzung seiner „Lieder des Giovanni Meli von Palermo“ (Leipzig 1856) hatte sich Gregorovius auf Emiliani-Giudicis Auseinandersetzung mit Meli gestützt (Storia della letteratura italiana, Bd. 2, 1855, S. 409–422). Seine Übersetzung einzelner Lieder war bereits als Vorabdruck im „Morgenblatt für gebildete Leser“ erschienen (Nr. 41, Stuttgart, München: Cotta 8.10.1854, S. 978–979). </note></seg>. Percorrendo la <placeName key="G000575">vostra Patria</placeName> ho potuto dar almeno un’occhiata alla poesia Siciliana; restai sorpreso dalle bellezze del Meli, di cui nè in <placeName key="G000599">Inghliterra</placeName>, nè in <placeName key="G000664">Germania</placeName> si è divulgata abbastantemente la fama. Scelsi le migliori poesie, ovvero tali, quali all’indole della lingua mia più facilimento si addattarono. Sperando dunque, che questa mia fatica dai Siciliani sarebbe aggradita, essendochè non esiste alcuna traduzione del Meli, io mi ho preso la libertà, Signor, di mandarle una copia. Benchè io sappia, che Ella non sa leggere la lingua mia ò poco ne fa usi, non ho voluto rinunciar a questa occasione, onde riverire in Lei un uomo dotto ed insieme Siciliano. Le porta questa <pb n="1v"/>mia il <seg type="comment"><orig><persName key="G001179">Signor Glück</persName>, libraio tedesco di Roma</orig><note xml:id="noxj_x3v_slb">Hugo Glück (†1861) war aus Burghaun nach Rom gekommen und arbeitete in der Buchhandlung Joseph Spithövers in Rom.</note></seg>, bravissimo giovane, il quale da libraio s’intende assai delle cose di literatura.</p>
+<p>Speriamo qui in Roma di veder presto uscita alla luce la di Lei <seg type="comment"><orig>edizione delle poesie della Giuseppina Turrisi-Colonna</orig><note xml:id="njzr_jjv_slb">Die sizilianische Dichterin Giuseppina Turrisi Colonna (1822–1848) hatte zuletzt 1854 ihren Gedichtband „Poesie“ (Palermo 1854) veröffentlicht.</note></seg>. Se io avessi il piacer di puoter star qualche giorno in Firenze, vorrei far gran profitto della Sua Conversazione, principalmente intorno alla poesia Siciliana del medio evo. Sono curioso di saper qualche cosa di più sopra <seg type="comment"><orig>la poesia del <persName key="G001672">Veneziano di Monreale</persName></orig><note xml:id="nngq_njv_slb">Antonio Veneziano (1543–1593) war ein sizilianischer Dichter, der seine Gedichte in Dialekt verfasste. </note></seg>, il quale si a scritta una memoria sepolcrale di tanto genio ardito. La leggevamo col Conte Perez quest’oggi, rallegrandoci bene. </p>
+<p>Io chiudo la lettera, Signor, colla speranza di trovarla un giorno à Firenze. AugurandoLe i migliori effetti degli studi suoi (unica cosa che in queste circostanze puo consolar i seguaci delle Muse), mi sottoscrivo con istima sincera</p>
+<closer>
+    <signed rendition="#c">Ferdinando Gregorovius di <placeName key="G000699">Königsberg</placeName> <lb/><placeName key="G000646">Prussiano</placeName>.</signed></closer>
+<note type="postscript">Roma <placeName key="ediarum_tcc_4nv_slb">Via della Purificazione</placeName> N<ex>umero</ex> 63. 1. Giugno. 56. </note>
+</div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000018">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an die Redaktion der Blätter für literarische
+                    Unterhaltung in Leipzig. Rom, 20. Juni 1854</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Sächsisches Staatsarchiv Leipzig</repository><collection>Bestand 21083</collection><idno>Archivalnummer 224 (10)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 4°, 1 S. – 1r aoR in einer Vignette geprägt: BATH – 2v alR, Blatt um 90° gedreht, Adr.: Der sehr geehrten Redaction / der „Blätter für literarische Unterhaltung“ / zu / <hi rendition="#aq">f<hi rendition="#aq">ran</hi>[<hi rendition="#aq">co</hi>] / Leipzig</hi>. / <hi rendition="#u" hand=""><hi rendition="#aq">Germania</hi></hi>. – 2v Siegel, Poststempel – 2v aoR Eingangs- und Beantwortungsvermerk: 1854. / <hi rendition="#aq">Rom</hi>, 20/28. <hi rendition="#aq">Juni</hi>. / <hi rendition="#aq">Gregorovius</hi>. / B. 7/XII. – Geringer Textverlust in der Adr. durch Siegelausriss</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er bittet im Falle der nur „gelegentlichen Benutzung“ seines Artikels „Ein Blick in die romanische Literatur Siciliens“ in den „Blättern für literarische Unterhaltung“ um Rücksendung seines Manuskripts, weil in Kürze seine hierzu passenden Übersetzungen einiger „Liebeslieder des Giovanni Meli von Palermo“ im „Morgenblatt für gebildete Leser“ gedruckt werden.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">In the case of his article „Ein Blick in die romanische Literatur Siciliens“ being only „occasionally in use“ in the „Blätter für literarische Unterhaltung“, he asks for his manuscript to be returned, because his translations of some of the „Liebeslieder des Giovanni Meli von Palermo“ will shortly be printed in the „Morgenblatt für gebildete Leser“ and go well with the article.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1854-06-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="G000469">Blätter für literarische Unterhaltung</orgName>
+                    <placeName key="G000712">Leipzig</placeName>
+                    <date when="1854-06-28" cert="high"/>
+                </correspAction>
+                <correspContext>
+                    <ref type="next">7. Dezember 1854</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+<opener>
+<salute rendition="#c">Der sehr geehrten Redaction <lb/>der Blätter für literarische Unterhaltung <lb/>zu Leipzig </salute>
+</opener>
+<p>danke ich ergebenst für die baldige Mitteilung betreffs meines Aufsatzes <seg type="comment"><orig>„<bibl sameAs="G003825">ein Blick in die romanische Literatur Siciliens</bibl>“</orig><note xml:id="nys3_wg4_llb">Gregorovius hatte das Manuskript seines Beitrags „Ein Blick in die romanische Literatur Siciliens“ mit seinem Brief vom <ref target="G000007">30.5.1854</ref> an die Redaktion übersandt. Er erschien in: Blätter für literarische Unterhaltung. Bd. 1. Nr. 1. Leipzig: Brockhaus 1.1.1855. S. 6–19.</note></seg> u<ex>nd</ex> erlaube mir Folgendes zu erwidern:</p>
+<p>wenn ich unter einer „gelegentlichen Benutzung“ des Artikels dies verstehen darf, d<ex>a</ex>ß derselbe so lange zurückgelegt wird bis ältere u<ex>nd</ex> dringende Manuscripte abgedruckt worden, dann aber bestimmt an die Reihe kommen soll, so bitte ich Ew. Wolgeborn dieser kleine Arbeit einen Platz in Ihrem Journale nicht zu entziehn. Mir wäre ihr Abdruck in einem vielverbreiteten Blatte wünschenswert, weil über kurz oder lang <seg type="comment"><orig>eine <bibl corresp="G003817">Übersetzung des sicilianischen Nationaldichters <hi rendition="#aq">Giovanni Meli</hi></bibl> von mir</orig><note xml:id="ny25_nh4_llb">Gregorovius’ Übersetzungen einiger „Liebeslieder des Giovanni Meli von Palermo († 1815)“ erschienen in: Morgenblatt für gebildete Leser. Jg. 48. Nr. 41. Stuttgart, München: Cotta 8.10.1854. S. 978–979 (Buchpublikation: Lieder des Giovanni Meli von Palermo. Aus dem Sicilianischen von Ferdinand Gregorovius. Leipzig: Brockhaus 1856).</note></seg> erscheinen wird.</p>
+<p>Sollte aber jener Aufsatz nur auf das Ungewiße hin in ihr Repertoire aufgenommen werden, dann muß ich auf die Ehre verzichten, ihn in den Blättern für lit<ex>erarische</ex> Unterhaltung erscheinen zu sehn. Für diesen Fall bitte ich Ew. Wolgeboren, das Manuscr<ex>ipt</ex> auf buchhändlerischem Wege gefälligst zu senden an <hi rendition="#aq"><persName key="G001203">Julius Gregorovius</persName></hi>, Adjutanten im Artillerie-Regiment zu <placeName key="G000699">Königsberg</placeName> in Preußen.</p>
+<p>Ich sehe mich in dem Falle, von Ihrer freundlich angebotenen Vermittlung an „<orgName key="G000546">Das Deutsche Museum</orgName>“ keinen Gebrauch machen zu können.</p>
+<p>Schließlich möchten Sie die unfrankirte Übersendung des Manuscripts entschuldigen; ich frankirte dasselbe nicht einmal, weil dies die sicherste Art ist, größere Briefe an Ort u<ex>nd</ex> Stelle außer <placeName key="G000690">Italien</placeName> zu befördern, dann weil ich der Annahme des Artikels gewiß zu sein glaubte.</p>
+<closer>
+<salute rendition="#right">Mit großer Hochachtung habe ich die Ehre mich ergebens zu empfehlen</salute>
+<signed rendition="#right">Ferd. Gregorovius</signed>
+<dateline>Rom d<ex>en</ex> 20 Juni 1854.</dateline>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

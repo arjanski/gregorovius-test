@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000226">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an A. Hehlenbeck in Gotha. Rom, 24. Februar 1865</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>BSB München</repository><collection>Autogr. Gregorovius, Ferdinand</collection><idno>14h1/473 (Aquisitionsnummer)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>BSB München</institution><collection>Autogr. Gregorovius, Ferdinand</collection><idno> <idno type="shelfmark"/> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Sein Schreiben ist ihm durch Cotta zugegangen. Praktische Reiseempfehlungen für Corsica kann er nicht geben, weil er seit 1852 nicht mehr dort war. Er rät bei mangelnden Französisch- und Italienischkenntnissen von einer Reise ab. An deutschen Werken über den korsischen Freiheitskämpfer und Volkshelden Sampièro kennt er nur die dramatischen Bearbeitungen von Friedrich Halm (1857) und Emil Hopffer (1864). Er würde eher eine epische Behandlung der Biografie Sampièros empfehlen, deren Ausführung sich wohl nur vor Ort bewerkstelligen lässt. Er kann sich an ein Zusammentreffen in dem bei Königsberg gelegenen Gartenlokal Böttchershöfchen erinnern. Ludwig Walesrode bittet er zu grüßen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">His letter reached him through Cotta. He cannot give practical travel recommendations for Corsica, because he has not been there since 1852. He advises against travelling there if he does not speak French or Italian. Concerning German works about the Corsican freedom fighter and folk hero Sampièro, he only knows the dramatic arrangements by Friedrich Halm (1857) and Emil Hopffer (1864). He would rather recommend an epic approach the biography of Sampièro, which can probably only be accomplished on site. He can remember a meeting in the garden restaurant Böttchershöfchen near Königsberg. He asks him to give his regards to Ludwig Walesrode. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1865-02-24" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001255">Hehlenbeck, A. (-)</persName>
+<placeName key="G000680">Gotha</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi>, 24 <hi rendition="#aq">Februar</hi> 1865.</dateline>
+                    <salute rendition="#c">Sehr verehrter Herr,</salute>
+                </opener>
+<p>ich habe <seg type="comment"><orig>Ihr freundliches Schreiben durch die <orgName key="G000523">Buchhandlung Cotta</orgName> erhalten</orig><note xml:id="ncpx_qfw_2mb">Als Beilage zum Brief von Cotta an Gregorovius vom 1.2.1865, die Gregorovius mitgeteilt hatte: „Anliegenden Brief erhielten wir von Hr. A Hr. A. Hehlenbeck$ in Gotha zur Weiterbeförderung an Ihre Adresse.“ (DLA Marbach, Cotta-Archiv, Cotta-Briefkopierbuch V, S. 760). Über den Empfänger des Briefs konnte nichts ermittelt werden, die Lesung des Namens beruht vermutlich auf einem Lesefehler des Verlagsmitarbeiters.</note></seg>, und sage Ihnen für die mir darin ausgesprochenen Gesinnungen aufrichtigen Dank, obwol der Wert meiner Schriften weit unter so wolwollenden Ansichten zu stehen kommt. Ihr Brief hat mich an eine längst vergangene Epoche erinnert, wo ich im letzten Scheiden meiner Jugend <placeName key="G000710">jenes Heldeneiland</placeName> durchwanderte, dem ich mehr u<ex>nd</ex> dauernderes verdanke, als <bibl sameAs="G003106">ein Buch</bibl>. Es sind nun bald 13 Jahre, daß ich dort wanderte, u<ex>nd</ex> seither habe ich nur ab u<ex>nd</ex> zu die Insel Corsica vom Schiff aus gesehen, wenn ich durch das <placeName key="G000790">Tyrrhenische Meer</placeName> nach <placeName key="G000725">Marseille</placeName> fuhr. Sie entnehmen daraus, daß ich Ihnen wenig Aufschlüße über die jetzigen praktischen Mittel u<ex>nd</ex> Wege geben kann, welche das Reisen dort erleichtern. Ich würde Ihnen nicht einmal zu dieser Expedition raten, <pb n="1v"/>wenn Sie nicht gut im Stande sind, Strapazen in einem culturlosen Lande zu ertragen. Zu meiner Zeit war das Leben auf Corsica sehr billig; man verköstigte sich bequem mit 3 Franks per Tag; heute sind die Preise überall gestiegen.</p>
+<p>Deutsche finden Sie dort kaum; doch würde ich Ihnen, im Falle Sie reisen sollten, gern Empfehlungen an namhafte <unclear reason="illegible" cert="low">Corseè</unclear> geben. Wenn Sie des Französischen mächtig sind, werden Sie mit dieser Sprache sich forthelfen können; sprechen Sie weder diese noch die italienische, so wird Ihre Reise ziemlich fruchtlos sein. </p>
+<p>Ich kenne keine deutschen <seg type="comment"><orig>Werke über die Epoche<persName key="G001566"> Sampiero’s</persName></orig><note xml:id="nykt_wfw_2mb">Gregorovius hatte über den korsischen Freiheitskämpfer und Volkshelden Sampièro di Bastelìca, Herr von Ornano, auch Sampiero d’Ornano oder Sampiero Corso (1497–1567) im Februar 1853 unter dem Titel „Sampiero. Ein Heldenbild aus der Geschichte der Corsen“ einen Artikel in der „Allgemeinen Zeitung“ publiziert, der leicht verändert in sein „Corsica“ (1854) einging (Bd. 1. S. 34–53).</note></seg>. <seg type="comment"><orig>Dramatisch hat den <bibl sameAs="G004291">Stoff behandelt</bibl> <persName key="G001228">Halm</persName></orig><note xml:id="nnnz_1gw_2mb">Friedrich Halm (1806–1871): Sampiero. Trauerspiel in fünf Akten. Wien: Carl Gerold’s Sohn 1857.</note></seg>, u<ex>nd</ex> in jüngster Zeit <seg type="comment"><orig>Höpfer in <placeName key="G000636">Berlin</placeName>, welcher mir sein <bibl sameAs="G004299">Gedicht</bibl></orig><note xml:id="njvl_cgw_2mb">Emil Hopffer (1838–1877): Sampiero. Trauerspiel in fünf Aufzügen. Berlin: Hoffschläger 1864.</note></seg> zuschickte.</p>
+<p><pb n="2r"/>Mir scheint die Geschichte jenes Helden mehr für die Entwicklung eines Epos, als eines Dramas geeignet – auch läßt sich nur dort die wunderbare Scenerie von Meer u<ex>nd</ex> Land verwerten. Sollten Sie sich an eine solche Dichtung machen, so würde ich Ihnen zu einem Stoff von so mannhafter Art nur Glück wünschen können. </p>
+<p>Ich erinnere mich Ihrer noch wol, aus meiner <placeName key="G000699">Königsberger</placeName> Epoche, wo, wenn ich nicht irre, ich Sie (in der Blütezeit <seg type="comment"><orig><persName key="G001696"><hi rendition="#aq">Walesrode</hi>’s</persName></orig><note xml:id="nnzd_2gw_2mb">Gegen den Königsberger Schriftsteller und Journalist Ludwig Walesrode (1810–1889) wurden wegen seiner öffentlich geäußerten, liberalen Gesinnung Gefängnisstrafen verhängt. Bevor Gregorovius nach Italien ging, war er ein enger Freund von ihm. Danach wechselte Gregorovius nur noch wenige, zunehmend distanzierte Briefe mit ihm (siehe Ferdinand Gregorovius: Briefe nach Königsberg. Hrsg. von Dominik Fugger und Nina Schlüter. München: Beck 2013).</note></seg>) zu <seg type="comment"><orig>Böttchershöfchen</orig><note xml:id="nthp_ggw_2mb">Ein Gartenlokal vor der Toren Königsbergs; es war seit der 1840er Jahren eine weithin bekannte bürgerliche Ressource, in der sich die Liberalen zu politischen Vorträgen versammelten.</note></seg> reden oder Gedichte vortragen hörte. Sollte <hi rendition="#aq">Walesrode</hi> in Ihrer Nähe sein, so bitte ich, einen herzlichen Gruß von mir an ihn auszurichten.</p>
+                <closer>
+<salute rendition="#c">Mit aufrichtiger Hochachtung <lb/>Ihr ergebenster</salute>
+<signed rendition="#right"><hi rendition="#aq">Gregorovius</hi></signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

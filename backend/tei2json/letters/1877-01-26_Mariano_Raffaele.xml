@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000217">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Rom. München, 26. Januar 1877</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt></titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+<p xml:lang="de">Sein Brief vom 12. Januar 1876 hat Mariano offenbar nicht erreicht. Trotz seiner Krankheit plant er, am 1. Februar 1877 über Verona, in Florenz und in Modena nach Rom zu reisen. Mariano soll bei der Ehefrau von Luigi Campo Fregoso nach Zimmern in der Via Ripetta fragen; möglicherweise sind diese noch von Joseph Georg Stroßmayer besetzt. Er soll ihm noch nach München oder über Cesare Foucard nach Modena schreiben. Gregorovius hat Domenico Guglielmi seine „Apulischen Landschaften“ (1877) geschickt, aber  auch auf einen zweiten Brief keine Antwort erhalten. Grüße an Karl Lindemann-Frommel.</p>
+<p xml:lang="it"/>
+<p xml:lang="en"/>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1877-01-26" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Monaco, 26. Gennaro 77</dateline>
+                    <salute rendition="#c">Caro amico Mariano,</salute>
+                </opener>
+<p>da una lettera del nostro <persName key="G001375">Lindemann</persName> diretta al <persName key="G001376">figliuolo</persName> ho inteso, che non le capitò <seg type="comment"><orig>la mia del 12. del m<ex>ese</ex> c<ex>orrente</ex>,</orig><note xml:id="njzp_hsl_fmb">Gemeint ist der Brief von Gregorovius an Mariano, vom <ref target="G000216">12.1.1877</ref>.</note></seg> cui acchiusi quella del <seg type="comment"><orig>suo corrispondente</orig><note xml:id="nlql_lq3_1mb">Nicht ermittelt.</note></seg> in <placeName key="G000892">Tübingen</placeName>.</p>
+<p>L’impostai qui il giorno detto sopra, insieme con un’altra diretta alla signora <persName key="G001215">Grunelius</persName>. Lo smarrirsi della lettera è cosa, che mi duole, tanto più che lei punisce una mancanza non mia col silenzio tutto suo.</p>
+<p>Ora mi rallegro, di poter communicarle, che la mia partenza per Roma è fissata per il primo del febbraio. Benchè m’ in- <pb n="1v"/>cresca di dover staccarmi dai <persName key="G001111"><persName key="G001109"><persName key="G001203">miei</persName></persName></persName> ed abbandonare la quiete quasi perfetta della mia casa, tuttavia cedo alla necessità impostarmi meno dal vivissimo desiderio di rivedere Roma, che dallo stato attuale della mia salute. Essa è scossa a segno, che vi è<seg type="comment"><orig> <foreign xml:lang="Lat">periculum in mora</foreign></orig><note xml:id="nr1l_mq3_1mb">„Gefahr bei Verzögerung“, nach Titus Livius: Ab Urbe Condita, Liber XXXVIII, [25].</note></seg>, massimamente per cagion degli occhi, che non ponno guarirsi se non muto aria.</p>
+<p>Credo di poter giungere in Roma<seg type="comment"><orig> verso i 10 del mese prossimo</orig><note xml:id="nffp_nq3_1mb">Am 1. Februar verließ er München und reiste über Verona, Mantua, Modena, Bologna und Florenz nach Rom, wo er am 11. Februar eintraf (siehe RT, Rückkehr nach Rom im Jahre 1877, S. 373–374). </note></seg>, dopo qualche fermata, fatta per via, come in <placeName key="G000895">Verona</placeName>, <placeName key="G000729">Modena</placeName>, e <placeName key="G000671">Firenze</placeName>. Preferirei di entrar ovvero rientrare <pb n="2r"/>subito nella mia casa in <placeName key="ediarum_njc_s3x_qlb">Ripetta</placeName>, invece di prender prima stanza da <seg type="comment"><orig><orgName key="ed_qxd_z3x_qlb">Molaro</orgName></orig><note xml:id="nl2l_4q3_1mb">Geführt von Ercole Molaro.</note></seg>, ed è perciò che mi permetto la preghiera, di recarsi costì presso <seg type="comment"><orig>la signora <persName key="G001015">Campofregoso</persName></orig><note xml:id="ny4j_pq3_1mb">Die Ehefrau von Conte Luigi Campo Fregoso (1844–1908), Eigentümer der Zimmer in der Via Ripetta 108, in denen sich Gregorovius u.a. auch im Sommer 1876 aufhielt (siehe den Brief von Gregorovius an Raffaele Mariano, 8.5.1876). Da dort kein Zimmer mehr frei war, organisierte Mariano eine Wohnung für Gregorovius in der Via Gregoriana 54 bei den „Schwestern Diamanti“ (siehe RT, Rückkehr nach Rom im Jahre 1877, S. 374).</note></seg>, di portarle i miei saluti, di darle parte del mio prossimo arivo, e di domandarla, se mi vuol ricevere in casa sua, come altre volte. Può darsi, che le camere attualmente stanno occupate dallo <seg type="comment"><orig><persName key="G001626">Strossmayer</persName></orig><note xml:id="nid3_qq3_1mb">Der kroatische Bischof von Bosnien und Syrmien und Föderalist Joseph Georg Stroßmayer (1815–1905).</note></seg>: però anche nel caso di si, vi sarà posto per me nelle camere attigue.</p>
+<p>Attendo la sua risposta ancora in Monaco, dove facilmente puotrà raggiungermi alla vigilia della mia <pb n="2v"/>partenza: sepperò il tempo non bastasse, avrà la bontà di farmela trovare in Modena presso <persName key="G001134">Foucard</persName>.</p>
+<p>Nulla ho inteso del <persName key="G001221">Guglielmi</persName>, e ciò altamente mi sorprende. Avendogli mandato il volume dei <bibl corresp="G003342">Wanderjahre</bibl> già due mesi fa, e non avendone avuto riscontro di sorta, gli scrissi un’altra lettera, anche questa senza farlo uscire dal suo silenzio. E così non sò che dirmene.</p>
+<p>I miei la salutano caramente. Faccia la mia parte presso tutti i membri di casa <hi rendition="#aq">Grunelius</hi>.</p>
+                <closer>
+                    <salute>Saluto il Lindemann. Dunque, caro Mariano, fra poco saremo riuniti a formare il solito triumvirato di buona amicizia.</salute>
+                    <signed rendition="#c">FGregorovius.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

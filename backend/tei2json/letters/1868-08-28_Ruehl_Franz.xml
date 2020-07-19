@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000272">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Franz Rühl in Mailand. Lindau, 28. August 1868</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Universitäts- und Landesbibliothek Bonn</repository><collection>NL Franz Rühl</collection><idno>S 2606 (3)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S. – 1r + 2r aoR geprägt: ROMA</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 55 Mappe 336–337 (nach D) </idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 274–275</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er hat Wilhelm von Giesebrecht im August in Kufstein getroffen, doch kann dieser Rühl keine Anstellung in Aussicht stellen. Giesebrecht glaubt, dass in Preußen Gymnasiallehrer gesucht werden. Er soll sich in dieser Angelegenheit direkt nach Berlin wenden, weil er selbst dort keine Kontakte besitzt. Möglicherweise weiß Georg Gottfried Gervinus hier Rat. Seine Bemühungen für Rühl in Rom eine Stellung zu finden, haben sich zerschlagen; er hält dessen Projekt in Messina für unrealistisch und die italienischen Kontakte insgesamt für wenig aussichtsreich. Er könnte das Gesamtregister zu seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) übernehmen. Anfang Oktober ist er zurück in Rom. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000714">Lindau</placeName><date when="1868-08-28" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001562">Rühl, Franz (1845–1915)</persName>
+<placeName key="G000721">Mailand</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">Lindau, 28. <hi rendition="#aq">Aug<ex>ust</ex></hi> 68.</dateline>
+<salute rendition="#c">Lieber Herr Rühl,</salute>
+</opener>
+<p>meine Antwort auf Ihren Brief wird Sie hoffentlich in <hi rendition="#aq">Mailand</hi> richtig erreichen.</p>
+<p>Ich habe Ihre Wünsche dem <persName key="G001173">Prof<ex>essor</ex> Giesebrecht</persName> in <placeName key="G000711">Kufstein</placeName>, wo ich ihn <?oxy_comment_start author="Angela Steinsiek" timestamp="20190108T135133+0100" comment="Gregorovius war am 20. August 1868 mit Wilhelm von Giesebrecht (1814–1889) und dessen Onkel, dem Historiker und Dichter Ludwig Giesebrecht (1792–1873), in Kufstein zusammengetroffen, wo er bis zum 24. August geblieben war (siehe RT, 20.9.1869, S. 252)."?>besuchte<?oxy_comment_end?>, mitgeteilt, u<ex>nd</ex> er hat sich dahin ausgesprochen. Auf der von Aspiranten überfüllten Bibl<ex>iothek</ex> <placeName key="G000734">Münchens</placeName> ist kein Platz offen.</p>
+<p>Die bestehenden Verhältniße des Schulreglements in Baiern geben Ihnen keine Aussicht auf eine Stellung an irgend einem Gymnasium; außerdem würden Sie sich im günstigsten Falle nochmals einem Examen zu unterziehen haben. </p>
+<p>Er meint dagegen, d<ex>a</ex>ß in <placeName key="G000646">Preußen</placeName> Gymnasiallehrer gesucht werden. Vielleicht wenden Sie sich direkt nach <placeName key="G000636">Berlin</placeName>, wenn sie dort Verbindungen haben – ich besitze deren für solchen Fall keine. </p>
+<p>Oder wäre es nicht praktisch, wenn Sie <hi rendition="#aq"><persName key="G001168">Gervinus</persName></hi> in dieser Angelegenheit zu Rate zögen?<?oxy_comment_start author="Angela Steinsiek" timestamp="20190108T135148+0100" comment="Der Gregorovius befreundete Georg Gottfried Gervinus war Professur für Geschichte und Literatur in Heidelberg."?></p><?oxy_comment_end?>
+<p>Meine Hoffnungen, für Sie in <placeName key="G000763">Rom</placeName> eine Stellung zu ermöglichen, sind, wie Sie wissen, gescheitert; u<ex>nd</ex> da dort Alles Derartige auf dem Zufalle steht, so kann ich nicht wissen, <pb n="1v"/>ob sich für den Winter etwas Praktisches realisieren ließe.</p>
+<p>Indem ich überdenke, was Sie mir in Betreff des Projectes von <placeName key="G000727">Messina</placeName> schrieben, bin ich der Ansicht, daß dieses mehr als zweifelhaft sei, zumal es sich hier um ein italienisches Haus handelt, u<ex>nd</ex> Italiener sind stets oder doch nur zu häufig unreell. Besser wäre es, dies Project ganz fallen zu lassen, als sich Verwirrungen auszusetzen, die wahrscheinlich nicht ausbleiben werden.</p>
+<p>Ein zweites Jahr in Rom würde Ihnen ohne Frage sehr ersprießlich sein, aber Sie vielleicht in Ihrer heimischen Carriere behindern. Ein Sich-Durchkämpfen ohne hinreichende Mittel ist immer hart. Ich kenne dies vollkommen aus eigener Erfahrung. – Auch an Aufträge oder Beschäftigung für Sie durch die <orgName key="G000466">Historische Commission in München</orgName> wurde gedacht; aber Giesebrecht selbst nannte dies einen Sklavendienst, u<ex>nd</ex> für jetzt ungewiß.</p>
+<p>So stehen die Sachen hier zu <pb n="2r"/>Lande, daß ich leider keinen Rat weiß. Eine bessere Adresse, mich an sie zu wenden, als Giesebrecht selbst ist, wüßte ich nirgend weiter.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190108T135219+0100" comment="Giesebrecht war 1862 auf eine Professur für Geschichte nach München berufen worden und seitdem (bis 1889) zudem beständiger Sekretär der Historischen Kommission."?> <?oxy_comment_end?></p>
+<p>Ich hoffe von Ihnen zu hören; kann aber keinen Ort meines Bleibens oder meiner Adresse angeben, ehe ich nach Rom (anfangs October) zurückkehre. Ich bin in steter Bewegung. Hier suche ich Ruhe u<ex>nd</ex> Erholung, weiß aber nicht wie lange ich hier Stich halte.</p>
+<p>Es kam mir der Gedanke: ob Sie im künftigen Jahre die Anfertigung des genauen <bibl sameAs="G003434">Index meiner Gesch<ex>ichte</ex> der Stadt Rom</bibl> übernehmen wollten – wofür ich selbst nicht Zeit noch Kraft habe. Dieser Index würde als separates Heft erscheinen <?oxy_comment_start author="Angela Steinsiek" timestamp="20190115T155041+0100" comment="Die Cotta’schen Buchhandlung dankte Gregorovius am 2.1.1869 für dieses Angebot und stimmte einem separat gedruckten Gesamtregister zu: „Zugleich eröffneten Sie uns die Aussicht auf eine General-Index zu dem in Jahresfrist vollendeten Werke, für dessen Zugehn wir Ihnen außerordentlich dankbar sind. Daß Dererselbe in Form eines Sparatheftes zu behandeln sein wird, hat unseres unmasgeblichen Dafürhaltens Nichts gegen sich.“ (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VII, 17)"?>müßen<?oxy_comment_end?>, nach Vollendung des Drucks des letzten Bandes. Ich denke Cotta diesen Vorschlag zu machen; er würde dann demjenigen, welcher sich dieser Mühe unterziehen will, ein entsprechendes Honorar geben. Dies ein Vorschlag zur Güte, u<ex>nd</ex> nichts mehr.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190108T135233+0100" comment="Rühl übernahm diese Aufgabe schließlich."?></p><?oxy_comment_end?>
+<closer>
+<salute xml:id="s1" next="#s2" rendition="#c">Mit den freundlichsten Grüßen</salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">Ihr ergebener</salute>
+<signed rendition="#right">Gregorovius</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

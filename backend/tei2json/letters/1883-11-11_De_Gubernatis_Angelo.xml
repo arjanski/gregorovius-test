@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000010">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Angelo De Gubernatis in Florenz. München, 11.
+                    November 1883</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLWeb"/>
+                    <idno type="URLXML"/>
+                    <idno type="URLText"/>
+                    <idno type="ID"/>
+                </idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Florenz, Biblioteca Nazionale Centrale (= BNCF)</repository>
+                        <collection>Carteggio De Gubernatis</collection>
+                        <idno><idno>66, nr. 57 (2)</idno></idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 8°, 3 S.</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Ablehnung der Mitwirkung an der von Angelo De Gubernatis gegründeten „Rivista internazionale“. Aktuell widmet er sich einer Neuauflage seiner „Geschichte der Stadt Rom im Mittelalter“.</p>
+                <p xml:lang="it">Il rifiuto della partecipazione alla „Rivista internazionale“
+                    fondata da Angelo De Gubernatis. Attualmente si è dedicato a una nuova edizione
+                    della sua „Geschichte der Stadt Rom im Mittelalter“.</p>
+                <p xml:lang="en">Rejection of participation in the „Rivista internazionale“ founded
+                    by Angelo De Gubernatis. He is currently dedicating himself to a new edition of
+                    his „Geschichte der Stadt Rom im Mittelalter“</p>
+            </abstract>
+            <correspDesc>
+<correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1883-11-11" cert="low"/>
+</correspAction>
+<correspAction type="received">
+<persName key="G001074">De Gubernatis, Angelo (1840–1913)</persName>
+<placeName key="G000671">Florenz</placeName>
+</correspAction>
+</correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Monaco, 11. Nov. 83.</dateline>
+                    <salute>Chiarissimo Signor Conte,</salute>
+                </opener>
+                <p>l’offerta di partecipare alla Rivista internazionale da lei progettata, è apprezzata da me quale grandissima testimonianza di simpatia a me professata da un uomo che da lungo tempo altamente stimo. Non occorre dire, che sarei lietissimo di corrispondere a cosi gentile chiamata, se le circostanze me lo permettessero. Pur troppo non mi trovo in grado, di mettermi nel numero di coloro, che concorreranno a prender parte alla sua opera. Ho dovuto rifiutare <pb n="1v"/> tante offerte fattemi da redattori di riviste tedesche quanto estero, ristringendo la mia povera cooperazione ad una sola che è quella del Brockhaus, „Unsere Zeit“, e nemeno mi porta il tempo a disimpegnarmi degli obblighi contratti con essa. <lb/> <lb/>Se accettassi suo invito, offenderei più di una persona, senza neppure soddisfar lei. Sono veterano, e stanco da aver ogni diritto ad una honesta missio. Il tempo che mi avanza, lo dedico a lavori che mi premono, mentre <pb n="2r"/> attualmente ritocco la storia di Roma medioevale per una nuova edizione, ed è lavoro questo lungo e faticoso. <lb/> <lb/>Per ciò la prego a voler tenermi per iscusato, se malincuore, declino una gentilissima offerta. Faccio voti che l’impresa trovi quella riuscita, che al parer mio le assicura il nome De Gubernatis. Non dispero di poter stringerle la mano, quando (forse nel Marzo avvenire) passerò per Firenze.</p>
+                <closer>Tutto suo Servitore <signed>Ferdin. Gregorovius. </signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

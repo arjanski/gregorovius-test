@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_znw_2hs_tlb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Giuseppe Campori in Modena. München, 24. Dezember 1880</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free">
+                <licence target="http://creativecommons.org/licenses/by/4.0/">
+                    Creative Commons Attribution 4.0 International (CC BY 4.0)
+                </licence>
+            </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Bologna, Biblioteca dell’Archiginnasio</repository><collection>fondo speciale Campori</collection><idno>Cart. IV, n. 54</idno></msIdentifier>
+<physDesc>
+<p>1 VK</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de"> Kondolenzschreiben zum Tod von Cesare Campori.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1880-12-24" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="ed_scx_mhs_tlb">Campori, Giuseppe (1821-1887)</persName>
+<placeName key="G000729">Modena</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<salute rendition="#c">All’illustre Signor Marchese <seg type="comment"><orig>Giuseppe Campori</orig><note xml:id="npbj_p1v_5lb">Der Marchese Giuseppe Campori (1821–1887) war ein Schriftsteller, Politiker und Kunsthistoriker, der einer illustren Modeneser Familie entstammt. Ab 1846 arbeitete er am „Archivio storico italiano“ mit. Campori veröffentlichte ein wichtiges kunsthistorisches Werk zu den Künstlern der Este: Gli artisti italiani e stranieri negli Stati Estensi (Modena: tip. della R. D. Camera 1855). 1860 stieg er neben seinen wissenschaftlichen Tätigkeiten in die Politik ein und saß im Parlament des vereinigten Königreiches. Gregorovius traf Campori in Modena (siehe RT, 31.3.1875, S. 348). Es ist ein weiterer Brief von Gregorovius an Campori erhalten (3.2.1881), jedoch kein Gegenbrief.</note></seg> di Modena</salute>
+</opener>
+<p rendition="#c"><hi rendition="#mPrint">FERDINAND GREGOROVIUS</hi></p>
+<p rendition="#c"><seg type="comment"><orig>condolendosi dell’irreparabile perdita del <persName key="ed_ufh_t1v_5lb">fratello</persName> distinto</orig><note xml:id="nejm_lkp_vlb">Cesare Campori (1814–1880), der ältere Bruder Giuseppes, war ein Dichter und Historiker. Er war am 5. September 1880 in Mailand völlig unerwartet auf einem Historikerkongreß verstorben. Laut Römischen Tagebuch war er Präsident der Akademie der Wissenschaften und schönen Künste in Modena (siehe RT, 31.3.1875, S. 347), ist aber als solcher nicht nachweisbar. Siehe zu ihm auch den Brief von Gregorovius an Giuseppe Campori vom 3.2.1881. Bekannt sind die beiden Brüder Campori auch als Sammler von Handschriften und Autographen, die nach ihrem Ableben an die Heimatstadt übergingen.</note></seg>, che il mondo letterario compianse, offre i suoi ommaggi, saluti e auguri</p>
+                <closer>
+<dateline rendition="#c">Monaco 24. Dic<ex>em</ex>bre 1880.   </dateline>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

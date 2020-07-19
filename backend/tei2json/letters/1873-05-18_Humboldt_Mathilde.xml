@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000354">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Mathilde von Humboldt in Ottmachau. Rom, 18. Mai 1873</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>SBB-PK</repository><idno>derzeit Biblioteka Jagiellońska Krakau</idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 1 ¾ S.</p>
+<p> Beischluss zu einem Brief von Auguste Lindemann-Frommel an Mathilde von Humboldt</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 1 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 2–3 (nach h1)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Als Beischrift zu einem Brief von Auguste Lindemann-Frommel dankt er für die übersandte Fotographie Alexander von Humboldts nach dessen Selbstbildnis von 1814. Elisabeth Baronesse von Wrangell will im Winter wieder nach Rom kommen. Zu Ostern war er in Terracina und am Cap der Circe. Er wird im Sommer zusammen mit Karl Lindemann-Frommel wieder nach Traunstein gehen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1873-05-18" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001304">Humboldt, Mathilde von (1830-1897)</persName>
+<placeName key="G000746">Ottmachau</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c"><hi rendition="#aq">Rom</hi>, 18. <hi rendition="#aq">Mai</hi> 1873.</dateline>
+                    <salute>Verehrtes Fräulein, </salute>
+                </opener>
+<p>diese Zeilen lege ich dem Briefe von <persName key="G001374">Frau Lind<ex>emann</ex></persName> an Sie bei, und schicke Ihnen darin viel herzliche Grüße und ebensovielen Dank für Ihren letzten liebenswürdigen Brief mit so köstlicher Beilage. <seg type="comment"><orig>Dies Porträt <persName key="G001301">Humboldts</persName></orig><note xml:id="ny32_4m2_tlb">Ein Foto Alexander von Humboldts (1769–1859) nach einem Porträt von Auguste David hat sich im Nachlass von Gregorovius erhalten (BSB München, NL Gregorovius, Gregoroviusiana 30b, 44). Dabei handelt es sich um eine Fotographie nach dem berühmten Selbstbildnis Alexander von Humboldts „von mir selbst im Spiegel“ aus Paris 1814, von dem Charles N. Lemercier (1797–1854) eine Lithographie anfertigte (siehe: <ptr target="https://www.avhumboldt.de/index.php/nggallery/image/102?p=8442"/>https://www.avhumboldt.de/index.php/nggallery/image/102?p=8442 – hier auch eine Auswahl weiterer Portraits Alexander von Humboldts).</note></seg> ist gar anziehend, weil wir doch daran gewöhnt sind, ihn als den Nestor im Reich des Wissens, ja wie ein verkörpertes Jahrhundert uns vorzustellen. Nun tritt uns eine jugendliche Erscheinung entgegen mit einem Antlitz unverkümmerter Blüte, auf welchem nichts als die hohe u<ex>nd</ex> klare Stirn dem weltumfaßenden Denker zu erkennen gibt. Wenn ich sagen soll, was mich am meisten in diesem Angesicht, bei schon 45 Jahren der Arbeit, des Denkens und der Wanderung überrascht, so ist es das Mühelose und ewig Heitere auf ihm – ein Angesicht wie nur Menschen von Gottes Gnaden mitbekommen, die Sonnenkinder, die sieghaft geborenen, auf deren Stirn <seg type="comment"><orig>Pallas <persName key="G004744">Athene</persName></orig><note xml:id="nu1v_vm2_tlb">Die griechische Göttin der Weisheit, der Strategie und des Kampfes.</note></seg> <pb n="1v"/>nicht den Schweißtropfen des Grüblers u<ex>nd</ex> Pedanten duldet, noch die Runenschrift, die dort ihm die Wissensängste eingraben Furche um Furche – sondern es ist alles kummerlos und klar, und milde, und in widerspruchsloser Ruhe seines Selbsts bewußt u<ex>nd</ex> froh.</p>
+<p>Warum kommen Sie nicht wieder einmal nach Rom? Wir gedenken Ihrer hier oft u<ex>nd</ex> gern. <seg type="comment"><orig><persName key="G001717"><hi rendition="#aq">Fräulein v<ex>on</ex> Wrangel</hi></persName>, so höre ich, kommt zum Winter</orig><note xml:id="nv15_d42_tlb">Elisabeth Baronesse von Wrangell (1842–1926) hatte Mathilde von Humboldt (1830–1897) Ende 1870 bis Ende Mai 1871 auf ihrem Romaufenthalt begleitet. Sie war bereits Ende März 1873 in Rom (siehe Peter K. W. Freude: Karl Lindemann-Frommel. Ein Malerleben in Rom. Monographie und Werkverzeichnis seines graphischen und malerischen Schaffens. Murnau am Staffelsee 1997. S. 66, FN 224).</note></seg>: das ist ja <seg type="comment"><orig>gute Reisegelegenheit</orig><note xml:id="nhh4_zr2_tlb">Nach dem folgenden Brief von Mathilde von Humboldt aus Reichenhall vom 14. Juli 1873 trafen trafen sich beide im Juli in dieser Region wieder (SBB-PK, derzeit Biblioteka Jagiellońska Krakau).</note></seg>.</p>
+<p>Wir lebten hier still fort, unbekümmert um das Menschentreiben, <hi rendition="#aq"><foreign xml:lang="ita"><seg type="comment"><orig>questa stolta favola del mondo</orig><note xml:id="nxhq_242_tlb">Ital. etwa: diese dumme Treiben der Welt.</note></seg></foreign></hi>. Ich war um Ostern ein wenig <seg type="comment"><orig>am Meer bei <placeName key="G000883"><hi rendition="#aq">Terracina</hi></placeName></orig><note xml:id="nemw_g42_tlb">Am Tyrrhenischen Meer, wo Gregorovius die „Odyssee“ las (siehe RT, 28.6.1873, S. 331).</note></seg> und auch <seg type="comment"><orig>auf dem <hi rendition="#aq"><placeName key="G000731">Cap der Circe</placeName></hi></orig><note xml:id="ngdg_342_tlb">Unter diesem Titel publizierte Gregorovius seine Reiseschilderung in: Beilage zu Nr. 168–169 der AZ. Augsburg: Cotta 17.–18.6.1873. S. 2569–2570 und S. 2586–2587. Aufgenommen in die vierte Auflage des ersten Bandes seiner „Wanderjahre in Italien“, „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1874).</note></seg>: wo eine wundervolle Einsamkeit und Meeresweite mich entzückten.</p>
+<p>Frau L<ex>indemann</ex> wird Ihnen mehr schreiben von sich oder Personen, u<ex>nd</ex> d<ex>a</ex>ß <seg type="comment"><orig><persName key="G001375">Lindemann</persName> und ich wieder nach <placeName key="G000888">Traunstein </placeName>in Bayern gehen</orig><note xml:id="negr_l42_tlb">Gregorovius hielt sich zu einem Kuraufenthalt vom 9. Juli bis 5. September 1873 in Traunstein auf, neben Karl Lindemann-Fommel (1819–1891) kam auch Adolf Friedrich Graf von Schack (1815–1894) aus München (siehe RT, Sommer des Jahres 1873, S. 332). </note></seg>, von wo ich Ihnen schreiben werde.</p>
+<p>Bitte, empfehlen Sie mich voll Ehrerbietung Ihrer <persName key="G001304">Frau Mutter</persName>, und leben Sie wol und heiter.</p>
+<closer>
+<salute rendition="#right">Treu ergeben</salute>
+<signed rendition="#right">FGregorovius</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

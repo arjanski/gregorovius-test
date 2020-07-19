@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000110">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Theodor Heyse in Florenz. Rom, 2. Oktober
+                    1858</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Archiv der BBAW</repository><collection>NL Theodor Heyse</collection><idno>(7)</idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 2 S. </p>
+<p>Brief von Gregorovius an Francesco Ventura mit einem Wechsel </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 84, Mappe 6 (Alfred Löckle nach
+                                        H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach D)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Briefe von Ferdinand Gregorovius an Theodor Heyse. In: Mittheilungen aus dem Litteraturarchive in Berlin 1899. Berlin: Litteraturarchiv-Gesellschaft 1899. S. 194–195 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er ist erst gestern nach Rom zurückgekehrt, weil er auf dem Dampfer Hermus war, der den Dampfer Aventin gerammt und versenkt hat. Er musste also zunächst nach Livormo zurück. Das von Heyse entliehene Geld lässt er ihm zukommen. Das Geld von Heinrich von Brunn kann er ihm bei Gelegenheit zukommen. Er bittet den beiliegenden Brief mit Wechsel an Francesco Ventura zu besorgen, der ihm das Geld für die Rückfahrt von Livorno nach Civitavecchia ausgelegt hatte. Die Havarie der Dampfer miterlebt zu haben, hat seine Seele und seinen künstlerischen Geist berührt.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He returned to Rome only yesterday because he was on the steamer Hermus, which rammed and sank the steamer Aventine. So he had to return to Livormo first. He is sending Heyse the money he borrowed from him. He can give him the money from Heinrich von Brunn at his convenience. He asks for the enclosed letter with money to Francesco Ventura, who had given it to him for the return trip from Livorno to Civitavecchia. To have experienced the steamers’ disaster has touched his soul and his artistic spirit. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1858-10-02" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001275">Heyse, Theodor (1803–1884)</persName>
+                    <placeName key="G000671">Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi> 2 <hi rendition="#aq">October</hi> 1858</dateline>
+                    <salute rendition="#c">Teuerster Freund,</salute>
+                </opener>
+                <p>gestern Nachts von <hi rendition="#aq"><placeName key="G004672">Civita vecchia</placeName></hi> hier angekommen, eilte ich heute, den <seg type="comment"><orig>Wechsel auf Heinzmann zu besorgen; man sagte mir, d<ex>a</ex>ß in dem ausgeschriebenen Quantum die runde Summe von 20 Francesconi enthalten sei</orig><note xml:id="ngnx_mt1_vlb">Nicht ermitteltes Bankhaus – Gregorovius hatte sich diesen Betrag während seines Florentiner Aufenthaltes vom 11.7.-28.9.1858 von Theodor Heyse geliehen (siehe <ref target="G000111">Gregorovius an Theodor Heyse, 29.9.1858</ref>).</note></seg>. Die fraglichen <seg type="comment"><orig><persName key="G004709">Brunnschen</persName> Gelder</orig><note xml:id="nhmq_rt1_vlb">Von dem Archäologen Heinrich Brunn (1822–1894), der seit Anfang 1857 als Nachfolger Emil Brauns (1809–1856), als zweiter Sekretär des Deutschen Archäologischen Institut wieder in Rom war (siehe den Brief von G<ref target="G000046">regorovius an Theodor Heyse, 15.4.1858</ref>). Er hielt sich derzeit in Perugia auf (siehe den Brief von <ref target="G000087">Gregorovius an Theodor Heyse, 28.10.1858</ref>).</note></seg> kann ich Ihnen sonst durch Gelegenheit zukommen laßen, wenn sie vorhanden sind. Den beiliegenden Brief bitte ich auf die Post zu werfen; er enthält einen gleichen <seg type="comment"><orig>Wechsel für 12 <hi rendition="#aq">Francesconi</hi>, welche mir der herrliche Corse <persName key="G004726"><hi rendition="#aq">Ventura</hi></persName> vorstreckte</orig><note xml:id="naj2_wt1_vlb">Der aus dem korsischen Cervione stammende Francesco Ventura, mit dem Gregorovius am 28.-29–9.1859 in Livorno war (siehe RT, 13.9. und 3.10.1858, S. 74–75 und den Brief von <ref target="G000111">Gregorovius an Theodor Heyse, 29.9.1858</ref>).</note></seg>, <seg type="comment"><orig>da ich gezwungen war, wieder in <placeName key="G000715"><hi rendition="#aq">Livorno</hi></placeName> einzulaufen. Sie wißen nun, daß unser Schiff Hermus den französ<ex>ischen</ex> Dampfer <hi rendition="#aq">Aventin</hi> in den Grund bohrte, hinter dem <seg type="comment"><orig><hi rendition="#aq">Fanal</hi> von <hi rendition="#aq">Palmajola</hi></orig><note xml:id="nxl3_zt1_vlb">Eine kleine Insel in der Meerenge von Piombino.</note></seg>. Das Schiff sank in 6 Minuten: ich war auf Deck gestürzt halb nackt</orig><note xml:id="nwzm_151_vlb">Gregorovius hatte sich am Abend des 29.9.1858 in Livorno auf dem Dampfer Hermus nach Civitavecchia eingeschifft, um von dort nach Rom zurückzukehren. In der Meerenge von Piombino bei Elba rammte die Hermus den Dampfer Aventin, der kurz darauf sank (siehe RT, 3.10.1858, S. 75–76).</note></seg>. Lieber Freund, <seg type="comment"><orig>dies erlebt zu haben, ist für einen Poeten viel wert</orig><note xml:id="nr5r_rv1_vlb">Gregorovius gab einen Bericht über die Havarie der Dampfer an die „Allgemeine Zeitung“: Der Untergang des französischen Dampfers ‚Aventin‘ in der Nacht vom 29 auf den 30 September (AZ. Nr. 285. Augsburg: Cotta 12.10.1858. S. 4601–4602) und vearbeitete sein Erlebnis kurz darauf auch in einem Gedicht (Hermus. Eine Nacht auf dem Mittelmeer. In: Morgenblatt für gebildete Leser. Nr. 44. 31.10.1858).</note></seg>. In <hi rendition="#aq">Livorno</hi> Morgens <pb n="1v"/>eingelaufen, nahm ich einem Platz auf dem <hi rendition="#aq"><seg type="comment"><orig>Pompeji</orig><note xml:id="ndwh_tv1_vlb">Auf dem Dampfer Pompeji war Gregorovius schon auf dem Hinweg von Rom über Civitavecchia und Livorno nach Florenz gereist (siehe RT, 13.7.1858, S. 72).</note></seg></hi>, mein Hermus-Fahrgeld verlierend, kam glücklich gestern am Morgen in <hi rendition="#aq">Civita</hi> an, u<ex>nd</ex> so in Rom. Ich bin Hundemüde.</p>
+                <p>Wollen Sie mir glauben, d<ex>a</ex>ß ich bei jener furchtbaren Katastrophe nicht eine Spur von Todesfurcht an mir bemerkte? Wir wußten nicht, welches der Schiffe sinken würde, u<ex>nd</ex> ich rauchte ruhig eine Cigarre. Ich sah tief in den Schlund der Elemente hinunter, u<ex>nd</ex> jenes Ereigniß hat für mich eine gewiße moralische Bedeutung.</p>
+                <closer>Ich grüße Sie viel tausendmal! Schreibe später mehr u<ex>nd</ex> hoffe, d<ex>a</ex>ß wir in Verbindung bleiben. Durch den Untergang des Aventin ist mein Florentiner Leben plötzlich bedeckt worden, so daß es mir als eine ferne Vergangenheit erscheint. <seg type="comment"><orig>Es waren schöne Tage</orig><note xml:id="nfg3_5v1_vlb">Während seines Florentiner Aufenthaltes bis zum 28.9.1858 hatte Gregorovius häufig Umgang mit Theodor Heyse und unternahm mehrere Ausflüge mit ihm.</note></seg>. Schreiben Sie mir recht bald. <signed rendition="#right">Ferd Gregorovius.</signed></closer>
+                <note type="postscript" place="left" rendition="#v"><pb n="1r"/>Haben Sie die Güte, die 2 <unclear reason="illegible" cert="low">Krazine</unclear> für die Francatur des Briefs an <hi rendition="#aq">Venturo</hi> auszulegen.</note>
+                </div>
+        </body>
+    </text>
+</TEI>

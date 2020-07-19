@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000299">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Tommaso Gar in Venedig. Rom, 6. Januar 1871</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Biblioteca Comunale di Trento</repository>
+                        <idno>busta BCT1–2257/52</idno>
+                    </msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. - Beilage: Billett für einen nicht namentlich genannten Adressaten</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Sergio Benvenuti: Dalle lettere del Gregorovius al Gar nella Biblioteca comunale di Trento. In: Studi Trentini di Science Storici. Bd. 41. Nr. 1. Trento: Società di Studi per la Venezia Tridentina 1962. S. 95 f. (ungenau)</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er hat den gescheiterten Ausbruchsversuch der französischen Armee unter Marschall Bazaine in Metz miterlebt, bevor er Mitte Oktober letzten Jahres nach Rom zurückgekehrt ist. Er sorgt sich um seinen verletzten Bruder Julius in Rouen. In den Friedensverhandlungen mit Frankreich darf Deutschland sich von dem neuen Machthaber Adolphe Thiers nicht übervorteilen lassen. Für den Abschluss des Manuskripts des achten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1872) muss er Recherchen in Venedig betreiben. Vittorio Emanuele II. war 31. Dezember 1870 für einen Tag in Rom. Die Überschwemmung des Tibers hat große Schäden verursacht. Mit Karl und Auguste Lindemann-Frommel bestellt er Grüße an Madeleine Creutzer.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName>
+                    <date when="1871-01-06" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001158">Gar, Tommaso (1808–1871)</persName>
+<placeName key="G000894">Venedig</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Roma, 6. Gennaro 1871.</dateline>
+                    <salute rendition="#c">Caro amico Gar,</salute>
+                </opener>
+<p>il vostro gentilissimo biglietto pel capo d’anno mi servì come monitorio rappresenta<supplied cert="high">n</supplied>domi il mio lungo silenzio e <add place="intralinear">il</add> dovere di scrivervi le mie nuove. Or dovete sapere, ch’ io, dopo <seg type="comment"><orig>un mio viaggio a <placeName key="G000878">Strassburg</placeName> ed a <placeName key="G000728">Metz</placeName></orig><note xml:id="noxl_3ty_ylb">Anfang Oktober fuhr Gregorovius zunächst nach Straßburg und dann nach Metz, wo er mit seinem in die Kriegshandlungen involvierten Bruder Julius zusammentraf und er Zeuge der Kampfhandlungen wurde (siehe RT, 23.9.-14.10.1870, S. 292–298). In seinem Gedicht „Straßburg“ (Beilage zu Nr. 245 der AZ. 2.9.1870. S. 3900) und einer Reihe von Artikeln für die „Allgemeine Zeitung“ (Die französische Kriegserklärung und Europa, Nemesis, Die Schuld und die Strafe Frankreichs, Nochmals Elsaß und Lothringen!, Pavia und Sedan, Der Krieg, Fünf Tage vor Metz) hielt er seine Eindrücke fest (26.7.-19.10.1870).</note></seg>, dove fui presente <seg type="comment"><orig>all’ultima sortita di <persName key="G000961">Bazaine</persName></orig><note xml:id="nlnp_jty_ylb">Im August 1870 wurde die französische Rheinarmee unter Marschall François Achille Bazaine (1811–1888) von der preußischen Armee geschlagen, auf die lothringische Festung Metz zurückgedrängt und dort festgesetzt. Die endgültige Kapitulation vor den deutschen Belagerern erfolgte erst am 28.10.1870, womit die Hauptarmee der Franzosen unter und mit Marschall Bazaine in Kriegsgefangenschaft gerät. Frankreich verlor damit die stärkste Armee, womit die Niederlage kaum mehr abzuwenden war.</note></seg>, ritornai nella <seg type="comment"><orig>seconda metà dell’ Ottobre a Roma</orig><note xml:id="np35_kty_ylb">Er reiste am Abend des 15. Oktober von München ab und traf am Abend des 17. Oktober in Rom ein (RT, 14.10.1870, S. 297).</note></seg>, per continuare e per finire il mio lavoro storico. <seg type="comment"><orig>Egli si fù uno sforzo</orig><note xml:id="nafl_mty_ylb">Die beeindruckenden Erlebnisse im Vaterland haben ihm Rom entfremdet und die Energie geraubt, den achten und letzten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1872) fertigzustellen. In einem Brief vom 23.10.1870 an Gustav Parthey schreibt er: „Ich ging von Metz nach München zurück, und von dort in einer Tour nach Rom. Der plötzliche Wechsel des Climas und der Lebensweise, und der zu hastige Abbruch aller heimischen Beziehungen, in welche ich mich so tief versenkt hatte, ist nicht ungestraft geblieben. Eine große Unlust hat sich meiner bemächtigt, aus welcher ein fataler Widerwille gegen die Vollendung meiner Arbeit entspringt, und doch fehlen mir nur die Anstrengungen von wenigen Monaten, um diese meine Lebensaufgabe zu beschließen.“ In sein Tagebuch äußert er sich am 13.11.1870 wie folgt: „Am 1. November habe ich die kulturgeschichtlichen Kapitel wieder aufgenommen und die Periode Julius' II. zum Abschluß gebracht. Da meine Arbeit endigt, blüht Rom für mich ab. Ich gehe in den Straßen umher auf den Spuren meiner Leidenschaft und Begeisterung, fühle diese nicht mehr, und mir ist, als schauten alle diese einst so begierig von mir durchforschten Monumente geisterhaft tot auf mich herab.“ (S. 298) </note></seg> non piccolo di fare per così dire astrazione completa dalle cose patrie e presenti, e di gettarmi di nuovo dentro il passato. Ma c’è qualche cosa nell’ aria di Roma, chè assorbisce la mente e la cloroforma di modo, che diventa quasi insensibile per qualunque moto od atto del giorno che corre, mentre chè acquista un sesto senso <pb n="1v"/>per comprendere ed indovinare il passato – pericolo serio e da guardarsene bene nell’avvenire <seg type="comment"><orig>quando Roma sara la capitale dell’<placeName key="G000690">Italia</placeName></orig><note xml:id="nin4_qty_ylb">Als Frankreich seine den Bestand des Kirchenstaates bislang sichernden Schutztruppen wegen des Deutsch-Französischen Krieges aus dem Kirchenstaat abzog, rückten italienische Truppen ein. Am 20. September 1870 wurde Rom eingenommen, damit war das Ende des Kirchenstaates und damit der weltlichen Macht des Papstes besiegelt. </note></seg>.</p>
+<p>Sono arrivato al termine del mio lavoro, e lo raggiungerò frà poco; sinchè mi resterà soltanto la reda<subst><del rendition="#ow">zz</del><add place="across">z</add></subst>ione dell’<bibl sameAs="G003434">ultimo volume</bibl> per la stampa, ed una ultima fatica da fare <seg type="comment"><orig>presso di voi a Venezia</orig><note xml:id="nm1m_rty_ylb">Er sollte erst wieder nach Gars Tod (27.7.1871) am 1.8.1871 nach Venedig reisen. Siehe RT, 10.8.1871, S. 380. </note></seg>; sopra le carte che comprendono il periodo della rinascenza dal 1503–1530; cosa che pur troppo non ho potuto eseguire nel ritorno dalla <placeName key="G000664">Germania</placeName>.</p>
+                <p>L’interminabile guerra mi tiene in una continua angoscia e non minore agitazione, <seg type="comment"><orig>massimamente per causa dell’unico mio <persName key="G001203">fratello</persName></orig><note xml:id="nixz_sty_ylb">Julius Gregorovius (1819–1891) hatte am 27. November 1870 unter Generalfeldmarschall Edwin Freiherr von Manteuffel (1809–1885) an der Schlacht von Amiens teilgenommen und wurde leicht am Fuß verletzt. Im Tagebuch dokumentiert er das Ankommen des Briefes aus Rouen, wo er seinen Fuß auskurierte, auf den 10. Dezember (siehe RT, 31.12.1870, S. 301 und den Brief an Ottilie Elgnowski, 31.12.1870; BSB München, NL Gregorovius, Gregoroviusiana 20, Elgnowski, Ottilie, 17).</note></seg>, il quale avendo riportato una grave contusione al piede caggionatagli da un frantume di projettile nella battaglia di <subst><del rendition="#s">Metz</del><add place="superlinear"> <placeName key="G000613">Amiens</placeName> </add></subst> dovette ritirarsi a <placeName key="G000861">Rouen</placeName> per prenderne <pb n="2r"/>cura e riposo. L’ultima sua lettera era da <del rendition="#s"> <gap reason="illegible" quantity="1" unit="words"/> </del> quella città. Egli era desideroso di ritornare alle sue batterie. Noi tutti quanti Allemanni siamo stanchi delle nostre vittorie, e più ancora delle nostre perdite, che in verità sono enormi. Ma voi, caro Gar, potete bene intendere, che dopo quella crudelissima provocazione dalla parte della <placeName key="G000674">Francia</placeName>, e dopo tanto sangue sparso, dopo tanta forza esausta e tanta fortuna sacrificata per il bene della patria, la Germania non può ritirarsi dalla Francia senza quelle garanzie di pace, che stiano a proporzione dei nostri sacrifizi, e che la Francia arrogandosi a se sola il diritto di imporre la legge della vittoria ai vinti, ci nega perché così lo vuole <seg type="comment"><orig><persName key="G004727">il nuovo dittatore</persName></orig><note xml:id="nwyz_5ty_ylb">Am 8. September 1870 war die dritte Republik ausgerufen und der Monarchist und Orléanist Adolphe Thiers (1797–1877) zum Präsidenten (bis 1873) ernannt worden, der im Mai 1871 die Pariser Kommune zerschlug. Thiers hatte seit 1848 die politische Linke bekämpft, er wandte sich gegen das eingeführte allgemeine Wahlrecht und befürwortete einen großen Einfluss der katholischen Kirche. Gregorovius schrieb am 17. Februar 1849 in der Neuen Königsberger Zeitung Nr. 42, Thiers sei der „versteckte Hebel der ganzen bonapartischen Maschinerie“ (vgl. Ferdinand Gregorovius. Europa und die Revolution. Leitartikel 1848–1850, hrsg. von Dominik Fugger und Karsten Lorek. München 2017, S. 129).</note></seg> che oramai <choice><sic>à</sic><corr cert="high">ha</corr></choice> rimpiazzato il <persName key="G001442">Bonaparte</persName>. No! Non lasceremo il teatro della orribile guerra come attori da scena, per raccogliere gli infruttuosi applausi, o piuttosto le ben meritate risa del mondo, non avendo saputo <add place="superlinear">fare</add> altro, che riportavi delle vittorie inaudite da esser descritte <pb n="2v"/>rettoricamente e con pompa nelle carte. Quella grande epopea della nostra storia, epopea di uno stile veramente biblico; si chiuderà così spero, convenientemente per la mia patria. Ma, di questo basta.</p>
+<p>Mando mille saluti e buoni auguri a voi, caro Gar, ed alla gentilissima signora <persName key="G001056">baronessa</persName>, così pure dalla parte dei miei amici <persName key="G001374"><persName key="G001375">Lindemann</persName></persName>. Datemi presto le vostre nuove, e fate meglio, venite presto a Roma, per starvi però più tempo, che non <seg type="comment"><orig>vi stette <persName key="G001692">Vittorio Em<ex>anuel</ex>e</persName> </orig><note xml:id="noyg_yty_ylb">Nach der Proklamation der Vereinigung des Kirchenstaats mit Italien am 8. Oktober 1870 kam Viktor Emanuel II. (1820–1878) am 31. Dezember 1870 erstmals von Florenz nach Rom; er blieb allerdings nur einen Tag. Am 26. Januar 1871 wurde die italienische Hauptstadt von Florenz nach Rom verlegt.</note></seg>Ricordatevi dalla chiamata di <persName key="G000916">Dante</persName>:</p>
+<p><seg type="comment"><orig>vieni a veder Roma tua – che piange veramente;</orig><note xml:id="nvq4_15y_ylb">Nach Dante Alighieri: Divina Commedia. Purgatorio, Canto VI, Vers 112–114: Vieni a veder la tua Roma che piagne / vedova e sola, e dì e notte chiama: / „Cesare mio, perché non m'accompagne?“.</note></seg> i danni sofferti dal popolo in seguito dell’<seg type="comment"><orig>inondazione</orig><note xml:id="nv3c_c5y_ylb">Zum Jahresende 1870 kam es zu einer verheerenden Überschwemmung des Tibers, von deren Auswirkungen Gregorovius am 31.12.1869 in seinem Tagebuch berichtet: „Am 28. trat der Tiber mit furchtbarer Gewalt aus und setzte halb Rom unter Wasser. Die Flut stieg plötzlich um 5 Uhr morgens und bald bedeckte sie den Corso und drang durch die Via Babuino bis gegen den spanischen Platz vor. Seit 1805 hatte keine Tiberüberschwemmung eine gleiche Höhe erreicht. Der Ghetto, die Lungara, die Ripetta haben stark gelitten. Man berechnet den Schaden auf viele Millionen. Der Anblick der Straßen, worin Kähne fahren wie in Venedig, war seltsam; die Fackeln und Lichter werfen auf das Wasser breite, spiegelnde Reflexe. Aus den Häusern schrie man verzweifelt nach Brot. Zum erstenmal machte sich die neue Nationalgarde durch praktische Dienstleistungen bemerkbar. Es wurde musterhafte Ordnung gehalten. Die Pfaffen schrien alsbald, daß dies der Finger Gottes und die Wirkung der päpstlichen Exkommunikation sei.“ (S. 301)</note></seg> sono immensi.</p>
+<closer rend="paragraph">
+    <salute rendition="#right">Vi abbraccio fraternamente</salute>
+    <signed rendition="#right">FeGregorovius</signed>
+<note type="postscript">Abbiate la bonta di spedire l’acchiusovi biglietto all’indirizzo suo.</note>
+</closer>
+               
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_wjt_wlt_klb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Rom. München, 19. November 1878 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 4 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Über das Attentat auf König Umberto I. in Neapel und die Tiberüberschwemmung. Keine Nachricht von Manfred Lindemann-Frommel, der Baurat in Schwerin ist. Grüße an Karl-Lindemann-Frommel, die Brüder Guerrieri, Luigi Ferri, die Familien Erhardt, Sartori und Mayer. Überbringer seines Schreibens ist ein junges Ehepaar auch Berchtesgaden. Gertrud von Bülow, Frau des preußischen Gesandten in München, Georg Graf von Werthern, hat ihn über die Hochzeit der Schwester eines gewissen Fräulein Pill.(?) mit einem Grafen Keiserling informiert. Er wird in der Akademie der Wissenschaften einen Vortrag über den Dreißigjährigen Krieg halten; seine Schrift zum Thema erschein 1879 (Urban VIII. im Widerspruch zu Spanien und dem Kaiser. Eine Episode des dreißigjährigen Kriegs). Er dankt für eine Auskunft zu Gaudenzio Clarettas „Sui principali storici piemontesi e particolarmente sugli storiografi della Reale Casa di Savoia“ (1878). Er fragt nach Filippo Cagiati und George Alfred Townsend. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1878-11-19" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840-1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c">München, 19. Nov<ex>ember</ex> 78.</dateline>
+<salute rendition="#c">Lieber Freund,</salute>
+</opener>
+<p>ich habe <seg type="comment"><orig>Ihren Brief</orig><note xml:id="nxfr_w4j_1mb">Der Brief ist nicht erhalten. Gregorovius hatte seinen letzten Brief an Mariano nach Florenz geschickt; siehe den Brief von Gregorovius an Raffaele Mariano vom 1.11.1878.</note></seg> aus <placeName key="G000671">Florenz</placeName> empfangen, und nehme an, daß Sie gegenwärtig wieder im alten Rom sind. Dahin richten sich beständig meine Gedanken, sowol aus der in mir berechtigten Sehnsucht dort zu wohnen ($ $ $ $ $), als weil ich schon erschreckende Berichte von dort gelesen habe. Ich meine weniger die betrübende Nachricht von dem<seg type="comment"><orig> neapolitan<ex>ischen</ex> Attentat</orig><note xml:id="nw2v_x4j_1mb">Am 17. November 1878 hatte der Anarchist Giovanni Passannante (1849–1910) ein Attentat auf den soeben zum König ausgerufenen Umberto I. (1844–1900) verübt, der sich auf einer Reise durch Italien und zu diesem Zeitpunkt in Neapel befand. Während einer Parade durch die süditalienische Stadt griff Passannante den König an, verletzte ihn mit dem Säbel allerdings nur leicht. Der Attentäter wurde, obwohl sein Angriff nicht glückte, zum Tode verurteilt, was Umberto allerdings aufhob.</note></seg> – <seg type="comment"><orig>Königsmörderei ist jetzt wie es scheint zu einem epidemischen Typhus geworden</orig><note xml:id="ntxh_z4j_1mb">Anspielung auf die Attentate in Berlin auf Kaiser Wilhelm I. (1797–1888); siehe die Briefe von Gregorovius an Raffaele Mariano vom 19.6.1878 und an Ersilia Caetani Lovatelli vom 28.6.1878.</note></seg> – <pb n="1v"/>als die<seg type="comment"><orig> <hi rendition="#aq"><foreign xml:lang="ita">piena del <placeName key="G067585">Tevere</placeName></foreign></hi></orig><note xml:id="ncrj_1pj_1mb">Nach heftigen Regenfällen hatte der Wasserpegel des Tibers am 17. November 15 Meter makiert. Siehe dazu auch Nr. 326 der AZ Augusburg: Cotta 22.11.1878. S. 4812: https://opacplus.bsb-muenchen.de/Vta2/bsb11364622/bsb:3258016?page=326. </note></seg>. Diese scheint ja die Furchtbarkeit jener vom Dec<ex>ember</ex> <add place="superlinear">70</add> zu erreichen, <seg type="comment"><orig>deren Augenzeuge ich gewesen bin</orig><note xml:id="nglk_bpj_1mb">„Am 28. trat der Tiber mit furchtbarer Gewalt aus und setzte halb Rom unter Wasser. Die Flut stieg plötzlich um 5 Uhr morgens und bald bedeckte sie den Corso und drang durch die Via Babuino bis gegen den spanischen Platz vor. Seit 1805 hatte keine Tiberüberschwemmung eine gleiche Höhe erreicht. Der Ghetto, die Lungara, die Ripetta haben stark gelitten. Man berechnet den Schaden auf viele Millionen. Der Anblick der Straßen, worin Kähne fahren wie in Venedig, war seltsam; die Fackeln und Lichter werfen auf das Wasser breite, spiegelnde Reflexe. Aus den Häusern schrie man verzweifelt nach Brot. Zum erstenmal machte sich die neue Nationalgarde durch praktische Dienstleistungen bemerkbar. Es wurde musterhafte Ordnung gehalten. Die Pfaffen schrien alsbald, daß dies der Finger Gottes und die Wirkung der päpstlichen Exkommunikation sei. Was aber mag dieser Papst im Vatikan dabei gedacht haben? Eine wildere Flut hat er selbst über Rom heraufbeschworen; dem Zauberlehrling gleicht er, der nun die Wasser nicht mehr bannen kann.“ (RT, 31.12.1870, S. 301).</note></seg>. Die armen Römer, die so viel verlieren – dazu die Folge von Krankheiten, die von jeder Überschwemmung unzertrennlich sind. Bitte, mir über diese Zustände zu schreiben.</p>
+<p>Sie werden sehr thätig bei der Arbeit sein, u<ex>nd</ex> Abends wol mit <persName key="G001375">Lindemann</persName> speisen, den ich sehr grüße – ich werde ihm später schreiben – von <seg type="comment"><orig>seinem <persName key="G001376">Sohn</persName></orig><note xml:id="ny4d_dpj_1mb">Der Sohn des Freundes war wenige Wochen zuvor nach Schwerin aufgebrochen, um dort eine Stelle als Baurat anzutreten.</note></seg>, dessen 26jähr<ex>iger</ex> Geburtstag gestern war, wissen wir eigentlich noch nichts. Abends werden Sie wol oft bei <persName key="G001116"><persName key="G001115"><persName key="G001114">Erhardts</persName></persName></persName> sein – ich bitte <add place="intralinear">die</add> so <hi rendition="#sup">x</hi> sehr zu grüßen – ihnen wie den <hi rendition="#aq"><persName key="ed_nfl_yj2_rlb"><persName key="G001219">Guerrieri</persName></persName></hi> erlaube ich mir <seg type="comment"><orig>1 junges Ehepaar</orig><note xml:id="nuqx_dpj_1mb">Nicht ermittelt.</note></seg> <pb n="2r"/>durch ein paar Worte zu empfehlen, welches diese Familien entschuldigen mögen – ich war moralisch genötigt, jenen Reisenden diese Billets mitzugeben. Es sind gute, auch angenehme Menschen, die 1 Villa in <placeName key="G000633">Berchtesgaden</placeName> besitzen. Zu meinem aufrichtigen Bedauern habe ich gehört, d<ex>a</ex>ß es <seg type="comment"><orig>die Schwester</orig><note xml:id="ncy1_fpj_1mb">Nicht ermittelt.</note></seg> des uns bekannten <seg type="comment"><orig><persName key="ed_ezy_g42_rlb">Fräulein v<ex>on</ex> Pill<ex>ar</ex></persName>,</orig><note xml:id="ngs2_gpj_1mb">Cecil Pilar von Pilchau (1847–1896), die spätere Ehefrau von Mariano. Siehe zu den ersten Kontakten zwischen den beiden, bei welchen Gregorovius keine unerhebliche Rolle spielte, die Briefe von Gregorovius an Raffaele Mariano vom 29.11.1877 und 8.12.1877.</note></seg> nicht diese selbst ist, welche sich mit ein<ex>em</ex> <seg type="comment"><orig>Graf Keiserling</orig><note xml:id="nqxv_3pj_1mb">Nicht ermittelt.</note></seg> verlobt hat. Die gesamte Familie wollte Ende Nov<ex>ember</ex> in Rom sein, wo die Hochzeit gefeiert werden soll. Dies teilte mir <seg type="comment"><orig>die <persName key="G001703">Frau</persName> des hiesigen preuß<ex>ischen</ex> <persName key="G001702">Gesand</persName><ex>ten</ex></orig><note xml:id="ngkb_kpj_1mb">Georg Graf und Herr von Werthern-Beichlingen (1816–1895) war seit 1867 bis zu seinem Ruhestand im Jahre 1888 preußischer Gesandter in München. Am 1. Oktober 1863 hatte er Gertrud Sophie Auguste Adolphine von Bülow (1841–1919) geheiratet.</note></seg> mit, u<ex>nd</ex> ich hielt es für passend, Ihnen davon Mitteilung zu machen. Ich bin <pb n="2v"/>thätiger als je – <seg type="comment"><orig>mein Material zum 30jähr<ex>igen</ex>Krieg</orig><note xml:id="nisc_lpj_1mb">1879 erschien seine Schrift zum Dreißigjährigen Krieg: Urban VIII. im Widerspruch zu Spanien und dem Kaiser. Eine Episode des dreißigjährigen Kriegs. Stuttgart: Cotta.</note></seg> mehrt sich gewaltig. Am 7. Dec<ex>ember</ex> muß ich auch <seg type="comment"><orig>einen <bibl sameAs="G003523">Vortrag</bibl> in der <orgName key="G000494">Akad<ex>emie</ex> d<ex>er</ex> Wissenschaft<ex>en</ex></orgName> halten, über die Stellung <persName key="ed_w45_gsl_rlb">Urbans VIII.</persName> zu <persName key="ed_stk_5sl_rlb">Gustav Adolf</persName> u<ex>nd </ex>zum Haus Habsburg</orig><note xml:id="nkmh_mpj_1mb">„[…] es war der beste Vortrag, den ich gehalten habe. Daß er Eindruck machte, bewies die unerhörte Tatsache, daß weder der Präsident Döllinger noch irgend ein andres Mitglied der Klasse schlief. Nicht einmal der Hausmeister schlief.“ (RT, S. 409).</note></seg>. Bitte, sagen Sie <seg type="comment"><orig><persName key="ed_aft_1tl_rlb">Ferri</persName> </orig><note xml:id="nhgq_npj_1mb">Der in Bologna geborene Philosoph Luigi Ferri (1826–1895), Schüler von Terenzio Mamiani (1799–1885), erhielt 1871 eine Professur für Philosophie in Rom. 1876 wurde er zum Mitglied der Accademia dei Lincei ernannt. Als Nachfolger Mamianis übernahm er nach dessen Tod 1885 die Herausgeberschaft der Zeitschrift „Filosofia delle scuole italiane“, die er in „Rivisita italiana di filosofia“ umbenannte.</note></seg>mit vielen Grüßen, daß mich jede Sendung in <hi rendition="#u" hand="">München</hi> trifft, ohne weiteres. </p>
+<p>Bitte, besuchen Sie auch <seg type="comment"><orig>meine <hi rendition="#aq"><foreign xml:lang="ita">padroni</foreign></hi></orig><note xml:id="nqys_4pj_1mb">Ital. für: Vermieter.</note></seg> in der <placeName key="ediarum_lmm_slx_qlb"><hi rendition="#aq">Via Gregoriana</hi></placeName>, die <hi rendition="#aq"><persName key="ed_i5x_klk_rlb">Sartori</persName></hi>, u<ex>nd</ex> sagen Sie ihnen, d<ex>a</ex>ß ich nach ihnen frage u<ex>nd</ex> sie viele Male grüßen lasse. <seg type="comment"><orig>Dank für die Auskunft über <persName key="ed_wdl_jtl_rlb">Claretta</persName></orig><note xml:id="nk4w_ppj_1mb">In seinem vorangehenden Schreiben hatte Gregorovius um Zusendung von Clarettas „Sui principali storici piemontesi e particolarmente sugli storiografi della Reale Casa di Savoia. Memorie storiche, letterarie e biografiche“ (Turin: Stamperia Reale di G.B. Paravia 1878) gebeten, das er für seine Recherchen über das Haus Savoyen benötigte; siehe den Brief von Gregorovius an Raffaele Mariano vom 1.11.1878.</note></seg>, dessen <bibl sameAs="ed_rwy_5cl_rlb">Werk</bibl> hier in der Bibl<ex>iothek</ex> der <orgName key="G000494">Akademia</orgName> ist. </p>
+<p>Die <persName key="G001203"><persName key="G001111">Meinigen</persName></persName> grüßen viel Male. Leben Sie wol, in der alten heiligen <foreign xml:lang="ita">Roma</foreign>.</p>
+<closer>
+<signed rendition="#right">Ihr FGr. <lb/></signed>
+</closer>
+<closer rend="paragraph">
+<salute>Eben da ich schreibe, bringt die Post 4 Zeitungen, von denen 3 Nummern der <seg type="comment"><orig><hi rendition="#aq"><orgName key="ed_rwv_rtl_rlb">Capitale</orgName></hi></orig><note xml:id="nzgv_qpj_1mb">Die teilweise republikanisch eingestellte Tageszeitung, welche von 1871–1911 erschien.</note></seg> sind. Danken Sie <persName key="G001412"><persName key="G001413">Meiers</persName></persName> dafür in meinem Namen u<ex>nd</ex> grüßen Sie dieselben sehr, auch <seg type="comment"><orig>Nora</orig><note xml:id="nl44_rpj_1mb">Nicht ermittelt.</note></seg>. Ich werde später an <seg type="comment"><orig><persName key="G067878">M</persName>. </orig><note xml:id="nygm_spj_1mb">Vermutlich: Clemente Maraini.</note></seg>schreiben. Sagen Sie mir etwas von allen gemeinsch<ex>aftlichen</ex> Freunden, auch <add place="intralinear">von</add> <seg type="comment"><orig><persName key="G001012">Cagiati</persName></orig><note xml:id="nekq_tpj_1mb">Der römische Kaufmann Filippo Cagiati (*1821) hatte wesentlich zu Gregorovius’ Ernennung zum Ehrenbürger der Stadt Rom beigetragen; siehe den Brief von Gregorovius an David Silvagni vom 24.3.1876.</note></seg>. Wo ist <persName key="ed_r2y_ztl_rlb"><seg type="comment"><orig>Townsend</orig><note xml:id="nmsw_5pj_1mb">Wahrscheinlich der amerikanische Journalist und Schriftsteller George Alfred Townsend (1841–1914), der Gregorovius im Februar 1878 aufgesucht hatte: „Er legte mir eine Übersetzung des Gedichts „Euphorion“ in englischen Hexametern vor, welche gelungen scheint, und ich gab ihm die Ermächtigung, sie drucken zu lassen.“ (RT, 18.2.1878, S. 393). Eine solche Übersetzung ist nicht nachweisbar.</note></seg></persName>?</salute>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

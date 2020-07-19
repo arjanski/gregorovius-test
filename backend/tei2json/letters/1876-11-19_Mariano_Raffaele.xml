@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000207">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Rom. München, 19. November 1876</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt></titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Marianos Einzug in seine ehemaligen Zimmer in der Via Gregoriana 13 freut ihn sehr, sie waren Zeuge der Entstehung seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872). München ist in jeder Hinsicht so trostlos, dass auch seine körperliche Gesundheit leidet, es quälen ihn Augenschmerzen und Schlaflosigigkeit. Er überlegt, Anfang 1877 an den Genfer See oder nach Sardinien zu reisen. Auf ihrem Weg nach Genua war Adelheid Grunelius mit ihrer Tochter Bertha zu Besuch. Karl von Hegel hat er eine Ausgabe Ulrich von Huttens geliehen. Gestern wurde Manfred Lindemann-Frommels vierundzwanzigster Geburtstag gefeiert. Grüße an Wolfgang Erhardt, Ersilia Caetani Lovatelli, Pierre Albert Tachard und dessen Frau Wilhelmine Grunelius, Clemente Maraini und an Eduard Mayer. Er ist in Studien zum Untergang des Hellenismus unter Alarich I. und Kaiser Honorius vertieft. Die französische Übersetzung seiner „Lucrezia Borgia“ (1876) ist sehr fein ausgestattet. Der fünfte Band seiner „Wanderjahre in Italien“, „Apulische Landschaften“, (1877) ist im Druck. </p>
+<p xml:lang="en"/>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1876-11-19" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline>Miseria di Monaco, 19. Nov<ex>embre</ex> 1876.</dateline>
+<salute rendition="#c">Caro amico Mariano,</salute>
+</opener>
+<p>provo un immenso piacere di sapere, che lei è divenuto erede mio e successore, dimorando in <seg type="comment"><orig>quelle medesime camere</orig><note xml:id="nrb4_dhw_zlb">Die Zimmer befinden sich in der Via Gregoriana 13 in Rom.</note></seg>, dove ho vissuto io 14 anni, per certo la miglior parte della mia vita. Or quelle pareti formano per cosi dire lo scenario del <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">mio lavoro sulla città di Roma</bibl>, e sono per l’appunto i testimoni delle mie passioni e de’ miei entusiasmi. Per ciò mi torna cosa gratissima di prenderne posesso un’altra volta, e per mezzo di quell’ amico mio sincero, il quale, forse meglio di qualunque altra persona, ha inteso l’anima di quel mio lavoro e compreso anche tutte le <pb n="1v"/>difficoltà e le condizioni morali e personali, che parte hanno impedito parte spinto e sollecitato il progresso dell’ opera.</p>
+<p>Lei s’immaginerà quante volte io ripensi quegli anni e quelle camere di posizione direi quasi ideale e olimpica, mentre attualmente confinato tra <seg type="comment"><orig>i Geti</orig><note xml:id="nrd3_2hw_zlb">Möglicherweise die Geten oder Getai, ein indoeuropäisches Reitervolk im Altertum; Zusammenhang unklar.</note></seg> meno una vita, la quale, ove non fosse raddolcita alquanto dalla conversazione colla mia cara famiglia, sarebbe addirittura cosa tristissima. Debbo dirle, che la monotonia giornaliera, anzi il deserto intellettuale e morale, il quale qui mi opprime, è tale, che talvolta mi sembra di esser un sordomuto, senza un’ombra che si raggira in mezzo a fittissime tenebre. <pb n="2r"/>La mia salute rapidamente và di peggio in peggio, e sono propriamente arrivato <foreign xml:lang="eng">on the decline</foreign> – Un mal d’occhio non cessa a tormentarmi, e il peggio si è l’insonnia, che a nessun rimedio cede. Or perchè la è così, potrebbe darsi, ch’ io mi risolva a ritornare in <placeName key="G000690">Italia</placeName> più presto di quel che non avrei desiderato; in questo caso deplorabile per me riguardo alla mia <persName key="G001203"><persName key="G001111"><persName key="G001109">famiglia</persName></persName></persName>, <seg type="comment"><orig>non tornerei a Roma</orig><note xml:id="nopc_fhw_zlb">Am 1. Februar 1877 machte sich Gregorovius erneut nach Italien auf, erreichte Rom am 11. des Monats, wo er unter anderem auch die Freundin aufsuchte (siehe RT, Sommer, Herbst und Winter 1876/77, S. 373–374).</note></seg>, ma piuttosto mi metterei in qualche sito ameno sulla riviera di <placeName key="G000677">Genova</placeName>. Andrei forse in <placeName key="G000862">Sardegna</placeName>, ed è perciò che la prego di darmi qualche informazione intorno alla via da prendere dall’ <seg type="comment"><orig>alt’ Italia</orig><note xml:id="nj2f_ghw_zlb">Gemeint ist Alto Adige, das heutige Südtirol.</note></seg> alla Sardegna – credo che bisognerebbe recarsi a Genova, di dove il tragetto per <placeName key="G000868">Sassari</placeName> sarà facile e credo anche regolare. Che ne dica qualche cosa. Va <pb n="2v"/>senza dire, che non ho preso ancora alcuna decisione; anzi se lo stato di salute me lo permetterà, rimarrò qui almeno fino al principio dell’anno venturo.</p>
+<p><seg type="comment"><orig>La insigne signora <persName key="G001215">Grunelius</persName></orig><note xml:id="njxb_hhw_zlb">Die in Baden-Baden wohnhafte Adelheid Grunelius, geb. Fecht (1813–1887), Witwe des Frankfurter Bankiers Moritz Eduard Grunelius (1803–1846) und Mutter von Wilhelmine Tachard-Grunelius (1836–1927), die seit 1851 immer wieder für längere Aufenthalte nach Rom gekommen war. Gregorovius scheint sie erst bei einem Romaufenthalt von November 1861 bis Mai 1862 kennengelernt zu haben; es entwickelte sich schnell ein freundschaftliches Verhältnis. Später besuchte Gregorovius sie des Öfteren in der Villa Grunelius in Baden-Baden.</note></seg> e <persName key="G001215"><seg type="comment"><orig>figliuola</orig><note xml:id="npwz_hhw_zlb">Bertha Grunelius (1839–1912), Tochter von Moritz Eduard und Adelheid Grunelius. </note></seg></persName> mi fecero una grandissima sorpresa visitandomi in casa mia; purtroppo <del rendition="#s">ri</del>partirono prestamente per <placeName key="G000895">Verona</placeName>. Venne poi i<seg type="comment"><orig>l Signor <persName key="G001254">Hegel</persName></orig><note xml:id="ntfd_jhw_zlb">Der Sohn des Philosophen Georg Wilhelm Friedrich Hegel (1770–1831), Karl von Hegel (1813–1901), den Gregorovius bereits im September 1863 persönlich kennengelernt hatte.</note></seg>, cui consegnai <seg type="comment"><orig>il <persName key="G001308">Hutten</persName></orig><note xml:id="nesy_jhw_zlb">Der Humanist Ulrich von Hutten (1488–1523). Vermutlich hat Gregorovius die zweisprachige Ausgabe (Latein-Deutsch) gelesen: Vlrichi Hvtteni equitis Dialogi / Ulrich von Hutten und irrig ihm zugeschriebene Gespräche. Hrsg. von Eduard Böcking. Leipzig: Teubner 1860.</note></seg> – lei può servirsene <del rendition="#s">all’</del> a tutt’ agio suo, e alle fine me lo restituirà. Dagli antiquari non ne ho potuto far acquisto.</p>
+<p>Abbiamo festeggiato jeri sera <foreign xml:lang="Lat">diem natalem</foreign> <persName key="G001376">Manfredi</persName>– lo dica al nostro <persName key="G001375">Lindemann</persName> cui mando un mucchio di saluti. E così la prego di ricordarmi presso <persName key="G001116">Erhardt</persName>, <persName key="G001011">Donna Ersilia</persName>, in casa <persName key="G001631"><persName key="G001632">Tachard</persName></persName>, <persName key="G001398">Maraini</persName> etc.</p>
+<p>I <persName key="G001203"><persName key="G001111"><persName key="G001111">miei</persName></persName></persName> stanno discretamente bene e le mandano mille saluti. Stiamo seppolti qui sotto una nebbia fitta e grossa quanto un panno, di modo che a stento si respira. Non faccio nulla che leggere gli storici greci, e preparo <seg type="comment"><orig><bibl sameAs="G003531">un bel lavoro sulla caduta totale dell’ Ellenismo</bibl></orig><note xml:id="nymt_khw_zlb">Gregorovius begann die Arbeiten an seiner erst 1889 erscheinenden zweibändigen „Geschichte der Stadt Athen im Mittelalter“ (siehe RT, Sommer, Herbst und Winter 1876/77, S. 373).</note></seg> al tempo di <seg type="comment"><orig><persName key="G000910">Alarico</persName></orig><note xml:id="nolt_lhw_zlb">Alarich I. (370–410), unter dessen Führung die Westgoten Rom und später auch Athen plünderten. Siehe dazu auch Ferdinand Gregorovius: „Hat Alarich die Nationalgötter Griechenlands vernichtet?“ In: Sitzungsberichte der philosophisch-philologischen und historischen Classe der k. b. Akademie der Wissenschaften zu München. Jg. 1886. Bd. 1. München 1887. S. 1-20.</note></seg> e <seg type="comment"><orig><persName key="G001295">Onorio</persName></orig><note xml:id="nwqg_nhw_zlb">Flavius Honorius (384–423) war ein weströmischer Kaiser.</note></seg>.</p>
+<p xml:id="p6" next="#p7">Tanti saluti agli amici <seg type="comment"><orig><persName key="G001412">Meyer</persName></orig><note xml:id="nm1h_4hw_zlb">Der Eigentümer von Gregorovius’ ehemaliger und Marianos aktueller Wohnung in der Via Gregoriana, der Bildhauer Eduard Mayer (1812–1881) und Familie. </note></seg>.</p>
+<closer>
+<salute>Il suo di cuore</salute>
+<signed rendition="#right">FGr.</signed>
+</closer>
+                <note type="postscript" xml:id="n1" next="#n2" place="left" rendition="#rotate90"><pb n="1r"/>L’<bibl sameAs="G004429">edizione della Lucrezia fatta a Parigi </bibl>e cosa splendida, quasi di lusso. È terminata la stampa <pb n="2v"/><p xml:id="p2" prev="#p3" place="left" rendition="#rotate90">del <bibl sameAs="G003342">vol<ex>ume</ex> V° dei Wanderjahre</bibl>.</p></note>
+</div>
+        </body>
+    </text>
+</TEI>

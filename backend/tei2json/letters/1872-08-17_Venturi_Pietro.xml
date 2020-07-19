@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067721">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Pietro Venturi in Rom. Traunstein, 17. August 1872</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Archivio Storico Capitolino di Roma</repository><collection>Gabinetto del Sindaco (1877), posizione 48</collection><idno>busta 23, fascicolo 7</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">L’Opinione. Giornale Quotidiano. Jg. 25. Nr. 232. Rom 22.8.1872. S. 2 (ungenau)</bibl> </witness>
+<witness> <bibl type="print">Allgemeine Zeitung. Nr. 240. Augsburg: Cotta 27.8.1872. S. 3669–3670 (in deutscher Übersetzung)</bibl> </witness>
+<witness> <bibl type="print">Antonio Muñoz: Ferdinando Gregorovius. Spropositi di un traduttore. – I diari romani – La storia di Roma nel medioevo. In: Antonio Muñoz: Figure Romane. Rom: Staderini Editore 1944. S. 103–105 </bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+<p xml:lang="it">Er dankt für die Finanzierung der italienischen Übersetzung seiner „Geschichte der Stadt Rom im Mittelalter“ (1872–1876) durch den römischen Gemeinderat. Das Werk soll ein Beitrag zur deutsch-italienischen Freundschaft sein. </p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000888">Traunstein</placeName><date when="1872-08-17" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001674">Venturi, Pietro (1824–1892)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">7. August 1872</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<salute rendition="#c">Illustre <seg type="comment"><orig>Signore,</orig><note xml:id="nm31_pfz_ylb">Pietro Venturi (1824–1892), Jurist, hatte bereits von Mai bis November 1872 sowie von August 1874 bis Januar 1875 als Assessor in der Funktion des römischen Bürgermeister fungiert. Seit Januar 1875 war er ernannter Bürgermeister Roms, was er bis November 1877 blieb. Der Kontakt zwischen Gregorovius und Venturi kam durch den von Marchese Francesco Nobili-Vitelleschi (1829–1906) im römischen Gemeinderat eingereichten Antrag auf Kostenübernahme der italienischen Ausgabe der „Geschichte der Stadt Rom im Mittelalter“ durch die Stadt Rom zustande. Nach Antragsbewilligung dankte Gregorovius Venturi in einem Schreiben, das er auch veröffentlichte; siehe den Brief von Gregorovius an Pietro Venturi vom 17.8.1872. Konzentriert sich die beinahe immer höflich-sachlich geführte Korrespondenz der beiden – es sind acht Briefe von Gregorovius an Venturi und ebenso viele von Venturi an Gregorovius aus den Jahren 1872–1877 erhalten – in den frühen Briefen auf die Ereignisse um die Übersetzung der „Geschichte der Stadt Rom im Mittelalter“, handeln die späteren Schreiben von der Gregorovius verliehenen römischen Ehrenbürgerwürde und der Kommission zur Förderung der mittelalterlichen Geschichte Roms. Im Brief zu dem zuletzt erwähnten Thema schlägt Gregorovius einen enttäuschten, nahezu beleidigten Ton an; siehe den Brief von Gregorovius an Pietro Venturi vom 23.9.1877. Er setzt sich bei Venturi außerdem als Fürsprecher des Übersetzers der „Geschichte der Stadt Rom im Mittelalter“, Renato Manzatos (1874–1925), ein; siehe die Briefe von Gregorovius an Pietro Venturi vom 5.5.1876 und 25.5.1877.</note></seg></salute>
+</opener>
+<p>ho l’onore di possedere <seg type="comment"><orig>la gentile lettera che V<ex>ostra</ex> S<ex>ignoria</ex> Ill<hi rendition="#sup"><hi rendition="#u" hand=""><ex>ustrissi</ex>ma</hi></hi> si compiacque di dirigere a me di Roma li 7. Agosto</orig><note xml:id="nwdb_sfz_ylb">Das Schreiben ist nicht überliefert. Gregorovius hatte zunächst über eine Mitteilung in der „Allgemeinen Zeitung“ von der an ihn gerichteten Mitteilung und der Entscheidung des römischen Gemeinderats zur Kostenübernahme für die Übersetzung seiner „Geschichte der Stadt Rom im Mittelalter“ erfahren (siehe Beilage zur Nr. 223 der AZ. 10.8.1872, S. 3426: https://opacplus.bsb-muenchen.de/title/3257931).</note></seg>, con acclusavi <seg type="comment"><orig>la copia della proposta</orig><note xml:id="ndcz_tfz_ylb">Am 13. Juli 1872 hatte der römische Gemeinderat dem Antrag des Marchese Francesco Nobili-Vitelleschi (1829–1906), seit 1871 römischer Senator und seit Mai 1872 Mitglied der Commissione archeologica comunale di Roma, auf Kostenübernahme der Vollendung der italienischen Übersetzung der „Geschichte der Stadt Rom im Mittelalter“ einstimmig stattgegeben. Renato Manzato (1847–1925) hatte die Übersetzung 1866 begonnen, Gregorovius deren Fortführung aufgrund ihrer Qualität jedoch verboten; siehe dazu den Brief von Gregorovius an Giovanni Gozzadini vom 24.2.1867. Dieser Brief von Gregorovius, mit dem er auf die positive Mitteilung des Bürgermeisters antwortete, wurde am 22. August 1872 in der Zeitung „Opinione“ sowie später auch in deutscher Sprache in der „Allgemeinen Zeitung“ (Nr. 240. 27.8.1872. S. 3669f) veröffentlicht: https://opacplus.bsb-muenchen.de/title/3257931. Zudem hat Gregorovius ihn in sein Tagebuch aufgenommen (siehe RT, 10.9.1872, S. 326–327). Der auf den 17. August 1872 datierte Vertrag zwischen der Stadt Rom und dem venezianischen Verlag Giuseppe Antonelli über die Weiterführung der italienischen Ausgabe der „Geschichte der Stadt Rom im Mittelalter“ hat sich im Nachlass von Gregorovius erhalten; des weiteren eine auf den 20. September 1872 datierte Verpflichtungserklärung von Antonelli gegenüber Gregorovius zur termingerechten Veröffentlichung der einzelnen Bände der italienischen Übersetzung (BSB München, NL Gregorovius, Gregoroviusiana 26).</note></seg> generosamente presentata dalla Giunta Comunale ai <orgName key="G004663">Signori Consiglieri del Municipio</orgName> dell’Alma Città. Dai quali scritti mi vien confermata la lieta novella, che il sopradetto Consiglio con altrettanto nobile impulso nella seduta del 13. Luglio decretò i mezzi publici, onde proseguire sollecitamente e compiere la stampa dell’ <bibl corresp="G004368 G004369 G004370 G004371 G004372 G004373 G004374 G004375 G004376">edizione italiana della mia storia della Città di Roma nel medio evo</bibl>.</p>
+<p>L’onore grande ed insolito compartito con ciò alla mia opera risveglia in me tanta gioja, quanta gratitudine: dei quali sentimenti miei prego V<ex>ostra</ex> S<ex>ignoria</ex> Ill<hi rendition="#sup"><hi rendition="#u" hand=""><ex>ustrissi</ex>ma</hi></hi> di farsi interprete presso gli onorevoli Signori Consiglieri. Accogliendo la mia opera sotto la protezione dello stesso Municipio di Roma, eglino la coronarono del più alto premio desiderabile per me: mentre nello stesso tempo da veri Romani diedero al mondo letterario una lucida testimonianza, che Roma di bel nuovo sarà la generosa promotrice delle scienze in <placeName key="G000690">Italia</placeName>.</p>
+<p>A si insigne favor non ho per ora altro modo di corrispondere, che la speranza, di <pb n="1v"/><choice><sic>di</sic><corr type="deleted"/></choice> puoter rendere colla mia opera <seg type="comment"><orig>qualche servizio scientifico all’Italia</orig><note xml:id="njhq_xfz_ylb">Mehrere Kulturschaffende aus dem Freundes- und Bekanntenkreis von Gregorovius hatten sich beim Kultusministerium dafür eingesetzt, die italienische Ausgabe der „Geschichte der Stadt Rom im Mittelalter“ als Pflichtlektüre in die italienischen Gymnasien zu bringen und somit den Verkauf des Werks anzukurbeln; siehe dazu die Briefe von Gregorovius an Aleardo Aleardi vom 14.3.1867 und an Giovanni Gozzadini vom 12.5.1867. </note></seg>, e di contribuire per poco che valgano le mie forze allo sviluppo degli studj storici in Roma, <seg type="comment"><orig>divenuta omai capitale dell’ Italia felicemente unita</orig><note xml:id="ny23_zfz_ylb">Rom war am 26. Januar 1871 mit dem Eintreffen Vittorio Emanueles II. (1820–1878) aus Florenz zur Hauptstadt des als Königreich entstandenen Nationalstaates ausgerufen worden. Der Kirchenstaat war nach einer Abstimmung durch den König bereits im Oktober 1870 dem italienischen Staat einverleibt worden.</note></seg>, dopo di aver sofferto patimenti e vinto lotte, che non hanno riscontro nella storia dell’ umanità: e che formano per l’appunto l’oggetto principale del mio lavoro.</p>
+<p><seg type="comment"><orig>Al vasto problema, cui dedicai i migliori anni della mia vita</orig><note xml:id="nvhv_1gz_ylb">Gregorovius veröffentlichte die acht Bände seiner „Geschichte der Stadt Rom im Mittelalter“ in den Jahren 1859–1872. Den letzten Band schloss er am 19. Januar 1871 zu seinem 50. Geburtstag ab; siehe den Brief von Gregorovius an Ottilie Elgnowski vom 4.12.1870; BSB München, NL Gregorovius, Gregoroviusiana 20.</note></seg>, per vero sono rimaste insufficienti le mie tenui facoltà: tuttavia per difettosa che sia la mia opera, mi conforto al pensiero, di aver gettato almeno in essa le fondamenta della Storia Civile di Roma nel medio evo, rimasta finora trascurata e quasi messa in abbandono. Laonde forse su tale base alzeranno in avvenire autori Romani più validi di me un monumento storico degno di Roma.</p>
+<p>Intanto sarei felice, se il mio lavoro si considerasse quale primo quadro non del tutto inesatto di quella epoca grande, in cui Italia e <placeName key="G000664">Germania</placeName>, quantunque inceppate dalla forza dei destini, ossia dei dogmi dell’Impero e della Chiesa, tra guerre ed odj, tra colpe e pene, effettuarono bensì una nuova civiltà. Ma vieppiù felice, anzi il più fortunato fra gli storici mi reputerei, qualora quella mia opera, dettata da <pb n="2r"/>doppio amor consecrato cioè alla mia patria Allemanna e all’Alma Madre Roma potesse valere in qualche modo da simbolo di una sincera e durevole amicizia, che, tolte per sempre le cause degli antichi errori, oramai stringer deve 1’Italia libera alla libera Germania. Imperocchè le due grandi nazioni, per il corso di secoli oppresse da sventure eguali, <seg type="comment"><orig>ora in pari tempo rinate sieno a piena libertà ed unità</orig><note xml:id="no1z_cgz_ylb">Nach dem gewonnenen Deutsch-Französischen Krieg wurde der preußische König Wilhelm I. (1797–1888) am 18. Januar 1871 in Versailles zum Deutschen Kaiser proklamiert. Mit dem Beitritt der süddeutschen Staaten Baden, Bayern, Hessen und Württemberg zum Norddeutschen Bund am 21.1.1871 bestand erstmals in der Geschichte ein deutscher Nationalstaat.</note></seg>, sollevate l’una coll’ajuto dell’altra, e compagne come nell’ardua lotta del risorgimento nazionale così anche nell’esito vittorioso di questa.</p>
+<p>Per il quale rinascimento loro pressochè miracoloso, che per fermo è il più solenne atto di riconciliazione de’ popoli che abbia celebrato mai la storia, sembra che chiaramente si pruovi: esser Italia e Germania vocate alla sublime missione, di cooperare d’ora innanzi da sorelle amiche al grande e pacifico lavoro della civiltà.</p>
+<p>Aggradisca, mio signore, l’attestato della più alta stima, con cui mi pregio di chiamarmi</p>
+                <closer>
+<salute xml:id="s1" next="#s2" rendition="#c">di V<ex>ostra </ex>S<ex>ignoria</ex> Ill<hi rendition="#sup"><hi rendition="#u" hand=""><ex>ustrissi</ex>ma</hi></hi></salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">il devoto servitor</salute>
+<signed rendition="#c">F. Gregorovius.</signed>
+<dateline rendition="#c"><seg type="comment"><orig>Traunstein di <placeName key="G000833">Baviera</placeName></orig><note xml:id="nwqq_2gz_ylb">Auf ärztliches Anraten war Gregorovius am 14. Juli wegen der Salzbäder nach Traunstein gereist. Er blieb dort bis zum September 1872 (siehe RT, 10.9.1872, S. 325–327).</note></seg> <lb/>li 17 Agosto 1872.</dateline>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000223">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in der Schweiz. München, 16. August 1877</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+<p xml:lang="de">Marianos Brief hat ihn in Traunstein erreicht. Zurück in Baden-Baden wird Mariano im September Karl Lindemann-Frommel treffen, der zu seinem Sohn Manfred nach Fano gefahren ist. Er selbst hat war drei Wochen bei schlechtem Wetter in Traunstein und ist jetzt zurück bei seinen Geschwistern Julius und Ottilie Elgnowski in München, ihr Sohn Hermann ist in Lindau. Er wird zunehmend ruhebedürftiger und kann daher den Gesellschaftsdrang von Karl Lindemann-Frommel nicht verstehen. Er hat aber seine Trägheit nach dem Abschluss seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) abgeschüttelt und arbeitet nun wieder. Giambattista Giustinian hat ihn in ein Komitee zur Erbauung eines Denkmals für Paolo Sarpi in Venedig berufen. Augusto Nomis De Cossilla will den vierten Band seiner „Wanderjahre in Italien“, „Von Ravenna bis Mentana“ (1871) übersetzen, „woraus er ohne Frage ein Monstrum machen wird“. Sein gedruckter Aufsatz „Alcuni cenni storici sulla cittadinanza romana“ (1877) liegt für Mariano bereit. Er hat den ersten Band von Pasquale Villaris „Niccolò Machiavelli e i suoi tempi illustrati con nuovi documenti“ (1877) noch nicht erhalten und ihm noch nicht geantwortet. Von Domenico Guglielmi und Wolfgang Erhardt hat er keine Nachricht.</p>
+<p xml:lang="it"/>
+<p xml:lang="en"/>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1877-08-16" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000870">Schweiz</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c">München, 16. Aug<ex>ust</ex> 1877</dateline>
+<salute rendition="#c">Lieber Freund Mariano,</salute>
+</opener>
+<p>ich habe Ihren Brief in <placeName key="G000888">Traunstein</placeName> empfangen, u<ex>nd</ex> war sehr erfreut, von Ihnen Nachrichten zu haben, welche insofern gut sind, als ich nun weiß, daß Sie sich von Ihren Anstrengungen an einem angemessenen Ort erholen. Von dort werden Sie wol im Beginn des Sept<ex>embers</ex> nach <placeName key="G000623">Baden</placeName> zurückfahren, u<ex>nd</ex> daselbst mit <persName key="G001375">Lindem<ex>ann</ex></persName> zusammen treffen.</p>
+<p>Von diesem hatte ich nach langem Schweigen vor kurzem einen Brief. Er hatte <placeName key="G000763">Rom</placeName> am 14. Aug<ex>ust</ex> verlassen, um nach <placeName key="G000668">Fano</placeName> zu gehen. Dort befindet sich auch <persName key="G001393">Manfred</persName>, dessen Gesundheit Fortschritte <pb n="1v"/>macht. Beide wollen sodann, ich glaube im Beginn des Sept<ex>embers</ex>, nach <placeName key="G000664">Deutschland</placeName> kommen. Ihren Brief an L<ex>indemann</ex> habe ich erst jetzt befördern können, wo ich seine Adresse in Fano hatte.</p>
+<p>Am 12. c<ex>orrente</ex> verließ ich Traunstein, nachdem ich daselbst <seg type="comment"><orig>3 ruhige Wochen</orig><note xml:id="nr3t_bw3_1mb">Gregorovius hielt sich von 22. Juli bis 12. August in Traunstein auf (siehe RT, Sommer und Winter 1877/78, S. 379).</note></seg> verlebt hatte, u<ex>nd</ex> diese würden schöner gewesen sein, wenn ich vom Wetter wäre begünstigt worden. Ich bin nun wieder hier in München mit den <persName key="G001203"><persName key="G001111">Meinigen</persName></persName>, von welchen nur der <persName key="G001109">Neffe</persName> fehlt, da er sich in <placeName key="G000714">Lindau</placeName> am Bodensee zu den Ferien befindet. Wir leben hier in der größesten Stille; sie thut uns allen wol; je älter ich werde, desto widerwärtiger ist mir das Treiben der Menschen, sowol das öffentliche u<ex>nd</ex> politische als das der privaten Geselligkeit. <pb n="2r"/>Ich kann daher Lindemann nicht fassen, der noch in seinen Jahren das nichtige Gewühl der Stimmen in <placeName key="G000763">Rom</placeName> mit Vergnügen allabendlich durchzumachen pflegte. Mein tiefster Wunsch wäre, in irgend einer schönen Gegend ein Landhaus zu besitzen, u<ex>nd</ex> dort meine Tage zu beschließen, doch dies Ideal werde ich nicht erreichen, da es zu spät für mich ist.</p>
+<p>Es wird Sie erfreuen, zu hören, daß ich wieder thätig bin. Ich habe den <hi rendition="#aq">Torpor</hi> abgeschüttelt, in welchen mich das Aufhören meiner großen <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Arbeit</bibl> versetzt hatte; ich habe die eingerostete Maschine meines kleinen Ingeniums wieder mit Öl gesalbt, u<ex>nd</ex> kurz u<ex>nd</ex> gut ich arbeite: was doch immer für Menschen reiferer Natur das höchste Lebenszeichen ist, welches sie geben können.</p>
+<p>Sie haben mir nicht mitgeteilt, was Sie bisher so anstrengend beschäftigt hat.</p>
+<p>Vielleicht sahen Sie aus irgend einem Blatt, <seg type="comment"><orig>was man mit <hi rendition="#aq">Fra <persName key="G001569">Paoli Sarpi</persName></hi> beabsichtigt</orig><note xml:id="nszt_cw3_1mb">Zu Ehren Paolo Sarpis (1552–1623) sollte ein Denkmal in Venedig entstehen. Zur Planung wurde eine Komitee gegründet, das Graf Giambattista Giustinian (1816–1888) leitete, und in das Gregorovius berufen wurde. Die Statue des Bildhauers Emilio Marsili (1841–1926) wurde letzendlich erst 1892 auf dem Campo Santa Fosca in Venedig errichtet, wo Sarpi 1607 einem Mordanschlag entging. Paolo Sarpi, geb. als Pietro Sarpi (1552–1623) war ein katholischer Theologe, Prokurator und Historiker. Mit 14 Jahren trat er in den Orden der Serviten ein und nahm den Ordensnamen Paolo an. Seit 1570 war er Hoftheologe des Herzogs Guglielmo Gonzaga von Mantua (1538–1587) sowie Theologe der Stadt Mantua, seit 1579 Provinzial und seit 1585 Generalprokurator. Im Konflikt zwischen der Republik Venedig und Papst Paul V. (1552–1621) ernannte der venezianische Senat 1606 Sarpi als Theologen und Kanonisten der Republik Venedig. Sarpi warb für die Trennung der weltlichen von der geistlichen Gewalt. Er überlebte drei auf ihn verübte Anschläge</note></seg>, in <placeName key="G000894">Venedig</placeName> nämlich. <persName key="ed_xfw_g4d_rlb">Graf Giustinian</persName> that mir die Ehre an, meinen Namen unter denen <pb n="2v"/>der Comité Mitglieder zu verlangen, aber ich fürchte, daß die Sympathie für diese Sache, die ich in Deutschland vertreten soll, keine große sein wird.</p>
+<p><seg type="comment"><orig><persName key="ed_ow5_jx4_bgb">Cosilla</persName> </orig><note xml:id="nirn_2w3_1mb">Augusto Nomis di Cossilla (1815–1881) war Sindaco von Turin (1860), Präfekt von Palermo (1863) und von Genua (1865) sowie seit 1868 Senator des Königreichs. Er übertrug mehrfach deutsche literarische und historische Werke ins Italienische, darunter Gregorovius’ „Wanderjahre in Italien“, die 1865 unter dem Titel „Ricordi storici et pittorici d’Italia“ in zwei Bänden in Mailand bei Manini erschienen. Gregorovius war mit der Übersetzung unzufrieden (vgl. RT, 25.12.1872, S. 328). Er bezeichnete Cossilla als Mann, „der weder die deutsche, noch seine eigene Sprache in der Gewalt hat“. (siehe Ferdinand Gregorovius an Ludwig Friedländer, 26.1.1875)</note></seg>schrieb wieder an mich, um sich mir als Übersetzer anzutragen, u<ex>nd</ex> ich mußte aus Artigkeit es ihm freistellen, den <bibl corresp="G003301">4. B<ex>an</ex>d der Wanderjahre</bibl> <seg type="comment"><orig>zu übersetzen</orig><note xml:id="ne1l_fw3_1mb">Nicht erschienen.</note></seg>, woraus er ohne Frage ein Monstrum machen wird, wenn ich nicht die letzte Correctur besorge.</p>
+<p>Es liegt hier für Sie bereit 1 <bibl sameAs="G004017">Exempl<ex>ar</ex></bibl> der <hi rendition="#aq"><foreign xml:lang="ita">memoria della cittadinanza romana</foreign></hi>.</p>
+<p><seg type="comment"><orig>Das <bibl sameAs="ed_qfw_4kd_rlb">Buch</bibl> <persName key="G001687"><hi rendition="#aq">Villaris</hi> </persName>sah ich noch nicht, u<ex>nd</ex> habe ich ihm auch noch nicht geantwortet</orig><note xml:id="ny5b_3fm_fmb">Pasquale Villari (1827–1917) hatte Gregorovius aus Lucca die Publikation des ersten Bandes seines „Niccolò Machiavelli e i suoi tempi illustrati con nuovi documenti“ (1877) angezeigt. Mariano hatte Gregorovius am <ref target="G000222">27. Juli 1877</ref> geschrieben, dass er sich mit der Beantwortung von Villaris Brief Zeit lassen wolle. Siehe auch den Brief von Villari an Gregorovius, 26.8.1877 (in: „Un anello ideale" fra Germania e Italia. Corrispondenze di Pasquale Villari con storici tedeschi. A cura di Anna Maria Voci. Rom: Archivio Guido Izzi 2006. S. 166–168).</note></seg>.</p>
+<p>Die <persName key="G001203"><persName key="G001111">Meinigen</persName></persName> grüßen mit mir auf das herzlichste, u<ex>nd</ex> so leben Sie wol, lieber Freund, u<ex>nd</ex> erfreuen sich des Augenblicks nach den Regeln des <persName key="G001297">Horaz</persName>. </p>
+<closer>
+<salute rendition="#c">Ihr</salute>
+<signed rendition="#c">FGr. <lb/><note type="postscript">Von <persName key="G001221">Guglielmi</persName> weiß ich nichts mehr, seit ich Rom verließ. <lb/>Von <persName key="G001116">Erhard</persName> habe ich auch keine Nachricht.</note></signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

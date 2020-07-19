@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000202">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Capua. Rom, 8. Mai 1876</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt></titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. </p>
+<p>Gregorovius’ Aufsatz „Tarent“ (1876)</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er sendet Beileid zum Tod von Marianos Mutter, der ihn an seine eigene früh verstorbene Mutter Wilhelmine Gregorovius und an die kürzlich verstorbene Auguste Lindemann-Frommel erinnert. Er war in Pompeji, Cava, Nocera und Salerno. In Neapel hat er von Augusto Vera dessen Brief „An Herrn Heinrich von Treitschke, Abgeordneten beim deutschen Reichstage“ (1876) erhalten. Zurück in Rom recherchiert er jetzt im kapitolinischen Archiv für seine Studie „Alcuni cenni storici sulla cittadinanza romana“ (1877). Seine Studien Arbeiten halten ihn aktiv. Pietro Venturi wird ihm bald seine Ehrenbürgerurkunde der Stadt Rom überreichen. Gestern war er bei Filippo Cagiati mit Quirino Leoni und Ferdinando Santini zu Tisch. Er hält sich hauptsächlich im Haus von Karl Lindemann-Frommel auf. Dessen Schwägerin Charlotte Freifrau von Wechmar bricht in Kürze nach Neaplen auf; sein Sohn Manfred und der Schwager Otto von Racknitz werden Rom bald verlassen. Er selbst reist erst Mitte Juni zurück. Mariano soll auf dem Weg nach Berlin in seiner Münchener Wohnung bei seinen Geschwistern Julius und Ottilie Elgnowski übernachten. Er übersendet seinen Aufsatz „Tarent“ (1876). Er hofft, dass Marianos „L’individuo e lo stato nel rapporto economico e sociale“ (1876) bald ausgegeben wird. Er hat die unterkühlte Ersilia Caetani Lovatelli gesehen; morgen speist er mit Angelo de Gubernatis bei ihrem Vater, Michelangelo Caetani und dessen dritter Ehefrau Enricchetta. Wilhelm Nitka ist in Rom und reist demnächst nach Apulien. </p>
+                    <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1876-05-08" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000654">Capua</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Roma, <placeName key="ediarum_njc_s3x_qlb">Via Ripetta</placeName> 108. <lb/>8. Maggio 1876.</dateline>
+                    <salute rendition="#c">Caro amico Mariano,</salute>
+                </opener>
+<p>la dolorosa notizia della morte della <seg type="comment"><orig>sua madre</orig><note xml:id="neq3_z2w_zlb">Nicht ermittelt.</note></seg>, communicatami già per altra via, purtroppo mi viene confermata dalla sua propria lettera. Compiango l’amara perdita, che ha dovuto subire, e che lascerà nel suo cuore il più grande vuoto; chè per vero non saprei dire, quale perdita al mondo possa esser maggiore di quella della propria madre. Almeno questa consolazione, di averla posseduta molti anni e sino all’ età virile, mitigherà alquanto il suo dolore; quanto a me, avevo non più di 9 anni, quando perdetti <seg type="comment"><orig>la mia <persName key="G001207">madre</persName></orig><note xml:id="nh4f_1fw_zlb">Wilhelmine Gregorovius, geb. Kausch, (*1783) war am 17. März 1831 an Schwindsucht verstorben.</note></seg>, donna angelica per rarissime virtù di anima, che molto rassomigliava alla <seg type="comment"><orig>nostra cara amica <persName key="G001374">Lindemann</persName></orig><note xml:id="nqpg_bfw_zlb">Auguste Lindemann-Frommel (1826–1876) war nach längerer Krankheit am 18. März verstorben.</note></seg>.</p>
+<p>Non occorre dire, quanto io sia dolente di esser privato in Roma della sua compagnia; chè appunto colla stagione attuale, dove, forestieri incomin<supplied cert="high">ciano</supplied> <pb n="1v"/>ad andarsene, avremmo potuto girare insieme entro e fuori di Roma.</p>
+<p><seg type="comment"><orig>Del mio viaggio nei contorni di <placeName key="G000737">Napoli</placeName></orig><note xml:id="nqsg_cfw_zlb">Am 7. April hatte er Rom verlassen und war nach Neapel gereist. In seinem römischen Tagebuch berichtet Gregorovius von einer Reise nach nach Reggio Calabria, Messina, Taormina und Catania, die am 14. April in Neapel endete, von wo aus er sich direkt für einige Tage nach Castellammare di Stabia begab. Über Pompeji und Nocera kehrte er schließlich am 25. April nach Neapel und am 30. April nach Rom zurück (20.5.1876, S. 367).</note></seg> le ho scritto altra volta, come mi pare. Andetti a <placeName key="G000755">Pompeji</placeName>, a <placeName key="G000658">Cava</placeName>, e a <placeName key="G000742">Nocera</placeName>, perfino a <placeName key="G000864">Salerno</placeName>, e sempre a passi veloci. A Napoli, dove mi fermai 5 giorni, ebbi la consolazione di <seg type="comment"><orig>ritrovare il <persName key="G001675">Vera</persName></orig><note xml:id="nv33_dfw_zlb">Bei seinem Aufenthalt zwischen dem 25. und 30. April in Neapel war er „einmal zu Tisch bei Augusto Vera, welcher sein einsiedlerisches Leben auf der Höhe von Capodimonte fortsetzt“ (siehe RT, 20.5.1876, S. 367).</note></seg>, il quale non ancora aveva cambiato casa; anzi fui da lui a pranzo lautissimo. Egli mi regalò <seg type="comment"><orig>la sua lettera indiretta</orig><note xml:id="npc3_2fw_zlb">Der Brief „An Herrn Heinrich von Treitschke, Abgeordneten beim deutschen Reichstage“ (Preußische Jahrbücher 37, 1876, S. 382–401) erschien als Erwiderung auf Heinrich Gotthard von Treitschkes „Libera chiesa in libero stato. An Herrn A. Vera, Professor an der Universität zu Neapel“, (Preußische Jahrbücher 36, 1875, S. 229–240). Mit letzterem hatte Treitschke Stellung gegen das Vorwort der französischen Übersetzung von Veras „Cavour e libera chiesa in libero stato“ („Cavour et l'Église libre dans l'État libre“. Naple: Detken et Rocholl , 1874) bezogen, worin sich der italienische Philosoph gegen Treitschkes „Cavour“ (Cavour, Historische und Politische Aufsätze Bd. 1, Hirzel: Leipzig 1870) wendet. Der öffentliche Disput endete mit der „Schluß-Erwiderung“ Treitschkes (Preußische Jahrbücher 37, 1876, S. 401–407).</note></seg> al <seg type="comment"><orig><persName key="ed_vpk_s35_plb">Treischke</persName></orig><note xml:id="nemq_ffw_zlb">Heinrich Gotthard von Treitschke (1834–1896) gehörte seinerzeit zu den bekanntesten und meistgelesenen Historikern und politischen Publizisten Deutschlands, wird aus heutiger Sicht allerdings wegen seiner politisierenden und parteilichen Geschichtsschreibung sowie antisemitischer Äußerungen eher kritisch betrachtet. Er war von 1871–1884 Mitglied des Reichstags, bis 1878 als nationalliberaler Abgeordneter. Sein Hauptwerk ist die die fünfbändige „Deutsche Geschichte im Neunzehnten Jahrhundert“ (Hirzel: Leipzig, 1879–1894). </note></seg>, la quale mi piacque assai, perché è dignitosa, e nello stesso tempo piena di spirito e di gentilissime osservazioni.</p>
+<p>Dopo il mio ritorno a Roma, effettuato ora otto giorni fà, ho principiato <bibl corresp="G004017"><bibl sameAs="G003547"><seg type="comment"><orig>alcuni studj</orig><note xml:id="nwsz_gfw_zlb">Gregorovius’ italienische Abhandlung zum Thema erschien 1877 mit dem Titel „Alcuni cenni storici sulla cittadinanza romana“ (Atti della Reale Accademia dei Lincei. Classe di Scienze Morali, Storiche e Filologiche. Sitzung vom 21. Mai 1877, Ser. 3. Bd. 1. Rom: Coi Tipi del Salviucci 1877, S. 314–346); erst 1887 erschien die deutsche Fassung „Römische Bürgerbriefe seit dem Mittelalter“ (Kleine Schriften zur Geschichte und Cultur. 3 Bde. Leipzig: Brockhaus 1887–1892, Bd. 1, S. 265–323).</note></seg></bibl></bibl> intorno il modo, con cui furono creati i cittadini Romani nei tempi addietro; per questo scopo mi servo dei registri, che si conservano nell’<seg type="comment"><orig><orgName key="G000560">Archivio Segreto Capitolino</orgName></orig><note xml:id="nl5x_hfw_zlb">Heutzutage: „Archivio Storico Capitolino“.</note></seg>. <pb n="2r"/>Più tardi ne formerò un opuscolo, che potrà eccitare qualche interesse tanto in <placeName key="G000690">Italia</placeName> quanto in <placeName key="G000664">Germania</placeName>. Ma ohime! che bagattelle sono <add place="superlinear">mai</add> queste mie occupazioni attuali a fronte di <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">quel grandioso lavoro</bibl>, che è stato la mia vera vita; e ogni giorno più mi persuado, che la maggior felicità dell’uomo consiste nel lavoro, e voglio dire in un lavoro, che <add place="superlinear">con</add> richiedere il concorso di tutte le forze mentali, in se stesso assorbe la vita e la concentra idealmente. Ma io, che sono stato negli anni addietro un eroe del lavoro, or ora vado accattando dalle Muse qualche lavoruccio, per sostentare la mia vita intellettuale. Dispererei quasi di questo, ove non fosse, che una voce interna si fà sentire in me, la quale mi promette il ritorno della divinità del lavoro.</p>
+<p>Credo che fra poco mi verrà consegnato <seg type="comment"><orig>il diploma della cittadinanza</orig><note xml:id="nuyy_3fw_zlb">Die Urkunde über das römische Bürgerrecht wurde am 8. Mai vom Roms Bürgermeister Pietro Venturi (1824–1892) ausgestellt: „Am 8. Mai unterschrieb der Stadtrat mein Bürgerdiplom, welches mir der Syndikus schon vorher gezeigt hatte. Die Urkunde auf Pergament ist ein schönes, mit vielen Miniaturen verziertes Kunstwerk. Sie wurde mir am 9. Mai des Abends ohne weitere Form in das Haus geschickt, wie man mir vorher einen Orden so zugeschickt hatte. Ich ging folgenden Tages aufs Kapitol, dem Syndikus zu danken.“ (RT, 20.5.1876, S. 368–369 sowie eine Kopie der Urkunde im Nachlass BSB München, NL Gregorovius, Gregoroviusiana 18). Eine Beschreibung der von dem Graveur Francesco Bedoni gestalteten Urkunde findet sich in: Il Diritto. Giornale della Democrazia Italiana. Jg. 23. Rom 10.5.1876. </note></seg>, che secondo quel che mi diede ad intendere <seg type="comment"><orig>il <persName key="ed_8s1_n17_lm4">Sindaco</persName></orig><note xml:id="nsnz_jfw_zlb">Pietro Venturi (1824–1892), Jurist, hatte bereits von Mai bis November 1872 sowie von August 1874 bis Januar 1875 als Assessor in der Funktion des römischen Bürgermeister fungiert. Seit Januar 1875 war er ernannter Bürgermeister Roms, was er bis November 1877 blieb. </note></seg>, deve esser una cosa bella artistica. <seg type="comment"><orig>Il buonissimo <pb n="2v"/><persName key="G001012">Cagiati</persName></orig><note xml:id="nmnc_lfw_zlb">Filippo Cagiati (*1821) initiierte die Petition zur Verleihung der Ehrenbürgerwürde Roms an Gregorovius, die dem römischen Bürgermeister am 12. Februar von einer Gruppe von Befürwortern übergeben wurde (RT, 1.3.1876, S. 361–362).</note></seg> mi diede ieri sera un pranzone romano in famiglia; vi assistettero <seg type="comment"><orig><persName key="G001364">Quirino Leoni</persName></orig><note xml:id="nwrf_mfw_zlb">Quirino Leoni (1828–1897), einer der Unterstützter des Antrags zur Verleihung der römischen Ehrenbürgerwürde an Gregorovius.</note></seg>, <seg type="comment"><orig>il <persName key="G001567">Santini</persName></orig><note xml:id="ntdh_nfw_zlb">Gemeinsam mit Filippo Cagiati (*1821) hatte Ferdinando Santini die Bittschrift zur Verleihung der Ehrenbürgerwürde Roms an Gregorovius initiiert und verfasst (siehe RT, 1.3.1876, S. 361–362 und 20.5.1876, S. 368).</note></seg>, autore dell’ indirizzo, e <seg type="comment"><orig>un consigliere comunale</orig><note xml:id="ncwd_4fw_zlb"><p>Möglicherweise David Silvagni (1831–1897), Historiker, Journalist und Präfekt, der die Adresse der Bittschrift zur Verleihung der Ehrenbürgerwürde Roms an Gregorovius aufgesetzt hatte (siehe den Brief von Gregorovius an David Silvagni, 24.3.1876).</p></note></seg>.</p>
+<p>Vedo poche persone fuori degli amici <persName key="G001376"><persName key="G001375">L<ex>indemann</ex></persName></persName>. <seg type="comment"><orig>La signora <persName key="G001699">Wechmar</persName></orig><note xml:id="npfk_rfw_zlb">Charlotte Freifrau von Wechmar (1835–1884), geb. Freiin von Racknitz, Schwester der zum Zeitpunkt bereits verstorbenen Auguste Luise Lindemann-Frommel (1826–1876) und verwitwete zweite Ehefrau von Friedrich Freiherr von Wechmar (*1801).</note></seg> parte stassera alla volta di Napoli, in compagnia delle <seg type="comment"><orig>signore Stloko</orig><note xml:id="nykl_sfw_zlb">Nicht ermittelt; Gregorovius erwähnt in seinem römischen Tagbuch ebenfalls die Begegnung mit einer Frau von Stlotko (Sommer, Herbst und Winter 1876, S. 374).</note></seg>; <persName key="G001376">Manfredi</persName> partirà fra otto giorni accompagnato dal <seg type="comment"><orig>suo <persName key="G001521">zio</persName></orig><note xml:id="nxmr_tfw_zlb">Otto Freiherr von Racknitz (1829–1913), der Bruder von Auguste Luise Lindemann-Frommel, geb. Auguste Luise Karoline Freiin von Racknitz (1826–1876).</note></seg>.</p>
+<p><seg type="comment"><orig>Starò in Roma tutto il mese corrente, e forse ancora alcuni giorni del giugno, di modo che non giungerò a <placeName key="G000734">Monaco</placeName> prima della metà del mese sovradetto</orig><note xml:id="norp_5fw_zlb">Gregorovius verließ Rom am 18. Juni 1876 und kehrte über Florenz, Modena und Brixen nach München zurück (siehe den Brief von Gregorovius an Raffaele Mariano, 15.7.1876).</note></seg>. Siccome lei per recarsi a <placeName key="G000636">Berlino</placeName> dovrà toccare Monaco, farebbe un vero regalo ai <persName key="G001203"><persName key="G001111">miei</persName></persName>, se volesse fermarsi da loro; le mie camere stanno a disposizione sua, di modo che non avrà da temere di arrecare alla nostra casa un disturbo.</p>
+<p>Le invio sotto fascia una copia del mio articolo sopra <bibl sameAs="G004013"><placeName key="G000882">Taranto</placeName></bibl>, stampato nel giornale periodico <seg type="comment"><orig>„<foreign xml:lang="deu"><hi rendition="#aq"><orgName key="G000521">Im neuen Reich</orgName></hi></foreign>“</orig><note xml:id="nqx3_wfw_zlb">Im neuen Reich. Wochenschrift für das Leben des deutschen Volkes in Staat, Wissenschaft und Kunst. Hrsg. von Alfred Dove, Konrad Reichard und Wilhelm Lang in Leipzig, erschien von 1871 bis 1881.</note></seg> per il solo motivo, di compiere una promessa fatta al <seg type="comment"><orig><persName key="G001531">direttore</persName></orig><note xml:id="nd33_xfw_zlb">Konrad Reichard (1841–?), Historiker und Redakteur der Zeitschrift „Im Neuen Reich“. Gregorovius hatte ihn am 20.4.1876 gebeten, „[…] ein paar Abzüge meines Aufsatzes ‚Tarent‘ nach München [zu seinem Bruder …] zu dirigiren […]“ (Auszug in: J. A. Stargardt, Kat. 694, Berlin 2010, Nr. 402).</note></seg> del medesimo.</p>
+<p>Acchiudo tanti saluti dal<add place="superlinear">la parte di</add> tutti i Lindemann che sono sinceramente dolenti della <seg type="comment"><orig>perdita fatta da lei</orig><note xml:id="nojl_yfw_zlb">Er meint den Tod von Marianos Mutter.</note></seg> cosi all’improvviso. Le auguro il sollecito procedere della stampa del <bibl sameAs="ed_ryn_pjn_plb">libro</bibl>. Mi scriva presto.</p>
+                <closer>
+<salute rendition="#c">Tutto suo</salute>
+<signed rendition="#right">FGregorovius</signed> 
+                                <note type="postscript" place="left" rendition="#rotate90" xml:id="n1" next="#n2"><pb n="2r"/>Visitai <persName key="G001011">Donna Ers<ex>ilia</ex></persName>, che stava fredda fredda quanto un pesce di mare; visitai anche il <persName key="G001004">Duca</persName> colla sua signora <seg type="comment"><orig><add place="superlinear">Donna</add> <persName key="G001007">Terzana</persName></orig><note xml:id="nqd3_zfw_zlb">Enricchetta Caetani, ehemals Harriet Georgina Ellis (1831–1906), Tochter des britischen Diplomaten Charles Augustus Ellis (1799–1868), 6th Baron Howard de Walden und 2nd Baron Seaford, und ab 1875 dritte Ehefrau von Michelangelo Caetani.</note></seg>, che la chiamo cosi, per esser la terza di numero – pranzerò domani da loro in compagnia Del <seg type="comment"><orig><persName key="G001074">De Gubernatis</persName></orig><note xml:id="ngyh_1gw_zlb">Angelo De Gubernatis (1840–1913), italienischer Orientalist und Schriftsteller. Er würdigte Gregorovius posthum mit Einträgen im „Dizionario biografico degli scrittori contemporanei ornato di oltre 300 ritratti“ (Florenz: Le Monnier 1879. XXXII, S. 531) und im „Dictionaire international des écrivains du jour“ (Section 2: Comes à Le Loup. Florenz: Niccolai 1890. S. 1100).</note></seg>. </note>
+<note type="postscript" xml:id="n2" prev="#n1" place="left" rendition="#rotate90"><pb n="1v"/>È venuto qua <seg type="comment"><orig>il <persName key="G001449">Nitka</persName></orig><note xml:id="nq44_bgw_zlb">Vermutlich Wilhelm Nitka (1846–1922), Königlicher Baumeister zu Berlin, der ab 1892 an der Königlichen Technischen Hochschule lehrte, ab 1895 mit Prädikat Professor für Baukonstruktionslehre in der Abteilung I für Architektur der Königlichen Technischen Hochschule zu Berlin (ab 1919 Technische Hochschule zu Berlin). Nitka war bereits 1874 an einer Ausstellung von „Reiseskizzen nach dekorativen Werken Italiens“ im Deutschen Gewerbemuseum beteiligt (siehe „Beiblatt zur Zeitschrift für Bildende Kunst“, Nr. 40, 17.7.1874, S. 646).</note></seg>; lo salutai un momento; egli partirà fra giorni per la <placeName key="G000817">Puglia</placeName>.</note>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

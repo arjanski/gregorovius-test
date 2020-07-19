@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000170">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Heinrich Brockhaus in Leipzig. Rom, 20. April 1863 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Sächsisches Staatsarchiv Leipzig</repository><collection>Bestand 21083</collection><idno>Archivalnummer 224 (68)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¾ S. – 1r aoR Eingangs- und Beantwortungsvermerk: 1863. / <hi rendition="#aq">Rom</hi>, 20./27. <hi rendition="#aq">April</hi>, / <hi rendition="#aq">Gregorovius</hi> / B. 1. <hi rendition="#aq">Mai</hi> – Erledigungsvermerke im Text: „auf der einen Titelseite […] der Stücke auf:“ – „Haben Sie die Güte […] natürlich stehn.“<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 55, Mappe 332 (nach H)</idno> </idno></msIdentifier>
+</msDesc></p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Das Manuskript der zweiten Auflage seiner „Figuren. Geschichte Leben und Scenerie aus Italien“ (1864) wurde von Adelheid Grunelius nach Deutschland mitgenommen. Mit dem Wegfall der „Idyllen vom Baltischen Ufer“ ist Heinrich Brockhaus hoffentlich einverstanden. Er bittet seine Übersetzungsrechte ins Englische und Französische zu reservieren und teilt erneut die Reihenfolge der Aufsätze mit. Die neu aufgenommenen „Toscanischen Melodien“ werden Brockhaus gefallen – das einer Dame gewidmete Eingangsgedicht soll doch anonymisiert werden. Er arbeitet am Manuskript der „Lateinischen Sommer“ (1864). Die drei Bände „Wanderjahre in Italien“ werden sich auf dem Buchmarkt behaupten, weil sie „durch die Geschichte der Stadt Rom im Mittelalter getragen werden“ und die literarische Form einzigartig ist. Er wird im Sommer nicht nach Leipzig können, weil er für Bibliotheksarbeiten nach München muss. Eduard Brockhaus bittet er zu grüßen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">The manuscript of the second edition of his „Figuren. Geschichte Leben und Scenerie aus Italien“ (1864) was taken to Germany by Adelheid Grunelius. Heinrich Brockhaus will hopefully agree to cut the „Idyllen vom Baltischen Ufer“. He asks to reserve his translation rights into English and French and announces the order of the essays again. Brockhaus will like the newly included „Toscanische Melodien“ - the dedication, a poem for a lady, is to be made anonymous. He is working on the manuscript of the „Lateinische Sommer“ (1864). The three volumes „Wanderjahre in Italien“ will hold their own on the book market because they are „carried by the Geschichte der Stadt Rom im Mittelalter“ and the literary form is unique. He will not be able to go to Leipzig in the summer because he has to go to Munich to work in the library. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1863-04-20" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G000996">Brockhaus, Heinrich (1804–1874)</persName>
+<placeName key="G000712">Leipzig</placeName>
+</correspAction>
+<correspContext>
+<ref type="next">1. Mai 1863</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi>, 20. <hi rendition="#aq">April</hi> 1863.</dateline>
+                    <salute rendition="#c">Mein sehr verehrter Herr,</salute>
+                </opener>
+                <p>haben Sie besten Dank für die freundliche Bereitwilligkeit, mit welcher Sie sich der <bibl corresp="G003122"><seg type="comment"><orig>neuen Edition der „Figuren“</orig><note xml:id="nn53_fp3_cmb">Die zweite Auflage seiner „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) erschien 1864 erstmals als Band 1 unter dem Reihentitel „Wanderjahre in Italien“.</note></seg></bibl> etc. angenommen haben. Mittlerweile ist, wie ich es kurz vorher in einem Schreiben anmeldete, das revidirte Exemplar, <seg type="comment"><orig>am 11. April mit <persName key="G001215">Frau Grunelius</persName> abgegangen</orig><note xml:id="nuqz_fp3_cmb">Die in Baden-Baden wohnhafte Bankierswitwe Adelheid Grunelius (1813–1887) war im November 1862 nach Rom gekommen. Im Vorjahr hatte sie bereits einen Teil des Manuskripts vom vierten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1862) nach Deutschland mitgenommen (siehe den Brief von Gregorovius an Cotta, 10.5.1862 in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 246–247).</note></seg>, und wird vielleicht schon in <hi rendition="#aq">Leipzig</hi> eingetroffen sein. Ich hoffe, daß Sie sich <seg type="comment"><orig>mit der Auslaßung der „<bibl corresp="G003117">Baltischen Idyllen</bibl>“ einverstanden erklärt haben</orig><note xml:id="nnrq_gp3_cmb">In der zweiten Auflage seiner „Figuren. die „Idyllen vom baltischen Ufer“ weggelassen (Erstdruck unter dem Titel „Sommeridyllen vom samländischen Ufer“ im „Deutschen Museum“). Siehe den Brief von <ref target="G000168">Gregorovius an Brockhaus, 10.3.1863</ref>. Nach dem Brief von Gregorovius an Brockhaus vom 8.4.1863 hatte Heinrich Brockhaus zunächst nicht zugestimmt (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 67).</note></seg>. Ich habe alle übrigen Stücke einer genauen Correctur unterzogen, so daß der Stil so correct hergestellt worden ist, wie in den <bibl sameAs="G003252"><seg type="comment"><orig>Siciliana</orig><note xml:id="ncw2_hp3_cmb">Der 1861 erschienene Band, ab der 2. Auflage (1865) als Band 3 unter dem Reihentitel „Wanderjahre in Italien“.</note></seg></bibl>. Weil ich das Paket zuletzt beschleunigen mußte, weiß ich nicht ganz genau, ob ich gebeten habe, <seg type="comment"><orig>auf der einen Titelseite das <hi rendition="#u">Übersetzungsrecht ins Engl<ex>ische</ex> u<ex>nd</ex> Französ<ex>ische</ex></hi> zu reserviren</orig><note xml:id="ngkv_hp3_cmb">Die Reservierung des Übersetzungsrechts wurde wunschgemäß vermerkt.</note></seg>. Ferner schreibe ich noch einmal hier die <seg type="comment"><orig>Reihenfolge der Stücke</orig><note xml:id="ngqq_3p3_cmb">Siehe die Briefe von Gregorovius an Brockhaus vom <ref target="G000168">10.3.1863</ref> und <ref target="G000185">11.8.1863</ref>. Entgegen dieser Weisung übernahm der Verlag die Reihenfolge der ersten Auflage der „Figuren“ (ohne die weggefallenen „Idyllen vom baltischen Ufer“: – „Die Insel Elba“ – „Der Ghetto und die Juden in Rom“ – „Idyllen vom Lateinischen Ufer“ – „Römische Figuren“ und fügte die neu aufgenomenen Aufsätze „San Marco in Florenz“ und „Toscanische Melodien“ vor „Capri“ ein).</note></seg> auf:</p>
+<p>
+<list>
+<item>1. Elba.</item>
+<item>2. Toscanische Melodieen</item>
+<item>3. San <hi rendition="#aq">Marco</hi> in Florenz.</item>
+<item>4. Idyllen vom Latein<ex>ischen</ex> Ufer.</item>
+<item>5. <add place="intralinear">D<ex>er</ex></add> Ghetto u<ex>nd</ex> d<ex>ie</ex> Juden in Rom.</item>
+<item>6. Römische Figuren.</item>
+<item>7. Capri.</item>
+</list>
+</p>
+<p>Zu den Toscanisch<ex>en</ex> <pb n="1v"/>Melodien, welche, wie ich glaube, Ihnen gefallen werden, habe ich <seg type="comment"><orig>eine Widmung vorgesetzt, die Sie darin finden. Ich wünsche, daß der Name der Dame ausgestrichen werde, u<ex>nd</ex> es nur heiße: An <hi rendition="#sup">+++</hi> (mit drei Sternen)</orig><note xml:id="njzn_jp3_cmb">Die auf den 10. April 1863 datierte Widmung des Gedichts wurde wunschgemäß als „An *** diese Feldblumen“ anonymisiert (S. 295). Der ursprünglich vorgesehene Name konnte nicht ermittelt werden.</note></seg>, da diese kleine Liedersammlung doch nicht bedeutend genug ist. Haben Sie die Güte, dies zu thun. Das Widmungsgedicht bleibt natürlich stehn. Sonst wüßte ich nichts mehr zu bemerken.</p>
+<p>Ich bin dabei, <bibl corresp="G003183"><seg type="comment"><orig>den 2. Band</orig><note xml:id="npwd_kp3_cmb">Der Band erschien unter dem Titel „Lateinische Sommer“ als zweiter Band unter dem Reihentitel „Wanderjahre in Italien“ 1864.</note></seg></bibl> zum Druck herzustellen. Ich habe noch immer keinen beßeren Titel dafür aufgefunden, als <hi rendition="#u">Lateinische Sommer</hi>; ich werde nachsinnen, ob ich ihn noch finde. Dieser <seg type="comment"><orig><bibl corresp="G003184 G003185 G003186 G003187 G003188 G003189 G003190">2. Band enthält sehr gute Dinge</bibl>, u<ex>nd</ex> meistens <hi rendition="#aq">nova</hi></orig><note xml:id="nq4f_lp3_cmb">Der Band enthält: „Subiaco, das älteste Benedictinerkloster des Abendlandes, seine Geschichte und seine Altertümer“ (1858) – „Aus der Campagna von Rom“ (1856/1857) – „Aus den Bergen der lateinischen Campagna“ (1858) – „Aus den Bergen der Volsker“ (1860) – „Von den Ufern des Liris“ (1860) – „Die römischen Poeten der Gegenwart“ (1858) – „Avignon“ (1861). Siehe den Brief von <ref target="G000168">Gregorovius an Brockhaus, 10.3.1863</ref>.</note></seg>. Diese 3 Bände zusammen scheinen mir überhaupt, als in der Form abgerundeter Stücke <placeName key="G000690">Italien</placeName> von <placeName key="G000823">Toscana</placeName> bis <placeName key="G000575">Sicilien </placeName>darstellend, ein glücklicher Gedanke zu sein, u<ex>nd</ex> sie dürften sich lange behaupten, schon weil sie durch die <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Geschichte der Stadt Rom im Mittelalter</bibl> getragen werden. Ähnlich wenigstens ist Italien meines Wissens in keiner Literatur behandelt worden; ich meine, was diese Form betrifft.</p>
+<p><seg type="comment"><orig>Was die <bibl corresp="G003191 G003199 G003207 G003216 G003225 G003234 G003243">3. Auflage etc</bibl> betrifft, so proponirt Ihre Buchandlung, verehrter Herr, Usance gemäß, 150 Thaler per Band, als die Hälfte des stipulirten Honorars</orig><note xml:id="nasb_mp3_cmb">Gregorovius hatte die Vertragsbedingungen erst vor dem tatsächlichen Erscheinen der 3. Auflage fixiren wollen (siehe den Brief von <ref target="G000168">Gregorovius an Brockhaus, 10.3.1863</ref>).</note></seg>. Ich werde Ihrem Ermeßen anheimstellen, ob mir dieselbe pro Band nicht 200 Thaler <pb n="2r"/>für folgende Auflagen genehmigen kann, in Anbetracht deßen, daß der Reineintrag nach verkauften 2 Auflagen dies möglich machen würde.</p>
+<p>Ich gedenke <seg type="comment"><orig>Anfangs Juli ins <placeName key="G000664">Vaterland</placeName> zu reisen, um in <placeName key="G000734">München</placeName> zu arbeiten; und für jetzt weiß ich noch nicht, wie weit ich meine Reise ausdehnen darf</orig><note xml:id="nzkr_mp3_cmb">Gregorovius kam 1863 nicht nach Leipzig. Nach Aufenthalten am Viewaldstätter See und am Rheinfall reiste Gregorovius Ende Juli 1863 über Konstanz nach München, wo er bis zum 10. September 1863 blieb (siehe RT, 14.7.-9.9.1863, S. 162–167).</note></seg>. Denn Reisen kostet viel, u<ex>nd</ex> das Leben in Rom ist wegen der politischen Verhältniße fast schon aufs Doppelte des Preises gegen früher gestiegen. Ich wünsche sehnlich, Sie wieder zu sehen. Mit der Bitte, mich Ihrem <persName key="G000995">Herrn Sohn</persName> freundlich zu empfehlen, grüße ich Sie, mein teurer Herr, herzlich u<ex>nd</ex> verehrungsvoll</p>
+                <closer>
+<salute rendition="#c">Ihr</salute>
+                    <signed rendition="#right">FGregorovius.</signed></closer>
+<note type="postscript">Da ich den Brief durch die Landpost schicken muß, habe ich ihn nur bis zur Grenze frankiren können.</note>
+            </div>
+        </body>
+    </text>
+</TEI>

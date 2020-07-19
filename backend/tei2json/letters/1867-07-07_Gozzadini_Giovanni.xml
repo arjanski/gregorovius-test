@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000436">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. Rom, 7. Juli 1867 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository/><collection/><idno/></msIdentifier>
+<physDesc>
+<p/>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell’Archiginnasio</institution><collection>Ms. Gozzadini 442 </collection><idno>(3)</idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Der Aufsatz von Giuseppe De Leva (Il saccheggio di Roma del 1527, saggio critico sulla storia di Carlo V. per le nozze Salvadego-Plattis, 1857) ist nicht angekommen. In wenigen Tagen wird er über die Schweiz nach Deutschland aufbrechen und auf seiner Rückreise nach Bologna kommen. Aktuell überarbeitet er die ersten beiden Bände seiner „Geschichte der Stadt Rom im Mittelalter“ (1859). Er will Luigi Frati ein Exemplar des ersten Bandes der italienischen Übersetzung senden. In Deutschland wird er oft an die Gozzadini und an die Caetani in Frascati denken müssen.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1867-07-07" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni (1810–1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+<div type="writingSession">
+<opener>
+<dateline rendition="#right">Roma, 7. Luglio 1867.</dateline>
+<salute rendition="#c">Illustre Signor Conte,</salute>
+</opener>
+<p>ricevetti l’amabile sua lettera, ma quell’<bibl sameAs="G004219">opuscolo del De Leva</bibl>, con tanta bontà e premura fatto venire da Lei da <placeName key="G000747">Padova</placeName>, ed impostato, come umbra, per Roma, <seg type="comment"><orig>non mi raggiunge</orig><note xml:id="ndts_t1m_ylb">Zu Gregorovius’ Bitte an Gozzadini, ihm den Aufsatz von Giuseppe De Leva (1821–1895), der in Padua eine Professor für Geschichte innehatte, zu besorgen, siehe den Brief von Gregorovius an Giovanni Gozzadini vom <ref target="G000435">12.5.1867</ref>. </note></seg>. Potrebbe darsi però, che Lei l’abbia rattenuto ancora, per aver un altro mezzo di spedizione più sicuro. In ogni caso La prego di voler tenerlo presso di sè, infrattanto ch’io sia in grado di riprenderlo. Io partirò da Roma dopo pochi giorni e direttamente alla <placeName key="G000870">Svizzera</placeName>, non sapendo ancora <seg type="comment"><orig>se per via di Bologna</orig><note xml:id="ns53_v1m_ylb">Gregorovius reiste am 10. Juli abends aus Rom ab, hielt sich „nur anderthalb Stunden in Florenz“ auf und fuhr von dort in die Schweiz weiter (siehe RT, 17.7.1867, S. 227). </note></seg>. Temo bene <seg type="comment"><orig>un brutto tiro dalle quarantene</orig><note xml:id="ntcq_x1m_ylb">Zwar berichtet Gregorovius im Tagebuch nichts über eine Quarantäne, aber über eine Choleradurchräucherung in Narni, die zu einer Zugverspätung führte (siehe RT, 17.7.1867, S. 227). Bei solchen Räucherungen wurde mittels desinfizierendem und keimtötendem Räucherwerk (z.B. Wacholder, Salbei, Fichte, Kiefer) der von der Cholera betroffene Raum ausgeräuchert. </note></seg>. Non ne dispero però, <seg type="comment"><orig>di poter arrestarmi a Bologna nel ritornare</orig><note xml:id="nhch_z1m_ylb">Am 15. September reiste Gregorovius von Freiburg über Basel nach Italien zurück, am 19. September war er in Bologna. Er besuchte zunächst Luigi Frati (1815–1902) im Archigymnasium, ging dann in den Palazzo Gozzadini und von dort nach Ronzano, wo er auf die Gräfin traf. Er blieb bis zum 21. September in Bologna und kehrte von dort nach Rom zurück (siehe RT, S. 233–234). Die Gozzadinis hatten 1848 die Villa Ronzano außerhalb Bolognas erworben und unterhielten dort einen von illustren Gebildeten besuchten Salon (siehe den Brief von <ref target="G000388">Gregorovius an Giovanni Gozzadini, 3.11.1856</ref>). Nach dem Tod von Gozzadinis Ehefrau, der Gräfin Teresa Serego Alighieri Gozzadini (1812–1881), widmete Gregorovius dem Salon einen Essay: Die Villa Ronzano. Ein Musensitz der Gozzadini von Bologna (ED in: Nord und Süd. Eine deutsche Monatsschrift. Bd. 23. Breslau, Berlin: Schottlaender 1882. S. 312–321 – aufgenommen in: KS Bd. 3, S. 97–120). </note></seg> e riverire così Lor Signorie a <placeName key="G000822">Ronzano</placeName>. Pensando che Lei o la <persName key="G001092">Signora Contessa</persName> abbiano letto le miserie del mio I° volume, io mi copro la faccia con ambedue le mani. Ci vuole grande indulgenza, certamente. La mia disgrazia di fatti si è, che l’opera mia incomincia coi <bibl corresp="G003476 G003485">due primi volumi</bibl>, ossia che il lettore non puo saltarvi sopra, per cominiciar la lettura col <bibl sameAs="G003469">terzo volume</bibl>. Dachhè egli si è là, dove l’autore stesso ha <pb n="2"/>imparato un po’ a scriver meglio. Quei due volumi, oltre che per il bujo delle barbare epoche, essi sono i meno interessanti, <seg type="comment"><orig>portano anche l’impronta dell’epoca immatura dell’autore</orig><note xml:id="nf4k_bbm_ylb">Im Tagebuch berichtet er von Überarbeitungen der ersten beiden Bände seiner „Geschichte der Stadt Rom im Mittelalter“ (siehe RT, 8.7.1867, S. 225). An der selben Stelle reflektiert er über die Qualität von Band eins und zwei und schreibt, dass diese das „Fundament“ für die kommenden Bände sind (siehe dazu auch den Brief von <ref target="G000433">Gregorovius an Giovanni Gozzadini, 24.2.1867</ref>). Die Neuauflagen von Band eins und zwei erschienen 1869. </note></seg>. Oh quanto si è difficile il far bene anche la minima cosa! – Sono ormai 12. anni, ch’<seg type="comment"><orig>io incomincia a stendere la storia di Roma</orig><note xml:id="ni5q_cbm_ylb">„[…] begonnen die Studien zur Geschichte der Stadt Rom im Mittelalter.“ (RT, Jahresschluß 1855, S. 58).</note></seg>. </p>
+<p>Dubito, che non sia spedito al <seg type="comment"><orig>dottissimo <persName key="G001136">Signor Frati</persName></orig><note xml:id="nlw5_dbm_ylb">Luigi Frati (1815–1902) war ab 1858 Leiter der Biblioteca Comunale dell’Archiginnasio. Gregorovius lernte ihn im September 1863 in Bologna kennen, als Frati ihm das Archivio pubblico im Palazzo del Podestà zugänglich machte (siehe den Brief von <ref target="G000428">Gregorovius an Luigi Frati, 4.10.1863</ref>).</note></seg>, dello <seg type="comment"><orig>splendido <bibl sameAs="G004305">lavoro di cui intorno alle <hi rendition="#u" hand="">statuta</hi> di Bologna</bibl> io mi sono bene avvalso</orig><note xml:id="nojk_gbm_ylb">Die von Frati herausgegebenen „Statuti di Bologna dall’anno 1245 all’anno 1267“ (Bologna, 3 Bde.) erschienen erst 1869–1877. Gregorovius hatte aber offensichtlich bereits früher Zugriff darauf, siehe seine „Geschichte der Stadt Rom im Mittelalter“ (1865), S. 284.</note></seg>, una copia come io lo ordinai. Gliene farò venire io una da Roma, dove tutte le copie dovute all’autore sono mandate.</p>
+<p>Io resterò in <placeName key="G000664">Germania</placeName> fino alla metà del Settembre. Se Lei, gentilissimo signor Conte, avesse da comandare di colà alcuna cosa, eccomi fronte ai suoi servigi. L’indirizzo mio sarebbe: <placeName key="G000879">Stuttgart</placeName>, <persName key="G001053">Barone di Cotta</persName>, libraro.</p>
+<p>Spero che avranno placidi e felici giorni nella bella villa lassù, ne penserò molte volte nella mia patria, come penserò ai miei distinti amici, <seg type="comment"><orig><persName key="G001244">i Gaetani</persName> di Roma</orig><note xml:id="nwtk_hbm_ylb">Mit der römischen Adelsfamilie Caetani, vor allem mit deren Tochter Ersilia Caetani (1840–1925), später Caetani-Lovatelli sowie eine geschätzte Archäologin, war Gregorovius eng befreundet. Er verkehrte regelmäßig im Salon der „gelehrtesten Frau Roms und vielleicht Italiens“ (RT, S. 336). </note></seg> – <seg type="comment"><orig>il <persName key="G001004">duca Don Meichele</persName>, uomo straordinario per forza d’ingegno, purtroppo oramai del tutto è orbo di vista</orig><note xml:id="nkgg_jbm_ylb">Der Dante-Forscher Michelangelo Caetani (1804–1882), Herzog von Sermoneta, hatte Gregorovius seit dem 19. Dezember 1857 sein Hausarchiv zur Verfügung gestellt (siehe RT, S. 69). Ihm widmete Gregorovius seine „Lucrezia Borgia“ (Stuttgart 1874, 2 Bde.). Caetani verlor zunehmend seine Sehkraft und war zum Ende seines Lebens völlig erblindet.</note></seg> – i quali villeggiano attualmente a <placeName key="G000675">Frascati</placeName> –</p>
+<p><pb n="3"/>Che giorni quieti e pieni di gioja intellettuale Loro non meneranno a Ronzano, colmi di felicità di famiglia, amati dalla patria, conciliando, raro legame! Fortuna e virtù! </p>
+<p>Augurando dunque Loro, Signor Conte e <persName key="G001092">Signora Contessa</persName> un non interrotto piacere di estate con ottima salute, io mi raccomando alla di Loro gentile e benevola memoria</p>
+<closer>
+<salute xml:id="s1" next="#s2" rendition="#right">quale Lor sincer amento</salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">devoto servitore</salute>
+<signed rendition="#right">Gregorovius.<note type="postscript">Sono rattristato profondamente dalla <seg type="comment"><orig>tragica fine di <persName key="G001409">Massimiliano</persName></orig><note xml:id="nub4_lbm_ylb">Möglicherweise Maximilian I. (1832), Kaiser von Mexiko, der am 19. Juni 1867 in Mexiko von der Gegenregierung gefangen genommen und hingerichtet wurde.</note></seg>. Ecco una tragedia dei nostri giorni! </note></signed>
+</closer>
+</div>
+</body>
+    </text>
+</TEI>

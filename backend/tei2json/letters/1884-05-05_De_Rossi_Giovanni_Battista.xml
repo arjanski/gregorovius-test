@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000418">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Giovanni Battista De Rossi in Rom. Rom, 5. Mai 1884  </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Rom, Biblioteca Apostolica Vaticana</repository><collection>Vat. Lat. 14271, Carteggio Giovanni Battista De Rossi 1884</collection><idno>fol. 335 Nr. 281</idno></msIdentifier>
+<physDesc>
+<p>BK, 2 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er bedankt sich für De Rossis Mitteilung einer Fotografie der Romkarte von Carlo Promis und der Beschreibung eines Codex von Carlo Cipolla. Es ist überflüssig die Romkarte aus Turin zu publizieren, da sie der Romkarte von Leonardo da Besozzo in der Mailänder Chronik „Imagines pictae virorum illustrium“ (um 1400) ähnlich ist. Diese hatte Gregorovius 1883 in den Akten der Accademia nazionale dei Lincei veröffentlicht: Una pianta di Roma delineata da Leonardo da Besozzo milanese, in: Atti della R. Accademia dei Lincei (aufgenommen unter dem Titel „Eine Weltchronik in Bildern“ in KS II, S. 1–32).</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1884-05-05" cert="low"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001085">De Rossi, Giovanni Battista (1822–1894)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<address rendition="#mPrint">
+<addrLine>FERDINAND GREGOROVIUS.</addrLine>
+</address>
+<salute rendition="#c">Illustre Signor De <?oxy_comment_start author="weiger" timestamp="20190813T161759+0200" comment="Der Archäologe Giovanni Battista De Rossi (1822–1894)."?>Rossi<?oxy_comment_end?>,</salute>
+</opener>
+                <p>le rendo infinite grazie della premura che si prese, di communicarmi la fotografia della pianta torinese di Roma fatta eseguita dal Signor <?oxy_comment_start author="weiger" timestamp="20190813T161822+0200" comment="Der aus Turin stammende Architekt und Archäologe Carlo Promis (1808–1873) arbeitete in Rom unter den bedeutendsten Architekturhistorikern seiner Zeit, wie Carlo Fea (1753–1836), Luigi Canina (1795–1856) und Antonio Nibby (1792–1839). Er realisierte einige wichtige urbanistische und architektonische Projekte in Turin, zum Beispiel die Casa Rizzetti. Als Gregorovius im September 1862 Turin besuchte, führte Promis ihn durch die königliche Bibliothek und die Universität (siehe RT 18.9.1862, S. 154). De Rossis Interesse an Romkarten hatte seinen Niederschlag in dem Buch „Piante icnografiche e prospettiche di Roma, anteriori al secolo XVI“ (Rom 1879) gefunden."?>Promis<?oxy_comment_end?>, e la descrizione del Codice fatta dal Signor Conte <?oxy_comment_start author="weiger" timestamp="20190813T161852+0200" comment="Das Hauptwerk des Historikers Carlo Cipolla (1854–1916) ist eine „Storia delle Signorie italiane dal 1313 al 1530“ (Mailand 1881). Zum Tod von Gregorovius veröffentlichte er einen Nachruf: Commemorazione di Ferdinando Gregorovius, in: Atti della R. Accademia delle Scienze di Torino. Bd. 26. Turin 1891, S. 660–669."?>Cipolla<?oxy_comment_end?>. Le restituirò le carte, appena me ne sarò servito. D’altronde mi persuado, che il voler pubblicare anche la pianta torinese, <pb n="1v"/>sarebbe quasi cosa superflua, essendo essa presso a poco identica a quella milanese già riprodotta negli Atti dei <?oxy_comment_start author="weiger" timestamp="20190813T161922+0200" comment="Gemeint ist die Romkarte in der vom lombardischen Maler Leonardo da Besozzo um 1400 illustrierten Chronik „Imagines pictae virorum illustrium“ (Mailand, Diözesanmuseum, Sammlung Crespi). 1883 hatte Gregorovius diese in den Akten der Akademie veröffentlicht: Una pianta di Roma delineata da Leonardo da Besozzo milanese, in: Atti della R. Accademia dei Lincei (aufgenommen unter dem Titel „Eine Weltchronik in Bildern“ in KS II, S. 1–32) (siehe den Brief von Gregorovius an De Rossi aus dem Jahr 1882)."?>Lincei<?oxy_comment_end?>. Più premerebbe un confronto di ambidue le cronache mondiali, ed in fine la soluzione della quistione della loro origine, essendo la milanese e la torinese identiche nel concetto quanto nelle epoche storiche, e con tutto ciò differenti l’una dall’altra per variazioni di non lieve interesse.</p>
+                <closer>
+<salute rendition="#right">Suo devotissimo </salute>
+<signed rendition="#right">FGr</signed>
+<dateline>Roma 5. Maggio 84 </dateline>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

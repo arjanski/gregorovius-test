@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000284">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Georg Gottfried Gervinus in Heidelberg. Rom, 25. Dezember 1868</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Universitätsbibliothek Heidelberg</repository><collection>NL Georg Gottfried Gervinus</collection><idno>Heid. Hs. 2526,141 (4)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. – 1r + 2r aoR geprägt: ROMA</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 6 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+<msDesc type="concept"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 86, Mappe 4 (nach D)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Oswald Dammann: Ferdinand Gregorovius und Georg Gottfried Gervinus. Mit elf unveröffentlichten Gregoroviusbriefen. In: Zeitschrift für die Geschichte des Oberrheins. N. F. Bd. 56. Karlsruhe im Br.: Braun 1943. S. 628–629</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er freut sich, dass sich das Augenleiden von Viktoria Gervinus gebessert hat. Der Winter ist so mild wie er untätig gewesen ist. Bei Wilhelm Henzen hat er Sofie Delffs getroffen und bewundert, wagt aber nicht, gegen seine sonstige Gewohnheit häufiger dort hinzugehen. Gustav Parthey und seine Tochter Veronika sind in Rom zu Unrecht nicht gut angesehen, er besucht sie gelegentlich. Er freut sich wie Lindemann-Frommels auf das Eintreffen von Gervinus’ „Händel und Shakespeare“ (1869), auch wenn er von Musik nichts versteht. Den Musikhistoriker Arrey von Dommer setzte er vor den musikalischen Katalog von Santa Maria sopra Minerva, in den dieser sich sofort vertiefte.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1868-12-25" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001168">Gervinus, Georg Gottfried (1805–1871)</persName>
+<placeName key="G000685">Heidelberg</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c">Weihnachtsabend 1868.</dateline>
+<salute rendition="#c">Mein hochverehrter Herr und Freund,</salute>
+</opener>
+<p>ich sende Ihnen und Ihrer <persName key="G001169">Frau Gemalin</persName>, vereint mit den <persName key="G001374"><persName key="G001375">Freunden Lindemann</persName></persName>, die wärmsten Wünsche zum neuen Jahre, welches in Ihr gastliches Haus als ein Genius eintreten mag, in seinem Füllhorn alle diejenigen Gaben, welche Sie noch wünschen. Vor allem soll darunter auch die <?oxy_comment_start author="Angela Steinsiek" timestamp="20200408T165353+0200" comment="Viktoria Gervinus hatte unter einer Erkrankung der Netzhaut gelitten (siehe die Briefe von Gregorovius an Gervinus, 14.8.1868, 8.9.1868, 8.11.1868, 2.5.1869 und 4.8.1869)."?>volle Gesundheit Ihrer Frau Gemalin sein, welche sich zu unserer Freude, wie Sie selbst geschrieben haben, doch schon wieder hergestellt hat<?oxy_comment_end?>. </p>
+<p>Ich blicke freilich nur mit Zweifel auf das Jahr 1869; es zieht so viel Rheumatismus in den alten Weltknochen herein, daß wir leicht schlimme <pb n="1v"/>Dinge erleben können.</p>
+<p>Der römische Winter, vollkommen milde, fast <hi rendition="#aq"><foreign xml:lang="ita">dolcemente</foreign></hi> faul (ich meine dies leider auch im Moralischen, was meine Kleinigkeit anbetrifft) brachte so endlose Menschenströme in die Stadt, namentlich von <placeName key="G000664">Deutschland</placeName> her, daß ich darin halb ertrunken bin. Ich kann fast nie mehr einen Abend mir selbst leben: das wird nachgerade, bei der immer leichteren Communication, unerträglich.</p>
+<p><persName key="G001076"><?oxy_comment_start author="Angela Steinsiek" timestamp="20200408T164320+0200" comment="Die Tochter des Heidelberger Pharmakologen Wilhelm Delffs (1812–1894), vermutlich die begabte Sofie Delffs (1844–1911), die im Hause Gervinus verkehrte. Sie übersetzt später Josef Viktor von Scheffels (1826–1886) „Ekkehard“ (1855) und Wilhelm Raabes (1831–1910) „Schüdderump“ (1869) ins Englische."?>Fräulein Delfs’</persName><?oxy_comment_end?>, mir noch bekannt von jenem Abende, wo mich, wie das bisweilen geschieht, Alter nicht vor Jugend schützte, habe ich mit Vergnügen einmal bei <persName key="G001263"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190111T202733+0100" comment="Der Altertumsforscher Wilhelm Henzen (1816–1887) war 1856–1887 Direktor des Deutschen Archäologischen Instituts in Rom."?>Henzen<?oxy_comment_end?></persName> gesehen, dann ein ander Mal verfehlt. Weil <pb n="2v"/>ich sonst bei H<ex>enzen</ex> nie verkehrte, konnte ich nicht gut jetzt <hi rendition="#aq"><foreign xml:lang="Lat">de abrupto</foreign></hi> häufigeren Verkehr beginnen, nur um dort einer schönen „<?oxy_comment_start author="Angela Steinsiek" timestamp="20200408T165805+0200" comment="Scherzhafte Bezeichnung der Heidelberger für die am rechten Neckarufer Ansässigen."?>überflüßigen<?oxy_comment_end?>“ Dame aus <placeName key="G000685">Heidelberg</placeName> meine Huldigungen zu Füßen zu legen. Dem alten <?oxy_comment_start author="Angela Steinsiek" timestamp="20200408T165849+0200" comment="Der Philologe und Altertumsforscher Gustav Parthey (1798–1872) und seine jüngste Tochter Veronika (1828–1893) verbrachten den Winter 1868–1869 in Rom (siehe auch den Brief von Gregorovius an Gervinus, 8.11.1868)."?><persName key="G001472">Parthey</persName> u<ex>nd</ex> dessen <persName key="G001473">Tochter</persName><?oxy_comment_end?> geschieht, so glaube ich, Unrecht; es sind dies sehr harmlose Menschen, die nirgend über eines Dritten Wege springen. Ich habe sie recht gern, und besuche bisweilen.</p>
+<p>Ihre Freundlichkeit, mein verehrter Herr, mir und L<ex>indemann</ex>’s <?oxy_comment_start author="Angela Steinsiek" timestamp="20200408T170023+0200" comment="Georg Gottfried Gervinus: Händel und Shakespeare. Zur Ästhetik der Tonkunst. Leipzig: Wilhelm Engelmann 1868 (siehe die Briefe von Gregorovius an Gervinus, 8.11.1868 und 2.5.1869)."?>Ihre <bibl sameAs="G004259">Schrift über Händel u<ex>nd</ex> Shakesp<ex>eare</ex></bibl> <?oxy_comment_end?>nach Rom schicken zu wollen, hat mich auf das Herzlichste erfreut. Obwol ich von der Musik als einem dargestellten Kunstwerk ungefähr so viel verstehe, als einer, der auf 1 ½ Ohren taub ist, so begeistert mich doch alles Melodische. Mir scheint überhaupt, daß nur die Musik allein <pb n="2v"/>die Brücke ist, welche diese materielle Welt der <del rendition="#s">Sphäre</del> Schwere mit einem höheren Geisterreich verbindet. Es wird sich hoffentlich eine Gelegenheit <hi rendition="#aq"><foreign xml:lang="ita">di mano</foreign></hi> finden, dies Buch zu mir gelangen zu lassen.</p>
+<p><persName key="G001095">Herrn v<ex>on</ex> <?oxy_comment_start author="Angela Steinsiek" timestamp="20190111T202828+0100" comment="Der in Hamburg lehrende Musikhistoriker und Bibliothekar Arrey von Dommer (1828–1905) hielt sich im Winter 1868–1869 in Rom auf."?>Dommer<?oxy_comment_end?></persName> (oder so ungefähr heißend) führte ich nach der <placeName key="G000772"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190111T202643+0100" comment="Santa Maria sopra Minerva, eine der Hauptkirchen des Dominikanerordens in Rom."?>Minerva<?oxy_comment_end?></placeName> u<ex>nd</ex> setzte ihn daselbst feierlich vor den großen musikalischen Katalog, worauf ich seit einigen Wochen seine Spur verlor.</p>
+<p xml:id="p7" next="#p8">Ich denke Sie mir heute, verehrte Frau Gervinus, eine Welt von Pfleglingen bewirtend u<ex>nd</ex> an einem brennenden Tannenbaum beschenkend. Es sind nun viele Jahre her, daß ich dies heimatlichste der Feste nicht mehr im Vaterlande feierte. Es macht mich immer wehmütig, wenn um die <hi rendition="#aq">Ave Maria</hi>-Stunde die tausend Glocken Roms an diesem Abende ertönen – das ist ein Meer von Tönen, aus dem alle </p>
+<p xml:id="p8" prev="#p7" place="left" rendition="#rotate90">frohen u<ex>nd</ex> trüben Erinnerungen des Lebens auf u<ex>nd</ex> niedersteigen. Gedenken Sie Ihrer einsamen Freunde im alten Rom, unter denen hier einer ist, der Ihnen für die Dauer innige Verehrung widmet</p>
+<closer>
+<signed rendition="#right" place="left">FGregorovius.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

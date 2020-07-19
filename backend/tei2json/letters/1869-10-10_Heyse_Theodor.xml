@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000307">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Theodor Heyse in Florenz. Rom, 10. Oktober 1869</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository> Archiv der BBAW</repository><collection>NL Theodor Heyse</collection><collection>00</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¾ S. – 1r + 2r aoR geprägt: ROMA</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 6 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 88, Mappe 18 (nach h 1)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Paul Heyse hat ihm in München seine „Moralische Novellen“ (1869) für den Onkel Theodor Heyse mitgegeben, doch führte ihn seine Rückreise nach Rom nicht über Florenz, auch hat er seine Adresse nicht. Er bittet, einen für ihn auf dem preußischen Konsulat in Florenz lagernden Brief nach Rom zu schicken. Sein Aufenthalt in Zürich und Stuttgart war persönlich und geschäftlich sehr lohnend. In Stuttgart hat er Ferdinand Freiligrath kennengelernt. In München traf er Georg Gottfried Gervinus, hat Wilhelm von Giesebrecht aber verfehlt. Von Paul Heyse gefällt ihm die Novelle „Der todte See“; dessen Frau Anna war zur Kur. Das schlechte deutsche Wetter lässt ihn zweifeln, ob eine Übersiedlung nach Abschluss seiner „Geschichte der Stadt Rom im Mittelalter“ (1859-1872) in zwei Jahren ratsam ist. In Neapel ist der Kunsthändler Johannes Matthias Commeter verstorben.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1869-10-10" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001275">Heyse, Theodor (1803–1884)</persName>
+<placeName key="G000671">Florenz</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline><hi rendition="#aq">Via Gregoriana</hi> 13. <lb/>10. Oct<ex>o</ex>b<ex>e</ex>r 69.</dateline>
+                    <salute rendition="#c">Verehrtester Freund,</salute>
+                </opener>
+<p>als ich am Ende des <hi rendition="#aq">Sept<ex>ember</ex></hi> in <placeName key="G000734">München</placeName> war, gab mir <seg type="comment"><orig>Ihr <persName key="G001274">Neffe</persName></orig><note xml:id="nlrp_xxj_jlb">Der Schriftsteller, Dichter und Übersetzer Paul Heyse (1830–1914) – siehe RT, 24.9.1869, S. 264.</note></seg> <bibl sameAs="G004318">einen Band Novellen</bibl> für Sie mit. Ich habe Florenz auf der Rückreise nicht berührt, konnte Ihnen also dies Buch nicht zustellen, sondern mußte es mit mir nach Rom nehmen. Geben Sie mir eine Gelegenheit an, durch welche es sicher zu Ihnen gelangen kann; denn ich selbst weiß vor der Hand keine, auch nicht einmal ganz sicher Ihre Adresse.</p>
+<p>Leisten Sie mir doch, ich bitte, einen kleinen Gegendienst. Auf dem Florentiner Consulat Preußens liegt ein Brief für mich; diesen haben Sie die Güte an sich zu nehmen, u<ex>nd</ex> mir nach Rom zu schicken.</p>
+<p>Meine Reise war sehr gut; mein Aufenthalt in <placeName key="G000903">Zürich</placeName> u<ex>nd</ex> <placeName key="G000879">Stuttgart</placeName> sehr lohnen<subst><del rendition="#s">swert</del><add place="across">d</add></subst>, namentlich am <pb n="1v"/>letztem Ort, wo ich viele alte Freunde habe, <seg type="comment"><orig>neue fand, wie den trefflichen <persName key="G001138">Freiligrat</persName></orig><note xml:id="nv2v_txj_jlb">In seinem Tagebuch schildert Gregorovius die Begegnung mit dem republikanisch gesinnten Dichter Ferdinand Freiligrath (1810–1876) ausführlich: „Am 7. September hatte ich meine erste Begegnung mit Freiligrath im Café Marquardt, wohin ihn Walesrode brachte. Die Persönlichkeit Freiligraths überraschte mich. Er ist fast so stark beleibt wie Falstaff und nachlässig in der Kleidung – ein großer, mächtiger, fast löwenartiger Kopf mit sehr hoher Stirn, lange, ins Grau spielende Haare – breite Züge voll Weichheit; sein Ausdruck und Wesen sprechen eine gesunde, fast flamländische Natur und reine Herzensgüte aus. In dem Ruf dieser vorzüglichen Eigenschaften steht auch Freiligrath überall. Seine Rede ist frei von Absicht; ich hörte ihn nie etwas Geistreiches sagen. Am 10. September war ich bei ihm zum Tee (noch nach englischer Sitte). Ich sah dort seine Frau, eine geborene Melos aus Weimar, eine feine, würdige Erscheinung. Ich vermied jedes politische Gespräch, worin wir nicht würden übereinkommen sein; denn er will nichts von Preußen wissen. Lächelnd wies ich nur auf den schwarz und weiß getäfelten Fußboden in seinem Vorhause. Freiligrath lebt in Stuttgart im Genuß der ihm von Deutschland gestifteten Rente und kann nun sein Alter in glücklicher Ruhe hinbringen. Er hat vor kurzem zwei Töchter verheiratet. Von seinen Söhnen ist der eine Kaufmann, der andere Gerber geworden. Wie es scheint, will die demokratische Partei Freiligrath an Waldecks Stelle als Abgeordneten wählen – doch dürfte er auf dem Felde der Politik wenig Lorbeeren zu pflücken haben.“ (RT, 13.9.1869, S. 263). Siehe auch den Brief von Gregorovius an Freiligrath, 22.4.1871.</note></seg>, u<ex>nd</ex> <seg type="comment"><orig>mit dem <orgName key="G000523">Hause Cotta</orgName> sehr gut meine Affären abschloß</orig><note xml:id="nqvz_rxj_jlb">Zu seinem Stuttgarter Aufenthalt vom 26.8. bis 17.9.1869 siehe RT, 13.9.1869, S. 262–264. Abgeschlossen wurde der Druck der zweiten Auflage des zweiten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1869) und der Abschluss der Korrektur für die zweite Auflage des dritten Bandes (1870) stand bevor. Vereinbart wurde auch die Neuauflage seines italienischen Erstlings „Corsica“ (1854), die zu Weihnachten 1869 erscheinen sollte (siehe Brief von Gregorovius an Albert Freiherr von Reischach, 16.9.1869 in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 282).</note></seg>. <seg type="comment"><orig>In München war ich mit <persName key="G001168">Gervinus</persName></orig><note xml:id="ni22_myj_jlb">Georg Gottfried Gervinus war mit seiner Frau nach München gekommen, um die Kunstaustellung im Königlichen Glaspalast vom 20. Juli bis 31. Oktober 1869 zu besuchen (http://daten.digitale-sammlungen.de/~db/0000/bsb00001760/images. Gregorovius vermerkte hierüber im Tagebuch: „Gervinus und Frau kamen, beide hergestellt, doch betrübt durch den Tod ihres ausgezeichneten Freundes, des Medizinalrats Pfeuffer [der Gervinus befreundete Carl von Pfeufer (*1806), Professor für Therapie und Klinik und Internist des Allgemeinen Krankenhauses in München, war am 13. September 1869 verstorben]. Wir verlebten einige angenehme Stunden zusammen, besuchten auch die Galerie Schack“ (siehe RT, 24.9.1869, S. 264 und den Brief von Gregorovius an Gervinus, 4.8.1869).</note></seg>, <seg type="comment"><orig>konnte aber <persName key="G001173">Giesebrecht</persName> nicht mehr erwarten</orig><note xml:id="nytn_4yj_jlb">Ursprünglich wollte Gregorovius Wilhelm von Giesebrecht in Berchtesgaden treffen; die Reise unterblieb, vermutlich weil Gregorovius neuerlich Fieberschübe erlitt (siehe die Briefe von Gregorovius an Rühl, 16. und 19.9.1869 in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 282–284).</note></seg>. Ihr Neffe, eine glückliche u<ex>nd</ex> von der Sonne beschienene Natur, machte einen sehr freundlichen Eindruck auf mich. Unter seinen jüngsten Novellen hat mir <seg type="comment"><orig>„Der todte See“</orig><note xml:id="nzz2_qyj_jlb">Heyses Novelle „Am toten See“ war in der Sammlung „Moralische Novellen“ neben „Die beiden Schwestern“, „Lorenz und Lore“, „Vetter Gabriel“ und „Der Turm von Nonza“) erschienen.</note></seg> recht gefallen. <seg type="comment"><orig>Die <persName key="G001272">Frau</persName> soll kränklich sein</orig><note xml:id="nydr_ryj_jlb">Heyse war seit 1867 in Ehe mit Anna, geb. Schubart (1850–1930) verheiratet.</note></seg>, u<ex>nd</ex> war in einem Bade. Wenn nicht das <seg type="comment"><orig>kimmerische Wetter</orig><note xml:id="nytz_syj_jlb">Nach dem früher in Südrussland ansässigen Stamm der Kimmerier, oft in der Bedeutung von Nebel-Regen-Wetter verwendet.</note></seg> draußen wäre und manches andre Übel, was hauptsächlich einem lediglosen Menschen oder <seg type="comment"><orig><seg type="comment"><orig><hi rendition="#aq"><foreign xml:lang="ita">scapolo</foreign></hi></orig><note xml:id="ne3r_5yj_jlb">Ital.: Junggeselle.</note></seg></orig><note xml:id="ndnl_5yj_jlb"><?UNIQUE_CARET_MARKER_FOR_AUTHOR?></note></seg> und der glücklicher Weise nicht amtlich numerirt u<ex>nd</ex> einregistrirt ist, fühlbar wird, ja wenn das nicht wäre, so möchte ich gern nach <placeName key="G000664">Deutschland</placeName> zurückkehren. Viele Freunde <pb n="2r"/>wünschen das; Gervinus ist der Einzige, der mich abmahnt. Doch habe ich noch 2 Jahre vollauf in Rom zu thun.</p>
+<p>Daß der <seg type="comment"><orig>alte <persName key="G001042">Commeter</persName> in <placeName key="G000737">Neapel </placeName>starb (am 15. <hi rendition="#aq">Aug<ex>ust</ex></hi>)</orig><note xml:id="nq3g_xyj_jlb">Der Hamburger Kunsthändler, Sammler und Mäzen Johannes Matthias Commeter (1791–1869) war seit 1847 Mitglied des Deutschen Künstlervereins in Rom. Er hinterließ der neugegründeten Kunsthalle in Hamburg seinen kostbaren Besitz an alten Gemälden und Zeichnungen. Commeter war einer der ältesten Freunde von Gregorovius in Rom (siehe RT, 21.8.1869, S. 262 sowie den Brief von Gregorovius an Heinrich Brockhaus, 16.5.1863; Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 69).</note></seg> wissen Sie wol bereits. </p>
+<p>Sie haben hoffentlich einen guten Sommer gehabt und gehen mit heiterer Tapferkeit einem gleich guten Winter entgegen.</p>
+<p>Bitte, schreiben Sie mir ein paar Zeilen</p>
+                <closer>
+                    <salute rendition="#c">Aufrichtig <lb/>Ihr</salute>
+                    <signed rendition="#right">FGregorovius</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

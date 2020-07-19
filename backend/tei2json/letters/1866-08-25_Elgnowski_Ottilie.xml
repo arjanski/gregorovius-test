@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000238">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Ottilie Elgnowski in Insterburg. Neapel, 25. August 1866</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>BSB München</repository><collection>NL Gregorovius</collection><idno>Gregoroviusiana 20, Elgnowski, Ottilie (1c)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¾ S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 82, Mappe 2 (nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er betrauert den Tod seiner Stiefmutter Emilie Auguste Gregorovius und dass er in dieser Stunde nicht bei den Seinen sein kann.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He mourns the death of his stepmother Emilie Auguste Gregorovius and that he cannot be with his own at this hour.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000737">Neapel</placeName><date when="1866-08-25" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001111">Elgnowski, Ottilie (bis 1855 Gregorovius, Ottilie) (1834–1907)</persName>
+<placeName cert="low" key="G000689">Insterburg</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Neapel 25. <hi rendition="#aq">August</hi> 66.</dateline>
+                    <salute rendition="#c">Meine liebe Schwester,</salute>
+                </opener>
+<p>als ich mich gestern eben zu Tische setzte, brachte man mir die Briefe des <persName key="G001203"><seg type="comment"><orig>Bruders</orig><note xml:id="nklh_df3_gmb">Julius Gregorovius war im westpreußischen Graudenz stationiert.</note></seg></persName> mit der <seg type="comment"><orig>Trauerbotschaft</orig><note xml:id="netx_df3_gmb">Die Stiefmutter von Gregorovius, Emilie Auguste, geb. Dreßler, verw. von Collrepp (*20.2.1797), war am 13. August 1866 verstorben.</note></seg>. Ich bin tief erschreckt. Meine Gedanken sind jeden Augenblick bei Euch. Ich beklage mein Schicksal, daß mich in dieser schweren Zeit so fern von Euch festhält. Den Wunsch der teuren <persName key="G001198">Mutter</persName>, mich noch einmal zu sehen, und der meinige zugleich, konnte nicht in Erfüllung gehen. Dies ist schmerzlich. Ich hatte noch gehofft, daß sie einige Jahre leben würde, u<ex>nd</ex> daß bald die Zeit gekommen sei, die uns alle vereinigte. Dies ist nun dahin. Die ehrwürdige Mutter bedarf unsrer nicht mehr. Ich überdenke alles, was sie mir gewesen ist – eine wahrhafte Mutter, seit meinem 10. Jahre, immer liebevoll u<ex>nd</ex> gut, immer ruhig u<ex>nd</ex> gefaßt. Alle Erinnerungen der Heimat dringen auf mich ein; jene Zeit von <placeName key="ed_qlh_vcc_hmb">Neidenburg</placeName>. Dies ist ein tiefer Abschnitt in unser aller Leben. Das letzte Band, welches uns mit der Vergangenheit verknüpfte, ist nun auch zerrißen, und unsere Familie auf diese kleine Zahl herabgesetzt. Lege auf das Grab der Mutter <pb n="1v"/>einen frischen Kranz in meinem Namen u<ex>nd</ex> bringe ihr meine Grüße aus dieser Ferne. Ich werde ihrer mit dankbarer Liebe bis zu meiner letzten Stunde gedenken. Ihr Porträt, das sie kurz vor dem Tode für mich bestimmte, betrachte ich mit tausend Erinnerungen, u<ex>nd</ex> auch mit freudigen; denn oft genug waren wir in unsern kleinen Verhältnißen herzlich froh. Sie war eine ernste und doch lebensfrische Natur, im Leiden stark, mit Wenigem genügsam, u<ex>nd</ex> mit dem geringsten Guten erfreut. Sie hatte noch, Gott sei gepriesen, einen freundlichen Lebensabend, u<ex>nd</ex> konnte sterben, nachdem sie alle Pflichten des Lebens erfüllt hatte, mit ruhiger Seele, umringt von allen denen, die sie am Meisten liebte. Ihr Tod war schön – dies beruhigt mich, wie es Dich beruhigen wird. So wollen wir die ehrwürdige Mutter still betrauern, ihr die Erlösung von der trüben Welt gönnen, und Ihr Bild fest in unserm Herzen behalten.</p>
+<p>Wir selbst aber wollen treu zu einander stehen. Nach so viel Schicksals-<pb n="2r"/>schlägen, welche wir in dieser letzten Zeit erlitten haben, wird denn auch wieder, so hoffe ich, ein heiterer Himmel über uns erscheinen. Lebe wol, teure Schwester, und faße Mut. Noch bist Du nicht allein; noch können wir Geschwister das Leben u<ex>nd</ex> seine Fügungen gemeinsam tragen. Grüße herzlich den <persName key="G001109"><seg type="comment"><orig>Neffen</orig><note xml:id="ncsk_ff3_gmb">Der Sohn von Ottilie Elgnowski, Hermann (1860–1836).</note></seg></persName>.</p>
+                <closer>
+<salute xml:id="s1" next="#s2">Mit tausend Grüßen u<ex>nd</ex> Wünschen</salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">Dein treuer Bruder</salute>
+<signed rendition="#right">F. G.</signed>
+<note type="postscript">Das Bildniß der lieben Mutter ist sehr gut – sie sieht darin viel weniger alt u<ex>nd</ex> angegriffen aus, als ich mir gedacht hatte. Warum kann ich sie nicht mehr sehen? Warum nicht eine Reihe von Tagen mehr mit ihr u<ex>nd</ex> Euch verleben u<ex>nd</ex> mich wieder im Gefühl der Liebe der Meinigen stärken u<ex>nd</ex> erquicken? Doch mit Ruhe müßen wir hinnehmen, was dies Leben auferlegt. Die alte, herrliche Mutter!</note>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

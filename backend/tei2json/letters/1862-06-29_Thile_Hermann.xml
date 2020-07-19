@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000147">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Hermann von Thile in Berlin. Rom, 29. Juni
+                    1862</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>96/937 (22)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 346 (nach D) und Karton
+                                        59, Mappe 346 (Ergänzungen nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print">Briefe von Ferdinand Gregorovius an den Staatssekretär
+                            Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S.
+                            52–54 (gekürzt)</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Das Bewilligungsschreiben des neuen preußischen Kultusministers Heinrich von Mühler für eine zweijährige Verlängerung des Stipendiums für seine „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) ist eingegangen. Deren vierter Band wird im September gedruckt vorliegen, das gesamte Werk will er fünf Jahren zum Abschluss zu bringen und sich dann seinen poetischen Plänen widmen. Er ist erleichtert, dass es Albrecht von Graefesbesser geht; über dessen Hochzeit mit Anna Gräfin Knuth ist er erfreut. Anton Marstaller will in diesem Sommer wie die Thiles in Heiden kuren. Er selbst will nach St. Moritz, würde die Thiles aber gerne in Heiden besuchen. Clemens August Alertz war bei den Kanonisierungs-Feierlichkeiten als Arzt tätig. Der preußische Gesandte Karl Friedrich Ernst Freiherr von Canitz und Dallwitz hält sich im Palazzo Primoli in Ariccia auf.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">The letter of approval of the new Prussian Minister of Culture Heinrich von Mühler for a two-year extension of the scholarship for his „Geschichte der Stadt Rom im Mittelalter“ (1859-1872) has been received. His fourth volume will be printed in September, and he intends to complete the entire work within five years and then devote himself to his poetic plans. He is relieved that Albrecht von Graefe is doing better; he is delighted about his marriage to Anna Countess Knuth. This summer, Anton Marstaller wants to go to Heiden for his health like the Thiles. He himself wants to go to St. Moritz, but would like to visit the Thiles in Heiden. Clemens August Alertz worked as a doctor at the canonization ceremonies. The Prussian envoy Karl Friedrich Ernst Baron von Canitz und Dallwitz is staying in the Palazzo Primoli in Ariccia. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1862-06-29" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001644">Thile, Hermann von (1812–1889)</persName>
+                    <placeName key="G000636">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+<div type="writingSession">
+<opener>
+<dateline rendition="#right">Rom, S<ex>ankt</ex> Peter u<ex>nd</ex> Paul, 1862.</dateline>
+<salute rendition="#c">Mein hochverehrter Herr,</salute>
+</opener>
+<p>kurz vor dem Eintreffen Ihres freundlichen Briefes gelangte <seg type="comment"><orig>die Verfügung des jetzigen <persName key="G001229">Cultusministers</persName> zu mir, welche die Subvention in derselben Weise auf zwei weitere Jahre verlängert</orig><note xml:id="nxt3_hh5_1mb">Die jährliche Zahlung der preußischen Regierung von 400 Talern für die Fertigstellung seiner „Geschichte der Stadt Rom im Mittelalter“, die Gregorovius der Fürspache von Hermann von Thile und Christian Karl Josias Freiherr von Bunsen (1791–1860) verdankte, war Mitte 1861, zunächst auf zwei Jahre begrenzt, bewilligt worden und wurde bis 1866 verlängert (siehe den Brief von Gregorovius an Thile vom 30.11.1861 in: Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 47–49).</note></seg>. Dies war die Wirkung in die Ferne Ihres Wolwollens, welche mich wahrhaft erfreut hat. Das Schreiben des Ministers ist nicht in dem sehr teilnehmenden Tone abgefaßt, womit sich <seg type="comment"><orig><persName key="G000967">Herr v<ex>on</ex> Bethmann H<ex>ollweg</ex></persName></orig><note xml:id="nbdx_3h5_1mb">Moritz August von Bethmann Hollweg (1795–1877) war bis März 1862 Leiter des preußischen Kultusministeriums.</note></seg> ausgesprochen hatte, aber es ist freundlich gehalten, und größere Ansprüche habe ich auch nicht zu machen. <seg type="comment"><orig>Herr v<ex>on</ex> Mühler</orig><note xml:id="nycx_jh5_1mb">Heinrich von Mühler (1813–1874) führte, als Nachfolger von Moritz August von Bethmann Hollweg, seit dem 18. März 1862 das preußische Kultusministerium. </note></seg> bezieht sich am Eingange auf die Mitteilung, welche Sie ihm gemacht haben, u<ex>nd</ex> erläßt in deren Folge diese Verfügung. Ohne die Unterstützung aus Regierungsmitteln würde ich die unternommene Arbeit freilich nimmer zu Ende führen können; daß sie mir freundlich gewährt wird danke ich Ihrem Einfluß <pb n="1v"/>und dieser rühmlichen Liberalität des Ministeriums. Der <seg type="comment"><orig><bibl sameAs="G003462">IV. Band der Geschichte</bibl> ist fast fertig gedruckt, u<ex>nd</ex> wird im September in Ihren Händen sein</orig><note xml:id="nhcb_lh5_1mb">Der vierte Band seiner „Geschichte der Stadt Rom im Mittelalter“ erschien wie geplant.</note></seg>. Wann das Ganze fertig sein wird, weiß ich nicht; <seg type="comment"><orig>ich wünschte in 5 Jahren damit zu Stande zu kommen</orig><note xml:id="nofy_lh5_1mb">Das dann von geplanten sechs auf acht Bände erweiterte Gesamtwerk wurde 1873 abgeschlossen.</note></seg>, wenn der Himmel Kraft schenkt, u<ex>nd</ex> dann noch einige Jahre der Muße zu behalten, um meine poetischen Pläne auszuführen; denn dies würde ich als den besten Lohn meiner unter so großen Anstrengungen u<ex>nd</ex> Entsagungen durchgeführten Arbeit <del rendition="#s">zu</del> betrachten.</p>
+<p>Die <seg type="comment"><orig>Herstellung Ihres <persName key="G001189">Herrn Schwagers</persName></orig><note xml:id="nxsz_mh5_1mb">Thiles Schwager, der berühmte Berliner Augenarzt Albrecht von Graefe (1828–1870), war im September 1861 in Baden-Baden an Tuberkulose erkrankt, hatte sich aber soweit erholt, dass er nach Aufenthalten in Nizza und Paris Ende April 1862 scheinbar gesundet nach Berlin zurückgekehrt war.</note></seg> hat mich mit der innigsten Freude erfüllt. Ich habe es mir nie vorstellen können, daß ein Mensch von Gottes Gnaden, wie er, mit 33 Jahren schon sollte ins Reich der Schatten niedersteigen müßen. Nun ist ihm aber die finstre Pforte des Todes zu der elfenbeinernen Thüre geworden, wo <persName key="G067663"><seg type="comment"><orig>Hymen</orig><note xml:id="nx3v_nh5_1mb">Hymenaios, der griechische Gott der Hochzeit oder Ehen, im Gefolge der Liebesgöttin Aphrodite – Graefe hatte am 7. Juni 1862 in Sacrow bei Potsdam Anna Gräfin Knuth (1842–1872) geheiratet.</note></seg></persName> mit der Schaar von Träumen lachend ihn hindurchgeführt hat. So ein wunderbarer Wechsel von Nacht u<ex>nd</ex> Morgen in einem Menschenleben muß dies selbst mit einer religiösen Weihe durch-<pb n="2r"/>dringen, es läutern, vertiefen, u<ex>nd</ex> über manche dunkle Schicht der vertrübten Tagesatmosphäre hinwegtragen. Ich nehme den innigsten Anteil an seinem Glück, welches auch das Ihre ist; ich stelle mir vor, welche herrliche Stunden der Beruhigung u<ex>nd</ex> Gewißheit Ihre <persName key="G001645">Frau Gemalin</persName> nach so langer u<ex>nd</ex> schwerer Pein wird gefeiert haben. Dieselbe glückliche Wendung, so muß man doch zuversichtlich hoffen, wird das <seg type="comment"><orig>Nervenübel Ihres <persName key="G001643">Sohnes</persName></orig><note xml:id="njt1_qh5_1mb">Hans von Thile litt seit Mitte 1858 unter Epilepsie.</note></seg> nehmen, wenn nun noch ein paar Jahre vorüber sind.</p>
+<p>Ich habe es mir wol gedacht, daß Sie wieder jene idyllische Einsamkeit von <placeName key="G000686">Heyden</placeName> zum Sommeraufenthalt nehmen werden. Sie werden dort <persName key="G001405"><seg type="comment"><orig>Marstaller</orig><note xml:id="no3l_rh5_1mb">Der in Rom als Bankier und preußische Konsul tätige Anton Marstaller (1815–1865).</note></seg></persName> sehen, welcher in diesen Tagen in ein <placeName key="G000870">Schweizer</placeName> Bad reist, u<ex>nd</ex> sodann eine Zeit in H<ex>eyden</ex> bleiben will.</p>
+<p><seg type="comment"><orig>Man hat mir so viel von <placeName key="G000875"><hi rendition="#aq">S<ex>ank</ex>t Moritz</hi> </placeName>vorerzählt, daß ich schon halb entschloßen bin, nach der Mitte Juli dort das Wasser zu trinken</orig><note xml:id="nllm_sh5_1mb">Gregorovius kurte vom 28. Juli bis 20. August 1862 in St. Moritz (siehe RT, 30.7.-18.8.1862, S. 149–151).</note></seg>, wenn noch ein Unterkommen da ist, oder mir überhaupt jene Lüfte nicht zu scharf sind. Meine Gesundheit ist so sehr angegriffen, daß ich schlechterdings etwas für sie thun muß. Ich würde mit großer Freude von jenen <placeName key="G000855">Alpen</placeName> heruntersteigen, u<ex>nd</ex> wenn auch nur <seg type="comment"><orig>für einen Tag in Heyden sein, um wieder <pb n="2v"/>die Genugthuung zu haben, Sie persönlich zu sehen</orig><note xml:id="nwcf_th5_1mb">Die Thiles planten im August zunächst Gregorovius von St. Moritz abzuholen, doch veranlasste anhaltender Regen Gregorovius dazu, die Thiles in Heiden im Appenzell aufzusuchen, die mit Albrecht von Graefe (1828–1870) dort kurten (siehe RT, 13. und 27.8.1862, S. 150–151).</note></seg>. <seg type="comment"><orig>Nachher wollte ich nach <placeName key="G000734">München</placeName> gehen</orig><note xml:id="nacb_5h5_1mb">Nach seinem Schweizer Aufenthalt war Gregorovius vom 2.-13.9.1862 in München (siehe RT, 3.-12.9.1862, S. 151–153).</note></seg>. Aber dies sind alles noch erst halbgeborne Pläne, u<ex>nd</ex> es schweben allerlei Dämonen in der Luft, die dafür sorgen, daß die Bäume nicht in den Himmel wachsen. Sollte ich wirklich nach dem <placeName key="G067579">Engadin</placeName> gehen, so würde ich mir erlauben, von dort aus nach Heiden zu schreiben.</p>
+<p>Der alte <seg type="comment"><orig><persName key="G000913">Alertz</persName> ist recht wol: er würde mir eine Empfehlung aufgetragen haben, wenn ich ihn in diesen Tagen gesehen hätte. Seine Praxis scheint noch einige Nachblüten zu treiben</orig><note xml:id="ncrh_vh5_1mb">Clemens August Alertz war vermutlich bei den Feierlichkeiten der zu Pfingsten 1862 von Pius IX. (1792–1878) heilig gesprochenen 26 japanischen Märtyrer ärztlich tätig, zu denen 400 Bischhöfe angereist waren. Gregorovius hatte in seinem Tagebuch die aufwendigen Zurüstungen der Feierlichkeiten dokumentiert (siehe RT, 12.5.-10.6.1862, S. 145–147).</note></seg>; er hat sich wenigstens bei dem letzten <hi rendition="#aq">Concil</hi> beteiligt, u<ex>nd</ex> demselben einige ärztliche Behandlung gewidmet. Sein Lämpchen füllte sich mit Öl, u<ex>nd</ex> brennt; dies ist schön, u<ex>nd</ex> ihm wol zu gönnen.</p>
+<p><persName key="G004720"><seg type="comment"><orig>Herr v<ex>on</ex> Canitz</orig><note xml:id="nocj_wh5_1mb">Der preußische außerordentliche Gesandte und bevollmächtigte Minister in Neapel, Karl Friedrich Ernst Freiherr von Canitz und Dallwitz (1812–1894).</note></seg></persName> wohnt in <seg type="comment"><orig><placeName key="G067580">Ariccia</placeName> in der <placeName key="G067581">Villa Bonaparte</placeName></orig><note xml:id="nuhv_xh5_1mb">Der um 1820 von dem Zoologen Carlo Luciano Bonaparte (1803–1857), dem Neffen von Kaiser Napoléon Bonaparte (1769–1821), erworbene Palazzo Primoli.</note></seg>. Rom ist leer, aber unbeschreiblich schön.</p>
+<closer>
+<salute>Mit den herzlichsten Wünschen für Ihrer aller Wol, und in der innigsten Verehrung</salute>
+    <signed rendition="#right">FGregorovius.</signed></closer>
+<note type="postscript" place="left" rendition="#rotate90">Nach Berlin habe ich sofort nach Empfang des Schreibens meinen (gewiß aufrichtigen) Dank gestammelt.</note>
+</div>
+</body>
+    </text>
+</TEI>

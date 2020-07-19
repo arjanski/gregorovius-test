@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_qsr_cmm_dmb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Contessa Ersilia Caetani Lovatelli in Rom. München, 26. Juni 1881</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free">
+                <licence target="http://creativecommons.org/licenses/by/4.0/">
+                    Creative Commons Attribution 4.0 International (CC BY 4.0)
+                </licence>
+            </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno><idno type="shelfmark">Karton 59, Mappe 348 (nach D)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"><bibl type="print">Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli. Hrsg. von Sigmund Münz. Berlin: Paetel 1896. S. 102–103 </bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er arbeitet an seiner Biographie der byzantinischen Kaiserin „Athenaïs“ (1882) und empfiehlt ihr den griechischen Professor Johannes Romanós, der in Rom eine Inschrift aus Korkyra untersuchen möchte. Er bittet um Informationen zum Tempel des römischen Plebejer-Geschlechts Flavius. Über ihre Familie und ihre Schwägerin Ada Bootle Wilbraham Caetani. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1881-06-26" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001011">Caetani Lovatelli, Ersilia contessa (1840-1925)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+<correspContext>
+<ref type="next">3. Juli 1881 (BSB München, NL Gregorovius, Gregoroviusiana 21 – h: GhStA Berlin, NL Waldemar Kampf, Karton 86, Mappe 6)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="102"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">München, 26. Juni 1881</dateline>
+                    <salute rendition="#c">Verehrteste Frau Gräfin,</salute>
+                </opener>
+<p>es ist seit dem 8. des laufenden Monats, daß ich mich wieder hier<seg type="comment"><orig> <foreign xml:lang="Lat"><placeName key="G000664">inter Gothos et Getos</placeName></foreign></orig><note xml:id="nm3d_nvc_fmb">Lat. für: unter Goten und Geten.</note></seg> befinde, aber doch in Gesellschaft meiner <persName key="G001111"><persName key="G001203">Liebsten</persName></persName>, die schon vor mir aus <placeName key="G000902">Ostpreußen</placeName> zurückgekehrt waren. Ich werde Ihnen nichts von meiner Reise erzählen, die sehr schnell von statten gieng und, wenn ich von einigen Stunden absehe, die ich in <placeName key="G000703">Ancona</placeName>, <placeName key="G000841">Rimini</placeName> und <placeName key="ed_ynl_vvc_fmb">Faenza</placeName> zubrachte, <seg type="comment"><orig>wenig Interessantes bot</orig><note xml:id="nt4p_1wc_fmb">Nach einem dreieinhalbmonatigen Aufenthalt in Rom war Gregorovius am 5. Juni von dort abgereist und über Ancona, Rimini, Faenza, Bologna und Verona nach München zurückgekehrt (siehe RT, 1881, S. 422–423).</note></seg>. </p>
+<p>In Rom war ich so träge, daß dies sogar <seg type="comment"><orig>einem Brahminen</orig><note xml:id="nqxy_bwc_fmb">Whs. für: Brahmane; Angehöriger der obersten Kaste im indischen Kastensystem. Da die Brahmanen die Überzahl an Priester stellen, wird der Name auch als religiöser Titel verwendet.</note></seg> Ehre gemacht hätte. Um mich hier zu bessern, habe ich mich in <seg type="comment"><orig>meine Bibliothek</orig><note xml:id="nwsg_dwc_fmb">Entweder er meint seine eigene Hausbibliothek oder aber die Hof- und Staatsbibliothek München.</note></seg> gestürzt, <seg type="comment"><orig>wo ich meine Studien über Athen fortsetze</orig><note xml:id="nkqd_hwc_fmb">„Ich ging sofort an die Biographie der Athenais. Sie wuchs mir unter den Händen; denn ursprünglich sollte sie einen kleineren Bestandteil der Reihe von hellenischen Stücken bilden, von welchen ich niedergeschrieben habe: ‚Athen in den dunklen Jahrhunderten‘ (abgedruckt in der Revue ‚Unsere Zeit‘ 1881), und die ‚Mirabilien der Stadt Athen‘ (Vortrag in der bayerischen Akademie der Wissenschaften im Januar 1881 und in den Sitzungsberichten abgedruckt). Dazu sollte nun ‚Athenais‘ kommen und ferner die Goten in Griechenland, die Herzöge von Athen, welche beide Stücke noch nicht geschrieben sind.“ (RT 1881, S. 423).</note></seg>. Ich bin zufrieden, Ihnen sagen zu können, daß ich in diesem Augenblicke an einer <bibl sameAs="G003525">Abhandlung</bibl> schreibe, die das Leben und die Schicksale der schönen <persName key="ed_lhx_qwc_fmb">Athenais</persName> betrifft, die dann als Kaiserin von <placeName key="ed_l1d_zwc_fmb">Byzanz</placeName> den Namen Eudoxia führte. <seg type="comment"><orig>Schon seit einiger Zeit stehe ich in Briefwechsel mit einigen gelehrten Griechen, darunter auch mit <persName key="ed_ow3_dxc_fmb">Johannes Romanós</persName> in <placeName key="ed_ql4_3zn_5lb">Korfu</placeName></orig><note xml:id="nkgp_jxc_fmb">Über den Verbleib dieser Korrespondenz ist nichts bekannt. Der aus Korfu stammende Wissenschaftler Johannes Romanós (1836–1892) hatte an der Universität seine Heimatstadt klassische, griechische und lateinische Literatur studiert, 1857 seinen Abschluss gemacht. Zugleich begann er über byzantinische Themen zu publizieren. Ab 1866 unterrichtete Romanós Latein und Griechisch an einem Gymansium in Korfu, war jedoch auch weiterhin in archäologischen Unternehmungen und Archivforschungen beteiligt. Sein besonderes Interesse galt allerdings der griechischen Geschichte und Literatur des Mittelalters und er publizierte sowohl zu historischen als auch archäologischen Themen. 1871 wurde er zum korrispondierenden Mitglied des Deutschen Archäologischen Institut gewählt, 1877 zum ordentlichen Mitglied ernannt. Gregorovius und Romanós werden sich über die römischen Gelehrtenkreise kennengelernt haben, eine persönliche Begnung der beiden ist jedoch nicht dokumentiert.</note></seg>. </p>
+<p>Sie hatten die Güte, zu Gunsten dieses Mannes gewisse Informationen über <seg type="comment"><orig>eine Inschrift aus <placeName key="ed_imb_4xc_fmb">Korkyra</placeName></orig><note xml:id="nz5v_dyc_fmb">Nicht ermittelt.</note></seg> einzuholen, <seg type="comment"><orig>die sich augenblicklich im Hofraume des <placeName key="ediarum_b4g_kyc_fmb">Konservatorenpalastes</placeName> befindet</orig><note xml:id="nq5b_nyc_fmb">Der Konservatorenpalast im Renaissancestil von Michelangelo Buonarotti (1475–1564) auf dem Kapitol erbaut, beherbergte seit dem 16. Jahrhundert ein Skulpturenmuseum; heutzutage befindet sich dort auch ein Teil der Kapitolinischen Museen. </note></seg>. Romanós schreibt mir, daß er die Absicht habe, sich im Laufe des nächsten Juli nach Rom zu begeben, <seg type="comment"><orig>um jene Inschrift zu kopieren</orig><note xml:id="ndk2_4yc_fmb">Es ist nicht dokumentiert, ob Romanós tatsächlich nach Rom reiste.</note></seg>. Zu diesem Behufe werde ich mir erlauben, ihn Ihrem Schutze zu empfehlen. Ich hoffe übrigens, daß <seg type="comment"><orig>die <orgName key="ed_otr_pyc_fmb">archäologische Kommission</orgName></orig><note xml:id="noxt_ryc_fmb">Die Commissione Archeologica Comunale di Roma brachte sei 1872 ein Bulletin heraus, um die archäologischen Unternehmungen und Funde, auch Restaurierungen in der Stadt Rom zu dokumentieren.</note></seg> einem griechischen Professor nicht die Gelegenheit entziehen wird, eine <pb n="103"/>Inschrift, die seine Heimat betrifft, <seg type="comment"><orig>zu kopieren und zu veröffentlichen</orig><note xml:id="ncf3_pbl_fmb">In ihrem Antwortschreiben vom 3. Juli 1881 vermutet die Gräfin hingegen das Gegenteil von Gregorovius’ Annahme und verweist darauf, dass die besagte Kommission eine Publikation der Inschrift wohl nicht zulassen werden, da diese selbst zu der Inschrift arbeite. Einem Treffen mit Romanós und weiteren Nachrichten über ihn sieht sie freudig entgegen. Siehe den Brief von Ersilia Caetani Lovatelli an Ferdinand Gregorovius vom 3.7.1881; BSB München, NL Gregorovius, Gregoroviusiana 21 – h: GhStA Berlin, NL Waldemar Kampf, Karton 86, Mappe 6.</note></seg>.</p>
+<p>Das ist meine erste Impertinenz. Nun kommt die zweite: Ich bitte Sie nämlich, mir die genaue Lage des <placeName key="ediarum_n4j_5yc_fmb">Tempels der<seg type="comment"><orig> <foreign xml:lang="Lat">Gens Flavia</foreign></orig><note xml:id="nn1g_wbl_fmb">Lat. für: Familie Flavius.</note></seg></placeName> anzugeben, <seg type="comment"><orig>der, ich weiß nicht in welchem Jahre des vergangen Decenniums, entdeckt worden ist</orig><note xml:id="nfc3_xyc_fmb">Die Plebejer-Familie Flavius zählte in der römischen Republik nicht zu den bedeutenden Familien, im 1. Jahrhundert nach Christus ging aus ihr jedoch ein Kaisergeschlecht hervor: Vespasian (9–79 v. Chr.), Titus (39–81 v. Chr.) und Domitian (51–96 v. Chr.). Der unter Domitian erbaute Tempel der Familie, lat. Templum Gentis Flaviae, hatte sich auf dem Quirinale befunden, und zwar an der Stelle seines Vaterhauses, das von Vespasian. Hier wurden die Familienmitglieder begraben. Der Tempel war in den frühen 1870er Jahren bei Ausgrabungen entdeckt worden. Die Gräfin antwortet darauf wie folgt: „Ad ogni modo posso dirle con certezza, che quel tempio trovassi a un di presso sul luogo oggi occupato dal palazzo delle finanze lungo la via che conduce alla porta detta Pia.“ Zit. aus ihrem Brief vom 3.7.1881; BSB München, NL Gregorovius, Gregoroviusiana 21 – h: GhStA Berlin, NL Waldemar Kampf, Karton 86, Mappe 6. Darüberhinaus entschuldigt sie, dass sie aufgrund ihrer Abreise keine weiteren Recherchen zu Gregorovius’ Anfrage vornehmen kann. Der Palazzo delle Finanze war 1871 im Zuge der Umbauten Roms zur neuen Hauptstadt und als Teil einer Baukampagne neuer Ministerien zwischen dem Quirinalspalast und der Porta Pia in der via XX Settembre errichtet worden. </note></seg>. Sie werden sich wahrscheinlich an den <seg type="comment"><orig>Band des Bulletins und der Annalen des deutschen archäologischen Instituts erinnern, wo jene Entdeckung registrirt wurde</orig><note xml:id="njhh_czc_fmb">Bull. comun. di Roma 1873. S. 229 sowie Otto Hirschfeld. Die kaiserlichen Grabstätten in Rom. In: Sitzungsberichte der Berliner Akademie der Wissenschaften. Berlin 1866. </note></seg>. </p>
+<p>Die dritte Impertinenz endlich wäre, daß ich Sie wärmstens bitte, <seg type="comment"><orig>Sie möchten mir sehr bald über sich und Ihre ganze <persName key="G001004">Familie</persName> angenehme Nachrichten geben</orig><note xml:id="nrdw_f2l_fmb">Gregorovius stand auch mit Ersilias Vater, Michelangelo Caetani (1804–1882), in freundschaftlichem Verhältnis. Mit ihrem verstorbenen Ehemann, Giacomo Lovatelli (1832–1879), hatte die Gräfin fünf Kinder bekommen: Callista (1860), Rosalia Gabriella (1872), Filippo (1874), Giovanni (1859) und Witoldo (1869). Auf seine Nachfrage antwortet die Gräfin ausführlich: „Mia cognata Teano è a Pontresian, e mio fratello è tuttora qui a cagione degli affari della Camera, ma domani partirà per andarla a raggiungere. Mio padre e la moglie torneranno qui fra giorni per rimanere insino alla fine di agosto. Eccola informata di tutto; non mi rimarrebbe altro che a dirle qualche cosa di miei cognati Lovatelli, ma questo è un tema tanto triste che è meglio non farne parola. Anche gli Orsini si sono separati, il che è pure è una cosa deplorevole.“ Zit. aus ihrem Brief vom 3.7.1881; BSB München, NL Gregorovius, Gregoroviusiana 21 – h: GhStA Berlin, NL Waldemar Kampf, Karton 86, Mappe 6.</note></seg>. Wenn ich nicht irre, war es Ihr Vorsatz, <seg type="comment"><orig>den Sommer wieder in <placeName key="G004684">Albano</placeName> zuzubringen</orig><note xml:id="nwr3_jzc_fmb">In Albano besaß die Familie Caetani ein Haus.</note></seg>.</p>
+                <closer>
+                    <salute>Leben Sie wohl, wertheste Frau, und erinnern Sie sich manchmal an mich, Ihren ergebensten Diener</salute>
+                    <signed rendition="#right">Ferd. Gregorovius.<note type="postscript">Ich will hoffen, daß <seg type="comment"><orig>Ihre Schwägerin Donna <persName key="G001006">Ada</persName></orig><note xml:id="nqbj_mzc_fmb">Die Contessa Ada Bootle Wilbraham Caetani (1846–1934) war seit 1867 mit Ersilias Bruder, Don Onorato Caetani (1842–1917), verheiratet. Sie hatten sechs gemeinsame Kinder.</note></seg> <seg type="comment"><orig>wieder im Vollbesitze ihrer Gesundheit ist</orig><note xml:id="ne2j_nzc_fmb">An welcher Krankheit die Gräfin litt, ist nicht ermittelt.</note></seg>. </note></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

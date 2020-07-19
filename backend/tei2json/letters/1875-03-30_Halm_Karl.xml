@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067835">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Karl Halm in München. Rom, 30. März 1875</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>SBB-PK</repository><collection>Slg. Darmstadter</collection><idno>Bl. 2–4</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 S. + Umschlag mit Adr. vfrH: An / Den Direktor der Königlichen Bibliothek, / Ritter pp. / Herrn Professor <hi rendition="#aq">Dr. Halm</hi> / Hochwohlgeboren / <hi rendition="#u" hand="#addressee">München</hi></p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 6 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Der Leiter der Biblioteca Capitolare die Verona, Giovan Battista Giuliari, wird ihm selbst schon mitgeteilt haben, dass er Halm den Kodex „De Civitate Dei“ des Heiligen Agustinus nicht nach München übersenden kann – alle Kollegen, die er in dieser Sache gesprochen hat, hätten ebenso entschieden. Seit acht Tagen ist er zurück in Rom, wo er sich in sein wahres Element zurückversetzt fühlt.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1875-03-30" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001230">Halm, Karl (1809–1882)</persName>
+<placeName key="G000734">München</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c"><hi rendition="#aq">Rom</hi>, 30. <subst><del rendition="#ow">Ap</del><add place="across"><hi rendition="#aq">März</hi></add></subst> 1875.</dateline>
+                    <salute rendition="#c">Vereehrter <seg type="comment"><orig>Herr Director</orig><note xml:id="ny3l_3tf_dmb"><p>Karl Halm Ritter von Halm, (1809–1882) hatte nach seinem Studium der Altphilologe in seiner Heimatstadt München unter Friedrich Thiersch (1784–1860) 1830 eine Stelle am Ludwigsgymnasium in München bekommen. 1839 wurde er Professor am Lyceum und Gymnasium zu Speyer, 1846 am Gymnasium in Hadamar. Nachdem er 1844 zum korrespondirenden Mitglied der Akademie der Wissenschaften zu München gewählt worden war, berief ihn der bayerische König Maximilian II. (1811–1864) 1849 (bis 1856) zum ersten Rektor des neu gegründeten Maximiliansgymnasiums in München. Seinen Weggang nach Wien wurde durch einen Ruf an die Münchener Universität und die gleichzeitige Ernennung zum Leiter der Königlichen Bibliothek zu München verhindert. Seit 1865 war Halm auch korrespondierendes Mitglied der Russischen Akademie der Wissenschaften in Sankt Petersburg und seit 1870 der Preußischen Akademie der Wissenschaften. 1872 wurde er nobilitiert. Halm hat zahlreiche klassische Autoren ediert. Als Bibliothekar sorgten seine Verkäufe wertvoller Doubletten für öffentliche Debatten, für deren Erlöse er kostspielige Ankäufe tätigte.</p><p>Gregorovius hat Karl Halm Ritter von Halm (1809–1882) als Direktor der Königlichen Bibliothek zu München kennen- und schätzen gelernt. Halms Korrespondenz scheint nach dessen Tode verstreut worden zu sein, denn die insgesamt sieben erhaltenen Briefe von Gregorovius an Halm aus den Jahren 1862–1875 stammen nicht einmal zur Hälfte aus dem Nachlass Halms in der BSB München. Halms kostspielige Ankäufe für die Bibliothek, für deren Erwerb er wertvolle Doubletten veräußerte, spiegeln sich auch in der Korrespondenz mit Gregorovius. Sie dokumentieren eine kleinen Ausschnitt seiner umstrittenen Ankaufspolitik, der Gregorovius immer wieder bat, sich in Italien um gesuchte Werke und Periodica zu bemühen. Einen privaten Kontakt scheint es nicht gegeben zu haben.</p></note></seg>,</salute>
+                </opener>
+<p>daß meine Bemühungen in Betreff des <seg type="comment"><orig><hi rendition="#aq">Cod<ex>ex</ex> De Civitate Dei</hi> auf der <orgName key="ed_bz4_25g_zkb"><hi rendition="#aq"><hi rendition="#aq">Biblioteca Capitolare</hi></hi></orgName> zu <placeName key="G000895">Verona</placeName> </orig><note xml:id="nhtp_rtf_dmb">Die noch heute zum Domkapitel gehörende Biblioteca Capitolare di Verona wurde im fünften Jahrhundert als „Scriptorium Veronensis Ecclesiae“ als Ausbildungsstätte für Kleriker gegründet. Die seit dem Anfang des 13. Jahrhunderts als Bibliothek zur Verfügung gestellte Sammlung wurde schon von Dante Aligheri (1265–1321) und Francesco Petrarca (1304–1374) genutzt. Die Handschrift von „De Civitate Dei“ (MS XXVIII, 26 – „Vom Gottesstaat“) des Heiligen Agustinus aus dem fünften Jahrhundert gehört zu den wertvollsten Handschriften der Bibiliothek. Es ist der älteste erhaltene Codex des „De civitate Dei“ des Heiligen Augustinus (354–430) – von den zwischen 413 und 426 entstandenen zweiundzwanzig Büchern sind in Verona die Bücher 11–16 auf 253 Blättern handschriftlich erhalten, in denen Augustinus als Zeuge der Plünderung Roms durch die Westgoten im Jahre 410 die Idee vom Gottesstaat entwickelt, der zum irdischen Staat in bleibendem Gegensatz stehe. Zu den Preziosen der Bibliothek siehe auch ‎Maria und ‎Teresa Venturini: Gli incunaboli della Biblioteca capitolare di Verona. Verona: Valdonega 1976.</note></seg>vergebens blieben, wird Ihnen <seg type="comment"><orig><persName key="ed_tnv_j5g_zkb"><hi rendition="#aq">Graf Giuliari</hi></persName> bereits selber gesagt haben. Dieser freundliche Mann kam mir mit Gründen entgegen, welche ich zu widerlegen nicht befugt</orig><note xml:id="nhg3_b5f_dmb">Der liberal gesinnte Conte Giovan Battista Giuliari (1810–1892) war Domkanoniker von Verona und 1857–1892 Leiter der Biblioteca Capitolare di Verona. Er pflegte engen Umgang mit in- und ausländischen Gelehrten, darunter Theodor Mommsen (1817–1903), war seit 1867 Mitglied der Preußischen Akademie der Wissenschaften zu Berlin und seit 1873 Mitglied Regia Deputazione veneta di storia patria, deren Vizepräsident er drei Jahre lang war. Halm hatte Gregorovius gebeten, sich für die Übersendung des Codex nach München zu verwenden, der Giuliari gleich am Tag seiner Ankunft in Verona, am 3. März 1875, aufsuchte – doch Giuliari hatte abgelehnt (siehe RT, 31.3.1875, S. 346).</note></seg>, u<ex>nd</ex> eigentlich auch nicht im Stande war. Die 16 Preziosa, welche dort bewahrt werden, hütet das Capitel mit Recht als Heiligtümer vor jeder Möglichkeit des Verlustes. Keiner der Bibliothekare und Archivdirectoren, welche ich in der Folge in den Städten <placeName key="G004679">Lombardiens</placeName> u<hi rendition="#aq"><ex>nd</ex></hi> der<placeName key="ed_fzt_1vg_zkb"> Emilia</placeName> über diese Angelegenheit interpellirte, würde in gleichem Falle anders gehandelt haben als Giuliari.</p>
+<p>Somit bedaure ich, daß ich Ihnen <pb n="1v"/>nicht beßer dienen konnte.</p>
+<p><seg type="comment"><orig>Seit 8 Tagen bin ich in meiner alten Heimat Rom</orig><note xml:id="nrwl_d5f_dmb">Gregorovius war am 2. März 1875 aus München in Richtung Italien abgereist und über Verona, Brescia, Cremona, Pavia, Mailand, Monza, Parma, Modena, Bologna, Florenz, Siena, Orvieto und Orte am 21. März 1875 in Rom angekommen (siehe RT, 31.3.1875, S. 346–349), wo er bis Ende Juni 1875 blieb.</note></seg>; ich würde sagen, daß ich mich <seg type="comment"><orig>wie ein Fisch befinde, den man in sein Wasser wieder zurückgesetzt hat</orig><note xml:id="ndjj_g5f_dmb">Im Tagebuch hatte Gregorovius dagegen seine Schwierigkeiten der Wiedereingewöhnung in Rom festgehalten, die einem Gefühl der Wehmut wichen (vgl. RT, 31.3.1875, S. 350).</note></seg>, wenn ich die tiefe Erkältung los wäre, die ich mir in Oberitalien zugezogen habe. Auch hier ist es noch fast <del rendition="#s">f</del> winterlich, obwol die Mandelbäume schon abgeblüht haben. Wie mag es erst bei den <seg type="comment"><orig>Kimmeriern Münchens</orig><note xml:id="nljz_35f_dmb">Ein aus südrussischen, indigenen, thrakischen und iranischen Ethnien stammendes, um 1600 v. Chr. in Südrussland und der Ukraine nomadisierendes Reitervolk, von denen im siebten Jahrhundert ein Teil nach Makedonien, Norditalien und in das heutigen Bayern einwanderte.</note></seg> aussehen.</p>
+<p>Bitte empfehlen Sie mich Ihren Herrn Collegen auf der <orgName key="G000510">Bibliothek</orgName>.</p>
+                <closer>
+<salute xml:id="s1" next="#s2" rendition="#c">Mit großer Hochachtung</salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">Ihr ergebenster</salute>
+<signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi>.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000042">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Heinrich Brockhaus in Leipzig. Rom, 28. November
+                    1855</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummr 224 (21)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 8°, 1 ¾ S. – 2v alR, Bl. um 90° gedreht, Eingangs- und Beantwortungsvermerk: 1855. / <hi rendition="#aq">Rom</hi>, 28. <hi rendition="#aq">Nov</hi>./6. <hi rendition="#aq">Dez</hi>. / <hi rendition="#aq">Gregorovius</hi>. / B. 18./XII.</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er reklamiert das Ausbleiben der nächsten Druckbogen seiner „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856); die Verzögerung des Drucks wird auch sein Honorar für die Übersetzung bei Thomas Constable in Edinburgh verzögern. Abzüge seines Beitrags „Das Königreich beider Sicilien in seinen gegenwärtigen Zuständen“ aus der „Gegenwart“ (1855) hat er erhalten. Am 26. Oktober hat er das Manuskript seines Artikels „Fragmente von Agrigent“ für das „Deutsches Museum“ geschickt und am 29. Oktober um strikte Einhaltung seiner Orthographie in seinen „Figuren. Geschichte, Leben und Scenerie aus Italien“ gebeten. Er benötigt zehn Freiexemplare der „Figuren“; von seinem „Corsica“ (1854) hatte ihm Cotta zwanzig zugestanden. Er bittet um eine Entscheidung über das im Juli eingesandte Manuskript seiner „Lieder des Giovanni Meli“ (1856). Bereits drei Monate vor Cottas Ablehnung seiner „Figuren“ hatte er der Redaktion des „Morgenblatts für gebildte Leser“ seine Übersetzung der Novelle von Salvatore Viale, „Das Gelübde des Petrus Cyrnäus“, geschickt.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He complains about the absence of the next galley proofs of his „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856); the delay in printing will also delay his translation fee from Thomas Constable in Edinburgh. He has received copies of his article „Das Königreich beider Sicilien in seinen gegenwärtigen Zuständen“ from „Die Gegenwart“ (1855). On October 26th, he sent the manuscript of his article „Fragmente von Agrigent“ for the "Deutsches Museum" and on October 29th he asked for his orthography in „Figuren. Geschichte, Leben und Scenerie aus Italien“ to be strictly observed. He needs ten free copies of his „Figuren“; Cotta had granted him twenty of his „Corsica“ (1854). He asks for a decision on the manuscript of his „Lieder des Giovanni Meli“ (1856), sent in July. Three months before Cotta’s rejection of his „Figuren“, he had already sent the editorial staff of the „Morgenblatt für gebildte Leser“ his translation of the novella by Salvatore Viale, „Das Gelübde des Petrus Cyrnäus“. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1855-11-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G000996">Brockhaus, Heinrich (1804–1874)</persName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next">1. Dezember 1855</ref>
+<ref type="next">18. Dezember 1859</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c"><hi rendition="#aq">Rom</hi> am 28. <hi rendition="#aq">Nov<ex>em</ex>b<ex>e</ex>r</hi> 1855.</dateline>
+<salute rendition="#c">Sehr geehrter Herr,</salute>
+</opener>
+<p><seg type="comment"><orig>nunmehr fange ich doch wegen des Ausbleibens der Druckbogen unserer <hi rendition="#u" hand=""><bibl sameAs="G003114">Figuren</bibl></hi> etc. an, besorgt zu werden</orig><note xml:id="nkwp_pw2_plb">Mit seinem Brief vom <ref target="G000026">29.10.1855</ref> hatte Gregorovius den Erhalt der ersten Druckfahnen seiner im Druck befindlichen „Figuren, Geschichte, Leben und Scenerie aus Italien“ (1856) bestätigt.</note></seg>, u<ex>nd</ex> will Ihnen deshalb für alle Fälle schreiben,</p>
+<p>daß ich seit dem 13. dieses Monats, wo ich die dritte Sendung bis Bogen 9., <seg type="comment"><orig>nebst den <bibl corresp="G003836">sicilian<ex>ischen</ex> Beiträgen für die Gegenwart</bibl></orig><note xml:id="nd3w_1x2_plb">Mit seinem Brief vom <ref target="G000050">26.10.1855</ref> hatte Gregorovius um Übersendung seines Beitrags „Das Königreich beider Sicilien in seinen gegenwärtigen Zuständen“ aus der „Gegenwart“ (1855) gebeten.</note></seg> richtig erhielt, keine weitere Sendung bekommen habe.</p>
+<p>Sollte der Druck irgend welche Verzögerung erfahren haben, so wäre mir das Leid, weil die Folge dann wäre die <seg type="comment"><orig>Verzögerung des <orgName key="G000471">Constableschen</orgName> Honorars</orig><note xml:id="nzgp_mz2_plb">In seinen Briefen vom <ref target="G000076">22.8.</ref> und <ref target="G000033">12.9.1855</ref> hatte Gregorovius Brockhaus mitgeteilt, dass der Edinburgher Verlag von Thomas Constable (1812–1881) an der Übersetzung seiner „Figuren“ interessiert ist, und Brockhaus am <ref target="G000050">26.10.1855</ref> gebeten, die Druckfahnen für die Übersetzung auch an Constable nach Edinburgh zu senden, mit dem er sich hierfür vertraglich geeinigt hatte.</note></seg>, der mir ausgesetzten 20 £ für die Übersetzung.</p>
+<p>Ferner will ich bemerken:</p>
+<p><seg type="comment"><orig>daß ich am 26. <hi rendition="#aq">October</hi> Ihnen den <bibl corresp="G003840 G003841">Artikel über Agrigent</bibl> zuschickte</orig><note xml:id="najz_v1f_plb">Das Manuskript seiner „Fragmente von Agrigent“ hatte Gregorovius mit seinem Brief vom <ref target="G000050">26.10.1855</ref> übersandt. Sie erschienen in: Deutsches Museum. Zeitschrift für Literatur, Kunst und öffentliches Leben. Nr. 19–20. Jg. 6. Leipzig: Brockhaus 8. und 15.5.1856. S. 681–696, S. 713–728.</note></seg>; <seg type="comment"><orig>am 29. <hi rendition="#aq">October</hi> ein anderes Schreiben mit der Bitte, die Setzer auf das stricte Festhalten meiner Orthographie zu verweisen</orig><note xml:id="nndv_cbf_plb">In seinem Brief vom <ref target="G000026">29.10.1855</ref> hatte er die schwankende Orthographie des Setzers in den Druckfahnen seiner „Figuren, Geschichte, Leben und Scenerie aus Italien“ (1856) beklagt und dringend gebeten, seine Schreibweise zu resprektieren und zu befolgen.</note></seg>.</p>
+<p>Hoffentlich werden beide Briefe richtig eingegangen sein.</p>
+<p>Ich warte nun sehnlich auf die andern Druckbogen, denn es könnte sich wol etwas vorfinden, wozu eine Note gemacht werden müßte, wie ich sie auch wegen der Orthographie machen muß, wenn sich diese, was ich nicht fürchten will, sollte über den 9. Bogen hinaus erstreckt haben.</p>
+<p>Wegen der Freiexempl<ex>are</ex> werde ich Ihre Buchhandlung noch im <hi rendition="#aq">Decemb<ex>er</ex></hi> um die nötigen Sendungen des Näheren ersuchen. Mindestens brauche ich 10 Ex<ex>emplare</ex>, u<ex>nd</ex> hoffe ich, d<ex>a</ex>ß Sie mir diese bewilligen – von meinem <hi rendition="#u" hand=""><hi rendition="#aq"><bibl sameAs="G003106">Corsica</bibl></hi></hi> <pb n="1v"/>erhielt ich 20 Freiexemplare.</p>
+<p><seg type="comment"><orig>Wegen der <bibl sameAs="G004072">Lieder des <hi rendition="#aq">Giovanni Meli</hi></bibl> lebe ich, obwol ich ganz Ihrem Wolwollen für dieselben, vertraue, nun in Ungewißheit</orig><note xml:id="ncny_gbf_plb">Die Rückmeldung von Brockhaus zu dem am 21.7.1855 von Gregorovius übersandten Manuskript seiner „Lieder des Giovanni Meli von Palermo“ (siehe RT, 23.7.1855, S. 56) verzögerte sich, weil Brockhaus sich mit den im Brief vom <ref target="G000076">22.8.1855</ref> geäußerten konkreten Honorarforderungen schwertat (siehe den Brief von <ref target="G000064">Gregorovius an Theodor Heyse, 17.9.1855</ref>). Das Manuskript wurde schließlich von Brockhaus angenommen und erschien 1856.</note></seg>. Da ich das M<ex>anus</ex>kr<ex>ipt</ex> am 21. <hi rendition="#aq">Juli</hi> dieses Jahres abschickte, sind nun schon 4 Monate darüber vergangen. Die Zeit ist mir immerhin ein <hi rendition="#aq">Capital</hi>. Obwol ich weiß, wie sehr Sie, geehrter Herr, von hundert u<ex>nd</ex> mehr Seiten u<ex>nd</ex> namentlich in dieser Zeit gedrängt u<ex>nd</ex> beansprucht werden, so mögen Sie es mir wol nicht verargen, wenn ich Sie um Entscheidung bitte in einer Angelegenheit, die mir immer wichtig sein muß, sollte sie auch sonst die ganze Welt gleichgültig laßen.</p>
+<closer>
+<salute xml:id="s1" next="#s2">Ich schließe, indem ich mich Ihnen hochachtungsvoll empfehle </salute>
+<salute xml:id="s2" prev="#s1" rendition="#c"><lb/>als Ihr ergebenster</salute>
+    <signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi>.</signed></closer>
+    <note type="postscript">Sollten Sie davon Notiz genommen haben, daß das <seg type="comment"><orig>Cottasche Morgenblatt noch eine <bibl corresp="G004073 G004074">corsische Novelle</bibl> von mir brachte</orig><note xml:id="nk2c_2cf_plb">Cotta hatte das mit dem Brief vom 14.3.1855 übersandte Manuskript (Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 209) seiner Übersetzung der Novelle „Das Gelübde des Petrus Cyrnäus. Historische Novelle von Salvator Viale“ angenommen. Sie wurde gedruckt im „Morgenblatt für gebildete Leser“ (Nr. 41–42. Stuttgart, München: Cotta 7. u. 14.10.1855. S. 961–967 u. 991–998) – später in die 2. Auflage seines „Corsica“ aufgenommen (Stuttgart: Cotta 1869, Bd. 1, S. 188–222).</note></seg>, (im vorigen Monatshefte), so liegt es aus rein moralischen Gründen mir vor Ihnen daran, zu erklären, <seg type="comment"><orig>daß diese Arbeit von mir eingesendet worden war, ehe ich das bewußte Schreiben des <persName key="G001055">Herrn v<ex>on</ex> Cotta</persName> erhielt</orig><note xml:id="nsbj_3cf_plb">Cotta hatte den Verlag seines später „Figuren, Geschichte, Leben und Scenerie aus Italien“ benannten Bandes im Brief vom 11.7.1855 abgelehnt, weil schon sein „Corsica“ (1854) sich in Deutschland schlecht verkaufe (h: DLA Marbach, Cotta-Archiv, Gelehrten-Copirbuch IV, 328). Diesen Brief Cottas hatte Gregorovius zusammen mit dem abgelehnten Manuskript am <ref target="G000073">19.7.1855 an Brockhaus</ref> übersandt. Die Einsendung seiner Übersetzung der Novelle war also drei Monate zuvor erfolgt.</note></seg>. Und ich schreibe dies in keiner andren Absicht, als meinen Character zu schützen. Wenn Sie, geehrter Herr, den Meli u<ex>nd</ex> meine andern Schriften ablehnen, wird es mir schmerzlich, aber keineswegs kränkend sein, denn Ihre Buchhandlung ist mir nichts, ich <del rendition="#s">ihr</del> bin ihr Dank schuldig.</note>
+</div>
+        </body>
+    </text>
+</TEI>

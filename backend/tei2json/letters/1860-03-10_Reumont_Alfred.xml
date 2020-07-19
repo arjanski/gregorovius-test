@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000092">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Alfred von Reumont in Florenz. Rom, 10. März
+                    1860</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Universitäts- und Landesbibliothek Bonn</repository>
+                        <collection>NL Reumont</collection>
+                        <idno>S 1061 (294)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Bl., 4°, 1 S. – 1r aoR Empfängervermerk: <hi rendition="#u" hand="#addressee"><hi rendition="#aq">pr Fl</hi>. 13 <hi rendition="#aq">Mz</hi> 60.</hi></p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 86, Mappe 9 (Alfred Löckle nach H)
+                                    </idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno> Karton 82, Mappe 5 (nach h1)</idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Johann Matthias Watterich hat ihn gebeten, sich bei Reumont um die Kollationierung eines von Lodovico Antonio Muratori in den „Antiquitates Italicae Medii Aevi“ (1741) edierten Kodex mit der Handschrift aus der Biblioteca Riccardiana und um die von Lodovico Antonio Muratori in „Rerum Italicarum Scriptores“ (1723) edierten Papstviten zu verwenden, worum Reumont bereits von Theodor Heyse ersucht worden war. Watterich braucht diese Texte noch vor Ostern, damit der Druck seines „Pontificum Romanorum“ (1862) nicht unterbrochen wird. Durch den nach München reisenden Numismatiker Heinrich Hirsch hat er die entliehenen „Jahrbücher des Deutschen Reichs“ (4 Bde., 1838–1840) nach Florenz zurückbefördern lassen. Er bittet um gelegentliche Bestätigung über Clemens August Alertz. Sobald das Manuskript des vierten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1862) genügend vorangeschritten ist, will er nach Deutschland reisen, weil ihm nur dort die „Monumenta Germaniae historica“ zur Verfügung stehen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">Johann Matthias Watterich asked him to ask Reumont to collate a codex edited by Lodovico Antonio Muratori in the „Antiquitates Italicae Medii Aevi“ (1741) with the manuscript from the Biblioteca Riccardiana and to use the Papal Vitae edited by Lodovico Antonio Muratori in „Rerum Italicarum Scriptores“ (1723), which Reumont had already been asked to do by Theodor Heyse. Watterich needs these texts before Easter so that the printing of his „Pontificum Romanorum“ (1862) is not interrupted. Through the numismatist Heinrich Hirsch, who had travelled to Munich, he had the „Jahrbücher des Deutschen Reichs“  (4 vols., 1838-1840) he had borrowed transported back to Florence. He asks for confirmation through Clemens August Alertz, whenever convenient. As soon as the manuscript of the fourth volume of his „Geschichte der Stadt Rom im Mittelalter“ (1862) is sufficiently advanced, he wants to travel to Germany, because the „Monumenta Germaniae historica“ is only available to him there. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1860-03-10" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001545">Reumont, Alfred von (1808–1887)</persName>
+                    <placeName key="G000671">Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <salute rendition="#c">Hochgeehrter Herr,</salute>
+                </opener>
+                <p>nicht in meinen, sondern in des <seg type="comment"><orig><placeName key="G067539">Braunsberger</placeName> Professor <persName key="G001698">Watterich</persName></orig><note xml:id="njph_l5m_ylb">Johann Matthias Watterich (1826–1904) war seit Ende 1855 Dozent für Weltgeschichte und Literaturwissenschaften am Lyceum Hosianum in Braunsberg bei Königsberg. Für Archivrecherchen war er von Ende 1857 bis Mitte 1858 in Italien, erst in Rom, dann in Florenz. Seine daraus resultierende Untersuchung „Pontificum Romanorum“ (2 Bde. Leipzig: Engelmann 1862) brachte ihm die Ehrendoktorwürde der katholisch-theologischen Fakultät der Universität Breslau sowie ein Ordinariat am Braunsberger Lyceum Hosianum ein. Im Jahr darauf übernahm Watterich in Andernach am Rhein eine Pfarrei, 1870 wurde er Bibliothekar der Universität Münster, nach dem deutsch-französischen Krieg (bis 1882) war er als Pfarrer tätig. </note></seg> Angelegenheiten erlaube ich mir, Sie mit diesen Zeilen zu belästigen. Derselbe, nicht wißend, daß <seg type="comment"><orig><persName key="G001275">Dr. Heyse</persName> die Collation <seg type="comment"><orig>des <hi rendition="#aq"><orgName key="G067521">Riccardianus</orgName></hi> 228</orig><note xml:id="nehn_s5m_ylb">Der 365 Blätter umfassende Codex Riccardianus 228 aus der Biblioteca Riccardiana in Florenz von verschiedenen Schreibern aus dem ersten Drittel des 13. Jahrhunderts, mit Zusätzen bis ins 15. Jahrhundert. Er geht auf dem im Vatikan (Vat. lat. 8486) erhaltenen Codex des „Liber censuum Ecclesie Romane“ („Besitzverzeichnis der römischen Kirche“) aus dem 12. Jahrhundert zurück, der eine Sammlung von Aufzeichnungen der päpstlichen Kurie unterschiedlichen Inhalts enthält. Der Florentiner Codex Riccardianus 228 enthält den Text fehlender Lagen aus dem Codex im Vatikan. Ein weiteres in Rom fehlendes Faszikel befindet sich in der Bibliothèque nationale de France in Paris (lat. 4202). Watterich hatte aus dem Codes Riccardianius den „Censius Camerarius“ genannten Teil erbeteten, den der päpstliche Kämmerer (camerarius) Cencio Savelli (um 1148–1227 – 1216–1227 Papst Honorius III.) 1192 angelegt hatte, um einen Überblick über die Einkünfte der Römischen Kirche zu bekommen. Siehe Lodovico Antonio Muratori: Antiquitates Italicae Medii Aevi […]. Bd. 5. 1741. Sp. 851–898 (siehe https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10941155_00461.html).</note></seg> mit den <seg type="comment"><orig><bibl sameAs="G067694"><hi rendition="#aq"><foreign xml:lang="Lat">vitae Papar<ex>um</ex></foreign></hi> bei <hi rendition="#aq">Muratori</hi></bibl></orig><note xml:id="nvnm_y5m_ylb">Die Papstviten in Lodovico Antonio Muratori: Rerum Italicarum Scriptores (1723). Bd. 3/1 (siehe https://reader.digitale-sammlungen.de/resolve/display/bsb10868991.html).</note></seg>, Ihnen zur gefälligen Besorgung in Florenz adressirt hatte</orig><note xml:id="njvb_1vm_ylb">Theodor Heyse war seit Mitte 1859 (bis Mitte 1861) zurück in Rom.</note></seg>, schreibt heute <seg type="comment"><orig><foreign xml:lang="Lat">extensis manibus</foreign></orig><note xml:id="nh2d_bvm_ylb">Lat.: mit ausgestreckten Händen.</note></seg>, in großer Sorge, da er den <seg type="comment"><orig>Druck seiner Texte nicht zum festgesetzten Termin liefern kann, wenn nicht die gewünschte Collation <hi rendition="#u">vor</hi> Ostern in seinen Händen ist</orig><note xml:id="nkgn_dvm_ylb">Für seine Untersuchung „Pontificum Romanorum qui fuerunt inde ab exeunte saeculo IX usque ad finem saeculi XIII vitae“ (2 Bde. Leipzig: Engelmann 1862) hatte Watterich Reumont bereits in seinem Brief vom 5.1.1860 um Besorgung dieser Materialien gebeten (Universitäts- und Landesbibliothek Bonn, S 1068).</note></seg>. Watterich glaubt Sie selbst außerhalb Florenz; ich entledige mich der Verpflichtung, welche mir sein Brief auferlegt, indem ich Ihnen von dessen Inhalt Kunde gebe.</p>
+                <p>Wahrscheinlich wird mittlerweile das Desideratum schon nach Braunsberg abgegangen
+                    sein.</p>
+                <p>Durch einen <seg type="comment"><orig>reisenden <persName key="G001281">Numismatiker</persName></orig><note xml:id="nd5c_fvm_ylb">Vermutlich der Numismatiker Heinrich Hirsch (1820–1886), den Gregorovius seit 1852 kannte, als er mit ihm in Livorno und Elba war (siehe RT, S. 44). Hirsch hatte in München ein Geschäft, in dem er vor allem mit antiken und italienischen Münzen handelte. Den Winter verbrachte Hirsch immer wieder in Rom und lebte im Sommer in München. Hirsch hatte am 29. Februar 1860 auch die zweite Hälfte des Manuskripts des 3. Bandes von Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ (1860) mit nach München genommen (siehe den Brief von <ref target="G000091">Gregorovius an Cotta, 13.3.1860</ref>).</note></seg> habe ich <seg type="comment"><orig>die <bibl corresp="G004776 G004777 G004778 G004779">„Deutschen Jahrbücher“</bibl> an Sie nach Florenz zurückgesendet</orig><note xml:id="nfpq_jvm_ylb">Reumont hatte ihm Ende September 1859 vier Bände der „Jahrbücher des Deutschen Reichs“ (1838–1840) geliehen, die Gregorovius ihm im Februar 1860 zurückgesandt hatte (siehe den Brief von <ref target="G000089">Gregorovius an Reumont, 28.2.1860</ref>).</note></seg>, u<ex>nd</ex> wünsche, Sie möchten mich bei Gelegenheit, vielleicht in einem Briefe an <persName key="G000913"><add place="intralinear">H</add><ex>errn</ex> Alertz</persName> deren richtiges Eintreffen wissen laßen.</p>
+                <p>Der Mangel an manchen Quellen, worunter ich auch schmerzlich das <orgName key="G067522"><seg type="comment"><orig>Pertzische Archiv</orig><note xml:id="naml_4vm_ylb">Die 1819 von Heinrich Friedrich Karl Freiherr vom und zum Stein (1757–1831) gegründeten und seit 1823 von Georg Heinrich Pertz (1795–1876) geleiteten „Monumenta Germaniae historica“, eine Editionsreihe deutscher Geschichtsquellen des Mittelalters. </note></seg></orgName> vermisse, wird mich über kurz oder lang, sobald die <seg type="comment"><orig>Vorarbeiten zum <bibl corresp="G003462">IV. Band meiner Geschichte</bibl></orig><note xml:id="ncwp_qvm_ylb">Der soeben von Gregorovius begonnene 4. Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1862).</note></seg> hinlänglich gefördert sind, zwingen, nach <placeName key="G000664">Deutschland</placeName> zu gehen. Es ist doch hier eine Wüste<seg type="comment"><orig> in <hi rendition="#aq"><foreign xml:lang="Lat">litteris</foreign></hi></orig><note xml:id="ntv1_svm_ylb">Lat.: wörtlich: den Buchstaben – hier: den Wissenschaften.</note></seg>.</p>
+                <closer>
+                    <salute xml:id="s1" next="#s2">Mit großer Hochachtung, geehrter Herr, empfiehlt
+                        sich Ihnen </salute>
+                    <salute xml:id="s2" prev="#s1" rendition="#c">Ihr ganz ergebener</salute>
+                    <signed rendition="#right">F. Gregorovius.<lb/></signed>
+                    <dateline><hi rendition="#aq">Rom</hi> 10. <hi rendition="#aq">März</hi> 1860.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

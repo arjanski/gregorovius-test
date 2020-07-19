@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000035">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Beilage zu Ferdinand Gregorovius an Eduarad Brockhaus in Leipzig. Rom, 7. März 1858</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (48)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 8°, 3 S. – Beilage zum Brief von Ferdinand Gregorovius an Eduard Brockhaus vom 8. März 1858</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Wanderjahre in Italien. Hrsg. von Heinrich Hubert Houben. Leipzig: Brockhaus 1912. Nachwort, S. 261–262 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Konzept seiner auf sechs Bände und über 1000 Jahre angelegten „Geschichte der Stadt Rom im Mittelalter“ (1859–1872), vor der seine Vorgänger und römischen Kollegen Edward Gibbon, Carlo Fea, Felix Papencordt, Carlo Troya und Pietro Ercole Visconti zurückschreckten. Er will nicht nur eine politisches Geschichtswerk schreiben, sondern alle Aspekte des Lebens und der Kultur miteinbeziehen. Die ersten zwei Bände (1859) bis zur Krönung Karls des Großen hat er im Manuskript abgeschlossen. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">Concept of his „Geschichte der Stadt Rom im Mittelalter“ (1859–1872), spanning six volumes and covering over 1000 years, which his predecessors and Roman colleagues Edward Gibbon, Carlo Fea, Felix Papencordt, Carlo Troya and Pietro Ercole Visconti shrank from. He does not only want to write a political historical work, but to include all aspects of life and culture. He completed the manuscripts of the first two volumes (1859) up to the coronation of Charlemagne. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1858-03-08" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+<persName key="G000995">Brockhaus, Eduard (1829–1914)</persName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+                <p rendition="#c"><bibl corresp="G003485"><hi rendition="#u">Die Geschichte der Stadt Rom im <lb/>Mittelalter</hi></bibl>.</p>
+                <p>Ein solches Geschichtswerk erscheint zum ersten Mal in der Literatur überhaupt, nachdem seit mehr als 100 Jahren mehrfache Versuche dazu gemacht worden sind; <hi rendition="#aq"><persName key="G001171">Gibbon</persName></hi> faßte den Plan, ehe er sein <bibl sameAs="ed_e5c_gzc_rlb">Werk über den Fall etc des römischen Reichs</bibl> schrieb; <seg type="comment"><orig><persName key="G001127"><hi rendition="#aq">Carlo Fea</hi></persName> hegte ihn gleichfalls</orig><note xml:id="ni4v_2zc_tlb">Der Archäologe Carlo Fea (1753–1836) war ab 1801 Kommissar der Altertümer Roms und hatte verschiedene Ausgrabungen geleitet. Fea hat die „Nuova Descrizione di Roma Antica e Moderna e de suoi Contorni“ (3 Bde., Rom 1820) geschrieben.</note></seg>, <seg type="comment"><orig><persName key="G001469">Papencordt </persName>starb darüber, u<ex>nd</ex> nur seine Materialien sich beschränkend auf die politischen Dinge sind neuerdings <bibl sameAs="G004218">von <hi rendition="#aq">Höfler</hi> in <hi rendition="#aq">Prag</hi> herausgegeben worden</bibl></orig><note xml:id="nhz4_hzc_tlb">Die „Geschichte der Stadt Rom im Mittelalter“ von Felix Papencordt (1811 oder 1812–1841), die Constantin von Höfler (1811–1897) 1857 in Paderborn bei Schöningh aus dessen Nachlass herausgab. Höfler hatte seit 1851 einen Lehrstuhl für Geschichte an der Karls-Universität Prag. </note></seg>; auch <seg type="comment"><orig><hi rendition="#aq"><persName key="G004703">Carl Troya</persName></hi> in <placeName key="G000737">Neapel</placeName> ging damit um</orig><note xml:id="nnvh_lzc_tlb">Der neapolitanische Historiker und Dante-Forscher Carlo Troya (1784–1858), Gründer der neapolitanischen historischen Gesellschaft und 1848 für kurze Zeit erster Verfassungsminister des Königreichs der beiden Sizilien, hatte eine monumentale „Storia d’Italia del medio-Evo“ (Neapel Stamperia reale 1839–1855), die zeitlich von 476 bis nach Karl dem Großen (747/748–814) reicht, geschrieben.</note></seg>, wie <persName key="G004702"><hi rendition="#aq"><seg type="comment"><orig>Visconti</orig><note xml:id="nujr_5zc_tlb">Pietro Ercole Visconti (1802–1880) war seit 1836 (bis 1870) Commissario delle Antichità und führte im Auftrag von Pius IX. ab 1855 systematische Grabungen in Ostia durch. Seine Geschichte der Familien Roms und des Kirchenstaats (Città e famiglie nobili e celebri dello Stato Pontificio. Dizionario storico del commendatore. 2 in 4 Bden. Rom 1847–1848) blieb unvollendet. </note></seg></hi></persName> etc.</p>
+                <p>Der Plan meines Werks ist universell, was die Geschichte der Stadt betrifft; es beschränkt sich nicht auf die politischen Dinge, sondern umfaßt das gesamte Leben der Stadt, ihre Metamorphosen, die Geschichte ihrer Ruinen, ihrer Transfiguration in verschiedenen Epochen, der Sitten u<ex>nd</ex> Gebräuche, der Kunst, der Sagen, die im Local entstanden u<ex>nd</ex> mit den Monumenten zusammenhängen; es verwebt dieses organisch in die Geschichte der Stadt, es stellt die römische Gestalt des Christentums dar, u<ex>nd</ex> entwickelt den Charakter Roms u<ex>nd</ex> <add place="superlinear">der</add> Römer im Verhältniß zum <orgName key="G000539">Papsttum</orgName> wie zu dem Kaisertum. Das Werk beansprucht für <placeName key="G000664">Deutschland</placeName> <pb n="1v"/>eine gewiße Nationalität, weil es der beständigen Beziehungen Roms zum römischen Reich Deutscher Nation, die Romfahrten der Kaiser etc notwendig in sich aufnehmen muß. Eine mehr als fünfjährige Kenntniß u<ex>nd</ex> Erforschung Roms in diesem Sinne, der Zusammenhang mit den römischen Gelehrten, die Bekanntschaft mit allen dahingehörigen Quellen berechtigt mich diese Geschichte zu schreiben, von welcher ich nunmehr <seg type="comment"><orig>die 2 ersten Bände vollendet habe</orig><note xml:id="nmwc_11d_tlb">Bd. 1–2 der „Geschichte der Stadt Rom im Mittelalter“ von Gregorovius erschien 1859 bei Cotta.</note></seg>.</p>
+                <p>Ich beginne mit dem Anfang des <hi rendition="#aq">Saec<ex>ulum</ex></hi> 5., zeichne zuerst das Gemälde des alten u<ex>nd</ex> des christlichen Rom <seg type="comment"><orig>um das Jahr 403, in welchem <persName key="G001295">Honorius</persName> seinen Triumfeinzug hielt; dies deshalb, damit man wiße, wie die Gothen unter <persName key="G000910">Alarich</persName> Rom vorfanden, als sie im Jahr 410 die Stadt einnahmen u<ex>nd</ex> plünderten</orig><note xml:id="nd3j_k1d_tlb">Der jüngere Söhn des römischen Kaisers Theodosius I. (347–395), der das Christentum faktisch zur alleinigen Staatsreligion erhoben hatte. Nach dem Tod von Theodosius wurde die Macht des Imperium Romanum unter den beiden Söhnen aufgeteilt. Während der ältere Bruder, Arcadius (377–408), in Konstantinopel als senior Augustus über den Osten herrschte, regierte Flavius Honorius (384–423) zunächst von Mailand, dann von Ravenna aus als junior Augustus Honorius den Westen des Reichs. Nach seinem feierlichen Einzug in Rom Ende 403/Anfang 404 konnte Honorius seine Machtstellung jedoch nicht sichern, was zu Machtkämpfen und Bürgerkriegen, 410 zur Plünderung der Hauptstadt des weströmischen Imperiums durch den westgotischen Heerführer Alarich (370–410) und schließlich zum Zerfall des weströmischen Reichs führte (siehe „Geschichte der Stadt Rom im Mittelalter“, Bd. 1, S. 113–121).</note></seg>. Denn mit diesem ersten Fall von Rom beginnt die Geschichte der in Ruinen gehenden Stadt, u<ex>nd</ex> beginne ich ihr Mittelalter. Der erste Band reicht demnach von 403 bis zum<seg type="comment"><orig> Sturz des gothischen Königtums durch <persName key="G004730">Narses</persName></orig><note xml:id="nkrl_51d_tlb">552 besiegte der byzantinische Oberbefehlshaber der kaiserlichen Truppen Justinians (483–565), Narses (um 490–574), die Truppen der Ostgotenkönige Totila († 552) und Teja († 552) in Italien (siehe „Geschichte der Stadt Rom im Mittelalter“, Bd. 1, S. 444–451).</note></seg>, u<ex>nd</ex> die <seg type="comment"><orig>Einsetzung des Exarchats</orig><note xml:id="ntmy_v1d_tlb">Das unter dem oströmischen Kaiser Maurikios (539–602) um 584 als byzantinischer Verwaltungsbezirk in Italien gegründete Exarchat von Ravenna, das die Sicherung gefährdeter Außenbezirke und die Straffung der Reichsstruktur zum Ziel hatte. Der im Regierungssitz Ravenna eingesetzte Statthalter der italischen Besitzungen des oströmischen Reiches hatte die oberste militärische und zivile Gewalt (siehe „Geschichte der Stadt Rom im Mittelalter“, Bd. 1, S. 480–484).</note></seg>.</p>
+                <p>Der 2. Band umfaßt die Geschichte der Stadt von da an bis auf die <seg type="comment"><orig>Kaiserkrönung <persName key="G001330">Carls des Großen</persName> im Jahre 800</orig><note xml:id="npg1_c1n_5lb">Der König des Fränkischen Reichs, Karl der Große (747/748–814), wurde am 25. Dezember 800 im Aachener Dom als erster westeuropäischer Herrscher seit der Antike zum Kaiser gekrönt (siehe „Geschichte der Stadt Rom im Mittelalter“, Bd. 2, S. 536–548).</note></seg>. Beide Bände <pb n="2r"/>enthalten demnach die lange u<ex>nd</ex> zum Teil schwierige Periode von 400 Jahren.</p>
+                <p>Es bleiben mir übrig noch elf Jahrhunderte Rom’s, da ich die Geschichte fortführen will bis auf <seg type="comment"><orig><hi rendition="#aq">Sixtus</hi> V</orig><note xml:id="ncck_g1n_5lb">Sixtus V. (1521–1590) war von 1585 bis 1590 Papst der katholischen Kirche. </note></seg>, oder doch bis auf den letzten Fall Roms unter <persName key="G004705">Carl v<ex>on</ex> <hi rendition="#aq">Bourbon</hi></persName> <seg type="comment"><orig>u<ex>nd</ex> die <persName key="G004714">Frundsbergischen</persName>; was in noch 4 Bänden geschehen soll</orig><note xml:id="nivm_q1n_5lb">Um die Vorherrschaft in Oberitalien zu sichern, bediente sich Karl V. (1500–1558) in langwierigen Kämpfen der Söldnertruppen des süddeutschen Landsknechtsführers in kaiserlich-habsburgischen Diensten Georg von Frundsberg (1473–1528). Geld- und Essensmangel führten ab dem 6. Mai 1527 zu einer unkontrollierten Plünderung Roms und des Kirchenstaats sowie zu Gewaltexzessen durch deutsche Landsknechte und spanische sowie italienische Söldner. Die „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) von Gregorovius wurde schließlich erst auf sieben, dann auf acht Bände erweitert und endete mit dem Sacco di Roma.</note></seg>. Das ganze Werk wird demnach 6 Bände umfaßen, u<ex>nd</ex> eine vollständige Geschichte der Stadt geben, geschöpft aus den Documenten u<ex>nd</ex> Archiven jeder Art, so weit sie mir zugänglich sind. Noten werden es begleiten, wie die Geschichte <hi rendition="#aq">Gibbon</hi>s, u<ex>nd</ex> im Ganzen soll es ein positives Geschichtswerk sein, obwol aller Welt zugänglich durch die Weise der Darstellung u<ex>nd</ex> durch Stil u<ex>nd</ex> Form. Innerhalb sechs Jahren hoffe ich damit zu Stande zu kommen, u<ex>nd</ex> in der Wissenschaft eine Lücke auszufüllen. Erwartet wird dies Unternehmen, u<ex>nd</ex> wird willkommen sein überall, wo es überhaupt Wissenschaft gibt. Es ist eins der schwierigsten Unternehmungen, die man leisten mag, u<ex>nd</ex> ob ich nur im Entferntesten meiner Idee nahekomme, weiß ich nicht zu sagen.</p>
+                <closer>
+                    <dateline><hi rendition="#aq">Rom</hi> 7. <hi rendition="#aq">März</hi> 1858 </dateline>
+                    <signed rendition="#right"><hi rendition="#aq">Ferdin. Gregorovius</hi>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

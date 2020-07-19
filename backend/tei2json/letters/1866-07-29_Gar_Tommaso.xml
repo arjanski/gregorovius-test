@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000280">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Tommaso Gar in Neapel. Rom, 29. Juli 1866</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+                <respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Biblioteca Comunale di Trento</repository>
+                        <idno>
+                            <idno>busta BCT1–2257/52</idno>
+                        </idno>
+                    </msIdentifier>
+                    <physDesc>
+<p>1 Dbl., 8°, 1 S. – 2v, Blatt um 180° gedreht, Adr.: Signor Tommaso Gar / Direttore della Biblioteca / dell’Università / Napoli / Libreria Tedesca Alberto Detken. / (Gregorovius)</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Seinen Brief überbringt Friedrich Max Müller. Gar soll Müller in den Kreis um Albert Detken in Neapel einführen. Gregorovius möchte Anfang August nach Fano reisen, von dort weiter über Foggia nach Neapel. Er erkundigt sich nach der besten Reiseroute; im September möchte im Staatsarchiv von Neapel arbeiten. Grüße an Madeleine Creutzer.</p>
+                <p xml:lang="en">His letter is delivered by Friedrich Max Müller. Gar is to introduce Müller to the circle around Albert Detken in Naples. Gregorovius would like to travel to Fano at the beginning of August, from there to Naples via Foggia. He inquires about the best itinerary; in September he wants to work in the State Archives of Naples. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName>
+                    <date when="1866-07-29" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001158">Gar, Tommaso (1808–1871)</persName>
+<placeName key="G000737">Neapel</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Roma, il 29. Luglio 66. <lb/>via Gregoriana n. 13</dateline>
+                    <salute rendition="#c">Caro amico Gar,</salute>
+                </opener>
+<p>il latore di questa mia si è <seg type="comment"><orig>il <persName key="G001433">Dottor Müller</persName> Prussiano</orig><note xml:id="nbvm_gtl_ylb">Friedrich Max Müller (1823–1900) war ein Sprach- und Religionswissenschaftler. Er lebte seit 1846 in London und Oxford.</note></seg>, da parècchi anni di dimora in <placeName key="G000716">Londra</placeName>. Mi permetto di diriggerlo a voi, non perché vi rubi del tempo, ma si acciochè egli in qualunque occorrenza possa ricorrere ai consigli vostri, di che benvolontieri gli sarete cortese. Abbiate la compiacenza di presentarlo ai vostri amici di Napoli presso <persName key="G001089">Detken</persName>.</p>
+<p>Io sto per partire all’<placeName key="G000792">Adriatico</placeName>, volendo fermarmi un po’ a <placeName key="G000668">Fano</placeName>.</p>
+<p>Vi prego di dirmi in una lettera vostra quanto prima sia possibile:</p>
+<p>se potro studiare dentro il Settembre nell’<orgName key="G000565">Archivio di Stato di Napoli</orgName>; se mi consigliate di prendere la strada di <placeName key="G000672">Foggia</placeName> per Napoli; non sapendo io, se prosegua il <seg type="comment"><orig>cammin di ferro</orig><note xml:id="nlkt_htl_ylb">Gemeint ist die Eisenbahnstrecke.</note></seg> da Foggia, temo la diligenza e i briganti. Vorrei sapere quant’ ore ci vorrebbero fra Foggia e Napoli. La vostra lettera mi truovera ancora a Roma fino ai 4. dell’Agosto in circa. Sul principio del Settembre sarò, come spero, da Voi.</p>
+                <closer>Molti cordiali e rispettuosi complimenti alla signora <persName key="G001056">Baronessa</persName>. <salute rendition="#c">Di tutto cuore il vostro</salute> <signed rendition="#c">Gregorovius</signed> </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

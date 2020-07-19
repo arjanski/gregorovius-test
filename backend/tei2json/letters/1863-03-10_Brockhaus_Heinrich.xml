@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000168">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Heinrich Brockhaus in Leipzig. Rom, 10. März 1863</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Sächsisches Staatsarchiv Leipzig</repository><collection>Bestand 21083</collection><idno>Archivalnummer 224 (66)</idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 4°, 2 S. – 1r aoR Eingangs- und Beantwortungsvermerk: 1863. / <hi rendition="#aq">Rom</hi>, 10. /19. <hi rendition="#aq">März</hi>. / B. 28/30. <hi rendition="#aq">Mrz</hi>. / <hi rendition="#aq">Gregorovius</hi>.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 55, Mappe 332 (nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Nach seinen „Figuren. Geschichte Leben und Scenerie aus Italien“ (1856) und seinen „Siciliana“ (1861) will er einen dritten Band mit Aufsätzen zur römischen Campagna zusammenstellen. Als Reihentitel schlägt er „Das Buch der Wanderjahre in Italien“ vor. Er soll sieben Aufsätze enthalten. Vertragsbedingungen. In der jetzt projektieren zweiten Auflage seiner „Figuren“ (1864) sollen die „Idyllen vom Baltischen Ufer“ wegfallen und stattdessen „Das Kloster S. Marco in Florenz“ und „Toscanische Melodien“ neu aufgenommen werden. Der plötzliche Tod des Verlegers Johann Georg Freiherr Cotta von Cottendorf hat ihn auch persönlich erschüttert. Er war der Schirmherr seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872). Vielleicht wird er Heinrich Brockhaus im Sommer persönlich in Leipzig aufsuchen können. Eduard Brockhaus bittet er zu grüßen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">After his „Figuren. Geschichte Leben und Scenerie aus Italien“ (1856) and his „Siciliana“ (1861) he wants to compile a third volume with essays on the Roman Campagna. He suggests the title „Das Buch der Wanderjahre in Italien“ for the series. It is to be comprised of seven essays. Contractual conditions. In the now planned second edition of his „Figuren“ (1864), the „Idyllen vom Baltischen Ufer“ are to be cut and instead „Das Kloster S. Marco in Florenz“ and „Toscanische Melodien“ are to be included. The sudden death of the publisher Johann Georg Freiherr Cotta von Cottendorf has also shaken him up. He was the patron of his „Geschichte der Stadt Rom im Mittelalter“ (1859-1872). Perhaps he will be able to visit Heinrich Brockhaus in Leipzig this summer. He asks to give his regards to Eduard Brockhaus. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1863-03-10" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G000996">Brockhaus, Heinrich (1804–1874)</persName>
+<placeName key="G000712">Leipzig</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">10. Februar 1863</ref>
+<ref type="next">28. März 1863</ref>
+<ref type="next">30. März 1863</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c"><hi rendition="#aq">Rom</hi>, 10. <hi rendition="#aq"><hi rendition="#aq">März</hi></hi> 63.</dateline>
+                    <salute>Mein sehr verehrter Herr,</salute>
+                </opener>
+<p>Ihr freundliches Schreiben beantworte ich erst heute, durch Erkältung so lange behindert, u<ex>nd</ex> noch heute an den Augen laborirend. Es ist sehr schön, daß Sie <seg type="comment"><orig>den italien<ex>ischen</ex> Studien Ihre fernere Teilnahme zuwenden; diese, <bibl sameAs="G003114">Figuren</bibl>, <bibl sameAs="G003252">Siciliana</bibl>, u<ex>nd</ex> der nun <bibl sameAs="G003183">zu edirende Band</bibl>, werden sich als Ganzes recht gut ausnehmen</orig><note xml:id="nekx_rm3_cmb">Nach seinen „Figuren. Geschichte Leben und Scenerie aus Italien“ (1856) und seinen „Siciliana“ (1861) hatte Gregorovius im vorhergehenden Brief einen Band mit Aufsätzen über die lateinischen Campagna vorgeschlagen (siehe den Brief von <ref target="G000154">Gregorovius an Brockhaus, 10.1.1863</ref>). Der Band erschien unter dem Titel „Lateinische Sommer“ als zweiter Band unter dem Reihentitel „Wanderjahre in Italien“ 1864.</note></seg>, und wol auch die Gunst des Publicums behalten, wie ich glaube. Mir selbst sind diese Dinge freilich gänzlich gleichgültig geworden, da ich nur noch Sinn für die „<bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Geschichte der Stadt Rom</bibl>“ <del rendition="#s">fin</del> habe.</p>
+<p>Ich schlage als gemeinsamen Titel für alle 3 Bände vor: <seg type="comment"><orig><hi rendition="#u">Das Buch der Wanderjahre in Italien von F<ex>erdinand</ex></hi><hi rendition="#u"><hi rendition="#u"> </hi>G<ex>regorovius</ex></hi></orig><note xml:id="nemx_dr3_cmb">Im folgenden Brief vom 8. April 1863 stimmt Gregorovius der Verkürzung des Reihentitels auf „Wanderjahre in Italien“ zu (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 67).</note></seg>, u<ex>nd</ex> erbitte mir Ihre Ansicht darüber.</p>
+<p rendition="#c">Der Inhalt des neuen Bandes ist: </p>
+<p>
+<list>
+<item><label>1.</label><bibl corresp="G003864 G003865 G003867 G003868 G003869 G003870 G003871"><seg type="comment"><orig>Aus den Bergen Latiums</orig><note xml:id="nffn_443_cmb">„Aus den Bergen der lateinischen Campagna“ war in sieben Folgen vom 6.10.-24.10.1858 in der „Allgemeinen Zeitung“ erschienen.</note></seg></bibl>.</item>
+<item><label>2.</label><bibl corresp="G003860 G003861 G003862"><seg type="comment"><orig>Die <hi rendition="#aq">Abtei Subiaco</hi></orig><note xml:id="nhdg_p43_cmb">„Aus der Campagna von Rom. Subiaco, das älteste Benedictinerkloster des Abendlandes, seine Geschichte und seine Altertümer“ war im Erstdruck im „Deutschen Museum“ vom 1.-15.1858 in drei Folgen erschienen.</note></seg></bibl>.</item>
+<item><label>3.</label><bibl corresp="G003890 G003891 G003892 G003893"><seg type="comment"><orig>Aus den Bergen der <hi rendition="#aq">Volsker</hi></orig><note xml:id="nc2v_p43_cmb">„Aus den Bergen der Volsker“ war im Erstdruck in „Das Ausland. Eine Wochenschrift für Kunde des geistigen und sittlichen Lebens der Völker“ vom 19.8.-9.9.1860 in vier Folgen erschienen.</note></seg></bibl>.</item>
+<item><label>4.</label><bibl corresp="G003844 G003845 G003846 G003847 G003848 G003849 G003850 G003851 G003852 G003854 G003855 G003856"><seg type="comment"><orig>Aus der Campagna von Rom</orig>.<note xml:id="nfz4_q43_cmb">„Aus der Campagna von Rom“ war im Erstdruck in der „Allgemeinen Zeitung“ vom 15.12.1856 bis 6.5.1857 in vierzehn Folgen gedruckt worden.</note></seg></bibl></item>
+<item><label>5.</label><bibl corresp="G003894 G003895 G003896 G003897 G003898 G003899 G003900 G003901 G003902 G003903"><seg type="comment"><orig>Avignon</orig><note xml:id="netf_r43_cmb">„Avignon“ war im Erstdruck in der „Allgemeinen Zeitung“ vom 1.-12.1.1861 in zehn Folgen erschienen. Avignon war von 1309 bis 1377 Sitz der Päpste und blieb unter päpstlicher Herrschaft, bis die Stadt 1791 zu Frankreich kam.</note></seg></bibl> (Seitenstück zu <hi rendition="#aq">n<ex>ummer</ex></hi> 4, wo von der <seg type="comment"><orig>Päpstl<ex>ichen</ex> Residenz <placeName key="G067783">Anagni</placeName></orig><note xml:id="nxl2_s43_cmb">Anagni ist seit dem 5. Jahrhundert Bischofssitz und war im im 12. und 13. Jahrhundert die Residenz von Päpsten und Ort von Konklaven. Der Papstpalast aus dem frühen 13. Jahrhundert hat sich erhalten.</note></seg> gehandelt wurde).</item>
+<item><label>6.</label><bibl corresp="G003882 G003883 G003884 G003885 G003886 G003887 G003888 G003889"><seg type="comment"><orig>Von den Ufern des Liris</orig><note xml:id="nmtp_t43_cmb">„Von den Ufern des Liris“ war im Erstdruck in der „Allgemeinen Zeitung“ vom 27.3.-9.5.1860 in neun Folgen erschienen.</note></seg></bibl>.</item>
+<item><label>7.</label><bibl corresp="G003874 G003875"><seg type="comment"><orig>Die Römischen Poeten der Gegenwart</orig><note xml:id="nrjg_543_cmb">„Die römischen Poeten der Gegenwart“ waren im Erstdruck im „Morgenblatt für gebildete Leser“ erschienen (Nr. 51–52. Stuttgart; München: Cotta 19. und 26.12.1858).</note></seg></bibl>; literarhistorische Abhandlung, mit Volksweisen.</item>
+</list>
+</p>
+<p rendition="#c">________</p>
+<p>Die <seg type="comment"><orig><bibl sameAs="G003117">Baltischen Idyllen</bibl> können aus der <bibl corresp="G003122">2. Aufl<ex>age</ex> der Figuren</bibl> entfernt werden</orig><note xml:id="nakb_v43_cmb">Die zweite Auflage der „Figuren“ (1856) erschien 1864 unter dem Titel „Figuren. Geschichte, Leben und Scenerie aus Italien“ ohne die „Idyllen vom baltischen Ufer“, die unter dem Titel „Sommeridyllen vom samländischen Ufer“ 1852 im Erstdruck im „Deutschen Museum“ erschienen waren (Jg. 2. Leipzig: Hinrichs 1852. S. 81–101).</note></seg>, obwol dies denen an der <placeName key="G067784">Ostsee</placeName> nicht recht sein wird. Vielleicht kann ein Separatabdruck davon gemacht werden.</p>
+<p>Diesen Ausfall will ich decken, u<ex>nd</ex> also die neue Auflage vermehren, mit 2 neuen Stücken, <bibl corresp="G003831 G003832">das Kloster <hi rendition="#aq">S<ex>an</ex> Marco</hi> in Florenz</bibl> (ehedem abgedruckt im <hi rendition="#aq">D<ex>eutschen</ex> Mus<ex>eum</ex></hi>), u<ex>nd</ex> 40 „<placeName key="G000823">Toscanische</placeName> Melodien“, noch nie abgedruckt.</p>
+<p>Die neue Ausgabe würde demnach enthalten:<list>
+<item>1. <bibl corresp="G003779 G003780 G003781 G003782 G003783 G003784"><seg type="comment"><orig>Elba</orig><note xml:id="nbvs_v43_cmb">„Ein Besuch auf Elba“ war in sechs Folgen vom 13.-22.1.1853 in der Beilage zur „Allgemeinen Zeitung“ erschienen.</note></seg></bibl>. 2. <seg type="comment"><orig>Toscanische Melodien</orig><note xml:id="nkck_w43_cmb">Eine Reihe seiner im Sommer 1858 entstandenen Übertragungen nach der Sammlung des Priesters und Erziehers aus Pistoia Guiseppe Tigri (1806–1882): „Canti popolari Toscani raccolti e annotati da Giuseppe Tigri“ (Florenz 1856; siehe RT, 31.8.1858, S. 73) hatte Gregorovius bereits im November 1858 Cotta zum Abdruck angeboten und im September 1859 der Redaktion des „Morgenblattes für gebildete Leser“ (siehe den Brief von <ref target="G000109">Gregorovius an Cotta, 6.11.1858</ref> sowie den Brief von Gregorovius an Wilhelm Hauff, 22.9.1859; DLA Marbach, 34803). Einige der von Gregorovius übertragenen Lieder wurden vielfach vertont.</note></seg>. 3. <seg type="comment"><orig><hi rendition="#aq">S<ex>an</ex> Marco</hi> in Florenz</orig><note xml:id="npzc_x43_cmb">Sein Artikel „Das Dominicanerkloster San Marco in Florenz und seine Reactionen gegen den Realismus“ war in zwei Folgen im „Deutschen Museum“ erschienen (Nr. 31–32. Leipzig Brockhaus 2. und 9.8.1855. S. 153–163 und 199–209).</note></seg>.</item>
+<item>4. <bibl corresp="G003811 G003812 G003813 G003814 G003815"><seg type="comment"><orig>Idyllen vo<ex>m</ex> Latein<ex>ischen</ex> Ufer</orig><note xml:id="nmvw_x43_cmb">„Idyllen vom lateinischen Ufer“ waren im Erstdruck in der „Königsberger Hartungsche Zeitung“ erscheinen (Nr. 199, 201, 203, 205, 207. Königsberg 26.8.- 5.9.1854).</note></seg></bibl>. 5. <hi rendition="#aq"><bibl corresp="G003799 G003800 G003801 G003805 G003806"><seg type="comment"><orig>Ghetto</orig><note xml:id="ned4_y43_cmb">Der Erstdruck von „Der Ghetto und die Juden in Rom“ war 1853 in der „Allgemeinen Zeitung“ erschienen (Beilage zu Nr. 250, 252, 255, 259, 264 der AZ. Augsburg: Cotta 7., 9., 12., 16., 21.9.1853).</note></seg></bibl></hi>. 6. <bibl corresp="G003791 G003792 G003793 G003794 G003795 G003796 G003797 G003798"><seg type="comment"><orig>Römische Figuren</orig><note xml:id="nn4c_z43_cmb">„Römische Figuren“ waren zuerst vom 21.5.1853 bis 12.6.1853 in acht Folgen in der Beilage der „Allgemeinen Zeitung“ gedruckt worden.</note></seg></bibl>. 7. <hi rendition="#aq"><bibl corresp="G003837"><seg type="comment"><orig>Capri</orig><note xml:id="ni3t_z43_cmb">Ein verkürzter Erstdruck von „Capri“ war erschienen in: Jahrbücher zu Meyer’s Volksbibliothek für Länder-, Völker-, und Naturkunde. Mit Kupfern und Karten. Bd. 1. Hildburghausen: Bibliographisches Institut – New York: Paul Bernhard 1856. S. 62–116.</note></seg></bibl></hi>.</item>
+</list></p>
+<p rendition="#c">________</p>
+<p>Meine Ansprüche betreffs des neuen Bandes sind wie jene für die Siciliana bewilligten: 1000 Ex<ex>emplare</ex> im Maximum; 300 Thaler Honorar für die 1. Aufl<ex>age</ex>. Nur bitte ich mir diese voll auf einmal zu zahlen, was Sie, ohne sich zu benachteiligen, nach buchhändlerischen Rechnungen, leicht <pb n="1v"/><choice><sic>leicht</sic><corr type="deleted"/></choice> werden thun können, da die Kosten bei dem Preis des Bandes sich bald decken.</p>
+<p>Für die <bibl corresp="G003191">2. Auflage</bibl>, bei gleichem Maximum von Exemplaren, welches wir überhaupt für jede Ausgabe dieser 3 Bände festsetzen, wie bei den Siciliana, 150 Thaler Honorar.</p>
+<p>Für die 2. Aufl<ex>age</ex> der Figuren (welcher Titel wol jetzt fallen darf) wünsche ich ebenso nach der Norm der Siciliana, das gleiche Honorar von 150 Thalern. Ferner wünsche ich, daß mir die zwei neu hinzugegebenen Stücke zusammen mit 50 Thalern honorirt werden; im Ganzen also 200 Thaler für diese 2. Auflage. Die Figuren würden demnach, da ihre 1. Aufl<ex>age</ex> mit 150 Thalern honorirt wurde, in 1. u<ex>nd</ex> 2. Aufl<ex>age</ex> immer nur 350 Thaler, also 100 Thaler weniger, als die Siciliana, dem Autor einbringen.</p>
+<p>Für eine <seg type="comment"><orig>etwaige <bibl corresp="G003199">3. Ausgabe</bibl></orig><note xml:id="nkm4_1p3_cmb">Eine dritte Auflage der „Figuren“ und die zweite Auflage der „Lateinischen Sommer“ erschienen 1870; die zweite Auflage der „Siciliana“ 1865.</note></seg> wünsche ich Vorbehaltung eines freien Verständnißes zu seiner Zeit.</p>
+<p>Ich werde nach u<ex>nd</ex> nach ein zerlegtes Exemplar der Figuren revidirt per Kreuzband Ihnen zum Druck zukommen laßen, u<ex>nd</ex> dies nach einigen Wochen. Für die Herstellung des 2. Bandes brauche ich Zeit, u<ex>nd</ex> kann ich das druckfertige Material nicht vor dem Hochsommer liefern.</p>
+<p>Ich bitte, mir per <hi rendition="#aq"><orgName key="G000545"><seg type="comment"><orig>Spithöver</orig><note xml:id="nnsg_bp3_cmb">Die deutsche Buchhandlung Joseph Spithöver in Rom.</note></seg></orgName></hi> 1 Ex<ex>emplar</ex> Figuren zu senden, da ich 1 habe eintleihen müßen.</p>
+<p>Was sagen Sie, mein verehrter Herr, zum <seg type="comment"><orig>plötzlichen Tode des <persName key="G001055">Baron Cotta</persName></orig><note xml:id="nfbb_cp3_cmb">Der Verleger Johann Georg Freiherr Cotta von Cottendorf war am 1. Februar 1863 an einem Herzschlag verstorben.</note></seg>? Er erschreckte mich sehr. Er war mir seit langen Jahren wolwollend, hatte ein persönliches Verhältniß zur <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485"><seg type="comment"><orig>Geschichte der Stadt Rom</orig><note xml:id="nadp_cp3_cmb">Erschienen waren vier von acht Bänden seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1862).</note></seg></bibl>, und kurz, ich werde dies fortan vermißen. Ich will ihm nachrühmen sein immer gleich freundliches Verhalten zu mir.</p>
+<p>Wenn mir das Glück wol will, <seg type="comment"><orig>dringe ich vielleicht in diesem Sommer bis <hi rendition="#aq">Leipzig</hi> vor</orig><note xml:id="nm4d_dp3_cmb">Gregorovius kam 1863 nicht nach Leipzig. Nach Aufenthalten am Viewaldstätter See und am Rheinfall reiste Gregorovius Ende Juli 1863 über Konstanz nach München, wo er bis zum 10. September 1863 blieb (siehe RT, 14.7.-9.9.1863, S. 162–167).</note></seg>. Ich wäre sehr erfreut, mit Ihnen ein paar Stunden zu verplaudern. Möchten Sie wol u<ex>nd</ex> heiter sein, nicht mit zu großer Thätigkeit belastet, sondern auch oft schöner Muße u<ex>nd</ex> Muse in Ihrem <seg type="comment"><orig>schönen Besitze</orig><note xml:id="ntlr_dp3_cmb">Mit seinem Bruder Friedrich Brockhaus (1800–1865) hatte Heinrich Brockhaus 1821 als Firmensitz ein Gebäude in der Leipziger Querstraße erworben, das sich durch Grundstückszukäufe und (auch private) Erweiterungsbauten immer mehr ausweitete. In Dresden hatte Heinrich Brockhaus zudem einen Landsitz, auf dem er sich häufiger aufhielt.</note></seg> hingegeben.</p>
+                <closer>
+<salute xml:id="s1" next="#s2">Empfehlen Sie mich freundlichst Ihrem <persName key="G000995">Herrn Sohn</persName>, und sein Sie, mein teurer Herr, mit herzlicher Verehrung gegrüßt von </salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">Ihrem</salute>
+<signed rendition="#right">F. <hi rendition="#aq">Gregorovius</hi>.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

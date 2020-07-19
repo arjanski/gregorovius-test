@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000286">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Tommaso Gar in Venedig. Rom, 25. April 1869</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Biblioteca Comunale di Trento</repository>
+                        <idno>
+                            <idno>busta BCT1–2257/52</idno>
+                        </idno>
+                    </msIdentifier>
+                    <physDesc>
+<p>1 Dbl., 8°, 3 ½ S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er beschwert sich über einen Artikel von Julius August Schanz („Letteratura universale della Germania e poesia italiana“, 1869), in dem er fälschlicherweise als Mitarbeiter an einer Ausgabe deutscher Übersetzungen von italienischer Lyrik genannt wird. Er hat Schanz nur zum Abdruck seines Essays „Die römischen Poeten der Gegenwart“ (1858) autorisiert. Gar soll bei der Redaktion von „Il Tempo“ auf eine Richtigstellung drängen. Grüße an Madeleine Creutzer, über deren Brief sich Auguste Lindemann-Frommel gefreut hat. </p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName>
+                    <date when="1869-04-25" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001158">Gar, Tommaso (1808–1871)</persName>
+<placeName key="G000894">Venedig</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">25. Aprile 1869</dateline>
+                    <salute>Caro amico Gar,</salute>
+                </opener>
+<p>mi venne da Venezia un foglio dal giornale <seg type="comment"><orig><orgName key="G000520">il Tempo</orgName></orig><note xml:id="ncc5_wvr_ylb">„Il Tempo“ (Venezia: Tipografia del Tempo 1861–1890) war eine venezianische Tageszeitung, die sich inhaltlich vor allem nationaler und internationaler Politik sowie der Stadtpolitik (z. B. Gerichtsverfahren, Handel und Schifffahrt) widmente. Darüber hinaus nahm die Zeitung aber auch bibliographische Rezensionen sowie Erzählungen im Anhang auf. </note></seg> contenente un tal programma di un tale <seg type="comment"><orig><persName key="G001574">Giulio Schanz</persName></orig><note xml:id="noy3_gwr_ylb">Julius August (Uli) Schanz (1828–1902) war Literaturwissenschaftler, Schriftsteller und Übersetzer. Er war an der Revolution 1848/49 beteiligt und mehrere Jahre inhaftiert. 1853 heiratete er die Kinderbuchautorin Pauline Schanz, geb. Leich (1828–1913). 1856 war er Mitgründer der „Dresdner Nachrichten“; später verließ er Dresden aufgrund von Anfeindungen wegen seiner politischen Vergangenheit und hielt sich ab 1865 in Florenz auf. Ab 1874 lehrte er als Professor für Deutsche Sprache an der Universität in Rom, bevor er 1880 nach Deutschland zurückkehrte.</note></seg>, riguardante certe traduzioni di poesie italiane da farsi da codesto poet<subst><del rendition="#ow">a</del><add place="across">uccio</add></subst>, il quale non conosco affatto. In questo foglio vedo figurare me stesso fra altri nomi di compatriotti, che lo Schanz dice o fà credere di avergli in saccoccia come cooperatori della sua intrapresa. La verità si è questa: molti mesi fà ebbi una lettera da quello Schanz, in cui mi invitò a prestarmi alla sua impresa come traduttore di poesie romane. Non avendogli manco risposto mi scrisse un’ altra volta, poche settimane fà, ripetendo la sua domanda, e desiderando gli d<subst><del rendition="#s">a</del><add place="across">e</add></subst>ssi la licenza di ristampare <bibl corresp="G003874 G003875">un mio articolo sulla poesia contemporanea di Roma</bibl> inserito in uno dei miei opuscoli; gli negai la prima <pb n="1v"/>preghiera, gli concedetti la seconda sotto riserva <seg type="comment"><orig>dei diritti dell’<orgName key="ed_ijy_33w_sfb">editore Brockhaus</orgName></orig><note xml:id="nr43_lwr_ylb">Die Artikel „Die römischen Poeten der Gegenwart“ aus dem Morgenblatt erschienen später in Bd. II/6 der „Wanderjahre in Italien“ (Leipzig: Brockhaus 1864).</note></seg>, di cui egli <hi rendition="#u" hand="">dovrebbe</hi> acquistarsi preventivamente la licenza della ristampa. Or vedo, che codesto signor Schanz francamente e senza alcuna autorisazione dalla parte mia a messo il mio nome fra i collaboratori della sua pubblicazione da farsi. Ne sono alterato, avendo inteso poi che quello Sch<ex>anz</ex> sia una specie di aventuriere letterato, il quale per ogni forza vuol rendersi famoso, mentre che in <placeName key="G000664">Germania</placeName> tutti quanti ne sappiano se ne ridono. Mi fareste dunque, caro Gar, un buon servizio da amico, se voleste recarvi personalmente <seg type="comment"><orig>dal  <persName key="G001155">compilatore del giornale il Tempo</persName></orig><note xml:id="nstv_mwr_ylb">Inhaber und Direktor der Zeitung „Il Tempo“ ist zu diesem Zeitpunkt der Rechtsanwalt und Publizist Roberto Galli (1840–1931). Quelle: http://www.unsecolodicartavenezia.it/archivio/view/schede/c1297.html</note></seg>, onde <pb n="2r"/>richiedarlo in nome mio, che faccia, per esser giusto verso di me, una dichiarazione di questo senso:</p>
+<p>Siamo autorizzati a dichiarare, che nell’<bibl sameAs="G004262">articolo del nostro giornale</bibl> <seg type="comment"><orig>(n. 29 etc)</orig><note xml:id="nhcz_nwr_ylb">„Il Tempo“ (zum Zeitpunkt ergänzt um den Untertitel „Giornale Politico Quotidiano“), IX, Nr. 29, 4.2.1869.</note></seg> intitolato: „Letteratura universale della Germania e poesia italiana“, avvi uno sbaglio da correggerlo. Il signor Gregorovius di nessuna ragione vi figura frà i collaboratori della collezione da farsi dal signore Schanz. Egli, richiesto ne da lui, gli ha <add place="superlinear">solamente</add> dato la licenza di ristampare nella collezione sovraindicata un suo articolo sui poeti contemporanei di Roma, inserito anni fà in uno de’ suoi opuscoli minori.</p>
+<p>Se il giornale il Tempo mi negasse questa dichiarazione, vogliate dire al compilatore di esso, che allora farò inserirla in un altro giornale. Servitevi, caro Gar, di questa lettera, senza però far leggerla tutt’ intiera a chi forse è amico o editore dello <pb n="2v"/>Schanz, che deve essere una grande scimia e bestia impertinente.</p>
+<p>Scrivo di tutta fretta – appena stampata la mia dichiarazione, prego, fattemela venire a Roma.</p>
+                <closer>Mille saluti a voi ed alla amabile <persName key="G001056">baronessa</persName>, di cui la lettera portò gran piacere alla <persName key="G001374">signora Lindemann</persName>. <lb/> <salute rendition="#right">Vi stringo la mano, <lb/>il vostro</salute> <signed rendition="#right">FGregorovius <lb/> </signed> <dateline rendition="#right"><placeName key="ediarum_lmm_slx_qlb">Via Gregoriana</placeName> n. 13.</dateline> </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

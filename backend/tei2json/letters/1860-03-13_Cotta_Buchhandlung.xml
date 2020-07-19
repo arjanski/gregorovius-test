@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000091">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an die Cotta’sche Buchhandlung in Stuttgart. Rom, 13.
+                    März 1860</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (28)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 4°, 2 S. – 2v, Blatt um 90° gedreht, Adr.: <hi rendition="#aq"><hi rendition="#u" hand="">Germania</hi></hi> / Der / geehrten Buchhandlung / <hi rendition="#aq">J. G. Cotta</hi> / <hi rendition="#aq">Stuttgart</hi>. / <hi rendition="#aq">franca frontera</hi> – Postvermerke, Poststempel – 2v aoR Eingangsvermerk: 1860 / <hi rendition="#aq">Gregorovius</hi> / <hi rendition="#aq">Rom</hi> 13 <hi rendition="#aq">Maerz</hi></p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark"><idno>Karton 57, Mappe 340–342 (nach D) und Karton 55, Mappe 336–337 (Ergänzungen nach H)</idno></idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 236–237 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+<p xml:lang="de">Die „Regesta chronologico-diplomatica Karolorum“ (1833) hat er noch nicht erhalten. Die Ende Januar übersandte erste Hälfte des Manuskripts des dritten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1860) dürfte eingetroffen sein, die zweite Hälfte hat Heinrich Hirsch Ende Februar von Rom nach München mitgenommen. Sobald das Manuskript des vierten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1862) genügend gefördert ist, will er nach Deutschland reisen, weil ihm in Italien zu wenig Literatur zur Verfügung steht – in Kürze wird er um die Übersendung der „Regesta Imperii 1246–1313“ (1844) bitten.</p>
+<p xml:lang="it"/>
+<p xml:lang="en">He has not yet received the „Regesta chronologico-diplomatica Karolorum“ (1833). The first half of the manuscript of the third volume of his „Geschichte der Stadt Rom im Mittelalter“ (1860), which was sent at the end of January, has probably arrived. Heinrich Hirsch took the second half with him from Rome to Munich at the end of February. As soon as the manuscript of the fourth volume of his „Geschichte der Stadt Rom im Mittelalter“ (1862) is sufficiently advanced, he wants to travel to Germany because there is too little literature available to him in Italy - he will soon ask for the „Regesta Imperii 1246–1313“ (1844) to be sent to him. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1860-03-13" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="G000523">J. G. Cotta'sche Buchhandlung</orgName>
+                    <placeName key="G000879">Stuttgart</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<salute rendition="#c">Hochgeehrte Herren,</salute>
+</opener>
+                <p>Ihr gefälliges Schreiben, welches mir die Absendung der <seg type="comment"><orig>von mir gewünschten <hi rendition="#aq"><bibl sameAs="G004794">Regesta Karolorum</bibl></hi> anzeigt</orig><note xml:id="nlwq_pxm_ylb">Gregorovius hatte am 22.9.1859 um Zusendung von Johann Friedrich Böhmers (1795–1863) „Regesta chronologico-diplomatica Karolorum. Die Urkunden sämmtlicher Karolinger in kurzen Auszügen“ (Frankfurt: Varrentrapp 1833) gebeten und am 26.1.1860 angezeigt, dass diese noch nicht eingegegangen sind (siehe die Briefe von Gregorovius an Cotta, <ref target="G000099">22.9.1859</ref> und 26.1.1860 in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 235–236).</note></seg>, habe ich richtig erhalten. Die Regesta selbst sind noch nicht eingegangen, wahrscheinlich weil sich die <placeName key="G000712">Leipziger </placeName>Sendung an <persName key="G001618"><seg type="comment"><orig>Herrn <hi rendition="#aq">Spithöver</hi></orig><note xml:id="nac5_sxm_ylb">Die deutsche Buchhandlung von Joseph Spithöver (1813–1892) in Rom.</note></seg> </persName>verzögert hat. Hoffentlich ist das Werk nicht direct per Post nach Rom gegangen; solche Sendungen kommen jetzt schwer durch die Doganen durch, u<ex>nd</ex> geschieht dies, so muß man sie hier Orts mit Gold aufwiegen. In jedem Falle bitte ich, mir den Betrag des Buches in Rechnung zu stellen, wie ich auch noch gewiße Einbände von <seg type="comment"><orig>ein paar Exemplaren der <bibl corresp="G003476 G003485">Geschichte der Stadt</bibl></orig><note xml:id="nnyl_5xm_ylb">Von den ersten beiden Bänden seiner „Geschichte der Stadt Rom im Mittelalter“ (1859).</note></seg> schuldig bin.</p>
+                <p>Die <seg type="comment"><orig>am 27. <hi rendition="#aq">Januar</hi> durch den Österreichischen Gesandtschaftskurier abgegangene Erste Hälfte von<bibl sameAs="G003469"> Band III</bibl></orig><note xml:id="nuls_vxm_ylb">So die Mitteilung von der Übersendung des Manuskripts des 3. Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1860) im Brief vom 26.1.1860 von Gregorovius an Cotta (in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 235–236).</note></seg> wird in Ihren Händen sein, u<ex>nd</ex> hoffe ich bald die Correcturen zu erhalten. <seg type="comment"><orig>Die 2te Hälfte desselben Bandes ist mit Gelegenheit eines nach <placeName key="G000734">München</placeName> reisenden <persName key="G001281">Numismatikers</persName> am 29. <hi rendition="#aq">Februar</hi> abgegangen</orig><note xml:id="nzfk_xxm_ylb">Vermutlich der Numismatiker Heinrich Hirsch (1820–1886), mit dem Gregorovius 1852 in Livorno und Elba war (siehe RT, S. 44). Hirsch hatte in München ein Geschäft, in dem er vor allem mit antiken und italienischen Münzen handelte. Den Winter verbrachte Hirsch immer wieder in Rom und lebte im Sommer in München. Er hatte für Gregorovius auch die vier Ende September 1859 von Alfred von Reumont entliehenen Bände der „Jahrbücher des Deutschen Reichs“ (1838–1840) mit nach Florenz genommen (siehe den Brief von <ref target="G000092">Gregorovius an Reumont, 10.3.1860</ref>).</note></seg>, u<ex>nd</ex> dürfte nächstens zu Ihnen gelangen. Der Rest des Manuscripts, den ich noch so viel als möglich war, verkürzt habe, beträgt zusammen 300 geschriebene Seiten, wozu noch 100 Seiten Noten kommen, <pb n="1v"/>sodaß nach meiner Berechnung der <seg type="comment"><orig>III. Band circa 3 Lagen mehr, als der 2te enthalten wird</orig><note xml:id="nmdj_cym_ylb">Bd. 2 seiner „Geschichte der Stadt Rom im Mittelalter“ (1859) hat 548 Druckseiten, Bd. 3 hat 584 S.</note></seg>.</p>
+                <p>Ich bin sogleich an die Detailarbeiten des <bibl sameAs="G003462"><seg type="comment"><orig>IV. Bandes</orig><note xml:id="nd2p_dym_ylb">Bd. 4 von Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ erschien 1862.</note></seg></bibl> gegangen; das Material wächst in das Riesige, und ich werde auf Kürze u<ex>nd</ex> Präcision alle meine Aufmerksamkeit richten.</p>
+                <p><seg type="comment"><orig>Die Schwierigkeit, hier einige nötige Hilfsbücher zu erhalten, wird mich zwingen auf einige Zeit nach <placeName key="G000664">Deutschland</placeName> zu kommen, sobald der IV. Band compact durchgearbeitet sein wird</orig><note xml:id="nqsf_fym_ylb">Ebenso äußerte sich Gregorovius im Brief an Reumont vom <ref target="G000092">10.3.1860</ref>. Gregorovius reiste am 27. Juni 1860 von Rom über Florenz und Genua ins schweizerische Heiden, wo er eine Woche mit der Familie Thile verbrachte. Von dort führte ihn die Reise über Friedrichshafen, Stuttgart, Augsburg, Nürnberg, Leipzig und Berlin nach Danzig, zu seiner Familie nach Königsberg und in die Provinz. Den Rückweg trat er am 22. September 1860 erneut über Berlin, das er am 2. Oktober verließ, um von dort über Magdeburg, Göttingen und Heidelberg nach Straßburg, Lyon, Avignon und Arles zu reisen. Am 9. Oktober schiffte er sich dort nach Elba ein und war am 11. Oktober 1860 zurück in Rom (siehe RT, 30.6.-9.10.1860, S. 103–111).</note></seg>. Hätte ich gewußt, daß die <hi rendition="#aq">Regesta Karolorum</hi> nicht in Ihrem geehrten Verlage erschienen sind, so würde ich mir nicht die Freiheit herausgenommen haben, Sie mit meinem Ansuchen zu belästigen; wol aber werden Sie gütigst erlauben, daß ich zur Zeit Sie um die bei Ihnen erschienenen <hi rendition="#aq"><bibl sameAs="G067695"><seg type="comment"><orig>Regesta Imperii</orig><note xml:id="nrh3_lym_ylb">Die von Johann Friedrich Böhmer (1795–1863) herausgegebenen „Regesta Imperii Inde Ab Anno MCCXLVI Usque Ad Annum MCCCXIII / Die Regesten Des Kaiserreichs Unter Heinrich Raspe, Wilhelm, Richard, Rudolf, Adolf, Albrecht Und Heinrich VII. 1246–1313“ (Stuttgart: Cotta 1844) für den 4. Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1862).</note></seg></bibl></hi> ersuche. </p>
+<p>Beikommendes Schreiben bitte ich befördern zu wollen.</p>
+                <closer>
+<salute xml:id="s1" next="#s2">Mit größter Hochachtung, sehr geehrte Herren, zeichnet sich ganz ergebenst</salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">Ihr</salute>
+<signed rendition="#right"><hi rendition="#aq">Ferdnd Gregorovius</hi></signed>
+<dateline><hi rendition="#aq">Rom</hi> 13 <hi rendition="#aq">März</hi> 1860.</dateline>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

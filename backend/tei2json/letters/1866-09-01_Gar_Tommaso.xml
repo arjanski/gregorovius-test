@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000281">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Tommaso Gar in Neapel. Caserta, 1. September 1866</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"> <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Biblioteca Comunale di Trento</repository>
+                        <idno>
+                            <idno>busta BCT1–2257/52</idno>
+                        </idno>
+                    </msIdentifier>
+                    <physDesc>
+<p>1 Bl., 8°, 1 ¾ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+<p xml:lang="de">Er bittet um Nachsendung seiner Post bei Alberto Detken und im Hotel Washington in Neapel nach Caserta oder Rom. Er wird Caserta nach Aufhebung des Sanitärkordons zur Bekämpfung der Cholera verlassen. Gar soll prüfen, ob die von Giuseppe de Blasiis erwähnte „Istoria della città e costiera di Amalfi in due parti divisa con rami“ (1836) von Matteo Camera für seine „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) relevant ist. Grüße an Madeleine Creutzer und Giacomo Lignana.</p>
+                <p xml:lang="en">He asks that his letter be forwarded to Alberto Detken and the Hotel Washington in Naples to Caserta or Rome. He will leave Caserta after the sanitary cordon to fight cholera has been disbanded. Gar should check whether the „Istoria della città e costiera di Amalfi in due parti divisa con rami“ (1836) by Matteo Camera, mentioned by Giuseppe de Blasiis, is relevant to his „Geschichte der Stadt Rom im Mittelalter“ (1859-1872). Greetings to Madeleine Creutzer and Giacomo Lignana. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000655">Caserta</placeName>
+<date when="1866-09-01" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001158">Gar, Tommaso (1808–1871)</persName>
+<placeName key="G000737">Neapel</placeName>
+</correspAction>
+<note>Der undatierte Brief ist mit einem Wochentag versehen (Sabato). Laut Gregorovius’ Tagebuch hielt er sich zwischen 31.8. und 3.9.1866 in Caserta auf, weshalb der Brief mit hoher Wahrscheinlichkeit auf Samstag, den 1.9.1866, datierbar ist.</note>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<salute rendition="#c">Caro amico Gar,</salute>
+</opener>
+<p>S’io, <seg type="comment"><orig>prima della mia partenza</orig><note xml:id="nfcw_ktl_ylb">Er war am 19.8.1866 von Rom nach Neapel gereist, um im dortigen Staatsarchiv für die Fertigstellung des sechsten Bandes der „Geschichte der Stadt Rom im Mittelalter“ (1867) zu recherchieren. Am 31.8.1866 brach er aufgrund eines Cholerafalls gemeinsam mit dem Kunsthändler, Sammler und Verleger Johannes Mathias Commeter (1791–1869) überstürzt nach Caserta auf (siehe RT, S. 212, 1.9.1866).</note></seg>, avessi avuto il piacere di rincontrarvi nella villa, vi avrei pregato di essermi cortese, nella spedizione di certe lettere, che ancora potrebbero esser spedite <subst><del rendition="#ow">per</del><add place="superlinear">a</add></subst> me a Napoli. Ora lo faccio scrivendo, e vi prego di questo:</p>
+<p>abbiate la compiacenza di accettar le mie lettere presso <orgName key="G000461">Detken</orgName>, e di pagarne il porto, anche di vedere, se ne fossero venute <seg type="comment"><orig>all’ <orgName key="G000500">albergo di Washington</orgName></orig><note xml:id="nbkb_mtl_ylb">Das Hotel, in dem Gregorovius zuvor in Neapel logiert hatte.</note></seg>. Se ve ne fossero, vi prego di mandarmele qui a <hi rendition="#u" hand="">Caserta Albergo Nuovo Della Villa Reale</hi>. Se vi capitassero dopo <del rendition="#s">Giovedì</del> il <hi rendition="#u" hand="">Martedì</hi>, vi prego, di spedirmele a dirittura a <placeName key="G000763">Roma</placeName>: <placeName key="ediarum_lmm_slx_qlb">Via Gregoriana</placeName> n. 13. Io vi romborsero la piccola spesa.</p>
+<p>Se volete aver la gentilezza, di dar un’occhiata al contenuto <seg type="comment"><orig>del libro di <persName key="G001013">Camera</persName></orig><note xml:id="nf1j_ntl_ylb">Der italienische Historiker und Numismatiker Matteo Camera (1820–1891) beschäftigte sich vorranging mit der Geschichte Süditaliens. Auf welches Werk sich Gregorovius hier genau bezieht ist unklar; Cameras bekannteste Schriften sind die „Annali delle Due Sicilie“ (2 Bde. Neapel: Stamperia e cartiere del Fibreno, 1841 u. 1860) und die „Istoria della città e costiera di Amalfi in due parti divisa con rami“ (Neapel: Dalla stamperia e cartiera del Fibreno 1836).</note></seg>, di cui mi parlò il signor <persName key="G001072">De Blasiis</persName>, io ne sarei obbligatissimo. <pb n="1v"/>Credo che nulla vi sara, che farebbe per me o <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485"><seg type="comment"><orig>la storia di Roma</orig><note xml:id="ntfn_4tl_ylb">Von der „Geschichte der Stadt Rom im Mittelalter“ waren zu diesem Zeitpunkt fünf Bände erschienen (1859–1865).</note></seg></bibl>.</p>
+<p>Rimango a Caserta tutta la settimana entrante, standovi bene assai, massimamente per causa dell’alloggio. Sperer<supplied cert="high">e</supplied>i di puoter passar poi libero <seg type="comment"><orig>il cordone sanitario</orig><note xml:id="nm4x_ptl_ylb">Sanitärkordon (d. h. ein Seuchenschutz-Sperrgürtel), den die römische Regierung offenbar für 15 Tage in Neapel ausgerufen hatte, um die Ausbreitung der Cholera einzudämmen (siehe RT, S. 212, 1.9.1866).</note></seg>.</p>
+                <closer>I miei rispetti alla signora <persName key="G001056">Baronessa</persName>, e al Professor <persName key="G001371">Lignana</persName>. <salute>Augurandovi i migliori giorni, vi saluto e vi ringrazio cordialmente delle vostre gentilezze verso di me. </salute>
+                    <signed rendition="#right"> Gregorovius.</signed>
+                </closer>
+            </div>
+<note type="postscript">Caserta, Albergo Nuovo Della Villa Reale. <hi rendition="#u" hand="">
+                    <lb/>Sabato.</hi>
+            </note>
+        </body>
+    </text>
+</TEI>

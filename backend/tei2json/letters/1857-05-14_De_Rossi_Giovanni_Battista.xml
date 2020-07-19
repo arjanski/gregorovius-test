@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000397">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Giovanni Battista De Rossi in Rom. Rom, vor dem 14. Mai 1857</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Rom, Biblioteca Apostolica Vaticana</repository><collection>Vat. Lat. 14241, Carteggio Giovanni Battista De Rossi 1858–1859</collection><idno>fol. 494 Nr. 300</idno></msIdentifier>
+<physDesc>
+<p>BK, 1 S. – 1r neben dem vorgedruckten Namen: Nov.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print"/> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er bittet um eine Eintrittskarte für die Calixtus-Katakomben, die er mit Bekannten besuchen möchte.</p>
+                <p xml:lang="en">He asks for a ticket for the Calixtus Catacombs, which he would like to visit with friends.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date notAfter="1857-05-14" cert="low"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001085">De Rossi, Giovanni Battista (1822–1894)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+
+<p>Stimatissmo Signor <seg type="comment"><orig>Cavaliere</orig><note xml:id="nstf_xhq_tlb">Der Archäologe Giovanni Battista De Rossi (1822–1894) war ein Pionier in der Erforschung der römischen Katakomben; er entdeckte unter anderem die Calixtus-Katakomben an der Via Appia Antica; siehe: Die Grabdenkmäler der Päpste. Leipzig 1881, S. 12. Nach der Entdeckung der Papstkrypta in den Calixtus-Katakomben (1854) ernannte Papst Pius IX. (1792–1878) De Rossi mit der Überreichung des Piusordens zum Ritter. Von 1843 bis zu seinem Tod war er scriptor Latinus der Vaticana, ab 1878 Direktor des Museo sacro della Biblioteca Vaticana. Von 1871 bis 1894 war er Präsident der Pontificia Accademia Romana di Archeologia, 1875 wurde er zum auswärtigen Mitglied der Preußischen Akademie der Wissenschaften ernannt, 1886 erhielt er den Orden Pour le Mérite. Zu seinen wichtigsten Veröffentlichungen zählen die „Inscriptiones Christianae urbis Romae septimo saeculo antiquiores“ (2 Bde., Rom 1861–1888) und „La Roma sotterranea cristiana“ (3 Bde., Rom 1864–1877). Gregorovius schätzte De Rossi sehr: „Kurz zuvor war de Rossi zu mir gekommen. Er ist der größte Gelehrte in Rom, in den Katakomben gleichsam aufgewachsen und von staunenswertem Wissen in der christlichen Archäologie.“ (RT 31.12.1858, S. 77). Ihn bat er um Zugang zu den römischen Archiven; siehe den Brief von Gregorovius an De Rossi vom <ref target="G000410">28.4.1863</ref>. Auch nach seinem Weggang aus Rom schrieb er De Rossi regelmäßig. Die Themen der Briefe reichen von Bitten um Einlass in Bibliotheken, Archive oder Katakomben, entweder für sich selbst oder andere, über Forschungsfragen und Publikationen, bis hin zum aktuellen Geschehen in der Kultur- und Wissenschaftsszene, sowie im römischen Leben. Der Ton der Korrespondenz ist stets ein höflich-freundschaftlicher, in dem Gregorovius’ hohe Wertschätzung von De Rossi zum Ausdruck kommt. 27 Briefe, davon viele Visitenkarten mit oder ohne Kurznachrichten von Gregorovius an De Rossi und ein Brief von De Rossi an Gregorovius sind erhalten. Letzterer ist datiert auf den 23. Februar 1885 und befindet sich als Abschrift im Nachlass von Gregorovius (BSB München, Nachlass Gregorovius, Gregoroviusiana 21). Die Briefe von Gregorovius liegen in der Biblioteca Apostolica Vaticana in Rom. Sie gingen dort wahrscheinlich in den Jahren 1894–1896 dank der Witwe De Rossis, Contessa Costanza Tornafort Bruno di San Giorgio Scarampi, und dank seines Bruders, Michele Stefano, ein. Zu diesem Zeitpunkt waren sie bereits von De Rossi selbst geordnet. Undatierte Visitenkarten können deshalb anhand des Jahresbandes, in den sie eingordnet sind, datiert werden. In der Vatikana kümmerte sich hauptsächlich Orazio Marucchi um die Briefe. Unser Dank gilt Claudia Montuschi, scriptor Latinus und Direktorin der Handschriftenabteilung in der Vatikanischen Bibliothek, für Ihre Hilfe bei der Rekonstruktion der Materiallage; die Angaben dazu stammen von ihr.</note></seg>, <seg type="comment"><orig>essendo che <persName key="ed_vjb_glb_cjb ed_h2r_dlb_cjb">certe persone</persName> di mia conoscienza desiderino di veder le <placeName key="G000774">Catacombe di S<ex>an</ex> Calisto</placeName></orig><note xml:id="nm4k_23q_tlb">Gregorovius besichtigte die Calixtus-Katakomben am 14. Mai 1857 zusammen mit De Rossi, der Dichterin und Schauspielerin Giannina Milli (1825–1888) und Teresa Gnoli-Gualandi (1833–1886) (siehe RT, 14.6.1857, S. 66).</note></seg>, mi prendo la libertà di</p>
+<p rendition="#c #mPrint">Ferdinand Gregorovius</p>
+<p>pregarla, volesse darmi un biglietto di premesso sul nome mio. Io tornero domani, onde prenderlo (se le piace) e Ella abbia la bontà di lasciarlo in mano del suo Servitore. La riverisco – FGr. </p>
+</div>
+        </body>
+    </text>
+</TEI>

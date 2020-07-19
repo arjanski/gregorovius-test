@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000053">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Heinrich Brockhaus in Leipzig. Genazzano, 12. Juli
+                    1856</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (31)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 8°, 1 S. – 2r arR, Blatt um 90° gedreht, Eingangs- und Beantwortungsvermerk: 1856. / <hi rendition="#aq">Rom</hi>, 12./21. <hi rendition="#aq">Juli</hi>. / <hi rendition="#aq">Gregorovius</hi>. / B. 23/VII</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er hat das Manuskript seiner „Die Grabmäler der Römischen Päpste“ (1857) fertiggestellt – eine Vorarbeit zu seiner „Chronik der Stadt Rom im Mittelalter“, die in einer ersten Fassung 1854 in der „Allgemeinen Monatsschrift für Wissenschaft und Literatur“ gedruckt worden war. Er wird das Manuskript mit seinen Vertragsforderungen noch im August an Brockhaus schicken. Das Manuskript seines „Euphorion“ (1858) wird im Herbst druckfertig sein. Beide Schriften trägt er Brockhaus zum Verlag an. Er bittet um Zusendung einer Besprechung seiner „Lieder des Giovanni Meli von Palermo“ (1857) aus dem „Deutsches Museum“ und um sein Honorar für seine dort abgedruckten Gedichte „Klagegesang der Kinder Juda in Rom“, „Der Thurm Astura“ und „Nettuno“ sowie für seinen Artikel „Fragmente von Agrigent“.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He has completed the manuscript of his „Die Grabmäler der Römischen Päpste“ (1857) - a preparatory work for his „Chronik der Stadt Rom im Mittelalter“, the first version of which had been printed „Allgemeine Monatsschrift für Wissenschaft und Literatur“ in 1854. He will send the manuscript with his contractual stipulations to Brockhaus in August. The manuscript of his „Euphorion“ (1858) will be ready to be printed in the fall. He’s submitting both writings to Brockhaus for publishing. He asks Brockhaus to send him a review of his „Lieder des Giovanni Meli von Palermo“ (1857) from the „Deutsches Museum“ and for his fee for his poems „Klagegesang der Kinder Juda in Rom“, „Der Thurm Astura“ and „Nettuno“ as well as his article „Fragmente von Agrigent“, all printed there. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000678">Genazzano</placeName>
+                    <date when="1856-07-12" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G000996">Brockhaus, Heinrich (1804–1874)</persName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next">23. Juli 1856</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+<opener>
+<dateline rendition="#right"><hi rendition="#aq">Genazzano in der Campagna von Rom</hi> <lb/><hi rendition="#aq">am</hi> 12. <hi rendition="#aq">Juli</hi> 1856.</dateline>
+<salute rendition="#c">Geehrtester Herr,</salute>
+</opener>
+<p><seg type="comment"><orig>ich schreibe Ihnen diese Zeilen aus einem der schönsten Täler des Landes der <hi rendition="#aq">Aequer</hi></orig><note xml:id="nzj4_sbd_rlb">Gregorovius reiste am 25. Juni aus Rom nach Genazzano ab, wo er bis zum 24. September 1856 blieb (siehe RT, 16.8.-2.10.1856, S. 63–64).</note></seg>, wohin ich vor der Sonnenglut <placeName key="G000763">Roms</placeName> geflüchtet bin, Ihnen anzuzeigen, d<ex>a</ex>ß ich <bibl corresp="G003430 G003574"><seg type="comment"><orig>zwei andere Schriften</orig><note xml:id="nyzf_5bd_rlb">In Genazzano schloss Gregorovius nicht nur das Manuskript der Buchpublikation seiner „Grabmäler der Römischen Päpste. Historische Studie“ (Leipzig: Brockhaus 1857) ab, das er bereits Anfang August nach Leipzig absandte (siehe RT, 16.8.1856, S. 63), sondern auch das Manuskript seines Versgedichtes „Euphorion. Eine Dichtung aus Pompeji in vier Gesängen“. Letzteres hatte er Brockhaus bereits in seinem Brief vom 22.8.1855 als vor dem Abschluss stehend zum Verlag angetragen (dort erschien es 1858).</note></seg></bibl> vollendet habe, die eine zum Druck fertig, die andere noch abzuschreiben. Von beiden ist es mein Wunsch, es möchte sich die <orgName key="G000480"><hi rendition="#aq">F. A. Brockh</hi>ausische Buchhandlung</orgName> ihnen geneigt zeigen.</p>
+<p>Die erste Schrift heißt: „Die Grabmäler der Römischen Päpste“. Sie ist eine Geschichte der Päpste an deren Grabmälern von <hi rendition="#aq"><foreign xml:lang="Lat">saec<ex>ulum</ex></foreign></hi> 6 – bis auf unsere Zeit, in großen Zügen dargestellt, mit den merkwürdigsten Inschriften etc; mühevolle Arbeit, die man nur in Rom leisten kann, u<ex>nd</ex> sehr lesenswert. Sie beträgt etwa 15 Druckbogen. <seg type="comment"><orig>Grundlinien zu dieser Arbeit gab ich vor 2 Jahren <bibl corresp="G003816">in die Droysensche Monatsschrift</bibl>.</orig><note xml:id="nlkv_qcd_rlb">Die 1850–1854 erscheinende „Allgemeine Monatsschrift für Wissenschaft und Literatur“ wurde von Johann Gustav Droysen (1808–1884), Karl Viktor Müllenhoff (1818–1884) und Justus Olshausen (1800–1882) herausgegeben. Dort war der Erstdruck 1854 unter dem Titel „Die Grabmäler der Päpste“ erschienen (Jg. 5. Braunschweig: Schwetschke &amp; Sohn Sept. 1854. S. 645–684). – „Die Grabmäler der Römischen Päpste. Historische Studie“ erschien 1857 selbständig in überarbeiteter Form in Leipzig bei Brockhaus.</note></seg></p>
+<p><seg type="comment"><orig>Ich werde Ihnen dieselbe im August mit der <hi rendition="#aq"><foreign xml:lang="ita">Diligenza</foreign></hi> über <hi rendition="#aq"><placeName key="G000843">Castel Franco</placeName></hi> zuschicken</orig><note xml:id="nzw3_jkd_rlb">Im Tagebuch vermerkte Gregorovius entsprechend: „Die ‚Papstgräber‘ habe ich vollendet. Am 7. August war ich [von Genazzano] nach Rom gefahren, das Manuskript auf die Dogana zu bringen. Nachts kehrte ich hierher zurück.“ (16.8.1856, S. 63).</note></seg>, u<ex>nd</ex> Ihnen dann meine Bedingungen offeriren. Sie ist der Vorläufer der <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Chronik von Rom</bibl>.</p>
+<p>Die zweite Schrift ist mein <persName key="G001505">pompejanisches</persName> Epos <hi rendition="#aq">Euphorion</hi>, das ich im Herbst werde absenden können.</p>
+<p>Man hat mir geschrieben, <seg type="comment"><orig><bibl sameAs="G002422">daß das Deutsche Museum in einer sehr wolwollenden Weise sich über mich ausgesprochen habe</bibl></orig><note xml:id="nhlx_mkd_rlb">R.[obert] P.[rutz]: Uebersetzungsliteratur. In: Deutsches Museum. Zeitschrift für Literatur, Kunst und öffentliches Leben. Jg. 6. Nr. 29. Leipzig: Brockhaus 17.7.1856. S. 108–117 – eine Sammelrezension, zu Gregorovius’ Übersetzung der „Lieder des Giovanni Meli von Palermo“, S. 114–115.</note></seg>; da <orgName key="G000545"><seg type="comment"><orig>Spithöver</orig><note xml:id="nymc_qkd_rlb">Die deutsche Buchhandlung von Josef Spithöver (1813–1892) in Rom.</note></seg></orgName> in Rom dies Journal nicht mehr bezieht oder vielmehr nicht beziehen darf, so habe ich den Artikel nicht lesen können, u<ex>nd</ex> bitte Sie, ihn mir zugehn zu laßen, so es möglich ist.</p>
+<p>Zugleich möchten Sie die Güte haben, <seg type="comment"><orig>mir für die <bibl corresp="G003838">im Museum abgedruckten Nummern</bibl>, so bald es geht, das Honorar auf Spithöver anzuweisen</orig><note xml:id="nfkm_5kd_rlb">Das Manuskript seiner Gedichte „Klagegesang der Kinder Juda in Rom“, „Der Thurm Astura“ und „Nettuno“ hatte Gregorovius mit seinem Brief vom <ref target="G000028">13.12.1855 an Brockhaus</ref> überdsandt. Sie waren im „Deutschen Museum“ abgedruckt worden (Jg. 6. Nr. 12. Leipzig: Brockhaus 20.3.1856. S. 417–423). In seinem Brief an Brockhaus vom <ref target="G000047">5.8.1856</ref> klagte er über die geringe Höhe seines Honorars. Das mit seinem Brief vom <ref target="G000077">19.1.1856</ref> übersandte Manuskript seiner „Fragmente von Agrigent“ war in zwei Folgen im „Deutschen Museum“ gedruckt worden (Jg. 6. Nr. 19–20. Leipzig: Brockhaus 8. und 15.5.1856. S. 681–696 und S. 713–728).</note></seg>.</p>
+<p>Ich bitte meine Adresse nach wie vor nach Rom <hi rendition="#aq">Via della Purificazione</hi>. 63. zu richten.</p>
+<closer>
+<salute rendition="#c">Hochachtungsvoll u<ex>nd</ex> ergebenst empfiehlt sich</salute>
+<signed rendition="#right"><hi rendition="#aq">Ferdinand Gregorovius</hi>.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

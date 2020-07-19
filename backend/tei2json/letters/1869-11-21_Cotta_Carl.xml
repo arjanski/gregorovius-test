@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000326">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Carl Freiherr Cotta von Cottendorf in Stuttgart. Rom, 21. November 1869</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (101)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¼ S. – 1r + 2r aoR geprägt: ROMA – 1r aoR Beantwortungsvermerk: R 6/XII.69. </p>
+<p>Manuskript des Ankündigungstextes für die Verlagsanzeige zum Erscheinen der 2. Auflage seines „Corsica“ (1869)</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 57, Mappe 340–342 (nach D) und Karton 55, Mappe 336–337 (Ergänzungen nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S 289–290</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er ist erfreut, dass die zweite Auflage seines „Corsica“ (1869) nun doch in einem Band erscheint und übersendet das Manuskript des Ankündigungstextes für die Verlagsanzeige. Mit der Übersendung des ersten Teils vom Manuskript des siebten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1870) will er warten, bis Wilhelm Lübke es persönlich auf dem Rückweg nach Stuttgart mitnehmen kann. Er wir mit mit Königin Olga von Württemberg am 20. Dezember in Stuttgart eintreffen. Das bevorstehende Erste Vatikanische Konzil wird sich günstig auf den Absatz seines Werks auswirken. Die Verlagsankündigung soll unter Angabe der historischen Epochen erfolgen, möglichst auch in der „Kölnischen Zeitung“. In der „Allgemeinen Zeitung“ soll zudem erwähnt werden, dass der siebte Band in Kürze erscheinen wird (1870). Wünschenswert wäre auch eine Verlagsnotiz, dass die ersten beiden Bände in zweiter Auflage (1869) vorliegen. Er ist erfreut, dass sich der gesundheitliche Zustand von Albert Freiherr von Reischach gebessert hat.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1869-11-21" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001053">Cotta von Cottendorf, Carl Freiherr von (1835–1888)</persName>
+<placeName key="G000879">Stuttgart</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">18. November 1869 (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VII, 242)</ref>
+<ref type="next">4. Dezember 1869 (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VII, 252)</ref>
+<ref type="next">6. Dezember 1869 (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VII, 253)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c">21. <hi rendition="#aq">Nov<ex>em</ex>b<ex>e</ex>r</hi> 69.</dateline>
+<salute>Hochverehrter Herr Baron,</salute>
+</opener>
+<p>ich habe Ihre freundlichen Zeilen empfangen, u<ex>nd</ex> beiliegende Formel für die <bibl sameAs="G003963">Ankündigung von <hi rendition="#aq">Corsica</hi></bibl> aufgesetzt, welche Sie nach Ihrem Ermessen verwenden u<ex>nd</ex> umändern mögen.</p>
+<p>Es freut mich sehr, d<ex>a</ex>ß die <bibl sameAs="G003107">2 Bände</bibl> einen einzigen Einband erhalten haben; u<ex>nd</ex> könnte daher dies wol gleich bei der Ankündigung bemerkt werden, als Zweite durchgesehene Auflage in einem Bande? <?oxy_comment_start author="Angela Steinsiek" timestamp="20190206T193834+0100" comment="Wurde die Neuauflage von „Corsica“ (1869) von Cotta bis dahin als zweibändige Ausgabe in der „Allgemeinen Zeitung“ angekündigt, erschienen die Verlagsanzeigen ab dem 3.12.1869 mit dem neuen, von Gregorovius hie mitgesandten Ankündigungstext und dem Zusatz „Gebunden in einem eleganten Leinwandbande“: „Dieses Werk fand nach seinem ersten Erscheinen auch außerhalb Deutschlands lebhafte Anerkennung. Es verbreitete sich schnell in Uebersetzungen in England, Amerika und Italien. Die unterzeichnete Verlagshandlung hat es in einer schöneren Ausstattung und in gefälligerem Format neu ausgegeben, so daß sich diese Ausgabe auch zu Festgeschenken besonders eignen wird. Die Vendetta-Novellen der ersten Ausgabe sind um eine längere vermehrt worden. es ist sonst kaum mehr nöthig auf den Inhalt dieses lebendigen Gemäldes der Insel, ihrer Heldengeschichte bis zur Jugendzeit Napoleons, ihrer Gebräuche und bezaubernden Natur aufmerksam zu machen, wie auf die darin enthaltenen Vôceri oder Todtenklagen, die Scenen aus der Hirtenwelt, die Bilder der corsischen Städte, oder die Landschaften aus dem Granitgebirg und vom Strand der entzückenden Golfe. Das Buch ‚Corsica‘ hat die ganz echte Frische deutscher Wanderlust; wie es in unserer Gegenwart überhaupt eine erfrischende und veredelnde Lectüre ist, so wünscht die Verlagshandlung es zumal in den Händen der aufstrebenden deutschen Jugend zu sehen.“ (Beilage zu Nr. 337 der AZ. Augsburg: Cotta 3.12.1870. S. 5204)."?></p><?oxy_comment_end?>
+<p>Ich habe mich entschlossen wegen der Absendung des Manuscripts des <bibl sameAs="G003441">Bandes VII der Geschichte der Stadt</bibl> bis zur Abreise von <persName key="G001389">Professor Lübke</persName> zu warten.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190206T193906+0100" comment="Im nachfolgenden Brief vom 6.12.1869 begrüßte Cotta die Übermittlung: „Mit großer Freude sehen wir der bevorstehenden Ankunft des Manuscripts zu Bd VII der Geschichte entgegen, das uns Herr Professor Lübke überbringen soll. Unsere Augsburger Officin wartet bereits auf die Inangriffnahme.“ (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VII, 253)"?> <?oxy_comment_end?>Derselbe meint, d<ex>a</ex>ß die <persName key="G001460">Königin</persName> um den 20. <hi rendition="#aq"><hi rendition="#aq">Dec<ex>em</ex>b<ex>e</ex>r</hi></hi> wieder in Stuttgart sein wird.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190206T193929+0100" comment="Der Stuttgarter Kunsthistoriker Wilhelm Lübke (1826–1893) hatte die Königin Olga von Württemberg (1822–1892) nach Rom begleitet (siehe den Brief von Gregorovius an Cotta, 9.11.1869 in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S 287–289)."?> <?oxy_comment_end?>Er wird direct einen großen Teil des Bandes für Sie mitnehmen. Ich bemerke dies, weil Sie dann wol in Erwartung des Druckmaterials Anordnungen treffen, um die Presse für den Jahresanfang dazu frei zu machen.</p>
+<p>Das nahe <?oxy_comment_start author="Angela Steinsiek" timestamp="20190206T193944+0100" comment="Das von Pius IX. (1792–1878) einberufene Erste Vatikanische Konzil wurde am 8. Dezember 1869 eröffnet."?>Concil<?oxy_comment_end?> dürfte der Verbreitung der Gesch<ex>ichte</ex> der Stadt sehr förderlich sein; in Hinsicht darauf wäre es vielleicht praktisch, die 6 bisher erschienenen Bände, mit Angabe <pb n="1v"/>ihrer Perioden (als reichend von 400 nach Chr<ex>isti</ex> Geb<ex>urt</ex> bis zum Jahre 1420) <add place="superlinear">einfach</add> anzukündigen, wenn möglich auch in der Cölnischen Zeitung.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190206T193956+0100" comment="Ggf. prüfen Stabi 2&quot;@Ztg 1959."?> <?oxy_comment_end?></p>
+<p>Auch könnte wol dabei bemerkt werden, daß der Band VII, das XV. Jahrhundert oder die Epoche der Renaissance umfaßend, <del rendition="#s">dem</del> vom Verfasser vollendet ist u<ex>nd</ex> demnächst in Druck kommt.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190206T194009+0100" comment="Im nachfolgenden Brief vom 4.12.1869 bestätigt Cotta, dass die „die Anzeige über ‚Geschichte der Stadt Rom‘ nach Ihrer Angabe besorgt wurde.“ (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VII, 252). Die hiernach geänderte Verlagsankündigung des siebten Bandes (1870) erschien in der „Allgemeinen Zeitung“ erstmals am 6.12.1869 (Nr. 340, S. 5243) – zusammen mit den Bänden 1–6. Band 7 wurde angekündigt: „Der siebente Band das XV. Jahrhundert oder die Epoche der Renaissance umfassend ist vom Herrn Verfasser vollendet und kommt demnächst in Druck.“"?> <?oxy_comment_end?></p>
+<p>Ferner würde auch eine Anzeige der 2 ersten Bände 2. Auflage wol gut sein. Entschuldigen Sie gütigst diese meine Überflüßigkeiten.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190206T194028+0100" comment="Eine gesonderte Anzeige des Erscheinens der zweiten Auflage des ersten und zweiten seiner „Geschichte der Stadt Rom im Mittelalter“ (1869) erschien nicht."?> <?oxy_comment_end?></p>
+<p>Ich bin wahrhaft erfreut, daß es Ihrem <persName key="G001537">Herrn Vetter</persName> nun wol ergeht, u<ex>nd</ex> hoffe, d<ex>a</ex>ß derselbe den rauhen Winter gut überstehen wird <persName key="G001051"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190206T194056+0100" comment="Albert Freiherr von Reischach (1826–1876), der mit Carl von Cotta den Verlag führte litt unter Depressionen. Gregorovius hatte eine Erholungsreise im Süden vorgeschlagen, Reischach war aber zu Kur in Hamburg und Frankfurt (siehe die Briefe von Gregorovius an Cotta, 17.10.1869 und 9.11.1869 in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 286–287)."?>–<?oxy_comment_end?></persName> hier haben wir reines Frühlingswetter, u<ex>nd</ex> sitzen bei offenen Fenstern.</p>
+<p>Mit der Bitte mich allen verehrten Mitgliedern Ihres doppelten Hauses auf<del rendition="#s">s</del> das freundlichste <pb n="2r"/>zu empfehlen, u<ex>nd</ex> alles Gute und Schöne wünschend</p>
+<closer>
+<salute rendition="#right">Ihr wahrhaft ergebener</salute>
+<signed rendition="#right">FGregorovius</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000195">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Hermann von Thile in Berlin. Rom, 16. April 1864</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>96/937 (34)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 59, Mappe 346 (nach D) und Karton 59, Mappe 346 (Ergänzungen nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 73–74 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Im Auftrag des langjährigen preußischen Konsuls Anton Marstaller bittet er um einen etwa zweijährigen bezahlten Erholungs-Urlaub in Deutschland. Marstaller ist so schwer erkrankt ist, dass er seit einem Jahr immer wieder das Bett hüten muss. Sollte im Sommer Besserung eintreten, will dieser schon im Winter auf seinen Posten nach Rom zurück. Es wird wohl auch bald ein offizielles Urlaubsgesuch durch Friedrich Adolf Freiherrn von Willisen auf dem Weg gebracht. Clemens August Alertz will aus Aachen wohl nicht nach Rom zurückkehren. Alfred von Reumont reist dieser Tage ins Schloss Sanssouci nach Potsdam, „jene balsamischen Hoflüfte wieder einzuatmen“. Adolf Friedrich Graf von Schack ist mit seinem despotischen Sekretär in Rom, will aber bald nach Spanien. Der plötzliche Tod von König Maximilian II. von Bayern hat ihn getroffen. Das Manuskript des fünften Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1865) steht vor dem Abschluss, wegen noch ausstehender Recherchen in Perugia, Todi und Neapel kann er die Thiles im Sommer nicht in Heiden besuchen. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">On behalf of the long-time Prussian consul Anton Marstaller, he asks for a paid holiday in Germany for about two years. Marstaller is so seriously ill that he has had to stay in bed for a year. If the situation improves in the summer, he wants to return to his post in Rome in the winter. An official request for leave by Friedrich Adolf Freiherr von Willisen will probably be on its way soon. Clemens August Alertz probably does not want to return to Rome from Aachen. Alfred von Reumont is travelling to the Sanssouci Palace in Potsdam, „to breathe in those balmy court airs again“. Adolf Friedrich Graf von Schack is in Rome with his despotic secretary, but wants to go to Spain soon. The sudden death of King Maximilian II. of Bavaria has affected him. The manuscript of the fifth volume of his „Geschichte der Stadt Rom im Mittelalter“ (1865) is nearing completion. Due to pending research in Perugia, Todi and Naples, he is unable to visit the Thiles in Heiden in the summer. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1864-04-16" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001644">Thile, Hermann von (1812–1889)</persName>
+<placeName key="G000636">Berlin</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi>, 16. <hi rendition="#aq">April</hi> 64.</dateline>
+                    <salute rendition="#c">Mein hochverehrter Herr,</salute>
+                </opener>
+<p>ich schreibe diese wenigen Zeilen auf den Wunsch des <seg type="comment"><orig><persName key="G001405">Herrn <hi rendition="#aq">Marstaller</hi></persName> und in dessen Angelegenheiten</orig><note xml:id="ni4p_2pw_cmb">Der aus Frankfurt am Main als Apothekerssohn gebürtig stammende Bankier und preußische Konsul Anton Marstaller (1815–1865) war seit 1840 in Rom als Geschäftsmann tätig. Zusammen mit Martin Hoz aus Thalwyl, seit 1837 Konsul der Eidgenossenschaft, betrieb Marstaller ein Kommissions- und Bankgeschäft. Als Schatzmeister des Künstlervereins und Sachwalter des Vermögens der Hilfskasse stand er in regem Austausch mit der römischen Künstlerkolonie (siehe Noack: Das Deutschtum in Rom. Bd. 1. Stuttgart 1927. S. 442). </note></seg>, weil er selbst noch nicht so weit bei Kräften ist, um in Ruhe schreiben zu können. Seit fast einem Jahr hat er durch eine gefährliche Herzkrankheit wiederholt angegriffen, das Zimmer hüten müßen, namentlich in diesem Winter so viel gelitten, daß wir ernstlich um ihn besorgt wurden. Er ist zwar jetzt besser, obwol noch äußerst schwach; aber der Arzt ratet ihm, Rom zu verlassen und in <placeName key="G000664">Deutschland</placeName> eine Zeit lang in Ruhe seiner Genesung zu leben. <hi rendition="#aq">Marstaller</hi> hat bereits sein kaufmännisches Geschäft vollständig aufgelöst, ist im Begriff auch seine Häuslichkeit aufzulösen, und wartet nur auf eine günstige Zeit zur Abreise. Er wünscht jedoch seine Charge als preußischer Konsul in Rom zu behalten – diese bekleidet er bereits einige 20 Jahre – und <seg type="comment"><orig>hofft, <pb n="1v"/>daß ihm das <orgName key="G000459">Ministerium des Auswärtigen</orgName> schon in Berücksichtigung dieser langen Dienstzeit einen Urlaub auf unbestimmte Zeit (etwa zwei Jahre) bewilligen werde</orig><note xml:id="nvfg_fpw_cmb">Die Beurlaubung Marstallers wurde bewilligt und er zog nach dem Verkauf seines ganzen Besitzes zu einem Bruder nach Hannover (vermutlich Julius Philipp Marstaller, der dort als Hofkellermeister nachweisbar ist), wo er am 24. August 1865 starb (siehe den Brief von <ref target="G000213">Gregorvius an Thile, 31.10.1864</ref>). </note></seg>. Wenn Herr <hi rendition="#aq">M<ex>arstaller</ex></hi> sich im Laufe des Sommers im Vaterlande hinreichend erholt, so ist er willens, zum Winter nach Rom zurückzukehren, im andern Falle müßte er seine Rückkehr bis zum künftigen Jahr verschieben. Ich schreibe Ihnen dies, mein verehrter Herr, in seinem Namen, Sie zu bitten, sich freundlich für seinen Wunsch zu interessiren, und ihm diesen Urlaub in der oben angedeuteten Ausdehnung zukommen zu lassen. Er sagt Ihnen voraus tausend Dank, und bittet Sie, ihn zu entschuldigen, daß er nicht selber an Sie schreibt. Wie ich mir vorstelle, wird durch den <seg type="comment"><orig>hiesigen Gesandten</orig><note xml:id="nb2y_fpw_cmb">Der preußische Gesandte Friedrich Adolf Freiherrn von Willisen (1798–1864).</note></seg> ein directes Gesuch um Urlaub an das Ministerium nächstens abgehen. Seine Reise nach Deutschland, und ein längerer Aufenthalt dort, ist absolut notwendig; denn hier würde er kaum mehr wieder zu Kräften kommen.</p>
+<p><seg type="comment"><orig>Unser alter <persName key="G000913"><hi rendition="#aq">Alertz</hi></persName> schreibt sehr munter aus <placeName key="G000807"><pb n="2r"/>Achen</placeName>; er ist völlig, so sagt er, hergestellt, und wird wol dort bleiben</orig><note xml:id="nepp_gpw_cmb">Der ehemalige Arzt der preußischen Gesandtschaft, Clemens August Alertz 1800–1866), stammte aus Aachen. Er kehrte Mitte Oktober 1864 nach Rom zurück (siehe RT, 16.10.1864, S. 187).</note></seg>. <seg type="comment"><orig><persName key="G001545">Reumont</persName> reist in wenigen Tagen nach <placeName key="G000810"><hi rendition="#aq">Sanssouci</hi></placeName>, jene balsamischen Hoflüfte wieder einzuatmen</orig><note xml:id="nv4g_hpw_cmb">Alfred von Reumont (1808–1888) reiste Ende April 1864 aus Rom nach Berlin ab. Offenbar wollte er zum Potsdamer Schloss Sanssouci, zum Hof des preußischen Königs Wilhelm I. (1797–1888).</note></seg>. Seit einigen Tagen ist auch <seg type="comment"><orig><persName key="G001573"><hi rendition="#aq">Schack</hi></persName> aus <placeName key="G000734">München</placeName> hier, welcher plötzlich mit seinem mecklenburgischen Argus und dienendem Despoten oder Hausdrachen nach Rom eingefahren kam</orig><note xml:id="nb4b_3pw_cmb">Adolf Friedrich Graf von Schack (1815–1894) war mit seinem (nicht ermittelten) Sekretär nach Rom gekommen (siehe RT, 18.4.1864, S. 177). Er war 1856 dem Ruf Maximilian II. Königs von Bayern (1811–1864) nach München gefolgt.</note></seg>. Er bleibt nur kurze Zeit, um über <placeName key="G000874">Spanien</placeName> wieder zurückzukehren. <seg type="comment"><orig>Der Tod des <persName key="G001408">Königs <hi rendition="#aq">Max</hi></persName>, den ich wie viele andere auch schmerzlich empfunden habe, ist der Grund seiner Zerstreuungsreise</orig><note xml:id="nvrs_3pw_cmb">König Maximilian II. von Bayern (*1811) war plötzlich am 10. März 1864 gestorben, Nachfolger wurde sein Sohn Ludwig Otto Friedrich Wilhelm (1845–1886), als König Ludwig II. von Bayern. Gregorovius hatte ihn erst im Oktober 1863 wiedergesehen, nachdem er ihm im August 1863 das Angebot einer Professur in München unterbreiten hatte lassen (siehe RT, 14.10.1863, S. 172 und den Brief von Gregorovius an Thile vom <ref target="G000124">30.9.1860</ref>).</note></seg>. Ich finde <hi rendition="#aq">S<ex>chack</ex></hi> woler und lebendiger, als je; auch hat er allerlei Litterarisches in <hi rendition="#aq">petto</hi>.</p>
+<p>Der Sommer rückt heran. <seg type="comment"><orig>Diesesmal werde ich wol nicht die herzliche Freude haben, Sie in dem unsagbaren <hi rendition="#aq">Heiden</hi> zu sehen</orig><note xml:id="nayg_jpw_cmb">Gregorovius hatte die in Heiden kurenden Thiles im September 1863 kurz besucht (siehe RT, 12.9.1863, S. 167).</note></seg>; denn ich habe <seg type="comment"><orig>in den Archiven von <placeName key="G000751"><hi rendition="#aq">Perugia</hi></placeName>, <placeName key="G000885"><hi rendition="#aq">Todi</hi></placeName> u<ex>nd</ex> <placeName key="G000737">Neapel</placeName> zu thun, u<ex>nd</ex> für meinen fast fertigen <bibl sameAs="G003455">Band V</bibl> auf deutschen Bibliotheken nichts mehr nachzuholen</orig><note xml:id="nywx_jpw_cmb">Für Bibliotheks- und Archivarbeiten für den fünften Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1865) reiste Gregorovius am 11. Juli 1864 von Rom nach Todi, Perugia, Assisi, Terni und Aspra und war am 3. August zurück in Rom (siehe RT, 11.7.-3.8.1864, S. 178–181). Schon am 7. August brach er mit Lindemanns nach Neapel auf, wo er – unterbrochen durch einen Aufenthalt vom 22. August bis 16. September in Sorrent – bis zum 29. September 1864 blieb (siehe RT, 15.8.-16.10.1864, S. 182–186).</note></seg>. Möchte es Ihnen Allen wol ergehen; mit guten Wünschen denke ich täglich an Sie und Ihr Haus, über welchem, wie bisher, segnende Gestirne dauern mögen.</p>
+                <closer>
+<salute rendition="#c">Mit herzlicher Verehrung, mein teurer Herr, <lb/>Ihr</salute>
+                    <signed rendition="#right"><hi rendition="#aq">F. Gregorovius</hi>.</signed></closer>
+<note type="postscript" rendition="#rotate90" place="left"><pb n="1r"/>Auch bittet Marstaller um einen Ministerial-Reisepaß lautend auf <placeName key="G000690">Italien</placeName> und Deutschland.</note>
+            </div>
+        </body>
+    </text>
+</TEI>

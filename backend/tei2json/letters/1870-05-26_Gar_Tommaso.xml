@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000295">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Tommaso Gar in Venedig. Rom, 26. Mai 1870</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Biblioteca Comunale di Trento</repository>
+                        <idno>
+                            <idno>busta BCT1–2257/52</idno>
+                        </idno>
+                    </msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S.– 1r aoR geprägt: ROMA – 1r u. 1v („non chè della premura..“ - „..assicurata e sborsata“) alR: blaue Anstreichungen</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für Archivmaterialien zur Familie Farnese. Der dritte Band der zweiten Auflage seiner „Geschichte der Stadt Rom im Mittelalter“ (1870) ist erschienen, der vierte Band (1870) im Druck. Die italienische Übersetzung des Werks bei Antonelli kann fortgesetzt werden, wenn er dafür besser entlohnt wird. Ende Juni reist er über Florenz und Modena nach Deutschland, Ende September will er in Venedig sein. Gemeinsam mit Karl und Auguste Lindemann-Frommel bestellt er Grüße an Madeleine Creutzer. Überbringer des Briefs ist Franz Rühl.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName>
+                    <date when="1870-05-26" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001158">Gar, Tommaso (1808–1871)</persName>
+<placeName key="G000894">Venedig</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">April 1870</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">
+                        <choice>
+                            <sic>,</sic>
+                            <corr type="deleted"/>
+                        </choice> 26. Maggio 1870.</dateline>
+                    <salute>Caro amico Gar,</salute>
+                </opener>
+<p>il latore di queste mie righe si è <seg type="comment"><orig>il giovane Dotto<ex>re</ex> <persName key="G001562">Franz Rühl</persName></orig><note xml:id="nixf_5ms_ylb">Der Historiker Franz Rühl (1845–1916) hielt sich 1868 und vom Herbst 1869 bis zum Frühsommer 1870 in Rom auf. Er verantwortete den Gesamtindex zu Gregorovius’ ‚Geschichte der Stadt Rom im Mittelalter‘ bis in die vierte Auflage. Rühl habilitierte 1871 in Leipzig und war von 1875 bis 1911 Professor in Königsberg. 1905/06 war er zudem Prorektor der Albertina. Gregorovius beschreibt Rühl in seinem Tagebuch: „Er war ein junger Mann von vielem Wissen im Fach der Philologie und Geschichte“ (Röm. Tageb. 29. Mai 1870, p. 282). Rühl hielt am 28. Mai 1891 in der Sitzung der Königlich Deutschen Gesellschaft in Königsberg eine Gedächtnisrede auf Gregorovius (‚Ferdinand Gregorovius. Gedächtnisrede, gehalten in der Sitzung der Königl. Deutschen Gesellschaft in Königsberg am 28. Mai 1891‘). Einige Briefe an Rühl wurden in der ersten Auflage von Hönigs ‚Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom‘ (1921) veröffentlicht.</note></seg>, il quale per Venezia li portà a <placeName key="G000685">Hamburgo</placeName>; non vi arrechera alcuna noja fuori di questa di portarvi i miei cordiali saluti.</p>
+<p>Ho ritrovata la risposta alla vostra amabile lettera dell’ Aprile, mentre vi credevo ancora fuori di Venezia. Vi ringrazio molte volte delle copie di carte riguardanti <seg type="comment"><orig>i ladroni  <persName key="G001246">Farnesi</persName></orig><note xml:id="njdk_vms_ylb">Die Farnese waren ein bedeutendes römisches Familiengeschlecht, das Kardinäle stellte und aus dem Papst Paul III. (1534–1549), geb. als Alessandro Farnese (1468–1549), hervorging. </note></seg>, non chè della premura <seg type="comment"><orig>nel trattare il mio intrattabile trattato coll’<persName key="G000932">Antonelli</persName></orig><note xml:id="nlkf_xms_ylb">Da er mit dem Verlag Antonelli und der Übersetzung der „Geschichte der Stadt Rom im Mittelalter“ unzufrieden war, hatte er Gar gebeten, als Mittelsmann die Auflösung des Vertrages herbeizuführen. Siehe den Brief von Gregorovius an Gar, 12.3.1870.</note></seg>. Di fatti io non sono esagerato nel dire, che codesto affare <seg type="comment"><orig><bibl corresp="G004366">della versione italiana</bibl></orig><note xml:id="nb3c_zms_ylb">Die Übersetzung blieb unvollendet, nur Bd. 1–2 wurde übersetzt; Gregorovius verbot die Fortführung wegen der mangelhaften Übersetzung. Die auf Antrag des Marchese Francesco Vitelleschi (1829–1906) ab 1872 vom römischen Stadtrat finanzierte neue Übersetzung der ‚Storia della città di Roma nel Medio Evo‘ erschien bis 1876 in acht Bänden.</note></seg> sia <seg type="comment"><orig>il più lungo fastidio</orig><note xml:id="ndlx_1ns_ylb">Gregorovius war zum einen mit der italienischen Version, die der im Übersetzen unerfahrene Renato Manzato (1847–1925) übernommen hatte, unzufrieden und ließ diese sogar unterbinden (siehe dazu den Brief von Gregorovius an Giovanni Gozzadini vom 24.2.1867 und an Franz Rühl vom 29.6.1871). Zum anderen war der Vertrag für Gregorovius finanziell nur wenig rentabel und er bereute es später, sich darauf eingelassen zu haben; am 2.6.1872 heißt es dazu in seinem Tagebuch: „Als mir 1865 Antonelli in Venedig durch Vermittlung Fulins [Rinaldo Fulin (1824–1884) ] den Antrag der italienischen Ausgabe meiner ‚Geschichte‘ machte, konnte ich nicht ahnen, daß der Sturz des Papsttums in Rom nahe sei; ich war froh, daß ein italienischer Buchhändler so viel Mut hatte, und überließ ihm das ausschließliche Druckrecht. Ich beanspruchte nur die Summe von 250 Francs für jeden Band, als Symbol meines Autorrechts. Der erste Band der Übersetzung Manzatos erschien 1866; die Fortsetzung unterblieb, und Antonelli machte außerdem Bankerott. Im Jahre 1869 trat als sein Administrator Rebeschini ein, worauf der Kontrakt erneuert wurde und im Frühjahr 1872 der zweite Band erschien. Ich bin in der Fessel dieses Vertrags. Wenn ich von ihm befreit wäre, so würde heute das Werk in einer von der Stadt Rom selbst veranstalteten und unter meinen Augen besorgten Ausgabe erscheinen können.“ (S. 325)</note></seg> ch’io mai abbia pruovato nella mia vita <pb n="1v"/>letteraria. Avrei preferito di disimpegnarmene; però per non comparire duro aspetterò la decisione fino al mese del Luglio. Nel caso poi si ritornasse all’ impresa, non avendo io alcuna sicurtà che non si rinnuovi l’inconveniente di prima, vorrei che si facesse un’ aggiunta al patto – e ne riparlerò al tempo suo. La somma ch’io stipulai come utile per me autore, certissimamente è cosi parca, che farebbe ridere chiunque ne sentisse <add place="superlinear">parlare</add> in Germania o in Inghilterra – e l’Antonelli vede bene, ch<subst><del rendition="#ow">e</del><add place="intralinear">’io</add></subst> la fissai non come guadagno ma come espression<ex>e</ex> e simbolo del diritto letterario. Almeno questa bagatella deve essermi ben assicurata e sborsata. <pb n="2r"/>Avrete fra poco il <bibl sameAs="G003470">vol<ex>ume</ex> III°</bibl> della nuova edizione, il quale è già in corso – si stampa ora il <bibl sameAs="G003463">IV°</bibl>. Incomincio a cavare una rendita conveniente dalle mie fatiche.</p>
+<p><seg type="comment"><orig>Sul finire del Giugno parto per la <placeName key="G000664">Germania</placeName>, fermandomi prima un po’ a <placeName key="G000671">Firenze</placeName> ed a <placeName key="G000729">Modena</placeName></orig><note xml:id="nspl_2ns_ylb">Er trat seine Reise am 4. Juli 1870 an, und reiste über Arezzo, Florenz, Modena, Ferrara und Insbruck nach München, wo er am 13.7. ankam. Siehe RT, 10.7. und 24.7.1870, S. 285.</note></seg>. Vi scrivero nel viaggio. <seg type="comment"><orig>Spero di esser a Venezia sulla fine del Sett<ex>em</ex>bre</orig><note xml:id="nozs_fns_ylb">Die Reise fand nicht statt; Gregorovius sollte erst nach Gars Tod (27.7.1871) am 1.8.1871 wieder nach Venedig reisen. Siehe RT, 10.8.1871, S.380.</note></seg>. Poco mi resta a fare per <bibl sameAs="G003434">l’ultimo volume della storia</bibl>, la quale io terminerò dentro di un anno, come spero.</p>
+                <closer>Portate, caro Gar, i <add place="intralinear">più</add> cordali saluti dalla mia parte come da quella dei <persName key="G001374">
+                        <persName key="G001375">Lindemann</persName>
+                    </persName> alla signora <persName key="G001056">Baronessa</persName>. E così vi abbraccio<salute rendition="#c">il vostro</salute> <signed rendition="#right">Gregorovius</signed> </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

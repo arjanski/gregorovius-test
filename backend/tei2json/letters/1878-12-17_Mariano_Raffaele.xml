@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_wzp_tq1_llb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Rom. München, 17. Dezember 1878 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 4 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Marianos Melancholie im letzten Brief hält er dessen junges Alter entgegen; ein Alter, in welchem er die „Geschichte der Stadt Rom im Mittelalter“ (8 Bde., 1859–1874) verfasst hat. Sein Vortrag über den Dreißigjährigen Krieg in der Akademie der Wissenschaften war ein Erfolg, er arbeitet noch an seiner Schrift zum Thema (Urban VIII. im Widerspruch zu Spanien und dem Kaiser. Eine Episode des dreißigjährigen Kriegs 1879). Mit Mathilde von Humboldt hat er Briefe aus der Korrespondenz zwischen Wilhelm und Alexander von Humboldt gesichtet. Über letzteren ist Carl Bruhns Biographie (3 Bde., 1872) zu empfehlen. Gregorovius hat dazu auch den Afrikaforscher Henry Morton Stanley gelesen. Als Inhaber eines Theaterabonnements hat er Shakespeares „Heinrich IV.“ und „Hamlet“ im Königlichen Hof- und Nationaltheater München gesehen. Er plant eine Reise nach Rom zu Beginn des neuen Jahres, auf welcher er in Mantua und Modena für Archivarbeiten Halt machen wird. Über den unternehmungslustigen Karl Lindemann-Frommel und Nachfrage nach der englischen Übersetzung seines Gedichts „Euphorion“ durch George Alfred Townsend sowie nach Familie Erhardt. Grüße an die Brüder Guerrieri, George Marsh, die Familien Minghetti, Mayer und Sermoneta sowie an Ersilia Caetani Lovatelli. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1878-12-17" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840-1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c">München, 17. Dec<ex>em</ex>b<ex>e</ex>r –78.</dateline>
+<salute rendition="#c">Lieber Freund Mariano,</salute>
+</opener>
+<p>aus Ihrem letzten Briefe wehte mir mehr als <hi rendition="#aq"><foreign xml:lang="ita">Scirocco</foreign></hi> entgegen – es war eine moralische Verstimmung, deren Sie nun wol Herr geworden sind. <seg type="comment"><orig>„Der Menschheit ganzer Jammer“</orig><note xml:id="nfwq_mnj_1mb">Zit. nach Goethes „Faust“ (1831), Vers 4406.</note></seg> faßt uns ja alle bisweilen an, und <seg type="comment"><orig>vor die Tugend haben die Götter den Schweiß gesetzt</orig><note xml:id="nlkv_nnj_1mb">Zit. nach Hesiods „Werke und Tage“ (um 700 v. Chr.), 289–290. </note></seg>. Da Sie aber noch in dem Alter stehn, wo<seg type="comment"><orig> <hi rendition="#aq"><foreign xml:lang="ita">la speranza ha fior del verde</foreign></hi></orig><note xml:id="nhvv_4nj_1mb">Zit. nach Dantes „Divina Commedia“ (um 1307–1321), Purgatorio, Canto 3, 135. </note></seg> – ein schönes Alter, in welchem ich mit feuriger Leidenschaft <seg type="comment"><orig>die Arbeit meines Lebens begann</orig><note xml:id="nxqm_qnj_1mb">Mit 34 Jahren begann Gregorovius Ende 1855 mit seiner „Geschichte der Stadt Rom im Mittelalter“ (vgl. RT, Jahresschluß, S. 58), welche er im Jahre 1874 mit der Veröffentlichung des achten Bandes zu einem Ende brachte. </note></seg> – so haben Sie kein Recht auf melancholische Stimmungen.</p>
+<p>Ich habe hier unterdeß die <pb n="1v"/>traurigen Winterwochen sehr gut dahingebracht, <seg type="comment"><orig>nämlich meine <bibl sameAs="G003523">Studien</bibl> vorwärts getrieben</orig><note xml:id="naym_rnj_1mb">Er arbeitete an einer Schrift zum Dreißigjährigen Krieg, die im kommenden Jahr erschien: Urban VIII. im Widerspruch zu Spanien und dem Kaiser. Eine Episode des dreißigjährigen Kriegs. Stuttgart: Cotta 1879.</note></seg>. Ich hielt auch den Vortrag in der <orgName key="G000494">Akademie</orgName>, welcher mir von Wichtigkeit gewesen ist, da er <seg type="comment"><orig>ein Capitel aus dem 30jährigen Kriege betraf</orig><note xml:id="nqmc_tnj_1mb">Der am 7. Dezember in der Sitzung der Akademie der Wissenschaften gehaltene Vortrag trug den Titel „Das feindliche Verhältnis Urbans VIII. zu Spanien und dem Kaiser während des Kriegs mit Gustav Adolf“. Im Tagebuch berichtet Greogorovius vom Erfolg seines Referats (siehe RT, S. 409).</note></seg>. Auch machte er einen gewißen Eindruck. Es ka<subst><del rendition="#ow"/><add place="across">m</add></subst> sodann zu uns die <persName key="G001304">Enkelin Wilhelms v<ex>on</ex> Humboldt</persName>, welche eine Reihe von Briefen <persName key="G001301">Alexanders</persName> an <persName key="G001302">diesen</persName> (in französ<ex>ischer</ex> Sprache) aufgefunden hatte –<seg type="comment"><orig>diese sahen wir durch</orig><note xml:id="nsc4_5nj_1mb">Die Tochter Theodors von Humboldt (1797–1871) war Anfang Dezember zu Gregorovius nach München gekommen, um mit ihm die von ihr transkribierten Briefe, die ihr Großvater Wilhelm (1767–1835) von seinem Bruder Alexander (1769–1859) erhalten hatte, auf unleserliche Stelle zu überprüfen: Jene 25 Briefe gehören in den Pariser Aufenthalt Aexanders und fallen in die Jahre 1821–1824; einige sind datiert, da Humboldt den König von Preußen zum Kongreß nach Verona begleitete, und nach Rom und Neapelmit Leopold von bach ging. Die Briefe sind Causarien, ohne bedeutenden Gehalt, doch wegen der Epoche anziehend.“ (RT, S. 410). Auf Anraten von Gregorovius wandte sich Mathilde hinsichtlich einer Veröffentlichung und möglicher weiterer Schreiben an Gabriele von Bülow (1802–1887), Tochter Wilhelms und bereits 1878 dessen letztes überlebendes Kind, welche sich um das Vermächtnis des Vaters kümmerte. Schließlich wurde die Anfrage, als Herausgeber zu fungieren, an Gregorovius gestellt, der allerdings ablehnte und den Astronomen sowie Biographe Alexanders, Carl Bruhns (1830–1881) vorschlug (vgl. RT, S. 409). Für die Publikation der Korrespondenz verfasset Gregorovius im Jahre 1880 das Vorwort: Die Brüder von Humboldt. Geschichtliche Übersicht ihres Lebensganges bis zum Jahr 1835. In: Briefe Alexanders von Humboldt an seinen Bruder Wilhelm. Hrsg. von der Familie Humboldt in Ottmachau. Stuttgart: Cotta 1880. Das anonyme Vorwort wurde ohne den Untertitel in KS II/4 (S. 125-194) aufgenommen.</note></seg>, und das bewog mich dann mich mit dem Leben beider Humboldt genauer zu beschäftigen. </p>
+<p>Es gibt gute <bibl corresp="ed_irh_1xl_rlb">Biographien</bibl> dieser Brüder, namentlich <pb n="2r"/>Alexanders vom Astronomen <persName key="ed_wvc_gwl_rlb">Bruhns</persName> in <placeName key="G000712">Leipzig</placeName>. Wenn ich noch hinzufüge, daß ich auch <seg type="comment"><orig>die Reisen <persName key="ed_vsj_5wl_rlb">Stanleys</persName></orig><note xml:id="nrrp_vnj_1mb">Der britische Afrikaforscher und Journalist Henry Morton Stanley (1841–1904), der durch die Erschließung des Kongo bekannt wurde.</note></seg> durch den „<bibl corresp="ed_uyn_fxl_rlb">dunkeln Continent</bibl>“ gleichsam verschlungen habe, so werden Sie die Sphären kennen, in denen ich zu Gast gewesen bin. </p>
+<p>Wir haben auch einen festen Platz im <orgName key="ed_zxs_nxl_rlb">Theater</orgName> genommen, haben <seg type="comment"><orig><bibl sameAs="ed_mbj_wfw_slb">Heinrich IV</bibl> v<ex>on</ex> <persName key="ed_xlb_rsd_rlb">Shakespeare</persName> u<ex>nd</ex> <bibl sameAs="ed_sdx_kfw_slb">Hamlet</bibl> in guter Darstellung genoßen</orig><note xml:id="negv_wnj_1mb">William Shakespeares (1564–1616) „Henry IV“ (um 1597) war als 160. Vorstellung im Jahres-Abonnement am 9. Dezember 1878 im Königlichen Hof- und Nationaltheater München aufgeführt worden; die von Shakespeare 1601–1602 vollendete Geschichte des dänischen Prinzen Hamlet am 24. April 1878 als 58. Vorstellung im Jahres-Abonnement: https://books.google.it/books?id=tkUmfRa2P4EC&amp;printsec=frontcover&amp;hl=de&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q=heinrich&amp;f=false.</note></seg>, so daß ich München auch von dieser Seite rühmen kann.</p>
+<p>Dies, die tiefe Stille, der Indifferentismus der Münchner gegen alles Persönliche, das Ausruhen in sich selbst, sind Dinge die mir bis zu einer gewißen Grenze behagen, nämlich bis dahin wo die wahre Wüste der Geistlosigkeit <pb n="2v"/>beginnt. Es gibt hier gar keine Gefälligkeit.</p>
+<p>In unserem Rom ist die Gesellschaft ein Schauspiel – darum geht unser Freund <persName key="G001375">Lindemann</persName> sooft in die Salons – hätte man doch mehr Geist u<ex>nd</ex> Witz, so würde das Schauspiel Komödie sein – ohne das sind es nur figurirte<seg type="comment"><orig> <hi rendition="#aq"><foreign xml:lang="fra">Tableaux</foreign></hi></orig><note xml:id="nh13_ynj_1mb">Fr. für: Bild, Tafel.</note></seg>.</p>
+<p>Empfehlen Sie mich doch dem Haus <persName key="G001424"><persName key="G001423">Minghetti</persName></persName>, u<ex>nd</ex> bei <persName key="ed_nfl_yj2_rlb"><persName key="G001219">Guerrieri</persName></persName>, <seg type="comment"><orig><persName key="ed_qjn_byl_rlb">Marsch</persName></orig><note xml:id="nzlh_znj_1mb">Der amerikanische Jurist und Diplomat George Perkins Marsh (1801–1882), der sich auch als Sprachwissenschaftler einen Namen machte und ausgezeichnet Deutsch sprach, war seit 1861 amerikanischer Gesandter in Rom. Gregorovius hatte ihn 1873 kennengelernt (siehe RT, 30.3.1873, S. 330) und kam bei verschiedenen Gelegenheiten mit ihm zusammen (vgl. RT, 1874, S. 335; RT, Rückkehr nach Rom im Jahre 1877, S. 374). Auch bei seiner Romfahrt 1879 trafen sich die beiden (vgl. RT, Romfahrt, 1879, S. 411). </note></seg> u<ex>nd</ex> wo wir überhaupt gemeinsam verkehrt haben – ganz persönlich auch bei <seg type="comment"><orig><persName key="G001004">Sermoneta</persName></orig><note xml:id="nc5h_14j_1mb">Gregorovius war Michelangelo Caetani (1804–1882), Herzog von Sermoneta, sowie dessen Familie, zu der auch die Archäologin Ersilia Caetani Lovatelli gehörte, freundschaftlich verbunden.</note></seg> u<ex>nd</ex> Donna Ersi<persName key="G001011">l</persName>ia.</p>
+<p><seg type="comment"><orig>Ich werde wol am Ende Januar abreisen, u<ex>nd </ex>erst in <hi rendition="#aq"><placeName key="G000724">Mantua</placeName></hi> und <hi rendition="#aq"><placeName key="G000729">Modena</placeName></hi> einige Tage<del rendition="#s">n</del> verweilen, um die dortigen <orgName key="G067840"><orgName key="ed_xry_myl_rlb">Archive</orgName></orgName> zu sehen</orig><note xml:id="nv43_b4j_1mb">Gregorovius verließ München am 6. Februar und reiste nach Mantua, wo er sich für Archivarbeiten einen Tag aufhielt: In Modena verbrachte er die Tage vom 8. bis zum 14. Februar, wo er „im Archiv viel Merkwürdiges über die […] in München begonnene Episode des 30jährigen Krieges“ fand. (RT, Romfahrt, 1879, S. 411).</note></seg>. </p>
+<p>Es wundert mich, d<ex>a</ex>ß <seg type="comment"><orig><persName key="ed_r2y_ztl_rlb">Townsend</persName> mir nichts von dem englischen Druck des <hi rendition="#aq"><bibl sameAs="G003574">Euphorion</bibl></hi> sagen läßt</orig><note xml:id="niv5_c4j_1mb">Der Amerikaner war im Februar 1878 an Gregorovius herangetreten, um ihm eine Übersetzung des „Euphorin“ in englischen Hexametern vorzustellen (siehe RT, 18.2.1878, S. 393); eine Übersetzung dieser Art ist nicht nachweisbar.</note></seg>. Grüßen Sie ihn u<ex>nd </ex><seg type="comment"><orig>seine <persName key="ed_xmn_ryl_rlb">Frau</persName></orig><note xml:id="nfsr_d4j_1mb">Townsend hatte 1865 Elizabeth Evans Rhodes (1842–1903) geehelicht.</note></seg>.</p>
+<p>Grüßen Sie <persName key="G001412"><persName key="G001413">Maiers</persName></persName>; bitte geben Sie<seg type="comment"><orig> <hi rendition="#aq">Leonora</hi></orig><note xml:id="nt1r_24j_1mb">Nicht ermittelt.</note></seg> in meinem Namen 5 fr<ex>ancs</ex> zu Weihnachten.</p>
+<p>Ich schreibe bald an Lindemann. </p>
+<closer>
+<salute>Alles Gute auch von den <persName key="G001203"><persName key="G001111">Meinigen</persName></persName> an Sie!</salute>
+<signed rendition="#right">FGr.</signed>
+</closer>
+<closer rend="paragraph">
+<salute>
+<note type="postscript">Wie geht es bei <persName key="G001116"><persName key="G001115"><persName key="G001114">Erhardts</persName></persName></persName>?</note>
+</salute>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000390">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Emanuele Pes di Villamarina. Rom, 1. Dezember 1889</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Rom, Archivio Centrale dello Stato</repository><collection>Carteggio Reale Casa Regina Madre</collection><idno>Nr. 506</idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 1 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er bittet um eine Audienz bei Königin Margherita in Rom.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1889-12-01" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001487">Villamarina, Emanuele (1834–1891)</persName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+<div type="writingSession">
+<opener>
+<salute><seg type="comment"><orig>Eccellenza</orig><note xml:id="nwxz_mg5_zlb">Der Marchese Emanuele Pes di Villamarina di Montereno (1834–1891) war Cavaliere d’Onore im Dienst von Königin Margarethe von Italien (1851–1926).</note></seg>,</salute>
+</opener>
+<p>desiderando di ossequiare personalmente <seg type="comment"><persName key="G001400"><orig>S<ex>ua</ex> M<ex>aestà</ex> la Regina</orig></persName><note xml:id="nzfd_4g5_zlb">Margarethe Maria Therese Johanna aus dem Haus Savoyen heiratete am 22. April 1868 den damaligen Kronprinzen von Italien, Umberto I., der 1878 den Thron bestieg. Sie war eine großzügige Förderin der Künste. Gregorovius hatte sie Anfang 1874 auf einem Ball kennengelernt (RT, 29.6.1874, S. 336).</note></seg>, mentre mi trovo in Roma, mi prendo la libertà di pregare V<ex>ostro</ex> S<ex>ignore </ex>Ill<ex>ustrissimo</ex> ad umiliare a S<ex>ua</ex> Maestà questo desiderio del suo servitore, il quale spera di ottenere anche questa volta l'alto favore di una udienza.</p>
+<closer>
+<salute xml:id="s1" next="#s2">Mi pregio raffermarmi con sensi del più profondo rispetto di V<ex>ostra</ex> E<ex>ccellenza</ex> </salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">devotissimo</salute>
+<signed xml:id="si-1" next="si-2" rendition="#right">Ferdinando Gregorovius</signed>
+<signed xml:id="si-2" next="si-1" rendition="#right">cittadino Romano.</signed>
+<dateline>Roma, <placeName key="ediarum_g1v_sg5_zlb">Via Laurina</placeName> n<ex>umero</ex> 11. <lb/>1. Dic<ex>em</ex>bre 1889.</dateline>
+</closer>
+</div>
+
+</body>
+    </text>
+</TEI>

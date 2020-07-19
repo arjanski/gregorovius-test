@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000077">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Heinrich Brockhaus in Leipzig. Rom, 19. Januar
+                    1856</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (26)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 8°, 2 S. – 2v alR, Bl. um 90° gedreht, Eingangs- und Beantwortungsvermerk: 1856. / <hi rendition="#aq">Rom</hi>, 19./27. <hi rendition="#aq">Jan</hi>. / <hi rendition="#aq">Gregorovius</hi>. / B. 5./II. </p>
+<p>Manuskript seiner „Fragmente von Agrigent“ für Robert Prutz zum Abdruck im „Deutschen Museum“</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er bittet in beim Druck des nun angenommenen Manuskripts seiner „Lieder des Giovanni Meli von Palermo“ (1856) seiner Orthografie zu folgen. In den letzten Druckbogen möchte er die Hexameter korrigieren. Auch in seiner historischen Einleitung will er nach der Lektüre von Paolo Emiliano-Giudicis „Storia della letteratura italiana“ (1855) noch Korrekturen einarbeiten. Er erinnert an die zu übersendenden Exemplare seiner „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) an August Joseph Altenhöfer für die „Allgemeine Zeitung“, an Friedrich Althaus und sich selbst nach Rom. Seine geplante „Chronik der Stadt Rom im Mittelalter“ versetzt ihn in „geistige Trunkenheit“.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He asks Brockhaus to follow his orthography when printing the manuscript of his „Lieder des Giovanni Meli von Palermo“ (1856), which has now been accepted. He wants to correct the hexameter in the last printed sheet. After reading Paolo Emiliano-Giudici’s „Storia della letteratura italiana“ (1855), he also wants to make corrections in his historical introduction. He reminds him of the copies of his „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) that are to be sent to August Joseph Altenhöfer for the „Allgemeine Zeitung“, to Friedrich Althaus and himself to Rome. His planned „Chronik der Stadt Rom im Mittelalter“ puts him in a state of „mental intoxication“. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1856-01-19" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G000996">Brockhaus, Heinrich (1804–1874)</persName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+<correspContext>
+<ref type="prev">10. Januar 1856</ref>
+<ref type="next">5. Februar 1856</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+<opener>
+<dateline rendition="#c"><foreign xml:lang="ita">Roma à di</foreign> 19 Januar 1856.</dateline>
+<salute rendition="#c">Mein verehrter Herr,</salute>
+</opener>
+<p>ich schreibe Ihnen in Eile nur diese wenigen Zeilen, welche ich bis zur heutigen Post fertig mache, damit der Brief nicht bis übermorgen liegen bleibt.</p>
+<p><seg type="comment"><orig>Den <bibl sameAs="G004072">Meli</bibl> haben Sie genommen</orig><note xml:id="nzm3_gqw_qlb">Das am 21.7.1855 von Gregorovius an Brockhaus übersandte Manuskript seiner „Lieder des Giovanni Meli von Palermo“ (siehe RT, 23.7.1855, S. 56) wurde wegen der im Brief von Gregorovius vom <ref target="G000076">22.8.1855</ref> geäußerten Honorarforderungen (100 Taler) zunächst abgelehnt. Im Brief an Brockhaus vom <ref target="G000028">13.12.1855</ref> hatte Gregorovius gebeten, das Manuskript im Verlag zu verwahren, bis er eine andere Idee hierfür hat oder einen anderen Verlag gefunden hat.</note></seg>, u<ex>nd</ex> haben mein Vertrauen gerechtfertigt. Dies ist mir doppelt mehr wert, als hätten Sie mir ein großes Honorar gezahlt. Phrasen gebrauche ich nicht. Und Sie werden erleben, daß Sie sich keinen geschäftlichen Schaden angethan, so hoffe ich, um der Neuheit dieses Sicilianers willen.</p>
+<p><seg type="comment"><orig>Dringend bitte ich nun, Ihre Setzer anzuweisen, meine Schreibart nicht anzutasten.</orig><note xml:id="naqr_mqw_qlb">Siehe den Brief von <ref target="G000042">Gregorovius an Brockhaus, 28.11.1855</ref>, in dem er die vom Verlag nicht befolgte eigene Orthographie in den Druckfahnen seiner „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) beklagt hatte. Im Brief vom <ref target="G000056">11.12.1855</ref> hatte Gregorovius von Brockhaus hierfür eine auf der letzten Seite einzurückende Rechtfertigung verlangt.</note></seg> Können Sie mir die letzten Bogen zur Correctur senden, so würde es sehr gut sein, zumal es Verse sind, u<ex>nd</ex> vor allen Dingen wünschte ich die Hexameter zu corrigiren. Dies wäre höchstens ein Aufwand von 9 Tagen in Bezug auf die Preße oder den Satz.</p>
+<p>Wegen der <seg type="comment"><orig>historischen Einleitung</orig><note xml:id="nixc_rqw_qlb">S. XIX-LVI (siehe http://opacplus.bsb-muenchen.de/title/BV006957232/ft/bsb10756792?page=65).</note></seg> ist mir der Gedanke aufgestiegen, ob es <pb n="1v"/>nicht beßer wäre, sie zu kürzen, u<ex>nd</ex> ich bitte Sie um Ihr Urteil darüber. Jedenfalls würde ich Sie ersuchen, <seg type="comment"><orig>mir diejenigen Blätter derselben, welche vom <persName key="G001416"><seg type="comment"><orig>Meli</orig><note xml:id="nh5f_sqw_qlb">Der aus Palermo stammende Dichter, Arzt und Naturwissenschaftler Giovanni Meli (1740–1815).</note></seg> </persName>selbst handeln</orig><note xml:id="njz3_vqw_qlb">S. XXXV-LVI.</note></seg> noch her zu schicken, weil ich etwas verändern möchte. Ich las nemlich derweilen <seg type="comment"><orig><bibl sameAs="G004275">des <hi rendition="#aq">Emiliano-Giudici</hi> Geschichte der ital<ex>ienischen</ex> Literatur</bibl></orig><note xml:id="nmrz_1rw_qlb">Der Literaturhistoriker Paolo Emiliani Giudici (1812–1872) war Professor der Ästhetik an der Accademia delle Belle Arti in Florenz. Über Paolo Perez (1822–1879) war Gregorovius mit Emiliani-Giudicis Literaturgeschichte Italiens (Storia della letteratura italiana. 2 Bde. Florenz: Le Monnier 1855) vertraut geworden.</note></seg>, <seg type="comment"><orig>wo ich für Meli einiges fand</orig><note xml:id="nfq4_drw_qlb">Bd. 2, Lezione XXI. – Giovanni Meli. – Scrittori varii dialetti delle provincie italiane, S. 405–423 (siehe https://archive.org/details/storiadellalette02emil/page/404).</note></seg>. Sollte dies den Druck aufzuhalten drohen, so könnte ja die historische Einleitung mit römischen Zahlen versehen, also später gedruckt werden.</p>
+<p><seg type="comment"><orig>Das Honorar werde ich in einem Wechsel durch <hi rendition="#aq"><persName key="G001345">Kolb</persName></hi> erheben.</orig><note xml:id="nkjr_hrw_qlb">Über den Bankier und württembergische Geschäftsträger in Rom, Karl von Kolb (1800–1868).</note></seg></p>
+<p>Ich bitte nicht zu vergeßen, <seg type="comment"><orig>dem <hi rendition="#aq"><note place="inline" hand="#addressee">/</note><persName key="G000918">Dr</persName></hi><persName key="G000918">. Altenhöfer</persName> ein Ex<ex>emplar</ex> zugehn zu laßen</orig><note xml:id="nqjb_krw_qlb">Im Brief von <ref target="G000056">Gregorovius an Brockhaus, 11.12.1855</ref> hatte er um Übersendung eines Rezensionsexemplars seiner „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) an das Redaktionsmitglied der „Allgemeinen Zeitung“, August Joseph Altenhöfer (1804–1876), gebeten.</note></seg>, nach <placeName key="G000620">Augsburg</placeName>, so wie <seg type="comment"><orig>die Ex<ex>emplare</ex> nach <placeName key="G000716">London</placeName></orig><note xml:id="niwc_qrw_qlb">Im Brief von <ref target="G000029">Gregorovius an Brockhaus, 29.12.1855</ref> hatte er um Übersendung von fünf Exemplaren seiner „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) an Friedrich Althaus (1829–1897) in London gebeten.</note></seg> so bald als möglich, u<ex>nd</ex> von <seg type="comment"><orig>den mir noch hieher nach Rom bestimmten zweien</orig><note xml:id="nmnn_xrw_qlb">Siehe den Brief von <ref target="G000029">Gregorovius an Brockhaus vom 29.12.1855</ref>.</note></seg>, eins per Kreuzband auf meine Kosten <hi rendition="#aq">per post</hi> mir senden zu wollen.</p>
+<p><note place="inline" hand="#addressee">/</note><persName key="G001512"><seg type="comment"><orig>Herrn Prutz</orig><note xml:id="nf2j_1sw_qlb">Der Herausgeber der Brockhaus-Zeitschrift „Deutsches Museum“ Robert Eduard Prutz (1816–1872).</note></seg></persName> sende ich die <bibl corresp="G003840 G003841"><seg type="comment"><orig>Einlage</orig><note xml:id="nzrs_bsw_qlb">Das Manuskript seiner „Fragmente von Agrigent“, die bald darauf in zwei Folgen im „Deutsche Museum“ gedruckt wurden (Jg. 6. Nr. 19–20. Leipzig: Brockhaus 8. und 15.5.1856. S. 681–696 und S. 713–728).</note></seg></bibl>.</p>
+<p>Wegen der <seg type="comment"><orig><bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Chronik Roms</bibl></orig><note xml:id="ndzm_2sw_qlb">Im Tagebuch taucht Gregorovius’ Plan, die „Geschichte der Stadt Rom im Mittelalter“ zu schreiben, erstmals am 3.10.1854 auf (RT, S. 53). Die Niederschrift seines späteren 8-bändigen Hauptwerks beginnt ein Jahr später (siehe RT, 26.11.1855, S. 57). In seinen Briefen ist von seinem Plan erstmals am <ref target="G000056">11.12.1855</ref> gegenüber Brockhaus die Rede. Siehe auch den Brief von Gregorovius an Theodor Heyse vom <ref target="G000034">6.1.1856</ref>.</note></seg> später, denn dies Werk verzögert sich; es ist so intereßant, daß es nicht ausschweifend ist, wenn ich sage, es versetzt mich in eine gewiße, geistige Trunkenheit.</p>
+<closer>
+<salute rendition="#c">Ich bleibe, mein Herr, Ihr ergebener <lb/>und dankbarer Diener</salute>
+<signed rendition="#right">F. Gregorovius.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

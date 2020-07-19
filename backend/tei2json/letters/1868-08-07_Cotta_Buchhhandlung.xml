@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000269">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an die J. G. Cotta’sche Buchhandlung in Stuttgart. München, 7. August 1868</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (82)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. – 1r + 2r aoR geprägt: ROMA – 2v aoR Eingangsvermerk: 1868 / <hi rendition="#aq">D<hi rendition="#sup">r</hi>. F. Gregorovius</hi> / <hi rendition="#aq">München</hi> 7 <hi rendition="#aq">August</hi></p>
+<p>Neufassung der S. 15–16 der zweiten Auflage des ersten Bandes der „Geschichte der Stadt Rom im Mittelalter“ (1869) und eine Zeichnung als Prägung für die gebundene Ausgabe</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 57, Mappe 340–342 (nach D) und Karton 55, Mappe 336–337 (Ergänzungen nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 272–273</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er ist vor einigen Tagen in München eingetroffen. Wegen nachträglicher Bedenken aufgrund aktueller religiöser Spannungen bittet er, beiliegende Neufassung der S. 15–16 der zweiten Auflage des ersten Bandes der „Geschichte der Stadt Rom im Mittelalter“ (1869) auf eigene Kosten neu zu drucken. Er übersendet eine eigene Zeichnung mit dem Abbild der „Roma“ aus dem dreizehnen Jahrhundert als Prägung für den Einband der gebundenen Ausgabe. Die Text-Revision des dritten Bandes (1870) hat er noch nicht begonnen; für die zweiten Auflagen des dritten und vierten Bandes (1870)  bittet er um Übersendung von je einem Exemplar. In diesem Jahr kann er nicht persönlich nach Stuttgart kommen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1868-08-07" cert="high"/>
+</correspAction>
+                <correspAction type="received"><orgName key="G000523">J. G. Cotta'sche Buchhandlung</orgName>
+<placeName key="G000879">Stuttgart</placeName>
+</correspAction>
+<correspContext>
+<ref type="next">8. August 1868 (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VI, 937)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c">München, 7. <hi rendition="#aq">Aug<ex>ust</ex></hi> 1868. <lb/>Frühlingstraße <foreign xml:lang="ita">numero</foreign> 19.</dateline>
+<salute>Sehr geehrte Herren,</salute>
+</opener>
+<p>ich bin seit ein paar Tagen in München, wo ich während noch 14 Tagen die <orgName key="G000510">Bibliothek</orgName> zu benutzen gedenke.</p>
+<p>Der Druck des <bibl sameAs="G003489">ersten Bandes</bibl> ist unterdeß fast vollendet.</p>
+<p>Ein leider nachträgliches Bedenken über eine Stelle von Seite 15. des ersten Druckbogens (Zeile 12. von unten) u<ex>nd</ex> Seite 16 <del rendition="#s">der Folge B</del>, worüber ich Vertrauenspersonen schon in <placeName key="G000763">Rom</placeName> zu Rate zog, nötigt mich dasselbe Ihrer Ansicht vorzulegen. Sie werden finden, daß bei der gegenwärtig stark aufgeregten Leidenschaft der religiösen Parteien jene Stelle heftigen Anstoß erregen könnte, obwol ich mich sehr vorsichtig über die dort berührte Frage ausgedrückt habe. I<?oxy_comment_start author="Angela Steinsiek" timestamp="20200403T184540+0200" comment="In der zweiten Auflage hat Gregorovius das einleitende erste Kapitel des ersten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1869) im Vergleich zu ersten Auflage (1859) weitgehend umgeschrieben. Gemeint ist hier die sehr heikle Stelle über die Gründung der Kirche durch Petrus. Die Stelle lautet in der Druckversion der zwiten Auflage: „Die Oberhoheit, welche sie mir römischer Consequenz beanspruchten, konnte sich nicht in der unpolitischen Lehre des Heilandes, noch in der Thatsache ursprünglicher Gleichheit alle Apostel, aller Priester und Gemeinden, noch auch im Alter des römischen Bistums begründen, denn die Kirchen von Jerusalem, von Korinth und Antiochia waren älter, als die von Rom. Aber den Ansprüchen der römischen Kirche gab die geheiligte Tradition von der Stiftung des Bistums zu Rom durch Petrus bald eine siegreiche Kraft; und dieser Apostel galt schon im ersten Jahrhundert als das Haupt der Kirche und der unmittelbare Lehnträger und Vicar Christi selbst. Denn zu ihm hatte der Heiland gesagt: ‚Du bist Petrus, und auf diesen Fels will ich meine Kirche bauen.‘ Dieses Wort, welches sich nur bei einem Evangelisten findet, ist der Fundamentalspruch des herrschenden Papsttums. Man liest es noch heute in riesigen Lettern auf dem Fries der hoben Kuppel S. Peter’s zu Rom. Es war für die Kirche der Römer, was für ihr Reich jener Spruch Vergil’s gewesen war.“ (S. 15–16)"?>ch wünschte dies u<ex>nd</ex> die Folgen zu vermeiden, lege Ihnen daher das Bedenken vor, u<ex>nd</ex> glaube, daß Sie wie ich urteilen werden, es sei verständiger, die Stelle umzudrucken. Glücklicher Weise <pb n="1v"/>handelt es sich hier nur um 2 Druckseiten (15 u<ex>nd</ex> 16)<?oxy_comment_end?><choice><sic>.</sic><corr type="deleted"/></choice>, da das erste Blatt des ganzen Viertelbogens zufällig <add place="superlinear">nur</add> den Titel des Ersten Buches enthält. Wenn Sie daher meiner Meinung sind, so bitte ich die beiliegende Veränderung der Seiten 15 u<ex>nd</ex> 16 an die Officin nach <placeName key="G000620">Augsburg</placeName> zu senden u<ex>nd</ex> ihr aufzugeben, jenen Viertelbogen neuzudrucken. Die Kosten des Umdrucks kommen selbstverständlich auf meine Rechnung.</p>
+<p>Wenn Sie genauere Kenntniß von den folgenden Bänden genommen haben, so werden Sie sicher urteilen, daß ich überall mit Mäßigung geschrieben habe; dies ist das <?oxy_comment_start author="Angela Steinsiek" timestamp="20200403T184153+0200" comment="Der katholische Kirchenhistoriker Ignaz Döllinger (1799–1890); über sein Urteil zur „Geschichte der Stadt Rom im Mittelalter“ heißt es unter dem 1.–19.8.1868 Tagebuch von Gregorovius: „Bei Döllinger zu Abend gewesen mit [Hermann] Kaulbach [1846–1909], zu dem er mich geführt hatte. Döllinger sprach mit Freimut über die sinnlosen Manöver des heutigen Papsttums und mit Geringschätzung von dem zusammenberufenen Konzil, für welches keine einzige dringende Frage vorliege. In bezug auf die Anfeindungen, die meine Geschichte von katholischen Fanatikern, namentlich in Münster, erfahren hatte, sagte er mir, daß ich mit der größten Mäßigung die kirchlichen Verhältnisse behandelt habe und daß er selbst sich in manchen Punkten viel schärfer würde ausgedrückt haben.“ (S. 251)"?>Urteil aller Verständigen, wie es nur noch gestern <persName key="G001094"><hi rendition="#aq">Döllinger</hi></persName> zu mir aussprach<?oxy_comment_end?>. </p>
+<p>Für den mir wünschenswerten Fall, daß Sie von der neuen <pb n="2r"/>Auflage auch gebundene Exemplare ausgeben sollten, was sicherlich praktisch sein würde, habe ich in <placeName key="G000763">Rom</placeName> <?oxy_comment_start author="Angela Steinsiek" timestamp="20200403T183427+0200" comment="Nach einer eigenhändigen Zeichnung von Gregorovius mit dem Abbild der „Roma“ aus dem dreizehnten Jahrhundert als Prägung für den Einband der gebundenen Ausgabe, die er mit seinem Brief vom 7. August 1868 für die zweite Auflage des ersten Band der „Geschichte der Stadt Rom im Mittelalter“ (1869) übersandt hatte. Als Vorlage diente die Münze des Römischen Senators und entschiedenen Gegners des stadtrömischen Adels Brancaleone degli Andalò (um 1220–1258) aus der Mitte des 13. Jahrhunderts. Sie zeigt auf der einen Seite einen schreitenden Löwen mit der Legende SENATVS POPVLVS Q. R. (Senat und Volk von Rom); auf der von Gregorovius gezeichneten Seite die Roma auf einem Thron, der von zwei Löwen gebildet wird, in der rechten Hand hält sie die Palme, in der Linken die Weltkugel, die Abbildung ist mit der Umschrift S.P.Q.R. Roma Caput Mundi umgeben (Rom, Hauptstadt der Welt). Siehe den Brief von Gregorovius an die Cottasche Buchhandlung, 20.9.1869. (Abb.: https://www.moneymuseum.com/de/muenzen?&amp;id=74). Siehe auch Gregorovius, Geschichte der Stadt Rom im Mittelalter, Bd. 5 (1865) S. 64."?>beiliegende (nicht ganz ausgeführte) Zeichnung gemacht, darstellend das Abbild der <hi rendition="#aq"><persName key="G001553"><hi rendition="#aq">Roma</hi></persName></hi> aus <hi rendition="#aq"><foreign xml:lang="Lat">Saec</foreign><ex>ulum</ex></hi> XIII. Dieses würde sich auf gepreßtem Deckel sehr gut ausnehmen, u<ex>nd</ex> passender ohne Vergoldung.<?oxy_comment_end?> Sie selbst haben schon ähnliche Einbände ausgegeben.</p>
+<p>Ich habe für den späteren <bibl sameAs="G003470">Neudruck des Bandes III</bibl> noch nichts gethan, das heißt noch keine Revision gemacht. Ich besitze kein Exemplar von den folgenden Bänden, welches ich zerstören könnte; ersuche Sie daher mir <bibl sameAs="G003469">Band III.</bibl> u<ex>nd</ex> <bibl sameAs="G003462">IV</bibl> nach München zu senden, u<ex>nd</ex> dieselben von den Freiexemplaren der 2. <pb n="2v"/>Auflage derart in Abzug zu nehmen, daß ich von Band I u<ex>nd</ex> <bibl sameAs="G003477">II</bibl> nur je 11 Exemplare statt 12 erhalte. Hoffentlich genehmigen Sie dies.</p>
+<p>Meine Zeit wird es nicht gestatten, weiter als bis Augsburg zu gehen, so daß ich nicht die Freude haben kann, <?oxy_comment_start author="Angela Steinsiek" timestamp="20200403T184055+0200" comment="Gregorovius hatte am 22. Juli 1867 das Verlagshaus in Stuttgart besucht und Louis Roth (1802–1875), Carl Freiherr Cotta von Cottendorf (1835–1888) und seinen Vetter Hermann Albert Freiherr von Reischach (1826–1876) kennengelernt (siehe RT, 27.7.1867, S. 228)."?>Sie, hochgeehrte Herren, wie im vorigen Jahre, in Stuttgart zu sehen<?oxy_comment_end?>.</p>
+<closer>
+<salute xml:id="s1" next="#s2">Mit dem lebhaftesten Angedenken an jenen schönen Aufenthalt empfiehlt sich verehrungsvoll</salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">Ihr ganz ergebenster</salute>
+<signed rendition="#right">F. Gregorovius.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000039">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Heinrich Brockhaus in Leipzig. Genazzano, 16. August
+                    1856</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (33)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p> 1 Dbl., 8°, 2 ¼ S. – 2v alR, Blatt um 90° gedreht, Eingangs- und Beantwortungsvermerk: 1856. / <hi rendition="#aq">Gennazano</hi>, 16./26. <hi rendition="#aq">Aug</hi>. / <hi rendition="#aq">Gregorovius</hi>. / B. 15/IX. / Berechnungen – 1v alR „4. Für jede […] Erscheinens derselben.“ Bearbeitungsvermerk$.</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Für den Verlag des übersandten Manuskripts seiner Schrift „Die Grabmäler der Römischen Päpste“ (1857) formuliert er seine Vertragsbedingungen. Er glaubt nicht, dass seine Schrift vom Vatikan indiziert wird. Für die Benutzer in Rom wünscht er sich, dass seine „Grabmäler“ in dem handlichen Format seiner soeben ausgegebenen „Lieder des Giovanni Meli von Palermo“ (1856) gedruckt werden. Wegen der vielen Namen will er die Druckfahnen unbedingt selbst korrigieren.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He stipulates his conditions for the publication of the manuscript of his „Die Grabmäler der Römischen Päpste“ (1857), which he sent over. He doesn’t think the Vatican will ban his writing. For the readers in Rome he hopes that his „Grabmäler“ with be printed in the same convenient format as his recently published „Lieder des Giovanni Meli von Palermo“ (1856). Because of the many names he absolutely wants to correct the proofs himself. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000678">Genazzano</placeName>
+                    <date when="1856-08-16" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G000996">Brockhaus, Heinrich (1804–1874)</persName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next">15. September 1856</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Genazzano in der <seg type="comment"><orig>Comarca di Roma</orig><note xml:id="nbzp_wtd_rlb">Die Comarca von Rom war eine 1816–1870 bestehende administrative Unterteilung des Kirchenstaates.</note></seg></hi>. <lb/>16. <hi rendition="#aq">August</hi> 1856.</dateline>
+                    <salute rendition="#c">Geehrtester Herr,</salute>
+                </opener>
+                <p>am 8. dieses Monats ist meine Schrift: <seg type="comment"><orig>„<bibl sameAs="G003430">Die Grabmäler der Päpste, Historische Studie</bibl>“, an <orgName key="G000480">Ihre Buchhandlung</orgName> von <placeName key="G000763">Rom</placeName> aus abgegangen</orig><note xml:id="niyj_ytd_rlb">In Genazzano, wo Gregorovius sich vom 25. Juni bis zum 24. September 1856 aufhielt (siehe RT, 16.8.-2.10.1856, S. 63–64), hatte er das Manuskript der Buchpublikation seiner „Grabmäler der Römischen Päpste. Historische Studie“ (Leipzig: Brockhaus 1857) abgeschlossen, das er Brockhaus am <ref target="G000053">12.7.1856</ref> zum Verlag angetragen hatte. Nach seinem Tagebucheintrag war der Versand am 7. August erfolgt (siehe RT, 16.8.1856, S. 63).</note></seg>, wie ich Ihnen dies <seg type="comment"><orig>in meinem Brief vom 5. August voraus angezeigt habe</orig><note xml:id="nmmn_c5d_rlb">Siehe den Brief von <ref target="G000047">Gregorovius an Brockhaus vom 5.8.1856</ref>.</note></seg>. Es wird hoffentlich das M<ex>anu</ex>Sc<ex>ript</ex> richtig eingetroffen sein.</p>
+                <p>Wenn Sie dasselbe gelesen haben, so zweifle ich nicht, daß wir ohne Weiteres uns
+                    einigen werden. Dies sind meine Bedingungen:</p>
+                <p>
+<list>
+<item>1. Der Verfaßer verkauft die erste Auflage von 1000 Exemplaren für das Honorar von 300 (dreihundert) Thalern preußisch, zahlbar nach Annahme des Manuscriptes.</item>
+<item>2. Es bleibt ihm der Ertrag englischer u<ex>nd</ex> französischer Übersetzung unverkürzt.</item>
+<item>3. Keine der folgenden Auflagen darf die Zahl von 1000 Exemplaren überschreiten.</item>
+<item><pb n="1v"/>4. Für jede folgende Auflage erhält der Verfaßer die Summe von 200 (zweihundert Thalern), zahlbar am Tage des Erscheinens derselben.</item>
+</list>
+</p>
+                <p>Im Falle die Buchhandlung F. A. Brockhaus dies genehmigt (u<ex>nd</ex> ich meine
+                        <del rendition="#s">sie</del> wol, sie wird es gern u<ex>nd</ex> ohne
+                    Bedenken thun), so bitte ich mir diese Punkte des Vertrags in Ihrem Briefe zu
+                    verzeichnen.</p>
+                <p>Da die Schrift schwerlich auf den <hi rendition="#aq"><foreign xml:lang="Lat"><seg type="comment"><orig>Index prohibitorum</orig><note xml:id="ngny_25d_rlb">Der Index Librorum Prohibitorum, das Verzeichnis der vom Vatikan verbotenen Bücher.</note></seg></foreign></hi> kommen wird, weil sie richtig u<ex>nd</ex> sachlich gehalten ist, so wird der Absatz in Rom selbst nicht unbedeutend, u<ex>nd</ex> bleibend sein. <seg type="comment"><orig>Schon deshalb ist es gut, wenn sie in einem handlichen Format ausgestattet wird, u<ex>nd</ex> wenn dem Verfaßer ein Wunsch freisteht, wäre es ein Format, wie die <bibl sameAs="G004072">Lieder des Meli</bibl></orig><note xml:id="nhr1_k5d_rlb">Seine „Grabmäler der Römischen Päbste“ erschienen wunschgemäß in dem Format seiner soeben ausgegebenen „Lieder des Giovanni Meli von Palermo“ (1856).</note></seg>. So bergen es diejenigen leicht, welche damit in der Hand die Kirchen Rom’s besuchen.</p>
+                <p>Um der vielen fremden Namen willen, ist es unerläßlich, d<ex>a</ex>ß ich selbst die letzte Correctur besorge, wozu ich vom Anfange October ab bereit bin. Bis dahin bleibe ich noch an diesem <pb n="2r"/>Orte, u<ex>nd</ex> bitte auch, Ihren Brief direct hieher zu richten unter dieser Adresse:</p>
+                <p rendition="#c"><hi rendition="#aq"><placeName key="G000842">Palestrina </placeName>per <hi rendition="#u">Genazzano</hi>, Comarca di Roma</hi>.</p>
+                <closer>
+                    <salute rendition="#c">Hochachtungsvoll u<ex>nd</ex> ergebenst Ihnen mich
+                        empfehlend, geehrtester Herr, <lb/>Ihr</salute>
+                    <signed rendition="#c"><hi rendition="#aq">Ferdin. Gregorovius</hi>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

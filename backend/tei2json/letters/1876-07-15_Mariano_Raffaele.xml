@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000211">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Tübingen. München, 15. Juli 1876</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt></titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness><bibl type="print">Alessandro Savorelli: Dal carteggio di Raffaele Mariano. In: Giornale critico della filosofia italiana. Jg. 72 (74). Ser. 6. Bd. 13. Florenz 1993. S. 220 (Auszüge)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er  freut sich, dass Mariano  mit seinem Aufenthalt in Berlin zufrieden war und sich in Tübingen wohlfühlt.  Er selbst hat Rom am 18. Juni 1875 verlassen. In Florenz speiste er bei Virginia Villari und Domenico Morelli. In Modena besuchte er Cesare Foucard, der weder die Stelle in Venedig noch in Mailand bekommen hat; auf letzterer blieb Cesare Cantù. Nach vier Tagen im katholischen Brixen hat er seine Geschwistern Julius und Ottilie Elgnowski und deren Sohn Hermann in München gesund angetroffen.  er dekoriert seie Zimmer jetzt mit römischen Erinnerungen. Seine Geburt in Königsberg ist ein Irrtum, der durch die Verleihung der römischen Ehrenbürgerwürde berichtigt wurde. Er entschuldigt und bekräftigt seinen Ratschlag, Mariano solle sich nicht in philosophischer Reflexion verlieren. Er geht in acht Tagen nach Traunstein. Anfang September 1876 erwartet er Mariano in München. Karl Lindemann-Frommel ist in Rom, sein Sohn Manfred wechselt von Karlsruhe nach München. Grüße an Domenico Guglielmi. </p>
+<p xml:lang="en"/>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1876-07-15" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000892">Tübingen</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c">München, 15. Juli 1876.</dateline>
+<salute>Lieber Freund Mariano,</salute>
+</opener>
+<p>es freut mich, daß ich wieder <seg type="comment"><orig>einen Brief</orig><note xml:id="nnzs_x3w_zlb">Vmtl. der Brief von Raffaele Mariano an Ferdinand Gregorovius, 7.7.1876 in Alessandro Savorelli: Dal carteggio di Raffaele Mariano. In: Giornale critico della filosofia italiana. Jg. 72 (74). Ser. 6. Bd. 13. Florenz 1993. S. 221ff.</note></seg> von Ihnen habe, daß Sie mit <placeName key="G000636">Berlin</placeName> zufrieden waren u<ex>nd</ex> sich jetzt in Tübingen behaglich fühlen. Es trennen uns demnach nur wenige Stunden Entfernung.</p>
+<p>Am 18. Juni hatte ich <placeName key="G000763">Rom</placeName> verlassen: ich war 2 Tage in <placeName key="G000671">Florenz</placeName> geblieben, wo <seg type="comment"><orig><persName key="ed_mhb_brt_plb">Frau Villari</persName></orig><note xml:id="nksp_y3w_zlb">Virginia Villari, Schwester von Pasquale Villari (1827–1917) und seit 1853 Ehefrau des Malers Domenico Morelli (1823–1901), dem Gregorovius bereits in einem Brief vom 3.3.1876 einen Besuch in Florenz ankündigte (siehe auch RT, Sommer, Herbst und Winter 1876/77, S. 373).</note></seg>, eine sehr angenehme Dame mich zu Tische lud. Ich war sodann bei <seg type="comment"><orig><persName key="G001134">Foucard</persName></orig><note xml:id="nbrl_z3w_zlb">Cesare Foucard (1825–1892) war von 1873 bis 1887 Direktor des Archivio di Stato in Modena. Gregorovius war bei seinem kurzen Forschungsaufenthalt im Sommer 1873 Gast in Foucards Haus und würdigte dessen Entgegenkommen bei seinen Archivrecherchen im Vorwort der „Lucrezia Borgia“ (1874): „Dieser ausgezeichnete Mann bemühte sich für meinen Zweck mit einer wahrhaften Liberalität, wie sie eines Nachfolgers Muratori’s in jenem Amt würdig ist. Er erleichterte mir meine Arbeit auf jede Weise.“ (S. XV; siehe RT, S. 332). Auch wenn er in späteren Jahren von Deutschland aus kommend Modena besuchte, beherbergte ihn Foucard (siehe RT, 31.3.1875, S. 347–348; 20.5.1876, S. 363; 1877, S. 373). </note></seg> in <placeName key="G000729">Modena</placeName>, einen halben Tag. Er hat die Stelle in <placeName key="G000894">Venedig</placeName> nicht erhalten, u<ex>nd</ex> auch der Posten in <placeName key="G000721">Mailand</placeName>, für welchen er eigentlich bestimmt war, ist noch von <seg type="comment"><orig><persName key="G001018">Cantù</persName></orig><note xml:id="ncxj_1jw_zlb">Cesare Cantù (1804–1895), Historiker, Archivar, Literat (Romanschriftsteller) und Politiker, Begründer des Archivio storico lombardo, seit Dezember 1875 Direktor des Staatsarchivs in Mailand. </note></seg> besetzt geblieben, <pb n="1v"/>so daß Foucard dadurch eine bedauerliche Zurücksetzung erfahren hat. Von Modena war ich nach <placeName key="G000641">Brixen</placeName> (Bressanone) gegangen u<ex>nd</ex> dort 4 Tage geblieben: es ist das neue Centrum der pfaffischen Intriguen in <placeName key="G067508">Tyrol</placeName>, einer der stärksten Vorposten des <orgName key="ed_onw_cld_rlb">Vatican</orgName>.</p>
+<p>Ich habe in München meine <persName key="G001203"><persName key="G001111">Geschwister</persName></persName> u<ex>nd</ex> <persName key="G001109">Neffen</persName> in guter Gesundheit angetroffen, u<ex>nd</ex> meine Zimmer verschönert, so daß ein Hauch von Idealität darin zu spüren ist, u<ex>nd</ex> dieser geht besonders vom Kopf der <seg type="comment"><orig><persName key="ed_u11_s34_qlb">Juno Ludovisi</persName></orig><note xml:id="nilh_bjw_zlb">Von dem das griechische Schönheits- und Geistesideal darstellenden, kolossalen Marmorkopf aus dem 1. Jahrhundert vor Christus (Rom, Museo Nazionale RomanoRom) besaß Gregorovius besaß wohl einen im Maßstab verkleinerten Gipsabguss. Vermutlich zeigte Karl Lindemann-Frommel (1819–1891) diesen in seinem Aquarell von Gregorovius’ Arbeitszimmer in der Via Gregoriana 13 auf der Kaminbrüstung stehend; BSB München, NL Gregorovius, Gregoroviusiana 30, urn:nbn:de:bvb:12-bsb00002519-8). Siehe auch die Briefe von Gregorovius an Ersilia Caetani-Lovatelli vom 19.7.1875 und 20.7.1876.</note></seg> aus, unter welchen ich ein in Rom auf dem <seg type="comment"><orig>Ghetto</orig><note xml:id="nkwh_cjw_zlb">Das 1555 von Papst Paul IV. (1476–1559) ausgerufene römische Ghetto gehört zu den ältesten Ghettos der Welt und befand sich im Stadtteil Sant’Angelo in der Nähe des Marcellustheaters.</note></seg> gekauftes Stück roten Damasts ausgespannt habe. Die Juno ist also die Schutzgöttin meines Hauses geworden, u<ex>nd</ex> da sie in der alten kosmogonischen Mythe den <persName key="ed_mxq_qsw_qlb">Äther</persName> repräsentiert <pb n="2r"/>so muß sie mir den Himmel <placeName key="G000690">Italiens</placeName> ersetzen. Ein Italiener oder Grieche erkennt erst im Nebel <placeName key="G000664">Germaniens</placeName> die ungeheuren ja unaussprechlichen Vorzüge seines Landes, gegen welche ihn die Macht der Gewohnheit stumpf werden läßt, wenn er daheim ist. Meine ganze Natur weist mit polarischer Bestimmtheit auf den Süden, und es war nur ein Irrtum in der Schöpfung, daß ich an den Grenzen <seg type="comment"><orig>Sarmatiens</orig><note xml:id="nv55_djw_zlb">Sarmatien, das Gebiet zwischen Weichsel und Wolga, Ostsee und Schwarzem Meer, in dem heutzutage die russische Provinz Kaliningrad (ehemals Königsberg, Gregorovius’ Geburtsstadt), Litauen, Weißrussland, Polen, Moldawien und die Ukraine liegen.</note></seg> geboren wurde. Diesen Irrtum berichtigte ich dadurch, daß ich – u<ex>nd</ex> dies erscheint mir als eine der merkwürdigsten Fabeln – durch geistige Thaten mir die römische <seg type="comment"><orig><foreign xml:lang="Lat">Civitās</foreign> </orig><note xml:id="nxcq_2jw_zlb">Gregorovius war für seinen Beitrag zur römischen Geschichtsschreibung, seine „Geschichte der Stadt Rom im Mittelalter“ (8 Bde., Stuttgart: Cotta 1859–1872), am 8. März mit der Ehrenbürgerwürde Roms ausgezeichnet worden. </note></seg>erwarb.</p>
+<p>Es thut mir leid, daß Sie <seg type="comment"><orig>meine Bemerkung <foreign xml:lang="ita">più di terra!</foreign> </orig><note xml:id="np1n_fjw_zlb">In seinem Brief vom 7. Juni riet er Raffaele Mariano zu mehr Bodenständigkeit bei seinen Arbeiten („Mehr Erde! Mehr Erde!“) und forderte ihn auf, der philosophierenden Reflexion zu entsagen sowie der Nachwelt ein wirkungsträchtiges Werk zu hinterlassen, zum Beispiel über die Geschichte des evangelischen Gedankens in Italien.</note></seg>von mir mißdeutet haben. Denn, wenn Sie mich gelten lassen, nicht als ein Kind des Äthers, so doch als einen, der der Cultur des Idealen <pb n="2v"/>mit ganzer Seele ergeben ist, so mußten Sie auch annehmen, daß ich die idealen Naturen anderer, zumal meiner Freunde verstehen kann. Aber gerade weil Sie gewohnt sind, sich im Äther des Gedenkens zu halten, mehr fast als jeder andre Italiener, so bedürfen Sie einer festen Lage unter sich, u<ex>nd</ex> eines Ballasts im Fahrzeuge. Ich denke mir, daß Sie Gefahr laufen, zu abstrakt zu werden, und zu apriorisch, u<ex>nd</ex> daß jeder Ihnen ergebene Freund wünschen muß, Sie fänden sei es durch eine große Arbeit, die in sich Folge u<ex>nd</ex> für Sie Folgen hat, oder durch einen praktischen Zusammenhang mit dem Leben das feste Erdreich, den <seg type="comment"><orig>„Standpunkt“ des <persName key="G000941">Archimedes</persName></orig><note xml:id="nmd4_gjw_zlb">Der archimedische Punkt ist ein theoretischer ‚absoluter Punkt‘ außerhalb eines Versuchsaufbaus. In der Philosophie steht er für die Suche des Menschen nach einem absoluten Bezugspunkt, um gesichertes Wissen bzw. Wahrheiten zu bezeichnen.</note></seg>.</p>
+<p>Schreiben Sie mir bald. <seg type="comment"><orig>Ich gehe nach 8 Tagen nach <placeName key="G000888">Traunstein</placeName></orig><note xml:id="nvzk_hjw_zlb">Er verbrachten den August, zeitweise gemeinsam mit seinem Bruder Julius Gregorovius (1819–1891) in Traunstein. Am 1. September kehrte er nach München zurück. (RT, Sommer, Herbst und Winter 1876/77, S. 373)</note></seg>, u<ex>nd</ex> bin am Anfange des Sept<ex>embers</ex> wieder hier. Von <placeName key="G000624">Kissingen</placeName> wird Sie der Weg nach München führen. Wir freuen uns alle, Sie wieder zu sehen, u<ex>nd</ex> grüßen Sie viele mal.</p>
+<closer>
+<signed rendition="#right">FGr. </signed>
+</closer><note type="postscript"><persName key="G001375">Lindemann</persName> ist noch in Rom. <persName key="G001376">Manfred</persName> verläßt <placeName key="G000696">Karlsruhe</placeName> im October, u<ex>nd</ex> setzt <seg type="comment"><orig>seine Studien</orig><note xml:id="nw3g_3jw_zlb">Manfred Lindemann-Frommel (1852–1939) studierte zunächst Architektur in Karlsruhe und war von 1875 bis 1883 Schüler des Landschaftsmalers Adolf Heinrich Lier (1826–1882) in München.</note></seg> in München fort. <lb/>Viele Grüße an <persName key="G001221">Guglielmi</persName>. </note>
+
+</div>
+        </body>
+    </text>
+</TEI>

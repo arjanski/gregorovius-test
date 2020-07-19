@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000183">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Louis Roth in Stuttgart. München, 8. August 1863</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (56)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ¼ S. – 2v aoR Eingangs- und Beantwortungsvermerk: 1863. / <hi rendition="#aq"><hi rendition="#aq">München</hi></hi> 8. <hi rendition="#aq"><hi rendition="#aq">August</hi></hi> / <hi rendition="#aq"><hi rendition="#aq">D<hi rendition="#sup">r</hi> F. Gregorovius</hi> / <hi rendition="#aq">R</hi> / <hi rendition="#aq">R</hi></hi></p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno>Karton 57, Karton 57, Mappe 340–342 (nach D) und Karton 55, Mappe 336–337 (Ergänzungen nach H)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 256–258</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Dass der Verlag seinem Wunsch, den Umfang seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) von sechs Bände auf sieben Bände zu erweitern, nur ungern zustimmt, ist ihm unverständlich. Auf die Vollendung seines Lebenswerkes in der angemessenen Ausführung kann er nicht verzichten; die Verkaufszahlen bestätigen dessen Wert. Die Absatzzahlen seines Erstlings „Corsica“ (1854), das sich in der englischen und amerikanischen Übersetzung glänzend verkauft, bleiben weit hinter seiner Erwartung zurück. Es mag eine Neuauflage in anderem Format für besseren Verkauf sorgen. Er ist noch bis Ende August in München.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He cannot understand why the publisher is reluctant to agree to his wish to expand the scope of his „Geschichte der Stadt Rom im Mittelalter“ (1859-1872) from six volumes to seven. He cannot do without completing his life’s work appropriately; the sales figures confirm its value. The sales figures of his first work „Corsica“ (1854), the English and American translations of which are selling brilliantly, are falling far short of his expectations. A new edition in a different format might sell better. He will be in Munich until the end of August. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1863-08-08" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001559">Roth, Louis (1802–1875)</persName>
+<placeName key="G000879">Stuttgart</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">18. Juli 1863 (h: DLA Marbach, Cotta-Archiv, Kopirbuch V, S. 485)</ref>
+<ref type="prev">3. August 1863 (h: DLA Marbach, Cotta-Archiv, Kopirbuch V, S. 486)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">München, 8. <hi rendition="#aq">August</hi> 63.</dateline>
+                    <salute rendition="#c">Hochverehrter Herr,</salute>
+                </opener>
+<p><seg type="comment"><orig>ich habe das gefällige Schreiben der <orgName key="G000523">J. G. Cotta’schen Buchhandlung</orgName> hier richtig empfangen, und ersehe daraus, daß dieselbe, obwol ungern, wie es scheint, mir die Einwilligung zur Vermehrung der <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Geschichte der Stadt Rom</bibl> um einen (siebenten) Band erteilt, in dem Falle, daß sich die Notwendigkeit dazu herausstellen sollte</orig><note xml:id="nf5t_hdj_cmb">Siehe den Brief von Gregorovius an Louis Roth vom <ref target="G000178">24.6.1863</ref>. Der Geschäftsführer des Cotta-Verlags hatte Gregorovius am 18. Juli 1863 darauf geantwortet: „Ihre Mittheilung […] statt der ursprünglich verabredeten 6 Bände, nunmehr 7 Bände zu geben, ist uns nicht ganz angenehm, insofern dadurch der Preis des Buches nothwendig erhöht , wohl auch die Vollendung derselben etwas verzögert wird. Indessen wenn Ihnen diese Werkwirkung einmal nothwendig erscheint, so können wir sie unmöglich verweigern, da natürlich die Hauptsache ist, daß das Buch möglichst gut u. in möglichst gleichmäßigem Charakter herzustellen. Wenn sich also bei der Ausarbeitung wirklich die Nothwendigkeit eines siebenten Bandes ergeben sollte […] so ertheilen wir hiermit zum Voraus unsere Einwilligung.“ (DLA Marbach, Cotta-Archiv, Kopirbuch V, S. 485).</note></seg>.</p>
+<p>Ich sehe dieses freilich als wahrscheinlich an, bei dem großen Anwachs des Materials gerade für die Epoche, welche der Band V umfaßen soll; u<ex>nd</ex> ich wiederhole, daß es bedauerlich u<ex>nd</ex> mehr als dies, unverzeihlich wäre, wenn ich einen so reichhaltigen Stoff nicht dem Charakter des Ganzen gemäß verarbeiten dürfte. Auch dürften 7 Bände für die <seg type="comment"><orig>Geschichte <placeName key="G000763">Roms</placeName> in elf langen Jahrhunderten</orig><note xml:id="nrn5_ldj_cmb">Seine schließlich auf acht Bände anwachsende „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) beginnt mit dem Einzug des weströmischen Herrschers Flavius Honorius (384–423) in Rom Ende 403/Anfang 404 und endet mit dem Sacco di Roma, bei dem ab dem 6. Mai 1527 es zur Plünderung Roms und des Kirchenstaats sowie zu Gewaltexzessen durch deutsche Landsknechte und spanische sowie italienische Söldner Karls V. (1500–1558) kam.</note></seg> nicht zu viel sein, wenn man bedenkt, wie bändereiche Werke über einzelne Epochen in der Geschichte, ja über einzelne Personen, geschrieben werden. Es ergibt sich zur Genüge die Verkaufsfähigkeit unseres Werkes, <pb n="1v"/>welchem, wie ich erkenne, eine geachtete Stellung in der Literatur bereits gesichert ist.</p>
+<p>Ich selbst entschließe mich ungern, die Arbeitslast, die ich auf mich genommen habe, zu vergrößern, denn ich kann fast sagen, daß ich mein Leben an dieses Werk setze, welches ich gern in der mir irgend möglichen Vollendung hinterlaßen möchte. Ich würde wol zufrieden sein, wenn ich mit dem Bande VI abschließen könnte, u<ex>nd</ex> <seg type="comment"><orig>vielleicht gelingt es mir die letzten Epochen des Mittelalters der Stadt, welche nicht mehr die Bedeutung noch das Interesse des <?oxy_comment_start author="Angela Steinsiek" timestamp="20191210T151758+0100" comment="Das schwäbische Adelsgeschlecht, das vom 11. bis zum 13. Jahrhundert mehrere römisch-deutsche Herzöge, Könige und Kaiser hervorbrachte (Konrad III., Friedrich I. Barbarossa, Heinrich VI., Philipp von Schwaben, Friedrich II., Konrad IV., Manfred und Konradin)."?>XIII, hohenstaufischen<?oxy_comment_end?>, u<ex>nd</ex> des <?oxy_comment_start author="Angela Steinsiek" timestamp="20191210T151811+0100" comment="Zwischen 1309 und 1377 hatte sieben Päpste ihren Sitz in Avignon."?>XIV, <placeName key="G000795">avignonischen</placeName> Jahrhunderts<?oxy_comment_end?> haben, darin zusammenzuziehen</orig><note xml:id="nxp5_4dj_cmb">Band 5 endet mit dem durch das französisch dominierte Kardinalskollegium zum Papst gewählten Erzbischof von Bordeaux als Clemens V. (zwischen 1250 und 1265–1314) im Jahre 1305.</note></seg>. Doch dies werde ich erst später erkennen.</p>
+<p>Aus der <seg type="comment"><orig>Notiz über den Verkauf des Buches <bibl sameAs="G003106">Corsica</bibl></orig><note xml:id="nlqx_qdj_cmb">Dem Brief von Roth an Gregorovius vom 24. Juni 1863 hatte der Verlag eine Übersicht des Absatzes von „Corsica“ (1854) beigefügt, dem ein Absatz von 1854 bis 1862 von 846 Exemplaren zu entnehmen war (DLA Marbach, Cotta-Archiv, Cotta-Briefe, 56a).</note></seg>, welche Sie mir freundlich haben ausziehen laßen, ist mir eine bittere Täuschung erwachsen. <seg type="comment"><orig>Im Jahre 1860 wurde mir der Betrag der davon verkauften Exemplare obenhin auf 900 angegeben. Es war dies also ein Irrtum</orig><note xml:id="nrvh_tdj_cmb">Siehe den Brief von Gregorovius an Cotta vom <ref target="G000137">20.12.1861</ref>; auf der Rückseite des Briefes hatte der Verlag für die ersten drei Bände seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1860) zwischen 500 und 600 verkaufte Exemplare dokumentiert; der Verkauf von „Corsica“ (1854) war bis Ende 1861 mit 806 Exemplaren angegeben worden. </note></seg>. Wir alle werden uns verwundern müßen, daß ein Buch, dessen Wert im In- u<ex>nd</ex> Auslande allgemein anerkannt ist, in Deutschland sich nicht <supplied cert="high">hat</supplied> ausverkaufen können, während in <seg type="comment"><orig><placeName key="G000599">England</placeName> u<ex>nd</ex> <placeName key="G000607">Amerika</placeName> davon Tausende von Exemplaren in der <bibl corresp="G004435 G004436 G004437">Über-<pb n="2r"/>setzung</bibl> verbreitet worden sind</orig><note xml:id="npk2_wdj_cmb">Es sind bald nach dem ersten Erscheinen 1854 drei englischsprachige Übersetzungen gedruckt worden: Corsica in its Picturesque, Social, and Historical Aspects. The Record of a Tour in the Summer of 1852. By Ferdinand Gregorovius. Translated by Russell Martineau. London: Longman, Brown, Green 1855 – Wanderings in Corsica: Picturesque, Historical and Social. With a Sketch of the Early Life of Napoleon, and an Account of the Bonaparte, Paoli, Pozzo Di Borgo, and other Principal Families. Suggested by a Tour in the Island in 1852. Translated by Edward Joy Morris. Philadelphia: Parry &amp; M’Millan 1855 – Wanderings in Corsica: Its History an its Heroes. Translated from the German of Ferdinand Gregorovius by Alexander Muir. 2 Bde. Edinburgh: Constable and Co. 1855.</note></seg>. <seg type="comment"><orig><persName key="G001406">Herr <hi rendition="#aq">Russell-Martineau</hi></persName></orig><note xml:id="nw3n_ydj_cmb">Der aus Dublin stammende Orientalist Russell Martineau (1831–1898) übernahm die Edinburgher Übersetzung von „Corsica“.</note></seg>, welcher davon die beste englische Übersetzung machte, erzählte mir in Rom, daß in wenig Monaten nach dem Erscheinen derselben <seg type="comment"><orig>1500 Exemplare abgesetzt wurden</orig><note xml:id="nntt_c2j_cmb">Russell Martineau hatte ihm auch erzählt, dass die Hälfte der Auflage von 3000 Exemplaren bei Longman in London verbrannt sei (siehe RT, 20.4.1863, S. 160).</note></seg>. In demselben Verhältniß sind die andern beiden Übersetzungen verkauft worden.</p>
+<p>Ich betrachte als ein <seg type="comment"><orig>Hinderniß des Buches in <placeName key="G000664">Deutschland</placeName> das Format seiner Ausstattung, welches nicht ansprechend genug ist, u<ex>nd</ex> ihm einen zu schwerfälligen Charakter verleiht</orig><note xml:id="nvtp_d2j_cmb">Gregorovius hatte sich schon seinerzeit bei Johann Georg von Cotta beschwert, dass sein „Corsica“ als Teil der „Sammlung Reisen und Länderbeschreibungen der älteren und neuesten Zeit“ gedruckt wurde (siehe den Brief von <ref target="G000006">Gregorovius an Cotta, 20.5.1853</ref>).</note></seg>. Am Preise liegt es sicherlich nicht, welchen die Buchhandlung doch höchst billig gestellt hat. Ich denke darüber nach, wie nun diesem Buche könnte Leben von neuem eingeflößt werden, oder ich erlaube mir, Sie geehrter Herr, zu bitten, sich desselben anzunehmen, ob vielleicht sich ein Mittel auffinden ließe, ihm fortzuhelfen. Vielleicht opfern Sie, wenn der Verkauf die Zahl 1000 erreicht, die übrigen Exemplare, u<ex>nd</ex> machen dann eine <seg type="comment"><orig>angemessenere Edition</orig><note xml:id="ns3l_f2j_cmb">Eine selbständige, veränderte Neuauflage erschien erst 1869.</note></seg>. Von den <seg type="comment"><orig><bibl sameAs="G003114">„Figuren“</bibl>, einer Sammlung kleiner, meist in der <orgName key="G000462">Allg<ex>emeinen</ex> Zeit<ex>ung</ex></orgName> erschienener Artikel, welche nicht im Entferntesten den Wert von Corsica haben, wird jetzt die <bibl sameAs="G003122">zweite Ausgabe</bibl> gedruckt</orig><note xml:id="nmmn_g2j_cmb">Die zweite Auflage seiner „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) erschien 1864 bei Brockhaus in Leipzig als Band 1 unter dem Reihentitel „Wanderjahre in Italien“.</note></seg>.</p>
+<p>Ich zeige den <seg type="comment"><orig>Empfang von 18 <hi rendition="#aq">Flor<ex>ins</ex></hi> als Honorar für Artikel an, u<ex>nd</ex> spreche mein <pb n="2v"/>Bedauern aus, daß die angestrengte Arbeit für die Geschichte der Stadt, mich hindert, mehr für die Allg<ex>emeine</ex> Zeitung zu schreiben</orig><note xml:id="nec4_h2j_cmb">Im vorangehenden Schreiben an Gregorovius hatte Roth bedauert, dass das Honorar für die Artikel des vergangenen Halbjahrs nicht höher ausgefallen war (18.7.1863, DLA Marbach, Cotta-Archiv, Kopirbuch V, S. 485). Die Honorarabrechnung des Verlags war ihm am 3. August 1863 zugesandt worden (DLA Marbach, Cotta-Archiv, Kopirbuch V, S. 486). Zuletzt war von Gregorovius ein Nachruf des am 25. Mai 1863 in Rom plötzlich an einem Gehirnschlag verstorbenen norwegischen Historikers Peter Andreas Munch (*1810; siehe RT, 17.5.-24.6.1863. S. 160–162) in der „Allgemeinen Zeitung“ erschienen (Nr. 160. Augsburg: Cotta 9.6.1863. S. 2641–2642).</note></seg>.</p>
+<p>Ich bin <seg type="comment"><orig>auf der hiesigen <orgName key="G000510">Bibliothek</orgName> noch den ganzen August über beschäftigt</orig><note xml:id="nicv_j2j_cmb">Gregorovius blieb bis zum 30. August 1863 in München. Nach einer einwöchigen Reise nach Bad Reichenhall, Berchtesgaden und Salzburg kehrte er am 5. September 1863 für weitere fünf Tage nach München zurück (siehe RT, 1.-9.9.1863, S. 166–167).</note></seg>.</p>
+                <closer>
+<salute>Mit großer Hochachtung wünsche ich, sehr geehrter Herr, Ihnen empfohlen zu sein</salute>
+<signed rendition="#c">F. Gregorovius.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

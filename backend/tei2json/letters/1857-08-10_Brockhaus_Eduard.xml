@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000041">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Eduard Brockhaus in Leipzig. Olevano, 10. August 1857</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (44)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 8°, 2 ¼ S. – 2v alR, Blatt um 90° gedreht, Eingangs- und Beantwortungsvermerk: 1857. / <hi rendition="#aq">Olevano</hi><hi rendition="#sup">b</hi>/<hi rendition="#aq">Rom</hi> 10/20. <hi rendition="#aq">Aug</hi>. / <hi rendition="#aq">Gregorovius</hi>. / B. 3/XI. </p>
+<p>Manuskript der zweiten Fassung der Zueignung des „Euphorion“ für Paolo Perez</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Mit dem Erscheinen seines „Euphorion“ (1858) im Herbst ist er einverstanden. Da er Rom mittlerweile verlassen hat, kann er die Vorlagen der Zeichnungen für das Titelblatt und die Kapitelanfänge nicht mehr liefern. Er wünscht eine pompeijanische Zeichnung auf dem Einband. Er übersendet eine überarbeitete Fassung der Zueignung an Paolo Perez, die erste soll verworfen werden. Heute schickt er auch die letzten Druckfahnen zurück.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He agrees to have his „Euphorion“ (1858) published in the fall. Since he has left Rome in the meantime, he can no longer provide the sketches for the drawings on the title page and the beginnings of the chapters. He would like a Pompeian drawing on the cover. He sends a revised version of the dedication to Paolo Perez, the first is to be discarded. Today he is also sending back the last galley proofs. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000744">Olevano Romano</placeName>
+                    <date when="1857-08-10" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+<persName key="G000995">Brockhaus, Eduard (1829–1914)</persName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next">3. November 1857</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Olevano bei
+                            Rom</hi>
+                        <lb/>10. <hi rendition="#aq">August</hi> 1857.</dateline>
+                </opener>
+                <p>Ihr Schreiben, geehrter Herr, wie die Correcturen aus der Druckerei sind mir richtig zugegangen. Es war nicht meine Absicht, den Druck des<bibl sameAs="G003574"> Euphorion</bibl> zu beschleunigen, da Ihre Anordnung, das Gedicht erst im Herbst herauszu<choice><sic>ge</sic><corr type="deleted"/></choice>geben, selbstverständlich auch in meinen Wünschen lag, <seg type="comment"><orig>ich wünschte nur eine Beantwortung meines Briefs u<ex>nd</ex> dessen, was ich Ihnen darin verschlug</orig><note xml:id="nmwr_1y5_slb">Im Brief an Brockhaus vom <ref target="G000058">3.5.1857</ref> hatte Gregorovius das Honorarangebot für sein Versgedicht „Euphorion“ (1858) angenommen und um baldmögliche Zusendung der Druckfahnen gebeten; am 27.6.1857 (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 43) hatte er die Zusendung der Druckfahnen noch einmal angemahnt.</note></seg>. <seg type="comment"><orig>Meine Entfernung von <placeName key="G000763">Rom</placeName></orig><note xml:id="nub4_fy5_slb">Gregorovius war am 28. Juni von Rom über Subiaco und Olevano am 3. Juli nach Genazzano gereist, wo er bis zum 1. September 1857 blieb (siehe RT, 2.7.-5.9.1857, S. 67–68).</note></seg> machte es mir nun unmöglich, <seg type="comment"><orig>Ihnen einige <placeName key="G000755">pompejanische</placeName> Randzeichnungen zukommen zu laßen</orig><note xml:id="nnwd_hmv_slb">Im Brief an Brockhaus vom <ref target="G000058">3. Mai 1857</ref> hatte Gregorovius vorgeschlagen, das „Titelblatt mit einem jener feinen Arabeskenränder“und vor „jedem Gesange eine kleine Arabeske zeichnen“ zu lassen und angeboten, von Rom aus die Vorlagen hierfür zu liefern.</note></seg>. Mögen solche <seg type="comment"><orig>der <bibl sameAs="G003575">zweiten Ausgabe</bibl> zu Gute kommen, wenn das Gedicht sie erleben sollte. Es scheint, daß es sich wol zu Weihnachtsgaben eignen u<ex>nd</ex> so die rechte Zeit treffen wird</orig><note xml:id="njh4_dnv_slb">Der Druck verzögerte sich bis 1858. Nur die als „Illustrierte Prachtausgabe mit Original-Compositionen von Theodor Grosse“ erschienene Quartausgabe seines „Euphorion“ 1872 enthielt die gewünschten Zeichnungen vor jedem Gesang.</note></seg>. Das Publicum liebt heute die bestechende Eleganz – u<ex>nd</ex> deshalb würde es erwünscht sein, wenigstens auf den <seg type="comment"><orig>Deckel des Einbandes einen pompejanischen Rand in Gold aufpreßen zu laßen; diese Zeichnung macht jeder Zeichner oder Architect in Ihrer Nähe; ein solcher Schmuck würde das Büchlein eben als eine Dichtung aus Pompeji recht gut charakterisiren</orig><note xml:id="nap4_fnv_slb">Der Einband wurde mit einer architektonischen Zeichnung versehen, die den Geschmack von Gregorovius gar nicht traf (siehe den Brief von <ref target="G000031">Gregorovius an Brockhaus, 2.1.1858</ref>).</note></seg>. Sollten Sie, geehrter Herr, nicht damit übereinstimmen, u<ex>nd</ex> sich auf einen schlichten Einband beschränken, wie Sie ihn<note place="mBottom" hand="#addressee">Rücken / Gregorovius / Vorn. / Euphorion […]</note> <pb n="1v"/>den <bibl sameAs="G003430">Grabmälern</bibl> geben, so bitte ich nur dies: dem Buchbinder aufzugeben, den einfachen Titel Euphorion auf die Fläche des Deckels selbst, u<ex>nd</ex> nicht auf den Rücken zu preßen. Der Titel auf den Grabmälern sieht nicht gut aus.</p>
+                <p><note place="left" hand="#addressee">–</note>Ich habe aus der Druckerei mit der letzten Correctur nicht die <seg type="comment"><orig>Widmung an <persName key="G001483"><hi rendition="#aq">Paul Perez</hi></persName> erhalten, u<ex>nd</ex> kann mich schlechterdings nicht mehr erinnern, ob ich sie dem Manuscript beilegte oder nicht</orig><note xml:id="neh2_jnv_slb">Die hier zurückgezogene, auf den 1. März 1857 datierte Widmung seines „Euphorion“ für seinen Freund, den Veroneser Dante-Kenner Paolo Perez (1822–1879), der zum Entsetzen von Gregorovius am 28. September 1856 in den Orden der Rosminianer in Stresa eingetreten war, hat sich im Brockhaus-Archiv erhalten (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 38 – Faksimile: Berühmte Autoren des Verlages F. A. Brockhaus Leipzig. Leipzig: Brockhaus 1914. Zwischen S. 32 und 33).</note></seg>. In jedem Falle habe ich den ersten Entwurf verworfen, bitte ihn zu cassiren, wenn er sich vorfindet, u<ex>nd</ex> diese<del rendition="#s">r</del> kürzere u<ex>nd</ex> <seg type="comment"><orig>passendere Widmung vordrucken zu laßen</orig><note xml:id="np5g_ynv_slb">Die dann gedruckte Widmung ist auf Frühjahr 1857 datiert.</note></seg>. Es wäre mir erwünscht wollten Sie mir von ihr noch einen Abklatsch zusenden, wenn auch nicht mehr zur Correctur, so doch zu meiner Beruhigung u<ex>nd</ex> Gewißheit.</p>
+                <p>Ich sende mit dem heutigen Datum auch die letzten Correcturbogen an die Druckerei
+                    zurück, u<ex>nd</ex> bemerke für den Fall, daß einer oder der andere auf der
+                    Post sich verlieren sollte, daß ich ein genaues Verzeichniß aller Druckfehler
+                    mir zurückbehalten <pb n="2r"/>habe.</p>
+                <p>So ist demnach eine <seg type="comment"><orig>vierte meiner Schriften oder Versuche in Ihrem geehrten Verlag</orig><note xml:id="nadp_znv_slb">Vor „Euphorion“ waren Gregorovius’ „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) und seine Übersetzung der „Lieder des Giovanni Meli von Palermo“ (1856) erschienen. Seine „Grabmäler der Römischen Päpste. Historische Studie“ wurden 1857 ausgegeben.</note></seg>, mir zur Freude – u<ex>nd</ex> möchten auch Sie so, wie ich wünsche, mit dem Abgang dieses Gedichts zu seiner Zeit zufrieden sein!</p>
+                <closer>
+                    <salute rendition="#c">Mit großer Hochachtung, geehrtester Herr, <lb/>Ihr
+                        ergebenster </salute>
+                    <signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

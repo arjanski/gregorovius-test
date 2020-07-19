@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000131">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Raffaele Mariano in Rom. Traunstein, 14. Juli 1874</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno> <idno type="shelfmark"/> </idno>
+                            </msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno> <idno type="shelfmark"/> </idno>
+                            </msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er lobt Marianos Replik („La Lucrezia Borgia del Gregorovius nella Nuova Antologia“, 1874) auf Emilia Ferretti Violas kritische Rezension („La Verità Storica Intorno a Lucrezia Borgia“, 1874“) zu seiner „Lucrezia Borgia“ (1874). Er hat ihr gestern geschrieben, ohne auf ihre Rezension einzugehen. Dem Herausgeber Francesco Protonotari hat er seine Besprechung von Hans Prutz’ „Kaiser Friedrich I.“ („L’Imperatore Frederico I (Barbarossa) di Giovanni Prutz“, 1874) geschickt. Er wird Rom morgen verlassen, um nach München überzusiedeln. Er sieht seine wissenschaftliche Mission mit dem Abschluss der „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) erfüllt.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName>
+                    <date when="1874-07-14" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000763">Rom</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Roma 14. Luglio 1874.</dateline>
+                    <salute rendition="#c">Caro amico Mariano,</salute>
+                </opener>
+                <p>ho letto <seg type="comment"><orig>il <bibl sameAs="G002112">suo articolo</bibl> nel <orgName key="G000518">Diritto</orgName></orig><note xml:id="nwv2_rnn_zlb">Marianos Beitrag „La Lucrezia Borgia del Gregorovius nella Nuova Antologia“ in „Il Diritto. Giornale della Democrazia Italiana“ (Jg. 21. Nr. 193. Rom 12. Juli 1874. S. 3) war eine Replik auf Emilia Ferretti Violas Rezension „La Verità Storica Intorno a Lucrezia Borgia“ in der „Nuova Antologia di Scienze, Lettere ed Arti“ (Bd. 26, 1874. S. 573–608).</note></seg>.Egli è fortemente sentito, buono, e corrisponde allo scopo. Per vero sarà un colpo grave per la povera <persName key="G001129">Emma</persName> . Ma meglio va per lei, spargere qualche lagrima amara, che avviarsi di bel nuovo su sentieri falsi, dove non può che perdersi interamente. Ieri le mandai <seg type="comment"><orig>una lettera</orig><note xml:id="nnmh_snn_zlb">Dieser Brief ist nicht überliefert; in zwei Briefen, die Gregorovius im Vorfeld ihrer Rezension an Ferretti Viola schickte, erhoffte er sich noch eine positive Besprechung seiner 1874 veröffentlichten „Lucrezia Borgia“ (4.5. und 28.6.1974).</note></seg> tutta gentile e di sincero ringraziamento, senza accennarvi punto all’articolo. <seg type="comment"><orig>Spedii anche quella piccola rassegna, <choice><orig>scrtta</orig><reg>scritta</reg></choice> da me sul  <bibl corresp="G004321">libro del Prutz</bibl>,al <persName key="G001510">Protonotari</persName></orig><note xml:id="nmxj_zhk_1mb">Der Historiker Hans Prutz (1843–1929), Sohn des Schriftstellers und Publizisten Robert Eduard Prutz (1816.1872), war 1863–1872 Gymnasiallehrer in Danzig, bevor er an die Friedrich Werderschen Gewerbeschule in Berlin ging und sich alsbald habilitierte. Francesco Protonotari (1836–1888) war ein Ökonom und Verleger, verantwortete seit 1866, Gründungsjahr, beim Florentiner Verlagshaus Le Monnier die Herausgabe der Zeitschrift „Nuova Antologia. Scienze, lettere ed arti“. Diese galt als Fortsetzung von Giovan Pietro Vieusseux’ (1779–1863) „Antologia“ und zählt heute zu den ältesten, renomiertesten Zeitschriften Italiens. Unter Protonotari nahm die Zeitschrift Beiträge von Wissenschaftlern, Schriftstellern und Künstlern auf, darauf achtend, nicht nur akademisch ausgerichtet zu sein. Siehe auch den Brief von Gregorovius an Francesco Protonotari (1836–1888) vom 12.7.1874.</note></seg>.</p>
+                <p>Ho disfatta dunque la mia cosa, dopo quattordici anni, che vi stetti tutto immerso negli studi. <seg type="comment"><orig>Domani partirò per <placeName key="G000734">Monaco</placeName></orig><note xml:id="ndrn_xnn_zlb">Zunächst hielt er sich ab 19. Juli mit seinem Bruder Julius in Traunstein auf; ab dem 10. September ließen sich die beiden dann in München nieder (Briefe von Gregorovius an Raffaele Mariano, 2.8. und 20.9.1874).</note></seg>, non sò ancora precisamente se di giorno o di notte. I motivi che concorrevano a farmi prendere una determinazione cosi grave, sono urgenti e direi quasi <pb n="1v"/>di suprema necessità. Ho finito oramai la mia missione in Roma, e non vorrei per ciò sopravivere a me stesso, in questa città. <seg type="comment"><orig>Le lascio</orig><note xml:id="nkp1_znn_zlb">Am 14. Juli notiert Gregorovius in seinem Tagebuch: „Mein Entschluß steht fest: mit meinen Geschwistern in Deutschland mich wieder zu vereinigen. Meine Mission in Rom ist beendigt. Ich war hier ein Botschafter in bescheidenster Form, doch vielleicht in einem höheren Sinn als diplomatische Minister. Ich kann von mir sagen, was Flavius Blondus von sich gesagt hat: ich schuf, was noch nicht da war, ich klärte elf dunkle Jahrhunderte der Stadt auf und gab den Römern die Geschichte ihres Mittelalters. Das ist mein Denkmal hier. So darf ich ruhig von hinnen gehen.“ (S. 342–343).</note></seg> <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">un monumento</bibl>, che pur durerà qualche anno. Ed è questo <add place="superlinear">anche</add> un legame, che <del rendition="#s"> <gap reason="illegible" quantity="1" unit="words"/> </del> mi stringerà per sempre e mi legherà a Roma. Per altro (mi duole, di dover dirlo franc<del rendition="#s">h</del>amente) pochi saranno quà, che da veri amici, al paro di lei, avranno desiderio di me. Anzi, ho qualche argomento, onde credere, che ogni giorno vieppiù forte si fa contro di me, se non la gelosia, almeno un certo orgoglio nazionale, il quale non mi perdona, di aver scritto da forestiere la storia della città. E forse non isbaglio troppo, se mi paragono al <seg type="comment"><orig><persName key="G001640">Teodorico</persName> re dei Goti</orig><note xml:id="ntq4_14n_zlb">Teodorico re dei Goti = Theoderich der Große (453–526) rex der Ostgoten aus dem Geschlecht der Amaler.</note></seg>, il quale dopo lunghissimi anni <pb n="2r"/>di governo dolce anzichenò, e di tante dimostrazioni d’affetto a Roma, un dì ritrovò se stesso straniero fra i Romani quanto mai lo era stato il primo giorno della sua venuta in Roma.</p>
+                <p>Ma staccarmi di Roma assolutamente, <seg type="comment"><orig>è cosa impossibile per me</orig><note xml:id="nf5q_b4n_zlb">Am 14. Juli notiert Gregorovius in seinem Tagebuch: „Doch ist es ein Ungeheures, daß all dies innerste und lebendigste Leben meines Selbst jetzt zu einer Vergangenheit wird. In dieser Zeit fuhr ich oft nachts aus dem Schlaf empor, geweckt und gezogen von dem schreckenden Gedanken, daß ich Rom verlassen werde. Und niemand hier hält das für möglich. Es ist ein plötzliches Losreißen, wie Sturm einen Baum entwurzelt. Als ich gestern vom Kapitol herabkam, war es mir, als riefen Monumente, Bildsäulen und Steine mich laut bei Namen“. (S. 343)</note></seg>, perché vi lascio indietro la miglior parte di vita mia. Sono libero anche di tornarvi, qualora non mi convenisse lo stare nei paesi freddi. E per ogni caso vi sono le vie di ferro, che <del rendition="#s"> <add place="superlinear">mi</add> </del> prestamente mi ricondurr<add place="superlinear">er</add>anno a Roma.</p>
+                <p>Vado incontro ad una vita nuova, finora sconosciuta a me stesso; e la voglio
+                    incontrare con fortezza di animo.</p>
+                <closer>
+                    <salute>Caro amico Mariano, vi stringo la mano affettuosamente. Vogliate mi bene, e sappiate che dovunque io s<add place="intralinear">t</add>ia in avvenire, sarò il vostro amico sincero.</salute>
+                    <signed rendition="#right">FGregorovius</signed>
+                    <note type="postscript">Il mio indirizzo è per tutta l’estate München, Buchhandlung <orgName key="G000555">Riedel</orgName>. </note>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

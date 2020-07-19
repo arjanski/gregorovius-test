@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000199">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Rom. München, 28. Februar 1876</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt></titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 2 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er hat von Karl Lindemann-Frommel den Artikel „La cittadinanza al Gregorovius“ (1876) erhalten, in dem Filippo Cagiati die Petition des römischen Gemeinderats zu seiner Ernennung zum Ehrenbürger von Rom verteidigt. Seine Reise nach Rom verschiebt er wegen des Trubels um seine Person auf Mitte März 1875 und wird in acht Tagen zunächst nach Venedig aufbrechen. Er soll ihm Näheres zur Debatte über seine Ehrenbürgerschaft mitteilen. Er möchte die im Sterben liegende Auguste Lindemann-Frommel noch einmal sehen. Domenico Guglielmi hat er geschrieben. Grüße an die Familien von Adelheid Grunelius und Clemente Maraini. </p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1876-02-28" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Monaco. 28. Feb<ex>b</ex>r<ex>aio</ex> 1876.</dateline>
+                    <salute>Caro amico Mariano,</salute>
+                </opener>
+                <p><seg type="comment"><orig>un numero della <orgName key="G000526">Libertà</orgName>, credo del 26. feb<ex>braio</ex>,</orig><note xml:id="nkdc_jbw_zlb">La cittadinanza al Gregorovius. In: La Libertà. Gazzetta del Popolo Giornale Politico Quotidiano. Jg. 7. Nr. 57. Rom 26.2.1876. S. 2.</note></seg> che mi venne spedito dal <persName key="G001375">Lindemann</persName>, mi persuase, di differire la mia partenza per Roma. Difatti sono rimasto qui, giacchè non mi conviene, di far comparsa nella città, <subst><del rendition="#s">dove</del><add place="superlinear">in questo momento proprio, che</add></subst> <seg type="comment"><orig>sono stato causa di qualche agitazione di partiti</orig><note xml:id="nzvb_kbw_zlb">Am 12. Februar stellten die Abgeordneten des römischen Gemeinderats Filippo Cagiati (*1821), Augusto Ruspoli (1817–1882), Ignazio Ciampi (1824–1880) und Quirino Leoni (1828–1897) einen Antrag, Gregorovius als Verfasser der „Geschichte der Stadt Rom im Mittelalter“ die Ehrenbürgerwürde Roms zu verleihen. Die am 14. Februar in der Tageszeitung „Perseveranza“ publizierte Petition war zunächst angefechtet worden, was eine Verteidigung Gregorovius’ durch Cagiati in der „Libertà“ nach sich zog (Jahr VII, Nr. 57, 26.2.(1876)). Cagiati widerlegte eine angeblich zu stark deutsche Haltung des Historikers. Gregorovius klebte den besagten Artikel in sein römisches Tagebuch (S. 540–541). Im Tagebuch reflektiert Gregorovius über die Unterzeichner des Antrags genauso wie über die unter dem Text fehlenden Namen. So schreibt er zum einen, dass die Petition, die von ihm nicht nahestehenden Personen initiert worden war, seine wahren Freunde wie beispielsweise die Familie Caetani beschämt hat. Zum anderen merkt er an, dass Unterschriften wie zum Beispiel jene von Giovanni Battista De Rossi (1822–1894) fehlten, was ihn offensichtlich nicht unberührt ließ. Einige der Unterzeichner kannte er nicht, über das Auftauchen anderer Namen freute er sich; siehe RT, 1.3.1876, S. 361–362. In seiner Sitzung vom 8. März wurde dem Antrag schließlich stattgegeben.</note></seg>, mentre si combatteva nel <placeName key="G000761">Campidoglio</placeName> intorno ad un onore sommo, da conferir<subst><del rendition="#s">mi</del><add place="superlinear">e</add></subst> <add place="intralinear">a me</add> – onore, che avrei dovuto accogliere colla massima soddisfazione, ove mi fosse <add place="superlinear">stato</add> contribuito senza quel fracasso, che vi fa fatto<add place="superlinear"> intorno</add>, e anzitutto senza la contrarietà di una gran parte dei cittadini Romani. Ed era appunto suo questa riflessione che la <add place="superlinear">ebbi</add> pregato, di farmi avvertito del modo, in cui codesto atto verrebbe <add place="superlinear">messo</add> a deliberazione ossia ad che ragione, acciochè <del rendition="#s">mi</del> potessi regolare la mia condotta secondo quel che mi sarebbe dato ad intendere. Lei sarà in possesso di questa mia appena fatta la determinazione del consiglio <pb n="1v"/>comunale, quindi o già sarà informato del modo, con cui era proceduta la cosa, o facilmente potrà raccoglierne qualche informazione esatta. Perciò ritorno a pregarla, di scrivermi tostamente due righe. Vi starò in Monaco forse altri otto giorni, poi probabilmente andrò a <placeName key="G000894">Venezia</placeName>, di modo che <seg type="comment"><orig>non giungerò a Roma prima della metà del mese venturo</orig><note xml:id="nezx_kbw_zlb">Gemeinsam mit dem Sohn seines Malerfreundes Karl August Lindemann-Frommel (1819–1891), Manfred (1852–1939), sollte Gregorovius am 10. März von München Richtung Italien aufbrechen. In Rom traf er am 18. des Monats ein (siehe RT, 20.5.1876, S. 363).</note></seg>. E non vi farei ritorno senza quell’obligo <del rendition="#s"><gap reason="illegible" quantity="3" unit="words"/></del> impostomi dall’amicizia che mi lega coi Lindemann, massimamente desiderando di far cosa grata alla nostra comune <seg type="comment"><orig><persName key="G001374">amica</persName></orig><note xml:id="nx3y_lbw_zlb">Auguste Lindemann-Frommel verstarb nach längerer Krankheit am 18. März: „Ich kam jetzt als Ehrenbürger in die Stadt, aber in dies frohe Bewußtsein fiel als Schatten der Tod meiner Freundin, welche durch so lange Jahre die Zeugin meiner Arbeiten und in vieler Hinsicht auch mein guter Genius gewesen war. Ich fand sie noch lebend, der Anblick ihres Todeskampfes war herzerschütternd. Sie erkannte mich noch. Ihr letztes Lächeln galt der Freude, daß ich gekommen war. Um 11 Uhr nachts verschied sie. Wir begruben sie an der Pyramide des Cestius am 21. März […]. Der Tod dieser herrlichen Frau bezeichnet einen Abschnitt in meinem Leben; denn mit ihr begrub ich in Rom einen großen Teil von dem, was seit langen Jahren hier meinem Gemüt Pflege und Ermunterung gegeben hatte. Diese Stelle ist nun leer und in das Reich der Erinnerungen fortgerückt wie so vieles andere.“ (RT, 20.5.1876, S. 363–364).</note></seg>. Però non esito a dire, che il distaccarmi dalla mia casa, e il raggirarmi per l’<placeName key="G000690">Italia</placeName> senza alcuno scopo mi costa molta pena. Per altro sarò contento di rivedere alcuni amici, e fra loro lei. Scrissi ne <persName key="G001221">Guglielmi</persName> una lettera di conforto – <seg type="comment"><orig>ma quel disgraziato giovine tace</orig><note xml:id="nyty_mbw_zlb">Er erhielt Antwort im April (siehe die Briefe von Gregorovius an Raffaele Mariano, 18.4.1876)</note></seg>, e cosi fà pena a me e al mio <persName key="G001203">fratello</persName>, chè dipingiamoci lui in uno stato di prosternazione penosa. Me ne dica qualcosa. Saluto la famiglia <seg type="comment"><orig><persName key="G001215">Grunelius</persName></orig><note xml:id="nqcx_nbw_zlb">Die in Baden-Baden wohnhafte Adelheid Grunelius, geb. Fecht (1813–1887), Witwe des Frankfurter Bankiers Moritz Eduard Grunelius (1803–1846) und Mutter von Wilhelmine Tachard-Grunelius (1836–1927), die seit 1851 immer wieder für längere Aufenthalte nach Rom gekommen war. Gregorovius scheint sie erst bei einem Romaufenthalt von November 1861 bis Mai 1862 kennengelernt zu haben; es entwickelte sich schnell ein freundschaftliches Verhältnis. Später besuchte Gregorovius sie des Öfteren in der Villa Grunelius in Baden-Baden.</note></seg>, e i <seg type="comment"><orig><persName key="G001398">Maraini</persName></orig><note xml:id="nkkw_4bw_zlb">Ingenieur und Eigentümer des römischen Journals „Il Diritto“.</note></seg>.</p>
+                <closer>
+<salute rendition="#right">Tutto suo</salute>
+<signed rendition="#right">FGr. <lb/><note type="postscript" rendition="#rotate90" place="left">Prego anche di spedirmi dei fogli, che discorrino di questo affare, anche di quei che stanno dalla parte contraria.</note></signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

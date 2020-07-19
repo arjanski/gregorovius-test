@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000243">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an August Joseph Altenhöfer in Augsburg. Rom, 21. Januar 1867</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GhStA Berlin</repository><collection>NL Waldemar Kampf</collection><idno>Karton 88, Mappe 9</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 1 ½ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 82, Mappe 2</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er kündigt dem Herausgeber der „Allgemeinen Zeitung“ die Übersendung des Manuskripts seines Artikels „Das Reich. Rom und Deutschland. Bei Gelegenheit von ‚The Holy Roman Empire‘, von James Bryce“ an.  Im Falle des Abrucks soll in einer Anmerkung auf den im Druck befindlichen sechsten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1867) und auf die in Venedig erschienene italienische Übersetzung des ersten Bandes (1866) hingewiesen werden.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1867-01-21" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G000919">Altenhöfer, August Joseph (1804–1876)</persName>
+<placeName key="G000620">Augsburg</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right"><hi rendition="#aq">Rom</hi>, 21. <hi rendition="#aq">Januar</hi> 1867.</dateline>
+<salute rendition="#c">Verehrter <seg type="comment"><orig>Herr u<ex>nd</ex> Freund</orig><note xml:id="nb52_zgn_gmb">Der Jounalist und Gelegenheitsdichter August Joseph Altenhöfer (1804–1876) war nach seinem Studium in Würzburg für kurze Zeit Assistenzlehrer am Augsburger Gymnasium. Ab 1833 war er Herausgeber der „Augsburger Postzeitung“ und zählte schon bald zu den wichtigsten Redaktionsmitgliedern der „Allgemeinen Zeitung“. Nach dem Tod des Chefredakteurs Gustav Kolb (1798–1865) hatte er dessen Funktion übernommen. Gregorovius hatte ihn im Herbst 1855 in Rom kennengelernt, „einige angenehme Tage“ mit ihm verbracht und am 11. September 1855 einen Ausflug nach Tivoli unternommen (siehe RT, 13.9.1855, S. 57). Im Juli 1860 hatte Gregorovius ihn in Augsburg besucht, der ihm über seinen Wohnort verriet, dass dort „kein geistiges, nicht einmal ein geselliges Leben existiere. Nur 60 Exemplare der Zeitung würden in Augsburg selbst abgesetzt“ (siehe RT, 28.7.1860, S. 106). Eine erneute Begegnung ist Ende August 1868 belegt, als Gregorovius mit Altenhöfer den Weiterdruck seiner „Geschichte der Stadt Rom im Mittelalter“ besprach (siehe RT, 20.9.1868, S. 252).</note></seg>,</salute>
+</opener>
+<p>es ist auf Grund meiner mich ganz occupirenden Arbeit, eine geraume Zeit vergangen, seit ich zum letzten Male das Vergnügen hatte, einen Beitrag für die <orgName key="G000462">Allg<ex>emeine</ex> Zeit<ex>ung</ex></orgName> einzuliefern. Nun bin ich im Stande, Ihnen einen solchen einzuliefern, u<ex>nd</ex> erlaube mir Ihnen anzukündigen, daß ich ihn direct mit der französischen Post an Sie absende. Es ist dies ein längerer Aufsatz unter dem Titel: „<bibl corresp="G003924 G003925 G003926 G003927 G003928 G003929">Das Reich, Rom u<ex>nd</ex> Deutschland; bei Gelegenheit von James Bryce <foreign xml:lang="eng">The Holy Roman Empire</foreign></bibl>.“ Er wird fast einen Druckbogen betragen. Da er eine Entwicklung der Idee des Reichs bis auf unsre Tage enthält, so dürfte er lesenswert genug sein. Mögen Sie demnach darüber urteilen, u<ex>nd</ex> <seg type="comment"><orig>ihn abdrucken</orig><note xml:id="nesx_zgn_gmb">Der Artikel erschien in sechs Folgen unter dem Titel „Das Reich. Rom und Deutschland. Bei Gelegenheit von ‚The Holy Roman Empire‘, von James Bryce, Neue Ausgabe, London 1866“ vom 10.-15.2.1867 in der „Allgemeinen Zeitung“. Er kam im 4. Band seiner „Wanderjahre in Italien“ (1871) erneut zum Abdruck.</note></seg>, wenn er Ihnen convenirt. Im andern Falle bitte ich Sie um die Gefälligkeit, mir zu schreiben, daß Sie ihn nicht annehmen, damit ich weiter über ihn verfügen kann. Wenn er zum Abdruck kommt, so würde ich dringend darum bitten, mir einen (oder vielleicht 2) Abzug davon per Kreuzband nach Rom (<hi rendition="#aq">Via Gregoriana n<ex>umero</ex></hi> 13) gelangen <pb n="1v"/>zu lassen. Sie würden mich ferner, um einer unschuldigen Propaganda meines Werks willen, verbinden, wenn Sie, vielleicht am <seg type="comment"><orig>Schluß des Artikels anmerkten, daß der <bibl sameAs="G003448">VI. Band der Gesch<ex>ichte</ex> der Stadt Rom im Mittelalter</bibl> in der Preße ist, u<ex>nd</ex> daß die italienische Ausgabe dieses Werks (<hi rendition="#aq">Venedig</hi> bei <hi rendition="#aq">Antonelli</hi> u<ex>nd</ex> Turin bei Basadonna) im <bibl sameAs="G004366">ersten Bande</bibl> erschienen ist</orig><note xml:id="nmbq_1hn_gmb">In der ersten Folge des namentlich gekennzeichneten Artikels wurde in einer Fußnote der Redaktion Bd. 6 der „Geschichte der Stadt Rom im Mittelalter“ (1867) angekündigt und auf das Erscheinen von Bd. 1 der italienischen Übersetzung in Turin [1866] hingewiesen. In einer Notiz war in der „Allgemeinen Zeitung“ vom 29.1.1867 schon zuvor hierauf hingewiesen worden (Nr. 29. S. 462).</note></seg>.</p>
+                <closer rend="paragraph">
+<salute xml:id="s1" next="#s2" rendition="#c">Mit freundlichsten Grüßen</salute>
+<salute xml:id="s2" prev="#s1" next="#s3" rendition="#c">Verehrungsvoll</salute>
+<salute xml:id="s3" prev="#s2" rendition="#right">Ihr ergebenster</salute>
+<signed rendition="#right"><hi rendition="#aq">Gregorovius</hi>. </signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000352">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Adolf Friedrich Graf von Schack in München. Rom, 1. Juli 1872</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt> </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Mecklenburgisches Landeshauptarchiv Schwerin</repository><collection>10.9-S/6 NL Hans von Schack</collection><idno>Vol. 7a – Gregorovius (15)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¾ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 82, Mappe 6</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die Zusendung von Schacks „Lothar: ein Gedicht in zehn Gesängen“ (1872), das er als Denkmal ihrer gemeinsamen Ideen und Bestrebungen betrachtet. Es gefallen ihm die „afrikanischen Partien“ besonders, die ihm Ausdruck von Schacks poetischer Seele sind. Ihm selbst sind die poetischen und literarischen Bestrebungen unter der langjährigen wissenschaftlichen Arbeit an seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) verloren gegangen. In einer Woche wird er Rom für einen Kuraufenthalt in Hallein oder Reichenhall verlassen und dann im September nach München kommen; im Dezember will er zurück in Rom sein.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1872-07-01" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001573">Schack, Adolf Friedrich von (1815–1894)</persName>
+<placeName key="G000734">München</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right"><hi rendition="#aq">Rom</hi>, 1. <hi rendition="#aq">Juli</hi> 1872.</dateline>
+<salute rendition="#c">Lieber Freund,</salute>
+</opener>
+<p>schon längst wollte ich Ihnen herzlich danken für Ihren Brief u<ex>nd</ex> <seg type="comment"><orig>Ihren Lothar, welchen ich nun als das schöne Denkmal davon betrachten darf</orig><note xml:id="nrzq_y2l_rlb">Adolf Friedrich von Schack: Lothar: ein Gedicht in zehn Gesängen. Berlin: Hertz 1872 (siehe https://reader.digitale-sammlungen.de//resolve/display/bsb11015275.html). Das Stück ist Gregorovius gewidmet, das Widmungsschreiben ist „München im Dezember 1871“ datiert, als Gregorovius und Schack regelmäßigen Kontakt in München hatten. Zeitgleich hatte Gregorovius im Tagebuch notiert: „Schack lebt als Eremit, in seine dichterischen Arbeiten und seine Bildergalerie versenkt. Er reiste nach Venedig, um dann mit dem Großherzog von Mecklenburg [Großherzog Friedrich Franz II. von Mecklenburg-Schwerin (1823–1883)] nach dem Orient zu gehen.“ (RT, 2.12.1871, S. 312) </note></seg>, daß wir beide einander in diesem großen Wirbel „Leben“ genannt<del rendition="#s">en</del> begegnet sind, nicht nur mechanisch u<ex>nd</ex> räumlich, sondern auf einem gemeinsamen Landstrich von Ideen und geistigen Bestrebungen. <seg type="comment"><orig>Ihr Held ist, wie schon ein früherer Ihrer Poesie, ein Wandrer</orig><note xml:id="nwc1_ffl_rlb">In der Zueignung des Stücks für Gregorovius hatte Schack dies ausgeführt: „[…] dieser Lothar […] ist eine Frucht meiner früheren Wanderungen durch jene Länder, in welchen wiederholte Reisen mich fast heimisch gemacht haben und die, auf äußeren Anlaß, von Neuem zu besuchen ich mich eben jetzt anschicke. Ich schrieb ihn zum größten Theil Angesichts der Gegenden, durch welche ich meinen Helden führe, unter den Palmen und Zelten Syriens und auf dem Dache des lateinischen Klosters von Jerusalem, an den Ufern des Guadalquivir und auf der herrlichen, über dem Abgrund hängenden Alameda von Ronda, auf einer Nilbarke und inmitten der ungeheuern Trümmer des hundertthorigen Theben.“ Zuletzt hatte Schack Ende 1871–1872 Großherzog Friedrich Franz II. von Mecklenburg-Schwerin (1823–1883) und dessen dritte Gemahlin Prinzessin Marie von Schwarzburg-Rudolstadt (1850–1922) als Kammerherr und Legationsrat mit großem Gefolge nach Ägypten begleitet.</note></seg>, welcher die Welt erleidet, Ideale suchend u<ex>nd</ex> hoffend, und die schreckliche Realität des Schmerzes, des Unglücks, der Barbarei erfahrend, als ein Spielball des Ungefährs, was derjenige immer sein wird, welchem nicht eine <pb n="1v"/>aus der innersten Natur gestellte Aufgabe das eigene Gesetz gibt. Solche Existenzen der <hi rendition="#aq">Aventure</hi> wird es immer geben; sie werden im Ganzen aber seit unsrer neuesten Weltepoche seltner werden. Am schönsten erscheinen mir die <seg type="comment"><orig>afrikanischen Partien im Gedicht</orig><note xml:id="nifc_3fl_rlb">Im sechsten Gesang von Schacks „Lothar“; im Widmungsschreiben heißt es dazu: „Einiges von dem faktischen Inhalt, namentlich die Afrikanischen Abenteuer in der Episode des sechsten Gesanges, beruht auf den Erzählungen eines mitreisenden Franzosen.“</note></seg>. Ein Genius gab Ihnen, aus unversiegtem Quell der Muse fort u<ex>nd</ex> fort zu schöpfen; ich preise Sie darum glücklich. <seg type="comment"><orig>Einst regten sich auch in mir jene feineren Kräfte; doch heute bekenne ich, daß sie vielleicht ganz von mir gewichen sind</orig><note xml:id="nqnc_kfl_rlb">Im Widmungsschreiben seines „Lothar“ hatte Schack den Wunsch ausgesprochen, dass auch sein Freund Gregorovius nach Abschluss seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) sich wieder seinen literarischen Arbeiten zuwenden würde: „Ich begleite dieses Buch auf seiner Fahrt über die Alpen mit dem Wunsche, daß mein Vorgang Sie veranlassen möge, nach der bevorstehenden Vollendung Ihres großen historischen Werkes auch die Poesien, die Sie in Ihren Mappen verbergen, nich länger zurückzuhalten.“</note></seg>: ich gewöhnte mich zu sehr u<ex>nd</ex> zu lange an das scharfe Beobachten der Thatsachen u<ex>nd</ex> dessen was sie aneinander bindet: der Dichter aber oder Vater singt mit geschloßenen Augen, u<ex>nd</ex> er wird ja auch als blind gedacht.</p>
+<p>Meine „<seg type="comment"><orig>göttliche Tragödie</orig><note xml:id="nd5r_lfl_rlb">Ironische Anspielung auf die „Divina Commedia“ von Dante Alighieri (1265–1321).</note></seg>“ ist <pb n="2r"/>die <bibl corresp="G003434 G003441 G003449 G003456 G003463 G003470 G003477 G003489">Geschichte der Stadt Rom im Mittelalter</bibl> gewesen, <seg type="comment"><orig>die jetzt gerade beginnt, mir hier ein neues Leben zu verleihen</orig><note xml:id="nzwf_nfl_rlb"><p>Der achte und letzte Band seiner „Geschichte der Stadt Rom im Mittelalter“ befand sich im Druck und der römische Gemeinderat war im Begriff, deren italienische Übersetzung zu finanzieren (Venedig: Antonelli 1872–1876).</p></note></seg>. </p>
+<p>Ich will <seg type="comment"><orig>am 7. od<ex>er</ex> 8. Juli abreisen, vielleicht nach <placeName key="G000684"><hi rendition="#aq">Hallein</hi></placeName> oder <placeName key="G000762">Reichenhall</placeName>, </orig><note xml:id="nl2k_pfl_rlb">1872 reiste Gregorovius am 11. Juli aus Rom ab und traf, über Foligno und Innsbruck fahrend, am 14. Juli in Traunstein ein, wo er bis zum 12. September 1872 blieb (siehe RT, 10.9. und 11.11.1872, S. 325–327).</note></seg>wo ich Salinenbäder brauchen soll, um die Folgen <seg type="comment"><orig>jener schrecklichen Erkältung zu tilgen, die ich im December rückreisend mir zugezogen hatte</orig><note xml:id="nfkm_rfl_rlb">Auf seiner Rückreise von München über Mantua nach Rom Anfang Dezember 1871 für letzte Arbeiten am achten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1872) im Archiv der Gonzaga hatte sich Gregorovius Erfrierungen zugezogen (siehe RT, S. 313–314). </note></seg>. </p>
+<p>Ich komme vielleicht erst im <seg type="comment"><orig>September nach München, u<ex>nd</ex> dann für längere Zeit, beabsichtige jedoch im December wieder hierher zurückzukehren</orig><note xml:id="nlgn_tfl_rlb">Gregorovius kam am 12. September 1872 von Traunstein nach München, wo er bis zum 12. November blieb. Über Venedig und Mantua reisend kehrte er am 29. November 1872 nach Rom zurück (siehe RT, 11.11. bis 25.12.1872, S. 327–328).</note></seg>. </p>
+<p>Ich schreibe Ihnen von <placeName key="G000664">Deutschland </placeName>aus. </p>
+<closer>
+<salute xml:id="s1" next="s2" rendition="#c">Alles Gute u<ex>nd</ex> Schöne!</salute>
+<salute xml:id="s2" prev="s1" rendition="#right">Ihr herzlich ergebener</salute>
+<signed rendition="#right"><hi rendition="#aq">FGregorovius</hi>.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

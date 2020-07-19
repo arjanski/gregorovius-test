@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000075">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Eduard Brockhaus in Leipzig. Rom, 2. April 1857</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (40)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 8°, 2 ¼ S. – 2v alR, Blatt um 90° gedreht, Eingangs- und Beantwortungsvermerk: 1857. / <hi rendition="#aq">Rom</hi>, 2./9. <hi rendition="#aq">April</hi>. / <hi rendition="#aq">Gregorovius</hi>. / B. 21/IV. / Berechnungen</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Die Aushängebogen und ein broschiertes Exemplars seiner „Grabmäler der Römischen Päpste“ (1857) hat er erhalten. Friedrich Althaus will hiervon eine englische Übersetzung auf den Weg bringen. Er nennt seine Vertragsbedingungen für den Verlag seines eingesandten Manuskripts von „Euphorion“ (1858). </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He received the galley proofs and a sewn copy of his „Grabmäler der Römischen Päpste“ (1857). Friedrich Althaus wants to organize an English translation of this. He states his contractual conditions for the publication of his submitted manuscript of „Euphorion“ (1858). </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1857-04-02" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+<persName key="G000995">Brockhaus, Eduard (1829–1914)</persName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next">21. April 1857</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq"><foreign xml:lang="ita">Roma</foreign></hi> d<ex>en</ex> 2. <hi rendition="#aq">April</hi> 1857.</dateline>
+                    <salute rendition="#c">Sehr geehrter <seg type="comment"><orig>Herr</orig><note xml:id="nupb_xr5_slb">Der Verlagsleiter Heinrich Brockhaus (1804–1874) war Ende Januar 1857 erkrankt und versuchte, sich bis Mitte 1859 auf Reisen nach Ägypten, Palästina, Syrien, Griechenland und Italien zu erholen. Währenddessen führte sein Sohn, Eduard Brockhaus (1829–1914), die Verlagsgeschäfte. </note></seg>,</salute>
+                </opener>
+                <p>Ihr gefälliges Schreiben d<ex>ieses</ex> M<ex>onats</ex> erhielt ich richtig, wie die Aushängebogen u<ex>nd</ex> das brochirte Ex<ex>emplar</ex> der <bibl sameAs="G003430">Grabmäler</bibl>. Nehmen Sie meinen aufrichtigen Dank auch für die angenehme Ausstattung. <hi rendition="#aq"><persName key="G000920">Dr. Althaus</persName></hi> in <placeName key="G000716">London</placeName> vermittelt eine <seg type="comment"><orig>englische Übersetz<ex>un</ex>g</orig><note xml:id="nk3g_hs5_slb">Eine englische Übersetzung des Werks erschien erst 1895 (The Tombs of the Popes: Landmarks in the History of the Papacy. Translated from the German by Louisa Ward Terry. Rom: Victoria Home 1895. 216 S.).</note></seg>, u<ex>nd</ex> <seg type="comment"><orig>sollten Sie für <placeName key="G000749">Paris</placeName> Gelegenheit haben</orig><note xml:id="nzcg_ms5_slb">Eine französische Übersetzung des Werks erschien 1859 (Les tombeaux des Papes Romains. Traduit par François Sabatier. Précédé d’une introduction de M. Jean-Jaques Ampère de Académie francaise. Paris: Michel Lévy frères 1859. 311 S.).</note></seg>, so werden Sie der Schrift zu Liebe deßen freundlich sich annehmen wollen.</p>
+                <p><seg type="comment"><orig>Es wird Ihnen mein <hi rendition="#aq"><bibl sameAs="G003574">Euphorion</bibl></hi> zugekommen sein, den ich am 21. <hi rendition="#aq">März</hi> über <hi rendition="#aq"><placeName key="G000843">Castel Franco</placeName></hi> abgehen ließ, u<ex>nd</ex> nur bis dahin habe frankiren können.</orig><note xml:id="ny5f_qs5_slb">Das Manuskript seines im Sommer 1853 begonnenen Versgedichts „Euphorion. Eine Dichtung aus Pompeji in vier Gesängen“, das Gregorovius Brockhaus bereits in seinem Brief vom <ref target="G000076">22.8.1855</ref> als vor dem Abschluss stehend zum Verlag angetragen hatte, hatte er im Sommer 1856 abgeschlossen (siehe RT, 19.9.1856, S. 63). Im DLA Marbach findet sich die postalisch durch einen Stempel auf den 2. April 1856 datierte Sendungsqittung seines Manuskripts. „Euphorion“ erschien erst 1858.</note></seg> Sie werden das Gedicht gelesen u<ex>nd</ex> hoffentlich das Urteil gefällt haben, daß es mitten unter der genugsam erschöpften naturalistischen Richtung der Poesie, u<ex>nd</ex> den Dorfgeschichten u<ex>nd</ex> Genre-Novellen, als eine reinmenschliche u<ex>nd</ex> ideale Kunstgestalt, welche es sein soll, gern begrüßt werden dürfte. Die Form des Gedichts (nach langer Cultur des Hexameters) werden Sie, so hoffe ich, mir als Kenner nicht verwerfen.</p>
+                <p>Ich biete <pb n="1v"/>demnach Ihrem Verlage diese Schrift, wie meine anderen,
+                        u<ex>nd</ex> indem ich meine Ansprüche genau geprüft habe, formire ich sie
+                    schließlich dahin:</p>
+                <p>
+<list>
+<item><label>1.</label>Es wird eine erste Auflage von 1000 Ex<ex>emplaren</ex> angenommen; dieselbe Zahl der Abzüge als Maximum für jede folgende Auflage festgehalten.</item>
+<item><label>2.</label>Der Verf<ex>asser</ex> erhält für die Auflage I. das Honorar von 200 = zweihundert Thalern Pr<ex>eußisch</ex> nach der Übernahme des Verlags; nach dem völligen Verkauf der I. Aufl<ex>age</ex> aber noch weitere 100 = hundert Thaler Pr<ex>eußisch</ex></item>
+<item><label>3.</label>Jede folgende Auflage wird mit vorgängiger Zahlung von 150 = hundert u<ex>nd</ex> fünfzig Thalern honorirt.</item>
+<item><label>4.</label>Jede besondere Ausgabe mit Illustrationen unterliegt einem besonderen Abkommen.</item>
+<item><label>5.</label>Der Verf<ex>asser</ex> erhält für die I. Aufl<ex>age</ex> 15 Freiex<ex>emplare</ex>, für jede folgende nach Belieben des Verlegers.</item>
+</list>
+</p>
+                <p>Indem ich mir erlaube <orgName key="G000480">Ihrer geehrten Buchhandlung</orgName> diese Punkte vorzulegen, kann ich nur hoffen, daß Sie dieselben als gerecht anerkennen mögen; <pb n="2r"/>u<ex>nd</ex> ich wünsche sehr, daß auch dies Gedicht in Ihrem Hause zu verbleiben das Glück haben möge.</p>
+                <closer>
+                    <salute rendition="#c">Mit großer Hochachtung, verehrter Herr, <lb/>Ihr ganz
+                        ergebenster</salute>
+                    <signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

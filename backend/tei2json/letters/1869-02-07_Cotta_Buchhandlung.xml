@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000289">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an die J. G. Cotta’sche Buchhandlung in Stuttgart. Rom, 7. Februar 1869</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (89)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ½ S. – 1r + 2r aoR geprägt: ROMA – 1r aoR Beantwortungsvermerk: 13/III</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 57, Mappe 340–342 (nach D) und Karton 55, Mappe 336–337 (Ergänzungen nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 279–281</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er befürwortet den Vorschlag des Verlags, den siebten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1870), wegen der Materialfülle seiner damit verbundenen unverhältnismäßigen Mühen in zwei Bände aufzuteilen; er wird mindestens 950 Seiten umfassen. Er ist aber mit Alexander von Hübner, der derzeit an einer Biographie von Sixtus V. (1870) arbeitet, strikt dagegen, den Stoff auf zwei Teilbände aufzuteilen. Der zusätzliche Band müsste entsprechend den vorhergehenden honoriert werden. Mit dem Abschluss seiner Arbeiten rechnet er nicht vor Januar 1870. Er fragt nach den Absatzzahlen der der 1. Auflage der „Geschichte der Stadt Rom“. Für die zweite Auflage des ersten Bandes (1869) schlägt er Verlagsankündigungen in Berliner Zeitungen vor.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1869-02-07" cert="high"/>
+</correspAction>
+                <correspAction type="received"><orgName key="G000523">J. G. Cotta'sche Buchhandlung</orgName>
+<placeName key="G000879">Stuttgart</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">2. Januar 1869</ref>
+<ref type="next">13. März 1869</ref>
+<ref type="prev">B: 2. Januar 1869 (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VII, 17)</ref>
+<ref type="next">13. März 1869 (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VII, 76)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">7. <hi rendition="#aq">Februar</hi> 1869</dateline>
+                    <salute rendition="#c">Hochgeehrte Herren,</salute>
+                </opener>
+<p>es ist mir sehr willkommen, daß Sie eine bereits auch mir sich aufdrängende Frage in Betreff des <bibl sameAs="G003441">VII. Bandes der Geschichte der Stadt</bibl> bedeutende angeregt haben. Die kaum zu bewältigende Fülle des Stoffes für die bedeutende Epoche von 1420–1550 <add place="intralinear">ist</add> vermehrt durch Ergebniße meiner Archivforschungen zumal in <placeName key="G000894">Venedig</placeName>, welche viel Neues enthalten: daraus ist ein Anwachsen des Bandes unvermeidlich geworden, dies um so mehr, als ich ihm durchaus die Behandlungsweise der früheren geben müßte, wenn ich nicht ein Geschichtswerk, worin so viel Leben enthalten ist, skizzenhaft beschließen wollte. Der Band umfaßt die wichtige Renaissancezeit, für deren Culturgeschichte ich allein 4 große Capitel habe verwenden müßen, während die früheren Bände nur 1 derartiges enthalten. Die Regierung der <persName key="G001242">Borgia </persName>ist quellengemäß durchgearbeitet worden, u<ex>nd</ex> so dergleichen mehr. Nach meiner Berechnung würde der VII. Band bei der äußersten Verkürzung immer ungefähr 950 Seiten stark ausfallen.</p>
+<p>In Voraussicht dessen <?oxy_comment_start author="Angela Steinsiek" timestamp="20200408T180132+0200" comment="Die Cotta’sche Buchhandlung stellte in ihrem Antwortbrief vom 13.3.1869 klar: „E. H. Sehr geehrte Zuschrift vom 7. Febr. haben wir mit bestem Danke erhalten und hindern[?] nicht, Ihnen hierauf zu erwidern, daß es nur auf einem Mißverständniß beruhen konnte, wenn wir in unserem letzten Ergebenen von einer Trennung des 7ten Bandes in 2 Hälften sprachen. Wir sind vielmehr mit Ihnen vollständig einverstanden, daß an der Stelle des früher in Aussicht genommenen Bandes 7. zwei selbständige Bände – also Band 7. &amp; 8. – ausgegeben werden. Zugleich erklären wir uns mit Vergnügen dazu bereit, auch in der Honorirung diese beiden Bände als selbständig zu behandeln.“ (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VII, 46). Siehe den Brief von Gregorovius an die Cotta’schen Buchhandlung, 25.4.1869 (Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 281)."?>haben Sie die Teilung des Bandes vorgeschlagen, daß heißt seine Ausgabe in 2 Hälften<?oxy_comment_end?>. Ich bekenne Ihnen aufrichtig, daß ich nur mit dem größesten Widerstreben mich darein fügen könnte. Diese <pb n="1v"/>Spaltung von Bänden, meines Wissens nur in der deutschen Gelehrtenwelt üblich, beleidigt geradezu mein Formgefühl. Wir haben bisher sehr saubre u<ex>nd</ex> sehr handliche Bände geliefert, u<ex>nd</ex> würden durch jene Maßregel die angenehme Conformität des Ganzen zerstören. Ich habe unter anderen diese Frage mit dem geistreichen<?oxy_comment_start author="Angela Steinsiek" timestamp="20200408T180256+0200" comment="Alexander (ab 1888) Graf von Hübner (1811–1892) war 1865–1868 österreichischer Gesandter in Rom und hielt sich bis 1870 als Privatier daselbst auf. In französischer Sprache erschien sein „Sixte-Quint. D’après des correspondances diplomatiques inédites tirées des Archives d’état du Vatican, de Simancas, Venise, Paris, Vienne et Florence“ in 3 Bänden 1870 in Paris – in deutscher Sprache unter dem Titel „Sixtus der Fünfte“ 1871 in Leipzig bei Weigel."?> <persName key="G001299">Freiherrn v<ex>on</ex> Hübner</persName> durchgesprochen, welcher hier in Zurückgezogenheit <bibl sameAs="G004278">das Leben Sixtus V</bibl> schreibt<?oxy_comment_end?>, u<ex>nd</ex> auch er hat sich auf das Entschiedenste dagegen erklärt u<ex>nd</ex> Protest eingelegt. Ich habe ihn als einen Repräsentanten der Lesewelt zu betrachten geglaubt.</p>
+<p>Demnach, um kurz zu sein, ersuche ich Sie, hochgeehrte Herren, zu erwägen, ob es nicht doch geraten sein möchte, statt eines zerspaltenen Bandes 2 selbständige auszugeben. Es würde sich hier der Thatsache nach nur um ein Wort handeln, denn jede Abteilung des Bandes würde realiter ein Band sein, so stark etwa wie Band I oder II; auch würde ihn der Käufer ebenso hoch bezahlen müßen als diese. Wir haben zwar dem Publicum angekündigt, d<ex>a</ex>ß das Werk mit B<ex>an</ex>d VII. schließen soll, doch wir sind <pb n="2r"/>ihm keineswegs deshalb verpflichtet. Hübner bemerkte sehr richtig, d<ex>a</ex>ß es bei einem an sich umfangreichen Werke nicht im Geringsten darauf ankomme, ob es 7 oder 8 Bände enthalte; wer 7 kauft u<ex>nd</ex> liest nimmt auch den achten hinzu. Ich selbst habe an den 7. Band 3 Jahre Zeit und eine unglaubliche Mühe verwendet, ja vielleicht eine größere, als an 2 der früheren Bände zusammengenommen; ich würde demnach, wenn Sie meinen Vorschlag genehmigen, dem entsprechend das Honorar für 2 Bände, statt für einen beziehen.</p>
+<p>Dies ist es, hochgeehrte Herren, was ich Ihnen auf Ihre Frage auseinanderzusetzen habe, u<ex>nd</ex> ich erwarte demnach Ihre Entscheidung, mit der es übrigens vollkommen Zeit hat, da ich noch nicht am Abschluß der Arbeit bin, u<ex>nd</ex> zu diesem auch nicht vor dem Januar 1870 gelangen kann. Ich darf wol in jedem Falle von der Ansicht ausgehen, daß unser Werk in der Literatur einen vollkommen gesicherten Boden besitzt, aber erst wenn es beendigt sein wird, wird ganz erkannt werden, welche große Arbeit darin u<ex>nd</ex> in welcher Weise sie geleistet worden ist.</p>
+<p>Ich würde Ihnen dankbar sein, wenn Sie mir bei Gelegenheit, vielleicht nach dem Osterabschluß, eine Note über den Bestand des Restes der <bibl corresp="G003448 G003455 G003462 G003469 G003476 G003485">1. Auflage</bibl> gütigst wollten zukommen lassen. Für den Betrieb der <pb n="2v"/>begonnenen <bibl corresp="G003489">2. Auflage</bibl> würde es ersprießlich sein, wenn man in die Berliner Zeitungen eine kurze Notiz vom 1. Bande brächte, in der Weise, wie die <orgName key="G000462">Allg<ex>emeine</ex> Zeit<ex>ung</ex></orgName> seit dem Ende des vorigen Jahres solche literargeschichtliche Notizen bringt, unter denen bisher von unserem ersten Bande noch nicht die Rede gewesen ist. Dies aber könnte wol jetzt geschehen, da der Band selbst in Circulation gekommen ist.</p>
+<p>Ich schließe, hochgeehrte Herren, dieses schon zu lange Schreiben mit dem Ausdruck der großen Hochachtung, mit welchem sich Ihnen empfiehlt</p>
+                <closer>
+<salute rendition="#c">Ihr ergebenster</salute>
+<signed rendition="#right"><hi rendition="#aq">FGregorovius</hi>.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

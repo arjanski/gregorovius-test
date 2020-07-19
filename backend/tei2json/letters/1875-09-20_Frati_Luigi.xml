@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067765">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Luigi Frati in Bologna. München, 20. September 1875</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Bologna</repository><collection>Biblioteca dell’Archiginnasio, f.s. Luigi Frati, Cart. XIII</collection><idno>N. 54
+                </idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ½ S. – 2r, Literaturvermerk durch Luigi Frati: Dalle $ d’Teodoro $. / U. Revue num. fr. anno 1841 p. 193- / 212 $ fl. IXn. 1–3.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er bittet für Julius Friedländer um Informationen zu Giovanni Francesco Boniperti, von dem sich ein Münzporträt (1550) im Münzkabinett Berlin befindet. Damiano Morali verweist in seiner „Storia genealogica della famiglia Bonaparte“ (1846) auf zwei Stammbäume der Boniperti, publiziert von Luigi Cappello di Sanfranco („Storia popolare della famiglia Bonaparte“, 1830) bzw. dem Bologneser Verlag Stamperia di San Tommaso d’Aquino (1843). Sollten diese in der Biblioteca Communale in Bologna verfügbar sein, soll er diese Friedländer zusenden, der zudem nach Forschungsliteratur zum Münzwesen unter dem korsischen König Theodor Stephan von Neuhoff sucht.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1875-09-20" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001136">Frati, Luigi (1815–1902)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+<correspContext>
+<ref type="next">24. September 1875 (H: Kantonsbibliothek Vadiana St. Gallen , Slg. Robert Alther, Sign. VadSlg NL 202 : 83 : 75q)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c">Monaco di Baviera <lb/>20. Sett<ex>em</ex>bre 1875.</dateline>
+<salute rendition="#c">Caro amico e gentilissimo <lb/><seg type="comment"><orig>Signor mio</orig><note xml:id="nefd_vst_zlb">Luigi Frati (1815–1902) bekleidete seit 1858 das Amt des Leiters der Biblioteca Comunale dell’Archiginnasio in Bologna. In dieser Funktion hatte Gregorovius ihn im Herbst 1863 kennengelernt; siehe den Brief von Gregorovius an Luigi Frati vom 4.10.1863. Frati zählt zu den Gründungsmitgliedern der Deputazione di Storia Patri per le Province di Romagna und somit zum Kreis um Gregorovius’ engen Freund Conte Giovanni Gozzadini, mit dem sich Gregorovius gelegentlich über Frati austauschte; siehe die Briefe von Gregorovius an Giovanni Gozzadini vom 7.7.1867 und 8.6.1873. Persönlich suchte er Frati in den folgenden Jahren immer wieder in der Bibliothek in Bologna auf, so auch 1875 als er auf seiner Reise von München nach Rom im März dort Halt machte (siehe RT, 31.3.1875, S. 348).</note></seg>,</salute>
+</opener>
+<p><seg type="comment"><orig>il Dottor <persName key="G001142">Giulio Friedländer</persName></orig><note xml:id="nnqf_wst_zlb">Der Berliner Numismatiker Julius Friedländer (1813–1884) arbeitete seit 1840 in der königlichen Sammlung der antiken Münzen in Berlin, zeichnete für viele Erwerbungen dort verantwortlich und begründete das Münzkabinett im Berliner Bode-Museum. 1858 wurde er zum Leiter der Abteilung für antike Münzen, 1868 zum Direktor des vereinigten Münzkabinetts berufen. Für Gregorovius’ Arbeit war Friedländers Publikation einer Medaille Lucrezia Borgias 1866 von Bedeutung; siehe den Brief von Gregorovius an Julius Friedländer vom 3.10.1873. </note></seg>, direttore del <orgName key="ed_dbj_kf3_zkb">gabinetto numismatico di Berlino</orgName>, persona che le sarà notissima, <seg type="comment"><orig>si rivolge a me con certe domande</orig><note xml:id="niyp_xst_zlb">Es ist kein Schreiben von Friedländer an Gregorovius erhalten sowie für das Jahr 1875 kein persönliches Treffen der beiden nachgewiesen.</note></seg>, di cui mi permetto di darle parte, non essendo io capace di soddisfare ai desiderii del Friedländer.</p>
+<p>Egli mi scrive come segue:</p>
+<p>Il R<ex>eale</ex> Gabinetto Numi<ex>smatico</ex> di Berlino possiede una medaglia italiana di <seg type="comment"><orig>un tale <persName key="ed_gp4_gg3_zkb">Giov<ex>anni</ex> Franc<ex>esco</ex> Bonipertis</persName></orig><note xml:id="np14_yst_zlb">Auch Gianfrancesco Boniperti; Adliger im 16. Jahrhundert, aus der Provinz Novara stammend.</note></seg>, certamente del 1550, personaggio, di cui <seg type="comment"><orig>gli <bibl sameAs="ed_qbv_rg3_zkb">scritti del Morali</bibl></orig><note xml:id="nwds_zst_zlb">Damiano Morali gehört einer illustren, seit 1450 nachweisbaren Familie aus San Miniato (Pisa) an, die seit 1790 auch in Florenz einen Palast besaß. Damiano legte den Grundstein für die Archivierung der Familiendokumente.</note></seg> e<ex>cce</ex>te<ex>ra</ex> non fanno cenno. Nel libro del Morali vengono accennati due alberi genealogici, uno di <placeName key="G000749">Parigi</placeName> del <persName key="ed_jwg_bh3_zkb"><seg type="comment"><orig>L<ex>uigi</ex> Capello di Sanfranco</orig><note xml:id="nwzq_ctt_zlb">Graf Luigi Cappello di Sanfranco (1770–1847) war ein Diplomat und Schriftsteller aus Turin, der sich durchaus mit Erfolg historischen und philologischen Studien widmete. 1830 publizierte er den von Morali erwähnten Stammbau: Storia popolare della famiglia Bonaparte (Paris).</note></seg>,</persName> l’altro di <pb n="1v"/>Bologna della <seg type="comment"><orig><orgName key="ed_ukk_hh3_zkb">stamperia di S<ex>an</ex> Tommaso di Aquino</orgName></orig><note xml:id="ncr3_2tt_zlb">Mehr als der Hinweis von Morali auf den vom Bologneser Verlag Stamperia di San Tommaso d’Aquino 1843 herausgegebenen Stammbau ist nicht ermittelbar. </note></seg>. Questi alberi in <placeName key="G000636">Berlino</placeName> non si ritrovano.</p>
+<p>Il Friedländer quindi mi prega di dargli qualche informazione intorno a codesto Bonipertis; ed ecco che mi rivolgo a lei, onde richiederla del suo favore per questo argomento. Veda un po’, se quell’albero genealogico esiste nella <orgName key="ed_vs1_nh3_zkb">sua biblioteca</orgName>, e caso dato se può mandarlo al Friedländer lei prestito. Per a qui verso le sarei gra<subst><del rendition="#ow"/><add place="across">it</add></subst>ssimo, se <seg type="comment"><orig>volesse darmi qualche riscontro sollecito</orig><note xml:id="nzk4_ftt_zlb">Fratis Antwort datiert auf den 24. September 1875 (H: Kantonsbibliothek Vadiana St. Gallen , Slg. Robert Alther, Sign. VadSlg NL 202 : 83 : 75q). Darin teilt er unter Verweis auf Giammaria Mazzuchelli (Gli Scrittori d’Italia, cioè notizie storiche, e critiche intorno alle vite, e agli scritti dei letterati Italiani. Bd. 2. T. 3. Brescia 1762. S. 1162–1164), welcher einige, jedoch nicht den von Friedländer gesuchten Boniperti verzeichnet hat, das Negativergebnis seiner Recherche mit. </note></seg>.</p>
+<p>Inoltre il Friedländer domanda, in qual libro si ritrovi una descrizione delle monete <pb n="2r"/><seg type="comment"><orig>del famoso <persName key="G001445">Teodoro Re di Corsica</persName>.</orig><note xml:id="nn3f_ypv_2mb">Theodor Stephan von Neuhoff (1694–1756) war ein politischer Abenteurer, der nach vielen Reisen durch Europa 1736 auf Korsika landete. Bereits 1732 war er in Florenz mit der korsischen Unabhängigkeitsbewegung in Kontakt gekommen. Am 15. April 1736 wählte ihn ein korsischer Konvent zu ihrem König. In den folgenden Jahren konnte er sich politisch etablieren, verlor aber bereits ab 1738 zunehmend an Macht. 1749 nahmen ihn Genuesen in London gefangen. Zu dieser Nachfrage Friedländers lieferte Frati in besagtem Antwortbrief folgende Literaturangabe: Revue Numismatique. Hrsg. von E. Cartier und L.De La Saussaye. Paris 1842. Tafel IX, Abb. 1–3. (siehe https://books.google.de/books?id=_wIFAAAAQAAJ&amp;printsec=frontcover&amp;hl=de&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false). Fratis archivarische Auskunft leitete Gregorovius mit einem kurzen Schreiben auf dessen Brief an Friedländer weiter. </note></seg></p>
+<p>Io colgo quest’ occasione, per rivocar me stesso alla di lei benevole memoria, e per mandarle mille saluti cordiali. Mi voglia bene!</p>
+<closer>
+<salute rendition="#c">Tutto suo</salute>
+<signed rendition="#right">Ferdinando Gregorovius.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

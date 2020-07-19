@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067737">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Contessa Ersilia Caetani Lovatelli in Rom. Traunstein, 18. Juli 1873</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno>Karton 59, Mappe 348 (nach D)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"> <bibl type="print">Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli. Hrsg. von Sigmund Münz. Berlin: Paetel 1896. S. 73–74 (gekürzt) </bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">In Pesaro wurde er dank der Empfehlungen von Giovanni Gozzadini und Terenzio Mamiani della Rovere durch den Bürgermeister Alessandro Gallucci und die Bibliothekare Ciro Antaldi Santinelli und Gualterio Grossi freundlich empfangen. Über Modena und Mantua ist er nach Traunstein gereist. </p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000888">Traunstein</placeName><date when="1873-07-18" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001011">Caetani Lovatelli, Ersilia contessa (1840–1925)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="73"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">Traunstein, 18. Juli 1873.</dateline>
+</opener>
+<p>In diesen frischen und reinen Lüften, <seg type="comment"><orig>in denen ich augenblicklich vegetiere</orig><note xml:id="nb5c_vk1_zlb">Er war am 9. Juli in Traunstein angekommen, wo er die Zeit bis zum 5. September verbringen sollte (siehe RT, S. 332–333). </note></seg>, stelle ich mir Rom wie ein wahres Purgatorium vor, umgeben und erfüllt von den glühendsten Flammen.<gap reason="lost" unit="chars" quantity="1"/>Meine Reise gieng gut, ja sogar bis auf einen <pb n="74"/>einzigen Unfall ausgezeichnet von dannen. <seg type="comment"><orig>Mein Koffer nämlich verirrte sich</orig><note xml:id="nrmb_yk1_zlb">„Mein Koffer, worin alle meine Schriften und Sammlungen über Lucrezia Borgia sich befinden, war nicht da; dies gab viele Telegramme und einige Unruhe. Heute hat er sich eingefunden.“ (RT, 3.7.1873, S. 332). Er hatte Rom am 1. Juli verlassen und war am 2. Juli in Pesaro eingetroffen, um dort während der nächsten beiden Tage, Recherchearbeiten durchzuführen.</note></seg>; statt mich nach <placeName key="G000752">Pesaro</placeName> zu begleiten, machte er sich das Vergnügen, ein wenig gen <placeName key="G000737">Neapel</placeName> zu schwenken. <seg type="comment"><orig>Ich hatte von <persName key="G001396">Mamiani</persName> und dem <persName key="G001187">Grafen Gozzadini </persName>Briefe für Pesaro</orig><note xml:id="nlgg_bl1_zlb">Gregorovius hatte seinen Freund, den Grafen Giovanni Gozzadini (1810–1887), sowie den aus Pesaro stammenden Terenzio Mamiani della Rovere (1799–1885) erfolgreich um Empfehlungsschreiben gebeten; siehe die Briefe von Gregorovius an Giovanni Gozzadini und Terenzio Mamiani della Rovere vom 26.6.1873 bzw. 23.6.1873. Mamiani richtete seine Empfehlung an den Bürgermeister der Stadt, Graf Alessandro Gallucci, Gozzadini an die Bibliothekare, den Marchese Ciro Antaldi Santinelli (1825–1907) und Gualterio Grossi, gerichtet. In den Dankesbriefen an seine beiden Fürsprecher berichtet Gregorovius ausführlich von der angenehmen Zeit und die freundliche Aufnahme in Pesaro; siehe die Briefe von Gregorovius an Terenzio Mamiani della Rovere und Giovanni Gozzadini vom 15.7.1873 bzw. 16.7.1873.</note></seg>, das eine sehr anmuthige Stadt ist. Darum fand ich größte Liebenswürdigkeit bei den <persName key="G067825 G067831">Direktoren</persName> der <orgName key="G004666">Oliveriana</orgName>, wie auch bei den <persName key="G001157">höchsten Würdenträgern</persName>, will sagen den <seg type="comment"><orig>„<foreign xml:lang="Lat">Consules Pisauri</foreign>“</orig><note xml:id="naf4_zk1_zlb">Lat. für: die Konsuln Pesaros.</note></seg>. Ich sah da die Wiege Mamiani’s, ich meine den <seg type="comment"><orig>Palast seiner Familie</orig><note xml:id="nhhy_dl1_zlb">Nicht ermittelt, wo sich das Geburtshaus von Terenzio heute genau befindet. Er ist der letzte Graf von Sant’Angelo in Lizzola, einer zu seiner Zeit eigenständigen Gemeinde in der Provinz Pesaro. Diesem Ort war die Familie Mamiani della Rovere sehr verbunden.</note></seg>, über dessen Thor in goldenen Lettern geschrieben steht: „Hier ward Terenzio Mamiani geboren“. Ich sah auch in dem Saal des Municipiums seine marmorne Büste, und so darf wohl der berühmte Dichter und Philosoph mit der Erkenntlichkeit seines Vaterlandes zufrieden sein, das so vielen Vaterländern unähnlich ist, in denen der Prophet vor seinem Tode nichts gilt. <seg type="comment"><orig>Nachdem ich Pesaro verlassen, begab ich mich nach <placeName key="G000729">Modena</placeName>, um hier einige Manuskripte zu vergleichen</orig><note xml:id="nfqj_fl1_zlb">Von Pesaro fuhr er nach Modena, wo ihn der befreundete Direktor des Archivio di Stato di Modena, Cesare Foucard (1825–1892), in seinem Haus aufnahm (siehe RT, S. 332). In der Einleitung zur „Lucrezia Borgia“ schreibt er von der „reichste[n] Ausbeute“ im Archiv der Este (Ferdinand Gregorovius. Lucrezia Borgia. Bd. 1. 1874, S. XV).</note></seg>.<gap reason="lost" unit="chars" quantity="1"/>Dann nahm ich die neue Eisenbahn nach <placeName key="G000724">Mantua</placeName> und erreichte schließlich glücklich <seg type="comment"><orig>diesen anmuthigen Ort Traunstein, der ein wahres <placeName key="G004677">Tusculum</placeName> ist</orig><note xml:id="nvzc_3l1_zlb">Über Kufstein reiste er nach Traunstein weiter und traf dort am 9. Juli ein (siehe RT, S. 332). Hierher war er bereits im Jahr zuvor auf ärztliches Anraten wegen der heilenden Salzbäder gekommen; siehe den Brief von Gregorovius an Ersilia Caetani Lovatelli vom 28.7.1872. Er vergleicht Traunstein hier mit dem antiken, südöstlich von Rom, in den Albaner Bergen gelegenen Tusculum, in deren Umgebung in der Antike wohlhabende Römer lebten.</note></seg>. </p>
+<p><seg type="comment"><orig>Eine von den Kirchen Traunsteins</orig><note xml:id="nus1_nl1_zlb">Gemeint ist die Kirche St. Georg und St. Katharina, die einst als Gottesackerkirche diente, womit sich der Sinnspruch erklärt.</note></seg> trägt auf ihrem Thurmgesims die Aufschrift: <seg type="comment"><orig>„<foreign xml:lang="Lat">Per ardua ad astra</foreign>“,</orig><note xml:id="nyhd_kl1_zlb">Lat. für: Über raue Pfade zu den Sternen.</note></seg> von deren vergoldeten Buchstaben die letzten Strahlen der sinkenden Sonne reflektirt werden. Hier haben Sie das wahre Motto für das Leben eines jeden, der sich abmüht und mit der Welt und sich selber kämpft. Sie werden lachen, wenn ich Ihnen eingestehe, daß, als ich im vergangenen Jahre nach Traunstein kam, ich von jener durch die untergehende Sonne ganz in Brand gesetzten Aufschrift dermaßen betroffen war, daß ich schon darum den Entschluß faßte, wiederzukehren<gap reason="lost" unit="chars" quantity="1"/> </p>
+</div>
+        </body>
+    </text>
+</TEI>

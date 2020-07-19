@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067772">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Filippo Zamboni in Rom. München, 26. Februar 1876</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness select="#this">
+                        <msDesc type="copy"><msIdentifier><institution>Florenz, Biblioteca Nazionale Centrale</institution><collection>Carteggio De Gubernatis 66, nr. 57</collection><idno>(1)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S. – 2v Adr.: Chiarissimo Signor / G. E. Filippo Zamboni / per cura dei Successori Le Monier / Firenze</p>
+</physDesc>
+</msDesc>
+</witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GSA Weimar</institution><collection>74/ II, 2,2 (NL Adolf Pichler) (ungenau)</collection></msIdentifier>
+</msDesc>
+</witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf, Karton 84, Mappe 6 (ungenau)</collection></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Angelo De Gubernatis. Gregorovius et il poeta Zamboni. In: La vita italiana. Rivista illustrata. Bd. 5 (1895–1896). Fasc. 2. Rom: Uffici di Direzione e Amministrazione 1895–1896. S. 111–112 (ungenau)</bibl> </witness>
+<witness> <bibl type="print">Ein Brief von Ferdinand Gregorovius. In: Neue Freie Presse. Morgenblatt. Nr. 11298. Wien: Österreichisches Journal. 6.2.1896. S. 5–6 (Auszug in dt. Übersetzung)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für den Erhalt von Zambonis dramatischem Gedicht „Roma nel Mille“ (1875), das er sehr schätzt. Er reflektiert über die wissenschaftlichen und künstlerischen Zugänge zum mittelalterlichen Rom. Sein einst geplantes Gedicht über den auch bei Zamboni vorkommenden Otto III. endete in einem Beitrag für die „Allgemeine Deutsche Biographie“ (1887). Er verweist auf Wilhelm von Humboldts und Voltaires Überlegungen zur Aufgabe des Geschichtsschreibers. Er reist in acht Tagen nach Italien und möchte Zamboni dort treffen. Hermann Loescher wird ihm sagen, wo er Zamboni erreichen kann.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1876-02-26" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001721">Zamboni, Filippo (1826–1910)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Monaco, 26 febbrajo 1876</dateline>
+                    <salute rendition="#c">Egregio <seg type="comment"><orig>Signore</orig><note xml:id="nnbx_51w_zlb">Der aus Triest stammende Dichter Filippo Zamboni (1826–1910) gehörte 1849 einem Korps von freiwilligen Studenten zur Verteidigung der römischen Republik an. Hierüber verfasste er den postum veröffentlichten Text „Ricordi del Battaglione universitario romano“ (Trieste: Parnaso 1926). Am 15. September 1876 sollte er der Stadt Rom in einer feierlichen Zeremonie die von ihm seit dem Fall der Republik aufbewahrte Flagge des Korps überreichen. Zeit seines Lebens gab er seine republikanische Überzeugung nicht auf. Zamboni schrieb Gedichte und Dramen, war Dante-Forscher und unterrichtete in Wien, reiste durch mehrere Kontinente. Ein persönliches Treffen zwischen Gregorovius und Zamboni lässt sich nicht nachweisen, allerdings offenbart der vorliegende, möglicherweise einzige Brief des Deutschen an Zamboni dessen große Achtung für den ebenfalls das mittelalterliche Rom porträtierenden Dichter. Gregorovius lobt den Italiener mit großen Worten und aussagekräftigen Vergleichen. Das Schreiben ist in einer Abschrift von Angelo de Gubernatis (1840–1913) in der Nationalbibliothek Florenz erhalten.</note></seg>!</salute>
+                </opener>
+<p>Giunto che fui alla metà della lettura del suo poema drammatico <seg type="comment"><orig>„<bibl sameAs="ed_yvf_nfx_qlb">Roma nel Mille</bibl>“</orig><note xml:id="nexz_v1w_zlb">Filippo Zamboni. Roma nel Mille. Poema drammatico. Florenz: Le Monnier 1875: https://books.google.it/books?id=IsWMq2zapesC&amp;printsec=frontcover&amp;hl=de&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false. Das Gedicht ist nach Forni von Gregorovius beeinflußt worden; siehe Alberto Forni. Der Erfolg von Gregorovius in Italien. In: Ferdinand Gregorovius und Italien. Eine kritische Würdigung. Hrsg. von Arnold Esch u. Jens Petersen. Tübingen: Niemeyer1993. S. 12–41, hier S. 30. Anm. 90.</note></seg>, pur troppo dovetti arrestarmi colà, meno per esser soprafatto da molte occupazioni, che per un mal d’occhi, dal quale sono mole<del rendition="#s"><del rendition="#s"/></del>stato. </p>
+<p>Non pertanto non ritarderò questa mia, onde renderle mille grazie <seg type="comment"><orig>del suo dono</orig><note xml:id="nvg2_x1w_zlb">Es ist kein Brief von Zamboni an Gregorovius bekannt.</note></seg>, e nello stesso tempo esprimerle quel grande diletto, che ne ho provato. </p>
+<p>Il suo pensiero generoso, d’inviarmi quel prodotto della sua Musa, trasse l’origine dal riconoscimento di una verità, ed è che fra tanti lettori sarebbero ben pochi coloro, che accoglieranno un poema qual è il suo con maggior avidità di quella, che desso deve incontrare nell’autore della <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">storia di Roma nel medio evo</bibl>. </p>
+<p><seg type="comment"><orig>Roma in quella età, e anzitutto nel Mille</orig><note xml:id="nip3_y1w_zlb">Gemeint ist Rom im Mittelalter, besonders nach dem 10. Jahrhundert.</note></seg>, è oggetto terribile. A lei, poeta, <del rendition="#s"/> confesserò ciò che non direi a chi è dotto soltanto nel senso comune della parola e nulla di piu; confesserò, che spesse volte, immerso nella contemplazione di quell’essere incomprensibile, che si chiama Roma nel medioevo, mi sentivo riscaldato e commosso a segno tale, che avrei voluto gettar via la penna di storico, e convertirmi piuttosto in vate, per cantare una visione sovraumana quanto tremenda. Chè visione è quella, non storia piu. </p>
+<p>Un di per vero, incomminciai ad ideare un dramma, del quale il protagonista avrebbe <pb n="1v"/>dovuto essere quello stesso<seg type="comment"><orig> giovane <persName key="G004731">Ottone</persName></orig><note xml:id="nbvg_z1w_zlb">Otto III. (980–1002) gehört dem Haus der Ottonen an und wurde 983 zum römisch-deutschen König ernannt, 996 zum Kaiser. Anstatt eines Dramas über Otto III. verfasste Gregorovius Jahre später einen Eintrag in einem Nachschlagewerk zu ihm: Otto III. In: Allgemeine Deutsche Biographie. Hrsg. durch die Historische Commission bei der Königlichen Akademie der Wissenschaften. Bd. 24: van Noort – Ovelacker. Leipzig: Duncker &amp; Humblot 1887. S. 611–621. Zur Figur Ottos III. bei Gregorovius siehe auch: Alberto Forni. La questione di Roma medievale. Una polemica tra Gregorovius e Reumont (Istituto storico italiano per il medio evo. Studi storici – Fasc. 150–151). Perugia: Gestisa 1985, S. 96–97.</note></seg> che figura come tale nel suo poema. Veda dunque, quanto bene ci siamo incontrati nel bel teatro di quella visione storica, e come noi tutti e due abbiamo inteso la <del rendition="#s">stessa</del> vocazione della stessa divinità. </p>
+<p>Però da quel punto in la abbiamo battuto strade diverse, e preso modi diversi. <seg type="comment"><orig>Passai davanti lo scoglio della sirena</orig><note xml:id="nsqn_1bw_zlb">Gregorovius vergleicht sein erfolgloses Dichter-Dasein mit Zambonis dichterischer Leistung anhand einer Episode in Homers’ Odyssee, namentlich der Stelle, als Odysseus und seine Gefährten an der Insel der Sirenen vorbeisegeln, die mit ihrem verlockenden Gesang, die Seefahrer auf die Klippen und damit in ihr Verderben treiben wollen.</note></seg>, contro il quale urtandosi la mia navicella si sarebbe fatta in pezzi, laddove lei piu audace ancora di <persName key="G001457">Ulisse</persName> vinse la Sirena, inseguendola, e ne apprese i ritmi. </p>
+<p>È vero quel che ha detto <persName key="G001302">Guglielmo Humboldt</persName>, che <seg type="comment"><orig>per scrivere bene una storia ci vuol ancora l’immaginazione del poeta</orig><note xml:id="nds5_bbw_zlb">1821 hielt Wilhelm von Humboldt einen Akademievortrag mit dem Titel „Über die Aufgabe des Geschichtsschreibers“. Darin legte er das historistische Geschichtsdenken nach seinen Gesetzmäßigkeiten dar; siehe Wilhelm von Humboldt. Über die Aufgabe des Geschichtsschreibers. In: ders.: Schriften zur Anthropologie und Geschichte. Band 1. Hrsg. v. Andreas Flitner und Klaus Giel. Darmstadt 1980. S. 585–606. Siehe zur Übertragung dieses Ansatzes auf Gregorovius: Alberto Forni. La questione di Roma medievale. Una polemica tra Gregorovius e Reumont (Istituto storico italiano per il medio evo. Studi storici – Fasc. 150–151). Perugia: Gestisa 1985, S. 3.</note></seg>; nè meno vero vi è il detto del <persName key="G067640">Voltaire</persName> che afferma: <seg type="comment"><orig><foreign xml:lang="fra">pour écrire une bonne tragedie, il faut avoir mille diables au corp</foreign>;</orig><note xml:id="np3t_cbw_zlb">Franz. für: Um eine gute Tragödie schreiben zu können, muss man den Teufel im Körper haben.</note></seg> detti ambi e due che perfettamente corrispondono ai bisogni di chi voglia arrischiarsi a raffigurare Roma nel Mille in un modo o nell’altro.</p>
+<p>Torno a dire, che non ho finito ancora la lettura del suo poema, che spero di terminare fra otto giorni. Niente di meno quel che ho letto mi basta guari a presagirne il resto, come a chi mette il primo piede entro il vestibolo di un tempio, basta il passo fatto, onde riconoscere che la fabbrica dove sta per entrare è tempio, non tugurio.</p>
+<p>Dirò dunque, che dal suo poema mi viene incontro uno spiro di vera poesia tragica, fantasia del tutto originale in quanto allo scorgere <pb n="2r"/>tutta quella magia indicibile che ammalia i sensi dello spettatore, che si perde in quel laberinto di Roma nel Mille, e originalità nella forza di colorire quei fantasimi a luce di teda, è finalmente gagliardia nel rivestire l’immaginazione di espressioni adeguate, per quanto vi possa esser sufficiente la lingua italiana, la quale a tale opera forse meglio si presterebbe, se meno ripulita e raffinata fosse di quel che è ai nostri di, e se piu rassomigliante fosse ai modi del <persName key="G000916">Dante</persName>. </p>
+<p>La figura poetica, che <add place="superlinear">il</add> meno mi soddisfarebbe, sarà quella di Ottone. che <add place="superlinear">Me </add>lo sarei raffigurato piu idealista, tutto affascinato dalle forze magiche di Roma, e piu <seg type="comment"><orig><persName key="ed_qjg_f4t_plb">Fetonte</persName></orig><note xml:id="nxm5_dbw_zlb">Der seit Euripides als Sohn des Sonnengottes Helios geltende Phaeton kommt bei der, ihm aus der Kontrolle getratenen Fahrt mit dem Sonnenwagen seines Vaters zu Tode. Die Fahrt hatte er sich vom Vater erwünscht, nachdem ihm dieser als Zeugnis seiner Vaterschaft ein Geschenk versprochen hatte.</note></seg> che Imperatore.</p>
+<p>Ma posso sbagliare in questo, e me ne ravvedrò facilmente alla fine. </p>
+<p>Nient’altro per adesso. <seg type="comment"><orig>Fra otto giorni partirò di Monaco</orig><note xml:id="nlfk_gbw_zlb">Gregorovius reiste am 10. März 1876 von München Richtung Rom ab, wo er am 18. März eintraf (siehe RT, 20.5.1876, S. 363). Am 18. Juni machte er sich von dort zur Rückkehr nach Deutschland auf und legte dabei einen zweitägigen Aufenthalt in Florenz ein, von wo er am 21. Juni weiterreiste (siehe RT, Sommer, Herbst und Winter 1876/77, S. 373). Weder für die Zeit seines Aufenthaltes in Rom noch für Florenz oder eine der anderen italienischen Städte, die er auf dieser Fahrt besuchte, ist ein Treffen mit Zamboni nachweisbar.</note></seg>, colla speranza d’incontrarmi con <seg type="comment"><orig>Vossignoria</orig><note xml:id="nrtp_2bw_zlb">Höflichkeitsform für: la Signoria Vostra.</note></seg>, sia in <placeName key="G000671">Firenze</placeName>, in caso mi fermassi colà sia in Roma se mai vi si recasse lei entro il mese di marzo prossimo, oppure sul principiare dell’aprile. </p>
+<p><seg type="comment"><orig>Il <persName key="G001380">Löscher</persName></orig><note xml:id="nwrf_hbw_zlb">Die 1861 von dem Leipziger Hermann Loescher (1831–1892) in Turin übernommene Buchhandlung hatte seit 1870 eine Niederlassung in Rom.</note></seg> allora potrà darmi il suo indirizzo, e avuto quello, lietamente ricercherò di lei per ringraziarla a voce della sua benevolenza verso di me, e per professarmi come faccio in questo momento</p>
+                <closer>
+                    <salute rendition="#c">suo servitore devoto</salute>
+                    <signed rendition="#c">Ferdin. Gregorovius. </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

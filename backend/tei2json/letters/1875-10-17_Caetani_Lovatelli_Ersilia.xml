@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067766">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Contessa Ersilia Caetani Lovatelli in Rom. München, 17. Oktober 1875</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno>Karton 59, Mappe 348 (nach D)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"> <bibl type="print">Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli. Hrsg. von Sigmund Münz. Berlin: Paetel 1896. S. 80–81 (gekürzt) </bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Kaiser Wilhelm I. ist auf dem Weg von München über Mailand nach Monza, wo er Vittorio Emanuele II. besuchen wird. Über Castellammare di Stabia, wo die Caetani den Sommer verbracht haben. Georg Schweinfurths „Im Herzen von Afrika“ (1874) inspiriert ihn zu Reflektionen über seinen endgültigen Abschied aus Italien.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1875-10-17" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001011">Caetani Lovatelli, Ersilia contessa (1840–1925)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="80"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">München, <placeName key="ediarum_s5l_b42_rlb">Barerstraße</placeName> 3, 17.Oktober 1875.</dateline>
+</opener>
+<p>Und nun lasse ich diesen meinen Brief nach <placeName key="G000690">Italien</placeName> an demselben Tage abgehen, an dem sich <persName key="ed_qqb_mky_1lb"><seg type="comment"><orig>Kaiser Wilhelm</orig><note xml:id="nbdl_krt_zlb">Kaiser Wilhelm I. (1797–1888) war seit 1861 König von Preußen und seit 1871 Deutscher Kaiser.</note></seg></persName> von hier <seg type="comment"><orig>nach <placeName key="G000721">Mailand</placeName> aufgemacht hat</orig><note xml:id="nq2r_mrt_zlb">Der Kaiser strebte verschiedene Bündnisse mit Nachbarstaaten an, um zumindest den äußeren Frieden zu wahren. So stand seine Reise nach Mailand im Zeichen der Annäherung, es ging ihm darum, dem italienischen König, Vittorio Emanuele II. (1820–1878), die Hand zu schütteln. Dieser hatte Berlin auf Einladung Kaiser Wilhelms im Herbst 1873 besucht (siehe den Brief von Gregorovius an Ersilia Cateani Lovatelli vom 10.9.1873) und dem Deutschen Kaiser dabei das Versprechen eines Gegenbesuchs abgenommen. Aus gesundheitlichen Gründen erfolgte dieser allerdings erst zwei Jahre später. Als Kaiser Wilhelm am 18. Oktober in Mailand einfuhr, wurde er unter großem Jubel des Volkes empfangen. Siehe dazu Beilage zu Nr. 292 der AZ. Augsburg: Cotta 19.10.1875. S. 4568–4569.</note></seg>. Um aller Welt willen, fürchten Sie nichts! Er erhebt mehr keinen Anspruch auf das<seg type="comment"><orig> <foreign xml:lang="Lat">Imperium Romanum</foreign></orig><note xml:id="nkp1_4rt_zlb">Lat. für: Römisches Reich.</note></seg>, und wenn er nun <seg type="comment"><orig>nach <placeName key="ed_omh_fly_1lb">Monza</placeName> gehen sollte</orig><note xml:id="ntj3_prt_zlb">Am 20. Oktober 1875 war Kaiser Wilhelm vom königlichen Ehepaar in deren Schloß nach Monza eingeladen. Die für den dortigen Schlosspark geplante Jagd musste aufgrund der Wetterlage abgesagt werden, weshalb der Kaiser nach einem gemeinsamen Frühstück wieder nach Mailand zurückreiste.</note></seg>, so wird dies in gutem Einvernehmen mit der eisernen <seg type="comment"><orig>Krone</orig><note xml:id="nhwv_qrt_zlb">Die grün-emaillierte, mit 22 Edelsteinen besetzte Königskrone der Langobarden, die im Domschatz zu Monza aufbewahrt wird.</note></seg> geschehen – <seg type="comment"><orig>er wird sich mit dem Geweihe irgend eines Hirsches aus dem königlichen Park begnügen</orig><note xml:id="ndvg_srt_zlb">Anspielung auf die abgesagte Jagd.</note></seg> und die Hand drücken, die ihm <placeName key="G000690">Italien</placeName> zum Zeichen jener Liebe entgegenstreckt, die es für ihn empfindet. Wenn es auch nicht die Liebe eines wahren Liebenden ist, so wird es doch wenigstens eine politisch-platonische Zuneigung sein, die nicht nützt und nicht schadet.<gap reason="lost" unit="chars" quantity="1"/></p>
+<p>Das von Ihnen entworfene Gemälde des friedlichen Lebens, das <persName key="G001007 G001004">Sie alle</persName> <seg type="comment"><orig>in <placeName key="G000656">Castellamare</placeName></orig><note xml:id="nq5d_5rt_zlb">Castellammare di Stabia, eine Hafenstadt am Golf von Neapel. Die Caetanis verbrachten den Sommer 1875 dort; siehe den Brief von Gregorovius an Ersilia Caetani Lovatelli vom 19.7.1875. </note></seg> führten, hat mich sehr erfreut. Sie, die Sie glücklicherweise in dem irdischen Paradies geboren sind, besitzen alle Rechte und ich kann sagen auch alle Verdienste, um dort zu bleiben und dort den Lauf des Lebens zu beschließen, das, wie ich Ihnen wünsche, noch lange währen und Ihnen in Freude dahingehen möge. Was mich anbelangt, <pb n="81"/><seg type="comment"><orig>der ich in jenen Gegenden gereist bin</orig><note xml:id="ng5l_vrt_zlb">Gregorovius hatte Castellamare am 16. September 1864 (siehe RT, 24.9.1864, S. 185), im August 1866 (siehe RT, 1.9.1866, S. 212) und auf seiner Süditalienreise mit dem Bruder Julius (1819–1891) am 3. Juni 1874 (siehe RT, Süditalienische Reise, S. 342) besucht.</note></seg>, so habe ich <seg type="comment"><orig>zurückziehen müssen</orig><note xml:id="nfwq_wrt_zlb">Mit Erfüllung seiner Arbeit an der „Geschichte der Stadt Rom im Mittelalter“ (8 Bde., 1859–1872) sah Gregorovius seine Zeit in Italien für beendet an und verließ Rom am 14. Juli 1874, um sich in München niederzulassen (siehe RT, 14.7.1874, S. 342–343).</note></seg>, und nun gleiche ich, um mich eines Bildes zu bedienen, das <persName key="G001592">Schweinfurth</persName> zur Zeit seiner Abreise <seg type="comment"><orig>von dem Centrum <placeName key="ed_g1g_5cy_1lb">Afrikas </placeName>anwendete</orig><note xml:id="nilr_yrt_zlb">Georg Schweinfurth (1836–1925) hatte Botanik und Paläontologie studiert und mehrere Forschungsreisen nach Afrika unternommen. Im Auftrag der Humboldt-Stiftung war er 1868–1871 durch Zentralafrika gereist, Die ethnographischen, botanischen und geographischen Ergebnisse seiner Afrika-Reise hatte Schweinfurth in seinem einflussreichen Hauptwerk zusammengefasst: „Im Herzen von Afrika. Reisen und Entdeckungen im Centralen Aequatorial-Afrika während der Jahre 1868 bis 1871“  (2 Bde., Leipzig: Brockhaus 1874; siehe  http://www.archive.org/stream/imherzenvonafri01schwgoog#page/n11/mode/2up und http://www.archive.org/stream/imherzenvonafri00schwgoog#page/n13/mode/2up. Im Nachlass von Gregorovius haben sich vier Briefe von Schweinfurth erhalten (BSB München, NL Gregorovius, Gregoroviusiana 21).</note></seg>, demjenigen, <seg type="comment"><orig>der vorne auf dem Wagen ist und zu dem schönen Lande zurückschaut, von dem er sich entfernt</orig><note xml:id="nlrg_psv_2mb">Über die Rückreise von seiner Expedition heißt es in Schweinfurths „Im Herzen von Afrika“: „Ferne Reisebilder tauchten dann vor meiner Seele auf, Bilder wie aus dem kleinen Fenster im Rücksitz des Reisewagens, und sie entrollten mir die abgelaufenen Karte meines Lebens.“ (Bd. 2. Leipzig: Brockhaus 1874. S. 479; siehe http://www.archive.org/stream/imherzenvonafri00schwgoog#page/n521/mode/2up).</note></seg>. Die Sonne Italiens muß jetzt in meiner Seele untergehen, sinkt hinunter in den Abgrund des Mythus <foreign xml:lang="ita">Roma</foreign>, der sich öffnet, und es ist kaum mehr eine Spitze des Thurmes, die noch zum Vorscheine kommt, oder das Gesicht manch einer Person, die ich nicht vergessen werde. Übrigens werde auch ich sagen:</p>
+<p rendition="#c">„<seg type="comment"><orig><foreign xml:lang="ita">Sempre nel cor l’Italia,</foreign> <lb/><foreign xml:lang="ita">S’ella anco obblia chi l’ama</foreign></orig><note xml:id="nttz_prv_2mb">Ital.: Immer im Herzen Italien, ob dieses auch vergißt den, der es liebt. Ein Zitat nach dem Gedicht „Le Fantasie“ des romantischen Dichters Giovanni Berchet (1783–1851).</note></seg>.“</p>
+</div>
+        </body>
+    </text>
+</TEI>

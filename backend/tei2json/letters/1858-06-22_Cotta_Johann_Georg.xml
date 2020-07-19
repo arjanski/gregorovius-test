@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000116">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Johann Georg Freiherr Cotta von Cottendorf in
+                    Stuttgart. Rom, 22. Juni 1858</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (15)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach D1)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 220–221 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er ist erleichtert, dass Cotta das Angebot, den Verlag seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) zu übernehmen, so positiv aufgenommen hat. Er wird das Manuskript der ersten beiden Bände (1859) am 25. Juni zur Einsicht an den Verlag schicken. Er versichert, dass die katholischen Leser an seiner Darstellung keinen Anstoß nehmen, und rechtfertigt den geplanten Umfang von sechs Bänden. Im Herbst will er den dritten Band (1860) beginnen. Er wiederholt seine Verlagsbedingungen. Bezüglich der Fragen zu den Namensvettern und Vorfahren von Cotta, Herlembaldus und Gianantonio Cotta, gibt er Literaturhinweise und bietet Kopien hieraus an.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He is relieved that Cotta reacted so positively to the offer of publishing of his „Geschichte der Stadt Rom im Mittelalter“ (1859-1872). He will send the manuscript of the first two volumes (1859) to the publisher for inspection on June 25th. He assures that the Catholic readers will not take offence at his presentation and justifies the planned scope of six volumes. In the fall he plans to start the third volume (1860). He repeats his publishing conditions. With regard to questions about the namesakes and ancestors of Cotta, Herlembaldus and Gianantonio Cotta, he gives him some references and offers copies of them. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1858-06-22" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001055">Cotta von Cottendorf, Johann Georg
+                        (1796–1863)</persName>
+                    <placeName key="G000879">Stuttgart</placeName>
+                </correspAction>
+                <correspContext>
+<ref type="prev">24. Mai 1858 (K: DLA Marbach, Cotta-Archiv, Cotta-Briefe, 14a)</ref>
+<ref type="next">9. Juli 1858  (K: DLA Marbach, Cotta-Archiv, Cotta-Briefe, 15a)</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi>, 22 <hi rendition="#aq">Juni</hi> 1858.</dateline>
+                    <salute rendition="#c">Hochgeehrter Herr Baron,</salute>
+                </opener>
+                <p>die mir durch Ihr freundliches Schreiben eröffnete <seg type="comment"><orig>Aussicht, die „<bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Geschichte der Stadt Rom im Mittelalter</bibl>“ in dem <orgName key="G000523">J. G. Cotta’schen Verlag</orgName> aufgenommen zu sehn, ist mir wahrhaft belebend</orig><note xml:id="nuzw_yc5_5lb">Nachdem Brockhaus auf Gregorovius’ Brief vom <ref target="G000069">8. März 1858</ref> und das beigelegte Konzept seiner „Geschichte der Stadt Rom im Mittelalter“ (Stuttgart: Cotta 1859–1872), mit dem er sein Werk zum Verlag anbot, offenbar zögerlich reagiert hatte, legte Gregorovius Johann Georg Cotta mit seinem Brief vom <ref target="G000085">20. Mai 1858</ref> ein Verlagsangebot vor, der sich in seinem Antwortschreiben vom 24. Mai 1858 (K: (DLA Marbach, Cotta-Archiv, Cotta-Briefe, 14a) sehr interessiert und verhandlungsbereit gezeigt hatte.</note></seg>. Denn keinen größeren Wunsch kann ich hegen, als das absolut schwierigste u<ex>nd</ex> vielleicht auch verdienstlichste Werk meines Lebens der Wissenschaft unter dem Schutz Ihres Namens zu hinterlaßen.</p>
+                <p>Beide erste Bände sind druckfertig; sie werden am 25. d<ex>ieses</ex> M<ex>onats</ex> von hier nach Stuttgart abgehen, so daß Sie <seg type="comment"><orig>aus der Einsicht der Manuskripte am besten so Gehalt wie Form beurteilen werden</orig><note xml:id="ndtd_hd5_5lb">Cotta hatte implizit gebeten, dass Gregorovius ihm sein Manuskript der ersten zwei Bände zur Einsicht schicken solle, um besser beurteilen zu können, „ob das Werk in katholischen Landen Eingang finden, oder staatlich prohibirt, auch von strengen Katholiken gekauft oder nicht gekauft werden dürfte“ (K: DLA Marbach, Cotta-Archiv, Cotta-Briefe, 15a).</note></seg>. Die Einleitung wird sofort zeigen, d<ex>a</ex>ß sich der Verfaßer auf einen durchaus objectiven Standpunkt gestellt hat. <seg type="comment"><orig>Alles Tendenziöse, u<ex>nd</ex> Confessionelle ist vermieden, die ruhigste Würde bei Beurteilung der Dinge angestrebt worden, obwol gewiße philosophische Grundsätze mit Liberalität behauptet worden sind</orig><note xml:id="ntjk_jd5_5lb">Da das Manuskript von Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ am 9. Juli 1858 noch nicht in Stuttgart eingetroffen war, konnte Cotta sich noch kein eigenes Bild machen, zeigte sich von diesen Ausführungen aber wenig überzeugt, weil diese „freilich sehr vielseitig gedeutet werden“ können (K: DLA Marbach, Cotta-Archiv, Cotta-Briefe, 15a).</note></seg>, wie sie die Pflicht des denkenden Geschichtsschreibers fordert. Es ist daher kein Anstoß zu fürchten, <seg type="comment"><orig>wenigstens nicht bei den deutschen Katholiken</orig><note xml:id="nyyn_nd5_5lb">Cotta teilte diesen Standpunkt in seinem Antwortbrief vom 9. Juli 1858 nicht: „Indeßen wüßte ich zwischen den deutschen und den italienischen Katholiken keinen Überschied mehr zu machen, zur Zeit wenigstens nicht. Ja ich glaube die italienischen sind eben jetzt viel freisinniger als die deutschen. Sie haben vielleicht keine genauer Kunde von dem was seit Ihrer Abwesenheit in Deutschland in dieser Beziehung vorgegangen ist“ (K: DLA Marbach, Cotta-Archiv, Cotta-Briefe, 15a).</note></seg>.</p>
+                <p><seg type="comment"><orig>Die Feststellung des Ganzen auf 6 Bände entspringt nicht sowol aus einem innern Grunde, als aus der Annahme, daß die Fülle des Materials nicht in weniger Bänden wird zu bewältigen sein</orig><note xml:id="nlyn_pd5_5lb">Cotta hatte schon im vorangehenden Schreiben vom 24.5.1874 den geplanten Umfang moniert und auch in seinem Antwortschreiben noch einmal betont, „daß die Buchhandlung einen Umfang von nur vier Bänden vorziehen würde; weil eben das Publicum sehr bändereichen Werken abhold ist.“ (K: DLA Marbach, Cotta-Archiv, Cotta-Briefe, 14a und 15a).</note></seg>. Je weiter man vorschreitet, desto reicher und intereßanter werden die Gegenstände. <seg type="comment"><orig>Ich beginne gleich im <pb n="1v"/>Herbst den dritten Band, u<ex>nd</ex> werde alle meine Kräfte daran setzen, fortzuschreiten, nur kann ich keinen bestimmten Termin für die Beendigung angeben</orig><note xml:id="nidf_rd5_5lb">Die ersten beiden Bände der „Geschichte der Stadt Rom im Mittelalter“ erschienen 1859, der dritte Band 1860.</note></seg>, weil wir Menschen ja nicht einmal Herr<add place="intralinear">en</add> über Heute u<ex>nd</ex> Morgen sind.</p>
+                <p><seg type="comment"><orig>Daß Sie, Herr Baron, die Bedeutung des Gegenstandes sofort anerkennen, u<ex>nd</ex> ein solches Unternehmen sofort willkommen heißen würden</orig><note xml:id="nmdp_sd5_5lb">In seinem Antwortschreiben vom 24.5.1874 hatte Cotta auf das Verlagsangebot von Gregorovius vom <ref target="G000085">20. Mai 1858</ref> sehr angetan reagiert: „Der Inhalt dieses Ihres Schreibens hat mich in hohem Graade angesprochen […]. Eine Geschichte der Stadt Rom im Mittelalter ist ein so schöner Stoff wie nicht leicht einer“ (K: DLA Marbach, Cotta-Archiv, Cotta-Briefe, 14a).</note></seg>, hatte ich mir gleich gedacht. Ich darf mich daher aller weiteren Bemerkungen enthalten. Auch sonst intereßieren sich ausgezeichnete Männer im Auslande, wie im <placeName key="G000664">Vaterlande</placeName> für den Fortgang dieser Arbeit, u<ex>nd</ex> <seg type="comment"><orig><persName key="G001301">Herr Baron v<ex>on</ex> Humboldt</persName>, wie der <persName key="G001644">Freiherr v<ex>on</ex> Thile</persName> stellen mir gewiße Erleichterungen von Seiten des <placeName key="G000646">preußischen Staats</placeName> in Aussicht</orig><note xml:id="nxlj_wd5_5lb">Alexander von Humboldt (1768–1859) hatte Gregorovius am 29. Juli 1856 geschrieben und sein „Corsica“ (1854) sehr gelobt: „Es war mir längst ein Bedürfniß, Ihnen den tiefen Eindruck zu schildern, den Ihr vortrefliches, so viel Neues enthaltendes historisches Werk über Corsica auf mich und die mit mir gleich Gesinnten hervorgebracht hat.“ (BSB, Sign. Autogr.Cim. Humboldt, Alexander von.13 – siehe http://daten.digitale-sammlungen.de/bsb00091648/image_1). Veranlasst wurde Humboldt – seit 1827 Präsident der Kommission zur Prüfung der Unterstützungsgesuche von Gelehrten und Künstlern – zu seinem Schreiben durch den Besuch ihres gemeinsamen Freundes Friedrich Althaus, in dessen Folge Gregorovius ab Herbst 1860 eine jährliches Stipendium der preußischen Regierung für seine „Geschichte der Stadt Rom im Mittelalter“ zugesagt wurde, die mit Hilfe des mittlerweile wieder in Berlin tätigen, ehemaligen preußischen Gesandten in Rom Hermann von Thile bis 1866 fortgezahlt wurde (zur unerfreulichen Beendigung des Stipendiums siehe das Brandspuren aufweisende Konzept eine Briefes von <ref target="G000214">Gregorovius an Hermann von Thile, vor dem 19.4.1866</ref>).</note></seg>.</p>
+                <p>Indem ich also die 2 ersten Bände Ihrem Wolwollen wie dem der geehrten J. G. Cottaschen Buchhandlung empfehle, hoffe ich, <seg type="comment"><orig>daß sich ein Übereinkommen wol wird abschließen lassen. Nach reiflicher Erwägung, auch mit andren Männern, hatte ich bereits ungefähr meine Wünsche in Bezug auf die Summe des Honorars angegeben; ich spreche sie noch einmal dahin aus, daß ich <add place="left" hand="#addressee"><metamark target="#seg-1" function="used" rendition="#mMM"/></add><seg xml:id="seg-1">zufriedengestellt sein werde, wenn ich für jeden Band die runde Summe von Einhundert Louisdor’s bei der ersten Auflage von <hi rendition="#u" hand="#addressee">1000</hi> Exemplaren erhalte</seg>; ich hoffe, die geehrte Buchhandlung wird dies als bescheiden anerkennen bei einem Werk <pb n="2r"/>dieses Charakters u<ex>nd</ex> dieser nicht auszusprechenden Mühe, welche meine Kräfte gänzlich verschlingt. Ein geringeres Honorar würde außerhalb dem Verhältniß des Werkes wie der Leistung stehn. Ich glaube, daß eine bandweise festgesetzte Summe Ihnen covenabler sein möchte, als die nach Bogen berechnete</orig><note xml:id="naxs_525_5lb">Der Verlags-Vertrag über Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ wurde am 9. September von Gregorovius unterzeichnt, er sah eine Auflage von 1000 Exemplaren und sechs Bände zu 25–30 Bogen vor. Als Honorar wurden je 600 Talern für die ersten beiden Bände und für die vier folgenden je 500 Taler vereinbart; nach Abschluss des Werks sollten weitere 400 Taler fällig sein, wenn bis dahin mehr als 600 Exemplare verkauft sein sollten (DLA Marbach, Cotta-Archiv, Cotta-Verträge 1).</note></seg>, u<ex>nd</ex> das Manuscript wird zeigen, daß jeder abgeteilte Band <hi rendition="#aq">circa</hi> 25–30 <add place="left" hand="#addressee"><metamark target="#seg-2" function="used" rendition="#mMM"/></add><seg xml:id="seg-2">Bogen zu 16. Seiten beträgt, etwa im Format der sehr gut ausgestatteten <seg type="comment"><orig>„<hi rendition="#u" hand="#addressee"><bibl sameAs="G004775">Geschichte des italienisch-österreiches Feldzuges von einem Veteranen</bibl></hi>“</orig><note xml:id="nshq_w25_5lb">Gemeint sind die bei Cotta in zwei Bänden 1852 herausgegebenen „Erinnerungen eines österreichischen Veteranen aus dem italienischen Kriege der Jahre 1848 und 1849“ von Karl von Schönhals.</note></seg>.</seg> Für folgende Auflagen möchte dann ein neues Abkommen zu treffen sein, wenn nicht schon vorläufige Verträge darüber beliebt werden. Es ist zu natürlich, um es noch auszusprechen, d<ex>a</ex>ß der Verfaßer einer solchen großen u<ex>nd</ex> bleibenden Arbeit gern den höchsten materiellen Gewinn davon auch für die Zukunft ziehen möchte, so weit er mit einem gleichen des Verlages übereinkommt, u<ex>nd</ex> in dieser Beziehung weiß ich, daß indem Sie beide Seiten abwägen, ich nicht beßer beraten sein könnte, als durch Sie u<ex>nd</ex> die J. G. Cottasche Buchhandlung selber.</p>
+                <p>Gegenwärtig scheint die deutsche Literatur in eine bedeutende Phase der Geschichtsschreibung getreten zu sein, u<ex>nd</ex> so möchte schon wegen dieser Strömung vielen das Werk als eine Novität willkommen sein.</p>
+                <p>Den <seg type="comment"><orig><hi rendition="#aq">Herlembaldus</hi> Cotta</orig><note xml:id="nfbb_y25_5lb">Cotta hatte Gregorovius im seinem vorhergehenden Schreiben vom 24. Mai 1858 um Auskunft gebeten, wo etwas zu seinem Namensvetter und Vorfahren, dem Mailänder Kapitän Herlembaduls Cotta (†1075), zu finden sei (K: DLA Marbach, Cotta-Archiv, Cotta-Briefe, 14a). Erlembaldo Cotta war ein, aus dem Adel stammender, Anführer der Pataria, einer Mitte des 11. Jahrhunderts in Mailand entstandenen, v. a. durch Laien getragenen religiösen Reformbewegung, die sich gegen den Klerus auflehnte und zeitweise de facto die Herrschaft in der Stadt ausübte. Im Zentrum der Kritik standen Ämterkauf (‚Simonie‘) und Priesterehe. Erlembaldo starb 1075 während eines Umsturzversuches und wurde 1095 durch Papst Urban II. heiliggesprochen.</note></seg> (<hi rendition="#aq"><foreign xml:lang="Lat"><seg type="comment"><orig>vir genere clarus, nimis in armis strenuus, corpore gracilis, leonino pectore fervens</orig><note xml:id="nxsb_cf5_5lb">Lat.: ein Mann von berühmter Herkunft, überaus tüchtig im Waffengebrauch, von hagerer Statur und mit einem aufbrausenden, einem Löwen ähnelnden Gemüt.</note></seg></foreign></hi>, wie ihn der <seg type="comment"><orig><hi rendition="#aq">Manipulus Florum</hi> nennt</orig><note xml:id="nawk_df5_5lb">Das Zitat stammt aus der Mailänder Stadtchronik „Manipulus florum seu Historia Mediolanensis“ des Dominikaners Galvano Fiamma (1283–1344). Vgl. Rerum Italicarum Scriptores, Bd. 11. Hg. von Lodovico Antonio Muratori. Mailand: Typographia Societatis Palatinae in Regia Curia 1727. Sp. 623 (siehe https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10869000_00358.html).</note></seg>) <seg type="comment"><orig>will ich im besonderen, nach mittelaltriger <pb n="2v"/>Weise zum Protector bei Ihnen selber ernannt wißen</orig><note xml:id="nayl_ff5_5lb">In seiner „Geschichte der Stadt Rom im Mittelalter“ würdigte Gregorovius den Mailänder Kapitän des 11. Jahrhunderts Herlembaldus Cotta und seine Bruder Landulf (siehe Bd. 4, 1862, S. 123–124 und S. 147–148).</note></seg>.</p>
+<p>Es macht mir großes Vergnügen <seg type="comment"><orig>wegen des <hi rendition="#aq">Vice</hi>-Dux <persName key="G004725"><hi rendition="#aq">Gian Antonio</hi> Cotta</persName></orig><note xml:id="nmvy_gf5_5lb">Cotta hatte von Gregorovius im seinem vorhergehenden Schreiben vom 24. Mai 1858 wissen wollen, wo etwas zu seinem Namensvetter und Vorfahr Gianantonio Cotta zu finden ist, den dieser in seiner Übersetzung der Novelle „Das Gelübde des Petrus Cyrnäus. Historische Novelle von Salvator Viale“ (in: Morgenblatt für gebildete Leser. Nr. 41–42. Stuttgart, München: Cotta 7. u. 14.10.1855. S. 961–967 u. 991–998, hier Nr. 41, S. 961) als korsischen Vizekönig im Jahre 1463 bezeichnet hatte (K: DLA Marbach, Cotta-Archiv, Cotta-Briefe, 14a).</note></seg> bemerken zu können, daß <seg type="comment"><orig>seine Affairen in <placeName key="G000710"><hi rendition="#aq">Corsica</hi></placeName> zu finden sind</orig><note xml:id="ntwz_lf5_5lb">Korsika stand 1464–1481 unter der Herrschaft der Mailänder Familie Sforza. Gianantonio Cotta fungierte 1468 und 1477 jeweils als Stellvertreter der Herzöge Galeazzo Maria (1444–1476) bzw. Gian Galeazzo (1469–1494) Sforza auf der Insel.</note></seg> beim <bibl corresp="G004785"><hi rendition="#aq">Limperani</hi>, <hi rendition="#aq">Storia della’ Corsica</hi></bibl> <hi rendition="#aq"><foreign xml:lang="ita">T<ex>ome</ex></foreign></hi> II. <hi rendition="#aq"><foreign xml:lang="ita">lib<ex>ro</ex></foreign></hi> 15. § 10 <seg type="comment"><orig><hi rendition="#aq"><foreign xml:lang="Lat">s<ex>e</ex>q<ex>uens</ex></foreign></hi></orig><note xml:id="nodr_pf5_5lb">Lat.: folgend.</note></seg>– die große <bibl sameAs="G004786">Chronik des <hi rendition="#aq">Filippini</hi></bibl> bezieht sich auf die Ereigniße, ohne wunderlicher Weise <hi rendition="#aq">Gian Antonio</hi> zu nennen. <seg type="comment"><orig><hi rendition="#aq"><persName key="G001034">Petrus Cyrnaeus</persName> de rebus Corsicis</hi> <hi rendition="#aq"><foreign xml:lang="ita">lib<ex>ro</ex></foreign></hi> III gegen das Ende</orig><note xml:id="nelg_tf5_5lb">Der korsische Priester und Geschichtsschreiber Pietro Cirneo (1447-um 1506) hatte sich in Venedig niedergelassen und dort u. a. sein Hauptwerk zur Historie seiner Heimatinsel publiziert (De rebus corsici libri, ed. princeps 1506). Lodovico Antonio Muratori (1672–1750): Rerum italicarum scriptores ab anno aerae christianae 500 ad annunm 1500. Bd. 24. Mailand 1738, Sp. 478 (siehe https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10869013_00273.html?zoom=0.55) (dt.: „Geschichte von Italien – nach Ordnung der Jahre, vom Anfang der christlichen Zeitrechnung bis auf das Jahr 1500“, 9 Bde., Leipzig 1745–1750).</note></seg> (beim <seg type="comment"><orig><bibl sameAs="G004216"><hi rendition="#aq">Muratori</hi> <hi rendition="#aq">Scriptor<ex>es</ex> Rer<ex>um</ex>-Ital</hi><ex>icum</ex></bibl> XXIV. p<ex>agina</ex> 478</orig><note xml:id="ny5f_wf5_5lb">Lodovico Antonio Muratori (1672–1750): Rerum italicarum scriptores ab anno aerae christianae 500 ad annunm 1500. 25 Bde. Mailand 1723–1738, hier Bd. 24, 1738, Sp. 478 (siehe https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10869013_00273.html?zoom=0.55) (dt.: „Geschichte von Italien – nach Ordnung der Jahre, vom Anfang der christlichen Zeitrechnung bis auf das Jahr 1500“, 9 Bde., Leipzig 1745–1750).</note></seg> <hi rendition="#aq">D</hi>.) zählt ihn unter den Mailändischen <unclear reason="illegible" cert="low">Ruclorne</unclear> der Insel auf. Derselbe ausgezeichnete Mann war nach seiner Abberufung Governatore von <hi rendition="#aq"><placeName key="G004685">Parma</placeName></hi> (<seg type="comment"><orig>Diarium Parmense beim <hi rendition="#aq">Muratori</hi> Scriptor<ex>es</ex> R<ex>erum</ex> It<ex>alicum</ex> <hi rendition="#aq"><foreign xml:lang="ita">T<ex>ome</ex></foreign></hi> XXII. p<ex>agina</ex> 326</orig><note xml:id="njt3_xf5_5lb">Ein anonymes, in Parma entstandenes Werk, das über Ereignisse in der Lombardei im Zeitraum zwischen 1476 und 1482 berichtet und auch unter dem Titel „Chronica gestorum in partibus Lombardiae et reliquis Italiae“ bekannt ist. Lodovico Antonio Muratori (1672–1750): Rerum italicarum scriptores ab anno aerae christianae 500 ad annunm 1500. Bd. 24. Mailand 1738, Sp. 326 (siehe https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10869011_00192.html).</note></seg>). Ich fürchte, daß die <seg type="comment"><orig>Geschichte <hi rendition="#aq">Limperani</hi>’s nicht in <hi rendition="#aq">Stuttgart</hi> vorhanden sein wird, in diesem Falle bitte ich mir Nachricht zu geben, wo ich dann die betreffenden <hi rendition="#aq">Facta</hi> copiren werde</orig><note xml:id="nxp5_yf5_5lb">Tasächlich bat Cotta im nachfolgenden Schreiben vom 9. Juli 1858: „Limperani aber ist mir unbekannt und nicht hier zu finden. Eine Copie der betreffenden Passus über GianAntonio wäre mir willkommen und die Abschreibe Gebühren erseze ich mit Vergnügen.“ (K: DLA Marbach, Cotta-Archiv, Cotta-Briefe, 15a) Die gewünschten Materialien ließ ihm Gregorovius zukommen (siehe den Brief von <ref target="G000114">Gregorovius an Cotta, 25.8.1858</ref>).</note></seg>.</p>
+                <closer>Mit dem Wunsche, daß Ihre Gesundheit völlig möge wieder hergestellt sein, u<ex>nd</ex> mit der Bitte, mich in Ihrem geneigten Wolwollen zu behalten, empfehle ich mich, Herr Baron, <salute xml:id="s2" prev="#s1" rendition="#c">Mit großer Hochachtung u<ex>nd</ex> Ergebenheit</salute> <signed rendition="#right"><hi rendition="#aq">Ferdin. Gregorovius</hi>.</signed> </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

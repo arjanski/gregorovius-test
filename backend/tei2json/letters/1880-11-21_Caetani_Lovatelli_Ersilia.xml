@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_rpd_ldw_slb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Contessa Ersilia Caetani Lovatelli in Rom. München, 21. November 1880 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free">
+                <licence target="http://creativecommons.org/licenses/by/4.0/">
+                    Creative Commons Attribution 4.0 International (CC BY 4.0)
+                </licence>
+            </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno>Karton 59, Mappe 348 (nach D)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"><bibl type="print">Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli. Hrsg. von Sigmund Münz. Berlin: Paetel 1896. S. 100–101</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für ihre Schrift „Le nozze di Elena e Paride rappresentate di bassorilievo in un cratere dell’Esquilino“ (1880). Angeregt durch seine Griechenlandreise studiert er in München die von Heinrich Brunn am Archäologischen Insitut eingerichtete Abgusssammlung und die „Athenischen Mitteilungen“ des Deutschen Archäologischen Instituts in Athen. Für die Zeitschrift „Unsere Zeit“ hat er die Artikel „Korfu“ (Bd. 2, 1880) und „Aus der Landschaft Athens“ (Bd. 1, 1881) geschrieben. Kommenden Februar wird er nach Rom reisen. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1880-11-21" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001011">Caetani Lovatelli, Ersilia contessa (1840-1925)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="100"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">München, 21. November 1880.</dateline>
+                    <salute rendition="#c">Sehr verehrte Frau Gräfin,</salute>
+                </opener>
+<p>ich erstatte Ihnen unendlichen Dank für das sehr schöne Geschenk, das Sie mir gemacht. Ich meine Ihre <bibl sameAs="ed_x25_xqt_5lb">Abhandlung</bibl> über das Basrelief der römischen Trinkschale, das die Hochzeit der <persName key="ed_fwy_jrt_5lb">Helena</persName> und des <persName key="ed_zmh_3rt_5lb">Paris</persName> darstellt. Auf den ersten Blick erinnerte ich mich an jenes <seg type="comment"><orig>andere wunderbare Relief aus dem <orgName key="ed_hcg_cyh_zkb">Museum von Neapel</orgName>, das den gleichen Stoff behandelt</orig><note xml:id="nyq2_prt_5lb">Es muss sich hier um das aus dem 2.–1. Jahrhundert v. Chr. stammende, römische Relief im neapolitanischen Museum handeln, das Helena, Venus, Paris und Amor vor der Göttin Plio zeigt: https://www.alinari.it/it/dettaglio/BGA-F-005210-0000. </note></seg>. Um nicht in die Untugend des Schmeichelns zu verfallen, werde ich Ihnen nichts über die Art sagen, wie Sie den Gegenstand zu beleuchten verstanden haben. Aber ich kann doch nicht umhin, meine Genugthuung darüber auszudrücken, daß ich Sie auf dem weiten Gebiete der archäologischen Wissenschaft mit so sicheren Schritten vorwärtskommen und sich dadurch in edler Weise erbauen sehe.</p>
+<p>Ihre Arbeit hat mich um so mehr erfreut, als sie mich zufällig mit dem Studium der griechischen Skulpturen beschäftigt fand, <seg type="comment"><orig>die ich <foreign xml:lang="Lat"><seg type="comment"><orig>in situ</orig><note xml:id="npmd_qrt_5lb"/></seg></foreign> zu bewundern Gelegenheit gehabt</orig><note xml:id="njkb_rrt_5lb">"in situ" = Lat. für: vor Ort. Gregorovius und sein Bruder Julius (1819–1891) hatten sich am 27. März von Rom aus zu einer mehrwöchigen Griechenlandreise aufgemacht, von der sie am 10. Mai zurückkamen (siehe RT, Romfahrt und Griechische Reise 1880, S. 419–420). Über die vielen, von ihnen besichtigten Orte berichtet Gregorovius auch an anderer Stelle; siehe den Brief von Gregorovius an Giovanni Gozzadini vom 30.7.1880.</note></seg>. </p>
+<p>Ich habe fast alle bis jetzt <seg type="comment"><orig>vom <orgName key="ed_rvn_trt_5lb">deutschen archäologischen Institute in Athen</orgName></orig><note xml:id="nqcl_hgj_1mb">Die seit 1874 bestehende Abteilung befindet sich im Zentrum Athens in einem von Heinrich Schliemann (1822–1890) errichteten Haus.</note></seg> veröffentlichten Bände „<orgName key="ed_ybd_wrt_5lb">Mitteilungen</orgName>“ durchgelesen, und nun studire ich die sehr schöne <orgName key="ed_wdc_zrt_5lb">Gypssammlung</orgName>, die der bekannte <seg type="comment"><orig>deutsche Archäologe <persName key="G004709">Brunn</persName></orig><note xml:id="ntjc_cst_5lb">Der aus Wörlitz stammende Archäologe Heinrich Brunn (1882 Ritter von Brunn, 1822–1894) war 1843 nach seiner Promotion in Bonn nach Rom gekommen, wo er bis 1853 am Deutschen Archäologischen Institut am von Theodor Mommsen (1817–1903) begründeten „Corpus Inscriptionum Latinorum“ mitgearbeitet hatte. 1854 habilitierte er sich in Bonn, kam aber Anfang 1857 als Nachfolger Emil Brauns (1809–1856) als zweiter Sekretär des Deutschen Archäologischen Institut nach Rom zurück, wo er bis zu einem Ruf auf den neu geschaffenen Lehrstuhl für Klassische Archäologie an der Universität München im Jahre 1865 blieb. In München war er zudem als Kurator des Münzkabinetts, der Vasensammlung und der Gipssammlung am Archäologischen Institut zuständig. Gregorovius und Brunn kannten sich bereits seit den 1850er Jahren persönlich (siehe RT, 14.6.1857, S. 66).</note></seg> hier unter den Hallen des <placeName key="ediarum_obk_fst_5lb">königlichen Gartens</placeName> in der Weise vereinigt hat, daß sich <seg type="comment"><orig>in München die griechische Kunst recht gut veranschaulicht findet</orig><note xml:id="nzgn_jst_5lb">Im Zuge der Gründung eines Lehrstuhls für Klassische Archäologie an der Münchner Universität kuratierte Brunn das Museum im Jahre 1869. Waren die Abgüsse zunächst in einem ehemaligen Jesuitenkolleg untergebracht, kamen sie nach und nach in die nördlichen Hofarkaden der Münchner Residenz. </note></seg>; denn, von diesem neuen Museum abgesehen, <pb n="101"/>rühmt sich München auch der sehr gefeierten Schätze seiner <orgName key="G067530">Glyptothek</orgName>.</p>
+<p>Indessen veröffentlichte ich zwei <bibl sameAs="G004025">Artikel</bibl> über die Insel <placeName key="ed_ql4_3zn_5lb">Korfu</placeName>, die von der „<orgName key="ed_sst_4st_5lb">Klio</orgName>“ in <placeName key="G000890">Triest</placeName> auch in <bibl sameAs="ed_wss_zst_5lb">griechischer Übersetzung</bibl> gebracht wurden. Bald wird eine andere <bibl sameAs="G004029">Abhandlung</bibl> von mir erscheinen, die sich mit der Landschaft <placeName key="G000619">Athens</placeName> beschäftigt und in der ich über meinen Besuch berichte, den ich dem sehr berühmten <placeName key="ed_ych_4tt_5lb">Kastell von Phyli</placeName> im <placeName key="ed_yhq_ttt_5lb">Parnesgebirge</placeName> gemacht. Da diese Dinge in der Revue „<orgName key="G000569">Unsere Zeit</orgName>“ bei <orgName key="G000480">Brockhaus</orgName> in <placeName key="G000712">Leipzig</placeName> veröffentlicht werden, so bin ich nicht in der Lage, Ihnen früher ein Exemplar zu schenken, <seg type="comment"><orig>als bis die Artikel in einem Bande vereinigt sind, was ich später zu verwirklichen gedenke</orig><note xml:id="nvc4_c5t_5lb">Die Artikel zu Korfu erschienen bei Brockhaus 1882 als selbständige Publikation unter dem Titel „Korfu. Eine jonische Idylle“. „Aus der Landschaft Athens“ erschien selbständig im Dresdner Verlag von Jess im Jahre 1943.</note></seg>. </p>
+<p>Meine Arbeiten werden mir nicht erlauben, <seg type="comment"><orig>München vor Ende kommenden Januars oder Anfang Februars zu verlassen</orig><note xml:id="nqcn_d5t_5lb">Nach mehreren Zwischenhalten in nord- und mittelitalienischen Städten reiste Gregorovius am 20. Februar 1881 in Rom ein (siehe Romfahrt 1881 und Rückkehr nach München, S. 422). </note></seg>, aber indessen genieße ich im voraus in Gedanken das Vergnügen, Rom und die römischen Freunde wieder zu begrüßen. Unter diesen nimmt <seg type="comment"><orig>das edle Haus Gaëtani</orig><note xml:id="nkkg_25t_5lb">Gregorovius pflegte auch mit dem Vater der contessa, dem Herzog von Sermonete, Michelangelo Caetani (1804–1882), ein freundschaftliches Verhältnis. Dieser hatte ihm einst Zugang zum Familienarchiv verschafft.</note></seg> mit seinen so sehr würdigen Sprossen, die Gott beschützen möge, den ersten Platz ein.</p>
+                <closer>
+                    <salute>Sehen Sie in mir, wertheste Frau, Ihren sehr ergebenen</salute>
+                    <signed rendition="#right">Ferd. Gregorovius. </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

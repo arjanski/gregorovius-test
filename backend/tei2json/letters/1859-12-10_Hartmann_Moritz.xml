@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000080">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Moritz Hartmann in Florenz. Rom, 10. Dezember
+                    1859</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Wienbibliothek im Rathaus</repository><collection>NL Moritz Hartmann</collection><idno>I. N. 43810</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 4°, 3 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 53, Mappe 323 und Karton 59, Mappe
+                                        347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er möchte ihn gerne in Florenz aufsuchen, doch kann er seine Arbeiten in Rom nicht ruhen lassen. Die derzeitigen Unruhen heißen vermutlich nichts. Giuseppe Garibali ist im Vergleich zu Niccolò Fortebraccio und Niccolò Piccinino nur ein Guerilla-Führer. Die Einheit Italiens wird von der Rolle Roms abhängen. Er wünscht sich eine größere poetische Arbeit von Hartmann. Bei seinem Aufenthalt an den Ufern des Liris und während seines Archivaufenthaltes in Montecassino hat er viel an Michele Amari gedacht. Er erkundigt sich, ob er Paolo Emiliani-Giudici kennengelernt hat. Dass Jean-Jacques Ampère nicht mehr in Rom ist, bedauert er. Er will die ersten beiden Bände seiner „Geschichte der Stadt Rom im Mittelalter“ (1859) nach Paris senden. In Montecassino hat er sich mit Luigi Tosti befreundet. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He would like to visit him in Florence, but he cannot leave his work in Rome. The current unrest probably doesn’t mean anything. Giuseppe Garibali is only a guerrilla leader compared to Niccolò Fortebraccio and Niccolò Piccinino. The unity of Italy will depend on the role of Rome. He would like to see a greater poetic work by Hartmann. During his stay on the banks of the Liris and during his stay in the archives in Montecassino, he thought a lot about Michele Amari. He inquires if he has met Paolo Emiliani-Giudici. He regrets that Jean-Jacques Ampère is no longer in Rome. He wants to send the first two volumes of his „Geschichte der Stadt Rom im Mittelalter“ (1859) to Paris. In Montecassino he became friends with Luigi Tosti. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1859-12-10" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001237">Hartmann, Moritz (1821–1873)</persName>
+                    <placeName key="G000671">Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<salute>Herrn Moritz Hartmann in Florenz.</salute>
+</opener>
+<p><seg type="comment"><orig>Ihre Zeilen, mein verehrter Herr, <choice><sic>habe</sic><corr cert="high">haben</corr></choice> mich auf das Angenehmste überrascht</orig><note xml:id="nuck_3z2_ylb">Gregorovius hatte Hartmann, vermutlich auf Anraten des gemeinsam befreundeten Ehepaars Caroline Ungher-Sabatier (1803–1877) und François Sabatier (1818–1891), im Mai 1859 nach Paris geschrieben – wohl in erster Linie, um ihm den Versand eines Exemplars des ersten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1859) zur Besprechung in der „Revue Germanique“ anzukündigen, deren Redaktionsmitglied Hartmann war.</note></seg>, nicht deshalb weil Sie mir so viel Gutes sagen (obwol diese Teilnahme aus Ihrem Munde vernommen an sich schon hohen Wert hat), sondern weil Sie mir ein wolwollendes Herz gezeigt haben, eine Erscheinung die man in unserem zerrißenen Leben mit Grund als ein freudiges Ereigniß betrachten kann. Unter günstigeren Umständen würde ich <seg type="comment"><orig>nach Florenz geeilt sein</orig><note xml:id="nghc_4z2_ylb">Hartmann hielt sich Ende 1859 bis zum Frühjahr 1860 und im Spätsommer 1862 in Florenz auf.</note></seg>, um Ihnen persönlich alles zu sagen, was brieflich nicht gesagt sein kann, u<ex>nd</ex> vor allen Dingen um mich durch <seg type="comment"><orig>Ihre persönliche Bekanntschaft</orig><note xml:id="nvrx_4z2_ylb">Gregorovius lernte den „wütenden Preußenfeind“ vermutlich erst 1867 in Berg bei Stuttgart kennen (siehe RT, S. 231), wo Hartmann seit 1863 als Redakteur der Wochenausgabe der „Allgemeinen Zeitung“ sowie als Schriftleiter der preußenfeindlichen „Freya“ tatig war.</note></seg> zu beleben. Ich bin indeß hier angeschmiedet an die mittelaltrigen Stadtmauern von Rom.</p>
+<p>Daß Sie nun selbst mit Augen dies <placeName key="G000690">Land</placeName> u<ex>nd</ex> Volk sehen, welches ich nächst meiner <placeName key="G000664">Heimat</placeName> am meisten liebe, u<ex>nd</ex> wofür wir Deutsche eine historisch begründete Neigung haben, ist mir von vielem Wert. Sie werden nun die glänzenden Gaben dieser Menschen mit Freude betrachten, welche trotz ihrer Kunst u<ex>nd</ex> Cultur, doch der Natur so nahe geblieben sind. Der Stoff, aus dem sie gemacht sind, ist unverwüstlich – aber freilich ist er hier in Rom u<ex>nd</ex> weiter in <placeName key="G000844">Latium </placeName>noch urkräftiger, als in dem graziösen <placeName key="G000823">Toscana</placeName>. Sie werden diese Menschen zugleich schmähen und bemitleiden müßen, <unclear reason="illegible" cert="high">wie</unclear> ihre unausrottbaren Fehler, welche sind Parteisucht, völliger Mangel an Rechtsgefühl, u<ex>nd</ex> an bürgerlicher Ehre, wodurch sie so tief unter uns Germanen herabsinken – ja darin sind sie recht miserabel, <pb n="1v"/>u<ex>nd</ex> aus dieser Quelle fließt ein großer Teil ihres Unglücks überhaupt.</p>
+<p>Wenn man wie ich Tag u<ex>m</ex> Tag nichts anderes thut, als die Annalen dieses Volks studiren, so bekommt man eine gewiße kühlere Ansicht von der gegenwärtigen Bewegung. Ich läugne nicht, daß <add place="intralinear">der</add> Fortschritt im Nationalgefühl ein großer ist: aber <seg type="comment"><orig>diese Revolutionen</orig><note xml:id="njw2_qz2_ylb">Nach dem im Frieden von Zürich zwischen Österreich und Frankreich vom 10. November 1859 abgeschlossenen Vertrag, wonach die Habsburgermonarchie den größten Teil der Lombardei an Sardinien-Piemont abzutreten hatte, kam es in den bei Österreich verbliebenen oberitalienischen Gebieten Parma, Modena und der Toskana zu Aufständen und Volksabstimmungen, die weitere Abtretungen zur Folge hatten. Auch der Kirchenstaat mußte infolge von Erhebungen Territorien abgeben, Rom selbst aber blieb, gestützt durch französische Truppen, noch unter päpstlicher Herrschaft.</note></seg> sind zu Hunderten dagewesen, u<ex>nd</ex> oftmals haben sie größere Charaktere aufgestellt, als heute, wo es deren keine gibt; denn <seg type="comment"><orig><persName key="G001160"><hi rendition="#aq">Garibaldi</hi> </persName> ist doch nur ein geschickter Guerillacapitän, deßen Ruf weit seine Thaten übersteigt</orig><note xml:id="ngyb_zkg_ylb">Giuseppe Garibaldi (1807–1882) hatte als General für Sardinien-Piemont die sardinisch-piemontesischen Truppen mit seiner Freiwilligenarmee gegen Österreich unterstützt, doch unterlagen seine Truppen noch vor Kriegsende und wurden zerstreut.</note></seg>, u<ex>nd</ex> der tief unter den <seg type="comment"><orig>Condottieri <persName key="G067511">Fortebraccio</persName> u<ex>nd</ex> <persName key="G067512">Nicolo Piccinino</persName></orig><note xml:id="nj12_clg_ylb">Der Söldnerführer Niccolò Fortebraccio (1375–1435), genannt Niccolò della Stella, kämpfte im Dienste des Herzogs Filippo Maria Visconti von Mailand (1392–1447), zusammen mit dem condottiero Niccolò Piccinino (* um 1380–1444), gegen das Bündnis von Papst Eugen IV. (1883–1447), Venedig und Florenz. Der Herzog ließ Niccolò Piccinino zum Dank im Mailänder Dom bestatten.</note></seg> steht. Diese Unionsfrage ist unlöslich – einmal scheitert sie an dem unaustilglichen Parteiwesen, welches leicht zu einem Bürgerkriege führen kann, wie er <seg type="comment"><orig><placeName key="G000874">Spanien</placeName> durch Carlisten u<ex>nd</ex> Cristinos zerfleischt hat</orig><note xml:id="nvbs_flg_ylb">Der Erste Carlistenkrieg, ein erster spanischer Bürgerkrieg und zusammen mit den weiteren Carlistenkriegen der letzte größere europäische Konflikt mit dem Ziel der Inthronisation eines Prätendenten, brach am 5. Oktober 1833, nur sechs Tage nach dem Tod Ferdinands VII. (*1784) aus und dauerte bis 1840. Die Carlisten, die Anhänger des Bruders Carlos (1788–1855), kämpften für Gott, Vaterland und König, für die katholische Religion und gegen Liberalismus und Freimaurerei. Die Cristinos waren die Anhänger der Königswitwe und Regentin María Cristina de Borbón (1806–1878), der Vormund ihrer Tochter Isabella (1830–1821), die mit knapp drei Jahren Königin geworden war. Sie kämpften für eine liberale, konstitutionelle Monarchie in einem zentralistischen Spanien.</note></seg>; das andremal scheitert sie an Rom. Und nur die römische Frage ist es, die mich hier interessiert. Rom aber ist noch heutiges Tags eine Axe in einem geistigen Weltkörper, die man noch nicht verlegen kann. Es sollte mich sehr sehr wundern, wenn Italien diesmal aufkäme; mir scheint, es wird sich erst einigen, wenn wir Deutsche uns die Freiheit erringen, u<ex>nd</ex> zwar nach einer furchtbaren <pb n="2r"/>Revolution.</p>
+<p>Unsre Zeit ist doch sehr groß, obwol die Momente darin brutal sind; aber sie wird von Principien bewegt, die sich nicht hemmen laßen: ich wünschte wol nach ein paar Jahrhunderten zu leben, denn wir gehen darüber zu Grunde, u<ex>nd</ex> finden die Ruhe nicht. Indeß der musische Mensch, wie Sie es durch u<ex>nd</ex> durch sind, rückt sich aus der chaotischen Zeit doch heraus in eine Sphäre der heiteren Ruhe. Daß diese Ihnen nicht fehle, dieß ist mein Wunsch, u<ex>nd</ex> daß Sie uns ein <seg type="comment"><orig>größeres zusammenhängendes Poem</orig><note xml:id="nt5h_mlg_ylb">Hartmann hatte jüngst einen Gedichtband „Zeitlosen“ (Braunschweig: Vieweg 1858) und seine autobiographischen „Erzählungen eines Unstäten“ (2 Bde., Berlin: Duncker 1858) publiziert.</note></seg> liefern.</p>
+<p><seg type="comment"><orig>Ich <subst><del rendition="#ow">k</del><add place="across">m</add></subst>öchte wol <persName key="G000924">Amari</persName> sehen</orig><note xml:id="nxtx_nlg_ylb">Der sizilianische Geschichtsforscher und Orientalist Michele Amari (1806–1889) hatte nach seiner, in vielen Auflagen nachgedruckten und vielfach übersetzten, im Pariser Exil gedruckten Schrift „La guerra del Vespro Siciliano“ zuletzt die Flugschrift „La Sicile et les Bourbons“ (1849) publiziert. Er war Gesandter in Frankreich und England und kehrte erst 1859 nach Italien zurück, wo er in öffentliche Ämter und in Pisa, dann in Florenz auf den Lehrstuhl für arabische Sprachen berufen wurde. Persönlich lernte ihn Gregorovius erst im September 1861 in Florenz kennen (siehe RT, 17.9.1861, S. 137): es entwickelte sich schnell ein freundschaftliches Verhältnis. </note></seg>, den Sie gewiß kennen; ich dachte viel an ihn, da ich <seg type="comment"><orig>die Ufer des Liris entlang ritt im Monat October, u<ex>nd</ex> Documente in <placeName key="G000730"><hi rendition="#aq">M<ex>onte</ex></hi> Casino</placeName> las</orig><note xml:id="nn45_vlg_ylb">Gregorovius war am 30. September 1859 über Genazzano, Paliano, Anagni, Ferention, Sora und Arpino für Archivarbeiten nach Montecassino gereist, wo er bis zum 18. Oktober 1859 blieb (siehe RT, 29.9.-18.10.1859, S. 85–91).</note></seg>, wo <seg type="comment"><orig>von den Saracenen die Rede ist</orig><note xml:id="ng51_xlg_ylb">Gregorovius hatte eine Rezension des ersten Bandes „Storia dei Musulmani di Sicilia“ (1854) von Michele Amari unter dem Titel „Zur Geschichte der Saracenen in Sicilien“ geschrieben in: Beilage zu Nr. 54–55 der AZ. Augsburg: Cotta 23.-24.2.1855. S. 857–858 und 873–874. Eine Rezension des 2. Bandes (1858) erschien ebd.: Beilage zu Nr. 244 der AZ. Augsburg: Cotta 1.9.1858. S. 3953–3954.</note></seg>. Dort lernte ich einen der genialsten Italiener kennen, <seg type="comment"><orig><persName key="G001655">Don Luigi Tosti</persName>, Mönch u<ex>nd</ex> Geschichtschreiber, u<ex>nd</ex> schloß Freundschaft mit ihm</orig><note xml:id="ndyy_ylg_ylb">Der Historiker und Benediktiner Luigi Tosti (1811–1897) zählte zum liberalen Klerus Italiens und sprach sich für päpstlichen Verzicht auf weltliche Macht aus. Er schrieb eine „Storia della badia di Montecassino“ (3 Bde. Neapel 1842–1843). Siehe RT, 6.10.1859, S. 85. Gregorovius schrieb ihm gleich nach seiner Rückkehr nach Rom (siehe den Brief von <ref target="G000407">Gregorovius an Tosti, 25.10.1859</ref>).</note></seg>. Haben Sie <persName key="G067513"><seg type="comment"><orig>Emiliano <hi rendition="#aq">Giudici</hi></orig><note xml:id="ndwz_fmg_ylb">Der Literaturhistoriker Paolo Emiliani Giudici (1812–1872) war Professor der Ästhetik an der Accademia delle Belle Arti in Florenz. Über Paolo Perez war Gregorovius mit Emiliani Giudicis Literaturgeschichte Italiens (Storia della letteratura italiana. 2 Bde. Florenz: Le Monnier 1855) vertraut geworden und hatte ihm am <ref target="G000393">1.6.1856</ref> geschrieben, dass diese ihm bei seiner Übersetzung der „Lieder des Giovanni Meli von Palermo“ (1856) sehr geholfen habe.</note></seg></persName> kennen gelernt?</p>
+<p><seg type="comment"><orig>An <persName key="G000928">Ampère </persName>schrieb ich im Sommer</orig><note xml:id="np5w_4mg_ylb">Den französischen Historiker, Schriftsteller und Philologen Jean Jacques Ampère (1800–1864) hatte Gregorovius 1857 in Rom kennen und schätzen gelernt (siehe RT, 14.6.1857, S. 66). Der Brief ist nicht überliefert.</note></seg>, u<ex>nd</ex> weiß seither nichts von ihm, als was Sie mir mitteilen; ich werde an ihn die <seg type="comment"><orig>2 Bände Rom</orig><note xml:id="np3j_qmg_ylb">Die ersten beiden Bände von Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ (1859).</note></seg> nach Paris adressiren. <seg type="comment"><orig>Ich bedaure sehr seine Abwesenheit</orig><note xml:id="nlxs_smg_ylb">Jean Jacques Ampère war zuletzt Mitte 1859 in Rom (siehe RT, 27.5.1859, S. 79),</note></seg>; denn Rom ist todt u<ex>nd</ex> still, u<ex>nd</ex> ewig – ja alles außer Rom ist schaal u<ex>nd</ex> nichtig, nämlich für einen der 7 Jahre hier lebt. Sie sollten einmal Rom sehen – das ist ein Blick durch die ganze Weltgeschichte, u<ex>nd</ex> mit Worten nicht zu sagen.</p>
+<closer rend="paragraph">
+<salute xml:id="s1" next="#s2" rendition="#c">Ich schließe mit tausend herzlichen Grüßen. </salute>
+<salute xml:id="s2" prev="#s1">Leben Sie wol!</salute>
+<signed rendition="#right"><hi rendition="#aq">FGregorovius</hi> </signed>
+</closer>
+<closer>
+<dateline>Rom X <hi rendition="#aq">D<ex>e</ex>c<ex>em</ex>b<ex>e</ex>r</hi> 59.</dateline>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

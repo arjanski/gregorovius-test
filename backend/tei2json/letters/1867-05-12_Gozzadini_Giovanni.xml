@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000435">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. Rom, 12. Mai 1867 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell’Archiginnasio</institution><collection>Ms. Gozzadini 442 </collection><idno>(2)</idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für sein Engagement zur Rettung des Verlags Antonelli, bei dem die italienische Übersetzung seiner „Geschichte der Stadt Rom im Mittelalter“ erscheint. Für den Gebrauch der Bücher aus der historischen Reihe des Verlags im Schulunterricht setzen sich auch Aleardo Aleardi und Paolo Perez ein. Keine Neuigkeiten von Rinaldo Fulin. Gregorovius arbeitet derzeit zum Sacco di Roma. Die Publikation von Carlo Milanesi hierzu ist unzulänglich (Il Sacco di Roma del MDXXVII. 1867). Gozzadini soll ihm „Il saccheggio di Roma del 1527, saggio critico sulla storia di Carlo V. per le nozze Salvadego-Plattis“ (1857) von Giuseppe De Leva besorgen.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1867-05-12" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni (1810–1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Roma, <placeName key="ediarum_lmm_slx_qlb">Via Gregoriana</placeName> n<hi rendition="#sup"><ex>umer</ex>o</hi> 13. <lb/>Maggio 12. 1867.</dateline>
+                    <salute rendition="#c">Gentilissimo Signor Conte,</salute>
+                </opener>
+<p>Sono rimasto debitore di Lei come per molte cose, cosi anche per causa dell’ultima sua lettera. Lei ha accolto con benevolenza i desiderj dell’<persName key="G000934">editore veneto</persName> a proposito della collezione istorica, e particolarmente ha voluto onorar di sua protezione <seg type="comment"><orig><bibl corresp="G004366">la versione italiana della mia storia di Roma</bibl></orig><note xml:id="nthf_gzl_ylb">Gregorovius hatte dem venezianischen Verlag Giuseppe Antonelli die Rechte eingeräumt, die ersten beiden Bände seiner „Geschichte der Stadt Rom im Mittelalter“ auf Italienisch herauszugeben. Für die Übersetzung zeichnete der in dieser Aufgabe unerfahrene Renato Manzato verantwortlich (Storia della città di Roma nel Medio Evo, dal secolo V al XVI. Prima versione italiana di Renato Manzato. Venedig, Turin: Guiseppe Antonelli 1866). Der Verkauf der italienischen Ausgabe war kein Erfolg. Deshalb wollte sie der kurz vor dem Bankrott stehende Antonelli über die Empfehlung des Bildungsministeriums in die italienischen Schulen bringen und so die Verkaufszahlen erhöhen (siehe den Brief von <ref target="G000433">Gregorovius an Giovanni Gozzadini, 24.2.1867</ref>). </note></seg>. Ebbi dunque il piacere di ricevere <seg type="comment"><orig>una lettera dal <persName key="G000912">Conte Aleardi</persName>, amico Suo</orig><note xml:id="nby2_3zl_ylb">Siehe den Brief von Aleardo Aleardi an Gregorovius vom 11.3.1867 (BSB München, NL Gregorovius, Gregoroviusiana 21). Aleardo Aleardi (1812–1878) aus Verona war Dichter sowie Politiker und eng mit den Gozzadinis befreundet. Er war Stammgast ihres in der Villa Ronzano unterhaltenen Salons. Möglicherweise hat Gregorovius ihn dort kennengelernt. Zu Aleardis und Gozzadinis Engagement daran, die Übersetzung seiner „Geschichte der Stadt Rom im Mittelalter“ an die italienischen Schulen zu bringen, notierte Gregorovius im Tagebuch: „Gozzadini und Aleardi schrieben mir, dass sie das italienische Kultusministerium veranlassen werden, den Buchhändler Antonelli bei der Fortsetzung der Übersetzung meiner Geschichte zu unterstützen. Da der italienische Buchhandel darniederliegt, so wagt Antonelli nicht weiterzudrucken. Diese Übersetzung hat mich schon mehr Briefschreiberei gekostet, als fast alle meine literarischen Verbindungen in Deutschland zusammengenommen.“ (RT, 7.4.1867, S. 222).</note></seg>, e di <persName key="G001483"><seg type="comment"><orig>Paolo Perez</orig><note xml:id="npwg_jzl_ylb">Den Dante-Forscher Graf Paolo Perez (1822–1879) kannte Gregorovius seit seiner frühen Zeit in Rom, er hatte ihn dort in die literarischen Kreise eingeführt. Perez war ein Cousin der Gräfin Maria Teresa Serego Alighieri Gozzadini (1812–1881) und hatte Gregorovius ebenso mit dem Ehepaar Gozzadini bekannt gemacht. 1856 war er in den Orden der Rosminianer in Stresa eingetreten, wo ihn Gregorovius regelmäßig besuchte (siehe RT 17.7.1867, S. 227; RT 20.7.1869, S. 259). Der hier erwähnte Brief ist nicht überliefert.</note></seg></persName>, e di mettermi cosi in questa da me desiderata relazione con un uomo tanto insigne, quale si è Aleardo Aleardi. <seg type="comment"><orig>Gli risposi con una lettera</orig><note xml:id="nfk5_kzl_ylb">Siehe den Brief von Gregorovius an Aleardo Aleardi vom <ref target="G000311">14.3.1867</ref>.</note></seg>, la quale, come io spero, gli sarà venuta alle mani, or più settimane fa. Inquanto alla promozione della versione, io vedo bene, che ci sia poco da sperare, essendo che i tempi non siano ancora molto favorevoli alle imprese letterarie. <seg type="comment"><orig>Ma comunque vada questo affare</orig><note xml:id="nwzb_nzl_ylb">Schließlich war es Gregorovius selbst, der unzufrieden mit der Übersetzung, die Fortsetzung der italienischen Ausgabe einige Jahre später verbot (siehe den Brief von Gregorovius an Franz Rühl vom 29.6.1871; Universitäts- und Landesbibliothek Bonn, NL Franz Rühl; Sign. S 2606 (12)). </note></seg>, io sinceramente mi professo verso di Lei obligato e riconoscente. <pb n="2"/>Non ebbi alcuna notizia dalla parte dell’editore o del <seg type="comment"><orig>professore <persName key="G001151">Rinaldo Fulin</persName> di <placeName key="G000894">Venezia</placeName></orig><note xml:id="nczh_4zl_ylb">Rinaldo Fulin (1824–1884) gab für Antonelli die Reihe „Collezione di opere storiche“, in der auch die italienische Ausgabe der „Geschichte der Stadt Rom im Mittelalter“ erschien, heraus. Fulin setzte sich für die Fortsetzung der Übersetzung ein, wollte sie sogar selbst bezahlen (siehe den Brief von <ref target="G000438">Gregorovius an Giovanni Gozzadini, 21.4.1868</ref>).</note></seg>.</p>
+<p>Studiando ora le relazioni intorno al <seg type="comment"><orig>sacco di Roma del 1527</orig><note xml:id="nrmb_tzl_ylb">Die unter Karl V. erfolgte Plünderung (ital., veraltet: sacco) Roms und des Kirchenstaates im Jahre 1527. Gregorovius widmete dem Ereignis ein Kapitel im achten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1872), S. 532–557.</note></seg> – ne <bibl sameAs="G004214"><seg type="comment"><orig>fece ultimamente il Milanesi un libretto</orig><note xml:id="na24_5zl_ylb">Carlo Milanesi. Il Sacco di Roma del MDXXVII. Narrazioni di contemporanei scelte per cura di Carlo Milanesi, Florenz 1867: https://archive.org/details/ilsaccodiromade00gonzgoog/page/n10. </note></seg></bibl> con troppo poca accuratezza, come gliha dimostrato un inglese splendidamente dotto nelle storie, in „<seg type="comment"><orig>The Chronicle Satardaȳ Maȳ 4, 1867. p. 138. 139</orig><note xml:id="ndw2_wzl_ylb">Nicht ermittelt.</note></seg>”. Io mi sono incontrato in una nota sopra un saggio di <bibl sameAs="G004219"><seg type="comment"><orig>Giuseppe de Leva: „Il saccheggio di Roma del 1527, saggio critico sulla storia di Carlo V. per le nozze Salvadego-Plattes-Padova 1857. in 8.°</orig><note xml:id="nnjs_b1m_ylb">Giuseppe De Leva. Il saccheggio di Roma del 1527, saggio critico sulla storia di Carlo V. per le nozze Salvadego-Plattis, Padua 1857 (siehe: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10078582_00005.html).</note></seg></bibl>” Desidererei di aver questo piccolo scritto, e non sapendo dove trovarlo, mi prendo la libertà di diriggermi alla di Lei bontà, se mai <seg type="comment"><orig>per causa delle sue relazioni con <placeName key="G000747">Padova</placeName></orig><note xml:id="niyw_d1m_ylb">Giuseppe De Leva (1821–1895) studierte in Padua Philosophie und Jura, bevor er sich historischen Studien zuwandte. Ab 1855 hatte er eine Professur für Geschichte an der Paduaner Universität inne.</note></seg> Le fosse in grado di farne i acquisti per me, o di farmelo venire a Roma dimodo che <seg type="comment"><orig>io me ne possa servire</orig><note xml:id="ncqk_h1m_ylb">Im achten Band der „Geschichte der Stadt Rom im Mittelalter“ (1872) verwies Gregorovius mehrfach auf De Levas Studie zu Karl V., allerdings auf den zweiten Band von dessen „Storia documentata di Carlo V. in correlazione all’Italia“ (Venedig 1864).</note></seg>. Scuserà le mie iterate impertinenze. </p>
+<p>La prego, Signor Conte, di portar i miei rispetti alla <persName key="G001092">Signora Contessa</persName>, sperando che Loro godano perfetta salute in <seg type="comment"><orig>quella graziosa solitudine del <placeName key="G000572">Sasso</placeName></orig><note xml:id="nrrc_j1m_ylb">Die Gozzadinis besaßen in Sasso Marconi (Provinz Bologna) eine Villa. Gregorovius hatte die Gräfin dort im September 1863 besucht, worüber er kurze Zeit später in einem Brief an sie schwärmt (siehe den Brief von <ref target="G000430">Gregorovius an Maria Teresa Serego Alighieri Gozzadini, 30. 11.1863</ref>). </note></seg>, io mi raccomando</p>
+                <closer>
+<salute xml:id="s1" next="#s2" rendition="#c">quale di Loro</salute>
+<salute xml:id="s2" prev="#s1" rendition="#right"> riverente e obligato Servit<ex>ore</ex></salute>
+<signed rendition="#right"> Gregorovius </signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

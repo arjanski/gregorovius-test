@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000366">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Viktoria Gervinus in Heidelberg. Rom, 6. April 1871</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf </collection><idno>Karton 86, Mappe 5 (nach D) </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"> <bibl type="print">Caroline Vickers: Das Gervinussche Ehepaar. Mit unveröffentlichten Briefen von Gervinus und Ferdinand Gregorovius. In: Westermanns Illustrierte Deutsche Monatshefte. Bd. 98. Braunschweig: Westermann (Apr.-Sept.) 1905. S. 410–411</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Im römischen Atelier des Bildhauers Emil Wolff hat sich die Gipsbüste des damals 43-jährigen Georg Gottfried Gervinus gefunden. Damit hat sie eine lebensnahe Vorlage für ein anzufertigendes Grabddenkmal ihres am 18. März 1871 verstorbenen Ehemannes, das er Fotografien oder einer Totenmaske vorziehen würde. Er bietet ihr hierfür jede Hilfe an. Er gedenkt des widersprüchlichen Beginns seines Schaffens, das in ein erfülltes Leben mündete. Grüße von Karl und Auguste-Lindemann-Frommel und von Wolfgang und Sophie Erhardt.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1871-04-06" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001169">Gervinus, Viktoria (1820–1893)</persName>
+<placeName key="G000685">Heidelberg</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">nach dem 24. März und vor dem 6. April 1871</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="410"/>
+            <div type="writingSession">
+                <opener>
+<dateline rendition="#right">Rom, Via Gregoriana 13. <lb/>6. April 1871.</dateline>
+</opener>
+<p>Ich eile, verehrte Frau, Ihnen auf Ihren gütigen Brief gleich damit zu <?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T134107+0200" comment="Gregorovius hatte nach dem plötzlichen Tod von Georg Gottfried Gervinus am 18. März 1871 am 24. März brieflich kondoliert (Universitätsbibliothek Heidelberg, Heid. Hs. 2526,52)."?>antworten<?oxy_comment_end?>, daß ich Ihnen mittheile wie folgt:</p>
+<p>Die Gypsbüste Ihres <persName key="G001168">Gemals</persName> steht unversehrt in der ersten Reihe des Repositorium von <persName key="G001715">W<ex>olff</ex>s</persName> Atelier.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T134204+0200" comment="1848 hatte der Bildhauer Emil Wolff (1802–1879) in Rom eine Gipsbüste des damals 43-jährigen Georg Gottfried Gervinus angefertigt, die Gregorovius in dessen Atelier wieder auffand: „Die Witwe schrieb, und ich habe seine Büste in Gips, welche Emil Wolff im Jahre 1848 gemacht hatte, glücklich in dessen Atelier auffinden können. Dem Vaterland läßt Gervinus ein unzerstörliches Denkmal seiner Geisteskraft und seines Patriotismus zurück: die Geschichte der poetischen Nationalliteratur, die er philosophisch gegründet hat.“ (RT, 9.4.1871, S. 304) Eine Notiz über seinen Fund auch in AZ. Nr. 175. Augsburg: Cotta 24.6.1871. S. 3131."?> <?oxy_comment_end?>Ich empfand eine große Freude, als mir <pb n="411"/>der Bildhauer dieselbe sofort vorwies; sie erschien mir durchaus gelungen und lebensähnlich. Obwol sie Ihren Gemal in noch verhältnißmäßig jüngeren Jahren darstellt, ist doch in dem ganzen Kopf dieselbe ruhige Männlichkeit und klare Entschiedenheit des Denkers glücklich ausgedrückt, wie ich sie in seinen späteren Jahren als die wesentlichen Charakterzüge erkannt habe. Es ist Ihnen demnach die Möglichkeit hier in Rom geboten – und das freut mich ungemein der römischen Erinnerung an unser schönes Zusammensein wegen – eine porträtgetreue Büste Ihres Gemals in kurzer Zeit anfertigen zu <?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T134234+0200" comment="Für das Grabdenkmal auf dem Heidelberger Bergfriedhof bemühte sich Viktoria Gervinus um die Anfertigung einer lebensnahen Marmorbüste ihres verstorbenen Ehemannes. Anstelle der römischen Büste entschied sie schließlich, unter Vorlage von Fotografien und der Totenmaske ihres Mannes eine neue Büste durch den Karlsruher Bildhauer Karl Friedrich Moest (1838–1923) herzustellen zu lassen, die für seine Grabstele auf dem Heidelberger Bergfriedhof verwendet wurde (heute in der Abt. H; die Originalgrabstätte wurde aufgelassen, siehe https://commons.wikimedia.org/wiki/Category:Georg_Gottfried_Gervinus?uselang=de#/media/File:Georg_Gottfried_Gervinus_B%C3%BCste.JPG)."?>lassen<?oxy_comment_end?>. Jedenfalls würden Sie ein schon Vollendetes und für Sie selbst in Rom geschichtlich Gewordenes den Versuchen vorziehen, die man aus Photografien und mit Hülfe der abgenommenen Maske nicht immer glücklich anstellen kann. Ich erwarte Ihre Anordnungen, wie ich überhaupt stets zu allem von Herzen bereit bin, womit ich Ihnen dienstbar sein kann.</p>
+<p>Glücklich diejenigen, welche nach einer männlich vollendeten Laufbahn bis zum Stadium des Daseins in marmorner Ruhe angelangt sind. Das Leben beginnt mit dem Thon, aus welchem es unter Mühen und Kämpfen zur Gestalt herausgearbeitet wird, aber nur die bevorzugten Geister dauern dann noch in der klaren Idealität des Marmors fort. Wenn ich den Lebensgang dieses edeln Mannes überdenke, sehe ich wol viel Kampf und Widerspruch im Beginn, aber dann auch eine lange und glückliche Epoche der Consequenz glücklichen Thuns und Gelingens, in einer beneidenswerten Zurückgezogenheit ohne <?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T134301+0200" comment="Vgl. den Tagebucheintrag von Gregorovius: „Gervinus starb am 18. März. Wie es scheint, ist er in dem Konflikt seiner doktrinären Überzeugung mit den Tatsachen der Gegenwart untergegangen. Ich beklage seinen Verlust; eine bedeutende persönliche Beziehung ist für mich erloschen. Gervinus war ein durchaus edler Mann, fest in sich begründet und unerschütterlich, von weitumfassendem Verstand, ein groß angelegter prosaischer Geist.“ (RT, 9.4.1871, S. 304)"?>Verschlossenheit<?oxy_comment_end?>, und dieses Glück haben Sie selbst so lange ihm sichern helfen und mit ihm geteilt. Sie verloren für Sie Unermeßliches; es ist leicht zu sagen, daß die Geisteswelt, in der Sie neben ihm lebten, für Sie nicht aufhören kann lebendig zu sein, aber auch dieser trostreiche Zusammenhang wird Sie nicht davor schützen, die tiefe Lücke des Daseins zu empfinden, aus welchem Ihnen die volle Gegenwart entrissen ist. In Ihrem Briefe aber erkenne ich mit Freude den Mut und Kraftentschluß einer edeln Frau, welche auch nach solchem Verlust nicht aufhören kann, für den Rest der Tage dem Leben und seiner Pflicht die beste Gestalt zu geben.</p>
+<p>Ich habe Ihnen viele Grüße von <persName key="ed_gbt_4bh_sfb ed_bzh_0vv_ukp"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T134336+0200" comment="Auguste und Karl Lindemann-Frommel."?>Lindemanns<?oxy_comment_end?></persName> zu sagen – <persName key="ed_eif_6uk_kwj ed_4hg_o8b_uk3"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T134317+0200" comment="Wolfgang Erhardt (1818–1906) und seine Frau Sophie, geb. Meisrimmel (1826–1914)."?>Erhardts<?oxy_comment_end?></persName> sah ich noch nicht – wir Freunde vereinigen unsere Wünsche für Ihr dauerndes Wol.</p>
+                <closer>
+                    <salute>Ihrer stets verehrungsvoll eingedenk</salute>
+                    <signed rendition="#right">F. Gregorovius.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

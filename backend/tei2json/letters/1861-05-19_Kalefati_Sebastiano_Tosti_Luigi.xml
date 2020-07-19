@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000426">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Sebastiano Kalefati und Luigi Tosti in Montecassino. Rom, 19. Mai 1861</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Montecassino, Archivio dell’Abbazia</repository><collection>Carteggio Kalefati</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. (unvollständig)</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Tommaso Leccisotti: Alcune lettere di Ferdinando Gregorovius a Monaci Cassinesi. In: Benedictina. Fascicoli di studi Benededettini. Jg. 14. Fasc. 1. Rom: S. Paolo 1967. S. 146–147</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er hat wegen der unruhigen Lage in Neapel lange nicht nach Montecassino geschrieben, auch war er vier Monate in Deutschland. In Königsberg hat er Wilhelm von Giesebrecht getroffen. In Berlin sprach er Georg Heinrich Pertz, der grundsätzlich keine Freiexemplare der „Monumenta Germaniae Historica“ an Bibliotheken abgeben kann. Der dritte Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1860) ist gedruckt, der vierte Band (1862) ist im Manuskript abgeschlossen. Vom preußischen Kultusministerium erhält er jetzt ein Stipendium für die Fertigstellung seines Werks. Er bittet um Aufklärung einer Stelle im „Registrum Petri Diaconi“ (1131–1133), das er in Montecassino eingesehen hat. Er möchte ein Empfehlungsschreiben für das Kloster Subiaco, wo er im Juni die „Cronaca Sublacense“ (1628–1630) von Cherubino Mirzio konsultieren will. Von dort aus reist er nach Florenz. Über einen erneuten Aufenthalt in Deutschland ist noch nicht entschieden. </p>
+                <p xml:lang="en">He did not write to Montecassino for a long time because of the unsettled situation in Naples, and he also spent four months in Germany. In Königsberg he met Wilhelm von Giesebrecht. In Berlin, he spoke to Georg Heinrich Pertz, who as a matter of principle cannot give free copies of the „Monumenta Germaniae Historica“ to libraries. The third volume of his „Geschichte der Stadt Rom im Mittelalter“ (1860) has been printed, the fourth volume (1862) is completed in manuscript. He is now receiving a grant from the Prussian Ministry of Culture to complete his work. He asks for clarification of a passage in the „Registrum Petri Diaconi“ (1131-1133), which he examined in Montecassino. He wants a letter of recommendation for the monastery of Subiaco, where he wants to examine the „Cronaca Sublacense“ (1628-1630) by Cherubino Mirzio in June. From there he’ll travel to Florence. It has not yet been decided whether he will stay in Germany again.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1861-05-19" cert="low"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001326">Kalefati, Sebastiano</persName>
+<persName key="G001655">Tosti, Luigi (1811–1897)</persName>
+<placeName key="G000730">Montecassino</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">Roma <subst><del rendition="#ow">2</del><add place="across">1</add></subst>9. Maggio 1861.</dateline>
+<salute xml:id="s1" next="#s2" rendition="#c">Reverendissimi e cari Padri</salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">Don Sebastiano e Don Luigi,</salute>
+</opener>
+<p>Lo scompiglio generale delle cose <seg type="comment"><orig>al di là del <placeName key="G000818">Liri</placeName> </orig><note xml:id="nvjr_lwj_vlb">Der mittelitalienische Fluß Liri, der zum Grenzfluß Garigliano (lat. Bezeichnung: Liris) zwischen Kampanien und Latium wird. Gregorovius benannte einen Artikel nach ihm: Von den Ufern des Liris, in acht Folgen vom 27.3.–9.5.1860 in der „Allgemeinen Zeitung“ erschienen – wieder abgedruckt in: Wanderjahre in Italien, Dresden 1925. S. 541–577. Mit dem „allgemeinen Durcheinander“ meint er die in Neapel herrschende Verwirrung nach der gescheiterten Konterrevolution der Bourbonen (vgl. RT, 24.4. und 13.5.1861, S. 130).</note></seg>fecemi arrestare la mia lettera; poiché dubitava, se ella potesse raggiungere Monte Casino. Finalmente eccomi di nuovo, e presentandomi alla di loro benevole memoria. <seg type="comment"><orig>Dopo un bellissimo soggiorno di quattro mesi nella mia <placeName key="G000664">patria allemanna</placeName> ritornai un’ altra volta a Roma</orig><note xml:id="njq4_nwj_vlb">Er hatte Rom am 27. Juni 1860 verlassen und war am 11. Oktober 1860 dorthin zurückgekehrt (siehe RT, S. 103–111).</note></seg> per continuarvi i miei <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">studi sopra le cose del medio evo</bibl>. Più volte ebbi il piacere di ricordarmi di loro nella Germania; trovai il <seg type="comment"><orig>professor <persName key="G001173">Giesebrecht</persName> à <placeName key="G000699">Konigsberga</placeName></orig><note xml:id="nu22_pwj_vlb">Der Historiker Wilhelm von Giesebrecht (1814–1889), Schüler von Leopold von Ranke (1795–1886), besuchte während einer Forschungsreise in Italien von 1843–1845 auch Montecassino; siehe den Brief von Gregorovius an Sebastiano Kalefati vom <ref target="G000405">12.8.1859</ref>. Von 1857–1862 hatte er eine Professur in Königsberg inne; von dort ging er, als Nachfolger Heinrich von Sybels (1817–1895), nach München. Gregorovius traf den Freund im August 1860 in Königsberg (siehe RT, 19.8.1860, S. 107–108). Giesebrecht hatte Gregorovius, auf dessen Bitte, ein Exemplar von seinem Buch „De litterarum studiis apud Italos primis medii aevi saeculis“ (Berlin 1845) für Tosti zukommen lassen; siehe den Brief von Gregorovius an Luigi Tosti vom <ref target="G000425">4.5.1860</ref>.</note></seg>, il quale caldissimi saluti loro manda. Viddi <seg type="comment"><orig>il celebre <persName key="G001484">Pertz</persName>, compilatore delle „Monumenta Germaniae” a <placeName key="G000636">Berlino</placeName></orig><note xml:id="nudr_qwj_vlb">Der Historiker und Archivar Georg Heinrich Pertz (1795–1878) leitete von 1823–1874 die Herausgabe der „Monumenta Germaniae Historica“, ein Quellenwerk zur mittelalterlichen deutschen Geschichte. Deren Ursprung geht auf die, 1819 vom Reichsfreiherrn Karl vom Stein (1757–1831) gegründete, „Gesellschaft für ältere deutsche Geschichtskunde“ zurück. 1842 wurde Pertz Oberbibliothekar der Königlichen Bibliothek in Berlin. Gregorovius traf ihn im September 1860 in Berlin, fand keinen persönlichen Zugang zu ihm (vgl. RT, 25.9.1860, S. 109–110), schätzte aber seine Arbeit sehr (siehe den Brief von <ref target="G000092">Gregorovius an Alfred von Reumont, 10.3.1860</ref>).</note></seg>; gli racommandai con vivace calda voce la <orgName key="G000557">vostra biblioteca</orgName>, acciochè si spedisca una copia di codesta collezione à Monte Casino; ma per quanto io raggionassi, non vuole ne potè acconsentirvi, dicendomi, che non disconosceva l’obbligo di profonda gratitudine dovuta alla ben nota liberalità di M<ex>onte</ex> Casino, ma che <pb n="1v"/>la direzione, di cui egli è capo, trovandosi altretanto obligato verso più di cento biblioteche in tutti i paesi dell’ europa letteraria, aveva stabilito come massima, di non donare <del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del> copie delle Monumenta a qualunquesiasi biblioteca, per non offenderne alcuna. Fra tutti i collaboratori dell’opera il Pertz si è il solo, cui sia conceduto il diritto di averne un’ esemplare gratis. La gratuita donazione dunque altrimente non si potrebbe facilitare, se non da <unclear reason="covered" cert="low">privata</unclear> generosità particolare, come di un principe.</p>
+<p>L’inverno passai tranquillamente a Roma, non curandomi punto degli affari di politica – <seg type="comment"><orig><foreign xml:lang="Lat">cum bona Musa</foreign></orig><note xml:id="nfqp_swj_vlb">Lat.: mit einer guten Muse.</note></seg> – <seg type="comment"><orig>il <bibl corresp="G003469">terzo volume della mia storia di Roma</bibl> è stampato</orig><note xml:id="nemh_5wj_vlb">Der dritte Band seiner „Geschichte der Stadt Rom im Mittelalter“ war 1860 erschienen.</note></seg>, <seg type="comment"><orig>il <bibl sameAs="G003462">quarto</bibl> quasi fatto</orig><note xml:id="nqbj_vwj_vlb">Band vier der „Geschichte der Stadt Rom im Mittelalter“ sollte erst 1862 erscheinen.</note></seg>. <seg type="comment"><orig><bibl corresp="G003448 G003455">Altri due</bibl> ne seguiranno</orig><note xml:id="nl14_wwj_vlb">Die Bände fünf und sechs der „Geschichte der Stadt Rom“ erschienen 1865 und 1867.</note></seg>, ma ci vuol tempo ancora, e bisogna alzar un poco più le vele. <seg type="comment"><orig>Quando <unclear reason="illegible" cert="high">eb</unclear>bi la fortuna di trovarmi fra di Loro</orig><note xml:id="nlvn_ywj_vlb">Gregorovius’ Aufenthalt in Montecassino datiert in die Zeit vom 5.–18. Oktober 1859 (vgl. RT, S. 85–91).</note></seg>, io notai <seg type="comment"><orig>un certo diploma del Registro di <persName key="G001489">Pietro Diacono</persName></orig><note xml:id="nfsy_zwj_vlb">Dabei handelt es sich um das von Petrus Diaconus (1107/1110–nach 1159) erstellte Kopialbuch des Klosters Montecassino: Registrum Petri Diaconi (1131–1133; Montecassino, Archivio dell'Abbazia, Reg. 3).</note></seg>, con troppa sbadataggine. Sotto il numero 605 del medesimo registro si trova un’ istrumento <seg type="comment"><orig>„<foreign xml:lang="Lat">de libertate navis</foreign> <pb n="2r"/><foreign xml:lang="Lat">in portu Romano</foreign>”</orig><note xml:id="neh2_bxj_vlb">Lat.: über die Freiheit des Schiffes im Römischen Hafen.</note></seg>; vorrei sapere, se esiste intero nell’ originale, e di qual’epoca segnato. Sul margine notai „circa a<ex>nno</ex> 1127“; ma essendo, che nel contesto si parli di <seg type="comment"><orig><foreign xml:lang="Lat">sexaginta senatores</foreign></orig><note xml:id="nfth_2yj_vlb">Lat.: sechzig Senatoren.</note></seg>, mi venne il dubbio, <subst><del rendition="#ow">g</del><add place="across">ch</add></subst>e in quell’ epoca avanti <seg type="comment"><orig>il ristabilimento del <orgName key="G000559">Senato</orgName></orig><note xml:id="nmdp_fyj_vlb">Mit dem „ristabilimento“ des Senats sind die Ereignisse im Jahr 1143 gemeint: Ein anti-päpstlicher Aufstand führte zur Etablierung der römischen Kommune mit einem neuen, im Selbstverständnis der Handelnden „wiederhergestellten“ Rat, der auf dem Kapitol tagte. Siehe dazu den Brief von Gregorovius an Sebastiano Kalefati vom <ref target="G000427">6.6.1861</ref>.</note></seg> si potevano contare tanti Senatori, cosa che dimostrerebbe formata già una municipalità Romana, di cui altra traccia non esiste. Vorrei pregarla, carissimo Don Sebastiano, di rischiararmi gentilmente sul fatto.</p>
+<p>Un’ altro mio desiderio si è questo, di aver dalla loro bontà due righe di racommandazione per <placeName key="G000819"><seg type="comment"><orig>Subiaco</orig><note xml:id="novd_jyj_vlb">Die in der Region Latium angesiedelte Benediktinerabtei. Gregorovius hatte dieser einen Aufsatz gewidmet: Aus der Campagna von Rom. Subiaco, das älteste Benedictinerkloster des Abendlandes, seine Geschichte und seine Altertümer. 1. Teil, in: AZ, Beilage zur Nr. 345, 11.12.1857. Vollständiger ED u. d. T. „Subiaco, das älteste Benedictinerkloster des Abendlandes“, in: Deutsches Museum. Jg. 8. Bd. 2, 1858 – aufgenommen in Wj II/1.</note></seg></placeName>; potrei facilmente formirmi di qualche lettera Romana; una sola parola però di Don Sebastiano, ò di Don Luigi mi varrebbe più che non valessero cento lettere di Roma. Io ho gran bisogno, di vedere qualche tratto della <seg type="comment"><orig>cronaca del Mirzio</orig><note xml:id="ndkv_kyj_vlb">Cherubino Mirzio (um 1564–1632): Cronaca Sublacense. 1628–1630.</note></seg>, e di confrontare qualche documento originale coi <seg type="comment"><orig>transunti che ne fece Fatteschi</orig><note xml:id="nsq3_3yj_vlb">Giovanni Colombino Fatteschi (1728–1809) fertigte 1775 als Abt in San Salvatore di Monte Amiata die Abschrift „Codice diplomatico della Badia di S. Salvatore del Monte Amato, o sia Appendice di monumenti comprovanti l’esposti nelle Memorie della Badia predetta.“, heute in der Biblioteca Nazionale Centrale di Roma (ms. Sessoriano nr. 213). Siehe hierzu Wilhelm Kurze. Codex diplomaticus Amiatinus. Urkundenbuch der Abtei S. Salvatore am Montamiata, von den Anfängen bis zum Regierungsantritt Papst Innocenz III. [736–1198] im Auftrag des deutschen historischen Instituts in Rom bearbeitet. 4 Bde. Tübingen 1974–1982.</note></seg>; i quali attualmente si trovano riposti à <placeName key="G000778"><seg type="comment"><orig>S<ex>anta</ex> Croce in Gerusalemme</orig><note xml:id="ns1y_lyj_vlb">Zu der Pilgerkirche Santa Croce in Gerusalemme in Rom gehören ein Monasterium und die renommierte Biblioteca Sessoriana, die Codices und Bücher aus allen Zisterziensereinrichtungen Italiens enthielt. Gregorovius besuchte die Bibliothek bereits 1859, um die Urkundenabschriften Fatteschis zu Subiaco einzusehen (siehe RT, 2.5.1859, S. 78). Gregorovius selbst hatte den Codex dipl. Amiatinus aus der Biblioteca Sessoriana in der Abschrift von Fatteschi verwendet, siehe GdStR, Bd. 3 (1860). S. 238. Anm. 1.</note></seg></placeName>. </p>
+<p><pb n="2v"/><seg type="comment"><orig>Dentro il mese di Giugno penso di trasfermirmi colà per un po’ di giorni; quindi ando à <placeName key="G000671">Firenze</placeName> e forse di nuovo in patria per poco tempo</orig><note xml:id="ntqq_nyj_vlb">Es ist kein Aufenthalt von Gregorovius in Subiaco nach diesem Brief nachweisbar. Sein wohl einiziger Aufenthalt dort datiert in die Monate Juni und Juli 1857 (siehe RT, 2.7.1857, S. 67). Anstatt nach Florenz, reiste er am 7. Juli 1861 nach Genazzano, wo er bis zum 19. August blieb (siehe RT, S. 133–136), Ende August fuhr er dann nach Florenz (siehe RT, 31.8.18961, S. 137). Erst ein Jahr später erfolgte sein nächster Heimaturlaub (siehe RT, 3.9.1862, S. 151). </note></seg>. <seg type="comment"><orig>Il mio governo mi soccorre di buona volonta con mezzi sufficienti</orig><note xml:id="nzgz_4yj_vlb">Seit dem 1. Januar 1860 erhielt Gregorovius vom preußischen Kulturministerium ein Stipendium in Höhe von 400 Talern: „Mit dem 1. Januar 1862 verläuft die mir vom Ministerium bewilligte Subvention von 400 Thalern, die auf 2 Jahre lautete; möchten Sie mir bei Gelegenheit sagen, ob ich mich wegen Erneuerung derselben an den Cultusminister direct wenden darf oder soll. Ihre Humanität wird verzeihen, daß ich Sie mit dieser Selbstsucht gerade jetzt belästige, denn das Versiegen jener Quelle würde mir empfindlich sein; sie wieder fließen zu machen, möchte aber vielleicht jetzt oder bald passende Zeit sein, denn wer weiß, was das kommende Jahr über die Welt und die Einzelnen bringen wird.“ (Brief von Gregorovius an Hermann von Thile vom 30.11.1861; GSA Weimar / 96/937). Bei dem besagten Kulturminister handelt es sich um Moritz August von Bethmann Hollweg (1795–1877).</note></seg>, affinchè io possa venire aggiatamente a capo di un lavoro, il quale, benchè cosa tenuissima, per qualche punto però, cosi spero, non sara del tutto disutile.</p>
+<p>Mi rallegro col pensiere, che Loro, Padri gentili e ottimi, di cui serbo indelebile memoria, mi diranno delle vicende loro, dei lavori, purtroppo interrotti, ma non abandon<add place="superlinear">n</add>ati, e delle buone speranze che nutriscono. I meriti gloriosi, i servizi resi alla coltura per più di mille anni, l’erudizione splendida e non mai estinta, di cui molti padri di M<ex>onte</ex> Casino anche questoggi <seg type="comment"><orig>ponno</orig><note xml:id="nb3w_pyj_vlb">Veraltet für: possono.</note></seg> vantarsi, faranno sopravivere l’istituto di S<ex>an</ex> Benedetto alla <seg type="comment"><orig>trasformazione dell’<placeName key="G000690">Italia</placeName></orig><note xml:id="nnbg_ryj_vlb">Anspielung auf die Einigungsbewegung. Am 17. März 1861 war die neue italienische Monarchie unter König Vittorio Emanuele II. (1820–1878) in Turin ausgerufen worden. </note></seg>, di cui <seg type="comment"><orig>la solida riorganisazione io con quanti sieno uomini liberali in Germania di desiderare non cesso</orig><note xml:id="nlhh_tyj_vlb">Die von Gregorovius erwünschte Einigung Deutschlands erfolgte erst 1871 mit der Gründung des deutschen Kaiserreiches.</note></seg>. </p>
+<p>Scrivo queste righe oggi nella <gap reason="lost" unit="pages" quantity="1"/></p>
+</div>
+        </body>
+    </text>
+</TEI>

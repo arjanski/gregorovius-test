@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000106">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Hermann von Thile in Berlin. Rom, 22. Dezember
+                    1858</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>96/937 (5)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ½ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach D) und Karton
+                                        59, Mappe 346 (Ergänzungen nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 7–9 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Erleichtert hat er von der gesundheitlichen Stabilisierung des Sohnes Hans gehört. Der erkrankte Friedrich Wilhelm IV. soll morgen in Rom eintreffen. Clemens August Alertz sieht er seltener. Peter von Cornelius und seine kränkelnde Frau Geltruda erwarten den Besuch seiner Tochter Maria Marchelli. Er mit der Ausstattung des Drucks seiner „Geschichte der Stadt Rom im Mittelalter“ (1859) hochzufrieden und möchte Thile das erste gedruckte Exemplar zukommen lassen. Das Manuskript des dritten Bandes (1860) ist zur Hälfte abgeschlossen, doch braucht es noch Archivrecherchen in Montecassino. Aus Florenz über Livorno nach Rom zurückkehrend war er auf dem Dampfer Hermus, der den Dampfer Aventin gerammt und versenkt hat. Das Gefühl der Todesgefahr hat ihn bestärkt, sein „Leben den Ideen zu widmen“. Die in Aussicht gestellte finanzielle Unterstützung der preußischen Regierung hat nach Vertragsabschluss mit Cotta keine Dringlichkeit; er kann jetzt auch an die Rückzahlung seiner Schulden bei Thile denken. Albrecht von Graefe bittet er zu grüßen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He is relieved to hear that the health of his son Hans has stabilized. The ill Frederick William IV. is due to arrive in Rome tomorrow. He sees Clemens August Alertz less frequently. Peter von Cornelius and his ailing wife Geltruda are expecting the visit of his daughter Maria Marchelli. He is highly satisfied with the layout of the print of his „Geschichte der Stadt Rom im Mittelalter“ (1859) and would like to send Thile the first printed copy. The manuscript of the third volume (1860) is half finished, but he still needs to do archival research in Montecassino. Returning from Florence via Livorno to Rome, he was on the steamer Hermus, which rammed and sank the steamer Aventine. The feeling of being in mortal danger reinforced the sense that he should „dedicate his life to ideas“. The promised financial support of the Prussian government is not urgent after the conclusion of the contract with Cotta; he can now also think of repaying his debts to Thile. He asks to send Albrecht von Graefe his regards. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1858-12-22" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001644">Thile, Hermann von (1812–1889)</persName>
+                    <placeName key="G000636">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi> 22 <hi rendition="#aq">December</hi> 1858.</dateline>
+                    <salute rendition="#c">Mein hochverehrter Herr,</salute>
+                </opener>
+                <p>an der Neige dieses Jahres erlauben Sie mir diese wenigen Zeilen; wenn ich an dasselbe zurückdenke, für genoßene Freuden danke, und Verluste beklage, tritt mir auf beiden Seiten das Andenken an Sie entgegen. Darum treibt es mich, Ihnen und Ihrer verehrten <persName key="G001645">Frau Gemalin</persName> so herzlichen Dank für Ihr Wolwollen, wie meine wärmsten Wünsche für die Zukunft auszusprechen; ich weiß es im Voraus, daß Sie dieselben gütig aufnehmen werden. <seg type="comment"><orig>Mit großer Freude hörte ich, daß das Befinden des lieben <persName key="G001643">Hans</persName> viel Hoffnung gibt, da die Nervenleiden sich nur nach längeren Pausen einfinden sollen</orig><note xml:id="nkgy_rkb_vlb">Wegen der Ende Juni 1858 erstmals aufgetretenen Epilepsie des Sohnes Hans (1848–1869) hatten die Thiles Ende Juli 1858 Rom verlassen. Um die erhoffte Genesung des Sohnes zu fördern, fuhr die Familie zuerst ins schweizerische Heiden und kehrte schließlich ganz nach Berlin zurück. Hermann von Thile (1812–1889) gab seinen Posten als bevollmächtigter Minister Preußens am Heiligen Stuhl auf und ließ sich in den vorläufigen Ruhestand versetzen.</note></seg>. Der Himmel schenke ihm u<ex>nd</ex> Ihnen, was Sie so sehnlich wünschen, die völlige u<ex>nd</ex> sichere Herstellung, an welche ich zuversichtlich glaube.</p>
+                <p>Hier hat sich so viel geändert, u<ex>nd</ex> Rom ist so gähnend öde geworden. Ihr <placeName key="G000761">Capitol</placeName> ward heute, wie ich höre, von einem Teile des Hofes besetzt, u<ex>nd</ex> <seg type="comment"><orig>morgen soll der kranke <persName key="G004746">König</persName> eintreffen</orig><note xml:id="nhpq_5kb_vlb">Begleitet von Alfred von Reumont kam Friedrich Wilhelm IV. (1795–1861) nach Rom, wo er bis zum 2. Mai 1859 im Palast Caffarelli wohnte (siehe Brief von Gregorovius an Johann Georg Freiherr von Cotta vom <ref target="G000107">1.12.1858</ref>).</note></seg>. Diese Ereigniße berühren mich freilich nicht weiter, als daß ich wünsche, <seg type="comment"><orig>der König möge die Luft Roms heilsam finden</orig><note xml:id="ntpp_wkb_vlb">Friedrich Wilhelm IV. hatte seit dem 14. Juli 1857 mehrere Schlaganfälle erlitten, die auch sein Sprachzentrum in Mitleidenschaft gezogen hatten. Bevor er nach Rom kam hatte er am 7. Oktober 1858 die Regentschaftsurkunde für Prinz Wilhelm von Preußen (1797–1888) unterschrieben.</note></seg> – nach meinen Erfahrungen halte ich das für wenig wahrscheinlich, da der grelle Wechsel des Climas hier die Nerven so sehr angreift. Ich sehe jetzt seltner <persName key="G000913">Herrn <hi rendition="#aq">Alertz</hi></persName>, da ich so sehr beschäftigt bin; seine Zustände haben sich nicht geändert. <seg type="comment"><orig><persName key="G001049">Cornelius</persName> erwartet seine <persName key="G004701">Tochter</persName> zum Besuch; ich finde ihn und auch seine <persName key="G004700">Frau</persName> leidender als sonst, aber immer gleich liebenswürdig</orig><note xml:id="nwm3_ykb_vlb">Der Maler Peter von Cornelius (1783–1867), Direktor der Düsseldorfer und der Münchener Akademie war 1853 nach Rom zurückgekehrt. Er war seit 1835 mit der Römerin Geltrude, geb. Ferratini (*um 1808) verheiratet, die am 12. Juni 1859 an Brustkrebs starb. Zu Besuch kam seine Tochter Maria Marcelli (1815–1860), die Cornelius aus seiner ersten Ehe mit Carolina Grossi (†1834) hatte. Sie war seit 1855 mit dem Grafen Filippo Marcelli (†1872) aus Cagli bei Urbino verheiratet.</note></seg>.</p>
+                <p>Meine Tage bringe ich in angestrengter Thätigkeit zu; <seg type="comment"><orig><orgName key="G000523">Cotta</orgName> stattet die Geschichte der Stadt wahrhaft schön und <pb n="1v"/>splendid aus, so daß er selbst meine kühnsten Erwartungen übertroffen hat</orig><note xml:id="nzp1_blb_vlb">Seine im Druck befindlichen ersten zwei Bände seiner „Geschichte der Stadt Rom im Mittelalter“ (1859), siehe den Brief von Gregorovius an Cotta vom <ref target="G000108">20.12.1858</ref>.</note></seg>. Der <bibl sameAs="G003485">erste Band</bibl> ist bald fertig gedruckt, u<ex>nd</ex> da ich wünsche Ihnen, mein verehrtester Herr, das erste Exemplar zukommen zu laßen, dessen Übersendung Sie mir erlaubt haben, so möchte ich bitten mir bei Gelegenheit zu sagen, wohin ich es schicken darf. Es wird mir eine reine Freude sein, es in Ihren Händen zu wißen, und dann der Tage zu gedenken, <seg type="comment"><orig>wo ich an Ihrem Tisch (o! säße ich noch daran!) die Einleitung, und das Kapitel über <persName key="G001640">Theoderich</persName> gelesen habe</orig><note xml:id="nz4j_dlb_vlb">Gregorovius hatte seit Oktober 1854 geplant, die „Geschichte der Stadt Rom im Mittelalter“ zu schreiben (siehe RT, 3.10.1854, S. 53) und im Oktober 1855 mit der Niederschrift begonnen (siehe RT, 26.11.1855, S. 57). Aus seinem Manuskript vorgelesen hatte er später auch Alfred von Reumont (1808–1887) und Jean Jacques Ampère (1800–1864), siehe RT, 10.6.1858, S. 70.</note></seg>. Denn es war bei Ihnen, daß ich zum ersten Mal etwas von dieser Arbeit mitteilen durfte. Ich bin jetzt in der <seg type="comment"><orig>Mitte des <bibl sameAs="G003469">dritten Bandes</bibl>, angelangt beim Jahr 900; und habe nun das sechste Buch (von 900–1000) vor mir, welches ich bis zum Frühjahr beendige</orig><note xml:id="nof1_flb_vlb">Band 3 seiner „Geschichte der Stadt Rom im Mittelalter“ erschien 1860 und reichte bis zum Jahr 1000.</note></seg>, so Gott will, um dann <seg type="comment"><orig>nach <hi rendition="#aq"><placeName key="G000730">Monte Casino</placeName></hi> zu gehen, mit welchem Kloster ich eine gute Relation in <placeName key="G000671">Florenz</placeName> angeknüpft habe</orig><note xml:id="ng2g_glb_vlb"><p>Gegen Ende seines Florenzaufenthaltes von Juli bis September 1858 hatte Gregorovius dort Sebastiano Kalefati (1817–1863) kennengelernt, den Leiter des Archivs von Montecassino, zu dem sich bald ein freundschaftliches Verhältnis entwickelte: „Gestern traf ich den Bibliothekar Calefati von Monte Cassino, der für seine Sammlung byzantinischer Dokumente reist. Seine Bekanntschaft ist für meinen künftigen Aufenthalt in jener Abtei die Einleitung.“ (RT, 19.9.1858, S. 75). Im Jahr darauf fuhr Gregorovis vom 5.-18. Oktober 1859 für seine Archivarbeiten nach Montecassino (siehe den Brief von <ref target="G000405">Gregorovius an Kalefati, 12.8.1859</ref>).</p></note></seg>. </p>
+                <p>Als ich von dort nach Rom zurückzukehren gedachte, <seg type="comment"><orig>versenkte ich einen französischen Dampfer, den Aventin, im Kanal von <placeName key="G000617">Elba</placeName></orig><note xml:id="npwx_mlb_vlb">Gregorovius wollte am Abend des 29.9.1858 auf dem Dampfer Hermus von Livorno nach Civitavecchia fahren. In der Meerenge von Piombino bei Elba rammte die Hermus den Dampfer Aventin, der kurz darauf sank (siehe RT, 3.10.1858, S. 75–76).</note></seg> – eine großartige Nachtscene <seg type="comment"><orig>bei Kometenlicht</orig><note xml:id="nsry_4lb_vlb">Der am 2. Juni 1858 von dem Astronomen Giambattista Donati (1826–1873) von Florenz mit einem Teleskop entdeckte und nach ihm benannte Komet war wegen seiner außerordentlichen Helligkeit bis zum Oktober 1858 mit dem bloßen Auge zu sehen.</note></seg>, welche mir <seg type="comment"><orig>einen unauslöschlichen Eindruck</orig><note xml:id="ngbf_qlb_vlb">Siehe den von Gregorovius publizierten Bericht darüber in der „Allgemeinen Zeitung“: Der Untergang des französischen Dampfers ‚Aventin‘ in der Nacht vom 29 auf den 30 September. in: AZ. Nr. 285. Augsburg: Cotta 12.10.1858. S. 4601–4602). Gregorovius verarbeitete sein Erlebnis auch in einem Gedicht „Hermus. Eine Nacht auf dem Mittelmeer“ (Morgenblatt für gebildete Leser. Nr. 44. 31.10.1858).</note></seg> zurückgelaßen hat. Und weil die Vorsehung mich aus dieser Todesgefahr errettet hat, so fand ich darin eine noch stärkere Aufforderung mein Leben den Ideen zu widmen, u<ex>nd</ex> auf das äußere zu verzichten.</p>
+                <p><pb n="2r"/>Sie mögen denken, mein teurer Herr Minister, daß mir nichts abgeht; es ist <seg type="comment"><orig>keine Not wegen einer Subsidie von Seiten der Regierung, und ich denke auch, daß es Schwierigkeiten haben wird, das <orgName key="G000541">Ministerium</orgName> für ein Unternehmen zu interessiren, wovon es noch kein Resultat gesehen hat</orig><note xml:id="ns3m_rlb_vlb">Nach einem Besuch von Friedrich Althaus bei Alexander von Humboldt (1768–1859), dem Präsidenten der Kommission zur Prüfung der Unterstützungsgesuche von Gelehrten und Künstlern, am 26. Juli 1856 in Berlin hatte Humboldt am 29. Juli 1856 einen Brief an Gregrorovius geschrieben, in dem er dessen „Corsica“ (1854) sehr lobte (BSB, Sign. Autogr.Cim. Humboldt, Alexander von.13 – siehe http://daten.digitale-sammlungen.de/bsb00091648/image_1). Durch zusätzliche Vermittlung Hermann von Thiles bekam Gregorovius ab Herbst 1860 eine jährliches Stipendium der preußischen Regierung für seine „Geschichte der Stadt Rom im Mittelalter“, das bis 1866 fortgezahlt wurde.</note></seg>. Cotta versorgt mich; <seg type="comment"><orig>ein Übersetzungs-Tractat mit <placeName key="G000599">England</placeName> steht in nicht allzu weiter Aussicht</orig><note xml:id="nqsc_xlb_vlb">In England sollte eine Übersetzung der „Geschichte der Stadt Rom im Mittealalter“ gemacht werden, die indes nicht zustande kam (siehe Brief von Gregorovius an Cotta vom <ref target="G000107">1.12.1858</ref>).</note></seg>. Und so kann ich auch jetzt <seg type="comment"><orig>meiner Schuld genügen</orig><note xml:id="nzg1_zlb_vlb">Gregorovius hatte sich von Thile Geld geliehen, siehe die Briefe von Gregorovius an Thile, <ref target="G000103">11.4.1859</ref> und <ref target="G000094">7.1.1860</ref>. In seinem Brief vom 7.1.1860 kündigte Gregorovius bei Thile eine erste Zahlungsanweisung von 150 Talern zur Tilgung an, doch zu diesem Zeitpunkt hatte Thile ihm bereits weitere 2000 Franks zugesandt (siehe den Brief von <ref target="G000093">Gregorovius an Thile, 11.1.1860</ref>).</note></seg>, und bitte auch deswegen um Ihre freundliche Bestimmung.</p>
+                <p>Ich hörte, daß Sie vor dem Tor Berlins wohnen; die Nähe der Ihrigen und guter Freunde wird Ihnen so viel Annehmlichkeiten bringen, und so das häufige Zusammensein mit <persName key="G001189"><seg type="comment"><orig>Herrn von Gräfe</orig><note xml:id="ncsd_2mb_vlb">Der in Berlin praktizierende Schwager Thiles, der Augenarzt Albrecht von Graefe (1828–1870).</note></seg></persName>, welcher doch wol u<ex>nd</ex> kräftig ist, und deßen Erinnerung ich so gern möchte empfohlen sein. Ich denke aber auch manchmal, wenn ich dies alte u<ex>nd</ex> schöne Rom sehe, daß Sie sich manchmal darnach zurücksehnen; es bleibt doch ein Stück vom Herzen hier, wenn man lange darin gewohnt, u<ex>nd</ex> diesen heiligen Boden mit Freude u<ex>nd</ex> Leid, mit Arbeit und Hoffnung durchdrungen hat. Ich gehe jetzt oft über das <placeName key="G004688">Forum</placeName>, darüber das <placeName key="G000761">Capitol</placeName> so schön aufragt, u<ex>nd</ex> wo sich auch Ihr langer Balkon zeigt. <seg type="comment"><orig>Hänschen</orig><note xml:id="ny1c_fmb_vlb">Hans von Thile (1848–1869).</note></seg> bitte ich zu sagen, daß jetzt alle Orangenbäume voll von goldenen Früchten sind, daß ich in Ihrem Garten unten war, und seiner lebhaft gedacht habe. Die Luft ist jetzt klar und kalt, u<ex>nd</ex> Rom leuchtet so schön des Morgens, wie von hundert Berggipfeln. Darf ich hoffen, daß Sie, verehrte Frau von Thile, mir eine <pb n="2v"/>freundliche Erinnerung auch in der Ferne schenken werden? ich glaube es wol, denn Sie waren mir wolwollend; reine Freuden des Gemütes sind mir in Ihrem Hause zu Teil geworden, u<ex>nd</ex> wo auch immer ich sei, ich werde daran froh gedenken. Möge der Himmel Ihnen Allen Glück und Segen schenken, so in dem kommenden Jahre, wie in ungezählten folgenden – die heitre Meeresstille nach den Schicksalsstürmen.</p>
+                <closer>
+                    <salute>Leben Sie herzlich wol, mein teurer und edler Herr, und denken Sie
+                        meiner wie eines Ihrer wärmsten und dankbarsten Verehrer.</salute>
+                    <signed rendition="#right"><hi rendition="#aq">Ferdinand Gregorovius</hi>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

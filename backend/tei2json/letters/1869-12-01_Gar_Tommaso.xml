@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000288">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Tommaso Gar in Venedig. Rom, 1. Dezember 1869</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Biblioteca Comunale di Trento</repository>
+                        <idno>
+                            <idno>busta BCT1–2257/52</idno>
+                        </idno>
+                    </msIdentifier>
+                    <physDesc>
+<p>1 Dbl., 8°, 3 S. – 1r geprägt: ROMA </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er ist über Stuttgart und Modena nach Rom zurückgekehrt. Gar soll in der Biblioteca Marciana Briefe von Cesare Borgia an seinen Papst Alexander VI. sichten, auf die ihn Lord John Emmerich Dalberg-Acton hingewiesen hat. Für Kopien kann er sich an Camillo Soranzo wenden. Er fragt nach den Berichten von Girolamo Priuli und Antonio Giustiniani zu den Todesumständen Alexanders VI. Das Manuskript des siebten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1870) steht vor dem Abschluss und soll am 15. Dezember 1870 mit Wilhelm Lübke nach Stuttgart gehen. Er bittet um die Adresse von Gabriele Rosa, der sein Werk mehrmals rezensiert hat und erkundigt sich, ob Gar den zweiten Band der zweiten Auflage (1869) erhalten hat. Zusammen mit Karl und Auguste Lindemann-Frommel bestellt er Grüße an Madeleine Creutzer.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName>
+                    <date when="1869-12-01" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001158">Gar, Tommaso (1808–1871)</persName>
+<placeName key="G000894">Venedig</placeName>
+</correspAction>
+<correspContext>
+<ref type="next">4.12.1869</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c"> <choice><sic>, </sic><corr type="deleted"/></choice><placeName key="ediarum_lmm_slx_qlb">via Gregoriana</placeName>, <lb/>1. Dic<ex>em</ex>br<ex>e</ex> 69.</dateline>
+                    <salute rendition="#c">Carissimo amico Gar,</salute>
+                </opener>
+<p>ho una cosa di molta premura da pregarvi. <seg type="comment"><orig>Il <persName key="G000906">Lord Acton</persName></orig><note xml:id="ncgm_v1s_ylb">Gregorovius lernte den englischen katholischen Theologen und Historiker Sir John Emmerich Dalberg-Acton (1834–1902) bereits 1864 in Rom kennen und bezeichnete ihn als „sehr belesen in aller Literatur“ (siehe RT, 31.12.1864, S. 191). 1869 reiste Acton nach Rom, um dort beim Vatikanischen Konzil Informationen für die Gegner des Unfehlbarkeitsdogmas zu sammeln.</note></seg> <seg type="comment"><orig>venne truovarmi quà</orig><note xml:id="nry4_w1s_ylb">Siehe RT, 4.12.1869, S. 267.</note></seg>, e nel discorrere sopra gli aulicij e manoscritti di Venezia egli mi communicò, che nella <orgName key="G000562"><seg type="comment"><orig>Marciana</orig><note xml:id="nthd_y1s_ylb">Die Biblioteca Nazionale Marciana (auch Markusbibliothek) ist eine der größten Nationalbibliotheken Italiens in Venedig und berühmt für ihre Sammlungen von orientalischen, griechischen und lateinischen Handschriften. </note></seg></orgName> sarebbero certe lettere del <persName key="G000983"><seg type="comment"><orig>Duca Valentino</orig><note xml:id="njfp_z1s_ylb">Cesare Borgia (1475/76–1507), der uneheliche Sohn des späteren Papstes Alexander VI. (1431–1503), wurde als 1. Herzog von Valentinois auch „il Valentino“ genannt.</note></seg></persName> dirette al <seg type="comment"><orig><persName key="G000914">suo padre</persName></orig><note xml:id="nwnm_fbs_ylb">Alexander VI., geb. als Rodrigo de Borja (1431–1503), Papst 1492–1503.</note></seg>; esse si ritruovano nei codici lat. Classe X. Cod. 174–178,<seg type="comment"><orig> <foreign xml:lang="Lat">Epistolae ad <persName key="G001609">Sixtum IV.</persName> et alios pontifices scriptae </foreign></orig><note xml:id="nwvd_hbs_ylb">Lat. für: Briefe an Sixtus IV. und Schreiben anderer Päpste.</note></seg>. Egli non si ricorda più, in quale di questi quattro volumi le sopra dette lettere fossero contenute. Or mi rendereste uno dei più grandi servizi, volendo recarvi costà, vedere un <unclear reason="illegible" cert="low">giorno</unclear> quelle lettere (18 o 20 di numero, come dice il Acton), e farmene fare sull’ istante il registro di esse <pb n="1v"/>colla data precisissima, non che le copie delle più importanti, ‒ mi basterebbero tre o quattro ‒. Copia per Acton <seg type="comment"><orig>il <persName key="G001614">Soranzo</persName></orig><note xml:id="nh3k_3bs_ylb">Conte Camillo Soranzo (1826–1902) stammte aus einer venezianischen Patrizierfamilie und arbeitete ab 1869 (möglicherweise aber bereits vorher) in der Biblioteca Marciana in Venedig. Zu Camillo Soranzo siehe auch den Brief von Gregorovius an Giuseppe De Leva, 31.12.1890.</note></seg>, se non isbaglio, e questo Lord gli permette, di copiar quello che mi occorre, sull’istante per me. Si farmi la copia su carta fine da pesta; pagate il copista, vi prego, avro l’occasion di farvi rimborsare la spesa quanto presto sia possibile – e mandatemeli mano a mano in forma di lettere. La cosa mi preme, <seg type="comment"><orig>perché il <bibl sameAs="G003441">manoscritto</bibl> mio deve partire da Roma per <placeName key="G000879">Stuttgart</placeName> gli 15 di questo mese</orig><note xml:id="nzj5_kbs_ylb">Der Stuttgarter Kunsthistoriker Wilhelm Lübke (1826–1893), der Königin Olga von Württemberg (1822–1892) auf einer Romreise begleitete, brachte einen Teil des Manuskripts des siebten Bandes der „Geschichte der Stadt Rom im Mittelalter“ zu Cotta nach Stuttgart. Siehe RT, 19.12.1869, S. 270: „Am 16. nahm Lübke die ersten vier Kapitel des Bandes VII mit nach Stuttgart; die übrigen habe ich noch zurückbehalten, teils um noch andre Urkunden aus dem Archiv Venedig abzuwarten, teils weil ich noch das Bild Roms um das Jahr 1500 zu entwerfen habe.“</note></seg>, colla corte della <seg type="comment"><orig><persName key="G001460">Regina del Würtemberg</persName></orig><note xml:id="ndkc_mbs_ylb">Olga Nikolajewna Romanowa (1822–1892), seit 1864 Königin Olga von Württemberg, war Anfang November 1869 nach Rom gekommen. Gregorovius schreibt im Tagebuch hierzu: „Die Königin Olga von Württemberg kam anfangs November ohne den König [Karl I. (1823–1891)]. Sie nahm Wohnung im Hôtel Costanzi. Professor [Wilhelm] Lübke begleitete sie als Führer durch die Museen. Ich wurde dort zu Tisch geladen. Die Königin sprach geistreich und gut über Rom. […] Ihre Gestalt ist hoch und schlank, ihre Bewegung nervös lebhaft, doch immer edel und schön. Alles in ihrer Nähe vergöttert sie. Lübke, ein einfacher und ruhiger Mann, schwärmt für sie […].“ (4.12.1869, S. 268). </note></seg>.</p>
+<p>Oltre di ciò Acton mi puntò di <seg type="comment"><orig>certi rapporti del <seg type="comment"><orig><persName key="G001508">Prioli</persName></orig><note xml:id="nnjg_nbs_ylb">Girolamo Priuli (1476–1547) war ein wohlhabender venezianischer Bankier und Kaufmann, der von 1507 bis 1513 ein eigenes Geldinstitut in Venedig führte. Daneben wirkte er als Chronist und verfasste von 1494 bis 1512 acht Bände der Diarii, von denen der dritte Band bis heute als verschollen gilt. Bisher erschienen lediglich drei Bände dieser bedeutenden historischen Quelle im Druck; vgl. „I Diarii di Girolamo Priuli“. Hrsg. Von Arturo Segre und Roberto Cessi. In: Rerum Italicarum Scriptores n. s. 24/3. 3 Bde. Città di Castello/Bologna 1912–1941.</note></seg> e del <persName key="G001177">Giustiniani</persName> sulla morte di <persName key="G000914">Alessandro VI.</persName></orig><note xml:id="niln_4gk_1mb">Gregorovius erwähnt Girolamo Priuli (1476–1547) und Antonio Giustiniani (1466–1524) im siebten Band der „Der Geschichte der Stadt Rom“ im Zusammenhang mit Gerüchten um die Todesumstände von Papst Alexander VI. (1431–1503). Während Priuli den Verdacht eines ‚versehentlichen‘ Gifttodes, der durch ein eigentlich für den Kardinal Hadrian bestimmtes Konfekt herbeigeführt wurde (S. 498, Fußnote 1), äußert, berichtet der venezianische Botschafter Giustiniani in einer Depesche von einem natürlichen Tod (S. 497, Fußnote 1; Gregorovius nennt Gar dort als Kopist der Orginaldepesche). Girolamo Priuli (1476–1547) war ein wohlhabender venezianischer Bankier und Kaufmann, der von 1507 bis 1513 ein eigenes Geldinstitut in Venedig führte. Daneben wirkte er als Chronist und verfasste von 1494 bis 1512 acht Bände der Diarii, von denen der dritte Band bis heute als verschollen gilt. Bisher erschienen lediglich drei Bände dieser bedeutenden historischen Quelle im Druck; vgl. „I Diarii di Girolamo Priuli“. Hrsg. Von Arturo Segre und Roberto Cessi. In: Rerum Italicarum Scriptores n. s. 24/3. 3 Bde. Città di Castello/Bologna 1912–1941. Antonio Giustiniani (1466–1524) war von 1502 bis 1505 venezianischer Botschafter in Rom; anschließend kehrte er nach Venedig zurück. Es folgten weitere hohe Ämter in der Lombardei und in Venedig. </note></seg> Se per <pb n="2r"/>favor vostro ne potrei avere un appunto, vi renderei infinite grazie. Vedete, caro Gar, come quelle cose importanti mi sono sfuggite, mentre che studiai a Venezia nell’anno scorso.</p>
+<p>Nel retorno da <placeName key="G000734">Monaco</placeName> e Stuttgart <seg type="comment"><orig>mi fermai a <placeName key="G000729">Modena</placeName></orig><note xml:id="nsmx_jcs_ylb">Er war von 29.9. bis 1.10 in Modena (siehe RT, 29.9.1869, S. 265f.), um dort in Archiv und Bibliothek, welche ehemals von Lodovico Antonio Muratori (1672–1750) geleitet wurden, zu recherchieren. </note></seg>, dove di molti documenti preziosi ho potuto arricchirmi.</p>
+                <p>Vi prego, di darmi l’indirizzo e i titoli di <seg type="comment"><orig><persName key="G001556">Gabriel Rosa</persName> da <placeName key="G000635">Bergamo</placeName></orig><note xml:id="nmwx_lcs_ylb">Gabriele Rosa (1812–1897) war Historiker, Politiker und Schriftsteller. Er war ein Anhänger der „Giovine Italia“ und Giuseppe Mazzinis, wodurch er sich eine mehrjährige Gefangenschaft am Spielberg und Exilierung in Piemont und der Schweiz einhandelte. Als Wissenschaftler widmete er sich vor allem Arnold von Brescia (ca. 1090–1155); daneben schrieb er mehrere Beiträge über Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ im „Archivio Storico Italiano“. Laut Gregorovius wurde die Übersetzung der „Geschichte der Stadt Rom im Mittelalter“ sogar nur dank eines Artikels von Rosa auf den Weg gebracht: „Man wird die Geschichte der Stadt in Italien übersetzen, in Folge des Artikels, welchen das Archivio storico von Florenz darüber brachte“ (siehe Gregorovius an Johann Georg Freiherr Cotta von Cottendorf, 11.8.1862). Vgl. zu Bd. I der „Geschichte der Stadt Rom im Mittelalter“. In: Archivio Storico Italiano. Neue Serie. Bd. 15. Teil 1. Florenz: Vieusseux 1862. S. 86–108.</note></seg>, il quale fece già più volte degli <bibl corresp="G002651 G002689 G002690 G002722 G002723">articoli sulla mia <seg type="comment"><orig>Storia di Roma</orig><note xml:id="nhdc_scs_ylb">Zum Zeitpunkt waren sechs Bände der „Geschichte der Stadt Rom im Mittelalter“ (1859–1867) erschienen.</note></seg></bibl>. Di questa, spero, che avrete ricevuto il <bibl sameAs="G003477">vol. 2<hi rendition="#sup">o</hi> nella nuova edizione </bibl>.</p>
+                <closer>Salutate dalla mia parte, come da quella dei <persName key="G001374">
+                        <persName key="G001375">Lindemann</persName>
+                    </persName> l’amabile <persName key="G001056">Baronessa</persName>. Buon piò e mille belle cose <salute>dal vostro <add place="superlinear">per</add> sempre obligato <lb/>e verace amico</salute> <signed rendition="#right">FGregorovius</signed> </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

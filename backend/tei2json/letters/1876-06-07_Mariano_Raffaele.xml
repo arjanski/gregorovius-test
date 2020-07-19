@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000203">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Berlin. Rom, 7. Juni 1876</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt></titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er hält Berlin im Vergleich zu Rom für fantasielos und nüchtern. Clemente Maraini hat eine Aufgabe für Mariano im Sinn, doch sollte dieser sich von den Sphären der philosophischen Reflexion mehr zu den Tatsachen hinneigen – er könnte eine Studie über die Geschichte des evangelischen Gedankens in Italien schreiben. Manfred Lindemann-Frommel und sein Onkel Otto Freiherr von Racknitz haben Rom verlassen, Charlotte Freifrau von Wechmar und Wolfgang Erhardt stehen kurz vor der Abreise nach Deutschland. Er selbst bricht Mitte des Monats nach München auf. Er hat Michele Coppino und Agostino Depretis kennengelernt. In seinem Aufsatz „Tarent“ (1876) wird Mariano als Reisegefährte nicht erwähnt; er wird aber in den zusammenhängenden Reiseschilderungen seiner „Apulischen Landschaften“ (1877) immer wieder vorkommen.</p>
+<p xml:lang="en"/>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1876-06-07" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000636">Berlin</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c"><foreign xml:lang="ita">Roma</foreign>, 7. Juni 1876.</dateline>
+                    <salute>Lieber Freund Mariano,</salute>
+                </opener>
+<p>ich bin sehr froh von Ihnen einen Brief zu haben, dem ich schon lange entgegensah. Aber Ihr Brief enthält so wenig Thatsächliches, daß ich eigentlich nur das aus ihm erfuhr, daß Sie in der <placeName key="ediarum_a1t_tt5_gmb">Französischen Straße</placeName> in Berlin wohnen. Also Berlin, diese Stadt der Geheimräte, der Bureaukraten, der Junker, u<ex>nd</ex> der nüchternsten <del rendition="#s">Bau</del><subst><del rendition="#ow">k</del><add place="intralinear">K</add></subst>unst des modernen Staatsbaues, wo <foreign xml:lang="fra">l’homme machine</foreign> in jeder Hinsicht, durchwandern Sie jetzt. Sie werden da einen großen, scharfen, zersetzenden Verstand finden, das wahre Monstrum der Razionalität, wo alles haarklein gespalten u<ex>nd</ex> berechnet wird, u<ex>nd</ex> das Große nur durch eine geschickte Zusammensetzung klein- <pb n="1v"/>licher Kleinheiten geschaffen wird – vergleichen Sie Rom damit, u<ex>nd</ex> es ist genug. So ungeheure Arbeit in Berlin, u<ex>nd</ex> diese so ohne jede Phantasie u<ex>nd</ex> Schönheit! Es ist der <persName key="G001264">Herkules</persName> der reinen Vernunft; nichts vom Apollo des Südens und seiner bezaubernden Grazie.</p>
+<p>Ich sprach letzthin mit <seg type="comment"><orig><persName key="G001398">Maraini</persName></orig><note xml:id="nqms_jjw_zlb">Ingenieur und Eigentümer des römischen Journals Il Diritto.</note></seg> von Ihnen. Er hatte was praktisches für Sie im Vorschlage. Es wäre gut. Denn Sie sind einmal ein Mann, dessen Talente sich nicht richtig geltend machen, weil Ihr Schiff nicht Balast genug mit sich führt. Mehr Erde! mehr Erde! unter die Füße. Verzeihen Sie, wir sind Freunde; u<ex>nd</ex> da Sie einmal in jenem praktisch nüchternen Berlin sind, so ist es auch gut, dies wie einen Spiegel zu ge- <pb n="2r"/>brauchen, worin man sein Bild sieht. Wie ich einmal <persName key="G001375">Lindemann</persName> sagte, daß er aus dem Kreise herausmuß in welchem er seine monotone Kunst hält, so wollte ich es auch Ihnen sagen, daß Sie aus der monotonen Formel heraus müssen, in welche Sie Ihre philosophirende Reflexion gebannt halten. Einmal eine That thun, welche wiegt u<ex>nd</ex> wirkt, das ist für jeden strebenden Menschen Notwendigkeit. Ich dachte ehe für Sie an eine größere literarische Arbeit, wie die Geschichte des evangel<ex>ischen</ex> Gedankens in <placeName key="G000690">Italien</placeName>: es wäre doch schön, führten Sie das aus. Aber wer weiß, ob nicht Ihre Anwesenheit in Berlin Ihnen eine Richtung in eine praktische Stellung in Italien geben wird.</p>
+<p>Wir leben hier still; <persName key="G001376">Lindemanns Sohn</persName> ist längst in <placeName key="G000696">Karlsruhe</placeName>, <pb n="2v"/>der <seg type="comment"><orig><persName key="G001521">Schwager</persName></orig><note xml:id="ns44_ljw_zlb">Otto Freiherr von Racknitz (1829–1913), der Bruder von Auguste Luise Lindemann-Frommel, geb. Auguste Luise Karoline Freiin von Racknitz (1826–1876).</note></seg> in der <placeName key="G000870">Schweitz</placeName>, <seg type="comment"><orig><persName key="G001699">Frau v<ex>on</ex> Wechmar</persName></orig><note xml:id="ndk3_mjw_zlb">Charlotte Freifrau von Wechmar (1835–1884), geb. Freiin von Racknitz, Schwester der zum Zeitpunkt bereits verstorbenen Auguste Luise Lindemann-Frommel (1826–1876) und verwitwete zweite Ehefrau von Friedrich Freiherr von Wechmar (*1801).</note></seg> noch hier, doch im Abreisen; <seg type="comment"><orig>Dr. <persName key="G001116">Erhardt</persName></orig><note xml:id="nqgf_njw_zlb">Wolfgang Erhardt (1819–1906) war Arzt der Deutschen Botschaft und des deutschen Krankenhauses in Rom. Gregorovius kannte Erhardt mindestens seit Sommer 1858 (siehe RT, 10.6.1858, S. 70), unternahm Ausflüge und Urlaube mit ihm sowie seiner Frau Auguste von Racknitz (†1876). </note></seg> begleitete <seg type="comment"><orig>einen Lord</orig><note xml:id="nyl1_4jw_zlb">Nicht ermittelt.</note></seg> nach <placeName key="G000716">London</placeName>; ihm fließt das Geld in Strömen zu. </p>
+<p>Ich selbst bin auf der Abreise. <seg type="comment"><orig>Ich gehe am 15. od<ex>er</ex> 16. fort, u<ex>nd</ex> sehr langsam nach <placeName key="G000734">München</placeName></orig><note xml:id="ncqf_pjw_zlb">Er verließ Rom am 18. Juni und kehrte über Florenz, Modena und Brixen nach München zurück (siehe den Brief von Gregorovius an Raffaele Mariano, 15.7.1876).</note></seg>. Nach dort schreiben Sie mir. Ich erfuhr viel Liebes in Italien, diesem mir ewig teuren u<ex>nd</ex> heimischen Lande.</p>
+<p>Von den neuen Ministern lernte ich kennen <seg type="comment"><orig><persName key="G001048">Coppino</persName></orig><note xml:id="nzrc_qjw_zlb">Michele Coppino (1822–1901), 1876–1878 Bildungsminister im Kabinett von Agostino Depretis.</note></seg> u<ex>nd</ex> <seg type="comment"><orig><persName key="G001084">Depretis</persName></orig><note xml:id="ne21_rjw_zlb">Agostino Depretis war 1876–1887 italienischer Ministerpräsident.</note></seg>. Leben Sie wol, guter Freund; wie bedaure ich, Ihnen nicht für Berlin dienen zu können, aber dort bin ich Fremde<ex>r</ex>, u<ex>nd</ex> hunderte Pedanten dort verstehen nicht meine Künstlernatur.</p>
+<p>Viele Grüße von Lindemann.</p>
+                <closer>
+<salute rendition="#right">In Treue Ihr</salute>
+<signed rendition="#right">FGregorovius </signed>
+<note type="postscript" rendition="#rotate90" place="left">Ich erwähnte Ihrer nicht im Artikel <bibl sameAs="G004013">Tarent</bibl>, <seg type="comment"><orig>weil es im <bibl sameAs="G003342">Buch</bibl> die Folge jener Artikel macht</orig><note xml:id="neq3_tjw_zlb">Der Artikel wurde 1877 in den fünften Band der „Wanderjahre in Italien. Apulische Landschaften“ aufgenommen (Leipzig: Brockhaus 1877. S. 253–295).</note></seg>, worin ich mehrfach Sie als meinen Reisegefährten bezeichnete. </note>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

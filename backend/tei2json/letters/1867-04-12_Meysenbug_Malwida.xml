@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000248">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Malwida von Meysenbug in Florenz. Rom, 12. April 1867</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><collection/><idno>116/107 (11, Bl. 19–20)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ½ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 5 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 86, Mappe 2 (nach D1)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Berta Schleicher: Ferdinand Gregorovius und Malwida von Meysenbug. Unveröffentlichte Briefe. In: Der Türmer. Monatsschrift für Gemüt und Geist. Jg. 25. H. 5. Stuttgart 1923. S. 314–315 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Brockhaus hat ihm auf seine Empfehlung der deutschen Übersetzung von Pasquale Villaris „La storia di Girolamo Savonarola e dei suoi tempi“ (1859–1861) mitgeteilt, dass sich der Übersetzer Moritz Berduschek bereits direkt an den Verlag gewendet habe. Er bittet Berduschek die Geneigtheit des Verlags nochmals mitzuteilen; er soll das gesamte Manuskript an Brockhaus senden und seine Honorarforderungen stellen. Natalie und Olga Herzen vermutet er auf den Bällen der Stadt. Ihrem Bruder Alexander Herzen gratuliert er zur Berufung an das Istituto di Studi Superiori in Florenz. Wilhelmine von Stein sieht schlecht aus und auch Auguste Lindemann-Frommel ist schwach und redet oft von ihrem Tod.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1867-04-12" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001418">Meysenbug, Malwida von (1816–1903)</persName>
+<placeName key="G000671">Florenz</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<dateline rendition="#c"><hi rendition="#aq">Rom</hi>, 12. <hi rendition="#aq">April</hi> 67.</dateline>
+</opener>
+<p>Da ich annehme, daß Sie<seg type="comment"> <orig><persName key="G000964">Herrn Barduschek</persName> häufig sehen u<ex>nd</ex> leicht erreichen, so bitte ich Sie um die Gefälligkeit dieser Mitteilung für ihn. Auf seinen oder <persName key="G001687">Villari’s</persName> Wunsch habe ich <persName key="G000995">Brockhaus</persName> das Unternehmen der <bibl sameAs="G004282">Übersetzung des Lebens Savonarola’s</bibl> ans Herz, gelegt, oder ihn dafür zu interessiren gesucht</orig><note xml:id="ntnl_khn_gmb">Siehe den Brief an Eduard Brockhaus vom <ref target="G000246">29.1.1867</ref>: ein Empfehlungsschreiben, in dem er sich für den Verlag der deutschen Übersetzung von Pasquale Villari: La storia di Girolamo Savonarola e dei suoi tempi (2 Bde. Florenz: Le Monnier 1859–1861) von Moritz Berduschek aussprach (siehe die Briefe vom Gregorovius an Villari vom 2.12.1866 und 25.1.1867 in: „Un anello ideale" fra Germania e Italia. Corrispondenze di Pasquale Villari con storici tedeschi. A cura di Anna Maria Voci. Rom: Archivio Guido Izzi 2006. S. 153–156). Die Übersetzung erschien im folgenden Jahr: Pasquale Villari: Geschichte Girolamo Savonarola’s und seiner Zeit nach den Quellen. Unter Mitwirkung des Verfassers aus dem Italienischen übersetzt von Moritz Berduschek. 2 Bde. Leipzig: Brockhaus 1868.</note></seg> – obwol ich freilich keinen Einfluß auf Brock<ex>haus</ex> habe – Nun schreibt mir die <orgName key="G000480">Buchhandlung</orgName> vor Kurzem dieses: daß sie von jenem Unternehmen durch Herrn Bard<ex>uscheck</ex> bereits vorigen Jahrs in Kenntniß gesetzt sei, und nur wiederholen könne, was sie damals geschrieben habe – nämlich, sie sei gar nicht abgeneigt, müsse aber das ganze Manuscript zur Einsicht vor sich haben; Herr B<ex>arduschek</ex> möchte es demnach ihr zusenden, nebst den Forderungen, die er in Bezug auf Honorar stelle. Dies haben Sie die Güte, Herrn B<ex>arduschek</ex> zu sagen, und daß ihm nichts anderes übrig bleibt, als diesen Weg einzuschlagen. <pb n="1v"/>B<ex>rockhaus</ex> wird ihm an Honorar äußerst wenig bieten, u<ex>nd</ex> dabei, der Natur solcher Übersetzungen gemäß, seine guten Gründe haben. Auf großen Absatz ist gar nicht zu rechnen. Man müßte auch das Buch dem deutschen Publicum ein wenig anbequemen, u<ex>nd</ex> namentlich durch Auslassung der langweiligen, u<ex>nd</ex> für heutige Menschen, zumal unkirchliche Deutsche, ganz unlesbaren Predigten jenes mönchischen Träumers.</p>
+<p>Wie geht es doch Ihnen in dem jetzt ganz verbabilonisirten Florenz, woraus die <persName key="G001195">Grazien</persName> wol mit stillem Jammer entwichen sind? Womit beschäftigen Sie sich? Ihre Freunde in Rom gedenken Ihrer u<ex>nd</ex> der guten <seg type="comment"><orig>Geschwister <persName key="G001267">N<ex>atalie</ex></persName> u<ex>nd</ex> <persName key="G001268">O<ex>lga</ex></persName> oft u<ex>nd</ex> gern, u<ex>nd</ex> wünschen von Ihnen zu hören. Fräulein <hi rendition="#aq">Natalie</hi> hat gewiß die Bälle von Florenz durchstralt</orig><note xml:id="ngbn_lhn_gmb">Olga Herzen (1850–1953) war seit 1853, mit ihrer Schwester Natalie Herzen (1844–1936), die Pflegetochter von Malwida von Meysenbug; seit 1861 lebte sie mit den Mädchen zusammen. Olga war nach dem Wunsch des Vaters 1866 in die Berner Schule Abraham Emmanuel Fröhlichs (1796–1865) eingetreten, doch wechselte sie wenig später nach Florenz zu einem von den Kaiserswerther Diakonissen geführten Institut (siehe den Brief von <ref target="G000236">Gregorovius an Malwida von Meysenbug, 2.3.1866</ref>).</note></seg>, u<ex>nd</ex> Sie leben in Saus u<ex>nd</ex> Braus, zu Pferde, zu Wagen u<ex>nd</ex> zu Fuß. Wir hier sind still u<ex>nd</ex> thätig, nach gewohnter Art. Ich höre mit Vergnügen, daß <seg type="comment"><orig><persName key="G001266">Herzen <hi rendition="#aq">junior</hi></persName> jetzt ein großer Professor geworden ist</orig><note xml:id="nbhl_mhn_gmb">Der russische Physiologe Alexander Herzen (1839–1906) arbeitete zwischen 1864 und 1881 in Florenz im Istituto di Studi Superiori unter dem da schon berühmten, aus Frankfurt am Main stammenden Physiologen Moritz Schiff (1823–1896). Dort wurde er 1867 zum Professor berufen (siehe den Brief von <ref target="G000204">Gregorovius an Malwida von Meysenbug, 23.6.1864</ref> und Malwida von Meysenbug: Memoiren einer Idealistin. Berlin, Leipzig 1924. S. 211).</note></seg>, wozu ich ihm bestens gratulire. Der <persName key="G001620"><seg type="comment"><orig>Fr<ex>äu</ex>l<ex>ein</ex> von Stein</orig><note xml:id="npnd_nhn_gmb">Die österreichische Porträtmalerin und Wilhelmine von Stein (1825–1890).</note></seg></persName> geht es nicht gut – sie hat sich sehr verändert – ihr <pb n="2r"/>Gesicht ist breit geworden – ist das besser oder schlechter, als lang? – und hat eine ungesunde Farbe. Ich denke, Sie wird nicht lange leben. Die herrliche <persName key="G001374">Lindemann</persName> hält sich zwar anscheinend wacker – doch ein Hauch kann ihr zartes Licht verlöschen – <seg type="comment"><orig>sie spricht jetzt oft von ihrem nahen Tode</orig><note xml:id="nxng_phn_gmb">Auguste Lindemann-Frommel starb erst 1876.</note></seg>. Kurz u<ex>nd</ex> gut, wenig Lebensfreude ist im alten Rom zu finden.</p>
+                <closer>
+                    <salute>Ich grüße Sie alle herzlich, und wünsche Ihnen freudige Tage.</salute>
+                    <signed rendition="#c">G</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

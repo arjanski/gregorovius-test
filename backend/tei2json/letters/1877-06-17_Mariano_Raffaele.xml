@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000220">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Rom. München, 17. Juni 1877</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt></titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Mariano wird seine schwierigen Familienangelegenheiten in Capua erledigt haben. Er möchte mit Karl Lindemann-Frommel und Mariano in Traunstein zusammentreffen, wo er selbst ab Anfang Juli 1877 für fünf Wochen hinfährt. Seine „Figuren“ erscheinen in fünfter Auflage (1878), seine „Lateinischen Sommer“ in vierter Auflage (1878) , die zweite Auflage seiner „Apulischen Landschaften“ folgt später (1880). Diese Arbeiten lohnen sich finanziell mehr als seine „Geschichte der Stadt Rom im Mittelalter“ (1859–1872). Es beschäftigen ihn die Reaktionen auf seine „Lucrezia Borgia“ (3. Auflage 1876): Durch Antonino Bertolotti hat ihm Alessandro Ademollos kritischen Artikel „Lucrezia Borgia e la Verità“ aus dem „Archivio storico artistico archeologico e letterario“ zugesandt. Seine Zusammenarbeit mit der „Allgemeinen Zeitung“ hat er einstweilen aufgekündigt, weil der Redakteur Otto Braun eine unverschämte Notiz von Karl Gutzkow zugunsten des kritischen Artikels von Henry Blaze de Burys aus der „Revue des deux Mondes“ hat drucken lassen. Er widmet sich jetzt Studien zum Dreißigjährigen Krieg. Edward Gibbon hat nach Vollendung seiner „History of the Decline and Fall of the Roman Empire“ (6 Bde., 1776–1788) nichts mehr geschrieben und starb bald. Seine Halbschwester Ottilie Elgnowski will auf einige Wochen nach Wiesbaden, ihr Son Hermann ist tüchtig. Er soll für ein neues Denkmal für Paolo Sarpi in Venedig unterschreiben. Ein nach Rom an ihn gesandter Brief Cottas ist verloren gegangen.</p>
+<p xml:lang="it"/>
+<p xml:lang="en"/>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1877-06-17" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c"><seg type="comment"><orig>München, 17. Juni 1877</orig><note xml:id="nq4l_g53_1mb">Gregorovius war am 4. Juni 1877 aus Italien zurückgekehrt.</note></seg>.</dateline>
+                    <salute rendition="#c">Lieber Freund,</salute>
+                </opener>
+<p>ich bin froh zu wissen, daß Sie die peinliche u<ex>nd</ex> wol auch <seg type="comment"><orig>schwierige Angelegenheit in <placeName key="G000654">Capua</placeName></orig><note xml:id="nerk_h53_1mb">Nicht ermittelt; Gregorovius erwähnt Marianos Capua-Reise auch in den Briefen vom 6.6. und 25.7.1877.</note></seg> so gut es ging geordnet haben, und nun sich jetzt wieder zurück gegeben sind. Nach Ihrer Anstrengung, und auch einer solchen, welche Frau <hi rendition="#aq"><persName key="G001215">Grunelius</persName></hi> in einem ihrer Briefe mir gemacht hat, scheint es, daß Sie Rom früher verlassen wollen, als im vorigen Jahre.</p>
+<p>Es war u<ex>nd</ex> ist noch mein Wunsch, daß ich mit Ihnen u<ex>nd</ex> <persName key="G001375">Lindemann</persName>, dessen Schicksal ich tief beklage, in <placeName key="G000888">Traunstein</placeName> zusammen treffen möchte: deshalb gab ich ihm zu wissen, u<ex>nd</ex> melde es auch Ihnen, daß ich am 1. Juli dorthin gehe, und etwa 5 Wochen <pb n="1v"/>daselbst bleiben werde.</p>
+<p>Ich habe die Briefe erhalten, die Sie mir schickten. Der gestrige der <orgName key="ed_ijy_33w_sfb">Buchhand<ex>lung</ex> Brockhaus</orgName> zeigte mir an, daß neue Auflagen von B<ex>an</ex>d I u<ex>nd</ex> II der Wanderjahre gemacht werden müssen (die <bibl corresp="G003147">fünfte</bibl> u<ex>nd</ex> <bibl corresp="G003207">vierte</bibl>); daß von <bibl corresp="G003351">B<ex>an</ex>d V</bibl> (Apulische Landschaften) die neue Auflage aber erst im künftigen Jahre nötig wird. Es ist lächerlich aber wahr, daß diese kleinen Sachen anfangen mir eine größere Rente abzuwerfen, als mein Hauptwerk die <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Geschichte der Stadt Rom</bibl>. Doch scheint auch diese jetzt stärker in Zug zu kommen.</p>
+<p><seg type="comment"><orig><persName key="G000966"><hi rendition="#aq">Bertolotti</hi></persName> vom <orgName key="ed_xmf_1hh_zkb"><hi rendition="#aq">Archivio di Stato</hi> in Rom</orgName></orig><note xml:id="nnvv_m53_1mb">Antonino Bertolotti (1834–1893), Archivar und Schriftsteller, seit 1871 im „Archivio di Stato di Roma“. Seit 1880 Direktor des Staatsarchivs in Mantua; siehe Guglielmo Capogrossi Guarna: Bertolotti, Antonio, in: DBI, 9, 1967, S. 612–613.</note></seg> schickte mir die neuste Nummer der Zeitschrift <hi rendition="#aq"><orgName key="G000468">Archivio storico artistico archeologico e letterario <pb n="2r"/>della città e provincia di Roma</orgName></hi> diretto da <seg type="comment"><orig><persName key="G001185"><hi rendition="#aq">Fabio Gori</hi></persName>,</orig><note xml:id="njbw_rcf_fmb">Fabio Gori (1833–1916) gründete und leitete die Zeitschrift „Archivio storico artistico archeologico e letterario della città e provincia di Roma“ (1975–1883). </note></seg> worin ein <seg type="comment"><orig><seg type="comment"><orig><hi rendition="#aq"><persName key="G000908">Ademollo</persName></hi></orig><note xml:id="ncfw_453_1mb">Alessandro Ademollo (1826–1891) Schriftsteller, widmete sich historischen Studien.</note></seg></orig><note xml:id="nkkr_453_1mb">Siehe RT, S. 379, August 1877: „Der Archivar Bertolotti gab mir Kunde, daß man in dem neu gegründeten ‚Archivio Storico Romano‘ feindlich gegen mich aufgetreten sei, indem man meine ‚Geschichte der Stadt‘ auf ‚jesuitische Weise‘ entstellt habe, um Reumont auf meinen Thron zu setzen. Ich erhielt bald darauf dieses Heft. Der betreffende einleitende Artikel, von einem gewissen Tommasini, einem auf klerikalen Wegen schleichenden, ganz unbedeutenden Menschen verfasst [...] war in der Tat ein jammervolles Machwerk des Neides.“</note></seg> <bibl corresp="G002857 G002858">Artikel</bibl> über <bibl corresp="G003509 G003510">Lucrezia Borgia</bibl> schreibe. Das <seg type="comment"><orig>Schlafenmachen u<ex>nd</ex> Reden</orig><note xml:id="nyn3_xcf_fmb"><?UNIQUE_CARET_MARKER_FOR_AUTHOR?></note></seg> über diese ist mir nun schon so sehr zum Ekel geworden, daß ich fast bedaure dies Buch geschrieben zu haben.</p>
+<p>Ich habe nochmals <persName key="G001053">Cotta</persName> erklärt, daß er mich bis auf weiteres als ausgeschieden zu betrachten hat aus der Zahl der Mitarbeiter der <orgName key="G000462">Allg<ex>emeinen</ex> Zeit<ex>ung</ex></orgName>, u<ex>nd</ex> er ist gerecht genug meine Gründe u<ex>nd</ex> <seg type="comment"><orig>die Flegelei des <persName key="G000994">Redacteurs</persName> </orig><note xml:id="njw3_2df_fmb">Otto Braun (1824–1900), Redakteur der „Allgemeinen Zeitung“ hatte eine öffentliche Notiz von Karl Gutzkow (1811–1878) abdrucken lassen, die im April 1877 den vorläufigen Bruch Gregorovius’ mit der „Allgemeinen Zeitung“ herbeiführte. Im publizistischen Nachgang einer ausgesprochen negativen Rezension seiner „Lukrezia Borgia“ von dem Literatur-, Kunst- und Musikkritikers Henry Blaze de Bury (1813–1888) in der „Revue des deux Mondes“ (vom 15.3.1877, siehe http://rddm.revuedesdeuxmondes.fr/archive/article.php?code=63221) hatte Gutzkow in der „Allgemeinen Zeitung“ die Besprechung von Blaze de Bury zwar nicht verteidigt, sondern sich daran gestört, dass Gregorovius diesen in einer Replik als einen ihm „nicht einmal dem Namen nach bekannten“ Schreiber diskreditierte (In: AZ. Nr. 98. 8.4.1877. S. 1480). Dazu kommentiert Gregorovius im Tagebuch: „Das Mitgeteilte Gutzkows war eine boshafte Einmischung in meine persönliche Angelegenheit. Gutzkow ist mir noch von früheren Jahren her feindlich gesinnt, weil er in Rom von mir und allen anderen gleichgültig behandelt worden war. Nun schlug er mit dem Pferdefuß nach mir aus. […] ein Mensch ohne Erziehung“ (RT, Rückkehr nach Rom im Jahre 1877, S. 376). Dem Redakteur der „Allgemeinen Zeitung“, Johann Philipp Otto Braun, wirft Gregorovius vor, die Gutzkows Notiz überhaupt erst aufgenommen zu haben.</note></seg>einzusehen.</p>
+<p>Ich habe angefangen mich in <seg type="comment"><orig>die <bibl sameAs="G003523">Studien</bibl> des 30jähr<ex>igen</ex> Krieges</orig><note xml:id="ndkw_r53_1mb">Das Ergebnis dieser Studien war das zwei Jahre später erscheinende „Urban VIII. im Widerspruch zu Spanien und dem Kaiser. Eine Episode des dreißigjährigen Kriegs“ (Stuttgart: Cotta 1879).</note></seg> zu versenken, u<ex>nd</ex> diese zu neuer folgerichtigen Arbeit für mich zu machen, u<ex>nd</ex> zu dem <foreign xml:lang="Lat">punctum consistentine</foreign> <pb n="2v"/>des Restes meines eigentlich schon invaliden Lebens. Alle Menschen beschreien meinen Entschluß, nichts mehr zu schreiben; so hat auch <hi rendition="#aq"><persName key="G001187">Gozzadini</persName></hi> neulich gethan. Nachdem<seg type="comment"><orig> <persName key="G001171"><hi rendition="#aq">Gibbon</hi></persName></orig><note xml:id="nbvc_t53_1mb">Das Hauptwerk des englischen Historikers und Abgeordneten Edward Gibbon (1737–1794) „The History of the Decline and Fall of the Roman Empire“ (6 Bde., London 1776–1788) galt Gregorovius als Vorbild für seine eigenen Studien zum römischen Mittelalter: „Es wird das Werk im Charakter ähnlich sein den Arbeiten des Sismondi und Gibbon […]“, erklärt Gregorovius 1858 in einem Brief an Cotta (Hönig 1944, p. 298; vgl. auch RT, 7.1.1856, S. 59 und 349) und sieht sich in bester Gesellschaft, wenn er 1875 angesichts zunehmender italienischer Skepsis gegenüber ausländischer Geschichtsschreibung notiert: „Aber Gibbon, Niebuhr, Mommsen […] und meinen eigenen Namen wird man doch nicht mehr in Rom verlöschen können“ (siehe RT, Juni 1875, S. 356). </note></seg> sein großes <bibl corresp="ed_e5c_gzc_rlb">Werk</bibl> vollendet hatte, lebte er in „behaglicher Ruhe“, u<ex>nd</ex> überlebte dasselbe nur noch 7 Jahre. Er war jünger als ich jetzt bin, da er starb.</p>
+<p xml:id="p7" next="#p8">Die <persName key="G001203">Meinigen</persName> grüßen Sie herzlich – die <persName key="G001111">Schwester</persName> reist nach 8 Tagen auf einige Wochen nach <placeName key="G000898">Wiesbaden</placeName>. Der <persName key="G001109">Neffe</persName> bildet sich zu einem tüchtigen Menschen aus. Es ist herrliches Wetter hier; wir fahren viel in die Umgegend. Alle Freunde grüßend.</p>
+                <closer>
+<salute xml:id="s1" next="#s2">Schreiben Sie bald!</salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">Ihr</salute>
+                    <signed rendition="#right"><hi rendition="#aq">FGregorovius</hi></signed></closer>
+                <note type="postscript">Ein anonymes <orgName key="G000476">Comitat</orgName> in <placeName key="G000894">Venedig</placeName> zur <seg type="comment"><orig>Errichtung eines Monuments</orig><note xml:id="nmc2_553_1mb">Zu Ehren Paolo Sarpis (1552–1623) sollte ein Denkmal in Venedig entstehen. Zur Planung wurde eine Komitee gegründet, das Graf Giambattista Giustinian (1816–1888) leitete, und in das Gregorovius berufen wurde. Die Statue des Bildhauers Emilio Marsili (1841–1926) wurde letzendlich erst 1892 auf dem Campo Santa Fosca in Venedig errichtet, wo Sarpi 1607 einem Mordanschlag entging.</note></seg> für <persName key="G001569">Fra Paoli Sarpi</persName> fordert mich auf, meinen <p xml:id="p2" prev="#p1" place="left" rendition="#rotate90">Namen zu unterzeichnen. Ich schrieb nach <placeName key="G000894">Venedig</placeName> um Information der Sache. Wissen Sie etwas davon? <?oxy_comment_start author="Angela Steinsiek" timestamp="20200703T170653+0200" comment="welcher ist das - bitte kommentieren!"?>Ein mir nach Rom gesandter Brief Cotta’s ging verloren<?oxy_comment_end?>.</p></note>
+            </div>
+        </body>
+    </text>
+</TEI>

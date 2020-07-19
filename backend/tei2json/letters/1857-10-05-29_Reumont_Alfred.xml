@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000059">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Alfred von Reumont in Florenz. Rom, 5. und 29.
+                    Oktober 1857</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Universitäts- und Landesbibliothek Bonn</repository><collection>NL Reumont</collection><idno>S 1061 (289)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S. – 1v aoR Eingangsvermerk: <hi rendition="#u" hand="">pr. Flor. 31 Oct 57</hi>.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 86, Mappe 9 (Alfred Löckle nach
+                                        H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 82, Mappe 5 (nach h1)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Clemens August Alertz hat ihm das „Deutsche Museum“ gegeben, in der zugleich mit seinen „Grabmälern der römischen Päpste“ (1857) Reumonts jüngst erschienene Bände seiner „Beiträge zur italienischen Geschichte“ (Bd. 5–6, Berlin 1857) besprochen wurden. Die Arbeit an seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) ist ambitioniert. Er erinnert an sein Schreiben vom Mai 1855, in dem er sich für die Zusendung der ersten Nummer des „Spettatore“ bedankt hat, der einen Beitrag von Cesare Guasti über die Übersetzungen der Poesie des Giovanni Meli von Casimiro Basi enthielt.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">Clemens August Alertz gave him the „Deutsches Museum“, in which both his „Grabmälern der römischen Päpste“ (1857) and Reumont’s recently published volumes of his „Beiträge zur italienischen Geschichte“ (vol. 5–6, Berlin 1857) were reviewed. The work on his „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) is ambitious. He reminds him of his letter in May 1855, in which he thanked him for sending the first issue of the „Spettatore“, which contained an article by Cesare Guasti on the translations of the poetry of Giovanni Meli by Casimiro Basi. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date from="1857-10-05" to="1857-10-29" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+                    <persName key="G001545">Reumont, Alfred von (1808–1887)</persName>
+                    <placeName key="G000671">Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession" n="1">
+                <opener>
+                    <salute rendition="#c">Sehr geehrter Herr Minister,</salute>
+                </opener>
+                <p>Herr Geheimrat <persName key="G000913">Alertz</persName> hatte die Güte mir die Blätter des <orgName key="G000546">Deutschen Museums</orgName> einzuhändigen, welche Sie ihm für mich freundlichst übergaben, u<ex>nd</ex> er gestattet mir auch meinen Dank in seinen Brief einzulegen. Es ist eine nicht geringe Ehre für mich, <bibl sameAs="G002576">neben einem ihrer Werke recensirt zu werden</bibl>, <seg type="comment"><orig>sie ist so groß wie die Gefahr, unter der Rubrik „Italienische Geschichte“ neben Ihnen genannt zu werden</orig><note xml:id="ngnh_vhw_slb">In der mit „K. St.“ gezeichneten Rezension im „Deutschen Museum“ (Jg. 7. Bd. 2. Nr. 35. Leipzig: Brockhaus 27.8.1857. S. 312–313) wurde zugleich mit den „Grabmälern der Römischen Päpste. Historische Studie“ (Leipzig: Brockhaus 1857) von Gregorovius auch die von Alfred von Reumont zuletzt erschienenen Bände seiner „Beiträge zur italienischen Geschichte“ (Bd. 5–6. Berlin: Decker 1857) besprochen.</note></seg>.</p>
+                <p>Ich habe es nicht gewagt, Ihnen „<bibl sameAs="G003430">Die Grabmäler der Päpste</bibl>“ zuzusenden, denn demjenigen, welcher diese Dinge kennt, wird eine dürftige Skizze nichts Neues zuführen. Mir selbst fiel sie als ein Splitter von <seg type="comment"><orig>der <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Chronik Rom’s im Mittelalter</bibl> ab, u<ex>nd</ex> das ist ein Unternehmen, welches mich sehr <pb n="1v"/>in Anspruch nimmt</orig><note xml:id="nyds_qkw_slb">Über den Fortgang der im Oktober 1855 aufgenommenen Arbeiten an Gregorovius’ späterem 8-bändigen Hauptwerk, die „Geschichte der Stadt Rom im Mittelalter“ (Stuttgart: Cotta 1859–1872) hatte er Brockhaus am <ref target="G000022">28.9.1857</ref> mitgeteilt, dass er das Manuskript der ersten beiden Bände im Winter abschließen will.</note></seg> – so groß Mühe u<ex>nd</ex> Schwierigkeit auch sein mögen, so mußte ich doch mein kleines Schiff einmal auf so hohe See wagen – u<ex>nd</ex> nach dem Hohen streben, ist ja auch an sich schon ein Lohn.</p>
+                <p>Ich weiß nicht, <seg type="comment"><orig>ob Ihnen im vorigen Jahre mein Schreiben zukam, worin ich Ihnen mit Dank, den ich hier wiederhole, den Empfang der <hi rendition="#aq">N<ex>ume</ex>ro</hi> 1. des Florentiner Journals anzeigte</orig><note xml:id="ngwj_fjw_slb">Vielmehr hatte Gregorovius im Brief vom <ref target="G000062">29.5.1855</ref> an Reumont ihm für die Zusendung des Beitrags von Cesare Guasti (1822–1889), „Lezione [über die Übersetzungen der Poesie des Giovanni Meli von Casimiro Basi] detta nella Società Colombaria, la mattina del 28 dicembre 1854“, aus der neu gegründeten Zeitschrift „Lo Spettatore. Rassegna letteraria, artistica, scientifica e industriale“ gedankt (Nr. 1. Florenz 4.2.1855. S. 2–5, siehe https://opacplus.bsb-muenchen.de/metaopac/search?View=default&amp;db=100&amp;id=9373171).</note></seg>, welche einen <seg type="comment"><orig><bibl sameAs="G004240">Artikel über <hi rendition="#aq">Meli</hi></bibl></orig><note xml:id="njzb_ljw_slb">Über den aus Palermo stammenden Dichter, Arzt und Naturwissenschaftler Giovanni Meli (1740–1815), der seine Gedichte in sizilianischem Dialekt schrieb. Gregorovius hatte damals bereits einige Übersetzungen der „Liebeslieder des Giovanni Meli von Palermo († 1815)“ im „Morgenblatt für gebildete Leser“ publiziert (Nr. 41. Stuttgart, München: 8.10.1854. S. 978–979) – 1856 war in Leipzig bei Brockhaus die gleichnamige Buchpublikation seiner hier deutlich vermehrten Übersetzungen erschienen.</note></seg> brachte: ich fürchte fast, mein Brief gelangte nicht an Sie, weil Sie sich draußen befanden. </p>
+                <p>Indem ich mich, geehrter <seg type="comment"><orig>Herr Minister</orig><note xml:id="nqfq_pjw_slb">Reumont, seit 1851 Leiter der preußischen Gesandtschaft in Florenz, war seit kurzem zudem Ministerresident am Hof Leopolds II., Großherzogs der Toskana (1797–1870).</note></seg>, Ihrem Wolwollen, von dem manches mir gegönnte Zeichen mich belebte u<ex>nd</ex> erfreute, <pb n="2r"/>zu empfehlen erlaube, wünsche ich Ihnen bei so großer literarischer Thätigkeit, die Sie üben, die Fülle der Gesundheit.</p>
+                <closer>
+<salute xml:id="s1" next="#s2" rendition="#c">Mit ausgezeichneter Hochachtung</salute><salute xml:id="s2" prev="#s1" rendition="#right">Ihr ergebener Diener</salute>
+<signed rendition="#right"><hi rendition="#aq">Ferdin. Gregorovius</hi></signed>
+<dateline>Rom 5. <hi rendition="#aq">Oct<ex>o</ex>b<ex>e</ex>r</hi> 1857.</dateline>
+</closer>
+            </div>
+            <div type="writingSession" n="2">
+                <p>
+<note type="postscript">Dieses Schreiben wurde unter vorstehendem Datum Herrn Alertz übergeben, ist indeß dort so lange liegen geblieben. Ich erlaube mir es dennoch abgehen zu laßen, weil eben meine große Verehrung gegen Sie, hochgeehrter Herr, nicht mit ihm veralten kann.</note>
+</p> <dateline rendition="#right">29. <hi rendition="#aq">October</hi> 1857.</dateline>
+            </div>
+        </body>
+    </text>
+</TEI>

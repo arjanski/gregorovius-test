@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000084">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Eduard Brockhaus in Leipzig. Rom, 30. Dezember 1858</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (52)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 4°, 2 ¼ S. – 2v alR, Blatt um 90° gedreht, Adr.: Der / geehrten Buchhandlung / <hi rendition="#aq">F. A. Brockhaus</hi> / <hi rendition="#aq">Leipzig</hi> / <hi rendition="#aq"><hi rendition="#u" hand="">Germania</hi></hi> – Siegelreste, Postvermerke, Poststempel – 2v aoR Eingangsvermerk: 1859. / <hi rendition="#aq">Rom</hi>, 30. <hi rendition="#aq">Dec</hi>./5. <hi rendition="#aq">Jan</hi>. / <hi rendition="#aq">Gregorovius</hi>. </p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin, NL Waldemar Kampf</institution>
+                                <collection>Karton 59</collection>
+                                <idno>
+                                    <idno type="shelfmark">Mappe 347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er hat die Einlage aus Athen an Heinrich Brockhaus nach Messina gesandt. Dessen der Ankunft in Rom sieht er mit Freude entgegen. Er bedauert, dass Brockhaus den Verlag seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) nicht übernehmen konnte, doch hat er sich inzwischen mit Cotta geeinigt. Die ersten beiden Bände (1859) sind bereits im Druck und er arbeitet am dritten Band (1860). Dem geringen Interesse an seinen Schriften in Deutschland steht die große Teilnahme im Ausland gegenüber. Er bestätigt den Erhalt des Honoraras für seinen Artikel „Aus der Campagna von Rom. Subiaco, das älteste Benedictinerkloster des Abendlandes, seine Geschichte und seine Altertümer“.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He sent the deposit from Athens to Heinrich Brockhaus in Messina. He joyfully awaits his arrival in Rome. He regrets that Brockhaus was unable to take over the publication of his „Geschichte der Stadt Rom im Mittelalter“ (1859-1872), but he has since reached an agreement with Cotta. The first two volumes (1859) are already in print and he is working on the third volume (1860). The low level of interest in his writings in Germany is a stark contrasts to the large involvement abroad. He confirms that he received the fee for his article „Aus der Campagna von Rom. Subiaco, das älteste Benedictinerkloster des Abendlandes, seine Geschichte und seine Altertümer“. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1858-12-30" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+<persName key="G000995">Brockhaus, Eduard (1829–1914)</persName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev">vor dem 20. Dezember 1858</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi> 30 <hi rendition="#aq">D<ex>e</ex>c<ex>em</ex>b<ex>e</ex>r</hi> 1858.</dateline>
+                    <salute rendition="#c">Sehr verehrter Herr,</salute>
+                </opener>
+                <p>Ihr freundliches Schreiben nebst <seg type="comment"><orig>Einlage aus <placeName key="G000619">Athen</placeName></orig><note xml:id="nc5w_gmb_vlb">Eine Sendung an den Verlagsleiter Heinrich Brockhaus (1804–1874), der sich in Messina aufhielt. Brockhaus war Ende Januar 1857 schwer erkrankt und befand sich bis Mitte 1859 auf Reisen nach Ägypten, Palästina, Syrien, Griechenland und Italien. Währenddessen führte sein Sohn, Eduard Brockhaus (1829–1914), die Verlagsgeschäfte.</note></seg> habe ich richtig erhalten, u<ex>nd</ex> an demselben Tage Briefe nach <placeName key="G000727">Messina</placeName> geschickt, welche indeß schwerlich zum 20. Dec<ex>em</ex>b<ex>e</ex>r eintreffen konnten. Es wird mir eine wahrhafte Freude sein, <seg type="comment"><orig><persName key="G000996">Herrn Brockhaus</persName> hier zu sehen</orig><note xml:id="nyqj_3mb_vlb">Heinrich Brockhaus traf erst im März 1859 in Rom ein, wo Gregorovius befand, er sei „ein lebenskräftiger und einfacher Mann“ (siehe RT, 2.4.1859, S. 78).</note></seg>, u<ex>nd</ex> ihm so viel ich vermag Dienste zu leisten.</p>
+                <p>Längst wollte ich mir erlauben, an Sie zu schreiben, u<ex>nd</ex> thue es nun am
+                    Schluße des Jahrs mit den aufrichtigsten Wünschen für Ihr Wol u<ex>nd</ex> mit
+                    der Bitte, mir Ihre freundliche Gewogenheit zu bewahren.</p>
+                <p>Was Sie mir über den geringen Verkauf meiner Schriften mitgeteilt haben, ist völlig überzeugend von den <seg type="comment"><orig>Gründen, die zwischen Ihren geehrten Verlag und die <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Geschichte der Stadt Rom im Mittelalter</bibl> getreten sind</orig><note xml:id="nlrp_jmb_vlb">Mit seinem Brief vom <ref target="G000069">8. März 1858</ref> hatte Gregorovius Brockhaus, mit einem beigelegten, ausführlichen Konzept seiner „Geschichte der Stadt Rom im Mittelalter“ (Stuttgart: Cotta 1859–1872), sein Werk zum Verlag angeboten und am <ref target="G000088">19.4.1858</ref> noch einmal auf raschen Bescheid gedrungen.</note></seg>. Ich verdanke meinem <placeName key="G000664">Vaterland</placeName> nicht die geringe Teilnahme an meinen literarischen Bestrebungen; mein Talent erhebt sich nicht über das Gewöhnliche, u<ex>nd</ex> meine innerste Neigung ist mehr auf die Humanität im Großen u<ex>nd</ex> Ganzen, als auf die Zeitintereßen gerichtet. Außerdem besitze ich keinen einzigen Freund <pb n="1v"/>unter den Schriftstellern meines Vaterlandes, u<ex>nd</ex> ich weiß sehr<del rendition="#s">,</del> wol, d<ex>a</ex>ß der temporäre Erfolg eines Autors größtenteils von der Art Verbindungen abhängig ist. Im Auslande geht es mir dagegen über Verdienst, u<ex>nd</ex> die Italiener bemühen sich von vielen Seiten mich durch Teilnahme zu ermutigen.</p>
+                <p><seg type="comment"><orig>Ich kann Ihnen nun mitteilen, d<ex>a</ex>ß die Geschichte der Stadt in dem <orgName key="G000523">Cottaschen Verlage</orgName> erscheint</orig><note xml:id="nnhd_4mb_vlb">Im Brief vom <ref target="G000115">20.7.1858</ref> hatte Gregorovius die zögerliche Angebot von Brockhaus auf sein Angebot beklagt und mitgeteilt, dass er sich zwischenzeitlich an Cotta gewandt hatte. Der Verlags-Vertrag mit Cotta war am 5. September 1858 von Gregorovius unterzeichnet worden (DLA Marbach, Cotta-Archiv, Cotta-Verträge 1).</note></seg>. Wenn die vorliegenden Verhältniße Ihnen die Übernahme des Drucks gestattet hätten, so würden Sie sich des Unternehmens angenommen haben; da das nicht möglich war, so werden Sie sich gern an den günstigen Resultaten mit mir erfreuen, u<ex>nd</ex> ich darf Ihnen, ohne Furcht vor der Beschuldigung einer Nebenabsicht, die Sie mir nicht zutrauen werden, bekennen, d<ex>a</ex>ß sich der <persName key="G001055">Baron v<ex>on</ex> Cotta</persName> wahrhaft liberal gegen mich erwiesen hat, u<ex>nd</ex> daß ich ihm die sorgenfreie Fortsetzung meiner schweren Arbeit verdanke. <seg type="comment"><orig>Der erste Band ist fast fertig gedruckt; am dritten schreibe ich jetzt</orig><note xml:id="nsps_qmb_vlb">Die ersten beiden Bände seiner „Geschichte der Stadt Rom im Mittelalter“ waren im Druck; Bd. 3 erschien 1860.</note></seg>.</p>
+                <p>Gern würde ich wieder einmal das Vaterland sehen, u<ex>nd</ex> auch Leipzig
+                        u<ex>nd</ex> Sie besuchen, aber ich darf es noch nicht, da ich durch meine
+                    Studien hier festgehalten werde, u<ex>nd</ex> manches Archiv besuchen muß. Ich
+                    höre nicht auf, mit ganzem Herzen an Deutschland zu hängen, denn nur die Zunge
+                    redet wälsch, u<ex>nd</ex> was kann ich mehr, als für die Wissenschaft in
+                    deutscher Weise thätig sein?</p>
+                <p>Ich quittire mit <pb n="2r"/>Dank den Empfang von 25 Thalern für den <bibl corresp="G003860 G003861 G003862"><seg type="comment"><orig>Artikel Subiaco</orig><note xml:id="nizw_rmb_vlb">Gregorovius’ Aufsatz „Aus der Campagna von Rom. Subiaco, das älteste Benedictinerkloster des Abendlandes, seine Geschichte und seine Altertümer“ war im „Deutschen Museum“ erschienen (Jg. 8. Bd. 2. Nr. 27–29. Leipzig: Brockhaus 1., 8., 15.7.1858. S. 1–10, S. 60–67 und S. 89–99).</note></seg></bibl>, wozu ich einen Wechsel auf <hi rendition="#aq"><persName key="G001345"><seg type="comment"><orig>Kolb</orig><note xml:id="nhph_tmb_vlb">Der Bankier und württembergische Geschäftsträger in Rom, Karl von Kolb (1800–1868).</note></seg></persName></hi> abgegeben habe; ich bitte bei Gelegenheit um die Angabe <note place="left" hand="#addressee">=</note>des Betrags derjenigen meiner Schriften, die ich von Ihnen bezogen habe.</p>
+                <closer>
+                    <salute rendition="#c">Mit aufrichtiger Hochachtung, sehr geehrter Herr, Ihr ganz ergebenster</salute>
+                    <signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

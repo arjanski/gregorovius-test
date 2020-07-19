@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000112">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Hermann von Thile. Florenz, 23. September 1858</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>96/937 (4)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ¾ S..</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark"><idno><idno type="shelfmark">Karton 59,
+                                                Mappe 347 (nach D) und Karton 59, Mappe 346
+                                                (Ergänzungen nach H)</idno>
+                                        </idno></idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness><bibl type="print">Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 5–7 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er ist erleichtert, dass die Thiles mit ihrem erkrankten Sohn Hans wohlbehalten in der Schweiz ankamen und dass Albrecht von Graefe dort zugegen war. Er freut sich, ihn vielleicht in Rom zu sehen – doch fürchtet er, dass dieser nicht mehr auf seinen Gesandtschaftposten zurückkehren wird. Er wohnte bis Ende August in der Villa della Concezione von François Sabatier und dessen Frau Caroline Unger, ist aber nach deren Abreise für Bibliotheks- und Archivarbeiten in deren Stadtvilla gezogen. In Florenz ist er von Gelehrten wie von Bibliotheken mit großer Freundlichkeit aufgenommen worden. Mit Cotta hat er den Verlagsvertrag für seine „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) abgeschlossen, so dass die in Aussicht stehende Überstützung der preußischen Regierung nicht mehr lebensnotwendig für ihn ist. Clemens August Alertz hat während seines Besuches in Florenz in den Zimmern von Alfred von Reumont gewohnt. In Kürze kehrt er nach Rom zurück.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He is relieved that the Thiles arrived safely in Switzerland with their sick son Hans and that Albrecht von Graefe was there. He is happy to potentially see him in Rome - but he fears that he will not return to his legation post. He lived in the Villa della Concezione of François Sabatier and his wife Caroline Ungher until the end of August, but after their departure he moved to their town villa to work in the libraries and the archive. In Florence he was received with great kindness by scholars and libraries alike. He has signed the publishing contract with Cotta for his „Geschichte der Stadt Rom im Mittelalter“ (1859-1872), so that the prospective support of the Prussian government is no longer vital for him. Clemens August Alertz stayed in Alfred von Reumont’s rooms during his visit to Florence. He will return to Rome shortly. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000671">Florenz</placeName>
+                    <date when="1858-09-23" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001644">Thile, Hermann von (1812–1889)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Florenz</hi> 23. <hi rendition="#aq">S<ex>e</ex>pt<ex>em</ex>b<ex>e</ex>r</hi> 1858.</dateline>
+                    <salute rendition="#c">Mein hochverehrter Herr,</salute>
+                </opener>
+                <p>Ihre freundlichen Zeilen <seg type="comment"><orig>aus der <placeName key="G000870">Schweiz</placeName> erhielt ich über <placeName key="G000763">Rom</placeName>, u<ex>nd</ex> las ich noch in dem schönen Florenz so mit Freude wie mit Trauer</orig><note xml:id="nnbd_zx5_5lb">Wegen der Ende Juni 1858 in Rom erstmals aufgetretenen Epilepsie des Sohnes Hans (1848–1869), waren die Thiles zuerst in Frascati und sind dann am 28. Juli 1858 zunächst in Begleitung des behandelnden Artzes Wolfgang Erhardt von Rom ins schweizerische Heiden gereist, wo sie auf Erholung des Jungen hofften.</note></seg>. Wenigstens weiß ich nun, d<ex>a</ex>ß Sie glücklich die Fahrt überstanden haben, vor der mir bangte. Es ist auch mir ein Trost zu wißen, d<ex>a</ex>ß <seg type="comment"><orig><persName key="G001189">Herr v<ex>on</ex> Gräfe</persName></orig><note xml:id="njnt_dy5_5lb">Der Bruder seiner Frau, Ottilie von Thile (1816–1898), der Augenarzt Albrecht von Graefe (1828–1870), war von Berlin nach Heiden gekommen.</note></seg> bei Ihnen war u<ex>nd</ex> die Zustände mit Augen sah. Möchten Sie u<ex>nd</ex> Ihre <persName key="G001643">Frau Gemalin</persName> doch nicht die Heiterkeit verlieren, ohne welche das Leben so wenig Reiz darbietet: Das Wolwollen gegen die Menschen, welches in Ihren Herzen lebt, ist für Sie eine bleibende Quelle ruhiger Zuversicht auch auf jenes, das unsere Schicksale leitet. </p>
+<p>Ich werde die große Freude haben, Sie, mein verehrter Herr Minister, noch in Rom zu sehn. Ich werde Niemand ein Wort von der <seg type="comment"><orig>Wahrscheinlichkeit Ihres Nicht-Bleibens bei uns sagen</orig><note xml:id="nwfq_hy5_5lb">Die Thiles kehrten ganz nach Berlin zurück und Hermann von Thile ließ sich von seinem Amt als bevollmächtigter Minister Preußens am Heiligen Stuhl in den vorläufigen Ruhestand versetzen.</note></seg>, aber die Befürchtung, Sie zu verlieren, ist von allen ausgesprochen worden, welche die Ursache Ihrer Abreise kennen.</p>
+                <p><seg type="comment"><orig>Seit Mitte Juli lebte ich bei meinen Freunden <hi rendition="#aq"><persName key="G001565 G001665">Sabatier</persName></hi> auf ihrer reizenden Villa</orig><note xml:id="nv4w_3y5_5lb">Gregorovius war vom 11.7. bis 1.9.1858 zu Gast in der Villa della Concezione oberhalb von Florenz (heute „Villa La Gressa“). Die Villa aus dem 17. Jahrhundert wurde von Caroline Unger (1803–1877), der Frau von François Sabatier (1818–1891) vor ihrer Eheschließung erworben. Sie diente den Sabatiers als Sommerresidenz, in der sie namhaften Besuch empfingen. Siehe RT, 31.9.1858, S. 73–74.</note></seg>, u<ex>nd</ex> in einem Kreise sehr intelligenter Franzosen, Griechen, Sicilianer u<ex>nd</ex> Florentiner. <seg type="comment"><orig><hi rendition="#aq">M<ex>a</ex>d<ex>am</ex>e Sabatier</hi> <pb n="1v"/>ging nach <placeName key="G000801">Karlsbad</placeName>, mein Freund auf seine Güter in <hi rendition="#aq"><placeName key="G004671">Languedoc</placeName></hi></orig><note xml:id="nfnw_hz5_5lb">Caroline Ungher war bereits am 25.8.1858 nach Karlsbad abgereist, Ende des Monats reiste auch François Sabatier ab auf sein Schloss Latour (oder La Tour) de Farges in Lunel-Viel in der Camargue nahe Montpellier (siehe RT, 31.9.1858, S. 73–74).</note></seg>; ich selbst zog in seinen <seg type="comment"><orig><placeName key="G004673">Palast</placeName> an der <placeName key="G004674">Brücke <hi rendition="#aq">delle Grazie</hi></placeName></orig><note xml:id="nyvy_nz5_5lb">Der in der Via del Renai (heute Sitz der Anwaltskammer von Florenz) gelegene Palazzo Sabatier-Ungher aus dem 14. Jahrhundert, nahe dem Ponte delle Grazie, wurde 1837 von Caroline Ungher erworben. Der von ihr begonnene Umbau wurde nach ihrer Eheschließung 1841 fortgesetzt, die aufwendige Inneneinrichtung und -dekoration übernahmen die befreundeten Maler Auguste Bouquet (1810–1846) und Dominique Papety (1815–1845) sowie der Bildhauer Auguste Ottin (1811–1890).</note></seg>, wo ich freilich allein, als ein Gespenst, hauste, aber des Tags in den Bibliotheken beschäftigt war. <seg type="comment"><orig>Diese, u<ex>nd</ex> selbst das <orgName key="G000563">Staatsarchiv</orgName>, sind mir mit aller Liberalität geöffnet worden, u<ex>nd</ex> ich habe viele Handschriften benutzt</orig><note xml:id="nkkq_rz5_5lb">Siehe RT, 13.9.1858, S. 74–75.</note></seg>, darunter auch eine wichtige <seg type="comment"><orig>Redaction der <hi rendition="#aq">Mirabilien</hi> Rom’s</orig><note xml:id="nrbb_wz5_5lb">Eine, auf die um 1140 entstandene Stadtbeschreibung „Mirabilia Urbis Romae“ (enthaltend Listen von antiken Bauwerken der Stadt Rom, Legenden über antike Bauwerke und einen topographisch geordneten Rundgang durch die Stadt Rom mit Erwähnung von Tempeln und Palästen) zurückgehende Bearbeitung des Liber Politicus des Kanonikers Benedikt von St. Peter überlieferten Textes – möglicherweise der Kodex „Le miracole de Roma“ des 12.-13. Jahrhunderts aus der Biblioteca Laurenziana (Codex Gaddiano Gaddi 148). </note></seg> entdeckt. Die Freundlichkeit der Aufnahme in Florenz, kann ich nicht genug rühmen, u<ex>nd</ex> auch aus anderen Städten<placeName key="G000690"> Italiens</placeName> sind mir manche Beweise der Anerkennung meiner Mühen zugekommen; dies gereicht mir zur Förderung.</p>
+                <p><seg type="comment"><orig>Den Contract mit dem <persName key="G001055">Baron Cotta</persName> habe ich hier abgeschloßen; seine <orgName key="G000523">Buchhandlung</orgName> zeigte sich sehr bereitwillig; sie gibt mir die Summe von 600 Th<ex>a</ex>l<ex>er</ex> pro Band</orig><note xml:id="nssw_wcv_5lb">Der Verlags-Vertrag über seine „Geschichte der Stadt Rom im Mittelalter“ hatte Gregorovius am 5. September 1858 unterzeichnet (DLA Marbach, Cotta-Verträge 1) und mit seinem <ref target="G000113">Brief vom selben Tag</ref> an Cotta übersandt. In seinem Tagebuch notierte Gregorovius feierlich: „Am 5. September, dem Jahrestag meiner Rückkehr aus Korsika, unterzeichnete ich in diesem Palast, in meines Freundes Sabatier Wohnzimmer, den Cotta'schen Kontrakt wegen der ‚Geschichte Roms im Mittelalter‘, und ich bin von dieser Sorge befreit. Es ist ein wichtiger Tag für mich. Ich feierte ihn in der Villa di Parigi durch ein Mittagsmahl, wozu ich Theodor Heyse einlud.“ (13.9.1858. S. 75).</note></seg>, u<ex>nd</ex> wenn diese auch nicht im Verhältniß zu dem Aufwand von Zeit u<ex>nd</ex> Kraft steht, so befreit sie mich doch von der lähmenden Sorge, u<ex>nd</ex> setzt mich in den Stand, ruhig weiter zu arbeiten, ja mir einige Bücher zu kaufen. <seg type="comment"><orig>Sollte mir ein Succours von Seiten <placeName key="G000636">Berlins </placeName>zugewendet werden</orig><note xml:id="nxb1_bdv_5lb">Nach einem Besuch von Friedrich Althaus bei Alexander von Humboldt (1768–1859), dem Präsidenten der Kommission zur Prüfung der Unterstützungsgesuche von Gelehrten und Künstlern, am 26. Juli 1856 in Berlin, hatte Humboldt am 29. Juli 1856 einen Brief an Gregrorovius geschrieben, in dem er dessen „Corsica“ (1854) sehr lobt: (BSB, Sign. Autogr.Cim. Humboldt, Alexander von.13 – siehe http://daten.digitale-sammlungen.de/bsb00091648/image_1). In dessen Folge bekam Gregorovius ab Herbst 1860 ein jährliches Stipendium der preußischen Regierung für seine „Geschichte der Stadt Rom im Mittelalter“, die mit Hilfe Hermann von Thiles bis 1866 fortgezahlt wurde.</note></seg>, <pb n="2r"/>so wird das meine Zwecke noch mehr fördern u<ex>nd</ex> mir kleine Reisen erlauben. Gern werde ich Ihrer freundlichen Vermittlung einen Zuschuß aus öffentlichen Fonds verdanken; aber ein abschlägiger Bescheid, der nicht unmöglich ist, wird mich jetzt nicht mehr beunruhigen können, u<ex>nd</ex> ich werde auch ohne Unterstützung von Seiten <placeName key="G000646">unseres intelligenten Staats</placeName> weiter arbeiten. Spätestens im Frühjahr hoffe ich <bibl corresp="G003476 G003485">die zwei ersten Bände</bibl> in Ihren Händen zu sehn, u<ex>nd</ex> Sie werden die Mängel großmütig übergehen zu Gunsten einer so schweren Arbeit, über welcher mein Haar anfängt grau zu werden.</p>
+                <p>Freund <persName key="G000913"><hi rendition="#aq"><seg type="comment"><orig>Alertz</orig><note xml:id="nsql_kdv_5lb">Der mit beiden eng befreundete Gesandtschaftsarzt Clemens August Alertz (1800–1866) war im Winter „gefährlich krank“, aber wieder genesen und im Juni 1858 nach Berlin gereist (siehe RT, 10.6.1858, S. 71).</note></seg></hi></persName> war 8 Tage durchreisend hier; er wohnte <seg type="comment"><orig>in den Zimmern <persName key="G001545">Herrn v<ex>on</ex> <hi rendition="#aq">Reumont</hi>s</persName></orig><note xml:id="nvd1_ndv_5lb">Der mit Hermann von Thile eng befreundete Alfred von Reumont (1808–1887), Leiter der preußischen Gesandtschaft in Florenz, hatte Thile im Vorjahr am Heiligen Stuhl in Rom vertreten (siehe RT, 31.12.1857, S. 69). Spätestens Ende des Jahres war Reumont erneut in Rom, wohin Friedrich Wilhelm IV. vom 23. Dezember 1858 bis 2. Mai 1859 begleitete (siehe den Brief von <ref target="G000107">Gregorovius an Johann Georg Freiherr von Cotta, 1. Dezember 1858</ref>).</note></seg>, u<ex>nd</ex> ging etwa vor 5 Tagen nach Rom. Äußerlich wol, war er doch sehr schwach auf den Füßen, u<ex>nd</ex> nur durch die Umgebung belebt. In Rom wird er in die alte Widerstandslosigkeit gegenüber den Stimmungen u<ex>nd</ex> Verhältnißen zurückfallen. Ich beklage ihn sehr; <seg type="comment"><orig>er u<ex>nd</ex> Herr v<ex>on</ex> <hi rendition="#aq">Reum<ex>ont</ex></hi>, welche beide als Freunde zu gleicher Zeit nach Italien kamen</orig><note xml:id="nldr_xdv_5lb">Nachdem Reumont 1829 erstmals als Sekretär in der preußischen Gesandtschaft in Florenz tätig war, wechselte von 1836 bis 1851 zwischen Rom und Florenz – Clemens August Alertz war 1836 als Leibarzt von Papst Gregor XVI. (1765–1856) nach Rom gekommen.</note></seg>, sind wahrlich die Kehrseiten einer Münze, Beide conträr in Beziehung auf Ausstattung durch Natur, wie auf <pb n="2v"/>Gestaltung der Schicksale u<ex>nd</ex> des Glücks.</p>
+                <p>Ich verlaße Florenz in wenig Tagen, um <seg type="comment"><orig>über <placeName key="G000715">Livorno</placeName> nach Rom heimzukehren</orig><note xml:id="nfjc_12v_5lb">Gregorovius fuhr am 28.9.1858 nach Livorno und schiffte sich von dort am Abend des 29.9.1858 auf dem Dampfer Hermus nach Civitavecchia ein. In der Meerenge von Piombino bei Elba rammte die Hermus den Dampfer Aventin, der kurz darauf sank (siehe RT, 3.10.1858, S. 75–76). Gregorovius verarbeitete sein Erlebnis kurz darauf in einem Gedicht (Hermus. Eine Nacht auf dem Mittelmeer. In: Morgenblatt für gebildete Leser. Nr. 44. 31.10.1858). </note></seg>. Ich mag nicht daran denken, den Winter dort zu leben, ohne jene Erquickung für Geist u<ex>nd</ex> Herz auf dem alten lieben <placeName key="G000761">Capitol</placeName>. Ich sage nur: haben Sie ewig Dank für all die reinmenschliche Güte, die Sie mir zu Teil werden ließen. Ich empfehle mich viele Male Ihrer Frau Gemalin; ich grüße mit den wärmsten Wünschen das herrliche Kind, Hänschen. Der Himmel laße es Ihnen im <placeName key="G000664">Vaterlande</placeName> wol werden. </p>
+                <closer>
+                    <salute>Behalten Sie mich, mein edler u<ex>nd</ex> teurer Herr, in freundlichem Andenken!</salute>
+                    <signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

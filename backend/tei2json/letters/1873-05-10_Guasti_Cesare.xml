@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067730">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Cesare Guasti in Florenz. Rom, 10. Mai 1873</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Biblioteca Roncioniana Prato</repository><collection>Archivio Guasti, Busta 398 </collection><idno>(3)</idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 1 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für Abschriften eines Briefes von Lorenzo Pucci an seinen Bruder Giannozzo sowie des Auflösungsvertrags der Eheschließung zwischen Lucrezia Borgia und Giovanni Sforza. Beide benötigt er für die Arbeit an seinem Buch über die „Lucrezia Borgia“ (2 Bde., 1874). </p>
+                <p xml:lang="it">Er dankt für Abschriften von Dokumenten aus dem Florentiner Staatsarchiv für seine „Lucrezia Borgia“ (1874): Ein Brief des Kardinals Lorenzo Pucci an seinen Bruder Giannozzo und die Urkunde zur Auflösung der Ehe zwischen Giovanni Sforza und Lucrezia Borgia.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1873-05-10" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001218">Guasti, Cesare (1822–1889)</persName>
+<placeName key="G000671">Florenz</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Roma, Maggio 10. 1873.</dateline>
+                    <salute rendition="#c">Gentilissimo Signore,</salute>
+                </opener>
+<p><seg type="comment"><orig>ebbi il grande piacere di ricevere le copie desiderate da me</orig><note xml:id="nvry_nzz_ylb">Wenige Wochen zuvor hatte er Guasti um die Abschriften eines Briefes von Lorenzo Pucci (1458–1531) an dessen Bruder Giannozzo Pucci sowie des Auflösungsvertrags der Eheschließung zwischen Lucrezia Borgia (1480–1519) und Giovanni Sforza (1466–1510) gebeten; siehe den Brief von Gregorovius an Cesare Guasti vom 26.4.1873). Diese benötigte er für die Arbeit an der „Lucrezia Borgia“, die 1874 in zwei Bänden erscheinen sollte.</note></seg>, per cui mi affretto di ringraziarla di tanta cortesia sua e sollecitudine nel soddisfarmi in quelli bisogni. Non pertanto duolmi, di aver dovuto arrecar non poco incommodo alla persona la quale si affaticò per causa mia a <seg type="comment"><orig>trascrivere scritture di caratteri poco leggibili</orig><note xml:id="nuk2_rzz_ylb">In der Einleitung zur „Lucrezia Borgia“ dankt er Guasti für die gewünschten Abschriften und nennt die Briefe von Lorenzo Pucci „merkwürdig“ (siehe „Lucrezia Borgia.“ Bd. 1.1874, S. XV).</note></seg>. Inoltre sono quasi confuso dalla larghezza, che Ella vuole che si usi con me in questo caso, rifiutando il rimborso della spesa occorrente, che ben volentieri avrei fatto, e farei ancora, se la sua generosità e quella della sopraintendenza generale me lo permettesse.</p>
+<p>In ogni caso mi protesto gratissimo debitore di Loro Signori, raccommandandomi e ringraziandola di nuovo </p>
+                <closer>
+                    <salute rendition="#right">quale servitor suo devoto </salute>
+                    <signed rendition="#right">Ferd. Gregorovius</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

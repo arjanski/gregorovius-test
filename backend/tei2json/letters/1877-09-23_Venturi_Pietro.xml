@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_us2_pfz_xkb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Pietro Venturi in Rom. München, 23. September 1877 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"> <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Archivio Storico Capitolino di Roma</repository><collection>Gabinetto del Sindaco (1877), posizione 48</collection><idno>busta 23, fascicolo 7</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 4°, 1 ½ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er ist über den von Oreste Tommasini im ersten Heft des „Archivio della Società Romana di Storia Patria“ (1878) veröffentlichten Artikel, „Della storia medievale della città di Roma e de’più recenti raccontatori di essa“, empört. Tommasini hat seine „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) verunglimpft, was vor dem Hintergund seiner Unterschrift zu Gregorovius’ Ernennung zum römischen Ehrenbürger doch sehr verwundert. Auch wurde sein Werk selbst in der konservativen „Civiltà Cattolica“ war sein Werk ein ‚Geschenk für den Papst‘ genannt worden. Er wendet sich an Venturi, da die neu gegründete Zeitschrift unter der Protektion der Stadt steht. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName>
+                    <date when="1877-09-23" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001674">Venturi, Pietro (1824-1892)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<salute rendition="#c">Onorevole <seg type="comment"><orig>signor Sindaco</orig><note xml:id="nqqw_lz3_1mb">Zu Pietro Venturi (1824–1892) und Gregorovius’ Beziehung zu diesem siehe den Brief von Gregorovius an Pietro Venturi vom 14.6.1875.</note></seg>,</salute>
+</opener>
+<p><seg type="comment"><orig>dell’ <bibl sameAs="G002309">articolo</bibl>, che apre la serie dell’ <orgName key="G000467">Archivio storico romano</orgName> e tratta fra altre cose anche della <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">mia opera</bibl></orig><note xml:id="nf2y_mz3_1mb">Oreste Tommasini veröffentlichte in der ersten Ausgabe des „Archivio della Società Romana di Storia Patria“ einen Artikel unter dem Titel „Della storia medievale della città di Roma e de’più recenti raccontatori di essa“ (Bd. 1. Rom: Società 1878. S. 1-46). In diesem beleidigte er im Rahmen einer Besprechung der neuesten Forschungen zu Rom Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ (8 Bde., 1859–1872). Siehe für eine weitergehende Einschätzung von Tommasinis Text und dessen durchaus auch wohlwollender Aufnahme in den intellektuellen Kreisen: Alberto Forni. Der Erfolg von Gregorovius in Italien. In: Ferdinand Gregorovius und Italien. Eine kritische Würdigung. Hrsg. von Arnold Esch u. Jens Petersen. Tübingen: Niemeyer 1993. S. 12–41, hier S. 35–36.</note></seg>, sono stato informato da Italiani, i quali mi attestarono la loro indignazione: quindi lo lessi anch’io, e ne sono rimasto non poco sorpreso.</p>
+<p>Stupisco di vedere, come <seg type="comment"><orig>un <persName key="G001650">Romano</persName></orig><note xml:id="niz5_nz3_1mb">Oreste Tommasini (1844–1919) war Gründungsmitglied des römischen Geschichtsvereins und wurde 1883 Präsident der Società Romana di Storia Patria.</note></seg> si compiace a sfigurare la natura della mia storia di Roma, con giudizi ingiusti quanto falsi screditando ed appiccolando il valore di un’ opera, che lo stesso <orgName key="G004663">Comune di Roma</orgName> ha dichiarato degna della sua approvazione, conferendo in oltre all’ autore <seg type="comment"><orig>a voti unanimi gli alti onori della cittadinanza</orig><note xml:id="ng13_pz3_1mb">Auf einstimmigen Beschluß des römischen Gemeinderates war Gregorovius in seiner Eigenschaft als Autor der „Geschichte der Stadt Rom im Mittelalter“, also für seine Verdienste um die italienische Geschichtsschreibung im März 1876 mit der Ehrenbürgerwürde der ewigen Stadt ausgezeichnet worden; siehe den Brief von Gregorovius an Pietro Venturi vom 17.3.1876.</note></seg>, e che i Gesuiti stessi nella <orgName key="ed_tpk_pxd_rlb">Civiltà Cattolica</orgName> hanno dovuto qualificare per <seg type="comment"><orig>„un insigne omaggio reso alla maestà di Roma.“</orig><note xml:id="nrlg_qz3_1mb">Zit. aus dem in der „La Civiltà Cattolica“ anonym erschienenen Artikel „La storia della città di Roma nel medio evo di Ferdinand Gregorovius“ (Serie X. Vol. II. 1877. S. 148–160, hier S. 158–159). </note></seg> </p>
+<p>Stupisco che avvi Romano, cui bastava l’animo ad affermare: aver io scritto la storia di Roma per amor di pochi Cesari germanici, ed in generale „per sollecitare più d’ un popolo“, mentre egli dava vanti ad altri di aver scritto <seg type="comment"><orig>„per invito di un re filosofo.“</orig><note xml:id="nypf_rz3_1mb">In Tommasinis Artikel heißt es auf S. 36: „Il Gregorovius scrive per solleticar più d’un popolo, il Reumont per invito d’un re filosofo.“ Gregorovius äußert sich im Tagebuch weitergehend zu dem sich widersprüchlich verhaltenden Tommasini: „Befremdend war, daß jener Tommasini im vorigen Jahre die Adresse der römischen Bürgerschaft zu meinen Gunsten mitunterzeichnet hatte – in seinem Aufsatz nun erwähnte er mit keinem Wort, daß die Stadt Rom meine Arbeit durch die Verleihung des Bürgerrechts anerkannt habe, sondern im Widerspruch zu seiner eigenen Anteilnahme daran stellte er mich so dar, daß ich alles andere, nur nicht das Bürgerrecht von den Römern würde verdient haben. Der Jesuit war also ein wirklicher Judas gewesen. Ich empörte mich über dies Verhalten so sehr, daß ich an jenen Menschen ein paar Zeilen etwa in solchem Sinne schrieb – es kam eine lange Antwort darauf, aber ich las sie nicht, sondern schickte sie mit der Bemerkung an den Mann zurück, daß ich mich nicht veranlaßt fühlen könne, noch irgend eine Zeile von ihm zu lesen.“ (RT, Sommer und Winter 1877/78, S. 380). </note></seg> </p>
+<p>In questa maniera si giudica nell’ Archivio storico romano di un’ opera, che riassume in sè le fatiche appassiornate, le sollecitudini ed i pensieri di pressochè venti anni di mia vita, impiegati ad illustrare con documenti nuovi la storia di undici secoli del <orgName key="G067704">Comune di Roma</orgName>.</p>
+<p>Ho ogni ragione di passar sotto silenzio la ingrazia a me resa; ed è solo per i rapporti sacri ed onorevoli che mi legano per sempre all’ alma Città, come poi perchè quell’Archivio storico romano, che si volle inaugurare col sovradetto scritto, è posto sotto il patroncinio del Comune proprio di Roma, che ho creduto cosa conveniente a me stesso, di esprimere con queste righe alla S<ex>ignoria</ex> V<ex>ostra</ex> Ill<hi rendition="#sup"> <hi rendition="#u" hand=""> <ex>ustrissi</ex>ma</hi> </hi>, <pb n="1v"/>e per mezzo del di lei favor e compiacimento agli onorevli Signori consiglieri municipali l’impressione penosa, <seg type="comment"><orig>che ho provato dalla lettura del detto articolo</orig><note xml:id="nuyj_sz3_1mb">Anstatt den Text Tommasinis stillschweigend hinzunehmen, reagierte Gregorovius mit vorliegendem Schreiben an Venturi sowie mit zwei Briefen an den Autor des Schmähartikels selbst; siehe die beiden Briefe von Gregorovius an Oreste Tommasini vom 23. und vom 29.9.1877. Tommasinis Antwort datiert auf den 26. September und befindet sich in Rom in der Biblioteca Vallicelliana, Carte Tommasini G VII, 1-2: Er zeigt sich verwundert über Gregorovius’ Empörung, bedauert dessen, wohl auch durch Freunde beeinflusste, negative Aufnahme seines Artikels. Dass er für die Verleihung des römischen Bürgerrechts an Gregorovius unterzeichnet hat, war ein Beweis für seine Anerkennung, auch wenn er diese gegenüber den anderen deutschen Historikern, die über die Geschichte Roms geschrieben haben, wie Alfred von Reumont (1808–1887) und Felix Papencordt (1811–1841), nicht als gerechtfertigt ansieht.</note></seg>.  </p>
+<p>Aggradisca la partecipazione della più alta stima, con cui ho l’onore di rafferarmi</p>
+                <closer>
+<salute xml:id="s1" next="#s2" rendition="#c">di V<ex>ostra</ex> S<ex>ignoria</ex> Ill<hi rendition="#sup">
+                            <hi rendition="#u" hand="">
+                                <ex>ustrissi</ex>ma</hi>
+                        </hi>
+                    </salute>
+<salute xml:id="s2" prev="#s1" rendition="#right"> devotissimo</salute>
+<signed rendition="#right">Ferdin. Gregorovius <lb/>Cittadino Romano.</signed>
+<dateline>Monaco <lb/>23. Sett<ex>em</ex>bre 1877.</dateline>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

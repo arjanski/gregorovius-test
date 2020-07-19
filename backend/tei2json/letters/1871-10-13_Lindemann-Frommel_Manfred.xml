@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000371">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Manfred Lindemann-Frommel in Karlsruhe. München, 13. Oktober 1871 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Universität Würzburg</repository><collection>Martin-von-Wagner-Museum</collection><idno>NL Lindemann-Frommel, L 36–64 (I)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er ist seit dem 1. Oktober 1871 zurück in München, so daß er ihn vor dessen Abreise nach Rom zur Mutter Auguste Lindemann-Frommel nicht mehr treffen konnte. Er gratuliert zum schulischen Erfolg im Reamgymnasium in Karlsruhe. In München will er bis in den November bleiben, um zu erproben, ob er nach dem Abschluss seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) dort wohnen möchte. In München hat er Malwida von Meysenbug und ihre Pflegetöchter Natalie und Olga Herzen angetroffen. Erstere wollen sich in Florenz in der Nähe des Bruders Alexander Herzen niederlassen, Olga Herzen ist bereits in die Schweiz abgereist. Den vielleicht überzähligen Band seiner „Geschichte der Stadt Rom im Mittelalter“ soll er von einem Karlsruher Buchhändler an die Münchner Buchhandlung Theodor Riedel schicken lassen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1871-10-13" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001376">Lindemann-Frommel, Manfred (1852–1939)</persName>
+<placeName key="G000696">Karlsruhe</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c">München, <hi rendition="#aq">Glück</hi>str<ex>aße</ex> <hi rendition="#aq">I</hi>. <hi rendition="#aq">B</hi>. <lb/>13. <hi rendition="#aq"><hi rendition="#aq">Oct<ex>o</ex>b<ex>e</ex>r</hi></hi> 71.</dateline>
+<salute rendition="#c">Lieber Manfred,</salute>
+</opener>
+<p>ich habe es sehr bedauert, daß meine Reise mich um die Freude gebracht hat, Dich hier zu sehen; denn erst am 1. <hi rendition="#aq">Oct<ex>ober</ex></hi> bin ich hier zurückgekehrt. Es wird für Deine leidende <persName key="G001374">Mutter</persName> ein große Wolthat u<ex>nd</ex> Erquickung sein, daß sie Dich hat wieder sehen können, u<ex>nd</ex> für Dich selbst war dies die schönste Herzenserquickung und der beste Lohn für Deine ruhmreiche Anstrengung in den Studien, wodurch Du eine Classe übersprungen hast.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T145410+0200" comment="Manfred Lindemann-Frommel ging in Karlsruhe auf das Realgymnasium, wo er 1872 Abitur machte."?> <?oxy_comment_end?>Auch ich habe mich herzlich darüber gefreut. Der Segen dieser Willenskraft wird sich <pb n="1v"/>in Deiner weiteren Laufbahn fühlbar machen, da sich alle gute That hier auf Erden so belohnt, wie sich jede Schuld unerbittlich selber rächt.</p>
+<p>Ich bleibe in München noch bis tief in den <hi rendition="#aq">Nov<ex>em</ex>b<ex>e</ex>r</hi> hinein, sowol um meine römische Arbeit vollkommen abzuschließen, als um hier die Wetterprobe zu machen; denn es ist doch meine Absicht, in das <placeName key="G000664">Vaterland</placeName> bleibend zurück zu kehren; u<ex>nd</ex> meinen bürgerlichen Anteil an seinen großen Aufgaben zu nehmen.</p>
+<p>Ich fand in München <persName key="G001418">Fr<ex>äu</ex>l<ex>ein</ex> v<ex>on</ex> <hi rendition="#aq">Meysenbug</hi></persName> und <persName key="G001267"><persName key="G001268">beide Schwestern <hi rendition="#aq">Herzen</hi></persName></persName><?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T145427+0200" comment="Malwida von Meysenbug (1816–1903) und ihre Pflegetöchter Olga (1850–1953) und Natalie Herzen (1844–1936)."?>,<?oxy_comment_end?> hier <pb n="2r"/>schon seit Wochen wohnend. Fr<ex>äu</ex>l<ex>ein</ex> <hi rendition="#aq"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T145440+0200" comment="Natalie Herzen."?>Tata<?oxy_comment_end?></hi> ist eben nach der <placeName key="G000870">Schweiz</placeName> abgereist, <hi rendition="#aq">Olga</hi> u<ex>nd</ex> Fr<ex>äu</ex>l<ex>ein</ex> <hi rendition="#aq">M<ex>eysenbug</ex></hi> gehen in diesen Tagen nach <placeName key="G000671">Florenz</placeName> zurück. Sie scheinen mir alle drei milder u<ex>nd</ex> gereifter zu sein. Olga ist eine zierliche kleine Dame geworden mit kindlich lebhafter Herzlichkeit. Über die sonstigen Lebensverhältniße der Geschwister habe ich keine Frage gethan; nur ging aus Äußerungen hervor, daß Fr<ex>äu</ex>l<ex>ein</ex> v<ex>on</ex> <hi rendition="#aq">M<ex>eysenbug</ex></hi> u<ex>nd</ex> <hi rendition="#aq">O<hi rendition="#aq"><ex>lga</ex></hi></hi> sich in Florenz fixiren wollen. Der <persName key="G001266">Sohn Herzen</persName> hat sich daselbst eine schöne Villa gekauft.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T145453+0200" comment="Der Physiologe Alexander Herzen (1839–1906), Schüler des berühmten Anatomen und Physiologen Moritz Schiff (1823–1896) des Istituto di Studi Superiori in Florenz, war 1865–1877 dessen Assistent, 1877 wurde er sein Nachfolger am Lehrstuhl."?></p><?oxy_comment_end?>
+<p>Deine Mutter schrieb mir, daß Du so freundlich warst, einen Band der <bibl corresp="G003441 G003449 G003456 G003463 G003470 G003477 G003489">Gesch<ex>ichte</ex> d<ex>er</ex> Stadt Rom</bibl> für mich mitzunehmen, für welchen Fall ich die Adressen angab. Ich habe hier aber <pb n="2v"/>vergebens darum gefragt. Deshalb bitte ich Dich, mir darüber bald Auskunft zu geben. Sollte das Buch noch bei Dir sein, so sei so gut einem Buchhändler in Carlsruhe es zu übergeben, damit er es an mich durch die hiesige <orgName key="G000555">Buchhandlung <hi rendition="#aq">Riedel</hi></orgName> gelangen lasse, aber so bald als möglich.</p>
+<closer>
+<salute>Nun lebe wol, lieber Manfred! Alles Gute u<ex>nd</ex> Schöne!</salute>
+<signed rendition="#right"><hi rendition="#aq">FGregorovius</hi>.</signed>
+<note type="postscript">Ich weiß Deine Adresse nicht u<ex>nd</ex> schicke den Brief <?oxy_comment_start author="Angela Steinsiek" timestamp="20200505T184332+0200" comment="Karl August Mayer (1808–1894) war seit 1868 Direktor des Realgymnasiums in Karlsruhe."?>an den <persName key="ed_hhz_wmz_4lb">Director <hi rendition="#aq">Meier<?oxy_comment_end?></hi></persName>.</note>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

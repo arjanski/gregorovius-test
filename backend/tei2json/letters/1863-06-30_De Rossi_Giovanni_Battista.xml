@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000415">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Giovanni Battista De Rossi in Rom. Rom, Juni 1863 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Rom, Biblioteca Apostolica Vaticana</repository><collection>Vat. Lat. 14243, Carteggio Giovanni Battista De Rossi 1862–1863</collection><idno>fol. 821 Nr. 209
+              </idno></msIdentifier> 
+<physDesc>
+<p>1 Bl., 8°, 1 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Der Briefnachlass von Luigi Gaetano Marini in der Vatikanischen Bibliothek ist nicht inventarisiert. Er bittet De Rossi um nähere Auskünfte zu dem Bestand. </p>
+                <p xml:lang="en">The letters of Luigi Gaetano Marini kept in the Vatican Library is not inventoried. He asks De Rossi for further information about the inventory.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1863-06-30" cert="low"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001085">De Rossi, Giovanni Battista (1822–1894)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<salute rendition="#c">Gentilissimo Cavaliere,</salute>
+</opener>
+                <p>jeri mi ho fatto <subst><del rendition="#s">mostrare</del><add place="superlinear">aprire</add></subst> nella <orgName key="G000506">Vaticana</orgName> lo scaffale, in cui stanno <seg type="comment"><orig>le carte del <persName key="ed_plw_btr_1jb ed_xlq_dtr_1jb">Marini</persName>, che Lei a messo in ordine</orig><note xml:id="nil4_k1r_vlb">Gemeint ist wahrscheinlich der Epigraphiker Luigi Gaetano Marini (1742–1815), der ab 1782 Präfekt des vatikanischen Archivs und ab 1800 erster Kustode der Biblioteca Vaticana war. In Frage kommt aber auch dessen Neffe Marino Marini (1783–1855), der seit 1803 Assistent seines Onkels und nach dessen Tod bis zu seinem eigenen Tod (1822–1855) Präfekt des Archivs war.</note></seg>. Egli si è pero impossibile, di trovare documenti del medio Evo senza un’indice, che ne renda facile lo riscontrarsi in questa selva. Mi dissero, che non ne abbia alcuno. Sono venuto appunto, onde sapere da Lei, se ve ne siano tali indici, o se Lei possa indicarmi qualche numero di volume, che contenga documenti per i secoli XIII. e XIV. Si compiaccia di lasciarmi due righe in casa sua, sicchè io le possa riprendere domani dentro la giornata.</p>
+                <closer>
+                    <salute rendition="#c">Affettuosamente</salute>
+                    <signed rendition="#right">Gregorovius.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

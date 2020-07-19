@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067738">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. Traunstein, 17. August 1873 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell’Archiginnasio</institution><collection>Ms. Gozzadini 442 </collection><idno>(19)</idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Über Maria Teresa Serego Alighieri Gozzadini. In Deutschland wütet die Cholera, auch in Königsberg, wo seine Schwester Ottilie Elgnowski lebt. Sein Bruder Julius ist an deutsch-italienischen Demobilmachung bei Graudenz (?) beteiligt. Er selbst will bis Ende September in Traunstein bleiben, wo auch alte Freunde wie Adolf Friedrich von Schack und Karl Lindemann-Frommel sind. Er hat den Schah von Persien bei seinem Halt in Traunstein gesehen, der sich aus dem Zugfenster heraus mit Passanten unterhalten hat. Gozzadinis Frage nach den ältesten Statuten Roms beantwortet er mit einem Verweis auf einen im Kapitol aufbewahrten Kodex aus der Regierungszeit Sixtus IV. (1471–1484). Grüße an Maria Teresa Serego Alighieri Gozzadini.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000888">Traunstein</placeName><date when="1873-08-17" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni conte (1810–1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Traunstein, 17. Agosto 1873.</dateline>
+                    <salute rendition="#c">Ill<hi rendition="#sup"><hi rendition="#u" hand=""><ex>ustrissi</ex>mo</hi></hi> signor Conte,</salute>
+                </opener>
+<p>ho ricevuto con un vero piacere la sua pregiata e da me molto desiderata lettera. Deploro il male, causato <seg type="comment"><orig>alla gentilissma <persName key="G001092">signora Contessa</persName></orig><note xml:id="ntzm_hm3_zlb">Die Gräfin war ebenfalls eine gute Freundin von Gregorovius.</note></seg> da un caso che ben poteva avere delle conseguenze più gravi, ma nello stesso tempo mi rallegro che quell’incommodo oramai è levato.</p>
+<p>Quantunque questo caldo straordinario si faccia sentire peranco <seg type="comment"><orig>sulle colline di <placeName key="G000822">Ronzano</placeName></orig><note xml:id="nx5c_jm3_zlb">In Ronzano besaßen die Gozzadinis eine Villa, in der sie einen von Intellektuellen gut besuchten Salon unterhielten. Gregorovius war regelmäßig Gast dort; siehe den Brief von Gregorovius an Giovanni Gozzadini vom 3.11.1856. Nach dem Tod der Gräfin widmete Gregorovius dem Salon einen Essay: Die Villa Ronzano. Ein Musensitz der Gozzadini von Bologna (ED in: Nord und Süd. Eine deutsche Monatsschrift. Bd. 23. Breslau, Berlin: Schottlaender 1882. S. 312–321 – aufgenommen in: KS Bd. 3, S. 97–120).</note></seg>, egli colà ben presto andrà scemandosi, dopo cadute le prime pioggie, che nell’<placeName key="G000690">Italia</placeName> ordinariamente incominciano colla <seg type="comment"><orig>festa di <persName key="G067850">S<ex>an</ex> Lorenzo</persName></orig><note xml:id="ni1p_km3_zlb">Das Fest des heiligen Laurentius († 10.8.258) wird von der katholischen Kirche am 10. August gefeiert.</note></seg>; giacchè, essendo stato costui arso <seg type="comment"><orig>vivo sulla graticola</orig><note xml:id="nmpx_lm3_zlb">Anspielung auf das Martyrium des heiligen Laurentius, der auf einem glühenden Eisenrost hingerichtet wurde. </note></seg>, pare che il cielo ne vada ancora commosso a tenerezza, ovvero a penitenza per non averne smorzato i ferri roventi.</p>
+<p><seg type="comment"><orig>Il cholera si è manifestato in molte città della mia <placeName key="G000664">patria</placeName>, e pur troppo fa strage anche a <placeName key="G000699">Königsberg</placeName></orig><note xml:id="no2t_nm3_zlb">Diese letzte flächendeckende Cholera-Epidemie in Deutschland, die 1400 Menschenleben forderte, dauerte bis 1875 an. Sie führte zur Umsetzung der von Max von Pettenkofer (1818–1901) vorgeschlagenen hygienischen Maßnahmen der Stadtsanierung.</note></seg>, dove dimora <seg type="comment"><orig>la mia <persName key="G001111">sorella</persName></orig><note xml:id="nyxc_pm3_zlb">Mit seiner Stiefschwester Ottilie (1834–1907), die 1855 Louis Elgnowski († 1860) geheiratet hatte, stand Gregorovius in regelmäßigem Kontakt; sie besuchten sich gegenseitig.</note></seg>, mentre<persName key="G001203"> <seg type="comment"><orig>l’unico mio fratello</orig><note xml:id="nq2j_qm3_zlb">Julius (1819–1891) war der einzige noch lebende seiner drei Brüder. Dieser hatte eine Offizierslaufbahn eingeschlagen und sich als Artillerieoffizier im Deutsch-Französischen Krieg ausgezeichnet. 1870 erhielt er das Eiserne Kreuz (siehe RT, 29.9.1870, S. 293). Die Brüder verkehrten regelmäßig miteinander, trafen sich auch in diesem September in Wien (siehe RT, S. 333).</note></seg></persName> <seg type="comment"><orig>attende ancora alla demolizione</orig><note xml:id="nld2_sm3_zlb">Wahrscheilich stand in der Festung Graudenz noch immer die Demobilmachung aus.</note></seg> della fortezza di <seg type="comment"><orig>Granvenz</orig><note xml:id="nkvl_tm3_zlb">Sicher ein Lesefehler des Abschreibenden, irrtümlich für Graudenz.</note></seg>. A questi esercizi d’artiglieria vi assistono anche alcuni ufficiali italiani. <pb n="2"/>Pure a <placeName key="G000734">Monaco </placeName>è scoppiato il morbo, per la qual cosa ho l’intenzione di <seg type="comment"><orig>fermarmi in Traunstein</orig><note xml:id="nigc_vm3_zlb">Er war am 9. Juli in Traunstein angekommen, wo er noch bis zum 5. Spetember blieb. Dann erst begab er sich bis zum 21. September nach München, ging von dort nach Wien und kehrte am 30. September über Salzburg in die bayrische Landeshauptstadt zurück. Am 13. Oktober trat er die Heimreise nach Rom an (siehe RT, S. 332–333).</note></seg> fino alla seconda settimana del mese futuro. Per altro mi trovo bene in questo paese, godendovi ancora la compagnia di distinti amici, fra cui novero <seg type="comment"><orig><persName key="G001573">Adolfo di Schack</persName>, celebre<bibl corresp="G004226"> traduttore dell’epopea del <persName key="G004760">Firdusi</persName></bibl></orig><note xml:id="nzsr_wm3_zlb">Adolf Friedrich Graf von Schack (1815–1894) aus München war ein Kunstmäzen, Literat, Hispanist und Arabist. Er und Gregorovius hatten sich Ende 1856 kennengelernt (siehe RT, 31.12.1856, S. 65), waren seitdem gut befreundet. Schack hatte ihm auch, allerdings ohne Erfolg, das Angebot einer Professor in München unterbreitet; siehe den Brief von Gregorovius an Adolf Graf von Schack vom 11.9.1862. Nach Gregorovius’ Tod (1891) gab Schack eine Sammlung von dessen Gedichten heraus (Gedichte. Hrsg. von Adolf Friedrich Graf von Schack. Leipzig: Brockhaus 1892). Schack hatte 1851 einige Stücke des persischen Epikers Abū l-Qāsem-e Ferdousī (940–1020) aus dem etwa 60.000 Verse umfassenden Nationalepos der persischsprachigen Welt Schāhnāme (deutsch: Buch der Könige) übersetzt: Adolf Friedrich von Schack: Heldensagen von Firdûsi. Zum ersten Male metrisch aus dem Persischen übersetzt nebst einer Einleitung über das Iranische Epos. Berlin: Wilhelm Hertz 1851. Diese Übersetzung brachte ihm weithin Anerkennung ein. In Traunstein traf Gregorovius außerdem auf seinen Freund, den Maler Karl Lindemann-Frommel (1819–1891) und dessen Sohn Manfred (1852–1939). Sie sahen sich im September auch in Wien wieder (siehe RT, S. 332–333).</note></seg>. </p>
+<p>Per una stranissima combinazione ci fu dato quà, in Traunstein, non solo di vedere due volte <seg type="comment"><orig>lo <persName key="G067851">Scià di Persia</persName></orig><note xml:id="ncl1_ym3_zlb">Schah Nasir od-Din (1831–1896) war seit 1848 bis zu seinem Tod Schah von Persien. Er gilt als reformwilliger, proeuropäischer Regent, was sich auch in seinen langen Reisen über Rußland nach Europa ausdrückte. Dem Grafen von Schack hatte der Schah 1865 den persischen Sonnenorden für die Übersetzung des Firdusi überreicht; siehe den Brief von Gregorovius an Clara Bornträger vom 1.3.1874; Ferdinand Gregorovius: Briefe nach Königsberg. Hrsg. von Dominik Fugger und Nina Schlüter. München: Beck 2013. S. 112f.</note></seg>, ma anche di parlargli a voce. Egli si fermò in questa stagione passandovi per <placeName key="G000897">Vienna</placeName>, e per quanto tempo il treno vi si arrestava, lo Scià, affacciato alla fenestra del suo vagone, <seg type="comment"><orig>discorreva colle persone</orig><note xml:id="nnp4_zm3_zlb">„Er öffnete selbst das Fenster und redete uns in französischer Sprache an. Er fragte nach Ort, Land und dem König von Bayern etc. Nach jeder Antwort wendete er sich um und rief jemandem, den wir nicht sahen, zu: ‚notez!‘. Der Schah ist ein schöner Mann von etwa 36 Jahren, von halbzivilisertem Aussehen, etwa wie ein Kroatenoffizier; sein schwarzer Rock war mit Diamanten besät. In seiner Art hatte er viel Einfachheit. In Wahrheit: es ist etwas wert, den Großkönig von Persien gesehen zu haben, als Reisenden im Esienbahnwaggon auf der Station Traunstein.“ (RT, S. 332–333).</note></seg> che stavangli schierate innanzi. E così mi era lecito di conoscere il successore di <seg type="comment"><orig><persName key="G067862">Ciro</persName></orig><note xml:id="nn1t_1n3_zlb">Wahrscheinlich Kyros II. (um 590–580 v. Chr.-530 v. Chr.). Möglicherweise ist aber auch Kyros der Jüngere (423 v. Chr.-401 v. Chr.) oder Kyros I. (vor 657 v. Chr.-um 600 v. Chr.) gemeint.</note></seg> e di <seg type="comment"><orig><persName key="G067852">Serse</persName></orig><note xml:id="nz23_fn3_zlb">König Xerxes I. (um 519 v. Chr.-4.8.465 v. Chr.) war achämenidischer Großkönig und ägyptischer Pharao.</note></seg>, il Re dei Re, ridotto però alla modesta e semibarbara figura di un viaggiatore, che in un treno diretto andava percorrendo tranquillamente le contrade alpine della <placeName key="G000833">Baviera</placeName>. La storia per vero è il più grande fra tutti i romanzi del mondo.</p>
+<p>Riguardo alla domanda, che Ella mi fa, cioè degli statuti di Roma, posso affermare, che niuna traccia ne sia rimasta del secolo XII°. o XIII°. Si dice che nell’<orgName key="G067841">Archivio secreto del Vaticano</orgName> ve ne abbia un codice appartenente al XIV°, <pb n="3"/>ma non potei constatare l’esattezza di tale asserzione, <seg type="comment"><orig>e fortemente ne dubito</orig><note xml:id="ni5r_hn3_zlb">Gergorovius selbst hatte bereits in früheren Jahren den Archäologen Giovanni Battista de Rossi nach den ältsten Statuten Roms und deren möglichen Aufbewahrung im Kapitol gefragt; siehe den Brief von Gregorovius an Giovanni Battista de Rossi vom 28.4.1863. In seiner Anfrage verwies er auf eine Aussage Francesco Antonio Vitales (1724–1803), der von Statuten in einem Manuskript von 1246 sprach (Storia diplomatica de'senatori di Roma dalla decadenza dell'Impero Romano fino ai nostri tempi, Roma 1791, Bd. 1, S. 75). Er bat außerdem darum, Giacinto Giglis „Cronologia dei Consoli, Priori, e Magistrati di Roma, e statuti propri“ (1640–1671; heute: Roma, Biblioteca nazionale centrale Vittorio Emanuele II, Sessoriano, Sess.334) im Kapitol einsehen zu können.</note></seg>. <seg type="comment"><orig>Il più antico codice degli statuti di Roma</orig><note xml:id="nuld_jn3_zlb">Nicht ermittelt, welche Statuten er meint. </note></seg> che conosca io, si conserva al <placeName key="G000761">Campidoglio</placeName>; egli però è dell’epoca di <persName key="G001609"><persName key="G001609">Sisto IV°</persName></persName>. e non differisce molto dall’ <seg type="comment"><orig><bibl corresp="ed_i2l_xgk_tkb"><hi rendition="#u" hand="">Editio </hi><hi rendition="#u" hand="">princeps</hi></bibl> fatta in Roma nel 1471</orig><note xml:id="nxgj_mn3_zlb"><?UNIQUE_CARET_MARKER_FOR_AUTHOR?></note></seg>,<?oxy_comment_start author="weiger" timestamp="20191113T135209+0100" comment="Statuta Urbis Romae. Roma: per Uldaricum Gallum (Ulrich Hahn). 1471; Biblioteca del Senato."?> <?oxy_comment_end?>se non isbaglio. </p>
+<p>Colla speranza di avere altre e ottime nuove della salute della gentilissima signora Contessa e di Lei, illustre signor Conte, mi raccomando alla benigna memoria di Lor Signorie</p>
+                <closer>
+<signed rendition="#right">Ferd. Gregorovius </signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

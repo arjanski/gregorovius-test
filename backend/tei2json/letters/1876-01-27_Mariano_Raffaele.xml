@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000194">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Rom. München, 27. Januar 1876</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt></titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 2 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Dass Ulrich Hoepli Marianos Schrift nicht veröffentlichen will, bestätigt seine Meinung von der Rückständigkeit des italienischen Literaturbetriebs. Auch Biagio Miraglias „Calendario Romano“ mit seinem Artikel „Cola di Rienzo Romano, precursore di Cavour“ wird nicht erscheinen. Er gibt Mariano Ratschläge für seinen geplanten Besuch in Berlin. Seine Ernennung zum Ehrenbürger von Andria und die anschließende Widerrufung dieser Würdigung wird in der Presse diskutiert. Die „Allgemeine Zeitung“ (1876) berichtet darüber nach einem Bericht der römischen Zeitung „Il Fanfulla“. Er bittet um die entsprechende Ausgabe. Verantwortlich für das Debakel ist seines Erachtens Domenico Guglielmi. Er möchte sich öffentlich davon distanzieren.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1876-01-27" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Monaco, 27. Gennaro 1876.</dateline>
+                    <salute>Caro amico Mariano,</salute>
+                </opener>
+<p>innanzi tutto tanti ringraziamenti per la sua lettera; mi è caro sapere, che lei stà perfettamente bene, e continua i suoi lavori. La disillusione provata da lei in quanto a quelle speranze, che aveva fondato sulla buona volontà del <seg type="comment"><orig><persName key="G001288">Hoepli</persName></orig><note xml:id="notk_3m5_zlb">Ulrico Hoepli, eigentlich Johann Ulrich Hoepli (1847–1935), war ein Schweizer Buchhändler und Verleger, der ab 1871 im Zentrum von Mailand eine Buchhandlung mit Buchbinderei betrieb und daraus einen bedeutenden Verlag entwickelte. </note></seg> di <placeName key="G000721">Milano</placeName>, m’incresce, poichè è cosa, che dimostra, quanto si o sia ancora indietro in Italia <seg type="comment"><orig>nelle condizioni letterarie</orig><note xml:id="na3f_km5_zlb">Im vorangehenden Brief erwähnt Gregorovius die von Mariano bei Hoepli 1875 veröffentlichte Schrift „La liberta di coscienza“; siehe den Brief von Gregorovius an Raffaele Mariano vom 17.1.1876.</note></seg>. Perciò si vorrebbe una riforma radicale, cosa che và di pari passo coll’educazione da sforzi di pianta. Anche il fallimento, che è toccato <seg type="comment"><orig>all’impresa del <persName key="G001425">Miraglia</persName></orig><note xml:id="nyql_4m5_zlb">Biagio Miraglia (1823–1885), kalabresischer Dichter und erster Direktor des Staatsarchivs Rom. Der von Biagio Miraglia herausgegebene Calendario erschien nur 1875. Italo De Tuddo: Calendario Romano: trecentosessantacinque giorni di cronaca, varieta, storie e curiosita romane. Roma Golem 1970.</note></seg> (parlo dell’<orgName key="ed_arl_ywm_plb">Annuario di Roma</orgName>), che dovette esser accolto dai Romani con tutto favore, fà pruova del basso grado, in cui si tiene colà lo spirito nazionale. Dormono ancora, e se la forza degli avvenimenti politici li ha scosso e risvegliato un po’, vogliono piuttosto ricadere nel dolce torpore, che prendersi l’incommodo e la pena di rompere le vecchie catene. Del mio piccolo articolo sul „<seg type="comment"><orig>Cola di Rienzo Romano, precursore di Cavour</orig><note xml:id="nxqh_pm5_zlb">Der Artikel „Cola di Rienzo Romano, precursore di Cavour‟ sollte im Calendario di Roma 1876 gedruckt werden, da der von Biagio Miraglia herausgegebene Calendario aber nur 1875 erschien, wurde Gregorovius’; Artikel nicht publiziert. Siehe den Brief von Gregoroviua an Raffaele Mariano vom 27. Januar 1876.</note></seg>‟ non sono più padrone; poichè lo donai al Miraglia, e costui se ne servirà forse per un'altra publicazione.</p>
+<p>Il suo disegno di lasciare Roma in Aprile, per passar qualche mese a <placeName key="G000636">Berlino</placeName>, sarebbe (secondo il mio parere) cosa giusta, ove lei avesse un fine prefisso, cui correspondere colà con un vero frutto. In caso contrario, onde, che da quella gita quasi improvvisa non ricaverebbe altro risultamento, fuori di uno disturbo. Oltracciò <pb n="1v"/>quella stazione sarebbe scelta male, giacchè il mese d’Aprile è tempo di fango e di pioggia in tutta la <placeName key="G000664">Germania</placeName>, massimamente nella parte settentrionale, mentre il Giugno, al tempo del quale tutti quegli uomini, cui vorebbe conoscere, stanno ancora al posto loro, è mese salubre e bello.</p>
+                <p>Per tutti i fogli dell’<placeName key="G000647">Austria</placeName> e della Germania pur troppo corre un’anedotto, che riguardi <seg type="comment"><orig>me e la cittadinanza di <placeName key="ed_ujj_sgh_zkb">Andria</placeName></orig><note xml:id="nbqm_qm5_zlb">Auf Domenico Guglielmis Initiative ernannte der Stadtrat von Trani Gregorovius zum Ehrenbürger von Andria (vmtl. Januar 1876). Nachdem Guglielmis Übersetzung von Gregorovius’ „Andria“ (1875, „Allgemeine Zeitung“) kurze Zeit später im „Costituzionale“ zu Trani erschienen war, machte der Stadtrat dies jedoch wieder rückgängig, da Gregorovius die Stadt als schmutzig und gesellschaftlich ausgestorben bezeichnet hatte (siehe den Brief von Gregorovius an Raffaele Mariano vom 27.1.1876 sowie „Allgemeine Zeitung“, 27.1.1876, Nr. 27, S. 383 und „Salzburger Zeitung“, Nr. 16, 21.1.1876). </note></seg>. L’<orgName key="G000462"><seg type="comment"><orig>Allgemeine Zeitung</orig><note xml:id="nqnk_rm5_zlb">In der „Allgemeinen Zeitung“ vom 27. Januar 1876 (Nr. 27, S. 383) heißt es dazu u.a.: „Eine Notiz welche die Leser der „Allg. Ztg“ ganz besonders amüsiren wird, habe ich für den Nachtisch aufgehoben. Keinem dieser Leser sind wohl F. Gregorovius’; interessante Aufsätze über Andria in der Beilage dieses Blattes entgangen. Die Kunde davon drang ja sogar bis zu den Ohren der Einwohner von Andria Der Municipalrath versammelte sich, zog Erkundigungen ein über den Geschichtschreiber und Ehrenbürger Roms, und dachte: Andria könne und dürfe doch nicht hinter der ewigen Stadt zurückbleiben. Gedacht, gesagt, gesagt, gethan: F. Gregorovius wurde zum Ehrenbürger der Stadt Andria erkürt. Aber siehe da, wie kann man auch an alles denken? Daß in Andria niemand deutsch verstehe, versteht sich wohl von selbst; aber in Trani fand sich jemand [Domenico Guglielmi], der hatte seinen Ollendorf [Heinrich Gottfried Ollendorff (1803–1865), Grammatikschreiber und Sprachpädagoge] studiert, machte sich über die „Allg. Ztg“ her, und übersetzte Gregorovius’; Reiseeindrücke. Nun stellte sich heraus daß der deutsche Gelehrte zwar für das antike Andria und für seine ewige Landschaft eine große Bewunderung an den Tag gelegt; aber von der modernen Stadt, ihrer Verwaltung, Reinlichkeit u.s.w. nicht behaupten zu können glaubte, was Hermann’s Vater von seinem Städtchen sagte. Große Enttäuschung der Väter der Stadt Andria. Der Stadtrath versammelte sich auf’s neue. Der Beschluss wurde rückgängig gemacht, und Hr. Gregorovius ist nicht länger Bürger von Andria. Das mag ihm zur Lehre dienen, wenn er ein andermal in eine italienische Provincialstadt geräth, sich lieber ans Alterthum allein zu halten und die Gegenwart in Ruhe zu lassen“. (https://digipress.digitale-sammlungen.de/view/bsb00085351_00381_u001/1?cq=)</note></seg></orgName> di questa mattina lo riferisce con dire, che la sorgente di quella narrazione sarebbe <orgName key="G000519">il Fanfulla</orgName> di Roma. Mi farebbe una cosa grata, ove volesse mandarmi quel passo del Fanfulla, ed anche altri fogli italiani, che ne hanno discorso. Non sono ancora in grado, di discernere il vero dal falso; ma in ogni modo vedo chiaro, che vi ha un fondo di verità. <seg type="comment"><orig>Ecco le opere fantastiche del nostro caro <persName key="G001221">Guglielmi</persName></orig><note xml:id="nfn5_sm5_zlb">In seinem Tagebuch notiert Gregorovius hierzu: „Der sonderbare Vorgang ist für den Fanatismus Guglielmis für mich verschuldet worden, und dieser treffliche junge Mann hat sich durch diesen unüberlegten Schritt vermutlich in eine schlimme Lage gebracht.“ (S. 361, 1.3.1876)</note></seg>, e Dio sà quante altre inconvenienze tirerà dietro di se quel passo malaugurato, inconvenienze che peseranno sul povero giovine Gu<ex>glielmi</ex>, su quella gente di Andria, e ancora sulla mia propria persona. Non dico altro; la prego soltanto di scrivermi prestamente e di rischiararmi sul fatto deplorabile; poichè vi occorrerà alla fine una mia protesta pubblica, meno per salvare me stesso, che non sono leso, ma attristato profondamente, che per restituire la buona cittadinanza di Andria nell’opinione pubblica della Germania, per quanto vi potrò valere come persona principale di questa favola.</p>
+<p>Sto male di occhj continuamente.</p>
+                <closer>
+                    <salute>Mille saluti cordiali da parte mia, come da quella dei <persName key="G001203"><persName key="G001111">miei</persName></persName>.</salute>
+                    <signed rendition="#right">F Gregorovius.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

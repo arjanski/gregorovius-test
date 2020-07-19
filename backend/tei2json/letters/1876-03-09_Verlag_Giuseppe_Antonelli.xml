@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_kx5_2pq_4lb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an den Verlag Giuseppe Antonelli in Venedig. München, 9. März 1876</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="restricted"><licence target="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International (CC BY 4.0) </licence></availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository/><collection/></msIdentifier>
+<physDesc>
+<p/>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Antiquariat Kotte (Bestandsnummer 15103) (1 PK, 1 S. – Auszug)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Die letzten Korrekturen der italienischen Übersetzung seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) sollen nicht nach München geschickt werden, da er morgen nach Rom reist. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1876-03-09" cert="high"/>
+</correspAction>
+                <correspAction type="received"><orgName key="G000484">Tipografia di Giuseppe Antonelli</orgName>
+<placeName key="G000894">Venedig</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+<p><pb n="1r"/>Prego di non ispedirmi più le bozze a Monaco, di dove partirò <del rendition="#s">di M</del> dimani alla volta d’<placeName key="G000690">Italia</placeName>; fra poco saprò accennarle il luogo, per dove sarebbero da diriggersi <seg type="comment"><orig>le stampe</orig><note xml:id="nm12_2cw_zlb">„Am 5. April revidierte ich die letzten Bogen der italienischen Übersetzung der „Geschichte der Stadt Rom“, und so wurde ich von dieser langwierigen und langweiligen Sache endlich befreit. Nach mehr als 10 Jahren ist dies Unternehmen fertig geworden.“; RT, 20.5.1876, S. 368. Die von Renato Manzato (1847–1925) verantwortete Übersetzung erschien in den Jahren 1872–1876: Storia della città di Roma nel Medio Evo dal secolo V al XVI. Prima traduzione italiana sulla seconda edizione tedesca di Renato Mánzato. 9 Bde. Venedig, Turin: Giuseppe Antonelli (Nuova collezione di opere storiche). Siehe zur Fertistellung der italienischen Ausgabe der „Geschichte der Stadt Rom im Mittelalter“ auch die Briefe von Gregorovius an Pietro Venturi vom 5.5.1876 und 25.5.1877.</note></seg> </p>
+<closer>
+<signed> FGregorovius.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

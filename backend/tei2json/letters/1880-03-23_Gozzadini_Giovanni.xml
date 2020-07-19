@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_ucm_vvv_qlb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. Rom, 23. März 1880 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free">
+                <licence target="http://creativecommons.org/licenses/by/4.0/">
+                    Creative Commons Attribution 4.0 International (CC BY 4.0)
+                </licence>
+            </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Adr.: Illustre Signore / il signor Conte Giovanni Gozzadini / Senatore del Regno / Bologna</p>
+<p>Erinnerungsschreiben von unbekannt an Paolo Perez</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell’Archiginnasio</institution><collection>Ms. Gozzadini 442 </collection><idno>(34)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für Gozzadinis jüngst erschienene Schrift „Di alcuni monumenti che ricordano i conti di Panico“ (1880). Er wird in Kürze seine Griechenlandreise mit dem Bruder antreten. Ersilia Caetani Lovatelli trauert um ihren verstorbenen Ehemann. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1880-03-23" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni conte (1810-1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Roma 23. Marzo 1880.</dateline>
+                    <salute rendition="#c">Illustre signor Conte,</salute>
+                </opener>
+<p>mi perdoni, che tanto tardi <seg type="comment"><orig>Le rendo le grazie pel suo interessante <bibl sameAs="ed_pyd_jtn_5lb">discorso sui conti di Panico</bibl></orig><note xml:id="nbbd_ntn_5lb">Gozzadini hatte jüngst seine Schrift „Di alcuni monumenti che ricordano i conti di Panico“ (Modena: G.T. Vincenzi e Nipoti 1880) publiziert.</note></seg>. Ieri, per dire il vero, distratto da ogni buono proposito dalla soffocante società di Roma, il peso della quale diventa per me ogni anno meno sopportabile. Oltre di ciò mi causò non lieve disturbo la malattia di mio <persName key="G001203">fratello</persName>, che <seg type="comment"><orig>giunto quì per farmi compagnia nel viaggio in <placeName key="G000683">Grecia</placeName>, disgraziamente cadde malato</orig><note xml:id="ndzz_qtn_5lb">Gregorovius befand sich seit dem 24. Januar in Rom, wo er den Bruder empfangen hatte. Die gemeinsame Greichenlandreise mussten sie aufgrund von Julius’ Gichterkrankung bis zum 27. März aufschieben (siehe RT, Romfahrt und Griechische Reise 1880, S. 419).</note></seg>. </p>
+<p>Ora egli si è ristabilito di modo, che siamo per partire da quì venerdì prossimo, e <seg type="comment"><orig>per imbarcarci la domenica seguente a <placeName key="G000737">Napoli</placeName> in un vapore francese, che va direttamente al <placeName key="ed_kcs_vtn_5lb">Pireo</placeName></orig><note xml:id="nyqp_ytn_5lb">„Am 31. sahen wir die Küsten von Messenien – Pylos und Navarino. Der Himmel wurde klar. Wir fuhren an Cerigo [Kythera] vorbei, und umschifften nachts das Kap Malia, wo ein einzelnes Licht, das eines Einsiedlers, sichtbar war. Am 1. April in der Morgenfrühe rief mich der griechische Capitano J., um mir zu sagen, dass Ägina und Salamis in Sicht seien. Wir fuhren in diesen klassischen Sund ein um 6 Uhr in der Frühe, und bald zeigte sich in der Ferne die Akropolis“ (RT, Romfahrt und Griechische Reise 1880, S. 419).</note></seg>. Ci restringeremo a visitare <placeName key="G000619">Atene</placeName> e i contorni di questa <placeName key="ediarum_ql1_j5n_5lb">acropoli</placeName> della civiltà; così la mia odissea sarà brevissima. Se i dei mi saranno propizi, <seg type="comment"><orig>conto di esser di ritorno in Roma sul cominciar di Maggio, e poi passerò ancora tutto <pb n="2"/>questo mese quì</orig><note xml:id="nvxg_n5n_5lb">Nach einem Aufenthalt in Athen bis zum 25. April, von wo die Brüder aus verschiedene Ausflüge unternahmen, kehrten sie am 10. Mai zurück nach Rom. Nach München reiste Gregorovius am 5. Juni zurück (siehe RT, Romfahrt und Griechische Reise 1880, S. 419–420). </note></seg>. </p>
+<p>Da Donna <persName key="G001011">Ersilia</persName> Lor Signorie ora avranno ricevuto una lettera, almeno lei stessa mi disse di voler prestamente dar loro le sue nuove. Ella continua a piangere e a disperarsi <seg type="comment"><orig>dell’irreparabile perdita</orig><note xml:id="ndyc_q5n_5lb">Am 21. September 1879 war Ersilias Ehemann, der aus der Nähe Ravennas stammende Adelige Giacomo Colombo Lovatelli (1832), verstorben. Die beiden waren seit 1859 verheiratet gewesen und hatten fünf Kinder bekommen; siehe dazu die Briefe von Gregorovius an Ersilia Caetani Lovatelli vom 16.11. und 28.12.1879.</note></seg>. </p>
+<p>Con i più cordiali sensi di venerazione ed affetto, raccomandomi, scrivendo in fretta, ed augurando a Loro le più belle feste di pasqua, mi raffermo di Lor Signorie</p>
+                <closer>
+                    <salute rendition="#right">divotissimo</salute>
+                    <signed rendition="#right">Ferdin. Gregorovius<note type="postscript">Aggiungo a questa mia la memoria dedicata dal <seg type="comment"><orig>Da Via</orig><note xml:id="ncfr_qqp_vlb">Nicht ermittelt.</note></seg> <seg type="comment"><orig>al nostro compianto <persName key="G001483">Paolo</persName></orig><note xml:id="nmqx_r5n_5lb">Gregorovius’ enger Freund und Cousin der Gräfin Maria Teresa Serego Alighieri Gozzadini (1812–1881), Graf Paolo Perez (1822), war am 15. September 1879 im Rosminianerorden in Stresa verstorben. Siehe dazu den Brief von Gregorovius an Giovanni Gozzadini vom 28.12.1879.</note></seg>.</note> </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

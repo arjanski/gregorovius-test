@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000191">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Rom. München, 22. Dezember 1875</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt></titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 2 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Sein Bruder Julius hat ihn informiert, dass Theodor Freiherr von Troschke ein Exemplar seiner „Geschichte der Kriege der Neuzeit“ (1875) für Mariano bei der römischen Buchhandlung Loescher hinterlegt hat. Seine Artikel „Andria“ und „Castel del Monte“ (1875) werden von Domenico Guglielmi für den „Costitutionale“ übersetzt. Er hat Luisa Belloni-Gadda Marianos italienische Übersetzung seiner „Lucrezia Borgia“ (1874) zukommen lassen. Pasquale Villari hat ihm seine „Dispacci di Antonio Giustinian“ (1876) gesandt. Grüße an die Familie von Clemente Maraini.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1875-12-22" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline>Monaco 22. De<ex>cem</ex>br<ex>e</ex> 1875.</dateline>
+                    <salute>Caro amico Mariano,</salute>
+                </opener>
+<p><seg type="comment"><orig>il <persName key="G001660">generale Troschke</persName></orig><note xml:id="nwb1_rnt_zlb">Der preußische Generalleutnant a. D. und Militärhistoriker Theodor Freiherr von Troschke (1810–1876).</note></seg> avvertì il mio <persName key="G001203">fratello</persName>, che una copia del <bibl corresp="ed_d54_mzy_1lb">suo libro</bibl> in proposito sarà messa a sua disposizione presso <persName key="G001381">Löscher</persName>. Pare che l’editore tedesco abbia mal compreso l’affare – in caso supponesse, che proprio lei voglia attendere alla traduzione del libro, se ne riderà come di una sciocchezza. Ho voluto soltanto rendere al generale il servizio di una dimostrazione in favore del libro, per altro sapendo bene, che la sua premura di facilitare la traduzione del libro da farsi da un militare italiano incontrerà innumerevoli ostacoli. Ho avuto lettere del <persName key="G001221">Guglielmi</persName>; il quale anche ha dato mano alla pubblicazione dei <seg type="comment"><orig>due Articoli</orig><note xml:id="nhgc_snt_zlb">Es waren italienische Übersetzungen der Artikel „Andria“ („Augsburger Allgemeine“, 15.–16. Oktober 1875 und „Castel del Monte. Schloß der Hohenstaufen in Apulien“ („Allgemeine Zeitung“, 23.–26.11.1875) geplant.</note></seg> in <seg type="comment"><orig>un giornale di <placeName key="G000887">Trani</placeName></orig><note xml:id="nmmd_tnt_zlb">Domenico Guglielmis italienische Version von „Andria“ erschien etwa Anfang/Mitte Januar im „Costitutionale“ von Trani. Als Reaktion auf den Artikel, in dem Gregorovius die Stadt als schmutzig und gesellschaftlich ausgestorben bezeichnet, wurde ihm die kurz vorher verliehene Ehrenbürgerwürde von Andria wieder aberkannt (siehe den Brief von Gregorovius an Raffaele Mariano vom 27.1.1876 sowie „Allgemeine Zeitung“, 27.1.1876, Nr. 27, S. 383 und „Salzburger Zeitung“, Nr. 16, 21.1.1876). </note></seg>. <persName key="G001109 G001111 G001203">I miei</persName> la <pb n="1v"/>salutano cordialmente – stiamo discretamente bene, quantunque il tempo lasci molto a desiderare, non tanto per il rigore del freddo, quanto per l’umidità e la continua nebbia.</p>
+<p>Ho scritto alla <seg type="comment"><orig>sig<ex>no</ex>ra <persName key="G001153">Gadda</persName></orig><note xml:id="nfvh_5nt_zlb">Luisa Belloni, seit 1848 Ehefrau von Giuseppe Gadda (1812–1901), war eine bekannte Salonnière in Rom.</note></seg>, cui come spero, avrà consegnato la <bibl sameAs="G004388">Lucrezia Borgia.</bibl> Niente di nuovo per ora. Così con augurarle le buone feste e ogni prosperità nell’anno nuovo,</p>
+                <closer>
+<salute>le stringo affettuosamente la mano.</salute>
+<signed>FGregorovius. <lb/><note type="postscript">
+<p>Prego di portar i miei saluti alla gentilissima casa <seg type="comment"><orig><persName key="G001398">Maraini</persName></orig><note xml:id="niyr_vnt_zlb">Ingenieur und Eigentümer des römischen Journals „Il Diritto“.</note></seg>. Ho dovuto scrivere queste righe nella massima fretta.</p>
+    <p>Dal <seg type="comment"><orig><persName key="G001687">Villari</persName></orig><note xml:id="nost_wnt_zlb">Der Politiker und Historiker Pasquale Villari (1827–1917) gehörte zu einem Kreis von exilierten Süditalienern in Florenz. Ab 1859 hatte er eine Professur in Philosophie in Pisa inne, verfasste eine zweibändige Biographie Savonarolas (La storia di Girolamo Savonarola e de’suoi tempi. Florenz 1859–1861). Gregorovius lernte ihn im Sommer 1858 in Florenz kennen (RT 31.8.1858, S. 73), knüpfte durch diesen engen Freund wichtige Kontakte. Der Briefwechsel der beiden wurde jüngst publiziert: „Un anello ideale fra Germania e Italia. Corrispondenze di Pasquale Villari con storici tedeschi.“ A cura di Anna Maria Voci. Rom 2006.</note></seg> <seg type="comment"><orig>ebbi i <bibl corresp="ed_e2y_r4y_1lb">tre volumi dei dispvacci del <persName key="G001177">Giustinian</persName></bibl></orig><note xml:id="nlpw_xnt_zlb">Antonio Giustinian (1466–1524) entstammt einer venezianischen Familie von Bischöfen und war von 1502 bis 1505 Botschafter seiner Heimatstadt in Rom. Villari veröffentlichte dessen Briefe 1876 in drei Bänden: Dispacci di Antonio Giustinian. Ambasciatore veneto in Roma dal 1502 al 1505. Florenz: Successori Le Monnier (https://archive.org/details/dispaccidianton04giusgoog/page/n9). Gregorovius bestätigt den Erhalt der drei Bände in einem Brief an Pasquale Villari, 26.12.1875.</note></seg>.</p>
+</note></signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

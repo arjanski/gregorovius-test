@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000206">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Heinrich Brockhaus in Leipzig. Rom, 6. August 1864</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Sächsisches Staatsarchiv Leipzig</repository><collection>Bestand 21083</collection><idno>Archivalnummer 224 (82)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 S. – 2v alR, Bl. um 90° gedreht, Eingangsvermerk: 1864. / <hi rendition="#aq">Rom</hi>, 6./12. <hi rendition="#aq">August</hi> / <hi rendition="#aq">Gregorovius</hi>.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 55, Mappe 333 (nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Kaum von Archivarbeiten für den fünften Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1865) in Umbrien und der Sabina zurückgekehrt, reist er morgen zunächst nach Neapel und anschließend nach Montecassino. Er kann dem Wunsch, rasch einen Beitrag für das von Friedrich von Raumer herausgegebene „Historische Taschenbuch“ zu liefern, nicht entsprechen. Er hat keinen passenden Beitrag parat und möchte aus dem Manuskript des neuen Bandes seiner „Geschichte der Stadt Rom“ vorab nichts veröffentlichen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">Having hardly returned from archival work for the fifth volume of his „Geschichte der Stadt Rom im Mittelalter“ (1865) in Umbria and the Sabina, he’s travelling to Naples tomorrow and then to Montecassino. He is unable to fulfil the wish to quickly write an article for the „Historische Taschenbuch“ published by Friedrich von Raumer. He does not have a suitable article at hand and does not wish to publish anything from the manuscript of the new volume of his „Geschichte der Stadt Rom“ in advance. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1864-08-06" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G000996">Brockhaus, Heinrich (1804–1874)</persName>
+<placeName key="G000712">Leipzig</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">14. Juni 1864</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi>, 6. <hi rendition="#aq">August</hi> 64.</dateline>
+                    <salute rendition="#c">Sehr geehrter Herr,</salute>
+                </opener>
+                <p>so eben von einer <seg type="comment"><orig>mehrwöchentlichen Archiv-Reise aus <placeName key="G000798">Umbrien</placeName> u<ex>nd</ex> der <placeName key="G000800">Sabina </placeName>zurückgekehrt</orig><note xml:id="na54_ldh_2mb">Für die Abschlussarbeiten am fünften Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1865) war Gregorovius am 11. Juli 1864 von Rom nach Todi, Perugia, Assisi, Terni und Aspra gereist und seit dem 3. August zurück in Rom (siehe RT, 11.7.-3.8.1864, S. 178–181).</note></seg> , finde ich Ihr geneigtes Schreiben mit dem Datum des 14. <hi rendition="#aq">Juni</hi> hier vor. Sie haben mich freundlich aufgefordert, schnell einen Beitrag zum <seg type="comment"><orig><persName key="G001527">Raumer’schen</persName> <orgName key="G000491">historischen Taschenbuch</orgName></orig><note xml:id="nz3s_mdh_2mb">Das seit 1830 von Schriftsteller und Historiker Friedrich von Raumer (1781–1873) herausgegebene „Historische Taschenbuch“ Leipzig: Brockhaus.</note></seg> zu liefern. Ich darf Sie nicht erst bitten, mir Glauben zu schenken, daß ich mit dem größesten Vergnügen dies thäte, wenn ich es zu thun im Stande wäre. <seg type="comment"><orig>Morgenden Tags reise ich wieder von Rom ab nach <placeName key="G000737">Neapel</placeName>, wo mehre Archive mit schweren u<ex>nd</ex> unerläßlichen Arbeiten auf mich warten. Erst um den 10. <hi rendition="#aq">October</hi> verlaße ich Neapel, um in <placeName key="G000730">Monte Casino</placeName> zu arbeiten</orig><note xml:id="nvlx_qdh_2mb">Mit Karl und Auguste Lindemann-Frommel brach Gregorovius am 7. August nach Neapel auf, wo er – unterbrochen durch einen Aufenthalt vom 22. August bis 16. September in Sorrent – bis zum 29. September 1864 blieb und von dort direkt nach Rom zurückkehrte (siehe RT, 15.8.-16.10.1864, S. 182–186). Den Leiter des Archivs von Montecassino, den Historiker und Benediktiner Geistlichen Luigi Tosti (1811–1897), traf er zu seiner „großen Freude“ in Neapel (RT, 24.9.1864, S. 185) wieder. Er hatte ihn bei seinem ersten Aufenthalt in Montecassiono im Herbst 1859 kennen und schätzen gelernt (siehe RT, 29.9.-17.10.1859, S. 85–90).</note></seg>. Wenn ich von dort nach Rom zurückkehre, muß ich an die Herstellung des <bibl sameAs="G003455">V Bandes der Geschichte der Stadt Rom</bibl> gehen, welche mich, ich könnte fast sagen, von Morgen bis <pb n="1v"/>zur Nacht in Anspruch nimmt. Sie ersehen daraus, mein sehr geehrter Herr, daß ich selbst in dem Falle der Möglichkeit, vor Anfang November nicht fähig wäre, an einen Aufsatz dieser Art zu denken, der mich unter meinen Umständen in der Förderung der Geschichte der Stadt wenigstens um 2 Monate zurückbrachte. Aus meinem Manuscript selbst kann ich nichts fortgeben, u<ex>nd</ex> andere Studien habe ich nicht vorliegen, welche dem Charakter jenes historischen Taschenbuchs entsprächen. Glauben Sie mir, hochgeehrter Herr, daß es mir keine geringe Pein verursacht, Ihnen durch sofortigen Dienst nicht meine Ergebenheit beweisen zu können.</p>
+                <closer>
+<salute rendition="#c">In Eile schreibend u<ex>nd</ex> schließend, empfiehlt sich voll großer Hochachtung <lb/>Ihr</salute>
+<signed rendition="#right">FGregorovius.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

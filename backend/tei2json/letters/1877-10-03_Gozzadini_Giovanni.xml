@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_ihq_vnd_ykb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. München, 3. Oktober 1877</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"> <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Adr.: Illustre Signore / il sig. Conte Giovanni Gozzadini / Senatore del Regno / Bologna</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell’Archiginnasio</institution><collection>Ms. Gozzadini 442</collection><idno>(27)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die positive Reaktion auf seinen Artikel „Alcuni cenni storici sulla cittadinanza romana“ (1877). Dieser war ihm als Ehrerbietung gegenüber der Stadt Rom eine Pflicht. Er freut sich, dass Gozzadini die Arbeit an „Giovanni Pepoli e Sisto V.“ (1879) wieder aufgenommen hat. Leider kann er ihm kein weiteres Material hierfür liefern. Die ersten vier Bände seiner „Geschichte der Stadt Rom im Mittelalter“ sind in dritter Auflage erschienen (1875–1877), der fünfte Band wird 1879 folgen. Gestern hat er den fünfundzwanzigsten Jahrestag seiner Ankunft in Rom gefeiert. Über den ihn beleidigenden Artikel „Della storia medievale della città di Roma e de’più recenti raccontatori di essa“ (1877) von Oreste Tommasini.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1877-10-03" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni conte (1810-1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Monaco 3. Ottobre 77.</dateline>
+                    <salute rendition="#c">Illustre signor Conte,</salute>
+                </opener>
+<p>le rendo tante grazie del modo gentile, con cui Ella ha gradito il <bibl sameAs="G004017">saggio</bibl> che ho creduto mio dovere di dedicare alla cittadinanza romana, <seg type="comment"><orig>volendo disimpegnarmi ad un tratto di due obblighi ovvero complimenti</orig><note xml:id="nekg_h1j_1mb">Siehe zu der von Gregorovius sich selbst auferlegten Pflichterfüllung RT, Rückkehr nach Rom im Jahre 1877, S. 374–375 und den Brief von Gregrovius an Pietro Venturi vom 29.7.1877.</note></seg>, uno da rendere al <orgName key="G004663">Municipio di Roma</orgName>, e l’altro all’<orgName key="ed_qch_xc2_rlb">Accademia de’ Lincei</orgName>. </p>
+<p>Godo che Ella abbia ripreso <seg type="comment"><orig>il <bibl sameAs="ed_amf_mg2_rlb">lavoro importante e tutto patrio sul C<ex>ont</ex>e Giov<ex>anni </ex>Pepoli</bibl></orig><note xml:id="nsmn_31j_1mb">Gozzadini widmete seine historische Erzählung in ehrfurchtsvoller Zuneigung dem Geschichtsschreiber und römischen Bürger Gregorovius: https://books.google.it/books?id=sDVWDEfPrFEC&amp;printsec=frontcover&amp;dq=giovanni+gozzadini+giovanni+pepoli&amp;hl=de&amp;sa=X&amp;ved=0ahUKEwjIj77VwoXoAhUFPewKHeR4DK4Q6AEIKDAA#v=onepage&amp;q&amp;f=false.</note></seg>, ma nell’istesso tempo sono dolente di non poter servirla un qualche documento o appunto nuovo, imperocchè nulla rinvenni nelle biblioteche, che tocchi <seg type="comment"><orig>quel <persName key="ed_lpk_5g2_rlb">personaggio</persName></orig><note xml:id="npzl_j1j_1mb">Der in Bologna geborene Giovanni Pepoli (1521–1586) schlug zunächst eine militärische Karriere ein, widmete sich dann aber politischen Aufgaben und war schließlich Senator in seiner Geburtsstadt. In dieser Funktion setzte er sich besonders für republikanische Sonderrechte und die städtischen Institutionen ein. Angeklagt wegen aufständischem Verhalten gegen die Herrschenden wurde er 1585 festgenommen. Siehe zu der hier angesprochenen Publikation Gozzadinis auch den Brief von Gregorovius an Giovanni Gozzadini vom 20.12.1878.</note></seg>. </p>
+<p>Dirò senza timore d’incorrere perciò nel peccato degli adulatori, che l’attività indefessa di V<ex>ostra</ex> S<ex>ignoria</ex> mi serve di sprone, abbenchè io non possa vantarmi di quelle forze instancabili, delle quali la natura le fu larga, e che la medesima sia benigna di conservarle per lunghi anni ancora – </p>
+<p><pb n="2"/>Intanto ho terminato <seg type="comment"><orig>la revisione della <bibl corresp="G003464 G003471 G003478 G003483">storia di Roma per la terza edizione tedesca</bibl>, di cui la stampa, provvedendo speditamente, oramai è arrivata al <bibl corresp="G003457">quinto volume</bibl></orig><note xml:id="niy4_l1j_1mb">Von seiner „Geschichte der Stadt Rom im Mittelalter“ waren in dritter, verbesserter Auflage bereits der erste (1875), der zweite und dritte (1876) sowie der vierte (1877) Band erschienen. Der fünfte Band in dritter, verbesserter Auflage sollte 1878 auf den Markt kommen. </note></seg>. Celebrai perciò con soddisfazione e gratitudine jeri sera il ventesimo quinto anniversario della <seg type="comment"><orig>mia venuta in <placeName key="G000763">Roma</placeName></orig><note xml:id="npfv_n1j_1mb">Gregorovius war am 2. Oktober 1852 „in Rom eingefahren durch die Porta del Popolo […] 4 ½ nachmittags“ (RT, 4.10.1852, S. 44–45). Von diesem Moment an sollte er fast 22 Jahre in der ewigen Stadt leben.</note></seg>, e ripensai lietamente le gioje e le fatiche passate, delle quali il frutto è salvo. Nè mi lascio sturbare da qualche critica ingiusta, come è quella <seg type="comment"><orig>nel primo fascicolo del nuovo <orgName key="G000467">Archivio romano</orgName></orig><note xml:id="nosd_p1j_1mb">Oreste Tommasini hatte in der ersten Ausgabe des „Archivio della Società Romana di Storia Patria“ einen Artikel unter dem Titel „Della storia medievale della città di Roma e de’più recenti raccontatori di essa“ (Bd. 1. Rom: Società 1878. S. 1-46) veröffentlicht. In diesem diskreditierte er im Rahmen einer Besprechung der neuesten Forschungen zu Rom Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ (8 Bde., 1859–1872). Über diese Angelegenheit entspann sich ein Disput in den intellektuellen Kreisen Roms und Gregorovius wandte sich in der Sache nicht nur an den Verfasser des Schmähartikels selbst (siehe die Briefe von Gregorovius an Oreste Tommasini vom 23. und 29.91877), er involvierte auch den römischen Bürgermeister Pietro Venturi (siehe den Brief von Gregorovius an Pietro Venturi vom 23.9.1877).</note></seg>, dove la mia opera è tartassata e svisata di maniera, che ne rimasi stupefatto. Non ho scritto certamente per sollecitare più d’un popolo; non ho voluto nè adulare, nè denigrare i Romani; ho cercato la verità, e sono contento di poter protestare, che impresi l’opera ispirandomi non dagli inviti di <seg type="comment"><orig>un rè filosofo</orig><note xml:id="nvr1_q1j_1mb">Tommasini schreibt in seinem Artikel auf S. 36: „Il Gregorovius scrive per solleticar più d’un popolo, il Reumont per invito d’un re filosofo.“ Siehe für eine weitergehende Analyse von Tommasinis Text, auch dessen mitunter positive Rezeption: Alberto Forni. Der Erfolg von Gregorovius in Italien. In: Ferdinand Gregorovius und Italien. Eine kritische Würdigung. Hrsg. von Arnold Esch u. Jens Petersen. Tübingen: Niemeyer 1993. S. 12–41, hier S. 35–36.</note></seg> qualunque, ma da una maestà più sublime, da quella proprio di Roma. </p>
+<p>Mentre loro godono <seg type="comment"><orig>le tiepide aure di <placeName key="G000822">Ronzano</placeName></orig><note xml:id="nnnl_s1j_1mb">Die Gozzadinis hatten 1848 die Villa Ronzano außerhalb Bolognas erworben und unterhielten dort einen von illustren Gebildeten besuchten Salon (siehe den Brief von Gregorovius an Giovanni Gozzadini vom 3.11.1856). Nach dem Tod von Gozzadinis Ehefrau, der Gräfin Maria Teresa Serego Alighieri Gozzadini (1812–1881), widmete Gregorovius dem Salon einen Essay: Die Villa Ronzano. Ein Musensitz der Gozzadini von Bologna (ED in: Nord und Süd. Eine deutsche Monatsschrift. Bd. 23. Breslau, Berlin: Schottlaender 1882. S. 312–321 – aufgenommen in: KS Bd. 3, S. 97–120).</note></seg>, noi altri della C… boreale stiamo vicini all’inverno: chè difatti per necessità riscaldiamo le camere già sin da dieci giorni e più. </p>
+<p>Augurandole, illustre S<ex>ignor</ex> Conte, insieme alla nobilissima signora <persName key="G001092">Contessa</persName>, ogni benessere mi rasegno di Lor Signorie</p>
+                <closer>
+                    <salute rendition="#right">devotissimo</salute>
+                    <signed rendition="#right"> Ferd. Gregorovius </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

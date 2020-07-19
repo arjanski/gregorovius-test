@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000115">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Johann Georg Freiherr Cotta von Cottendorf in
+                    Stuttgart. Florenz, 20. Juli 1858</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (16)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 4°, 2 ¾ S. – 2v, Blatt um 90° gedreht, Adr.: <hi rendition="#u" hand="">franco</hi> / <hi rendition="#aq">Monsieur</hi> / <hi rendition="#aq">Monsieur le Baron</hi> / <hi rendition="#aq">Georg de Cotta</hi> / <hi rendition="#aq"><hi rendition="#u" hand="">Stuttgart</hi></hi> – Siegelreste, Poststempel</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 59, Mappe 347 (nach D)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der
+                            Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 222–224
+                            (leicht gekürzt)</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Auch wenn sein Manuskript der ersten beiden Bände seiner „Geschichte der Stadt Rom im Mittelalter“ (1859) noch nicht in Stuttgart eingetroffen sind, betont er nochmals die Unmöglichkeit, das gesamte Werk auf vier Bände zu begrenzen. Ein Band sollte nicht mehr als 450 Seiten umfassen. Wenn der Verlag alternativ eine Verkleinerung der Schrifttype und eine Vergrößerung des Satzspiegels erwägt, würde das dem Absatz abträglich sein. Auch gäbe es keinen Grund anzunehmen, dass sich mehrbändige Werke nicht verkaufen, wie das die breit angelegten historischen Schriften von Leopold von Ranke, Friedrich von Raumer, Jules Michelet und von Jean-Joseph-Charles-Louis Blanc beweisen. Anders als Ernst Platners und Josias von Bunsens „Beschreibung der Stadt Rom“ (1829–1842) will er ein lesbares, für alle gesellschaftlichen Schichten interessantes Geschichtswerk schreiben. Er versichert erneut, dass seine Darstellung bei katholischen Lesern keinen Anstoß erregen wird. Bis Ende August wird er in der Villa Concezione bei François Sabatier und seiner Frau Caroline Ungher wohnen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">Even though his manuscript of the first two volumes of his „Geschichte der Stadt Rom im Mittelalter“ (1859) has not yet arrived in Stuttgart, he emphasizes once again the impossibility of limiting the entire work to four volumes. One volume should not exceed 450 pages. If the publisher is considering reducing the font size and increasing the type area as an alternative, that would be detrimental to sales. Nor would there be any reason to assume that multi-volume works do not sell, as the broadly based historical writings of Leopold von Ranke, Friedrich von Raumer, Jules Michelet and Jean-Joseph-Charles-Louis Blanc have proven. In contrast to Ernst Platner’s and Josias von Bunsen’s "Description of the City of Rome" (1829-1842), his aim is to write a readable work of history that is interesting for all social classes. He reassures Cotta again that his account will not offend Catholic readers. Until the end of August he will live in the Villa Concezione with François Sabatier and his wife Caroline Ungher. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000671">Florenz</placeName>
+                    <date when="1858-07-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001055">Cotta von Cottendorf, Johann Georg
+                        (1796–1863)</persName>
+                    <placeName key="G000879">Stuttgart</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev">9. Juli 1858 (K: DLA Marbach, Cotta-Archiv, Cotta-Briefe, 15a)</ref>
+<ref type="next">18. August 1858 (h: DLA Marbach, Cotta-Archiv, Cotta-Briefe, 18a)</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Florenz</hi> <hi rendition="#aq">Villa Concezione</hi> <lb/>20 <hi rendition="#aq">Juli</hi> 1858.</dateline>
+                    <salute rendition="#c">Hochgeehrter Herr Baron,</salute>
+                </opener>
+                <p>gestern habe ich Ihr gefälliges <seg type="comment"><orig>Schreiben vom 9. <hi rendition="#aq">Juli</hi> über <placeName key="G000763">Rom</placeName> hierorts erhalten u<ex>nd</ex> säume nicht, schnell zu antworten, obwol meine Manuscripte, die noch nicht bei Ihnen eingetroffen sind</orig><note xml:id="njcb_445_5lb">Am <ref target="G000085">20. Mai 1858</ref> hatte Gregorovius Johann Georg Freiherr Cotta von Cottendorf seine „Geschichte der Stadt Rom im Mittelalter“ zum Verlag angeboten, der sofort sehr interessiert reagiert hatte (DLA Marbach, Cotta-Archiv, Cotta-Briefe, 14a). Wunschgemäß sandte Gregorovius am 25.6.1858 das Manuskript der ersten beiden Bände zur Einsicht an den Verleger (siehe den Brief von <ref target="G000116">Gregorovius an Cotta, 22.6.1858</ref>).</note></seg>, über die fraglichen Punkte Ihnen <del rendition="#s">die</del> beßere Erklärung geben werden, als ich im Briefe vermag.</p>
+                <p>Was Sie mir über die <seg type="comment"><orig>Restruction des <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Werks</bibl> von 6 auf 4 Bände schreiben</orig><note xml:id="nlrz_5q5_5lb">In seinem, nur als Konzept überlieferten, Schreiben vom 9.7.1858 hatte Cotta noch einmal betont, „daß die Buchhandlung einen Umfang von nur vier Bänden vorziehen würde; weil eben das Publicum sehr bändereichen Werken abhold ist“ (K: DLA Marbach, Cotta-Archiv, Cotta-Briefe, 15a).</note></seg>, habe ich hin u<ex>nd</ex> her erwogen. Lieb könnte sie dem Autor keinesfalls sein, denn die Schönheit u<ex>nd</ex> Behaglichkeit des Drucks ist ein sehr wichtiges Moment nicht allein für ihn, sie erleichtert sicherlich in unserer Zeit Verbreitung u<ex>nd</ex> Kauf der Bücher. Außerdem würde die innere Einteilung des Werks dadurch mir umgestoßen werden. Die 2 ersten Bände schließen mit einer großen Periode, der <seg type="comment"><orig>Krönung <persName key="G001330">Carls</persName></orig><note xml:id="nupy_wq5_5lb">Die Kaiserkrönung Karls des Großen (747/748–814) am 25. Dezember 800 im Aachener Dom (siehe „Geschichte der Stadt Rom im Mittelalter“, Bd. 2, 1859, S. 536–548).</note></seg>, naturgemäß ab; aus ihnen könnte nicht <hi rendition="#u" hand="">ein</hi> Band gemacht werden, da ein solcher mindestens 800–900 Seiten umfaßen würde bei gewöhnlichem Druck; <seg type="comment"><orig>bei kleineren Charakteren aber, welche mir u<ex>nd</ex> einem großen Teil der Leser die Freude verderben würden, dürfte der Band nicht gewinnen</orig><note xml:id="nvtc_yq5_5lb">Cotta hatte auf eine mögliche Verkleinerung der Schrifttype und eine Vergrößerung des Satzspiegels verwiesen: „Hat man doch Schiller’s sämtliche Werke in einen und die Göthe’schen in zwey Bände zusammengedrängt. Freilich wohl auf Kosten der Schönheit, weshalb eine gewiße Beschränkung es erleichterte.“ (K: DLA Marbach, Cotta-Archiv, Cotta-Briefe, 15a).</note></seg>. Die Bände aber betragen nach meiner Übersicht des Quantums im Manuscript bei guter Ausstattung des Drucks wol nur <seg type="comment"><orig>450 oder 500 Seiten</orig><note xml:id="nm4t_zq5_5lb">In der 1. Auflage (1859) hat Bd. 1 484 Seiten und Bd. 2: 548 Seiten.</note></seg>, sind demnach handlich u<ex>nd</ex> leicht. Wie viele Werke auch neuerer Autoren bestehen nicht aus 5, 6, ja 9 u<ex>nd</ex> mehr Bänden, u<ex>nd</ex> werden dennoch eifrig gelesen, wie <bibl corresp="G004796"><seg type="comment"><orig>Ranke</orig><note xml:id="nxjt_1r5_5lb">Gregorovius dachte vermutlich an Leopold (ab 1865 von) Ranke (1795–1886): Deutsche Geschichte im Zeitalter der Reformation. 6. Bde. Berlin: Duncker und Humblot 1839–1847.</note></seg></bibl>, <bibl corresp="G004790"><seg type="comment"><orig>Raumer</orig><note xml:id="ndv1_cr5_5lb">Gregorovius meinte sicher die mehrfach aufgelegte 6-bändige „Geschichte der Hohenstaufen“ (Leipzig: Brockhaus 1823–1825) von Friedrich von Raumer (1781–1873).</note></seg></bibl>, <hi rendition="#aq"><bibl corresp="G004797 G004798"><seg type="comment"><orig>Michelet</orig><note xml:id="nv3m_dr5_5lb">Jules Michelets (1798–1874) berühmte „L’Histoire de la Révolution francaise“, 7 Bde. Paris 1847–1853 oder seine in verschiedenen Ausgaben in 5–20 Bänden erschienene „Histoire de France“ (Paris 1837–1867).</note></seg></bibl></hi>, <hi rendition="#aq"><bibl sameAs="G004782"><seg type="comment"><orig>Louis Blanc</orig><note xml:id="nydg_3r5_5lb">Jean-Joseph-Charles-Louis Blanc (1811–1882): Histoire de la révolution française. 8 Bde., Paris 1847–1856 – bis 1864 erschienen 12 Bände.</note></seg></bibl></hi> etc.</p>
+                <p>Ich verkenne als Forscher von Rom am wenigsten<del rendition="#s">s</del> den unvergleichlichen Wert von <bibl corresp="G004764">Platner’s u<ex>nd</ex> Bunsens Stadtbeschreibung</bibl>, da mir dies Werk beständig auf dem Tische liegt, gestehe aber, daß die gelehrte Schwerfälligkeit desselben mir der innere Grund der wenigen Verbreitung zu sein scheint; außerdem ist es kein <pb n="1v"/>Geschichtswerk, ungenießbar u<ex>nd</ex> unbrauchbar <hi rendition="#u" hand="">außerhalb</hi> Rom’s, es sei denn für Archäologen, während alle übrigen Leser dieselben Gegenstände in wahrhaft zahllosen Handbüchern jeder Nation zusammengestellt finden oder nach dem Auszuge jenes Werkes greifen. Ich glaube, Sie werden von der Lebensfähigkeit der „Geschichte Rom’s im Mittelalter“, wie von dem allgemeinen Intereße im Verhältniß zum gebildeten Publicum das Beste hoffen, wenn Sie die Manuscripte eingesehen haben. Zugleich wird der <seg type="comment"><orig>Zweifel in Bezug auf Offension der katholischen Kirche</orig><note xml:id="nihz_kr5_5lb">Cotta hatte am 9.7.1858 an Gregorovius geschrieben: „Das […] in meinem ersten Briefe [vom 24.5.1858] geäußerte Bedenken, welches die katholische Kirche betrifft und dahin zielte zu erfahren, ob Ihre Behandlung dieser Partie von der Art seye, daß dem Buche das Lesen und der Zutritt in katholischen Ländern verwehrt werden könnte, hat Ihr Jüngstes nicht beseitigt. Und doch ist es für seine Absazfähigkeit und also auch für das Moment des Honorars nicht ohne Bedeutung. […] Die Cottasche Buchhandlung möchte nur nicht in einen Conflict mit den Katholiken durch ihre Druckwerke kommen. […] Doch das Lesen der ersten zwey Bände wird mich beßer orientiren als alle Briefe.“ (K: DLA Marbach, Cotta-Archiv, Cotta-Briefe, 15a).</note></seg> schwinden; mir scheint, d<ex>a</ex>ß heut zu Tage ein denkender Geschichtsschreiber nicht gemäßigter schreiben kann, als ich es that, u<ex>nd</ex> mit den gleichen Grundsätzen gehe ich an die Fortsetzung des Ganzen. Ein Parteistandpunkt wird mir nicht vorgeworfen werden dürfen, aber gut heißen kann ich an Rom nicht, was selbst der Verstand der Katholiken nicht mehr zu verteidigen im Stande ist. Dogmatische Discussionen, welche den Geschichtsschreiber in ein entschiedenes oder scharfes Urteil von selbst drängen müßten, liegen außerhalb der Grenzen des Werks, u<ex>nd</ex> ich habe die Theologie der Kirchengeschichte gern überlaßen. Im übrigen aber werden Sie in Bezug der deutschen Katholiken das völlig Wahre sehen, was mir der Aufenthalt in Rom unsichtbar macht: leicht nur möchten diese, selbst im Fall einiger mißliebiger Partien in solchem Werke, indifferent bleiben, da es sich um die Geschichte der Stadt Rom u<ex>nd</ex> nicht der Kirche handelt, die Menge der Italiener aber, welche jede Opposition gegen gewiße Richtungen ihrer Vergangenheit<del rendition="#s">,</del> willkommen heißen, ist heute sicherlich größer als die Zahl derer, die den Autor darum angreifen werden. Doch möge mein Manuscript selbst sich erklären. Ob dies eingegangen wünschte ich bald meiner Beruhigung wegen zu erfahren.</p>
+                <p><pb n="2r"/>Ich bin Ihnen, Herr Baron, sehr dankbar für die <seg type="comment"><orig>Mitteilung in Betreff der <orgName key="G004652">historischen Vierteljahrsschrift</orgName></orig><note xml:id="nhql_nr5_5lb">Cotta hatte Gregorovius auf die, im ersten Quartal 1859 erstmals in seinem Verlag erscheinende, „Historische Zeitschrift“ aufmerksam gemacht, die von Heinrich von Sybel (1859–1895) herausgegeben wurde. Das erste Heft begann unter der progammatischen Überschrift „Zur Charakteristik der heutigen Geschichtsschreibung in Deutschland“, für die die namhaftesten Historiker Beiträge lieferten: Wilhelm Giesebrecht (1814–1889): Die Entwicklung der deutschen Geschichtswissenschaft – Georg Waitz (1813–1886): Falsche Richtungen. Schreiben an den Herausgeber. – Leopold Ranke (1795–1886): Denkschrift – Georg Heinrich Pertz (1795–1876): Denkschrift – Johann Georg Droysen (1808–1884): Denkschrift. Und auch Theodor Mommsen (1817–1903) war mit einem Aufsatz vertreten („Das römische Gastrecht und die römische Clientel“). </note></seg>, der ich alles Glück wünsche, u<ex>nd</ex> die sich den Fortgang durch so bedeutende Arbeiten selbst garantirt. Auch daraus sehe ich den Aufschwung der historischen Wißenschaft im <placeName key="G000664">Vaterlande</placeName>.</p>
+<p>Sobald ich in die Stadt Florenz komme, <seg type="comment"><orig>werde ich den Auszug aus <bibl sameAs="G004785">Limperani’s Geschichte</bibl> besorgen</orig><note xml:id="njsc_sr5_5lb">Gregorovius hatte Cotta auf dessen Frage im Brief vom 24. Mai 1858 (K: DLA Marbach, Cotta-Archiv, Cotta-Briefe, 14a) am <ref target="G000116">22.6.1858</ref> mitgeteilt, dass in Giovanni Paolo Limperani di Orezza „Istoria della Corsica da’Tirreni suoi primi abitatori fin al secolo XVIII“ (2 Bde., Rom: Salomonus 1779–1780, hier Bd. 2, S. 221, 248)“ Näheres zu seinem Vorfahr Gianantonio Cotta, dem korsischen Vizekönig im Jahre 1463, zu finden ist. Da dieses Buch in Stuttgart nicht greifbar war, ließ ihm Gregorovius Kopien zukommen (siehe den Brief von Gregorovius an Cotta, 25.8.1858).</note></seg>.</p>
+                <p>Nehmen Sie nun, geehrter Herr Baron, meinen aufrichtigen u<ex>nd</ex> warmen Dank für die bereitwillige Unterstützung meines sorgenvollen Unternehmens u<ex>nd</ex> für die Hoffnungen, die ich zuversichtlich erfasse.</p>
+                <closer>
+<salute rendition="#c">Mit großer Hochachtung u<ex>nd</ex> Ergebenheit</salute>
+                    <signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi></signed></closer>
+<note type="postscript">Meine Adresse ist bis Ende August: <p rendition="#c"><seg type="comment"><orig><hi rendition="#aq">Firenze</hi>, <hi rendition="#aq">Villa Concezione</hi></orig><note xml:id="ndqb_vr5_5lb">Die in der zweiten Hälfte des 17. Jahrhundert entstandene Villa della Concezione oberhalb von Florenz war ursprünglich Teil eines gleichnamigen Klosterkomplexes; heute „Villa La Gressa“, nach einer nicht mehr existierenden, angrenzenden Kapelle benannt. Die Villa war von Caroline Unger, die in Italien als Opernsängerin große Erfolge gefeiert und sich schon im Herbst 1837 in Florenz niedergelassen hatte, vor der Hochzeit mit Sabatier als Sommerresidenz erwoben worden.</note></seg> <lb/><hi rendition="#aq"><foreign xml:lang="fra">chez M<ex>onsieu</ex>r</foreign></hi> <hi rendition="#aq"><persName key="G001565"><seg type="comment"><orig>François Sabatier</orig><note xml:id="nqxs_xr5_5lb">Den vermögenden französischen Gelehrten, Kunstkritiker und Übersetzer François Sabatier (1818–1891), Sohn eines reichen Bankiers und Grundbesitzers nahe Montpellier, hatte Gregorovius 1856 in Rom kennen und schätzen gelernt (siehe RT, letzter Tag des Jahres 1856, S. 65). Vom 11.7.-1.9.1858 war Gregorovius in der oberhalb von Florenz gelegenen Sommervilla Gast der Sabatiers; am 28. September 1858 kehrte er nach Rom zurück (siehe RT, 15.7.1858, S. 72–75).</note></seg></persName></hi>. </p><p>Ich wohne hier bei Freunden, welche Sie vielleicht kennen; es ist <seg type="comment"><orig><persName key="G001665"><hi rendition="#aq">Caroline Unger</hi></persName>, ehemals Lenau’s Verlobte, u<ex>nd</ex> ihr geistreicher Mann</orig><note xml:id="nqzq_zr5_5lb">Die aus Wien gebürtige Sopranistin Caroline Ungher (1803–1877) war 1839/1840 kurz mit dem von ihrer Stimme beeindruckten Nikolaus Lenau (1802–1850) verlobt (siehe RT, letzter Tag des Jahres 1856, S. 65). 1841 hatte Caroline Ungher François Sabatier (1818–1891) geheiratet und sich kurz darauf von der Bühne zurückgezogen. </note></seg>. Sie haben oberhalb Florenz eine treffliche Besitzung.</p></note>
+            </div>
+        </body>
+    </text>
+</TEI>

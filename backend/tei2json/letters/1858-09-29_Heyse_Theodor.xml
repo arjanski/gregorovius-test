@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000111">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Theodor Heyse in Florenz. Livorno, 29. September
+                    1858</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository> Archiv der BBAW</repository><collection>NL Theodor Heyse</collection></msIdentifier>
+<physDesc>
+<p>1 Bl., 4°, 1 S. – 1v, Blatt um 90° gedreht, Adr.: <hi rendition="#aq">Monsieur</hi> / <hi rendition="#aq">le Docteur Theodor Heyse</hi> / <hi rendition="#aq">Piazza Pratelina Nro</hi>. 2869 <hi rendition="#aq">p</hi>. <hi rendition="#sup"><hi rendition="#uu" hand="">2</hi></hi> . / <hi rendition="#aq">Firenze</hi> – Poststempel</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 84, Mappe 6 (Alfred Löckle nach
+                                        H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er hat seinen Schal, ein Geschenk der Gräfin Teresa Gozzadini, in Florenz oder auf dem Ausflug mit Theodor Heyse nach Pistoia verloren. Er bittet, an den gemeinsam besuchten Orten in Florenz nachzufragen. Er ist mit dem Korsen Francesco Ventura in Livorno und wird am Abend mit dem Dampfer Hermus nach Civitavecchia übersetzen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He lost his scarf, a gift from Countess Teresa Gozzadini, in Florence or on the trip with Theodor Heyse to Pistoia. He asks him to enquire at the places in Florence that they have visited together. He is in Livorno with the Corsican Francesco Ventura and in the evening he will head to Civitavecchia with the steamer Hermus. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000715">Livorno</placeName>
+                    <date when="1858-09-29" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001275">Heyse, Theodor (1803–1884)</persName>
+                    <placeName key="G000671">Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Livorno Mitwoch</hi> 29. <hi rendition="#aq">Sept<ex>em</ex>b<ex>e</ex>r</hi> 1858</dateline>
+                    <salute rendition="#c">Theuerster Freund,</salute>
+                </opener>
+                <p>schmerzlich bedauerte ich es, Sie nicht mehr gesehn zu haben; in das <orgName key="G004654"><seg type="comment"><orig>Café <hi rendition="#aq">Galileo</hi></orig><note xml:id="nbpl_jfv_5lb">Das Café di Galileo befand sich in der Via Cerretani in Florenz, nahe dem Dom (siehe Murray’s Handbook of Florence and its Environs. London 1861, S. IV).</note></seg></orgName> konnte ich nicht mehr kommen, weil ich flugs auf die<placeName key="G004675"> <seg type="comment"><orig>Station <hi rendition="#aq">Maria Antoinette</hi></orig><note xml:id="njnc_lfv_5lb">Der 1848 mit dem Streckenabschnitt Florenz bis Prato eingeweihte Bahnhof Maria Antonia (Namensgeberin war die Maria Antonia von Neapel-Sizilien, 1814–1898, die Gemalin des Großherzogs von Toskana, Leopold II., 1797–1870) befand sich etwa an der Stelle des in den 1930er Jahren errichteten Bahnhofs Santa Maria Novella. 1851 wurde die Strecke bis Pistoia verlängert und 1859 bis Lucca. Mit dem Ende des Großherzogtums Toskana und seiner Zugehörigkeit zum Königreich Italien wurde der Bahnhof Maria Antonia 1860 in Santa Maria Novella umbenannt.</note></seg></placeName> laufen mußte. Es hatte sich nämlich herausgestellt, daß ich meinen schönen Schawl, ein Geschenk der <persName key="G001092"><seg type="comment"><orig>Gräfin Gozzadini</orig><note xml:id="nkkh_pfv_5lb">Mit der Bologneser Gräfin Maria Teresa Serego Alighieri Gozzadini (1812–1881) und ihrem Ehemann Giovanni Gozzadini (1810–1887) hatte Gregorovius sich um 1856 über ihren Cousin Graf Paolo Perez (1822–1879) angefreundet.</note></seg></persName>, irgend wo verloren, u<ex>nd</ex> glaubte ihn im Waggon nach<seg type="comment"><orig> unserer Fahrt nach <hi rendition="#aq"><placeName key="G004676">Pistoja</placeName></hi></orig><note xml:id="nwl5_rfv_5lb">Der gemeinsame Ausflug über Prato nach Pistoia fand bereits am 12. September statt (siehe RT, 13.9.1858, S. 74).</note></seg> gelaßen zu haben. Bitte an den Orten nachzufragen, wo wir in der Stadt waren, auch im <orgName key="G004655"><seg type="comment"><orig><hi rendition="#aq">Café</hi> <hi rendition="#aq">Minerva</hi></orig><note xml:id="nvsv_sfv_5lb">Das Café della Minerva in Florenz (siehe Murray’s Handbook of Florence and its Environs. London 1861, S. IV).</note></seg></orgName> – am Rande hat er meine Initialien <hi rendition="#aq">F. G.</hi> Ich bin hier mit dem <seg type="comment"><orig>Corsen <hi rendition="#aq">Ventura</hi></orig><note xml:id="nmvs_tfv_5lb">Der aus Cervione im Nordosten von Korsika stammende Francesco Ventura hatte ihm kurz zuvor einen begeisterten Brief geschrieben, in dem er sich für Gregorovius’ „Corsica“ (1854) bedankte (siehe RT, 13.9.1858, S. 74), das jüngst in einer italienischen Teilübesetzung seines Freundes Paolo Perez erschienen war: „Storia dei Corsi“ (Florenz: Tip. Felice Le Monnier 1857). Mit ihm war er am 28.9.1858 in Livorno.</note></seg> in meiner <seg type="comment"><orig><hi rendition="#aq">Casa <hi rendition="#aq"><hi rendition="#aq">Corsa</hi></hi></hi></orig><note xml:id="nu2p_wfv_5lb">Im Haus der aus Korsika stammenden Witwe Signora Verico logierte Gregorovius nur eine Nacht und schiffte sich am 29. September 1859 nach Civitavecchia ein, um von dort nach Rom zurückzukehren (siehe RT, 3.10.1858, S. 75).</note></seg>, <persName key="G004699">Wittwe <hi rendition="#aq">Verico</hi></persName> Via Colonnella <hi rendition="#aq">N<ex>ume</ex>ro</hi> 6, pian<ex>o</ex> <hi rendition="#uu">3</hi>; für alle Fälle empfehle ich Ihnen diese <hi rendition="#aq">chambres garnier</hi>.</p>
+                <p>Ich habe mir hier für 6 Moneten einen Pracht Paletot gekauft, auch das bemerke ich Ihnen, u<ex>nd</ex> kann man hier seinen Leichnam für einen Spott reizend ausstatten. Glücklicher Weise konnte ich meine römischen Bankbillete hier gut verkaufen. Meine erste Handlung in <placeName key="G000763">Rom</placeName> wird sein die Absendung der 20 <hi rendition="#aq">Fancesconi</hi> an Sie, edelmütiger Freund. Und haben Sie tausend Dank für alle Liebe; hoffentlich führen wir eine regelmäßige Correspondenz ein, ich schreibe Ihnen gleich. <seg type="comment"><orig>Um 5 Uhr fahr ich ab mit dem Hermus</orig><note xml:id="ntbv_yfv_5lb">Gregorovius schiffte am Abend des 29.9.1858 auf dem Dampfer Hermus nach Civitavecchia ein. In der Meerenge von Piombino bei Elba rammte die Hermus den Dampfer Aventin, der kurz darauf sank (siehe RT, 3.10.1858, S. 75–76 und den Bericht darüber von Gregorovius in der „Allgemeinen Zeitung“ Der Untergang des französischen Dampfers ‚Aventin‘ in der Nacht vom 29 auf den 30 September. in: AZ. Nr. 285. Augsburg: Cotta 12.10.1858. S. 4601–4602). Gregorovius verarbeitete sein Erlebnis kurz darauf in einem Gedicht (Hermus. Eine Nacht auf dem Mittelmeer. In: Morgenblatt für gebildete Leser. Nr. 44. 31.10.1858).</note></seg>. Leben Sie herzlich wol!</p>
+                <closer>
+                    <signed rendition="#right"><hi rendition="#aq">FGregorovius</hi>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

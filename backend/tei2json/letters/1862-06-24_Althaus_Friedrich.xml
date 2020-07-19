@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000146">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Friedrich Althaus in London. Rom, 24. Juni
+                    1862</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>nicht überliefert</repository>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 81, Mappe 1 (nach D)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this">
+                        <bibl type="print">Friedrich Althaus: Ungedruckte Briefe von Ferdinand
+                            Gregorovius. In: Deutsche Revue über das gesamte nationale Leben der
+                            Gegenwart. Jg. 19. Bd. 2. Stuttgart [u. a.]: Deutsche Verlagsanstalt Mai
+                            1894. S. 248–250</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Seit sie sich 1853 in Rom kennengelernt haben, hat sich beider Situation insgesamt zum Guten gewendet. Seine Ablehnung einer bürgerlichen Existenz hat für die Anerkennung und Verbreitung seiner Schriften viele Nachteile. Er zweifelt nicht, dass die jährliche Zahlung der preußischen Regierung für seine „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) auch weitherin verlängert wird. Deren vierter Band wird im September 1862 ausgegeben. Die anstrengende Reise zu Friedrich Althaus nach London kann er in diesem Jahr nicht unternehmen, vielmehr will er im Juli zur Kur nach St. Moritz und danach höchstens bis München reisen. Die vielen Rombesucher im Winter strengen ihn sehr an. Den Kirchenstaat hält er für unhaltbar. Für eine politische Lösung wäre es dienlich, sich Giuseppe Garibaldis und Guiseppe Mazzinis zu bedienen, ohne ihre Macht allzu groß werden zu lassen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">Since they met in Rome in 1853, both their situations have changed for the better. His rejection of a bourgeois existence has many disadvantages for the recognition and distribution of his writings. He has no doubt that the annual payment of the Prussian government for his „Geschichte der Stadt Rom im Mittelalter“ (1859-1872) will be extended further. Its fourth volume was issued in September 1862. He cannot undertake the strenuous journey to Friedrich Althaus in London this year, but rather wants to travel to St. Moritz for his health in July and then at most as far as Munich. The many visitors to Rome in the winter are very exhausting for him. He considers the Papal States to be untenable. For a political solution, it would be helpful to make use of Giuseppe Garibaldi and Guiseppe Mazzini without letting their power grow too much. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1862-06-24" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G000920">Althaus, Friedrich (1829–1897)</persName>
+                    <placeName key="G000716">London</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="248"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Rom, 24. Juni 1862. <lb/>Via Gregoriano 13.</dateline>
+                    <salute>Lieber Freund!</salute>
+                </opener>
+                <p>Nach viel zu langer Zeit habe ich endlich wieder Nachricht von Euch erhalten. Dein Brief hat mich sehr erfreut; ich sehe daraus, daß es Dir fortdauernd wohl ergeht, wenn auch bisweilen die Naturgesetze hie und da <pb n="249"/>eine Ebbe eintreten lassen. Bei Deiner rüstigen Kraft, welcher ein liebevolles Familienleben täglich frische Lebensquellen zuführt, kann es nicht anders sein, <seg type="comment"><orig>als daß Deine Verhältnisse <hi rendition="#aq"><foreign xml:lang="ita">crescendo</foreign></hi> vorwärts gehen</orig><note xml:id="ngmj_n4q_1mb">Althaus war 1853 nach London emigriert; nach anfänglich prekären Verhältnissen als Lehrer, katalogisierte er 1856 bis 1864 für den Buckinham Palace eine Sammlung von 60000 Porträt-Stichen.</note></seg>.</p>
+                <p>Es sind nun <seg type="comment"><orig>neun Jahre, seit wir uns hier in Rom kennen lernten</orig><note xml:id="npgz_p4q_1mb">Gregorovius hatte Althaus im Frühjahr 1853 kennengelernt, als er gemeinsam mit Jacob Burckhardt (1818–1897) in den Vatikanischen Sammlungen war (siehe Friedrich Althaus. In: Vorwort zu Gregorovius: Römische Tagebücher. Stuttgart 1892. S. XVI). </note></seg>. Dieser schnell verflossene Zeitraum umschließt die wichtigsten Krisen in unserem Lebensgange; <seg type="comment"><orig>bei Dir haben sie auch praktische und glückliche Resultate herbeigeführt</orig><note xml:id="nyhx_r4q_1mb">Nach dem plötzlichen, am Ende der ersten Schwangerschaft eingetretenen Tod seiner ersten Ehefrau Anna, geb. Koppe, im Frühjahr 1856, hatte er bald darauf deren ebenfalls mit nach London gekommene Berliner Freundin Charlotte, geb. Voß, geheiratet. Mit ihr hatte er mindestens die Söhne Friedrich und Theodor (1859–1933), der 1888/1889 Elisabeth Lippschitz, die Tochter des Bonner Mathematilers Rudoph Lippschitz (1832–1903) heiratete (siehe die VK von Gregorovius an Rudolf Lipschit, 20.9.1888; Universitäts- und Landesbibliothek Bonn, NL Lipschitz, I, H 952, 2).</note></seg>, bei mir sind sie nur innerlicher Natur, doch nicht minder segensreich. Eine sogenannte bürgerliche Existenz wird mir, als etwas meinem Wesen wenigstens nicht Notwendiges, niemals mehr werden; und schon der bloße Gedanke an den täglichen Beruf eines Amtes macht mir Widerwillen. Meine äußere Lage ist im ganzen befriedigend. Das jetzige <orgName key="G000541">preußische Kultusministerium </orgName>hat mir die Subvention zur Fortsetzung der <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Geschichte der Stadt Rom</bibl> weiter bewilligt, und <seg type="comment"><orig>kaum ist daran zu zweifeln, daß es auch nach Ablauf der neuen zwei Jahre wieder geschehen wird</orig><note xml:id="nigb_w4q_1mb">Die jährliche Zahlung vom 400 Talern für die Fertigstellung seiner „Geschichte der Stadt Rom im Mittelalter“ war zunächst auf zwei Jahre begrenzt und wurde bis 1866 jährlich verlängert.</note></seg>. Ist die Summe auch nicht groß, so fördert sie mich dennoch sehr.</p>
+                <p>Der <seg type="comment"><orig>vierte Band der Geschichte der Stadt ist in der Presse und wird im September ausgegeben</orig><note xml:id="nzhz_w4q_1mb">Der vierte Band seiner „Geschichte der Stadt Rom im Mittelalter“ erschien wie geplant.</note></seg>. Dies Werk hat bisher weder im <placeName key="G000664">Vaterlande</placeName> noch im Auslande die ihm gebührende öffentliche Anerkennung gefunden. Dies erklärt sich aus meiner isoliten Lage in der Fremde, ohne alle diejenige amtliche Position, die, bei uns Deutschen, wissenschaftlichen Arbeiten erst den Erfolg sichert; ferner aus dem Mangel an Freunden, die solche Dinge in die Hand nehmen, wie aus meiner eigenen Zurückhaltung von jedem Manöver der Art. Es gibt in Deutschland literarische Journale, welche noch nie meinen Namen ausgesprochen haben, mag von mir erscheinen was da wolle. Oft sind die Gründe dafür ganz komisch und nur durch den Irrenarzt zu erklären. Wenn man in Rom lebt, so kommt man über die Eitelkeit hoch hinweg und sieht auf diese vaterländischen Misèren mit Geringschätzung nieder; sie haben indes gewisse praktische Folgen, weil sie den Gang der Bücher aufhalten, was mir empfindlich ist, da ich von ihnen lebe. <seg type="comment"><orig><persName key="G001055">Cotta</persName> ist gleichwohl mit dem Verkauf der Geschichte von Rom zufrieden und ermutigt mich sehr</orig><note xml:id="nxww_x4q_1mb">In dem Verlagsleiter Johann Georg Freiherr Cotta von Cottendorf (1796–1863) hatte Gregorovius einen persönlichen Fürsprecher.</note></seg>. Trotzdem daß dies Werk kaum eine nennenswerte Besprechung erfahren hat, <seg type="comment"><orig>sind doch bereits über 600 Exemplare abgesetzt worden</orig><note xml:id="nthr_y4q_1mb">Auf der Rückseite des Briefes von Gregorovius an Cotta vom <ref target="G000137">20.12.1861</ref> hatte der Verlag für die ersten drei Bände seiner „Geschichte der Stadt Rom im Mittelalter“ zwischen 500 und 600 verkaufte Exemplare dokumentiert.</note></seg>. <seg type="comment"><orig>In fünf Jahren wird es sich vielleicht ausverkauft haben</orig><note xml:id="nxyd_cpq_1mb">Die „zweite durchgearbeite Auflage“ seiner „Geschichte der Stadt Rom im Mittelalter“ begann 1869 – also vier Jahre vor Abschluss des Gesamtwerks.</note></seg>.</p>
+                <p>Nun, teurer Freund, darf ich kaum noch mich darüber aussprechen, daß eine Reise nach <placeName key="G000599">England</placeName> mir jetzt nicht leicht möglich ist. Sie würde zu kostspielig für mich sein, und mir wohl viel Freude und Belebung gewähren, aber mich auch gar sehr anstrengen. Meine Arbeiten haben mein Nervensystem sehr mitgenommen; ich muß irgendwo einen ruhigen Ort suchen, der mir Erholung gibt. Es ist mein Plan, <seg type="comment"><orig>um die Mitte des Juli in das <placeName key="G067579">Engadin</placeName> zu gehen und dort die Bäder von <placeName key="G000875">St. Moritz</placeName> zu gebrauchen. Weiter als bis <placeName key="G000879">Stuttgart</placeName> und <placeName key="G000734">München</placeName> würde ich meine Reise nicht ausdehnen</orig><note xml:id="ncg1_dpq_1mb">Gregorovius reiste am 21. Juli 1862 über Mailand für drei Wochen nach St. Moritz (vom 30.7–20.8.), dann über Zürich, Heiden im Appenzell und Ragaz über Augsburg nach München, wo er sich vom 2.-13.9.1863 aufhielt (siehe RT, 24.7.-15.9.1862, S. 148–153).</note></seg>. Ich verzichte ungern auf die Freude, Dich wieder zu sehen und die Deinigen persönlich kennenzulernen.</p>
+                <p>Der Winter war gut und schön, auch durch manche treffliche Menschen belebt. Ich habe einen beständigen kleinen Gesellschaftskreis, der manche an-<pb n="250"/>genehme Stunde darbietet; das Auf- und Abfluten des Menschenschwarms im römischen Winter hat aber viel Beunruhigendes und ich kann mich nicht mehr dieser Fatalität entziehen.</p>
+                <p>Hier in Rom ist man am fünften Akt des Dramas vom <seg type="comment"><orgName key="ed_onw_cld_rlb"><orig><foreign xml:lang="Lat">Dominium Temporale</foreign></orig></orgName><note xml:id="njjb_fpq_1mb">Lat.: vorübergehendes Besitztum - der weltliche Herrschaft des Papstes.</note></seg>. Die Kirche hat ihr letztes Mittel ausgegeben, <seg type="comment"><orig>die 28 Luftballons sind gen Himmel geschickt</orig><note xml:id="nozc_gpq_1mb">Zu Pfingsten, am 8. Juni 1862 waren nur 26 japanische Märtyrer von Pius IX. (1792–1878) heilig gesprochen und am 14. September 1627 von Papst Urban VIII. (1568–1644) selig gesprochen worden. Die christlichen Missionare von Nagasaki waren am 5. Februar 1597 öffentlich gekreuzigt worden. Gregorovius dokumentiert in seinem Tagebuch die aufwendigen Zurüstungen der Feierlichkeiten, zu denen 400 Bischhöfe anreisten (12.5.-10.6.1862, S. 145–147).</note></seg>. Die Klerisei hat ihr Verdikt ausgesprochen, alle Brücken sind abgebrochen für die Diplomatie, und so wird es darauf ankommen, ob man zur Gewalt schreiten darf oder nicht. Die Zivilgewalt des Papstes ist indes unhaltbar, und dies Priesterreich im Prinzip schon wirklich tot. Nur der gerichtliche Akt der Ausstellung des Totenscheins macht noch Schwierigkeit. Die elenden Zustände hier könnten sich vielleicht noch zwei Jahre hinschleppen. <seg type="comment"><orig>Wenn die italienische Regierung die Kraft besitzt, <persName key="G001160">Garibaldi</persName> und <persName key="G067662">Mazzini</persName> nur auszubeuten, ohne sie sich über den Kopf wachsen zu lassen</orig><note xml:id="ne3s_mpq_1mb">Im Mai 1860 war eine in Sardinien aufgestellte Freischar unter der Führung von Giuseppe Garibaldi (1807–1882) zuerst auf Sizilien gelandet und nach dessen „Befreiung“ im Oktober 1860 in Neapel einmarschiert, so dass das Bourbonen-Regime kollabierte. Durch ein kurz darauf mit Vittorio Emanuele (1820–1878) in Teano bei Neapel stattgefundenes Treffen wurde sein Einmarsch in Rom verhindert und Garibaldi als General beurlaubt – seine Freischar wurde aufgelöst. Fortdauerndes Konfliktpotenzial blieb der Schutz des Kirchenstaates durch die Truppen Napoléons III. Für ein geeintes Italien mit Rom als dessen natürliche Hauptstadt traten Nationalisten wie Garibaldi und Giuseppe Mazzini (1805–1872) ein, weil sie die Anwesenheit der Franzosen als Okkupation sahen. Eine gefähliche Situation, die das vor dem zweiten Unabhängingkeitskrieg 1858 geschlossene Bündnis zwischen Sardinien-Piemont und Frankreich gefährdete. Hierüber hatte Gregorovius bereits im Mai 1862 im Tagebuch geschrieben: „Die Garibaldischen Freischaren beabsichtigen einen Einfall in Welsch-Tirol; die Regierung ließ viele verhaften, darunter den Oberst Cattabeni und den Colonel Nullo, den sie aus Garibaldis eigner Wohnung in Trescone abholen ließ. Die Mazzinisten suchten die in Brescia Eingesperrten zu befreien; das Militär gab auf das Volk Feuer; einige fielen. In Folge dessen droht zwischen der Regierung und der mazzinistisch-garibaldischen Fraktion ein Krieg auszubrechen.“ (25.5.1862, S. 146).</note></seg>, so kann man das Beste hoffen. Unleugbare große Fortschritte sind geschehen. Auch scheint Organisirung der Nationalarmee Fortgang zu haben.</p>
+                <closer>
+                    <salute xml:id="s1" next="#s2">Das Papier ist zu Ende. Herzlichen Gruß an <persName key="G004734">Frau</persName> und Kinder. Es gehe Euch zum Schönsten! Schreibe bald wieder.</salute>
+                    <salute xml:id="s2" prev="#s1" rendition="#c">Dein</salute>
+                    <signed rendition="#right">F. Gregorovius.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

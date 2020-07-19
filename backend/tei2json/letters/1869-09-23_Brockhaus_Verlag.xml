@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000304">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Verlag F. A. Brockhaus in Leipzig. München, 23. September 1869</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Sächsisches Staatsarchiv Leipzig</repository><collection>Bestand 21083</collection><idno>Archivalnummer 224 (93)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 1 ¾ S.– 2v alR, Bl. um 90° gedreht, Eingangs- und Beantwortungsvermerk: 1869. / München, 23./24. September. / Gregorovius. / B. 2/X.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er ist am 5. Oktober zurück in Rom, wohin er die Aushängebogen der im Druck befindlichen zweiten Auflage seiner „Lateinischen Sommer“ (1870) erbittet. Sollten 750 Exemplare seiner „Grabmäler der römischen Päpste“ (1857) bereits verkauft sein, würde im an einer revidierten Auflage (1881) liegen. Er wünscht Informationen über die geplante Edition einer illustrierten Ausgabe seines „Euphorion“ (1872). Für die dritte Auflage seiner „Wanderjahre in Italien“ würde er sich bei gleichem Ladenpreis die Verwendung besseren Papiers wünschen. Er bedauert, Heinrich Brockhaus in der Schweiz nicht begegnet zu sein.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1869-09-23" cert="high"/>
+</correspAction>
+                <correspAction type="received"><orgName key="G000480">F. A. Brockhaus Verlag</orgName>
+<placeName key="G000712">Leipzig</placeName>
+</correspAction>
+<correspContext>
+<ref type="next">2. Oktober 1869</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c">München, 23. <hi rendition="#aq">Sept<ex>em</ex>b<ex>e</ex>r</hi> 69.</dateline>
+<salute>Sehr geehrte Herren,</salute>
+</opener>
+<p>wollen Sie die Güte haben, mir nach <placeName key="G000763">Rom</placeName>, wo ich um den 5. Oct<ex>o</ex>b<ex>e</ex>r eintreffe, die <seg type="comment"><orig>Aushängebogen der <bibl sameAs="G003191">„Lateinischen Ufer“</bibl></orig><note xml:id="nwyp_xrj_jlb">Der 1864 unter dem Titel „Lateinische Sommer“ erschienene Band kam 1870 in zweiter Auflage als Band 2 unter dem Reihentitel „Wanderjahre in Italien“ heraus.</note></seg> zu senden, wenn solche fertig geworden sind. <seg type="comment"><orig>Auf Grund der Postverträge zwischen dem <orgName key="ed_onw_cld_rlb">päpstl<ex>ichen</ex> Staat</orgName> u<ex>nd</ex> dem norddeutsch<ex>en</ex> Bunde kann man jetzt ohne weiteres Sendungen von Drucksachen unter Kreuzband machen</orig><note xml:id="nxfr_dsj_jlb">In der am 22. Juni 1869 als „Postvertrag zwischen dem Norddeutschen Bunde einerseits und dem Kirchenstaate andererseits“ im „Bundesgesetzblatt des Norddeutschen Bundes“ (Nr. 20, S. 169–191) bekannt gemachten Regelung. Hier heißt es in Art. 7: „Ebenso soll auf die aus dem Norddeutschen Gebiete nach dem Kirchenstaate versandten abonnirten Journale, Zeitungen und Zeitschriften für die Beförderungsstrecke des Kirchenstaates nur die dortige interne Kreuzbandtaxe Anwendung finden.“ (siehe https://de.wikisource.org/wiki/Postvertrag_zwischen_dem_Norddeutschen_Bunde_einerseits_und_dem_Kirchenstaate_andererseits).</note></seg>.</p>
+<p>Ich wünsche ferner durch Sie ermächtigt zu sein, das Honorar von 150 Thalern<note place="left" hand="#addressee"><hi rendition="#sup">+</hi>Honorar für Neudruck der „Lateinischen Ufer“</note> in einem Wechsel auf Ihr Haus durch <?oxy_comment_start author="Angela Steinsiek" timestamp="20200415T172826+0200" comment="Unter dem Firmennamen Schmitt, Nast und Co wurde die von dem Bankier und Kaufmann Karl von Kolb (1800–1868) gegründete Bank in Rom von Adolf Nast (1839–1921) und dessen Onkel Franz Joseph Schmitt (1809–1888) weitergeführt; später traten auch dessen Neffen Benedetto (Benedikt) Schmitt (†1887) und Franz Joseph Hassemer (1840–1909) ein."?>die <orgName key="G000542">Bank Nast u<ex>nd</ex> Schmidt</orgName> in <placeName key="G000763">Rom</placeName> <?oxy_comment_end?>zu ziehen.</p>
+<p>Endlich bitte ich mir anzugeben, <seg type="comment"><orig>ob der Verkauf der <bibl sameAs="G003430">„Papstgrabmäler“</bibl> die Summe von 750 Exemplaren schon überschritten hat. Eine Revision dieser kleinen Schrift liegt mir noch am Herzen</orig><note xml:id="nrqc_jsj_jlb">Die Grabmäler der Römischen Päpste. Historische Studie von Ferdinand Gregorovius. Leipzig: Brockhaus 1857 – die Neuauflage erschien erst 1881 unter dem Titel „Die Grabdenkmäler der Päpste. Marksteine der Geschichte des Papsttums“ als zweite neu umgearbeitete Auflage (Leipzig: Brockhaus 1881).</note></seg>, u<ex>nd</ex> ich hoffe dazu zu gelangen, um sie meinen übrigen Schriften conform zu machen.</p>
+<p>Vielleicht können Sie mir auch <pb n="1v"/>etwas über die <seg type="comment"><orig>projectirte <bibl sameAs="G003580">illustrirte Ausgabe von „Euphorion“</bibl></orig><note xml:id="ntbg_nsj_jlb">Den Vorschlag einer illustrierten Edition seines Versgedichts „Euphorion“ (1858) hatte Gregorovius Eduard Brockhaus bereits am 23.8.1865 unterbreitet (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 86). Sie erschien erst 1872: Euphorion. Eine Dichtung aus Pompeji in vier Gesängen. Illustrierte Prachtausgabe mit Original-Compositionen von Theodor Grosse. Leipzig: Brockhaus 1872.</note></seg> mitteilen. </p>
+<p>Ich nehme an, d<ex>a</ex>ß Sie <seg type="comment"><orig>mit der <bibl sameAs="G003130">3. Auflage der „Wanderjahre in Italien“</bibl> im kommenden Jahre</orig><note xml:id="nnft_rtj_jlb">1870 erschien die dritte Auflage seiner „Figuren. Geschichte, Leben und Scenerie aus Italien“, seit der zweiten Auflage (1864) der erste Band seiner „Wanderjahre in Italien“.</note></seg>, vielleicht zu Ostern, den Anfang machen; in diesem Falle wäre es mein Wunsch, daß Sie diese Ausgabe mit etwas besserem, weißerem Papier auszeichnen möchten. Doch werde ich von diesem Wunsche sofort Abstand nehmen, wenn dies die Erhöhung des Preises dieser Bände zur Folge haben möchte.</p>
+<p>Ich habe es sehr bedauert, d<ex>a</ex>ß ich Herrn <persName key="G000996">Heinrich Brockhaus</persName> <seg type="comment"><orig>in der <placeName key="G000870">Schweiz</placeName> </orig><note xml:id="ng2g_tsj_jlb">Nach seit dem Frühjahr andauernden Fieberschüben war Gregorovius Anfang Juli zur Erholung nach Zürich gereist (siehe RT, 26.7.–21.8.1869, S. 259–262).</note></seg>nicht begegnet bin. Demselben wie Ihnen empfiehlt sich</p>
+<closer>
+<salute rendition="#c">hochachtungsvoll ergeben</salute>
+<signed rendition="#c"><hi rendition="#aq">FGregorovius</hi></signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

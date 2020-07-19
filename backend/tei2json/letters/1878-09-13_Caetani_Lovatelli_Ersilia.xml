@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_lnd_dtw_jlb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Contessa Ersilia Caetani Lovatelli in Castellamare di Stabia. München, 13. September 1878</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="restricted"><licence target="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International (CC BY 4.0) </licence></availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno>Karton 59, Mappe 348 (nach D)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"><bibl type="print">Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli. Hrsg. von Sigmund Münz. Berlin: Paetel 1896. S. 91–92 (gekürzt) </bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de"> Über die Gräfin als Wissenschaftlerin sowie ihre Ehrenmitgliedschaft beim Deutschen Archäologischen Institut Rom und den Tod Aleardo Aleardis.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1878-09-13" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001011">Caetani Lovatelli, Ersilia contessa (1840-1925)</persName>
+<placeName key="G000656">Castellammare di Stabia</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="91"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">München, 13. September 1878.</dateline>
+</opener>
+<p><gap reason="lost" unit="chars" quantity="1"/>Ich nehme an, daß Sie sich noch immer an dem gewohnten Strande von <seg type="comment"><orig>Castellamare</orig><note xml:id="nd4b_nrj_1mb">Die Sommerzeit verbrachte die Familie der Gräfin häufig in der Hafenstadt am Golf von Neapel; siehe den Brief von Gregorovius an Ersilia Caetani Lovatelli vom 26.8.1875.</note></seg> unterhalten, und dort stelle ich mir Sie vor, wie Sie vor einem großen Tische sitzen, der ganz voll von Papieren, Kartons und dicken Bänden ist, und wie Sie die Stirne nachdenklich auf die linke Hand stützen, während sich Ihr Auge in eine römische, wenn nicht gar ostische Inschrift vertieft, – ein so schreckliches Problem, daß kaum der Geist der <seg type="comment"><orig>Sphinx</orig><note xml:id="njbz_nrj_1mb">Ägyptische Statue in Form eines Löwens mit Menschenkopf. Die Legende besagt, dass die Sphinx Vorbeikommende, die ein von ihr gestellte Rätsel nicht lösen konnten, erwürgte.</note></seg> genügen würde, es zu lösen. Aber Sie werden es unfehlbar gewinnen und dann trium<pb n="92"/>phirend den<seg type="comment"><orig> <foreign xml:lang="Lat"><foreign xml:lang="Lat">Clivus</foreign></foreign></orig><note xml:id="njkv_4rj_1mb">Lat. für: Abhang, Hügel.</note></seg> <seg type="comment"><orig><orgName key="G067532">Henzenianus</orgName></orig><note xml:id="ngjt_prj_1mb">Anspielung auf das Deutsche Archäologische Institut auf dem Kapitol, dessen erster Sekretär seit 1856 Wilhelm Henzen (1816–1887) war. </note></seg> emporklimmen, wo der <persName key="G001263">Papst der Archäologie</persName> Sie erwartet, <seg type="comment"><orig>um Ihnen das Haupt mit heiligem Lorbeer zu umkränzen</orig><note xml:id="npkw_qrj_1mb">1864 war die Gräfin auf Initiative von Henzen, Theodor Mommsen (1808–1903) und Eduard Gerhard (1795–1867) zum Ehrenmitglied des Deutschen Archäologischen Instituts ernannt worden.</note></seg>, wobei das <placeName key="G000761">Kapitol</placeName> von dem frenetischen Applaus <placeName key="G000763">Roms</placeName> erdröhnt.</p>
+<p>Sie werden indessen im Verein mit so vielen anderen Frauen <seg type="comment"><orig>den Tod <persName key="G000912">Aliardis</persName></orig><note xml:id="np1x_rrj_1mb">Der Dichter war am 17. Juli in seiner Heimatstadt Verona verstorben; siehe dazu den Brief von Gregorovius an Giovanni Gozzadini vom 1.9.1878.</note></seg> beklagt haben. Die Wahrheit zu sagen, er war der moderne Dichter, den ich am wenigsten kannte, wiewohl ich durch so viele Jahre in <placeName key="G000690">Italien</placeName> gelebt habe. Jetzt bereue ich es auch um der <persName key="G001187"><persName key="G001092">Gozzadinis</persName></persName> willen, die mit ihm so intim waren.<gap reason="lost" unit="chars" quantity="1"/></p>
+</div>
+        </body>
+    </text>
+</TEI>

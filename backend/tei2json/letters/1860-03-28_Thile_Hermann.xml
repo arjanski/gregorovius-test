@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000086">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Hermann von Thile in Berlin. Rom, 28. März
+                    1860</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>96/937 (11) </idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¾ S. – 2v, Blatt um 90° gedreht, Adr.: <hi rendition="#aq"><hi rendition="#u" hand="">Germania</hi> franca <hi rendition="#u" hand="">frontiera</hi></hi> / Sr. Excellenz / Freiherrn <hi rendition="#aq">H. von Thile</hi> / Königl […] Legations-Rath / 3. <hi rendition="#aq">WilhelmsPlatz</hi> / <hi rendition="#aq"><hi rendition="#u" hand="">Berlin</hi></hi> – Postvermerke, Poststempel</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 346 (nach D) und Karton
+                                        59, Mappe 346 (Ergänzungen nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 23–25 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Nach einem Gespräch Karl von Bunsen, fürchtet er, dass dessen Vater Christian Karl Josias Freiherr von Bunsen eigenmächtig an den Kultusminister Moritz August von Bethmann Hollweg geschrieben hat, um für ihn eine finanzielle Unterstützung der preußischen Regierung für seine „Geschichte der Stadt Rom im Mittelalter“ zu erwirken. Er möchte allein Thile verpflichtet sein, der in gleicher Sache für ihn in Verhandlung steht. Nicht einmal Alfred von Reumont hat er von den Bemühungen Thiles erzählt. Die Chancen für eine Unterstützung scheinen ihm indes mäßig, weil derzeit eher für militätische Zwecke große Summen ausgegeben werden. Der von Thile empfohlene Jüngling hat ihn aufgesucht. Clemens August Alertz verkauft seinen Besitz. Er möchte wissen, ob und wann die Thiles in diesem Jahr in die Schweiz reisen werden.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">After a conversation with Karl von Bunsen, he fears that his father, Christian Karl Josias Freiherr von Bunsen, has autonomously written to the Minister of Culture, Moritz August von Bethmann Hollweg, to obtain financial support from the Prussian government for his „Geschichte der Stadt Rom im Mittelalter“. He wishes to be indebted solely to Thile, who is negotiating on his behalf in the same matter. He did not even tell Alfred von Reumont about Thile’s efforts. However, he deems the chances of support to be slim, as large sums are currently being spent for military purposes. The young man recommended by Thile visited him. Clemens August Alertz is selling his property. He wants to know if and when the Thiles will travel to Switzerland this year. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1860-03-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001644">Thile, Hermann von (1812–1889)</persName>
+                    <placeName key="G000636">Berlin</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+                    <salute rendition="#c">Mein hochverehrter Herr von Thile,</salute>
+                </opener>
+                <p>Sie werden sich wundern, daß ich mit einem Briefe komme, ohne erst durch eine Antwort auf <seg type="comment"><orig>mein letztes Schreiben vom 12. Januar</orig><note xml:id="nolv_frr_ylb">Gemeint ist der Brief von Gregorovius an Thile vom <ref target="G000093">11.1.1860</ref>.</note></seg> dazu gleichsam ermächtigt zu sein. Aber seit gestern scheint es mir nötig, einem immerhin möglichen Verdachte bei Ihnen zu begegnen.</p>
+                <p>Gestern kam nämlich <seg type="comment"><orig><persName key="G067681">Herr Bunsen</persName>, LegationsSecretär in <placeName key="G000893">Turin</placeName></orig><note xml:id="nojb_fcs_ylb">Der dritte Sohn von Christian Karl Josias (seit 1858) Freiherr von Bunsen (1791–1860), Karl von Bunsen (1821–1887), war preußischer Legationssekretär in Turin; er hielt sich vom 19. März bis zum 17. April 1860 in Rom auf.</note></seg> u<ex>nd</ex> jetzt Gast in Rom, zu mir, u<ex>nd</ex> ich entnahm aus seinen Äußerungen, daß <seg type="comment"><orig>sein <persName key="G001001">Vater</persName></orig><note xml:id="nxcm_hcs_ylb">Der frühere preußische Gesandte am Heiligen Stuhl, Christian Karl Josias Freiherr von Bunsen, war seit 1841 preußischer Gesandter in London.</note></seg> privatim an <seg type="comment"><orig>den <persName key="G000967">Cultusminister</persName></orig><note xml:id="ngcx_3cs_ylb">Preußischer Kultusminister war seit November 1858 (bis 1862) Moritz August von Bethmann Hollweg (1795–1877); der Brief von Bunsen an Bethmann Hollweg ist nicht nachweisbar.</note></seg> geschrieben habe, um ihn <seg type="comment"><orig>zu Gunsten meines <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Werks</bibl> zu interessiren</orig><note xml:id="nw13_lcs_ylb">Gregorovius hatte Christian Karl Josias von Bunsen 1859 die beiden bereits erschienen Bände seiner „Geschichte der Stadt Rom im Mittelalter“ (1859) zugesandt, wofür sich dieser in seinem Brief an Gregorovius vom 19. Dezember 1859 bedankte (BSB München, NL Gregorovius Gregoroviusiana 21).</note></seg>. Mir war dies ein <hi rendition="#aq"><hi rendition="#aq">novum</hi></hi>; denn ich habe solche Vermittelung, wenn sie so zu nennen ist, nicht veranlaßt. <seg type="comment"><orig>Herr v<ex>on</ex> Bunsen schrieb mir vor einigen Monaten u<ex>nd</ex> fragte mich an, ob ich Herrn v<ex>on</ex> <hi rendition="#aq">Bethm<ex>ann</ex> H<ex>ollweg</ex></hi> mein Buch zugeschickt</orig><note xml:id="nqpk_ncs_ylb">Ende 1859 hatte Gregorovius in sein Tagebuch notiert: „Ich trat in Briefwechsel mit Bunsen.“ (RT, 31.12.1859, S. 92) Josias von Bunsen hatte sich in seinem Brief vom 19. Dezember 1859 an Gregorovius für die Übersendung der Bände seiner „Geschichte der Stadt Rom im Mittelalter“ (1859) bedankt, und ihn ermuntert, seinen literarischen Weg auch gegen die Widerstände der akademischen Geschichtsschreibung weiterzuverfolgen. Weiter hatte er ihm geraten, sein Werk um 1500 enden zu lassen, und sobald als möglich nach Berlin überzusiedeln, wo es genügend Quellen gäbe, er sich der Unterstützung der preußischen Regierung gewiss sein könne und sich habilitieren könne (BSB München, NL Gregorovius Gregoroviusiana 21). </note></seg>; ich antwortete ihm, daß ich dies nicht gethan habe, noch thun werde, um den Glauben einer interessirten Nebenabsicht zu vermeiden, u<ex>nd</ex> daß ich das <seg type="comment"><orig>Wolwollen eines hochgestellten Mannes in Berlin besäße, der am betreffenden Orte meiner Unternehmung wegen Schritte thue</orig><note xml:id="nv3h_qcs_ylb">Thile bemühte sich seit 1859 über den preußischen Kultusminister Moritz August von Bethmann Hollweg (1795–1877) bei Alexander von Humboldt (1768–1859), dem Präsidenten der Kommission zur Prüfung der Unterstützungsgesuche von Gelehrten und Künstlern, um ein Stipendium der preußischen Regierung für Gregorovius, das diesem ab Herbst 1860 für die Fertigstellung seiner „Geschichte der Stadt Rom im Mittelalter“ zugesprochen und bis 1866 jährlich verlängert wurde.</note></seg>. Ich habe mir nicht erlaubt Sie verehrter Herr, mit Namen zu nennen.</p>
+                <p>Nachdem nun der junge Bunsen mir jene Mitteilung machte, stieg in mir der Gedanke auf, Sie könnten, im Falle daß Ihnen der Cultusminister mitteile, wie Herr v<ex>on</ex> Bunsen an ihn meinetwillen geschrieben, vermuten, <pb n="1v"/>ich hätte irgend welchen Schritt dort veranlaßt. Ich eile daher, dieser Vermutung zu begegnen, indem ich erkläre, daß ich an der Anfrage Herrn v<ex>on</ex> Bunsens beim Minister völlig unbeteiligt bin. Ich habe nie u<ex>nd</ex> mit keiner Silbe an irgend eine Person außer Ihnen mich gewendet, was Herr v<ex>on</ex> Bunsen bestätigen kann; nicht einmal <seg type="comment"><orig>mit <persName key="G001545">Herrn v<ex>on</ex> <hi rendition="#aq">Reumont</hi></persName> habe ich ein Wort davon gesprochen, als er hier war</orig><note xml:id="nfg1_tcs_ylb">Der eng mit Thile befreundete Alfred von Reumont hatte den erkrankten Friedrich Wilhelm IV. (1795–1861) nach Rom begleitet, der vom 23. Dezember 1858 bis zum 2. Mai 1859 im Palast Caffarelli wohnte (siehe Brief von <ref target="G000048">Gregorovius an Reumont, 8.11.1857</ref>).</note></seg>. Ich habe mit dankbarem Vertrauen diese für mich wichtige Sache in Ihren Händen gesehen; ich wünsche sehnlich, keinem andern Manne verpflichtet zu sein, als Ihnen, dem ich schon so tief verpflichtet bin. Dies zu sagen, zwingt mich das innere Gefühl, u<ex>nd</ex> der tiefe Eindruck Ihrer wahrhaften Menschlichkeit, wie ich sie hier erfahren habe. Ja sehnlich wünsche ich, daß diese Angelegenheit nur in Ihren Händen bliebe; u<ex>nd</ex> deshalb eile ich Ihnen zu schreiben, wie unangenehm mich die Mitteilung von Herrn v<ex>on</ex> Bunsen berührt hat, den ich nicht kenne, u<ex>nd</ex> von dem ich nicht weiß, aus welcher Natur diese Teilnahme fließt. <seg type="comment"><orig>Er hat, so glaube ich, kaum mein Buch gelesen</orig><note xml:id="nvdg_vcs_ylb">Gregorovius hatte Bunsen die ersten beiden Bände seiner „Geschichte der Stadt Rom im Mittelalter“ (1859) zugesandt.</note></seg>, u<ex>nd</ex> <seg type="comment"><orig>hinter seinem Interesse scheint eine <seg type="comment"><orig>Fama</orig><note xml:id="nylr_wcs_ylb">In der römischen Mythologie die Gottheit des Ruhmes wie auch des Gerüchts.</note></seg> zu stehn</orig><note xml:id="nlmt_xcs_ylb">Nach dem Tagebucheintrag von Gregorovius hatte auch die Befürwortung Christian Karl Josias von Bunsen Anteil an der Bewilligung seiner jährlichen Unterstützung von der preußischen Regierung, dessen Zusage Ende Juni 1860 eintraf: „In diesen Tagen schrieb mir Baron von Thile, daß die preußische Regierung mir jährlich 400 Taler Subvention geben will zur Geschichte von Rom. Mitgewirkt hat dazu Bunsen.“ (RT, 23.6.1860, S. 103).</note></seg>.</p>
+                <p>Nachdem ich nun davon Ihnen mitgeteilt habe, kann ich doch nicht den Seufzer unterdrücken, daß wir noch immer in so halbbarbarischen Zuständen der Gesellschaft leben, wo das Bemühen des Einzelnen um ein edles Ziel wol bei einzelnen hochherzigen Männern Aufmunterung und Pflege findet, aber dem Staat gegenüber rechtlos u<ex>nd</ex> schutzlos u<ex>nd</ex> als ein Zufälliges dem Zufall überlaßen bleibt, während für den Schein u<ex>nd</ex> so vieles andere, was ich nicht bezeichnen will, <hi rendition="#aq">Millionen</hi> mit einem Strich <pb n="2r"/>dahingeworfen werden. Ja, <seg type="comment"><orig>ich seufze unwillig mit <persName key="G067682">Cassiodor</persName></orig><note xml:id="nf3k_1ds_ylb">Der römische Staatsmann, Gelehrte und Schriftsteller Cassiodor (485–585). Vgl. die Schilderung von Gregorovius in seiner „Geschichte der Stadt Rom im Mittelalter“: „Wenn die besalbten Ringkämpfer, so sagt er [Cassidor in seinen „Variae“], oder die Orgelspieler oder die Sängerinnen Ansprüche auf die Freigebigkeit der Konsuln haben, um wieviel mehr verdient sie nicht der Venator [=Gladiator], der sein Leben für den Beifall der Zuschauer dahingibt. Mit seinem Blut unterhält er die Lust, und er bemüht sich, mit seinem unheilvollen Geschick das Volk zu ergötzen, welches sein Entrinnen nicht wünscht. […] Wehe um die beklagenswerte Verblendung der Welt! Wenn es irgend Einsicht in das Recht gäbe, so würden ebensoviel Reichtümer zugunsten des Lebens der Menschen verwendet werden müssen, als man jetzt sie zu töten vergeudet! – ein edler Seufzer, welchen auch noch heute jeder Minister militärischer Staaten von nur einigem wohlwollenden Verstande dem Cassiodor nachzusprechen gezwungen ist.“ Und in der Fußnote hierzu heißt es: „Nachdem Europa durch den letzten Krieg in der Krim beschämt worden ist, haben die Statistiker Muße zu berechnen, daß mit den Summen, die dort zu Gunsten kunstgerechtester Vernichtung von Menschen und Städten aufgewendet worden sind, die öffentliche Armut in England und Frankreich hätte getilgt werden können“ (Bd. 1, 1859, S. 290). Diese 1859 durch den Ausbruch des sardinischen Kriegs bereits überholte Anmerkung wurde in der Fußnote der 2. Auflage von 1869 getilgt.</note></seg>, u<ex>nd</ex> ich fühle die <seg type="comment"><orig>Kraft zur Arbeit in mir nicht wenig gelähmt</orig><note xml:id="nwrk_dds_ylb">Tatsächlich hatte Gregorovius Ende Februar 1860 die zweite Hälfte seines Manuskripts vom 3. Band seiner „Geschichte der Stadt Rom im Mittelalter“ an den Verlag gesandt und am 1. März mit dem Manuskripts des 4. Bandes begonnen (siehe RT, 8.3.1860, S. 94), der 1862 erschien.</note></seg>.</p>
+                <p>Ich habe mit großer Freude die lieben Zeilen Ihrer Hand auf einer Karte erhalten, womit sich ein <seg type="comment"><orig>assessorischer Jüngling Berlins</orig><note xml:id="nq5m_fds_ylb">Nicht ermittelt.</note></seg> <del rendition="#s">sich</del> hier vorstellte.</p>
+                <p><seg type="comment"><orig><persName key="G000913"><hi rendition="#aq">Dr. Alertz</hi></persName> trägt mir viele Empfehlungen auf u<ex>nd</ex> daß er nächstens schreiben werde. Er ist jetzt in einer Verkaufs-Wut</orig><note xml:id="nrtp_gds_ylb">Siehe auch den Brief von Gregorovius an Thile, 30.4.1860 (Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 25–27).</note></seg>, da er alle seine Besitzungen an den Mann zu bringen eilt, und sich <seg type="comment"><orig><hi rendition="#aq"><foreign xml:lang="Lat">sub hasta</foreign></hi></orig><note xml:id="njcw_hds_ylb">Lat.: unter Zwangsversteigerung. – Der Ort für die Abwicklung bürgerlicher Geschäfte wurde bei den Römern als Aufstellen einer Hasta bezeichnet.</note></seg> gestellt hat.</p>
+                <p>Mit der Bitte, mich <persName key="G001645">Frau v<ex>on</ex> Thile</persName> vielmals empfehlen zu wollen, mit den wärmsten Wünschen für <persName key="G001643">Hänschen</persName>, u<ex>nd</ex> mit der Hoffnung, daß Sie diesen flüchtigen Brief entschuldigen, mich aber, deßen einzige Tugend vielleicht die Ehrlichkeit ist, nicht bezweifeln, empfehle ich mich Ihnen, mein hochverehrter Herr, u<ex>nd</ex> wünsche Ihnen allen schöne erquickende Frühlingstage; denn diese werden nun hoffentlich auch über Berlin aufgegangen sein. Ob Sie wol wieder <seg type="comment"><orig>nach der <placeName key="G000870">Schweiz</placeName> gehen werden, u<ex>nd</ex> in welchem Monat</orig><note xml:id="nnsy_jds_ylb">Am 27. Juni 1860 reiste Gregorovius von Rom über Florenz und Genua ins schweizerische Heiden, wo er am 14. Juli mit der Familie Thile zusammentraf und bis zum 23. Juli blieb (siehe RT, 18.-25.7.1860, S. 105–106).</note></seg>?</p>
+                <closer> In wahrhafter Ergebenheit <salute xml:id="s2" prev="#s1" rendition="#c">Ihr römischer Schutzbefohlener</salute> <signed rendition="#right">FGregorovius. <lb/></signed> <dateline><hi rendition="#aq">Rom</hi> 28 <hi rendition="#aq">März</hi> 1860</dateline> </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

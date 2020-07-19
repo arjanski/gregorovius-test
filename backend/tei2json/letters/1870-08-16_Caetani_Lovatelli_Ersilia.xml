@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000449">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Contessa Ersilia Caetani Lovatelli in Rom. München, 16. August 1870</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno>Karton 59, Mappe 348 (nach D2)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Sigmund Münz: ‚Einige Briefe von Ferdinand Gregorovius‘ in: Neue Freie Presse. Morgenblatt. Nr. 11092. Wien: Österreichisches Journal 13.7.1895. S. 3 (gekürzt)</bibl> </witness>
+<witness select="#this"> <bibl type="print">Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli. Hrsg. von Sigmund Münz. Berlin: Paetel 1896. S. 65–67 (gekürzt) </bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Über die jüngsten Entwicklungen im Deutsch-Französischen Krieg, dessen Auswirkungen er in München unmittelbar erlebt. Nach den ersten deutschen Siegen herrscht hier euphorische Stimmung. Französische Gefangene werden durch die Straßen getrieben. Sein Bruder Julius kämpft unter Karl Friedrich von Steinmetz vor Metz. Er kann sich schwer auf die Arbeit am achten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1872) konzentrieren. Er erwägt, mit Wolfgang Erhardt nach Frankreich zu reisen, um beim Transport von Verwundeten in die Krankenhäuser zu helfen.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1870-08-16" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001011">Caetani Lovatelli, Ersilia (1840–1925)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="65"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c">München, <placeName key="ediarum_qgl_sns_ylb"><seg type="comment"><orig>Gluckstraße</orig><note xml:id="ncjg_vns_ylb">Irrtürmlich für: Glückstraße.</note></seg></placeName> N<ex>umme</ex>r 1b/3, 16. August 1870.</dateline>
+</opener>
+<p>Kaum angekommen in dieser Stadt, <seg type="comment"><orig>es ist nun ein Monat</orig><note xml:id="nf4h_xns_ylb">Gregorovius war, nach Stationen in Arezzo, Florenz, Modena, Verona und Innsbruck am 13. Juli in München angekommen (siehe RT, S. 285).</note></seg>, fand ich mich in den Strudel <seg type="comment"><orig>dieses Krieges</orig><note xml:id="natl_yns_ylb">Der Deutsch-Französische Krieg zwischen Frankreich und Preußen, das den Norddeutschen Bund anführte, samt seinen Verbündeten, den süddeutschen Staaten Bayern, Württemberg, Baden und Hessen-Darmstadt.</note></seg> verwickelt oder, besser gesagt, auf der hohen See eines nationalen <pb n="66"/>Enthusiasmus, den ich nicht beschreiben kann. In der Tat, man müßte eigentlich <seg type="comment"><orig>zu dem Jahre 1813</orig><note xml:id="nmvj_14s_ylb">Völkerschlacht bei Leipzig im Oktober 1813, bei der die französische Armee unter Kaiser Napoleon Bonaparte (1769–1828) erstmals geschlagen wurde und sich über den Rhein zurückziehen musste.</note></seg> zurückgreifen, wenn nicht gar zu jenen entlegenen Tagen, <seg type="comment"><orig>als sich die Griechen, von der persischen Invasion bedroht, erhoben, um das<placeName key="G000683"> Vaterland</placeName> zu verteidigen und den gemeinsamen Feind zurückzuweisen</orig><note xml:id="nhsz_c4s_ylb">Zur Zeit der sog. Perserkriege besiegten die verbündeten Griechen den persischen Großkönig bei Salamis. Ein Jahr später, im Sommer 479 v. Chr., fuhren die Griechen Siege in der Schlacht bei Plataiai in Böotien gegen das persische Landheer und ungefähr zeitgleich in der Schlacht von Mykale gegen die persische Flotte ein. Mit diesen Siegen endeten die persischen Versuche, Griechenland ihrem Reich einzugliedern. </note></seg>. Nach der <seg type="comment"><orig>Kriegserklärung</orig><note xml:id="nymd_24s_ylb">Am 19. Juli 1870 hatte Kaiser Napoléon III. (1808–1873) Preußen den Krieg erklärt.</note></seg> befanden wir uns in Süddeutschland in einer sehr gefährlichen Lage – es war zu befürchten, daß eine plötzliche Invasion eintreten könnte. Aber es verging kaum eine Woche, und schon waren wir von der Seite der dortigen Provinzen gesichert. <seg type="comment"><orig>Die Mobilisierung ganz <placeName key="G000664">Deutschlands</placeName></orig><note xml:id="nrzr_h4s_ylb">Die süddeutschen Staaten Bayern, Württemberg und Baden hatten im Jahr 1866 mit Preußen Verträge für eine gemeinsame Sicherheitspolitik geschlossen, 1867 kam ein Bündnis mit Hessen dazu. Die Partner dieser sog. Schutz- und Trutzbündnisse verpflichteten sich im Kriegsfall, die eigenen militärischen Kräfte dem jeweils anderen zur Verfügung zu stellen. Die Verträge waren zugleich Friedensverträge, da die süddeutschen Staaten im Deutschen Krieg auf der Seite Österreichs gegen Preußen gestanden hatten. Als der Deutsch-Französische Krieg ausbrach, erkannten die süddeutschen Staaten den Bündnisfall schnell an. Dazu Gregorovius im Tagebuch: „Wie ein Mann erhob sich ganz Deutschland; Bayern, Württemberg, Baden anerkannten den casus foederis. Der Kampf in der bayerischen Kammer war heiß, aber der Sieg blieb den Deutschgesinnten. Mit 117 Stimmen gegen 47 wurden die Vorlagen der Regierung angenommen. Patriotische Kundegebungen des Volks vor dem König. Die Partei der Dunkelmänner und Preußenfeinde wurde wie durch Zauber überwältigt. Der Geist von 1813 erwacht. Ein Enthusiasmus wie in der Väter Tagen.“ (RT, 24.7.1870, S. 285–286). </note></seg>, fast in Blitzeseile und mit größter Präcision durchgeführt, ist vielleicht ein noch ruhmvollerer Akt, als es unsere ersten Siege sind. </p>
+<p>Sehen Sie, welche Wechselfälle und was für eine unerhörte Tragödie! Wenige Wochen, da vernahm man noch überall in <placeName key="G000749">Paris</placeName> Prahlereien von einer militärischen Promenade nach <placeName key="G000636">Berlin</placeName>, und <seg type="comment"><orig>heute stehen die den <placeName key="G000674">Franzosen</placeName> genommenen Kanonen als Trophäen vor dem königlichen Palaste in <placeName key="G000734">München</placeName></orig><note xml:id="nv2s_j4s_ylb">Am 14. August trafen die ersten französischen Waffen als Kriegsbeute unter dem Jubel der Bayern in München ein.</note></seg>, während fünftausend französische Gefangene die Festungen von <placeName key="G067509">Ingolstadt</placeName> und <placeName key="G000750">Passau </placeName>füllen. <seg type="comment"><orig>Niemals im Leben hat mich etwas so bewegt</orig><note xml:id="no1k_54s_ylb">Wie sehr diese Szenen Gregorovius beeindruckten, lässt sich auch im Tagebuch nachvollziehen (siehe RT, 10.8.1870, S. 288–289).</note></seg>, wie der Anblick der langen Eisenbahnzüge, die hier mit ganzen französischen Regimentern in entwaffnetem und elendem Zustande durchkamen. Vielleicht waren es die selben Soldaten, die ich vor Jahren <seg type="comment"><orig>bramarbasirend</orig><note xml:id="nhpr_v4s_ylb">Prahlen, angeben.</note></seg> und mit der Miene von Welteroberern <seg type="comment"><orig>in den Straßen Roms einhergehen sah</orig><note xml:id="nrj3_y4s_ylb">Anspielung auf die Jahre 1849–1866, in denen Rom französische Garnisonsstadt war und regelmäßig unter den kämpferischen Auseinandersetzungen zwischen dem Volk und den bewaffneten Truppen, päpstlichen Gendarmen sowie französischem Militär, litt. Siehe dazu beispielsweise den Brief von Gregorovius an Luigi Tosti vom 26.3.1860.</note></seg>. Kaum konnte ich die Thränen zurückhalten. <seg type="comment"><orig><foreign xml:lang="Lat">Sic transit gloria mundi</foreign>!</orig><note xml:id="nty4_z4s_ylb">Lat. für: So vergeht der Ruhm der Welt. Historisches Zitat, das wahrscheinlich auf den Mystiker Thomas von Kempen (um 380–1471) zurückgeht und später, in abgewandelter Form, bei Papstinthronisationen gesprochen wurde. </note></seg> </p>
+<p><seg type="comment"><orig>Ich habe einen <persName key="G001203">Bruder</persName> in der Nordarmee</orig><note xml:id="nsvy_bps_ylb">Julius Gregorovius (1819–1891) hatte eine Offizierslaufbahn eingeschlagen, kämpfte als Artillerieoffizier im Deutsch-Französischen Krieg. 1870 erhielt er das Eiserne Kreuz (siehe RT, 29.9.1870, S. 293).</note></seg>. Gerade in diesem Augenblicke hatte ich <seg type="comment"><orig>einen Brief von ihm</orig><note xml:id="ndxx_2ps_ylb">Der Brief ist nicht erhalten; siehe dazu auch den Brief von Gregorovius an Ottilie Elgnowski vom 20./21.8.1870; BSB München, NL Gregorovius, Gregoroviusiana 20. Der Bruder nahm an den Gefechten vor Metz unter Generalfeldmarschall Karl Friedrich von Steinmetz (1796–1877) teil. Dieser befehligte das 1. Armeekorps in der Schlacht bei Colombey-Nouilly, die am 14. August 1870 östlich von Metz in der Nähe zweier Dörfer stattfand.</note></seg> aus dem <seg type="comment"><orig>Bivouak</orig><note xml:id="nhmf_dps_ylb">Freilager in Zelten.</note></seg> von St.Croix vor der Stadt <placeName key="G000728">Metz</placeName>. Es scheint, daß die Armee <persName key="G001442">Napoleons</persName> sich nicht mehr halten kann. Sie zieht <pb n="67"/>sich von <seg type="comment"><orig>Châlons</orig><note xml:id="nong_gps_ylb">Châlons-en-Champagne, Gemeinde im Nordosten Frankreichs in der historischen Landschaft Champagne. In dem 1856 Napoleon III. zunächst für Übungszwecke errichteten Lager 24 km nordöstlich der Stadt gelegen versammelte sich im August 1870 unter dem Oberbefehlshaber Marschall Patrice Maurice Mac-Mahon (1808–1893) eine französische Reservearmee, um die vor Metz eingeschlossenen Truppen zu befreien. Am 16. August war auch Napoleon III. im Lager von Châlons eingetroffen. Doch musste die sogenannte Armee von Châlons vor den Preußen nordwärts in Richtung der belgischen Grenze ausweichen – erst nach Reims, später nach Beaumont und schließlich in die Niederlage der Schlacht bei Sedan. Am 25. August 1870 berichtete die „Allgemeinen Zeitung“, dass die Armee unter Kronprinz Friedrich Karl von Preußen (1828–1885) seinen Marsch auf Paris fortsetzen konnte, weil er die französische Armee nach Metz zurückgedrängt und die Rückzugslinie nach Châlons abgeschnitten habe (AZ, 25.8.1970, Beilage zu Nr. 237, S. 3769).</note></seg> zurück. Wir möchten Frankreich nicht bis zur letzten Stufe des Unglücks erniedrigt sehen, wiewohl es dies reichlich verdient hat. Aber man wird auf <placeName key="G000749">Paris</placeName> losmarschieren und dort, wie man hofft, <seg type="comment"><orig><foreign xml:lang="Lat">ante portas</foreign> </orig><note xml:id="ncwv_hps_ylb">Lat. für: vor den Pforten.</note></seg>den Frieden dictieren. Ich bin hier in Gesellschaft <seg type="comment"><orig><persName key="G001116">Dr. Erhardt’s</persName> von Rom</orig><note xml:id="nb4h_jps_ylb">Der erfolgreiche Arzt Wolfgang Erhardt (1819–1906) war Arzt der Deutschen Botschaft und des deutschen Krankenhauses in Rom. Gregorovius kannte Erhardt mindestens seit Sommer 1858 (siehe RT, 10.6.1858, S. 70), unternahm Ausflüge und Urlaube mit ihm sowie seiner Frau Auguste von Racknitz (†1876). Im Sommer 1870 war Gregorovius gemeinsam mit dem Ehepaar in Bayern unterwegs (siehe RT, S. 286–287).</note></seg>, mit dem ich vielleicht in kurzem nach Frankreich abreisen werde, um von dort Verwundete in die Hospitäler zu bringen. Die Aufgeregtheit des Geistes erlaubt mir nicht mehr, in der <orgName key="G000510">Münchner Bibliothek </orgName>zu studiren, wo ich noch gewisse Materialien zu vervollständigen habe, die mir zu dem<bibl corresp="G003434"> <seg type="comment"><orig>letztem Bande der „Geschichte Roms“</orig><note xml:id="nmjq_nps_ylb">Ursprünglich waren sechs Bände für die „Geschichte der Stadt Rom im Mittelalter“ geplant. Mit fortschreitender Arbeit und anwachsender Materialmenge erkannte Gregorovius die Notwendigkeit, sein Werk um einen siebten Band zu erweitern, wofür er in Stuttgart bei Cotta, bekanntlich erfolgreich, anfragte; siehe den Brief von Gregorovius an Louis Roth in Stuttgart vom 24.6.1863. Allerdings drohte auch der siebte Band zu umfangreich zu werden, so dass er erneut eine Teilung in zwei Bänden vorschlug; siehe die Briefe von Gregorovius an die J. G. Cotta’sche Buchhandlung vom 7.2.1869 und 25.4.1869; letzterer: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S 281. Der siebte Band der „Geschichte der Stadt Rom im Mittelalter“ erschien 1870, der achte und letzte 1872.</note></seg></bibl> dienen.<gap reason="lost" unit="chars" quantity="1"/></p>
+</div>
+        </body>
+    </text>
+</TEI>

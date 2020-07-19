@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_mvm_3k3_2mb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Rom. München, 26. Juni 1881</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free">
+                <licence target="http://creativecommons.org/licenses/by/4.0/">
+                    Creative Commons Attribution 4.0 International (CC BY 4.0)
+                </licence>
+            </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 4 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er arbeitet an der Biographie der byzantinischen Kaiserin „Athenaïs“ (1882). Aufgrund seiner griechischen Studien (Korfu, 1880; Mirabilien der Stadt Athen; Aus der Landschaft Athens; Athen in den dunklen Jahrhunderten, alle 1881) erlangt er auch in Griechenland Bekanntheit. Obwohl inzwischen in München heimisch, fühlt er sich Italien nach wie vor verbunden. Er bittet Mariano mit der Einsendung eines Artikels an die von Brockhaus herausgegebene Zeitschrift „Unsere Zeit“ zu warten. Über eine unerfreuliche Angelegenheit, die sich zwischen Mariano und den Herren Chil., Ambr. sowie Brem. abgespielt hat, welche er mit der venezianischen Staatsinquisition in Vergleich setzt. Grüße an Cecil Gräfin Pilar von Pilchau und eine namenlose Nihilistin.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1881-06-26" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840-1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">München, 26. <hi rendition="#aq">Juni</hi> 81.</dateline>
+                    <salute> Lieber Freund,</salute>
+                </opener>
+<p>ich eile Ihnen zu schreiben, <seg type="comment"><orig>ehe Sie Rom verlassen</orig><note xml:id="nwhz_f1d_fmb">Gregorovius’ folgender Brief an Mariano ist bereits an dessen nächsten Aufenthaltsort, La Cava, gerichtet; siehe den Brief von Gregorovius an Raffaele Mariano vom 3.8.1881.</note></seg>. </p>
+<p>Meine Reise über <placeName key="G000703">Ancona</placeName>, <placeName key="G000841">Rimini</placeName>, <placeName key="G000638">Bologna</placeName> war sehr angenehm. <seg type="comment"><orig>Schon am 8. traf ich in M<ex>ünchen</ex> ein</orig><note xml:id="neyy_j1d_fmb">Nach einem dreieinhalbmonatigen Aufenthalt war er am 5. Juni von Rom aufgebrochen und über die besagten Stationen sowie Faenza und Verona nach München zurückgereist (siehe RT 1881, S. 423).</note></seg>, wo ich bereits meine <persName key="G001111"><persName key="G001203">Geschwister</persName></persName> vorfand. Beiden hat der Aufenthalt in der <placeName key="G000902">Heimat</placeName> sehr wol gethan.</p>
+<p>Ich habe mich wieder an die Arbeit gemacht, u<ex>nd</ex> <seg type="comment"><orig>schreibe jetzt das <bibl sameAs="G003525">Lebensbild der <hi rendition="#aq">Athenais</hi></bibl> nieder</orig><note xml:id="nqwp_mcd_fmb">Seine Biographie „Athenaïs.Geschichte einer byzantinischen Kaiserin“ sollte 1882 bei Brockhaus erscheinen. Noch im selben Jahr verfasste Mariano die italienische Übersetzung davon: Raffaele Mariano. Atenaide. Storia di una imperatrice bizantina. Versione dal tedesco di Raffaele Mariano. Turin: Loescher 1882.</note></seg>. <seg type="comment"><orig>Meine griechischen Arbeiten, so klein sie auch sind</orig><note xml:id="nr2r_ncd_fmb">Zu griechischen Themen hatte er bereits folgende Artikel veröffentlicht: Korfu. Eine Studie. In: Unsere Zeit. Deutsche Revue der Gegenwart. Bd. 2. Leipzig: Brockhaus 1880. S. 481–499 u. 697–720. Mirabilien der Stadt Athen. In: Bayerische Akademie der Wissenschaften. Philosophisch-Philologische Klasse: Sitzungsberichte der Bayerischen Akademie der Wissenschaften, Philosophisch-Philologische und Historische Klasse. München: G. Franz in Komm. 1881, Heft 1. S. 348–381; Aus der Landschaft Athens. Eine Skizze. In: Unsere Zeit. Deutsche Revue der Gegenwart. Bd. 1. Leipzig: Brockhaus 1881. S. 33–49; Athen in den dunklen Jahrhunderten. Eine Studie. In: Unsere Zeit. Deutsche Revue der Gegenwart. Bd. 1. Leipzig: Brockhaus 1881. S. 664–695.</note></seg>, erweitern meinen Horizont, u<ex>nd</ex> <seg type="comment"><orig>sie erwerben mir bereits Freunde in jenem classischen <placeName key="G000683">Lande</placeName></orig><note xml:id="nzrr_pcd_fmb">Für seine Recherchen stand er unter anderen mit Johannes Romanós (1836–1892), einem aus Korfu stammenden Wissenschaftler und Lehrer für Griechisch und Latein, in Kontakt; siehe den Brief von Gregorovius an Ersilia Caetani Lovatelli vom 26.6.1881.</note></seg>. </p>
+<p><pb n="1v"/>In München ist es der Schatz der <orgName key="G000510">Bibliothek</orgName>, u<ex>nd</ex> auch die Menge hochgebildeter Menschen, welche was mich wieder an die <placeName key="G000664">Heimat</placeName> fesselt, von den Meinigen nicht zu reden. <seg type="comment"><orig>Es ist ein Reichtum zweien <placeName key="G000690">Ländern</placeName> anzugehören, durch Geburt u<ex>nd</ex> durch eigene Bestimmung</orig><note xml:id="nejy_q2d_fmb">Im März 1876 war Gregorovius vom Gemeinderat der ewigen Stadt zum römischen Ehrenbürger ernannt worden; siehe den Brief von Gregorovius an Pietro Venturi vom 17.3.1876. Neben seiner persönlichen Verbundenheit mit Rom und Italien, verweist er regelmäßig auf diese, ihm erteilte Zugehörigkeit zu seiner zweiten Heimat. </note></seg>, aber es macht auch Unruhe u<ex>nd</ex> Pein.</p>
+<p>Ich freue mich, daß Sie <seg type="comment"><orig>Ihren Artikel für „<orgName key="G000569">Unsre Zeit</orgName>“</orig><note xml:id="npx4_t2d_fmb">Um welchen Artikel es sich hier handelt, ist nicht ermittelt, zumal dieser von Brockhaus nicht angenommen wurde und es somit nicht zu dessen Veröffentlichung kam; siehe den Brief von Gregorovius an Raffaele Mariano vom 3.8.1881. Möglicherweise handelte es sich um seine Rezension von Joseph Langens „Geschichte der römischen Kirche bis zum Pontifikate Leo’s I. Quellenmäßig dargestellt“ (Bonn: Max Cohen 1881), welche er dann in „Cult.“, I, Bd. II (1882). S65–72 publizierte.</note></seg> fördern, u<ex>nd</ex> ich werde glücklich sein, wenn Sie dadurch in ein praktisch-literarisches Verhältniß zu Deutschland zu treten vermögen, welches Land Sie fast so sehr lieben, wie ich das Ihrige. Ihr Artikel wird zweifellos recht sein, wenn er concrete Dinge von Actualität <pb n="2r"/>enthält. Das Publicum solcher Zeitschriften ist nicht denkfaul, aber man scheut die abstracten Begriffserörterungen, deren Deutschland satt geworden ist. </p>
+<p>Erlauben Sie mir Ihnen vorzuschlagen, mit der Absendung des Artikels an <orgName key="G000480"><hi rendition="#aq">Brock</hi><ex>haus</ex></orgName> eher zu zögern als zu eilen. Denn das letztere würde so aussehen, als läge es Ihnen besonders viel daran, Unterbreiter von Uns<ex>re</ex> Zeit zu sein, u<ex>nd</ex> es würde den Charakter abschwächen, welchen ich von vornherein Ihrer Beteiligung gegeben habe. Je vornehmer man Redactionen u<ex>nd</ex> Verleger behandelt, desto besser fährt man mit ihnen. Bei Gelegenheit dessen, d<ex>a</ex>ß Sie <seg type="comment"><orig>Herrn Chil.</orig><note xml:id="nems_x2d_fmb">Nicht ermittelt.</note></seg> erwähnt haben, ist mir die Angelegenheit <seg type="comment"><orig>Ambr.</orig><note xml:id="nn3z_y2d_fmb">Möglicherweise ist der römische Anwalt, Historiker und Bibliothekar Raffaele Ambrosi de Magistris (1831–1900) gemeint, der in den 1870er Jahren zwei Werke von Gregorovius übersetzte. Siehe Ambrosi, Raffaele: „Sulla storia delle inondazioni del Tevere. Traduzione di Raffaele Ambrosi.“ In: Il Buonarroti. Scritti sopra le arti e le lettere. Ser. 2. Bd. 11. Quaderno 10. Rom 1876. S. 313–321 u. 345–355; ders.: „Le tombe dei papi.“ Prima editione italiana, rivista ed accresciuta dall’autore. Rom: Fratelli Bocca 1879. Es könnte allerdings auch der aus dem Trentino stammende Francesco Ambrosi (1821–1897) gemeint sein. Der Bibliothekar und Naturwissenschaftler, hatte 1864 die Nachfolge Tommaso Gars (1808–1871) als Direktor der städtischen Bibliothek (Biblioteca Civica) in Trient und des angeschlossenen Museums für Antike und Naturgeschichte angetreten; siehe den Brief von Gregorovius an Tommaso Gar vom 24.1.1865.</note></seg> noch einmal lebhaft <seg type="comment"><orig>ins Bewußtsein getreten</orig><note xml:id="nync_1fd_fmb">Um was für eine Angelegenheit zwischen Mariano und den Herren Chil. sowie Ambr. es sich handelt, ist nicht ermittelt.</note></seg>. </p>
+<p><pb n="2v"/>Da Sie Chil. Ihren Freund nennen, so werde ich ihn vorweg als einen Ehrenmann betrachten, aber das kann ihn u<ex>nd</ex> <seg type="comment"><orig>Brem.</orig><note xml:id="npgy_zfd_fmb">Nicht ermittelt.</note></seg> nicht vor meinem Urteil schützen, daß hier mit der Ehre eines andern sehr <hi rendition="#u" hand="">leichtfertig</hi> gehandelt worden ist. Ich will glauben, daß beide u<ex>nd</ex> auch Sie sich von der Unsinnigkeit jener Anklagen überzeugt haben; wäre das nicht der Fall, so würde ich moralisch verpflichtet sein, Herrn Amb. Mitteilungen zu machen, um ihm die Waffen in die Hand zu geben, mit denen er seine hinter seinem Rücken angegriffene Ehre verteidigen kann. Wie klein u<ex>nd</ex> unedel war es, sich eines anonymen Briefes zu bedienen, um dann die <hi rendition="#aq">Guaestara</hi> zu einer Art allwissenden Macht zu stempeln. Wenn das nicht zu lächerlich wäre, würde es mindestens an <seg type="comment"><orig>die venetianische Inquisition</orig><note xml:id="nz2k_bgd_fmb">In der Republik Venedig wurde zwischen einer Staatsinquisition und der kirchlichen Inquisition unterschieden. Der Staat war zuständig für Verbrechen wie Verrat, Spionage und Geldfälscherei, während sich die kirchliche Gerichtsbarkeit um Glaubensangelegenheiten kümmerte. Sowohl die staatlichen als auch die kirchlichen Inquisitionsprozesse in Venedig waren für ihre gerechte, milde Durchführung bekannt.</note></seg> erinnern.</p>
+<p>Hier sind Abgründe von Unmoral, u<ex>nd</ex> das kränkt mich, da ich Italien liebe.</p>
+<p>Ich wünsche Ihnen mit den Meinigen, <seg type="comment"><orig>Ihrer <persName key="ed_ezy_g42_rlb">Frau</persName></orig><note xml:id="ndsk_dgd_fmb">Mariano war seit dem 28. April 1879 mit der aus baltischem Adel stammenden Cecil (Cäcilie) Gräfin Pilar von Pilchau (1847–1896) verheiratet; siehe den Brief von Gregorovius an Raffaele Mariano vom 11.5.1879.</note></seg> u<ex>nd</ex> der <seg type="comment"><orig>kleinen Nihilistin</orig><note xml:id="nphk_2gd_fmb">Unklar, wer hier gemeint ist.</note></seg> einen glücklichen Aufenthalt in <hi rendition="#aq"><seg type="comment"><orig>La Cava</orig><note xml:id="nb24_fgd_fmb">Es gibt drei Orte mit Namen La Cava in Italien, einen in der Provin Grosseto (Toskana), einen in der Provinz Teramo (Abruzzen) und einen in der Nähe von Florenz.</note></seg></hi>.</p>
+                <closer>
+<signed rendition="#c">Aufrichtig Ihr alter Freund FGr.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

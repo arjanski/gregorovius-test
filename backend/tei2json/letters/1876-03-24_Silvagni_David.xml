@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067796">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an David Silvagni in Rom. Rom, 24. März 1876</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>nach WWW (Autographenhandel)</repository></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 2 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Ersilia Caetani Lovatelli hat ihm von seinem Engagement bei der Verleihung der Ehrenbürgerwürde durch die Stadt Rom berichtet. Gregorovius sieht sich hoch geehrt – zumal er erfahren hat, dass Silvagni der Verfasser der papstkritischen Schrift „Il Senato di Roma ed il papa“ ist, die 1866 unter dem Pseudonym Stefano Porcari gedruckt worden war.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1876-03-24" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G067789">Silvagni, David (1831–1897)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Roma, <placeName key="ediarum_njc_s3x_qlb">Va Ripetta </placeName>108. <lb/>24. Marzo 1876.</dateline>
+                    <salute rendition="#c"> Egregio <seg type="comment"><orig>Signore</orig><note xml:id="nshw_ldw_zlb">Der in Rom geborene David Silvagni (1831–1897) war Historiker, Journalist und Präfekt sowie Mitglied der Accademia spoletina, welche die historischen, wissenschaftlichen und humanistischen Recherchen im Gebiet Spoleto vorantrieb. Er interessierte sich besonders für königliche und päpstliche Höfe und publizierte zur römischen Gesellschaft (La corte e la societa romana nei secoli 18. e 19. 3 Bde., Florenz: Tip. della Gazzetta d'Italia 1881–1885). Silvagni war ein enger Freund der römischen Adelsfamilie Caetani, was eine Verbindung zu Gregorovius gut vorstellbar macht. Abgesehen von diesem höflichen Dankesbrief des Deutschen an den Römer sind keine weiteren Schreiben zwischen den beiden erhalten.</note></seg>,</salute>
+                </opener>
+<p>sono avvertito da <persName key="G001011"><seg type="comment"><orig>Donna Ersilia contessa Lovatelli</orig><note xml:id="ndsv_mdw_zlb">Die Archäologin Ersilia Gräfin Caetani Lovatelli (1840–1925) war Gregorovius sehr verbunden, die beiden pflegten einen regen Briefwechsel.</note></seg></persName>, che proprio lei è stato quello tra i Romani, che dettè il bellissimo indirizzo il quale dai miei generosi amici di Roma venne presentato al <persName key="G001674">Signor Sindaco</persName>, onde ottenerne per me <seg type="comment"><orig>l’altissimo onore della cittadinanza romana</orig><note xml:id="ntjz_ndw_zlb">Am 8. März hatte der Gemeinderat Roms einer Petition römischer Bürger stattgegeben und den Entschluss gefasst, dem Verfasser der „Geschichte der Stadt Rom im Mittelalter“ (8 Bde., Stuttgart: Cotta 1859–1872) die Ehrenbürgerwürde der Stadt zu verleihen; siehe den Brief von Gregorovius an Pietro Venturi vom 17.3.1876. Während Filippo Cagiati (*1821) und Ferdinando Santini die Initiatoren und Verfasser der Bittschrift waren (siehe RT, 1.3.1876, S. 361–362 und 20.5.1876, S. 368), welche dem Bürgermeister Roms, Pietro Venturi (1824–1892), am 12. Februar übergeben wurde, war es Silvagni, der die Adresse aufgesetzt hatte.</note></seg>. Perciò mi gode l’anima di puoter chiamarmi il suo debitore riconoscente ed affettuoso. Certo che quella dimostrazione di simpatia e di benevolenza, con cui Ella mi ha onorato tanto, rimarrà stampata nel mio cuore come memoria preziosissima e come gratissimo debito.</p>
+<p>Sò anche, e me ne rallegro non poco, che oramai negli anni addietro e precisamente in un’epoca la quale sarà eternamente $, mi ero trovato, <pb n="1v"/>in rapporto con V<ex>ostra</ex> S<ex>ignoria</ex>, per mezzo cioè di un suo <bibl sameAs="ed_h5j_yfx_qlb">scritto</bibl>, il quale correva <seg type="comment"><orig>sotto nome die Stefano Porcari</orig><note xml:id="nibb_pdw_zlb">Pseudonym des David Silvagni. Der aus Rom stammende Stefano Porcari (†1453) war Humanist und Politiker, der sich gegen die päpstliche Herrschaft auflehnte.</note></seg>, ingegnoso tanto, che prestamente acquistò celebrità anche fuori d’ <placeName key="G000690">Italia</placeName>: <seg type="comment"><orig>scritto, di cui l’autore romano è rimasto a me sconosciuto fintanto che non mi venne rivelato</orig><note xml:id="ngb3_qdw_zlb">„In der letzten Hälfte des November wurde eine Schrift ausgegeben: ‚Il Senato di Roma e il Papa di Roma‘, unter dem Namen Stefano Porcaro und mit dem Druckort ex aedibus Maximis. Gespenster gehen wieder in Rom um und alte Ideen erwachen, gleich den Siebenschläfern von Ephesus. Die Schrift fordert die Römer auf, nach Abzu der Franzosen, auf dem Kapitol den Senat und die munizipale Gewalt wiederherzustellen.“; RT, 2.12.1866, S. 216.</note></seg>, essersi per l’appunto V<ex>ostra</ex> S<ex>ignoria</ex> nascosta dietro quel nome famoso nella storia di Roma. </p>
+<p>Or vedo, per quali e quanti argomenti io debba essere desideroso, <seg type="comment"><orig>di aver il bene di riverirla di persona, di ringraziarla a voce</orig><note xml:id="nv2t_rdw_zlb">Zwar sollte Gregorovius in den kommenden Tagen in Rom, mehrere Besuche hinsichtlich der ihm zugegangenen Ehrung absolvieren, ein Treffen mit Silvagni ist jedoch nicht dokumentiert.</note></seg>, e di professarmi per tutta la mia vita</p>
+<p>di lei </p>
+                <closer>
+<salute xml:id="s1" next="#s2" rendition="#right">servitor devoto</salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">ed amico sincero</salute>
+<signed rendition="#right"> Ferdin. Gregorovius</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

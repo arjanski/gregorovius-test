@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000361">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Wilhelm Heyd in Stuttgart. Traunstein, 17. August 1873</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Württembergische Landesbibliothek Stuttgart</repository><idno>Cod. hist 4° 391, Kaps. I, 224</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ½ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 5 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Beileidsschreiben zum Tod des Direktors der Königlichen öffentlichen Bibliothek in Stuttgart, Christoph Friedrich von Stälin. Er bittet der Tochter Emilie Charlotte mit dem Schwiegersohn August Winterlin sowie allen Hinterbliebenen seine Wünsche auszurichten. Sein Tod ist auch ein großer Verlust für die Wissenschaft, weil Stälins „Wirtembergische Geschichte“ (4 Bde., Stuttgart 1841–1873) damit unvollendet bleiben wird. Seit Mitte Juli ist er mit Karl Lindemann-Fommel und Adolf Friedrich Graf von Schack in Traunstein, wo auch Graf Hugo Leutrum von Ertingen einige Wochen war. Er ist ungewiss, ob er nach Stuttgart kommen wird. Von Johann Philipp Grossmann hat er lange nichts gehört.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000888">Traunstein</placeName><date when="1873-08-17" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001271">Heyd, Wilhelm (1823–1906)</persName>
+<placeName key="G000879">Stuttgart</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Traunstein</hi>, 17. <hi rendition="#aq">Aug<ex>ust</ex></hi> 73</dateline>
+                    <salute rendition="#c">Lieber Freund,</salute>
+                </opener>
+<p>gestern erhielt ich die schmerzliche Nachricht von dem, wie es scheint, <seg type="comment"><orig>plötzlichen Tode des Oberbibliothekars <persName key="G001619"><hi rendition="#aq">Stälin</hi></persName></orig><note xml:id="nazg_n1s_tlb">Der am 12. August 1873 verstorbene Christoph Friedrich von Stälin (*1805) war seit 1869 Direktor der Königlichen öffentlichen Bibliothek in Stuttgart. Wilhelm Heyd wurde sein Nachfolger. Stälin war Mitglied der Akademien in Berlin, Wien und Göttingen und 1858 in die neugegründete Historische Kommission bei der Bayerischen Akademie der Wissenschaften berufen worden. </note></seg>. Ich schreibe an Sie, um Sie <add place="intralinear">zu</add> bitten, <seg type="comment"><orig><persName key="G001709">Herrn <hi rendition="#aq">Winterlin</hi></persName> auf das Herzlichste von mir zu grüßen</orig><note xml:id="nuky_dbs_tlb">Der Kunstschriftsteller, Dichter und Vorstand der Württembergischen Landesbibliothek Georg August Winterlin (1832–1900) war seit 1866 mit Christoph Friedrich von Stälins Tochter Emilie Charlotte Winterlin (1838–1929) verheiratet, mit der er die Söhne Karl Friedrich (1867–1945) und Georg Ludwig (1870–1917) hatte.</note></seg>, u<ex>nd</ex> ihm wie der <seg type="comment"><orig>Familie des ausgezeichneten Mannes</orig><note xml:id="nsbn_ybs_tlb">Stälin hatte seine Frau Charlotte, geb. Glocker (1813–1875), seine Tochter Emilie Charlotte, verh. Winterlin (1838–1929) und seinen Sohn Paul Friedrich von Stälin (1840–1909) hinterlassen, der Archivrat in Stuttgart und Direktor des württembergischen Haus- und Staatsarchivs war. Gregorovius hatte in Stuttgart mit Vater und Sohn Kontakt (siehe RT, 27.7.1867, S. 228, und S. 232). </note></seg>, welcher dahingegangen ist, zu sagen, daß ich heute der Güte, die er mir stets bewiesen hat, doppelt eingedenk bin. Ich habe nicht an unsern Freund <hi rendition="#aq">Winterlin</hi> geschrieben, sondern es vorgezogen meine teilnahmvollen Grüße an ihn und die Hinterbliebenen durch Ihre Vermittlung gelangen <pb n="1v"/>zu laßen. Es ist ein großer Verlust für die Wissenschaft, u<ex>nd</ex> sehr beklagenswert, daß <seg type="comment"><orig>die <bibl corresp="G004229 G004230 G004319 G004320">Würtembergische Geschichte</bibl></orig><note xml:id="ni4r_mbs_tlb">Seine „Wirtembergische Geschichte“ (4 Bde., Stuttgart: Cotta 1841–1873) hatte Stälin große Anerkennung eingebracht, deren letzter Band die Jahre 1498–1593 umfasst.</note></seg> nun voraussichtlich unvollendet bleiben wird. Schreiben Sie mir etwas, lieber Freund, von diesem Unglücksfall u<ex>nd</ex> denen, die er betroffen hat. </p>
+<p>Ich bin <seg type="comment"><orig>seit Mitte Juli hier, mit <persName key="G001375"><hi rendition="#aq">Lindemann</hi></persName> u<ex>nd</ex> <persName key="G001573"><hi rendition="#aq">A<ex>dolf</ex> v<ex>on</ex></hi> Schack</persName></orig><note xml:id="nihq_dcs_tlb">Gregorovius hielt seit dem 9. Juli 1873 zu einem Kuraufenthalt in Traunstein auf und blieb bis 5. September 1873; neben Karl Lindemann-Fommel (1819–1891) war aus aus München auch Adolf Friedrich Graf von Schack (1815–1894) gekommen (siehe RT, Sommer des Jahres 1873, S. 332). </note></seg>, u<ex>nd</ex> gedenke noch bis etwa zum 8. Sept<ex>em</ex>b<ex>e</ex>r hier zu bleiben. Ob ich nach Stuttgart kommen werde, ist fraglich. Gerne wäre ich einmal wieder unter Ihnen, denn ich liebe <hi rendition="#aq">St<ex>uttgart</ex></hi> gar sehr. <seg type="comment"><orig><persName key="G001367">Graf Leutrum</persName> war viele Wochen hier</orig><note xml:id="nmr2_fcs_tlb">Der ehemalige General-Staatsanwalt und Rat beim Zivilsenat des Obertribunals in Stuttgart Graf Hugo Leutrum von Ertingen (1814–1884). Siehe RT, Sommer des Jahres 1873, S. 332.</note></seg>. Wie geht es Ihnen u<ex>nd</ex> Ihrer liebenswürdigen <seg type="comment"><orig><persName key="G001270">Frau</persName> u<ex>nd</ex> Kinder</orig><note xml:id="nell_gcs_tlb">Heyd war seit 1856 mit seiner Cousine Luise Friederike Charlotte (1830–1903) verheiratet, mit der er drei Töchter hatte.</note></seg>, welche alle <pb n="2r"/>ich herzlich grüße? Uns so auch <seg type="comment"><orig>Freund <persName key="G001214">Grossmann</persName></orig><note xml:id="nj1p_3cs_tlb">Der Stuttgarter Mathematiker und Reallehrer Johann Philipp Grossmann (1809–1879; siehe RT, S. 232).</note></seg>, von dem ich lange nichts gehört habe.</p>
+                <closer>
+<salute xml:id="s1" next="#s2" rendition="#c">Alles Gute u<ex>nd</ex> Schöne!</salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">Ihr aufrichtiger Freund</salute>
+<signed rendition="#right">FGregorovius</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

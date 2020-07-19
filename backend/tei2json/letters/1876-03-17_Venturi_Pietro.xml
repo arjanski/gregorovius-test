@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067775">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Pietro Venturi in Rom. Modena, 17. März 1876</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Archivio Storico Capitolino di Roma</repository><collection>Gabinetto del Sindaco, anno 1877, posizione 8 - Doni</collection><idno>busta 22, fascicolo 5</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ½ S. – 1r aoR, Eingangsstempel: S. P. Q. R. / $ N° 321 / Li 21 Marzo 1876 – 1r aoR, Bearbeitungsstempel: 25 Marzo 1876 / N 14399 – 2v auR, 1. Bearbeitungsvermerk: 20 Marzo 1876 / al Gab per prenderne $ / e leggersi nel Consiglio / di Romani / Venturi – 2v auR 2. Bearbeitungsvermerk: Li 8 maggio 1876 / trasmesso dal Gabinetto il diploma agli atti</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>BSB München</institution><collection>NL Gregorovius, Gregoroviusiana 17/28  (nach D)</collection></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Kampf, Karton 88, Mappe 1 (nach D)</collection></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Allgemeine Zeitung. Nr. 98. Augsburg: Cotta 7.4.1876. S. 1483–1484</bibl>  (in deutscher Übersetzung)</witness>
+<witness> <bibl type="print">Armando Ravaglioli: Ferdinando Gregorovius: cittadino romano. Rom: [Litistampa Nomentana 1976]. n. p. (Pubblicazione promossa e curata dal Comune di Roma, Ufficio R. P.) </bibl> (Faksimile des Autographs) </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Die Ernennung zum Ehrenbürger Roms, wo er den größten Teil seines Lebens verbracht hat, ist ihm eine große Ehre. Über die jahrhundertealten Beziehungen zwischen Deutschland und Rom, die es gerade ihm als Deutschen ermöglichten, die „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) zu schreiben. Über die Bedeutung Roms als dem Ort, an dem die Kaiserwürde dem Franken Karl dem Großen übertragen wurde, und über die beiden neuen, geeinten Nationalstaaten Deutschland und Italien sowie andere Schriftsteller, die über Rom geschrieben haben.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000729">Modena</placeName><date when="1876-03-17" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001674">Venturi, Pietro (1824–1892)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">16. März 1876 (BSB München, NL Gregorovius, Gregoroviusiana 18, 27)</ref>
+<ref type="next">21. März 1876 (BSB München, NL Gregorovius, Gregoroviusiana 18, 29)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<salute rendition="#c">Onorevole <seg type="comment"><orig>Signor Sindaco di Roma</orig><note xml:id="ngwh_lcw_zlb">Der Jurist Pietro Venturi (1824–1892) war von Januar 1875 bis November 1877 Bürgermeister von Rom. In dieser Funktion und in der Sache um die italienische Ausgabe der „Geschichte der Stadt Rom im Mittelalter“ standen er und Gregorovius bereits früher miteinander im Austausch; siehe den Brief von Gregorovius an Pietro Venturi vom 14.7.1875.</note></seg>,</salute>
+</opener>
+<p>i modi generosi, coi quali mi fu testè graziosamente accordato dall’ <orgName key="G004663">Illustre Municipio</orgName>, cui V<ex>ostra</ex> S<ex>ignoria</ex> Ill<hi rendition="#sup"><ex>ustrissi</ex>ma</hi> presiede, <seg type="comment"><orig>l’onore della cittadinanza romana</orig><note xml:id="ndkk_mcw_zlb">Venturi hatte Gregorovius am 16. März in einem kurzen Schreiben über die vom römischen Gemeinderat am 8. März getroffene Entscheidung, dem Verfasser der „Geschichte der Stadt Rom im Mittelalter“ die Ehrenbürgerwürde zu verleihen, unterrichtet: „Mi gode l’animo di darle ufficialmente questa partecipazione, e mentre ho disposto le venga spedito, a suo tempo, il Diploma, non posso tacerle la dolce soddisfazione che io sento a veder che la nostra Roma possa annoverare nell’Albo dei suoi cittadini il nome della S. V., tanto degnamente ammirato nel mondo scientifico e letterario.“ Zit. nach dem Brief von Pietro Venturi an Gregorovius vom 16.3.1876; BSB München, NL Gregorovius, Gregoroviusiana 18–25–27 + 29 +31–32 [Akz.-Nr.: 10/95/879 + 10/00/187]. Dem vorausgegangen war eine vom Kaufmann Filippo Cagiati (*1821) initierte Petition, die dem römischen Bürgermeister am 12. Februar von einer Gruppe von Befürwortern übergeben wurde: „Diese Römer, namentlich Cagiati, welchen ich entfernter stand als anderen […], beschämten also durch praktische Teilnahme viele meiner sogenannten Freunde aus langer Bekanntschaft, ja aus täglichem Umgange, wie namentlich die Mitglieder des Hauses Caetani.“ (RT, 1.3.1876, S. 361–362). Nach Einreichung der am 14. Februar in der „Perseveranza“ veröffentlichten Bittschrift regten sich die Gegner des Vorhabens und kritisierten zwei in der Petition genannte Punkte: Zum einen die Infragestellung der Überreichung des Bürgerrechts an General Nicolas Charles Victor Oudinot (1791–1863) 1849, der von den Petenten als „der gewaltsame Wiederhersteller der päpstlichen Regierung“ bezeichnet wird, zum anderen die ausgeprägte deutsche Haltung Gregorovius’ in seinem Werk. Cagiati verteidigte den Deutschen daraufhin am 26. Februar in der „Libertà“ (Jahr VII, Nr. 57); der Artikel, den Gregorovius im Manuskript seines Tagebuchs einklebte, ist im RT wiedergegeben (S. 540–541).</note></seg>, mi confortono ad accettare questo titolo superiore ad ogni mio mento, e che fu in tutti i tempi tanto glorioso <seg type="comment"><orig>da non trovarne pari</orig><note xml:id="nkcc_pcw_zlb">Im Tagebuch erwähnt er die Schwierigkeit, die es ihm machte, diesen und den Dankesbrief an die römischen Bürger (siehe den Brief von Gregorovius an die Stadt Rom vom 17.3.1876) aufzusetzen, wofür er sich mehrere Tage Zeit nahm. Vier Blankoseiten im Manuskript zeugen von seinem nicht umgesetzten Vorhaben, den Brief an Venturi dort einzufügen; siehe RT 20.5.1876, S. 363.</note></seg>.</p>
+<p><seg type="comment"><orig>Ho vissuto in Roma la miglior parte della mia vita tutto dedito a comporre la <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Storia dell’ eterna città nel medio evo</bibl>.</orig><note xml:id="nxvj_qcw_zlb">Nach fast 22 Jahren Aufenthalt in Rom und mit der Vollendung seines Hauptwerks hatte Gregorovius seine Zeit in Italien für beendet erklärt und war im Juli 1874 nach Deutschland zurückgekehrt (siehe RT, 14.7.1874, S. 342–343). </note></seg> Eccettuati gli stessi Romani ed Italiani, che ne furono impediti da cause che ognuno conosce e deplora, a nessun altro uomo forse conveniva meglio di scriverla che ad un tedesco d’ origine, perchè lo direi quasi il meno straniero tra gli stranieri in Roma e probabilmente il più adatto all’ uopo tanto per legami verso il passato, quanto per un doveroso affetto.</p>
+<p>E in fatti mi son trovato tra i primi per ragione di quelle attinenze secolari che <pb n="1v"/>associarono la <placeName key="G000664">mia patria germanica</placeName> a Roma, e fui nello stesso tempo inspirato da quel riverente ossequio col quale gli Alemanni, più di ogni altra nazione, sono consueti di venerare Roma.</p>
+<p>Chè l’alma città fu per l’appunto quella che sin da <seg type="comment"><orig><persName key="G001330">Carlo Magno</persName> cinse la fronte di Germania</orig><note xml:id="ney1_scw_zlb">Der aus dem Geschlecht der Karolinger stammende Karl der Große, seit 768 König des Fränkischen Reiches, war der erste westeuropäische Regent seit der Antike, dem die Kaiserwürde verliehen wurde. Diese Übertragung der römischen Herrschaft auf einen Franken war für das Mittelalter prägend. Die Krönung erfolgte am 25. Dezember 800 in Alt-St. Peter durch den Papst. </note></seg> del diadema di <persName key="ed_cqw_yc5_plb">Cesare</persName> e vi infuse nell’ anima idee generose di civiltà, stampando nel suo cuore uno sentimento di devozione filiale a segno che ancora oggidì difficilmente un altro popolo lo sente ugualmente ed è compreso da tanta riconoscenza per i sommi beni da esso raccolti un tempo dalle sue mani.</p>
+<p>Ne danno eziandio chiarissima testimonianza gli innumerevoli lavori scientifici che la Germania non si sagia mai di conservare alla illustrazione delle cose urbane.</p>
+<p>Alla madre comune offer si anche io il mio tenue tributo d’ amore, e lo attinsi <pb n="2r"/>precisamente a quelle fonti che mi furono offerte da Roma stessa, di modo che non fui altro che il distributore dei tesori dei quali <seg type="comment"><orig>mi fu prodiga.</orig><note xml:id="ndwp_tcw_zlb">Gregorovius hatte für die Recherche seiner „Geschichte der Stadt Rom im Mittelalter“ zahlreiche private sowie institutionelle Archive Roms und Italiens aufgesucht.</note></seg> </p>
+<p>E ora, Illustre Sig<hi rendition="#sup"><ex>no</ex>r</hi> Sindaco, Onorevolissimo Consiglio Comunale vi prego di considerare il mio omaggio di gratitudine verso Roma per l’atto generoso con cui mi avete onorato, come simbolo di quella simpatia che <seg type="comment"><orig>la Germania rigenerata</orig><note xml:id="nms4_5cw_zlb">Nach dem Sieg im Deutsch-Französischen Krieg wurde der preußische König Wilhelm I. (1797–1888) am 18. Januar 1871 in Versailles zum Deutschen Kaiser proklamiert. Mit dem am 21. Januar erfolgten Beitritt der süddeutschen Staaten Baden, Bayern, Hessen und Württemberg zum Norddeutschen Bund bestand erstmals in der Geschichte ein deutscher Nationalstaat.</note></seg> sente per <seg type="comment"><orig>l’ <placeName key="G000690">Italia</placeName> risorta</orig><note xml:id="nvyn_vcw_zlb">Am 17. März 1861 erfolgte die Ausrufung des als Königreich entstandenen Nationalstaates Italien, am 8. Oktober 1870 wurde der Anschluss des Kirchenstaates an das Königreich verkündet.</note></seg>. Posso quindi chiamare me stesso assaì fortunato, giacchè per quanto inferiore io sia a <seg type="comment"><orig>tanti altri scrittori delle cose di Roma</orig><note xml:id="nrpw_wcw_zlb">1854–1856 hatte Theodor Mommsen (1817–1903) seine „Römische Geschichte“ in drei Bänden bei Weidmann in Leipzig veröffentlicht. Alfred von Reumont (1808–1887) gab seine „Geschichte der Stadt Rom“ (3 Bde., Berlin: Decker) in den Jahren 1867–1870 heraus. </note></seg>, toccò a me la sorte <seg type="comment"><orig>di essere diventato vostro concittadino</orig><note xml:id="nz5h_zcw_zlb"><p>Gregorovius’ historische Abhandlung des Themas „römische Bürgerschaft“ wurde publiziert in: Alcuni cenni storici sulla cittadinanza romana. In: Atti della Reale Accademia dei Lincei. Classe di Scienze Morali, Storiche e Filologiche. (Sitzung vom 21. Mai 1877) Ser. 3. Bd. 1. Rom: Coi Tipi del Salviucci 1877. S. 314–346.</p> <p>In dt. Sprache u. d. T. ‚Römische Bürgerbriefe seit dem Mittelalter‘ überarbeitet aufgenommen in KS I/7 (S. 265–323).</p> </note></seg>, e quasi indirettamente l’interprete degli altri intendimenti di fratellanza che gli Italiani professano alla mia patria.</p>
+<p>Di tanto favore, di tanta onorificenza rendo infinito grazie alla S<ex>ignoria</ex> V<ex>ostra</ex> <pb n="2v"/>Ill<hi rendition="#sup"><ex>ustrissi</ex>ma</hi> <seg type="comment"><orig>nonchè all’ Illustre Consiglio di Roma</orig><note xml:id="ncyp_1dw_zlb">Neben Cagiati zählten drei weitere Abgeordnete des römischen Gemeinderats zu den Promotern der Petition: Augusto Ruspoli (1817–1882), Ignazio Ciampi (1824–1880) und Quirino Leoni (1828–1897). Sie sollte Gregorovius bei seinem nächsten Aufenthalt in Rom persönlich aufsuchen (siehe RT 20.5.1876, S. 364). </note></seg>, dichiarando che sarò sempre conscio del gran dovere, <seg type="comment"><orig>di tener alto e rispettato il titolo di cittadino Romano</orig><note xml:id="nans_bdw_zlb">Die Urkunde über das römische Bürgerrecht sollte Gregorovius mit einem Begleitschreiben Venturis im Mai erhalten; siehe den Brief von Pietro Venturi an Gregorovius vom 8.5.1876 (BSB München, NL Gregorovius, Gregoroviusiana 18–25–27 + 29 +31–32 [Akz.-Nr.: 10/95/879 + 10/00/187]) sowie eine Kopie der Urkunde im Nachlass (BSB München, NL Gregorovius, Gregoroviusiana 18): „Am 8. Mai unterschrieb der Stadtrat mein Bürgerdiplom, welches mir der Syndikus schon vorher gezeigt hatte. Die Urkunde auf Pergament ist ein schönes, mit vielen Miniaturen verziertes Kunstwerk. Sie wurde mir am 9. Mai des Abends ohne weitere Form in das Haus geschickt, wie man mir vorher einen Orden so zugeschickt hatte. Ich ging folgenden Tages aufs Kapitol, dem Syndikus zu danken.“ (RT, 20.5.1876, S. 368–369). In einem weiteren Schreiben lädt Venturi den Ausgezeichneten für den folgenden Abend zu sich nachhause ein, da dieser um die Möglichkeit gebeten hatte, dem römischen Stadtrat persönlich danken zu können, wie es in früheren Jahrhunderten bei einer solchen Auszeichnung üblich war; siehe den Brief von Pietro Venturi an Gregorovius vom 16.5.1876 (BSB München, NL Gregorovius, Gregoroviusiana 18–25–27 + 29 +31–32 [Akz.-Nr.: 10/95/879 + 10/00/187]). Zu dem Treffen siehe RT, 20.5.1876, S. 369. Eine Beschreibung der von dem Graveur Francesco Bedoni gestalteten Urkunde findet sich in: Il Diritto. Giornale della Democrazia Italiana. Jg. 23. Rom 10.5.1876. In einem Schreiben an Gregorovius drückt Bedoni, der von Venturi für die graphische Gestaltung des Diploms beauftragt worden war, seine Freude über diese Aufgabe und seine Ehrerbietung gegenüber dem Ausgezeichneten aus; siehe den Brief von Francesco Bedoni an Gregorovius vom 10.5.1876 (BSB München, NL Gregorovius, Gregoroviusiana 21 - 10/00/187 (Akquisitionsnr.)).</note></seg>. Coi sensi della più profonda venerazione mi raffermo e mi offro</p>
+<p>Di V<ex>ostra</ex> S<ex>ignoria</ex> Ill<hi rendition="#sup"><ex>ustrissi</ex>ma</hi></p>
+<closer>
+<salute rendition="#c">servitor devoto</salute>
+<dateline>Di Modena <lb/>17. Marzo 1876</dateline>
+<signed rendition="#right"><seg type="comment"><orig>Ferdin. Gregorovius</orig><note xml:id="nw1z_cdw_zlb">Das vorliegende Schreiben erschien in deutscher Übersetzung in: AZ. Nr. 98. Augsburg: Cotta 7.4.1876. S. 1483–1484: http://opacplus.bsb-muenchen.de/title/3257977/ft/bsb11349337?page=95. Venturi antwortete auf den Brief, dass er von Gregorovius’ Eintreffen in Rom erfahren habe und ihn auf dem Kapitol erwarte; siehe den Brief von Pietro Venturi an Gregorovius vom 21.3.1876 (BSB München, NL Gregorovius, Gregoroviusiana 18–25–27 + 29 +31–32 [Akz.-Nr.: 10/95/879 + 10/00/187]).</note></seg>. </signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

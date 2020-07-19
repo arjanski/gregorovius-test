@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000331">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Gustav Parthey in Florenz. Rom, 1. Mai 1870 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"> <bibl type="print">Herman Granier: Neue Briefe von Ferdinand Gregorovius. II. In: Neue Preußische (Kreuz-)Zeitung. Nr. 487. Berlin 31.10.1922 (Morgenausgabe)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Mit dem Abschluss seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872), den er mit Parthey und Georg Gottfried Gervinus in der römischen „Albergo del Sole“ feiern will, ist erst im kommenden Jahr zu rechnen. Derzeit steht der siebte Band vor dem Abschluss (1870) und zweite Auflage des dritten und vierten Bandes (1870). Die Romreisenden verlassen die Stadt. Parthey soll sich vor seiner Rückkehr von Florenz nach Deutschland melden – er selbst will im Juli für Archivarbeiten nach Florenz kommen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1870-05-01" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001472">Parthey, Gustav (1798–1872)</persName>
+<placeName key="G000671">Florenz</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">(Roma), 1. Mai 1870.</dateline>
+<salute rendition="#c">Verehrter Freund und Gönner,</salute>
+</opener>
+<p>ich wollte längst einen Irrtum berichtigen, welcher wol aus meinem letzten Briefe bei Ihnen entsprungen ist. Mein <bibl sameAs="G003434">projectirtes Triumphfest in <hi rendition="#aq"><foreign xml:lang="ita">taberna solis</foreign></hi></bibl><?oxy_comment_start author="Angela Steinsiek" timestamp="20190219T161112+0100" comment="Die noch heute (umgebaut) existierende „Albergo del Sole“ in der Via Biscione 76 (siehe den Brief von Gregorovius an Parthey, 20.2.1870)."?> <?oxy_comment_end?>könnte nämlich nach den Constellationen meiner Arbeit erst im künftigen Jahre gefeiert werden, wo ich die Anwesenheit von <persName key="G001168">Gervinus</persName> und die Ihrige hoffe.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190219T161129+0100" comment="Am 20.2.1870 hatte Gregorovius Parthey zum Abschluss des letzten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) eingeladen, und gehofft dass Georg Gottfried Gervinus (1805–1871) ebenfalls dort sein würde. Gervinus erlebte den Abschluss seines Lebenswerks nicht mehr; er starb am 18. März 1871. Und auch Parthey starb am 2. April 1872 in Rom; Gregorovius hielt die Grabrede (siehe RT, 7.4.1872, S. 323)."?> <?oxy_comment_end?>Ich erwarte, daß es mir nicht wie dem König Antäos in dem alten Liede <?oxy_comment_start author="Angela Steinsiek" timestamp="20190219T161201+0100" comment="Nach der griechischen Mythologie war Antäos ein Riese in Libyen, der Sohn von Poseidon und der Erde. Da er durch jede Berührung der Mutter Erde immer größere Kraft erhielt, forderte er alle Fremden zum Kampfe und errichtete mit den Schädeln der Getöteten einen Poseidon-Tempel. Bei einem Kampf mit Herakles hob dieser, als er es merkte, ihn in die Luft und erdrückte ihn."?>ergeht<?oxy_comment_end?>, oder wie dem König Sisyphus in dem noch <?oxy_comment_start author="Angela Steinsiek" timestamp="20190219T161216+0100" comment="Der historische Sisyphos hat wohl um 1400 v. Chr. gelebt und gilt als Gründer und erster König der griechischen Stadt Korinth. Nach der griechischen Mythologie hat er die Götter verärgert und wurde bestraft, indem einen Felsblock nach oben auf einen Berg wälzen musste, der, oben angekommen, immer wieder herabrollte."?>älteren<?oxy_comment_end?>, sondern daß ich noch 1 Jahr lang so viel Kraft behalte, um den Stein auf den Gipfel zu erheben. Unterdeß wird rüstig an meinem <bibl sameAs="G003441">VII. Bande</bibl> gedruckt, und schreitet auch die <bibl corresp="G003463 G003470 G003477 G003489">neue Auflage</bibl> kräftig vorwärts.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190219T161229+0100" comment="Vor dem Abschluss stand der siebte Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1870), der letzte Band folgte 1872. Die zweite Auflage des dritten und vierten Bandes erschien noch 1870."?> <?oxy_comment_end?></p>
+<p>Die große Hegira, oder Flucht der Fremden aus <placeName key="G000589">Mecca</placeName> nach <placeName key="G000590"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190219T161246+0100" comment="Die Auswanderung Mohammeds von Mekka nach Medina im Jahr 622 – gemeint sind die Romreisenden."?>Medina<?oxy_comment_end?></placeName>, hat glücklicher Weise begonnen, und wir Bleibende hier kehren froh zu uns selbst und den alten Göttern zurück.</p>
+<p>Wie lange bleiben Sie noch in Florenz? und was Gutes und Schönes haben Sie als ein zweiter Poggio in den Bibliotheken aufgefunden?<?oxy_comment_start author="Angela Steinsiek" timestamp="20190219T161400+0100" comment="Der päpstliche Sekretär und spätere Kanzler in Florenz Gianfrancesco Poggio Bracciolini (1380–1459) hatte einige antike Werke entdeckt und war einer der Wegbereiter des Humanismus."?> <?oxy_comment_end?></p>
+<p>Bitte geben Sie mir noch freundlich Nachricht, ehe Sie sich ins <placeName key="G000664">Vaterland</placeName> wenden.</p>
+<p>Grüßen Sie herzlich <persName key="G001275"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190219T161416+0100" comment="Der in Florenz lebende Altphilologe Theodor Friedrich Heyse (1803–1884)."?>Heyse<?oxy_comment_end?></persName>, und sagen Sie ihm, daß ich mich darauf freue, in Anfangs Juli in Florenz wieder zu sehen, wo ich einige Tage im Archiv zu thun haben werde.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190219T161437+0100" comment="Gregorovius traf am 5. Juli 1870 in Florenz ein, bleib aber nur wenige Tage (siehe RT, 10.7.1870, S. 285)."?></p><?oxy_comment_end?>
+<closer>
+<salute xml:id="s1" next="#s2" rendition="#c">Mit den schönsten Grüßen und Wünschen</salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">Ihr wahrhaft ergebener</salute>
+<signed rendition="#right">F. Gregorovius.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

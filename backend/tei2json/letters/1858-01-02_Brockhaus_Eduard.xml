@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000031">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Eduard Brockhaus in Leipzig. Rom, 2. Januar 1858</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (46)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 8°, 1 ¾ S. – 1r alR, Blatt um 90° gedreht, Eingangs- und Beantwortungsvermerk: 1858. / <hi rendition="#aq">Rom</hi>, 2./11. <hi rendition="#aq">Januar</hi>. / <hi rendition="#aq">Gregorovius</hi>. / B. 12./II. </p>
+<p>Brief von  Gregorovius an Ottilie von Thile</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er kritisiert den Einband seines „Euphorion“ (1858) und die fehlende Verlagsanzeige des Erscheinens in der „Allgemeinen Zeitung“. Bittet um den Versand eines eines weiteren Freiexemplars seines „Euphorion“ mit beiliegendem Begleitbrief an Ottilie von Thile nach Berlin. Die französische Übersetzung seiner „Grabmäler der Päpste“ (dt. 1858) ist abgeschlossen und soll mit Vermittlung von Jean-Jaques Ampère bei Firmin-Didot &amp; Co in Paris erscheinen; eine englische Übersetzung unterblieb, aber eine russische Übersetzung soll unternommen werden.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He criticizes the binding of his „Euphorion“ (1858) and the fact that the publisher didn’t advertise its publication in the „Allgemeine Zeitung“. Asks that another complimentary copy of his „Euphorion“ be sent to Ottilie von Thile in Berlin with the accompanying letter. The French translation of his „Grabmäler der Päpste“ (ger. 1858) has been completed and is to be published by Firmin-Didot &amp; Co in Paris through Jean-Jaques Ampère; an English translation has not come about, but a Russian translation is planned. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1858-01-02" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+<persName key="G000995">Brockhaus, Eduard (1829–1914)</persName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next">12. Februar 1858</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+                <opener>
+                    <dateline rendition="#c"><hi rendition="#aq">Rom</hi> 2. <hi rendition="#aq">Januar</hi> 1858.</dateline>
+                    <salute rendition="#c">Sehr geehrter Herr,</salute>
+                </opener>
+                <p>die Exemplare des <bibl sameAs="G003574"><seg type="comment"><orig>Euphorion</orig><note xml:id="nbvl_zfc_tlb">Gregorovius’ soeben von Brockhaus ausgegebenes Versgedicht „Euphorion“ (1858).</note></seg></bibl> sind alle in Richtigkeit. Meine Freunde haben kein Gefallen <seg type="comment"><orig>an dem aschgrauen Gewande, u<ex>nd</ex> ich wäre zufrieden, wenn der Zeichner den Lazzarone mit den Händen in den Taschen fortgelaßen hätte, der zum Begriff eines idealen Poem’s schwerlich paßt</orig><note xml:id="ndtz_hgc_tlb">Im Brief an Brockhaus vom <ref target="G000041">10.8.1857</ref> hatte Gregorovius gebeten, das „Titelblatt mit einem jener feinen Arabeskenränder“ nach pompeijanischem Vorbild versehen zu lassen. Die von Gregorovius monierte Grisaille-Illustration des Einbandes zeigt eine klassizistisch anmutende, architektonisch gerahmte Architekturzeichnung mit einer kleinen Repoussoirfigur in moderner Kleidung im Vordergrund, die ihre Hände in den Jackentaschen hat.</note></seg>. Im Übrigen werde ich Ihnen immer dankbar sein. Nur eine Wahrnehmung erregt meine Verwunderung: es ist diese, daß Sie ein Gedicht, welches sich gar wol zu Weihnachtsgaben eignet, <seg type="comment"><orig>noch nicht in der <orgName key="G000462">Augsb<ex>urger</ex> Zeit<ex>ung</ex> </orgName>angekündigt haben</orig><note xml:id="nby3_tgc_tlb">Statt einer Verlagsanzeige von Gregorovius’ „Euphorion“ erschien in der „Allgemeinen Zeitung“ eine Rezension (in: Beilage zu Nr. 87 der AZ. Augsburg: Cotta 28.3.1858. S. 1386–1387).</note></seg>, wo Sie doch den gleichzeitig erschienenen <seg type="comment"><orig><bibl sameAs="G004781">Huß von David Strauß</bibl> wiederholt ankündigten</orig><note xml:id="nxh5_wgc_tlb">Von der Schrift des Linkshegelianers David Friedrich Strauß (1808–1874), „Ulrich von Hutten“ (2 Bde., Leipzig Brochkaus 1857) erschien erstmals am 7. November 1857 eine Verlagsanzige in der „Allgemeinen Zeitung“ (Beilage zu Nr. 311 der AZ. S. 4975).</note></seg>. Es weiß daher z. B. hier niemand von der Existenz des Euphorion, welcher schon wochenlang auf dem Lager liegt. Ich gestehe, daß ich diese Unterlaßung nicht begreife, u<ex>nd</ex> ich bitte Sie dringend, mich durch recht triftige Gründe zu beruhigen; denn ich lege so viel Gewicht darauf, daß ich eine Aufklärung dieserhalb wünschen muß.</p>
+                <p>Ich schulde Ihnen <seg type="comment"><orig>3 Ex<ex>emplare</ex></orig><note xml:id="nydh_1hc_tlb">Des „Euphorion“.</note></seg>, u<ex>nd</ex> bitte noch um ein 4. gebundenes, welches Sie die Güte <pb n="1v"/>haben mögen mit beiliegendem Brief <seg type="comment"><orig>an die<persName key="G001645"> Baronin von Thile</persName> abgehn zu laßen, unter der Adresse: „<persName key="G001644">Freiherr von Thile</persName>, bevollmächt<ex>igter</ex> <note place="left" hand="#addressee">18.1.</note>Minister am Päpstl<ex>ichen</ex> Hof zu Rom, derzeit in<placeName key="G000636"> Berlin</placeName>.“</orig><note xml:id="nojb_mhc_tlb">Der mit Gregorovius befreundete Hermann von Thile (1812–1889) war mit seiner Frau Ottilie (1848–1869) und Sohn Hans (1848–1869) zu seiner im Sterben liegenden Schwiegermutter Auguste von Graefe, geb. von Alten (1797–27.11.1857) am 24. November nach Berlin gereist (siehe RT, 31.12.1857, S. 68–69). Siehe den Brief von Gregorovius an Thile vom <ref target="G000024">24.12.1857</ref>.</note></seg> Wir finden schon Gelegenheit zur Abrechnung.</p>
+                <p>Eine <bibl sameAs="G004428">französ<ex>ische</ex> Übersetzung der Papstgräber</bibl> ist fertig, u<ex>nd</ex> erwarte ich <seg type="comment"><orig><persName key="G004762">Herrn Noel de Vergers</persName>, <persName key="G004763">Didots</persName> Schwiegersohn</orig><note xml:id="nfdj_5hc_tlb">Der Orientalist und Archäologe Adolphe Noël des Vergers (1805–1867), er hatte 1838 Emma Firmin-Didot (1819–1902) geheiratet, eine Tochter von Ambroise Firmin-Didot (1790–1876); dieser leitete zusammen mit seinem Bruder Hyacinthe Didot (1794–1880) die berühmte Buchhandlung Firmin-Didot &amp; Co. </note></seg>, mit welchem <persName key="G000928"><seg type="comment"><orig>Ampère</orig><note xml:id="ngr1_13c_tlb">Der französische Historiker, Schriftsteller und Philologe Jean Jacques Ampère (1800–1864) war seit 1833 Professor am Collège de France. Die Übersetzung von François Sabatier (1818–1891) war offenbar noch nicht abgeschlossen, denn am 2.6.1858 schrieb Ampère an Gregorovius, dass er sich um eine angemessene Publikation seiner „Grabmäler der Römischen Päpste“ (Leipzig: Brockhaus 1857) bemühen werde, sobald François Sabatier (1818–1891) deren französische Übersetzung abgeschlossen hat (BSB München, NL Gregorovius, Gregoroviusiana 21). Im Tagebuch von Gregorovius heißt es über Ampère: „Er war ein Mann von seltener Bildung, von fast enzyklopädischem Wissen und einer unglaublichen Lebhaftigkeit des Geistes. Er besaß die liebenswürdigste Natur, eine Harmlosigkeit, deren Quelle sein immer frisches Lebensgefühl war – ein Mensch von Unabhängigkeit des Charakters dem napoleonischen Regiment gegenüber“ (RT, 18.4.1864, S. 176).</note></seg></persName> <seg type="comment"><orig>vermitteln will</orig><note xml:id="nttl_g3c_tlb">Die Übersetzung erschien nicht bei Didot: Les tombeaux des Papes Romains. Traduit par François Sabatier. Précédé d’une introduction de M. Jean-Jaques Ampère de Académie francaise. Paris: Michel Lévy frères 1859. </note></seg>. <seg type="comment"><orig>Die englische Übersetzung unterblieb</orig><note xml:id="nuyb_k3c_tlb">Eine englische Übersetzung erschien erst nach dem Tod von Gregorovius: The Tombs of the Popes: Landmarks in the History of the Papacy. Translated from the German by Louisa Ward Terry. Rom: Victoria Home 1895</note></seg> wegen der <unclear reason="illegible" cert="low"><?oxy_comment_start author="Gregorovius" timestamp="20191111T140300+0100" comment="[juristischen? juridischen?]"?>Judischen<?oxy_comment_end?></unclear> Consequenzen.</p>
+                <p><seg type="comment"><orig>Eine rußische soll, wie ich höre, unternommen werden</orig><note xml:id="nppl_l3c_tlb">Nicht nachweisbar.</note></seg>.</p>
+                <closer>
+<salute xml:id="s1" next="#s2">Mit aufrichtigen Wünschen zum neuen Jahre</salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">hochachtungsvoll u<ex>nd</ex> ergebenst</salute>
+<signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi>.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

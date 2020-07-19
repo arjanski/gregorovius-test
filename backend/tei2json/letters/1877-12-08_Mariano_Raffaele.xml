@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000232">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Rom. München, 8. Dezember 1877</title>
+                <editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+                
+                <respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+                </respStmt><respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+<p xml:lang="de">Er will Marianos „Cristianesimo, cattolicesimo e civiltà“ (1879) dem Verleger Nicola Zanichelli empfehlen, den er durch Cesare Foucard kennt und schätzt. Er wird Zanchelli  einen Brief schreiben, den Mariano seinem Verlagsangebot beilegen soll. Nach Erscheinen kann er Cotta die deutsche Übersetzung empfehlen; Brockhais hält er für aussichtslos. Sein Buch wird sich aber schlechter als Pasquale Villaris „Niccolò Machiavelli“ (1877) oder Ruggero Bonghis „Pio IX e il papa futuro“ (1877) verkaufen. Er befürchtet schlechte Übersetzungen seiner Werke von Domenico Guglielmi und Augusto Nomis Di Cossilla. Er hat Cecil Pilar von Pilchau getroffen, zu der er Distanz hält. Sie will offenbar sechs Monate in München bleiben und hat ihre geplante Romreise nicht mehr erwähnt. Karl Hillebrand hat ihm die schlechte Übersetzung seines „Euphorion“ (1858) von einem Engländer geschickt; Hillebrand hatte 1874 den kritischen Artikel „Lukrezia und ihre Zeit“ verfasst. Gregorovius hat an der Münchener Akademie seinen Vortrag „Ein deutscher Bericht über die Eroberung Roms durch die kaiserliche Armee Carl’s V. im Jahr 1527“ gehalten. Karl Lindemann-Frommel soll er sagenh, dass er nicht vor Januar nach Rom kommen wird, auch wenn Papst Pius IX. früher sterben sollte.</p>
+<p xml:lang="it"/>
+<p xml:lang="en"/>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000734">München</placeName><date when="1877-12-08" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000763">Rom</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right"> München, 8. D<ex>e</ex>z<ex>em</ex>b<ex>e</ex>r 77</dateline>
+<salute>Lieber Freund,</salute>
+</opener>
+<p><seg type="comment"><orig>ich habe allerdings an <orgName key="G000537"><hi rendition="#aq">Zanichelli</hi></orgName> in <placeName key="G000638">Bologna</placeName> gedacht,</orig><note xml:id="nbxv_c2j_1mb">Mariano suchte einen Verleger für seine Schrift „Cristianesimo, cattolicesimo e civiltà“ (Bologna: Zanichelli 1879). Siehe die Briefe von Gregorovius Brief an Mariano vom 7.9. und 29.11.1877.</note></seg> aus folgender Ursache: vor 2 Jahren führte mich <persName key="G001134">Foucard</persName> zu diesem Buchhändler; derselbe empfing mich mit großer Freundlichkeit u<ex>nd</ex> bat um Verlagsartikel: freilich um meine eigenen Sachen. Indes ist hier ein Anknüpfungspunkt geschehen, u<ex>nd</ex> deshalb käme es auf den Versuch an. Wollen Sie dem beistimmen, so werde ich an Z<ex>anichelli</ex> schreiben, u<ex>nd</ex> zwar den Brief an Sie schicken; Sie begleiten ihn hierauf mit Ihrer Offerte. Bitte in diesem Falle mir den vollen Namen des Z<ex>anichelli</ex> anzugeben; zugleich den Titel Ihres <bibl sameAs="ed_yr4_nvd_rlb">Buchs</bibl>, über dessen Inhalt in ein paar Zeilen ich gerne unterrichtet sein möchte. Dies schon einem deutschen Buchhändler gegenüber; u<ex>nd</ex> davon will ich jetzt sprechen.</p>
+<p><seg type="comment"><orig>Die erste Schwierigkeit, einen deutschen Buchh<ex>ändler</ex> dafür zu gewinnen</orig><note xml:id="nkfx_d2j_1mb">Marianos „Christenthum, Katholicismus und Kultur“ erschien 1880 bei Breitkopf &amp; Härtel in Leipzig.</note></seg>, würde darin bestehen, daß Ihr Buch <hi rendition="#u">nicht</hi> in italien<ex>ischer</ex> Sprache <pb n="1v"/>bereits erschienen ist. Sie würde nur dann wegfallen, wenn man bestimmt erklären könnte, daß dies Buch gleichzeitig bei dem oder jenem ital<ex>ienischen</ex> Verleger erscheinen soll. Ohne dies wird der ausländische Verleger sich verwundern, daß ein ital<ex>ienisches</ex> Buch nur in <bibl sameAs="ed_drr_cr2_rlb">Übersetzung</bibl> erscheint. Es würde diesem das Gewicht der Autorität fehlen, welches das Land erteilt, dem es durch die Sprache u<ex>nd</ex> auch das einheimische Bedürfniß angehört. Schon aus diesem Grunde halte ich dafür, daß <hi rendition="#u">vor allem</hi> der italien<ex>ische</ex> Verleger gesucht werden muß.</p>
+<p>Ist dieser da, so würde ich raten, nicht an <orgName key="G000480">Brockh<ex>aus</ex></orgName>, sondern an <orgName key="G000523">Cotta</orgName> sich zu wenden. Ich würde die Vermittlung mit C<ex>otta</ex> übernehmen, von welchem ich eher glaube oder hoffe, daß er sich bereit finden wird, die Sache zu übernehmen, als B<ex>rockhaus</ex>, wo ich sie für fast aussichtslos halte. Honorar für den Übersetzer wird in <placeName key="G000664">Deutschl<ex>and</ex></placeName> schwer zu erreichen sein. Ich bin überzeugt, daß Ihre Schrift geistvoll u<ex>nd</ex> lesenswert ist, aber sie hat nicht auf ein großes Publicum zu rechnen, wie etwa <seg type="comment"><orig><persName key="G001687">Villaris</persName> <bibl sameAs="ed_qfw_4kd_rlb">Buch</bibl> über <persName key="G001393">Macchiav<ex>elli</ex></persName>,</orig><note xml:id="ngwb_f2j_1mb">Pasquale Villari: Niccolò Machiavelli e i suoi tempi illustrati con nuovi documenti. Bd. I. Firenze: Le Monnier 1877. - Pasquale Villari: Niccolò Machiavelli und seine Zeit durch neue Dokumente beleuchtet [...]. Band I. Mit des Verfassers Erlaubnis übersetzt von Bernhard Mangold. Leipzig: Hartung &amp; Sohn 1877.</note></seg> welches alle Bibliotheken u<ex>nd</ex> nicht wenige Privatpersonen kaufen werden, oder daß von <bibl sameAs="ed_rsm_hq2_rlb"><seg type="comment"><orig>Bonghi</orig><note xml:id="ngcq_32j_1mb">Ruggero Bonghi (1826–1895) war von 1874 bis 1876 italienischer Bildungsminister. 1875 wurde auf seine Veranlassung die „Biblioteca Vittorio Emanuele II“ in Rom eingerichtet und die „Direzione generale degli scavi e dei Musei“ gegründet.</note></seg></bibl>, welches als eine <hi rendition="#aq"><foreign xml:lang="ita">cosa di attualità</foreign></hi> <pb n="2r"/>augenblicklich die Neugierde reizt, abgesehen von den Vorteilen, die der bekannte Name des Verfassers in sich schließt. Der deutsche Buchh<ex>ändler</ex>, welcher Ihre Schrift verlegt, wird von vornherein nur so weit speculiren, daß er die Druckkosten deckt.</p>
+<p>Mir liegt diese Sache sehr am Herzen, u<ex>nd</ex> ich bin zu allen Diensten für Sie bereit; daher ich Ihren Entschluß erwarte, glaubend, daß wir mit <hi rendition="#aq">Bologna</hi> es versuchen müssen. Ist der ital<ex>ienische</ex> Verlag geliefert, so will ich alles anwenden, Cotta für die Übersetzung zu gewinnen.</p>
+<p>Es ist mir merkwürdig, daß <persName key="G001221">Guglielmi</persName> bei Ihnen erschien. Ich habe keinen Brief von ihm. Ich fürchte mich vor <bibl sameAs="G004329">seiner Übersetzung</bibl>, welche ich ihm nur zugestand aus Sympathie für ihn. Aber sie wird sicherlich <seg type="comment"><orig>eine halbe Monstruosität</orig><note xml:id="nyh5_j2j_1mb">Gregorovius kannte Domenico Guglielmi vor allem von seinen süditalienischen Reisen im Sommer 1874 und 1875 (siehe RT, S. 339–342 und 23.5.1875, S. 351–355). Mit Guglielmis Fertigkeiten als Übersetzer hatte Gregorovius im Januar 1876 eine negative Erfahrung gemacht: Zunächst wurde er auf Guglielmis Initiative vom Stadtrat von Trani zum Ehrenbürger von Andria ernannt. Nachdem Guglielmis Übersetzung von „Andria“ kurze Zeit später im „Costituzionale“ zu Trani erschienen war, machte der Stadtrat dies jedoch wieder rückgängig, da Gregorovius die Stadt als schmutzig und gesellschaftlich ausgestorben bezeichnet hatte (siehe den Brief von Gregorovius an Raffaele Mariano vom 27.1.1876 sowie „Allgemeine Zeitung“, 27.1.1876, Nr. 27, S. 383 und „Salzburger Zeitung“, Nr. 16, 21.1.1876).</note></seg> sein, u<ex>nd</ex> dürfte daher auch nicht gedruckt werden, ehe sie revidirt wird. Dasselbe sage ich von <persName key="ed_ow5_jx4_bgb"><seg type="comment"><orig><hi rendition="#aq">Cossilla</hi></orig><note xml:id="nipg_t2j_1mb">Augusto Nomis di Cossilla (1815–1881) war Sindaco von Turin (1860), Präfekt von Palermo (1863) und von Genua (1865) sowie seit 1868 Senator des Königreichs. Er übertrug mehrfach deutsche literarische und historische Werke ins Italienische, darunter Gregorovius’ „Wanderjahre in Italien“, die 1865 unter dem Titel „Ricordi storici et pittorici d’Italia“ in zwei Bänden in Mailand bei Manini erschienen. Gregorovius war mit der Übersetzung unzufrieden (vgl. RT, 25.12.1872, S. 328). Cossilla wollte auch den vierten Band der „Wanderjahre in Italien“ („Von Ravenna bis Mentana“, 1871) übersetzen (siehe den Brief von Gregorovius an Mariano, 16.8.1877). Gregorovius bezeichnete Cossilla als Mann, „der weder die deutsche, noch seine eigene Sprache in der Gewalt hat“. (siehe Ferdinand Gregorovius an Ludwig Friedländer, 26.1.1875)</note></seg></persName>, dem ich noch nicht geantwortet habe.</p>
+<p><seg type="comment"><orig>Über <persName key="ed_ezy_g42_rlb">Fr<ex>äu</ex>l<ex>ein</ex> <hi rendition="#aq">Pill<ex>ar</ex> </hi></persName></orig><note xml:id="nxcx_l2j_1mb">Cecil Pilar von Pilchau (1847–1896), spätere Ehefrau von Mariano. Er informiert Raffaele Mariano, dass sich ein beiden bekanntes Fräulein Pill. seit einem Monat in München aufhält, anfänglich noch mit ihrer Mutter. Gertrud Gräfin von Werthern-Beichlingen hat den Kontakt hergestellt. Fräulein Pill. will nach Rom weiterreisen. </note></seg>dies: ich besuchte sie vor 8 Tagen. Sie schien Mitteillungen auf der Seele zu haben, d<ex>as</ex> h<ex>eißt</ex> gern reden zu wollen; doch ließ ich es dazu nicht kommen, habe sie auch nicht zu meiner <persName key="G001111">Schwester</persName> eingeladen. Nach ihrer Äußerung scheint es, daß sie 6 Monate in München bleiben will, u<ex>nd</ex> sie sprach nicht weiter von einer Reise nach Rom. Es ist gut, <pb n="2v"/>wenn diese Beziehungen einen völligen Abschluß gefunden haben, u<ex>nd</ex> das scheint mir ist der Fall durchaus, obwol die Dame selbst möglicher Weise noch Hoffnungen nährt. Ich werde sie so halten als möglich sehen.</p>
+<p><seg type="comment"><orig>Die Übersetzung des <bibl sameAs="G003574">Euphor<ex>ion</ex></bibl> in engl<ex>ische</ex> Hexameter durch einen Engländer</orig><note xml:id="nyqn_42j_1mb">Eine englische Übersetzung ist nie erschienen.</note></seg>, welch<add place="intralinear">er</add> nicht deutsch versteht, hat mich sehr lachen gemacht, wie mich die Kühnheit <seg type="comment"><orig><persName key="G001276">Hillebrandts</persName></orig><note xml:id="nhcq_p2j_1mb">Karl Arnold Hillebrand (1829–1884) war Essayist, Historiker, Literatur- und Kulturkritiker und stammte aus einer Gelehrtenfamilie; er studierte Jura in Gießen und Heidelberg, beteiligte sich 1848/49 an den Kämpfen in Frankfurter und am badischen Maiaufstand, danach lebte er als Flüchtling in Straßburg und Paris und wurde Sekretär des Dichters Heinrich Heine; ab 1863 lehrte er fremdsprachige Literatur an der Universität in Douai; 1870 ging er mit der Pianistin Jessie Laussot, geb. Taylor (1826–1905) nach Florenz, wo er sie 1879 heiratete. In Florenz war er als freier Schriftsteller tätig. Hillbrand schätzte Gregorovius’ historisches Werk nicht, am 17.8.1874 schrieb er an Alfred von Reumont: „Haben Sie Gregorovius’ erbärmliches Buch über ‚Lucrezia Borgia‘ gelesen?“ Siehe Bonn ULB, AHR, S 1062 / Nachlass von Alfred von Reumont. Vgl. Anna Maria Voci 2015, S. 458 f. und Anm. 508. </note></seg> verwunderte, der ihn an mich zu adressiren wagte. Sie <del rendition="#s">nehm</del> erinnern sich ja seines häßlichen <bibl sameAs="G002829">Artikels</bibl> bei Gelegenheit der <persName key="G000985">Lucrezia Borgia</persName>.</p>
+<p><seg type="comment"><orig>Ich hielt meinen <bibl sameAs="G004018">Vortrag</bibl> in der <orgName key="G000494">Akademie</orgName></orig><note xml:id="nm2t_q2j_1mb">Am 1. Dezember hielt er einen Vortrag an der Akademie der Wissenschaften, der als „Ein deutscher Bericht über die Eroberung Roms durch die kaiserliche Armee Carl’s V. im Jahr 1527, von dem Augenzeugen Ambrosius von Gumppenberg“ gedruckt wurde (In: Sitzungsberichte der philosophisch-philologischen und historischen Classe der k. b. Akademie der Wissenschaften zu München. Jg. 1877. Bd. 2. München 1877. S. 329-397).</note></seg>, u<ex>nd</ex> bin froh ihn los zu sein. So durfte ich zu meinen Arbeiten wieder zurückkehren.</p>
+<p>Sagen sie Freund <persName key="G001375">Lindem<ex>ann</ex></persName>, daß ich ihm antworten werde. Auch wenn der <seg type="comment"><orig><persName key="G001497">Apis</persName></orig><note xml:id="nrrw_r2j_1mb">Papst Pius IX. (1792–1878), siehe römisches Tagebuch, 10.2.1878, S. 380: „Schon im November beunruhigte mich die Furcht, der Papst könne noch vor Jahresabschluss sterben und dies Ereignis mich zwingen, früher, als ich wollte, nach Rom zurückzukehren.</note></seg> sterben sollte, käme ich doch nicht sogleich nach Rom. Erst Anfangs Jan<ex>uar</ex> will ich nach <placeName key="G000690">Italien</placeName> abreisen. Wir haben jene endlose, hoffnungslos graue Tage, so daß der Glaube an Götter u<ex>nd</ex> alles Höhere in der Natur in der Menschenbrust ersterben muß. Wie glücklich sind die Italiener zu preisen, die so der Luft atmen.</p>
+<p>Die <persName key="G001203">Meinigen</persName> grüßen sehr. Wir haben große Cafegesellschaft mit Musik, 12 Damen und 3 Herren.</p>
+<closer>
+<salute rendition="#c">Tausend Grüße an <persName key="G001376">Lind</persName><ex>emann</ex>.</salute>
+<signed rendition="#c">Ihr FGr.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

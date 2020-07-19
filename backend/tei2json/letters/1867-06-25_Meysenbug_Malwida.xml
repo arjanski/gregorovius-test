@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000253">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Malwida von Meysenbug in Florenz. Rom, 25. Juni 1867</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>116/107 (13)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ¼ S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 5 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 86, Mappe 2 (nach D1)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Berta Schleicher: Ferdinand Gregorovius und Malwida von Meysenbug. Unveröffentlichte Briefe. In: Der Türmer. Monatsschrift für Gemüt und Geist. Jg. 25. H. 5. Stuttgart 1923. S. 316 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er schlägt ihr verschiedene italienische Sommeraufenthalte vor. Die seit dreißig Jahren bettlägerige Helen Giorgeana, die er zuweilen besucht, ist ihm ein Beispiel, dass innere Freiheit nicht von Reisen und wechselnden Aufenthaltsorten abhängig ist. Er weiß noch nicht, wo in Deutschland er mit seinem Bruder Julius zusammentrifft. Karl Lindemann-Frommel reist in einigen Tagen über Ancona zu seinem Sohn Manfred nach Karlsruhe. Rom ist überschwemmt von Priestern, die den Weg der Geschichte hemmen, jedoch auch die in Italien weiterhin praktizierten heidnischen Mysterien-Prozessionen nicht hindern können.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1867-06-25" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001418">Meysenbug, Malwida von (1816–1903)</persName>
+<placeName key="G000671">Florenz</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<dateline rendition="#right"><hi rendition="#aq">Rom</hi>, 25. <hi rendition="#aq">Juni</hi> 67.</dateline>
+</opener>
+<p>Sie wünschen, daß ich Ihnen von italien<ex>ischen</ex> Bädern Kenntniß gebe, wie sie Ihrer Absicht entsprächen – aber ich weiß davon noch weniger als Sie selbst. Warme Moorbäder dürften Sie wol nur in den großen Anstalten ohne Schwierigkeiten vorfinden, also in <placeName key="G000715"><hi rendition="#aq">Livorno</hi></placeName>, <placeName key="G000702">Nizza</placeName>, <placeName key="G000677">Genua</placeName>, <placeName key="G000894">Venedig</placeName>. Venedig bietet gewiß einen reizenden Aufenthalt auch im Sommer dar, wenn man das feste Land unter den Füßen, Wald u<ex>nd</ex> Feld entbehren kann, u<ex>nd</ex> sich vor den Plagen der Moskitos nicht fürchtet. Ich dachte für Sie an<placeName key="G000668"> <hi rendition="#aq">Fano</hi></placeName> oder jene Küste, wo es gewiß idyllisch schön ist, doch schwerlich gibt es dort den <pb n="1v"/>Luxus warmer Bäder. Wie glücklich sind Sie, daß <add place="intralinear">Sie</add> in völliger Freiheit u<ex>nd</ex> mit Freunden, Monate lang ein so wonniges Leben führen können, deßen Ortswahl Ihre einzige Qual ist. Ich kenne hier <seg type="comment"><orig>eine <persName key="G001341">Engländerin</persName>, welche schon 30 Jahre lang ihr Bette nicht verlassen hat</orig><note xml:id="nnlb_yq5_gmb">Helen Giorgeana Knight (1820–1893), die ihn an seine am 3. April 1866 in Florenz verstorbene Freundin Pauline Hillmann erinnerte; sie war seit 1860 mit dem preußischen außerordentlichen Gesandten und bevollmächtigten Minister in Neapel, Karl Friedrich Ernst Freiherr von Canitz und Dallwitz (1812–1894), verheiratet sowie Tochter des Esq. John Knight auf Woverlew (1767) und Jane Elizabeth Allanson-Winn – dadurch verschwägert mit Michelangelo Caetani, Duca di Sermoneta (1804–1882). Siehe RT, 7.4.1867, S. 222 und http://www.exmoor-nationalpark.gov.uk/__data/assets/pdf_file/0009/991260/John-Knight-biography-for-web.pdf sowie den Brief von <ref target="G000135">Gregorovius an Hermann von Thile, 12.7.1861</ref>.</note></seg>, worin sie ergraut ist. Ich besuche sie bisweilen, um von ihr zu lernen, daß der Mensch auch in Ketten frei sein kann.</p>
+<p>Ich habe noch keine Pläne fixirt, weil ich erst Nachricht von meinem <seg type="comment"><orig><persName key="G001203">Bruder</persName> erwarte, mit dem ich irgendwo in<placeName key="G000664"> Deutschland</placeName> zusammentreffen möchte</orig><note xml:id="nkrb_zq5_gmb">Gregorovius traf mit seinem Bruder Julius am 22. Juli 1867 in Stuttgart (siehe RT, 27.7.1867, S. 228).</note></seg>. <seg type="comment"><orig><persName key="G001375">Lindemann</persName> reist, so glaube ich, in einigen Tagen über <placeName key="G000703">Ancona</placeName></orig><note xml:id="nxcn_1r5_gmb">Karl Lindemann-Frommel reiste zu seinem Sohn Manfred nach Karlsruhe, der dort Architektur studierte.</note></seg>. Sie haben vielleicht die Güte, mir mitzuteilen, für welchen Ort Sie sich entschieden haben. Es <pb n="2r"/>ist hier sehr heiß; dazu <seg type="comment"><orig>watet man in Pfaffheit</orig><note xml:id="nu3z_br5_gmb">Siehe beispielweise RT, 18.4.1867 (Gründonnerstag), S. 223.</note></seg>. <seg type="comment"><orig>Hier sind die großen Feste für <persName key="G001311">Isis</persName> u<ex>nd</ex> <persName key="G001463">Osiris</persName> u<ex>nd</ex> den Ochsen <persName key="G000935">Apis</persName></orig><note xml:id="nb2n_fr5_gmb">Siehe RT, 8.7.1867, S. 226. Der ursprünglich aus Ägypten stammende Isis- und Osiriskult gehörte zu den in der Kaiserzeit und Spätantike im Römischen Reich am meisten verbreiteten Mysterienkulten, der die Grundlage des ägyptischen Königtums ist. Schon die Römer versuchten mehrfach den überhand nehmenden Kult abzuschaffen. </note></seg>. Glauben Sie mir, diese Götzen werden noch lange fest auf den Quadern der Unwissenheit u<ex>nd</ex> des Aberglaubens ruhen – zumal dies Land <placeName key="G000690">Italien</placeName> in so innerer Verkommenheit versunken liegt. Ich betrachte dies mit Trauer – es ist wie Windstille, wo das Schiff nicht weiter kommt, trotz dem d<ex>a</ex>ß Matrosen zanken und lärmen. Fast waren die Italiener glücklicher, als noch der Fremde sie bedrückte – da gab es um hohe Ziele zu kämpfen – nun sind <add place="intralinear">sie</add> mit Niederlagen unabhängig geworden u<ex>nd</ex> sehnen sich vielleicht selbst nach einem edeln Kampf zurück. Denn für den tieferen, der übrig bleibt, sind sie abgestorben. Es reitet sie jetzt der schwarze Pfaff, wie jener <seg type="comment"><orig>Dämon <pb n="2v"/>aus <persName key="G001606">Sindbad’s</persName> Reisen</orig><note xml:id="nad1_hr5_gmb">Auf den Reisen von „Sindbad der Seefahrer“ aus den Märchen aus Tausendundeiner Nacht, die Scheherazade ihrem König erzählt, begegnen Sindbad immer wieder Dämonen in wechselnder Gestalt, die danach trachten, ihn mit List von seinem Weg abzubringen. So strandet Sindbad auf seiner fünften Reise auf einer Insel, wo er einem Greis begegnet, der ihn bittet, ihn ein Stück weit zu tragen. Als Sindbad den Greis, der der Herr des Meeres ist, auf die Schultern nimmt, schlingt dieser die Beine fest um seinen Hals. Erst als er ihn mit Wein betäubt, gelingt es Sindbad ihn abzuwerfen, danach erschlägt er ihn mit einem Stein.</note></seg>. Ein trostloses Schauspiel ausgebrannten Lebens.</p>
+<p>Ich sah eine Photographie von <persName key="G001268">Olga</persName>, die nun groß geworden sein muß. Die herrlichen <persName key="G001267"><seg type="comment"><orig>Kinder</orig><note xml:id="nvx4_hr5_gmb">Mit ihren Pflegetöchtern Olga (1850–1953) und Natalie Herzen (1844–1936) hielt sich Malwida von Meysenbug in Florenz auf.</note></seg></persName> grüße ich beide viele Mal. Es gehe Ihnen allen gut u<ex>nd</ex> besser!</p>
+                <closer>
+<signed rendition="#right">G.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

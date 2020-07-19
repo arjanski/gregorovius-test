@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_nzl_1fj_cmb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. Rom, 26. Mai 1881</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free">
+                <licence target="http://creativecommons.org/licenses/by/4.0/">
+                    Creative Commons Attribution 4.0 International (CC BY 4.0)
+                </licence>
+            </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Illmo Signore / il Signor Conte Giovanni Gozzadini / senatore del Regno / Bologna</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell’Archiginnasio</institution><collection>Ms. Gozzadini 442</collection><idno> <idno type="shelfmark">(38)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für den Erhalt von zwei neuen Abhandlungen Gozzadinis zur Nekropolis der etruskischen Stadt Felsinea (Di un utensile tratto dalla necropoli felsinea; Di due sepolcri e di un frammento ceramico nella necropoli felsinea, 1881). In Rom hat er die Familie Caetani besucht und Zeit mit Matteo Ricci, mit dem er die Verbindung zu Paolo Perez teilt, verbracht, ansonsten jedoch wenig unternommen und wenig gearbeitet. Ersilia Caetani Lovatelli geht es besser. In Kürze wird er nach München zurückreisen. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1881-05-26" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni conte (1810-1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Roma, 26. Maggio 1881.</dateline>
+                    <salute rendition="#c">Illustre signor Conte,</salute>
+                </opener>
+<p>la ringrazio benchè tardi dell’avermi gentilmente tramandato <seg type="comment"><orig>i <bibl sameAs="ed_ysc_1sc_fmb">due opuscoli</bibl>, che trattano oggetti ritrovati nella necropoli Felsinea</orig><note xml:id="nrnh_ssc_fmb">Gozzadini hatte bereits 1868 schon einmal zu dem Gräberfeld der etruskischen Hauptstadt der Poebene pubbliziert: Di alcuni sepolcri della necropoli felsinea. Ragguaglio. Bologna: Tipografia Fava e Garagnani. Möglicherweise hatte er Gregorovius die beiden Bände geschickt.</note></seg>. Essi danno mi anche a conoscere, che l’autore indefesso gode perfetta salute. </p>
+<p>Quanto a me, <seg type="comment"><orig>ho passato non bene il mio tempo in Roma, tra per aver dovuto cambiar casa</orig><note xml:id="nspj_wsc_fmb">Er war am 5. Februar von München abgereist und nach mehreren Stationen in Norditalien am 20. Februar in Rom eingetroffen: „Hier fand ich zur Not ein Nachtlager im Hotel Molaro, mußte dann eine elende Wohnung in der Gregoriana nehmen und darin zehn Tage verlieren, bis ich wieder bei den trefflichen Sartori (n. 44) einziehen konnte.“ (RT, 1881, S. 422).</note></seg>, e per esser stato lungo tempo indisposto, soffrendo quel brutto male, che sie chiama insonnia. Per la quale cagione <seg type="comment"><orig>ho dovuto rinunciare per parte mia ai miei lavori</orig><note xml:id="nppg_ysc_fmb">Seinem Eintrag im Tagebuch zufolge hatte er hingegen viel im Archäologischen Institut gearbeitet (vgl. RT, 1881, S. 422), um Material für seine Biographie der byzantinischen Kaiserin, die unter dem Titel „Athenaïs“ 1882 bei Brockhaus erscheinen sollte, zusammenzutragen.</note></seg>, e astenermi ancora dalla società in modo, che ho frequentato pochissime case di amici, <seg type="comment"><orig>fra le quali nominerò quelle del <persName key="G001004">duca di Sermoneta</persName> e di <persName key="G001011">Donna Ersilia</persName></orig><note xml:id="nzvg_ltc_fmb">Neben seiner engen Freundschaft mit der ausgezeichneten Archäologin Ersilia Caetani Lovatelli (1840–1925), mit der Gregorovius einen regen Briefkontakt pflegte, war er auch deren Vater, dem Dante-Forscher und Grafen von Sermoneta Michelangelo Caetani (1804–1882) freundsachftlich verbunden.</note></seg>. Pare che l’ultima oramai abbia superato la crisi morale, in cui dovette cadere <seg type="comment"><orig>dopo la perdita da lei fatta</orig><note xml:id="nlj5_mtc_fmb">Die Gräfin hatte im September 1879 ihren Gatten, Giacomo Colombo Lovatelli (1832–1879), mit dem sie seit 1859 verheiratet gewesen war, verloren. Verwitwet war sie allein mit den fünf gemeinsamen Kindern, Callista (1860), Rosalia Gabriella (1872), Filippo (1874), Giovanni (1859) und Witoldo (1869), zurückgeblieben. </note></seg>, e così si verifica anche qui, che nulla può resistere all’operazione del tempo, medico sommo sia per distruggere, o sia per sanare</p>
+<p><pb n="2"/>Ebbi la bella sorpresa, di veder comparire quì da me, or tre settimane fa, <seg type="comment"><orig>l’insigne <persName key="ed_y32_stc_fmb">Matteo Ricci</persName></orig><note xml:id="nt3y_ztc_fmb">Den aus Macerata stammenden Übersetzer, Schriftsteller und Politiker Matteo Ricci (1826–1896) hatte Gregorovius bereits 1856 in Rom kennengelernt (siehe RT, 30.4.1856, S. 61). Ricci war als Mitarbeiter der „Rassegna Nazionale“, Übersetzer von Aristoteles sowie mit Schriften zur römischen Politik der Antike bekannt geworden. Ab 1890 war er Mitglied im römischen Senat.</note></seg>, e di discorrere seco lui dei giorni passati, <seg type="comment"><orig>quando il nostro diletto <persName key="G001483">Paolo</persName> mi fu compagno in Roma</orig><note xml:id="nsqw_b5c_fmb">Der Cousin der Gräfin Maria Teresa Serego Alighieri Gozzadini (1812–1881), Paolo Perez (1822–1879), hatte Gregorovius in die römischen Intellektuellenkreise eingeführt, ihm fühlte er sich sehr verbunden, weshalb er auch dessen Eintritt in den Rosminianer-Orden 1856 zutiefst bedauert hatte. Regelmäßig kommt Gregorovius in seinen Briefen an die Gozzadinis deshalb auch auf Perez zu sprechen. Wo Ricci und Perez miteinander bekannt geworden waren, ist nicht ermittelt.</note></seg>. </p>
+<p>Il mio soggiorno quì intanto volge alla sua fine; credo di partirmi verso il due del mese pross<ex>imo</ex> avvenire. <seg type="comment"><orig>Se prendessi la solita via di ritorno</orig><note xml:id="ncpk_f5c_fmb">Er reiste am 5. Juni über Ancona, Rimini, Faenza, Bologna und Verona nach München zurück, wo er am 8. Juni eintraf. Zu einem Treffen mit den Gozzadinis kam es allerdings nicht (siehe RT, 1881, S. 423).</note></seg>, non mancherei di visitare Lor Signorie, ma prenderò invece quella di <placeName key="G000754">Pisa</placeName>-<placeName key="G000677">Genova</placeName>. </p>
+<p>Augurando a Lei e alla gentilissima Signora <persName key="G001092">Contessa</persName> la più bella stagione di villeggiatura, mi raccomando alla di Loro benevola ricordanza quale lor affettuosamente</p>
+                <closer>
+                    <salute rendition="#c">devoto</salute>
+                    <signed rendition="#right">Ferdin. Gregorovius</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

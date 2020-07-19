@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000129">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Heinrich Brockhaus in Leipzig. Rom, 3. März 1861 </title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (60)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 8°, 4 S. – 2v alR, Blatt um 90° gedreht, aoR Eingangs- und Beantwortungsvermerk: 1861. / <hi rendition="#aq">Rom</hi>, 3./26. <hi rendition="#aq">März</hi>. / <hi rendition="#aq">Gregorovius</hi>.  </p>
+<p>Billett von Gregorovius an Robert Prutz</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 55, Mappe 332 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Vorliegdender Brief wird durch Rudolf Hercher nach Deutschland befördert. Für das „Historische Taschenbuch“ kann er wegen seiner Arbeit am vierten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1862) nichts liefern. In Rom ist Julia Salis-Schwabe; ihre Tochter Harriet Emily Schwabe hat sich mit dem in Neapel tätigen Arzt Carl Binz verlobt. Das Königreich Italien hätte er noch vor Kurzem nicht für möglich gehalten. Nachdem Giuseppe Garibaldi Vittorio Emanuele II. als „König von Italien“ anerkannt hat, werden hoffentlich auch Venetien und der Kirchenstaat bald Teil des vereinten Italien werden. Er unterstützt den Wunsch der Bibliothek der Deutschen im Palast Caffarelli, die seine bei Brockhaus erschienenen Werke als Geschenk erbitten. Er selbst wünscht die Arbeit über Arnold von Brescia von Karl Hase. Eduard Brockhaus bittet er zu grüßen. Das Format seiner „Siciliana.Wanderungen in Neapel und Sicilien“ (1861) gefällt ihm besser als das seiner „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856). Das für seine Stiefmutter Emilie Auguste Gregorovius nach Königsberg erbetene Freiexemplar seiner „Siciliana“ scheint nicht angekommen zu sein. Das beiliegende Billett bittet er an Robert Prutz zu übermitteln, nach dessen gesundheitlichem Zustand er sich erkundigt.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">The present letter is brought to Germany by Rudolf Hercher. He cannot hand in anything for the „Historische Taschenbuch“ because of his work on the fourth volume of his „Geschichte der Stadt Rom im Mittelalter“ (1862). Julia Salis-Schwabe is in Rome; her daughter Harriet Emily Schwabe got engaged to Carl Binz, a doctor working in Naples. He would not have thought the Kingdom of Italy possible only a short time ago. After Giuseppe Garibaldi recognized Vittorio Emanuele II. as „King of Italy“, hopefully Veneto and the Papal States will soon become part of the united Italy. He supports the wish of the Bibliothek der Deutschen in the Palazzo Caffarelli, which is requesting his works published by Brockhaus as a gift. He himself wanted Karl Hase to write a work on Arnold von Brescia. He asks to give his regards to Eduard Brockhaus. He likes the format of his „Siciliana.Wanderungen in Neapel und Sicilien“  (1861) better than that of his „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856). The complimentary copy of his „Siciliana“ requested for his stepmother Emilie Auguste Gregorovius in Königsberg seems not to have arrived. He asks Brockhaus to send the enclosed note to Robert Prutz and inquires about his health. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1861-03-03" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G000996">Brockhaus, Heinrich (1804–1874)</persName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">Rom 3. März 1861.</dateline>
+</opener>
+<p>Haben Sie meinen besten Dank, sehr verehrter Herr, für Ihre freundlichen Zeilen, die ich gestern erhielt; meine Antwort <seg type="comment"><orig>nimmt <persName key="G067609">Professor Hercher</persName> aus <placeName key="G067587">Rudolstadt</placeName> mit nach <placeName key="G000664">Deutschland</placeName></orig><note xml:id="nt45_y3j_1mb">Der Altphilologe Rudolf Hercher (1821–1878), langjähriger Professor an Gymnasium in Rudolstadt, hatte mehrfach Forschungsreisen unternommen; sein seit 1859 währender Forschungsaufenthalt in Rom war wegen einer vor Ort autretenden Augenkrankheit um ein Jahr verlängert worden. nach seiner Rückkehr trat Hercher im Herbst 1861 eine Stelle am Joachimsthalschen Gymnasium in Berlin an. Er galt als einer der besten Kenner der Spätantike und unterhielt Kontakt zu namhaften Wissenschaftlern wie August Meineke (1790–1870), Theodor Mommsen (1817–1903) und zu dem Gräzisten Adolf Kirchhoff (1826–1908), mit denen zusammen er 1866 das noch heute bestehende Periodikum „Hermes. Zeitschrift für classische Philologie“ gründete.</note></seg>. Könnte ich nur gleich Ihrem Auftrage, für das <orgName key="G000491"><seg type="comment"><orig>Historische Taschenbuch</orig><note xml:id="nz3r_djj_1mb">Das seit 1830 von Friedrich von Raumer (1781–1873) bei Brockhaus in Leipzig herausgegebene „Historische Taschenbuch“.</note></seg></orgName> einen Artikel zu schreiben, entsprechen! Nun aber denken Sie mich, mein teurer Herr, in einem Ocean von <seg type="comment"><orig>Arbeit für den I<bibl sameAs="G003462">V. Band der Geschichte der Stadt Rom</bibl> gleichsam versunken, während obenein ein mir selbst gestellter Termin mich drängt</orig><note xml:id="njjv_fjj_1mb">Die Fertigstellung des Manuskripts des vierten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ hatte Gregorovius Cotta zum Ende des Jahres 1861 angekündigt (siehe den Brief von Gregorovius an Cotta, 14.1.1861 in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 241–242) – er erschien 1862.</note></seg>; denn im Sommer kann ich nicht arbeiten, sondern muß mich <seg type="comment"><orig>auf Reisen</orig><note xml:id="nlrn_ljj_1mb">Gregorovius reiste am 24. August 1861 über Civitavecchia und Terni nach Foligno und Perugia; am 28. August fuhr er weiter nach Florenz, wo er bis zum 20. September 1861 blieb (siehe RT, 26.8.-17.9.1861, S. 136–137).</note></seg> oder mit Versen u<ex>nd</ex> sonstigen Allotrien erholen. Ein Artikel für das Taschenbuch würde mich, schlecht gerechnet, 1 Monat kosten. <seg type="comment"><orig><hi rendition="#aq"><foreign xml:lang="Lat">Non</foreign></hi> <foreign xml:lang="Lat">possumus</foreign></orig><note xml:id="ncjg_njj_1mb">Lat.: wir können nicht.</note></seg> sage ich mit Trauern als ein eingefleischter Römer; doch gibt es ja noch andere Zeiten u<ex>nd</ex> Mußestunden.</p>
+<p>Ich bin wahrhaft erfreut, daß ich von Ihnen wieder einmal hörte; ich denke, <seg type="comment"><orig>Sie reisen vielleicht aufs Neue in den Süden</orig><note xml:id="nclf_4jj_1mb">Heinrich Brockhaus hatte von Oktober 1857 bis Mai 1859 eine Reise nach Ägypten, Palästina, Syrien, Konstantinopel, Griechenland, Sizilien, Malta und Italien unternommen. Währenddessen führte sein Sohn, Eduard Brockhaus (1829–1914), die Verlagsgeschäfte. Im März 1859 hatte Gregorovius ihn in Rom kennengelernt und befand, er sei „ein lebenskräftiger und einfacher Mann“ (siehe RT, 2.4.1859, S. 78).</note></seg>, besuchen <placeName key="G000710">Corsica</placeName> u<ex>nd</ex> <pb n="1v"/><placeName key="G000862">Sardinien</placeName>, oder die schöne <placeName key="G000575"><seg type="comment"><orig>Trinakria</orig><note xml:id="npfh_1kj_1mb">Der griechische Name Siziliens, Trinakria, zu deutsch „Drei-Kap“. Er geht auf die Form der Insel Sizilien zurück, die in etwa die Form eines Dreiecks hat.</note></seg></placeName>. </p>
+<p><seg type="comment"><orig>Hier ist die große <persName key="G004733">Madame <hi rendition="#aq">Schwabe</hi></persName>, intime Freundin aller Celebritäten</orig><note xml:id="nyjq_bkj_1mb">Die schwerreiche Philanthropin Julie Salis-Schwabe (1818 oder 1819–1896), eine geborene Deutsche, die Witwe des deutschen Industriellen Adolf Salis Schwabe (1800–1853) aus Manchester, hielt sich immer wieder in Italien auf. Den Winter 1859 /1860 hatte sie mit Malwida von Meysenbug (1816–1903) in Paris verbracht.</note></seg> zwischen Himmel und Erden, eine wirklich gutmütige Frau – <seg type="comment"><orig>ihre <persName key="G067610">Tochter</persName> hat sich eben verlobt mit einem deutschen Arzt aus <placeName key="G000737">Neapel</placeName>, Namens <hi rendition="#aq"><persName key="G067621">Binz</persName></hi></orig><note xml:id="ntl4_2kj_1mb">Harriet Emily Schwabe (1839–1911) heiratete 1861 den Pharmakologen und Medizinhistoriker Carl Binz (1832–1913), der 1859–1861 Korpsarzt der Deutschen Kolonie in Neapel war.</note></seg>, u<ex>nd</ex> schwärmt in den Delizien dieses amorosen Zwischenreichs. </p>
+<p>Die Aufstellung eines <seg type="comment"><orig>Königreichs <placeName key="G000690">Italien</placeName></orig><note xml:id="nddg_gkj_1mb">Vittorio Emanuele (1820–1878), König von Sardinien, wurde am 14. März 1861 als Vittorio Emanuele II. zum König von Italien proklamiert.</note></seg> hielt ich noch im <hi rendition="#aq">December</hi> für einen Traum, nun wird sie eine schöne oder heilsame u<ex>nd</ex> praktische Realität. <seg type="comment"><orig>Ohne <placeName key="G000894">Venedig</placeName> ist Italien freilich erst ein Torso, u<ex>nd</ex> ohne Rom ein Körper ohne Eingeweide</orig><note xml:id="nmyj_hkj_1mb">In Folge der Niederlage Österreichs im Sardinisch-französischen Krieg 1859 war einzig Venetien bei Österreich verblieben. Auch die östlichen Provinzen des Kirchenstaates hatten sich erhoben, so dass die Romagna, Umbrien und die Marken abgespalten wurden und der Kirchenstaat auf die Unterstützung Frankreichs angewiesen war, um sein auf Rom und Latium beschränktes Territorium zu halten. </note></seg>: nun aber die Angelegenheiten den Factionen entzogen sind, u<ex>nd</ex> der wackere <seg type="comment"><orig><persName key="G001160">Garibaldi</persName> in <hi rendition="#aq"><placeName key="G000645">Caprera</placeName></hi> Ziegen hüten muß</orig><note xml:id="nhbj_kkj_1mb">Am 1. Oktober 1860 hatte Giuseppe Garibaldi (1807–1882) mit seinen Freischaren die Schlacht am Volturno (ein Fluss nördlich von Neapel) gegen das Heer des Königreichs beider Sizilien gewonnen und damit das Ende des bourbonischen Königreichs Neapel besiegelt. Am 26. Oktober 1860 hatte sich Vittorio Emanuele (1820–1878) in Teano bei Neapel mit Garibaldi getroffen, bei dem dieser dem piemontesischen Monarchen das Königreich beider Sizilien übergab. Garibaldi wurde beurlaubt und hatte sich Anfang November 1860 auf sein Landhaus, auf der Sardinien vorgelagerten Insel Caprera, zurückgezogen – die Garibaldischen Freischaren wurden aufgelöst. „Garibaldi ist am 7. November wirklich nach Caprera gegangen, aber er hat als General der Armee nur einen Urlaub von drei Monaten. Der Mohr hat seine Schuldigkeit getan; seine Freischar wird aufgelöst“, kommentierte Gregorovius in seinem Tagebuch (siehe 22.11.1860, S. 115).</note></seg>, kann man wol hoffen, daß die innere Consolidirung so sicher u<ex>nd</ex> stark sein werde, daß sie Rom u<ex>nd</ex> Venedig nachzieht. Die isolirte Stellung des <orgName key="G000539">Papsttums</orgName> gegenüber der Nation ist so neu, <pb n="2r"/>furchtbar, u<ex>nd</ex> folgenschwer, daß ich mit Aufregung der Entwicklung dieser Dinge entgegensehe, zumal als Geschichtschreiber des Mittelalters, dessen <seg type="comment"><orig>letztes System nun begraben wird</orig><note xml:id="ngbf_1lj_1mb">Der Kirchenstaat – so auch im Brief von <ref target="G000124">Gregorovius an Hermann von Thile, 30.9.1860</ref>.</note></seg>. Es geht eine gute Ära über der Menschheit auf, u<ex>nd</ex> wir selbst sehen noch ihren Beginn.</p>
+<p>Ich habe <seg type="comment"><orig>den Wechsel</orig><note xml:id="ncj3_clj_1mb">Die Einreichung des Honorarwechsels für seinen soeben erschienenen Band „Siciliana. Wanderungen in Neapel und Sicilien“ zeigte Gregorovius dem Verlag am 29. April 1861 an (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 61; siehe RT, 22.11.1860, S. 115). </note></seg> noch nicht abgegeben; wahrscheinlich thue ich das Ende April, wo ich dann nicht ermangeln werde, es anzuzeigen.</p>
+<p>Die hiesige <orgName key="G000460">Bibliothek der Deutschen</orgName>, welche sich durch Geschenke recrutirt, ersucht mich dringend u<ex>nd</ex> wiederholt, mich bei Ihnen wegen <bibl corresp="G003114 G003183 G003252 G003430 G003574 G004072">meiner Schriften</bibl> Ihres <orgName key="G000480">Verlages</orgName> zu verwenden: dies thue ich hiermit gern u<ex>nd</ex> feierlichst; sollten Sie geneigt sein, sie damit zu unterstützen, so möchten Sie die Güte haben, das <seg type="comment"><orig>Paket unter der Adresse „Legation de Prusse“ (Bibliothek der Deutschen in Rom) per <hi rendition="#aq"><orgName key="G000545">Spithöver</orgName></hi> hieher gelangen zu laßen</orig><note xml:id="naqx_jlj_1mb">Brockhaus schickte die Bücher an die deutsche Buchhandlung von Joseph Spithöver in Rom (siehe den Brief von <ref target="G000133">Gregorovius an Brockhaus, 30.4.1861</ref>).</note></seg>.</p>
+<p><persName key="G001238">Herr <seg type="comment"><orig>Kirchenrat Haase</orig><note xml:id="nigl_mlj_1mb">Der mit Gregorovius befreundete Jenaer Kirchenhistoriker Karl Hase (1800–1890) hielt sich mehr als ein Dutzend Mal in Italien auf.</note></seg></persName> hat, wie ich mich erinnere, eine belobte <seg type="comment"><orig>Abhandlung über <persName key="G067622"><hi rendition="#aq">Arnold</hi> von Brescia</persName></orig><note xml:id="nel4_4lj_1mb">Möglicherweise das Kapitel „Arnold von Brescia und Bernhard von Clairvaux“ in der 1831 in Leipzig bei Breitkopf und Härtel zuerst erschienen, vielfach aufgelegten „Kirchengeschichte“ von Karl Hase (1848, S. 204–205) – siehe http://opacplus.bsb-muenchen.de/title/BV014241314/ft/bsb10025079?page=222.</note></seg> ge- <pb n="2v"/>schrieben; könnte ich vielleicht durch Ihre gütige Vermittlung zu dieser Abhandlung gelangen?</p>
+<p>Ich schließe, sehr verehrter Herr, mit der Bitte, mich Ihrem <persName key="G000995">Herrn Sohne</persName> freundlichst zu empfehlen, mit dem herzlichen Wunsche, daß Sie gesund, heiter und angenehm Ihre Tage zwischen dem <seg type="comment"><orig>Ernste Leipzigs</orig><note xml:id="nq2h_qlj_1mb">Friedrich Brockhaus (1800–1865), der Bruder von Heinrich Brockhaus, mit dem zusammen er den Verlag bis 1850 führte, hatte 1821 als Firmensitz ein Gebäude in der Leipziger Querstraße erworben, das sich durch Grundstückszukäufe und Erweiterungsbauten immer mehr ausweitete. </note></seg> u<ex>nd</ex> de<subst><del rendition="#ow">m</del><add place="across">n</add></subst> Reiz Ihrer <seg type="comment"><orig>Villa <placeName key="G000666">Dresdens</placeName></orig><note xml:id="ng5s_5lj_1mb">Heinrich Brockhaus hatte 1847 in der, heute nach ihm und seinem Vater Friedrich Arnold Brockhaus (1772–1823) benannten, Dresdener Brockhausstraße ein Gartengrundstück erworben, auf dem er einen Landschaftspark anlegen ließ. In dessen erhöhter Mitte standen zwei villenartigen Häuser, die bis ins 20. Jahrhundert von der Familie als Sommersitz oder als ständige Wohnung genutzt wurden. </note></seg> teilen.</p>
+<closer>
+<salute rendition="#c">Mit wahrhafter Ergebenheit <lb/>getreulichst</salute>
+    <signed rendition="#right">Ferd Gregorovius.</signed></closer>
+<note type="postscript" xml:id="n1" next="#n2">Das <seg type="comment"><orig>Format der <bibl sameAs="G003252">Siciliana</bibl> scheint mir viel angenehmer als das der <bibl sameAs="G003114">Figuren</bibl></orig><note xml:id="ncrt_zlj_1mb">Siehe den Brief von Gregorovius an Brockhaus vom <ref target="G000123">13.9.1860</ref>, im dem er um eine Änderung des Formats des Bandes seiner „Siciliana. Wanderungen in Neapel und Sicilien“ (1861) gegenüber seinen „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) gebeten hatte.</note></seg>, die ich freilich nicht besitze – können Sie denken, daß ich kein einziges von meinen Büchern besitze, die Sie gedruckt haben? Denn es gibt immer Menschen, die es mir wegnehmen. Es scheint nicht, daß <seg type="comment"><orig>das Exemplar an die <persName key="G001198">Justizrätin Gregorovius</persName> per <hi rendition="#aq"><orgName key="G067520">Gräfe</orgName> <placeName key="G000699">Konigsberg</placeName></hi> dort hin gekommen sei</orig><note xml:id="ncf2_gmj_1mb">Gregorovius hatte seiner Stiefmutter Emilie Auguste Gregorovius (1797–1866) vom Verlag ein Exemplar seiner „Siciliana“ (1861) nach Königsberg, über die Buchhandlung Gräfe und Unzer, zukommen lassen wollen (siehe den Brief von Gregorovius an Brockhaus, 26.11.1860; Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 59).</note></seg>. </note>
+<note type="postscript" xml:id="n2" prev="#n1" place="left" rendition="#v">Wollten Sie die Güte haben, beiliegendes Billet an <persName key="G001512"><seg type="comment"><orig>Herrn <hi rendition="#aq">Prutz</hi> gelegentlich zu befördern. Steht es wirklich unheilbar mit ihm</orig><note xml:id="ncbz_jmj_1mb">Der Schriftsteller Robert Prutz (1816–1872), 1851–1866 der Herausgeber der Brockhaus-Zeitschrift „Deutsches Museum“, war in seinen letzten Lebensjahren zunehmend eingeschränkt. 1862 erlitt er einen ersten Schlaganfall.</note></seg></persName>?</note>
+</div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067891">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Pietro Venturi in Rom. Rom, 25. Mai 1877</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Archivio Storico Capitolino di Roma</repository><collection>Gabinetto del Sindaco (1877), posizione 48</collection><idno>busta 23, fascicolo 7</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ½ S. – 1r aoR, Bearbeitervermerk: 29.5.77 / $ Antonelli / $</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er empfiehlt Renato Manzato, den italienischen Übersetzer seiner „Geschichte der Stadt Rom im Mittelalter“ (1872–1876). Er bittet Manzato dem Bildungsminister Michele Coppino für den Ritterorden der „Corona d’Italia“ vorzuschlagen. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1877-05-25" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001674">Venturi, Pietro (1824-1892)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Roma, 25. Maggio 1877.</dateline>
+                    <salute rendition="#c">Onorevole <seg type="comment"><orig>signor Sindaco</orig><note xml:id="ncwn_ct3_1mb">Pietro Venturi (1824–1892), seit Januar 1875 ernannter Bürgermeister Roms, sollte dieses Amt noch bis November 1877 innehaben. </note></seg>,</salute>
+                </opener>
+<p>mi prendo la libertà di raccom<choice><sic>m</sic><corr type="deleted"/></choice>andare alla di lei benevolenza <seg type="comment"><orig>l’avvocato e professore <persName key="ed_mbt_yjh_zkb">Renato Manzato</persName></orig><note xml:id="nllk_dt3_1mb">Der studierte Jurist Renato Manzato (1847–1925) unterrichtete an einer Schule in Venedig und hatte zum Zeitpunkt seiner Arbeit mit Gregorovius’ Werk keinerlei Übersetzungserfahrung.</note></seg>, di <placeName key="G000894">Venezia</placeName>, <seg type="comment"><orig>traduttore della mia <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">storia della Città di Roma</bibl></orig><note xml:id="na3t_2t3_1mb">In der Angelegenheit um die italienische Übersetzung seiner „Geschichte der Stadt Rom im Mittelalter“ hatte sich Gregorovius bereits ein Jahr zuvor an Venturi gewandt; siehe den Brief von Gregorovius an Pietro Venturi vom 5.5.1876.</note></seg>. La <bibl corresp="G004367">sua versione</bibl>, <seg type="comment"><orig>lavoro che gli ha costato molta fatica e l’assiduità di molti anni</orig><note xml:id="njp3_ht3_1mb">Manzato hatte, auf Grundlage eines Vertrags mit dem venezianischen Verlag Giuseppe Antonelli vom 20. Juni 1865 (BSB München, NL Gregorovius, Gregoroviusiana 26), die ersten beiden Bände von Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ übersetzt (Storia della città di Roma nel Medio Evo, dal secolo V al XVI. Prima versione italiana di Renato Manzato. Venedig, Turin: Guiseppe Antonelli 1866. (Nuova Collezione di Opere Storiche ; Vol. VIII). Da diese Arbeit Gregorovius allerdings missfiel, untersagte er deren Fortsetzung (siehe den Brief von Gregorovius an Franz Rühl vom 29.6.1871; Universitäts- und Landesbibliothek Bonn, NL Franz Rühl; Sign. S 2606 (12)). Manzato besorgte später eine neue Übersetzung nach der zweiten Auflage der deutschen Ausgabe der „Geschichte der Stadt Rom im Mittelalter“ und vollendete diese 1876 in neun Bänden. Laut Tagebuch intervenierte Gregorovius ab dem vierten Band in diese Arbeit und lieferte der Übersetzung Zusätze der dritten deutschen Auflage; siehe RT, S. 509–510, Anm. 55.</note></seg>, quantunque non del tutto perfetto, pur è da noverarsi tra le migliori traduzioni di opere storiche. Per ciò credo, che codesto giovane si sia reso benemerito delle lettere patrie e siasi mostrato degno di qualche distinzione da contribuirgli in segno di approvazione dalla parte <pb n="1v"/>dell’ alto <orgName key="G000503">Ministerio di istruzione pubblica</orgName>. Siccome poi l’ illustre <orgName key="G004663">Municipio di Roma</orgName> con <seg type="comment"><orig>deliberazione generosa ha preso parte all’ impresa difficile della traduzione dell’ opera</orig><note xml:id="nxgw_3t3_1mb">Auf Antrag des Marchese Francesco Nobili-Vitelleschi (1829–1906) hatte der Gemeinderat Roms am 13. Juli 1872 die Kostenübernahme für die Fortsetzung der Übersetzung von Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ ins Italienische beschlossen; siehe den Brief von Gregorovius an Pietro Venturi vom 17.8.1872. In den folgenden Jahren kam es mit dem die Übersetzung verantwortenden venezianischen Verlag Antonelli zu Schwierigkeiten hinsichtlich ausstehender Zahlungen und Einhaltungen von Lieferfristen, weshalb sich Gregorovius bereits früher in dieser Angelegenheit mehrfach an den Bürgermeister gewandt hatte; siehe die Briefe von Greorovius an Pietro Venturi vom 14. und 22.6.1875.</note></seg>, facilitandone il procedimento e il compimento, credo addirittura di far cosa conosciente alle intenzioni di V<ex>ostra</ex> S<ex>ignoria</ex> Ill<hi rendition="#sup"><ex>ustrissi</ex>ma</hi>, se mi rivolgo a lei colla preghiera, di voler designare il suddetto signor Manzato a Sua Eccellenza <seg type="comment"><orig>il signor <persName key="G001048">Ministro dell’ istruzione pubblica</persName></orig><note xml:id="nlq5_jt3_1mb">Michele Coppino (1822–1901) war von April bis Oktober 1867 und von November 1876 bis März 1878 Bildungsminister des Königreichs Italien. Diese Position sollte er weitere zweimal auch in späteren Jahren innehaben.</note></seg> come persona, che meriterebbe di esser distinto <pb n="2r"/>della <seg type="comment"><orig>croce di cavaliere della Corona d’ Italia</orig><note xml:id="nlxv_kt3_1mb">König Vittorio Emanuele II. hatte den Orden der Krone von Italien, gegliedert in fünf Klassen, darunter den „Ritter“, als Verdienstorden für außerordentliche, im Interesse der italienischen Nation geleistete Diensten ins Leben gerufen.</note></seg>. </p>
+<p>Essendo persuaso che <seg type="comment"><orig>Ella benevolmente accoglierà la mia proposizione</orig><note xml:id="nrkv_mt3_1mb">Zwei Entwürfe, eine Antwort an Gregorovius und ein Bittschreiben an Coppino, im Amtsbuch des Bürgermeisters belegen die Initiative Venturis in der Sache: Am 1. Juni sollte er den Bildungsminister um Auszeichnung des Übersetzers der „Geschichte der Stadt Rom im Mittelalter“ bitten (siehe die Entwürfe vom 1.6.1877 im Archivio Storico Capitolino di Roma, Gabinetto del Sindaco (1877), posizione 48, busta 23, fascicolo 7). Eine Auszeichnung Manzatos mit dem Ritterorden ist nicht nachweisbar.</note></seg>, ho l’onore di protestarmi</p>
+                <closer>
+<salute xml:id="s1" next="#s2" rendition="#c">di V<ex>ostra</ex> S<ex>ignoria</ex> Ill<hi rendition="#sup"><ex>ustrissi</ex>ma</hi></salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">obligatissimo servitore</salute>
+<signed rendition="#right">Ferdinando Gregorovius <lb/>cittadino romano.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

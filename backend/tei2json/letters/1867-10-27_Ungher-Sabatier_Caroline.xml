@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000255">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Caroline Ungher-Sabatier in Florenz. Rom, 27. Oktober 1867</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>SBB-PK, derzeit Biblioteka Jagiellońska Krakau</repository></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 1 ¾ S. – 1r aoR in einer Vignette geprägt: Roma + Umschlag mit Adr. „Madame Sabatier“</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 6 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Der Plan des Bibelforschers Konstantin von Tischendorf, die von Theodor Heyse begonnene Kollationierung des Alten Testaments der „Vulgata“ nach dem Codex Amiatinus der Biblioteca Laurenziana in Florenz zu beenden, kann nur erfolgreich sein, wenn es an der äußeren Unterstützung nicht fehlt. Er freut sich über ein Wiedersehen in Rom, „sobald sich die Wogen der Revolution, welche jetzt den Fels Petri bedrängen“, wieder geglättet haben.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1867-10-27" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001665">Ungher-Sabatier, Caroline (1803–1877)</persName>
+<placeName key="G000671">Florenz</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi>, 27. <hi rendition="#aq">Oct<ex>o</ex>b<ex>e</ex>r</hi> 67.</dateline>
+                    <salute rendition="#c">Verehrte <seg type="comment"><orig>Frau</orig><note xml:id="nj12_dt5_gmb"><p>Caroline Ungher-Sabatier (1803–1877) wurde als einziges Kind von Anna von Karwinska und Johann Karl Ungher (1771–1836) in Wien geboren. Ihr Vater publizierte Gedichte, schrieb als Kunstrezensent zahlreiche Beiträge für Cottas „Morgenblatt für gebildete Stände“ und pflegte mit den großen Künstlern und Musikern engen Umgang. Das musikalische Talent von Caroline Ungher wurde früh entdeckt, auch lernte sie in einem Pensionat Italienisch und Französisch. Ihre überaus professionelle Förderung schildert sie 1872 dem Beethoven-Forscher Ludwig Nohl (1831-1885) aus der Rückschau eindrücklich: „Wie sollte ich aber auch nicht erfüllt sein von wahrer Musik? Mozarts Schwägerin, Madame Lange [Aloisia Lange (1760–1839)], war meine Singmeisterin, Mozarts Sohn [Franz Xaver Wolfgang Mozart (1791–1844)] mein Klavierlehrer; Vogl [Johann Michael Vogl (1768–1840)], für den Schubert [Franz Schubert (1797–1820)] den Erlkönig [1831] schrieb, mein Lehrer im musikalischen Vortrag; ich lebte in einer Zeit, wo in Wien jede Gelegenheit, das Beste zu hören und zu üben, geboten war“. Sie gilt als eine der bedeutendsten Sängerinnen des Belacanto, für die Vincenzo Bellini (1801–1835) und Gaetano Donizetti (1797–1848) mehrere Opern schrieben. Sie engagierte sich für die Lieder Franz Schuberts und sang bei der Uraufführung der 9. Sinfonie (1824) von Ludwig van Beethoven (1770–1827). 1821–1825 war sie Hofopernsängerin in Wien, bevor sie 1825–1827 im Real Teatro di San Carlo in Neapel und 1827–1829 im Teatro alla Scala in Mailand größte Erfolge feierte. Finanziell abgesichert gab sie fortan nur noch Gastspiele in ganz Italien, Dresden und Wien, die ihren Ruf als „Unvergleichliche“ festigten. 1837 ließ sie sich in Florenz nieder, wo sie vom Großherzog der Toskana, Leopold II. (1797–1870) zur Kapell- und Kammersängerin ernannt wurde. Persönlich wurde 1835 ihr Werben um Alexandre Dumas (1802–1870) nicht erhört und 1839/1840 scheiterte ihre Liebesbeziehung zu Nikolaus Lenau (1802–1850). 1841 heiratete Caroline Ungher den deutlich jüngeren französischen Gelehrten, Kunstkritiker und Mäzen François Sabatier (1818–1891). Nach einem Auftritt in Dresden verabschiedete sie sich bald von der großen Bühne, trat aber weiter in kleineren Kreisen auf. 1842 zog das Paar nach Florenz. Ihre vor der Ehe erworbene Villa della Concezione oberhalb von Florenz (heute Villa La Gressa) diente ihnen als Sommerresidenz, in der sie prominenten Besuch empfingen – im Winter wohnten sie in ihrem aufwendig umgebauten und dekorierten Stadtpalast in der Via dei Renai (heute Sitz der Anwaltskammer). 1850 zog das schwerreiche Paar vorübergehend nach Paris, wo sie sich mit dem aufstrebenden Gustave Courbet (1819–1877) anfreundeten. Zu den engen Malerfreunden zählte auch Auguste Bouquet (1810–1846), dessen Tochter Louise (1835–1906) sie nach dessen frühen Tod bei sich aufnahmen. Louise erhielt eine umfassende, auch künstlerische, Ausbildung und heiratete 1865 den Historiker Michele Amari (1806–1889). Caroline Ungher-Sabatier hielt sich häufiger in Karlsbad auf, während François Sabatier immer wieder längere Zeit auf seinem Schloss Latour (oder La Tour) de Farges in Lunel-Viel in der Camargue nahe Montpellier verbrachte. Siehe Klaus Martin Kopitz, Artikel „Caroline Unger“, in: Musikvermittlung und Genderforschung: Lexikon und multimediale Präsentationen, hg. von Beatrix Borchard, Hochschule für Musik und Theater Hamburg, 2003ff. (Stand vom 17.10.2012. URL: https://mugi.hfmt-hamburg.de/old/A_lexartikel/lexartikel.php%3Fid=unge1803.html; abgerufen am: 2.4.2020).</p><p>Gregorovius hatte die einst gefeierte Opernsängerin Caroline Ungher-Sabatier (1803–1877) mit ihren ebenso vermögenden Ehemann, den französischen Gelehrten, Kunstkritiker und Übersetzer François Sabatier (1818–1891) Ende 1856 in Florenz kennengelernt (siehe RT, 31.12.1856, S. 65). Schnell entwickelte sich eine sehr enge, lebenslang anhaltende Freundschaft, die beide gleichermaßen einschloss. Sie wurde durch regelmäßige Besuche von Gregorovius in Florenz und längere Aufenthalte des Ehepaars in Rom aufrecht erhalten und vertieft. Gregorovius wohnte auch in ihrer Sommerresidenz, der Villa della Concezione oberhalb von Florenz, und mehrfach in ihrem Stadtpalast in der Via dei Renai, wenn beide nicht in der Florenz waren. Während eines Romaufenthaltes Ende 1857 hatte François Sabatier begonnen, die „Grabmäler der Römischen Päpste“ (Leipzig: Brockhaus 1857) von Gregorovius ins Französische zu übersetzen, die als „Les tombeaux des Papes Romains“, 1859 erschienen (Paris: Michel Lévy frères) – und Gregorovius widmete dem Freund seinen Band „Siciliana“ (1861). Nach dem Tod von Caroline Ungher-Sabatier im März 1877 vermerkt Gregorovius in seinem Tagebuch: „Sie war eine der seltensten Frauenseelen, von souveräner Natur“ (RT, S. 374). Von der sicher einst umfangreichen Korrespondenz zwischen Gregorovius und dem Ehepaar Ungher-Sabatier ist einzig der vorliegende Brief nachweisbar.</p></note></seg>,</salute>
+                </opener>
+<p>es ist ohne alle Frage eine Sache von hohem Wert u<ex>nd</ex> von Wichtigkeit für die Bibeltext-Wissenschaft, wenn die in Rede stehende <seg type="comment"><orig>Handschrift der <hi rendition="#aq">Vulgata</hi> aus der <orgName key="G000511">Laurentiana</orgName> edirt wird</orig><note xml:id="nf51_4t5_gmb">Bereits 1857–1858 war Heyse mit dem Auftrag von Christian Karl Josias Freiherr von Bunsen (1791–1860) in Florenz betraut worden, den Text aus einer der ältesten Bibelhandschriften aus der Biblioteca Laurenziana, den Codex Amiatinus, herzustellen. Er enthält den fast kompletten Text der Vulgata. Nachdem Konstantin von Tischendorf (1815–1874) bereits den Text des Neuen Testaments hiernach publiziert hatte („Codex Amiatinus. Novum Testamentum Latine interprete Hieronymo“ Avenarius, Leipzig 1850), hatte Heyse das Alte Testament zu kollationieren begonnen, bis der Tod Bunsens seine Arbeiten unterbrach, die Konstantin von Tischendorf (um den es hier offenbar geht) beendete und kurz vor seinem Tod publizierte (Biblia sacra Latina Veteris Testamenti Hieronymo interprete ex antiquissima auctoritate in stichos descripta. Leipzig: Brockhaus 1873).</note></seg>, wie dies <persName key="G001275"><seg type="comment"><orig>Dr. Heyse</orig><note xml:id="nebd_gt5_gmb">Der mit Gregorovius eng befreundete Altphilologe Theodor Heyse (1803–1884).</note></seg></persName> zu thun begonnen hat. In den Händen eines so ausgezeichneten Philologen, dessen feines kritisches Urteil durch viele Arbeiten bewährt u<ex>nd</ex> in der wissenschaftlichen Welt seit lange anerkannt ist, kann ein solches Unternehmen nur das sicherste und beste Resultat gewinnen. Die Natur einer solchen Arbeit fordert freilich mehr Mühe u<ex>nd</ex> Zeit, als sie der Verleger vorauszusetzen scheint. Hoffentlich wird sie nicht durch Ungunst der Verhältniße oder Mangel an Förderung ins Stocken geraten, was wahrhaft zu bedauern wäre.</p>
+<p>Ich habe mich gefreut, <pb n="1v"/>von Ihrem Wolergehen gute Nachrichten zu empfangen, u<ex>nd</ex> würde glücklich sein, Sie u<ex>nd</ex> Ihre liebenswürdige Freunde, denen ich mich angelegentlich empfehle, in Rom selbst wieder begrüßen zu können. Dies hoffe ich, sobald sich die Wogen der Revolution, welche jetzt den Fels Petri bedrängen, werden gelegt haben. Wir leben hier in der That im Belagerungszustand u<ex>nd</ex> unter Standrecht das sonderbarste u<ex>nd</ex> unerfreulichste Leben, das sich denken läßt.</p>
+                <closer>
+<salute xml:id="s1" next="#s2">Ihnen u<ex>nd</ex> den verehrten Damen Ihrer Umgebung wünscht auf das freundlichste empfohlen zu sein</salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">in großer Ergebenheit</salute>
+<signed rendition="#right">F. Gregorovius.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

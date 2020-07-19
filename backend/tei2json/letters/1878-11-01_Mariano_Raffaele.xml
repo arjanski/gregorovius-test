@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_lrk_dfs_klb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Florenz. München, 1. November 1878</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 4 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">In Stuttgart hat er sich mit Cotta und vermutlich auch Wilhelm Heyd getroffen; die Königin von Württemberg, Olga Nikolajewna Romanowa, hat er nicht aufgesucht. Familie Erhardt hat ihn besucht, er erwartet Adehlheid Grunelius. Wilhelm Lang ist neuer Herausgeber der Zeitschrift „Im neuen Reich“. Manfred Lindemann-Frommel geht als Baurat nach Schwerin. Er arbeitet an der ihm von der italienischen Königin Margherita aufgetragenen Geschichte des Hauses Savoyen; bittet um Zusendung von Gaudenzio Clarettas „Sui principali storici piemontesi e particolarmente sugli storiografi della Reale Casa di Savoia“ (1878). Über Pasquale Villari und Giuseppe de Leva. Marianos Schrift „Cristianesimo, cattolicesimo e civiltà“ (1879) ist bei Zanichelli in Bologna im Druck. Er hat eine ungarische Übersetzung seiner „Lucrezia“ erhalten; die offizielle erscheint allerdings erst 1886 (Miklós Márkus and József Feleki: Borgia Lucrezia egykorú okiratok és levelezések nyomán. Budapest: Ráth Mór). </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1878-11-01" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840-1912)</persName>
+<placeName key="G000671">Florenz</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">München, 1. Nov<ex>ember </ex>78.</dateline>
+                    <salute>Lieber Freund,</salute>
+                </opener>
+<p>ich habe heute Ihren Brief, vielmehr Ihr Billet erhalten – denn nur in solcher Form schreiben Sie mir schon seit einem Jahr – ich wartete nur darauf, um Ihnen Nachrichten zu geben, nicht wissend, wo Sie nun seien.</p>
+<p>Nur in Kürze will ich Ihnen mitteilen, daß ich <seg type="comment"><orig>nach Ihrer Abreise</orig><note xml:id="npdc_lqj_1mb">Gregorovius und Mariano trafen sich in Baden-Baden, wo erster von 3.–9. Oktober seine Freundin Adelheid Grunelius (1813–1887) besuchte (vgl. RT, S. 408–409).</note></seg> 1 Tag in <placeName key="G000879">Stuttgart</placeName> war, u<ex>nd</ex> nicht zur <persName key="G001460"><seg type="comment"><orig>Königin</orig><note xml:id="nthc_mqj_1mb">Vrmtl. die Königin von Württemberg, Olga Nikolajewna Romanowa (1822–1892).</note></seg></persName> nach <placeName key="ed_rgh_1cl_rlb">Friedrichshafen</placeName> reiste, sondern mein Compliment schriftlich abmachte. <seg type="comment"><orig>Ich sah doch alte gute Freunde wieder</orig><note xml:id="nrg3_nqj_1mb">Er traf sich mit Cotta sowie vermutlich mit dem seit 1857 in der Königlichen Landesbibliothek Stuttgart tätigen Bibliothekar und Historiker Wilhelm Heyd (1823–1906), der 1873 die Leitung des Hauses übernommen hatte (siehe RT, S. 409).</note></seg>, u<ex>nd</ex> erfuhr, d<ex>a</ex>ß <seg type="comment"><orig>Wilh<ex>elm</ex> <persName key="G001354">Lang</persName></orig><note xml:id="nkgf_4qj_1mb">Der Stuttgarter Publizist und Schriftsteller Wilhelm Lang (1832–1915) hatte in Tübingen Theologie studiert und war dann mehrere Jahre als Hauslehrer tätig, bevor er in die Redaktion des liberalen „Schwäbischen Merkur“ eintrat, dessen Chefredakteur er 1860 wurde. In den 1870er Jahren gehörte er zu den wichtigsten Mitarbeitern der Zeitschrift „Im neuen Reich“, deren Herausgeber er von 1879–1881 war. Gregorovius hatte Lang bei seinem Besuch bei Hermann Reuchlin (1810–1873) in Stuttgart kennengelernt (siehe RT, 27.7.1867, S. 228). Später ließ er Lang ein Exemplar der 3. Auflage seiner „Lucrezia Borgia“ (1875) zusenden (nach dem Brief von Gregorovius an Brockhaus, 20.2.1876; DLA Marbach, Cotta-Archiv, Cotta-Briefe, 253), um sich für dessen Rezension der „Lucrezia Borgia“ zu bedanken, die dieser unter dem Titel „Aus dem Zeitalter der Renaissance“ publiziert hatte in: Im neuen Reich. Wochenschrift für das Leben des deutschen Volkes in Staat, Wissenschaft und Kunst. Jg. 7. Bd. 2. Leipzig: Hirzel 1874. S. 321–327.</note></seg> jetzt die Redaction der <seg type="comment"><orig>Zeitschrift „<orgName key="G000521">Im Neuen Reich</orgName>“</orig><note xml:id="ntpf_pqj_1mb">„Im neuen Reich. Wochenschrift für das Leben des deutschen Volkes in Staat, Wissenschaft und Kunst“ war von Januar 1871 bis November 1881 zweimal jährlich bei Hirzel in Leipzig erschienen.</note></seg> übernommen hat. </p>
+<p><pb n="1v"/>Hier teilte mir der <persName key="G001203">Bruder</persName> mit, d<ex>a</ex>ß sich sehr wenig Cigarren in meinem Kasten vorgefunden hatten, was ich bedauern müßte: es war also ein Irrtum von meiner Seite.</p>
+<p>Die <persName key="G001111">Schwester</persName> kehrte aus <placeName key="G000646">Preußen</placeName> vor jetzt 14 Tagen zurück, ganz erfüllt von all der Liebe welche Sie im alten Vaterlande genossen hatte. So sind wir also alle wieder vereinigt, denn auch <seg type="comment"><orig>der <persName key="G001109">Neffe</persName></orig><note xml:id="nyt2_qqj_1mb">Gregorovius’ Neffe hatte im Sommer seine Schullaufbahn am Ludwigsgymnasium mit Erlangung der Hochschulreife beendet (siehe RT, Sommer und Winter 1878/79, S. 403).</note></seg> hat den Dienst in der Caserne als Freiwilliger jetzt absolvirt. Nun fehlt nur <seg type="comment"><orig><persName key="G001376">Manfred</persName>, welcher vor wenigen Tagen seiner neuen Bestimmung in <placeName key="ed_js5_hcl_rlb">Schwerin</placeName> entgegen<pb n="2r"/>gegangen ist</orig><note xml:id="nzbk_rqj_1mb">Nach einem Studium der Architektur an der Akademie der Bildenden Künste in München sowie anschließend in Karlsruhe und einem Besuch der Kunstgewerbeschule Dresden, trat Manfred Lindemann-Frommel die Stelle des Baurats in Schwerin an.</note></seg>. Wir hoffen, d<ex>a</ex>ß er unter der Disciplin eines alten Architecten arbeiten lernen wird. <persName key="G001116"><persName key="G001115"><persName key="G001114">Erhardts</persName></persName></persName> kamen hier durch etwa am 12. Octob<ex>er</ex>, und Frau <persName key="G001215">Grunelius</persName> wird wol in einigen Tagen hier sein. Seit gestern haben wir den ersten Schnee, aber mit ihm ein klares und erfrischendes Wetter. Ich habe meine Arbeiten wieder aufgenommen, auch jene für die <seg type="comment"><orig><foreign xml:lang="ita"><hi rendition="#aq"><persName key="G001400">Regina</persName></hi></foreign></orig><note xml:id="ntcv_sqj_1mb">Ital. für: Königin.</note></seg> in Erwägung gezogen, <seg type="comment"><orig>so daß ich mitten in der Savoy<ex>ischen</ex> Geschichte bin</orig><note xml:id="nqdz_tqj_1mb">„Die Vormittage widmete ich den Studien zum deutschen Krieg, die Nachmittage der Geschichte Savoyens für die Königin Margherita.“ (RT, S. 409). Gregorovius hatte die Königin bei seinem Besuch Roms im April 1878 erfolgreich um Audienz gebeten. Bei dieser Gelegenheit bat sie ihn, die Geschichte des Hauses Savoyen zu verfassen, was Gregorovius zu diesem Zeitpunkt noch ablehnte (siehe RT, 7.4.1878, S. 399–400).</note></seg>. Es erschien in dies<ex>em</ex> Jahre zu <foreign xml:lang="ita"><hi rendition="#aq">Torino, Stamperia Reale,<seg type="comment"><orig> Gradenigo</orig><note xml:id="nnxw_5qj_1mb">Für: Gaudenzio.</note></seg> <bibl sameAs="ed_rwy_5cl_rlb">Claretta sui principali storici piemontesi e – storiografi della Reale Casa di Savoia</bibl></hi></foreign>. Bitte senden Sie mir dies Buch, welches Sie wol in Florenz finden werden, <seg type="comment"><orig>unter Kreuzband per Post</orig><note xml:id="nhhx_vqj_1mb">Die nach bestimmten Vorschriften klassifizierten Drucksachen, auch Sendungen unter Kreuzband, konnten für eine ermäßigte Gebühr versandt werden. Es war auch geregelt, welche handschriftlichen Zusätze der Sendung beigefügt werden konnten. Die Bezeichnung „unter Kreuzband“ ist den zwei sich kreuzenden Bändern entlehnt, die die Sendung zusammenhielten.</note></seg>, wenn es nicht groß ist, u<ex>nd</ex> legen Sie das Geld <pb n="2v"/>für mich aus. Ist es teuer, so verzichte ich darauf – ich denke, es wird nur 1 <seg type="comment"><orig><hi rendition="#aq"><foreign xml:lang="ita">opuscolo</foreign></hi> </orig><note xml:id="naht_wqj_1mb">Ital. für: Broschüre, Heft.</note></seg>sein. </p>
+<p>Ihre Ansicht über <seg type="comment"><orig><hi rendition="#aq"><persName key="G001687">Villari</persName></hi></orig><note xml:id="nbs1_yqj_1mb">Siehe zum Briefwechsel zwischen Villari und Gregorovius: „Un anello ideale“ fra Germania e Italia. Corrispondenze di Pasquale Villari con storici tedeschi. A cura di Anna Maria Voci. Rom: Archivio Guido Izzi 2006.</note></seg> ist fast auch die meine: ich glaube, etwas von <seg type="comment"><orig>Machiavellismus</orig><note xml:id="nqsy_yqj_1mb">Die nach Niccolò Machiavelli (1469–1527) benannte Theorie, derzufolge für den Erhalt von Macht alle, auch unrechtliche und unmoralische Mittel erlaubt sind. Villari hatte ein Buch über Machiavelli geschrieben: Pasquale Villari: Niccolò Machiavelli e i suoi tempi illustrati con nuovi documenti. Bd. I. Firenze: Le Monnier 1877.</note></seg> steckt in ihm; er ist schlau, darum versteckt er seinen Ehrgeiz und wol auch die Mittel, die er in Bewegung setzt.</p>
+<p>Ich kenne persönlich <seg type="comment"><orig><hi rendition="#aq">De <persName key="G001075">Leva</persName></hi></orig><note xml:id="naf5_zqj_1mb">Giuseppe De Leva (1821–1895) hatte zunächst Philosophie und anschließend Jura studiert, übernahm ab 1848 für drei Jahre einen Lehrstuhl für Philosophie an der Universität Padua. Erst dann wandte er sich verstärkt historischen Studien zu, war Geschichtslehrer an einem Gymnasium in Padua. 1855 kehrte er an die Universität zurück. </note></seg> und achte ihn sehr. Er ist einer der wenigen Geschichtsschreiber von heute in <placeName key="G000690">Italien</placeName>, welche die deutsche Gründlichkeit sich angeeignet haben. Sein Werk ist vorzüglich von diesem Standpunkt aus, eine wissenschaftliche Leistung von wirklichem Wert; <seg type="comment"><orig>aber genießbar ist seine Geschichte nicht, weil ihr doch die philosophische Idee, wie die künstlerische Form fehlt</orig><note xml:id="nwqb_brj_1mb">Gregorovius hatte sich bereits früher mit den Arbeiten von De Leva auseinandergesetzt; siehe dazu den Brief von Gregorovius an Giovanni Gozzadini vom 21.4.1868.</note></seg>. </p>
+<p>Ich bitte mich viele Male <seg type="comment"><orig>Ihrer liebenswürdigen Schwester</orig><note xml:id="nxry_brj_1mb">Nicht ermittelt.</note></seg> zu empfehlen. Wir alle grüßen Sie recht herzlich.</p>
+<p>Warum sagen Sie mir nichts über <seg type="comment"><orig>den Druck Ihrer <bibl sameAs="ed_yr4_nvd_rlb">Schrift</bibl></orig><note xml:id="nv4c_drj_1mb">Siehe zur Veröffentlichung der Schrift den Brief von Gregorovius an Raffaele Mariano vom 30.7.1878.</note></seg>. So bald sie erschienen ist, will ich sie in der Zeitschrift Langs ankündigen.</p>
+<p>Ich weiß <seg type="comment"><orig>seit <placeName key="G000749">Paris</placeName></orig><note xml:id="nytm_2rj_1mb">Gregorovius hatte sich mit seinem Bruder Julius vom 22. September bis zum 2. Oktober in Paris aufgehalten. Anlass ihrer Reise war die Weltausstellung. Karl Lindemann-Frommel befand sich bei Ankunft der Brüder bereits seit Wochen in der französischen Haupstadt (vgl. RT, S. 404–408).</note></seg> nichts von <persName key="G001375">Lindemann</persName> – heute schreibe ich ihm. </p>
+                <closer>
+<salute>Alles Gute u<ex>nd</ex> Schöne!</salute>
+<signed rendition="#right">FGr.</signed>
+<note type="postscript" rendition="#rotate90" place="left">Man schickte mir aus<seg type="comment"><orig> <placeName key="G000812">Pest</placeName></orig><note xml:id="nslj_frj_1mb">Pest, Stadt in Ungarn, aus der, neben Buda, 1873 die Hauptstadt Budapest entstand.</note></seg> <seg type="comment"><orig>die ungarische Lucrezia</orig><note xml:id="ny4g_grj_1mb">Die ungarische Übersetzung erschien allerdings erst 1886: Miklós Márkus and József Feleki: Borgia Lucrezia egykorú okiratok és levelezések nyomán. Budapest: Ráth Mór.</note></seg> </note>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

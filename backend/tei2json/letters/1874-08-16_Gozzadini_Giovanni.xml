@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067750">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. Traunstein, 16. August 1874 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p> Adr.: All’Illustrissimo Signor Conte / Giovanni Gozzadini / Senatore del Regno / Bologna</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell’Archiginnasio</institution><collection> Ms. Gozzadini 442</collection><idno>(21)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Von seiner endgültigen Abreise aus Rom Mitte Juli haben die Gozzadini möglicherweise bereits über Paolo Perez erfahren. Er sieht seine wissenschaftliche Mission in Italien mit dem Abschluss der „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) erfüllt und möchte zukünftig mit seinem Bruder Julius zusammenleben, der den Militärdienst quittiert hat. Nach ihrem Kuraufenthalt in Traunstein werden sie sich in München niederlassen, das mit der Hof- und Staatsbibliothek und der Nähe zu Italien über zwei große Vorzüge verfügt. Grüße an Maria Teresa Serego Alighieri Gozzadini</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000888">Traunstein</placeName><date when="1874-08-16" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni conte (1810–1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Traunstein in Baviera <lb/>16. Agosto 1874.</dateline>
+                    <salute rendition="#c">Illustre signor Conte,</salute>
+                </opener>
+<p>mi permetto di scriverle queste righe, esprimendo prima alla S<ex>ignoria</ex> V<ex>ostra</ex> il mio dispiacere di non aver potuto riverire lei e la gentilissima <persName key="G001092">Signora Contessa</persName>, <seg type="comment"><orig>prima di abbandonare l’<placeName key="G000690">Italia</placeName></orig><note xml:id="nsng_ntn_zlb">Am 15. Juli hatte er Rom endgültig verlassen und war über Florenz, Bologna, Modena und Kufstein nach Traunstein gereist; siehe den Brief von Gregorovius an Raffaele Mariano vom 2.8.1874.</note></seg>. </p>
+<p>Ella forse ha inteso dalle lettere del <seg type="comment"><orig>nostro ottimo <persName key="G001483">Paolo</persName></orig><note xml:id="nmjh_4tn_zlb">Der Dante-Forscher Graf Paolo Perez (1822–1879), ein Freund von Gregorovius und Cousin der Gräfin Gozzadini, war 1856, trotz der Bedenken seiner Freunde und Verwandten, in den Orden der Rosminianer in Stresa eingetreten. Ihm hatte Gregorovius sein 1858 erschienenes Gedicht „Euphorion“ (Leipzig: Brockhaus) gewidmet. In Stresa besuchte er ihn regelmäßig (siehe RT 17.7.1867, S. 227; RT 20.7.1869, S. 259).</note></seg>, o per altra via, ch’io mi sono risoluto di lasciar <placeName key="G000763">Roma</placeName> e di ripatriarmi. Difatti ho dovuto disfare la mia casa in Roma per cagion di alcuni cambiamenti oppure inconvenienti, che vi si stava per introdurre. A questo motivo, di natura puramente materiale si associarono altre cause morali, che mi costrinsero a fare un passo tanto grave. Ne accennerò soltanto due: il desiderio di riunirmi coll’<seg type="comment"><orig>unico <persName key="G001203">fratello mio</persName>, il quale si è dimesso dal servizio militare</orig><note xml:id="nc53_qtn_zlb">Julius Gregorovius (1819–1891) hatte eine Offizierslaufbahn eingeschlagen und als Artillerieoffizier im Deutsch-Französischen Krieg gekämpf, 1870 das Eiserne Kreuz erhalten (siehe RT, 29.9.1870, S. 293); mit ihm und der gemeinsamen Halbschwester, Ottilie (1834–1907), sollte Gregorovius in München zusammenleben. Die beiden anderen Brüder von Gregorovius, Rudolf (1808–1866) und Gustav (1810–1862), waren bereits verstorben.</note></seg>, e il compi-<pb n="2"/>mento dei miei studij e lavori, che per tanti anni <seg type="comment"><orig>mi tennero legato al suolo della diletta Roma</orig><note xml:id="nngw_rtn_zlb">Mit der Beendigung seiner „Geschichte der Stadt Rom im Mittelalter“ (8 Bde., Stuttgart: Cotta 1859–1872) sah Gregorovius auch seine Zeit in Italien für beendet an: „[…] ich schuf, was noch nicht da war, ich klärte elf dunkle Jahrhunderte der Stadt auf und gab den Römern die Geschichte ihres Mittelalters. Das ist mein Denkmal hier. So darf ich ruhig von hinnen gehen. Ich könnte wohl auch noch bleiben. Aber es sträubt sich ein selbstbewußtes Gefühl in mir gegen die Vorstellung, hier mich in Einsamkeit zu überleben und in Rom zu altern, wo alles neu wird und sich verwandelt und ein neues zudringliches Leben mir bald alte liebgewordene Pfade bedecken und unkenntlich machen wird.“ (RT, 14.7.1874, S. 342–343).</note></seg>. Il compito mio era di <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">scrivere la storia della Città nel medio evo</bibl>: a ciò fare fui indotto, massimamente dalle attinenze secolari che ebbe la mia patria con Roma, per cui codesta storia è oggetto nazionale anche per la <placeName key="G000664">Germania</placeName>, formandovi una parte integrante degli annali dell’ Impero. La fortuna mi è stata benigna, poichè mi permise di <seg type="comment"><orig>condurrre al termine suo un lavoro di diciasette anni</orig><note xml:id="nb22_wtn_zlb">Im Tagebuch berichtet er am Ende des Jahres 1855 vom Beginn der Arbeit an der „Geschichte der Stadt Rom im Mittelalter“ (siehe RT, Jahresschluß 1855, S. 58). Der achte und letzte Band erschien 1872.</note></seg>. Esso, comunque sia riuscito bene o male, costituisce per me il vero tesoro della mia vita, mentre nello stesso tempo è il vincolo indissolubile che stringe l’anima mia all’ Italia. Perciò ho potuto lasciare quella terra diletta colla coscienza confortante di <seg type="comment"><orig>aver acquistato il diritto di chiamarmi se non cittadino di fatto e di nome</orig><note xml:id="ncsy_c5n_zlb">Die Verleihung der Ehrenbürgerwürde der Stadt Rom an Gregorovius erfolgte erst nach einer handschriftlichen Petition vom 10. Februar 1876 an den römischen Gemeinderat und anschließender Beratung; die Zustimmung des Stadtrates erging am 8. März 1876; vgl. Alberto Forni. Der Erfolg von Gregorovius in Italien. In: Ferdinand Gregorovius und Italien. Eine kritische Würdigung, hg. v. Arnold Esch und Jens Petersen. Tübingen: Max Niemeyer Verlag 1993, S. 12–41, hier S. 24–27.</note></seg>, almeno figlio spirituale di lei, e di <seg type="comment"><orig>appartenere alla medesima</orig><note xml:id="nqfz_l5n_zlb">Die Familie Gozzadini zählte für Gregorovius zu den wichtigsten Bezugspersonen in Italien; siehe den Brief von Gregorovius an Giovanni Gozzadini vom 1.11.1868. Er besuchte sie regelmäßig entweder in Bologna oder in ihrem von Intellektuellen gut besuchten Salon in der Villa Ronzano; siehe den Brief von Gregorovius an Maria Teresa Serego Alighieri Gozzadini vom 9.10.1867.</note></seg>, anche standone lontano. Oltracciò sono uomo indipendente in guisa che <seg type="comment"><orig>potrò visitare l’Italia e Roma ogni tanto</orig><note xml:id="nbb3_55n_zlb">Die erste Reise nach Italien und Rom nach seiner Niederlassung in München trat er am 2. März 1875 an, reiste über Verona, Brescia, Cremona, Pavia, Mailand, Monza, Parma, Modena, Bologna, wo er die Gozzadinis besuchen sollte, Florenz und Orvieto nach Rom. Dort traf er am 21. März ein (siehe RT, 31.3.1875, S. 346–350). Auch in späteren Jahren fuhr er regelmäßig nach Italien.</note></seg>, anzi $ potrò ritornare nel caso il clima nordico non convenisse più al mio stato fisico. </p>
+<p><pb n="3"/><seg type="comment"><orig>Perora mi ritrovo agli stessi bagni di Traunstein, dove già altre volte passai l’estate</orig><note xml:id="neq5_v5n_zlb">In früheren Jahren war Gregorovius auf ärztliches Anraten zum Kuraufenthalt nach Traunstein gereist; siehe die Briefe von Gregorovius an Ersilia Caetani Lovatelli vom 28.7.1872 und an Giovanni Gozzadini vom 16.7.1873.</note></seg>. Qui mi fermerò in compagnia del mio fratello fino alla metà del settembre prossimo: <seg type="comment"><orig>poi andremo a <placeName key="G000734">Monaco</placeName> coll’intendimento di prendervi stanza durante l’inverno</orig><note xml:id="nnwk_1vn_zlb">Nach seinem Kuraufenthalt in Traunstein bis Anfang September 1874, ließ sich Gregorovius ab dem 10. September mit dem Bruder in München nieder; siehe den Brief von Gregorovius an Raffaele Mariano vom 20.9.1874.</note></seg>. Monaco è città nè bella, nè molto grande, ma colta assai, fornita di gallerie e musei ottimi, e avanti tutte insigne per <seg type="comment"><orig>una<orgName key="G000510"> biblioteca</orgName> di prim ’ordine</orig><note xml:id="nywp_bvn_zlb">Die 1558 als Hofbibliothek gegründete Bayerische Staatsbibliothek, die diesen Namen seit 1919 trägt.</note></seg>. Offre anche questo vantaggio, di esser posta quasi sulla soglia dell’ Italia.</p>
+<p>Prego V<ex>ostra</ex> S<ex>ignoria</ex> Ill<hi rendition="#sup"><hi rendition="#u" hand=""><ex>ustrissi</ex>ma</hi></hi> di darmi le sue nuove e quelle della Signora Contessa, le quali mi auguro le più prospere. Sarebbe cosa superflua s’io volessi esternare a Lor Signorie ciò che non abbisogna più di protestazione: che la ricordanza di quella insigne bontà che usarono sempre con me, resterà scolpita indelebilmente nell’anima mia.</p>
+<p>Mi chiamo e mi chiamerò per sempre col più alto rispetto</p>
+                <closer>
+<salute xml:id="s1" next="#s2" rendition="#c">di Lor Signorie</salute>
+<salute xml:id="s2" prev="#s1" next="#s3" rendition="#c">servitor affettuosamente</salute>
+<salute xml:id="s3" prev="#s2" rendition="#c">devoto</salute>
+<signed rendition="#c"> Ferd. Gregorovius </signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

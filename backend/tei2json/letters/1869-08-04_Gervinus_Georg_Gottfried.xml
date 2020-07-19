@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000298">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Georg Gottfried Gervinus in Bad Rippoldsau. Zürich,
+                    4. August 1869 </title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Universitätsbibliothek Heidelberg</repository>
+                        <collection>NL Georg Gottfried Gervinus</collection>
+                        <idno>Heid. Hs. 2526,141 (6)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 8°, 4 S. </p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 84, Mappe 6 (Alfred Löckle nach
+                                        H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 86, Mappe 4 (nach D)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print">Oswald Dammann: Ferdinand Gregorovius und Georg Gottfried
+                            Gervinus. Mit elf unveröffentlichten Gregoroviusbriefen. In: Zeitschrift
+                            für die Geschichte des Oberrheins. N. F. Bd. 56. Karlsruhe im Br.: Braun
+                            1943. S. 630–631</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er ist erleichtert, dass Victoria ihr Augenleiden nunmehr überwunden hat. Er selbst war seit Ende Mai so krank, dass er dem Tode nur knapp entronnen ist. Um sich zu erholen, ist er seit dem 24. Juli in Zürich. Die Genesung schreitet wegen der Druckvorbereitungen seiner dritten Auflage seiner „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1870), der zweiten Auflage seiner „Lateinische Sommer“ (1870) sowie des Abschlusses des Manuskripts des siebten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1870) nur langsam voran. Die schlecht ausgestattete Bibliothek macht einen Aufenthalt in München notwendig. Manfred Lindemann-Frommel plant zur See zu gehen. Die von Auguste Lindemann-Frommel in Aussicht gestellte römische Unterkunft für Gervinus scheint ihm unzulänglich. Von den „Historischen Schriften“ (1833–1842) von Gervinus ist in der Stadtbibliothek nur der siebte Band (1838) vorhanden.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000903">Zürich</placeName>
+                    <date when="1869-08-04" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+<persName key="G001168">Gervinus, Georg Gottfried (1805–1871)</persName>
+<placeName key="G000626">Bad Rippoldsau</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c"><hi rendition="#aq">Zürich</hi> 4. <hi rendition="#aq"><hi rendition="#aq">Aug<ex>ust</ex></hi></hi> 69.</dateline>
+</opener>
+<p>Die sehr günstigen Nachrichten, welche über Sie, mein hochverehrter Herr u<ex>nd</ex> Freund, u<ex>nd</ex> Ihre <persName key="G001169">Frau Gemalin</persName> eingegangen sind, haben mich hoch erfreut. <?oxy_comment_start author="Angela Steinsiek" timestamp="20200414T174419+0200" comment="Victoria Gervinus (1817 oder 1820–1893) litt seit dem Sommer 1868 an einer Erkrankung der Netzhaut (siehe die Briefe von Gregorovius an Gervinus, 14.8.1868, 8.9.1868, 8.11.1868 und 2.5.1869)."?>Sie beide werden nun nach so viel Leiden das wiedergewonnene Leben u<ex>nd</ex> Licht mit neuer Frische genießen<?oxy_comment_end?>. Es kam auch Ihr letzter Brief, wofür ich Ihnen sehr danke, über <placeName key="G000763">Rom</placeName> hierher zu mir. Ich verließ die <hi rendition="#aq"><foreign xml:lang="Lat">Aurea</foreign></hi> Roma am 8 Juli noch <?oxy_comment_start author="Angela Steinsiek" timestamp="20200414T174508+0200" comment="Gregorovius war Anfang Juli noch immer nicht vollständig wieder hergestellt (siehe RT, 2.7.1869, S. 258 und den Brief von Gregorovius an Marie Rückert, 28.6.1869)."?>mit dem römischen Fieber, dieser pontinischen Göttin, welche mich am Ende <hi rendition="#aq">Mai</hi> mit einem Besuche beehrt hatte<?oxy_comment_end?>; sie hatte mich auch nahe an die Pforten des<placeName key="G000847"> Hades</placeName> gebracht zu den „<?oxy_comment_start author="Angela Steinsiek" timestamp="20200414T172308+0200" comment="Nach „Odyssee“ XI, 476."?>Gebilden ausruhender Menschen<?oxy_comment_end?>“. Selbst hier bin ich sie noch nicht ganz los, denn die Disposition ist zurückgeblieben, nebst dem hartnäckigen Fiebersymptom, dem Knochenschmerz. <?oxy_comment_start author="Angela Steinsiek" timestamp="20200414T174548+0200" comment="Gregorovius blieb bis zum 25. August in Zürich (siehe RT, 26.7.-21.8.1869, S. 259–262)."?>Ich habe mich hier oberhalb der Sternwarte <pb n="1v"/>in eine <orgName key="G000497">Pension</orgName> gegeben.<?oxy_comment_end?> Sie führt den gemeinen Namen „Rinderknecht“, ist aber ganz sauberer u<ex>nd</ex> signoriker Natur. Was ich hier suchte Luft u<ex>nd</ex> Stille, das Gemüt u<ex>nd</ex> den Leichnam auszuruhen, habe ich hier gefunden. Es fehlt auch nicht an moderirter Gesellschaft. Der Zweck meiner Reise ist auch der, gewißes Material zu vervollständigen, zu<?oxy_comment_start author="Angela Steinsiek" timestamp="20200414T174615+0200" comment="Der 1864 unter dem Titel „Lateinische Sommer“ erschienene Band kam 1870 als Bd. 2 unter dem Reihentitel „Wanderjahre in Italien“ in zweiter Auflage heraus und von dem 1856 unter dem Titel „Figuren. Geschichte, Leben und Scenerie aus Italien“ erschienenen Band war 1864 in etwas anderer Zusammensetzung als Bd. 1 unter dem Reihentitel „Wanderjahre in Italien“ gedruckt worden, 1870 erschien die dritte Auflage (siehe Gregorovius an den Brockhaus-Verlag, 25.7.1869; Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224,92). Vollendet hatte er in Zürich auch die Korrektur des dritten Bandes für die zweite Auflage seiner „Geschichte der Stadt Rom im Mittelalter“ (siehe Gregorovius an Carl von Cotta, 5.8.1869)."?> <bibl corresp="G003130 G003191">2 alten neuaufzulegenden Bänden</bibl><?oxy_comment_end?>, wie zu<?oxy_comment_start author="Angela Steinsiek" timestamp="20200414T174627+0200" comment="Das Manuskript des siebten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1870) stand vor dem Abschluss."?> <bibl sameAs="G003441">einem neuen</bibl><?oxy_comment_end?>. Es ist dies eine schwere Last für den, der sich erholen sollte; aber sie muß getragen sein. Ich arbeite in der hiesigen<orgName key="G000505"> Stadtbibliothek</orgName>; doch ihre Unvollständigkeit zwingt mich,<?oxy_comment_start author="Angela Steinsiek" timestamp="20200414T174702+0200" comment="Georg Gottfried Gervinus kam mit seiner Frau Viktoria nach München, um die Kunstaustellung im Königlichen Glaspalast vom 20. Juli bis 31. Oktober 1869 zu besuchen (http://daten.digitale-sammlungen.de/~db/0000/bsb00001760/images. Gregorovius vermerkte hierüber im Tagebuch: „Gervinus und Frau kamen, beide hergestellt, doch betrübt durch den Tod ihres ausgezeichneten Freundes, des Medizinalrats Pfeuffer [der Gervinus befreundete Carl von Pfeufer (*1806), Professor für Therapie und Klinik und Internist des Allgemeinen Krankenhauses in München, war am 13. September 1869 verstorben]. Wir verlebten einige angenehme Stunden zusammen, besuchten auch die Galerie Schack“ (siehe RT, 24.9.1869, S. 264)."?> in einigen Wochen nach <placeName key="G000734">München</placeName> zu gehen<?oxy_comment_end?>, was ich nur höchst ungern thue der großen Menschenströmung wegen, in die ein friedlicher u<ex>nd</ex> menschen-<pb n="2r"/>müder Reisender dort geraten muß. Nur dies wäre mir ein Trost, Sie dort zu finden, weil ich annehme, d<ex>a</ex>ß Sie doch <?oxy_comment_start author="Angela Steinsiek" timestamp="20200414T174801+0200" comment="Die internationale Kunstausstellung im Königlichen Glaspalast in München vom 20. Juli bis 31. Oktober 1869 (http://daten.digitale-sammlungen.de/~db/0000/bsb00001760/images/), zu der das Ehepaar Gervinus auch kam. Gemeinsam besuchten sie die Galerie Schack (siehe RT, 24.9.1869, S. 264)."?>diesen internationalen Schwindel oder vielmehr das wirklich Gute u<ex>nd</ex> Sehenswerte an ihm<?oxy_comment_end?> in Augenschein nehmen werden. Wenn Sie in <hi rendition="#aq"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190117T165251+0100" comment="Heute Bad Rippoldsau-Schapbach, eine im Landkreis Freudenstadt Gemeinde im Nordschwarzwald, in deren Mineral- und Moorbäder Gervinus kurte."?>Rippoldsau<?oxy_comment_end?></hi> eine Bibliothek hätten, so würde ich dort hin eilen; aber die besten Wünsche der Sterblichen werden stets gekreuzt.</p>
+<p><?oxy_comment_start author="Angela Steinsiek" timestamp="20200414T174913+0200" comment="Karl Lindemann-Frommel war in München, als Gregorovius am 18. September 1869 in München eintraf."?>Ich erwartete <persName key="G001375">Lindemann</persName><?oxy_comment_end?>, doch er hat die directe Straße nach <placeName key="G000685">Heidelberg</placeName> eingeschlagen, <?oxy_comment_start author="Angela Steinsiek" timestamp="20200414T174940+0200" comment="Manfred Lindemann-Frommel (1852–1939) studierte schließlich 1875–1883 an der Technischen Universität München und dann an der Staatlichen Akademie der Bildenden Künste Karlsruhe unter Hermann Baisch (1846–1894) und Gustav Schönleber (1851–1917) Malerei und wurde Marinemaler. "?>seinen <persName key="G001376">Sohn</persName> zu treffen, welcher den kühnen Gedanken gefaßt hat, sein Leben auf Schiffen zuzubringen und einst neue Länder zu entdecken<?oxy_comment_end?>. Die <persName key="G001374">Mutter</persName>, freier als der Vater, unterstützt diese Passion, während er darüber jammert, daß ein Huhn eine Ente ausgebrütet hat. </p>
+<p><?oxy_comment_start author="Angela Steinsiek" timestamp="20200414T175025+0200" comment="Auguste Lindemann-Frommel hatte Gervinus in einer Nachschrift zum Brief von Gregorovius an Gervinus vom 5.5.1869 eine römische Unterkunft in ihrem Hause in der Via Babuino 39 zu vermitteln in Aussicht gestellt. In diesem Haus befand sich seit dem Vorjahr auch die Privatwohnung der Lindemann-Frommels (siehe Peter K. W. Freude: Karl Lindemann-Frommel. Ein Malerleben in Rom. Monographie und Werkverzeichnis seines graphischen und malerischen Schaffens. Murnau am Staffelsee 1997. S. 54)."?>Die Wohnung, welche für Sie in Rom in Vorschlag ist, gehört wol zu dem Hause, nicht aber zum <pb n="2v"/>Quartier von L<ex>indemann</ex>.<?oxy_comment_end?> Nach meiner Ansicht, wäre sie für Sie nicht freundlich genug, nicht wie man in Zürich sagt „sonnenreich u<ex>nd</ex> frohmutig“ genug. </p>
+<p>Ich schicke diesen Brief der Sicherheit wegen über Heidelberg, bitte Sie um freundliche weitere Nachricht über Ihr Wolergehen u<ex>nd</ex> Ihren Aufenthalt und grüße Sie u<ex>nd</ex> Ihre Frau Gemalin mit herzlicher Verehrung</p>
+<closer>
+<salute rendition="#c">Ihr</salute>
+<signed rendition="#right">FGregorovius.</signed>
+<note type="postscript">Von <?oxy_comment_start author="Angela Steinsiek" timestamp="20200414T180058+0200" comment="Georg Gottfried Gervinus: Historische Schriften. 7 Bde. Karlsruhe: Hasper 1833–1842. – Bd. 7 unter dem Titel „Gesammelte kleine historische Schriften“ (1838). – Bd. 1 enthielt: „Historische Schriften, Geschichte der Florentinischen Historiographie bis zum sechzehnten Jahrhundert : mit Erläuterungen über den sittlichen, bürgerlichen und schriftstellerischen Charakter des Machiavell“ (1833)."?>Ihren <bibl corresp="G004253">historischen Schriften</bibl>, d<ex>as</ex> i<ex>st</ex> den <hi rendition="#aq"><foreign xml:lang="Lat">minoribus</foreign></hi>, trieb ich hier nur den 7. B<ex>an</ex>d auf, u<ex>nd</ex> suchte vergebens den Teil, welcher die Florentiner Historiographen enthält<?oxy_comment_end?>. Die hiesige Biblioth<ex>ek</ex> ist sehr mangelhaft.</note>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

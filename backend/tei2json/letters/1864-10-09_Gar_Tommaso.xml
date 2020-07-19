@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000258">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Tommaso Gar in Neapel. Rom, 9. Oktober 1864</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Biblioteca Comunale di Trento</repository>
+                        <idno>
+                            <idno>busta BCT1–2257/52</idno>
+                        </idno>
+                    </msIdentifier>
+                    <physDesc>
+<p>1 Dbl.,  8°, 3 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für Auskünfte für seinen Artikel „Die Universität Neapel und dortige Studien“ (1864). Seinen Neapel-Aufenthalt musste er krankheitshalber unterbrechen. Er wartet auf eine Entscheidung des Verlags Le Monnier über die geplante Übersetzung seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) ins Italienische durch Gar. Die öffentlichen Bibliotheken in Rom sind bis Anfang November geschlossen. Er darf die Privatbibliotheken von Baldassare Boncompagni Ludovisi und Michelangelo Caetani di Sermoneta nutzen, hat beide aber noch nicht gesehen. Er bestellt Grüße von Karl und Auguste Lindemann-Frommel und lädt Gar und Madeleine Creutzer für das Frühjahr nach Rom ein. Er erkundigt sich nach Giaccomo Lignana. Die Septemberkonvention zwischen der italienischen Regierung und dem französischen Kaiserreich hat in Rom für Bestürzung gesorgt. </p>
+<p xml:lang="en">He thanks him for information for his article „Die Universität Neapel und dortige Studien“ (1864). He had to icut his stay in Naples short due to illness. He is waiting for a decision from the publishing house Le Monnier on the planned translation into Italian of his „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) by Gar. The public libraries in Rome are closed until the beginning of November. He is allowed to use the private libraries of Baldassare Boncompagni Ludovisi and Michelangelo Caetani di Sermoneta, but has not yet seen either of them. He sends greetings from Karl and Auguste Lindemann-Frommel and invites Gar and Madeleine Creutzer to Rome for the spring. He inquires about Giaccomo Lignana. The September convention between the Italian government and the French empire has caused consternation in Rome.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName>
+                    <date when="1864-10-09" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001158">Gar, Tommaso (1808–1871)</persName>
+<placeName key="G000737">Neapel</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Roma, Via Gregoriana 13. <lb/>9. Ottobre 64.</dateline>
+                    <salute rendition="#c">Carissimo amico Gar,</salute>
+                </opener>
+<p>ho ricevuto e goduto la vostra lettera gentile, la quale oltre ogni altro bene contiene pure le desiderate notizie, di cui ben presto mi serviro <seg type="comment"><orig>per stenderne un<bibl sameAs="G003918"> articolo sull’ Allgemeine Zeitung</bibl></orig><note xml:id="ngkf_bkk_ylb">Der Beitrag erschien anonym; γρ: Die Universität Neapel und dortige Studien. In: Beilage zu Nr. 331 der AZ. Augsburg: Cotta 26.11.1864. S. 5377f. </note></seg>. I giorni di Napoli, pur troppo pochi, rapidi, <seg type="comment"><orig>e dal malessere mio interrotti</orig><note xml:id="nc52_ckk_ylb">Gregorovius war in Neapel erkrankt und zog sich zur Genesung für etwa 25 Tage nach Sorrent zurück. Siehe die Briefe an Tommaso Gar vom <ref target="G000256">25.8.1864</ref>, <ref target="G000063">4.9.1864</ref> und <ref target="G000257">12.9.1864</ref> aus Sorrent.</note></seg>, oramai stanno dietro di me come un sogno; da ogni passato suol nascere di qua un desiderio, di la un pentimento – almeno io qualche volta mi sento compiuto dal pensier, di non aver potuto meglio impiegar quel tempo e colla compagnia vostra, e cogli studi alle biblioteche. Mi sentivo male davvero; ma sonomi rimesso in salute abbastanza; dovetti star al letto un altro po’ – però sono già immerso nei lavori.</p>
+<p> <pb n="1v"/><seg type="comment"><orig>Il nostro ritorno a Roma era bello assai </orig><note xml:id="njqm_dkk_ylb">Gregorovius kehrte am 29.9.1864 gemeinsam mit der Familie Lindemann, d. h. mit Karl Lindemann-Frommel (1819–1891) und seiner Frau Auguste (1826–1876) sowie möglicherweise deren Sohn Manfred (1852–1939), von Neapel nach Rom zurück (siehe RT, 16.10.1864, S. 186).</note></seg>– ammirai, quasi come cosa nova, la grandiosità della campagna, che vinse le meraviglie di Napoli. Trovai tutto in regola nella mia casa, e subito ho messo mano al lavoro. Che <seg type="comment"><orig>il vostro intento di tradurre <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">la storia di Roma</bibl></orig><note xml:id="nu3t_fkk_ylb">Gar hatte ihm angeboten, die „Geschichte der Stadt Rom im Mittelalter“, von der zum Zeitpunkt die Bände 1 (1859), 2 (1859), 3 (1860) und 4 (1862) erschienen waren, zu übersetzen (vgl. den Brief von <ref target="G000063">Gregorovius an Gar, 4.9.1864</ref>). Schlussendlich übernahm nicht Gar, sondern der venezianische Verlag Antonelli die Übersetzung.</note></seg> piu presto ancora, vedo con piacere; aspettiamo dunque la risoluzionè del <seg type="comment"><orig><persName key="G001358"><choice><orig>Lemonnier</orig></choice></persName></orig><note xml:id="nnhs_hkk_ylb">Felice Le Monnier (1806–1884) war Verleger und Mitgründer des Druckereiunternehmens „Felice Le Monnier e C.“, aus dem 1841 der Verlag Le Monnier hervorging, der nachfolgend zu den namhaftesten Verlagshäusern Italiens zählte. Bei Le Monnier erschien 1857 Paolo Perez Übersetzung von „Corsica“ (2 Bde., 1854) unter dem Titel „Storia die Corsi“. Den Verlag der „Geschichte der Stadt Rom im Mittelalter“ übernahm letztlich nicht Le Monnier, sondern der venezianische Verlag Antonelli.</note></seg>. Mi sembra, che questo affare buon successo può promettere, non per valor dell’opera, ma si atteso le circostanze attuali.</p>
+<p>Non vidi ancora né <persName key="G000978"><seg type="comment"><orig>Buoncompagni</orig><note xml:id="nvcc_jkk_ylb">Baldassare Boncompagni Ludovisi (1821–1894) war ein schwerreicher Mathematikhistoriker, der Gregorovius bereitwillig seine Privatbibliothek für Recherchen zur Verfügung stellte (siehe RT, 24.1.1864, S. 175 und den Brief von <ref target="G000193">Gregorovius an Thile, 23.2.1864</ref>)</note></seg>,</persName> né <seg type="comment"><orig><persName key="G001004">Sermoneta</persName></orig><note xml:id="njfb_qkk_ylb">Michelangelo Caetani di Sermoneta (1804–1882) war ein Politiker und Literat, der sich auf die Erforschung der Werke Dante Alighieris (1265–1321) spezialisierte. Er stellte Gregorovius sein Hausarchiv bereits ab dem 19.12.1857 zur Verfügung (siehe RT, 31.12.1857, S. 69).</note></seg>; mi rammentero di voi in presenza loro. Le biblioteche di Roma stanno chiuse fino al principio di Novembre.</p>
+<p><seg type="comment"><orig>La <persName key="G001374"><persName key="G001375"><persName key="G001376">famiglia Lindemann</persName> </persName></persName>vi manda cordiali saluti</orig><note xml:id="nlpc_skk_ylb">Gregorovius verbrachte mit dem Landschaftsmaler Karl Lindemann-Frommel (1819–1891) und seiner Frau Auguste (1826–1876) Zeit in Neapel in Gesellschaft von Gar und dessen Lebensgefährtin Madeleine Creutzer, verwitwete Baronin Prochaska (siehe RT, Eintrag vom 24. September 1864 aus Neapel, S. 185).</note></seg> e vuole essere come me, ricordata benevolmente dalla gentilissima <seg type="comment"><orig><persName key="G001056">Baronessa</persName></orig><note xml:id="nept_tkk_ylb">Madeleine Creutzer, verwitwete Baronin Prohaska, war seit 1863 Tommaso Gars Lebensgefährtin.</note></seg>. Spero, che ella stara bene – desideriamo assai la sua, e la vostra compagnia. <pb n="2r"/>Venite trovarci à Roma nella primavera, dove mangeremo allora insieme „due maccheroni“, e beveremo il buono vino di <placeName key="G000675">Frascati</placeName>. Scrivete mi spesso, caro amico; e contate su di me <seg type="comment"><orig><foreign xml:lang="Lat">inter vivos et mortuos</foreign></orig><note xml:id="nyfp_vkk_ylb">Lat. für: Unter den Lebenden und den Toten.</note></seg> come conto d’ora inanzi su di voi.</p>
+                <p>A tutti gli amici molti saluti – si fà vedere il <seg type="comment"><orig><persName key="G001371">Lignana</persName></orig><note xml:id="npmh_xkk_ylb">Der Orientalist Giaccomo Lignana (1830–1892) lehrte in Rom und Neapel Sanskrit. Gregorovius hatte ihn im September 1864 in Neapel kennengelernt (siehe RT, 24.9.1864, S. 185).</note></seg><add place="superlinear">,?</add> uomo pieno di spirito e di dottrina – </p>
+                <closer>
+                    <salute rendition="#c"> <seg type="comment"><orig><foreign xml:lang="Lat">Valete!</foreign></orig><note xml:id="nzwn_ykk_ylb">Lat., sinngemäß: Lebt wohl!</note></seg></salute> <signed rendition="#right">F Gregorovius</signed></closer>
+                <note type="postscript">Große Bestürzung in Rom – mir scheint es wirklicher Ernst mit <seg type="comment"><orig>jenem Septembervertrag</orig><note xml:id="np3b_blk_ylb">Die sogenannte „Septemberkonvention“ vom 15.9.1864 regelte, dass sich die französischen Truppen innerhalb von zwei Jahren aus Rom zurückziehen sollten; gleichzeitig sicherte die italienische Regierung unter Vittorio Emanuele II. dem Vatikanstaat das bestehende Territorium zu. Die italienische Hauptstadt wurde in der Folge von Turin nach Florenz verlegt, womit Rom als Hauptstadt aufgegeben schien. Gregorovius äußert seine Gedanken zu den Auswirkungen des Vertrags u. a. am 24.9.1864 in seinem Tagebuch: „Am 15. September ist die Konvention zwischen Italien und Napoleon abgeschlossen worden. Ihr Wortlaut ist noch nicht bekannt; die Folge davon wird die Verlegung der Hauptstadt nach Florenz sein. Eine fieberhafte Aufregung hat sich Italiens bemächtigt. Lignana prophezeite den Verzicht auf Rom. Die meisten aber hoffen, daß Florenz die letzte Etappe vor Rom sein werde. Ich glaube nicht an eine Versöhnung mit dem Papsttum, welches stets seine Provinzen reklamieren wird. Die Krisis ist groß.“ (S. 186).</note></seg>. </note>
+               </div>
+        </body>
+    </text>
+</TEI>

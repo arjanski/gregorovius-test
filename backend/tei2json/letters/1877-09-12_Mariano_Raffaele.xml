@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000152">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Baden-Baden. München, 12. September 1877</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt></titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ¾ S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+<p xml:lang="de">Den vor zwei Monaten erschienen Artikel von Oreste Tommasini, „Della storia medievale di Roma e de’ più recenti raccontatori di essa“ (1877), hat er nun doch gelesen. Dieser greift darin seine Stellung als Ehrenbürger Roms und seine „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) an – dagegen ist selbst Blaze de Burys Negativrezension „Les Borgia“ in der „Revue des Deux Mondes“ (1877) harmlos, denn Tommasini bezeichnet ihn im Vergleich mit Alfred von Reumont als ‚Schriftsteller für das Volk‘. Selbst in der konservativen „Civiltà Cattolica“ war sein Werk ein ‚Geschenk für den Papst‘ genannt worden. Er will sich nach Beratschlagung mit Mariano bei Costantino Corvisieri beschweren. Er soll sich das Heft des „Archivio della Società romana di storia patria“ von Pierre Albert Tachard besorgen. Grüße an Adelheid Grunelius sowie an Wolfgang Erhardt und Familie.  Von Karl Linemann-Frommel hat er keine Nachricht. Die dritte Auflage des vierten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1877) ist erschienen, der fünfte Band wird folgen (1878). </p>
+<p xml:lang="it"/>
+<p xml:lang="en"/>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1877-09-12" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000623">Baden-Baden</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+<div type="writingSession">
+<opener>
+<dateline rendition="#c">München, 12. September 1877.</dateline>
+<salute rendition="#c">Lieber Freund,</salute>
+</opener>
+<p>ich habe mir das erste Heft des <hi rendition="#aq"><orgName key="G000467">Archivio Storico romano</orgName></hi> geben lassen, welches jenen <bibl sameAs="G002309">Aufsatz</bibl> des <seg type="comment"><orig><persName key="G001650">Oreste Tomasini</persName></orig><note xml:id="nlmz_jy3_1mb">Oreste Tommasini (1844–1919) war Gründungsmitglied des römischen Geschichtsvereins und wurde 1883 Präsident der Società Romana di Storia Patria. Sein Artikel „Della storia medievale di Roma e de’ più recenti raccontatori di essa“ erschien im „Archivio della Società romana di storia patria“, I (1877), S. 1–46, zu Gregorovius bes. S. 37f. </note></seg> enthält, <seg type="comment"><orig>von welchem mir vor 2 Monaten aus <placeName key="G000763">Rom</placeName> geschrieben wurde</orig><note xml:id="nwv1_ly3_1mb">Im römischen Tagebuch heißt es dazu: „Der Archivar [Antonino] Bertolotti gab mir Kunde, daß man in dem neu gegründeten ‚Archivio Storico Romano‘ feindlich gegen mich aufgetreten sei, indem man meine ‚Geschichte der Stadt‘ auf ‚jesuitische Weise‘ entstellt habe, um [Alfred von] Reumont [1808–1887] auf meinen Thron zu setzen. Ich erhielt bald darauf dieses Heft. Der betreffende einleitende Artikel, von einem gewissen Tommasini, einem auf klerikalen Wegen schleichenden, ganz unbedeutenden Menschen verfasst [...] war in der Tat ein jammervolles Machwerk des Neides. Ich erhielt bald darauf von Pasquale Villari einen Brief, worin er mir sagte, daß die Ungerechtigkeit, mit der man mich behandelt habe, alle wohl denkenden Italiener empöre.“ (August 1877, S. 379) </note></seg>, daß er meine <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Geschichte der Stadt Rom</bibl> auf jesuitische Weise mißhandelt habe (<foreign xml:lang="ita">tartassandola</foreign> <foreign xml:lang="ita">gesuiticamente</foreign>). Ich wollte eigentlich dieses Schriftstück nicht lesen, aber ich hielt es doch für notwendig: nun aber muß ich Ihnen mitteilen, daß ich tief entrüstet bin, weil jene mir gemachte Mitteilung sich vollkommen bestätigt. Es ist ein ganz schimpfliches Stück, auf die perfideste Weise von einem jungen Manne, der bisher stets demütig u<ex>nd</ex> wie auf Fußzehen unhörbar um mich schlich, gegen mich ausgeführt, um die<seg type="comment"><orig> Stellung</orig><note xml:id="nbrf_my3_1mb">Am 8. März 1876 hatte der römische Gemeinderat die Entscheidung getroffen, dem Autor der „Geschichte der Stadt Rom im Mittelalter“ (8 Bde., 1859–1872) mit der Verleihung der Ehrenbürgerwürde Roms für seine Verdienste um die italienische Geschichtsschreibung zu danken; siehe den Brief von Gregorovius an Pietro Venturi vom 17.3.1876</note></seg> zu zerstören (wenn es möglich ist), <pb n="1v"/>welche ich in Rom u<ex>nd</ex> mein Werk in der Literatur einnimmt. Was Tomasini verschweigt, ist fast noch gehässiger, als was er sagt – <seg type="comment"><orig><persName key="G001545">Reumont</persName></orig><note xml:id="nw1r_ny3_1mb">Der Historiker und Diplomat Alfred von Reumont (1808–1887) war nach einem abgebrochenen Medizinstudium Ende 1829 als Hauslehrer nach Florenz gekommen. Seine diplomatische Karriere begann 1830 ebendort als Legationssekretär unter dem preußischen Gesandten Friedrich von Martens (1778–1859). 1833 wurde er in Erlangen zum Doktor der Philosophie promoviert und betrieb neben seiner diplomatischen Karriere Studien zur italienischen und deutschen Geschichte und unterhielt eine umfangreichen Korrespondenz mit Historikern und Politikern. Viel beachtet wurden seine „Römische Briefe von einem Florentiner 1837–1838“ (4 Bde., Leipzig: Brockhaus 1840–1844). Nachdem er zuerst 1829 als Sekretär in der preußischen Gesandtschaft in Florenz tätig war, wechselte von 1836 und 1851 zwischen Rom und Florenz. 1851 übernahm er die Leitung der preußischen Gesandtschaft in Florenz, auch begleitete er Friedrich Wilhelm IV. (1795–1861) häufiger auf Reisen. Nach dessen Tode wurde Reumont in den einstweiligen Ruhestand versetzt, lebte überwiegend in Aachen und Bonn und widmete sich fortan seinen Studien zur Geschichte und Literatur. Gregorovius hatte zu dem vielschreibenden Reumont ein eher schwieriges Verhältnis. Insbesondere nachdem dieser im Frühling 1863 von König Maximilian von Bayern den Auftrag erhalten hatte, eine Geschichte der Stadt Rom von der ältesten bis auf die neueste Zeit für einen größeren Leserkreis zu schreiben. In über 3500 Seiten in vier Bänden stellte er es zum fortgesetzten Spott und Ärger von Gregorovius, der von der Kritik immer wieder mit ihm verglichen wurde, in acht Jahren fertig (4 Bde., Berlin 1866–1870).</note></seg> über mich erhebend, sucht er ihn als Hebel anzusetzen, um mich zu Falle zu bringen.</p>
+<p>Zudem mich ein solches Verhalten schon an sich als Ungerechtigkeit u<ex>nd</ex> als Diebesstück empört, ist fast mein Schmerz noch größer, das von den Römern zu erleben. Es macht mich ganz krank, und greift mich mehr an als die <bibl sameAs="G002848">plumpe Induction</bibl> des <hi rendition="#aq"><persName key="G000971">Blaze de Bury</persName></hi> es gethan hätte.</p>
+<p>Tomasini hat die unglaubliche Stirne einmal wörtlich zu sagen:<seg type="comment"><orig><foreign xml:lang="ita"> Il G<ex>regorovius</ex> scrive per solleticar più d’un popolo, il Reumont per invito d’un re filosofo.</foreign> </orig><note xml:id="nwyk_ry3_1mb">Zitat aus Oreste Tommasinis Artikel „Della storia medievale della città di Roma e de’ più recenti raccontatori di essa“ („Archivio della Società Romana di Storia Patria“. Bd. 1. Rom: Società 1877. S. 1–46), S. 36.</note></seg>Das soll denn etwa Ursprung und Zweck meiner Geschichte der Stadt Rom sein, des Werkes innigster Inspiration <pb n="2r"/>und eines Weiheopfers dargebracht der Stadt Rom, von welchem selbst die Jesuiten der <foreign xml:lang="ita"><hi rendition="#aq"><orgName key="ed_tpk_pxd_rlb">Civiltà Cattolica</orgName></hi></foreign> zu sagen gezwungen waren: <seg type="comment"><orig><foreign xml:lang="ita">ella è un insigne omaggio reso alla maestà di Roma.</foreign></orig><note xml:id="nrsh_sy3_1mb">Das Zitat stammt aus dem ersten Teil des anonym erscheinenden Artikels „La Storia della Città di Roma nel Medio Evo di Ferdinando Gregorovius“, der am 21. April 1877 in der „Civiltà Cattolica“ erschien. Dort heißt es: „ella è un insigne omaggio reso alla maestà di Roma, e del Roma papale“ (S. 158–159). Für diesen ersten Teil des Beitrags siehe [Brunengo, Guiseppe]: La Storia della Città di Roma nel Medio Evo di Ferdinando Gregorovius. In: La Civiltà Cattolica. Jg. 28. Ser. 10. Bd. 2. Florenz: Manuelli 1877. S. 148-160, 396-414. Für die Forsetzung siehe: [Brunengo, Guiseppe]: La Storia della Città di Roma nel Medio Evo di Ferdinando Gregorovius [Fortsetzung]. In: La Civiltà Cattolica. Jg. 28. Ser. 10. Bd. 3. Florenz: Manuelli 1877. S. 160-183, 402-424, 653-675; [Brunengo, Guiseppe]: La Storia della Città di Roma nel Medio Evo di Ferdinando Gregorovius [Schluss]. In: La Civiltà Cattolica. Jg. 28. Ser. 10. Bd. 4. Florenz: Manuelli 1877. S. 31-43, 153-166.</note></seg></p>
+<p>Ich wollte 1 Protest nicht an den <seg type="comment"><orig>ulanden </orig><note xml:id="nbr2_ty3_1mb">Ein Ulan [türk.-poln.] ist ein Lanzenreiter.</note></seg>Tom<ex>m</ex>asini, wol aber an <seg type="comment"><orig><persName key="G001050">Corvisieri</persName> </orig><note xml:id="njlk_5y3_1mb">Costantino Corvisieri (1824–1898), Archivar des Staatsarchivs Rom.</note></seg>(mit 1 paar Worten) abschicken, aber da es sich hier um mein moralisches Verhältniß zu Rom u<ex>nd</ex> Römern handelt, habe ich noch zurückgehalten, bis ich Ihre, eines wahren Freundes Ansicht vernommen habe, ob Sie nämlich jene meine Absicht gut heißen, oder dafür halten, daß ich diese Leute schweigend Ihrem eigenen Gewißen in der Verachtung des Edeln überlassen solle.</p>
+<p>Bitte lassen Sie sich <seg type="comment"><orig>das <orgName key="G000467">Heft</orgName></orig><note xml:id="nhdm_vy3_1mb">Das erste Heft des „Archivio della Società romana di storia patria“ (1877).</note></seg> von Herrn <persName key="G001631">Tachard</persName> schicken, der es gewiß besitzt, u<ex>nd</ex> schreiben <pb n="2v"/>Sie mir.</p>
+<p>Wir grüßen Sie alle herzlich; bitte Frau <persName key="G001215">Grunelius</persName> u<ex>nd</ex> ihr Haus, wie <persName key="G001116"><persName key="G001115"><persName key="G001114">Erhardts</persName></persName></persName> zu grüßen.</p>
+<closer>Wie bin ich müde dieser <hi rendition="#aq"><foreign xml:lang="ita">perfida e stolta favola del mondo</foreign></hi>! <salute rendition="#c">Ihr</salute> <signed rendition="#right">FGr.</signed> </closer>
+</div>
+            <note type="postscript" xml:id="n1" next="#n2">Ich weiß nichts von <persName key="G001375">Lindemann</persName>. </note>
+<note type="postscript" xml:id="n2" prev="#n1" next="#n3">Auch mein <bibl corresp="G003464">IV. Band</bibl> der Gesch<ex>ichte</ex> in 3. Aufl<ex>age</ex> ist ausgegeben, der <bibl corresp="G003457">V.</bibl> bald fertig.</note>
+<note type="postscript" xml:id="n3" prev="#n2">Ich sehne mich danach, Sie wieder zu sehen.</note>
+</body>
+    </text>
+</TEI>

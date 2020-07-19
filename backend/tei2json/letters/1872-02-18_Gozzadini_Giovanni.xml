@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000452">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. Rom, 18. Februar 1872 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+<p>ein Porträt von Gregorovius </p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell’Archiginnasio</institution><collection>Ms. Gozzadini 442 </collection><idno>(11)</idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er war Zeuge eines Religionsgespräches im Vatikan über die Frage, ob der Hl. Petrus tatsächlich in Rom gewesen ist. Pius IX. selbst hat an der Diskussion teilgenommen. Gregorovius legt seinem Brief ein Porträt von sich bei. Grüße an Maria Teresa Serego Alighieri Gozzadini.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1872-02-18" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni (1810–1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Roma, <placeName key="ediarum_lmm_slx_qlb">Via Gregoriana</placeName> N<hi rendition="#sup"><ex>umero</ex></hi> 13. <lb/>Febb<hi rendition="#sup"><ex>raio</ex></hi> 18. 1872.</dateline>
+                    <salute rendition="#c">Illustrissimo signor Conte,</salute>
+                </opener>
+<p>Ho l’onore di mandarle <seg type="comment"><orig>il ritratto della mia nullità</orig><note xml:id="nsk2_scz_ylb">Das von Gozzadini erbetene Bildnis von Gregorovius, das er hier offensichtlich mitschickt, ist nicht ermittelbar. </note></seg>, adempiendo così il suo comando. </p>
+<p>Le giornate, a Roma or ora si fanno belle, di maniera che siano entrati in primavera. Dopo loro partenza, non vi è successo altro di nuovità, fuori di <seg type="comment"><orig>quella discussione pubblica intorno alla celebre quistione</orig><note xml:id="nall_5cz_ylb">Den Disput beschreibt Gregorovius am selben Tag ausführlich im Tagebuch: „In den letzten Tagen des Karneval fand ein merkwürdiges Religionsgespräch über die Frage statt, ob S. Petrus jemals in Rom gewesen ist oder nicht. Die beiden Parteien bestanden aus evangelischen Geistlichen und katholischen Priestern, alle Italiener. Der Papst selbst hatte die Erlaubnis dazu erteilt, trotz vielen Widerspruchs einiger Kardinäle. Daß unter seinen Augen in Rom heute ein solches Religionsgespräch abgehalten werden konnte, und zwar über jene Kardinalfrage, ist ein signum temporis mutati. Die Streitenden versammelten sich im Saal der Accademia Tiberina unter dem Vorsitz des Prinzen [Mario] Chigi [Albani della Rovere (1832–1914)]. Jede Partei hatte ihre Stenographen. Man beobachtete mit Anstand alle Regeln eines akademischen Turniers. Die negativen Beweise, welche zumal Sgarelli [d. i. Francesco Sciarelli (1837–1904)] und [Allessandro] Gavazzi [(1809–1889)] vorbrachten, erwiesen sich stärker als die anderen, welche [Filippo Maria] Guidi [(1815–1879)] in einer sehr schwachen Verteidigung gebrauchte. Seine Argumente stützten sich nur auf die Tradition der Kirche; er griff die Autorität der Bibel an und stellte die katholische Tradition über diese. Man bemerkte, daß am Ende des Disputs Ketzer und Katholiken sich die Hände reichten. Nun, da der Sieg nicht entschieden den Katholiken geblieben ist, macht man im Vatikan dem Papst die bittersten Vorwürfe; er hat auch die Fortsetzung solcher Diskussionen verboten. Dies sind nur Wortgefechte; selbst wenn es positiv zu erweisen wäre, daß Petrus nie in Rom gewesen ist, hebt man doch nicht mehr den tausendjährigen Bestand der Tradition und ihre historische Wirkung auf.“ (RT, 18.2.1872, S. 318–319).</note></seg>, se <persName key="G004750">S<ex>an</ex> Pietro</persName> vi fosse stato realmente a Roma, o nò. Siccome lo stesso<persName key="G001497"> Papa</persName>, quantunque ne fosse sconsigliato da diversi cardinali, in questa richiesta straordinaria condiscese, e vi aderì, di ragione, vi si può scorgere<seg type="comment"><orig> <foreign xml:lang="Lat">signum mutati temporis</foreign></orig><note xml:id="nkl1_wcz_ylb">Lat. für: Zeichen für sich ändernde Zeiten.</note></seg>.</p>
+<p>Spero che Lei assieme colla <persName key="G001092">Signora Contessa</persName> avranno avuto un felicissimo viaggio alla <placeName key="G000664">patria</placeName>. Raccomandandomi caldamente alla loro benevola memoria.</p>
+<p>Mi pregio di chiamarmi di V<ex>ostro</ex> S<ex>ignore</ex></p>
+                <closer>
+                    <salute rendition="#right">il fedelmente ossequioso servitore</salute>
+                    <signed rendition="#right">Gregorovius </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

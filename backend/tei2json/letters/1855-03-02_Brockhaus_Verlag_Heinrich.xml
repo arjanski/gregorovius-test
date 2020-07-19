@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000060">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an den F. A. Brockhaus Verlag und Heinrich Brockhaus in Leipzig. Rom, 2. März 1855</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummr 224 (12)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 4°, 1 ¾ S. – 1r aoR in einer Vignette geprägt: BATH – alR, Blatt um 90° gedreht, Eingangsvermerk: 1855. / <hi rendition="#aq"><hi rendition="#aq">Rom</hi></hi>, 2/10. <hi rendition="#aq"><hi rendition="#aq">März</hi></hi>. / <hi rendition="#aq"><hi rendition="#aq">Gregorovius</hi></hi>. </p>
+<p>Brief von Ferdinand Gregorovius an Robert Prutz</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die Abzüge seines Beitrags „Ein Blick in die romanische Literatur Siciliens“ (1854) aus den „Blättern für literarische Unterhaltung“ und für die Nummer des „Deutschen Museums“. Das Manuskript des von Brockhaus für die Zeitschrift „Die Gegenwart“ gewünschten Beitrags „Das Königreich beider Sicilien in seinen gegenwärtigen Zuständen“ wird er fristgerecht bis Ende April liefern und bittet um Abzüge des Drucks. Seine Wünsche betreffend des drei Jahre zuvor beim „Deutschen Museum“ eingereichten, nicht veröffentlichen Manuskripts „Don Juan, Faust und Ahasver, ein Fragment zur Charakteristik Lenaus“ hat er in beiliegendem Brief an Robert Prutz ausgeprochen, den er weiterzuleiten bittet. Prutz soll nach seinem Ermessen damit verfahren.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He thanks him for the copies of his article „Ein Blick in die romanische Literatur Siciliens“ (1854) from the „Blätter für literarische Unterhaltung“ and for the issue of the „Deutsches Museum“. He will provide the manuscript of his article „Das Königreich beider Sicilien in seinen gegenwärtigen Zuständen“ as requested by Brockhaus for the magazine „Die Gegenwart“ by the end of April, in due time, and asks for a printed copy. He expressed his wishes regarding the unpublished manuscript „Don Juan, Faust und Ahasver, ein Fragment zur Charakteristik Lenaus“, which had been submitted to the „Deutschen Museum“ three years earlier, in the attached letter to Robert Prutz, which he asks to forward. Prutz should proceed at his own discretion. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1855-03-02" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+<persName key="G000996">Brockhaus, Heinrich (1804–1874)</persName>
+                    <orgName key="G000480">F. A. Brockhaus Verlag</orgName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+<correspContext>
+<ref type="prev">1. Februar 1855</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+                <opener>
+<salute xml:id="s1" next="#s2">Der sehr geehrten Buchhandlung </salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">F. A. Brockhaus zu Leipzig.</salute>
+</opener>
+                <p>Ihr geneigtes Schreiben d<ex>atiert</ex> d<ex>en</ex> 1. Februar d<ex>iesen</ex> J<ex>ahres</ex> habe ich, sehr verehrter Herr, richtig erhalten, und zeige ebenso dankbar den <seg type="comment"><orig>Empfang der betreffenden Nummer <bibl sameAs="G003825">Bl<ex>ätter</ex> f<ex>ür</ex> lit<ex>erarische</ex> U<ex>nterhaltung</ex></bibl></orig><note xml:id="nxjw_zh1_nlb">Im Brief <ref target="G000066">an Brockhaus vom 6.1.1855</ref> hatte Gregorovius um Übersendung seines in den „Blättern für literarische Unterhaltung“ gedruckten Beitrags „Ein Blick in die romanische Literatur Siciliens“ (Bd. 1. Nr. 1. Leipzig: Brockhaus 1.1.1855. S. 6–19) gebeten (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 11). </note></seg> <seg type="comment"><orig>nebst den Blättern des <bibl corresp="G002403">Deut<ex>schen</ex> Mus<ex>eums</ex></bibl></orig><note xml:id="ntrx_d31_nlb">Möglicherweise hatte Brockhaus Gregorovius die Rezension von Melchior Meyr (1810–1871) seines jüngst bei Cotta erschienen „Corsica“ (1854) übersandt: In: Deutsches Museum. Zeitschrift für Literatur, Kunst und öffentliches Leben. Jg. 4. Bd. 2. Leipzig: Brockhaus 1854. S. 913–914.</note></seg> an.</p>
+                <p><seg type="comment"><orig>An die Arbeit über <supplied cert="high">„</supplied><bibl sameAs="G003836">Das Königreich beider Sicilien in seinen gegenwärtigen socialen u<ex>nd</ex> politischen Zuständen</bibl>“ gehe ich sehr bald</orig><note xml:id="nwgx_cm1_nlb">Siehe den Brief von <ref target="G000066">Gregorovius an Brockhaus, 6.1.1855</ref>. Das Manuskript seines von Heinrich Brockhaus gewünschten Artikels „Das Königreich beider Sicilien in seinen gegenwärtigen Zuständen“ übersandte Gregorovius mit seinen Briefen vom <ref target="G000038">22.</ref> und <ref target="G000061">28.4.1855</ref>. Der Beitrag wurde gedruckt in: Die Gegenwart. Eine encyklopädische Darstellung der neuesten Zeitgeschichte für alle Stände. Bd. 11. Leipzig: Brockhaus 1855. S. 149–189. Unter dem Titel „Neapel und Sicilien vom Jahr 1830 bis 1852“ wurde S. 164–189 aufgenommen in: Siciliana. Wanderungen in Neapel und Sicilien. Leipzig: Brockhaus 1861.</note></seg>, u<ex>nd</ex> werde sie zu dem vorgeschriebenen Termin Ende April <seg type="comment"><orig>a<ex>nni</ex> c<ex>urrentis</ex></orig><note xml:id="nivd_k31_nlb">Lat.: des laufenden Jahres.</note></seg> abgeliefert haben; so viel eben ein Mensch versprechen kann, soll daran geschehn, wenigstens werde ichs an der Mühe nicht mangeln laßen; natürlich würde eine solche Arbeit an Ort u<ex>nd</ex> Stelle beßer geraten, aber auch mit dem mir zu Gebote stehenden Material hoffe ich wenigstens einiger maßen Gutes zu Stande zu bringen. Ich werde mich streng nach Ihren Angaben richten, wie sie mir in Ihrem werten Schreiben vorliegen, u<ex>nd</ex> soll die Arbeit nicht 3 Druckbogen übersteigen.</p>
+                <p>Mit großem Danke werde ich die Sendung der betreffenden Bogen der Gegenwart
+                    empfangen, u<ex>nd</ex> mich auf jene Artikel beziehen.</p>
+                <p>Für die gefällige Anfrage an <seg type="comment"><orig>Herrn <persName key="G001512">Robert <pb n="1v"/>Prutz</persName></orig><note xml:id="nnyw_p31_nlb">Robert Prutz (1816–1872) war 1851–1866 der Herausgeber des „Deutschen Museums“.</note></seg> betreffs eines vor längerer Zeit abgesandten M<ex>anus</ex>kr<ex>ipts</ex> meinen ergebensten Dank; möchten Sie die Freundlichkeit haben, beikommendes Schreiben an Herrn Prutz zu beordern, worin ich <seg type="comment"><orig>meine Wünsche wegen des Artikels</orig><note xml:id="nb1g_531_nlb">Im Brief <ref target="G000066">an Brockhaus vom 6.1.1855</ref> hatte Gregorovius um Rücksendung seines vor drei Jahren an das „Deutsche Museum“ eingesandten, nicht veröffentlichten Manuskripts „Don Juan, Faust und Ahasver, ein Fragment zur Charakteristik Lenaus“ an seinen Bruder Julius Gregorovius nach Königsberg gebeten.</note></seg> ausgesprochen habe u<ex>nd</ex> es der Redaktion überlaße, mit Berücksichtigung derselben nach Gutdünken von jener Arbeit Gebrauch zu machen.</p>
+                <p>Sollte während meiner Arbeit über beide Sicilien mir irgend eine Frage oder
+                    Sonstige Auskunft nötig werden, so werde ich mir erlauben, an Sie zu schreiben,
+                    wie ich das Gleiche von Ihnen, geehrtester Herr, erbitte, falls Sie noch irgend
+                    etwas Specielles berücksichtigt wünschen.</p>
+                <p>Meine Addresse ist nach wie vor am sichersten die <orgName key="G000545">Spithöverische Buchhandlung</orgName>.</p>
+                <closer>
+<salute xml:id="s3" next="#s4" rendition="#c">Hochachtungsvoll empfiehlt sich</salute>
+<salute xml:id="s4" prev="#s3" rendition="#right">Ihr sehr ergebener</salute>
+<signed rendition="#right">F. Gregorovius.</signed>
+<dateline> <hi rendition="#aq">Roma</hi> März 2. 1855.</dateline>
+</closer>
+           </div>
+        </body>
+    </text>
+</TEI>

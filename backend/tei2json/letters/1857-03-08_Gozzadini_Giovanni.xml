@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000392">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. Rom, 8. März 1857</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness><bibl type="print">Lettere di Storia e Archeologia a Giovanni Gozzadini. Pubblicate da Nerio Malvezzi con prefazione di Giosuè Carducci. Bd. 1. Bologna: Nicola Zanichelli [1898]. S. 194–196 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt Gozzadini für seinen Einsatz für den Buchhändler Hugo Glück. Er fürchtet, dass es nicht zur Gründung der Buchhandlung in Bologna kommen wird, da der geplante Erwerb eines Geschäfts durch Glück nicht zustande gekommen ist. Er berichtet vom aktuellen Bearbeitungsstand des ersten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1859). Im folgenden Band soll Bologna eine wichtige Rolle spielen. Dabei wird es auch um die 1256 von dem Bologneser Brancaleone degli Andalò veranlasste Zerstörung Roms gehen, über die es nur den Aufsatz von Carlo Fea gibt („Dissertazione sulle rovine di Roma“, 1832). Aus der Bibliothek des 1856 in Florenz verstorbenen Luigi Canina hat er einige Bücher erworben. Er hofft, Gozzadinis „Cronaca di Ronzano e memorie di Loderingo d’Anadalò, frate gaudente“ (1851) bald lesen zu können.</p>
+                <p xml:lang="en">He thanks Gozzadini for the services he rendered the bookseller Hugo Glück. He fears that the bookstore in Bologna will not be established because the planned acquisition of a business by Glück was not successful. He reports on the current status of the first volume of his „Geschichte der Stadt Rom im Mittelalter“ (1859). Bologna will play an important role in the following volume. It will also deal with the destruction of Rome by the Bolognese Brancaleone degli Andalò in 1256, about which there is only one essay. written by Carlo Fea („Dissertazione sulle rovine di Roma“, 1832). He acquired some books from the library of Luigi Canina, who died in Florence in 1856. He hopes to read Gozzadini’s „Cronaca di Ronzano e memorie di Loderingo d’Anadalò, frate gaudente“ (1851) soon.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1857-03-08" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni (1810–1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="194"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">Roma, 8 marzo 1857.</dateline>
+</opener>
+<p>Illustrissimo signor. Distintamente La ringrazio di avermi perdonato in un modo tanto gentile la mia franchezza. Tutto quello che ho potuto desiderare circa <seg type="comment"><orig>l’affare del <persName key="G001179">giovane libraio</persName></orig><note xml:id="nnnc_h2j_tlb">Hugo Glück (†1861) war aus Burghaun nach Rom gekommen und hatte ab 1857 eine Buchhandlung in Bologna betrieben. Gregorovius hatte Gozzadini um dessen Vermittlung in den Bologneser Kreisen gebeten; siehe den Brief von Gregorovius an Giovanni Gozzadini vom <ref target="G000391">1.2.1857</ref>.</note></seg>, Ella mi ha conceduto, avendo avuto la compiacenza di comunicare l’intrapresa del signor Glück agli uomini di lettere e scienza in Bologna. Essendo io stato richiesto da lui di un tal favor di raccomandazione, volentieri lo feci, sapendo bene che Ella di ogni stabilimento di tal maniera prendeva interesse. Ma pur troppo temo, che l’intenzione di questo giovane non troverà adempimento, per cagione che quel negozio non fu acquistato. Il signor Glück da che sta dallo <seg type="comment"><orig><persName key="G001618">Spithover</persName> di Roma</orig><note xml:id="nhdj_k2j_tlb">Der westfälische Buchhändler, Kunsthändler und Mäzen Josef Spithöver (1813–1892) hatte sich 1841 in Rom niedergelassen, wo er 1845 an der Piazza di Spagna die führende deutsche Buchhandlung eröffnete.</note></seg> sempre ha dimostrato un bel talento pel suo mestiere, e conosce bene le cose di letteratura di commercio; può essere che col tempo faccia buona fortuna, come ha fatto il suo padrone.</p>
+<p>Pur troppo sbaglia Glück pensando che io voglia <pb n="195"/>o possa venir fra poco a Bologna per causa di studii; quest’anno almeno non mi riescirà possibile un tal viaggio scientifico, e così mi resta lontano ancora l’onore di poter manifestarle personalmente i miei rispetti. Della <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">cronaca di Roma</bibl> sto scrivendo adesso il primo volume, il quale finisce coll’anno 800. Per l’altro tomo però la citta di Bologna diviene una terra feconda, quanto alla storia del senato: perciochè il famoso e veramente eroico <persName key="G000992">Brancaleone di Bologna</persName> per più anni tenne la signoria di Roma. <seg type="comment"><orig>Però duolmi che non possiamo liberar un Bolognese della taccia di aver distrutto senza riguardo alcuno dei tanti monumenti di Roma</orig><note xml:id="ntzm_n2j_tlb">Brancaleone degli Andalò (1220–1258) stammte aus einer bedeutenden Bolgneser Familie. Er war ab 1252 römischer Senator und fiel 1256 in die Gefangenschaft des Adels, worauf gewalttätige Aufstände des Volkes folgten. Die Volkspartei befreite Brancaleone im Frühjahr 1257 und ernannte ihn erneut zum Senator. Fortan ging er radikal gegen den Adel vor und ließ deren Geschlechtertürme zerstören; siehe dazu: Geschichte der Stadt Rom im Mittelalter 1865. Bd. 5, S. 316. </note></seg>. Ci manca una esatta storia delle rovine di Roma; argomento bello lo scrivere, per così dire, le vicende di Roma sgretolantesi. L’unico saggio sotto tal punto di vista, di cui abbia avuto notizia, si è quel graziosissimo <bibl sameAs="G004304">scritto del famoso Fea, inserito nel tomo terzo della traduzione di Winckelmann, Storia delle arti del disegno</bibl>. Avrò molto da fare, ma non meno da guadagnare nelle scienze, se mai riescirò venire a capo <pb n="196"/>di un lavoro, il quale di ragione dovrebbe esser intrapreso da forza più gagliarda.</p>
+<p>Ho potuto acquistare pochi libri della biblioteca del <seg type="comment"><orig>defunto <persName key="G001017">Canina</persName></orig><note xml:id="nnr5_q2j_tlb">Der Archäologe und Architekt Luigi Canina (1795) starb 1856 in Florenz (siehe RT, 19.6.1857, S. 67).</note></seg>, profondo conoscitore delle cose di Roma antica, di cui la perdita sentono più paesi. La sua biblioteca era squisitissima, e i suoi libri furono bilanciati a peso d’oro.</p>
+<p>Io spero, illustrissimo Signore, di leggere fra poco <seg type="comment"><orig><bibl sameAs="G004263">il suo lavoro intorno a Ronzano</bibl></orig><note xml:id="nhk2_52j_tlb">https://archive.org/details/bub_gb_QKdX2uJA8w4C/page/n5. Zu dem von den Gozzadinis in der Villa Ronzano unterhaltenen Salon siehe den Brief von Gregorovius an Giovanni Gozzadini vom <ref target="G000388">3.11.1856</ref>.</note></seg>, che mi fu annunziato già fino <seg type="comment"><orig>da quando <persName key="G001483">Paolo Perez</persName> era ancora nel mondo.</orig><note xml:id="ntqk_v2j_tlb">Gregorovius’ enger Vertrauter, Graf Paolo Perez (1822–1879), war 1856 in den Orden der Rosminianer eingetreten. </note></seg></p>
+<p>Tornando a ringraziarla delle sue gentilezze, mi raccomando caldamente alla di lei benevolenza. Con tutta divozione servitor suo.</p>
+</div>
+        </body>
+    </text>
+</TEI>

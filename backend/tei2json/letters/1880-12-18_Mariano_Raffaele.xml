@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_vb2_gpr_tlb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Rom. München, 18. Dezember 1880</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free">
+                <licence target="http://creativecommons.org/licenses/by/4.0/">
+                    Creative Commons Attribution 4.0 International (CC BY 4.0)
+                </licence>
+            </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Über die Aufnahme von Marianos Schrift „Christenthum, Katholicismus und Kultur“ (1880) in Deutschland und Gregorovius’ Beteiligung daran. Er missbilligt Amaris erfolglose Kontaktaufnahme mit der „Allgemeinen Zeitung“. Er selbst hat mit deren Herausgeber Otto Braun aufgrund eines kritischen Artikels von Karl Gutzkow bereits vor Jahren gebrochen. Aufgrund seiner negativen Erfahrung mit der Zeitung hätte er Mariano vor dem Fehler bewahren können. Wenn Mariano in der Sache weitervorgehen will, sollte er Wilhelm Lang als Vermittler einschalten. Von einer Übersetzung seiner „Apulischen Landschaften“ (1877) rät er ab; 1882 publiziert Mariano „Nelle Puglie“. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1880-12-18" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840-1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">München, 18. <hi rendition="#aq">D<ex>e</ex>c<ex>em</ex>b<ex>e</ex>r </hi>1880.</dateline>
+<salute rendition="#c">Lieber Freund,</salute>
+</opener>
+<p>ich freue mich aufrichtig, daß Ihnen aus dem <orgName key="G000473">Leipziger Verlag</orgName> <seg type="comment"><orig>die Anzeigen Ihres <bibl sameAs="ed_drr_cr2_rlb">Buches</bibl>, u<ex>nd</ex> zwar viele, zugekommen sind</orig><note xml:id="ntts_hv5_5lb">In seinem vorhergehenden Brief hatte Gregorovius den Freund über verschiedene Kritiken in deutschen Zeitschriften zu dessen neu erschienenem Buch informiert; siehe den Brief von Gregorovius an Raffaele Mariano vom 21.11.1880.</note></seg>. Ich selbst teile Ihre Genugthuung mit Ihnen, froh, daß Sie Anerkennung gefunden haben, u<ex>nd</ex> daß der Zweck <seg type="comment"><orig>meiner eigenen Besprechung, die Aufmerksamkeit in meinem <placeName key="G000664">Vaterland</placeName> auf sie u<ex>nd</ex> Ihre Schrift zu lenken</orig><note xml:id="ncwj_jv5_5lb">Gregorovius hatte den von Mariano selbst auf Deutsch verfassten Text nicht nur korrigiert, sondern in zugleich mit einem einführenden Text in Deutschland vorgestellt: Christenthum, Katholicismus und Civilisation. In: Unsere Zeit. Deutsche Revue der Gegenwart. Bd. 1. Leipzig: Brockhaus 1880. S. 347–369. U. d. T. Cristianesimo, cattolicismo e civiltà zeitgleich in italienischer Sprache erschienen in La Nuova Rivista Internazionale. Periodico di lettere, scienze ed arti. Jg. 1. Nr. 12. Florenz: Tipografia del Vocabolario 1880.</note></seg>, doch nicht verfehlt worden ist. Was meine eigene Auffassung derselben betrifft, so prophezeie ich Ihnen – u<ex>nd</ex> Sie werden sich dessen nicht erinnern – daß Sie ihr und meinen Absichten in späteren Jahren gerecht werden müssen, wenn Ihr Verhältniß zu Ihrer Schrift ein anderes wird geworden sein. Dies aber wird unzweifelhaft geschehen, und Sie werden dann <pb n="1v"/>erkennen, daß ein auf<hi rendition="#u" hand="">richtiger</hi> wolmeinender Freund sich in jenem Aufsatz ausgesprochen hatte.</p>
+<p>Ihre Angelegenheit mit dem <seg type="comment"><orig><persName key="G000994">Redacteur</persName> der <orgName key="G000462">Allg<ex>emeinen</ex> Zeit<ex>ung</ex></orgName></orig><note xml:id="ndlf_4v5_5lb">Er meint den Journalisten Otto Braun (1824–1900), der seit 1860 Redakteur der „Allgemeinen Zeitung“, von 1869–1889 deren Herausgeber und Schriftleiter war.</note></seg> hat mich in Verwunderung gesetzt, nicht wegen seines Verhaltens zu Ihnen, sondern wegen des Schrittes, welchen Sie selbst gethan haben. Wenn Sie, ehe Sie sich dazu entschloßen, ihm einen solchen Antrag zu machen, mir davon mitgeteilt hätten, so würde ich ihn verhindert haben. Denn ich hätte Sie dann daran erinnert, <seg type="comment"><orig>daß es vor mehr als 4 Jahren derselbe von mir ausgehende Antrag an Dr. B<ex>raun</ex> gewesen ist</orig><note xml:id="nkkt_sv5_5lb">Im August 1873 hatte sich Gregorovius mit der Bitte um eine Rezension der in Rom bei Crivelli 1873 erschienene Schrift Marianos „Roma nel Medio Evo“ an die Redaktion der „Allgemeinen Zeitung“, namentlich an Otto Braun gewandt; siehe den Brief von Gregorovius an Otto Braun vom 10.8.1873. Allerdings scheint es hier nicht, um diesen Antrag zu gehen, der zudem weit mehr als vier Jahre zurückliegt. Es muss eine weitere Anfrage von Gregorovius an Braun gegeben haben, in welcher er um Aufnahme Marianos als Korrespondenten der Allgemeinen Zeitung angefragt hat. Siehe dazu den Brief von Gregorovius an Raffaele Mariano vom 17.1.1881.</note></seg>, welcher, mehr noch <seg type="comment"><orig>als die gleichzeitige Aufnahme eines gehäßigen Artikels von <persName key="G001223">Gutzkow</persName></orig><note xml:id="nfdp_5v5_5lb">Eine öffentliche Notiz von Gutzkow führte im April 1877 den vorläufigen Bruch Gregorovius’ mit der „Allgemeinen Zeitung“ herbei. Im publizistischen Nachgang einer ausgesprochen negativen Rezension seiner „Lukrezia Borgia“ von dem Literatur-, Kunst- und Musikkritikers Henry Blaze de Bury (1813–1888) in der „Revue des deux Mondes“ (vom 15.3.1877, siehe http://rddm.revuedesdeuxmondes.fr/archive/article.php?code=63221) hatte Gutzkow in der „Allgemeinen Zeitung“ die Besprechung von Blaze de Bury nicht verteidigt, sondern sich daran gestört, dass Gregorovius diesen in einer Replik als einen ihm „nicht einmal dem Namen nach bekannten“ Schreiber diskreditierte (In: AZ. Nr. 98. 8.4.1877. S. 1480). Dazu kommentiert Gregorovius im Tagebuch: „Das Mitgeteilte Gutzkows war eine boshafte Einmischung in meine persönliche Angelegenheit. Gutzkow ist mir noch von früheren Jahren her feindlich gesinnt, weil er in Rom von mir und allen anderen gleichgültig behandelt worden war. Nun schlug er mit dem Pferdefuß nach mir aus. […] ein Mensch ohne Erziehung“ (RT, Rückkehr nach Rom im Jahre 1877, S. 376). Dem Redakteur der „Allgemeinen Zeitung“, Braun, wirft Gregorovius vor, die Gutzkows Notiz überhaupt erst aufgenommen zu haben. Siehe dazu die Briefe von Gregorovius an Raffaele Mariano vom 17.6. und 7.9.1877.</note></seg>, meinen Bruch mit jenem Redacteur veranlaßt hat. Ich würde Sie daran einnert haben, daß Dr. B<ex>raun</ex> mir auf meinen Sie betreffenden Antrag nicht antwortete, daß <pb n="2r"/>ich ihm dann eine Frist zu antworten stellte, daß ich, als diese in Schweigen verlief, von der <orgName key="G000523">Cotta’schen Buchhandl<ex>ung</ex></orgName> als der Eigentümerin der Allg<ex>emeinen</ex> Zeit<ex>ung</ex> klagten gegen B<ex>raun</ex> würde, daß in Folge dessen er genötigt wurde, viele Briefe an C<ex>otta</ex> zu schreiben, und sich so eine große ihn compromittirende Angelegenheit zuzog. Ich habe seither niemehr etwas für d<ex>ie</ex> Allg<ex>emeine</ex> Zeit<ex>ung</ex> geschrieben. Dr. B<ex>raun</ex> hat außer den Vorwürfen, die ihm C<ex>otta</ex> gemacht hat, die Beteiligung an der Allg<ex>emeinen</ex> Zeit<ex>ung</ex> eines Veteranen in der Literatur eingebüßt, wogegen werden es nach C<ex>otta</ex> gleichgiltig sein können. Nun aber treten Sie mit derselben Angelegenheit oder <add place="superlinear">mit</add> demselben Antrage selbständig hervor, u<ex>nd</ex> regten in dem Manne denselben Verdruß wieder auf. Indem er Ihnen nicht antwortet, richtet er diese Demonstration mehr gegen mich als gegen Sie, wahrscheinlich auch des Glaubens, daß ich, als Ihr Freund, teil an Ihrem Schritte habe.</p>
+<p>Aus Ihrem Briefe scheint hervorzugehen, <seg type="comment"><orig>daß Sie Dr. B<ex>raun</ex> für einen Juden halten</orig><note xml:id="nhp2_yv5_5lb">Soweit ermittelbar war Braun kein Jude.</note></seg>. Ist er aber dies, was ich nicht weiß u<ex>nd</ex> nicht angenommen habe, <pb n="2v"/>so konnten Sie von ihm nimmer erwarten, daß er Sie als Correspondenten bereitwillig aufnimmt in demselben Augenblicke, wo er in Ihrem Briefe die schonungslosesten Urteile über das ganze Judentum zu lesen aufgefordert wird. Sie thun mir persönlich unrecht, wenn Sie glauben, daß ich mich früher anders über diese <seg type="comment"><orig>jetzt <add place="superlinear">in Deutschland </add>unnützer Weise aufgeregte Frage</orig><note xml:id="nul5_1w5_5lb">Es war die Zeit, in der im Deutschen Kaiserreich die bereits in den 1870er Jahren aufgekommene und nun erstarkte antisemtische Bewegung, durch den evangelischen Theologen Adolf Stoecker (1835–1909) weiter Aufschwung bekam. Dieser hatte als Mitglied der Christlich-sozialen Partei, deren Vorsitzender er bis zu seinem Tod war, die sog. Berliner Bewegung, gegründet. In dieser versammelten sich verschiedene Gruppierungen, deren gemeinsamer Nenner der Judenhass war. Stoeckers Rede „Unsere Forderungen an das moderne Judenthum“ (19. September 1879) wird als Beginn des modernen Antisemitismus beurteilt.</note></seg> ausgesprochen habe. Denn Sie werden in keiner meiner Schriften eine Stelle entdecken, wo ich den Prinzipien der Humanität, die mich leiten, jemals untreu geworden wäre.</p>
+<p>Was Ihre freundliche Absicht betrifft, die <bibl corresp="G003342">Apulisch<ex>en</ex> Landschaften</bibl> zu übersetzen, so mögen sie ohne weiteres urteilen, daß ich <hi rendition="#u" hand="">jene</hi> als ein Zeugniß Ihrer echten Freundschaft empfinde. Aber trotzdem werde ich Ihnen niemals meine Einwilligung dazu geben, u<ex>nd</ex> dies aus Freundschaft für Sie. Die Übersetzung einer Schrift, auf welche ich noch weniger Wert lege, als die Italiener es thun würden, wenn sie dieselbe läsen, kann Ihre Reputation als Autor nicht mehren. Sie wäre eine Arbeit, welche unter der Stellung bliebe, die Sie behaupten sollen. Darum lassen Sie den Plan fallen; denn <seg type="comment"><orig>meine Zustimmung dazu werde ich stets verweigern</orig><note xml:id="ng5y_gw5_5lb">Zwei Jahre später sollte es schließlich doch zu einer Übersetzung durch Mariano kommen: Nelle Puglie. Con noterelle di viaggio del traduttore. Versione dal tedesco di Raffaele Mariano. Florenz: Barbèra Editore 1882.</note></seg>. </p>
+<closer><salute>Ich denke viel an Sie u<ex>nd</ex> ob Sie nicht eine Arbeit <foreign xml:lang="ita"><hi rendition="#aq">di consequenza</hi></foreign> unternehmen wollen. Ich umarme Sie, teurer Mariano, und wünsche in <seg type="comment"><orig>Ihr <persName key="ed_ezy_g42_rlb">Haus</persName></orig><note xml:id="njm4_nnp_vlb">Mariano war seit dem 28. April 1879 mit der aus baltischem Adel stammenden Cecil (Cäcilie) Gräfin Pilar von Pilchau verheiratet; siehe den Brief von Gregorovius an Raffaele Mariano vom 11.5.1879.</note></seg> alles schöne menschliche Glück in Friede u<ex>nd </ex>Beständigkeit. Ihr FGr</salute></closer>
+<note type="postscript" place="left" rendition="#rotate90">Die <persName key="G001203"><persName key="G001111">Meinigen</persName></persName> schließen sich meinen Wünschen an. <p xml:id="p1" next="#p2">In der B<ex>raun</ex>’schen Angelegenheit würde ich in Ihrer Stelle jetzt noch nichts anderes unternehmen, sondern abwarten, </p><p xml:id="p2" prev="#p1" place="left" rendition="#rotate90"><pb n="2r"/><seg type="comment"><orig>sollten Sie später aber die Vermittlung des <hi rendition="#aq">Dr. <persName key="G001354">Lang</persName></hi> in Anspruch nehmen</orig><note xml:id="ntpd_ny5_5lb">Der Stuttgarter Publizist und Schriftsteller Wilhelm Lang (1832–1915) hatte dem Brockhaus-Verlag einst eine deutsche Übersetzung von Marianos „Roma nel Medio Evo“ angeboten; siehe den Brief von Gregorovius an Raffaele Mariano vom 17.12.1876. Seit 1879 war Lang Herausgeber der Zeitschrift „Im neuen Reich“, weshalb ihn Gregorovius hier vermutlich als möglichen Vermittler in der Angelegenheit mit der „Allgemeinen Zeitung“ vorschlägt. </note></seg>.</p></note>
+
+            </div>
+        </body>
+    </text>
+</TEI>

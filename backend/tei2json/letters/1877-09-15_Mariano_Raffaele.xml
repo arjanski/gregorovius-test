@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000228">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Baden-Baden. München, 15. September 1877</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 1 S. </p>
+<p>Entwurf eines Briefes an den römischen Bürgermeister Pietro Venturi</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+<p xml:lang="de">Er hat keine Heft des „Archivio della Società romana di storia patria“ mit Oreste Tommasinis Artikel „Della storia medievale di Roma e de’ più recenti raccontatori di essa“ (1877) für Mariano. Er übersendet den Entwurf eines Beschwerdebriefs an den römischen Bürgermeister Pietro Venturi, den er nach Lektüre zurückzusenden bittet. Von Pasquale Villari erhielt er einen Brief, in dem dieser sich über Tommasini empört. Er kann nicht nach Baden-Baden kommen. In München erwartet er Karl Lindemann-Frommel, dessen Sohn Manfred in Prien ist. Er wartet auf Marianos sprachliche Korrekturen seines Aufsatzes „Alcuni cenni storici sulla cittadinanza romana“ (1877). Grüße an Adelheid Grunelius sowie an Wolfgang Erhardt und Familie.</p>
+<p xml:lang="it"/>
+<p xml:lang="en"/>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1877-09-15" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000623">Baden-Baden</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">München, 15. <foreign xml:lang="ita">Sett<ex>em</ex>bre</foreign> 77.</dateline>
+                    <salute rendition="#c">Lieber Freund,</salute>
+                </opener>
+<p>ich kann Ihnen nicht <seg type="comment"><orig>das <orgName key="G000467">Heft</orgName></orig><note xml:id="nbnv_wy3_1mb">Das erste Heft des „Archivio della Società romana di storia patria“ (1877), in dem Oreste Tommasinis (1844–1919) Artikel „Della storia medievale di Roma e de' più recenti raccontatori di essa“ erschienen war (S. 1–46, zu Gregorovius bes. S. 37f.). Siehe dazu auch den Brief von Gregorovius an Raffaele Mariano vom 12.9.1877. </note></seg> schicken, aber ich schicke Ihnen <seg type="comment"><orig>beiliegenden Brief an den <persName key="ed_8s1_n17_lm4"><foreign xml:lang="Lat">Sindicus</foreign></persName></orig><note xml:id="nyzt_xy3_1mb">Die finale Fassung des Briefes an Roms Bürgermeister Pietro Venturi (1824–1892) ist überliefert und mit 23.9.1877 gezeichnet.</note></seg>, u<ex>nd</ex> bitte Sie nachdem Sie ihn gelesen u<ex>nd</ex> approbirt haben, mir ihn sofort zurück zu senden. Ich erhielt <seg type="comment"><orig>1 Brief v<ex>on</ex> <persName key="G001687">Villari</persName>, voll Indignation über die Art des <persName key="G001650">Tommasinis</persName></orig><note xml:id="nkwn_kjm_fmb">Siehe den Brief von Pasquale Villari (1827–1917) an Gregorovius, 26.8.1877 (in: „Un anello ideale" fra Germania e Italia. Corrispondenze di Pasquale Villari con storici tedeschi. A cura di Anna Maria Voci. Rom: Archivio Guido Izzi 2006. S. 166–168).</note></seg>, u<ex>nd</ex> diese macht ihm Ehre.</p>
+<p>Es thut mir leid, daß ich Sie nicht sehen soll – aber ich jetzt komme nicht nach Baden; ich bin auch nicht ruhig genug, um mir solchen Luxus zu erlauben. Heute kommt hier <persName key="G001375">Lindemann</persName> an. <persName key="G001376">Manfredi</persName> ist in <placeName key="G000758">Prien</placeName>.</p>
+<p>Sie schreiben mir nicht, welchen <seg type="comment"><orig>Eindruck wegen der ital<ex>ienischen</ex> Sprache</orig><note xml:id="npsq_yy3_1mb">Gregorovius hatte Mariano über Adelheid Grunelius seine Schrift „Alcuni cenni storici sulla cittadinanza romana“ („Atti della Reale Accademia dei Lincei“, 1877) zukommen lassen, damit Mariano sie auf sprachliche Fehler hin korrigiert. </note></seg> meine Abhandl<bibl sameAs="G004017"><ex>ung</ex></bibl> Ihnen gemacht hat. Es wird sie Ihnen Lindemann bringen.</p>
+                <closer>Tausend Grüße an das Haus <persName key="G001215">Grunelius</persName>, an <persName key="G001116"><persName key="G001115"><persName key="G001114">Erhards</persName></persName></persName> u<ex>nd</ex> sie selbst von uns <persName key="G001203"><persName key="G001111"><persName key="G001109">allen</persName></persName></persName>. <salute rendition="#c">Ihr</salute> <signed rendition="#c">FGr.</signed> </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

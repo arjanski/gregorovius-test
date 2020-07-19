@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000254">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Hermann Reuchlin in Stuttgart. Berg, 28. Juli 1867</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Württembergische Landesbibliothek Stuttgart</repository><collection>Cod. hist. fol 815 fasz. V. Nr. 42</collection></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 1 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 6 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er kann der Einladung für den heutigen Tag nicht folgen, weil ihm diese erst zu spät durch Wilhelm Heyd überbracht wurde. Er ist im Begriff, mit seinem Bruder Julius nach Asberg zu fahren. Gerne besucht er ihn am folgenden Tag. Nach der Rückkehr von seiner Rheinreise würde er auch Wilhelm Lang gerne kennenlernen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000634">Berg</placeName><date when="1867-07-28" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001544">Reuchlin, Hermann (1810–1873)</persName>
+<placeName key="G000879">Stuttgart</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq"><seg type="comment"><orig>Berg</orig><note xml:id="nmsl_jr5_gmb">Nordöstlich von Stuttgart hatte sich Gregorovius mit seinem Bruder Julius eine Wohnung genommen (RT, 27.7.1867, S. 228).</note></seg></hi>, <hi rendition="#aq">Neue</hi> Strasse 17. <lb/>28 <hi rendition="#aq">Juli</hi> 67. (Sonntag)</dateline>
+                    <salute rendition="#c">Geehrter <seg type="comment"><orig>Herr</orig><note xml:id="nywd_kr5_gmb">Hermann Reuchlin (1810–1873) hatte bereits 1857 seine Stelle als Pfarrer in Pfrondorf bei Tübingen aufgegeben, um sich ganz seinen Geschichtsstudien zu widmen. Sein Hauptwerk ist die „Geschichte Italiens von der Gründung der regierenden Dynastie bis zur Gegenwart“ (4 Bde., Leipzig: Hirzel 1859-1873), das sicher auch die Aufmerksamkeit von Gregorovius erregte. Über ein gemeinsames Treffen in Rom während mehrerer Italienreisen Reuchlins im Jahre 1856, 1860 und 1868 ist nichts bekannt. Vermutlich haben sich beide erst bei dem hier verabredeten Treffen persönlich kennengelernt, über das er im Tagebuch lediglich vermerkt: „Heute bei Reuchlin, dem Verfasser der neueren Geschichte Italiens, einem ehemaligen Landpfarrer bei Tübingen, welcher jetzt in behaglichen städtischen Verhältnissen lebt.“ (RT, 27.7.1867, S. 228). Eine über den vorliegenden Brief hinausgehende Korrespondenz ist nicht erhalten.</note></seg>,</salute>
+                </opener>
+<p>Ihr freundlicher Wunsch mit mir zusammenzutreffen, begegnete in der That, mir sehr angenehm, dem meinigen, Sie zu sehen. Leider erreichte mich die Mitteilung des <persName key="G001271"><seg type="comment"><orig>Prof<ex>essor</ex> Heydt</orig><note xml:id="nbww_lr5_gmb">Der mit Reuchlin befreundete Bibliothekar und Historiker Wilhelm Heyd (1823–1906) war seit 1857 an der Königlichen Landesbibliothek in Stuttgart tätig; hier hatte ihn Gregorovius am 22. Juli 1867 aufgesucht (RT, 27.7.1867, S. 228).</note></seg></persName> erst gestern frühe. Es war meine Absicht, Sie heute Nachmittag aufzusuchen; doch kann dies nicht mehr geschehen, da ich im Begriffe bin, <seg type="comment"><orig>mit meinem <persName key="G001203">Bruder</persName> nach dem <placeName key="G000834">Asberg</placeName> zu fahren</orig><note xml:id="nn3d_pjv_gmb">Gut 15 Kilometer nördlich von Berg im heutigen Landkreis Ludwigsburg war vermutlich auch die Festung Hohenasperg auf dem Asperg, die von 1535 bis 1693 Festung des Landes Württemberg war, ihr Ziel. Von Anfang des 18. bis ins 20. Jahrhundert diente sie als Gefängnis und wird seit 1968 als Vollzugskrankenhaus der baden-württembergischen Justiz genutzt.</note></seg>.</p>
+<p>Ich bitte Sie demnach mir zu erlauben, Sie <seg type="comment"><orig>morgen (Montag) zwischen 2 u<ex>nd</ex> 4 Uhr in Ihrer Wohnung aufsuchen zu dürfen</orig><note xml:id="nk5s_ds5_gmb">Das Tagebuch verzeichnet am 27. Juli den Besuch bei dem Theologen und Historiker Hermann Reuchlin (1810–1873), der 1859 bis 1873 eine vierbändige „Geschichte Italiens bis in die Gegenwart“ vorlegte (RT, 27.7.1867, S. 228). Reuchlin unternahm 1840, 1856, 1860 und 1868 Reisen nach Italien.</note></seg>. Es liegt sehr in meine Wünschen, <persName key="G001354"><seg type="comment"><orig>Herrn Lang</orig><note xml:id="nfvl_2s5_gmb">Den Schriftsteller Wilhelm Lang (1832–1915), Redakteur beim „Schwäbischen Merkur“, lernte Gregorovius während seines Besuchs bei Reuchlin kennen (RT, 27.7.1867, S. 228).</note></seg></persName> meine Hochachtung zu bezeugen. Dies u<ex>nd</ex> die Bekanntschaft anderer ausgezeichneter Männer wird mir hoffentlich bei meiner <seg type="comment"><orig>Rückkehr vom <placeName key="G000901">Rhein</placeName> nach Stuttgardt in der 1. Hälfte des August</orig><note xml:id="nfcq_fs5_gmb">Gregorovius schiffte sich mit seinem Bruder Julius am 1. August von Heilbronn aus zunächst nach Heidelberg ein, fuhr über Mannheim, Ludwigshafen, Speyer und Worms nach Mainz, wo sie bis zum 4. August für einige Ausflüge blieben. Am 4. August ging es mit dem Schiff von Biebrich nach Koblenz, am Tag darauf mit der Bahn nach Bonn und am 6. August nach Köln, wo sich die Brüder trennten. Gregorovius kehrte über Mainz, und Darmstadt nach Heidelberg zurück. Hier traf er Georg Gottfried Gervinus (1805–1871) wieder und blieb bis zum 21. August für Bibliotheksarbeiten in Heidelberg. Siehe RT, 31.7.–18.8.1867, S. 228–231.</note></seg> zu Teil werden.</p>
+                <closer>
+                    <salute rendition="#c">Hochachtungsvoll empfiehlt sich Ihnen</salute>
+                    <signed rendition="#right"><hi rendition="#aq">F. Gregorovius</hi></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

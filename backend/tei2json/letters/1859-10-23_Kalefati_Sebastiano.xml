@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000406">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Sebastiano Kalefati in Montecassino. Rom, 23. Oktober 1859 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Montecassino, Archivio dell’Abbazia</repository><collection>Carteggio Kalefati</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S. – 2v, Blatt um 90° gedreht, Adr.: Regno di Napoli / franca / Al Reverendissimo Padre / Il Padre Priore / Don Sebastiano Kalefati / Archivista di / Monte Cassino – 2r geringer Textverlust durch Beschädigung des Blattes</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Tommaso Leccisotti: Alcune lettere di Ferdinando Gregorovius a Monaci Cassinesi. In: Benedictina. Fascicoli di studi Benededettini. Jg. 14. Fasc. 1. Rom: S. Paolo 1967. S. 137–138 (ungenau)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er bedankt sich für die Gastfreundschaft in Montecassino und berichtet von seiner Rückreise über Aquino, Ceperano und Frosinone nach Rom. Die mitgegebenen Briefe hat er im Kloster S. Callisto ausgehändigt. Hier hat er die Benediktiner Maurus Wolter und Anselm Nickes angetroffen. Wegen der drei mittelalterlichen Codices wird er sich an den Wiener Archäologen Friedrich von Kenner wenden. Den Namen des ersten Kustos der Wiener Hofbibliothek Friedrich Halm konnte er bislang nicht in Erfahrung bringen; auch Wilhelm Henzen kennt ihn nicht. Ein von Gregorovius konsultierter Numismatiker hält die Münze aus Montecassino für byzantinisch. Er würdigt Kalefatis Arbeit am „Codice diplomatico italo-bizantino“ (1860), macht sich aber Sorgen um dessen Gesundheit. Cesare Quandel ist um die intellektuell anregende Gesellschaft von Kalefati zu beneiden. Grüße an Abt Simplicio III. und an Nicola d’Orgemont.</p>
+                <p xml:lang="en">He thanks him for the hospitality in Montecassino and reports on his return to Rome via Aquino, Ceperano and Frosinone. He handed over the letters he had brought with him at the monastery of S. Callisto. Here he met the Benedictines Maurus Wolter and Anselm Nickes. Regarding the three medieval codices he will contact the Viennese archaeologist Friedrich von Kenner. He has not yet been able to find out the name of the first curator of the Vienna Court Library, Friedrich Halm; Wilhelm Henzen also doesn’t know him. A numismatist consulted by Gregorovius considers the coin from Montecassino to be Byzantine. He appreciates Kalefati’s work on the „Codice diplomatico italo-bizantino“ (1860), but is concerned about his health. Cesare Quandel is envious of Kalefati’s intellectually stimulating company. He sends his regards to Abbot Simplicio III and to Nicola d’Orgemont.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1859-10-23" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001326">Kalefati, Sebastiano</persName>
+<placeName key="G000730">Montecassino</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<dateline rendition="#c">Roma <seg type="comment"><orig>Ott<ex>o</ex>bre 23. 1859</orig><note xml:id="nxsv_5mj_vlb">Im ED irrtürmlich unter 23. Oktober 1839.</note></seg>.</dateline>
+</opener>
+<p><seg type="comment"><orig>I giorni felici del mio soggiorno a Monte Casino or sono passati</orig><note xml:id="nsj2_wmj_vlb">Gregorovius hielt sich vom 5.–18. Oktober für Archivarbeiten für seine „Geschichte der Stadt Rom im Mittelalter“ in Montecassino auf: „Morgen verlasse ich diesen Berg Benedikts. Viel echte Menschlichkeit habe ich hier unter den Klosterbrüdern gefunden. Wenn auch das Archiv in Bezug auf meine Arbeiten nicht völlig den Erwartungen entsprach, nehme ich doch manches mit, namentlich einige unedierte Urkunden aus dem Diplombuch Gaetas, dessen Herausgabe sehr zu wünschen ist. Unschätzbar ist mir der Einblick, den ich hier in das Mönchtum des Mittelalters getan habe.“ (RT, 17.10.1859, S. 90).</note></seg>, e fanno mi ripensar a quello che ho goduto la sù, e che nella massima parte <seg type="comment"><orig>io debbo alla bontà di Lei, mio caro e reverito Don Sebastiano</orig><note xml:id="nscz_xmj_vlb">Gregorovius war auf Einladung des Leiters des Archivs, Don Sebastiano Kalefati (1817–1863), den er im Jahr zuvor kennengelernt hatte, nach Montecassino gekommen; siehe den Brief von Gregorovius an Kalefati vom <ref target="G000405">12.8.1859</ref>.</note></seg>. Staccandomi da Loro e inoltrandomi vieppiù nel viaggio verso la frontiera, io sentii quel vuoto nell’anima, che nasce colla partenza da amici generosi – che dirò di più? Le mando mille saluti, e un cuor grato preferisce i fatti alle parole.</p>
+<p><seg type="comment"><orig>Io ho visto <placeName key="G000824">Aquino</placeName>, di cui la posizione mi piacque assai</orig><note xml:id="ncnm_1nj_vlb">Stadt mit Bischofssitz in der Provinz Frosinone: „In einer Viertelstunde erreichte ich Aquino, die Vaterstadt des Juvenal, des Pescennius Niger und die Feudalherrschaft der Grafen, von denen S. Thomas den Namen führt. Aquino hat also wunderlicherweise hervorgebracht einen Satiriker, einen Kaiser und den größten Philosophen mittelalterlicher Scholastik.“ (RT, 18.10.1859, S. 90).</note></seg>, non che quella antichissima chiesa della <placeName key="G000825">S<ex>anta</ex> Maria Libera</placeName>. Senza in dugio passai il confine dello stato, non molestato dalla dogana per causa di libri, o di scritture. <seg type="comment"><orig>A <placeName key="G000827">Ceperano</placeName> trovai, per buona mia fortuna, un char-à-banc pronto alla partenza per <placeName key="G000831">Frosinone</placeName></orig><note xml:id="nn3h_cnj_vlb">Den Weg von der Stadt Ceprano nach Frosinone, Provinzhauptstadt in der Region Latium, legte Gregorovius in einer vierrädrigen Kutsche, die durch quergestellte Sitzbänke gekennzeichnet ist, zurück.</note></seg>, e dopo una nottata in quella città presi un posto di diligenza, la quale commodamente mi portò a Roma. Mi son imbattuto in uno scirocco senza fine, cosichè il tempo va insieme colla <seg type="comment"><orig>disposizione morale di Roma</orig><note xml:id="nfn5_dnj_vlb">Im Sardinischen Krieg zwischen Frankreich und Sardinien-Piemont auf der einen und dem Kaisertum Österreich auf der anderen Seite, beschuldigte Papst Pius IX. (1792–1878) das Königreich Sardinien, den Kirchenstaat überfallen und die Bevölkerung zum Abtrünnigwerden angestiftet zu haben. Bereits 1856 hatte das Königreich gefordert, die weltliche Macht und Autorität des Heiligen Stuhles zu verringern. In zwei Allokutionen, am 20. Juni 1859 und am 26. September 1859, warnte der Papst die von Sardinien entsandten Aufrührer vor Sanktionen der katholischen Kirche.</note></seg>. Una continua pioggia mi a impedito di recarmi subito <seg type="comment"><orig>a <placeName key="G000775">S<ex>an</ex> Callisto</placeName>, di modo che non prima che avantjeri ho potuto portarvi le lettere</orig><note xml:id="nh4y_gnj_vlb">Die römische Kirche San Callisto soll an dem Ort errichtet worden sein, an dem Calixt I., von 217–222 Bischof in Rom, das Martyrium erfahren hat. Paul V. (Pontifikat 1605–1621) überließ die Kirche 1608 den Benediktinern, an die die Briefe aus dem Benediktinerkloster Monte Cassino offenbar gehen sollten.</note></seg>. <pb n="1v"/>L’abbate non fuvvi presente, essendo che per cagion di visitazioni egli si era messo in viaggio. Le due lettere consegnai nelle mani del gentilissimo padre procuratore generale, e viddi <persName key="G001716"><seg type="comment"><orig>Wolter</orig><note xml:id="nfqb_3nj_vlb">Rudolf Wolter (1825–1890) wurde 1850 unter dem Ordensnamen Maurus zum Priester geweiht und folgte 1856 seinem Bruder Ernst (Placidus) nach Rom in die Benediktinerabtei San Paolo fuori le mura. 1863 gründeten die beiden Brüder das Benediktinerpriorat in Beuron (Landkreis Sigmaringen). </note></seg></persName> e <seg type="comment"><orig><persName key="G001446">Nickes</persName></orig><note xml:id="nwcf_jnj_vlb">Johann Peter Anselm Nickes (1825–1866) wurde 1848 zum Priester geweiht, 1853 in Philosophie und Theologie promoviert, und trat 1854 in die Benediktinerabtei San Paolo fuori le mura in Rom ein.</note></seg>, che stanno molto bene, e loro tornano i saluti.</p>
+<p>Per <placeName key="G000897">Vienna</placeName> scrivero in questi giorni, in dirizzandomi a un mio conoscente il <seg type="comment"><orig><persName key="G001334">Dottor Kenner</persName>, impiegato alla <orgName key="G000515">biblioteca imperiale</orgName></orig><note xml:id="nmhj_lnj_vlb">Der österreichische Archäologe Friedrich von Kenner (1834–1922) war jedoch nicht in der kaiserlichen Hofbibliothek in Wien, sondern seit 1854 am Wiener Münz- und Antikenkabinett beschäftigt, dessen Leitung er 1883 übernahm. Sein Spezialgebiet war die römische Numismatik. </note></seg>; nè il <persName key="G001263"><seg type="comment"><orig>Dr. Henzen</orig><note xml:id="nwvq_mnj_vlb">Der Archäologe Wilhelm Henzen (1818–1887) war ab 1843 als zweiter und nach Emil Brauns Tod (1856) als leitender Sekretär am Deutschen Archäologischen Institut in Rom tätig. Er war Mitherausgeber des ‚Corpus Inscriptionum Latinarum‘. Gregorovius kannte ihn seit seiner ersten Zeit in Rom.</note></seg></persName>, nè altri finora mi a saputo dire il nome del <seg type="comment"><orig><persName key="G001228">capo-bibliotecario attuale</persName></orig><note xml:id="nkq3_4nj_vlb">Friedrich Halm (eigentlich Eligius Franz Joseph Freiherr von Münch-Bellinghausen, 1806–1871) übernahm 1845 die erste Kustosstelle an der Hofbibliothek in Wien</note></seg>; ma lo sapro finalmente dalla legazione austriaca. Quanto prima avro la risposta da Vienna mi affrettero di comunicarla à Lei. Fui da uno dei migliori antiquari di numismatica, il quale non sapendo ancora spiegarmi il monogramma sul <seg type="comment"><orig>piccolo bronzo donatomi da Lei</orig><note xml:id="nvxj_qnj_vlb">Gregorovius erwähnt seinen Besuch des Münzkabinetts von Montecassino im Tagebuch: „Ich schenkte Tosti eine römische Münze aus der Zeit Gregors XI. von Limoges: S. Petrus. Urbis Romae; und er gab mir drei kleine langobardische, die in Hernia mit einem ganzen Haufen gefunden wurden.“ (RT, 17.10.1859, S. 89–90).</note></seg>, lo dichiarò però per moneta <seg type="comment"><orig>del basso impero communissima</orig><note xml:id="nlkd_snj_vlb">Die Zeit des allgemeinen Untergangs des Römischen Reiches im 5. Jahrhundert.</note></seg>. Quelle monete d’<placeName key="G000813"><seg type="comment"><orig>Isernia</orig><note xml:id="ndtk_c4j_vlb">Provinzhauptstadt in der Region Molise.</note></seg></placeName> sono nè longobarde, ne vandale, ma puramente bizantine dell’<seg type="comment"><orig>epoca di <persName key="G001324">Giustino</persName>, o <persName key="G001325">Giustiniano</persName></orig><note xml:id="ndmz_d4j_vlb">Justin I. (um 450–527) war ab 518 römischer Kaiser. Mit ihm begann die Justinianische Dynastie (518–578 bzw. 602). Sein Nachfolger war ab 527 sein Neffe Justinian (um 482–565).</note></seg>.</p>
+<p>Non posso dirle abbastanza, quante volte io pensi a Lei, e ai <seg type="comment"><orig>suoi nobili lavori, fra di cui il Codice Italo-Bizantino</orig><note xml:id="nlv1_g4j_vlb">Kalefati wurde vom Direktor des Staatsarchivs in Neapel Angiolo Granito, Prinz von Belmonte (†1861), die Durchführung eines schon seit 1850 geplanten Editionsvorhabens zur byzantinischen Herrschaft und Kultur in Süditalien angetragen. Publiziert werden sollten alle griechischen Pergamente des 8.–15. Jh., die sich im Staatsarchiv in Neapel und den Archiven der Abteien Montecassino, Cava de’ Terreni und Monte Vergine befanden. Vgl. dazu: Della pubblicazione di un codice diplomatico italo-bizantino dall’8. al 15. Secolo. Rapporto di don Sebastiano Kalefati, monaco di Montecassino al principe di Belmonte. In: Archivio Storico Italiano. Bd. 12, 1 (1860), S. 186–191: https://www.jstor.org/stable/44452752?seq=1#metadata_info_tab_contents. Kalefati konnte die Arbeit an der Edition bis zu seinem Tod 1863 nicht abschließen.</note></seg> le restera qual <choice><sic>moumento</sic><corr cert="high">Monumento </corr></choice><foreign xml:lang="Lat"><seg type="comment"><orig>aere perennius</orig><note xml:id="ntb1_gj2_ylb">Lat. für: dauerhafter als Erz.</note></seg></foreign>. Mi strugge però l’osservazione, che pur troppo ho dovuto fare à M<ex>onte</ex> Casino, cioè, che la continua fatica abbia fatto danno alla Sua salute. Lei dovrebbe lavorare <pb n="2r"/>meno, e godere un’aria più mite, sia a<placeName key="G000737"> Napoli,</placeName> ossia qui à Roma. <unclear reason="illegible" cert="high">Gli</unclear> uomini però, che anno, come Lei, una missione per la scienza, ad ogni modo debbono adempirla, e cosi vedremo lietamente il giorno di festa, in cui saranno comparsi i suoi lavori. <seg type="comment"><orig>Don <persName key="G001518">Cesare Wandel</persName></orig><note xml:id="ntsf_44j_vlb">Gemeint ist Cesare Quandel (1837–1880), später Bruder Mauro. Er begann mit zehn Jahren sein Noviziat in Montecassino und wurde von Kalefati zu dessen Nachfolger erzogen (siehe RT, 15.10.1859, S. 88); als solcher ist er aber nicht nachweisbar.</note></seg>, di cui la gentilezza mi a lasciato gratissima memoria, ne avra pure la parte sua, ed io gli porto invidia, <unclear reason="illegible" cert="high">po</unclear>ichè egli può gettare i solidissimi fondamenti della scienza <unclear reason="illegible" cert="high">st</unclear>orica sotto la di Lei direzione.</p>
+<p>La prego di commandarmi, s’io Le posso esser utile in qualche cosa. Mi creda, che la memoria di Lei mi resta nell’anima per la mia vita, e ch’io saro felice puotendo dimostrarlo con qualche fatto di servizio. Abbia la compiacenza di portare i miei profondi rispetti al reverendissimo <seg type="comment"><orig><persName key="G001470">padre Abbate</persName></orig><note xml:id="nldg_k4j_vlb">Simplicio III. Pappalettere da Barletta (1815–1883) war von 1858 bis 1863 Abt von Montecassino.</note></seg>, e di esprime<unclear reason="illegible" cert="high">re</unclear> i sentimenti della mia verace gratitudine per una si rara, e si generosa ospitalità, come si fù quella, che godetti a Monte Casi<unclear reason="illegible" cert="low">rico</unclear>.</p>
+<p>Io saluto di cuore <seg type="comment"><orig><persName key="G001064">Don Nicola d’Orgemont</persName></orig><note xml:id="nuyg_m4j_vlb">Nicola d’Orgemont (1826–1896) empfing 1848 in Montecassino die Priesterweihe, ab 1850 lehrte er dort Philosophie, Naturwissenschaften und Mathematik, von 1871 bis 1896 war er Abt. Gregorovius bezeichnet ihn im Tagebuch als Schüler von Pappalettere (vgl. RT, 7.10.1859, S. 87). </note></seg>, il quale mi e comparso come una delle più belle speranze dell’accademia di M<ex>onte</ex> Casino, e ne sentiremo di certo nell’avvenire. Il cielo sia con Lei, Don Sebastiano!</p>
+                <closer>
+<salute xml:id="s1" next="#s2"><foreign xml:lang="Lat"><seg type="comment"><orig>Actum Romae, feliciter.</orig><note xml:id="nkth_p4j_vlb">Lat. sinngemäß für: Herzlichst aus Rom.</note></seg></foreign> <lb/></salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">Il suo sincero servitore <lb/></salute>
+<signed rendition="#right">Ferdin. Gregorovius.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

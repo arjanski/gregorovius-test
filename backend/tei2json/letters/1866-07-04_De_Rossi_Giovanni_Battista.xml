@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000414">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Giovanni Battista De Rossi in Rom. Rom, vor dem 4. Juli 1866 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Rom, Biblioteca Apostolica Vaticana</repository><collection>Vat. Lat. 14244, Carteggio Giovanni Battista De Rossi 1864</collection><idno>fol. 501 Nr. 336</idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 1 ¼ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er möchte mit Alexei Konstantinowitsch Tolstoi spätestens am folgenden Tag die Calixtus-Katakomben besichtigen und bittet um Erlaubnis.</p>
+                <p xml:lang="en">He wants to visit the Calixtus Catacombs with Alexei Konstantinovich Tolstoy on the following day at the latest and asks for permission.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date notAfter="1866-07-04" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001085">De Rossi, Giovanni Battista (1822–1894)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<salute rendition="#c">Gentilissimo Cavaliere,</salute>
+</opener>
+                <p>come esimio favore mi permetto di chieder da Lei quanto segue: </p>
+<p>Autorisazione con un sottoscritto suo di puoter vedere oggidì (Martedi) o almeno domani dopo mezzodì <seg type="comment"><orig>le <placeName key="G000774">Catacombe di S<ex>an</ex> Calisto</placeName></orig><note xml:id="nrvb_msl_ylb">1850 hatte De Rossi die genaue Position der Calixtus-Katakomben im Bereich der Via Appia ausgemacht und zwei Jahre später dort mit den Grabungen begonnen. Die Papstkrypta in den Katakomben entdeckte er 1854, woraufhin ihm der Piusorden verliehen wurde. Gregorovius hatte die Calixtus-Katakomben am 14. Mai 1857 zusammen mit De Rossi, der Dichterin und Schauspielerin Giannina Milli (1825–1888) und Teresa Gnoli-Gualandi (1833–1886) besucht (siehe den Brief von <ref target="G000397">Gregorovius an De Rossi, vor dem 14.5.1857</ref>). </note></seg>. Mi fù detto, che soltanto nei giorni di festa se ne dà l’accesso ai forestieri. <seg type="comment"><orig>Pur troppo il <persName key="G000944">Conte Tolstoj</persName> parte già dopodomani</orig><note xml:id="nbtc_4sl_ylb">Der russische Schriftsteller Graf Alexei Konstantinowitsch Tolstoi (1817–1875), Cousin von Lew Tolstoi (1828–1910), verbrachte in den Jahren 1864 und 1866 jeweils mehrere Monate in Rom. Gregorovius freundete sich mit ihm an und die beiden unternahmen viel miteinander. Im Tagebuch berichtet Gregorovius im Jahr 1864 von einer Abreise Tolstois vor dem 29. Mai und im Jahr 1866 von dessen Abreise am 4. Juli (siehe RT 29.5.1864, S. 178; RT 8.7.1866, S. 211). Vorliegender Brief datiert demzufolge wohl vor den 4. Juli 1866. </note></seg>, e non vorebbe lasciar Roma senza aver visto le Catacombe. Io mi offersi di ricorrer alla di Lei gentilezza, onde procurargli il permesso straordinario per oggi o per domandi, e cosi mi raccommando a Lei. Ripasso da Lei oggi verso mezzogiorno, sperando di puoter trovar codesto permesso; e non creda, ch’io abbia <pb n="1v"/>altre mire. Lei non deve esser disturbato per alcuna maniera.</p>
+                <closer>
+<salute xml:id="s1" next="#s2" rendition="#c">Chiedendo le sue scuse <lb/>l’obbligat<hi rendition="#uu" hand=""><hi rendition="#sup"><ex>issi</ex>mo</hi></hi> servitor suo </salute>
+<signed rendition="#right">Gregorovius</signed>
+<dateline>Martedj</dateline>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

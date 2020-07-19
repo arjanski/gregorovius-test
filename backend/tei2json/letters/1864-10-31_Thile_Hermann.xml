@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000213">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Hermann von Thile in Berlin. Rom, 31. Oktober 1864</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>96/937 (37)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. </p>
+<p>Abschrift des „Stabat mater“ von Jacopone da Todi und eine Fotografie von sich</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 59, Mappe 346 (nach D) und Karton 59, Mappe 346 (Ergänzungen nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 77–79 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+<p xml:lang="de">In Neapel ist erkrankt und deshalb mit Karl und Auguste Lindemann-Frommel für drei Wochen nach Sorrent ausgewichen. Seit Ende September ist er zurück in Rom und wieder wohlauf. Clemens August Alertz ist für den Winter in Rom. Anton Marstaller ist jetzt bei seinem Bruder in Hannover. Der plötzliche Tod von Friedrich Adolf Freiherr von Willisen hat ihn sehr berührt, dem Eintreffen seines Nachfolgers Harry Karl Graf von Armin sieht er mit dem geschäftsführenden Kurt von Schlözer ohne Erwartungen entgegen. Er übersendet für Ottilie von Thile die in Todi angefertigte Abschrift des „Stabat mater“ von Jacopone da Todi. Wegen der Arbeit an seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) ist ihm die Muse gleichsam erstorben. Deren fünften Band (1865) will er bis zum Frühjahr zum Druck befördern. Dass die kleine Tochter Albrecht von Graefes erblindet, kann er sich kaum denken. Er schickt eine Fotografie von sich und möchte eine von Thile und Albrecht von Graefe. Fotografien seiner Frau Ottilie mit ihrem Sohn Hans und eine Bildnis von Albrecht von Graefe besitzt er.</p>
+<p xml:lang="it"/>
+<p xml:lang="en">In Naples he fell ill and so he went to Sorrento with Karl and Auguste Lindemann-Frommel for three weeks. He has been back in Rome since the end of September is well again. Clemens August Alertz is in Rome for the winter. Anton Marstaller is now with his brother in Hannover. The sudden death of Friedrich Adolf Freiherr von Willisen has moved him deeply, and he is awaiting the arrival of his successor Harry Karl Graf von Armin with the managing Kurt von Schlözer with no expectations. He is sending Ottilie von Thile the copy of the „Stabat mater“ by Jacopone da Todi, which was made in Todi. Because of the work on his „Geschichte der Stadt Rom im Mittelalter“ (1859-1872), his muse has died, as it were. He wants to get the fifth volume (1865) printed by the spring. He can hardly imagine that Albrecht von Graefe’s little daughter is going blind. He sends a photograph of himself and wants one of Thile and Albrecht von Graefe. He owns photographs of his wife Ottilie with their son Hans and a portrait of Albrecht von Graefe. </p>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1864-10-31" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001644">Thile, Hermann von (1812–1889)</persName>
+<placeName key="G000636">Berlin</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right"><hi rendition="#aq">Rom</hi>, 31. <hi rendition="#aq">Oct<ex>o</ex>b<ex>e</ex>r</hi> 64.</dateline>
+<salute rendition="#c">Mein hochverehrter Herr,</salute>
+</opener>
+<p>Ihr gütiger Brief hat mich <seg type="comment"><orig>in <placeName key="G000873">Sorrent</placeName> um so mehr erfreut, als ich damals in miserabler Verfassung war</orig><note xml:id="ng5z_nh3_2mb">Gregorovius war am 7. August 1864 mit Karl und Auguste Lindemann-Frommel nach Neapel aufgebrochen und erkrankte während der Archivarbeit für den fünften Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1865), so dass er mit den Lindemann-Frommels vom 22. August bis 16. September zur Erholung in Sorrent war (siehe RT, 15.8.-24.9.1864, S. 182–185).</note></seg>. Die Hitze des August, das fieberhafte Wesen von <placeName key="G000737">Neapel</placeName>, u<ex>nd</ex> die über alles Erwarten anstrengende Natur der Arbeiten im <orgName key="G000565">Staatsarchiv</orgName> zwangen mich nach Sorrent zu gehen, wo ich mich langsam erholte. Ich kehrte <seg type="comment"><orig>am letzten September freilich elend nach Rom zurück</orig><note xml:id="nn13_ph3_2mb">Gregorovius war am 29. September 1864 nach Rom zurückgekehrt (siehe RT, 16.10.1864, S. 186).</note></seg>, bin <del rendition="#s">ich </del>aber nun völlig hergestellt u<ex>nd</ex> recht flink bei meinen Arbeiten.</p>
+<p>Ich wußte Sie in <placeName key="G000686"><hi rendition="#aq">Heiden,</hi></placeName> und bedauerte das gräuelvolle germanische Walten, welches im <placeName key="G000664">Vaterland </placeName>allgemein gewesen sein soll, und Ihnen daher wenig angenehme Bewegung wird verstattet haben. Sie haben sich auch wahrscheinlich zu wenig Ruhe gegönnt, da Sie wieder so schnell <pb n="1v"/>zu den <seg type="comment"><orig>anstrengenden Staatsgeschäften in der großen Stadt zurückkehrten, u<ex>nd</ex> jene hält doch der erste aller Ärzte, <persName key="G001297"><hi rendition="#aq">Horaz</hi></persName>, für gar nicht der Gesundheit zuträglich</orig><note xml:id="nlc3_qh3_2mb">Der römische Dichter Horaz (65 v-8 v. Chr.) hatte das Anerbieten, ein öffentliches Amt zu übernehmen, aus gesundheitlichen Gründen abgelehnt. In seinen „Oden“ und „Epoden“ gibt es verschiedene Warnungen, dass die Staatsgeschäfte den Frieden der Seele, die Gemütsruhe und damit die Gesundheit gefährden: „Glücklich der Mann, der fern von Geschäften, wie einst das Menschengeschlecht, die väterliche Scholle mit seinen Ochsen pflügt, frei von Schuldenlast; weder wird er als Soldat vom wilden Signal aufgescheucht noch vom grollenden Meer verängstigt, er meidet das Forum und die stolzen Paläste der Mächtigen.“ (Epoden II,1–8: „Beatus ille qui procul negotiis, / ut prisca gens mortalium, / paterna rura bubus exercet suis, / solutus omni faenore; / neque excitatur classico miles truci / neque horret iratum mare / forumque vitat et superba civium / potentiorum limina.“) In einer anderen „Ode“ sinnuiert Horaz gar, dass man seinen Sorgen auch an ruhigem Orte nicht entkommen kann: „Aber Angst und Drohungen steigen dorthin, wo der Herr ist, und er steigt nicht von der ehernen Trireme und schwarze Sorge sitzt hinterm Pferd.“ (Oden III, 1/37–40: „fastidiosus: sed Timor et Minae / scandunt eodem quo dominus, neque / decedit aerata triremi et / post equitem sedet atra Cura.“).</note></seg>.</p>
+<p><seg type="comment"><orig><persName key="G000913"><hi rendition="#aq">Alertz</hi></persName> ist vor kurzem, ziemlich hergestellt, auf das nun verwaiste <placeName key="G000761">Capitol</placeName> zurückgekommen</orig><note xml:id="nhrg_th3_2mb">Clemens August Alertz (1800–1866) war Mitte Oktober 1864 nach Rom zurückgekehrt (siehe RT, 16.10.1864, S. 187).</note></seg>, nur für den Winter. </p>
+<p>Dieser herrliche, völlig unpraktische, und ganz wehrlose Mann ist durch sein Naturell früh gealtert, und nur noch Gegenstand liebevollen zu Tode-Pflegens. Er denkt mit großer Verehrung u<ex>nd</ex> Dankbarkeit an Sie, u<ex>nd</ex> trug mir auf, dies Ihnen auszudrücken. <seg type="comment"><orig><hi rendition="#aq"><persName key="G001405"><hi rendition="#aq">Marstaller</hi></persName></hi> befindet sich bei seinem Bruder in <placeName key="G000618">Hannover</placeName></orig><note xml:id="nogm_wh3_2mb">Der seit 1840 in Rom als Geschäftsmann und preußischer Konsul ansässige Anton Marstaller (1815–1865) war ernsthaft erkrankt. Er hatte sein Geschäft veräußert, seine Wohnung aufgegeben und Gregorovius beauftragt, bei Hermann von Thile als Unterstaatssekretär des auswärtigen Amtes eine Beurlaubung in Deutschland unter Fortzahlung seiner Bezüge anzufragen (siehe den Brief von <ref target="G000195">Gregorovius an Thile, 16.4.1864</ref>). Die Beurlaubung Marstallers wurde bewilligt; er zog nach dem Verkauf seines ganzen Besitzes zu einem Bruder nach Hannover (vermutlich Julius Philipp Marstaller, der dort als Hofkellermeister nachweisbar ist), wo er am 24. August 1865 starb.</note></seg>. <seg type="comment"><orig>Das Grundübel seines Leidens erscheint mir moralischer Natur, nämlich die völlige Ungenüge an sich selbst. Die Jugend ist längst dahin, und es fehlt die feste geistige Richtung, welche dem Leben in alternden Jahren Wert u<ex>nd</ex> Adel verleiht. Er ist ganz verbittert, und war eigentlich schon Jahre lang ungenießbar</orig><note xml:id="nddl_d33_2mb">Der gemeinsame Freund und Arzt Marstallers, Wolfgang Erhardt (1818–1906), schreibt über ihn in seinen Aufzeichnungen: „Ein scharfer Charakter sehr intelligent, von bedeutender allgemeiner Bildung. Sein Gespräch intereßant, sein Urteil rasch und scharf, schonungslos. Sein Haß unversöhnlich“. Er hatte vier Brüder. 1854 war sein Bruder Hektor Marstaller unverheiratet in Neapel verstorben, sein weiterer, verheirateter Bruder Federico war als Vize-Konsul der Provinzen Bari und Foggia und Geschäftsmann in Bari ansässig (Aufzeichnungen von Dr. Wolfgang Erhardt (1819–1906. Hrsg. von Peter W. Freude. Murnau: Selbstverlag 1996. S. 109).</note></seg>.</p>
+<p><seg type="comment"><orig>Der plötzliche Tod des guten <persName key="G001706">Generals von Willisen</persName></orig><note xml:id="nig4_g33_2mb">General Friedrich Adolf Freiherr von Willisen (*1798) war im Juli 1863 erster Gesandter der preußischen Staatsregierung am italienischen Königshof geworden. Am 24. August 1864 war er während des Sommeraufenthaltes in der Villa Cesarini in Genazzano plötzlich verstorben (siehe den Brief von Gregorovius an Kurd von Schlözer vom <ref target="G000210">8.9.1864</ref>).</note></seg>, eines schlichten, wolwollenden und sehr gebildeten Ehrenmanns, hat <pb n="2r"/>uns alle aufrichtig geschmerzt. Auch <seg type="comment"><orig><persName key="G001707">Frau v<ex>on</ex> <hi rendition="#aq">W</hi><ex>illisen</ex> </persName>war voll Güte und Verstand</orig><note xml:id="nhw1_k33_2mb">Willisen war mit seiner allgemein geschätzten Frau Pauline, geb. von Brause (1815–1880), und seiner Tochter Elisabeth Ludovica Anna (1846–1894) nach Rom gekommen (siehe die Briefe von Gregorovius an Kurd von Schlözer, <ref target="G000210">8.9.1864</ref> und an Thile, <ref target="G000195">16.4.1864</ref>).</note></seg>. Sie haben wol Recht das verwunschene <seg type="comment"><orig><placeName key="G000771">Schloß <hi rendition="#aq"><hi rendition="#aq">Caffarelli</hi></hi></placeName></orig><note xml:id="nnyg_433_2mb">Der 1854 von Preußen erworbenen Palazzo Caffarelli auf dem kapitolinischen Hügel wurde als Sitz der Gesandtschaft und verschiedener wissenschaftlicher Einrichtungen Preußens genutzt.</note></seg> eine <persName key="G001478"><seg type="comment"><orig>Pelopidenburg</orig><note xml:id="nfhw_p33_2mb">In der griechischen Mythologie alle Nachkommen des Pelops. Auf den Pelopiden lastet ein Fluch, deren Ursache literarisch verschieden ausgestaltet wurde.</note></seg></persName> zu nennen, wenigstens blüht dort dem protestantischen <placeName key="G000646">Preußen</placeName> kein Glück. <seg type="comment"><orig>Wir erwarten nun <persName key="G000950">Herrn v<ex>on</ex> Arnim</persName>, welcher, nach Äußerungen<persName key="G001583"> Schlözers</persName>, definitiv ernannt ist</orig><note xml:id="nmvk_t14_2mb">Bis zum Eintreffen von Willisens Nachfolger Harry Karl Graf von Armin (1824–1881) aus München, war Kurd von Schlözer Geschäftsträger. Arnim wurde 1872 Botschafter in Paris. Kurd von Schlözer (1822–1894) war im Februar 1864 als Legationssekretär des preußischen Gesandten Friedrich Adolf Freiherrn von Willisen nach Rom gekommen. Gregorovius pflegte rasch freundschaftlichen Umgang mit ihm.</note></seg>; wenn wir aber erwartend keine Erwartungen hegen, oder ganz indifferent bleiben, so ist dies auch durch den schnellen Herrscherwechsel auf dem Capitol zu erklären, welcher am Ende, wie in <placeName key="G000674">Frankreich</placeName>, das legitime Untertanengefühl auslöscht.</p>
+<p>Beikommend erlaube ich mir, hochverehrte <persName key="G001645">Frau von Thile</persName>, Ihnen <seg type="comment"><orig>den Text des <hi rendition="#aq">Stabat Mater</hi> aus einer sehr alten Handschrift von <persName key="G001313"><hi rendition="#aq">Todi</hi></persName></orig><note xml:id="nstj_5c4_2mb">Die Abschrift eines Codex aus dem dortigen Kloster Montesanto, ein lateinisches Gedicht mit dem Incipit „Stabat mater dolorosa“ (lat.: Es stand die Mutter schmerzerfüllt) das Jacopone da Todi (*1230 und 1236–1306), dem Stadtpatron von Todi, Innozenz III. (1161–1216) oder Johannes Bonaventura (1221–1274) zugeschrieben wurde (siehe den Brief von <ref target="G000209">Gregorovius an Hermann von Thile, 5.8.1864</ref>).</note></seg> zu übersenden. Leider habe ich ihn nicht mit gedruckten Texten vergleichen können, weil die Bibliotheken Roms bis zur Mitte des November geschloßen bleiben.</p>
+<p>Sie erinnern sich, mein teurer Herr, so freundlich der <seg type="comment"><orig>Absicht, meine lyrischen Spielereien zu veröffentlichen</orig><note xml:id="nf23_zc4_2mb">In den Briefen von Gregorovius an Thile klagt Gregorovius immer wieder über fehlende Zeit, seine poetischen Pläne umzusetzen (so z.B. im Brief vom <ref target="G000209">5.8.1864</ref>). Die verstreuten Gedichte von Gregorovius wurden erst posthum von Adolf Friedrich von Schack (1815–1894) gesammelt und 1892 in Leipzig bei Brockhaus herausgegeben.</note></seg>, u<ex>nd</ex> fragen wie es damit bestellt sei. Die Muse war in mir gleichsam todt, erdrückt durch den großen Stein <seg type="comment"><orig>„<bibl sameAs="G003455">Rom</bibl>“</orig><note xml:id="nmy2_4d4_2mb">Gregorovius arbeitete am fünften Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1865).</note></seg>; und die poetischen Keime in mir glichen oder <pb n="2v"/>gleichen noch geradezu jenen gequälten Pflanzenkeimen, die man manchmal auf dem Felde findet, wenn man einen Stein aufhebt. Vielleicht darf ich es aufrichtig bedauern, daß die Verhältniße es mir nicht verstatteten, solchen Neigungen in Freiheit nachzugehen, und gewiß hoffe ich noch sagen zu können:</p>
+<p rendition="#c"><hi rendition="#aq"><foreign xml:lang="ita"><seg type="comment"><orig>ma qui la: morta poesia risurga, <lb/>o sante Muse, poi che vostro sono, <lb/>e qui Calliope alquanto surga</orig><note xml:id="nick_pd4_2mb">Dante Alighieri: La Divina Commedia, Purgatorio, Canto I/7–9: „Ma qui la morta poesì resurga, / o sante Muse, poi che vostro sono; / e qui Calïopè alquanto surga“. Dt.: „Doch hier erhebe ich die tote Dichtkunst, / O heil’ge Musen, denn ich bin der eure, / Und höher schwinge sich Calliope“ (Dante Alighieri: Die Göttliche Komödie. Übersetzt von Karl Witte. Berlin: Rudolph Ludwig von Decker Verlag 1865).</note></seg>.<lb/> </foreign></hi></p>
+<p>Ich werde mit dem Frühjahr eine Ruhepause haben, weil ich dann das Manuscript des <bibl sameAs="G003455">V. Bandes der Geschichte der Stadt</bibl> absende. Es ist dieser die sehr ernste Mühe von 3 ganzen Jahren.</p>
+<p>Empfehlen Sie mich freundlich <persName key="G001189">Herrn</persName> u<ex>nd</ex> <persName key="G001191">Frau von <hi rendition="#aq">Gräfe</hi></persName>. Es ist ganz <seg type="comment"><orig>widersinnig zu denken, daß das <persName key="G001190">Kind</persName> eines Mannes, welcher Tausenden das Augenlicht wiedergegeben hat, erblinden sollte</orig><note xml:id="ncjb_wd4_2mb">Die damals zweijährige, älteste Tochter Anna (1863–1939) wurde geheilt.</note></seg>. Dies darf nicht geschehen. </p>
+<p> Ich wünsche Ihnen allen heitre und gute Tage, und behalten Sie mich, mir zum fortdauernden Trost im Leben, in freundlichem Andenken. </p>
+<closer>
+<salute rendition="#c">Mit herzlicher Verehrung</salute>
+    <signed rendition="#right"><hi rendition="#aq">F. Gregorovius</hi></signed></closer>
+    <note type="postscript">Wenn ich beikommend diese Photographie übersende, so ist es nur deshalb, um <seg type="comment"><orig>die Ihrige in solcher Form zu erlangen</orig><note xml:id="nylw_wd4_2mb">Im Nachlass von Gregorovius haben sich drei undatierte Fotografien von Hermann von Thile erhalten (BSB München, NL Gregorovius, Gregoroviusiana 30b, 72 a-c).</note></seg>, mein sehr verehrter Herr; denn sie fehlt mir durchaus.</note>
+<note type="postscript" place="left" rendition="#rotate90">Ich würde auch <seg type="comment"><orig>Herrn v<ex>on</ex> <hi rendition="#aq">Gräfe</hi> um die seinige bitten</orig><note xml:id="nbm2_yd4_2mb">Im Nachlass von Gregorovius hat sich keine Fotografie von Albrecht von Graefe erhalten.</note></seg>, wenn er es genehmigt. <seg type="comment"><orig>Sein großes Bild</orig><note xml:id="nyqb_zd4_2mb">Vermutlich die Lithographie von G. Fechert nach der Profil-Zeichnung von August W. Lehmann, etwa aus dem Jahre 1855 (siehe den Brief von <ref target="G000122">Gregorovius an Thile, 9.8.1860</ref>).</note></seg> besitze ich. Die <seg type="comment"><orig>Photographie Ihrer Frau Gemahlin u<ex>nd</ex> von <persName key="G001643">Hans</persName></orig><note xml:id="nnck_b24_2mb">Im Nachlass von Gregorovius hat sich ein Familienfoto von Hermann, Ottilie und Sohn Hans von Thile erhalten, das nach dem Brief von Gregorovius an Thile vom 10. Juli 1858 vermutlich kurz vor dem Weggang der Thiles aus Rom aufgenommen wurde (BSB München, NL Gregorovius, Gregoroviusiana 30b, 71 – irrtümlich auf 1860 datiert).</note></seg> besitze ich glücklicher Weise.</note>
+</div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067879">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Clemente Maraini in Rom. Rom, 30. März 1877</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"><bibl type="print">Una lettera di Ferdinando Gregorovius. In: Il Diritto. Giornale della Democrazia Italiana. Jg. 24. Nr. 90. Rom 31.3.1877. S. 3</bibl> </witness>
+<witness> <bibl type="print">dt. bei Raffaele Mariano: Die Schmähungen der ‚Revue des Deux Mondes‘ gegen die Deutschen. Beantwortet von einem Italiener. In: Beilage zu Nr. 95 der AZ. Augsburg: Cotta 5.4.1877. S. 1435–1436</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die Veröffentlichung von Marianos Artikel „Una critica di nuovo conio“ in „Il Diritto“, der auf die beleidigende Rezension von Marianos französischer Übersetzung seiner „Lucrezia Borgia“ (1876) durch Henri Blaze de Bury in der „Revue des deux Mondes“ antwortet. Auf Blaze de Burys Ausfälle gegen die Italiener und die in den Archiven Italiens forschenden Deutschen hat er selbst nichts zu entgegnen. Die engen Beziehungen zwischen Deutschland und Italien belegen seine „Geschichte der Stadt Rom im Mittelalter“ (1859-1872), für die er mit der Ehrenbürgerwürde der Stadt Rom ausgezeichnet wurde. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1877-03-30" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G067878">Maraini, Clemente (1838-1905)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="3"/>
+            <div type="writingSession">
+                <opener>
+<salute rendition="#c"> On<ex>orevole</ex> <seg type="comment"><orig>sig<ex>nor</ex> Direttore del Diritto</orig><note xml:id="nbys_4s3_1mb">Der aus Lugano stammende Ingenieur Clemente Maraini (1838–1905) leitete die seit 1871 in Rom ansässige Zeitschrift „Il Diritto. Giornale della democrazia italiana“ während ihrer ersten römischen Periode bis 1879. Gegründet worden war die Zeitung 1854 in Turin nach einem Übereinkomen mehrer demokratischer Fraktionen, 1865 erfolgte ihr Umzug nach Florenz. Als Organ der Linken wurde sie zunächst gemeinsam von Cesare Correnti (1815– 1888), Agostino Depretis (1813–1887), Lorenzo Pareto (1800–1865), Lorenzo Valerio (1810-1865) und Annibale Marazio (1830–1916) geführt. Mit dem Aufstieg Depretis und der gestiegenen Regierungsverantwortung der Linken nach 1876 gewann die Zeitschrift an Bedeutung, welche sie im Einklang mit den politischen Entwicklungen jedoch allmählich wieder verlor. Zum 31. Dezember 1895 wurde „Il Diritto“ eingestellt.</note></seg>,</salute>
+</opener>
+<p>Per <seg type="comment"><orig>le nobili pagine del mio amico <persName key="G001401">Raffaele Mariano</persName></orig><note xml:id="nbzg_rs3_1mb">Nach einer niederschmetternden Rezension des Autors Ange Henri Blaze de Bury (1813–1888) zu Gregorovius’ kurz zuvor auf französisch erschienenen „Lucrezia Borgia“ (Regnaud, Paul: Lucrèce Borgia. 2 Bde. Paris: Sandoz et Fischbacher 1876) in der „Revue des deux Mondes“ (Les Borgia. In: Revue des Deux Mondes. Jg. 47. Per. 3. Paris: Revue des deux Mondes 15.3.1877. S. 241–286), hatte dessen Freund Mariano dem Franzosen mit einem Deutschland gegenüber höchst positiv eingestellten Artikel im „Diritto“ geantwortet (Una critica di nuovo conio. In: Il Diritto. Giornale della Democrazia Italiana. Jg. 24. Nr. 88. Rom 29.3.1877. S. 2–3). Einen Tag nach Veröffentlichung des Texts im „Diritto“, publizierte die in französischer Sprache in Rom erscheinende „Italie“ Marianos Artikel in einer franzöischen Übersetzung (Une critique de Mauvais Aloi. In: L’Italie. Journal politique quotidien. Jg. 18. Rom 30.3.1877. S. 2), womit ein Schlag gegen die „Revue des deux Mondes“ gelang, die infolgedessen zahlreiche Abonnenten verlor.</note></seg> m’affretto a rendere le più sentite grazie a lui non solo, che cosi generosamente le dettò; ma anche alla S<ex>ignoria</ex> V<ex>ostra</ex>, che tanto premurosamente le accolse nel suo reputato giornale. </p>
+<p>Io non son lieto, meno perché v’è stata fatta giustizia di <seg type="comment"><orig>un’indegna aggressione contro di me e de’miei connazionali</orig><note xml:id="nbzb_ts3_1mb">Henri Blaze de Bury hatte seinen Artikel mit einer Schmähung der in italienischen Archiven forschenden Deutschen begonnen, womit er Gregorovius in persona ansprach, und sich im Folgenden beleidigend über die deutsch-italienischen Beziehungen ausgelassen. Über die Italiener, welche die ihnen feindlich gesinnten Deutschen gar noch ehrten – Gregorovius’ Ernennung zum römischen Ehrenbürger –, spottete er.</note></seg>, venuta da scrittore a me ignoto in sin di nome, e più perché ho potuto vedervi dichiarata, con argomenti evidenti quanto forti, la natura delle amichevoli relazioni fra Italiani ed Alemanni; relazioni, che hanno per base l’identità dei destini e delle lotte, il bisogno di mutua difesa della sacra causa nazionale contro nemici comuni, la memoria dei vicendevoli servizii in pro’della stessa prestati, la comunanza degli studii, e infine la stima reciproca.</p>
+<p>Quanto a me personalmente, io non ho nulla a dire contro le offensive parole dello <persName key="ed_ycs_grx_qlb">scritore</persName> della <foreign xml:lang="deu"><orgName key="ed_dff_kyv_gmb">Revue des Deux Mondes</orgName></foreign>. V’hanno offese veramente, cui l’uomo, che sente la propria dignità, ha il diritto e sino il dovere di rispondere col disprezzo. Più eloquente d’ogni parola e d’ogni difesa sta per me l’insigne attestato di simpatia e di stima, il maggiore che i Romani potessero accordarmi, poichè vollero chiamarmi <seg type="comment"><orig>loro concittadino</orig><note xml:id="nzlh_5s3_1mb">Am 8. März 1876 hatte der römische Gemeinderat die Entscheidung getroffen, dem Autor der „Geschichte der Stadt Rom im Mittelalter“ (8 Bde., 1859–1872) mit der Verleihung der Ehrenbürgerwürde Roms für seine Verdienste um die italienische Geschichtsschreibung zu danken; siehe den Brief von Gregorovius an Pietro Venturi vom 17.3.1876. </note></seg>. Ed io posso bene col <seg type="comment"><orig><persName key="G000916">Ghibellino</persName></orig><note xml:id="nubs_vs3_1mb">Gemeint ist Dante Alighieri (1265–1321).</note></seg> ripetere:</p>
+<p><seg type="comment"><orig>E questo fia suggel ch’ogni uomo sganni.</orig><note xml:id="nmmr_ws3_1mb">Zit. nach Dante. Divina Commedia. Inferno, Gesang 19, Vers 21.</note></seg> </p>
+<p>Allorchè ripenso agli antichi legami, che m’uniscono all’<placeName key="G000690">Italia</placeName>, a questa mia seconda patria, una sola speranza, e, potrei dire davvero, una sola ambizione io sento di nudrire; speranza, che se dolcemente mi commuove, non meno m’esalta e mi fa inorgoglire. Si, no lo spero, forse un giorno si dirà di me, che fui pur l’uomo, che <seg type="comment"><orig>spese lunghi anni della sua vita a Roma e in Italia</orig><note xml:id="nhcb_ys3_1mb">Für seine Arbeit an der „Geschichte der Stadt Rom im Mittelalter“ hatte Gregorovius fast 22 Jahre seines Lebens, von Oktober 1852 bis Juli 1874, in Italien gelebt. Mit dem Abschluss dieser Geschichtsschreibung sah er seine Aufgabe als erfüllt und somit seine Zeit in Rom als beendet an: „[…] ich schuf, was noch nicht da war, ich klärte elf dunkle Jahrhunderte der Stadt auf und gab den Römern die Geschichte ihres Mittelalters. Das ist mein Denkmal hier. So darf ich ruhig von hinnen gehen. Ich könnte wohl auch noch bleiben. Aber es sträubt sich ein selbstbewußtes Gefühl in mir gegen die Vorstellung, hier mich in Einsamkeit zu überleben und in Rom zu altern, wo alles neu wird und sich verwandelt und ein neues zudringliches Leben mir bald alte liebgewordene Pfade bedecken und unkenntlich machen wird.“ (RT, 14.7.1874, S. 342–343). Eine Übersetzung des vorliegenden, im „Diritto“ abgedruckten Briefes sowie des Artikels von Mariano schickte Gregorovius an die „Allgemeine Zeitung“, die letzteren unter dem Titel „Die Schmähungen der ‚Revue des Deux Mondes‘ gegen die Deutschen. Beantwortet von einem Italiener“ abdruckten; siehe: Beilage zu Nr. 95 der AZ. Augsburg: Cotta 5.4.1877. S. 1435–1436: https://opacplus.bsb-muenchen.de/Vta2/bsb11364604/bsb:3257993?page=63. Dem angehängt folgt der Brief von Gregorovius in deutschter Sprache. Siehe zu dem Thema auch Gregorovius’ weitere Ausführungen in RT, Rückkehr nach Rom im jahre 1877, S. 375–376.</note></seg> appunto a propugnare con gli <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">studi suoi</bibl>, e per quanto glielo concessero le forze, l’amicizia, che sempre mai deve stingere Italia e <placeName key="G000664">Germania</placeName>. </p>
+                <closer>
+<salute>Ho l’onore di protestarle, egregio signor direttore, i sensi della mia più alta stima. </salute>
+<dateline rendition="#c">Roma, 30 marzo 1877.</dateline>
+<signed rendition="#right">Gregorovius <lb/>cittadino romano. </signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

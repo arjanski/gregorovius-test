@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067892">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. Rom, 28. Mai 1877</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell'Archiginnasio</institution><collection>Ms. Gozzadini 442</collection><idno>(26)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für Gozzadinis „Note per studi sull’architettura civile in Bologna dal secolo 13. al 16.“ (1877). In Rom hat nur an seiner Studie über das römische Bürgerrecht, „Alcuni cenni storici sulla cittadinanza romana“, gearbeitet.  Sollte sie in den „Atti della Reale Accademia dei Lincei“ abgedruckt werden, wird er sie Gozzadini zukommen lassen. In Kürze wird er über Genua nach München zurückkehren. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1877-05-28" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni conte (1810-1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Roma, 28. Maggio 1877.</dateline>
+                    <salute rendition="#c">Illustre signor Conte,</salute>
+                </opener>
+<p>tanti ringraziamenti pel suo gentilissimo dono „<bibl sameAs="ed_zkg_bvc_rlb">Le note per studi sull’architettura civile di Bologna</bibl>“. Difatti io ammiro la di lei attività e mene servirei come di modello e di monitorio, ove non fossi cadute nell’accidia così basso, che dispero di poter rialzarmi mai più.</p>
+<p>Per ver dire non ho fatto altro <seg type="comment"><orig>quì in Roma</orig><note xml:id="nmb1_pt3_1mb">Gregorovius befand sich seit dem 11. Februar in Rom (siehe RT, Rückkehr nach Rom im Jahre 1877, S. 373–374).</note></seg>, che <seg type="comment"><orig>una piccola memoria sulla <bibl sameAs="G004017">cittadinanza romana</bibl></orig><note xml:id="nsxn_qt3_1mb">Alcuni cenni storici sulla cittadinanza romana. In: Atti della Reale Accademia dei Lincei. Classe di Scienze Morali, Storiche e Filologiche. (Sitzung vom 21. Mai 1877) Ser. 3. Bd. 1. Rom: Coi Tipi del Salviucci 1877. S. 314–346. In dt. Sprache u. d. T. ‚Römische Bürgerbriefe seit dem Mittelalter‘ überarbeitet aufgenommen in KS I/7 (S. 265-323): „Ich wandte die ersten Wochen dazu an, die kleine Arbeit über das römische Bürgerrecht italienisch niederzuschreiben, für welche ich schon im vorigen Jahre Materialien im Archivd es Kapitols gesammelt hatte. Diese Denkschrift […] übergab ich dann der Accademia dei Lincei, in deren Sitzungsberichten sie abgedruckt werden soll. Sie dient mir dazu, zweierlei Pflichten zu erfüllen, einmal dem Municipium eine Artigkeit zu erweisen, und dann jener Akademie einen Beitrag zu liefern.“; RT, Rückkehr nach Rom im Jahre 1877, S. 374–375. Gregorovius war im März 1876 zum römischen Ehrenbürger ernannt worden (siehe den Brief von Gregorovius an Pietro Venturi vom 17.3.1876), womit sein Interesse an dem Thema „Bürgerrecht“ erklärt wird.</note></seg>, la quale mi solleciterò di tramandarle casomai si riproducesse negli <orgName key="ed_pjq_mvc_rlb">Atti dei Lincei</orgName>. </p>
+<p>Sto per partire di Roma; prenderò la via di riviera di <placeName key="G000677">Genova</placeName>, e fra otto giorni forse mi ritroverò in quel deserto che si chiama <placeName key="G000734">Monaco di Baviera</placeName>. <seg type="comment"><orig>Vi darò mano a qualche lavoro</orig><note xml:id="nbmv_rt3_1mb">Gregorovius traf am 4. Juni 187 in München ein und begann seine Arbeit über den 30-jährigen Krieg (siehe RT, Sommer und Winter 1877/78, S. 379).</note></seg>, e <del rendition="#s">S</del> sforzerommi di uscire una volta da <seg type="comment"><orig>questa bolgia degli accidiosi</orig><note xml:id="nfdw_st3_1mb">Dt.: Höllengraben der von gottloser Traurigkeit Befallenen. Zit. nach Dantes „Divina Commedia“, Inferno 7, canto 123 und Inferno 8, canto 132.</note></seg>.</p>
+<p>Augurandole il miglior progredimento in quel lavoro serio, che ha sotto le mani, e pregandola di <pb n="2"/>portare i più sentiti rispetti di parte mia alla gentilissima signora <persName key="G001092">Contessa</persName>, mi raccomando alla benevola memoria di Lor Signorie come amico sincero e servitore devoto dell’illustre casa Gozzadini</p>
+                <closer>
+<signed rendition="#right">Ferd. Gregorovius </signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

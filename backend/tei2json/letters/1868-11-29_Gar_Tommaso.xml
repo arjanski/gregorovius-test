@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000285">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+                <title>Ferdinand Gregorovius an Tommaso Gar in Neapel. Rom, 29. November 1868</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition> <title>Fredinand Gregorovius, gesammelte Briefe</title> </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address> </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International (CC BY 4.0) </licence>
+                </availability>
+            </publicationStmt>
+<sourceDesc>
+<msDesc>
+                    <msIdentifier>
+                        <repository>Biblioteca Comunale di Trento</repository>
+                        <idno>
+                            <idno>busta BCT1–2257/52</idno>
+                        </idno>
+                    </msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S. </p>
+</physDesc>
+</msDesc>
+<listWit>
+<witness>
+<msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno> <idno type="shelfmark"/> </idno>
+                            </msIdentifier>
+</msDesc>
+</witness>
+<witness>
+<msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno> <idno type="shelfmark"/> </idno>
+                            </msIdentifier>
+</msDesc>
+</witness>
+<witness> <bibl type="print"/> </witness>
+</listWit>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<abstract>
+<p xml:lang="de">Er begrüßt die von Gar veranlasste Restitution bedeutender italienischer Dokumente aus Wien. Er hat ihm die zweite Auflage des ersten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1869) gesandt. Aktuell arbeitet er am siebten Band (1870). Er bittet um Dokumente zu Cesare Borgia und dessen Beziehungen zur Signoria Venedigs. die Hugo Hinck nach Rom mitbringen könnte. Auguste Lindemann-Frommel ist bettlägerig und will an Gars Lebensgefährtin Madeleine Creutzer schreiben. Karl Lindemann-Frommel arbeitet an dem Ölgemälde „Palermo mit Mte. Pellegrino“ (1868). Grüße an eine Landsmännin Gars aus Trento, an deren Bruder und an Hermann Friedrich Münster in Venedig.</p>
+<p xml:lang="en"/>
+</abstract>
+<correspDesc>
+<correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName>
+                    <date when="1868-11-29" cert="high"/>
+</correspAction>
+<correspAction type="received">
+<persName key="G001158">Gar, Tommaso (1808–1871)</persName>
+<placeName key="G000894">Venedig</placeName>
+</correspAction>
+</correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+            <pb n="1r"/>
+<div type="writingSession">
+<opener>
+<dateline rendition="#right">Roma, 29. No<ex>vem</ex>br<ex>e</ex> 68.</dateline>
+<salute rendition="#c">Carissimo amico Gar,</salute>
+</opener>
+<p>ebbi un vero piacere della vostra lettera, la quale mi assicura, chè voi e la gentilissima <persName key="G001056">baronessa</persName> godete ottima salute, avendo poi eseguito con buon successo il viaggio per <placeName key="G000897">Vienna</placeName>. Mi rallegro di sentire che gli affari <seg type="comment"><orig>della restituzione di tanti preziosi documenti italiani</orig><note xml:id="nglr_1vr_ylb">Gar war seit März 1867 Direktor des Staatsarchiv Venedig (Archivio di Stato di Venezia). Ein Jahr später verhandelte er in Wien die Restitution bedeutender Dokumente, die 1866 von Venedig nach Österreich verbracht worden waren. Über die betroffenen Dokumente und die Restitution veröffentlichte Gar einen Aufsatz in den „Memorie dell'Istituto veneto di scienze lettere ed arti“, s. 3, XIV (1868), 1, S. 190–197. </note></seg> siano riusciti in modo, che soddisfacesse alla ragione della cosa nazionale. Credo bene, che ve ne nascerà un altro mondo di lavori archivali; ma voi, avendone tanta pratica, siete veramente l’uomo da metter in buon assesto archivi e biblioteche. Cosi mi congratulo con voi, e ritorno a dirvi, che a Venezia nessuna cosa mi abbia arrecato tanto piacere, che il truovarvi in <orgName key="G000564">un posto conveniente</orgName>, e in tali condizioni da puoter allargare la vita dal lato materiale come nel senso morale.</p>
+<p>Sono contento di sapere, che <pb n="1v"/> <bibl sameAs="G003489">il primo volume della 2<hi rendition="#u" hand=""> <hi rendition="#sup">a</hi> </hi> edizione della Storia di Roma </bibl> <seg type="comment"><orig>già stà nelle vostre mani</orig><note xml:id="nbrn_cvr_ylb">Gregorovius hatte Gar ein Exemplar des ersten Bandes der zweiten Auflage der „Geschichte der Stadt Rom im Mittelalter“ (1869) durch den Verleger Cotta an die Buchhandlung Münster in Venedig schicken lassen. Siehe den Brief von Gregorovius an Tommaso Gar vom 20.9.1868.</note></seg>. Ne avrete<bibl corresp="G003435 G003442 G003449 G003456 G003463 G003470 G003477"> i volumi che stanno per venire</bibl> uno per uno e passo per passo in conformità del procedere della stampa. Mi lusingo col pensiere, che la baronessa, la quale conosce Roma, proverà qualche soddisfazione nella lettura di questi libri. Ora sto sommerso nel vastissimo pelago dell’<bibl corresp="G003434 G003441"><seg type="comment"><orig>ultimo volume</orig><note xml:id="nrhn_2vr_ylb">„Die Geschichte der Stadt Rom im Mittelalter“ war ursprünglich auf sieben Bände angelegt. Da der letzte Band aber zu umfangreich wurde, entschied Gregorovius, ihn in zwei Bände aufzuteilen; 1870 erschien Band 7, 1872 Band 8 (siehe auch den Brief von Gregorovius an Gar vom 9.5.1869).</note></seg></bibl>; e siccome mi avete parlato di certe relazioni diplomatiche fra <persName key="G000983"><seg type="comment"><orig>il Borgia</orig><note xml:id="nsvt_fvr_ylb">Cesare Borgia (1475/76–1507), der uneheliche Sohn Papstes Alexander VI. (1431–1503), über den Gregorovius im selben Jahr u.a. für den siebten Band der „Geschichte der Stadt Rom im Mittelalter“ (1870) recherchierte (siehe RT, 19. und 21.7.1868, S. 248–250). Eine Biographie über Cesare Borgia für eine vom Brockhaus-Verlag geplante Reihe zu schreiben, lehnte Gregorovius später ab (siehe den Brief von Gregorovius an den Verlag F. A. Brockhaus, 29.10.1872); stattdessen veröffentlichte er 1874 eine zweibändige Biographie der Schwester von Cesare Borgia, „Lucrezia Borgia“ (1480–1519), die noch heute als Standardwerk gilt.</note></seg></persName> e la <seg type="comment"><orig>Signoria Veneta</orig><note xml:id="ndk3_hvr_ylb">Die „Signoria“ ist eine Form monokratischer Herrschaftsausübung, die zwischen dem 13. Und 15. Jahrhundert in den Kommunen Ober- und Mittelitaliens verbreitet war, bzw. die Ratsversammlung, die den Herrscher (signore) und andere Entscheidungsträger wählte. Speziell in Hinblick auf Venedig steht „Signoria“ außerdem für den „consiglio minore“, den Kleinen Rat, ein Beratergremium für den Dogen und mächtiges Staatsorgan. </note></seg>, truovate novamente da voi nei plichi di Vienna, vi vorrei tener alla parola, pregandovi di farmene fare copie o estratti, quando chè la cosa ne valesse la pena; forse <seg type="comment"><orig>il signor <persName key="G001279">Hink</persName></orig><note xml:id="nenv_3vr_ylb">Hugo Hinck (1840–1876), Archäologe in Florenz und Rom.</note></seg> avrebbe la gentilezza di portarmi le copie a Roma, per dove probabilmente ripartirà dopo poco tempo.</p>
+    <p>La <persName key="G001374">signora Lindemann</persName> prepara <pb n="2r"/>una lettera alla baronessa; la poveretta si tien sempre al letto: essa però à una sì grande forza del cuore – l’unica forza sua vital<subst><del rendition="#s">iza</del><add place="superlinear">e</add></subst> – chè pare non soffrire niente, quando soffre molto. Il <persName key="G001375">suo marito</persName> è di ritorno dalla <placeName key="G000575">Sicilia</placeName>, e si mette adesso all’opera, onde <seg type="comment"><orig>trasformare gli schizzi in buoni quadri</orig><note xml:id="nc3f_rvr_ylb">Karl Lindemann-Frommel fertigte das Ölgemälde „Palermo mit Mte. Pellegrino“ (85x31cm) als Auftragsarbeit für den Sammler und Kunstmäzenen Johann II. von Liechtenstein (1840–1829) an; die Skizzen hatte er bei einem Aufenthalt Ende Oktober in Taormina angefertigt (siehe den Brief von Gregorovius an Georg Gottfried Gervinus, 8.11.1868). Das Originalgemälde ist verschollen, es hat sich nur eine Pause erhalten (siehe Peter K. W. Freude: Karl Lindemann-Frommel. Ein Malerleben in Rom. Monographie und Werkverzeichnis seines graphischen und malerischen Schaffens. Murnau am Staffelsee 1997. S. 54–55, WV 1359 und Abb. der Skizzen Kat. Nr. 1331–1336 – Freude hält Alfred Fürst von und zu Liechtenstein (1842–1907) für den Auftraggeber).</note></seg> e buonissimi <seg type="comment"><orig>napoleone d’ori</orig><note xml:id="nncy_pvr_ylb">Napoléon d’or, auch Napoleondor, ist eine historische französische Goldmünze.</note></seg>. </p>
+<closer>Raccomandatemi alla memoria della gentilissima <seg type="comment"><orig>vostra compatriota di  <placeName key="G000889">Trento</placeName></orig><note xml:id="nf43_svr_ylb">Nicht ermittelt.</note></seg>, non chè del <seg type="comment"><orig>suo cortese fratello</orig><note xml:id="nq2b_5vr_ylb">Nicht ermittelt.</note></seg> – e salutate dalla parte mia caldamente il signor <persName key="G001436">Münster</persName>, e la sua casa ospitale.<salute rendition="#c">Di tutto cuore <lb/>Il vostro</salute> <signed rendition="#right">FGregorovius <lb/> <note type="postscript">Die freundlichsten Grüße an Sie, verehrte Frau Baronin, und Wünsche eines schönen, sonnigen u<ex>nd</ex> gesunden Winters.</note> </signed> </closer>
+</div>
+</body>
+</text>
+</TEI>

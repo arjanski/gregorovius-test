@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000290">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Carl Freiherr Cotta von Cottendorf. Bad Schachen, 7. September 1868</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (85)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S. – 1r + 2r aoR geprägt: ROMA – 1r aoR Empfängervermerk: <hi rendition="#aq"><hi rendition="#aq">ad acta</hi></hi>!</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 57, Mappe 340–342 und Karton 55, Mappe 336–337 (nach H) </idno></idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er hat die Druckfahnen der zweiten Auflage des ersten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1869) erhalten und ist erleichtert, dass sich die Prägung des Einbandes für die gebundene Ausgabe mit dem Abbild der „Roma“ so leicht machen ließ. Wegen des Auslieferungstermins hat er heute nach Stuttgart geschrieben, um die Begleitbriefe zu seinen Freiexemplaren schon vorbereiten zu können. Im August hat er Wilhelm von Giesebrecht in Kufstein besucht. Im idyllischen Bad Schachen bei Lindau beginnt er sich zu erholen. Sollte er auf seinem Rückweg nach Rom noch Georg Gottfried Gervinus zusammentreffen, wird er über die Schweiz nach Rom reisen. Grüße an Otto Ludwig von Klumpp; vom Tod seines Vaters Friedrich Wilhelm Klumpp im Juli hat er gelesen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000627">Bad Schachen</placeName><date when="1868-09-07" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001053">Cotta von Cottendorf, Carl Freiherr von (1835–1888)</persName>
+</correspAction>
+<correspContext>
+<ref type="prev">18. August 1868 (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VI, 946–947)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">Bad Schachen bei <hi rendition="#aq">Lindau</hi> <lb/>7. <hi rendition="#aq">Sept<ex>em</ex>b<ex>e</ex>r</hi> 68.</dateline>
+<salute rendition="#c">Verehrter Herr Baron,</salute>
+</opener>
+<p>ich hatte das Vergnügen, Ihr freundliches Schreiben in <placeName key="G000734">München</placeName> zu empfangen, u<ex>nd</ex> erlaube mir von hier aus diese wenigen Zeilen an Sie.</p>
+<p>Ich bin sehr erfreut, <?oxy_comment_start author="Angela Steinsiek" timestamp="20200406T181435+0200" comment="Nach einer eigenhändigen Zeichnung von Gregorovius mit dem Abbild der „Roma“ aus dem dreizehnen Jahrhundert als Prägung für den Einband der gebundenen Ausgabe, die er mit seinem Brief vom 7. August 1868 für die zweite Auflage des ersten Band der „Geschichte der Stadt Rom im Mittelalter“ (1869) übersandt hatte. Als Vorlage diente die Münze des Römischen Senators und entschiedenen Gegners des stadtrömischen Adels Brancaleone degli Andalò (um 1220–1258) aus der Mitte des 13. Jahrhunderts. Sie zeigt auf der einen Seite einen schreitenden Löwen mit der Legende SENATVS POPVLVS Q. R. (Senat und Volk von Rom); auf der von Gregorovius gezeichneten Seite die Roma auf einem Thron, der von zwei Löwen gebildet wird, in der rechten Hand hält sie die Palme, in der Linken die Weltkugel, die Abbildung ist mit der Umschrift S.P.Q.R. Roma Caput Mundi umgeben (Rom, Hauptstadt der Welt). Siehe den Brief von Gregorovius an die Cottasche Buchhandlung, 20.9.1869. (Abb.: https://www.moneymuseum.com/de/muenzen?&amp;id=74). Siehe auch Gregorovius, GdStR (1865), Bd. 5, S. 64."?>daß der <hi rendition="#aq">Carton</hi> so ohne Umstände, durch Benutzung der letzten Seite hat hergestellt werden können, und bereits habe ich alle Druckbogen vollständig in Händen<?oxy_comment_end?>. Ich habe heute nach <placeName key="G000879">Stuttgart</placeName> geschrieben, um zu erfahren, in welcher Zeit <bibl sameAs="G003489">dieser neue Band</bibl> ausgegeben werden soll, damit ich einige Briefe als Begleiter gewißer Freiexemplare wo möglich noch hier in Muße schreiben kann.</p>
+<p>Ich vermute Sie jetzt in dem schönen <placeName key="G000585">Lausanne</placeName>, u<ex>nd</ex> dachte lebhaft an Sie, da ich gestern von hier aus einen Abstecher nach <hi rendition="#aq"><placeName key="G000580">S<ex>ankt</ex> Gallen</placeName></hi> machte. Nachdem ich <?oxy_comment_start author="Angela Steinsiek" timestamp="20200406T180816+0200" comment="Gregorovius war am 20. August mit Wilhelm von Giesebrecht (1814–1889) und dessen Onkel, dem Historiker und Dichter Ludwig Giesebrecht (1792–1873), in Kufstein zusammengetroffen, wo er bis zum 24. August geblieben war (siehe RT, 20.9.1869, S. 252). Vom 26.8. bis 23.9.1868 hielt er sich in Bad Schachen bei Lindau auf."?>einige Tage zum Besuche bei <persName key="G001173">Giesebrecht</persName> in <placeName key="G000711">Kufstein</placeName> war, verließ ich München, u<ex>nd</ex> befinde <pb n="1v"/>mich seit mehr als einer Woche hier<?oxy_comment_end?>. Dies Ländchen an den milden Ufern des <placeName key="G000856">Bodensees</placeName> ist einer der schönsten Punkte, die ich in <placeName key="G000664">Deutschland</placeName> überhaupt sah, in Wahrheit ein Paradiesgarten der Göttin <persName key="G001504">Pomona</persName>. Ich thue hier nichts als stundenlange Wanderungen zu unternehmen, oder auf der Bärenhaut, dem grünen Rasen unter Fruchtbäumen, zu liegen. Dies bekommt mir so vortrefflich, daß ich allmälig meine Elasticität wieder erlange.</p>
+<p>Ich weiß nicht, ob ich noch tiefer in die <placeName key="G000870">Schweiz</placeName> hinein komme, was <?oxy_comment_start author="Angela Steinsiek" timestamp="20200406T181548+0200" comment="Gervinus war im September 1868 mit seiner kranken Frau in Wildau, so dass sie auf ein Treffen verzichteten (siehe RT, 20.9.1869, S. 252–253)."?>vielleicht von einer Combination mit <persName key="G001168">Gervinus</persName> abhängt, welcher von <placeName key="G000685">Heidelberg</placeName> herunterkommen wollte<?oxy_comment_end?>. Am besten thut mir eine <pb n="2r"/>ruhige Folge von Tagen und Wochen, wie ich sie hier lebe, zumal die Witterung so wundervoll ist und bleibt, daß diese Tage den schönsten römischen Octobertagen gleichen.</p>
+<p><?oxy_comment_start author="Angela Steinsiek" timestamp="20200406T181704+0200" comment="Otto Ludwig von Klumpp (1819–1902) war Hofbibliothekar des Königs Karl I. von Württemberg (1823–1891). Gregorovius hatte Klumpp im Dezember 1864 in Rom kennengelernt und im September 1867 in Stuttgart wiedergetroffen (siehe RT, 11.12.1864, S. 189 und 11.9.1867, S. 232)."?>Sollten Sie Herrn <persName key="G001340"><hi rendition="#aq">Klumpp</hi></persName> sehen<?oxy_comment_end?>, so bitte ich einen freundlichen Gruß von mir auszurichten. Ich würde ihm schreiben, wenn ich wüßte, wo er sich befindet. Daß er <?oxy_comment_start author="Angela Steinsiek" timestamp="20200406T181742+0200" comment="Der am 12. Juli 1868 in Stuttgart gestorbene Pädagoge Friedrich Wilhelm Klumpp (*1790)."?>seinen würdigen <persName key="G001338">Vater</persName> verlor, las ich vor einigen Wochen<?oxy_comment_end?>.</p>
+<p>Mit der Bitte, mich dem Andenken Ihrer <persName key="G001051">Frau <?oxy_comment_start author="Angela Steinsiek" timestamp="20190115T182027+0100" comment="Carl von Cotta war mit Amélie Charlotte, geb. de la Harpe (1835–1915) verheiratet."?>Gemalin<?oxy_comment_end?> </persName>zu empfehlen und <orgName key="G000523">Ihrem verehrten Hause</orgName> das herrlichste Gedeihen wünschend</p>
+<closer>
+<salute rendition="#right">Ihr wahrhaft ergebener</salute>
+<signed rendition="#right"><hi rendition="#aq">FGregorovius</hi>.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

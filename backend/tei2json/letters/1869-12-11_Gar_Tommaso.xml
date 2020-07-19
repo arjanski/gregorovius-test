@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000291">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Tommaso Gar in Venedig. Rom, 11. Dezember 1869</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Biblioteca Comunale di Trento</repository>
+                        <idno>
+                            <idno>busta BCT1–2257/52</idno>
+                        </idno>
+                    </msIdentifier>
+                    <physDesc>
+<p>1 Dbl., 8°, 4 S. – 1r aoR geprägt: ROMA </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für Kopien aus der Biblioteca Marciana, darunter ein Bericht Antonio Giustinianis sowie ein Brief von Giuliano della Rovere an Papst Alexander VI. Ein Teilmanuskript des siebten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1870) hat Wilhelm Lübke mit nach Stuttgart zum Cotta-Verlag genommen. Für den zweiten Teil bittet er Gar um Auszüge aus Girolamo Priulis „Diarii“ (1494–1512) und der Korrespondenz zwischen Cesare Borgia und seinem Vater Alexander VI. Nach Lord John Emmerich Dalberg-Acton befindet sich dieser Briefwechsel in der Marciana. Die Druckbögen des zweiten Bandes von Francesco Trincheras „Codice aragonese o sia lettere regie“ (1870) hat er erhalten. </p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName>
+                    <date when="1869-12-11" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001158">Gar, Tommaso (1808–1871)</persName>
+<placeName key="G000894">Venedig</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">4.12.1869</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">11. <foreign xml:lang="deu">De<ex>cem</ex>b<ex>e</ex>r</foreign>. 1869.</dateline>
+                    <salute>Carissimo amico Gar,</salute>
+                </opener>
+<p>avendo ricevuto la vostra del 4. con acchiusavi <seg type="comment"><orig>le preziosissime copie dalla stessa vostra mano</orig><note xml:id="nu3n_wcs_ylb">Er hatte Gar um Angaben zu bzw. Kopien von einigen Dokumenten aus der Biblioteca Marciana gebeten. Siehe den Brief von Gregorovius an Gar, 1.12.1869. </note></seg>, io veramente fui toccato proprio nel cuore. Per carità, non farmi più questi eccessi di amichevole gentilezza, poichè io so benissimo, qual tesoro sia il tempo, e massimamente per un <del rendition="#s"> <gap reason="illegible" quantity="1" unit="words"/> </del> vostro pari. Or vi ringrazio mille volte e di cuore: <seg type="comment"><orig>i dispacci del <persName key="G001177">Giustinian</persName></orig><note xml:id="nqjh_ycs_ylb">Gar kopierte eine Depesche Antonio Giustinianis (1466–1524) in der Biblioteca Marciana, in welcher der venezianische Botschafter das Ableben von Papst Alexander VI. (1431–1503) auf eine natürlichen Todesursache zurückführt; dies erwähnt Gregorovius im siebten Band der „Geschichte der Stadt Rom im Mittelalter“ (1870, siehe S. 496–497 sowie S. 497, Fußnote 1, wo Gar als Kopist erwähnt wird). Siehe auch Dispacci di Antonio Giustinian. Ambasciatore veneto in Roma dal 1502 al 1505. Per la prima volta pubblicati da Pasquale Villari. 3 vol. Firenze: Sucessori Le Monnier 1876.</note></seg>, <seg type="comment"><orig>non chè quella straordinaria lettera del <persName key="G001321">Vincula</persName> (la risposta del <persName key="G000914">papa</persName></orig><note xml:id="nccf_wgk_1mb">Möglichweise handelt es sich um Briefe, in denen Giuliano della Roveres (1443–1513, ab 1503 Papst Julius II.) Rückkehr nach Rom, die Papst Alexander VI. (1431–1503) zu verhindern suchte, verhandelt wird; Della Rovere war zum Zeitpunkt Bischof von Bologna (1483–1499). Siehe „Die Geschichte der Stadt Rom im Mittelalter“, Bd. 7 (1870), S. 423f., Fußnote 1. Giuliano della Rovere (1443–1513, ab 1503 Papst Julius II.), war ab 1471 Kardinal von San Pietro in Vincoli in Rom und wurde daher auch „Il Vincola“ genannt. Innerhalb der Kurie war er ein entschiedener Gegenspieler von Rodrigo Borgia (1431–1503, ab 1492 Papst Alexander VI.), nach dessen Tod und der nur 26 Tage dauernden Amtszeit von Pius III. (1439–1503) er selbst das Pontifikat antrat. </note></seg>, la copiai a Venezia dalle carte miste, che gentilmente mi avevate messe sulla tavola) mi vennero a proposito e truoverete un giorno, ch<subst><del rendition="#ow">e</del><add place="across">’io</add></subst> <del rendition="#s">vi</del> ho potuto servirmene bene per dar rilievo a certi punti di storia. Anche per favor <pb n="1v"/>dell’<seg type="comment"><orig>insigne <persName key="G001658">Trinchera</persName> mi vennero certe carte da <placeName key="G000737">Napoli</placeName> bene a proposito</orig><note xml:id="nfdf_kjs_ylb">Francesco Trinchera (1810–1874) war seit 1861 der erste Direktor des Grande Archivio di Napoli. Für den siebten Band seiner „Geschichte der Stadt Rom im Mittelalter“ ließ er Gregorovius Druckbögen des zweiten Bandes seines „Codice aragonese o sia lettere regie, ordinamenti ed alteri atti governativi de' sovrani aragonesi in Napoli riguardanti l’ammninstrazione interna del reame e le relazioni all’estero“ einsehen, wie dieser in einer in einer Fußnote bemerkt: „Er hat mir mit großer Liberalität die Druckbogen des noch nicht veröffentlichten Bandes II zukommen lassen.“ (Bd. 7, 1870, S. 328). Der zweite Band des „Codice Aragonese“ erschien in zwei Teilen (1868/1870); Gregorovius erhielt vermutlich den 1870 veröffentlichten zweiten Teil.</note></seg>.</p>
+<p>Il <bibl sameAs="G003441">VII<hi rendition="#sup">o</hi> volume </bibl> mio termina colla morte di <persName key="G000914">Aless<ex>andro</ex> VI.</persName> Tutto <add place="intralinear">quel<del rendition="#s">lo</del> </add> che oltrepassa que<subst><del rendition="#ow">ll</del><add place="across">st</add></subst>a data non mi preme. Mi ci manca soltanto quello, che toccai, nell’ultima lettera mia : cioè il ragguaglio del <persName key="G001508">Prioli</persName> (<seg type="comment"><orig>Diario</orig><note xml:id="nsbj_mjs_ylb">Von den ehermals acht Bänden der „Diarii“ gilt der dritte Band bis heute als verschollen. Im Druck erschienen bisher lediglich drei Bände: „I Diarii di Girolamo Priuli“. Hrsg. Von Arturo Segre und Roberto Cessi. In: Rerum Italicarum Scriptores n. s. 24/3. 3 Bde. Città di Castello/Bologna 1912–1941.</note></seg> etc) <seg type="comment"><orig>sulla morte di quel Papa</orig><note xml:id="nu2b_4js_ylb">Gregorovius erwähnt Girolamo Priuli (1476–1547) im siebten Band der „Der Geschichte der Stadt Rom“ im Zusammenhang mit Gerüchten um die Todesumstände von Papst Alexander VI. (1431–1503). Priuli äußert in den „Diarii“ den Verdacht eines ‚versehentlichen‘ Gifttodes, der durch ein eigentlich für den Kardinal Hadrian bestimmtes Konfekt herbeigeführt wurde (S. 498, Fußnote 1).</note></seg>; finalmente <seg type="comment"><orig>qualche lettera del <persName key="G000983">Duca Valentino</persName> scritta a<subst><del rendition="#ow">d</del><add place="across">l</add></subst> <subst><del rendition="#ow">ello</del><add place="across">medesimo</add></subst> <subst><del rendition="#ow">lui</del><add place="intralinear">Papa</add></subst></orig><note xml:id="nrbt_pjs_ylb">Bereits in seinem Brief vom 1.12.1869 hatte er sich bei Gar nach in Venedig aufbewahrten Briefen von Cesare Borgia (1475/76–1507) an seinen Vater Papst Alexander VI. (1431–1503) erkundigt.</note></seg>. <persName key="G000906">Acton</persName>, (da pochi giorni promosso al grado del Lord e oramai pari d’<placeName key="G000599">Inghilterra</placeName>) mi dice, che quelle lettere del Valentino <add place="intralinear">gli</add> abbia truovate <pb n="2r"/>e viste appunto in uno di <seg type="comment"><orig>quei 4 volumi</orig><note xml:id="nbzx_qjs_ylb">Nicht ermittelt.</note></seg>, che si conservano nella <seg type="comment"><orig><orgName key="G000562">Marciana</orgName></orig><note xml:id="nfvg_sjs_ylb">Die Biblioteca Nazionale Marciana (auch Markusbibliothek) ist eine der größten Nationalbibliotheken Italiens in Venedig, die v.a. bedeutende Sammlungen von griechischen, lateinischen und orientalischen Handschriften vorhält. </note></seg> come collezione preziosissima d’autografi del sec<ex>olo</ex> XV.; forse per questo riguardo le contenutevi lettere non sono legate, ma sciolte: cosa di che il Acton non sa ricordarsi essattamente.</p>
+<p>Siccome io mi sono risoluto, <seg type="comment"><orig>di spedir coi bagagli della <persName key="G001460">regina del Würt<ex>temberg</ex> </persName> soltanto la prima parte del manoscr<ex>itto</ex>,</orig><note xml:id="nblx_tjs_ylb">Der Stuttgarter Kunsthistoriker Wilhelm Lübke (1826–1893), der Königin Olga von Württemberg (1822–1892) auf einer Romreise begleitete, brachte bereits Mitte Dezember einen Teil des Manuskripts des siebten Bandes der „Geschichte der Stadt Rom im Mittelalter“ zu Cotta nach Stuttgart. Siehe RT, 19.12.1869, S. 270.</note></seg> e ritenermi ancora l’ultima; io posso attendere ancora fino agli ultimi di Gennaro entrante al complemento di questo volume. Ora se <pb n="2v"/>nel corso di questo tempo vi fosse caso, di far mi ricercare, quelle lettere di <persName key="G000983">Cesare</persName>, e di<del rendition="#s">r</del> farmi far<add place="intralinear">ne</add> un estratto almeno come altrettanto del ragguaglio Prioliano intorno alla morte del Papa A<ex>lessandro</ex> VI.; io ne sarei veramente obbligato. Ma io vi scongiuro, caro Gar, di non perdervi manco un attimò di tempo, ma di darne l’incarico ad una persona qualunque a spesa mia.</p>
+<p>Acton dice, che quelle lettere del Valentino siano del più scritte in lingua Spagnuola, o per la massima parte delle frasi almeno<subst>
+                        <del rendition="#ow">.</del>
+                        <add place="intralinear">scritte cosi.</add>
+                    </subst> </p>
+                <closer>Finisco la lettera, stringendovi affettuosamente la mano,<salute><seg type="comment"><orig> <foreign xml:lang="Lat">benevolentiae vestrae semper memor</foreign></orig><note xml:id="ne2g_vjs_ylb">Lat. für: Immer eingedenk Eures Wohlwollens.</note></seg> </salute> <signed rendition="#c">F. Gregorovius</signed> </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

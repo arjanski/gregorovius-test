@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067740">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Cesare Guasti in Florenz. Rom, 7. Dezember 1873</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Biblioteca Roncioniana Prato</repository><collection>Archivio Guasti, Busta 398 </collection><idno>(4)</idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 2 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Ein Schüler von Georg Waitz hat ihn gebeten, ihm einige Regesten Heinrichs VII. zur Verfügung zu stellen. Gregorovius hatte sie vor der Veröffentlichung durch den Direktor des Florentiner Staatsarchivs Francesco Bonaini („Acta Henrici VII. Romanorum imperatoris et monumenta quaedam alia suorum temporum historiam illustrantia“, 1877) schon für den sechsten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1867) konsultieren können. Er bittet Guasti, dem jungen Forscher die Nutzung zu ermöglichen.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1873-12-07" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001218">Guasti, Cesare (1822–1889)</persName>
+<placeName key="G000671">Florenz</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">Roma, <placeName key="ediarum_lmm_slx_qlb">Via Gregoriana</placeName> n<ex>umero</ex> 13. <lb/>7. Dec<ex>em</ex>br<ex>e</ex> 1873.</dateline>
+<salute rendition="#c">Egregio e gentilissimo <seg type="comment"><orig>Signore</orig><note xml:id="nhzs_q43_zlb">Bereits im April diesen Jahres hatte Gregorovius den Assistenten im Florentiner Staatsarchiv, Cesare Guasti (1822–1889), wegen seiner Fragen zu Schriftstücken im Archiv kontaktiert; siehe den Brief von Gregorovius an Cesare Guasti vom 26.4.1873.</note></seg>,</salute>
+</opener>
+<p>un giovane compa<unclear reason="illegible" cert="high">t</unclear>riota mio di <placeName key="G067846">Göttingen</placeName> si è diretto a me, onde richiedermi della mia intercessione in favor suo, rispetto a certe sue domande. <seg type="comment"><orig>Egli</orig><note xml:id="not1_s43_zlb">Nicht ermittelt, um wen es sich hier handelt.</note></seg>, discepolo del <persName key="G067854"><seg type="comment"><orig>Waitz</orig><note xml:id="nicm_t43_zlb">Der Rechtshistoriker und Mediävist Georg Waitz (1813–1886) war ein Schüler von Leopold von Ranke (1795–1886) und arbeitete ab 1842 bei den „Monumenta Germaniae Historica“ mit. Im selben Jahr wurde er von der Uni Kiel zum Professor berufen, 1848 ging er an die Göttinger Universität, gründetet dort das Historische Seminar mit. 1875, als Präsident der „Monumenta Germaniae Historica“, kehrte er nach Berlin zurück. Er war wesentlich an der „Quellenkunde der deutschen Geschichte“ beteiligt. Gregorovius lernte ihn, „[...] einen staatlichen Mann von größerer Art, als sonst deutsche Professoren zu haben pflegen“, im November 1872 in München kennen (RT, 11.11.1873, S. 327). </note></seg>,</persName> sta scrivendo un lavoro, sulle <seg type="comment"><orig>relazioni, che correvano fra<persName key="G001259"> Arrigo VII. Imperatore</persName> e <persName key="G001038">Papa Clemente</persName>, e il <persName key="G067855">Re di Napoli</persName></orig><note xml:id="njcr_v43_zlb">Heinrich VII. (1278/79–1313), seit 1312 römisch-deutscher Kaiser, Papst Clemens V. (zw. 1250 u. 1265–1314) und Robert von Anjou (1278–1343), König von Neapel (1309–1343). Im Jahre 1310 unternahm Heinrich VII. einen Italienzug mit dem Zweck, sich die Kaiserkrone zu sichern. Nach Friedrich II. (1194–1250) war er der erste römisch-deutsche König, welcher die Kaiserkrone empfing. In seiner Position als Kaiser geriet er schnell in Auseinandersetzung mit dem papsttreuen König von Neapel und den guelfischen Kräften Italiens. Papst Clemens V. hatte zunächst mit dem Kaiser kooperiert, stellte sich nun aber an die Seite König Roberts. Die von Heinrich auf eine Befriedung der zerstrittenen Gruppen Italiens ausgerichtete Politik, hatte keinen Erfolg, weil sowohl die Ghibellinen als auch die Guelfen auf eine politische Entwicklung zu ihren Gunsten pochten.</note></seg>. <seg type="comment"><orig>Avendo pero da <bibl sameAs="G003448">quella parte della mia Storia di Roma</bibl>, che ne tratta</orig><note xml:id="nj3g_x43_zlb">Geschichte der Stadt Rom im Mittelalter. Band 6. Stuttgart: Cotta 1867, bes. S. 26–109. Zur Überlassung der Dokumente vor Drucklegung durch Bonaini: siehe ebenda, S. 32, Anm. 1.</note></seg>, l’avviso, che vi siano stampati alcuni fogli dei Regesta di codesto Imperatore per cura del <seg type="comment"><orig>benemerito <persName key="G067856">Bonaini</persName></orig><note xml:id="nwsv_y43_zlb">Francesco Bonaini (1806–1874) war Historiker und Archivar sowie Generalintendant der toskanischen Staatsarchive. Er war zudem entscheidender Vertreter der historischen Bewegung in Florenzf. Bonaini bildete zahlreiche jüngere Archivare und Paläographen aus. Gregorovius kannte ihn bereits seit September 1858, hatte ihn in Florenz über Jean Jacques Ampère (1800–1864) kennengelernt (siehe RT, 13.9.1858, S. 74). 1877 publizierte er die hier angesprochenen Regesten: Acta Henrici VII. Romanorum imperatoris et monumenta quaedam alia suorum temporum historiam illustrantia. 2 Bde. Florenz: Typis Galileianis M. Cellinii et soc.</note></seg>, fogli che questi colla massima liberalità mi aveva prestato, diversi anni fa, <seg type="comment"><orig>quel giovane premurosamente mi prega, di far sì, che anche a lui venga concesso il medesimo favor, goduto da me stesso</orig><note xml:id="nihy_1p3_zlb">Aus späteren Briefen von Gregorovius an Guasti geht hervor, dass die Anfrage positiv beantwortet wurde und der junge Göttinger Forscher die gewünschten Kopien erhielt; siehe die Briefe von Gregorovius an Cesare Guasti vom 13.12.1873 und vom 18.1.1874.</note></seg>. Non posso <pb n="1v"/>quindi far a meno, di ajutare quel giovane col dirigerle la domanda , se vi sia caso, di puoter pres<choice><sic>l</sic><corr cert="high">t</corr></choice>argli quei fogli stampati, acciochè egli se ne serva a proposito suo. Ciò fatto, egli restituerà sollecitamente il prestito. Credo, che gli originali stessi, sopra cui il Bonaini copiò il Regesta, non stanno più a Firenze, ma sì al <seg type="comment"><orig><placeName key="G067847">palazzo Gambacorta</placeName> di <placeName key="G000754">Pisa</placeName></orig><note xml:id="nv1l_cp3_zlb">Der zwischen 1370–1392 errichtete Palast der Familie Gambacorti, die dem reichen Handesladel in Pisa angehörten. Im 19. Jahrhundert hatte das Archivio di Stato seinen Sitz dort, was die Überführung der besagten Regesten von Heinrich VII. als gut möglich erscheinen lässt.</note></seg>.</p>
+<p>Ella scuserà questo lieve disturbo ovvero incommodo colla sua solità gentilezza. Pregandola alla fine, di farmi sapere con due righe quello che avrò da rispondere al giovane sopraaccenato, mi protesto colla piú sincera considerazione e stima </p>
+<closer>
+<salute rendition="#c">di lei il servitor devoto</salute>
+<signed rendition="#c">FGregorovius.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000108">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Johann Georg Freiherr Cotta von Cottendorf in Stuttgart. Rom, 20. Dezember 1858</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (23) </idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 S. – 2v alR, Blatt um 90° gedreht: <hi rendition="#aq"><hi rendition="#u" hand="">Germania</hi></hi> / <hi rendition="#aq">Monsieur</hi> / <hi rendition="#aq">Monsieur Le Baron</hi> / <hi rendition="#aq">Georg de Cotta</hi> / <hi rendition="#aq">Stuttgart</hi> – Poststempel – 1r unter der Datumzeile Eingangs- und Beantwortungsvermerk: 29 / 29</p>
+<p>Empfangsbestätigung seines Honoras, datiert 10. Dezember 1858 (DLA Marbach, Cotta-Archiv, Cotta-Briefe, 23a)</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> Karton 59, Mappe 347 (nach D) und Karton 55, Mappe 336–337 (Ergänzungen nach H)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 230–231 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Weitere Druckfahnen des ersten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1859) sind eingetroffen. Anbei sendet er die Empfangsbestätigung für sein Honorar. Er dankt für die Ausstattung und die persönliche Teilnahme des Verlegers. Sein Bruder Julius wird den Eingang des an ihn gesandten Betrages bestätigt haben. Die Abzüge seines Gedichts „Hermus. Eine Nacht auf dem Mittelmeer“ sind eingegangen. Die „Revue Germanique“, die „Revue des deux mondes“ und das Florentiner „Archivio Storico“ wollen nach Erscheinen des ersrten Bandes seiner „Geschichte der Stadt Rom“ Rezensionen bringen. Bei Michel Lévy in Paris erscheint die französische Übersetzung seiner „Grabmäler der Römischen Päpste“ (1859).</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">Further galley proofs of the first volume of his „Geschichte der Stadt Rom im Mittelalter“ (1859) have arrived. He has enclosed the confirmation that he has received his fee. He is grateful for the layout and the publisher’s personal participation. His brother Julius will have confirmed that he received the amount sent to him. He received the prints of his poem „Hermus. Eine Nacht auf dem Mittelmeer“. The „Revue Germanique“, the „Revue des deux mondes“ and the Florentine „Archivio Storico“ want to print reviews after the publication of the „Geschichte der Stadt Rom im Mittelalter“. Michel Lévy in Paris will publish the French translation of his „Grabmäler der Päpste“ (1859). </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1858-12-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001055">Cotta von Cottendorf, Johann Georg
+                        (1796–1863)</persName>
+                    <placeName key="G000879">Stuttgart</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev">10. Dezember 1858</ref>
+<ref type="next">29. Dezember 1858</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi> 20. <hi rendition="#aq">D<ex>e</ex>c<ex>em</ex>b<ex>e</ex>r</hi> 1858.</dateline>
+                    <salute rendition="#c">Hochverehrter Herr Baron,</salute>
+                </opener>
+                <p>Ihr freundliches Schreiben vom 10. d<ex>iesen</ex> M<ex>onats</ex> habe ich heute Abend erhalten, so wie zugleicher Zeit <seg type="comment"><orig>5 Aushängebogen der <bibl sameAs="G003485">Geschichte der Stadt</bibl></orig><note xml:id="nkbr_23b_vlb">Von dem im Druck befindlichen Band 1 von Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ (1859).</note></seg>, u<ex>nd</ex> die <bibl sameAs="G003872"><seg type="comment"><orig>Nummer des Morgenblattes mit dem Gedicht Hermus</orig><note xml:id="nnyk_g3b_vlb">Im Brief vom <ref target="G000107">1.12.1858</ref> hatte Gregorovius um Zusendung zweier Exemplare seines im „Morgenblatt für gebildete Leser“ erschienen Gedichts „Hermus. Eine Nacht auf dem Mittelmeer“ (Nr. 44. 31.10.1858) gebeten.</note></seg></bibl>. Ich eile, Ihnen dies mit Dank anzuzeigen. Wenn mein letztes Schreiben um einige Tage sich verspätete, so bitte ich dringend, mir das zu Gute zu halten; <seg type="comment"><orig>ich arbeite schreibend täglich 10 Stunden</orig><note xml:id="nbnp_33b_vlb">Ende des Jahres dokumentiert Gregorovius, dass er mit der „Hälfte des dritten Bandes fertig“ ist (RT, 31.12.1858, S. 77).</note></seg>, habe eine sehr ausgedehnte Corrispondenz, u<ex>nd</ex> muß außerdem noch gesellschaftlichen Forderungen genügen, daher kommt es, daß ich bisweilen müde werde. An meinem Willen u<ex>nd</ex> Denken liegt es wahrlich nicht.</p>
+                <p>Indem ich die wahrhaft schöne u<ex>nd</ex> liberale Ausstattung unseres Werkes nun in den ersten Bogen vor mir sehe, dünkt es mir, daß ich nie etwas so Vollkommnes von typographischer Ausrüstung gesehn habe, u<ex>nd</ex> ich würde Ihnen u<ex>nd</ex> der <orgName key="G000523">J. G. Cottaschen Buchhandlung</orgName> in vielen Worten frohen Dank sagen, wenn viele Worte zu machen, meine Natur wäre. Wenn ich aber dies in wenigen thue, so bitte ich Sie u<ex>nd</ex> Ihre geehrte Buchhandlung, u<ex>nd</ex> in allen Stücken, überzeugt zu sein, wie sehr ich mich Ihnen verpflichtet fühle. Dies wißen nicht Sie allein, sondern alle u<ex>nd</ex> so viele, die an dem Unternehmen Anteil nehmen, u<ex>nd</ex> denen ich davon rede u<ex>nd</ex> schreibe. Sie haben in wahrhaft edler Weise sich dieses Werkes angenommen, u<ex>nd</ex> mehr daran gethan, als wahrscheinlich von irgend einem Verlag außer dem Ihrigen geschehen wäre.</p>
+                <p><seg type="comment"><orig>Meine Ansicht über das Herauskommen der Bände</orig><note xml:id="ncn4_j3b_vlb">Im Brief vom <ref target="G000108">20.12.1858</ref> hatte Gregorovius geschrieben, dass es ihm lieb wäre, wenn die ersten beiden Bände seiner „Geschichte der Stadt Rom im Mittelalter“ (1859) gleichzeitig ausgegeben würden.</note></seg> ist nichts als eine Äußerung, die <add place="superlinear">von</add> dem Autor wie etwa ein Wunsch <pb n="1v"/>ausgesprochen wird, u<ex>nd</ex> <seg type="comment"><orig>was von Ihrer Seite darüber beschloßen wird ist das alleinig Richtige, da Sie die Verhältniße der Zeit allein zu beurteilen im Stande sind</orig><note xml:id="nkx2_m3b_vlb">Band 1 und 2 seiner „Geschichte der Stadt Rom im Mittelalter“ wurden 1859 im Abstand von einem halben Jahr ausgegeben: der Ankündigungstext zum Erscheinen von Bd. 1 erschien erstmals in: Beilage zu Nr. 119 der AZ. Stuttgart: Cotta 29.4.1859 – der Ankündigungstext zum Erscheinen von Bd. 2 erschien erstmals in: AZ. Nr. 263. Stuttgart: Cotta 20.9.1859.</note></seg>. Darüber habe ich keine Sorgen, wie jetzt auch nicht über die Correkturbogen; denn, <seg type="comment"><orig>als sie einmal 8 Tage u<ex>nd</ex> mehr ausblieben, fürchtete ich, sie wären unterwegs auf der Post liegen geblieben</orig><note xml:id="nh2n_n3b_vlb">Siehe den Brief von Gregorovius an Cotta vom <ref target="G000107">1.12.1858</ref>.</note></seg>. Nun sehe ich aber, daß dies nicht der Fall war, u<ex>nd</ex> werde völlig ruhig sein, wenn sie eine Pause machen. Ich habe am 18. d<ex>iesen</ex> M<ex>onats</ex> Bogen XV remittirt.</p>
+                <p>Die <seg type="comment"><orig><orgName key="G004661">Revue <hi rendition="#aq">Germanique</hi></orgName> in <placeName key="G000749"><hi rendition="#aq">Paris</hi></placeName> (<persName key="G004741"><hi rendition="#aq">Michel Lévy</hi> </persName>druckt eben die <bibl corresp="G004428">französische Edition meiner Grabmäler der Päpste</bibl>) wird gleich nach Ausgabe des ersten Bandes denselben des Längeren <bibl sameAs="G002618">besprechen</bibl></orig><note xml:id="nkkg_q3b_vlb">Die mit „T. D.“ gezeichnete Besprechung von Band 1 seiner „Geschichte der Stadt Rom im Mittelalter“ erschien in: Revue Germanique. Hrsg. von Charles Dollfus (1827–1876) und August Nefftzer (1820–1876). Bd. 6. Paris 30.4.1859. S. 457–458.</note></seg>, ebenso die <seg type="comment"><hi rendition="#aq"><orgName key="ed_dff_kyv_gmb"><orig>Revue des deux mondes</orig></orgName></hi><note xml:id="nbyn_r3b_vlb">In der Pariser „Revue des deux mondes“ erschien keine Rezension von der „Geschichte der Stadt Rom im Mittelalter“.</note></seg>, u<ex>nd</ex> das <seg type="comment"><orig><orgName key="G004667"><hi rendition="#aq">Archivio Storico</hi></orgName> von <placeName key="G000671"><hi rendition="#aq">Florenz</hi></placeName>, wo eine italienische Edition gemacht werden soll</orig><note xml:id="no33_t3b_vlb">Im Florentiner „Archivio Storico Italiano“ erschien keine Rezension von Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ und auch eine italienische Übersetzung kam dort nicht zustande.</note></seg>. </p>
+                <p><seg type="comment"><orig>Mein Bruder wird Ihnen die Gutschrift für 120 Thaler ausgefertigt haben</orig><note xml:id="nzjl_v3b_vlb">Ein Teilbetrag seines Honorars sollte nach Gregorovius’ Brief an Cotta vom <ref target="G000109">6.11.1858</ref> an seinen Bruder Julius Gregorovius nach Danzig gehen. Der gewünschte Betrag war am 18. November 1858 angewiesen worden (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VI, 807).</note></seg>, u<ex>nd</ex> ich <seg type="comment"><orig>lege die für den völligen Betrag des Honorars pro Band I hiermit bei</orig><note xml:id="nxty_x3b_vlb">Die auf den 10. Dezember 1858 datierte Empfangbestätigung von Gregorovius’ Honorar für den 1. Band seiner „Geschichte der Stadt Rom im Mittelalter“ über 600 Thaler (DLA Marbach, Cotta-Archiv, Cotta-Briefe, 23a).</note></seg>.</p>
+                <p>Laßen Sie mich, verehrter Herr Baron, an der Neige dieses Jahres, welches in dem mit der J. G. Cottaschen Buchhandlung, durch Ihre so liberale Vermittlung abgeschloßenen Vertrag, für mich das wichtigste u<ex>nd</ex> beste meines italienischen Lebens geworden ist, <seg type="comment"><orig>Ihnen u<ex>nd</ex> Ihrer verehrten <persName key="G001053 ed_oz4_2zy_tjb ed_mtb_bzy_tjb ed_otk_qzy_tjb ed_gmy_fzy_tjb">Familie</persName></orig><note xml:id="nyjx_bjb_vlb">Johann Georg Freiherr Cotta von Cottendorf (1796–1863) hatte die Töchter Elisabeth (1823–1900), Caroline (1827–1891), Marie (1828–1911) und die Söhne Georg Astolph (1833–1876) und Carl (1835–1888), der den Verlag fortführte. Seine Frau Johanne Sophie, geb. Freiin von Adlerflycht (1801–1838) und die Töchter Sophie (1822–1841) und Ida (1823–1846) waren bereits verstorben.</note></seg> aus aufrichtigem Herzen Glück u<ex>nd</ex> Segen für die Zukunft wünschen, mir selbst aber die Fortdauer Ihres mich belebenden u<ex>nd</ex> ehrenden Wolwollens.</p>
+                <closer>
+                    <salute xml:id="s1" next="#s2" rendition="#c">Mit großer Hochachtung, Herr
+                        Baron,</salute>
+                    <salute xml:id="s2" prev="#s1" rendition="#right">Ihr immer verpflichteter u<ex>nd</ex> ergebener</salute>
+                    <signed rendition="#right"><hi rendition="#aq">Ferdin. Gregorovius</hi>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_vj1_2zy_xkb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Contessa Ersilia Caetani Lovatelli in Castellamare di Stabia. München, 26. August 1877</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"> <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno>Karton 59, Mappe 348 (nach D)</idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"><bibl type="print">Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli. Hrsg. von Sigmund Münz. Berlin: Paetel 1896. S. 88–89 (gekürzt) </bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er wird sie eines Tages im Geiste in Castellamare und Sorrent besuchen. Er war in Landshut, dem Geburtsort des Staufers Konradin. Seit seiner Rückkehr aus Rom Anfang Juni 1877 beschäftigt er sich mit seiner Studie zum Dreißigjährigen Krieg. Der Artikel von Oreste Tommasini, „Della storia medievale della città di Roma e de’più recenti raccontatori di essa“, im neu gegründeten „Archivio della Società Romana di Storia Patria“ empört ihn. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName>
+                    <date when="1877-08-26" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001011">Caetani Lovatelli, Ersilia contessa (1840-1925)</persName>
+<placeName key="G000656">Castellammare di Stabia</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="88"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right"> München, 26. August 1877. <lb/><seg type="comment"><orig><foreign xml:lang="Lat">Melius latebam procul ab invidiae malis, <lb/><foreign xml:lang="Lat">Remotus inter Corsici rupes maris</foreign>. <lb/></foreign><persName key="G001598">Seneca</persName>.</orig><note xml:id="nts4_mjf_fmb">Lat. für: Besser war ich verborgen fern von den Übeln des Neides, in Zurückgezogenheit unter den Felsen des korsischen Meeres. Zit. aus dem Seneca zugeschriebenen Drama „Octavia“, Vers 381–384.</note></seg></dateline>
+</opener>
+<p rendition="#right"> </p>
+<p><gap reason="lost" unit="chars" quantity="1"/>Vielen Dank für Ihren liebenswürdigen Brief, der mir als Sonnenstrahl <seg type="comment"><orig>in den dichten Traunsteiner Regen</orig><note xml:id="nzkh_kw3_1mb">Er hatte sich aufgrund der Sommerhitze vom 22. Juli bis zum 12. August in Traunstein aufgehalten (siehe RT, Sommer und Winter 1877/78, S. 379).</note></seg> fiel. Ich war damals ganz durchnäßt, <seg type="comment"><orig><foreign xml:lang="ita">tutto zuppo</foreign>,</orig><note xml:id="nuzc_lw3_1mb">Ital. für: klatschnass.</note></seg> wie man in <placeName key="G000690">Italien</placeName> sagt, und fast schien ich mir gleich nach der Lektüre Ihres Schreibens getrocknet.<gap reason="lost" unit="chars" quantity="1"/>Ich freue mich zu hören, daß Sie sich von neuem in jenem irdischen Paradies niedergelassen haben, wie es die Küste von <seg type="comment"><orig><placeName key="G000656">Castellamare</placeName> </orig><note xml:id="nuhs_mw3_1mb">Die Familie der Gräfin verbrachte regelmäßig ihre Sommer in Hafenstadt am Golf von Neapel; siehe den Brief von Gregorovius an Ersilia Caetani Lovatelli vom 19.7.1875.</note></seg>und <seg type="comment"><orig><placeName key="G000873">Sorrent</placeName></orig><note xml:id="nb2z_nw3_1mb">Stadt auf der gleichnamigen Halbinsel am Gof von Neapel.</note></seg> ist. Letzterer Ort ist so heiter, daß er mit mehr Recht einem <seg type="comment"><orig><persName key="ed_nbp_yrd_rlb">Ariosto</persName></orig><note xml:id="nwbx_4w3_1mb">Der Humanist Ludovico Ariosto (1474–1533) war mit seinem Versepos „Orlando furioso“ (1516–1532) weltberühmt geworden. Siehe dazu auch Gregorovius’ „Lucrezia Borgia“. Band 1. Stuttgart: Cotta 1874, S. 306.</note></seg> als dem verdüsterten Geiste <seg type="comment"><orig><persName key="G001634">Tasso</persName>’s </orig><note xml:id="nazw_pw3_1mb">Der aus Sorrent stammende Dichter Torquato Tasso (1544–1595) veröffentlichte 1574 sein Epos „La Gerusalemme liberata“, das von einem erfundenen Kampf zwischen Christen und Muslimen im Ersten Kreuzzug berichtet. Siehe dazu auch Gregorovius’ „Lucrezia Borgia“. Band 1. Stuttgart: Cotta 1874, S. 328. Gregorovius gedachte gar Tassos Todestag (siehe RT, 30.4.1856, S. 61).</note></seg>Farbe und poetische Gefühle hätte leihen sollen. Wie wäre ich froh, dort eines Tages auftauchen zu können, um die balsamische Luft jener Hügel in Ihrer Gesellschaft zu genießen. Ich werde gewiß <seg type="comment"><orig>dort eines Tages erscheinen</orig><note xml:id="nuqd_rw3_1mb">Sowohl in Castellamare als auch in Sorrent war Gregorovius in früheren Jahren merhmals gewesen. Sorrent hatte er zuletzt im Mai 1874 besucht (siehe RT, Süditalienische Reise vom 14. Mai bis 7. Juni 1874, S. 342), in Castellamare befand er sich einige Tage im April 1876 (siehe RT, 20.5.1876, S. 367). Spätere Aufenthalte sind nicht verzeichnet.</note></seg>, zwar nicht im Fleische, sondern nur im Geiste, und gewiß weniger traurig als <seg type="comment"><orig><persName key="ed_xlb_rsd_rlb">Shakespeare’s</persName> <persName key="ed_snd_zsd_rlb">Banquo</persName></orig><note xml:id="npd2_sw3_1mb">Hauptfigur und Heerführer in Shakespeare’s Drama „Macbeth“ (um 1606).</note></seg><gap reason="lost" unit="chars" quantity="1"/> </p>
+<p>Vor wenigen Tagen waren wir <seg type="comment"><orig>in <placeName key="ed_qd3_2td_rlb">Landshut</placeName>, das einstmals Sitz eines Hofes der Herzoge von Bayern war</orig><note xml:id="nlg5_tw3_1mb">Das von 1353 bis 1503 bestehende Teilherzogtum Bayern-Landshut, das nach dem Tod von Kaiser Ludwig der Bayer (1282/86–1347) entstanden war.</note></seg>. Es ist eine ideal gothische Stadt mit mehreren Kirchen, die Muster dieses Styls sind, und einer alten <placeName key="ediarum_tgw_rtd_rlb">Burg</placeName>, wo <seg type="comment"><orig>der arme <persName key="ed_htj_4l4_qlb">Konradin von Schwaben</persName></orig><note xml:id="nun1_vw3_1mb">Der Staufer Konradin († 1268) kam 1252 auf der Burg Wolfstein bei Landshut auf die Welt.</note></seg> geboren ward. Ich war von jenem Orte dermaßen bezaubert, daß ich ein anderes Mal wiederkehren werde. So bin ich im Begriffe, mich von neuem in mein <placeName key="G000664">Vaterland</placeName> <pb n="89"/>zu verlieben. Das Wort <seg type="comment"><orig>„Alte Liebe rostet nicht“</orig><note xml:id="nqrz_vw3_1mb">Möglicherwiese aus dem Lateinischen „Vetus amor non sentit rubiginem“ oder aus dem Italienischen „Amor vecchio non fa ruggine“.</note></seg> bewahrheitet sich also auch bei mir.</p>
+<p>Ich will Ihnen auch sagen, daß ich daran bin, <seg type="comment"><orig>eine historische Arbeit zu unternehmen, die ein ganz <bibl sameAs="G003523">deutsches Sujet</bibl> behandelt</orig><note xml:id="nfzk_xw3_1mb">Dem Tagebuch zufolge befasste sich Gregorovius seit seiner Rückkehr aus Rom Anfang Juni mit dem 30jährigen Krieg (siehe RT, Sommer und Winter 1877/78, S. 379). Die Publikation dazu erschien zwei Jahre später: Urban VIII. im Widerspruch zu Spanien und dem Kaiser. Eine Episode des dreißigjährigen Kriegs. Stuttgart: Cotta 1879.</note></seg>. Darum will ich nicht aufhören, <seg type="comment"><orig>ein ergebener Sohn Roms zu bleiben</orig><note xml:id="nr5p_yw3_1mb">Seit März 1876 war Gregorovius Ehrenbürger Roms; siehe dazu den Brief von Gregorovius an Pietro Venturi vom 17.3.1876.</note></seg>. Andererseits freilich hätte ich einigen Grund, mich über die Art zu beklagen, <seg type="comment"><orig>wie ich neuerdings von einigen Römern behandelt worden bin</orig><note xml:id="nitx_zw3_1mb">Oreste Tommasini hatte für das neu gegründete „Archivio della Società Romana di Storia Patria“ einen einleitenden Text geliefert, in welchem er auch Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ verunglimpfte: Tommasini, Oreste: Della storia medievale della città di Roma e de’più recenti raccontatori di essa. In: Archivio della Società Romana di Storia Patria. Bd. 1. Rom: Società 1878. S. 1–46. Laut Tagebuch blieben die negativen Reaktionen durch „alle wohldenkenden Italiener“ auf diesen Affront nicht aus (siehe RT, Sommer und Winter 1877/78, S. 379–380) und Gregorovius wandte sich diesbezüglich in einem Schreiben an den Autor selbst sowie in einem weiteren Schreiben an den römischen Bürgermeister, da die Zeitschrift unter städtischem Schutz stand; siehe die Briefe von Gregorovius an Oreste Tommasini und Pietro Venturi vom 23.9.1877.</note></seg>. Doch werde ich mit <persName key="G000916">Dante</persName> sagen: <seg type="comment"><orig><foreign xml:lang="ita">guarda e passa</foreign>,</orig><note xml:id="nt5t_1x3_1mb">Ital. für: schau und geh weiter. Dante verwendet die längst berühmt und Umgangssprache gewordene Phrase „Non ragioniam di lor, ma guarda e passa“ im 3. Gesang seines „Inferno“.</note></seg> und auch zuweilen mit <persName key="G001598">Seneca</persName> ob des gewöhnlichen Looses aller jener seufzen, die sich bemühen, Gutes zu thun.</p>
+</div>
+        </body>
+    </text>
+</TEI>

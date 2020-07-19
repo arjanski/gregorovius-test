@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000309">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Salvator Viale an Ferdinand Gregorovius in Rom. Rom, 15. Juni 1860</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="restricted"><licence target="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International (CC BY 4.0) </licence></availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>BSB München</repository><collection>NL Gregorovius</collection><idno>Gregoroviusiana 21</idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 1 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> Karton 86, Mappe 6 (Alfred Löckle nach H) </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er ist in Rom, weil sein Bruder Michele Viale Prelà verstorben ist. Er bittet Gregorovius, ihn zu besuchen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He is in Rome  because of the death of his brother Michele Viale Prelà, who was the archbishop of Bologna.Viale asks Gregorovius to visit him.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001678">Viale, Salvatore (1787–1861)</persName>
+<placeName key="G000763">Rom</placeName><date when="1860-06-15" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener> <lb/>Stimatissimo Sig<ex>no</ex>r<ex>e</ex> Gregorovius <lb/><lb/> <dateline rendition="#right">Roma Piazza di S. Pantaleo n<hi rendition="#sup"><hi rendition="#u" hand="">o</hi></hi>. 49, 2. piano. <lb/>15. Giugno </dateline></opener>
+                <p>In conseguenza d’una gran sventura Domestica, cioè <seg type="comment"><orig>il passaggio da questa vita di <persName key="G001679">mio fratello</persName></orig><note xml:id="netl_jwj_vlb">Sein Bruder, Michele Viale Prelà (Bastia 1798 - Bologna 1860), war am 15. Mai 1860 verstorben. (Siehe im RT den Eintrag zum 20. Mai 1860, S. 100.) - Michele Viale Prelà studierte am Seminario Romano und am Collegio Romano, wo er in Theologie und an der Università La Sapienza in Philosophie und in Jurisprudenz promoviert wurde. 1823 erhielt er die Priesterweihe, zwischen 1828 und 1836 war er Assistent des päpstlichen Nuntius in der Schweiz und trat dann in die Dienste des Kardinals Luigi Lambruschini (Sestri Levante 1776 - Rom 1854) im Sekretariat des Kirchenstaats ein. Ab 1838 war er Nuntius in München und wurde 1841 in Rom zum Bischof ernannt. Ab 1845 war er als Nuntius am kaiserlichen Hof in Wien und wurde 1852 /1853 von Papst Pius IX. zum Kardinal erhoben. Seine Titelkirche in Rom war Santi Andrea e Gregorio al Monte Celio. 1855 wurde er schließlich zum Erzbischof von Bologna ernannt. Viale Prelà wurde für seine Missionskampagnen in Bologna bekannt, sowie in einem Aufsehen erregenden Fall einer Taufe eines jüdischen Knaben (Edgardo Mortara). </note></seg> già arcivescovo di <placeName key="G000638">Bologna</placeName> e Cardinale, io son venuto in questa città, ove resterò per molti giorni. Siccome io ignoro l’abitazione di lei, e non sono in grado per la detta circostanza e per l’età di far visite, perciò vorrei ch’Ella, quando passa in questa parte di città sopra designata, si compiacesse di fare un passo a casa mia dov’io sono per l’ordinario dalle undici della mattina fino alle 5 ½ pomeridiane. Col desiderio di rivederla mi dico con distintissima stima e devozione</p>
+                <closer>
+<salute rendition="#right">affezto Suo</salute>
+<signed rendition="#right">Salvatore Viale</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

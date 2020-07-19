@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000241">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an die J. G. Cotta’sche Buchhandlung in Stuttgart. Rom, 30. Oktober 1866</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (69)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ½ S. – 1r unter der Datumszeile: 6 Ead – 2v aoR Eingangs- und Beantwortungsvermerk: 1866. / <hi rendition="#aq">Rom</hi> 30. <hi rendition="#aq">October</hi> / <hi rendition="#aq">D<hi rendition="#sup"><hi rendition="#u" hand="#addressee">r</hi></hi> Ferd. Gregorovius</hi> / <hi rendition="#aq">R</hi> 6 <hi rendition="#aq">Novbr</hi>/ <hi rendition="#aq">R</hi> Fead</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 57, Mappe 340–342 (nach D) und Karton 55, Mappe 336–337 (Ergänzungen nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 264</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er hat den sechsten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1867) abgeschlossen. Die erste Hälfte des Manuskripts will er Ende November übersenden. Wegen der Fülle des Materials hat er von der Erlaubnis Gebrauch machen müssen, den Stoff auf sieben Bände aufzuteilen. Das Manuskript des siebten Bandes (1870) hofft er in zwei Jahren liefern zu können. In Venedig bei Antonelli und bei Baradonna in Turin ist deren erster Band in italienischer Übersetzung erschienen (1866).</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He completed the sixth volume of his „Geschichte der Stadt Rom im Mittelalter“ (1867). He intends to send the first half of the manuscript at the end of November. Because of the abundance of material, he had to make use of the permission to divide the material into seven volumes. He hopes to deliver the manuscript of the seventh volume (1870) in two years. The Italian translation of the first volume (1866) was published with Antonelli in Venice and with Baradonna in Turin. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1866-10-30" cert="high"/>
+</correspAction>
+                <correspAction type="received"><orgName key="G000523">J. G. Cotta'sche Buchhandlung</orgName>
+<placeName key="G000879">Stuttgart</placeName>
+</correspAction>
+<correspContext>
+<ref type="next">9. November 1866 (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VI, 412)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi>, <hi rendition="#aq">Via Gregoriana</hi> <hi rendition="#aq"><foreign xml:lang="ita">n<ex>umero</ex></foreign></hi> 13 <lb/>30. <hi rendition="#aq">October</hi> 66.</dateline>
+                    <salute rendition="#c">Hochgeehrte Herren,</salute>
+                </opener>
+<p>ich erlaube mir Ihnen anzuzeigen, daß der <bibl sameAs="G003448">VI. Band der Geschichte der Stadt Rom im Mittelalter</bibl> abgeschloßen ist. Derselbe umfaßt die Epoche von 1305–1420, also die Periode <placeName key="G000795"><seg type="comment"><orig>Avignons</orig><note xml:id="nfln_cg3_gmb">Avignon war zwischen 1334 und 1430 Residenz verschiedener Päpste und Gegenpäpste, beginnened mit Benedikt XII. (um 1285–1342).</note></seg></placeName>, <persName key="G001547"><seg type="comment"><orig>Cola’s di Rienzo</orig><note xml:id="npxj_dg3_gmb">Der römische Politiker und Volkstribun Cola di Rienzo (1313–1354).</note></seg></persName>, <seg type="comment"><orig>das Schisma, die Concile von <placeName key="G000754">Pisa</placeName> u<ex>nd</ex> <placeName key="G000597">Constanz</placeName></orig><note xml:id="nayj_2g3_gmb">Das Konzil von Konstanz (1414–1418) wurde vom Gegenpapst Johannes XXIII. (1370–1419) einberufen. Es sollte das seit 1378 andauernde Große Abendländische Schisma beenden und damit die Einheit der Kirche wiederherstellen.</note></seg>, bis zur <seg type="comment"><orig>Rückkehr <persName key="G001040">Martins V Colonna</persName> in die Stadt</orig><note xml:id="nbvs_fg3_gmb">Dem Einzug des Colonna-Papstes Martin V. (1368–1431) am 29. September 1420 in Rom.</note></seg>. Sie sehen, daß ich von Ihrer mir erteilten <seg type="comment"><orig>Erlaubniß, das ganze Werk mit dem <bibl sameAs="G003441">7. Bande</bibl> zu beschließen, habe Gebrauch machen müßen</orig><note xml:id="njr4_gg3_gmb">Siehe die Briefe von Gregorovius an Louis Roth, <ref target="G000178">24.6.1863</ref> und <ref target="G000183">8.8.1863</ref>. </note></seg>, denn dies verlangte unabweisbar die Fülle des kaum zu bewältigenden Materials, und die ebenso gebieterische Rücksicht auf die Gleichförmigkeit <pb n="1v"/>des Werks in seinen Teilen. Ich werde, wenn nicht unvorhersehbare Hinderniße eintreten, im Stande sein, diesen <seg type="comment"><orig>letzten Band nach 2 Jahren einzuliefern</orig><note xml:id="ns2l_jg3_gmb">Das gesamte Werk umfasste schließlich acht Bände, die 1870 und 1872 erschienen.</note></seg>, so daß das Ganze dann vollendet sein wird. Es bedurfte bei so vielen Schwierigkeiten so vieler Natur, in Wahrheit des äußersten Aufwandes meiner Kräfte u<ex>nd</ex> meines Willens, um so gleichmäßig fortzuschreiten. Nun aber sehne ich mich selbst nach Ruhe und Erholung.</p>
+<p>Wenn es Ihnen, hochgeehrte Herren, recht ist, so bin ich bereit die erste Hälfte des VI. Bandes Ihnen gegen das Ende Novembers zum Druck einzusenden. Die <seg type="comment"><orig>Nadelflinten sind jetzt zur Ruhe <pb n="2r"/>gekommen</orig><note xml:id="npwb_kg3_gmb">Der preußisch-österreichische Krieg von 1866 zwischen dem Deutschen Bund unter Führung Österreichs und Preußen sowie Italien war, mit der Kapitulation Österreichs nach der Schlacht bei Königgrätz in Böhmen, am 3. Juli 1866 zuende gegangen. Schleswig-Holstein wurde Preußen angeschlossen und Italien erhielt die Region Venetien.</note></seg>, und wissenschaftliche Arbeiten dürften wieder Gehör finden.</p>
+<p>Es ist mittlerweile die <seg type="comment"><orig><bibl sameAs="G004366">italienische Übersetzung des Werks (I. Band) bei <hi rendition="#aq">Antonelli</hi> in <hi rendition="#aq">Venedig</hi> und <hi rendition="#aq">Baradonna</hi>, in <hi rendition="#aq">Turin</hi></bibl>, ausgegeben worden</orig><note xml:id="nwsq_ng3_gmb">Storia della città di Roma nel Medio Evo, dal secolo V al XVI. Prima versione italiana di Renato Manzato. Venedig, Turin: Guiseppe Antonelli 1866 (Nuova Collezione di Opere Storiche ; Vol. VIII). Die Übersetzung blieb unvollendet, nur Bd. 1–2 wurde übersetzt; Gregorovius verbot die Fortführung wegen der mangelhaften Übersetzung.</note></seg>.</p>
+                <closer>
+<salute xml:id="s1" next="#s2">Mit großer Hochachtung empfiehlt sich</salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">Ihr ganz ergebenster</salute>
+<signed rendition="#right"><hi rendition="#aq">Ferdinand Gregorovius</hi></signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

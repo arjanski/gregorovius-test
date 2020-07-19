@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000249">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Malwida von Meysenbug in Florenz. Rom, 9. oder 10. Juni 1867</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><collection/><idno>116/107 (12)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ½ S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 5 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 86, Mappe 2 (nach D1)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Berta Schleicher: Ferdinand Gregorovius und Malwida von Meysenbug. Unveröffentlichte Briefe. In: Der Türmer. Monatsschrift für Gemüt und Geist. Jg. 25. H. 5. Stuttgart 1923. S. 315 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er erkundigt sich, wie es ihr und Natalie und Olga Herzen ergeht. Der sechste Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1867) ist im Druck. Für die Fertigstellung des siebten und letzten (Bd. 7–8, 1870–1872) muss er auch nach Florenz reisen – was ihm seit der Erkrankung und dem Tod von Pauline Hillmann im Jahre 1865 zuwider ist. Im Sommer will er nach Deutschland, weiß aber noch nichts Genaues, weil das auch von seinem Bruder Julius abhängt. Die Neugier und Affektiertheit von Wilhelmine von Stein ist ihm mittlerweile zuwider. Karl Lindemann-Frommel ist zu seinem Sohn Manfred nach Karlsruhe gereist, seine Frau Auguste blieb in Rom zurück. Er hat inzwischen gut Englisch gelernt. Von Frau Malthues möchte er eine Fotografie und schickt die seine.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date from="1867-06-09" to="1867-06-10" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001418">Meysenbug, Malwida von (1816–1903)</persName>
+<placeName key="G000671">Florenz</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">Rom, Pfingsten 67.</dateline>
+</opener>
+<p>Diese Zeilen sind nur ein freundlicher Gruß und eine Anfrage, wie es Ihnen, u<ex>nd</ex> <seg type="comment"><orig><persName key="G001267">Fr<ex>äu</ex>l<ex>ein</ex> Natalie</persName> u<ex>nd</ex> <hi rendition="#aq"><persName key="G001268">Olga</persName></hi></orig><note xml:id="ntjd_kq5_gmb">Mit ihren Pflegetöchtern Olga (1850–1953) und Natalie Herzen (1844–1936) hielt sich Malwida von Meysenbug in Florenz auf.</note></seg> ergeht. Ich bin in Wahrheit unfähig, Briefe zu schreiben. Die Hitze ist hier fast so groß, wie in Florenz, u<ex>nd</ex> ich bin sehr überhäuft.</p>
+<p>Sie werden gehört haben, daß auch die arme <seg type="comment"><orig><persName key="ed_m22_3dg_dlb">Emma</persName> ihrer Schwester nachgeeilt ist</orig><note xml:id="nikw_mq5_gmb">Die Pfarrersgattin Emma Ballnus, geb. Hillmann (1815–1866/1867), die Schwester von Gregorovius’ am 3. April 1866 in Florenz verstorbenen Freundin Pauline Hillmann (1822–1866).</note></seg>, in das stille Land. Sie ist nun begraben in dem <seg type="comment"><orig>Walde des Guts fast bei <placeName key="G000704">Polen</placeName>, wo die <persName key="ed_yf2_yhg_dlb"><persName key="ed_pfw_b3g_dlb">Eltern</persName></persName> ruhen</orig><note xml:id="nrnw_nq5_gmb">Auf ihrem Familiengut Nordenthal (heute Nory) in Ermland-Masuren waren auch die Eltern Abraham (1790-1794) und Henriette Hillmann, geb. Klein (1793–1864), begraben. Hier wohnte ihr einzig verbliebener Sohn Adolf Hillmann (1815–1880) mit seiner Frau Lina Marie, geb. von Szczepanski (1814–1877), mit ihren vier Kindern.</note></seg>. Ich gönne ihr diese Ruhe wol.</p>
+<p>Für mich ist nur überall Verlust, und immer größere Einsamkeit.</p>
+<p>Mein <bibl sameAs="G003448">VI. Band</bibl> wird nächstens <pb n="1v"/><choice><sic>nächstens</sic><corr type="deleted"/></choice> fertig gedruckt. Dann folgt noch der <bibl corresp="G003434 G003441">Schlußband</bibl>, der noch 2 volle Jahre in Anspruch nimmt. Ich werde dafür auch nach Florenz kommen müßen, doch weiß ich nicht wann, u<ex>nd</ex> <seg type="comment"><orig>Florenz ist mir seit dem schrecklichen Sommer 1865 tief verhaßt</orig><note xml:id="ndxn_pq5_gmb">Gregorovius’ enge Freundin Pauline Hillmann (1822–1866) war Mitte 1865 in Florenz schwer erkrankt (siehe RT, 24.6. und 16.7.1865). Er war am 25 Juni bis 22. Juli in Florenz, als sich ihr Gesundheitszustand gebessert hatte. Am 3. April 1866 war sie in Florenz gestorben.</note></seg>. </p>
+<p>Was werden Sie in diesem Sommer thun? Ich gehe wol nach <placeName key="G000664">Deutschland</placeName> hinüber, doch weiß ich noch nicht wann u<ex>nd</ex> wohin? Es hängt das auch von meinem <persName key="G001203">Bruder</persName> ab.</p>
+<p><persName key="G001620"><seg type="comment"><orig>Fr<ex>äu</ex>l<ex>ein</ex> v<ex>on</ex> Stein</orig><note xml:id="nzrm_qq5_gmb">Die österreichische Porträtmalerin Wilhelmine von Stein (1825–1890).</note></seg></persName> ist in <placeName key="G000668">Fano</placeName>, u<ex>nd</ex> will nach <placeName key="G000666">Dresden</placeName>. Leider bemerke ich, daß die Sucht von allen Menschen u<ex>nd</ex> über alles zu wissen, eine Art krankhafter Neugierde, bei <pb n="2r"/>Fr<ex>äu</ex>l<ex>ein</ex> v<ex>on</ex> Stein sehr Überhand genommen hat. Dies entfernt mich von ihr. Sie sitzt als <seg type="comment"><orig><hi rendition="#aq"><foreign xml:lang="ita">sepolta viva</foreign></hi></orig><note xml:id="nhkf_sq5_gmb">Ital.: lebendig begraben.</note></seg> u<ex>nd</ex> spinnt Gewebe aus dem, was sie erhorcht. Ihre Philosophie ist nur affectiert – u<ex>nd</ex> so kann der Mensch u<ex>nd</ex> das Menschliche nicht entbehrt werden.</p>
+<p><seg type="comment"><orig><persName key="G001375">Lindemann</persName> reist zu seinem <persName key="G001376">Jungen</persName></orig><note xml:id="nwrc_5q5_gmb">Karl Lindemann-Frommel reiste zu seinem Sohn Manfred nach Karlsruhe, wo dieser Architektur studierte.</note></seg> – <persName key="G001374">Sie</persName> zog gestern in eine neue Wohnung nach Tritone, u<ex>nd</ex> bleibt Sommer über allein zurück.</p>
+<p>Sonst hat sich in Rom nichts verändert; die Stadt bedeckt sich aber mit Pfaffheit; in einer Viertelstunde begegnet man jetzt mindestens 80 Pfaffen – da würde Fr<ex>äu</ex>l<ex>ein</ex> <hi rendition="#aq">Natalie</hi> nicht in Verlegenheit sein, wenn sie sich noch einer Wette erinnert. Eine große Hekatombe von Märtirern wird auch geschlachtet – und so sind wir gut versorgt.</p>
+<p>Schreiben Sie mir bald <pb n="2v"/>ein paar Zeilen. Ich habe jetzt sehr gut englisch gelernt, wie ich mir wenigstens einbilde.</p>
+<p>Wenn Sie <seg type="comment"><orig>Frau <hi rendition="#aq">Malthues</hi></orig><note xml:id="nf42_vq5_gmb">Vielleicht die Schwiegertochter des berühmten britischen Nationalökonomen und Sozialphilosophen Thomas Robert Malthus (1766–1834, „Principle of Population“), sein Sohn Henry Malthus (1804–1882) war seit 1836 mit Sophia Marian, geb. Otter (1807–1889), verheiratet.</note></seg> sähen, so grüßen Sie diese doch bestens – u<ex>nd</ex> daß ich ihre Photographie erhielt, u<ex>nd</ex> meine auch schicken werde.</p>
+<p>Es gehe Ihnen allen sehr gut.</p>
+<closer rend="paragraph">
+<salute rendition="#c">Freundschaftlich <lb/>Ihr</salute>
+<signed rendition="#right">FGr.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

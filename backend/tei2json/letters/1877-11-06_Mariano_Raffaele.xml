@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000231">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Florenz. München, 6. November 1877</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt><respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 2 S. </p>
+<p>ein Brief an Gregorovius </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er hat gut daran getan, noch in Florenz zu bleiben, denn nach Rom, wo jetzt auch Karl Lindemann-Frommel ist, kommt er öfter. Albrecht Wernich bricht bald von München nach Rom auf. Er soll Gregorovius’ Schulden bei Filippo Cagiati bezahlen und Pietro Venturi für seinen freundlichen Brief danken. Zu Ersilia Caetani-Lovatelli und ihrer ganzen Familie will er fortan nur noch losen Kontakt. Er ist in seine Arbeiten zum Dreißigjährigen Krieg vertieft.  Er legt eine Brief bei, den Mariano lesen soll. Adelheid Grunelius hat er bei ihrer Durchreise in München nicht gesehen; er bittet um ihre Adresse in Florenz. Grüße an Eduard Mayer und Wolfgang Erhardt nebst Familien, Carlo Marchese Guerrieri Gonzaga und Anselmo Marchese Guerrieri sowie Clemente Maraini. Karl Lindemann-Frommel vermutet er in Neapel.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1877-11-06" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000671">Florenz</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">München, 6. Nov<ex>ember</ex> 77.</dateline>
+                    <salute rendition="#c">Lieber Freund,</salute>
+                </opener>
+<p>Sie sind also doch länger in Florenz geblieben, u<ex>nd</ex> haben daran sehr recht gethan, denn immer kommen Sie noch zur Zeit nach <placeName key="G000763">Rom</placeName>, wo jetzt auch <persName key="G001375">Lindemann</persName> sein wird. Hier ist seit Ihrer Abreise gar nichts Neues, außer daß wir paradiesisches Wetter haben, nutzt <seg type="comment"><orig><hi rendition="#aq">Dr. <persName key="G001700">Wernich</persName></hi></orig><note xml:id="nrjj_hbj_1mb">Albrecht Ludwig Agathon Wernich (1843–1896) war Gynäkologe und Hygieniker, seine medizinische Ausbildung erhielt er in Königsberg, wo er 1867 promoviert wurde. Seine Approbationsprüfung legte er 1868 in Berlin ab. Nach 1871 habilitierte er sich in Berlin für Geburtshilfe und Gynäkologie. 1874 ging er nach Japan, wo er einen Ruf an die medizinische Hochschule in Tokio (Yeddo) erhalten hatte. Er lehrte und praktizierte in Tokio bis 1876. 1877 befasste er sich mit epidemiologischen und hygienischen Forschungen und habilitierte sich zum zweiten Mal für spezielle Pathologie und Therapie in Berlin. 1881 zum Bezirksphysikus in Berlin ernannt, ging er 1884 als Regierungs- und Medizinalrat nach Köslin und 1891 an das Polizeipräsidium in Berlin. 1896 verstarb er an Diabetes. Wernich war kein Japanologe (siehe RT, 1877/1878, S. 374, 381, 384), aber er befasste sich eingehend mit der japanischen Kultur.</note></seg>, welcher in einigen Tagen nach Rom fortgeht.</p>
+<p>Wollen Sie die Güte haben, Herrn <hi rendition="#aq"><persName key="G001012">Cagiati</persName></hi> <seg type="comment"><orig>die Auslagen</orig><note xml:id="nmy3_3bj_1mb">Nicht ermittelt, um welche Auslagen es sich handelt, jedoch wollte Filippo Cagiati (1821–?) sie für Gregorovius übernehmen (siehe den Brief von Gregorovvius an Raffaele Mariano, 13.11.1877).</note></seg> zu bezahlen, die er etwa für mich gemacht hat, u<ex>nd</ex> ihn recht <pb n="1v"/>sehr von mir zu grüßen. Ich würde Sie auch bitten, gelegentlich dem <persName key="ed_8s1_n17_lm4">Sindaco</persName> zu sagen, daß ich <seg type="comment"><orig>seinen Brief</orig><note xml:id="nf2k_jbj_1mb">Es handelt sich um einen Antwortbrief auf Gregorovius Schreiben an Roms Bürgermeister Pietro Venturi (1824–1892) vom 23.9.1877. Anlass des Briefes war Gregorovius Ärger über Oreste Tommasinis (1844–1919) Artikel „Della storia medievale di Roma e de’ più recenti raccontatori di essa“ im „Archivio della Società romana di storia patria“ (Bd. I, 1877). In seiner Rolle als römischer Ehrenbürger, aber auch weil die Zeitschrift kommunal verankert ist, wendet er sich an den Bürgermeister Venture. Siehe die Briefe von Gregorovius an Raffaele Mariano vom 12.9., 15.9. und 17.9.1877, sowie den Brief von Gregorovius an Pietro Venturi, 23.9.1877. </note></seg> erhalten habe u<ex>nd</ex> ihm für die darin ausgesprochenen Gesinnungen danke, wenn ich wüßte daß ein Gang aufs <placeName key="G000761">Capitol</placeName> Ihnen nicht zu unbequem ist. Der <persName key="G001011">Donna Ersilia</persName> bitte geben Sie nur zu verstehen, was ich von ihr denke. Das ganze Haus <persName key="G001004">G<ex>aetani</ex></persName> ist <seg type="comment"><orig><foreign xml:lang="ita">un vero nido dell’egoismo</foreign>,</orig><note xml:id="nsdt_kbj_1mb">Gregorovius hat sich von der Adelsfamilie Caetani bzw. vor allem von Ersilia Caetani-Lovatelli (1840–1925) mehr Anteilnahme hinsichtlich Oreste Tommasinis (1844–1919) Schmähartikel „Della storia medievale di Roma e de’ più recenti raccontatori di essa“ im „Archivio della Società romana di storia patria“ (Bd. I, 1877) gewünscht, wie aus einem Brief an Raffaele Mariano vom 29.11.1877 hervorgeht: „Ihr war die Gelegenheit fast als Schluß geboten, mir ein Wort der Mißbilligung zu schreiben. Sie that es nicht, und damit hat sie auch bewiesen, daß alle ihre früheren oft in überschwänglichen Phrasen ausgedrückten Beteuerungen freundschaftlicher Gesinnung eben nichts als Phrasen gewesen sind.“ Bereits in der Vergangenheit hatte er den Caetanis einen Mangel an Empathie attestiert. In einem Brief an Raffaele Mariano vom 17.11.1874 heißt es: „È gente agghiacciata, non so come; deventa mumia pompeiana anche Donna Ersilia”; zwei Jahre später schreibt er am 8.5.1876 ebenfalls an Mariano: „Visitai Donna Ersilia, che stava fredda fredda quanto un pesce di mare”. Grundsätzlich war Gregorovius der römischen Adelsfamilie, vor allem Ersilia Caetani-Lovatelli, der „gelehrtesten Frau Roms und vielleicht Italiens“ (RT, 1874, S. 336), eng verbunden. Ersilia und Gregorovius schrieben sich über ein Vierteljahrhundert lang Briefe, auch nachdem er Rom 1874 endgültig verlassen hatte. Auch mit dem Ersilias Vater, dem Herzog von Sermoneta und Dante-Forscher Michelangelo Caetani (1804–1882), stand Gregorovius in vertrautem Kontakt. Dieser hatte ihm das Familienarchiv zu Recherchezwecken zur Verfügung gestellt (siehe RT, 29.5.1864, S. 178 und 11.7.1868, S. 247).</note></seg> und wer nicht Egoist von Profession ist, mußte in der Atmosphäre jener Menschen zu Grunde gehen. Ich habe nichts für sie als die Hartnäckigkeit der Gewohnheit, darum setze ich den Zusammenhang fort, so lose er auch ist.</p>
+<p>Mit <seg type="comment"><orig>meinen <bibl sameAs="G003523">Arbeiten</bibl></orig><note xml:id="nctb_mbj_1mb">Vermutlich Studien zum Dreißigjährigen Krieg (siehe u.a. den Brief an Raffaele Mariano, 24.9.18777), deren Ergebnis das zwei Jahre später erscheinende „Urban VIII. im Widerspruch zu Spanien und dem Kaiser. Eine Episode des dreißigjährigen Kriegs“ (Stuttgart: Cotta 1879) war.</note></seg> geht es sehr gut: wenn ich noch 4 oder 5 Jahre lebe, werde ich an Wunder glauben. Lesen Sie <seg type="comment"><orig>den beiliegenden Brief</orig><note xml:id="nmy1_nbj_1mb">Nicht ermittelt.</note></seg> u<ex>nd</ex> behalten Sie ihn einstweilen. Es ist gar zu arg, daß der Zufall so viel Macht im Menschenleben hat – hier oder dort in <placeName key="G000882">Tarent</placeName> kann er einen armen Teufel ins Verderben bringen. </p>
+                <closer>Die <persName key="G001203"><persName key="G001111"><persName key="G001109">Meinigen</persName></persName></persName> grüßen Sie alle herzlich mit mir.<salute rendition="#c">Ihr</salute> <signed rendition="#right">FGr. </signed> <note type="postscript" rendition="#rotate90" place="left" xml:id="n1" next="#n2">Denken Sie – Frau <persName key="G001215">Grunelius</persName> kam durch München, war 1 Nacht hier, ohne mich das wissen zu lassen. Ich sah sie gar nicht, bin darüber sehr unglücklich - bitte um ihre Adresse in <placeName key="G000671">Florenz</placeName>. </note><note type="postscript" xml:id="n2" prev="#n1" rendition="#rotate90" place="left"><pb n="1v"/>Viele Grüße an <persName key="G001412"><persName key="G001413">Mayers</persName></persName>, <persName key="G001116"><persName key="G001115"><persName key="G001114">Erhardts</persName></persName></persName>, <persName key="G001219"><persName key="ed_nfl_yj2_rlb">Guerrieri</persName></persName>, <persName key="G001398">Maraini</persName> etc. <persName key="G001375">Lindemann</persName> wird wol bereits nach <placeName key="G000737">Neapel</placeName> abgefahren sein. Wenn Sie doch nur 1 guten Verleger gefunden hätten. </note> </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

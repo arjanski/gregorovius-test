@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000182">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Heinrich Brockhaus in Leipzig. München, 8. August 1863</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Sächsisches Staatsarchiv Leipzig</repository><collection>Bestand 21083</collection><idno>Archivalnummer 224 (71)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 S. – 2v alR, Bl. um 90° gedreht, Eingangs- und Beantwortungsvermerk: 1863. / <hi rendition="#aq">München</hi>, 8./10. <hi rendition="#aq">Aug</hi>. / <hi rendition="#aq">Gregorovius</hi>. / B. 14. <hi rendition="#aq">Aug</hi>.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Seiner Bitte, ihm die Druckfahnen seiner „Lateinischen Sommer“ (1864) zur Korrektur nach München zu senden, ist der Verlag nicht nachgekommen. Bis Ende August wünscht er einen Honorarwechsel und den geänderten Verlags-Vertrag über die dritte Auflage der jetzt drei Bände umfassenden „Wanderjahre in Italien“. Auch König Maximilian II. von Bayern schätzt die „Siciliana“ (1861); ihm scheint der Ladenpreis zu hoch. Sollte die zweite Auflage seiner „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1864) schon ausgegeben sein, erbittet er ein Exemplar nach München. Nach Leipzig kann er nicht kommen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">The publisher did not send the galley proofs of his „Lateinischen Sommer“ (1864) to him in Munich for correction, as he had requested. He wishes to have his fee and the amended publishing contract for the third edition of the „Wanderjahre in Italien“, now spanning three volumes, by the end of August. King Maximilian II. of Bavaria also appreciates the „Siciliana“ (1861); the retail price seems too high for him. Should the second edition of his „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1864) be printed already, he asks for a copy in Munich. He cannot come to Leipzig. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1863-08-08" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G000996">Brockhaus, Heinrich (1804–1874)</persName>
+<placeName key="G000712">Leipzig</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">7. August 1863</ref>
+<ref type="next">14. August 1863</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">München, 8. <hi rendition="#aq">August</hi> 63.</dateline>
+                    <salute rendition="#c">Mein sehr verehrter Herr,</salute>
+                </opener>
+<p><seg type="comment"><orig>am Ende des vorigen Monats zeigte ich von der <placeName key="G000870">Schweiz</placeName> aus Ihrer <orgName key="G000480">Buchhandlung</orgName> an, daß ich mit dem Beginn des August in München bereit sein würde, Druckbogen zu revidiren</orig><note xml:id="nxng_5cj_cmb">Gregorovius hatte Brockhaus am 22. Juli 1863 aus Schaffhausen die Druckfahnen seiner „Lateinischen Sommer“ (1864) nach München erbeten (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 72).</note></seg>. Ich habe indeß keine Benachrichtigung empfangen.</p>
+<p>Ich bin bereits 14 Tage an diesem Ort, wo ich auf der <orgName key="G000510">Bibliothek</orgName> beschäftigt bin. Ich <seg type="comment"><orig>bleibe noch bis Ende August hier</orig><note xml:id="ncbz_5cj_cmb">Gregorovius war seit dem 26. Juli in München und blieb bis zum 30. August 1863. Nach einer einwöchigen Reise nach Bad Reichenhall, Berchtesgaden und Salzburg kehrte er am 5. September 1863 für weitere fünf Tage nach München zurück (siehe RT, 14.7.-9.9.1863, S. 162–167).</note></seg>.</p>
+<p>Möchten Sie die Güte haben, mir schreiben zu laßen, wie weit der <bibl sameAs="G003183">Druck des einen</bibl> u<ex>nd</ex> <bibl sameAs="G003122"><seg type="comment"><orig>andern Bandes</orig><note xml:id="ncsb_xcj_cmb">Die im Druck befindliche zweite Auflage seiner „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) erschien 1864 erstmals als Band 1 unter dem Reihentitel „Wanderjahre in Italien“.</note></seg></bibl> vorgeschritten ist.</p>
+<p>Ich wünsche ferner eine Vollmacht zur Erhebung von 200 Thalern hier in München; die andern 300 würde ich später erheben können.</p>
+<p>Ihre Buchhandlung wollte unsere <seg type="comment"><orig>bisherigen Verlagsverträge in ein Document schreiben, und ich hatte gebeten, mir solches zur Zeit nach München zu schicken, was wol jetzt geschehen könnte</orig><note xml:id="njcv_xcj_cmb">Am 20. August 1863 bestätigte Gregorovius den Erhalt des geänderten Verlags-Vertags, wollte aber die Auflage auf 1000 Exemplare begrenzen, für sich und seinen Erben je 10 Freiexemplare sowie vollen Gewinn etwaigen Übersetzungen zusätzlich festgeschrieben haben; mit seinem Brief vom 29. August 1863 sandte er den unterzeichneten Vertrag zurück (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 74–75).</note></seg>.</p>
+<p>Wegen der <hi rendition="#u"><bibl corresp="G003122 G003183 G003259">Wanderjahre</bibl></hi>, welche nun 3 Bände umfaßen sollen, die Figuren, die Lateinischen Sommer, u<ex>nd</ex> die Siciliana, hatte ich Sie <seg type="comment"><orig>gebeten, mir für <pb n="1v"/><bibl corresp="G003130 G003138 G003147 G003156 G003165 G003174 G003199 G003207 G003216 G003225 G003234 G003243 G003266 G003273 G003280 G003287 G003294">die 3. Auflage, u<ex>nd</ex> jede Folgende</bibl> im Maximum von 1000 Exemplaren, statt der vorgeschlagenen 150, 200 Thaler für jeden Band zu bewilligen</orig><note xml:id="nuqm_1dj_cmb">Siehe den Brief von Gregorovius an Brockhaus vom <ref target="G000168">10. März 1863</ref>.</note></seg>; ich wiederhole diese Bitte dringend noch einmal, u<ex>nd</ex> appelire dieserhalb an Sie. Es ist nichts Unbilliges in meiner Forderung.</p>
+<p>Der <persName key="G001408"><seg type="comment"><orig>König <hi rendition="#aq">Max</hi></orig><note xml:id="nxkn_cdj_cmb">Gregorovius hatte am 3. August 1863 eine Audienz bei König Maximilian II. von Bayern (1811–1864) auf Schloss Nymphenburg (siehe den Bericht hiervon im Brief von <ref target="G000187">Gregorovius an Hermann von Thile, 30.8.1863</ref>).</note></seg></persName> liebt sehr die Siciliana welche überhaupt großen Beifall überall finden.</p>
+<p>Diese Bände würden sich schneller verkaufen, wenn nicht der Preis so hoch wäre.</p>
+<p>Sollten die Figuren fertig gedruckt sein, so würde ich ein Exemplar hieher bitten.</p>
+<p>Wie gerne, mein verehrter Herr, käme ich nach Leipzig, Sie zu sehen, u<ex>nd</ex> einige schöne Stunden mit Ihnen zu verleben; aber das leidige <seg type="comment"><orig><hi rendition="#aq"><foreign xml:lang="Lat">non possumus</foreign></hi></orig><note xml:id="njdw_2dj_cmb">Lat.: wir können nicht.</note></seg> hindert mich daran.</p>
+                <closer>
+<salute xml:id="s1" next="#s2">Mich Ihnen u<ex>nd</ex> Ihrem <persName key="G000995">Herrn Sohn</persName> empfehlend, bleibe ich</salute>
+<salute xml:id="s2" prev="#s1" next="#s3" rendition="#c">voll aufrichtiger Verehrung <lb/>Ihr</salute>
+                    <signed rendition="#right">FGregorovius.</signed></closer>
+<note type="postscript">Adr<ex>esse</ex> <orgName key="G067779">Buchhandlung Cotta</orgName> in München.</note>
+            </div>
+        </body>
+    </text>
+</TEI>

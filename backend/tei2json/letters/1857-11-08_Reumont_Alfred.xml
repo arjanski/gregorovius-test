@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000048">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Alfred von Reumont in Florenz. Rom, 8. November 1857</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Universitäts- und Landesbibliothek Bonn</repository>
+                        <collection>NL Reumont</collection>
+                        <idno>S 1061 (290)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p><note>
+<p>1 Dbl., 4°, 3 S. – 1r aoR, unter der Datumszeile, Eingangsvermerk: pr. 12 Nov 57. </p>
+</note></p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 86, Mappe 9 (Alfred Löckle nach
+                                        H)</idno></idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 82, Mappe 5 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er lehnt die Einladung Reumonts ab, für das „Archivio storico italiano“ einen Aufsatz über die aus dem Nachlass von Felix Papencordt herausgegebene „Geschichte der Stadt Rom im Mittelalter“ (1857) zu schreiben, weil er selbst an einer „Chronik der Stadt Rom im Mittelalter“ arbeitet – das Manuskript der ersten beiden Bände (1859), die bis zur Krönung Karls des Großen im Jahr 800 reichen, will er im Winter abschließen. Für die italienische Teilübersetzung seines „Corsica“ durch seinen Freund Paolo Perez (1857) hat die Gräfin Maria Teresa Serego Alighieri Gozzadini einen Fortsetzer gefunden. In Rom wird die Bibliothek des verstorbenen Francesco Orioli verkauft. Friedrich Wilhelm IV. wird sich hoffentlich wieder erholen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He declines Reumont’s invitation to write an essay for the „Archivio storico italiano“ on the „Geschichte der Stadt Rom im Mittelalter“ (1857), published from the estate of Felix Papencordt, because he himself is working on a „Chronik der Stadt Rom im Mittelalter“ - he wants to complete the manuscript of the first two volumes (1859), which go up to Charlemagne’s coronation in 800, in the winter. For the partial translation of his „Corsica“ into Italian by his friend Paolo Perez (1857), Countess Maria Teresa Serego Alighieri Gozzadini has found a successor. In Rome the library of the late Francesco Orioli is being sold. Frederick William IV will hopefully recover. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1857-11-08" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001545">Reumont, Alfred von (1808–1887)</persName>
+                    <placeName key="G000671">Florenz</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi>, 8. <hi rendition="#aq">N<ex>o</ex>v<ex>em</ex>b<ex>e</ex>r</hi> 1857.</dateline>
+                    <salute rendition="#c">Hochverehrter Herr Minister,</salute>
+                </opener>
+                <p>nehmen Sie meinen aufrichtigen Dank für die freundlichen Gesinnungen Ihres Schreibens, welches ich heute am Sonntag (<seg type="comment"><orig><placeName key="G000764"><foreign xml:lang="ita">quatro coronati</foreign></placeName> vom <placeName key="G000708">Cölius </placeName>Rom’s</orig><note xml:id="nq5r_mnw_slb">Caelius, einer der sieben Hügel Roms, auf dem eine der Titelkirchen zwischen Colosseum und Lateran steht, die im 4. Jahrhundert errichtete Basilika Santi Quattro Coronati al Laterano. Die namensgebenden Heiligen, die Quatuor coronati („die vier Gekrönten“) geht auf die Überlieferung von Heiligenviten aus dem Anfang des 4. Jahrhunderts zurück. Nach dieser soll sich das Martyrium der nachträglich als Victorinus, Serverus, Carpophorus und Serveranius benannten vier römischen Militärbeamten (Cornicularii) in der Zeit der Diokletianischen Christenverfolgung zugetragen haben, die sich geweigert hatten, die Statue des Aeskulap zu verehren. Die Reliquien wurden nach Santi Quattro Coronati al Laterano verbracht. Der Gedenktag dieser Märtyrer war zunächst der 8. August, später der 8. November.</note></seg>) mit Ruhe beantworten kann.</p>
+                <p>Ihrer Aufforderung für das <hi rendition="#aq"><orgName key="G004667"><seg type="comment"><orig>Archivio storico</orig><note xml:id="nxmp_xnw_slb">Für die, von Gian Pietro Vieusseux (1779–1863) 1842 gegründete, älteste Geschichtszeitschrift Italiens, dem „Archivio Storico Italiano“ (Florenz: Olschki), war Reumont einer der ersten Autoren. </note></seg></orgName></hi>, einen <hi rendition="#aq">Discours</hi> über <bibl sameAs="G004218"><seg type="comment"><orig>Papencordt – Höfler</orig><note xml:id="nwmx_c4w_slb">Felix Papencordt (1811 oder 1812–1841), aus dessen Nachlass Constantin von Höfler (1811–1897, ab 1873 Ritter von) 1857 die „Geschichte der Stadt Rom im Mittelalter“ (Paderborn: Schönigh) herausgab (siehe https://archive.org/details/bub_gb_xHU2Q9F602oC/page/n7).</note></seg></bibl> zu liefern, würde ich auf der Stelle entsprechen, wenn mich nicht zwei dringende Gründe davon abhielten. Beide werden Sie billigen, u<ex>nd</ex> mich deshalb entschuldigen. Der erste ist dieser: weil ich <seg type="comment"><orig>mit derselben Aufgabe beschäftigt bin</orig><note xml:id="nsrz_24w_slb">Seit Oktober 1855 arbeitete Gregorovius an seinem späteren 8-bändigen Hauptwerk, die „Geschichte der Stadt Rom im Mittelalter“ (Stuttgart: Cotta 1859–1872).</note></seg>, kann ich jenem Buche nicht die unparteiische Gerechtigkeit widerfahren laßen, da ich nicht im Stande bin von meiner eigenen Behandlung gänzlich zu abstrahiren; die Beurteilung würde ein wenig subjectiv ausfallen; außerdem müßte ich das Buch mehrfach angreifen, was ich in meinem speciellen Falle nicht gut kann oder darf. Der zweite Grund ist der gänzliche Mangel an Zeit, da ich täglich 9 bis 10 Stunden an meiner Arbeit beschäftigt bin, welche ich eben in ihrer ersten Partie abschließe.</p>
+                <p>Der arme <persName key="G001469">Papencordt</persName> würde wahrscheinlich nicht seine Einwilligung zur Herausgabe bloßer Materialien gegeben haben; so schätzbar diese Studien sind u<ex>nd</ex> so groß der daran verwandte Fleiß, so wenig geben sie doch eine Geschichte der Stadt Rom. Man darf eine solche nicht schreiben, ohne <pb n="1v"/>sich so viel als möglich allseitig über ihr Leben zu verbreiten, ohne die Geschichte ihrer Ruinen, ihrer Metamorphosen ins Geistliche zu geben, u<ex>nd</ex> sich so gut mit Kunst, Literatur, religiösen Gebräuchen als mit den civilen u<ex>nd</ex> politischen Dingen gründlich zu beschäftigen.</p>
+                <p>Ich wage nicht meine Arbeit „Geschichte“ der Stadt Rom zu nennen, sondern nenne sie <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Chronik der Stadt Rom im Mittelalter</bibl>. <seg type="comment"><orig>Ich schließe in diesem Winter den 2. Band ab</orig><note xml:id="ny4d_z4w_slb">So auch die Einschätzung im Brief von Gregorovius an Brockhaus vom <ref target="G000022">28.9.1857</ref>.</note></seg>; Band I umfaßt die Periode <seg type="comment"><orig>vom Jahre 403, dem Triumfzug des <persName key="G001295">Honorius</persName>, welchem die erste Eroberung u<ex>nd</ex> Plünderung der Stadt durch die Barbaren folgt</orig><note xml:id="ntzb_kpw_slb">Flavius Honorius (384–423), der jüngere Söhn des römischen Kaisers Theodosius I. (347–395), der das Christentum faktisch zur alleinigen Staatsreligion erhoben hatte. Nach dem Tod von Theodosius wurde die Macht des Imperium Romanum unter den beiden Söhnen aufgeteilt. Während der ältere Bruder, Arcadius(377–408), in Konstantinopel als senior Augustus über den Osten herrschte, regierte Honorius zunächst von Mailand, dann von Ravenna aus als junior Augustus Honorius den Westen des Reichs. Nach seinem feierlichen Einzug in Rom Ende 403/Anfang 404 konnte Honorius seine Machtstellung jedoch nicht sichern, was zu Machtkämpfen und Bürgerkriegen führte und 410 zur Plünderung der Hauptstadt des weströmischen Imperiums durch den westgotischen Heerführer Alarich (370–410) und zum Zerfall des weströmischen Reichs (siehe „Geschichte der Stadt Rom im Mittelalter“, Bd. 1, S. 113–121).</note></seg>, bis auf den <seg type="comment"><orig>Sturz der Gothen</orig><note xml:id="nkj1_pqw_slb">552 besiegte der byzantinische Oberbefehlshaber der kaiserlichen Truppen Justinians (483–565), Narses (um 490–574), die Truppen der Ostgotenkönige Totila († 552) und Teja († 552) in Italien (siehe „Geschichte der Stadt Rom im Mittelalter“, Bd. 1, S. 444–451).</note></seg>. Band II enthält die Zeit vom <persName key="G004730"><seg type="comment"><orig>Narses</orig><note xml:id="nxrk_qqw_slb">Narses fiel Anfang 568 bei dem neuen Kaiser Justin II. (520–578), einem Neffen Justinians, in Ungnade und wurde abberufen. Der Sturz von Narses findet sich noch im ersten Band von Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ (Bd. 1, S. 474–479). </note></seg></persName> bis auf die <seg type="comment"><orig>Krönung<persName key="G001330"> Karls</persName></orig><note xml:id="nmrh_tqw_slb">Der König des Fränkischen Reichs, Karl der Große (747/748–814), wurde am 25. Dezember 800 im Aachener Dom als erster westeuropäischer Herrscher seit der Antike zum Kaiser gekrönt (siehe „Geschichte der Stadt Rom im Mittelalter“, Bd. 2, S. 536–548). </note></seg>. Ob ich diese dämonische, grauenvoll schöne u<ex>nd</ex> unschätzbare Arbeit (ich rede vom Stoff, wie ich mit einem Seufzer hinzusetze) vollende, weiß ich nicht, aber auch schon die erste Periode von 400 Jahren, so mangelhaft sie sein wird, wird immerhin etwas an die Wißenschaft liefern. Das Material ist völlig incommensurabel, u<ex>nd</ex> die Titel der Werke, die dazu benutzt werden müßen, bilden an sich schon einen niedlichen Band – was soll endlich von den Documenten gesagt werden, die mit der zweiten Periode des Mittelalters reichlicher werden! Mich wundert, daß sie in Papencordt, der doch mit großen Mitteln arbeiten durfte, nicht erblickt werden; wo sind diese geblieben?</p>
+                <p><pb n="2r"/>Die kleine <seg type="comment"><orig><bibl sameAs="G004322"><hi rendition="#aq"><foreign xml:lang="ita">Storia de’ Corsi</foreign></hi></bibl> ist mir nur lieb, weil sie die Arbeit <persName key="G001483">meines einzigen italienischen Freundes</persName> ist</orig><note xml:id="nepj_1rw_slb">Der Veroneser Dante-Kenner Paolo Perez (1822–1879), der zum Entsetzen von Gregorovius am 28. September 1856 in den Orden der Rosminianer in Stresa eingetreten war, hatte anonym einen Auszug seines „Corsica“ (Stuttgart: Cotta 1854) übersetzt: Storia dei Corsi. Florenz: Tip. Felice Le Monnier 1857.</note></seg>; indeß schreibt mir die<persName key="G001092"> <seg type="comment"><orig>Gräfin <hi rendition="#aq">Gozzadini</hi></orig><note xml:id="ncfk_2rw_slb">Die Gräfin Maria Teresa Serego Alighieri Gozzadini (1812–1881) und deren Ehemann Giovanni Gozzadini (1810–1887) hatte Gregorovius über ihren Cousin Graf Paolo Perez kennen und schätzen gelernt.</note></seg></persName> von <placeName key="G000638"><hi rendition="#aq">Bologna</hi></placeName>, daß sich ein <seg type="comment"><orig>Übersetzer für die folgenden Teile finden wird, oder gefunden hat</orig><note xml:id="ncmc_grw_slb">Eine vollständige Übersetzung erschien erst 1912: Corsica. Rom: Enrico Voghera 1912.</note></seg>.</p>
+                <p><seg type="comment"><orig>Orioli’s</orig><note xml:id="nqxw_nrw_slb">Der Mediziner und Archäologe Francesco Orioli (*1783) war am 4. November 1856 gestorben. Orioli war 1815 zum Professor für Physik an die Universität Bologna berufen worden, betrieb aber bald auch archäologische Forschungen. 1831 war er als Minister für öffentliche Bildung Mitglied der provisorischen Regierung in Bologna. Nach dessen Auflösung ging er erst ins französische Exil, später nach Korfu, wo er Forschungen über etruskische und römische Altertümer betrieb und hohe Stellungen bekleidete. 1846 konnte er nach Rom zurückkehren und wurde Professor für Archäologie und Alte Geschichte an der Universität Sapienza.</note></seg> Bibliothek wird hier verkauft, doch leider nicht an mich.</p>
+                <p>Ich freue mich Ihres Wolseins, geehrtester Herr Minister; als ich von der <seg type="comment"><orig>Krankheit des <persName key="G004746">Königs</persName></orig><note xml:id="nwyk_prw_slb">König Friedrich Wilhelm IV. (1795–1861) zeigte in den letzten Jahren seiner Regentschaft Symptome von Gehirnarteriosklerose. Ab dem 14. Juli 1857 erlitt er zudem mehrere Schlaganfälle, die auch sein Sprachzentrum in Mitleidenschaft zogen. </note></seg> hörte, dachte ich augenblicklich, wie schmerzlich Sie <seg type="comment"><orig>persönlich davon getroffen werden müßten</orig><note xml:id="na52_rrw_slb">Reumont begleitete ihn häufiger auf Reisen, auch im folgenden Jahr, als der König, nachdem er am 7. Oktober 1858 die Regentschaftsurkunde für den Prinz Wilhelm von Preußen (1797–1888) unterschrieben hatte, nach Italien reiste, wo er vom 23. Dezember 1858 bis zum 2. Mai 1859 im Palast Caffarelli wohnte (siehe Brief von Gregorovius an Johann Georg Freiherr von Cotta vom <ref target="G000107">1.12.1858</ref>).</note></seg>. Es geht zum Beßern, wie ich auf dem <placeName key="G000761">Capitol</placeName> vernehme, aber welche Hoffnungen für eine wirkliche Genesung zu faßen seien, wißen Sie mehr, als andre.<seg type="comment"><orig> Die Welt will eine neue <hi rendition="#aq">Façade</hi> annehmen, seit <persName key="G001442">Napoleon</persName></orig><note xml:id="narz_zrw_slb">Napoléon III. (1808–1873) hatte im Krimkrieg von 1853 bis 1856 mit Großbritannien und dem Osmanischen Reich erfolgreich gegen Russland gekämpft. Der Krieg endete am 30. März 1856 mit dem Dritten Frieden von Paris und half Napoléons Anspruch, sich als führende Großmacht in Europa zu etablieren.</note></seg>, der indeß nur <seg type="comment"><orig>ein Grab übertüncht</orig><note xml:id="nbxc_dsw_slb">Seit dem Wiener Kongress (1814–1815) stand Frankreich unter europäischer Kontrolle und war außenpolitisch isoliert.</note></seg>. Wenn man nicht in die heilere Stille der Wißenschaft u<ex>nd</ex> Kunst sich oder einen Teil seines Lebens hinüber zu flüchten hätte, so möchte die Unbeständigkeit der Dinge wie ihre Eitelkeit noch unangemehmer zu ertragen sein. Ich wünsche, daß Sie in jenem Reich der <persName key="G004747"><seg type="comment"><orig>Minerva</orig><note xml:id="ndvk_2sw_slb">Die Göttin der Weisheit.</note></seg></persName> noch ungezählte Jahre mit voller Freudigkeit wirkten.</p>
+                <closer>Unter der Versicherung, daß die Teilnahme, welche Sie meinen geringen literarischen Dingen gönnen, mir wahrhaft wolthätig ist, Herr Minister,  <salute xml:id="s2" prev="#s1" rendition="#right">Ihr sehr ergebener Diener</salute> <signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi>.</signed> </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

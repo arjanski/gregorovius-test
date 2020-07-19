@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000264">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Adolf Friedrich Graf von Schack in München. Rom, 19. Januar 1868 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Mecklenburgisches Landeshauptarchiv Schwerin</repository><collection>10.9-S/6 NL Hans von Schack</collection><idno>Vol. 7a – Gregorovius (14)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¼ S. – 1r + 2r aoR in einer Vignette geprägt: Roma</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 82, Mappe 6</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die Übersendung von Schacks „Gedichten“ (Berlin 1867) durch den neuen Gesandten Bayerns am päpstlichen Stuhl Joseph von Sigmund, die er neben dessen Übersetzung der „Heldensagen von Firdûsi“ (1851) für seine besten Publikation hält. Der Gedichtband hat ihn angeregt, auch seine eigenen verstreuten Gedichte zusammen mit seinem Versgedicht „Euphorion“ (1858) in einem Band herauszugeben, wenn er seine „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) in drei Jahren zum Abschluss gebracht haben wird. Seinen Weg nach Spanien wird Schack hoffentlich über Rom nehmen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1868-01-19" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001573">Schack, Adolf Friedrich von (1815–1894)</persName>
+<placeName key="G000734">München</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right"><hi rendition="#aq">Rom</hi>, 19. Jan<ex>uar</ex> 68</dateline>
+<salute rendition="#c">Verehrter Herr,</salute>
+</opener>
+<p>Ihr und <placeName key="G000833">Baierns</placeName> Gesandter, <persName key="G001604">Herr v<ex>on</ex> <?oxy_comment_start author="Angela Steinsiek" timestamp="20190103T140721+0100" comment="Joseph von Sigmund (1820–1901) war am 1. Dezember 1867 zum außerordentlichen Gesandten und bevollmächtigten Minister beim päpstlichen Stuhl ernannt worden."?>Sigmund<?oxy_comment_end?></persName>, brachte mir mit wahrer Liebenswürdigkeit Ihre <bibl sameAs="G004225">gesammelten <?oxy_comment_start author="Angela Steinsiek" timestamp="20190103T140736+0100" comment="Adolf Friedrich von Schack: Gedichte. Berlin: Wilhelm Hertz 1867  (https://books.google.de/books?id=bAE7AAAAcAAJ&amp;printsec=frontcover&amp;dq=Adolf+von+Schack+von+Sigmund&amp;hl=de&amp;sa=X&amp;ved=0ahUKEwiC-ciQxtHfAhVG26QKHa0gAZ04ChDoAQhGMAY#v=onepage&amp;q&amp;f=false)."?>Gedichte<?oxy_comment_end?></bibl>, u<ex>nd</ex> erfüllte damit auf das allerschönste einen lebhaften Wunsch – aus einem sympathischen Zuge hatte ich diesen, sonderbarer Weise, gerade am Abend vorher zu mir selbst ausgesprochen.</p>
+<p>Ich habe Ihre Poesien schon fast alle gelesen. Sie zeigen mir, wie gut u<ex>nd</ex> weise die <persName key="G001297">horazische</persName> Dichter-Ökonomie ist; denn da Sie sich erst spät entschloßen diese lyrischen Bekenntniße zu veröffentlichen, so hat sich alle trübe Gährung der Jugend darin abgeklärt, u<ex>nd</ex> Sie schenken uns reinen u<ex>nd</ex> herzstärkenden Wein.</p>
+<p><hi rendition="#aq"><foreign xml:lang="ita"><?oxy_comment_start author="Angela Steinsiek" timestamp="20200327T185050+0100" comment="Ital.: Ich beglückwünsche Sie."?>Mi congratulo con lei<?oxy_comment_end?></foreign></hi>. In Wahrheit dünkt es mich, daß Sie den poetischen Schatz unserer Literatur mit mehren edeln Tönen vermehrt haben, zumal Ihre <hi rendition="#aq">Lyrik</hi> der Reflex eines ernsten und reichgebildeten Geistes ist, in welchem sich die erfahrene u<ex>nd</ex> durchaus dichterisch ergriffene Welt aus nahen u<ex>nd</ex> fernen <pb n="1v"/>Sphären in durchaus classischer Form ausdrückt. Dieses Monumentes Ihres Lebens können Sie neben Ihrem <bibl sameAs="G004226"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190103T140754+0100" comment="Schack hatte 1851 einige Stücke des persischen Epikers Abū l-Qāsem-e Ferdousī (940–1020) aus dem etwa 60.000 Verse umfassenden Nationalepos der persischsprachigen Welt Schāhnāme (deutsch Buch der Könige) übersetzt. Adolf Friedrich von Schack: Heldensagen von Firdûsi. Zum ersten Male metrisch aus dem Persischen übersetzt nebst einer Einleitung über das Iranische Epos. Berlin: Wilhelm Hertz 1851. Aus dem Nachlass von Friedrich Rückert (1788–1866) gab Edmund Alfred Bayer (1848–1909) 1890–1895 eine dreibändige, nahezu vollständige Übersetzung unter dem Titel „Firdosi’s Königsbuch“ heraus (Berlin: Reimer)."?>Firdusi<?oxy_comment_end?></bibl> wahrhaft froh sein.</p>
+                <p>Ich bekenne, daß Sie mich mächtig angeregt haben, wenigstens Ihrem Beispiel zu folgen, wenn ich auch die Höhe Ihres Talentes nicht erreichen kann. Ich möchte auch meine <hi rendition="#aq">Lyrica</hi> <?oxy_comment_start author="Angela Steinsiek" timestamp="20190103T140821+0100" comment="Die Gedichte von Gregorovius wurden erst posthum von Schack gesammelt und 1892 in Leipzig bei Brockhaus herausgegeben."?>herausgeben<?oxy_comment_end?>, welche, gleich den Ihrigen, seit mehr als 20 Jahren, als ein buntes Gewebe durch eigene Zustände u<ex>nd</ex> Welterfahrungen gezogen sind. Ich möchte sie in einem Band vereinigen, u<ex>nd</ex> ihnen das kleine pompeianische<bibl sameAs="G003574"> <?oxy_comment_start author="Angela Steinsiek" timestamp="20190103T140842+0100" comment="Das 1858 erstmals erschienene Versgedicht von Gregorovius über den Untergang Pompejis „Euphorion“."?>Epos<?oxy_comment_end?></bibl> mitgeben. Ich hoffe diesen Plan auszuführen, wenn, nach drei Jahren, die wahre und wesentliche Aufgabe meines Lebens vollendet ist; denn die <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Geschichte der Stadt Rom</bibl> ist in diesem die Mitte von 15 langen Jahren; u<ex>nd</ex> nur mit tiefem Schmerz werde ich von dem scheiden, was mich so lange erfüllt hat.</p>
+<p>Herr v<ex>on</ex> Sigmund machte mir Hoffnung, Sie in Rom sehen zu können. <pb n="2r"/>Ich wünsche sehr, daß Sie diesen Umweg nach <del rendition="#s">über<del rendition="#s"> </del></del>oder von<placeName key="G000874"> Spanien</placeName> nehmen.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190103T140916+0100" comment="Gregorovius sah Schack erst im August in München wieder, siehe RT, 1.-19.8.1868, S. 251."?></p><?oxy_comment_end?>
+<p>Leben Sie bestens wol <hi rendition="#aq"><foreign xml:lang="Lat">cum bona Musa</foreign></hi>! und haben Sie Dank für Ihre freundliche Erinnerung, die mir von hohem Werte ist.</p>
+<closer>
+<salute xml:id="s1" next="#s2">Verehrungsvoll</salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">Ihr aufrichtig ergebener</salute>
+<signed rendition="#right"><hi rendition="#aq">FGregorovius</hi>.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

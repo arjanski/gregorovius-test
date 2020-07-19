@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_hrb_n3p_llb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Rom. München, 16. Januar 1879 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace> <availability status="free">
+                <licence target="http://creativecommons.org/licenses/by/4.0/">
+                    Creative Commons Attribution 4.0 International (CC BY 4.0)
+                </licence>
+            </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 4 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er arbeitet an seiner Schrift zum Dreißigjährigen Krieg (Urban VIII. im Widerspruch zu Spanien und dem Kaiser. Eine Episode des dreißigjährigen Kriegs 1879), nimmt kaum am gesellschaftlichen Leben teil. Anfang Februar wird er nach Rom reisen, auf dem Weg dorthin Archivaufenthalte in Mantua und Modena einlegen. Adelheid Grunelius erwartet ihn in Florenz, wo er sie besuchen wird. Grüße an Clemente Maraini, Filippo Cagiati, die Familie Lovatelli und die Brüder Guerrieri. Für Marianos „Cristianesimo, cattolicesimo e civiltà“ (1879) erhofft er eine Druckkostenförderung. Eine Auskunft Wilhelm Lang kann er nicht geben.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1879-01-16" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840-1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+<body><pb n="1r"/>
+<div type="writingSession">
+<opener>
+<dateline rendition="#c">München, 16. Jan<ex>uar</ex> 79.</dateline>
+<salute>Lieber Freund,</salute>
+</opener>
+<p>unser Leben hier vergeht in so großer Regelmäßigkeit und so tiefer Stille, daß es wirklich schwer ist, Ihnen etwas mitzuteilen, was nur annähernd Ihr Intereße erregen könnte. Wir alle sind wol und <seg type="comment"><orig>recht thätig</orig><note xml:id="npgy_thj_1mb">Gregorovius arbeitete bereits seit dem vergangenen Jahr an einer Publikation zum Dreißigjährigen Krieg, die 1879 erscheinen sollte: Urban VIII. im Widerspruch zu Spanien und dem Kaiser. Eine Episode des dreißigjährigen Kriegs. Stuttgart: Cotta. Der Bruder, Julius Julius Gregorovius (1819–1891), beschäftigte sich hingegen mit dem Schloß Neidenburg, dem Ort, aus dem die Geschwister stammten (siehe RT, S. 410). Seine Schrift „Die Ordensstadt Neidenburg in Ostpreußen“ wurde 1883 von R. Kanter in Marienweder veröffentlicht. </note></seg>: das ist das Beßte, was sich sagen läßt. Wir waren auch bisher von der Luft sehr begünstigt. Die Kälte betrug im Durchschnitt kaum 3°, nur ein oder zweimal hatten wir 15°. Ich fühlte mich recht wol bei dieser Frische der Luft, u<ex>nd</ex> ich glaube <pb n="1v"/>daß sie auch Ihnen würde zugesagt haben. Eben komme ich von einem weiten Gange längs des <?oxy_insert_start author="weiger" timestamp="20200514T153907+0200" type="surround"?><placeName key="ed_dzc_x1m_rlb"><?oxy_insert_end?>Flußes</placeName> zurück, bei dem klarsten Sonnenschein, welcher die Natur in das zarteste Rosarot kleidete, wie das nur im Winter des Nordens der Fall ist. Wir leben sonst sehr gut – die treffliche <?oxy_insert_start author="weiger" timestamp="20200514T153920+0200" type="surround"?><persName key="G001111"><?oxy_insert_end?>Schwester</persName> sorgt für uns – wären Sie hier, könnten Sie auch ersten Wein von <seg type="comment"><orig><?oxy_insert_start author="weiger" timestamp="20200514T154004+0200" type="surround"?><placeName key="ed_ulh_1bm_rlb"><?oxy_insert_end?>Patras</placeName></orig><note xml:id="nqry_5hj_1mb">Weinanbaugebiet im Norden der griechischen Halbinsel Peloponne.</note></seg> trinken, den wir vor kurzem erhalten haben. Dann u<ex>nd</ex> wann unterbricht eine öffentliche Vorlesung, oder <seg type="comment"><orig>ein Theaterstück</orig><note xml:id="nlmy_vhj_1mb">Gregorovius besaß ein Abonnement für das Königliche Hof- und Nationaltheater München; siehe den Brief von Gregorovius an Raffaele Mariano vom 17.12.1878.</note></seg> die Eintönigkeit unseres Daseins – wir gehen in keine Gesellschaft hier, u<ex>nd</ex> das <pb n="2r"/>thut mir sehr wol. Darum graut mir, an Rom zu denken, wo ich doch wieder in der Gesellschaft mich werde bewegen müssen: das wird mir immer schwerer, je älter ich werde, u<ex>nd</ex> je freier von Eitelkeit, oder je mehr ich erkenne, daß alles Eitelkeit ist. </p>
+<p>Mein Plan ist dieser: <seg type="comment"><orig>am 2 Febr<ex>uar</ex> von hier abzureisen, mich in <?oxy_insert_start author="weiger" timestamp="20200514T154024+0200" type="surround"?><placeName key="G000724"><?oxy_insert_end?>Mantua</placeName> u<ex>nd</ex> <?oxy_insert_start author="weiger" timestamp="20200514T154033+0200" type="surround"?><placeName key="G000729"><?oxy_insert_end?>Modena</placeName> mehre Tage aufzuhalten, u<ex>nd</ex> dann so schnell als möglich nach Rom zu reisen</orig><note xml:id="niwl_xhj_1mb">Er verließ München am 6. Februar und begab sich zunächst für einen Tag nach Mantua, wo er im Staatsarchiv arbeitete. In Modena traf er am 8. ein, „blieb hier bis zum 14. und fand im Archiv viel Merkwürdiges über die […] in München begonnene Episode des 30jährigen Krieges.“ (RT, Romfahrt, 1879, S. 411). Nach weiteren Zwischenhalten in Bologna und Florenz kam er am 16. Februar in Rom an, wo ihn Mariano empfagen sollte.</note></seg>. Nur ungern werde <supplied cert="high">ich</supplied> in <?oxy_insert_start author="weiger" timestamp="20200514T154044+0200" type="surround"?><placeName key="G000671"><?oxy_insert_end?>Florenz</placeName> anhalten, <hi rendition="#aq"><foreign xml:lang="ita">dove la buoni<del rendition="#s"/>ssima signora <?oxy_insert_start author="weiger" timestamp="20200514T154051+0200" type="surround"?><persName key="G001215"><?oxy_insert_end?>Grunelius</persName> mi sbarrò la via, nello stesso modo che <seg type="comment"><orig>mi sbarrò la via quando ero di ritorno</orig><note xml:id="numz_yhj_1mb">Nach einer Paris-Reise mit dem Bruder vom 21. September bis zum 2. Oktober 1878 war Gregorovius von Frankreich aus alleine nach Baden-Baden weitergereist. Dort verbrachte er einige Tage bei Adelheid Grunelius (vgl. RT, Aufenthalt in Paris, S. 404– 409).</note></seg></foreign></hi><seg type="comment"><orig> <pb n="2v"/></orig><note xml:id="numz_yhj_1mb"><?UNIQUE_CARET_MARKER_FOR_AUTHOR?></note></seg><hi rendition="#aq"><foreign xml:lang="ita"><seg type="comment"><orig>da <?oxy_insert_start author="weiger" timestamp="20200514T154103+0200" type="surround"?><placeName key="G000749"><?oxy_insert_end?>Parigi</placeName>.</orig><note xml:id="numz_yhj_1mb"/></seg> Però sono persuaso che non potrò far a meno <seg type="comment"><orig>di salutarla a Firenze.</orig><note xml:id="nigw_13j_1mb">„Noch am 14. abends traf ich in Florenz ein und stieg hier wieder im „Rebecchino“ ab. Ich benützte den folgenden Tag für das Archiv und besuchte Frau Grunelius, welche den Winter in jener Stadt zubrachte.“ (RT, Romfahrt, 1879, S. 411).</note></seg> Ora mi occorre una camera, o piuttosto due a Roma, e sarebbe prima della metà di Febrajo – mi farebbe una cosa grata, se volesse avvertirmi, se <seg type="comment"><orig>la casa <?oxy_insert_start author="weiger" timestamp="20200514T154202+0200" type="surround"?><persName key="G001016"><?oxy_insert_end?>Campofregoso</persName> in <?oxy_insert_start author="weiger" timestamp="20200514T154217+0200" type="surround"?><placeName key="ediarum_njc_s3x_qlb"><?oxy_insert_end?>Ripetta</placeName></orig><note xml:id="nr44_cvq_1mb">Die Via di Ripetta führt von der Piazza del Popolo, am Mausoleums des Augustus entlang, bis zur Via del Clementino. Gregorovius hatte während seines römischen Lebens zeitweise in der Via di Ripetta Nr. 108 gewohnt, im Haus des Marchese und Capitano Luigi Campofregoso (1844–1908).</note></seg> è libera per il mio commodo; va senza dire, che prefererei <seg type="comment"><orig>una casa in <?oxy_insert_start author="weiger" timestamp="20200514T154242+0200" type="surround"?><placeName key="ediarum_lmm_slx_qlb"><?oxy_insert_end?>Via Gregoriana</placeName></orig><note xml:id="nbcw_dvq_1mb">In der Via Gregoriana Nr. 13 hatte sich Gregorovius zu seiner Rom-Zeit eine Wohnung mit dem Bildhauer Eduard Mayer (1812–1881) geteilt.</note></seg> o <seg type="comment"><orig>nella <?oxy_insert_start author="weiger" timestamp="20200514T154254+0200" type="surround"?><placeName key="ediarum_t5c_vlx_qlb"><?oxy_insert_end?>Sixtina</placeName></orig><note xml:id="nccz_2vq_1mb">Die Via Sistina ist eine Straße im historischen Zentrum Roms, die die Piazza Trinità dei Monti mit der Piazza Barberini verbindet.</note></seg>, ma essa dovrebbe esser esposta al sole.</foreign></hi></p>
+<p>Bitte, schreiben Sie mir innerhalb 14 Tagen darüber, <seg type="comment"><orig>ohne die Wohnung fest zu machen</orig><note xml:id="nlxx_gvq_1mb">Mariano mietete schließlich eine Wohnung bei einer gewissen Frau Alessio im dritten Stock in der Via Babuino 78 für Gregorovius an (siehe RT, Romfahrt, 1879, S. 411). Siehe zur Verschiebung von Gregorovius’ Reise um einige Tage den Brief von Gregorovius an Raffaele Mariano vom 31.1.1879.</note></seg>. Ich werde Ihnen dann Näheres über meine Ankunft sagen. Die <?oxy_insert_start author="weiger" timestamp="20200514T154312+0200" type="surround"?><persName key="G001203"><?oxy_insert_end?>Meinigen</persName> grüßen Sie sehr – bitte grüßen Sie die gemeinschaftl<ex>ichen</ex> Freunde alle, auch <?oxy_insert_start author="weiger" timestamp="20200514T154326+0200" type="surround"?><persName key="G067878"><?oxy_insert_end?>Maraini</persName>. </p>
+<closer>
+<salute rendition="#c">In Treue</salute>
+<signed rendition="#c">Ihr FGr<note type="postscript" place="mTop" rendition="#rotate180" xml:id="n1" next="#n2"><pb n="2r"/>Grüßen Sie <hi rendition="#aq"><?oxy_insert_start author="weiger" timestamp="20200514T154341+0200" type="surround"?><persName key="G001012"><?oxy_insert_end?><seg type="comment"><orig>Cagiati</orig><note xml:id="nogw_h3j_1mb">Der römische Kaufmann Filippo Cagiati (*1821) hatte wesentlich zu Gregorovius’ Ernennung zum Ehrenbürger der Stadt Rom beigetragen; siehe den Brief von Gregorovius an David Silvagni vom 24.3.1876.</note></seg></persName></hi>, bitte, auch die <hi rendition="#aq"><?oxy_insert_start author="weiger" timestamp="20200514T154402+0200" type="surround"?><persName key="G001011"><?oxy_insert_end?><?oxy_insert_start author="weiger" timestamp="20200514T154410+0200" type="surround"?><persName key="G067827"><?oxy_insert_end?>Lovatellis</persName></persName></hi>, <hi rendition="#aq"><?oxy_insert_start author="weiger" timestamp="20200514T154423+0200" type="surround"?><persName key="ed_nfl_yj2_rlb"><?oxy_insert_end?><?oxy_insert_start author="weiger" timestamp="20200514T154433+0200" type="surround"?><persName key="G001219"><?oxy_insert_end?>Guerrieri</persName></persName></hi> etc.</note><note type="postscript" xml:id="n2" prev="#n1" place="mTop" rendition="#rotate180"><pb n="1v"/>Ich hoffe daß der <seg type="comment"><orig>Druck Ihrer <?oxy_insert_start author="weiger" timestamp="20200514T154459+0200" type="surround"?><bibl sameAs="ed_yr4_nvd_rlb"><?oxy_insert_end?>Arbeit</bibl> </orig><note xml:id="nshy_33j_1mb">Siehe zur Veröffentlichung der Schrift den Brief von Gregorovius an Raffaele Mariano vom 30.7.1878.</note></seg>gefördert wird – von dem Wohnort d<ex>es</ex> <seg type="comment"><orig><?oxy_insert_start author="weiger" timestamp="20200514T154530+0200" type="surround"?><persName key="G001354"><?oxy_insert_end?>Wilhelm Lang</persName></orig><note xml:id="nb31_k3j_1mb">Der Stuttgarter Publizist und Schriftsteller Wilhelm Lang (1832–1915) war erst kürzlich zum Herausgeber der Zeitschrift „Im neuen Reich“ ernannt worden; siehe den Brief von Gregorovius an Raffaele Mariano vom 1.11.1878. </note></seg> weiß ich nichts zu sagen.</note></signed>
+</closer>
+</div>
+</body>
+</text>
+</TEI>

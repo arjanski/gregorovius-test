@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067763">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Pietro Venturi in Rom. Rom, 22. Juni 1875</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository> Archivio Storico Capitolino di Roma</repository><collection>Gabinetto del Sindaco (1877), posizione 48</collection><idno>busta 23, fascicolo 7</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 1 ½ S. – 2v, Bearbeitungsvermerk: 23 Giugno 1875 / Al Gab per riv$ e $ / Sidinaco. / $ – 1r, Bearbeitungsvermerk über Datum und Anrede: Gabinetto; Beantwortungsvermerk im Stempel: 29813 / 25 giugno 75</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er erinnert an das gemeinsame Treffen im März 1875 in Rom, bei dem Venturi der um ein Jahr bis 1876 verlängerten Veröffentlichungsfrist für die italienische Übersetzung seiner „Geschichte der Stadt Rom im Mittelalter“ (1872–1876) zugestimmt hat. Er übermittelt die Bitte des Verlags Antonelli um schriftliche Bestätigung dieser Fristverlängerung.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1875-06-22" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001674">Venturi, Pietro (1824–1892)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+<correspContext>
+<ref type="next">25. Juni 1875</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Roma, ai 22. Giugno 1875.</dateline>
+                    <salute rendition="#c">Onorevole <seg type="comment"><orig>signor Sindaco</orig><note xml:id="nlws_tzt_zlb">Der Anwalt und Politiker Pietro Venturi (1824–1892) war im Januar 1875 zum Bürgermeister Roms ernannt worden. Dieses Amt, das er als Assessor bereits von Mai bis November 1872 und von August 1874 bis Januar 1875 ausgeübt hatte, bekleidete er bis November 1877. Gregorovius und er standen seit der am 17.8.1872 beschlossenen Kostenübernahme für die italienische Ausgabe der „Geschichte der Stadt Rom im Mittelalter“ durch die römische Gemeinde in unregelmäßigem Kontakt. Seinen Dankesbrief an den Bürgermeister für die finanzielle Unterstützung der Stadt veröffentlichte Gregorovius sowohl auf italienisch als auch auf deutsch; siehe den Brief von Gregorovius an Pietro Venturi vom 17.8.1872. Vor dem Hintergrund der gelegentlichen Unzuverlässigkeit des venezianischen Verlags Giuseppe Antonelli, dem die Herausgabe der „Storia della città di Roma nel Medio Evo dal secolo V al XVI“ oblag, sah sich Gregorovius zeitweise dazu angehalten, gegenüber Venturi als Vermittler zwischen Verlag und Kommune aufzutreten; siehe den Brief von Gregorovius an Pietro Venturi vom 14.6.1875. Der Briefwechsel zwischen den beiden umfasst acht Briefe des deutschen Historikers an den Bürgermeister sowie drei Gegenbriefe, ist überwiegend von einem höflichen Duktus gezeichnet, und reicht bis in den September 1877.</note></seg>,</salute>
+                </opener>
+<p>nel colloquio che ebbi l’onore di avere con V<ex>ostra</ex> S<ex>ignoria</ex> Ill<hi rendition="#sup"><ex>ustrissi</ex>ma</hi> alla fine del <seg type="comment"><orig>Marzo passato</orig><note xml:id="npmc_vzt_zlb">Acht Monate nachdem Gregorovius Rom endgültig verlassen hatte, war er am 2. März 1875 für eine mehrwöchige Reise durch Italien von München aufgebrochen. In Rom traf er am 21. des Monats ein, stattete unter anderem Venturi einen Besuch ab (siehe RT, S. 346- 351). </note></seg>, Ella accolse favorevolmente l’intercessione mia volta al proposito di <seg type="comment"><orig>conceder proroga di termine per l’ultimazione della stampa italiana della <bibl corresp="G004367">Storia di Roma nel medio-evo</bibl></orig><note xml:id="nphy_wzt_zlb">„Der Bürgermeister zeigte sich bereit dazu, und so haben wir den Termin bis zu Ostern 1876 hinausgerückt. Der Druck des VII. Bandes hat begonnen, aber er schreitet mit gewohnter Langsamkeit vor.“ (RT, 21.4.1875, S. 351).</note></seg>. </p>
+<p>Confessandosene molto grato, l’editore dell’opera, <seg type="comment"><orig>il <persName key="G000932">Signor Antonell</persName>i di Venezia</orig><note xml:id="nf5w_xzt_zlb">Antonio Antonelli (1817–1889) hatte den Verlag von seinem Vater, dem Verlagsgründer, Giuseppe Antonelli (1793–1861) übernommen. In den Verhandlungen um die italienische Ausgabe der „Geschichte der Stadt Rom im Mittelalter“ intervenierte auch Cristiano Artaria Rebeschini (1830–1901) in Vertretung für den Verlag.</note></seg>, testè mi ha espresso un desiderio, che mi permetto di renderle <seg type="comment"><orig>colle sue proprie parole:</orig><note xml:id="nrtw_yzt_zlb">Das Schreiben des Verlags an Gregorovius, aus der folgende Passage stammt, ist nicht erhalten.</note></seg> </p>
+<p>„Parmi che sarebbe bene per me di avere confermato questa prolungazione (<seg type="comment"><orig>sino alla Pasqua del prossimo anno 1876</orig><note xml:id="no42_115_zlb">Alle Bände der „Storia della città di Roma nel Medio Evo dal secolo V al XVI“ erschienen bis 1876.</note></seg>) con <seg type="comment"><orig>una Nota del Municipio</orig><note xml:id="nkjk_b15_zlb">Am 26. Dezember 1872 hatte der damalige Bürgermeister Roms, Conte Luigi Pianciani (1810–1890), dem Verlag die Zahlung von 8000 Lire nach Überlassung von 100 Exemplaren der italienischen Ausgabe der „Geschichte der Stadt Rom im Mittelalter“ zugesagt. Als Frist für den Druck aller, wie mit dem Autor vereinbarten, acht Bände wurde das Jahr 1875 festgesetzt; siehe den Brief von Luigi Pianciani an den Verlag Giuseppe Antonelli vom 26.12.1872; H: Archivio Storico Capitolino di Roma, Gabinetto del Sindaco (1877), posizione 48, busta 23, fascicolo 7.</note></seg> che me ne fareste dichiarazione ad Appendice della sua Nota 26. Dicembre 1872. N<ex>umero</ex> 1992: e per tanto oso invocare l’efficace suo mezzo, affinchè una cotale nota mi sia rilasciata, <seg type="comment"><orig>per ogni buon effetto di ordine e di regolarità</orig><note xml:id="nqqq_c15_zlb">Die gewünschte Bestätigung einer Fristverlängerung für die Ausgabe aller Bände erging in einem Schreiben Venturis vom 6. Juli 1875 an den Verlag; siehe den Brief von Pietro Venturi an den Verlag Giuseppe Antonelli vom 6.7.1875; H: Archivio Storico Capitolino di Roma, Gabinetto del Sindaco (1877), posizione 48, busta 23, fascicolo 7 (48).</note></seg>.“ </p>
+<p>Cedendo perciò alle instanze del Signor Antonelli, mi prendo la libertà <pb n="1v"/>di raccomandar vivamente la sovra esposta inchiesta dell’editore alla benevole approvazione di V<ex>ostra</ex> S<ex>ignoria</ex> Ill<hi rendition="#sup"><ex>ustrissi</ex>ma</hi>.</p>
+<p rendition="#c">della quale mi raffermo</p>
+<p rendition="#c">col più alto rispetto</p>
+                <closer>
+                    <salute rendition="#right">servitor devoto</salute>
+                    <signed rendition="#right">Ferd. Gregorovius.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

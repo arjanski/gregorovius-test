@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000350">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Rudolf Gottschall in Leipzig. München, 6. Oktober 1872 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Sächsisches Staatsarchiv Leipzig</repository><collection>Bestand 21083</collection><idno>Archivalnummer 224 (125)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¼ S. – 2r alR, Blatt um 90° gedreht, Eingangsvermerk: 1872. / <hi rendition="#aq">München</hi>, 6./10. <hi rendition="#aq">October</hi>. / <hi rendition="#aq">Gregorovius</hi>.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 55 Mappe 333 (nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">An der bei Brockhaus geplanten Reihe „Der neue Plutarch: Biographien hervorragender Charaktere der Geschichte, Literatur und Kunst“ (1874–1888) kann er nicht mitwirken. Er hat gerade sein Lebenswerk, die „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) abgeschlossen, und seine Arbeiten für den Winter bereits geplant. Überdies kann nur einen Stoff bearbeiten, der ihn selbst veranlasst zu schreiben. Wünschenswert wäre eine Biographie Cäsar Borgias und Niccolò Macchiavellis, die allerdings gründlicher archvarischer Forschungen voraussetzen. Er hat sehr viele unpublizierte Urkunden zum Hause Borgia, über die er in Ergänzung seiner „Geschichte der Stadt Rom im Mittelalter“ vielleicht einmal etwas veröffentlichen will.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1872-10-06" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001186">Gottschall, Rudolf (1823–1909)</persName>
+<placeName key="G000712">Leipzig</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline>München, 6. <hi rendition="#aq">Oct<ex>o</ex>b<ex>e</ex>r</hi> 1872.</dateline>
+                    <salute>Verehrter <seg type="comment"><orig>Freund</orig><note xml:id="nxpq_htt_rlb"><p>Der aus Breslau gebürtige Dramatiker, Schriftsteller und Literaturhistoriker Rudolf (ab 1877 von) Gottschall (1823–1909) hatte in Königsberg, Breslau und Berlin Rechtswissenschaft studiert. Obwohl er politisch schon in jungen Jahren mit den Königsberger Behörden in Konflikt kam und als Lyriker des Jungen Deutschland publiziert, wurde er 1846 in Königsberg mit einer rechtshistorischen Arbeit promoviert. Im Jahr darauf wurde Gottschall Dramaturg am Stadttheater Königsberg, 1848 in Hamburg und 1852 in Breslau. 1862 wurde er in Posen Redakteur der „Ostdeutschen Zeitung“, bevor er in Leipzig bei Brockhaus 1864 (bis 1888) die Herausgeberschaft der „Blätter für literarische Unterhaltung“ und „Unsere Zeit“ übernahm 1877 wurde der einst liberale Oppositionelle Gottschall für seine Verdienste um die deutsche Literatur, der sich als überaus produktiver Journalist, Lyriker und Autor von Dramen, Romanen und Novellen, als Verfasser der „Deutschen Nationallitteratur des neunzehnten Jahrhunderts“ (Breslau: Trewendt 1855) einen Namen gemacht hatte, von Wilhelm I. von Preußen nobilitiert. Heute ist Gottschall neben seiner vielgelesenen Literaturgeschichte, die 1901–1902 in siebter Auflage erschien, noch als Herausgeber der Werke von Adelbert von Chamisso bekannt (1781–1838; Chamissos sämtliche Werke in vier Bänden. Berlin: Knaur 1906).</p><p>Zusammen mit dem Breslauer Dramatiker, Schriftsteller und Literaturhistoriker Rudolf Gottschall (1823–1909), der 1864–1888 Herausgeber der bedeutenden Brockhaus-Zeitschriften „Blätter für literarische Unterhaltung“ und „Unsere Zeit“, war Gregorovius in seiner Königsberger Zeit der wichtigste Vertreter der oppositionellen Liberalen, mit dem er die „Neue Königsberger Zeitung“ redigiert hatte (hier erschien Gregorovius’ Rezension von Gottschalls Stück „Hieronymus Snitger, der Volkstribun von Hambug“, Nr. 77. Königsberg: Adolph Samter 31.3.1850). Seit dieser Zeit scheint aber es aber zu keinem persönlichen Konakt mehr gekommen zu sein. Überdies zeugen die Äußerungen von Gregorovius in seinen Briefen von seiner persönlichen Abneigung gegen Gottschall. In jüngster Zeit hatte Gregorovius dessen Anfrage, aus Rom für „Unsere Zeit“ Berichte über das Erste Vatikanische Konzil zu liefern, ebenso abgelehnt (siehe den Brief von Gregorovius an Brockhaus, 26.1.1870; Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 94), wie dessen wiederholte Anfrage, an der von ihm bei Brockhaus herausgegebenen Reihe „Der neue Plutarch: Biographien hervorragender Charaktere der Geschichte, Literatur und Kunst“ (1874-1888) mitzuwirken (siehe im vorliegenden Brief und in dem von Gregorovius an Brockhaus, 29.10.1872; Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 127). Das hinderte Gregorovius nicht zu mutmaßen, dass Gottschall ohnehin „einen Groll“ gegen ihn habe (im Brief von Gregorovius an Cotta, 27.3.1874). Umgekehrt hatte Rudolf Gottschall ihn als Autor von „Corsica“ (1854) und „Tod des Tiberius“ (1851) schon früh in seiner dann vielfach aufgelegten Literaturgeschichte „Die deutsche Nationalliteratur in der ersten Hälfte des neunzehnten Jahrhunderts“ (Bd. 2. Breslau: Trewendt 1855. S. 385) gewürdigt. Gottschall hatte auch das Versgedicht „Euphorion“ (1858) von Gregorovius in den „Blättern für literarische Unterhaltung“ (Bd. 1. Nr. 16. Leipzig: Brockhaus 15.4.1858. S. 289–291) rezensiert und – trotz der im vorliegenden Brief erfolgten Absage, an Gottschalls Biographien-Reihe mitzuwirken – eine Rezension seiner „Lucrezia Borgia“ (1874) geschrieben („Ein Frauenbild aus der Renaissancezeit“ in: Blätter für literarische Unterhaltung. Bd. 2. Nr. 40. Leipzig: Brockhaus 1.10.1874. S. 625–630). Erhalten sind fünf Briefe von Gregorovius an Gottschall der Jahre 1872 bis 1883, die sich sämtlich an Gottschall als Herausgeber der Zeitschriften von Brockhaus wenden, vor die späten Reiseschilderungen von Gregorovius aus Ägypten und und Palästina erschienen.</p></note></seg>,</salute>
+                </opener>
+<p>in Bezug auf die mir von Ihnen zugekommene Aufforderung, mich an der <seg type="comment"><orig>im <orgName key="G000480">Brockhausischen Verlage</orgName> projectirten Sammlung von Biographien</orig><note xml:id="ntd1_ltt_rlb">Nach dem Brief von Gregorovius an Brockhaus vom 29.10.1872 (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 127) antwortet der vorliegende Brief auf eine Anfrage von Rudolf Gottschall (1823–1909). Gemeint ist die von Gottschall bei Brockhaus herausgegebene Reihe „Der neue Plutarch: Biographien hervorragender Charaktere der Geschichte, Literatur und Kunst“ erschien 1874-1888 bei Prockhaus. Gottschalls Reihe geht auf die der „Zeitgenossen“ zurück, die Verlagsgründer Friedrich Arnold Brockhaus (1772–1823) nach nach dem Vorbild von Schlichtegroll’s „Nekrolog der Deutschen“ ins Leben gerufen hatte – als Reihe ausführlicherer und in sich abgeschlossener Biographien und Charakteristiken geplant, die auch international ausgerichtet war und lebende Persönlichkeiten einschloss. Die Reihe kam 1816–1828 unter dem Titel „Zeitgenossen. Biographien und Charakteristiken“ heraus; 1829–1841 wurden die Abrisse in „Ein biographisches Magazin für die Geschichte unserer Zeit“ zusammengefasst.</note></seg> zu beteiligen, kann ich Ihnen leider <seg type="comment"><orig>keine Zusage geben</orig><note xml:id="niql_1n4_slb">Aus dem Brief von Gregorovius an Brockhaus vom 29. Oktober 1872 geht hervor, dass Gottaschall trotz dieser Absage seine Aufforderung, an der geplanten Reihe mitzuwirken, noch einmal wiederholte (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 127).</note></seg>.</p>
+<p>Wenn ich überhaupt meiner Natur nach im Stande wäre, eine mir von außen zukommende, also nicht in mir selbst entstandene Aufgabe zu behandeln, so würde mich doch der Mangel an Zeit daran hindern. Ich habe eben <seg type="comment"><orig>das <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Werk</bibl> abgeschloßen, welches meine Lebensaufgabe war</orig><note xml:id="nlt5_mtt_rlb">Der achte und letzte Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1872) war im Druck.</note></seg>, u<ex>nd</ex> ich bedarf eben deshalb der Ruhe u<ex>nd</ex> Sammlung für das Wenige u<ex>nd</ex> Eigenste, was mir etwa noch zu vollenden oder zu schaffen bleibt. Ich habe daher über meine Thätigkeit in diesem Winter bereits Dispositionen <pb n="1v"/>getroffen, welche ich durch keinerlei andere Beschäftigung stören darf.</p>
+<p>Es wäre wol wünschenswert, daß jemand eine gute <seg type="comment"><orig>Biographie von <persName key="G000983">Cäsar Borgia</persName></orig><note xml:id="nafh_xtt_rlb">Cesare Borgia (1475/76–1507), der uneheliche Sohn von des späteren Papstes Alexander VI. (1431–1503), hatte der Niccolò Machiavelli (1669–1827), der 1502 als Gesandter von Florenz an seinem Hof in Urbino gekommen war, 1513 zu seinem Traktat „Il Principe“ (ED: Rom: Antonio Blado d’Asola 1532) veranlasst, das wesentlich zu dessen Bild als skrupelloser Herrscher in der Nachwelt beitrug.</note></seg> schriebe, u<ex>nd</ex> <seg type="comment"><orig>an diese eine andere <persName key="G001393">Macchiavelli’s</persName></orig><note xml:id="nxx2_35t_rlb">Die „Istorie Fiorentine 1215–1492“ (Florenz 1532) des Staatsmanns und Schriftstellers Niccolò Machiavelli (1469–1527) hatte Alfred von Reumont (1808–1887) ins Deutsche übersetzt (Niccolo Machiavelli’s Florentinische Geschichten. 2 Tle. Leipzig: Brockhaus 1846). In Italien legten Pasquale Villari (1827–1917) (Niccolò Machiavelli e i suoi tempi illustrati con nuovi documenti. 3 Bde. Lorenz Le Monnier 1877–1882) und Oreste Tommasini (1844–1919; La vita e gli scritti di Niccolò Machiavelli nella loro relazione col machiavellismo. 2 Bde. Turin: Loescher 1883/1911) bald große Biographien Machiavellis vor.</note></seg> anschlöße. Ohne Benutzung archivalischer Materialien, also ohne gründliche Forschungen ließe sich freilich so etwas nicht leisten. Ich bin im Besitze vieler unbekannter Urkunden jenes Haus Borgia betreffend, u<ex>nd</ex> möglicher Weise werde ich noch einmal <seg type="comment"><orig>etwas darüber schreiben, sowol die betreffenden Abschnitte in meiner Geschichte der Stadt zu ergänzen, als nur eben jene Actenstücke zu veröffentlichen</orig><note xml:id="nicz_m5t_rlb">Gregorovius veröffentlichte bereits 1874 eine Biographie der Schwester von Cesare Borgia, „Lucrezia Borgia“ (1480–1519; Stuttgart: Cotta 1874), die noch heute als Standardwerk herangezogen wird. Hierfür hat er neben dem Abdruck der von ihm verwendeten Quellen sich vermutlich als erster der Möglichkeit bedient, seiner Studie drei Faksimiles aus dem Archiv Este in Modena (heute im Archivio di Stato di Modena) und dem Archivio Gonzaga in Mantua (heute Archivio di Stato di Mantua) beizufügen.</note></seg>. </p>
+<p>Ich verfolge mit Anteil, auch in der Fremde, Ihre große und vielseitige Thätigkeit, wozu <pb n="2r"/>ich Ihnen bei fortdauernder Kraft ein gleiches Glück wünsche.</p>
+                <closer>
+                    <salute rendition="#c">Mit aufrichtiger Ergebenheit <lb/>Ihr</salute>
+                    <signed rendition="#right"><hi rendition="#aq">FGregorovius</hi>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000412">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Giovanni Battista De Rossi in Rom. Rom, 11. Mai 1883 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Rom, Biblioteca Apostolica Vaticana</repository><collection>Vat. Lat. 14269, Carteggio Giovanni Battista De Rossi 1883</collection><idno>fol. 330 Nr. 263</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 1 ¼ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er berichtet von seinem Engagement gegen das Projekt eines Nationaldenkmals für Vittorio Emanuele II., das anstelle des mittelalterlichen Stadtviertels Aracoeli entsehen soll. Seine Appelle an den Präsidenten der Accademia nazionale di San Luca, Francesco Azzurri, den Zerstörungen historischer Gebäude und Straßen in Rom zugunsten städtischer Modernisierung, Einhalt zu gebieten, haben bislang keine Wirkung gezeigt. Wie der Archäologe Wilhelm Henzen ist er davon überzeugt, dass sie als Ausländer ihre Unterstützung in dieser Angelegenheit am besten durch Unterzeichnung eines Appells einer römischen Autorität, beispielsweise De Rossis, zum Ausdruck bringen können.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1883-05-11" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001085">De Rossi, Giovanni Battista (1822–1894)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c">Roma, 11. Maggio 83.</dateline>
+<salute rendition="#c">Gentilissimo ed illustre Signor de <?oxy_comment_start author="weiger" timestamp="20190807T183542+0200" comment="Der Archäologe Giovanni Battista De Rossi (1822–1894)."?>Rossi<?oxy_comment_end?>,</salute>
+</opener>
+<p>quanto alle proteste da farsi contro il progetto che tuttora minaccia le memorie secolari del Campidoglio,<?oxy_comment_start author="weiger" timestamp="20190807T183638+0200" comment="Nach dem Tod von König Vittorio Emanuele II (1820–1878), hatte die Stadt Rom beschlossen, ihm zu Ehren ein Nationaldenkmal auf dem Kapitolshügel zu errichten. Der Baubeginn des gigantischen Gebäudes, der Altare della Patria, datiert in das Jahr 1885, vollendet wurde es 1935. Der für das Denkmal gewählte Ort im Zentrum der Stadt, das Viertel Aracoeli, war bebaut mit mittelalterlichen Gebäuden, die im Zuge der Errichtung des Monuments zwischen 1884–1899 abgerissen wurden. Zahlreiche historische Straßen gingen verloren. Gegen diese Zerstörungen sprachen sich in Rom unter anderen prominenten Stimmen der Bürgermeister Leopoldo Torlonia (1853–1918), der Archäologe Rodolfo Lanciani (1845–1929) und der Politiker Ruggiero Bonghi (1826–1895) aus. Auch De Rossi war ein engagierter Gegner des Monuments. Befürworter des Projektes waren zum Beispiel der Kunsthistoriker Giovanni Battista Cavalcaselle (1819–1897) und der Architekt Camillo Boito (1836–1914)."?> <?oxy_comment_end?>posi la mia speranza nell’ Accademia di S<ex>an</ex> Luca, alla quale di fatti sono de’ soci, a ciò da me esortato, propose di far dichiarazione solenne nel senso desiderato.<?oxy_comment_start author="weiger" timestamp="20190807T183712+0200" comment="Gregorovius war am 21. März 1880 zum Ehrenmitglied der römischen Accademia nazionale di San Luca ernannt worden (BSB München, NL Gregorovius, Gregoroviusiana 19). Angesichts der einschneidenden, städtebaulichen Veränderungen Roms hatte er 1881 in drei der vier erhaltenen Briefe an den Präsidenten der Akademie, Francesco Azzurri (1827–1901), für eine systematische Dokumentation der mittelalterlichen Bauten der Stadt plädiert. Er schlug vor, die bedrohten Monumente vor ihrem endgültigen Verschwinden, durch Zeichnungen und Fotografien dokumentarisch erfassen zu lassen."?> <?oxy_comment_end?>Però m’accorgo, che la proposta finora è rimasta senza seguito.<?oxy_comment_start author="weiger" timestamp="20190807T183739+0200" comment="Da seine Appelle an die Akademie und an Vertreter der römischen Kulturszene offensichtlich nicht den gewünschen Erfolgt zeigten, veröffentlichte Gregorovius einen seiner Briefe an Azzurri in der Beilage der Allgemeinen Zeitung (21.3.1886, S. 1177; Wiederabdruck unter dem Titel „Der Umbau Roms“, KS II, S. 281–315). Bereits am 9. April 1881 hatte er den Präsidenten der Akademie in der Libertà um Einhalt der radikalen Moderinisierung Roms gebeten (RT 1881, S. 422)."?> <?oxy_comment_end?></p>
+<p>Del resto sono interamente del parere di <?oxy_comment_start author="weiger" timestamp="20190807T183800+0200" comment="Wilhelm Henzen (1818–1887) arbeitete seit 1841 am Deutschen Archäologischen Institut in Rom, war ab 1856 einer der beiden leitenden Sekretäre dort. Zusammen mit Theodor Mommsen (1808–1903) und dessen engem Freund De Rossi zeichnete er für das von der Berliner Akademie herausgegebene „Corpus Inscriptionum Latinarum“ (17 Bde., Berlin) verantworlich. Gregorovius kannte ihn bereits seit seiner frühen Zeit in Rom (siehe den Brief von Gregorovius an Ludwig Friedländer, 4.2.1855) und schrieb ihm auch nach seinem Weggang aus Rom regelmäßig. "?>Henzen<?oxy_comment_end?>, che cioè a noi altri Non-Romani, per stretti che siano i vincoli che ci legano alla città di Roma, non convince altra partecipazione alle proteste, che quella con aderire ad una sentenza pronunciata da una corporazione romana di maggior autorità, qualora costei ci onorasse di un invito a raffermare ancora con i nostri nomi il suo parere.</p>
+<p>Faccio voti ardenti, che <pb n="1v"/>la sua voce autorevole, applaudita da’ altre autorità alla fine salvi il Campidoglio da ogni tentativo di vandalismo moderno.<?oxy_comment_start author="weiger" timestamp="20190807T183831+0200" comment="Bereits im Jahre 1881 hatte sich Gregorovius mit der Bitte um Unterstützung, den Umbau Roms zu stoppen und ein städtische Museum zu errichten, mit Erfolg an De Rossi gewandt (RT 1881, S. 422)."?></p><?oxy_comment_end?>
+<closer>
+<salute xml:id="s1" next="#s2">Con i sensi della più profonda stima</salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">suo devo<hi rendition="#u" hand=""><hi rendition="#sup"><ex>tissi</ex>mo</hi></hi></salute>
+<signed rendition="#c">Ferd. Gregorovius. </signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

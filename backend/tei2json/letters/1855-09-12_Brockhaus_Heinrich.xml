@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000033">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Heinrich Brockhaus in Leipzig. Rom, 12. September
+                    1855</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (18)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 8°, 3 S. – 1r aoR in einer Vignette geprägt: BATH – 2v alR, Blatt um 90° gedreht, Eingangs- und Beantwortungsvermerk: 1855. / <hi rendition="#aq">Rom</hi>, 12./20. <hi rendition="#aq">September</hi>. / <hi rendition="#aq">Gregorovius</hi>. / B. 16/X. / Prospect. Titel. / Aushägebn </p>
+<p>Korrekturanweisungen zum eingesandten Manuskript von „Figuren, Geschichte, Leben und Scenerie aus Italien“  (1856) mit dem Manuskript einer neuen Vorrede</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Der neue Titel für „Pandora“ soll „Figuren, Geschichte, Leben und Scenerie aus Italien“ (1856) lauten. Er wünscht die Korrekturen in den Druckbogen selbst zu übernehmen und übersendet vorab ein Blatt mit Korrekturwünschen und eine neue Vorrede. Bezüglich der englischen Übersetzung seiner „Figuren“ will er sich mit dem Edinburgher Verleger Thomas Constable einigen, der mit ihm einen Vertrag für die englischen Übersetzungen aller seiner Schriften abschließen will. Für den Verlag seiner „Lieder des Giovanni Meli von Palermo“ (1856) stellt er Vertragsbedingungen. Im Herbst will er das Manuskript seiner Versdichtung „Euphorion“ (1858) abgeschlossen haben, das er Brockhaus zum Verlag antragen wird. Er plant eine ausführliche Studie über die Kulturepochen Siziliens.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">The new title for „Pandora“ is to be „Figuren, Geschichte, Leben und Scenerie aus Italien“ (1856). He wants to make the corrections in the galley proofs himself and sends a sheet of correction requests and a new preface in advance. Regarding the English translation of his „Figuren“, he wants to come to an agreement with the Edinburgh publisher Thomas Constable, who wants sign a contract with him for the English translations of all of his writings. He states his terms for the publication of his „Lieder des Giovanni Meli von Palermo“ (1856). In the fall he wants to have completed the manuscript of his poetic work „Euphorion“ (1858), which he will offer to Brockhaus for publication. He is planning a detailed study of Sicily’s cultural eras. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1855-09-12" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G000996">Brockhaus, Heinrich (1804–1874)</persName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next">16. Oktober 1855</ref>
+<ref type="prev">3. September 1855</ref>
+<ref type="next">16. Oktober 1855</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+<opener>
+<salute rendition="#c">Sehr verehrter Herr,</salute>
+</opener>
+<p>ich habe heute Ihren freundlichen Brief vom 3. Sept<ex>em</ex>b<ex>e</ex>r richtig erhalten, u<ex>nd</ex> ohne Phrasen sage ich Ihnen aus dem Herzen Dank. Möchte die Zukunft es darthun, daß die Aufmunterung, welche Sie mir gegeben haben, recht u<ex>nd</ex> wol verwendet worden ist.</p>
+<p>Sollten Sie einen schriftlichen Contract aufsetzen, so vermute ich, daß Sie für den Abzug ein <hi rendition="#aq">maximum</hi> von 1000 Ex<ex>em</ex>pl<ex>aren</ex> feststellen; und wir uns über eine etwaige <bibl sameAs="G003122">zweite Auflage</bibl> dann verständigen.</p>
+<p rendition="#c"><note place="left" hand="#addressee">=</note>Was den Titel betrifft, so laute er nun:</p>
+<p rendition="#c"><seg type="comment"><orig><note place="left" hand="#addressee">=</note><bibl sameAs="G003114"><hi rendition="#u">Figuren</hi>, <lb/>Geschichte, Leben u<ex>nd</ex> Scenerie <lb/>aus <lb/>Italien</bibl>.</orig><note xml:id="nnvm_fpq_4lb">Mit seinem Brief vom <ref target="G000073">19.7.1855</ref> hatte Gregorovius das Manuskript seines Bandes „Pandora, eine Sammlung kleiner Schriften aus Italien“ zum Verlag übersandt und den Brief von Johann Georg Cotta vom 11.7.1855 beigelegt (h: DLA Marbach, Cotta-Archiv, Gelehrten-Copirbuch IV, 328), der den Verlag abgelehnt hatte. Brockhaus nahm das Manuskript an, das 1856 unter dem hier vorgeschlagenen Titel gedruckt wurde. </note></seg></p>
+<p>Ich glaube, Sie werden mit diesem Titel zufrieden sein, er ist precis u<ex>nd</ex> zur Sache. Indem es hiebei auf einen kurzen Titel ankommt (da Titel die Handhaben der Bücher sind), so wird das Publicum d<ex>as</ex> Buch „Figuren aus Italien‟ nennen, was nicht abgedroschen ist. Ich bitte, „Figuren‟, in großer Schrift, „Geschichte, Leben u<ex>nd</ex> Scenerie“ in weit Kleinerer drucken zu laßen.</p>
+<p><note place="left" hand="#addressee">=</note>Gerne würde ich die Correctur selbst besorgen, denn aus Erfahrung weiß ich, welche Druckfehler unterlaufen, so daß auch mein <bibl sameAs="G003106">Corsica</bibl> von ihnen voll ist. Ich bitte daher den Corrector <pb n="1v"/>auf das genaueste zu verfahren; zugleich schließe ich beikommendes Blatt bei, welches gewiße Stellen bezeichnet, die ich aus dem Buche entfernt zu sehn wünsche. Die Probebogen durchzusehn, werde ich mich freuen, u<ex>nd</ex> es wird jedenfalls nötig sein.</p>
+<p>Ich hoffe Sie werden, geehrter Herr, das Buch recht handlich ausstatten. Wie anders hat zum Beispiel <orgName key="G000471"><hi rendition="#aq">Constable</hi></orgName> die <bibl sameAs="G004437">englische Ausgabe meines <hi rendition="#aq">Corsica</hi></bibl> gedruckt, als <seg type="comment"><orig>die <orgName key="G000523">J. G. Cottasche Buchhandlung</orgName>, welche mein Buch zwar sehr nobel u<ex>nd</ex> gediegen, aber nicht in gefälliger Form gedruckt hat</orig><note xml:id="nirt_lpq_4lb">Gregorovius’ „Corsica“ erschien zu seinem Unmut als Reihentitel, nämlich als 41.-42. „Lieferung der Sammlung Reisen und Länderbeschreibungen der älteren und neuesten Zeit“.</note></seg>. <seg type="comment"><orig>Ich gebe nun Herrn <persName key="G001044"><hi rendition="#aq">Constable</hi></persName> Nachricht, von dem beginnenden Druck, u<ex>nd</ex> hoffe mich mit ihm zu einigen</orig><note xml:id="nrx3_rpq_4lb">Im vorangehenden Brief vom <ref target="G000076">22.8.1855</ref> hatte Gregorovius Brockhaus mitgeteilt, dass der Edinburgher Verlag von Thomas Constable an der Übersetzung interessiert ist; in seinem Brief vom <ref target="G000044">27.5.1855 an Cotta</ref> ist sogar von Constables Interesse an einem exklusiven Übersetzungs-Vertrag für England die Rede. Beides kam nicht zustande.</note></seg>. Wäre ich schon so weit, daß ich auf ein bestimmtes Honorar aus <placeName key="G000599">England</placeName> zählen könnte, dann würde mir alles leichter. Bisher aber hat mir T<ex>homas</ex> <hi rendition="#aq">Constable</hi> eine jährliche Abrechnung angetragen, u<ex>nd</ex> habe ich seitdem noch nicht an ihn geschrieben.</p>
+<p>Über die <seg type="comment"><orig><bibl sameAs="G004072">Lieder des Giovanni Meli</bibl></orig><note xml:id="ntrp_zpq_4lb">Das in seinem Brief vom <ref target="G000073">19.7.1855</ref> angekündigte Manuskript seiner „Lieder des Giovanni Meli von Palermo“ (1856) hatte Gregorovius am 21.7.1855 an Brockhaus übersandt (siehe RT, 23.7.1855, S. 56) und in seinem Brief vom <ref target="G000076">22.8.1855</ref> erneut zum Verlag angeboten. Auch dieses Manuskript wurde von Brockhaus angenommen und erschien 1856.</note></seg> erlauben Sie mir ein <hi rendition="#aq">medium</hi> vorzuschlagen, welches Ihnen, wie ich hoffe conveniren wird. Ich schlage Ihnen demnach vor:</p>
+<p rendition="#c">eine Auflage im <hi rendition="#aq">maximum</hi> von 1000 Ex<ex>emplaren</ex> <lb/>Dafür vorweg ein Honorar von 50 Th<ex>alern</ex> <lb/>nach dem Verkauf von 400 Ex<ex>emplaren</ex> andere 50. <lb/>nach dem Verkauf von 1000 weitere 50.</p>
+<p>Dies ist für mich die <hi rendition="#aq">ultima ratio</hi> in dieser Angelegenheit, denn etwas Honorar muß ich vorweg für eine so schwere u<ex>nd</ex> so noble Arbeit haben. Und möchten Sie gefälligst darauf rücksichtigen, daß abgesehn von dem Wert dieser originalen Poesie, <seg type="comment"><orig>hinter Meli eine ganze Nationalität steht, die sicilianische</orig><note xml:id="nikh_kqq_4lb">Der aus Palermo stammende Dichter, Arzt und Naturwissenschaftler Giovanni Meli (1740–1815) schrieb seine Gedichte in sizilianischem Dialekt.</note></seg>, u<ex>nd</ex> also auch <seg type="comment"><orig>die nahen Ereigniße <placeName key="G000575">Siciliens</placeName></orig><note xml:id="nfyr_xqq_4lb">Siehe hierzu den von Brockhaus gewünschten Artikel von Gregorovius „Das Königreich beider Sicilien in seinen gegenwärtigen Zuständen“ in: Die Gegenwart. Eine encyklopädische Darstellung der neuesten Zeitgeschichte für alle Stände. Bd. 11. Leipzig: Brockhaus 1855. S. 149–189. Unter dem Titel „Neapel und Sicilien vom Jahr 1830 bis 1852“ wurde S. 164–189 aufgenommen in: Siciliana. Wanderungen in Neapel und Sicilien. Leipzig: Brockhaus 1861.</note></seg> unserem Buche vermehrte Aufmerksamkeit sichern. Ihrer geneigten Entscheidung sehe ich entgegen.</p>
+<p><seg type="comment"><orig>Beikommend folgt eine neue Vorrede zu den <pb n="2r"/>Figuren.</orig><note xml:id="ngjf_xrq_4lb">Dem Band wurde keine Vorrede, aber ein Widmungsschreiben für seinen Freund Friedrich Althaus (1829–1897) vorangestellt, mit dem zusammen Gregorovius Mitte 1853 Süditalien bereist hatte (siehe den Brief von <ref target="G000014">Gregorovius an Althaus, 8.1.1854</ref>).</note></seg></p>
+<p><note place="left" hand="#addressee">=</note><seg type="comment"><orig>Ich beschließe den <bibl sameAs="G003574">Euphorion</bibl> im Herbste, u<ex>nd</ex> weil er dann fertig sein wird, werde ich mir wenigstens erlauben, Ihnen die Dichtung zur Ansicht zukommen zu laßen</orig><note xml:id="ne51_x5q_4lb">Siehe den Brief von <ref target="G000076">Gregorovius an Brockhaus, 22.8.1855</ref>. Seine Versdichtung „Euphorion. Eine Dichtung aus Pompeji in vier Gesängen“ erschien erst 1858 bei Brockhaus.</note></seg>. Wenn sie Ihnen zusagt, werden Sie ihr wolwollend sein, wenn nicht, so wird es ganz in der Ordnung sein, daß Sie dieselbe nicht acceptiren.</p>
+<p>Sobald ich einigermaßen frische Luft schöpfe (u<ex>nd</ex> mich hat Arbeit u<ex>nd</ex> römische Malaria sehr mitgenommen) <seg type="comment"><orig>so gehe ich mit neuer Kraft an die Culturgeschichte Siciliens, u<ex>nd</ex> wenn ich irgend die Mittel finde, noch einmal nach <placeName key="G000748"><hi rendition="#aq">Palermo</hi></placeName> zu kommen u<ex>nd</ex> ein paar Bibliotheken zu durchsuchen</orig><note xml:id="nx32_2vq_4lb">Seine seit Ende 1854 geplante Studie über die „Culturepochen Siziliens“ kam nicht zustande (siehe auch den Brief von <ref target="G000078">Gregorovius an Cotta, 3.6.1855</ref>). Gregorovius fuhr nicht mehr nach Sizilien; seine ab 1854 v. a. in Blättern von Cotta erschienen Artikel über Sizilien wurden als Buchpublikation zusammengefasst in: Siciliana. Wanderungen in Neapel und Sicilien. Leipzig: Brockhaus 1861 (ab der 2. Auflage 1865 als Bd. 3 der „Wanderjahre in Italien“).</note></seg>, so verspreche ich Ihnen, im Fall eines convenablen Abschlußes, ein Werk von dem gediegensten u<ex>nd</ex> allgemein-interessanten Inhalt, welches der deutschen Literatur nicht zur Unehre gereichen soll. Zu seiner Zeit werde ich mir erlauben, die näheren Vorlagen zu machen.</p>
+<p>Ich werde mit <persName key="G001345"><seg type="comment"><orig>Kolb</orig><note xml:id="nbr5_3vq_4lb">Der Bankier und württembergische Geschäftsträger in Rom Karl von Kolb (1800–1868).</note></seg></persName> oder einem andern Banquier einen Wechsel auf 150 Th<ex>aler</ex> preußisch ausziehn.</p>
+<p>Indem ich den Brief schließe, spreche ich meine aufrichtige Freude aus, mit Ihnen, mein verehrter Herr, in positive Beziehungen getreten zu sein, u<ex>nd</ex> mit dem Wunsche, daß ich mich ihrer Fortsetzung erfreuen dürfte,</p>
+<closer>
+<salute rendition="#c">empfehle ich mich Ihrer Teilnahme <lb/>hochachtungsvoll u<ex>nd</ex> ergebenst<lb/></salute>
+    <signed rendition="#c"><hi rendition="#aq">F. Gregorovius</hi></signed>
+    <dateline><hi rendition="#aq"><foreign xml:lang="ita">Roma</foreign></hi> d<ex>en</ex> 12. <hi rendition="#aq">S<ex>e</ex>pt<ex>em</ex>b<ex>e</ex>r</hi> 1855.</dateline></closer>
+<note type="postscript">Meine Addresse wird richtig besorgt direct in meine Wohnung <lb/><hi rendition="#aq">Via della Purificazione N<ex>ummer</ex> 63 pian<ex>o</ex> 2</hi>. <lb/>(ich bitte um gefällige Rücksendung des Briefs des Herrn v<ex>on</ex> Cotta).</note>
+</div>
+        </body>
+    </text>
+</TEI>

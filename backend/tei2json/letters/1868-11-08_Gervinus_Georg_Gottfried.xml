@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000282">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Georg Gottfried Gervinus in Heidelberg. Rom, 8. November 1868</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Universitätsbibliothek Heidelberg</repository><collection>NL Georg Gottfried Gervinus</collection><idno>Heid. Hs. 2526,141 (3)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. – 1r + 2r aoR geprägt: ROMA</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 6 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+<msDesc type="concept"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 86, Mappe 4 (nach D)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Oswald Dammann: Ferdinand Gregorovius und Georg Gottfried Gervinus. Mit elf unveröffentlichten Gregoroviusbriefen. In: Zeitschrift für die Geschichte des Oberrheins. N. F. Bd. 56. Karlsruhe im Br.: Braun 1943. S. 626–627</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">In Rom hat ihm Ottilie Keller, die Tochter des Mediziners Carl von Pfeufer, von dem Münchener Aufenthalt von Gervinus berichtet. Gervinus’ Reise nach Wildbad hat dem Augenleiden seiner Frau Viktoria hoffentlich Linderung verschafft. Sein eigener Aufenthalt in Bad Schachen bei Lindau hat seine Kräfte erneuert. Auguste Lindemann-Frommel geht es gesundheitlich besser; ihr Mann Karl ist für eine Auftragsarbeit nach Taormina gereist. Die erkrankte Elisabeth Mayer, die Frau des Bildhauer Eduard Mayer, hält sich zur Genesung in Genazzano auf. Der römische Bankier Karl von Kolb ist verstorben. Gustav Parthey und seine jüngste Tochter Veronika bleiben den Winter in Rom. Er selbst erwägt nach dem Abschluss seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) nach München zu ziehen. Mit Freude hat vom Erscheinen von Gervinus’ Schrift „Händel und Shakespeare“ (1869) gelesen. Der durch die spanische Septemberrevolution rehabilitierte Madrider Geschichtsphilosoph Julian Sanz del Rio erinnert ihn an den Hochverratsprozess von Gervinus (1853) und deren Widerruf. Grüße an Wilhelm Wattenbach.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1868-11-08" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001168">Gervinus, Georg Gottfried (1805–1871)</persName>
+<placeName key="G000685">Heidelberg</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">8. <hi rendition="#aq">No<ex>vem</ex>b<ex>e</ex>r</hi> 1868.</dateline>
+                    <salute>Mein hochverehrter Herr und Freund, </salute>
+                </opener>
+<p>wenn nicht <?oxy_comment_start author="Angela Steinsiek" timestamp="20200408T144226+0200" comment="Vermutlich Ottilie Keller, geb. Pfeufer (1843–1910), die im Mai 1867 den späteren Direktor der Süddeutschen Bodenkreditbank Kasimir Keller (1841–1922) geheiratet hatte. Sie war die Tochter des in Bamberg gebürtigen Mediziners Carl von Pfeufer (1806–1869), seit 1852 als Professor für Therapie und Klinik und Internist des Allgemeinen Krankenhauses in München tätig. Pfeufer hatte nach der Münchener Cholera-Epidimie von 1854 einen Lehrstuhl für Hygiene an der Universität München gegründet, der mit dem später berühmten Max von Pettenkofer (1818–1901) besetzt wurde. Mit Ottilie, geb. von Hardegg (1812–1874) hatte er zudem die unverheiratete Tochter Sophie (1840–1895); bereits verstorben waren der Sohn Christian (1836–1837) und die Tochter Amalie (1846–1843). bereits verstorben waren der Sohn Christian (1836–1837) und die Tochter Amalie (1846–1843)."?>eine <persName key="ed_k2n_hyj_hlb">Tochter</persName> des Medizinalrat <persName key="G001490">Pfeiffer<?oxy_comment_end?> </persName>mir in Rom von Ihrem <placeName key="G000734">Münchner </placeName>Besuche erzählt hätte, so würde meine Schreibfaulheit durch die Ungewißheit bestraft worden sein, ob Sie und <?oxy_comment_start author="Angela Steinsiek" timestamp="20200408T153435+0200" comment="Viktoria Gervinus litt an einer Erkrankung der Netzhaut (siehe den Brief von Gregorovius an Gervinus, 14.8.1868 und 8.9.1868). Gervinus reiste im September 1868 mit seiner Frau in Wildbad, so dass sie auf ein Treffen verzichteten (siehe RT, 20.9.1869, S. 252–253)."?>Ihre <persName key="G001169">Frau Gemalin</persName> wieder in gutem Wolsein sind. Dies nahm ich jedoch auf Grund Ihrer Reise an, und denke, daß die Erholung in <placeName key="G000899"><hi rendition="#aq">Wildbad</hi></placeName> Ihnen recht wol gethan hat.<?oxy_comment_end?> </p>
+<p>Ich verließ mit Bedauern die entzückende <?oxy_comment_start author="Angela Steinsiek" timestamp="20200408T153501+0200" comment="Gregorovius hatte sich von 26.8. bis 23.9.1868 in Schachen bei Lindau aufgehalten (siehe RT, 20.9..1868, S. 252–253)."?>Einsamkeit von <placeName key="G000714">Lindau</placeName> am Ende des September<?oxy_comment_end?>. In einem sehr elenden Zustande war ich dort angelangt, aber die vollkommne Ruhe, frische Luft u<ex>nd</ex> meilenweite Märsche an jenen Ufern stellten mich so trefflich her, daß ich mich wieder mit Furie in meine Arbeiten gestützt habe. Ich fand hier <?oxy_comment_start author="Angela Steinsiek" timestamp="20200408T153645+0200" comment="Der Gesundheitszustand der an Lungentuberkulose leidenden Auguste Lindemann-Frommel (1826–1876) war seit längerer Zeit schlecht (siehe den Brief von Gregorovius an Gervinus, 8.9.1868). "?><persName key="G001374">Frau Lindemann</persName> in einem besseren Zustande als ich erwarten konnte; sie hat sich in der That <pb n="1v"/>erholt, so daß sie mehre Stunden des Tages auf einer <hi rendition="#aq"><foreign xml:lang="fra">chaise longue</foreign></hi> außerhalb des Bettes zubringen kann<?oxy_comment_end?>. <persName key="G001375"><?oxy_comment_start author="Angela Steinsiek" timestamp="20200408T153813+0200" comment="Karl Lindemann-Frommel (1819–1891) war um den 20. Oktober in Taormina eingetroffen, um Skizzen für einen Auftrag von Johann II. von Liechtenstein (1840–1829) für seine Sammlungen anzufertigen. Liechtenstein, der ausgedehnte Reisen durch Europa unternahm, zählte zu den bedeutendsten Sammlern und Kunstmäzenen seiner Zeit. Lindemanns Auftragswerk wurde im Dezember 1868 in Rom in Öl ausgeführt; der Fürst erhielt ein 85 x 31 cm großes Ölgemälde „Palermo mit Mte. Pellegrino“. Das Original ist verschollen, es hat sich nur eine Pause erhalten (siehe Peter K. W. Freude: Karl Lindemann-Frommel. Ein Malerleben in Rom. Monographie und Werkverzeichnis seines graphischen und malerischen Schaffens. Murnau am Staffelsee 1997. S. 54–55, WV 1359 und Abb. der Skizzen Kat. Nr. 1331–1336 – Freude hält Alfred Fürst von und zu Liechtenstein (1842–1907) für den Auftraggeber."?>Lindemann</persName> selbst ist in <placeName key="G000881">Taormina</placeName>, ein bestelltes Bild auszuführen<?oxy_comment_end?>. <persName key="G001413"><?oxy_comment_start author="Angela Steinsiek" timestamp="20200408T153924+0200" comment="Die aus Berlin stammende Elisabeth, geb. Sasse war mit dem Bildhauer Eduard Mayer (1812–1881), Schüler von Christian Daniel Rauchs (1777–1857) und Ernst Rietschel (1804–1861) seit 1856 verheiratet; Gregorovius wohnte bei Mayer in der Via Gregoriana 13."?>Frau Meier</persName><?oxy_comment_end?> fand ich sehr krank u<ex>nd</ex> im Fieber; sie mußte Rom verlaßen u<ex>nd</ex> hat sich für ein paar Wochen bei einer mir befreundeten Familie in <placeName key="G000606">Genzano</placeName> eingerichtet. Daß <?oxy_comment_start author="Angela Steinsiek" timestamp="20200408T154018+0200" comment="Der Bankier und württembergische Geschäftsträger in Rom Karl von Kolb (*1800), zu dem Gregorovius regelmäßig geschäftlichen und privaten Kontakt hatte, war am 22. Oktober 1868 gestorben. Sein Neffe Adolf Nast (1839–1921) folgte ihm im Amt und führte die Bank unter dem Firmennamen Schmitt, Nast und Co. weiter, in die sein Onkel Franz Joseph Schmitt (1809–1888) und dessen Neffen Benedetto (Benedikt) Schmitt († 1887) und Franz Joseph Hassemer (1840–1909) eintraten."?>der alte Epicuräer <persName key="G001345"><hi rendition="#aq">Kolb</hi></persName> dies irdische Jammerthal verlaßen hat<?oxy_comment_end?>, wo er sich übrigens durch recht gute Malzeiten zu trösten gewußt hatte, werden Sie wol erfahren haben. Wir erwarten in diesem Winter ganze Völkerwanderungen von Fremden, aber leider werden Sie nicht darunter sein. <?oxy_comment_start author="Angela Steinsiek" timestamp="20200408T154106+0200" comment="Der Philologe und Altertumsforscher Gustav Parthey (1798–1872) und seine jüngste Tochter Veronika (1828–1893) verbrachten den Winter 1868–1869 in Rom. Bis zu seinem Tod kam Parthey noch drei Mal nach Rom. Mit seiner Ehefrau Wilhelmine, geb. Mitterbacher (1799–1876) hatte Parthey noch die früh verstorbenen Töchter Kinder Maria Elisabeth (1825–1826) und Anna (1826–1846) sowie den Sohn Gustav Bernhard (1828–1875)."?><persName key="G001472">Parthey</persName> und <persName key="G001473">Tochter</persName> können <pb n="2r"/>sich von Rom nicht trennen; sie bleiben noch diesen Winter<?oxy_comment_end?>; er, der alte Herr, hat sich durch die Liebe zu Rom ganz verjüngt –<seg type="comment"><orig> ἐπιθυμία της οῐκηςεως ἐν Ῥωμη</orig><note xml:id="nhck_d2q_2mb">Griech. für: Sehnsucht in Rom zu wohnen. Gregorovius zitiert den byzantinischen Historiker Proskopios von Caesarea (um 500–562) im ersten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1859), S. 426–427: Mit Proskopios’ Worten erläutert er den Moment, als Belisar (500–565) im Jahr 547 die Stadtmauern Roms wieder errichtet hat und die Römer damit beginnen, in ihre Stadt zurückzukehren.</note></seg>, wie schon die Alten gesagt haben.</p>
+<p>Dagegen will ich es gestehen, daß in dem Maße als meine <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003483">römischen Arbeiten</bibl> sich ihrem Ende nähern, Rom für mich abzublühen beginnt; ich kann wenigstens die Zeit voraussehen, wo <add place="intralinear">für mich</add> Rom die heilige Legende meines kleine<choice><sic>s</sic><corr cert="high">n</corr></choice> Lebens geworden sein wird – in Wahrheit wird sie im Tiefsten für mich heilig sein, und der Rest mag Schweigen heißen. Die große Liebe zum <placeName key="G000664">Vaterlande</placeName> wachte in mir wieder neu im letzten Sommer auf; ich möchte dorthin, wenigstens als Invalide nach 2 Jahren zurückkehren, aber der Gedanke an die Wahl des Orts ist mir peinvoll, denn ich komme zu keinem Entschluß. Ich sah <placeName key="G000734">München</placeName> in diesem Sinne an, doch es lud mich wenig zum <pb n="2v"/>Bleiben ein.</p>
+<p>Ich las mit großer Freude die Ankündigung <?oxy_comment_start author="Angela Steinsiek" timestamp="20200408T154457+0200" comment="Für Studien zu seiner Schrift „Händel und Shakespeare. Zur Ästhetik der Tonkunst“ (Leipzig: Engelmann 1868) hatte sich Gervinus von Dezember 1866 bis zum April 1867 mit seiner Frau Viktoria in Rom aufgehalten."?>Ihrer <bibl sameAs="G004259">musikalischen Schrift</bibl>, deren Probleme Sie, wie ich glaube, in dem römischen Winter zum Abschluß brachten<?oxy_comment_end?>. Wir alle verlangen heftig darnach, doch sind die buchhändlerischen Wege von Deutschland hierher von endloser Länge.</p>
+<p>Ich habe <?oxy_comment_start author="Angela Steinsiek" timestamp="20200408T154630+0200" comment="Der Madrider Geschichtsphilosoph Julian Sanz del Rio (1814–1869) hatte sich geweigert, ein Treuegelöbnis für die Krone, die Dynastie und die katholische Kirche zu unterzeichnen, und wurde 1867 seines Amtes enthoben, in der spanischen Revolution vom September 1868 aber rehabilitiert. Im Zuge der durch einen Putsch ausgelösten bürgerlichen Revolution, der sogenannten Gloriosa, verlor Königin Isabella II. (1830–1904) ihren Thron. Gregorovius bezieht sich auf die Anklage wegen Hochverrats gegen Gervinus 1853, als dieser seiner „Einleitung in die Geschichte des neunzehnten Jahrhunderts“ wegen zu zwei Monaten Gefängnis verurteilt und aus dem Universitätsdienst entlassen worden war. Das Urteil wurde in zweiter Instanz für nichtig erklärt."?>bei der <placeName key="G000874">spanischen Revolution</placeName> lebhaft an Sie gedacht; sie ist die herrlichste Antwort auf Ihre Heidelberger Adresse in der Angelegenheit <hi rendition="#aq"><persName key="G001568"><hi rendition="#aq">del Rio</hi></persName><?oxy_comment_end?></hi>. Könnte man nur mit größerer Zuversicht auf die Kraft jenes verfinsterten Volkes bauen.</p>
+                <closer>
+<salute xml:id="s1" next="#s2">Leben Sie wol, mein teurer Herr, und Sie hochverehrte Frau Gervinus. Ihnen die ruhigsten u<ex>nd</ex> heitersten Tage in dem schönen Heidelberg wünschend, u<ex>nd</ex> mir die Fortdauer Ihres wolwollenden Andenkens</salute>
+<salute xml:id="s2" prev="#s1" next="#s3" rendition="#c">verehrungsvoll</salute>
+<salute xml:id="s3" prev="#s2" rendition="#right">Ihr</salute>
+<signed rendition="#right">FrGregorovius</signed>
+<note type="postscript">Bitte <persName key="G001697"><?oxy_comment_start author="Angela Steinsiek" timestamp="20200408T154810+0200" comment="Der in Heidelberg lehrende Historiker und Paläograph Wilhelm Wattenbach (1819–1897) war seit 1843 Hauptmitarbeiter der „Monumenta Germaniae Historica“. Seit 1865 wohnte er in Heidelberg im selben Haus wie Gervinus (Leopoldstraße 5). Dort hatte ihn Gregorovius im August 1867 kennengelernt (siehe RT, 3.8.1867, S. 229)."?>Herrn Wattenbach</persName><?oxy_comment_end?> freundlich zu grüßen<del rendition="#s">d</del>.</note>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

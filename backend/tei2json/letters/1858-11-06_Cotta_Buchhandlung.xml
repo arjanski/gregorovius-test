@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000109">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an die J. G. Cotta’sche Buchhandlung in Stuttgart. Rom, 6. November 1858</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (21)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S. – 1r unter der Datumzeile Eingangs- und Beantwortungsvermerk: 20– / 22–</p>
+<p>erste Druckfahnen seiner „Geschichte der Stadt Rom im Mittelalter“ (1859)</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 59, Mappe 347 (nach D) und Karton 55, Mappe 336–337 (Ergänzungen nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der
+                            Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 226–228
+                            (gekürzt)</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er übersendet die ersten Druckfahnen seiner „Geschichte der Stadt Rom im Mittelalter“ (1859); das Manuskript des dritten Bandes (1860) wird im September 1858, nach der Sichtung des Archivs von Montecassino, abgeschlossen sein. Unter Verrechnung seines Vorschusses soll ein Teilbetrag seines Honorars an seinen Bruder Julius Gregorovius nach Danzig gehen. Er erkundigt sich nach dem Abdruck seines Aufsatzes „Die römischen Poeten der Gegenwart“ und seines Gedichts „Hermus. Eine Nacht auf dem Mittelmeer“ und bietet seine Übersetzung „Toskanischer Melodien“ (1864) nach Guiseppe Tigri „Canti populari toscani“ (1856) zur Publikation an. Den von Johann Georg von Cotta gewünschten Auszug aus Giovanni Paolo Limperani di Orezza „Istoria della Corsica‟ (1780) über Gianantonio Cotta hat Salvatore Viale direkt nach Stuttgart gesandt. Er bittet um Zusendung der von Emil Ludwig Richter 1843 edierten Prozessakten zur Exkommunikation von Papst Formosus.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He sends the first galley proofs of his „Geschichte der Stadt Rom im Mittelalter“ (1859); the manuscript of the third volume (1860) will be completed in September 1858, after he has sifted through the Montecassino archives. By offsetting his advance, a part of his fee is to go to his brother Julius Gregorovius in Danzig. He inquires about the publication of his essay „Die römischen Poeten der Gegenwart“ and his poem „Hermus. Eine Nacht auf dem Mittelmeer“ and offers his translation of „Toskanischer Melodien“ (1864) after Guiseppe Tigri „Canti populari toscani“ (1856) for publication. Salvatore Viale sent the excerpt from Giovanni Paolo Limperani di Orezza’s „Istoria della Corsica‟(1780) via Gianantonio Cotta requested by Johann Georg von Cotta directly to Stuttgart. He asks for the records of the excommunication of Pope Formosus, edited by Emil Ludwig Richter in 1843, to be sent to him. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1858-11-06" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="G000523">J. G. Cotta'sche Buchhandlung</orgName>
+                    <placeName key="G000879">Stuttgart</placeName>
+                </correspAction>
+<correspContext>
+<ref type="next">22. November 1858 (h: DLA Marbach, Cotta-Archiv, Gelehrten-Copirbuch VI, 808)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c"><hi rendition="#aq">Rom</hi> 6. <hi rendition="#aq">Nov<ex>em</ex>b<ex>e</ex>r</hi> 1858.</dateline>
+                    <salute rendition="#c">Hochgeehrte Herren,</salute>
+                </opener>
+                <p>gleichzeitig mit diesem Schreiben sende ich <bibl corresp="G003476 G003485"><seg type="comment"><orig>den ersten Correcturbogen</orig><note xml:id="nsx4_mbb_vlb">Die Druckfahnen der ersten beiden Bände seiner „Geschichte der Stadt Rom im Mittelalter“ (1859), für die der Verlags-Vertrag am 5. September 1858 unterzeichnet worden war (DLA Marbach, Cotta-Archiv, Cotta-Verträge 1). Im Tagebuch hatte Gregorovius feierlich vermerkt: „Am 5. erhielt ich den ersten Korrekturbogen der ‚Geschichte der Stadt‘ und feierte dessen Ankunft bei Alertz durch ein würdiges Mahl.“ (RT, 8.11.1858, S. 76).</note></seg></bibl> zurück, welchen ich gestern erhalten habe. Ich sehe daraus, daß Sie dem Werk eine solche Ausstattung und Form geben, wie sie der Autor nicht beßer wünschen kann, u<ex>nd</ex> danke Ihnen deshalb aufrichtig. Ich werde die Correcturen so schnell wie möglich besorgen.</p>
+                <p>Gegenwärtig bin ich tief im <bibl sameAs="G003469">3. Bande</bibl>, welcher die Epoche von 800 – circa 1000 umfaßen wird, worin die Stadt ihre wildeste Zeit der Barbarei durchlebt. Der 3. Band wird im September des kommenden Jahres in Ihren Händen sein, <seg type="comment"><orig>sobald ich die Archive von <hi rendition="#aq"><placeName key="G000730">Monte Cassino</placeName></hi> zu Rate gezogen habe, wohin ich wahrscheinlich im Monat Juni abgehe</orig><note xml:id="nk5j_pbb_vlb">Gregorovius fuhr vom 5.-18. Oktober 1859 nach Montecassino (siehe den Brief von <ref target="G000405">Gregorovius an Kalefati, 12.8.1859</ref>).</note></seg>. Da ich manches anzuschaffen habe, so bitte ich Sie um die Freundlichkeit, mir die Zahlung des Honorars <seg type="comment"><orig>für den 1. Band schon jetzt zu bewilligen. Ich habe auf die Summe von 600 Thalern</orig><note xml:id="ncnz_sbb_vlb">Der Verlags-Vertrag sah als Honorar für die ersten beiden Bände je 600 Taler und für die vier folgenden je 500 Taler vor (DLA Marbach, Cotta-Archiv, Cotta-Verträge 1)</note></seg> bereits erhalten 150 Thaler, von den übrigen 450 Thalern ersuche ich Sie <seg type="comment"><orig>die Summe von 120 (hundert u<ex>nd</ex> zwanzig) ge-<pb n="1v"/><note place="left" hand="#addressee"><metamark target="#seg-1" function="done"/>besorgt</note><seg xml:id="seg-1">fälligst zukommen zu laßen meinem<persName key="G001203"> Bruder</persName> „<hi rendition="#u" hand="#addressee"><hi rendition="#aq">Julius Gregorovius</hi> Hauptmann</hi> im Ersten Regiment</seg> Artillerie zu <hi rendition="#aq"><placeName key="G000663">Danzig</placeName></hi>.“</orig><note xml:id="nw13_5bb_vlb">Der gewünschte Betrag wurde am 18. November 1858 angewiesen (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VI, 807).</note></seg> Den Rest aber <hi rendition="#u" hand="#addressee"><note place="left" hand="#addressee"><metamark target="#seg-2" function="used" rendition="#mMM"/>F 577.30</note><seg xml:id="seg-2">von 330 Thalern</seg></hi> bitte ich mir in einem Wechsel (in Berechnung auf Schulden) zu gehen zu laßen.</p>
+                <p>Ich schulde Ihnen den Vorschuß von 100 Gulden, welchen Sie die Güte hatten mir im Frühjahr zu bewilligen; u<ex>nd</ex> bitte denselben aus dem Honorar zu tilgen, welches mir aus den Artikeln für die <orgName key="G000462">Allgem<ex>eine</ex> Zeit<ex>un</ex>g</orgName> u<ex>nd</ex> einen Aufsatz für das <orgName key="G000533">Morgenblatt</orgName> abfallen wird. <seg type="comment"><orig>Ich weiß nicht, ob das <note place="left" hand="#addressee"><metamark target="#seg-3" function="used" rendition="#mMM"/>wird aufgenommen</note><seg xml:id="seg-3">Morgenblatt die Abhandlung „<bibl corresp="G003874 G003875">Die <hi rendition="#u" hand="#addressee">Römischen Poeten</hi> der Gegenwart</bibl>“ abgedruckt</seg> hat</orig><note xml:id="noqq_vbb_vlb">Das Manuskript seines Aufsatzes „Die römischen Poeten der Gegenwart“ hatte Gregorovius mit seinem Brief vom 16.9.1858 an den Cotta-Verlag zum Abruck im „Morgenblatt für gebildete Leser“ übersandt (DLA Marbach, Inv. Nr. 34802), wo er im Dezember erschien (Nr. 51–52. Stuttgart; München: Cotta 19. und 26.12.1858. S. 1201–1207 und S. 1232–1236).</note></seg>; demselben schickte ich auch <seg type="comment"><orig>am Anfang</orig><note xml:id="nczh_zbb_vlb">Ergänzt: vorigen Monats.</note></seg> <note place="left" hand="#addressee"><metamark target="#seg-4" function="used" rendition="#mMM"/>in Nro 44 abgedruckt</note><seg type="comment"><orig><seg xml:id="seg-4">ein Gedicht zu: „<bibl corresp="G003872"><hi rendition="#u" hand="#addressee">Hermus</hi>, eine Nacht auf dem Mittelmeer</bibl>.“ Wenn dies nicht ab</seg>gedruckt worden, so wünschte ich es zurückzuziehn</orig><note xml:id="nfyk_dcb_vlb">Sein Gedicht war bereits im „Morgenblatt für gebildete Leser“ erschienen (Nr. 44. 31.10.1858).</note></seg>, da es <seg type="comment"><orig>nunmehr veraltet sein würde, u<ex>nd</ex> jener großartige Untergang bereits vergeßen</orig><note xml:id="nb4l_2cb_vlb">Gregorovius wollte am Abend des 29.9.1858 auf dem Dampfer Hermus von Livorno nach Civitavecchia fahren. In der Meerenge von Piombino bei Elba rammte die Hermus den Dampfer Aventin, der kurz darauf sank (siehe RT, 3.10.1858, S. 75–76 und den von Gregorovius publizierten Bericht darüber in der „Allgemeinen Zeitung“: Der Untergang des französischen Dampfers ‚Aventin‘ in der Nacht vom 29 auf den 30 September. in: AZ. Nr. 285. Augsburg: Cotta 12.10.1858. S. 4601–4602).</note></seg>. Ich hätte für das Morgenblatt eine Reihe von <seg type="comment"><orig>Übertragungen aus der herrlichen Sammlung <note place="left" hand="#addressee"><metamark target="#seg-5" function="used" rendition="#mMM"/>einzusenden</note><seg xml:id="seg-5"><bibl sameAs="G004788"><hi rendition="#aq">Tigri</hi>’s „Toscanische Melodien“</bibl>, die</seg> ich in Mußestunden in <placeName key="G000671">Florenz</placeName> machte</orig><note xml:id="nkmk_gcb_vlb">Nach der Sammlung des Priesters und Erziehers aus Pistoia, Guiseppe Tigri (1806–1882): Canti populari toscani. Florenz: Barbera 1856 (siehe RT, 31.8.1858, S. 73). Entgegen dem Verlagsvermerk „einzusenden“ auf dem vorliegenden Brief, kamen die Übersetzungen von Gregorovius erstmals in der zweiten Auflage seiner „Figuren. Geschichte, Leben und Scenerie aus Italien“ zum Abdruck, die dann als Band 1 der Sammlung „Wanderjahre in Italien“ ( Leipzig: Brockhaus 1864) erschien. Sie wurden vielfach vertont.</note></seg>, <pb n="2r"/>u<ex>nd</ex> möchte wol wißen, ob dieselbe der Redaction genehm wäre.</p>
+<p/>
+                <p>Indem ich nicht weiß, ob <persName key="G001055">Herr Baron v<ex>on</ex> Cotta</persName> in Stuttgart anwesend ist, erlaube ich mir durch diesen Brief zu fragen, ob die <seg type="comment"><orig>Abschrift der Stelle im <bibl sameAs="G004785"><hi rendition="#aq">Limperani</hi></bibl></orig><note xml:id="ntzs_jcb_vlb">Den Auszug aus Giovanni Paolo Limperani di Orezza (1694–1779) „Istoria della Corsica da’Tirreni suoi primi abitatori fin al secolo XVIII“ (2 Bde., Rom: Salomonus 1779–1780, hier Bd. 2, S. 221, 248) über Cottas korsischen Vorfahr Gianantonio Cotta hatte Gregorovius zuletzt in seinem Brief vom 16.9.1858 angekündigt (DLA Marbach, Cotta-Archiv, Cotta-Briefe, 20). </note></seg> eingegangen sei. <seg type="comment"><orig><persName key="G001678">Herr <hi rendition="#aq">Viale</hi></persName> aus <hi rendition="#aq"><placeName key="G000631">Bastia</placeName></hi> versicherte mich in einem Briefe, daß er sie direct nach Stuttgart von <hi rendition="#aq"><placeName key="G000710">Corsica</placeName></hi> aus gesendet habe</orig><note xml:id="nolf_ncb_vlb">Der korsische Dichter Salvatore Viale (1787–1861) hatte Gregorovius im Brief vom 3. September 1858 den Versand der gewünschten Exzerpte an Cotta für denselben Tag angekündigt, aber zugleich darauf hingewiesen, wie unzuverlässig die Quelle ist (BSB München, NL Gregorovius, Gregoroviusiana 21).</note></seg>. Ich bitte den Herrn Baron mir mitzuteilen, <seg type="comment"><orig>ob diese Abschrift brauchbar ist; denn, wenn sie <hi rendition="#aq">Viale</hi> selbst schrieb, so fürchte ich ihre völlige Unleserlichkeit</orig><note xml:id="nr2s_4cb_vlb">Im Antwortbrief vom 22.11.1858 schreibt Johann Georg von Cotta: „Herr Viale hat mir die fraglichen Mittheilungen aus Limperani, allerdings sehr unleserlich gemacht. Doch habe ich sie erhalten u danke. Wenn Sie ihm schreiben, so bitte ihm zu sagen, daß wenn ich ihm meine Dankbarkeit mit einem Cottaschen Verlagswerk bezeugen könne, er mir dasselbe nur bezeichnen wolle. Ist Limerani kein allzu umfangreiches voluminöses Werk? Dann möchte ich es mir zu verschaffen suchen. Bitte wo Ihnen in italienischen Geschichtsbüchern d Herren Cotta begegnet, wie dieß in Giulini storia die Milano (die ich besitze) der Fall ist, mich darauf aufmerksam zu machen. Nicht minder wiederhole ich meine Bitte in Ihrer Geschichte Roms Herlembaldam nicht zu vergessen.“ (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VI, 808).</note></seg>.</p>
+                <p><note place="left" hand="#addressee"><metamark target="#seg-6" function="used" rendition="#mMM"/>verschicken</note><seg type="comment"><orig><seg xml:id="seg-6">Es ist im Jahre 1843 ein <bibl sameAs="G004789">Programm der <orgName key="G004660">Universität <hi rendition="#aq">Marburg</hi></orgName>, von <hi rendition="#aq">Richter</hi>,</bibl> er</seg>schienen, worin die Akten des Prozeßes gegen den <persName key="G004753">Papst <hi rendition="#aq">Formosus</hi></persName>, damals noch Cardinal, als <persName key="G004754">Johann VIII</persName> im Jahr 876 ihn excommunicirte, abgedruckt sind</orig><note xml:id="nzhh_scb_vlb">Emil Ludwig Richter (1808–1864): Auctoritate Et Sub Auspiciis Serenissimi Ac Potentissimi Principis Et Domini Friderici Guilielmi Principis Electoralis Et Consortis Regiminis Hassiae Rel. Ad Novi Prorectoris Inaugurationem Die X. M. Septembris A. MDCCCXLIII. Marburg: Elwert 1843 (https://reader.digitale-sammlungen.de/resolve/display/bsb10976887.html) Weil Formosus (ca. 816–896, 891–896 Papst) sich an einer Verschwörung beteiligt haben sollte, wurde er von Papst Johannes VIII. (vor 852–882, 872–882 Papst) seines Bischofsamtes enthoben und ihm am 14. September 876 der Prozess gemacht. Von dessen Nachfolger Marinus I. (882–884 Papst) wurde Formosus wieder in sein Amt eingesetzt.</note></seg>. Es wäre mir sehr dienlich, <seg type="comment"><orig>wenn ich durch Ihre freundliche Vermittlung diese Schrift erhalten könnte</orig><note xml:id="nrb4_5cb_vlb">Im Antwortbrief vom 22.11.1858 schreibt Johann Georg von Cotta: „Das Programm der Universität Marburg mit den Acten des Processes gegen Pabst Formosus ist in der Buchhandlung für Sie bestellt.“ (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VI, 808).</note></seg>. Ich fand sie <seg type="comment"><orig>angeführt in den <bibl sameAs="G004793"><hi rendition="#aq">Regesta</hi> von <hi rendition="#aq">Jaffé</hi></bibl></orig><note xml:id="nqvp_ycb_vlb">Philipp Jaffé (1819–1870): Regesta Pontificum Romanorum ab condita ecclesia ad annum post Christum Natum MCXCVIII. Berlin 1851. S. 275 (https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10004830_00303.html).</note></seg>. </p>
+                <p><note place="left" hand="#addressee"><metamark target="#seg-7" function="used" rendition="#mMM"/>ungewandelt</note><seg xml:id="seg-7">Die Bezeichnung der Druckbogen: „Geschichte Roms“ bitte ich in „<hi rendition="#u" hand="#addressee">Geschichte der Stadt Rom</hi>“ verwandeln zu laßen.</seg></p>
+                <closer>
+                    <salute xml:id="s1" next="#s2">Mit größester Hochachtung, sehr geehrte
+                        Herren,</salute>
+                    <salute xml:id="s2" prev="#s1" rendition="#c">Ihr ergebenster</salute>
+                    <signed rendition="#right"><hi rendition="#aq">F. Gregorovius</hi>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

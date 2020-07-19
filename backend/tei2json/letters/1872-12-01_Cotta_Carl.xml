@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000353">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Carl Freiherr Cotta von Cottendorf in Stuttgart. Rom, 1. Dezember 1872 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (155)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¾ S. – 1r unter der Datumszeile Beantwortungsvermerk: R 23/a</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 57 Mappe 340–342 und Karton 55 Mappe 336–337 (nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Mit dem Abschluss seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) dankt er dem Verlagsleiter und seinem Partner Albert Freiherr von Reischach sowie dem Verlagsteilhaber Hermann Freiherr von Reischach. In Dankbarkeit erinnert er an den 1863 verstorbenen Seniorverleger Johann Georg Freiherr Cotta von Cottendorf, der die Entstehung seines Werks auch mit persönlicher Teilnahme begleitet hatte. Leider konnte er in diesem Jahr nicht nach Stuttgart kommen, wusste auch nicht, ob Carl von Cotta Anfang November bereits dorthin zurückgekehrt war. Er sendet Genesungswünsche für den erkrankten Prokuristen Eduard Griesenbeck.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1872-12-01" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001053">Cotta von Cottendorf, Carl Freiherr (1835–1888)</persName>
+<placeName key="G000879">Stuttgart</placeName>
+</correspAction>
+<correspContext>
+<ref type="next">23. Dezember 1872</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c"><hi rendition="#aq">Rom</hi>, 1. <hi rendition="#aq">Dec<ex>ember</ex></hi> 1872.</dateline>
+                    <salute>Verehrter Baron v<ex>on</ex> Cotta,</salute>
+                </opener>
+<p>bei der glücklichen Vollendung des <seg type="comment"><orig>Drucks der <bibl sameAs="G003434">Geschichte der Stadt Rom im Mittelalter</bibl></orig><note xml:id="ngzt_pxp_slb">Der achte und letzte Band seiner Geschichte der Stadt Rom im Mittelalter“ war soeben erschienen.</note></seg> drängt es mich, erst Ihres edeln <persName key="G001055">Herren Vaters</persName> zu gedenken, der dieses mein Lebenswerk <seg type="comment"><orig>mit liberaler Erkenntniß seiner Bedeutung in seinen Schutz nahm</orig><note xml:id="nthr_sxp_slb">Der Verleger Johann Georg Freiherr Cotta von Cottendorf (*1796) war am 1. Februar 1863 an einem Herzschlag verstorben. Im letzten Brief vom 5. Januar 1863 hatte Cotta an Gregorovius geschrieben: „Möchte ein gutes Geschick und die nötige Gesundheit Sie bis zur Vollendung Ihres trefflichen Werkes begleiten. Sie werden dann ruhmbekrönt wieder in das Vaterland nach so langen Jahren treuer, gewißenhafter Widmung zurückkehren“ (BSB München, NL Gregorovius, Gregoroviusiana 21).</note></seg>. Es schmerzt mich heute mehr als je, daß Derselbe dessen Vollendung nicht erlebte, u<ex>nd</ex> daß es mir nicht vergönnt ist, ihm dankbar die Hand zu reichen. Aber es erfreut mich zugleich, daß der Sohn mit gleicher Bereitwilligkeit fortführte, was der Vater begonnen hatte, und daß ich diesem herzlich danken darf, indem ich jenem danke. Drücken Sie, ich bitte, <pb n="1v"/>diese Empfindungen meiner herzlichsten Ergebenheit auch <seg type="comment"><orig>beiden <persName key="G001538"><persName key="G001537">Herren von Reischach</persName></persName></orig><note xml:id="nac3_5xp_slb">Der Verlagsteilhaber Hermann Freiherr von Reischach (1798–1876) und dessen Sohn Albert Freiherr von Reischach (1826–1876), mit dem Carl von Cotta den Verlag bis 1876 leitete.</note></seg> aus. Sie alle haben mir stets ein gleiches Wolwollen entgegengebracht und mich empfinden laßen, daß ich stolz und glücklich darüber sein darf, mit diesem Werke dauernd dem ersten und verdientesten Verlage meines <placeName key="G000664">Vaterlandes</placeName> anzugehören.</p>
+<p>Mein Wunsch, <seg type="comment"><orig>Sie persönlich in Stuttgart aufzusuchen, ist leider nicht erfüllt worden</orig><note xml:id="nznq_1yp_slb">Gregorovius hatte sein Kommen nach Stuttgart auch königlichen Bibliothekar Wilhelm Heyd (1823–1906) in seinem Brief vom 24.9.1872 für Anfang Oktober in Aussicht gestellt (Württembergische Landesbibliothek Stuttgart, Cod. hist 4° 391, Kaps. I, 222). Grund für dafür war nach dem Brief von Gregorovius an Brockhaus vom 23.10.1872 die verspätete Auslieferung der illustrierten Ausgabe seines „Euphorion“, die er Konigin Olga von Württemberg (1822–1892) hatte übergeben wollen (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 126).</note></seg>, zumal ich nicht einmal wußte, ob Sie selbst im Beginne des November schon dorthin zurückgekehrt waren. Ich hoffe aber, daß es Ihnen u<ex>nd</ex> Ihrem verehrten Hause wol ergeht. Haben Sie die Güte mich Ihrer <persName key="G001051">Frau Gemalin</persName> freundlich wieder in Erinnerung <pb n="2r"/>zu bringen und deren gütigem Wolwollen zu empfehlen.</p>
+                <closer>
+<salute xml:id="s1" next="s2">Ihnen allen das schönste Gedeihen wünschend</salute>
+<salute xml:id="s2" prev="s1" rendition="#c">Ihr verehrungsvoll und treu ergebener</salute>
+<signed rendition="#right"><hi rendition="#aq">FGregorovius</hi>.</signed>
+<note type="postscript">Ich erfahre mit Bedauern die <seg type="comment"><orig>nicht unbeträchtliche Erkrankung des <persName key="G001209">Herrn Griesenbeck</persName></orig><note xml:id="ntgn_cyp_slb"><p>Nach 32 Jahren Betriebszugehörigkeit starb der Prokurist des Cotta-Verlags Eduard Griesenbeck am 6. April 1873 (ein kurzer Nachruf in: Börsenblatt für den deutschen Buchhandel und die mit ihm verwandten Geschäftszweige. Nr. 90. Leipzig 21.4.1873. S. 1457).</p></note></seg>, den ich auf das freundlichste grüße, bald Nachrichten von seiner Genesung zu erhalten hoffend.</note>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

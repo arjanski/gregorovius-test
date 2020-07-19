@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067739">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Contessa Ersilia Caetani Lovatelli in Rom. München, 10. September 1873</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno>Karton 59, Mappe 348 (nach D)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"><bibl type="print">Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli. Hrsg. von Sigmund Münz. Berlin: Paetel 1896. S. 75 (gekürzt) </bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er begrüßt den bevorstehenden Besuch Vittorio Emanueles II. in Wien und Berlin. Nur eine deutsch-italienische Allianz wird ein politisches Wiedererstarken des Papsttums verhindern können. </p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1873-09-10" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001011">Caetani Lovatelli, Ersilia contessa (1840–1925)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="75"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">München, 10. September 1873.</dateline>
+</opener>
+<p><gap reason="lost" unit="chars" quantity="1"/>Alle Blätter <placeName key="G000664">Deutschlands</placeName> bringen die bedeutungsvolle Kunde von der <seg type="comment"><orig>bevorstehenden Reise König <persName key="G001692">Viktor Emanuel’s </persName>nach <placeName key="G000897">Wien </placeName>und </orig><note xml:id="np3g_l43_zlb">König Vittorio Emanuele II. (1820–1878) reiste auf Einladung von Kaiser Franz Joseph (1830–1916) und Kaiser Wilhelm (1797–1888) nach Wien und Berlin. Begleitet wurde er von den Ministerpräsidenten Marco Minghetti (1818–1886) und Emilio Visconti Venosta (1829–1914). </note></seg><placeName key="G000636"><seg type="comment"><orig>Berlin</orig><note xml:id="np3g_l43_zlb"><?UNIQUE_CARET_MARKER_FOR_AUTHOR?></note></seg> </placeName>und kommentieren sie als politischen Akt von größter Wichtigkeit. Ich freue mich sehr darüber, denn dieser Schritt des Königs, der ihm von der politischen Nothwendigkeit auferlegt ist, muß mit logischer Gewalt eine ganze Reihe andere Schritte nach sich ziehen, die<placeName key="G000690"> Italien</placeName> zu jener intimen Allianz mit Deutschland führen werden, aus der die wahre Reform <placeName key="G000794">Europas</placeName> und der unwiederbringliche Ruin des <seg type="comment"><orig><orgName key="G000539">großen Wurmes</orgName></orig><note xml:id="nkgf_m43_zlb">Anspielung auf den Vatikan.</note></seg> resultieren wird, der wieder von neuem aus seiner mittelalterlichen Höhle hervorzukriechen droht. Aber lassen wir die Mächtigen und die Lügner der Welt um den Preis rennen und sprechen wir ein wenig von Ihren Erlebnissen und denen der römischen Freunde.<gap reason="lost" unit="chars" quantity="1"/></p>
+</div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000096">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Malwida von Meysenbug in Paris. Rom, 29. November
+                    1859</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>116/107 (3)</idno></msIdentifier>
+<physDesc>
+<p> 1 Dbl., 12°, 4 S. – 2r-v auR Textverlust durch Blattabschnitt</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 5 (Alfred Löckle nach H, ungenau)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 86, Mappe 2 (nach D1)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Berta Schleicher: Ferdinand Gregorovius und Malwida von Meysenbug. Unveröffentlichte Briefe. In: Der Türmer. Monatsschrift für Gemüt und Geist. Jg. 25. H. 4. Stuttgart 1923. S. 238 (gekürzt)</bibl> </witness>
+                    <witness>
+                        <bibl type="print">Berta Schleicher: Aus Briefen von Ferdinand Gregorovius
+                            an Malwida von Meysenbug. In: Almanach der Rupprecht-Presse auf die
+                            Jahre Neunzehnhundertsechundzwanzig-Achtunszwanzig. 1926 / 1927 /1928.
+                            Bd. 4. München: Beck [1926]. S. 34 (Auszug)</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Wenn sie sich persönlich kennenlernen, werden sie sich über gemeinsame republikanische Grundsätze austauschen können. In Italien wurde die Entwicklung in Richtung eines Nationalstaates durch die Beteiligung Napoléons III. teuer bezahlt. Victor Emanuel II., Giuseppe Garibaldi und Camillo Benso von Cavour haben Mut, aber keine politische Vision. Er kann sie in Paris nicht besuchen, weil seine Arbeiten Lebensverzicht voraussetzen. Seine Archivreise nach Montecassino über Genazzano, Paliano, Anagni, Ferention, Sora und Arpino war aber ein Erlebnis. Er möchte wissen, ob Otto Freiherr Rivalier von Meysenbug ihr Bruder ist, der im November als bevollmächtigter Minister Österreichs den Friedensvertrag von Zürich zwischen Österreich und Frankreich mit unterzeichnet hat. Er hat den nach Rom berufenen österreichischen Gesandten Alexander Freiherr von Bach kennengelernt. An der Einigung Italiens interessiert ihn einzig die Rolle Roms. Materialisten wie Jacob Moleschott und Carl Vogt können keine Visionen haben.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">When they get to know each other personally, they will be able to exchange views on common republican principles. In Italy the development towards a nation state was paid dearly by the participation of Napoleon III. Victor Emanuel II, Giuseppe Garibaldi and Camillo Benso of Cavour have courage but no political vision. He cannot visit her in Paris because his work requires him to abstain from life’s joys. But his archival journey to Montecassino via Genazzano, Paliano, Anagni, Ferention, Sora and Arpino was exciting. He would like to know whether Otto Freiherr von Meysenbug is her brother, who, as an authorized minister of Austria, signed the Zurich peace treaty between Austria and France in November. He got to know the Austrian envoy Alexander Freiherr von Bach, who was called to Rome. His only interest in the unification of Italy is the role of Rome. Materialists like Jacob Moleschott and Carl Vogt cannot have visions. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1859-11-29" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001418">Meysenbug, Malwida von (1816–1903)</persName>
+<placeName key="G000749">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">Roma 29. No<ex>vem</ex>b<ex>e</ex>r 59.</dateline>
+<salute>An Fräulein <lb/>von Meysenbug.</salute>
+</opener>
+<p>Ich glaube wol, verehrteste Freundin, daß wenn ich die Freude hätte, Sie persönlich zu kennen, wir uns in derselben Richtung nach den höchsten Gütern des Lebens zusammen finden würden. Ich bin von Kindesbeinen an in republikanischen Grundsätzen aufgewachsen, die ich von den Alten lernte; u<ex>nd</ex> ich behaupte sie fortdauernd auf meine eigene Hand in neuer Zeit, wo es keine Republikaner gibt. Mein langes Studium der Geschichte, zumal der Roms u<ex>nd</ex> <placeName key="G000690">Italiens</placeName>, hat mir eine kühlere Ansicht von Menschen u<ex>nd</ex> Dingen gegeben, als viele haben, die im Grunde mit mir eins sind. Meine Kenntniß der Italiener wird nicht einmal durch den <seg type="comment"><orig>Aufschwung bestochen, den die Dinge hier vermittelst der französischen Waffen genommen haben</orig><note xml:id="nr1v_yp2_ylb">Der piemontesische Ministerpräsident Camillo Benso von Cavour (1810–1861) hatte im Juli 1858 ein geheimes Bündnis mit Napoléon III. (1808–1873) geschlossen, um Oberitalien von der Herrschaft des habsburgischen Kaiserreichs Österreich zu befreien und Italien unter Vittorio Emanuele II. (1820–1878) zu vereinen, wofür Frankreich im Gegenzug das Herzogtum Savoyen und die Grafschaft Nizza beanspruchte. Der von Cavour provozierte Sardinische Krieg (der zweite Italienische Unabhängigkeitskrieg) endete schließlich mit dem Frieden von Zürich am 10. November 1859. Österreich musste die Lombardei an Frankreich abtreten und Napoléon III. reichte die Provinz vereinbarungsgemäß an Sardinien weiter. Der italienische Nationalstaat blieb einstweilen unverwirklicht, es kam jedoch in den bei Österreich verbliebenen oberitalienischen Gebieten Parma, Modena und der Toskana zu Aufständen und Volksabstimmungen, die weitere Abtretungen zur Folge hatten. Auch der Kirchenstaat mußte infolge von Erhebungen Territorien abgeben, Rom selbst aber blieb, gestützt durch französische Truppen, noch unter päpstlicher Herrschaft. Einzig Venetien verblieb bei Österreich. Zwischen Napoléon III. und Vittorio Emanuele wurde 1860 der Anschluss von Savoyen und Nizza an Frankreich vollzogen; am 17. März 1861 wurde Vittorio Emanuele offiziell zum König von Italien proklamiert.</note></seg>. Diese Erscheinungen haben sich hundert Mal fast in derselben Weise wiederholt, u<ex>nd</ex> öfters sind größere Charaktere aufgetreten, als die Gegenwart aufzustellen vermochte. Denn <persName key="G001692">Victor Em<ex>anuel</ex></persName> <pb n="1v"/>werden Sie gewiß nicht höher stellen, als er verdient; <seg type="comment"><orig><persName key="G001160">Garibaldi</persName> ist nichts, als ein geschickter Guerillacapitän ohne Genie</orig><note xml:id="nsjy_gx2_ylb">Giuseppe Garibaldi (1807–1882) hatte als General für Sardinien-Piemont die sardinisch-piemontesischen Truppen mit seiner Freiwilligenarmee gegen Österreich unterstützt, doch unterlagen seine Truppen noch vor Kriegsende und wurden zerstreut.</note></seg>, wie solche Männer, tapfer u<ex>nd</ex> kühn, zu Hunderten in Italien aufgewachsen sind; <seg type="comment"><orig><hi rendition="#aq">Cavour</hi></orig><note xml:id="naw3_3x2_ylb">Camillo Benso von Cavour (1810–1861) hatte die Einheit Italiens unter Führung Sardinien-Piemont angestrebt. Am 13. Juli 1859 war Cavour als piemontesischer Ministerpräsident zurückgetreten, weil er sich durch Napoléon III. wie auch durch Vittorio Emanuele II. getäuscht sah. Napoléon III. hatte unter Übergehung Piemonts im Vorfrieden von Villafranca am 11. Juli 1859 vorzeitig einen Waffenstillstand mit Österreich vereienbart, wonach Österreich lediglich die Lombardei abtreten sollte und Venetien österreichisch blieb, und Vittorio Emanuele II. hatte sich dieser Entscheidung gebeugt.</note></seg> – nein! weiter schreibe ich nicht, denn ich fange an zu lachen.</p>
+<p>Haben Sie tausend Dank für Ihre freundlichen Zeilen. <seg type="comment"><orig>Wie gerne würde ich Sie in Rom willkommen heißen</orig><note xml:id="npvj_mx2_ylb">Malwida von Meysenbug kam mit ihren Pflegetöchtern Olga (1850–1953) und Natalie Herzen (1844–1936) erst im April 1863 nach Rom (siehe RT, 5.4.1863, S. 159). Ein längerer Aufenthalt folgte von Winter 1863 bis Sommer 1864.</note></seg>. <seg type="comment"><orig>Nach Paris kann ich nicht</orig><note xml:id="nw1m_nx2_ylb">Auf Einladung der schwerreichen Philanthropin Julie Salis-Schwabe (1818 oder 1819–1896) aus Manchester, verbrachte Malwida von Meysenbug den Winter 1859 /1860 mit ihr in Paris.</note></seg>, reisen kann u<ex>nd</ex> darf ich nicht; ich bin darauf beschränkt mich zu freuen, wenn andere froh sind u<ex>nd</ex> die Fülle des Lebens genießen. Ich muß die Steine wälzen, oder klopfen wie die an der Chaussee arbeiten u<ex>nd</ex> den schönen Wagen nachsehen, die auf dieser Chaussee fahren. Ich darf die lockenden Stimmen des Lebens nur hören, wie Einer der von ferne eine Musik vernimmt, u<ex>nd</ex> sich erinnert, daß er auch einmal jung, glücklich u<ex>nd</ex> voll Liebe war. Diese Zeit liegt hinter mir, wie viele Illusionen, welche im Vorhof zum ernsteren Menschenleben stehn.</p>
+<p><pb n="2r"/>Ich freue mich, daß Sie in Paris in einem lebhaften und gastlichen Hause sich zerstreuen. Es ist nichts belebender, als mit Sinn vieles zu sehen u<ex>nd</ex> zu hören, wie Sie nun dort Gelegenheit haben. So belebte mich <seg type="comment"><orig>mein Ritt durch das Neapolitanische Land, an den Ufern des smaragdgrünen <placeName key="G004686">Liris</placeName>, durch die neapolit<ex>anische</ex> Armee hinauf nach <hi rendition="#aq"><placeName key="G004687">S<ex>an</ex> Germano</placeName></hi></orig><note xml:id="nshx_px2_ylb">Gregorovius war am 30. September 1859 über Genazzano, Paliano, Anagni, Ferention, Sora und Arpino für Archivarbeiten nach Montecassino gereist, wo er bis zum 18. Oktober 1859 blieb (siehe RT, 29.9.-18.10.1859, S. 85–91). An der nördlichen Grenze Neapels war Gregorovius auf die Truppen des jungen Königs beider Sizilien, Franz II. (1836–1894), getroffen: „Überall neapolitanische Truppen, Lanzenreiter und Infanterie. Sie zogen nach den Abruzzen, wohin bereits 40 Kanonen abgegangen sind, da man dort den Einmarsch der Garibaldischen fürchtet.“ (RT, 6.10.1859, S. 85).</note></seg>. Da habe ich viele Menschen, Städte u<ex>nd</ex> Berge gesehn. Anders freilich Sie in Paris, wo Sie die ganze u<ex>nd</ex> die halbe Welt sehen, da wird man zur Philosophie gedrängt, um beide los zu werden.</p>
+<p><seg type="comment"><orig>Ist es Ihr <persName key="G004722">Bruder</persName>, der in <placeName key="G000903">Zürich</placeName> Bevollmächtigter <placeName key="G000647">Österreichs</placeName> war?</orig><note xml:id="ngld_sx2_ylb">Ihr Bruder Otto Freiherr Rivalier von Meysenbug (1806–1886) war seit 1849 (bis 1868) Hof- und Ministerialrat im österreichischen Ministerium des Äußern. Den Friedensvertrag von Zürich zwischen Österreich und Frankreich vom 10. November 1859 hatte Meysenbug von österreichischer Seite als allerhöchster bevollmächtigter Minister zusammen mit Kaiser Franz Joseph I. (1830–1916) und seinem Kämmerer und bevollmächtigten Minister Graf Alajos Károlyi von Nagykároly (1825–1889) unterzeichnet (siehe Landes-Regierungsblatt für das Erzherzogthum Oesterreich ob der Enns. 1. Abt. 59. Stück. Linz. 17.12.1859. S. 479–494; siehe https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10000537_00520.html). </note></seg> Ich lernte hier den öster<ex>reichischen</ex> Gesandten kennen, <persName key="G004723"><seg type="comment"><orig>Herrn v<ex>on</ex> Bach</orig><note xml:id="nugq_5x2_ylb">Der österreichische Botschafter in Rom von 1859–1865 Alexander Freiherr von Bach (1813–1893).</note></seg></persName>, einen feinen Advocaten. Aber diese Herren wißen gerade so viel von dem Organismus der Welt wie wir anderen; der Augenblick ist der Feinste <gap reason="lost" unit="pages" quantity="1"/></p>
+<p><pb n="2v"/>womit er die Österreicher schlug.</p>
+<p>Mich interessirt an der ganzen Bewegung nur das was Rom ist. Sehen Sie, der <orgName key="G000539">Kirchenstaat</orgName> hat 1000 solche Revolutionen erlebt, u<ex>nd</ex> steht dennoch 1100 Jahre, in welcher Zeit Reiche u<ex>nd</ex> Völker untergingen. Rom ist eine Axe in der geistigen Weltkugel; sie ist weder heute noch morgen verlegbar. Wenn die Menschheit die Gesellschaft umschafft, dann wird Rom fallen.</p>
+<p>Man redet viel von Freiheit, da die Welt nichts als eine Bank u<ex>nd</ex> Börse – man redet so viel von Menschlichkeit, u<ex>nd</ex> niemand denkt daran den Hunger abzuschaffen.</p>
+<p>Trotzdem, trotzdem – unsere Epoche ist groß, denn sie ahnt die höchste u<ex>nd</ex> allgemeine Aufgabe der Menschen – nur die Momente sind verächtlich u<ex>nd</ex> beleidigend. Um dies Leben zu ertragen, muß man so hoch steigen, wie der Astronom. Würden Sie an dem Streben der Menschheit Teil nehmen, wenn Sie glaubten wie<seg type="comment"> <orig><persName key="G004748">Moleschot</persName> u<ex>nd</ex> <persName key="G004749">Vogt</persName></orig><note xml:id="not1_wx2_ylb">Der damals berühmte niederländische Arzt und Physiologe Jacob Moleschott (1822–1893) vertrat zusammen mit dem deutsch-schweizerischen Naturwissenschaftler Carl Vogt (1817–1895) und dem Arzt, Naturwissenschaftler und Philosophen Ludwig Büchner (1824–1899) im Materialismusstreit die Position des Materialismus, wonach auch Geist, Seele und Gedanken auf naturwissenschaftlich erklärbare Vorgänge zurückführbar sind.</note></seg> <gap reason="lost" unit="pages" quantity="1"/></p>
+</div>
+        </body>
+    </text>
+</TEI>

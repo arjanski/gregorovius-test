@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_pwz_r3t_rlb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. München, 30. Juli 1880 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free">
+                <licence target="http://creativecommons.org/licenses/by/4.0/">
+                    Creative Commons Attribution 4.0 International (CC BY 4.0)
+                </licence>
+            </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Adr.: All’ Illustrissimo Signore / il signor Conte Giovanni Gozzadini / Bologna</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell’Archiginnasio</institution><collection>Ms. Gozzadini 442</collection><idno>(35)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Über seine Griechenlandreise und den kommenden Aufenthalt in Traunstein. Er dankt für den Erhalt von Luigi Fratis „Statuti di Bologna dall’anno 1245 all’anno 1267“ (1869–1877). Ersilia Caetani Lovatelli trauert in Albano um ihren Ehemann, Michelangelo Caetani kehrt aus Paris nach Rom zurück. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1880-07-30" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni conte (1810-1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Monaco, 30. Luglio 1880.</dateline>
+                    <salute rendition="#c">Illustre signor Conte,</salute>
+                </opener>
+<p>certamente egli non è senza vergognarmi e rimproverarmi, se finalmente mi metto a scriverle e a chiederle perdono del mio lungo silenzio. Sufficienti ragioni da discolparmene con lei non ho; sono divenuto pigro: ecco la causa del mio peccato.</p>
+<p>Ho visitato la <placeName key="G000683">Grecia</placeName> durante i mesi di Aprile e Maggio scorsi, <seg type="comment"><orig>in compagnia di mio <persName key="G001203">fratello</persName></orig><note xml:id="nb2k_jxn_5lb">Die Brüder waren am 27. März von Rom nach Neapel gereist, von wo sie mit dem Schiff nach Griechenland übersetzten. Von Athen aus unternahmen sie Ausflüge, verbrachten außerdem 10 Tage in Korfu. Erst am 10. Mai trafen sie wieder in der ewigen Stadt ein (siehe RT, Romfahrt und Griechische Reise 1880, S. 419–420).</note></seg>. Siamo stati in <placeName key="G000619">Atene</placeName> quasi un mese intero; abbiamo salutato le ombre di <persName key="G000909">Eschilo</persName>, di <persName key="G001613">Sofocle</persName>, di <persName key="ed_sbg_pxn_5lb">Pericle</persName> e quelle degli <seg type="comment"><orig>Atridi</orig><note xml:id="nbv5_dyn_5lb">Zum Geschlecht der Atriden gehören u. a. Tantalos, Agamemnon und Menelaos.</note></seg> in <placeName key="ed_dfh_jyn_5lb">Micene</placeName>. Abbiamo poi dato una stretta di mano al <seg type="comment"><orig>grande scopritore di <placeName key="G000830">Troja</placeName> e della detta Micene a Sch<persName key="G001581">l</persName>ieman</orig><note xml:id="ntj3_nyn_5lb">Der Pionier der Feldarchäologie verkündete 1873, Troja entdeckt zu haben; die Ausgrabungen in Mykene begann er 1876.</note></seg>. Beato lui, perchè <seg type="comment"><orig>avendo disotterrato l’ <placeName key="ed_y3y_syn_5lb">Iliade</placeName></orig><note xml:id="ndmb_vyn_5lb">Gemeint ist die Lokalisierung von Ilios: Mit den Ausgrabungen Schliemanns in Troja ab 1870 verfestigte sich die Ansicht der Altertumswissenschaft, den realten Ort des „Trojanischen Krieges“ bestimmen zu können. </note></seg>, ora <seg type="comment"><orig>sta per fabbricarsi in Atene un palazzo sontuoso tutto di marmi del <placeName key="ed_fbm_bzn_5lb">Pentelicone</placeName></orig><note xml:id="njvm_2zn_5lb">Für seinen weißen Marmor bekannter Berg. Schliemanns privates Wohnhaus befindet sich wenige Meter vom Syntagma-Platz im Zentrum Athens und beherbergt heute das Numismatische Museum.</note></seg>. </p>
+<p>Nel ritorno facemmo sosta deliziosa presso <seg type="comment"><orig>i Lotofagi</orig><note xml:id="nltd_fzn_5lb">Die Lotophagen sind ein Volk aus der griechischen Mythologie.</note></seg> in <placeName key="ed_ql4_3zn_5lb">Corfù</placeName>. Non dirò nulla delle impressioni <pb n="2"/>che mi ha lasciato la Grecia: dirò soltanto che sono tornato carico di nobilissimi ricordi; e parmi addirittura di aver goduto l’ospitalità <seg type="comment"><orig>dei Dei Olimpici</orig><note xml:id="nddw_mzn_5lb">Die zwölf Götter der griechischen Mythologie.</note></seg>. E con tutto ciò, e dopo tante belle cose viste e provate in una terra ideale, non esito protestare, che la nostra <placeName key="G000690">Italia</placeName> è e resterà sempremai il paradiso del mondo.</p>
+<p><seg type="comment"><orig>Egli è dal principio del Giugno scorso, che mi ritrovo coi <persName key="G001111">miei</persName> in questa capitale bavarese</orig><note xml:id="nksh_qzn_5lb">Gregorovius befand sich seit dem 5. Juni wieder in Müchen (siehe RT, Romfahrt und Griechische Reise 1880, S. 420).</note></seg>, la quale, come sanno, per qualche tempo ha mantenuto rapporti colla Grecia moderna; anzì essa possiede una fabbrica, che s’intitola orgogliosamente „<seg type="comment"><orig>i <placeName key="ediarum_y4y_5zn_5lb">Propilei</placeName></orig><note xml:id="nqpm_xzn_5lb">Der von 1854–1862 geschaffene Nachbau der Propyläen auf dem Königsplatz in München.</note></seg>“ </p>
+<p>Ho trovato sul mio tavolo <seg type="comment"><orig>alcuni fascicoli degli <bibl corresp="ed_pcw_fnx_qlb">statuti di Bologna</bibl></orig><note xml:id="nizz_zzn_5lb">Siehe dazu auch den Brief von Gregorovius an Giovanni Gozzadini vom 7. Februar 1875.</note></seg>; gliene rendo mille grazie, pregandola a ringraziarne da parte mia l’egregio Dottor <persName key="G001136">Frati</persName>, con cui mi congratulo, perchè così alacremente spinge avanti la stampa della sua opera monumentale.</p>
+<p>Di Roma ebbi testè le nuove di Donna <persName key="G001011">Ersilia</persName> – essa sta in villeggiatura <seg type="comment"><orig>a <placeName key="G004684">Albano</placeName></orig><note xml:id="nitn_ksp_vlb">Eine zur Metropolitanstadt Rom gehörende Gemeinde.</note></seg>, <seg type="comment"><orig>cercando di soffocare la disperazione negli studi e nei lavori archeologici</orig><note xml:id="nckh_d14_5lb">Im Herbst 1879 war Ersilias Ehemann, Giacomo Colombo Lovatelli (1832), verstorben. Gemeinsam hatten sie fünf Kinder. Siehe zu dem Verlust den Brief von Gregorovius an Ersilia Caetani Lovatelli vom 16. November 1879. </note></seg>. Il <persName key="G001004">Duca</persName> è per ritornare da <placeName key="G000749">Parigi</placeName> a <placeName key="G000763">Roma</placeName>.</p>
+<p>Partirò dopo domani alla volta di <placeName key="G000888">Traunstein</placeName>, paese situato nelle vicinanze di Monaco, dove pur altre <pb n="3"/>volte ho passato <seg type="comment"><orig>una parte d’estate</orig><note xml:id="nv4p_314_5lb">Er sollte den ganzen August in Traunstein verbringen (siehe RT, Romfahrt und Griechische Reise 1880, S. 420).</note></seg>. Colà spero di aver le nuove loro, che mi auguro le più soddisfacenti.</p>
+                <closer>
+                    <salute>Coi sensi di sincero affetto e venerazione mi raccomando alla benevolenza di Lor Signorie</salute>
+                    <signed rendition="#right">Ferdin. Gregorovius </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

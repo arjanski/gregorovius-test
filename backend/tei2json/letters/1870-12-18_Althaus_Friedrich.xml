@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000340">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Friedrich Althaus in London. Rom, 18. Dezember 1870 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 81, Mappe 1 (nach D)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"> <bibl type="print">Friedrich Althaus: Ungedruckte Briefe von Ferdinand Gregorovius. In: Deutsche Revue über das gesamte nationale Leben der Gegenwart. Jg. 19. Bd. 2. Stuttgart [u. a.]: Deutsche Verlagsanstalt Mai 1894. S. 250–251</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">In den Ereignissen des Jahres 1870 verwirklichen sich die Ziele von 1848, auch wenn die Einheit Deutschlands einstweilen nur unter der Kaiserkrone realisieren ließ. Auch in Rom wurde die Monarchie gerettet. Spanien wird einen neuen Kandidaten für die Thronfolge finden und in Frankreich wird man nach dem Krieg übergangsweise auf die Re-Etablierung der Monarchie aus dem Hause Orléan setzen. Dies ist die „Signatur der Zeit“ und die elf Jahrhunderte umfassenden acht Bände seiner vor dem Abschluss stehenden „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) dokumentieren eben diese Trägheit der „Bewegung des Menschengeistes“. Nach der Proklamation der Vereinigung des Kirchenstaats mit Italien am 8. Oktober 1870 ist der letzte, modernisierende Schritt, die Verlegung der italienische Hauptstadt von Florenz nach Rom noch nicht vollzogen; Pius IX. lebt als sein eigener Mythos im Vatikan verschanzt. Sein Bruder Julius hat am 27. November 1870 an der Schlacht von Amiens teilgenommen und wurde leicht am Fuß verletzt. Er wünscht sich mit seinem Bruder ein Ende des Leidens und Sterbens auf deutscher und französischer Seite.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1870-12-18" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G000920">Althaus, Friedrich (1829–1897)</persName>
+<placeName key="G000716">London</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="250"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Rom, 18. Dezember 1870.</dateline>
+                    <salute>Lieber Freund!</salute>
+                </opener>
+<p>Ich habe mich sehr gefreut, von Dir und den Deinigen, welche ich herzlich zu grüßen bitte, wieder Nachricht zu erhalten, und zwar gute. Da sich dies schrecklich große Jahr zu Ende neigt, will ich Dir noch schreiben und euch allen die Fülle des Glücks wünschen. Unser <placeName key="G000664">Vaterland </placeName>steigt vor uns zu neuer Größe auf. Was im Jahre 1848 angebahnt wurde, verwirklicht sich heute. Die Einheit ist gewonnen und ihre Formel wieder das Reich. So viel ich in Deutschland die Stimmung heraushöre, erweckt die <seg type="comment"><orig><hi rendition="#aq"><foreign xml:lang="Lat">Renovatio Imperii</foreign></hi></orig><note xml:id="nfr3_wkw_llb">Die Regierung von Kaiser und Papst in Rom – ein im Kontext des mittelalterlichen römisch-deutschen Kaiserreichs und des oströmischen bzw. frühbyzantinischen Kaiserreichs gebrauchter Terminus, der die Wiederherstellung alter Rechte und Besitzungen des römischen Imperiums bezeichnet.</note></seg> keinen Enthusiasmus. Sie ist mit zu viel Gedanken an Feudalität, Priesterherrschaft und auch an Cäsarismus verknüpft. Doch die Formel war historisch notwendig, denn Jahrhunderte haben sie national gemacht, und sicher ist <seg type="comment"><orig>der Kaiser in allen Schichten des Volkes verständlicher, als es der Begriff des Königs der Deutschen sein könnte</orig><note xml:id="ncss_ykw_llb">Die Belagerung von Paris hatte am 19. September 1870 begonnen und endete am 28. Januar 1871 mit der Unterzeichnung des Versailler Vertrags von Jules Favre (1809–1880) und Otto von Bismarck (1815–1898). Bereits am 18. Januar 1871 wurde Wilhelm I. (1797–1888) in Versailles zum Deutschen Kaiser proklamiert; zugleich erfolgte die deutsche Reichsgründung.</note></seg>. Die republikanischen Bestrebungen haben überall in Europa eine Depression erfahren; ihre Niederlage erscheint mir als die logische Folge des herrschenden Nationalitätsprinzips, welches die Einheit realisirt und diese nur in der Monarchie finden kann. <seg type="comment"><orig>Der Fall Roms hat die <placeName key="G000690">italienische Monarchie</placeName> gerettet und gesichert</orig><note xml:id="nilz_flw_llb">Am 20. September 1870 war Rom von italienischen Truppen eingenommen worden, womit das Ende des Kirchenstaates und damit der weltlichen Macht des Papstes besiegelt war. Nach einer Volksabstimmung war 8. Oktober 1870 durch das königliches Dekret Vittorio Emanueles II. (1820–1878) die Vereinigung des Kirchenstaats mit Italien proklamiert worden.</note></seg>; <seg type="comment"><orig><placeName key="G000874">Spanien</placeName> hat sich einen neuen <persName key="G000923">König</persName> geholt</orig><note xml:id="nizt_klw_llb">Auslöser für den Deutsch-Französischen Krieg war die spanische Thronfolge. Nach dem Sturz der spanischen Bourbonen-Königin Isabella II. (1830–1904) war zur Empörung Frankreichs durch Otto von Bismarck (1815–1898) dem Hohenzollernprinzen Leopold (1835–1905) die Kandidatur angetragen worden. Im November 1870 hatte das spanische Parlament den italienischen Herzog von Aosta, Amadeus von Savoyen (1845–1890) zum Thronfolger gewählt, der bereits 1873 abdankte.</note></seg> und<seg type="comment"><orig><placeName key="G000674"> Frankreich</placeName> wird wohl am Ende seiner Uebergangsrepublik zu den <persName key="G001247">Orleans</persName> zurückgreifen</orig><note xml:id="nufk_rlw_llb">Am 8. September 1870 war die dritte Republik ausgerufen und der Monarchist und Orléanist Adolphe Thiers (1797–1877) zum Präsidenten (bis 1873) ernannt worden, der im Mai 1871 die Pariser Kommune zerschlug. Auch seinem Amtsnachfolger Patrice Edme, comte de MacMahon (1808–1892) gelang es nicht, die Monarchie wieder zu etablieren.</note></seg>. Dies ist die Signatur der Zeit, und man muß sich damit abfinden, welcher Art sonst auch Neigung und Maxime des einzelnen sei. Ich bin ans Ende meiner <bibl corresp="G003434 G003441 G003448 G003455 G003463 G003470 G003477 G003489">Arbeit </bibl>gelangt, welche ich am 19. Januar abzuschließen hoffe, wo ich ein halbes <pb n="251"/>Jahrhundert von mühevollem Leben werde erreicht haben. Wenn ich nun diese elf Jahrhunderte der Geschichte der Menschheit überblicke, welche ich in meinem Werk zusammengefaßt habe, so erscheint mir die Bewegung des Menschengeistes innerhalb dieser langen Periode wahrhaft schneckenhaft, und das Resultat, die Summe von Freiheit, Wissen und Licht eine Erbärmlichkeit. <seg type="comment"><orig>Dies sind die philosophischen Bekenntnisse, die ich am Schlusse achtzehnjähriger Mühen niederlege</orig><note xml:id="nchh_5lw_llb">In den acht Bänden seiner vor dem Abschluss stehenden „Geschichte der Stadt Rom im Mittelalter“ (1859–1872), die er als Hegelianer zweiter Generation und enttäuschter Akteur der 1848er Revolution begonnen hatte.</note></seg>.</p>
+<p>Der Winter ist hier öde, die Zustände sind aufregend oder widerwärtig. <seg type="comment"><orig>Die Italiener haben sich nun thatsächlich in den Besitz von Rom gesetzt, aber den moralischen Besitz noch nicht vollzogen</orig><note xml:id="niqh_xlw_llb">Der erste Besuch Vittorio Emanueles II. (1820–1878) in Rom fand am 31. Dezember 1870 statt. Am 26. Januar 1871 wurde die italienische Hauptstadt von Florenz nach Rom verlegt.</note></seg>. Sie sind vielleicht zu klein für eine große Situation. <seg type="comment"><orig>Sie haben den Papst augenblicklich verschüttet; er ist jetzt ein Mythus im <placeName key="G000860">Vatikan</placeName></orig><note xml:id="ndgv_ylw_llb">Siehe RT, 30.10.1870, S. 297.</note></seg>. Werden sie ihn los werden und werden sie die innere moralische Erneuerung in sich finden, ohne welche sie nie aus dem Zustande bloß gewaltsamer Thatsachen herauskommen können? Ich sehe hier nirgend den Schwung der Ueberzeugung von einem modernen Glauben an ein modernes Ideal – nichts als Indifferentismus und sittliche Verkommenheit.</p>
+<p><seg type="comment"><orig>Mein <persName key="G001203">Bruder</persName> ist bei der Nordarmee. Er überstand glücklich die blutige Schlacht von <placeName key="G000613">Amiens</placeName></orig><note xml:id="njj5_cmw_llb">Julius Gregorovius (1819–1891) hatte am 27. November 1870 unter Generalfeldmarschall Edwin Freiherr von Manteuffel (1809–1885) daran teilgenommen.</note></seg>, außer daß er durch ein Sprengstück am Fuß eine Kontusion erhielt. Der Gedanke an ihn liegt schwer auf mir – überhaupt lastet der endlose Krieg als ein Bleigewicht wohl auf uns allen. Die Familientrauer in Deutschland ist allgemein, und wer hätte auch das Mitgefühl für die namenlosen Leiden Frankreichs eingebüßt? Nach allen Schilderungen ist das Verderben dort schrecklich. Mein Bruder ist ganz dadurch verdüstert.</p>
+                <closer>
+<salute xml:id="s1" next="#s2">Alles Gute <seg type="comment"><orig>Dir, <persName key="G004734">Frau</persName> und <persName key="ed_wqj_4pw_llb"><persName key="ed_qqj_gqw_llb">Kindern</persName></persName></orig><note xml:id="nfn5_qvw_llb"><p>Nach dem seiner ersten Ehefrau Anna, geb. Koppe im Frühjahr 1856 hatte Friedrich Althaus ihre Berliner Freundin Charlotte, geb. Voß geheiratet. Mit ihr hatte er mindestens die Söhne Friedrich und Theodor (1859–1833) </p></note></seg>!</salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">In Treue</salute>
+<signed rendition="#right">F. G.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

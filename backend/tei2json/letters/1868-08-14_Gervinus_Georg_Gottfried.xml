@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000268">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Georg Gottfried Gervinus in Heidelberg. München, 14. August 1868</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Universitätsbibliothek Heidelberg</repository><collection>NL Georg Gottfried Gervinus </collection><idno>Heid. Hs. 2526,141 (1)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¾ S. – 1r +2r aoR geprägt: ROMA</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 6 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 86, Mappe 4 (nach D)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Oswald Dammann: Ferdinand Gregorovius und Georg Gottfried Gervinus. Mit elf unveröffentlichten Gregoroviusbriefen. In: Zeitschrift für die Geschichte des Oberrheins. N. F. Bd. 56. Karlsruhe im Br.: Braun 1943. S. 624–625</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Wegen dringender Bibliotheksarbeiten in München für den siebten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1870) und angegriffener Gesundheit kann er der Einladung nach Heidelberg nicht nachkommen, sondern muss für einige Zeit zur Erholung in die Schweiz und zuvor nach Kufstein, wo er mit Wilhelm von Giesebrecht verabredet ist. Das Augenleiden von Viktoria Gervinus wird hoffentlich nicht langwierig sein.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1868-08-14" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001168">Gervinus, Georg Gottfried (1805–1871)</persName>
+<placeName key="G000685">Heidelberg</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">11. August 1868 (Caroline Vickers: Das Gervinussche Ehepaar. Mit unveröffentlichten Briefen von Gervinus und Ferdinand Gregorovius. In: Westermanns Illustrierte Deutsche Monatshefte. Bd. 98. Braunschweig: Westermann 1905. S. 408)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c">München, Frühlingstr. n. 19. <lb/>14. Aug<ex>ust</ex></dateline>
+</opener>
+<p>Sie haben mir doch, mein verehrter <?oxy_comment_start author="Angela Steinsiek" timestamp="20200406T163648+0200" comment="Historiker und Literaturhistoriker Georg Gottfried Gervinus (1805–1871) stammt aus einer pfälzisch-hessischen Handwerker- und Beamtenfamilie. Er machte zunächst den Buchhändlerlehre ind Bonn und eine kaufmännische Ausbildung in Darmstadt, folgte aber 1825 seinem Interesse an der Literatur und studierte Philologie und Philosophie in Gießen (1825), 1826 wechselte Gervinus zur Geschichte in Heidelberg bei dem Universalhistoriker Friedrich Christoph Schlosser (1776-1861), mit dem ihn schließlich eine enge Freundschaft verband. Seiner Habilitation 1830 „Über die Geschichte der Angelsachsen“ folgte bald eine erste Italienreise, der im Laufe seines Lebes drei weitere folgten. Nach dem Erscheinen es ersten Bandes seiner entwicklungshistorischen „Geschichte der poetischen National-Literatur der Deutschen“ (5 Bde., Leipzig: Engelmann 1835–1842) erhielt er 1835 eine außerordentliche Professur in Heidelberg, 1836 folgte der Ruf auf den Lehrstuhl für Geschichte und Literatur in Göttingen. Als einer der „Göttinger Sieben“ wurde er 1837 des Amtes enthoben und des Landes verwiesen, weil er sich an dem Protest gegen die Aufhebung des Hannoverschen Staatsgrundgesetzes durch König Ernst August (1771–1851) beteiligt hatte. Die universitäre Tätigkeit nahm er als Honorarprofessor erst 1844 in Heidelberg wieder auf. Als Herausgeber der liberal ausgerichteten „Deutschen Zeitung“ ist er im Revolutionsjahr 1848 einer der führenden politischen Publizisten; er wird Mitglied des Vorparlamentes, des Siebzehnerausschusses und kurzzeitig Abgeordneter der Frankfurter Nationalversammlung. Die spätere Entwicklung der deutschen Angelegenheiten blieb Gervinus fremd, der als Gegner der Reichsgründung unter der Führung Preußens von seinen ehemaligen Parteifreunden isoliert und angefeindet wurde. Das Erscheinen seiner „Einleitung in die Geschichte des neunzehnten Jahrhunderts“ brachte ihm 1853 sogar eine Anklage wegen Hochverrats ein. Seine Verurteilung zu zwei Monaten Festungshaft und Entlassung aus dem Universitätsdienst wurde in zweiter Instanz zwar für nichtig erklärt. Gervinus zog sich danach aber zunehmend aus der Öffentlichkeit zurück. Mit seiner Frau, der Gesangs- und Klavierlehrerin Victoria, geb. Schelver (1817 oder 1820–1893), teilte er die Liebe zur Musik, der er seine späten Jahre widmete (Händel und Shakespeare. Zur Ästhetik der Tonkunst Autor. Leipzig: Engelmann 1868). 1845 wurde Gervinus korrespondierendes Mitglied in die Preußische Akademie der Wissenschaften, 1863 auswärtiges Mitglied der Bayerischen Akademie der Wissenschaften. 
+Gregorovius fühlte sich dem Historiker und Literaturhistoriker Georg Gottfried Gervinus (1805–1871) eng verbunden. Auch wenn er die antipreußische Haltung von Gervinus nicht teilte, fand er die Bestätigung seiner ideengeschichtlichen Geschichtsauffassung in den „Grundzügen der Historik“ (1837) von Gervinus. In diesem Entwurf einer Poetik der Geschichtsschreibung hatte er lesen können: „Die Einheit des Plans ist eine Forderung, welches jedes poetische und philosophische Werk von selbst befriedigt; die meisten historischen Werke befriedigen sie nicht; hier also muß der Historiker von dem Dichter und Philosophen lernen. Diese beiden schreiben nie als aus dem Ganzen und für das Ganze; in jedem Theilchen ihrer Production steckt ihre Weltanschauung“ (S. 31). Nachdem Gregorovius ihn bei einem kurzen Heidelberg-Aufenthalt Anfang Oktober 1860 nicht hatte aufsuchen können, weil dieser „jenseits des Neckar“ wohnte (siehe RT, 5.10.1860, S. 110), lernte er Gervinus erst Jahre später in Rom persönlich kennen, als dieser sich mit seiner Frau Victoria, geb. Schelver (1817 oder 1820–1893) von Dezember 1866 bis zum 20. April 1867 für musikalische Studien in Rom aufhielt (Gervinus: Händel und Shakespeare. Zur Ästhetik der Tonkunst Autor. Leipzig: Engelmann 1868). Offenbar haben sich beide gleich getroffen, denn im Tagebuch dokumentiert Gregorovius ausführlich ein Grundsatzgespräch mit Gervinus, deren „professorenhafter Schwerfälligkeit im Wesen“ den sechszehn Jahre Jüngeren störte, über die Nationalstaatsbildung, die Führungsrolle Preußens und die weltliche Macht des Papstes (siehe RT, 16.12.1866, S. 219–220). Später fand Gregorovius ihn zwar „zugänglicher“, doch zeigte sich dieser nach wie vor als „entschiedener Feind Preußens und gegen die gewaltsame Umwälzung Deutschlands unversöhnlich“ (RT, Gründonnerstag 1867, S. 223), was sich bis zu seiner Abreise änderte: „Er stellte die schwärzesten Ansichten auf, selbst von einem Abfall Süddeutschlands an Frankreich, wie in den Zeiten des Rheinbundes. Er meinte, die Kluft zwischen dem Süden und dem preußischen Wesen sei unausfüllbar. Außer seiner Theorie vom Föderativstaat ist es der moralische Widerwille gegen die Bismarckische Politik, welcher ihn in seinen Urteilen bestimmt. Sein Rechtssinn ist tief empört. Wir bestritten seine Befürchtungen lebhaft. Ich hoffe auf die allgemein gewordene Kraft des Nationalbewußtseins“, gleichwohl zollte Gregorovius ihm größten Respekt: „Es ist ein ernstes und sehr gediegenes Wesen in Gervinus, ein großer in der Breite angelegter Verstand: Prosa im edelsten und mächtigsten Sinne.“ (RT, 28.4.1867, S. 224) Freundschaftlich näherten sie sich im Sommer 1867 bei gemeinschaftlichen Unternehmungen und Gesprächen mit Kollegen von Gervinus an, als Gregorovius 1. bis 3. und (nach eine Rheinreise mit seinem Bruder Julius) vom 6. bis zum 21. August für Bibliotheksarbeiten in Heidelberg weilte (siehe RT, 31.7.–18.8.1867, S. 228–231). Ein letztes Treffen fand während des Deutsch-Französischen Krieg Ende September 1870 in Heidelberg statt (siehe RT, 29.9.1870, S. 293). Beim Tod seines Freundes am 18. März 1871 hält Gregorovius in seinem Tagebuch fest: „Wie es scheint, ist er in dem Konflikt seiner doktrinären Überzeugung mit den Tatsachen der Gegenwart untergegangen. Ich beklage seinen Verlust; eine bedeutende persönliche Beziehung ist für mich erloschen.“ (RT, 9.4.1871, S. 304). Im Nachlass von Gervinus haben sich ein knappes Dutzend Briefe von Gregorovius an Gervinus und der Kondolenzbrief an Viktoria Gervinus erhalten – sind wurden im Erstdruck von 1943 ohne die Nachschriften der gemeinsam befreundeten Auguste Lindemann-Frommel (1826–1876) abgedruckt. Der Verbleib von sechs Briefen von Gregorovius an Viktoria Gervinus (der Jahre 1871–1890) und von zwei Briefen von Georg Gottfried Gervinus an Gregorovius (der Jahre 1868–1869), die 1905 erstmals (zumeist unvollständig) publiziert wurden, konnte nicht ermittelt werden."?>Herr u<ex>nd</ex> Freund<?oxy_comment_end?>, die Pein angetan, mich in Ihr schönes Heidelberg zu rufen, aber Ihrem freundlichen Anathem muß ich das römische <hi rendition="#aq"><foreign xml:lang="Lat"><?oxy_comment_start author="Angela Steinsiek" timestamp="20200406T163717+0200" comment="Lat.: wir können nicht."?>Non Possumus<?oxy_comment_end?></foreign></hi> entgegen halten.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190107T184635+0100" comment="Gervinus hatte Gregorovius im vorangehenden Brief vom 11.8.1868 scherzhaft gedroht: „Sie wollen der Pein einer Einladung hierher enthoben sein; die Curie in Heidelberg, die an Unfehlbarkeit, Untrüglichkeit, Rechthaberei und Widerspruchsunfähigkeit der römischen nichts herausgibt, beauftragt mich daher, Ihnen die Vorladung zu schicken, in möglichst kurzer Frist auf möglichst lange Frist zu erscheinen, bei Strafe des Anathems [Bannstrahl oder Kirchenbann]. Sie werden die hohe Stelle zwar nur in einem curiosen Nymbus mystischen Dunkels sehen können, darum bleibt doch die geschehene Citation nicht minder klar, deutlich und hell.“ (Caroline Vickers: Das Gervinussche Ehepaar. Mit unveröffentlichten Briefen von Gervinus und Ferdinand Gregorovius. In: Westermanns Illustrierte Deutsche Monatshefte. Bd. 98. Braunschweig: Westermann 1905. S. 408)"?> <?oxy_comment_end?>Ich kann u<ex>nd</ex> darf nicht meiner Reise dieselbe Ausdehnung wie im vorigen Jahre geben; auch müßte ich dann <placeName key="G000879">Stuttgart</placeName> u<ex>nd</ex> <placeName key="G000623">Baden-Baden</placeName> wiederum aufsuchen, u<ex>nd</ex> das zerstückte Reiseleben, meine Qual, so weiter fortsetzen. <?oxy_comment_start author="Angela Steinsiek" timestamp="20200406T163923+0200" comment="So auch im Tagebuch, wo Gregorovius die ausgeschlagene Einladung von Gervinus nach Heidelberg festhielt (siehe vom 1.–19.8.1868, S. 252). Gregorovius war für Bibliotheksarbeiten des 7. Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1870) in München. Er blieb bis zum 19. August in München und hielt sich von 27.8. bis 23.9.1868 in Schachen, nahe Lindau auf. Im September 1868 war Gervinus mit seiner kranken Frau in Wildbad, so dass sie auf ein Treffen verzichteten (siehe RT, 20.9.1869, S. 252–253)."?>Mein diesjähriges Ziel war München, mein Zweck die Benutzung gewißer Materalien<?oxy_comment_end?>. Aber meine Gesundheit ist so tief erschüttert, daß ich auch diese nicht ganz absolviren kann, sondern abbrechen muß, um nach der <placeName key="G000870">Schweiz</placeName> zu gehen, dort Einsamkeit u<ex>nd</ex> Erholung in einer ruhigen Folge von <pb n="1v"/>Tagen u<ex>nd</ex> Wochen aufzusuchen.</p>
+<p><?oxy_comment_start author="Angela Steinsiek" timestamp="20200406T164215+0200" comment="Am 20. August traf Gregorovius mit Wilhelm von Giesebrecht (1814–1889) und dessen Onkel, dem Historiker und Dichter Ludwig Giesebrecht (1792–1873), in Kufstein zusammen und blieb bis zum 24. August; zu Besuch kam auch der Gregorovius befreundete Arzt Wolfgang Erhardt (1819–1906), seit 1845 Arzt des Deutschen Spitals in Rom, mit seiner Familie (siehe RT, 20.9.1869, S. 252)."?>Ich gehe in Kurzem nach <placeName key="G000711">Kufstein</placeName>, widerwillig, doch versprach ich es <persName key="G001173">Giesebrecht</persName>, den ich schon lange nicht sah.<?oxy_comment_end?> </p>
+<p>So verzichte ich mit Trauer auf die Freude, Sie u<ex>nd</ex> Ihre <persName key="G001168">Frau Gemahlin</persName> jetzt wieder zu sehen. <?oxy_comment_start author="Angela Steinsiek" timestamp="20200406T164255+0200" comment="Die Gesangs- und Klavierlehrerin Victoria Gervinus, geb. Schelver (1817 oder 1820–1893) litt an einer Erkrankung der Netzhaut; sie musste auf das Musizieren verzichten und das Tageslicht meiden."?>Deren Augenleiden<?oxy_comment_end?> betrübt mich – es ist ein peinvolles, vielleicht langwieriges Übel; Sie haben indeß zum Glück am Orte sehr ausgezeichnete Augenärzte, wie ich denke oder mich erinnere. Und so will ich hoffen, daß diese Krankheit nicht zu lange andauern wird, um Sie der Erholung im September <pb n="2r"/>ganz zu berauben. Gewähren Sie mir die Bitte, mir früher oder später noch einmal Nachricht zu geben. Im Falle daß ich München schon verlaßen haben sollte, besorgt meine Briefe die „<orgName key="G000472">Literarisch-Artistische Anstalt Cotta</orgName>“ hierselbst.</p>
+<closer>
+<salute xml:id="s1" next="#s2" rendition="#c">Mit den herzlichsten Grüßen und voll aufrichtiger Verehrung</salute>
+<salute xml:id="s2" prev="#s1" next="#s3" rendition="#right"> Ihr </salute>
+<signed rendition="#right"><hi rendition="#aq">F. Gregorovius</hi>.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

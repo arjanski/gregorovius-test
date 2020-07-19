@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000344">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Hermann Brockhaus in Livorno. Rom, 10. Februar 1872</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Sächsisches Staatsarchiv Leipzig</repository><collection>Bestand 21083</collection><idno>Archivalnummer 224 (112)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ½ S</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 55, Mappe 333 (nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Über die von Brockhaus geplante Reise nach Korsika wird ihm in Livorno Christian Appelius Auskunft geben. Er bedauert, dass Brockhaus nicht nach Rom kommen wird. Er selbst war seit zwanzig Jahren nicht mehr auf Korsika und hat keine persönlichen Verbindungen mehr dorthin; Salvatore Viale und Camille Friess de Colonna sind inzwischen verstorben. Er vermutet, dass deutschen Reisenden nach dem Sturz Napoléons mit Feindschaft begegnet wird. Auch die Zollbestimmungen dürften für Schwierigkeiten sorgen. Über mögliche Reiseverbindungen zwischen Sardinien und Caprera wird auch Christian Appelius Auskunft geben. Er selbst war ist seit dem 14. Dezember 1871 zurück in Rom. Sollte Brockhaus nach Korsika reisen, erbittet er hierüber nach seiner Rückkehr nach Leipzig einen kurzen Bericht.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1872-02-10" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G000996">Brockhaus, Heinrich (1804–1874)</persName>
+<placeName key="G000715">Livorno</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c"><hi rendition="#aq">Rom</hi>, <hi rendition="#aq">Via Gregoriana</hi> n<ex>umero</ex> 13. <lb/>10. <hi rendition="#aq">Febr<ex>uar</ex></hi> 1872.</dateline>
+                    <salute rendition="#c">Verehrter Herr und Freund,</salute>
+                </opener>
+<p>ich empfange eben Ihre freundlichen Zeilen über <placeName key="G000712">Leipzig</placeName>, froh von Ihnen directe Nachricht zu haben, aber aufrichtig bedauernd, daß Sie Ihre Reise nicht bis zur alten Roma ausdehnen wollen.</p>
+<p>Über Ihre weiteren Reisepläne wird Ihnen <persName key="G000936">Herr <hi rendition="#aq">Apelius</hi></persName> in <placeName key="G000715"><hi rendition="#aq"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190424T160921+0200" comment="Vermutlich der deutsche Generalkonsul in Livorno, Christian Appelius (1811–1879), mit dem Gregorovius im Juli 1870 zusammen im Innsbrucker „Hôtel du Soleil d’or“ untergebracht war (nach „To the Stranger in the Tyrol“, Nr. 4. 15.7.1870. S. 14 siehe https://books.google.de/books?id=vXyHeUNSCCIC&amp;pg=RA3–PA14&amp;dq=Appelius+in+Livorno+Gregorovius&amp;hl=de&amp;sa=X&amp;ved=0ahUKEwi114rt4OjhAhWHxMQBHZCWARAQ6AEILTAB#v=onepage&amp;q=Appelius%20in%20Livorno%20Gregorovius&amp;f=false). "?>Livorno<?oxy_comment_end?></hi> </placeName>die praktische Auskunft geben. Ich zweifle nicht, daß noch die regelmäßige wöchentliche Dampfschifffahrt zwischen <hi rendition="#aq">Livorno</hi> u<ex>nd</ex> <placeName key="G000631"><hi rendition="#aq">Bastia</hi></placeName> besteht, wie daß vom letzteren Hafen eine gleiche nach <placeName key="G000725">Marseille</placeName> gerichtet ist. Es sind fast 20 Jahre hingegangen, seitdem ich auf <placeName key="G000710"><hi rendition="#aq">Corsica</hi></placeName> <add place="superlinear">war</add>, so daß ich außer aller Beziehung mit mir einst dort bekannten Männern bin, zumal ist der mir befreundet gewesene <persName key="G001678">Dichter <hi rendition="#aq"><hi rendition="#aq">Viale</hi></hi></persName> in <?oxy_comment_start author="Angela Steinsiek" timestamp="20190424T160940+0200" comment="Der Gregorovius persönlich bekannte korsische Dichter Salvatore Viale (1787–1861)."?>Bastia<?oxy_comment_end?> gestorben, u<ex>nd</ex> desgleichen todt auch <persName key="G001149"><hi rendition="#aq">Camillo Fries</hi> </persName>in <hi rendition="#aq"><placeName key="G000612"><hi rendition="#aq"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190424T160953+0200" comment="Der Archivar Camille Friess de Colonna (1812–1869) hatte eine korsische Geschichte geschrieben, „Histoire de la Corse, depuis les temps les plus anciens“ (1839). Gregorovius hatte ihn in Ajaccio persönlich kennengelernt (siehe Gregorovius: Neues Leben in Corsica. In: Kleine Schriften zur Geschichte und Cultur. Bd. 2. Leipzig: Brockhaus 1888. S. 108)."?>Ajaccio<?oxy_comment_end?></hi></placeName></hi>, ein Historiker <pb n="1v"/>jenes Insellandes. Ich argwöhne auch, daß Sie eine Reise in <hi rendition="#aq">Corsica</hi> in der gegenwärtigen Zeit entweder nicht ganz ohne Unannehmlichkeiten, oder doch ohne erleichterndes Entgegenkommen von Seiten Eingeborner machen werden; denn durch den Sturz <persName key="G001442">Napoleons</persName> sind, so stelle ich mir <add place="superlinear">vor</add>, auch die Corsen mit in den französischen Nationalhaß gegen die Deutschen hineingezogen. Wollten Sie aber dennoch Ihr Unternehmen ausführen, so dürfte die Reise in die Hauptstädte des Landes, von <hi rendition="#aq">Bastia</hi> nach <placeName key="G000662"><hi rendition="#aq">Corte</hi></placeName> u<ex>nd</ex> <hi rendition="#aq">Ajaccio</hi> bei der noch primitiven Einrichtung der <hi rendition="#aq">Diligenzen</hi> keine unbeschwerliche sein.</p>
+<p>Welche Verbindung zwischen dem <placeName key="G000645"><hi rendition="#aq">Garibaldi</hi>-<?oxy_comment_start author="Angela Steinsiek" timestamp="20190424T161018+0200" comment="Der Freischarenkämpfer Giuseppe Garibaldi (1807–1882) hatte ein Landhaus auf der Sardinien vorgelagerten Insel Caprera. Dort verbrachte er seine letzten Lebensjahre."?>Eilande<?oxy_comment_end?></placeName> und <placeName key="G000862">Sardinien</placeName>, oder mit dem Festlande besteht, <pb n="2r"/>weiß ich selbst nicht anzugeben: ohne Zweifel wird das Herr <hi rendition="#aq">Apelius</hi> am besten anzugeben wißen.</p>
+<p>Ich war im Vaterlande bis zum Anfange des Dec<ex>ember</ex>, so daß ich erst seit der Mitte jenes Monats wieder in Rom bin.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190424T161029+0200" comment="Gregorovius hatte sich bis zum 3. Dezember in München aufgehalten, in Rom war er über Mantua reisend am 14. Dezember 1871 eingetroffen (siehe RT, S. 313–316)."?> <?oxy_comment_end?></p>
+<p>Ich hoffe, daß Sie Ihre Gesundheit gut gekräftigt haben und so glücklich in das Vaterland zurückkehren werden, von wo her ich um ein paar Zeilen in dem Falle bitte, daß Sie wirklich in Corsica gewesen sind.</p>
+                <closer>
+<salute xml:id="s1" next="s2">Mit den herzlichsten Grüßen u<ex>nd</ex> Wünschen, verehrter Herr,</salute>
+<salute xml:id="s2" prev="s1" rendition="#right">Ihr wahrhaft ergebener</salute>
+<signed rendition="#right"><hi rendition="#aq">FGregorovius</hi>.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

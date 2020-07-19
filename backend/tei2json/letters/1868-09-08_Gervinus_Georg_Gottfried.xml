@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000273">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Georg Gottfried Gervinus in Heidelberg. Bad Schachen, 8. September 1868</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Universitätsbibliothek Heidelberg</repository><collection>NL Georg Gottfried Gervinus</collection><idno>Heid. Hs. 2526,141 (2)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¾ S. – 1r + 2r aoR geprägt: ROMA</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 6 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 86, Mappe 4 (nach D)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Oswald Dammann: Ferdinand Gregorovius und Georg Gottfried Gervinus. Mit elf unveröffentlichten Gregoroviusbriefen. In: Zeitschrift für die Geschichte des Oberrheins. N. F. Bd. 56. Karlsruhe im Br.: Braun 1943. S. 625–626</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er schildert den Verlauf seines Sommers: In Kufstein hat er einige Tage mit Wilhelm von Giesebrecht verbracht; Wolfgang Erhardt kam mit seiner Familie zu Besuch – mit ihnen will er Anfang Oktober nach Rom zurückreisen. Im idyllischen Bad Schachen bei Lindau bleibt er noch weitere zehn Tage zur Erholung. Sollte Gervinus mit seiner erkrankten Frau Viktoria im September südwärts reisen, würde er sie besuchen, wenn der Ort seiner eigenen Reiseroute nahe ist. Er gratuliert zum Erscheinen der fünften Auflage von Gervinus’ „Geschichte der deutschen Dichtung“ (1871). Giesebrecht will im kommenden Frühjahr nach Rom kommen. Auguste Lindemann-Frommel geht es gesundheitlich besser, auch weil Sohn Manfred zu Besuch ist. Sein Bruder Julius denkt gern an die gemeinsamen Tage in Heidelberg.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000627">Bad Schachen</placeName><date when="1868-09-08" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001168">Gervinus, Georg Gottfried (1805–1871)</persName>
+<placeName key="G000685">Heidelberg</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Bad Schachen bei <hi rendition="#aq">Lindau</hi> <lb/>8 7<ex>em</ex>bre 68.</dateline>
+                    <salute>Mein hochverehrter Herr u<ex>nd</ex> Freund,</salute>
+                </opener>
+<p>das ist, unter Voraussetzung Ihrer freundlichen Anteilnahme, in Kürze mein bisheriges <hi rendition="#aq"><foreign xml:lang="Lat">Itinerarium Antonini</foreign></hi><?oxy_comment_start author="Angela Steinsiek" timestamp="20190108T170531+0100" comment="Ein Verzeichnis der wichtigsten römischen Reichsstraßen, hier metaphorisch für Reiseroute."?>:<?oxy_comment_end?> <?oxy_comment_start author="Angela Steinsiek" timestamp="20200406T183325+0200" comment="Gregorovius war am 20. August mit Wilhelm von Giesebrecht (1814–1889) und dessen Onkel, dem Historiker und Dichter Ludwig Giesebrecht (1792–1873), in Kufstein zusammengetroffen, wo er bis zum 24. August geblieben war; zu Besuch kam auch der Gregorovius befreundete Arzt Wolfgang Erhardt (1819–1906), ab 1845 Arzt des Deutschen Spitals in Rom, seit 1871 der Deutschen Botschaft in Rom, mit seiner Familie (siehe RT, 20.9.1869, S. 252–253)."?>in <placeName key="G000711">Kufstein</placeName> war ich 5 Tage lang mit<persName key="G001173"> Giesebrecht</persName>, u<ex>nd</ex> dort traf ich auch <persName key="G001116"><hi rendition="#aq">Dr. Erhardt</hi></persName> mit <persName key="ed_xzm_tf6_7jw ed_eif_6uk_kwj">Familie<?oxy_comment_end?></persName> – sie haben für 1 Monat Station in <placeName key="G000758">Prien am Chiemsee</placeName> genommen. </p>
+<p>Ich ging nach <placeName key="G000734">München </placeName>zurück, u<ex>nd</ex> suchte alsbald einen stillen Ort, um meine Erholungskur zu unternehmen: nämlich vollkommene Ruhe durch ein paar Wochen. Diesen Ort fand ich hier an dem herrlichen Seegestade, einem meilenweiten Fruchtgarten der Göttin <persName key="G001504">Pomona</persName>, mit köstlichen Blicken auf Gebirge und diesen violen- oder vergißmeinnichtfarbenen Seespiegel. Mich dünkt, daß ich nie in <placeName key="G000664">Deutschland</placeName> ein entzückenderes Asyl für ermüdete Wanderer fand, als dies von Segen triefende Ufer, welches nur von glücklichen, ihrer Ernten frohen Menschen bewohnt scheint. Eine treffliche Verköstigung im kleinen Badeort, wo es täglich stiller wird, fördert das leibliche Gedeihen. Ich wohne indeß nicht daselbst, sondern im „Schlößle“, einem reizenden Haus mit Turm, u<ex>nd</ex> niedriger Umfaßungsmauer. Dort hat man mir das schönste Zimmer bestens hergerichtet. <pb n="1v"/><?oxy_comment_start author="Angela Steinsiek" timestamp="20200406T183432+0200" comment="Gregorovius hielt sich von 26.8. bis 23.9.1868 in Bad Schachen bei Lindau auf."?>Seit 12 Tagen genieße ich diese köstliche Einsamkeit, in welcher es auch nicht an geselligem Verkehre fehlt, und diese meine mir notwendige Cur wird nach andern 10 Tagen beendigt sein<?oxy_comment_end?>, so daß ich hoffen darf, für meine schwierige Winterarbeit hinreichend gestärkt zu sein.</p>
+<p>Aus Ihrem letzten Briefe entnahm ich, daß <?oxy_comment_start author="Angela Steinsiek" timestamp="20200406T183634+0200" comment="Die Gesangs- und Klavierlehrerin Victoria Gervinus, geb. Schelver (1817 oder 1820–1893) litt an einer Erkrankung der Netzhaut; sie musste auf das Musizieren verzichten und das Tageslicht meiden. Gervinus ging im September 1868 mit ihr nach Wildbad, so dass es kein Wiedersehen mit Gregorovius gab (siehe RT, 20.9.1869, S. 252–253)."?>Sie, mein teurer Herr, mit Ihrer <persName key="G001169">Frau Gemalin</persName>, welche hoffentlich vollkommen hergestellt ist, südwärts zu gehen gedenken. Ich bitte Sie nun dringend mir zu sagen welches der Ort ist, wo Sie sich aufhalten.<?oxy_comment_end?> Ich würde mich dann zur Zeit aufmachen, Sie aufzusuchen, wenn nämlich dieser Ort nicht zu weit von meiner Straße entfernt ist. Denn am Ende des Sept<ex>em</ex>b<ex>e</ex>r will ich die Brennerstraße von <placeName key="G000579">Inspruck</placeName> wieder einschlagen, u<ex>nd</ex> ich denke mit Erhardts zusammen nach <placeName key="G000763">Rom</placeName> abzumarschiren. Vielleicht liegt <placeName key="G000597">Constanz</placeName> Ihrem Aufenthalt nahe, wo es herrlich ist, wie ich aus Erfahrung weiß. <?oxy_comment_start author="Angela Steinsiek" timestamp="20200406T183902+0200" comment="Siehe RT, 20.9.1868, S. 253."?>Ich war nur einmal von hier aus in der <placeName key="G000870">Schweiz,</placeName> u<ex>nd</ex> zwar in <placeName key="G000580"><hi rendition="#aq">S<ex>ankt</ex> Gallen</hi></placeName>; außerdem zu Fuße nach dem schönen <placeName key="G000581">Bregenz</placeName> u<ex>nd</ex> nach <placeName key="G000582">Langenargen</placeName> gewandert<?oxy_comment_end?>. </p>
+<p><pb n="2r"/>Ich gratuliere Ihnen u<ex>nd</ex> dem Vaterlande zu der <?oxy_comment_start author="Angela Steinsiek" timestamp="20200406T183832+0200" comment="Bd. 1–2 der „Geschichte der deutschen Dichtung“ von Gervinus erschien erst 1871 in 5., gänzlich umgearbeiteter Ausgabe in Leipzig bei Engelmann."?>neuen, wie ich denke siebenten Ausgabe der <bibl sameAs="G004272">Geschichte der Nationalpoesie<?oxy_comment_end?></bibl>; aber tief würde ich es bedauern, wenn das zugleich der Grund wäre, der Sie von Rom zurückhielte. Auch Giesebrecht kommt nach Rom, aber erst um die Osterzeit.</p>
+<p>Ich hatte letzthin <?oxy_comment_start author="Angela Steinsiek" timestamp="20200406T184130+0200" comment="Der Gesundheitszustand der an Lungentuberkulose leidenden Auguste Lindemann-Frommel (1826–1876) war seit längerer Zeit schlecht. An den Unternehmungen und Reisen ihres Mannes Karl konnte sie zumeist nicht teilnehmen und musste ganztägig im Bett ihrer römischen Wohnung in der Via Babuino 39 bleiben."?>gute Nachrichten von <persName key="G001374">Frau Lindemann</persName>. Sie fühlt sich etwas woler<?oxy_comment_end?>, u<ex>nd</ex> dazu mag die Anwesenheit ihres <persName key="G001376"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190108T170817+0100" comment="Manfred Lindemann-Frommel (1852–1939)."?>Jungen<?oxy_comment_end?></persName> viel beitragen.</p>
+                <closer>
+<salute>Ihnen u<ex>nd</ex> Ihrer Frau Gemalin die herzlichsten Grüße hinübersendend, und hoffentlich auf frohes Wiedersehen</salute>
+<signed rendition="#right">Ihr FGregorovius</signed>
+<note type="postscript"><?oxy_comment_start author="Angela Steinsiek" timestamp="20200406T184447+0200" comment="Mit Julius Gregorovius (1819–1891) hatte er vom 18.-21.8.1868 Heidelberg besucht (siehe RT, 18.8.1870, S. 230–231). Am 13.10.1868 wurde dieser zum Artillerie Offizier vom Platz in Pillau ernannt (Königlich Preußischer Staats-Anzeiger. Nr. 249. 21.10.1868. S. 4169)."?>Mein <persName key="G001203">Bruder</persName> denkt noch mit Dankbarkeit an den schönen Tag von Heidelberg<?oxy_comment_end?> u<ex>nd</ex> trägt mir die wärmsten Empfehlungen auf. Er erwartet seine Versetzung nach <placeName key="G000583">Cassel </placeName>oder <placeName key="G000584">Neiße</placeName>; das erste wäre mir erwünschter.</note>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

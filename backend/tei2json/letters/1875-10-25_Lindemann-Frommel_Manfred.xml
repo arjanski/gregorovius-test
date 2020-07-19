@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067839">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Manfred Lindemann-Frommel in Karlsruhe. München, 25. Oktober 1875</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Universität Würzburg</repository><collection>Martin-von-Wagner-Museum</collection><idno>NL Lindemann-Frommel, L 36–64, XII</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ¼ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Wolfgang Erhardt hat ihn aus Rom über die Verschlechterung des Gesundheitszustandes seiner Mutter Auguste Lindemann-Frommel unterrichtet. Er hofft, dass sie sich neuerlich erholt, doch soll sich auch Manfred Lindemann-Frommel auf alles gefasst machen – er bittet um Nachricht, wenn dieser nach Rom fährt. Er hat an Wolfgang Erhardt und Auguste Lindemann-Frommel geschrieben – ihr letzter Brief war mit fester Hand geschrieben.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1875-10-25" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001376">Lindemann-Frommel, Manfred (1852-1939)</persName>
+<placeName key="G000696">Karlsruhe</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">München, 25. Oct<ex>o</ex>b<ex>e</ex>r <lb/>1875</dateline>
+                    <salute rendition="#c">Lieber Manfredi,</salute>
+                </opener>
+<p>unsre Gedanken haben sich begegnet, denn eben wollte ich an Dich schreiben, als Dein Brief kam.</p>
+<p>Auch ich <seg type="comment"><orig>erhielt nämlich durch <persName key="G001116">Erhardt</persName> eine traurige Benachrichtigung, von dem verschlimmerten Zustande Deiner edeln <persName key="G001374">Mutter</persName></orig><note xml:id="nmrw_15j_2mb">Der Auguste Lindemann-Frommel (1826–1876) behandelnde deutsche Botschaftarzt in Rom, ihr Vetter Wolfgang Erhardt (1819–1906). Er hatte seinen Freund Gregorovius brieflich über die Verschlechterung ihres Gesundheitszustandes unterrichtet – sie war seit Jahren mit einer Lungentuberkulose ans Bett gefesselt. Gregorovius hatte Erhardt an 24. Oktober 1875 mitgeteilt, dass er erst nach ihrem Tod nach nach Rom kommen will: „Die gute und edle Freundin, der ich selbst so unendlich viel verdanke, will ich nicht sterben sehen.“ (BSB München, Autogr. Gregorovius, Ferdinand, 37). </note></seg>. <hi rendition="#aq">Erh<ex>ardts</ex></hi> Brief war vom 21. Seither sind keine weiteren Nachrichten eingegangen, so daß ich darüber sehr froh bin; denn ich betrachte das als ein gutes Zeichen.</p>
+<p><pb n="1v"/>Doch zwingt ja wol die richtige Überlegung, auf nicht Gutes sich gefaßt zu machen; denn die Kräfte der Kranken verzehren sich, ohne ersetzt zu werden. Daß Ihr das Glück gehabt, die so lange Leidende bis jetzt zu behalten, ist ja schon viel. Hoffen wir, da sie ähnliche Krisen überstanden hat, <seg type="comment"><orig>daß auch diesmal noch die Natur helfen wird</orig><note xml:id="novf_d5j_2mb">Auguste Lindemann-Frommel erholte sich noch einmal für kurze Zeit. Am 27. Oktober 1875 schrieb Gregorovius an Manfred Lindemann-Frommel: „Dein Vater schreibt, daß der Zustand zwar noch schlimm, aber doch zu einem Stillstand gekommen ist.“ (Universität Würzburg, Martin-von-Wagner-Museum, NL Lindemann-Frommel, L 36–64, XIII) Sie starb am 18. März 1876 in Anwesenheit von Gregorovius, den sie unbedingt noch einmal sehen wollte. Gregorovius fuhr zusammen mit Manfed Lindemann-Frommel am 10. März 1876 von München nach Rom – die Fahrt nach Rom trat Gregorovius auch wegen der Verleihung der Ehrenbürgerwürde Roms an ihn an, von der er zeitgleich unterrichtet wurde (siehe RT, 20.5.1876, S. 363–364 und Peter K. W. Freude: Karl Lindemann-Frommel. Ein Malerleben in Rom. Monographie und Werkverzeichnis seines graphischen und malerischen Schaffens. Murnau am Staffelsee 1997. S. 72–74).</note></seg>. </p>
+<p>Trotzdem wirst Du <pb n="2r"/>wol jeden Tag auf Deine Abberufung Dich gefaßt machen müßen. Sollte <seg type="comment"><orig>Deine Reise nach<placeName key="G000763"> Rom</placeName> nötig sein</orig><note xml:id="nbsw_35j_2mb">Manfred Lindemann-Frommel verbrachte den Dezember 1875 in Rom.</note></seg>, so bitte, thue wie Du versprochen hast, u<ex>nd</ex> telegraphire mir die Stunde.</p>
+<p>Hoffen wir das was wir wünschen. Und dies thue ich, weil alles still ist; <seg type="comment"><orig>heute erhielt Erh<ex>ardt</ex> am Morgen meinen Brief</orig><note xml:id="nplk_k5j_2mb">Gregorovius an Wolfgang Erhardt, 24. Oktober 1875 (BSB München, Autogr. Gregorovius, Ferdinand, 37).</note></seg>, auch <seg type="comment"><orig>Deine Mutter einen</orig><note xml:id="nexl_l5j_2mb">nicht erhalten.</note></seg>. Ihr letzter an mich war geschrieben am 18, zwar klagend, aber noch mit kräftiger Hand; u<ex>nd</ex> forderte sie darin mehre <seg type="comment"><orig><foreign xml:lang="Lat">l<ex>i</ex>b<ex>ra</ex></foreign></orig><note xml:id="nlv3_n5j_2mb">In der Handschrift die Ligatur aus l und b für lat.: librum – Pfund.</note></seg> <seg type="comment"><orig>Fleischextract</orig><note xml:id="ndqy_r5j_2mb">Das von dem berühmten Münchner Chemiker Justus Freiherr von Liebig (1803–1873) in 1840er Jahren erfundenene Fleischextrakt wurde von ihm 1854 mit Erfolg als stärkende Krankenkost bei einem an <ptr target="https://de.wikipedia.org/wiki/Cholera"/>Cholera erkrankten Mädchen eingesetzt, bevor es als „Liebig‘scher Fleischextract“ ab 1862 von einer englischen Gesellschaft der günstigeren Fleischpreise wegen in Uruguay in Großproduktion ging. Nährwert und Nutzen der aus Rindfleisch gewonnenen zähen Paste wurden in der zeitgenössischen Tagespresse sowie in medizinischer Fachliteratur diskutiert.</note></seg>.</p>
+<p>Es ist <pb n="2v"/>hier gräßlich kalt, heute Schnee.</p>
+<p>Die <persName key="G001203"><persName key="G001111"><persName key="G001109">Meinigen</persName></persName></persName> grüßen Dich herzlich.</p>
+                <closer>
+                    <salute rendition="#right">In Treue <lb/>Dein</salute>
+                    <signed rendition="#right">FGregorovius</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

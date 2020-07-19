@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067876">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Cesare Guasti in Florenz. Rom, 2. März 1877 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Biblioteca Roncioniana Prato</repository><collection>Archivio Guasti, Busta 398</collection><idno>(16)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 1 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für Informationen über die Florentiner Liktoren nach dem 14. Jahrhundert. Wegen der benötigten Abschriften wird er sich an Adamo Rossi (?) in Perugia wenden. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1877-03-02" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001218">Guasti, Cesare (1822-1889)</persName>
+<placeName key="G000671">Florenz</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<dateline rendition="#c">Roma, 2. Marzo 1877</dateline>
+<salute rendition="#c">Gentilissimo <seg type="comment"><orig>Signor Direttore</orig><note xml:id="nicc_js3_1mb">Mit dem Schriftsteller und Philologen Cesare Guasti (1822–1889), der von 1852–1874 Assistent und ab 1874 Direktor des Staatsarchivs in Florenz war, stand Gregorovius seit ihrer ersten Begegnung im September 1858 in Kontakt; siehe den Brief von Gregorovius an Cesare Guasti vom 4.10.1863. Wenige Wochen vor diesem Brief, auf dem Weg von München nach Rom, hatte sich Gregorovius während seines viertätigen Aufenthaltes in Florenz zu Guasti ins Archiv begeben (siehe RT, Rückkehr nach Rom im Jahre 1877, S. 374).</note></seg>,</salute>
+</opener>
+<p>le rendo infinite grazie per quella premura che si è preso, di tramandarmi <seg type="comment"><orig>le notizie desiderate intorno agli esempj di „Littore civilitatis“</orig><note xml:id="nw3g_ls3_1mb">Auch da kein Gegenbrief Guastis zu dieser Anfrage erhalten ist, ist nicht ermittelbar, um was für Notizen hinsichtlich Florentiner Liktoren es sich hier handelt. Offensichtlich aber lassen sich im Staatsarchiv Florenz keine Beispiele für die höhere Beamte begleitende Figur finden.</note></seg> accordate dal comune di Firenze. Vedo che nemmeno costì vi abbiano tali di un’ epoca anteriore a<subst><del rendition="#ow"/><add place="across">l</add></subst> secolo XIV.° Scriverò prestamente <seg type="comment"><orig>al Sig<ex>nor</ex> <?oxy_comment_start author="Angela Steinsiek" timestamp="20200703T163326+0200" comment="Es geht doch wohl um Kopien aus Bologna? - bitte prüfen, ob es eine Rossi dort gibt. Oder ist es der aus dem Vatikan?"?><persName key="ed_a3f_qpx_qlb">Rossi</persName><?oxy_comment_end?></orig><note xml:id="nk32_ms3_1mb">Möglicherweise Adamo Rossi (1821–1891), Direktor der Biblioteca Augusta in Perugia seit 1858, den Gregorovius bei einem Besuch der umbrischen Stadt im Juli 1864 kennengelernt hatte (siehe RT, 23.7.1864, S.179).</note></seg>, onde averne le copie che mi occorrono.</p>
+<p>Accolga insieme ai ripetuti ringraziamenti la testimonianza della più cordiale stima</p>
+                <closer>
+<salute xml:id="s1" next="#s2" rendition="#c">del suo sinceramente</salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">devoto</salute>
+<signed rendition="#c">Ferd. Gregorovius. </signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

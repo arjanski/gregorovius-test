@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067760">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an den Verlag Giuseppe Antonelli in Venedig. Rom, 14. Juni 1875</title>
+<editor> </editor>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Archivio Storico Capitolino di Roma</repository><collection> Gabinetto del Sindaco (1877), posizione 48</collection><idno>busta 23, fascicolo 7</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Nach dem Beschluss der römischen Gemeinde zur Finanzierung der italienischen Übersetzung seiner „Geschichte der Stadt Rom im Mittelalter“ (1872–1876) hatte der Verlag ihm eine Erhöhung des Honorars von 2000 Lire zugesichert, von der inzwischen 500 Lire geleistet wurden. Er verlangt bis Ostern 1880 je 750 Lire für sich selbst und den Übersetzer Renato Manzato. Die Honorarzahlungen soll Antonelli selbst tragen und sich dafür keinesfalls an die Stadt Rom wenden. Eine Kopie des Schreibens geht an den römischen Bürgermeister Pietro Venturi.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1875-06-14" cert="high"/>
+</correspAction>
+                <correspAction type="received"><orgName key="G000484">Tipografia di Giuseppe Antonelli</orgName>
+<placeName key="G000894">Venedig</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+<div type="writingSession">
+<opener>
+<address>
+<addrLine><seg type="comment"><orig>Al Signor Cav<ex>aliere</ex> Giuseppe Antonelli</orig><note xml:id="nwsb_kd5_zlb">Der Brief ist an den venezianischen Verlag Giuseppe Antonelli gerichtet. Namensgeber des Verlags war Giuseppe Antonelli (1793–1861), der sein Unternehmen an seinen Sohn Antonio (1817–1889) weitergegeben hatte. Am 20. Juni 1865 hatte dieser einen Vertrag mit Gregorovius über die italienische Übersetzung der „Geschichte der Stadt Rom im Mittelalter“ abgeschlossen (BSB München, NL Gregorovius, Gregoroviusiana 26). Der Übersetzer war der darin unerfahrene Jurist und Historiker Renato Manzato (1874–1925). Unzufrieden mit Manzatos Arbeit untersagte Gregorovius die Weiterführung der Übersetzung; siehe den Brief von Gregorovius an Franz Rühl vom 29.6.1871; Universitäts- und Landesbibliothek Bonn, NL Franz Rühl; Sign. S 2606, 12. Am 20. März 1870 wurde ein neuer Verlagsvertrag über die italienische Übersetzung abgeschlossen (BSB München, NL Gregorovius, Gregoroviusiana 26). Nach Erscheinen aller Bände (1872–1876) trat Gregorovius für Manzato ein; siehe die Briefe von Gregorovius an Pietro Venturi vom 5.5.1876 und 25.5.1877.</note></seg> Libraio-Editore in Venezia. </addrLine>
+</address>
+<salute xml:id="s2" prev="#s1"><lb/>Preg<hi rendition="#sup"><ex>iatissi</ex>mo</hi> Signore, </salute>
+</opener>
+<p>sono indotto da alcuni motivi a spiegarmi con lei, come segue.</p>
+<p>In conseguenza della deliberazione presa, or 3 anni fà, dal <orgName key="G004663">Municipio di Roma</orgName>, di ajutare la stampa della mia <bibl corresp="G004367">Storia di Roma resa italiana</bibl>, mediante l’acquisto di una quantità di copie, per la somma di L<ex>ire</ex> 8000, facemmo, io e lei, <seg type="comment"><orig>un’ aggiunta al nostro contratto primitivo</orig><note xml:id="npwn_md5_zlb">Im Juli 1872 konnten sich Cristiano Artaria Rebschini (1830–1901), Verwalter des Verlags Giuseppe Antonelli, und Gregorovius in Rom auf eine neue Vertragsbasis einigen (siehe RT, 11.7.1872, S. 325). Am 17. August 1872 schloß die Stadt Rom, vertreten durch den Marchese Francesco Nobili-Vitelleschi (1829–1906), mit dem Verlag, vertreten durch Rebeschini, einen Vertrag über die Fortführung der italienischen Ausgabe von Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ (BSB München, NL Gregorovius, Gregoroviusiana 26). Siehe dazu auch den Brief von Gregorovius an Pietro Venturi vom 17.8.1872. Vitelleschis schlug vor, dass die Stadt Rom vom Verlag Exemplare der italienischen Ausgabe im Wert von 1000 Lire pro Band, das heißt im Wert von 8000 Lire für alle acht Bände erwerben sollte. Damit zeigte sich der Verlag nicht zufrieden; siehe den Brief vom Verlag Giuseppe Antonelli an Gregorovius vom 15.11.1872; BSB München, NL Gregorovius, Gregoroviusiana 21. In dem Schreiben stellt Rebeschini die von der Presse gefeierte Unterstützung durch die Stadt Rom, in Form von Vitelleschis Vorschlag, in polemischer Weise in Frage: „A me parve la città di Roma volesse fare null’altro che un affare, buono anche per l’Antonelli perchè gli assicurava la vendita di circa 200 copie dell’opera; ma un affare come avrebbe potuto farlo Loescher a Roma, colla differenza che facendolo così col Municipio di Roma, questi dando gratis le copie 200, veniva a deprezzare le altre 1300 che si sarebbero rimaste dell’ edizione; e noi avremmo compromesso lo spaccio della nostra opera specialmente a Roma.” Rebeschini rekapituliert im Folgenden seinen Vorschlag, die Stadt solle 500 Exemplare zum Preis von 4 Lire anstatt 5,50 Lire pro Exemplar kaufen, damit der Verlag mit den dadurch erzielten 2000 Lire die Ausgaben decken kann. Die restlichen 1000 Exemplare könnten dann verkauft werden oder nicht, in jedem Fall entstünde kein Schaden für den Verlag. Auch wenn die Stadt so als Herausgeber auf dem Frontespitz hätte erscheinen können, wurde der Vorschlag abgelehnt. Rebeschini schreibt weiter: „Si ritornò allora all’ idea – se ne ricorda Lei signor professore? Io me ne ricordo benissimo – si ritornò all’idea di una sovvenzione senz’altro obbligo da parte del tipografo che di dar l’opera finita in due anni, e migliorare = articolo segreto del trattato = i patti corsi fra autore ed editore. In questo senso stesi la minuta dell’atto per sottoporlo all’accettazione dell’incaricato del Comune di Roma. Il quale, avendo altre istruzioni, rimise l’affare al Sindaco stesso, e il cavaliere Antonelli andando a Roma doveva trattar lui l’affare.“ Am 20. September 1872 verpflichtete sich der Verlag gegenüber Gregorovius zur termingerechten Veröffentlichung der einzelnen Bände (BSB München, NL Gregorovius, Gregoroviusiana 26).</note></seg>.</p>
+<p>Originariamente lei si era impegnato di correspondere ai miei diritti colla somma di sole L<ex>ire</ex> 2000, somma che in faccia della grandezza del lavoro, non poteva costituirne altro fuorchè un simbolo della mia proprietà. Ella ne convenne meco, allorquando in seguito dell’ <seg type="comment"><orig>offerta generosa del Municipio</orig><note xml:id="nk4h_4d5_zlb">Bei seinem Besuch Venedigs im November 1872 verlangte Gregorovius die Unterzeichnung einer erneuten Fristsetzung für die Veröffentlichung der noch fehlenden Bände sowie eine durch den möglicherweise gesteigerten Absatz getragene Erhöhung der Auszahlung an ihn um 2000 Lire, von denen er 1000 Lire für den Übersetzer festlegte (siehe RT, 23.11.1872, S. 327–328).</note></seg> s’impegnò di crescermi la somma sovradetta di altre L<ex>ire</ex> 2000, da pagarsi a seconda del procedere della stampa. </p>
+<p>Nell’ accogliere questa sua obbligazione nuova, per certo non ebbi nulla da fare col Municipio di Roma, nè da percepire nulla dei danari dal medesimo destinati allo scopo di agevolare la di lei impresa; ma ebbi sì da fare solo con lei, editore dell’opera, e potei ben tener conto della sua propria condizione, di molto migliorato mercè il concorso del sovradetto Municipio.</p>
+<p>Or’ di quell’ altra somma di Lire 2000 <pb n="1v"/><choice><sic>2000</sic><corr type="deleted"/></choice> in prospetto, volli destinare una metà a favore del <persName key="ed_mbt_yjh_zkb">traduttore</persName>, l’altra al mio proprio uso, onde ricompensare la perdita di tempo causatami dalla revisione delle bozze di stampa.</p>
+<p>Di fatti, attenendosi all’ aggiunta del nostro contratto, Ella mi pagò nell’ anno scorso una prima rata straordinaria di L<ex>ire</ex> 500, della quale la metà venne consegnata al traduttore.</p>
+<p>Allorchè poi dopo <seg type="comment"><orig>il <bibl sameAs="G004373">Vol<ex>ume</ex> VI</bibl>° testè pubblicato</orig><note xml:id="ni2q_pd5_zlb">Der 6. Band von Manzatos „Storia della città di Roma nel Medioevo dal secolo V al XVI“ erschien 1875. </note></seg> lei mi pregò di influire sul Municipio, acciochè farebbe sborsarle un’ altra rata dei danari in proposito, m’increbbe di dover darle ad intendere che per certi riguardi doveva astenermi da ogni ingerenza di questa natura presso il Municipio di Roma.</p>
+<p>Voglio ora spiegarmi più chiaramente. Dubito, che non possa darsi quà un’ interpretazione erronea del nostro contratto nuovo, in questo senso cioè, come s’io partecipassi dei danari, che il Municipio destinò a pro’ della stampa dell’ opera.</p>
+<p>Perciò affine di evitare un equivoco, mi vedo costretto a protestarle quanto segue: che d’ora in poi non accetterò da lei alcuna rata di pagamento dovutami in ragione dell’aggiunta fatta al nostro contratto, se non in modo tale, per cui si dimostri, ch’io non percepisca nulla dei danari da sborsarle dal Municipio di Roma.</p>
+<p>Le propongo quindi di regolare lo sborso <pb n="2r"/>del mio salario cresciuto per motivo del migliorarsi delle sue condizioni in questa maniera, a lei anche più comoda:</p>
+<p>Della somma rimanente di L<ex>ire</ex> 1500, Ella mi sborserà L<ex>ire</ex> 750 alla pasqua del 1880, cioè 4 anni dopo compiuta <seg type="comment"><orig>la pubblicazione dell’ oper intera</orig><note xml:id="nbwq_qd5_zlb">1876 waren alle acht Bände der italienischen Ausgabe veröffentlicht.</note></seg>. </p>
+<p>Inoltre Ella si obligherà di pagare al traduttore dell’ opera L<ex>ire</ex> 750, sia alla pasqua del medesimo anno 1880, sia prima e a rate come meglio aggradiscà.</p>
+<p>Ecco la spiegazione, che ho dovuto farle, per <seg type="comment"><orig>iscansare</orig><note xml:id="naxn_rd5_zlb">Antik für: scansare.</note></seg> ogni interpretazione falsa del rapporto in cui mi trovo posto coll’ onorevole Municipio di Roma, per cagion dell’ iniziativa presa dal medesimo in favore della stampa della Storia di Roma.</p>
+<p>Spero, che senz’ altro s’accorderà in questa mia proposizione.</p>
+<p><seg type="comment"><orig>Nel pregarla di attestarmene il suo assenso</orig><note xml:id="ntzm_sd5_zlb">Es ist kein Gegenbrief vom Verlag zu diesem Schreiben erhalten.</note></seg>, l’avvertisco anche ch’io ho creduto cosa conveniente di tramando <seg type="comment"><orig>copia di questa mia</orig><note xml:id="nuvv_td5_zlb">Der Brief war eine Beilage zur Kenntnisnahme; siehe den Brief von Gregorovius an Pietro Venturi vom 14.6.1875.</note></seg> al <persName key="G001674">Signor Sindaco di Roma</persName>.</p>
+<closer> Aggradisca etc <signed rendition="#right">Ferdin. Gregorovius</signed> <dateline rendition="#c">Roma, 14. Giugno 1875 <lb/><placeName key="ediarum_o24_dd5_zlb">Via del Babuino</placeName> 39. <lb/>presso il <persName key="G001375">Signor Lindemann.</persName><lb/><lb/></dateline> </closer>
+</div>
+</body>
+    </text>
+</TEI>

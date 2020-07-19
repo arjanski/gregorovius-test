@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000222">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano. Traunstein, 25. Juli 1877</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt></titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S.</p>
+<p>Beischluss zu einem Brief an Adelheid Grunelius</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er schickt den Brief über Adelheid Grunelius, weil er von Mariano keine Adresse in der Schweiz hat. Er scheint ihm gegenüber noch immer verstimmt zu sein. Er möchte über Marianos Familienangelegenheiten in Capua unterrichtet werden. Nach der Rückkehr seiner Halbschwester Ottilie Elgnowski aus Wiesbaden, ging er am 22. Juli 1877 nach Traunstein, wo ihn sein Bruder Julius besuchen wird. Sonst ist keiner seine Freunde in Traunstein. Karl Lindemann-Frommel will erst spät nach Deutschland reisen, so dass er ihn in Traunstein nicht mehr antreffen wird. Der fortgesetzt schlechte Gesundheitszustand von Manfred Lindemann-Frommel gefährdet dessen Architekturstudium; derzeit ist er mit seinem Onkel Otto von Racknitz in Fano. In München war die unangenhme Frau Schwabe. Er konzentriert sich auf seine Studien zum Dreißigjährigen Krieg. Pasquale Villari hat ihm die Publikation des ersten Bandes seines „Niccolò Machiavelli e i suoi tempi illustrati con nuovi documenti“ (1877) angezeigt. Durch Antonino Bertolotti hat er von Oreste Tommasinis perfidem Artikel „Della storia medievale di Roma e de’ più recenti raccontatori di essa“ (1877) im  neu gegründeten „Archivio della Società romana di storia patria“ erfahren. Biagio Miraglia ist nun Präfekt von Pisa.</p>
+<p xml:lang="it"/>
+<p xml:lang="en"/>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1877-07-25" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><seg type="comment"><orig>Traunstein, 25. Juli 1877</orig><note xml:id="njgz_v53_1mb">Gregorovius hielt sich von 22. Juli bis 12. August in Traunstein auf (siehe RT, Sommer und Winter 1877/78, S. 379).</note></seg>.</dateline>
+                    <salute rendition="#c">Lieber Freund Mariano,</salute>
+                </opener>
+<p>vor einem Monat erhielt ich von Ihnen nicht einen Brief, sondern ein Billet, worin Sie mir Ihre nahe Abreise nach der <placeName key="G000870">Schweitz</placeName> anzeigten, ohne mir zugleich Ihre dortige Adresse, ja nur den Aufenthaltsort anzugeben. Indem ich Ihnen schreibe, muß ich daher diesen Brief an Frau <persName key="G001215">Grunelius</persName> richten, welche vielleicht die Güte haben wird, denselben Ihnen zukommen zu lassen.</p>
+<p>Aus Ihren Zeilen ging eine Stimmung hervor, welche mich sehr betrübt hat. Schon in <placeName key="G000763">Rom</placeName> war sie als <seg type="comment"><orig>Verstimmung gegen mich</orig><note xml:id="nsyr_lv3_1mb">Möglicherweise hatte Mariano noch nicht ganz verdaut, dass Gregorovius eine von ihm geplante deutsche Übersetzung seines „Roma nel medioevo“ (1873) unterbunden hatte. Gregorovius hielt die von Adelheid Grunelius (1813–1887) angefertigte Übersetzung für mangelhaft und Marianos Umgang mit Geschichte für zu philosophisch für den deutschen Markt (siehe die Briefe von Gregorovius an Raffaele Mariano, 17.12. und 22.12.1876 und 12.1.1877). </note></seg> öfter in solcher Weise zu Tage getreten, daß ich mich zwingen mußte, sie zu ertragen, u<ex>nd</ex> auch jetzt bin ich <pb n="1v"/>betrübt, obwohl ich mich nur an die großen, thatsächlichen Beweise Ihrer aufopfernden Freundschaft zu mir zu erinnern brauche, um mich dessen zu versichern, daß diesen Ihrer Verstimmung nichts Reales zu Grunde liegen kann.</p>
+<p>Ich wünsche nun aber sehr, wieder Ausführlicheres von Ihnen zu hören, zunächst mich über <seg type="comment"><orig>die Angelegenheiten Ihrer Schwester u<ex>nd</ex> Neffen in <placeName key="G000654">Capua</placeName></orig><note xml:id="nxpp_mv3_1mb">Nicht ermittelt; Gregorovius erwähnt Marianos Capua-Reise auch in den Briefen vom 6.6. und 17.6.1877.</note></seg> zu beruhigen, dann aber zu erfahren, daß Ihnen die Luftveränderung wol gethan und Ihre Gesundheit gekräftigt hat.</p>
+<p>Von unserem Leben in München habe ich wenig zu berichten. Die <persName key="G001111">Schwester</persName> war zu Besuch in <placeName key="G000898">Wiesbaden</placeName>; ich erwartete Ihre Rückkehr, u<ex>nd</ex> darauf begab ich mich am 22. Juli nach <placeName key="G000888">Traunstein</placeName>, in der Absicht hier etwa 3 bis 4 Wochen zuzubringen. Der <persName key="G001203">Bruder</persName> wird nur einmal zum Besuch herüberkommen, sonst aber in München bleiben. Ich finde in <pb n="2r"/>Traunstein keinen meiner Freunde von früher her, so daß diese Einsamkeit mir etwas lästig ist. Auch <persName key="G001375">Lindemann</persName> scheint erst spät nach <placeName key="G000664">Deutschland</placeName> kommen zu wollen, u<ex>nd</ex> so wird er mich wol in Traun<ex>stein</ex> nicht mehr finden, wenn er herkommen sollte. Er beklagt sich, daß er keine Zeile von Ihnen empfangen hat. Sein <persName key="G001376">Sohn</persName> ist mit <persName key="G001521">Racknitz</persName> in <placeName key="G000668">Fano</placeName>, in einem so wenig vorgeschrittenen Zustande der Gesundheit, daß ich dreist behaupten darf, daß er <placeName key="G000690">Italien</placeName> entweder gar nicht oder nur auf kurze Zeit wird verlassen können. Von der Fortsetzung seiner Studien zur Laufbahn als Architect kann kaum mehr die Rede sein. Dies ist ein großes Unglück: ich bin deshalb froh, daß die arme Frau <persName key="G001374">Lind<ex>emann</ex></persName> es nicht mehr erlebt hat. In München war <seg type="comment"><orig>die gräßliche, tactlose Schwabe</orig><note xml:id="nwkx_nv3_1mb">Nicht ermittelt.</note></seg>. Sie ist mir tief widerlich.</p>
+<p>Was meine eigene Beschäftigung betrifft, so habe ich Ihnen <seg type="comment"><orig>im Vertrauen mitgeteilt</orig><note xml:id="nlbt_4v3_1mb">Siehe Gregorovius Brief an Raffaele Mariano, 17.6.1877.</note></seg>, daß ich meine Thätigkeit jetzt auf das <bibl sameAs="G003523">Studium des 30jährigen Krieges</bibl> concentrirt habe: es geschieht <pb n="2v"/>dies mehr in der Absicht, Rest meines geistigen Lebens an einen Anker fest zu legen, als in der Hoffnung, daß ich noch <seg type="comment"><orig>etwas Gutes zu Stande bringen</orig><note xml:id="nts4_pv3_1mb">Das Ergebnis dieser Studien war das zwei Jahre später erscheinende „Urban VIII. im Widerspruch zu Spanien und dem Kaiser. Eine Episode des dreißigjährigen Kriegs“ (Stuttgart: Cotta 1879).</note></seg> werde.</p>
+<p>Ich habe von <hi rendition="#aq"><persName key="G001687">Villari</persName></hi> aus den <placeName key="G000628">Bädern bei <hi rendition="#aq">Lucca</hi></placeName> die Anzeige erhalten, daß der <bibl corresp="ed_qfw_4kd_rlb">I. Teil</bibl> seines Macchiavelli publicirt worden ist, u<ex>nd</ex> auf Grund dessen einen Brief von ihm, worin er sich dringend nach mir erkundigt – <seg type="comment"><orig>diese Freundschaftsgebärde</orig><note xml:id="nwmw_qv3_1mb">Gregorovius und Mariano schienen sich einig zu sein, dass Villari eine eher kühle Persönlichkeit hatte. In einem Brief von Gregorovius an Mariano vom 17.1.1876 heißt es: „In quanto all’indole e ai modi personali del Villari sono pienissimamente d’accordo con lei – È e resta sempre problematico, freddo quanto un sasso nelle relazioni con altri, quantunque capace qualche volta di sentimentalismo, come per appunto si dimostra nella dedica di quella pubblicazione. Lo crederei anche ristretto nelle idee di vera umanità, per filantropico che paja il suo indirizzo. Almeno è uomo tale, che non ho potuto avvicinare in sedici anni di conoscenza più di quel passo, che gli ho fatto incontro il primo giorno che ci siamo incontrati in casa Sabatier a Firenze.“</note></seg> bewirkte also Macchiavelli – ich mußte lächeln, und <seg type="comment"><orig>werde diesem diplomatischen Freund spät u<ex>nd</ex> mit einem Lächeln antworten</orig><note xml:id="nzmx_zfm_fmb">Siehe auch den Brief von Gregorovius an Mariano vom <ref target="G000222">27. Juli 1877</ref> und den von Pasquale Villari (1827–1917) an Gregorovius, 26.8.1877 (in: „Un anello ideale" fra Germania e Italia. Corrispondenze di Pasquale Villari con storici tedeschi. A cura di Anna Maria Voci. Rom: Archivio Guido Izzi 2006. S. 166–168).</note></seg>.</p>
+<p>In Bezug auf ital<ex>ienische</ex> Literatur habe ich wol für immer die Feder niedergelegt.</p>
+<p><seg type="comment"><orig><hi rendition="#aq"><persName key="G000966">Bertolotti</persName></hi>,</orig><note xml:id="nhfx_rv3_1mb">Antonino Bertolotti (1834–1893), Archivar und Schriftsteller, seit 1871 im „Archivio di Stato di Roma“. Seit 1880 Direktor des Staatsarchivs in Mantua; siehe Guglielmo Capogrossi Guarna: Bertolotti, Antonio, in: DBI, 9, 1967, S. 612–613.</note></seg> ein Intrigant, dessen Sie sich vom <orgName key="ed_xmf_1hh_zkb">Staatsarchiv</orgName> erinnern, u<ex>nd</ex> ein unportuner Mensch, welcher mich oft mit Zusendung seiner Artikelchen belästigt, hat für gut befunden, <seg type="comment"><orig>mir zu schreiben</orig><note xml:id="ng25_sv3_1mb">Im römischen Tagebuch heißt es dazu: „Der Archivar [Antonino] Bertolotti gab mir Kunde, daß man in dem neu gegründeten ‚Archivio Storico Romano‘ feindlich gegen mich aufgetreten sei, indem man meine ‚Geschichte der Stadt‘ auf ‚jesuitische Weise‘ entstellt habe, um [Alfred von] Reumont [1808–1887] auf meinen Thron zu setzen. Ich erhielt bald darauf dieses Heft. Der betreffende einleitende Artikel, von einem gewissen Tommasini, einem auf klerikalen Wegen schleichenden, ganz unbedeutenden Menschen verfasst [...] war in der Tat ein jammervolles Machwerk des Neides. Ich erhielt bald darauf von Pasquale Villari einen Brief, worin er mir sagte, daß die Ungerechtigkeit, mit der man mich behandelt habe, alle wohl denkenden Italiener empöre.“ (August 1877, S. 379) </note></seg>, daß das <hi rendition="#aq"><orgName key="G000467">Archivio storico romano</orgName></hi> vom <orgName key="ed_onw_cld_rlb">Vatican</orgName> erkauft und unter dem Einfluß der Jesuiten stehe, zugleich daß ein perfider <bibl sameAs="G002309">Artikel</bibl> über mich in dem ersten <hi rendition="#aq">fascicolo</hi> desselben enthalten sei. Das Interessanteste was dieser Zuträger (ich antworte ihm nie) mir mitteilt ist dies, daß <seg type="comment"><orig><persName key="G001425">Miraglia</persName></orig><note xml:id="np4q_tv3_1mb">Biagio Miraglia (1823–1885), kalabresischer Dichter und erster Direktor des Staatsarchivs Rom.</note></seg> Präfect v<ex>on</ex> <placeName key="G000754">Pisa</placeName> geworden ist!</p>
+<p>Mich ekelt die Welt u<ex>nd</ex> ihr Treiben an. Meine einzige Sehnsucht ist irgendwo 1 Landhaus für meine letzten Tage.</p>
+                <closer>
+                    <salute>Mit herzlicher Freundschaft</salute>
+                    <signed rendition="#right">Ihr FGr.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

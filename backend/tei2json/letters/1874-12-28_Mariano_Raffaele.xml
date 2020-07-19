@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000156">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Raffaele Mariano in Rom. München, 28. Dezember 1874</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+<sourceDesc>
+<msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 1 S. – 1r, Blatt um 90° gedreht, Adr.: „Signor Raffaele Mariano.“, aoR Rest von rotem Siegellack</p>
+</physDesc>
+</msDesc>
+</sourceDesc>
+            <sourceDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er legt seine Brief der Post an Auguste Lindemann-Frommel bei. Er will Mariano und Karl Lindemann-Frommel im Frühjahr 1875 in Capua besuchen. Der Druck der dritten Auflage seiner „Lucrezia Borgia“ (1875) ist abgeschlossen, die zweite Auflage (1874) aber noch nicht vergriffen. Er wird ihm die Artikel über die gemeinsame süditalienischen Reise mit Domenico Guglielmi zukommen lassen („Lucera“, „Manfredonia“ und „Der Erzengel auf dem Berg Garganus“, alle 1874). Karl Rosenkranz und Michelangelo Caetani sind erblindet. Sein Bruder Julius widmet sich der französischen Literatur und bestellt Grüße.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName>
+                    <date when="1874-12-28" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1v"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Monaco, 28. <foreign xml:lang="deu">Dec<ex>em</ex>b<ex>e</ex>r</foreign>. 1874.</dateline>
+                    <salute rendition="#c">Caro amico Mariano,</salute>
+                </opener>
+<p>accludo queste righe ad una lettera indiritta alla <persName key="G001374">signora Lindemann</persName>, anche per credere, esser lei andato a visitare la sua famiglia in <placeName key="G000654">Capua</placeName>. Or che l’anno 1874 sta per dipartirsi da noi, ripenso tutti i beni, di cui esso ci fù largo, e per verità non furono pochi nè communi, che anche abbiamo potuto per parte godere insieme. Li sia dunque propizio, come era l’anno 1874, pure il seguente. Le mando mille saluti ed auguri, sperando che ci <seg type="comment"><orig>rivedremo durante la primavera</orig><note xml:id="nr42_zd4_zlb">Am 1.3.1875 reiste Gregorovius zunächst nach Oberitalien (siehe den Brief von Gregorovius an Manfred Lindemann-Frommel, 21.2.1875), um Mitte des Monats nach Rom weiterzureisen: „La sera del 19 sarò a Roma, dove avrò la soddisfazione di riabbracciare lei e il caro amico Lindemann“ (siehe den Brief von Gregorovius an Raffaele Mariano, 11.3.1875).</note></seg> a venire, e che faremo di belle gite insieme, accompagnati dal nostro amico <persName key="G001375">Lindemann</persName>.</p>
+<p><seg type="comment"><orig>Quanto ai documenti nuovi, che illustrano alcuni punti della vita di <persName key="G000985">Lucrezia</persName></orig><note xml:id="nb12_124_zlb">Die 3. „verbesserte und vermehrte Auflage“ seiner „Lucrezia Borgia“ (1875) wurde um 50 Seiten vermehrt – der Dokumenten-Anhang wurde um 27 Seiten vermehrt und enthielt nicht mehr 59, sondern 68 Nummern. Neu aufgenommen wurden: vier Briefe von Lucrezia Borgia an Vincenzo Giordano, 28.-30.10.1500; ein Dekret der Herzogin Lucrezia zum Schutz der Juden, 28.5.1506; der Brief von Isabella von Mailand a Perot Castellar, 14.10.1512; zwei Briefe von Don Juan Borgia an den Herzog Alfonso, 8. und 22.6.1519 sowie ein Verzeichnis von Büchern im Besitz der Donna Lucrezia aus den Jahren 1502 und 1508. (https://archive.org/details/lucreziaborgian01greggoog/page/n398). Zu den Inhalten der Erweiterungen siehe den Brief von Gregorovius an Mariano vom 20.12.1874.</note></seg>, gliele spedirò, appena sarò in grado di farlo. La stampa della <bibl corresp="G003507">nuova edizione</bibl> è ultimata; ma ei mi pare, che la pubblicazione si ritarderà alquanto, essendo rimaste ancora diverse copie dell’<bibl corresp="G003510">antecedente edizione</bibl>. In caso la pubblicazione si facesse aspettare troppo, le manderò i documenti in discorso in scrittura.</p>
+<p>Il gentilissimo <seg type="comment"><orig><persName key="G001221">Guglielmi</persName></orig><note xml:id="nk4y_124_zlb">Domenico Guglielmi war der Neffe des Domherrn Guglielmi in Trani. Gregorovius besuchte ihn gemeinsam mit Raffaele Mariano und seinem Bruder Julius während süditalienischen Reise im Mai 1874 in Trani (siehe RT, S. 339–342).</note></seg> mi ha avvertito, che fra poco mi giungerà colla posta un graziosissimo suo dono consistente in una quantità di olivi salati. Che giovane affettuoso! Mi duole, che lei si è privato degli articoli sul nostro viaggio: però in qualche modo cercherò di restituirle i medesimi.</p>
+<p>Ieri ho inteso, che <seg type="comment"><orig>il povero <persName key="G001557">Rosenkranz</persName></orig><note xml:id="nb3d_c24_zlb">Sein akademischer Lehrer Karl Rosenkranz (1805–1872), der ihm Raffaele Mariano als Schüler des neapolitanischen Hegelianers Augusto Vera (1813–1885) empfohlen hatte. </note></seg> attualmente sia divenuto interamente cieco, al paro del povero <persName key="G001004">Duca</persName>. Gli scriverò pel capo d’anno, non sapendo però che me ne dire in questo tristissimo caso. Il mio <persName key="G001203">fratello</persName> le manda cordiali saluti. Esso si è dedicato con assiduità di lavoro alla letteratura francese.</p>
+                <closer>
+                    <salute>Stia bene e allegro! Il suo</salute>
+                    <signed rendition="#right">FGr.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000439">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. Venedig, 28. Juli 1868 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+<p>20 Lire zur Erstattung der Beschaffungskosten für einen Aufsatz von Giuseppe De Leva</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell’Archiginnasio</institution><collection>Ms. Gozzadini 442 </collection><idno>(5)</idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Auf dem Weg nach München hat er zu Forschungszwecken in verschiedenen italienischen Städten Halt gemacht. Seit zehn Tagen sichtet er Materialien in der Biblioteca Marciana und im venezianischen Staatsarchiv. Über den Anschluss Venedigs an das italienische Königreich. Dem Brief liegt Geld bei, um die von Gozzadini vorgestreckten Kosten für den Aufsatz von Giuseppe De Leva („Il saccheggio di Roma del 1527, saggio critico sulla storia di Carlo V. per le nozze Salvadego-Plattis“, 1857) zu begleichen. Von Paolo Perez hat er keine neuen Nachrichten.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000894">Venedig</placeName><date when="1868-07-28" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni (1810–1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Venezia, li 28. Luglio 68.</dateline>
+                    <salute rendition="#c">Gentilissimo Signor Conte,</salute>
+                </opener>
+<p>invece di mandarle queste righe, avrei desiderato di poter riverir Lei e la <persName key="G001092">Signora Contessa</persName> <seg type="comment"><orig>personalmente a <placeName key="G000822">Ronzano</placeName></orig><note xml:id="nb34_q2r_ylb">In Ronzano besaßen die Gozzadinis eine Villa, in der sie einen von Intellektuellen besuchten Salon unterhielten. Gregorovius war regelmäßig Gast dort; siehe den Brief von Gregorovius an Giovanni Gozzadini vom 3.11.1856. Nach dem Tod der Gräfin widmete Gregorovius dem Salon einen Essay: Die Villa Ronzano. Ein Musensitz der Gozzadini von Bologna (ED in: Nord und Süd. Eine deutsche Monatsschrift. Bd. 23. Breslau, Berlin: Schottlaender 1882. S. 312–321 – aufgenommen in: KS Bd. 3, S. 97–120).</note></seg>, dove forse in questo momento si trovano, però dovetti passar davanti Bologna di notte tempo, pensando con piacere a quei graziosissimi giorni, che <seg type="comment"><orig>ivi passai con Loro l’anno scorso</orig><note xml:id="nncw_r2r_ylb">Er vebrachte die Tage von 19.–21. September 1867 in Bologna beziehungsweise Ronzano (siehe RT, S. 233–234).</note></seg>. Non dispero ancora, di vederLi nel mio ritorno dalla <placeName key="G000664">Germania</placeName>, se mai io passassi per là, ed il tempo me lo permettesse.</p>
+<p>Ebbi la gioja di ricevere l’ultima sua lettera a <placeName key="G000763">Roma</placeName>, non che le buone nuove intorno alla di Loro preziosa salute, ormai ristabilita.</p>
+<p>Lasciai Roma, or sono più di 15. giorni. Presi la via dell’<placeName key="G000792">Adriatico</placeName>, <seg type="comment"><orig>arrestandomi prima in più città, come <placeName key="G000802">Spoleto</placeName>, <placeName key="G000789">Foligno</placeName>, <placeName key="G000835">Gubbio</placeName>, dove esaminai gli archivi</orig><note xml:id="nvjc_x2r_ylb">Er reiste am 12. Juli für Archivarbeiten nach Spoleto, anschließend über Urbino, Rimini und Venedig nach München, wo er am 1. August eintraf (siehe RT, S. 247–251).</note></seg>. Quello di Gubbio arricchè per non poca parte la già ricca collezione di documenti inediti, che possiedo. Andai anche <pb n="2"/>a <placeName key="G000838">Urbino</placeName>, e finalmente per <placeName key="G000841">Rimini</placeName> a Venezia. <seg type="comment"><orig>Or sono sedici anni, che feci in questa città il mio primo ingresso nell’<placeName key="G000690">Italia</placeName></orig><note xml:id="nj34_bfr_ylb">„Ich war hier vor sechzehn Jahren, am 19. April 1852, von Königsberg ankommend, und dies war mein Eintritt in Italien gewesen. Das Bild der Stadt hatte sich mir bereits in den Einzelheiten verwischt. Nun übte dies Zauberwesen einen ganz frischen Reiz auf mich aus.“ (RT, 28.7.1868, S. 250).</note></seg>. Tutto qui mi pare fiore di meravigliosa civiltà, ma fior appassito, che arreca dolce malinconia alla mente di chi (a Venezia forse più che altrove) si accorge di quella legge inesorabile, che fa salir su le cose umane, per farle tramontare poi per sempre, dopo compito il periodo della vita Loro. Mi rallegro però non poco di trovarmi finalmente nella Venezia libera. Gli Italiani hanno riacquistato uno dei più gloriosi monumenti della loro storia, quale è questa Regina dell’Adriatico, ed io provo qualche soddisfazione dicendomi, che <placeName key="G000664">la mia patria propria</placeName> era chiamata dai destini a soccorrerli un po’ in <seg type="comment"><orig>questo grande fatto di rivendicazione nazionale.</orig><note xml:id="nbyk_nfr_ylb">Nach dem Wiener Kongreß fielen Venedig und die Lombardei an Österreich. 1848 erhob sich die Stadt, unter Führung Daniele Manins (1804–1850), gegen die Habsburger, was zur Ausrufung der unabhängigen Repubblica di San Marco führte (23. März 1848). Am 23. August 1849 wurde die Stadt von österreichischen Truppen erobert, die Republik niedergeschlagen. 1866 erlagen die Habsburger den Preußen und Italien, so dass Venedig dem inzwischen vereinten Königreich Italien angeschlossen werden konnte.</note></seg> </p>
+<p>Trovo qui (da 10. giorni che vi sto) tesori ricchissimi <seg type="comment"><orig>nella <orgName key="G000562">Marciana</orgName> e nell’<orgName key="G000564">Archivio</orgName></orig><note xml:id="nphk_pfr_ylb">Die Marciana ist die venezianische Nationalbibliothek und berühmt für ihre orientalischen, griechischen und lateinischen Handschriften. Sie befindet sich in einem von Jacopo Sansovino (1486–1570) erbauten Gebäude südlich des Markusplatzes. Mit dem Archiv meint er das Staatsarchiv von Venedig im Konvent der Franziskaner, zu dem auch das Archiv des Konvents gehört: „Dort finde ich Schätze in den Diarien des Marin Sanuto, hier in einer unglaublich großen Zahl wichtiger Papiere. Ich habe viele Abschriften gemacht, der Geschichte der Borgia kann ich ein ganz neues Licht geben.“ (RT, 28.7.1868, S. 250). </note></seg>; ne sono quasi stupefatto; però il caldo troppo feroce, la stanchezza, e altri motivi ben presto mi obbligheranno a partirmi per <placeName key="G000734">Monaco</placeName>. <seg type="comment"><orig>Là penso di fermarmi fino alla fine del settembre</orig><note xml:id="ndzp_qfr_ylb">Er reiste am 26. September über Innsbruck, Verona und Ancona nach Rom zurück, wo er am 29. September eintraf (siehe RT, 5.10.1868, S. 253).</note></seg> –_ </p>
+<p><pb n="3"/>Mi prendo la libertà di pregarla, signor Conte, di voler essermi benevolo dandomi nel corso dell’Agosto le notizie della sua illustre casa – L’indirizzo mio è München, <orgName key="G000523">Buchhandlung Cotta</orgName> –</p>
+<p>Spero che Lei, signor Conte, si trovi bene fuori dei caldi di Bologna, godendo quella bella vita contemplativa, di cui ho potuto esser testimone.</p>
+<p>Del <seg type="comment"><orig>nostro gentil <persName key="G001483">Paolo</persName></orig><note xml:id="njyx_sfr_ylb">Gregorovius’ Freund, der Dante-Forscher Graf Paolo Perez (1822–1879), war ein Cousin der Gräfin Gozzadini und 1856 in den Orden der Rosminianer in Stresa eingetreten.</note></seg> non ho nuove, e per colpa di pigrizia mia; però da Monaco gli scriverò.</p>
+<p>Alla graziosa memoria di Loro si raccomanda</p>
+                <closer>
+                    <salute rendition="#right">il verace Loro servitore</salute>
+                    <signed rendition="#right">Gregorovius <note type="postscript">Acchiudovi, signor Conte, troppo tardi, <seg type="comment"><orig>20 lire per rimborsarle la spesa della <bibl sameAs="G004219">storia di Carlo V</bibl></orig><note xml:id="ntpq_5fr_ylb">Giuseppe De Leva. Il saccheggio di Roma del 1527, saggio critico sulla storia di Carlo V. per le nozze Salvadego-Plattis, Padua 1857. Gregorovius hatte Gozzadini darum gebeten, ihm diesen Aufsatz zu beschaffen; siehe den Brief von Gregorovius an Giovanni Gozzadini vom 12.5.1867.</note></seg>, e prego ringraziandola vivamente, di farmi sapere se <seg type="comment"><orig>gli <bibl sameAs="G004283">altri fascicoli</bibl></orig><note xml:id="nxlj_wfr_ylb">Möglicherweise bezieht sich Gregorovius hier auf die ab 1863 von De Leva veröffentlichten fünf Bände seiner „Storia documentata di Carlo 5. in correlazione all'Italia“ (Venedig: Naratovich, Padua: Sacchetto, Bologna: Zanichelli 1863–1894). </note></seg> si dirigeranno pure a Lei, perchè io non vorrei più darle fastidio, potendo io prender il resto o la continuazione di quella storia mentre ch’io farò di ritorno per queste parti dell’<placeName key="G000690">Italia</placeName>.</note></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

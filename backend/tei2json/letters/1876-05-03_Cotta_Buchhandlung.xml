@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_opz_btk_hmb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an die J. G. Cotta’sche Buchhandlung in Stuttgart. Rom, 3. Mai 1876</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe, 256</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ½ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 57 Mappe 340–342 (nach D) und Karton 55 Mappe 336–337 (Ergänzungen nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 392–393</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Ob eine dritte Auflage der Separatausgabe von Leopld von Rankes „Französischer Geschichte“ (5 Bde., 1852–1861, 2. Aufl. 1856–1862) lohnend ist, lässt sich bei einem so bedeutenden Autor schwer beantworten. Wenn der Verlag Duncker &amp; Humblot eine Separtausgabe der „Französischen Geschichte“ aus den bei ihnen erschienenen „Ranke’s Sämtlichen Werken“ planen, spricht das für sich. Die wissenschaftliche Berechtigung des Werks steht auch für ihn außer Frage, auch ist das Interesse an Frankreich wie die Popularität Rankes ungebrochen. Dem zu erwartenden buchhändlerischen Erfolg steht allerdings die im Zentrum der Darstellung stehende Epoche (16. und 17. Jahrhundert) entgegen, die keinen großen Absatz erwarten lässt. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+                <correspAction type="received"><orgName key="G000523">J. G. Cotta’sche Buchhandlung</orgName>
+<placeName key="G000879">Stuttgart</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">24. April 1876 (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch IX, 54)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c"><hi rendition="#aq">Rom</hi>, <hi rendition="#aq">Via Ripetta</hi> 108/1 <lb/>3. <hi rendition="#aq">Mai</hi> 1876.</dateline>
+                    <salute>Hochgeehrte Buchhandlung,</salute>
+                </opener>
+<p>nach Rom zurückgekehrt habe ich Ihr geschätztes Schreiben v<ex>om</ex> 24. v<ex>origen</ex> M<ex>onats</ex> vorgefunden, und die mir von Ihnen vertrauensvoll vorgelegte <seg type="comment"><orig>Frage in Betreff der Zuläßigkeit einer Separatausgabe von <bibl sameAs="G004765">Rankes Französ<ex>ischer</ex> Geschichte</bibl> </orig><note xml:id="nf1q_svk_hmb">Der Erstdruck der „Französischen Geschichte“ war vor der Aufnahme in die Werkausgabe von Duncker &amp; Humblot bei Cotta erschienen, ebenso deren zweite Auflage: Leopold von Ranke (1795–1886): Französische Geschichte: vornehmlich im sechzehnten und siebzehnten Jahrhundert. 5 Bde. Stuttgart: Cotta 1852–1861. – 2. Auflage 1856–1862. – Aufgenommen in die Werkausgabe: Leopold von Ranke’s Sämmtlichen Werken. Bd. 1–6. Leipzig: Duncker &amp; Humblot 1868–1870. Da Duncker &amp; Humblot eine (nie erschienene) Separatausgabe plante, hatte Cotta als Verleger des Erstdrucks von Rankes „Französischer Geschichte“ Gregorovius am 24. Mai 1876 geschrieben: „Nachdem nun neuerdings die Verleger Ranke’s, H<ex>erren</ex> Duncker &amp; Humb<ex>lot</ex> in Leipzig die Absicht aussprachen, die Französ<ex>ische</ex> Geschichte in einer Separat-Ausg<ex>abe</ex> zu ediren, drängt sich uns die Frage auf, ob wir als die eigentlichen Verleger dies nicht lieber selbst thun sollten. Sofern bei dem Unternehmen, das ja s<ex>ehr</ex> ehrenvoll ist, auch nur die geringste Hoffnung wäre, daß es, wenn auch nicht gerade lukrativ, so doch ohne bedeutende pekuniäre Opfer auszuführen wäre.“ (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch IX, 54)</note></seg>in die mir möglichst reifliche Erwägung gezogen.</p>
+<p>Ihre Beantwortung ist für mich um so schwerer, da hier von jedem Urteil über die wissenschaftliche Berechtigung des Werks selbstverständlich Abstand genommen werden muß, und es lediglich auf die Einsicht in praktische Verhältniße, namentlich die gegenwärtigen Bedürfniße der Lesewelt ankommt, welche ich mir nicht in ausreichendem Maße Zutrauen darf.</p>
+<p>Im <pb n="1v"/>Allgemeinen steht es freilich fest, daß es in Deutschland <seg type="comment"><orig>keinen Geschichtsschreiber gibt, dessen Werke die Bedeutung und Verbreitung derjenigen Rankes gefunden haben</orig><note xml:id="nmtp_yvk_hmb">Ungeachtet mancher kritischer Bemerkungen über Ranke ind Briefen und Tagebücher, die immer auch dem Konkurrenten auf dem Buchmarkt galten, hatte Gregorovius mit seinem Brief vom 16. Januar 1876 Cotta zuletzt um Zusendung von Rankes „Deutsche Geschichte im Zeitalter der Reformation“ (6 Bde. Berlin: Duncker &amp; Humblot 1839-1847 – 3. Auflage 1852) anstelle nicht bezogener Freiexemplare eigener Werke gebeten (DLA Marbach, Cotta-Archiv, Cotta-Briefe, 251).</note></seg>; im Besonderen aber hat das in Frage kommende Einzelwerk nicht den Verkauf erzielt, welcher vielleicht vorauszusetzen war. Würde das Letztere auch heute der Fall sein, wo sowol die Popularität <persName key="G001525">Rankes</persName> eine bei weitem größere geworden ist, als sie es noch vor sechs Jahren war, als wo <add place="superlinear">auch</add> die praktische Beteilgung des deutschen Volks an Literatur u<ex>nd</ex> Buchhandel, wie ich annehmen darf, eine größere u<ex>nd</ex> lebhaftere geworden ist?</p>
+<p>Von einem subjectiven oder culturgeschichtlichen Standpunkt aus die Frage betrachtend, <pb n="2r"/>müßte man wol sagen, daß es um die Werthaltung literarischer Producte in unserem Vaterlande noch verzweifelt schlecht stehe, wenn die Separatausgabe irgend eines Werkes eines nationalen Autors von der Bedeutung Rankes als ein mißliches Unternehmen zu betrachten wäre. Wenn nun die <orgName key="ed_yj4_n5k_hmb">Verleger</orgName> der Gesamtausgabe der Schriften Rankes selber den Gedanken ausgesprochen haben, jene in Erwägung kommende <bibl sameAs="ed_c4j_bvk_hmb">Schrift</bibl> desselben besonders zu ediren, so scheint es mir, daß in dieser Thatsache selber das von competentester Seite gefällte Urteil über die Frage gegeben worden <add place="intralinear">ist</add>, welche Sie die Güte hatten mir vorzulegen.</p>
+<p>Ich bin demnach, hochgeehrte Herren, selbstverständlich nur ganz subjectiver Weise der Ansicht, daß eine Separatausgabe der Französischen Geschichte Rankes ein <pb n="2v"/>buchhändlerisches Unternehmen ist, welches, an sich ehrenvoll, gestützt wird durch die Popularität des Autors im Allgemeinen, im Besondern durch die Aufmerksamkeit unserer Nation auf Frankreich überhaupt, daß aber die Specialität der in Rede stehenden Schrift und ihre geschichtliche Epoche <seg type="comment"><orig>einen großen Absatz derselben nicht wahrscheinlich machen</orig><note xml:id="nokl_2wk_hmb">Eine Separatausgabe der „Französischen Geschichte“ aus der Werkausgabe von „Ranke’s Sämtlichen Werken“ erschien weder bei Duncker &amp; Humblot noch druckte Cotta eine dritte Auflage seiner Separatausgabe.</note></seg>, wenigstens nicht in einer verhältnismäßig kurzen Zeit. </p>
+                <closer>
+                    <salute rendition="#c">Mit großer Hochachtung ergeben</salute>
+                    <signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

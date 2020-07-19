@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000327">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Charlotte Klumpp in Meran. Rom, 19. Januar 1868</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><idno>12.104.1</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 S. – 1r + 2r aoR in einer Vignette geprägt: Roma</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Fortgesetztes Unwohlsein hinderte ihn, ihren Brief aus Meran zu beantworten. Nach dem Versuch der Truppen Giuseppe Garibaldis im Oktober 1867 Rom einzunehmen, ist die Stimmung in Rom gedrückt. Mit Karl Lindemann-Frommel hat er eine von diesem illustrierte Ausgabe seiner Reiseschilderung „Die Insel Capri“ (1868) publiziert, die er von dem Verleger Alphons Dürr an Feodora Fürstin zu Hohenlohe-Langenburg hat schicken lassen. Von ihrem Bruder Otto Ludwig von Klumpp und von Georg Gottfried Gervinus  und seiner Frau Viktoria hat er keine Nachricht, aber Adelheid Grunelius hat vor Monaten aus Montreux geschrieben. Auguste Lindemann-Frommel will noch eine Nachricht beifügen (was unterblieb).</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1868-01-19" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001337">Klumpp, Charlotte (1825–1916)</persName>
+<placeName key="G000726">Meran</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right"><hi rendition="#aq">Rom</hi>, 19. Januar 68.</dateline>
+<salute rendition="#c">Verehrtes <?oxy_comment_start author="Angela Steinsiek" timestamp="20190207T124254+0100" comment="Gregorovius hatte die Stuttgarter Pädagogentochter Charlotte Klumpp (1825–1916) und ihren Bruder Otto Ludwig (1819–1902), den Hofbibliothekar von König Karl I. von Württemberg (1823–1891) war, im Dezember 1864 in Rom kennengelernt, als beide im Gefolge von Feodora Fürstin zu Hohenlohe-Langenburg (1807–1872) vom Oktober 1864 bis zum April 1865 Rom besuchte (siehe RT, 11.12.1864 und 30.4.1865, S. 189 und 194). Im September 1867 traf Gregorovius in Stuttgart mindestens den Bruder Otto Ludwig Klumpp wieder, der ihm Preziosen in der Königlichen Bibliothek zeigte (siehe RT, 11.9.1867, S. 232). Die 25 freundschaftlichen Briefe von Gregorovius an Charlotte Klumpp (anfangs mit einer Beischrift von Auguste Lindemann-Frommel) antworten zumeist auf Schreiben, die sie ihm jährlich aus ihrem Kuraufenthalt aus Meran schickt. "?>Fräulein<?oxy_comment_end?>,</salute>
+</opener>
+<p>Sie werden mich längst undankbar gescholten haben, da ich Ihren liebenswürdigen Brief nicht beantwortete – doch mögen Sie wissen, daß ich Wochen lang nicht wol war. Nicht Sie allein haben, in <placeName key="G000726"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190207T142229+0100" comment="Charlotte Klumpp war zusammen mit einer Clara Brandes im Gefolge von Feodora Fürstin zu Hohenlohe-Langenburg (1807–1872) im Oktober 1867 nach Meran gekommen."?>Meran<?oxy_comment_end?></placeName>, von Winterkälte zu leiden gehabt, auch wir Römer hatten unser Teil davon, wenn es auch nicht Schnee gab. So war denn hier alle Welt erkältet u<ex>nd</ex> mißgestimmt. <?oxy_comment_start author="Angela Steinsiek" timestamp="20190207T124306+0100" comment="Vgl. RT, 28.4.1868, S. 244: „Zu diesem Jahre habe ich noch keine Aufzeichnungen gemacht, weil ich wegen fortdauernden Unwohlseins und überhäufter Arbeit daran verhindert wurde. Der rauhe Winter hielt bis in den April an; er war der schlechteste, den ich in Rom erlebt habe. Der Zudrang der Menschen machte mir nicht minder viel Unbequemlichkeit.“"?></p><?oxy_comment_end?>
+<p>Überhaupt <?oxy_comment_start author="Angela Steinsiek" timestamp="20200327T184226+0100" comment="Charlotte Klumpp war zusammen mit ihren Bruder Otto Ludwig (1819–1902) im Gefolge von Feodora Fürstin zu Hohenlohe-Langenburg (1807–1872) vom Oktober 1864 bis zum Februar 1865 in Rom."?>würden Sie das schöne Rom nicht wieder erkennen<?oxy_comment_end?>. <?oxy_comment_start author="Angela Steinsiek" timestamp="20200327T174250+0100" comment="Nach seinem vorübergehenden Rückzug hatte Giuseppe Garibaldi (1807–1882) im Oktober 1867 mit einigen Freischaren versucht, Rom einzunehmen. Am 1. Dezember 1867 notiert Gregorovius in sein Tagebuch: „Von allen durch die Garibaldiner vorher besetzten Orten sind kriechende Ergebenheitsadressen an den Papst eingelaufen. Borghese hat das Offizierkorps bewirtet. Zu Hunderten schickt die Pfaffheit aus Frankreich und Belgien Rekruten nach Rom. Ein neues Zuavenregiment soll errichtet werden.“ (S. 242–243)"?>Die letzte Invasion des rotbehemdeten Unverstandes<?oxy_comment_end?> hat hier die Pfafferei wieder zur Blüte der Reaction gebracht, u<ex>nd</ex> ein recht schwerer Alp liegt auf der römischen Gesellschaft, worunter wir alle leiden. </p>
+<p><pb n="1v"/>Wir sind indeß,<persName key="G001375"> Lindemann</persName> u<ex>nd</ex> ich, in guter Stille thätig. <?oxy_comment_start author="Angela Steinsiek" timestamp="20200327T174213+0100" comment="Zurück aus Meran bedankte sich Feodora Fürstin zu Hohenlohe-Langenburg (1807–1872) am 5. Juni 1868 für die Übersendung der soeben erschienenen illustrierten Quartausgabe seines Aufsatzes aus dem ersten Band der „Wanderjahre in Italien“ (1864) mit acht ganzseitigen Illustrationen: Die Insel Capri. Mit Bildern und Skizzen von Karl Lindemann-Frommel. Holzschnitte aus den xylographischen Anstalten von R. Brend’Amour, F. A. Brockhaus, Gebrüder Dalziel u. G. Flegel. Leipzig: Dürr 1868 (BSB München, Nachlass Gregorovius, Gregoroviusiana 21)."?>Ich hoffe, daß die edle <persName key="G001291">Fürstin</persName>, deren wolwollender Erinnerung wir beide uns angelegentlich empfehlen, das <bibl sameAs="G003405">Capri-Album</bibl> bereits erhalten hat. Ich gab dem <persName key="ed_qnv_zwb_2lb">Verleger</persName>, Auftrag, es nach <placeName key="G000623">Baden-Baden</placeName> zu schicken, von wo es wol seinen Weg nach Meran wird gefunden haben.<?oxy_comment_end?> Wir selbst haben es noch nicht gesehen.</p>
+<p>Ich habe keine Nachricht von Ihrem <persName key="G001340">Herrn Bruder</persName> aus <placeName key="G000879">Stuttgart</placeName>.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190207T124354+0100" comment="Otto Ludwig von Klumpp (1819–1902), der bis 1869 Hofbibliothekar von König Karl I. von Württemberg (1823–1891)."?> <?oxy_comment_end?>Grüßen Sie ihn herzlich, wenn Sie an ihn schreiben. Von <persName key="G001215">Frau <?oxy_comment_start author="Angela Steinsiek" timestamp="20190207T124411+0100" comment="Adelheid Grunelius (1813–1887), die in Baden-Baden wohnhafte Witwe des Frankfurter Bankiers Moriz Eduard Grunelius (1803–1846)."?>Grunelius<?oxy_comment_end?></persName> erhielt ich einen schönen Brief aus <placeName key="G000732">Montreux</placeName>, doch ist es schon Monate her. Von <persName key="G001168"><persName key="ed_tqb_rgz_fcb ed_t6d_oxu_hrx"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190207T124429+0100" comment="Georg Gottfried und Viktoria Gervinus."?>Gervinus<?oxy_comment_end?></persName></persName>, welche wir halb u<ex>nd</ex> halb in Rom erwarteten, wißen wir seit dem September nichts mehr. </p>
+<p>Lassen Sie es sich wol sein in dem schönen Meran; bald wird der Frühlingshauch auch dort erwachen, wie hier, wo die Mandelbäume im Aufbrechen sind. <persName key="G001374">Frau Lindemann</persName> will Ihnen auf diesem Blatt noch mehr u<ex>nd</ex> besseres <?oxy_comment_start author="Angela Steinsiek" timestamp="20190207T124442+0100" comment="Eine Nachschrift von Auguste Lindemann-Frommel unterblieb."?>schreiben<?oxy_comment_end?>, als ich vermag, und somit wünsche ich Ihnen das allerbeste Wolergehen</p>
+<closer>
+<salute xml:id="s1" next="#s2" rendition="#c">Verehrungsvoll</salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">Ihre ergebenster</salute>
+<signed rendition="#c">FGregorovius.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

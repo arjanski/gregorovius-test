@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_z1n_5pp_2mb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Giovanni Battista Camozzi Vertova in Bergamo. München, 5. August 1880</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free">
+                <licence target="http://creativecommons.org/licenses/by/4.0/">
+                    Creative Commons Attribution 4.0 International (CC BY 4.0)
+                </licence>
+            </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Bergamo</repository><collection>Ateneo di Scienze Lettere ed Arti di Bergamo, Raccolta Autografi n. 59.</collection><idno>Vecchia segnatura 497</idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 1 ¼ S. – 1r aoR, Archivvermerk: 497 / 57 / 59</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Neue Freie Presse. Abendblatt. Nr. 5769. Wien: Österreichisches Journal 18.9.1880. S. 1 (in deutscher Übersetzung)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt ihm und den Mitgliedern des Ateneo di Scienze Lettere ed Arti di Bergamo für die Ernennug zum Ehrenmitglied. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1880-08-05" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001014">Camozzi Vertova, Giovanni Battista (1818-1906)</persName>
+<placeName key="G000635">Bergamo</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<salute rendition="#c">Onorevole <seg type="comment"><orig>Signor Presidente</orig><note xml:id="ngy2_gsr_2mb">Giovanni Battista Camozzi Vertova (1818–1906) hatte an der Universität Pavia Medizin studiert, war aber bereits in jungen Jahren politisch aktiv. Er war an der Vorbereitung der Revolution von 1848/49 beteiligt und unterstützte seinen Freund Giuseppe Garibaldi (1807–1882). Camozzi Vertova nahm am zweiten italienischen Unabhängigkeitskrieg teil, wurde nach der Ausrufung des Königreichs Bürgermeister von Bergamo (bis 1870). Von 1860 bis an sein Lebensende war er Mitglied im Senat. 1868 wurde Camozzi Vertova Mitglied des Ateneo di Scienze Lettere ed Arti di Bergamo, von 1880 bis 1891 war er dessen Präsident. Neben dem vorliegenden Brief ist die Ernennungsurkunde Gregorovius’ zum Ehrenmitglied überliefert (siehe BSB München, NL Gregorovius, Gregoroviusiana 19). Eine persönliche Begegnung der beiden ist nicht nachweisbar. Der Brief wurde wenige Wochen später in deutscher Übersetzung abgedruckt in: Neue Freie Presse. Abendblatt. Nr. 5769. Wien: Österreichisches Journal 18.9.1880. S. 1.</note></seg>,</salute>
+</opener>
+<p>egli non è, che da pochi giorni, che, <seg type="comment"><orig>essendo tornato a Monaco da un viaggio</orig><note xml:id="nfvh_hsr_2mb">Gregorovius war mit seinem Bruder Julius (1819–1891) am 27. März 1880 von Rom nach Neapel gereist, wo sie mit dem Schiff nach Griechenland übersetzten. Von Athen aus unternahmen sie Ausflüge, verbrachten außerdem zehn Tage in Korfu. Am 10. Mai waren sie zurück in in Rom, am 3. Juni 1880 trat Gergorovius allein die Rückreise nach München an, wo er zwei Tage später eintraf (siehe RT, Romfahrt und Griechische Reise 1880, S. 419–420).</note></seg>, sono venuto <seg type="comment"><orig>in possesso del Diploma</orig><note xml:id="nd12_jsr_2mb">Die Gregorovius zugegangene Ernennungsurkunde zum Ehrenmitglied des Ateneo di Scienze Lettere ed Arti di Bergamo datiert auf den 17. Juni 1880 (BSB München, NL Gregorovius, Gregoroviusiana 19); diesem muss ein Begleitschreiben von Camozzi Vertova beigelegt gewesen sein.</note></seg> generosamente conferitomi dall’ <orgName key="ed_pgr_brr_2mb">Ateneo</orgName>, cui V<ex>ostra</ex> S<ex>ignoria</ex> Ill<hi rendition="#sup"><ex>ustrissi</ex>ma</hi> <hi rendition="#u" hand="">così degnamente</hi> presiede.</p>
+<p>Or affretandomi di accusargliene il ricevimento, mi gode l’animo di raffermare dinanzi a lei, egregio Signor Presidente, come a i chiarissimi membri dell’ Ateneo, i miei sentimenti di sincerissima gratitudine.</p>
+<p>Vado saperlo di appartenere alla <seg type="comment"><orig>distinta Accademia, che resiede in Bergamo</orig><note xml:id="napj_ksr_2mb">Das Ateneo di Scienze Lettere ed Arti di Bergamo war 1810 auf napoleonisches Dekret durch den Zusammenschluss zweier Institute, der Accademia degli Eccitati und der Accademia di Agricoltura, in Bergamo entstanden und in drei Klassen geteilt worden: Ethik und Geschichtswissenschaften, Physik, Chemie und Wirtschaftswissenschaften sowie Literatur und Künste. Gegründet worden war es, um die kulturellen Aktivitäten voranzutreiben und die Monumente in Bergamo zu bewahren. Seit 1869 steht es unter der Aufsicht des Ministero per i Beni e le Attività Culturali.</note></seg>, città bella quanto ricca di memorie storiche e di virtù civili, <seg type="comment"><orig>fortissimo baluardo de’ Ghibellini un tempo</orig><note xml:id="nlqn_lsr_2mb">Die Ghibellinen waren im mittelalterlichen Italien die Parteigänger des Kaisers und standen den Guelfen, den Papstanhängern, gegenüber. Aufgrund dieses Konflikts kam es im 13. Jahrhundert auch in Bergamo zwischen rivalisierenden Familien zu Kämpfen. Im Jahre 1237 stellte sich die Stadt auf die Seite von Kaiser Friedrich II. (1194–1250), kämpfte mit ihm gegen den Lombardenbund. Von 1261 bis 1264 befand sich Bergamo im Kampf gegen das guelfische Mailand.</note></seg>, e patria di ingegni immortali, tra cui già bastano alcuni pochi, quali <seg type="comment"><orig>il <persName key="G001634">Tasso</persName></orig><note xml:id="nhtr_msr_2mb">Die aus der Provinz Bergamo stammende Familie Tasso, der auch der in Sorrent geborene Dichter, Schriftsteller und Philosoph Torquato Tasso (1544–1595) angehörte. Sie ist bis um 1200 in ganz Europa zurückverfolgbar. Ab dem 15. Jahrhundert hatte die Familie Tasso eine wichtige Rolle in der Verbreitung des Postwesens in Italien und siedelte sich mit zunehmender finanzieller und gesellschaftlicher Macht auch in Bergamo an.</note></seg>, <seg type="comment"><orig>il <persName key="ed_ozt_hrr_2mb">Lotto</persName></orig><note xml:id="nzn4_nsr_2mb">Der in Venedig geborene Lorenzo Lotto (1480–1556/57) war ein wichtiger Vertreter der venezianischen Renaissancemalerei und hatte mit seiner Kunst bedeutenden Einfluss auch in Bergamo. Dort fertigte er ab 1513 einige seiner Hauptwerke an. Seine Auftaggeber waren die dortigen Dominikaner sowie der Adel der Stadt. Neben zahlreichen Altarbildern in verschiedenen Kirchen schuf Lotto für einen Großteil der im Chor von Santa Maria Maggiore in Bergamo aufbewahrten hölzernen Tarsienfolge die vorbereitenden Zeichnungen. </note></seg>, <seg type="comment"><orig>il <persName key="ed_jm2_prr_2mb">Donizetti</persName></orig><note xml:id="nfvr_4sr_2mb">Der Opernkomponist Gaetano Donizetti (1797–1848) war in Bergamo geboren und vom dortigen Kapellmeister der Basilika nach Bologna zum Studium der Kirchenmusik geschickt worden. 1818 kehrte Donizetti in seine Heimatstadt zurück und begann von dort seine Karriere als Komponist aufzubauen. Er lebte für einige Jahre in Neapel, ging mehrmals nach Paris sowie nach Wien an den Hof von Kaiser Ferdinand I. Schwer krank verstarb er in Bergamo. Zu seinen wichtigen Opern, die nach wie vor zum Repertoire der großen Häuser zählen, gehören: Anna Bolena (1830), L’elisir d’amore (1832), Lucrezia Borgia (1833), Lucia di Lammermoor (1835), Maria Stuarda (1835), La fille du régiment (1840), La favorite (1840) und Don Pasquale (1843).</note></seg>, <seg type="comment"><orig>il <persName key="ed_odx_xrr_2mb">Mai</persName></orig><note xml:id="nrwr_psr_2mb">Der Kurienkardinal, Philologe und Bibliothekar Angelo Mai (1782–1854) war in der Provinz Bergamo zur Welt gekommen und hatte sich schon früh mit paläographischen Studien beschäftigt. 1813 wurde er Kustos der Biblioteca Ambrosiana, 1819 Präfekt der vatikanischen Bibliothek. Sein Verdienst war die Wiedergewinnung vieler, verloren geglaubter Manuskripte. Im Jahre 1833 kam Mai in das Sekretariat der Congregatio de propaganda fide und wurde 1838 zum Kardinal mit der Titelkirche Sant’Anastasia erhoben. 1851–1853 war er Präfekt der Konzilskongregation.</note></seg>, a renderla eternamente gloriosa tra tante altre città chiarissime dell’ <placeName key="G000690">Italia</placeName>.</p>
+<p>Così essendo consapevole dell’alto onore, onde l’Ateneo di Bergamo ha distinto la mia tenue persona, faccio voti, che cotesta benemerita corporazione ognor vada crescendo nel promoviemto delle Scienze ed arti, che costituiscono la <pb n="1v"/><choice><sic>la</sic><corr type="deleted"/></choice> vera grandezza invidiabile delle nazioni civili.</p>
+<p>Mi protesto coi sentimenti della più alta stima</p>
+<closer>
+<dateline>Monaco il 5. Agosto <lb/>1880</dateline>
+<salute rendition="#right">di V<ex>ostra</ex> S<ex>ignoria</ex> Ill<hi rendition="#sup"><ex>ustrissi</ex>ma</hi> <lb/>divotissimo </salute>
+<signed rendition="#right">Ferdinand Gregorovius.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

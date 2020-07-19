@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000101">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Malwida von Meysenbug in London. Rom, 7. Mai 1859 </title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>116/107 (1)</idno></msIdentifier>
+<physDesc>
+<p> 1 Bl., 8°, 2 S. (unvollständig) </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 84, Mappe 5 (Alfred Löckle nach
+                                        H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf </collection><idno><idno type="shelfmark"><idno><idno type="shelfmark">Karton 86, Mappe 2 </idno></idno>(nach D1)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Berta Schleicher: Ferdinand Gregorovius und Malwida von Meysenbug. Unveröffentlichte Briefe. In: Der Türmer. Monatsschrift für Gemüt und Geist. Jg. 25. H. 4. Stuttgart 1923. S. 236–237 (gekürzt)</bibl> </witness>
+                    <witness>
+                        <bibl type="print">Berta Schleicher: Aus Briefen von Ferdinand Gregorovius
+                            an Malwida von Meysenbug. In: Almanach der Rupprecht-Presse auf die
+                            Jahre Neunzehnhundertsechundzwanzig-Achtunszwanzig. 1926 / 1927 /1928.
+                            Bd. 4. München: Beck [1926]. S. 34 (Auszug)</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Ihren Brief hat er durch Julie Salis-Schwabe erhalten und lässt den seinen durch ihren Sohn nach London befördern. Ihr Wunsch nach einer Befreiung Italiens von der Fremdherrschaft ist nun in Mittelitalien nähergerückt, doch bedeutet das im Zweiten Italienischen Unabhängigkeitskrieg geschlossene Bündnis von Camillo Benso von Cavour mit Napoléon III., dass Italien die Vertreibung der Österreicher mit der Vorherrschaft Frankreichs bezahlen wird. Den Italienern traut er keine politische Erneuerung aus eigener Kraft zu. Auch die Einigung Preußens ist durch Frankreich und Russland bedroht. Von Friedrich Althaus und seiner zweite Ehefrau Charlotte hat er lange nicht gehört.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He received her letter through Julie Salis-Schwabe and has his letter brought to London by her son. Her desire to liberate Italy from foreign rule is now closer in central Italy, but the alliance of Camillo Benso of Cavour with Napoleon III concluded during the Second Italian War of Independence means that Italy will pay for the expulsion of the Austrians with France’s rule. He does not believe that the Italians are capable of political reformation on their own. The unification of Prussia is also threatened by France and Russia. He has not heard of Friedrich Althaus and his second wife Charlotte for a long time. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1859-05-07" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001418">Meysenbug, Malwida von (1816–1903)</persName>
+                    <placeName key="G000716">London</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c"><hi rendition="#aq">Rom</hi> 7. <hi rendition="#aq">Mai</hi> 1859</dateline>
+<salute rendition="#c">Verehrte Freundin,</salute>
+</opener>
+<p>(denn dies schöne Recht, Sie so zu nennen, nehme ich mir aus dem Wolwollen, welches Sie mir schenken):</p>
+<p>Ihren Brief habe ich durch <persName key="G004733"><seg type="comment"><orig>Madame Schwabe</orig><note xml:id="nqgg_kjt_wlb">Die Philanthropin und Pädagogin Julie Salis-Schwabe (1818 oder 1819–1896), eine geborene Deutsche und Witwe des Industriellen Adolf Salis Schwabe (1800–1853) aus Manchester. Sie war 1858/1859 in Rom (siehe RT, 2.4.1859, S. 78). Salis-Schwabe unterstützte Giuseppe Garibaldi (1807–1882); in Neapel und England begründete sie Kindergärten. Kurz darauf nahm Malwida von Meysenbug das Anerbieten von Frau Julia Salis-Schwabe an und verbrachte den Winter 1859 /1860 mit ihr in Paris.</note></seg></persName> erhalten, u<ex>nd</ex> Sie erhalten meinen wärmsten Dank durch den heimreisenden <seg type="comment"><orig>Sohn</orig><note xml:id="ny15_rjt_wlb">Julie Salis-Schwabe hatte drei Töchter und die Söhne Edmund (1841–1891), George (1843–1907), Frederick und Athur.</note></seg> dieser ausgezeichneten Frau. Ihre Wünsche in Betreff des Landes <placeName key="G000690">Italien</placeName> gehen nun in Erfüllung; <seg type="comment"><orig>während ich dieses schreibe, ist die Mitte Italiens in hellen Flammen des Aufstandes</orig><note xml:id="nqp2_tjt_wlb">Um die Österreicher aus Italien zu vertreiben und die Einigung Italiens unter der Vorherrschaft Sardinien-Piemonts voranzutreiben, hatte der piemontesische Ministerpräsident Camillo Benso von Cavour (1810–1861) im Juli 1858 ein geheimes Bündnis mit Napoléon III. (1808–1873) geschlossen und einen Krieg mit dem habsburgischen Kaiserreich Österreich provoziert. Mit dem Einmarsch der Österreicher in Piemont hatte am 29. April 1859 der Sardinische Krieg, der Zweite Italienische Unabhängigkeitskrieg, zwischen Österreich und Sardinien-Piemont mit dem französischen Kaiserreich begonnen, dem sich die Toskana anschloss.</note></seg>, u<ex>nd</ex> die <seg type="comment"><orig>Armeen <placeName key="G000674">Frankreichs</placeName> u<ex>nd</ex> <placeName key="G000647">Österreichs</placeName> schlagen sich wahrscheinlich auf dem <placeName key="G004689">Gefilde von Marengo u<ex>nd</ex> Alessandria</placeName></orig><note xml:id="nqg3_wjt_wlb">Gregorovius erwartete offenbar einen Sieg Frankreichs: Im Zweiten Koalitionskrieg 1799–1802 von Russland, Österreich und Großbritannien gegen das revolutionäre Frankreich errang Frankreich am 14. Juni 1800 in der Schlacht bei Marengo in der Provinz Alessandria (Oberitalien) den entscheidenden Sieg über Österreich.</note></seg>. Auch meine Wünsche für die Befreiung der Italiener sind warm u<ex>nd</ex> lebhaft, da ich 7 Jahre unter ihnen gelebt habe, aber meine Hoffnungen sind sehr klein. <seg type="comment"><orig>Im günstigsten Falle werden sie ein Joch mit dem andern vertauschen</orig><note xml:id="nibz_xjt_wlb">Nachdem Österreich am 24. Juni 1859 in der entscheidenden Schlacht bei Solferino unterlag, musste Österreich nach dem Vorfrieden in Villafranca am 11. Juli 1859 im Frieden von Zürich am 10. November 1859 die Lombardei an Frankreich abgeben; Napoleon III. reichte die Provinz an Sardinien weiter. Der habsburgische Großherzog Leopold II. von Toskana (1797–1870) und auch Herzog Franz V. von Modena (1819–1875) wurden 1860 durch Volksabstimmungen abgesetzt und Italien zum Nationalstaat geeint. Einzig Venetien verblieb bei Österreich. Zwischen Napoléon III. und Vittorio Emanuele (1820–1878) wurde 1860 der Anschluss des Herzogtums Savoyen und der Grafschaft Nizza an Frankreich vollzogen; am 17. März 1861 wurde Vittorio Emanuele offiziell zum König von Italien proklamiert.</note></seg>, u<ex>nd</ex> das uralte Spiel italienischer Geschichte, welches ich gründlich aus ihren Annalen studirt habe, wird sich in infinitum wiederholen. Ich liebe die Italiener nach meinem <placeName key="G000664">Vaterlande</placeName> am <pb n="1v"/>meisten, aber ich traue ihnen nicht die Kraft zu einer neuen Organisation zu. Diesem unglücklichen u<ex>nd</ex> völlig demoralisirten Lande ist nicht anders zu helfen als durch einen energischen Dictator, einen Absolutismus im Sinne der Freiheit. Politische Revolutionen, Republiken, u<ex>nd</ex> dergleichen Komödien schwimmen nur auf der Oberfläche u<ex>nd</ex> laßen keine Resultate zurück. Wenn Frankreich, wie es den Anschein hat, Italien zu einem Vasallenstaat herabdrückt, wird es wenigstens die Klöster, die Reste der Baronalwirtschaft aufheben, u<ex>nd</ex> Eisenbahnen bauen. Sonst aber werden die italienischen Verfaßungen recht schlecht mit dem Napoleonismus fahren. </p>
+<p>Die Zeiten sind schwer u<ex>nd</ex> ernst; die bonapartische Periode will sich erneuern, u<ex>nd</ex> Deutschland wird von Frankreich u<ex>nd</ex> <placeName key="G000592">Rußland</placeName> zugleich bedroht werden. Es wird jeder vollauf seine Pflicht zu leisten haben. Sobald ich die Situation klar erkenne, werde ich auch der meinen nachkommen.</p>
+<p>Ich habe lange nichts von <persName key="G000920"><seg type="comment"><orig>Althaus</orig><note xml:id="nb4q_bkt_wlb">Gregorovius’ seit 1853 in London lebender Freund Friedrich Althaus (1829–1897).</note></seg></persName> gehört; hoffentlich geht es <persName key="G004734"><seg type="comment"><orig>Charlotte</orig><note xml:id="nmx1_dkt_wlb">Die aus Berlin stammende Charlotte Althaus, geb. Voß, die zweite Ehefrau von Friedrich Althaus, eine enge Freundin von seiner, 1856 verstorbenen, ersten Ehefrau Anna Koppe und von Malwida von Meysenbug aus deren Hamburger Zeit.</note></seg></persName> wol; sollten Sie diese trefflichen Menschen sehen, so bitte ich, sie herzlich zu grüßen. Tausend Dank für die freundliche Teilnahme, welche Sie mir wiederholt <gap reason="lost" unit="pages" quantity="1"/></p>
+</div>
+        </body>
+    </text>
+</TEI>

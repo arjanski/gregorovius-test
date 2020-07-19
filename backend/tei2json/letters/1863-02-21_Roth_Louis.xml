@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000153">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Louis Roth in Stuttgart. Rom, 21. Februar 1863</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (53)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 1 ½ S. – 1r unter der Datumszeile Beantwortungsvermerk mit Handzeichen – 2v aoR Eingangs- und Beantwortungsvermerk: 1863. / <hi rendition="#aq">Rom</hi> 21 <hi rendition="#aq">Februar</hi> / <hi rendition="#aq">F. Gregorovius</hi> / <hi rendition="#aq">R</hi> 26 Febr./<hi rendition="#aq">R</hi> 26 ead</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin,</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark"><idno>Karton 57, Mappe 340–342 (nach D) und Karton 55, Mappe 336–337 (Ergänzungen nach H)</idno></idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 253–254</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Der Tod von Johann Georg Freiherr Cotta von Cottendorf, der an dem Fortgang seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) auch persönlichen Anteil genommen hat, bedeutet für ihn einen persönlichen Verlust. Er kondoliert den Söhnen Georg Astolph und Carl Cotta von Cottendorf.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">The death of Johann Georg Freiherr Cotta von Cottendorf, who was personally involved in his „Geschichte der Stadt Rom im Mittelalter“ (1859-1872), is a personal loss for him. He sends his condolences to the sons Georg Astolph and Carl Cotta von Cottendorf. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1863-02-21" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001559">Roth, Louis (1802–1875)</persName>
+<placeName key="G000879">Stuttgart</placeName>
+</correspAction>
+<correspContext>
+<ref type="next">26. Februar 1863</ref>
+<ref type="next">26. Februar 1863 (BSB München, NL Gregorovius, Gregoroviusiana 21, Roth)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi>, 21. Februar 63.</dateline>
+                    <salute rendition="#c">Sehr geehrter <seg type="comment"><orig>Herr</orig><note xml:id="njh5_bg3_cmb">Louis Roth (1802–1875) war seit 1832 Prokurist der J. G. Cottaschen Buchhandlung. Im Januar 1839 hatte er mit Johann Georg Cotta von Cottendorf die G. J. Göschensche Buchhandlung erworben, deren Verlagsleiter Roth seit 1843 war. Er war verheiratet mit Melitta, geb. Schüle, mit der er die Kinder Ida (1847–1919), verh. August Jaromir von Gleich (1832–1892, Major im Ulanen-Regiment König Wilhelms, 3 Kinder), Eugen und Elise (1852–1929), verh. Richard von Schweizerbarth (1845–1908, Hauptmann im Genadier-Regiment der Königin Olga) und Julius. Siehe auch Elise Melitta von Schweizerbarth-Roth: Erinnerungen einer alten Stuttgarterin. Stuttgart 1925.</note></seg>,</salute>
+                </opener>
+<p>der <seg type="comment"><orig>plötzliche Hingang des edeln <persName key="G001055">Barons von Cotta</persName></orig><note xml:id="nltw_cg3_cmb">Der Senior-Verleger Johann Georg Freiherr Cotta von Cottendorf war am 1. Februar 1863 an einem Herzschlag verstorben.</note></seg> hat auch mich mit tiefem Kummer erfüllt, u<ex>nd</ex> als ein herber Schlag getroffen. Dies darf ich sagen, der ich das Glück hatte, durch 10 Jahre seines Wolwollens, seiner Aufmunterung, u<ex>nd</ex> seines Schutzes zu genießen. Der edle Mann ist nicht mehr, welcher der Protector meines Lebenswerkes war, der <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Geschichte der Stadt Rom im Mittelalter</bibl>; u<ex>nd</ex> noch kann ich mich an diese trübe Vorstellung nicht gewöhnen. Es erscheint mir fast, als sei <seg type="comment"><orig>dies Werk nunmehr verwaist, von dem er noch vor wenig Wochen mir mit Freude schrieb</orig><note xml:id="ndlq_dg3_cmb">Am 5. Januar 1863 hatte Cotta ihm einen freundschaftlichen, Brief geschrieben und ihn ermuntert: „Möchte ein gutes Geschick und die nötige Gesundheit Sie bis zur Vollendung Ihres trefflichen Werkes begleiten. Sie werden dann ruhmbekrönt wieder in das Vaterland nach so langen Jahren treuer, gewißenhafter Widmung zurückkehren. Ich habe dabei nur zu bedenken daß nicht ein noch bedeutenderer Ehrensold Ihnen schon zu Theil geworden. Sehr haben mich die mir gegebenen Nachrichten über neue archivalische Quellen intereßiert, die Ihnen geworden sind.“ (BSB München, NL Gregorovius, Gregoroviusiana 21).</note></seg>, u<ex>nd</ex> das ich noch unter seinen Auspicien zu vollenden hoffte.</p>
+<p>Ich traure nicht allein deshalb; ich beklage auch, daß in diesem ausgezeichneten Manne <seg type="comment"><orig>eine der letzten Traditionen jener großen Literatur-Epoche des <placeName key="G000664">Vaterlands</placeName></orig><note xml:id="np2q_2g3_cmb">So auch in RT, 22.2.1863, S. 158.</note></seg> zu Grabe ging, mit welcher der Name Cotta so schön und ruhmvoll für die Dauer sich verbunden hat.</p>
+<p>Wenn ich Ihnen diese Zeilen schreibe, so ist es, weil ich weiß, in welcher nahen Verbindung Sie selbst zu dem Verewigten u<ex>nd</ex> seinen Anstalten standen u<ex>nd</ex> stehn. Seien Sie, so bitte ich, der Überbringer meiner Gefühle der tiefsten Verehrung und Dankbarkeit gegen <pb n="1v"/>das Andenken des edeln Verstorbenen an beide Freiherren, <seg type="comment"><orig>dessen <persName key="G001053 G004758">Söhne</persName></orig><note xml:id="nen4_fg3_cmb">Johann Georg Freiherr Cotta von Cottendorf (1796–1863) hatte die Töchter Elisabeth (1823–1900), Caroline (1827–1891), Marie (1828–1911) und die Söhne Georg Astolph (1833–1876) und Carl (1835–1888), der den Verlag fortführte. Seine Frau Johanne Sophie, geb. Freiin von Adlerflycht (1801–1838), sowie die Töchter Sophie (1822–1841) und Ida (1823–1846) waren bereits lange zuvor verstorben.</note></seg>, die vielleicht gegenwärtig in Stuttgart sind.</p>
+                <closer>
+<salute xml:id="s1" next="s2" rendition="#c">Ich zeichne mich trauervoll, <lb/> sehr geehrter Herr,</salute>
+<salute xml:id="s2" prev="s1" rendition="#right">Ihr Sie aufrichtig hochschätzender</salute>
+<signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi>.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

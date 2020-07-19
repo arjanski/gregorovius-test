@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000107">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Johann Georg Freiherr Cotta von Cottendorf in Stuttgart. Rom, 1. Dezember 1858</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (22)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ½ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> Karton 59, Mappe 347 (nach D) und Karton 55, Mappe 336–337 (Ergänzungen nach H) </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 228–229 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für das Honorar des ersten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1859) und die Übersendung eines Teilbetrags an seinen Bruder Julius nach Danzig. Seit einer Woche hat er keine Druckfahnen erhalten. Die ersten beiden Bände seiner „Geschichte der Stadt Rom im Mittelalter“ (1859) sollten gleichzeitig erscheinen. Die Druckfahnen sollen zu Franz Demmler nach Farnborough gesandt werden, der zusammen mit Herrn Capnell eine englische Übersetzung veranstalten will. Hermann Hauff lässt er für den Abdruck seines Aufsatzes „Die römischen Poeten der Gegenwart“ und seines Gedichts „Hermus. Eine Nacht auf dem Mittelmeer“ danken; das Manuscript seiner „Toscanischen Melodien“ wird er einsenden. Er ist erfreut, dass Salvatore Viale das gewünschte Exzerpt aus Giovanni Paolo Limperani di Orezza „Istoria della Corsica“ (1780) über Gianantonio Cotta jetzt geschickt hat. Das Manuskript des dritten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1860) ist weit fortgeschritten. Er erwartet Alfred von Reumont, der Friedrich Wilhelm IV. nach Rom begleitet. Reumont hat als Katholik wertvolle Kontakte in den Vatikan.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He is grateful for the fee for the first volume of his „Geschichte der Stadt Rom im Mittelalter“ (1859) and thanks Cotta for sending a part of it to his brother Julius in Danzig. He hasn’t received a galley proof in a week. The first two volumes of his „Geschichte der Stadt Rom im Mittelalter“ (1859) should appear simultaneously. The galley proofs are to be sent to Franz Demmler in Farnborough, who will arrange an English translation together with Mr. Capnell. He thanks Hermann Hauff for printing his essay „Die römischen Poeten der Gegenwart“ and his poem „Hermus. Eine Nacht auf dem Mittelmeer“ ; he will send in the manuscript of his „Toscanischen Melodien“. He is pleased that Salvatore Viale has now sent the requested excerpt from Giovanni Paolo Limperani di Orezza’s „Istoria della Corsica“ (1780) about Gianantonio Cotta. The manuscript of the third volume of his „Geschichte der Stadt Rom im Mittelalter“ (1860) is well under way. He expects Alfred von Reumont to accompany Frederick William IV to Rome. As a Catholic, Reumont has valuable contacts in the Vatican. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1858-12-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001055">Cotta von Cottendorf, Johann Georg
+                        (1796–1863)</persName>
+                    <placeName key="G000879">Stuttgart</placeName>
+                </correspAction>
+<correspContext>
+<ref type="prev">22. November 1858 (h: DLA Marbach, Cotta-Archiv, Gelehrten-Copirbuch VI, 808)</ref>
+<ref type="next">10. Dezember 1858</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right"><hi rendition="#aq">Rom</hi> 1. <hi rendition="#aq">D<ex>e</ex>c<ex>em</ex>b<ex>e</ex>r</hi> 1858.</dateline>
+<salute rendition="#c">Hochverehrter Herr Baron,</salute>
+</opener>
+<p>Ihr <seg type="comment"><orig>freundliches Schreiben nebst beiliegendem Wechsel auf 577 Fl<ex>orins</ex> 30 x</orig><note xml:id="noxv_1db_vlb">In seinem Brief vom <ref target="G000109">6.11.1858</ref> hatte Gregorovius um vorgezogene Auszahlung des Honoras für den im Druck befindlichen ersten Band seiner „Geschichte der Stadt Rom im Mittelalter“ gebeten, was mit dem Antwortschreiben von Johann Geog von Cotta vom 22.1.1858 übersandt wurde (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VI, 808).</note></seg>. habe ich richtig erhalten, u<ex>nd</ex> eile Ihnen dies anzuzeigen. <seg type="comment"><orig><persName key="G001203">Mein Bruder</persName> wird die Gutschrift für den Empfang von 120 Thalern Pr<ex>eußisch</ex> eingesendet haben</orig><note xml:id="nnqz_ddb_vlb">Ein Teilbetrag seines Honorars sollte nach Gregorovius’ Brief an Cotta vom <ref target="G000109">6.11.1858</ref> an seinen Bruder Julius Gregorovius nach Danzig gehen. Der gewünschte Betrag war am 18. November 1858 angewiesen worden (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VI, 807).</note></seg>, u<ex>nd</ex> ich werde der <orgName key="G000523">J. G. Cottaschen Buchhandlung</orgName> eine gleiche zukommen laßen, worauf ich die Empfangnahme von 600 Thalern pro Band I, wie schon vorläufig hier geschickt, bescheinigen werde.</p>
+<p>Das Ausbleiben von Druckbogen macht mich etwas besorgt, weil der Druck seit <seg type="comment"><orig>dem 5. <hi rendition="#aq">N<ex>o</ex>v<ex>em</ex>b<ex>e</ex>r</hi>, wo ich den ersten Bogen erhielt</orig><note xml:id="nex3_hdb_vlb">Die korrigierten ersten Druckfahnen sandte Gregorovius mit seinem Brief vom <ref target="G000109">6.11.1858</ref> an den Verlag zurück.</note></seg>, regelmäßig fortzuschreiten schien. Hoffentlich ist nicht etwa eine Sendung unterwegs hängen geblieben. Ich habe bis zum 24. <hi rendition="#aq">N<ex>o</ex>v<ex>em</ex>b<ex>e</ex>r</hi> 10 Bogen erhalten, u<ex>nd</ex> an jenem Tage den letzten retour geschickt: seither ist keiner mir zugekommen. Es wäre schön, wenn der Druck rasch fortschritte, am besten vielleicht, <seg type="comment"><orig>wenn <bibl corresp="G003476 G003485">beide Bände</bibl> zugleich könnten ausgegeben werden</orig><note xml:id="npsk_jdb_vlb">Band 1 und 2 von Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ wurden 1859 im Abstand von einem halben Jahr ausgegeben: der Ankündigungstext zum Erscheinen von Bd. 1 erschien erstmals in: Beilage zu Nr. 119 der AZ. Stuttgart: Cotta 29.4.1859 – der Ankündigungstext zum Erscheinen von Bd. 2 erschien erstmals in: AZ. Nr. 263. Stuttgart: Cotta 20.9.1859.</note></seg>, <pb n="1v"/>denn da sie eine große Periode von 400 Jahren bis zur <seg type="comment"><orig>Krönung <persName key="G001330">Carls</persName></orig><note xml:id="nlgv_ldb_vlb">Die Kaiserkrönung Karls des Großen (747/748–814) am 25. Dezember 800 im Aachener Dom (siehe „Geschichte der Stadt Rom im Mittelalter“, Bd. 2, 1859, S. 536–548).</note></seg> umfaßen, möchte die Wirkung umso größer sein.</p>
+<p>Ich ersuche die geehrte Buchhandlung, Aushängebogen, so bald sie fertig sind, zu senden an</p>
+<p rendition="#c"><seg type="comment"><orig><persName key="G004755"><hi rendition="#aq">Professor Demmler</hi></persName></orig><note xml:id="nxt4_ndb_vlb">Vermutlich Franz C. F. Demmler, der als Übersetzer von literarischen und historischen Werken vom Deutschen ins Englische in Erscheinung getreten ist. Eine englische Übersetzung seiner „Geschichte der Stadt Rom im Mittelalter“ kam zu Lebzeiten von Gregorovius nicht zustande.</note></seg> <lb/>Staff College<lb/><hi rendition="#aq">Hantshire <placeName key="G004683">Farnborough</placeName></hi>.</p>
+<p>Dieser Gelehrte will im Verein mit <seg type="comment"><orig>Herrn Chapnell</orig><note xml:id="nlyf_pdb_vlb">Nicht ermittelt.</note></seg> eine Übersetzung besorgen, hat mit Editoren Unterhandlung angeknüpft, u<ex>nd</ex> bittet mich dringend, um baldige Zusendung von Bogen, aus denen er Proben vorlegen will. Ich hoffe, daß sich dort etwas wird abschließen laßen. Gleichfalls würde ich um Zusendung fertiger Bogen bitten, der <hi rendition="#aq">Errata</hi> willen, wenn ein solches Verzeichniß am Ende nötig sein sollte.</p>
+<p>Ich danke <persName key="G001240">Herrn <seg type="comment"><orig><hi rendition="#aq">Prof<ex>essor</ex></hi> <hi rendition="#aq">Hauff</hi></orig><note xml:id="nerf_qdb_vlb">Hermann Hauff (1800–1865), seit 1828 der Redaktionsleiter von Cottas „Morgenblatt für gebildete Leser“.</note></seg></persName> für den <seg type="comment"><orig>Abdruck der <bibl corresp="G003872 G003874 G003875">Artikel</bibl></orig><note xml:id="nel1_5db_vlb">In seinem Brief vom <ref target="G000109">6.11.1858</ref> hatte Gregorovius sich nach dem Abdruck seiner eingesandten Manuskripte von seinem Aufsatz „Die römischen Poeten der Gegenwart“ und seinem Gedicht „Hermus. Eine Nacht auf dem Mittelmeer“ erkundigt. „Die römischen Poeten der Gegenwart“ erschienen im Dezember im „Morgenblatt für gebildete Leser“ (Nr. 51–52. Stuttgart; München: Cotta 19. und 26.12.1858. S. 1201–1207 und S. 1232–1236); seine Gedicht war bereits zuvor gedruckt worden (Morgenblatt für gebildete Leser Nr. 44. 31.10.1858).</note></seg>, <seg type="comment"><orig>werde die Toscanischen Melodien einsenden</orig><note xml:id="ndjk_xdb_vlb">In seinem Brief vom <ref target="G000109">6.11.1858</ref> hatte Gregorovius seine Übersetzungen „Toskanischer Melodien“ (1864) Guiseppe Tigri „Canti populari toscani“ (1856) zur Publikation angeboten. Cotta hatte daraufhin am 22.11.1858 mitgeteilt, dass der Verlag auf die Einsendung seines Manuskripts warte (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VI, 808). Die Übersetzungen von Gregorovius kamen dann aber erst in der zweiten Auflage seiner „Figuren. Geschichte, Leben und Scenerie aus Italien“ zum Abdruck, die dann als Band 1 der Sanmmlung „Wanderjahre in Italien“ (Leipzig: Brockhaus 1864) erschien. Sie wurden vielfach vertont.</note></seg>, u<ex>nd</ex> bitte um Zusendung von 2 Exemplaren, vorerst der Nacht auf dem Mittelmeer.</p>
+<p><pb n="2r"/>Es freut mich sehr, daß <seg type="comment"><orig><persName key="G001678">Herr <hi rendition="#aq">Viale</hi></persName> die Stelle aus dem <bibl sameAs="G004785"><hi rendition="#aq">Limperani</hi></bibl> abgeschrieben oder vielmehr geschickt hat</orig><note xml:id="nzhw_12b_vlb">Der korsische Dichter Salvatore Viale (1787–1861) hatte Gregorovius im Brief vom 3. September 1858 den Versand der gewünschten Exzerpte über Cottas korsischen Vorfahr Gianantonio Cotta aus Giovanni Paolo Limperani di Orezza (1694–1779) „Istoria della Corsica da’Tirreni suoi primi abitatori fin al secolo XVIII“ (2 Bde., Rom: Salomonus 1779–1780, hier Bd. 2, S. 221, 248) angekündigt (BSB München, NL Gregorovius, Gregoroviusiana 21). Im vorhergehenden Brief vom 22.11.1858 hatte Johann Georg von Cotta den Eingang bestätigt und gebeten: „Wenn Sie ihm schreiben, so bitte ihm zu sagen, daß wenn ich ihm meine Dankbarkeit mit einem Cottaschen Verlagswerk bezeugen könne, er mir dasselbe nur bezeichnen wolle.“ (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VI, 808).</note></seg>, u<ex>nd</ex> bin jederzeit bereit sie deutsch zu copiren, sollten Sie es wünschen. <seg type="comment"><orig><hi rendition="#aq">Limperani</hi> ist kein sehr gutes Werk</orig><note xml:id="ni4h_d2b_vlb">Salvatore Viale hatte Gregorovius im Brief vom 3. September 1858 darauf hingewiesen, wie unzuverlässig Limperanis „Istoria della Corsica“ als Quelle ist (BSB München, NL Gregorovius, Gregoroviusiana 21).</note></seg>, es hat 3 Bände, u<ex>nd</ex> ist wüst; besser ist <hi rendition="#aq"><bibl corresp="G004770">Cambiagi</bibl></hi>, in dem aber des <persName key="G004725">Gouverneurs Cotta</persName> nicht gedacht wird.</p>
+<p><seg type="comment"><orig>Sollte ich in späteren Detailstudien auf Ihre Ahnen oder Glieder dieser in <placeName key="G000690">Italien</placeName> vielverbreiteten u<ex>nd</ex> alt-römischen Familie stoßen, so werde ich alles verzeichnen, was sie betrifft</orig><note xml:id="novv_22b_vlb">Im vorhergehenden Brief vom 22.11.1858 hatte Johann Georg von Cotta den Eingang bestätigt und gebeten: „Bitte wo Ihnen in italienischen Geschichtsbüchern d Herren Cotta begegnet, wie dieß in Giulini storia die Milano (die ich besitze) der Fall ist, mich darauf aufmerksam zu machen. Nicht minder wiederhole ich meine Bitte in Ihrer Geschichte Roms Herlembaldam nicht zu vergessen.“ (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VI, 808).</note></seg>. In den Jahrhunderten, die mich jetzt beschäftigen, kommt der Name Cotta noch nicht vor.</p>
+<p><seg type="comment"><orig>Ich arbeite unausgesetzt am <bibl sameAs="G003469">3. Bande</bibl>, u<ex>nd</ex> bin nun bis zum Jahr 850 vorgeschritten</orig><note xml:id="nsgd_h2b_vlb">Band 3 seiner „Geschichte der Stadt Rom im Mittelalter“ erschien 1860 und reichte bis zum Jahr 1000.</note></seg>: je tiefer hinein, desto interessanter wird der Stoff; es ist überdem eine <seg type="comment"><orig><hi rendition="#aq"><foreign xml:lang="ita">terra vergine</foreign></hi></orig><note xml:id="nqsl_32b_vlb">Ital: jungfräulicher Boden.</note></seg>. Die meisten italienischen Blätter haben unser Werk angekündigt, u<ex>nd</ex> man erwartet es mit Verlangen. Möchte ich nur alle Anforderungen befriedigen können; doch ist die Aufgabe eine der schwierigsten, die ein Geschichtschreiber leisten mag, u<ex>nd</ex> das <pb n="2v"/>Material ist völlig unübersehbar. <seg type="comment"><orig>Ich erwarte <persName key="G001545">Herrn v<ex>on</ex> <hi rendition="#aq">Reumont</hi></persName>, welcher den kranken <persName key="G004746">König von Preußen</persName> hieher begleiten soll</orig><note xml:id="ne3q_j2b_vlb">Alfred von Reumont begleitete den erkrankten Friedrich Wilhelm IV. (1795–1861) nach Rom, der vom 23. Dezember 1858 bis zum 2. Mai 1859 im Palast Caffarelli wohnte (siehe Brief von <ref target="G000048">Gregorovius an Reumont, 8.11.1857</ref>).</note></seg>. Seine <seg type="comment"><orig>Connexionen mit den hiesigen Schwarzen</orig><note xml:id="nn5y_l2b_vlb">Alfred von Reumont war katholisch und hatte beste Beziehungen in den Vatikan.</note></seg> können mir helfen.</p>
+<p>Haben Sie, verehrtester Herr Baron, herzlichen Dank für Ihre Freundlichkeit; die Teilnahme welche Sie persönlich meinem Werke schenken, ist mir doppelt belebend, in dieser großen Einsamkeit unausgesetzter Studien, darin ich lebe.</p>
+<closer>
+<salute xml:id="s1" next="#s2" rendition="#c">Mit der vorzüglichsten Hochachtung,</salute>
+<salute xml:id="s2" prev="#s1" rendition="#c"> Herr Baron,</salute>
+<salute xml:id="s3" prev="#s2" rendition="#right">Ihr ergebenster</salute>
+<signed rendition="#right"><hi rendition="#aq">Ferdin. Gregorovius</hi>.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

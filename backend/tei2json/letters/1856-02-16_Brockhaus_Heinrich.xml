@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000023">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Heinrich Brockhaus in Leipzig. Rom, 16. Februar
+                    1856</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (27)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl, 8°, 2 ¾ S. – 2v alR, Bl. um 90° gedreht Eingangs- und Beantwortungsvermerk: 1856. / <hi rendition="#aq">Rom</hi>, 16./24. <hi rendition="#aq">Febr</hi>. / <hi rendition="#aq">Gregorovius</hi>. / B. 5/III.  </p>
+<p>Nachträge zur Einleitung zu „Die Lieder des Giovanni Meli von Palermo“ (1856)</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>L Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er hat die Korrekturfahnen seiner Übersetzung der „Lieder des Giovanni Meli von Palermo“ (1856) zurückgesandt – die der historischen Einleitung legt er bei: dem Motto des Abbate Domenico Scinà hat er noch ein Gedicht-Zitat über Giovanni Meli von Terenzio Mamianis della Rovere hinzugefügt. Davor muss die Zueignung an Karl Rosenkranz gesetzt werden. Von seinen Übersetzungen sind ihm „Der Weinschwelg“ und die „Winter-Idylle“ die liebsten. Da er vielen Personen verpflichtet ist, bittet er um 18 Freiexemplare. Er glaubt, dass seine „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) gleichzeitig mit den „Liedern des Giovanni Meli“ ausgegeben werden. Er bittet dem Leipziger Komissionär Steinacker (Friedrich Wilhelm Einhorn) alle seine Exemplare der Sendung an die Buchhandlung Josef Spithövers in Rom beifügen. Das Honorar für seine 1855 gedruckten Artikel „Ein Blick in die romanische Literatur Siciliens“, „Das Königreich beider Sicilien in seinen gegenwärtigen Zuständen“ und „Das Dominicanerloster San Marco in Florenz und seine Reactionen gegen den Realismus“ hat er erhalten.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He returned the proofs of his translation of the „Lieder des Giovanni Meli von Palermo“ (1856) - he encloses the historical introduction: he added a quote from a poem about Giovanni Meli by Terenzio Mamianis della Rovere to the motto of Abbate Domenico Scinà. Before this, the dedication to Karl Rosenkranz must be typeset. His favorite translations are „Der Weinschwelg“ and the „Winter-Idylle“. Since he is indebted to many people, he asks for 18 complimentary copies. He believes that his „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) will be published at the same time as the „Lieder des Giovanni Meli“. He asks for all his copies for the Josef Spithöver bookstore in Rome to be given to the Leipzig commission agent Steinacker (Friedrich Wilhelm Einhorn). He received the fee for his articles printed in 1855, „Ein Blick in die romanische Literatur Siciliens“, „Das Königreich beider Sicilien in seinen gegenwärtigen Zuständen“ and „Das Dominicanerloster San Marco in Florenz und seine Reactionen gegen den Realismus“. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1856-02-16" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G000996">Brockhaus, Heinrich (1804–1874)</persName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+<correspContext>
+<ref type="prev">5. Februar 1856</ref>
+<ref type="next">5. März 1856</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Roma</hi>. d<ex>en</ex> 16. <hi rendition="#aq">Febr<ex>uar</ex></hi> 1856.</dateline>
+                    <salute rendition="#c">Sehr geehrter Herr,</salute>
+                </opener>
+                <p>die <seg type="comment"><orig>Zusendungen sämtlicher <bibl sameAs="G004072">Druckbogen</bibl></orig><note xml:id="ni1m_rvw_qlb">Das am 21.7.1855 von Gregorovius an Brockhaus übersandte Manuskript seiner „Lieder des Giovanni Meli von Palermo“ (siehe RT, 23.7.1855, S. 56) wurde wegen der im Brief von Gregorovius vom <ref target="G000076">22.8.1855</ref> geäußerten Honorarforderungen (100 Taler) zunächst abgelehnt, Anfang Januar aber doch von Brockhaus angenommen. Im Brief von Gregorovius an Brockhaus vom <ref target="G000077">19.1.1856</ref> hatte er um Rücksendung mehrerer Manuskriptteile zur Korrektur gebeten.</note></seg> habe ich richtig erhalten; die erste schickte ich an die <hi rendition="#aq">Officin</hi> zurück am 30 Januar, die zweite am 4 Februar, so daß sie nun wol in Ihren Händen sein werden. Die letzte Sendung geht gleichzeitig mit diesem Briefe ab.</p>
+                <p>Im Ganzen habe ich demnach 8, 4 u<ex>nd</ex> wieder 4 Bogen erhalten.</p>
+                <p>Die Correctur habe ich so genau besorgt, daß ich hoffe, der Druck wird ganz
+                    fehlerfrei sein; auch war es mir möglich, noch manches zu verbeßern.</p>
+                <p>Die <seg type="comment"><orig>Zuschrift an <hi rendition="#aq"><persName key="G001557">Rosenkranz</persName></hi></orig><note xml:id="ne31_zvw_qlb">Gregorovius widmete seinem verehrten Königsberger Lehrer Karl Rosenkranz (1805–1879) den Band seiner „Lieder des Giovanni Meli von Palermo“ (1856). In seinem Brief an Rosenkranz vom 17.3.1856 heißt es hierzu: „Herr Brockhaus wird Ihnen den Giovanni Meli gesandt, oder mein Bruder ihn gebracht haben. Mag mich das innere Verhältnis der Schule vor Ihnen entschuldigen, wenn ich es wagte, Ihnen das Buch zu widmen. Gedenken Sie bei so geringer, doch aufrichtiger Gabe meiner als eines um der Freiheit und der Musen willen Selbstverbannten, der auf unstätiger Wanderung ein Zeichen vom Wege griff, seine Verehrung gegen Sie auszudrücken. Denn solcher Symbole bedarf einmal der unbeholfene Menschensinn; und selbst das Dürftigste mag leicht die Gesinnung erhöhen.“ (Ferdinand Gregorovius: Briefe nach Königsberg. Hrsg. von Dominik Fugger und Nina Schlüter. München: Beck 2013. S. 176).</note></seg> muß allerdings den ersten Platz einnehmen.</p>
+                <p><seg type="comment"><orig>In der historischen Einleitung habe ich nur wenige Nachträge eingeschaltet</orig><note xml:id="njrp_vww_qlb">Gregorovius hatte im Brief vom <ref target="G000077">19.1.1856</ref> Brockhaus gebeten, ihm das Manuskript seiner historischen Einleitung zurückzusenden, um die Erkenntnisse aus der jüngst von dem Florentiner Literaturhistoriker Paolo Emiliani Giudici (1812–1872) veröffentlichten „Storia della letteratura italiana“ (2 Bde. Florenz: Le Monnier 1855) einzuarbeiten.</note></seg>:</p>
+                <p><list>
+<item>1.) Das <seg type="comment"><orig>Motto von <persName key="G001396"><hi rendition="#aq">Terenzo Mammiani</hi></persName></orig><note xml:id="nhkc_bxw_qlb">Aus einem Gedicht des Risorgimento-Diplomaten, Philosophen und Schrifttellers Terenzio Mamiani della Rovere (1799–1885), „Giovanni Meli ovvero della Cosmogonia“ – siehe http://opacplus.bsb-muenchen.de/title/BV006957232/ft/bsb10756792?page=28.</note></seg> hinzugefügt, wie die Setzer es unter dem schon bestehenden <seg type="comment"><orig>Motto von <persName key="G001593"><hi rendition="#aq">Domenico Scinà</hi></persName></orig><note xml:id="nyxs_dxw_qlb">Aus „Prospetto della storia Letteraria di Sicilia nel secolo Decimottavo“ (Bd. 3, Palermo 1827, S. 455) des gelehrten Palermitaner Abbate, Mathematikers und Historikers Domenico Scinà (1765–1837) – siehe http://opacplus.bsb-muenchen.de/title/BV006957232/ft/bsb10756792?page=28.</note></seg> finden werden.</item>
+<item>2.) einen Nachtrag zu Seite XL.</item>
+<item>3.) einen Nachtrag zu Seite XLIII;</item>
+</list>beide lege ich in diesen Brief.</p>
+                <p>Ich <pb n="1v"/>sehe in dem geschmackvollen Format u<ex>nd</ex> Druck alle meine
+                    Wünsche auf das schönste befriedigt; dies Buch werden gerne in die Tasche
+                    stecken solche, die Sicilien besuchen.</p>
+                <p>Ich hoffe, Sie verehrter Herr, werden wie alle Freunde der Literatur rechte Freude an diesen Sachen haben. Der <seg type="comment"><orig><hi rendition="#u">Weinschwelg</hi></orig><note xml:id="nnkf_gxw_qlb">Der sicilianische Weinschwelg. Dityrambus, S. 111–128 (siehe http://opacplus.bsb-muenchen.de/title/BV006957232/ft/bsb10756792?page=173).</note></seg> ist mein besonderer Liebling, u<ex>nd</ex> ich wünsche, ich könnte Ihnen von jedem der dort gepriesenen Weine <placeName key="G000575">Siciliens </placeName>ein großes Faß zusenden. Von den Hexametern sind am besten geraten, die in der <seg type="comment"><orig>Winteridylle</orig><note xml:id="nzdm_3xw_qlb">Winter-Idylle, S. 229–242 (siehe http://opacplus.bsb-muenchen.de/title/BV006957232/ft/bsb10756792?page=293).</note></seg>. Holperig, meine ich, ist keiner, u<ex>nd</ex> fast alle sind ohne Hilfe von <unclear reason="illegible" cert="high">Trochäeen</unclear>.</p>
+                <p>Wegen der Freiexemplare habe ich die allerdings unverschämte Bitte um 18 derselben, da ich einige notgedrungen absenden muß nach Sicilien, nach <placeName key="G000671">Florenz</placeName>, Rom, <placeName key="G000664">Deutschland</placeName>, <placeName key="G000599">England</placeName>, welche dem Verkauf sehr günstig sein sollen. Möchten Sie mir also <hi rendition="#aq">liberaliter</hi> diese bewilligen. In einem Schreiben werde ich Sie ersuchen, die betreffende Sendung an mich gelangen zu laßen, oder nach <placeName key="G000699">Königsberg</placeName> u<ex>nd</ex> <placeName key="G000716">London</placeName> zu verfügen.</p>
+                <p>Für jetzt bitte ich dem <persName key="G001107"><seg type="comment"><orig>Commissionär</orig><note xml:id="nldk_lxw_qlb">Siehe unten. Der Gründer des Leipziger Verlages- und Komissionsgeschäfts, Johann Erdmann Ferdinand Steinacker (1764–1842), starb kinderlos. Nach seinem Tode ging das Geschäft unter Beibehaltung des Firmennamens in den Besitz seines Neffen Friedrich Wilhelm Einhorn (1808–1889) über; 1859 ging es an dessen Sohn Theodor Steinacker-Einhorn (†1878).</note></seg></persName> der <seg type="comment"><orig><orgName key="G000545">Spithöverschen Buchhandlung</orgName></orig><note xml:id="nkqm_pxw_qlb">Die deutsche Buchhandlung in Rom von Josef Spithöver (1813–1892).</note></seg> ein paar zu <pb n="2r"/>übergeben, damit er sie dem <hi rendition="#u">Post</hi>packet beifüge, welches er demnächst an Spith<ex>över</ex> wird zu besorgen haben; u<ex>nd</ex> da ich vermute, Sie werden die <bibl sameAs="G003114"><seg type="comment"><orig>Figuren</orig><note xml:id="ngyn_rxw_qlb"><p>Seine bei Brockhaus im Druck befindlichen „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856). Siehe oben.</p></note></seg></bibl> erst gleichzeitig mit dem Meli ausgeben, so bitte ich die mir zukommenden 2 Exempl<ex>are</ex> für Rom, gleichfalls an Herrn Steinacker für Spith<ex>över</ex> zu geben, u<ex>nd</ex> nicht direct unter Kreuzband an mich zu schicken.</p>
+                <p>Ich habe die Honorarabrechnung für die betreffenden Artikel <seg type="comment"><orig><bibl sameAs="G003825">Blätter f<ex>ür</ex> l<ex>iterarische</ex> U<ex>nterhaltung</ex> 1855 2. Sem<ex>ester</ex></bibl></orig><note xml:id="ny51_wxw_qlb">In den „Blättern für literarische Unterhaltung“ war Anfang 1855 nur Gregorovius’ Artikel „Ein Blick in die romanische Literatur Siciliens“ erschienen (Bd. 1. Nr. 1. Leipzig: Brockhaus 1.1.1855. S. 6–19).</note></seg>, <bibl sameAs="G003836">Gegenwart Band XI</bibl>, <seg type="comment"><orig><bibl corresp="G003831 G003832">D<ex>eutsches</ex> Mus<ex>eum</ex> 2. Sem<ex>ester</ex></bibl></orig><note xml:id="nnwt_hyw_qlb">Sein Artikel „Das Dominicanerkloster San Marco in Florenz und seine Reactionen gegen den Realismus“ war in zwei Folgen im „Deutschen Museum“ erschienen (Jg. 5. Nr. 31–32. Leipzig Brockhaus 2. und 9.8.1855. S. 153–163 und 199–209).</note></seg> empfangen, u<ex>nd</ex> quittire hiemit ergebenst für den Betrag.</p>
+                <closer>
+                    <salute xml:id="s1" next="#s2" rendition="#c">Mit großer Hochachtung</salute>
+                    <salute xml:id="s2" prev="#s1" rendition="#right">Ihr ergebenster</salute>
+                    <signed rendition="#right">FGregorovius</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

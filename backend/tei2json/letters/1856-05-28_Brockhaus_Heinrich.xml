@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000030">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Heinrich Brockhaus in Leipzig. Rom, 28. Mai
+                    1856</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (30)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 8°, 1 ½ S. – 2v alR und auR Siegelausriss mit Papier-Reparatur. – 2v alR, Blatt um 90° gedreht, Eingangs- und Beantwortungsvermerk: 1856. / <hi rendition="#aq">Rom</hi>, 28. <hi rendition="#aq">Mai</hi>/9. <hi rendition="#aq">Juni</hi>. / <hi rendition="#aq">Gregorovius</hi>. / B. 18 [korrigiert aus 28 oder umgekehrt]/VII.</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">In Folge der anstrengenden Recherchen zu seiner „Chronik der Stadt Rom im Mittelalter“ war er länger krank und konnte auf die Briefe und Sendungen von Brockhaus nicht antworten. Die Druckfahnen seiner „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) und die seiner Übersetzung der „Lieder des Giovanni Meli von Palermo“ (1856) nebst einem ersten gehefteten Exemplar sind eingegangen – deren Ausstattung findet er sehr gelungen. Dank der Bemühunngen des Londoner Verlegers Nikolaus Trübner hat der Edinburgher Verleger von Thomas Constable sein Honorar für die englische Übersetzung seiner „Figuren“ nun doch bezahlt. Er will Ende Juni in nach Genazzano, wo er sich für drei Monate erholen und das Manuskript seines „Euphorion“ (1858) abschließen will.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">As a result of the strenuous research for his „Chronik der Stadt Rom im Mittelalter“, he was ill for a long time and was unable to respond to Brockhaus’ letters and mailings.The galley proofs of his  „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) and his translation of the „Lieder des Giovanni Meli von Palermo“ (1856) along with a first bound copy have arrived - he is very pleased with their layout. Thanks to the efforts of the London publisher Nikolaus Trübner, the Edinburgh publisher Thomas Constable has now paid his fee for the English translation of his „Figuren“. He wants to go to Genazzano in late June, where he will relax for three months and complete the manuscript of his „Euphorion“ (1858). </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1856-05-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G000996">Brockhaus, Heinrich (1804–1874)</persName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+<correspContext>
+<ref type="prev">21. Mai 1856</ref>
+<ref type="next">18. oder 28. Juli 1856</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+                <opener>
+                    <dateline rendition="#c"><hi rendition="#aq"><foreign xml:lang="ita">Roma</foreign></hi> d<ex>en</ex> 28. <hi rendition="#aq">Mai</hi> 1856.</dateline>
+                    <salute rendition="#c">Verehrtester Herr,</salute>
+                </opener>
+                <p>ich habe Ihre freundlichen Schreiben u<ex>nd</ex> Zusendungen bisher noch nicht beantwortet, <seg type="comment"><orig>weil ich nämlich längere Zeit krank war</orig><note xml:id="nuqz_lcx_qlb">Gregorovius musste seine Studien seit Ende Februar immer wieder unterbrechen und setzte am 16. März 1856 sogar sein Testament auf (siehe RT, 24.3.1856, S. 60).</note></seg>, ich kann wol sagen an der <seg type="comment"><orig><bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Chronik von Rom</bibl></orig><note xml:id="nvzv_ncx_qlb">Siehe RT, 24.3.-16.8.1856, S. 60–63. Von seinem Plan, sein späteres 8-bändiges Hauptwerk, die „Geschichte der Stadt Rom im Mittelalter“ (Stuttgart: Cotta 1859–1872) zu schreiben, war erstmals im Brief von Gregorovius an Brockhaus vom <ref target="G000056">11.12.1855</ref> die Rede. Siehe auch den Brief von <ref target="G000034">Gregorovius an Theodor Heyse vom 6.1.1856</ref>.</note></seg>, welche mich umgeworfen hatte. Auch heute habe ich den fortgesetzten Anfall des climatischen Fiebers, u<ex>nd</ex> will daher kurz sein – <seg type="comment"><orig>ich schicke den Brief über <placeName key="G000699">Königsberg</placeName></orig><note xml:id="nyny_rcx_qlb">In Königsberg lebte sein Bruder Julius Gregorovius als Artillerieoffizier.</note></seg> –.</p>
+                <p>Alle Ihre Zusendungen sind richtig an mich gelangt; <seg type="comment"><orig>auch hat sich jene <orgName key="G000471">Constablesche</orgName> Drohung, das Honorar zurückzuhalten, durch des trefflichen <persName key="G001661">Trübner</persName> Bemühung in einige goldne Regentropfen von 20 £ aufgelöst</orig><note xml:id="ndxr_tcx_qlb">Siehe den Brief von Gregorovius an Brockhaus vom <ref target="G000055">3.4.1856</ref>.</note></seg>. Den <bibl sameAs="G004072"><seg type="comment"><orig>Meli</orig><note xml:id="niwp_vcx_qlb">Gregorovius’ bei Brockhaus im Druck befindliche Übersetzung der „Lieder des Giovanni Meli von Palermo“ (1856).</note></seg></bibl> habe ich erhalten, so wol die Aushängebogen, als das mir gestern zugesandte erste geheftete Exemplar. Sein Erscheinen fällt leider in die Sommerzeit. Sehr schön ist das Buch ausgestattet, wofür ich Ihnen bestens danke. Wenn die Deutschen es nicht gut aufnehmen, so haben sie diese feinen Sachen nicht verdient; denn eine saubere Poesie ist es.</p>
+                <p>Ich bin so sehr müde, d<ex>a</ex>ß ich enden muß. <seg type="comment"><orig>Ich hoffe, <subst><del rendition="#ow">i</del><add place="across">a</add></subst>m Ende Juni in die <placeName key="G000840">Sabinerberge</placeName> zu gehn, wo ich schon Quartier genommen habe, in <placeName key="G000678"><hi rendition="#aq">Gennazano</hi></placeName> oberhalb <hi rendition="#aq"><placeName key="G000842">Palestrina</placeName></hi>, u<ex>nd</ex> will dort <pb n="1v"/>3 Monate mich erholen</orig><note xml:id="narw_1dx_qlb">Gregorovius reiste erst 25. Juni aus Rom ab und blieb bis zum 24. September 1856 in Genazzano (siehe RT, 16.8.-2.10.1856, S. 63–64).</note></seg>, u<ex>nd</ex> den <seg type="comment"><orig><bibl corresp="G003574">Euphorion</bibl> zum Druck fertig machen</orig><note xml:id="nuwk_ddx_qlb">In Genazzano schloss er nicht nur das Manuskript seines Versgedichtes „Euphorion. Eine Dichtung aus Pompeji in vier Gesängen“ ab, das er in seinem Brief vom <ref target="G000076">22.8.1855 an Brockhaus</ref> als vor dem Abschluss stehend zum Verlag angetragen hatte (dort erschien es 1858), sondern auch das Manuskript der Buchpublikation seiner „Grabmäler der Römischen Päbste. Historische Studie“ (Leipzig: Brockhaus 1857), das er Brockhaus mit seinem Brief vom <ref target="G000053">12.7.1856</ref> zum Verlag antrug und bereits Anfang August nach Leipzig absandte (siehe RT, 16.8.1856, S. 63).</note></seg>. Ich werde mir erlauben, Ihnen meinen Abzug ins Sabinische bestimmt anzuzeigen, für vorkommende Correspondenzen.</p>
+                <p>Nochmals, verehrter Herr, recht schönen Dank für die noble Ausrüstung des
+                    Meli.</p>
+                <closer>
+                    <salute rendition="#c">Hochachtungsvoll u<ex>nd</ex> mit steter
+                        Ergebenheit</salute>
+                    <signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

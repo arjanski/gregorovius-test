@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000070">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Friedrich Eggers in Berlin. Rom, 11. November
+                    1856</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><collection>Universitätsbibliothek Basel</collection><collection>Autographensammlung Richard Menzel</collection><idno>Nr. 80</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ½ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 6 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er lehnt das Angebot, statt des verstorbenen Emil Braun kunstgeschichtliche Beiträge aus Italien für das „Deutsche Kunstblatt“ zu liefern, mit Verweis auf seine Laienhaftigkeit ab. Sein Interesse an der Kunst dient allein seinen historischen Arbeiten, derzeit dem ersten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1859). Er dankt für die Bemühungen des „Kunstblatts“ hinsichtlich der korsischen Landschaftszeichnungen und -bilder von Rudolf Jonas.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He rejects the offer to provide art historical articles from Italy for the „Deutsches Kunstblatt“ instead of the late Emil Braun, with reference to his being an amateur. His interest in art serves only his historical works, currently the first volume of his „Geschichte der Stadt Rom im Mittelalter“ (1859). He thanks him for the efforts of the „Kunstblatt“ regarding the Corsican landscape drawings and paintings of Rudolf Jonas. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1856-11-11" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001105">Eggers, Friedrich (1819–1872)</persName>
+                    <placeName key="G000636">Berlin</placeName>
+                </correspAction>
+<correspContext>
+<ref type="prev">30. Oktober 1856</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+<div type="writingSession">
+<opener>
+<dateline rendition="#c"><hi rendition="#aq">Roma</hi> 11. <hi rendition="#aq">Nov<ex>em</ex>bre</hi> 1856.</dateline>
+<salute>Mein sehr geehrter <seg type="comment"><orig>Herr</orig><note xml:id="ncfn_vm4_slb">Der aus einer Rostocker Kaufmannsfamilie stammende Friedrich Eggers (1819–1872) ergriff zunächst den Beruf seines Vaters. 1842 begann er in Rostock ein Studium der Philologie, wechselte aber zur Geschichte, Kunstgeschichte und Archäologie in Leipzig (bei Wilhelm Wachsmuth, 1784–1866), München und erneut Rostock. 1845 zog Eggers nach Berlin, wo ihn Franz Kugler (1808–1858) zu einer Denkschrift („Die Reorganisation der Kunstverwaltung im preußischen Staate“) veranlasste. In Berlin wurde Eggers 1848 mit einer kunstpädagogischen Arbeit promoviert; hier gründete er 1850 das „Deutsche Kunstblatt“, das er bis zu dessen Einstellung 1858 leitete. 1863 bekam Eggers eine Professur an der Berliner Akademie der Künste und hielt zudem Vorlesungen an der Gewerbe- und der Bauakademie. 1871 wird er als Referent für bildende Künste in das preußische Kultusministerium berufen. Eggers war Mitglied und Gründer zahlreicher literarischer Vereinigungen, u.a. mit Theodor Storm (1817–1888), Paul Heyse (1830–1914) und Theodor Fontane (1818–1898). Auch schrieb er selbst (posthum veröffentlichte) Gedichte. Als sein Hauptwerk gilt die Biografie des Bildhauers Christian Daniel Rauch (1777–1857), die nach seinem Tode von seinem Bruder, dem Lyriker Karl Eggers (1826–1900), abgeschlossen und publiziert wurde (5 Bde., Berlin 1873–1891). Der vorliegende Brief von Gregorovius, in dem er die Mitarbeit als kunstgeschichtlicher Korrespondent aus Italien für das „Deutsche Kunstblatt“ ablehnt, ist das einzige Zeugnis ihres Kontakts. Vermutlich ging der Anfrage von Eggers ein Schreiben von Gregorovius voraus, in dem er um Publikmachung der korsischen Blätter des Landschaftsmalers Rudolf Jonas gebeten hatte (siehe unten). </note></seg>,</salute>
+</opener>
+<p>sowol Ihr verdienstvolles <orgName key="G000514"><seg type="comment"><orig>Journal</orig><note xml:id="nvgx_1r4_slb">Das 1850 von Friedrich Eggers gegründete „Deutsche Kunstblatt“, eine „Zeitung für bildende Kunst und Baukunst“ und ein Organ der deutschen Kunstvereine.</note></seg></orgName>, als Ihr freundliches Schreiben vom 30. October haben mich einer Gunst versichert, welche in demselben Maße, als sie mich ehrt, mich fürchten läßt, daß mein Verdienst ihr nicht gleichkommt. Ich bedaure in Ihrem Intereße den Verlust eines Mannes, wie <seg type="comment"><orig><hi rendition="#aq"><persName key="G000993">Braun</persName></hi> war, welcher durch jahrelange Bekanntschaft mit den Zuständen römischer Kunst mehr als jeder andere hier lebende Deutsche befähigt war, von deren Erscheinungen angemeßne Berichte nach <placeName key="G000664">Deutschland</placeName> zu geben</orig><note xml:id="nz2p_fr4_slb">Der Archäologe, Arzt und Unternehmer Emil Braun (*1809) war am 11. September 1856 in Rom an perniziöser Anämie gestorben – die kurz zuvor erstmals von Thomas Addison (1793–1860) beschriebene Form der Blutarmut, als deren Ursache seit 1926 ein Mangel an Vitamin B 12 gilt. Braun war seit 1833 in Rom, wo er zuletzt neben dem mit Gregorovius befreundeten Archäologen Wilhelm Henzen (1818–1887) leitender Sekretär des Instituto di corrispondenza archeologica war. Braun hatte immer wieder Beiträge für das „Deutsche Kunstblatt“ geliefert. Über den Tod Brauns vermerkt Gregorovius im Tagebuch „Ich fand hier tot Emil Braun. Er starb am Anfange des September an der Perniciosa. Braun war ein Sophist, doch er hatte Züge von echter Liberalität und Großartigkeit.“ (RT, 2.10.1856, S. 64, siehe auch ebd., 7.1.1856, S. 59).</note></seg>. Indem Sie mir nun die Ehre erweisen, mich aufzufordern, gleichsam seine Plichten oder seine Thätigkeit für Ihr Blatt zu übernehmen, weiß ich ein so großes Vertrauen nicht beßer zu schätzen, als durch das offene Geständnis, daß ich der schwierigen Aufgabe nicht gewachsen bin. Ich bin vollständig Laie der Kunst gegenüber, u<ex>nd</ex> indem ich Kunstgegenstände betrachte thue ich es nur zu dem Zwecke mich im Geschmacke zu läutern u<ex>nd</ex> zu bilden, u<ex>nd</ex> etwas für meinen Stil zu gewinnen. Drüber hinaus vermag <pb n="1v"/>ich nichts, da mir die erforderlichen Kenntnisse<del rendition="#s">n</del> fehlen. So lange ich in <placeName key="G000690">Italien</placeName> bin, habe ich nie, u<ex>nd</ex> das aus Selbsterkenntniß, einen Artikel über Kunst geschrieben, wie solchen Ästhetiker schreiben, u<ex>nd</ex> wo ich sie in mein Bereich ziehen mußte, diente sie lediglich meinen historischen Studien. Denn es sind entweder Poesie oder Geschichte, die mich beschäftigen, u<ex>nd</ex> ich bin <seg type="comment"><orig>gegenwärtig in den Bibliotheken Rom’s versunken, um den ersten Band eines <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">geschichtlichen Werks</bibl> zu schreiben</orig><note xml:id="ntnl_lr4_slb">Im Oktober 1854 hatte Gregorovius auch Emil Braun (1809–1856) von seinem Plan berichtet, eine Geschichte der Stadt Rom im Mittelalter zu schreiben, und darüber im Tagebuch vermerkt: „Er wurde aufmerksam und sagte dann: ‚Dies ist ein Versuch, an dem jeder scheitern muß.‘“ (3.10.1854, S. 53).</note></seg>, welches mich gänzlich absorbirt.</p>
+<p>Sie sehen demnach, mein verehrter Herr, daß ich Ihnen wie mir ein Unrecht thäte, wollte ich mich in eine Sphäre wagen, die nicht mein Eigentum ist, u<ex>nd</ex> wo ich ohne Zweifel nur die Halbheiten vermehren würde, mit denen das Publicum durch fachunkundige Scribenten verwirrt zu werden pflegt.</p>
+<p>Ich danke Ihnen herzlich, für alle die <seg type="comment"><orig>Bemühungen, welche Sie in wolwollenden Intereße für die Malerei <persName key="G001319">Herrn <hi rendition="#aq">Jonas</hi></persName> haben zu Gute kommen lassen</orig><note xml:id="nkjl_nr4_slb">Der aus Ostpreußen stammende Landschaftsmaler Rudolf Jonas (1822–1888) hatte von Mai bis September 1856 Korsika bereist. Gregorovius hatte bereits Weihnachten 1855 in seinem Tagebuch notiert: „Ein Maler Jonas schrieb aus Berlin, daß er, angeregt von meinem Buch, Korsika besuchen wolle, dort Studien zu machen“ (S. 58) Am 22.5.1856 hatte er von Jonas einen Brief aus Korsika erhalten (siehe RT, S. 62) Persönlich lernte er den Maler erst 1860 in Danzig kennen (siehe RT, 6.8.1860, S. 107). Im „Deutschen Kunstblatt“ wurde über dessen von Gregorovius’ „Corsica“ (1854) inspirierten korsischen Ölskizzen und Zeichnungen berichtet, die Jonas dem preußischen König Friedrich Wilhelm IV. (1795–1861) im Potsdamer Schloss Sanssouci vorgelegt hatte. Ferner heißt es: „Der Künstler beabsichtigt, eine Anzahl seiner Studien zu einem Album zu vereinigen und lithographirt, und zwar zum Theil in Farben, herauszugeben, welches namentlich alle diejenigen mit Beifall aufnehmen werden, welch durch das anziehende Buch von Gregorovius ein Interesse für das in Rede stehende Land gewonnen haben.“ (Deutsches Kunstblatt. Jg. 7. Nr. 44. 30.10.1856. S. 388, siehe https://digi.ub.uni-heidelberg.de/diglit/dkb1856/0401) – Und im selben Band unter der Rubrik „Briefwechsel“ die Notiz: „Es geht uns die Anfrage zu, ob Herr Jonas, von dessen korsischen Ansichten wir berichtet haben, nicht auch das Volk und seine Sitten durch Zeichnungen in sein Skizzenbuch aufgenommen habe und seinem Album einzuverleiben gedenke? Unter den Blättern, die uns Vorlagen, haben wir dergleichen nicht gesehen, erinnern uns auch, von dem Maler gehört zu haben, daß er die Korsen, namentlich das schöne Geschlecht, sehr schwer habe zum Portraitirenlassen bewegen können. Eine nähere Antwort erbitten wir hierdurch von ihm.“ (ebd., Nr. 45. Berlin 6.11.1856. S. 396).</note></seg>. Sein Unternehmen, namentlich behufs <pb n="2r"/>eines <seg type="comment"><orig>Albums corsischer Gegenden</orig><note xml:id="nxzz_5r4_slb">Im Brief an Cotta vom <ref target="G000051">16.7.1856</ref> hatte Gregorovius die auf Korsika entstandenen, groß- und kleinformatigen Blätter von Rudolf Jonas zum Verlag in einem Album angetragen. Die Publikation kam nicht zustande.</note></seg>, <seg type="comment"><orig>erscheint mir aller Unterstützung wert</orig><note xml:id="nhlg_yr4_slb">Gregorovius hatte auch den Brockhaus-Verlag am <ref target="G000047">5.8.1856</ref> um Unterstützung gebeten.</note></seg>, u<ex>nd</ex> ich will nur wünschen, daß auch sonst durch Verkauf von Ölbildern die Energie dieses Künstlers belohnt werde.</p>
+<closer>
+<salute xml:id="s1" next="#s2">Nochmals Sie all des freudigen Danks versichernd, zeichne ich mich Ihnen, geehrtester Herr, mit der größesten Hochachtung u<ex>nd</ex> Ergebenheit</salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">Ihr</salute>
+<signed rendition="#right"><hi rendition="#aq">Ferdinand Gregorovius</hi>.</signed>
+</closer>
+</div>
+</body>
+    </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000401">
+<teiHeader>
+<fileDesc>
+<titleStmt><title>Ferdinand Gregorovius an Lionardo Vigo in Acireale. Rom, 25. April 1859</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt><editionStmt><edition> <title>Fredinand Gregorovius, gesammelte Briefe</title> </edition></editionStmt><publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free"><licence target="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International (CC BY 4.0) </licence></availability></publicationStmt>
+<sourceDesc>
+<msDesc><msIdentifier><repository/><collection/><idno/></msIdentifier>
+<physDesc>
+<p/>
+<p>Nachricht an Agostino Gallo</p>
+</physDesc>
+</msDesc>
+<listWit>
+<witness>
+<msDesc type="copy"><msIdentifier><institution/><collection/><idno> <idno type="shelfmark"/> </idno></msIdentifier>
+</msDesc>
+</witness>
+<witness>
+<msDesc type="concept"><msIdentifier><institution/><collection/><idno> <idno type="shelfmark"/> </idno></msIdentifier>
+</msDesc>
+</witness>
+<witness><bibl type="print">Vita intima. Lettere inedite di Lionardo Vigo e di alcuni illustri suoi contemporanei. Hrsg. von Giambattista Grassi Bertazzi. Catania: Giannotta 1896. S. 206–207 (Reprint Catania: [s.n.] 1977)</bibl> </witness>
+</listWit>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<abstract>
+<p xml:lang="de">Er dankt für die freundliche Aufnahme von Heinrich Brockhaus in Acireale. Über diesen hat er erfahren, dass Vigo eine Fortsetzung der „Canti popolari siciliani“ (1857) und eine Veröffentlichung seiner Gedichte plant. Er würde sich wünschen, dass der Gedichtband in Leipzig erscheint, doch macht dies die politische Lage wohl unmöglich. Den von Vigo erwähnten Aufsatz über die „Canti popolari siciliani“ will er sich über Francesco Paolo Perez oder Paolo Emiliani-Giudici beschaffen. Gemeinsam mit François Sabatier hat er die Einleitung zu den „Canti popolari siciliani“ gelesen. Sabatier möchte Vigo im Winter auf Sizilien besuchen. Agostino Gallo hat ihm seine „Biografia di Giovanni Meli da Palermo, celebre poeta“ (1857) zukommen lassen. Er legt eine Nachricht an Gallo bei. </p>
+<p xml:lang="en">He thanks him for his kind reception of Heinrich Brockhaus in Acireale. Through him he learned that Vigo is planning to continue the „Canti popolari siciliani“ (1857) and a publish his poems. He would like the poetry collection to be published in Leipzig, but the political situation makes this impossible. He wants to procure the essay on the „Canti popolari siciliani“ mentioned by Vigo through Francesco Paolo Perez or Paolo Emiliani-Giudici. Together with François Sabatier he read the introduction to the „Canti popolari siciliani“. Sabatier would like to visit Vigo in Sicily in winter. Agostino Gallo has sent him his „Biografia di Giovanni Meli da Palermo, celebre poeta“ (1857). He encloses a message to Gallo.</p>
+</abstract>
+<correspDesc>
+<correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1859-04-25" cert="high"/>
+</correspAction>
+<correspAction type="received">
+<persName key="G001682">Vigo, Lionardo (1799–1879)</persName>
+<placeName key="G000609">Acireale</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">31. Dezember 1858 (h: BSB München, NL Gregorovius, Gregoroviusiana 21)</ref>
+</correspContext>
+</correspDesc>
+</profileDesc>
+</teiHeader>
+<text>
+<body><pb n="206"/>
+<div type="writingSession">
+<opener>
+<salute>Chiarissimo Signore,</salute>
+</opener>
+<p><seg type="comment"><orig>La sua graziosa lettera ricevei con sommo piacere</orig><note xml:id="nb1h_zmt_5lb">Gregorovius bezieht sich auf Vigos Brief vom 31. Dezember 1858 (BSB München, NL Gregorovius, Gregoroviusiana 21), der seinem vom <ref target="G000400">14. Dezember 1858</ref> folgte.</note></seg>; erasi una fortissima indisposizione, che mi proibì <seg type="comment"><orig>di scriverle pel mezzo del signor <persName key="G000996">Enrico Brockhaus</persName></orig><note xml:id="nscm_jnt_5lb">In seinem früheren Brief an Vigo hatte Gregorovius um Einführung von Heinrich Brockhaus (1804–1874) in die Gelehrtenkreise von Catania und Palermo gebeten; siehe den Brief von <ref target="G000400">Gregorovius an Lionardo Vigo vom 14.12.1858</ref>. Brockhaus befand sich von Oktober 1857 bis Mai 1859 auf einer längeren Reise, die ihn über Sizilien führte. Gregorovius berichtet in seinem Tagebuch von dessen Rückkehr: „Vor einem Monat kam Heinrich Brockhaus aus dem Orient [vermutl. auf seiner Rückreise über Sizilien nach Rom], ein lebenskräftiger und einfacher Mann“ (RT, 2.4.1859, S. 78).</note></seg>, il quale molto si contentò di averla visto una seconda volta a Aci-reale. Delle sue gentilezze, con cui egli fu ricevuto in casa sua, la ringrazio di cuore, ed io torno a dirle che mi chiamo felice <seg type="comment"><orig>di essere entrato in relazione con uno dei più distinti uomini di quella terra siciliana, che a noi Alemanni sta nel cuore come illustre sorella già dal tempo dei Svevi</orig><note xml:id="nimb_4nt_5lb">Das Adelsgeschlecht der Staufer vom Nordrand der Schwäbischen Alb brachte zwischen dem 11. und dem 13. Jahrhundert mehrere schwäbische Herzöge, römisch-deutsche Könige und Kaiser hervor. Mit König Heinrich IV. (1165–1197) aus dem Geschlecht der Staufer begann ab 1194 die staufische Herrschaft über das Königreich Sizilien.</note></seg>; e che ora piena di commozioni io non (la) passai presso alla tomba di <persName key="G001146"><seg type="comment"><orig>Federico secondo</orig><note xml:id="nj2j_hts_wlb"><p>Der Staufer Friedrich II. (1194–1250) war ab 1198 König von Sizilien und wurde 1251 in der Kathedrale von Palermo beigesetzt. Siehe dazu Gregorovius’ Aufsatz „Fragmente aus Sicilien. 4. Die Kathedrale und andere Kirchen von Palermo“ (Das Ausland. Eine Wochenschrift für Kunde des geistigen und sittlichen Lebens der Völker. Jg. 27. Nr. 27. Stuttgart, Augsburg: Cotta 7.7.1854. S. 628–631: https://www.deutsche-digitale-bibliothek.de/item/IHPLQRVOA7TOPH5T26KRTC5WLOJHLPKH). </p></note></seg></persName>!</p>
+<p>II Brockhaus mi parlò di una continuazione della sua grande <bibl sameAs="G004264">raccolta dei Canti siciliani</bibl>, e ne sono oltremodo contento; egli mi diceva poi che <seg type="comment"><orig>ella prepara un’altra edizione delle proprie <bibl corresp="G004265 G004266">sue poesie</bibl></orig><note xml:id="ndrm_qnt_5lb">Vigo hatte bereits in früheren Jahren eigene Gedichte und Prosa veröffentlicht: Poesie e prose. Palermo 1823; Lirica di Lionardo Vigo. Palermo 1855.</note></seg>. Desidero che questa si potesse stampare a <placeName key="G000712">Lipsia</placeName>; 1’ imbroglio generale però delle cose politiche, cui saranno pure soggette le facciate di stampa, non vi ammette molta speranza.</p>
+<p><seg type="comment"><orig>L’indicatomi <bibl corresp="G004267 G004268">articolo</bibl> sopra la sua collezione</orig><note xml:id="noxb_snt_5lb">Vigo erwähnte in seinem Brief an Gregorovius eine Rezension seiner „Canti popolari siciliani“ (II mondo letterario, I, Nr. 4, 23.1.1858, S. 1–2), sowie einen Aufsatz mit eigenen Erläuterungen dazu (Lo Spettatore. Rassegna letteraria, artistica, scientifica e industriale, Nr. 25, 20.6.1858). </note></seg> non fu visto ancora da me, ed io dispero di poterlo procacciarmelo facilmente; ma <seg type="comment"><orig>voglio indirizzarmi a <persName key="G001481">Francesco Perez</persName>,</orig><note xml:id="nx5p_tnt_5lb">Von dem Exilsizilianer Francesco Paolo Perez (1812–1892) hatte Gregorovius in Florenz Vigos „Canti popolari siciliani“ (1857) erhalten; siehe den Brief von Gregorovius an Vigo vom <ref target="G000400">14.12.1858</ref>.</note></seg> ossia a <seg type="comment"><orig><persName key="G001113">Emiliani Giudici</persName></orig><note xml:id="njpf_vnt_5lb">Der sizilianische Literarhistoriker Paolo Emiliani-Giudici (1812–1872) verfasste als erster eine Literaturgeschichte Italiens: Storia della letteratura italiana. 2 Bde. Florenz: Le Monnier 1855. Siehe hierzu den Brief von Gregorovius an Theodor Heyse vom <ref target="G000027">20.12.1855</ref>.</note></seg>. Più volte qui ebbi il piacere di ragionare del valore e merito delle sue opere nei giornali della mia patria, benchè soltanto di primo cenno.</p>
+<p>Quando io mi sono sbrigato un po’ dei <bibl corresp="G003485">miei studi sopra il Medio-Evo</bibl>, la prima cosa che intrapendo sarà sopra il suo libro. <seg type="comment"><orig>Nella prefazione sua ella ha reso un insigne servigio alla scienza, dilucidando i primi passi della favella italiana, e vieppiù dimostrando la relazione d’intimità che ci entra tra il siciliano e l’idioma volgare di terra ferma italiana</orig><note xml:id="nqth_24t_5lb">Siehe Vigos Einführung zu seinen „Canti popolari siciliani“, S. 3–71: https://books.google.de/books?id=MZMpCQdHUggC&amp;printsec=frontcover&amp;dq=%22canti+popolari+siciliani%22+lionardo+vigo&amp;hl=de&amp;sa=X&amp;ved=0ahUKEwj94e_ykLfjAhUD2aQKHfkeCZYQ6AEIKDAA#v=onepage&amp;q&amp;f=false.</note></seg>. Un mio dottissimo amico francese, <persName key="G001565"><seg type="comment"><orig>Francois Sabatien</orig><note xml:id="nkyj_f4t_5lb">Irrtümlich für François Sabatier (1818–1891), der französische Schriftsteller, bei dem Gregorovius häufig zu Gast in Florenz war. </note></seg></persName>, il quale scrive un’o-<pb n="207"/>pera sui monumenti siciliani, leggeva in compagnia mia questa introduzione sua ed essendo che questo signore s’intende molto di lingue, egli ne ebbe una grande soddisfazione. Probabilmente <seg type="comment"><orig>il Sabatien passerà l’inverno vegnente in <placeName key="G000575">Sicilia</placeName></orig><note xml:id="nkgj_h4t_5lb">Aus zwei Briefen von Gregorovius geht hervor, dass sich die Sabatiers im März 1860 bereits seit einiger Zeit in Palermo aufhielten; siehe die Briefe von Gregorovius an Moritz Hartmann vom <ref target="G000091">13.3.1860</ref> und an Frau Bon vom <ref target="G000104">19.3.1860</ref>.</note></seg>, così che si prenderà l’onore di farle una visita. Se non fossero i miei studi, che mi obbligano a restar fermo a Roma, lo vorrei accompagnare; almeno spero di potere tornare un dì alla Sicilia e di godere qualche giorno rimarcabile in desiderato discorso con lei.</p>
+<p><seg type="comment"><orig>Il <persName key="G001156">signor Gallo</persName> mi scrisse una lettera e mi mandò gentil dono di <bibl sameAs="G004270">poesie Melianee</bibl></orig><note xml:id="nklp_j4t_5lb">Der Sizilianer Agostino Gallo (1790–1872) verfasste eine Biographie über Giovanni Meli (Biografia di Giovanni Meli da Palermo, celebre poeta. Palermo 1857), um die es hier gehen mag. Im Tagebuch vermerkte Gregorovius den Erhalt von Briefen „von Lionardo Vigo und von dem Sizilianer Gallo, dem Schüler Melis.“ (RT 2.4.1859, S. 78). Mit der Dichtung des Sizilianers Giovanni Meli (1740–1815) war Gregorovius auf seiner Sizilienreise im Herbst 1853 über die Ausgabe „Poesie Siciliane dell’Abate Giovanni Meli“ (5 Bde. Palermo 1787) bekannt geworden. Seine Übersetzungen der „Lieder des Giovanni Meli von Palermo“ erschien 1856 (Leipzig). Siehe hierzu den Brief von Gregorovius an Vigo vom <ref target="G000400">14.12.1858</ref>. </note></seg>; se io mi prendo la libertà di acchiudervi una letteruzza per cotesto venerabile coetaneo del celebre <persName key="G001416">Meli</persName>, lo faccio puotendo rimettermi alla di lei cortesia. In qualunque caso io potessi servirla, chiarissimo signore, io sono pronto a ricevere i suoi comandi.</p>
+<p>Dalla sua penna feconda la Sicilia ha da sperare altri lavori ancora, che torneranno in onore della sua gloriosa patria e con questa soddisfazione ella potrà tranquillamente andare incontro <seg type="comment"><orig>a questi tempi burrascosi</orig><note xml:id="nosm_l4t_5lb">Im Sardinischen Krieg 1859 und dem darauffolgenden Anschluss aller italienischen Staaten an das Königreich Sardinien, lehnte das Königreich beider Sizilien unter Franz II. die Angebote, der konstitutionell-liberalen Monarchie Italien friedlich beizutreten, ab. </note></seg>, che stanno a venire e di cui non si sa il risultato.</p>
+<p>Che questo sia favorevole alla causa dell’<placeName key="G000690">Italia</placeName>, del progresso, dell’incivilimento di qualunque provincia di questa terra immortale, che io dopo la mia<placeName key="G000664"> patria</placeName> amo il più fra tutte le nazioni; questo si è il mio desiderio il più vivo, con cui prendo la libertà di salutarla, raccomandandomi alla di lei per me sì onorevole benevolenza.</p>
+<closer>
+<salute rendition="#right">II servitore suo devotissimo </salute>
+<signed rendition="#right"><hi rendition="#aq">Ferdin. Gregorovius</hi><hi rendition="#aq"> </hi></signed>
+<dateline>Roma 25 aprile 1859. <lb/><placeName key="ediarum_tcc_4nv_slb">Via della Purificazione</placeName> N<ex>umero</ex> 63.</dateline>
+</closer>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000394">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Maria Teresa Serego Alighieri Gozzadini in Bologna. Rom, 31. Januar 1857</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"><bibl type="print">Giovanni Gozzadini: Maria Teresa di Serego-Allighieri Gozzadini. Bologna: E. Fava e Garagnani 1882. S. 305–306 (gekürzt)</bibl> </witness>
+<witness> <bibl type="print">Giovanni Gozzadini: Maria Teresa di Serego-Allighieri Gozzadini. Seconda edizione ampliata con prefazione di Giosuè Carducci. Bologna: Nicola Zanichelli 1884. S. 445–446 (nach D1)</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er bedankt sich für die Unterstützung der Gozzadinis und beklagt den Ordenseintritt ihres Vetters Paolo Perez. Er berichtet vom Bearbeitungsstand des ersten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1859).</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He thanks the Gozzadinis for their support and laments the entry of their cousin Paolo Perez into the monastry. He reports on the status of the first volume in his „Geschichte der Stadt Rom im Mittelalter“ (1859).</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1857-01-31" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001092">di Serego Alighieri Gozzadini, Maria Teresa (1812–1881)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="305"/>
+<div type="writingSession">
+<opener>
+<salute>Nobilissima Signora Contessa</salute>
+<dateline rendition="#right">Roma 31 Gennaio 1857.</dateline>
+</opener>
+</div>
+<div type="writingSession">
+<p>Qualche settimana è passata da che ebbi l’onore di ricevere l’ultima sua benevola lettera, e finora non ho potuto nè rendere i miei ringraziamenti nè comunicarle delle nuove intorno agli affari del <persName key="G001483"><seg type="comment"><orig>Conte Perez</orig><note xml:id="nktr_ttb_tlb">Graf Paolo Perez (1822–1879) war ein Vetter der Contessa und ein enger Freund von Gregorovius.</note></seg></persName> <del rendition="#s"><gap reason="illegible" quantity="1" unit="words"/></del></p>
+<p>Non posso esprimerle abbastanza l’intima gioja destatami dallo spirito di benevolenza, che si manifesta nella di lei lettera; e quanto <seg type="comment"><orig>io piango i fatti dell’amico mio</orig><note xml:id="nbhb_wtb_tlb">Gegen die Bedenken von Gregorovius und der Gräfin war Perez 1856 in den Orden der Rosminianer in Stresa eingetreten.</note></seg>, altrettanto mi consola il pensiero che per mezzo di lui mi è venuta la fortuna di trovare nella di lei casa, per così dire, <seg type="comment"><orig>un appoggio morale e intellettuale</orig><note xml:id="ncrz_g5b_tlb">Für seine Forschungen durfte Gregorovius das historische Archiv der Gozzadinis nutzen (siehe RT, 21.9.1863, S. 169). </note></seg>. Quel suo motto d’impresa <foreign xml:lang="Lat"><hi rendition="#aq"><seg type="comment"><orig>Fac et spera</orig><note xml:id="ntgs_h5b_tlb">Lat.: Tue und hoffe.</note></seg></hi></foreign>, dunque lo presi dal sigillo qual mio stimolo morale, e ravvivato dalla conoscenza che pur in <placeName key="G000690">Italia</placeName> abbiavi chi favorevolmente assenta agli amici slavi, con raddoppiato passo mi sono avanzato nella <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">storia del <pb n="306"/>medio evo di Roma</bibl>, di cui ho trattato già i fatti fino alla venuta di <persName key="G000963"><seg type="comment"><orig>Belisario</orig><note xml:id="nlhn_j5b_tlb">Belisar (um 505–565) war ein oströmischer General und Feldherr des Kaisers Justinian. Nachdem er zunächst militärisch erfolgreich war, verlor er nach 540 zunehmend das Vertrauen Justinians und wurde schließlich nach Konstantinopel zurückgerufen. Nachdem er 536 Neapel belagert, erobert und ausgeplündert hatte, fiel er in Rom ein, welches sich nach kurzer Belagerung ergab. Siehe dazu: Geschichte der Stadt Rom im Mittelalter. Leipzig: Cotta 1859. Bd. 1, S. 342–433.</note></seg></persName>.</p>
+<p>Mi è cosa grata e soave di terminare questa lettera con gli atti i più sinceri di riverenza verso di Lei e del <persName key="G001187">sig. Conte</persName>, e con la caldissima preghiera di mantenermi il prezioso dono della sua benevolenza.</p>
+<closer>
+<salute rendition="#right">suo devotissimo servitore</salute>
+<signed rendition="#right">Ferdinando Gregorovius.</signed>
+</closer>
+</div>
+</body>
+    </text>
+</TEI>

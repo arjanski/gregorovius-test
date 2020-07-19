@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000440">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. Rom, 5. Oktober 1868 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Adr.: Illustrissimo Signor Conte / Giovanni Gozzadini / Bologna</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell’Archiginnasio</institution><collection>Ms. Gozzadini 442</collection><idno>(6)</idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Über seine Rückreise aus Deutschland. Seine schwache Gesundheit hat die Arbeit an seiner „Geschichte der Stadt Rom im Mittelalter“ unterbrochen und einen Besuch bei Gozzadini in Ronzano verhindert. Die zweite Auflage der ersten beiden Bände des Werks (1869) ist eben erschienen. Er dankt für Gozzadinis jüngste Publikation („Studii archeologico-topografici sulla citta di Bologna“, 1868). Karl Witte hat ihn besucht. Die noch fehlenden Bände der „Storia documentata di Carlo 5. in correlazione all’Italia“ (1863–1894) von Giuseppe De Leva benötigt er nicht. Über Paolo Perez. Er begrüßt den Aufstand in Spanien, der zur Thronenthebung von Königin Isabella II. geführt hat. Die Monarchin ist auf der Flucht und wird in Rom erwartet.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1868-10-05" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni (1810–1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+            <div type="writingSession">
+                <opener>
+<dateline rendition="#right">Roma 5. Ottobre 1868.</dateline>
+<salute rendition="#c">Gentilissimo Signor Conte,</salute>
+</opener>
+<p>Lei vede dalla data di questa mia <supplied cert="high">lettera</supplied>, ch’<seg type="comment"><orig>io già sono di ritorno a Roma</orig><note xml:id="nlk1_klr_ylb">Gregorovius hatte den Sommer mit Archivarbeiten in verschiedenen mittel- und norditalienischen Städten sowie einem Aufenthalt in München und Bad Schachen bei Lindau am Bodensee verbracht. Am 26. September hatte er sich von München aus auf den Rückweg nach Rom gemacht, wo er am 29. September eintraf (siehe RT, S. 247–253).</note></seg>. </p>
+<p>Con molto dispiacere, sospirando e dolcemente ricordandomi dell’anno scorso, passai per Bologna, <seg type="comment"><orig>senza fermarmivi, e davanti <placeName key="G000822">Ronzano</placeName></orig><note xml:id="nof1_mlr_ylb">In Ronzano bei Bologna besaßen die Gozzadinis seit 1848 eine Villa, in der sie einen von illustren, gebildeten Persönlichkeiten frequentierten Salon unterhielten. Auch Gregorovius verkehrte dort regelmäßig, so wie im September 1867; siehe den Brief von Gregorovius an Maria Teresa Serego Alighieri Gozzadini vom 9.10.1867. Nach dem Tod von Gozzadinis Ehefrau, der Gräfin Maria Teresa Serego Alighieri Gozzadini (1812–1881), widmete Gregorovius dem Salon einen Essay: Die Villa Ronzano. Ein Musensitz der Gozzadini von Bologna (ED in: Nord und Süd. Eine deutsche Monatsschrift. Bd. 23. Breslau, Berlin: Schottlaender 1882. S. 312–321 – aufgenommen in: KS Bd. 3, S. 97–120).</note></seg>, <seg type="comment"><orig>onde raggiungere la via di <placeName key="G000703">Ancona</placeName></orig><note xml:id="nyrt_nlr_ylb">Gregorovius hatte geplant bei seiner Rückreise aus Deutschland von Verona kommend die Freunde in Bologna zu besuchen. Dort hielt er aber nur, „weil […] Bergwasser die Eisenbahn bei Porretta zerstört hatte, fuhr […] weiter über Ancona.“ (RT, 5.10.1868, S. 253).</note></seg> li 28. del mese passato. </p>
+<p>La causa di questa fuga non era soltanto il ritardo del mio ritorno, ma principalmente l’alterato stato della mia salute; ogni strapazzo – e <seg type="comment"><orig>la fatica del salire su per Ronzano non è poca</orig><note xml:id="nzgd_plr_ylb">„Ronzano liegt schön auf einer Höhe, gegenüber dem prächtigen Tempel S. Luca. Die ganze Emilia und Romagna sind hier zu Füßen ausgebreitet mit hundert Orten, Gütern und Städten, bis zum Adriatischen Meer. Bei klarer Luft ist der Turm S. Marco von Venedig sichtbar, so auch der Dom Ravennas; Parma, Modena zeigen sich.“ (RT, 21.9.1867, S. 233).</note></seg> – devo evitare, poiché soffrii una malattia nervosa di testa, simile a quella di chi è colpito dal sole. Appena lasciata <placeName key="G000894">Venezia</placeName> <seg type="comment"><orig>incominciarono i miei mali </orig><note xml:id="nz3z_qlr_ylb">Die Hitze und die Arbeiten im Archiv in Venedig hatten ihm stark zugesetzt, so dass er seinen Sommersitz in Schachen am Bodensee wählte, um sich dort vom 27. August bis zum 23. September auszuruhen (siehe RT, S. 252–253).</note></seg>a <placeName key="G000734">Monaco</placeName>, dove dovetti interrompere gli studi ben presto. Mi riposai più settimane nell’amena solitudine di <placeName key="G000714">Lindau</placeName> sul <placeName key="G000856">lago di Costanza</placeName>, di modo che oramai sono tornato nella speranza di poter terminare <pb n="2"/>la <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">storia di Roma</bibl>, la quale in questo tempo appunto <seg type="comment"><orig>comparisce in <bibl corresp="G003477 G003489">una nuova e quasi splendida (materialmente parlando) edizione</bibl></orig><note xml:id="noqn_slr_ylb">Gregorovius überarbeitete seine Bücher sehr sorgfältig, legte besonderen Wert darauf, neue Forschungen und mehr Material hinzuzufügen, weshalb er sie auch ausdrücklich als „durchgearbeitete“ Auflagen bezeichnete. Die aktualisierten Auflagen des ersten und zweiten Bandes der „Geschichte der Stadt Rom im Mittelalter“ (Stuttgart: Cotta) erschienen 1869.</note></seg>. Ma tanto mi sento stancato, che non ho potuto vincere ancora la fastidiosa avversione di metter mano ai lavori.</p>
+<p>Trovai qui l’ultimo <bibl sameAs="G004261">suo scritto su Bologna</bibl>, impostato come vedo il 13. Luglio, giorno della mia partenza – La ringrazio di cuore, pregiatissimo Signor Conte; vedo con piacere che la sua opera mi fornirà importanti notizie pel medio evo.</p>
+<p><seg type="comment"><orig>Venne trovarmi avanti ieri il celebre <persName key="G001713">Witte</persName>, editore, traduttore del <persName key="G000916">Dante</persName></orig><note xml:id="no4c_wlr_ylb">Der in Halle und Breslau lehrende Jurist und berühmte Dante-Forscher Karl Witte (1800–1883) hatte 1864 die erste kritische Ausgabe der „Divina Commedia“ herausgegeben: La Divina Commedia di Dante Allighieri. Secondo la lezione di Carlo Witte. Prima edizione italiana adorna di cento incisioni antiche, Mailand: C. Daelli 1864, 3 Bde. Gregorovius hatte in seinem Namen bei Luigi Tosti (1811–1897) um Abgleich eines Cantos aus der Commedia mit einer Handschrift im Archiv von Montecassino gebeten; siehe die Briefe von Gregorovius an Luigi Tosti vom 26.3.1860 und 4.5.1860. Obwohl Witte bereits zuvor in Italien gewesen war, lernte Gregorovius ihn erst im Oktober 1868 kennen (siehe RT, 5.10.1868, S. 253). </note></seg>, e avanti tutto il vero sacerdote del culto di questo divino poeta in <placeName key="G000664">Germania</placeName>; nei tempi d’addietro fanciullo meraviglioso,<seg type="comment"><orig><foreign xml:lang="Lat"> nunc senex miraculosus</foreign></orig><note xml:id="nd5g_xlr_ylb">Lat. für, sinngemäß: nun ein bewundernswürdiger Greis.</note></seg>, di più di 70. anni ed ancora pieno di vivacità giovanile. </p>
+<p>Il <seg type="comment"><orig>nostro <persName key="G001483">Perez</persName></orig><note xml:id="nbtk_ylr_ylb">Der eng mit ihm befreundete Dante-Forscher Graf Paolo Perez (1822–1879), Cousin der Gräfin Gozzadini, war 1856, trotz der Bedenken von Gregorovius und der Gräfin, in den Orden der Rosminianer in Stresa eingetreten.</note></seg> mi scrisse una lettera dal suo eremo, fortemente contento delle sue cose.</p>
+<p>Non si dia alcuna molestia per causa della <bibl sameAs="G004283">continuazione della storia di Leva</bibl>, <seg type="comment"><orig>poichè i primi volumi sono appunto quelli, che mi servivano</orig><note xml:id="ns3f_bmr_ylb">In früheren Briefen hatte Gregorovius mehrfach thematisiert, dass er Gozzadini um Beschaffung eines anderen, thematisch übereinstimmenden Aufsatzes von de Leva (Il saccheggio di Roma del 1527, saggio critico sulla storia di Carlo V. per le nozze Salvadego-Plattis, Padua 1857) gebeten hatte; siehe die Briefe von Gregorovius an Giovanni Gozzadini vom 12.5.1867, 7.7.1867, 21.4.1868 und 28.7.1868.</note></seg>; gli altri non mi premono punto, e avrò col tempo <pb n="3"/>occasione di completare quello che vi manca.</p>
+<p>Spero, che Ella, gentilissimo signor Conte, abbia passato bene l’estate su quelle graziose alture di Ronzano, di dove il mondo si mira come cosa astronomicamente bassa. E così si devono mirare tutte le cose della vita, direbbe Paolo, e diciamo forse anche noi altri senza alcuna misantropia.</p>
+<p>Io La riverisco di tutto cuore, professandomi per sempre</p>
+                <closer>
+                    <salute rendition="#right">lor verace servitore</salute>
+                    <signed rendition="#right">F. Gregorovius<note type="postscript">Sono pieno di speranze per causa della <placeName key="G000874">Spagna</placeName>, l’ultima delle nazioni latine, che finalmente, <seg type="comment"><orig>anch’essa entrò nel processo del moderno risorgimento di civiltà umanitaria – nazionale</orig><note xml:id="nmrj_dmr_ylb">Gregorovius bezieht sich auf die spanische Septemberrevolution 1868, die zum Sturz von Königin Isabella II. María Luisa (1830–1904) führte. Demokraten und Revolutionären war es trotz unterschiedlicher Zielvorstellungen gelungen, die Herrschaft der Monarchin zu beenden und Einfluss auf die Politik Spaniens zu nehmen. </note></seg> – <seg type="comment"><orig>Deve arrivare qui la <persName key="G001063">Sultana</persName></orig><note xml:id="nwxt_2mr_ylb">Metapher für die spanische Königin, die nach der Erhebung ihrer Untertanen nach Frankreich floh. </note></seg>,<seg type="comment"><orig> <foreign xml:lang="Lat">petens Romam, refugium peccatorum</foreign> </orig><note xml:id="njzd_gmr_ylb">Lat. für: nach Rom strebend, der Zufluchtsstätte der Sünder.</note></seg></note></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

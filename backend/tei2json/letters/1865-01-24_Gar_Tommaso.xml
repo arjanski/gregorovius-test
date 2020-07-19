@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000275">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Tommaso Gar in Neapel. Rom, 24. Januar 1865</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"> <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Biblioteca Comunale di Trento</repository>
+                        <idno>
+                            <idno>busta BCT1–2257/52</idno>
+                        </idno>
+                    </msIdentifier>
+                    <physDesc>
+<p>1 Dbl., 8°, 2 ½ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Gars Brief hat er durch Francesco Ambrosi erhalten, der ihm von dessen bibliothekswissenschaftlichen Vorlesungen an der Universität Neapel berichtete. Gregorovius dankt für die beiliegenden Zigarren; in Rom besucht er Hauskonzerte bei Auguste Lindemann-Frommel. Gar soll sich in Neapel nach dem am Fuß verletzten Alfred Boretius erkundigen, gegebenenfalls über Albert Detken. Grüße an Madeleine Creutzer. François Sabatier wird die kürzlich begonnenen Studien zu Sizilien wohl nicht fortführen. Giuseppe Fiorelli soll einen Pompeij-Besuch für die Fürstin Anna Feodora zu Hohenlohe-Langenburg organisieren. Gregorovius übermittelt Grüße von Georg Martin Thomas.</p>
+                <p xml:lang="en">He received Gar’s letter through Francesco Ambrosi who told him about his lectures on library science at the University of Naples. Gregorovius thanks him for the enclosed cigars; in Rome he attends house concerts with Auguste Lindemann-Frommel. In Naples, Gar should, perhaps through Albert Detken, inquire about Alfred Boretius, who hurt his foot He asks him to give his regards to Madeleine Creutzer. François Sabatier is unlikely to continue the studies on Sicily he recently began. Giuseppe Fiorelli is to organize a visit to Pompeij for Princess Anna Feodora of Hohenlohe-Langenburg. Gregorovius sends greetings from Georg Martin Thomas. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName>
+                    <date when="1865-01-24" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001158">Gar, Tommaso (1808–1871)</persName>
+<placeName key="G000737">Neapel</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Roma, 24. Jennaro 65.</dateline>
+                    <salute rendition="#c">Carissimo amico Gar,</salute>
+                </opener>
+<p>il <seg type="comment"><orig><persName key="G000925">Dr. Ambrosi</persName> di <placeName key="G000889">Trento</placeName></orig><note xml:id="ntgl_jpl_ylb">Vermutlich der aus dem Trentino stammende und zu diesem Zeitpunkt dort ansässige Francesco Ambrosi (1821–1897), Bibliothekar und Naturwissenschaftler, der ab 1864 die Nachfolge Tommaso Gars (1808–1871) als Direktor der städtischen Bibliothek (Biblioteca Civica) in Trient und des angeschlossenen Museums für Antike und Naturgeschichte antrat.</note></seg> mi a portato la vostra cara lettera, non che 50 zigari ve ne rendo sinceramente mille grazie. Il giornaliero consumar dei zigari mi rivocherà gli giorni di Napoli, che ben presto, come la vita intera, sono passati a modo del fumo. L’Ambrosi parmi un giovane colto e disinvolto; pur troppo le mie occupazioni sono tali e tante, ch’ io non avrò altro per lui fuorchè qualche visita. Egli mi rassicura del vostro ben essere, e della nuovamente intrapresa lezione che fate intorno a quegli <seg type="comment"><orig>studi di bibliografia</orig><note xml:id="nkv3_kpl_ylb">Die buch- bzw. bibliothekswissenschaftlichen Vorlesungen Gars an der Universität Neapel erschienen später auch im Druck (vgl. Tommaso Gar: Letture di bibliologia fatte nella regia università degli studi in Napoli durante il primo semestre del 1865. Turin: Unione tipograficoeditrice 1868).</note></seg>. Dite alla <persName key="G001056">Baronessa</persName>, cui vorrei esser racommandato caldamente, che molte volte il suo nome vien ricordato presso i <persName key="G001374"> <persName key="G001375">Lindemann</persName> </persName>, e che noi tutti quanti desideriamo, di rividerla un’altra volta e con buono agio. La casa Lindemann per piaceri sociali di finissimo gusto a preso intanto un bello sviluppo – avvì delle <foreign xml:lang="fra">soirées musicales</foreign> – ogni settimana, e delle coltissime adunanse – di forestieri: Cosi potete credere, che meniamo una vita qualche <pb n="1v"/>volta lieta anzichenò – per me c’è ne quasi troppo, siccome ho dovuto cedere al mondo ed alle di lui esigenze, e ridereste dicerto vedendomi assistere a grandi balli. Spero però che questo trambusto passera almeno dopo un mese.</p>
+<p>Uno de’ miei amici, il <seg type="comment"><orig><persName key="G000980">Dr. Boretius</persName> di <placeName key="G000636">Berlino</placeName></orig><note xml:id="nrqx_lpl_ylb">Vermutlich ist der Jurist Alfred Boretius (1836–1900) gemeint, der seit 1860 bei der Monumenta Germaniae Historica mitwirkte und ab 1868 eine Professur in Zürich innehatte. Von 1878 bis 1881 war er nationalliberaler Reichstagsabgeordneter. Von einem Kennenlernen mit „Boretius, Professor des Rechts“, berichtet Gregorovius in seinem Tagebuch (siehe RT, 21.8.1869, S. 261).</note></seg>, essendo partito per Napoli, <choice><sic>or</sic><corr type="deleted"/></choice> ora forse 3 settimane fa, ebbe, cosi sentii dire, la disgrazia di slogarsi il piede – credo, che stia male al <orgName key="G000500">Hôtel Washington</orgName> – se non vi dasse troppo incommodo, di dimandar vi delle sue nuove, o forse di visatarlo in persona e di dirgli, ch’ io sia bramoso di saper dello stato suo, mi rendereste, caro Gar, un vero servizio. Potrebbe darsi, che anche <persName key="G001089">Detken</persName> ne abbia cognoscienza.</p>
+<p>Vi mandai con saluti a voce il chiaro <seg type="comment"><orig>Professor <persName key="G001646">Thomas</persName></orig><note xml:id="nspy_mpl_ylb">Georg Martin Thomas (1817–1887) war Historiker sowie promovierter und habilitierter Philologe. Er lehrte zu Beginn seiner wissenschaftlichen Laufbahn am königlichen Cadettencorps in München Geschichte, Deutsch und Latein (1842–1856), später war er langjähriger Mitarbeiter der königlichen Hof- und Staatsbibliothek in München (1863–1877). Seine Studien galten der lateinischen Dichtung und Historie Italiens, insbesondere Venedigs. Nach dem Eintrag vom 15.1.1865 im Römischen Tagebuch lernte er Gregorovius im Januar 1865 kennen: „Es kam hieher [sic] Professor Thomas aus München, bekannt durch seine venezianischen Forschungen, ein liebenswürdiger und belebter Mensch“ (S. 192).</note></seg>, conosciuto anche in <placeName key="G000690">Italia </placeName>per i suoi <seg type="comment"><orig>studi veneti</orig><note xml:id="ne2x_npl_ylb">Als Meilenstein der Venedig-Forschung gilt die von Georg Martin Thomas (1817–1887) zusammen mit Gottlieb Lukas Friedrich Tafel (1787–1860) erarbeitete Edition venezianischer Urkunden aus dem Mittelalter, die er nach Tafels Tod alleine fortführte. Vgl. G. M. Thomas, G. Tafel: Urkunden zur älteren Handels- und Staatsgeschichte der Republik Venedig: mit besonderer Beziehung auf Byzanz und die Levante; vom 9. bis zum Ausgang des 15. Jahrhunderts. 3 Bde. (Fontes Rerum Austriacarum, 2. Abt.) Wien: Historische Kommission der kaiserlichen Akademie der Wissenschaften, 1856–1857; G M. Thomas: Diplomatarium Veneto-Levantium sive Acta et Diplomata Res Venetas Grecas atque Levantis illustrantia. 2 Bde. (Monumenti Storici, Serie I°, Documenti V.) Deputazione Veneta di Storia Patria, 1880. </note></seg>.</p>
+<p>Ebbi lettere da <placeName key="G000671">Firenze</placeName>, dove stanno bene. Il <seg type="comment"><orig><persName key="G001565">Sabatier</persName></orig><note xml:id="ngyv_ppl_ylb">Der französische Schriftsteller François Sabatier (1818–1891) hatte 1840 die österreichische Sängerin Caroline Ungher geheiratet (1803–1877). Gregorovius war dem Ehepaar eng verbunden und mehrfach Gast in deren Florentiner Salon. Sabatier übersetzte die zweite Auflage von Gregorovius’ „Grabmälern der Römischen Päpste“ ins Französische; vgl. Sabatier, François: Les tombeaux des Papes Romains. Traduit par François Sabatier. Précédé d’une introduction de M. Jean-Jaques Ampère de Académie francaise. Paris: Michel Lévy frères 1859. 311 S.</note></seg> si e messo allo <unclear reason="illegible" cert="high">scrivere</unclear> le cose della <placeName key="G000575">Sicilia</placeName> – ma ne dubito forte, che non gli salti intanto un’altra idea per la testa, tanto attraente da farlo dismettere quella sua buona impresa.</p>
+<p>Molti saluti a tutti gli amici di Napoli; se vedete <persName key="G001019">Capasso</persName>, ditegli <pb n="2r"/>ch’io non abbia mancato alla mia promessa mandandogli per posta il mio ritratto fotografico.</p>
+<p>Dopo qualche settimana io mi permetterò di racommandare alla gentilezza dell’<seg type="comment"><orig>illustre <persName key="G001131">Fiorelli</persName></orig><note xml:id="nudz_rpl_ylb">Giuseppe Fiorelli (1823–1896) war ein Archäologe und Numismatiker, 1860–1863 Professor für Archäologie an der Universität Neapel und langjähriger Direktor der Ausgrabungen in Pompeji und Herkulaneum, wo er eine systematische und dokumentierende Methode der Grabungen durchsetzte. Außerdem gab er die Ausgrabungen für die breite Öffentlichkeit zur Besichtigung frei. Im August 1864 besuchte Gregorovius mit ihm zusammen die Ausgrabungsstätten in Pompeji (siehe RT, 15.8.1864, S. 182).</note></seg> una nobilissima signora, la <seg type="comment"><orig><persName key="G001291">Duchessa Hohenlohe</persName></orig><note xml:id="nzkj_tpl_ylb">Fürstin Anna Feodora zu Hohenlohe-Langenburg (1807–1872), geb. Prinzessin Feodora zu Leiningen, war die Halbschwester der britischen Königin Victoria (1819–1901). Die Fürstin war von Oktober 1864 bis Februar 1865 in Rom (siehe RT, 11.12.1864, S. 189; S. 490 Anm. 51). </note></seg>, suocera del <seg type="comment"><orig><persName key="G001148">duca ereditario d’Augustenburg</persName></orig><note xml:id="nk24_5pl_ylb">Herzog Friedrich VIII. von Schleswig-Holstein-Sonderburg-Augustenburg (1829–1880), der 1856 die Tochter von Anna Feodora zu Hohenlohe-Langenburg, Prinzessin Adelheid zu Hohenlohe-Langenburg (1835–1900), ehelichte. Er war der älteste Sohn von Herzog Christian August von Schleswig-Holstein-Sonderburg-Augustenburg (1796–1869). </note></seg>, e sorellastra della <persName key="G001684">regina d’Inghilterra</persName>, desiderando, che le sia cortese una volta a <placeName key="G000755">Pompeji</placeName>. Questa Signora è la piu amabile donna, che si possa truovare in quelle alte sfere.</p>
+                <closer>
+                    <salute>Vi abbraccio, caro amico, fraternamente, e cosi <seg type="comment"><orig><foreign xml:lang="Lat">valete et favete</foreign></orig><note xml:id="nm14_vpl_ylb">Lat. für: Lebt wohl und seid gewogen.</note></seg> amico vostro</salute> <signed rendition="#c">Gregorovius.</signed> </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067727">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. Rom, 18. April 1873 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Adr.: All’Illustre Signore / il signor Conte Giovanni Gozzadini / Senatore del Regno / Bologna</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell’Archiginnasio</institution><collection>Ms. Gozzadini 442</collection><idno>(14)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er war über Ostern in Terracina und hat das Kap der Circe besucht. Er dankt für die Ernennung zum korrespondierenden Mitglied der Deputazione di Storia Patria per le Romagne. Für die zweite Auflage des achten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1874) bittet er um die Zusendung von Gozzadinis „Memorie per la vita di Giovanni II. Bentivoglio“ (1839). Grüße an Maria Teresa Serego Alighieri Gozzadini.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1873-04-18" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni conte (1810–1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+<div type="writingSession">
+<opener>
+<dateline rendition="#right">Roma, Aprile 18. 1873.</dateline>
+<salute rendition="#c">Illustre Signor Conte,</salute>
+</opener>
+<p>ritornai jeri sera da <seg type="comment"><orig>un viaggio a <placeName key="G000883">Terracina</placeName> e al <placeName key="G004670">Capo Circeo</placeName>, che con sommo mio diletto ho potuto visitare</orig><note xml:id="nzc5_xwz_ylb">In der ca. 100 Kilometer südöstlich von Rom gelegenen Hafenstadt Terracina hatte Gregorovius die Ostertage verbracht. Von dort besichtigte er das berühmte Kap der Circe (siehe RT, 28.7.1873, S. 331). Diesem widmet er einen eigenen Aufsatz: Das Cap der Circe. In: Beilage zu Nr. 168 der AZ. Augsburg: Cotta 17.6.1873. S. 2569f: https://opacplus.bsb-muenchen.de/title/3258997; wieder abgedruckt in der vierten Auflage des ersten Bandes der „Wanderjahre in Italien“ (Leipzig: Brockhaus 1874).</note></seg>: or questa mia assenza da Roma causò il ritardo della mia risposta alla sua graziosa lettera del 13. dalla quale appresi l’insigne onore contribuito alla mia mediocrità dalla parte dell’illustre <orgName key="G004665">Deputazione di Storia Patria per le Romagne</orgName>. Ne vado altiero e allegro oltre ogni dire. Aspetterò <seg type="comment"><orig>la mia nomina per iscritto ufficiale</orig><note xml:id="npws_zwz_ylb">Am 24. April 1873 erfolgte seine Ernennung zum korrespondierenden Mitglied durch die Deputation (BSB München, NL Gregorovius, Gregoroviusiana 19).</note></seg>, onde, avuta quella, ringraziare gli insigni membri che compongono la Deputazione. </p>
+<p>Ma prima che io corrisponda a questo grato dovere, mi affretto di esprimere a <ex>Vostra</ex> S<ex>ignoria</ex> Ill<ex>ustrissi</ex>ma la mia sincera e più viva gratitudine. Chè per ver dire quel grande onore del quale mi reputarono degno uomini tanto distinti, acquista agli occhi miei un valore ancora più grande, poichè <pb n="2"/>egli mi viene tramandato dalla propria benevolenza di <seg type="comment"><orig>un illustre patriota italiana, quale è Lei, signor Conte</orig><note xml:id="nxh5_cxz_ylb">Seit 1860 war Gozzadini der erste Präsident der in diesem Jahr neu gegründeten Deputazione di Storia Patria per le Province di Romagna, die ihren Sitz bis heute in Bologna hat.</note></seg>. Mi creda, che ne sento nell’animo mio tutta quanta la generosità dell’atto suo gentile.</p>
+<p>Nei giorni passati cercai quà in Roma inutilmente il <bibl sameAs="G004768">suo libro sulla vita di Giovanni Bentivoglio</bibl>; che nessuna delle biblioteche Romane ne possiede una copia. <seg type="comment"><orig>Ne avrei bisogno per poco tempo</orig><note xml:id="nsxb_fxz_ylb">Gozzadinis Arbeit über den aus Bologna stammenden Adligen Giovanni II. Bentivoglio (1443–1508) benötigte Gregorovius für die aktualisierte Neuauflage des achten und letzten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“, die 1874 erscheinen sollte; siehe den Brief von Gregorovius an Giovanni Gozzadini vom 28.4.1873.</note></seg>, per cui mi prendo la libertà di pregarla di voler farmi venire a Roma questo suo lavoro, se mai ciò fosse possibile senza arrecarle di troppo incomodo. </p>
+<p>Ringrazio la <persName key="G001092">Signora Contessa</persName> della benevola memoria che conserva di me, e così facendo voti del Loro ottimo stato di salute mi pregio chiamarmi</p>
+<p rendition="#right">di V<hi rendition="#sup"><hi rendition="#u" hand=""><ex>ostr</ex>e</hi></hi> Signorie Ill<hi rendition="#sup"><hi rendition="#u" hand=""><ex>ustrissi</ex>me</hi></hi></p>
+<closer>
+<salute rendition="#right"> servitor devoto</salute>
+<signed rendition="#right">F. Gregorovius </signed>
+</closer>
+</div>
+</body>
+    </text>
+</TEI>

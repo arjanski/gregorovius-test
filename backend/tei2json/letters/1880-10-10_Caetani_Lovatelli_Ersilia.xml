@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_qtn_qv5_slb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Contessa Ersilia Caetani Lovatelli in Rom. München, 10. Oktober 1880</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free">
+                <licence target="http://creativecommons.org/licenses/by/4.0/">
+                    Creative Commons Attribution 4.0 International (CC BY 4.0)
+                </licence>
+            </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno>Karton 59, Mappe 348 (nach D)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"><bibl type="print">Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli. Hrsg. von Sigmund Münz. Berlin: Paetel 1896. S. 98–99 (unvollständig)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er wird im Februar 1881 nach Rom reisen, Karl Lindemann-Frommel und Wolfgang Erhardt hat er in München getroffen. Der Marchese Francesco Nobili-Vitelleschi hat sich verlobt. Die Abhandlungen „Korfu. Eine Studie“ für die Zeitschrift „Unsere Zeit“ (Bd. 2, 1880) und „Mirabilien der Stadt Athen“ (1881) sind fertiggestellt.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1880-10-10" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001011">Caetani Lovatelli, Ersilia contessa (1840-1925)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="98"/>
+            <div type="writingSession">
+                <opener>
+<dateline rendition="#right">München, 10. Oktober 1880.</dateline>
+</opener>
+<p>Halten Sie dies für eine Schwalbe oder sonst einen andern Zugvogel, der in der Richtung des schönen <placeName key="G000690">Italien</placeName> fliegt und vor Ihnen erscheint, um Ihnen meine Verehrung auszudrücken und meine Grüße zu bringen. Der Winter naht heran, und darum erwacht auch in mir der Wunsch, <seg type="comment"><orig>nach Italien zurückzukehren; aber dies wird mir nicht vor dem kommenden Februar vergönnt sein</orig><note xml:id="nnrr_jpt_5lb">Erst Anfang Februar 1881 begab er sich erneut nach Italien und traf nach mehreren Zwischenhalten in verschiedenen nord- und mittelitalienischen Städten am 20. Februar in Rom ein (siehe RT, Romfahrt 1881 und Rückkehr nach München, S. 422).</note></seg>. </p>
+<p>Ihren lieben Brief bekam ich, <seg type="comment"><orig>während ich mich noch in der sehr angenehmen Einsamkeit von <placeName key="G000888">Traunstein</placeName> befand</orig><note xml:id="nfrc_tpt_5lb">Gregorovius hatte, wie häufig auch in den Jahren zuvor, den Sommer in Traunstein verbracht (siehe RT, Romfahrt und Griechische Reise 1880, S. 420).</note></seg>. Ich erfuhr daraus die ebenso bedeutende wie unerwartete Thatsache, daß <seg type="comment"><orig>unser gemeinsamer Freund <persName key="G001450">Vitelleschi</persName></orig><note xml:id="nypq_vpt_5lb">Der seit 1871 als römischer Senator tätige Marchese, der die Kostenübernahme für die Vollendung der italienischen Übersetzung von Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ durch den römischen Gemeinderat angestoßen hatte (siehe den Brief von Gregorovius an Pietro Venturi vom 17.8.1872), heiratete Amy Cochrane-Wishart-Baillie (1853–1913); die Ehe blieb kinderlos.</note></seg> sich vermählt hat. Wenn Sie ihm je begegnen, so würden Sie mir <pb n="99"/>einen großen Gefallen erweisen, wollten Sie ihm ausdrücken, wie sehr mich diese Nachricht gefreut hat und welch innigen Antheil ich an seinem Glücke nehme. Betreffs aller anderen Ereignisse, die sich in Rom zugetragen, bin ich ohne Mittheilung. Doctor <persName key="G001116">Erhardt</persName> und <persName key="G001375">Lindemann</persName> sind die einzigen römischen Freunde, mit denen ich in München zusammentraf.</p>
+<p>Ich nehme an, daß Sie nun mit <seg type="comment"><orig>Ihrer Familie</orig><note xml:id="nbrl_ypt_5lb">Mit ihrem Ehemann, Giacomo Colombo Lovatelli (1832–1879), hatte Ersilia fünf Kinder bekommen: Callista (1860), Rosalia Gabriella (1872), Filippo (1874), Giovanni (1859) und Witoldo (1869).</note></seg> aus <placeName key="G004684"><seg type="comment"><orig>Albano</orig><note xml:id="nep3_zpt_5lb">Albano Laziale ist eine der Metropolitanstadt Rom angehörige Gemeinde.</note></seg></placeName> zurückgekehrt sind, und so stelle ich mir Sie alle <seg type="comment"><orig>im <placeName key="ediarum_c23_sn4_qlb">Palazzo Stefanoni Lovatelli</placeName> </orig><note xml:id="ngqk_w5p_vlb">Der im späten 16. Jahrhundert errrichtete Palazzo Caetani Lovatelli im Stadtviertel Campitelli im historischen Zentrum Roms.</note></seg>wieder vereinigt vor. Sie, Frau Gräfin, werden in Ihre gewohnten Studien vertieft sein, die, wie ich hoffe, Ihnen <seg type="comment"><orig>eine stete Quelle des Trostes und der Genugtuung bleiben</orig><note xml:id="nncl_cqt_5lb">Die anerkannte Archäologin hatte im Herbst 1879 ihren Mann verloren; siehe dazu den Brief von Gregorovius an Ersilia Caetani Lovatelli vom 16.11.1879.</note></seg>. </p>
+<p>Was meine Wenigkeit anbelangt, so habe auch ich meine Zeit auf die Studien verwendet und mich insbesondere mit <seg type="comment"><orig>jenen Gegenden <placeName key="G000683">Griechenlands</placeName> beschäftigt, die ich im vergangenen Frühling durcheilte</orig><note xml:id="nf1d_2qt_5lb">Zusammen mit seinem Bruder Julius (1819–1891) war Gregorovius am 28. März von Rom nach Griechenland aufgebrochen, wo die beiden bis zum 6. Mai durch das Land reisten (siehe RT, Romfahrt und Griechische Reise 1880, S. 419–420). Von ihrem vollen Reiseprogramm berichtet er in einem Schreiben an den conte Gozzadini; siehe den Brief von Gregorovius an Giovanni Gozzadini vom 30.7.1880.</note></seg>. Eine Frucht dieser Studien ist eine <bibl sameAs="G004025">Abhandlung über die Insel <placeName key="ed_ql4_3zn_5lb">Korfu</placeName></bibl>. Ich veröffentlichte sie jüngst in der Brockhaus’schen Revue „<orgName key="G000569">Unsere Zeit</orgName>“ in <placeName key="G000712">Leipzig</placeName>. „Eine Frucht der Studien“ – wenn man überhaupt eine so geringfügige Sache so nennen darf. Augenblicklich bemühe ich mich, <seg type="comment"><orig>Untersuchungen über die <bibl sameAs="G004031">Mirabilia urbis Athenarum</bibl></orig><note xml:id="nzlx_4qt_5lb">Mirabilien der Stadt Athen. In: Sitzungsberichte der philosophisch-philologischen und historischen Classe der k. b. Akademie der Wissenschaften zu München. Jg. 1881. Bd. 1. H. 3. München 1881. S. 348–381 – aufgenommen in KS I/3 (S. 73–115).</note></seg> anzustellen, um einen Vergleich mit den Mirabilien Roms zu ziehen.</p>
+<p>Seien Sie mir gegenüber, wie Sie es zu sein pflegen, hochherzig, indem Sie mir bald Nachricht über sich und Ihre ganze Familie zukommen lassen. Dieser insgesamt, <seg type="comment"><orig>insbesondere aber dem Herrn <persName key="G001004">Herzog</persName>, empfehle ich mich wärmstens</orig><note xml:id="napm_bvp_vlb">Dem Herzog von Sermoneta, Ersilias Vater, war Gregorovius ebenfalls freundschaftlich verbunden.</note></seg>.</p>
+                <closer>
+                    <salute>Ihr, edle Frau Gräfin, ergebenster</salute>
+                    <signed rendition="#right">Ferd.Gregorovius. </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

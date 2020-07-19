@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000188">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Malwida von Meysenbug in Neapel. Heiden, 13. September 1863</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>116/107 (5)</idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 4°, 2 S. – 1r aoR in einer Vignette geprägt: BATH</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 5 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 86, Mappe 2 (nach D)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Berta Schleicher: Ferdinand Gregorovius und Malwida von Meysenbug. Unveröffentlichte Briefe. In: Der Türmer. Monatsschrift für Gemüt und Geist. Jg. 25. H. 4. Stuttgart 1923. S. 240</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Im August haben ihn zwei Briefe von ihr in München erreicht, doch konnte er wegen vieler Arbeiten und kurzer Reisen noch nicht antworten. Derzeit ist er zu Besuch bei Familie Thile. Er wird über Mailand und Bologna reisend am 22. September in Florenz eintreffen und bittet, Briefe in die Villa von Françoir Sabatier zu adressieren. Er vermutet sie und Olga und Natalie Herzen nunmehr in Neapel, vielleicht mit deren Bruder Alexander. An ihre Reisegefährten Karl und Auguste Lindemann-Frommel hat er zwei Mal nach Capri geschrieben. Er wird am 8. Oktober zurück in Rom sein.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">In August, two letters from her reached him in Munich, but he has not yet been able to reply because of a lot of work and short trips. He is currently visiting the Thile family. Travelling via Milan and Bologna, he will arrive in Florence on the 22nd of September and asks that letters be addressed to the villa of Françoir Sabatier. He assumes she and Olga and Natalie Herzen are now in Naples, perhaps with their brother Alexander. He wrote to her travelling companions Karl and Auguste Lindemann-Frommel in Capri twice. He will be back in Rome on October 8th. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000686">Heiden (Schweiz)</placeName><date when="1863-09-13" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001418">Meysenbug, Malwida von (1816–1903)</persName>
+<placeName key="G000737">Neapel</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<dateline rendition="#right"><hi rendition="#aq">Heiden</hi> in <hi rendition="#aq">Appenzell</hi> 13. <hi rendition="#aq">S<ex>e</ex>pt<ex>em</ex>b<ex>e</ex>r</hi> 63.</dateline>
+</opener>
+<p>Auch Ihren zweiten Brief, verehrte Freundin, habe ich in <placeName key="G000734">München</placeName> erhalten, ihn aber wegen tausenderlei Confusionen, auch <seg type="comment"><orig>kleiner Reisen nach <placeName key="G000867">Salzburg </placeName>u<ex>nd</ex> ins Hochgebirg</orig><note xml:id="njxq_3fp_cmb">Nach einer einwöchigen Reise nach Bad Reichenhall (zu Wilhelm Giesebrecht), Berchtesgaden und Salzburg war Gregorovius noch vom 5.-10. September 1863 in München, bevor er sich auf den Rückweg nach Italien machte (siehe RT, 1.-9.9.1863, S. 166–167).</note></seg> noch nicht beantwortet.</p>
+<p>Nun will ich Ihnen heute mit ein paar Zeilen anzeigen, daß ich das gute <placeName key="G000664">Vaterland</placeName> am 10. d<ex>ieses</ex> M<ex>onats</ex> verließ, <seg type="comment"><orig>hieher ging, die treffliche <persName key="G001643 G001644 G001645">Familie v<ex>on</ex> <hi rendition="#aq">Thile</hi></persName> zu besuchen</orig><note xml:id="ndcj_kfp_cmb">Über Augsburg fahrend besuchte Gregorovius seit dem 11. September die in Heiden kurenden Thiles (siehe RT, 12.9.1863, S. 167).</note></seg>, und morgen den Kranichen südwärts wieder nachfolge. Ich gehe über <hi rendition="#aq"><placeName key="G067551">Chur</placeName></hi> u<ex>nd</ex> den <placeName key="G067785">Splügen</placeName> nach <placeName key="G000721"><hi rendition="#aq">Mailand</hi></placeName>, weiter nach <hi rendition="#aq"><placeName key="G000638">Bologna</placeName>,</hi> u<ex>nd</ex> <seg type="comment"><orig>bin um den 22. Sept<ex>em</ex>b<ex>e</ex>r in <placeName key="G000671">Florenz</placeName>, wohin ich mir Nachricht zu geben bitte: <hi rendition="#aq"><placeName key="G004673">Palazzo Ungher Sabatier ai Renai</placeName></hi></orig><note xml:id="nqnx_wfp_cmb">Gregorovius hielt sich vom 27.-30. September in Florenz auf, wo er auch das Ehepaar Caroline Ungher-Sabatier (1803–1877) und François Sabatier (1818–1891) in ihrer Stadtvilla in der del Renai besuchte (siehe RT, 28.9.1863, S. 170).</note></seg>.</p>
+<p>Wenn ich Sie in <placeName key="G000763">Rom</placeName> wiedersehe, will ich Ihnen vieles aus dem Vaterland erzählen, wie es vorgeschritten ist, u<ex>nd</ex> wie es uns, die von Schicksalsmächten, nicht von politischen Mächten Verbannten so wehmütigschön dort überkommt. Ja, recht ungern ging ich wieder fort in das Land des Äthers – es ist Nebeldunst u<ex>nd</ex> Finsterniß von nöten, um in dem <add place="superlinear">nordischen</add> Menschen jenes Gefühl des traulichen Behagens zu erzeugen, welches wir gründlich verloren haben, wie ich glaube, u<ex>nd</ex> auf dessen Spuren ich wieder einmal in den deutschen Wäldern ging. <pb n="1v"/>Ich möchte allen Wissenskram u<ex>nd</ex> Alfanzerei gern dahingeben, könnte ich mich in die einfachen Zustände eines gesunden Naturlebens noch einfügen, wie es hier gefunden wird; weil aber dies nicht mehr möglich ist, so soll denn doch die Seele der Sonnenblume gleichen, u<ex>nd</ex> von dem römischen Licht wieder so viel in sich nehmen, daß diese germanischen Reiseschatten schwinden. Es lebe demnach das Schrankenlose, u<ex>nd</ex> das allgemeine Licht, worin wir als Eintagsfliegen weiter uns sonnen wollen, nirgens zu Hause, als wo man nicht wohnen darf.</p>
+<p>Ich denke mir, daß Sie ein schönes u<ex>nd</ex> reiches <seg type="comment"><orig>Bild von <placeName key="G000653">Capri</placeName> mit sich nehmen, was Ihnen noch in langen Winternächten nachleuchten wird. Nun werden Sie, u<ex>nd</ex> wol auch <persName key="G001374 G001375">Lindemanns</persName>, an die ich zum 2. male nach Capri schrieb, <del rendition="#s">wol </del>in Neapel sein</orig><note xml:id="nbpn_bgp_cmb">Malwida von Meysenbug war mit ihren Pflegetöchtern Olga (1850–1953) und Natalie Herzen (1844–1936) im Juli 1863 mit den gemeinsamen Freunden Karl und Auguste Lindemann-Frommel von Rom für zwei Monate auf Capri und dann in Neapel (siehe den Brief von Gregorovius an Malwida von Meysenbug vom <ref target="G000181">4.8.1863</ref>). Seine Briefe an Karl und Auguste Lindemann-Frommel ließ Gregorovius vor seinem Tod von ihnen vernichten.</note></seg>, <seg type="comment"><orig>vielleicht mit <persName key="G001266">Herrn Herzen</persName></orig><note xml:id="nb2c_sgp_cmb">Vermutlich das dritte Kind des russischen Philosophen, Schriftstellers und Publizisten Alexander Herzen (1812–1870), der Physiologe Alexander Herzen (1839–1906), der 1864 (bis 1881) in Florenz im Istituto di Studi Superiori seine Tätigkeit unter dem berühmten Frankfurter Physiologen Moritz Schiff (1823–1896) aufnahm.</note></seg>, u<ex>nd</ex> so doppelt schöne Tage genießen. </p>
+<p><seg type="comment"><orig>Ich denke in Rom einzutreffen, um den 8. October</orig><note xml:id="nif1_5gp_cmb">Gregorovius war am 13. Oktober 1863 zurück in Rom (siehe RT, 14.10.1863, S. 172).</note></seg><hi rendition="#aq">,</hi> u<ex>nd</ex> Sie dort zu erwarten. Denn es ist gut, wenn Sie noch den herrlichsten Monat, einen zweiten Jahresfrühling, draußen sich bewegen.</p>
+                <closer>
+                    <salute rendition="#c">Herzlichen Gruß an Sie alle! <lb/>In Treue</salute>
+                    <signed rendition="#right">Ihr <hi rendition="#aq">G</hi>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

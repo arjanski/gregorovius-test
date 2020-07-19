@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067745">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Contessa Ersilia Caetani Lovatelli in Rom. Rom, 17. Februar 1874</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin </institution><collection>NL Waldemar Kampf</collection><idno>
+                            
+                            Karton 59, Mappe 348 (nach D)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"><bibl type="print">Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli. Hrsg. von Sigmund Münz. Berlin: Paetel 1896. S. 75–77 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er möchte seine in Kürze erscheinende „Lucrezia Borgia“ (1874) ihrem Vater Michelangelo Caetani widmen und fragt, ob ihr das angesichts der historischen Feindschaft der Familien Caetani und Borgia angemessen erscheint. Sie soll die Sache auch mit ihrem Ehemann Giacomo Lovatelli und ihrem Bruder Onorato diskutieren, bevor sie ggf. ihren Vater davon in Kenntnis setzt.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1874-02-17" cert="low"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001011">Caetani Lovatelli, Ersilia contessa (1840–1925)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+<body><pb n="75"/>
+<div type="writingSession">
+<opener>
+<dateline rendition="#right">Rom, <seg type="comment"><orig>17. Februar 1874</orig><note xml:id="nl54_qs3_zlb">Ein diesem Brief folgendes Schreiben von Ersilias Vater Michelangelo Caetani (1804–1882), Herzog von Sermoneta, an Gregorovius datiert auf den 9. Februar 1874 (BSB München, NL Gregorovius, Gregoroviusiana 21; h: GhStA Berlin, NL Kampf, Karton 86, Mappe 6).</note></seg>. </dateline>
+</opener>
+<p>Es drängt mich, Ihrem Urtheile einen Wunsch zu unterbreiten und zwar folgenden: Sie wissen, daß ich ein <bibl sameAs="G003509">Buch über die Schicksale von Donna Lucrezia Borgia</bibl> beendet habe, <seg type="comment"><orig>das in diesem Augenblicke in <placeName key="G000879">Stuttgart </placeName>gedruckt wird</orig><note xml:id="nalh_ss3_zlb">Das Manuskript der „Lucrezia Borgia“ hatte der bayerische Diplomat Karl Graf von Tauffkirchen-Guttenberg (1826–1895) nach dem Antwortschreiben des Verlags an Gregorovius am 16. Januar 1874 beim Verlag eingeliefert (17.1.1874, h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VIII, 248).</note></seg>, wo es gegen Ostern erscheinen soll. <seg type="comment"><orig>Ich wünsche nun diese Arbeit <pb n="76"/>dem <persName key="G001004">Herrn Herzog</persName>, Ihrem erlauchten Vater, zu widmen</orig><note xml:id="naqh_5s3_zlb">Der politisch liberal eingestellte Caetani war von 1846–1848 Polizeiminister, widmete sich dann vornehmlich dem Entwerfen von Schmuck und seinen Dante-Studien (Michelangelo Caetani. La materia della Divina Commedia di Dante Allighieri: dichiarata in 6. tavole, Rom: Menicanti 1855), die auch Gregorovius sehr schätzte (siehe RT, 10.5.1856, S. 62). Er war Ersilias, zunehmend erblindendem Vater ebenfalls freundschaftlich verbunden, fungierte mit seiner Unterschrift am 16. Juli 1871 als Zeuge bei der Aufsetzung von Michelangelos Testament, als er die Familie in Frascati besuchte (siehe RT, 28.7.1871, S. 308).</note></seg> und möchte wissen, wie Sie darüber denken. Verschiedene Umstände brachten mich auf den Gedanken, die „Lucrezia Borgia“ dem Herzog zu widmen. An erster Stelle mein lebhaft empfundenes Verlangen, auf diesem Wege dem Herzog die Hochachtung und Ehrfurcht zu erweisen, die ich für ihn hege. Es würde mir auch zu nicht geringer Genugthuung gereichen, sozusagen eine kleine Erinnerung an meine Wenigkeit in dem <persName key="G001244">Hause Gaetani</persName> zurückzulassen, dem ich mich für unendliche Akte von Liebenswürdigkeit, die mir <seg type="comment"><orig>während einer mehrjährigen Beziehung</orig><note xml:id="nvfp_ws3_zlb">Gregorovius war regelmäßig Gast im Salon der Gräfin Caetani Lovatelli und nutzte das ihm vom Herzog zur Verfügung gestellte Familienarchiv zu Recherchezwecken (siehe RT, 29.5.1864, S. 178 und 11.7.1868, S. 247). Seine tiefe Verbundenheit zur Caetani-Familie brachte er auch in Briefen an andere Korrespondenten zum Ausdruck; siehe den Brief von Gregorovius an Giovanni Gozzadini vom 1.11.1868.</note></seg> zu Theil wurden, immer als dankbarer und ergebener Diener zeigen werde. </p>
+<p>Das Buch wird, wiewohl es von geringer Wichtigkeit ist, des Herzogs würdig sein, wegen der Original-Dokumente, die es enthält und weil es ein exaktes Bild der Sitten und Charaktere einer Epoche gibt, die ich kraft jener Dokumente darstellen konnte. Es figurirt darin auch die Familie Gaetani, so daß Sie, die Nachkommen jener Familie, fast ein unmittelbares Interesse an dem Buche werden nehmen können. Dies die Hauptgründe, dich ich Ihnen anführen wollte. Doch daneben macht sich mancher Zweifel betreffs des Verhältnisses geltend, das der Herr Herzog zu einem solchen „Lucrezia Borgia“ betitelten Buche haben würde. Wie nämlich aus der Lektüre hervorgehen wird, ist es aus mehreren Gründen <seg type="comment"><orig>eine Vertheidigung der <persName key="G001242">Borgias</persName></orig><note xml:id="nitd_ys3_zlb">„Sie werden Vorfahren Ihres alten und berühmten Hauses in diesem Buche auftreten sehen, aber in nicht glücklicher Gestalt. Die Borgia sind Todfeinde der Gaetani gewesen, und diese entrannen nur mit Not dem Untergange, welchen ihnen Alexander VI. und sein schrecklicher Sohn geschworen hatten. Ihr schönes Sermoneta und alle die großen Güter in der Maritima, welche Ihr Haus seit langen Zeiten besaß, zogen die Borgia ein, und Ihre Vorfahren starben durch sie, oder wanderten ins Exil. Donna Lucrezia wurde Herrin Sermoneta’s, dann ward ihr Sohn Rodrigo von Aragon mit den Besitzungen der Gaetani als Herzog beliehen.“ (Lucrezia Borgia. Band 1. Stuttgart: Cotta 1874, S. V).</note></seg>. Um zu einem Ende zu gelangen: Wollen Sie gefälligst darüber nachdenken und sich auch mit <seg type="comment"><orig>Ihrem Gemahl, dem <persName key="G067827">Grafen Giacomo</persName>, und Ihrem Bruder, dem Fürsten <persName key="G001009">Onorato</persName></orig><note xml:id="nswk_1t3_zlb">Ersilia hatte 1859 den aus der Provinz Ravenna stammenden Grafen Giacomo Lovatelli (1832–1879) geheiratet. Dieser war von 1870–1874 sowie von 1874–1876 Mitglied im Abgeordnetenhaus Roms. Der Jurist Onorato Caetani (1842–1917), jüngerer Bruder Ersilias, war von 1872–1877 Provinzialrat von Rom, 1880 Kommunalrat von Rom und von 1890–1892 Bürgermeister von Rom.</note></seg>, berathen. Falls Sie zusammen entscheiden, daß es kein Bedenken hat, wenn ich so kühn bin, dem Herzog dieses Buch mit einem Widmungsschreiben anzubieten, würde ich Sie ersuchen, <seg type="comment"><orig>Ihrem Vater von diesem <pb n="77"/>meinem Wunsche und dieser meiner freundschaftlichen und ergebenen Absicht Mittheilung zu machen</orig><note xml:id="ndfc_dt3_zlb">In dem auf den 9. Februar 1874 datierten Schreiben von Caetani an Gregorovius, das dieser Anfrage an die Contessa mit Sicherheit folgte (BSB München, NL Gregorovius, Gregoroviusiana 21; h: GhStA Berlin, NL Kampf, Karton 86, Mappe 6), zeigt sich der Herzog erfreut und dankbar über Gregorovius’ Vorhaben, ihm die „Lucrezia Borgia“ (1874) widmen zu wollen: „Da mia figlia mi è stato communicato il Suo cortese pensiero di volere a me dedicare la Sua Lucrezia Borgia, tanto per mostrare la onorevole amicizia ch’Ella professa per tutta la mia famiglia quanto pure per quei legami storici ch’Ella ha dovuto rammentare nel suo Libro; quali furono a quei tempi tra i Borgia ed i Caetani. Di questo Suo favore io sono riconoscentissimo come attestato della Sua graziosa benevolenza ed amicizia.” Zit. nach h: GhStA Berlin, NL Kampf, Karton 86, Mappe 6. Gregorovius schreibt bereits in einem Brief vom 6. Februar 1874 an die Cotta’sche Buchhandlung in Stuttgart, dass er in wenigen Tagen die Einleitung und Widmung zur „Lucrezia“ abschicken wird (siehe den Brief von Gregorovius an die J. G. Cotta’sche Buchhandlung in Stuttgart vom 6.2.1874; Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 346–347 (gekürzt). Das Manuskript der Widmung und die Einleitung trafen am 11.3.1874 beim Verlag ein (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VIII, 296–297). Die auf den 9. März 1874 datierte Widmung ist drei Seiten lang (V-VIII): https://books.google.it/books?id=coJpAAAAcAAJ&amp;printsec=frontcover&amp;hl=de&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false.</note></seg>. </p>
+</div>
+</body>
+</text>
+</TEI>

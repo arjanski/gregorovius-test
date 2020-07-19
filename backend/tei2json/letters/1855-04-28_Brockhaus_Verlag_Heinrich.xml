@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000061">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an den F. A. Brockhaus Verlag und Heinrich Brockhaus in Leipzig. Rom, 28. April 1855</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (14)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Bl., 4°, 1 S. – 1v aoR Eingangs- und Beantwortungsvermerk: 1855. / <hi rendition="#aq"><hi rendition="#aq">Rom</hi></hi>, 28. <hi rendition="#aq"><hi rendition="#aq">April</hi></hi>. /6. <hi rendition="#aq"><hi rendition="#aq">Mai</hi></hi>. / <hi rendition="#aq"><hi rendition="#aq">Gregorovius</hi></hi>. / B. …<gap unit="chars" quantity="5" reason="illegible"/> (Blatt auf einem zweiten Blatt montiert, auf 1r scheint der Bearbeitungsvermerk von 1v durch)</p>
+<p>Der letzte Teil des Manukripts „Das Königreich beider Sicilien in seinen gegenwärtigen Zuständen“</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er übersendet das Manuskript des zweiten Teils seines Artikels „Das Königreich beider Sicilien in seinen gegenwärtigen Zuständen“ zum Abdruck in „Die Gegenwart“, stimmt aber möglichen Änderungswünschen zu. Ende Mai will er möglicherweise für Studien nach Neapel reisen. Später will er einen Beitrag über die geschichtlichen oder literarischen Verhältnisse in Italien schreiben.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He sends the manuscript of the second part of his article „Das Königreich beider Sicilien in seinen gegenwärtigen Zuständen“ to be printed in „Die Gegenwart“, but agrees to possible changes. He wants to possibly travel to Naples at the end of May to do a few studies. Later he wants to write an article about the historical or literary situation in Italy. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1855-04-28" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+<persName key="G000996">Brockhaus, Heinrich (1804–1874)</persName><orgName key="G000480">F. A. Brockhaus Verlag</orgName>
+<placeName key="G000712">Leipzig</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+<opener>
+<salute xml:id="s1" next="#s2" rendition="#c">Der sehr geehrten Buchhandlung </salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">F. A. Brockhaus in Leipzig.</salute>
+</opener>
+<p>in großer Eile übersende ich, hochverehrter H<add place="intralinear">err</add>, beikommenden <seg type="comment"><orig>Rest der bewußten <bibl sameAs="G003836">Abhandlung</bibl></orig><note xml:id="npqm_rtf_nlb">Den ersten Teil des Manuskripts seines von Heinrich Brockhaus gewünschten Artikels „Das Königreich beider Sicilien in seinen gegenwärtigen Zuständen“ hatte Gregorovius mit seinem Brief vom <ref target="G000038">22.4.1855</ref> übersandt (siehe auch den Brief von <ref target="G000066">Gregorovius an Brockhaus, 6.1.1855</ref>). Der Beitrag wurde gedruckt in: Die Gegenwart. Eine encyklopädische Darstellung der neuesten Zeitgeschichte für alle Stände. Bd. 11. Leipzig: Brockhaus 1855. S. 149–189. Unter dem Titel „Neapel und Sicilien vom Jahr 1830 bis 1852“ wurde S. 164–189 aufgenommen in: Siciliana. Wanderungen in Neapel und Sicilien. Leipzig: Brockhaus 1861.</note></seg>, nachdem der erste Teil derselben am 23. d<ex>iesen</ex> M<ex>onats</ex> von mir zur Post gegeben worden ist.</p>
+<p>Ich bitte Sie um gefällige u<ex>nd</ex> baldige Benachrichtigung, daß beide Sendungen richtig eingegangen sind. Möchten Sie mir doch sagen können, daß diese kleine Arbeit nicht ganz Ihrer Zustimmung entbehrt; sollten Sie noch dies oder das andere nachzutragen haben, so bin ich augenblicklich bereit, Ihren Wünschen zu entsprechen. Außerdem werden Sie am besten erkennen, was etwa an Ausdrücken zu mildern sei, oder ob Anstößiges, mit den Principien der Gegenwart Unverträgliches, zu entfernen sei.</p>
+<p>Ich bleibe noch bis Ende Mai in Rom, wo mich Briefe in meiner Wohnung (Purificatione N<ex>ummer</ex> 63) antreffen; dann aber <seg type="comment"><orig>verreise ich möglicher Weise <subst><del rendition="#ow">in</del><add place="across"> nach</add></subst> <placeName key="G000737">Neapel</placeName>,</orig><note xml:id="nisr_ztf_nlb">In der Erwartung einer Rückmeldung vom Cotta-Verlag, dem er mit seinem Brief vom <ref target="G000044">27.5.1855</ref> das Manuskript seiner „Pandora, eine Sammlung kleiner Schriften aus Italien“ geschickt hatte (der im Jahr darauf unter dem Titel „Figuren. Geschichte, Leben und Scenerie aus Italien“ bei Brockhaus erschien), blieb Gregorovius bis zum Jahresende in Rom.</note></seg> um dort einige Studien zu machen; deshalb wäre es mir erwünscht, wenn Sie mir das Honorar für diese Abhandlung, nach Ihrer Berechnung, wie für den <bibl sameAs="G003825">Artikel in den Blättern f<ex>ür</ex> lit<ex>erarische</ex> U<ex>nterhaltung</ex></bibl> gefälligst in einem Wechsel wollten zukommen laßen.</p>
+<p>Ich wünsche in den Stand gesetzt zu sein, für Ihre Gegenwart später eine Arbeit über geschichtliche oder literar<ex>ische</ex> Verhältniße Italiens zu liefern, wo mich weder der Mangel an Quellen, noch der Raum in solcher Weise behinderte.</p>
+<closer>
+<salute rendition="#c" xml:id="s3" next="#s3">Ich habe die Ehre mich hochachtungsvoll, Ihnen, geehrtester Herr zu empfehlen als </salute>
+<salute xml:id="s4" prev="#s4" rendition="#right"><lb/>Ihr ganz ergebenster</salute>
+<signed rendition="#right">Ferd. Gregorovius</signed>
+<dateline><hi rendition="#aq">Rom</hi> d<ex>en</ex> 28. <hi rendition="#aq">April</hi> 1855.</dateline>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

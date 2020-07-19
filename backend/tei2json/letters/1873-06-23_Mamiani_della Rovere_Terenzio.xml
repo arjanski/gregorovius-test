@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067733">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Terenzio Mamiani della Rovere in Rom. Rom, 23. Juni 1873</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Pesaro, Biblioteca Oliveriana</repository><collection>Carte Mamiani </collection><idno>Nr. 6986</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er hat Mamiani vor dessen Abreise nach Tusculum nicht mehr in Rom angetroffen. In acht Tagen wird er nach Deutschland aufbrechen und auf dem Weg in Modena und Pesaro Halt machen. Für die dortige Biblioteca Oliveriana bittet er um ein Empfehlungsschreiben. </p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1873-06-23" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001396">Mamiani della Rovere, Terenzio (1799–1885)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+<correspContext>
+<ref type="next">27. Juni 1873 (h: GhStA Berlin, NL Kampf, Karton 86, Mappe 6)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c"><hi rendition="#aq">ROMA</hi>, <placeName key="ediarum_lmm_slx_qlb">Via Gregoriana</placeName> n<ex>umero</ex> 13. <lb/>Giugno 23. 1873.</dateline>
+                    <salute rendition="#c">Ill<hi rendition="#sup"><hi rendition="#uu" hand=""><ex>ustrissi</ex>mo</hi></hi> Signor <seg type="comment"><orig>Conte</orig><note xml:id="nwq4_xb1_zlb">Der in Pesaro geborene Terenzio Mamiani della Rovere (1799–1885) war Philosoph, Politiker und Schriftsteller sowie ein Cousin von Giacomo Leopardi (1798–1873). 1872 kam er in Florenz in Kontakt mit dem Kreis um Giovan Pietro Vieusseux (1779–1863), begann bei dessen Zeitschrift „Antologia“, ab 1866 „Nuova Antologia, mitzuarbeiten. Von dort ging er nach Bologna, wo er 1831 nach dem städtischen Aufstand gegen die päpstliche Restauration Innenminister der vorübergehenden Regierung der Province Unite Italiane wurde. 1848 von Pius IX. zum Innenminister und Ministerpräsident des Kirchenstaates ernannt, trat er wegen Streitigkeiten nach wenigen Monaten von diesen Ämtern zurück. Er war von 1860–1861 Bildungsminister, ab 1864 Senator von Rom und bis 1867 für das Königreich Italien als Diplomat tätig. Neben seinen politischen Aktivitäten lehrte er an der Militärakademie Turin Rhetorik, von 1857–1860 und dann 1871 Geschichte an den Universitäten von Turin und Rom. Gregorovius berichtet im Februar 1872 von einer Begegnung mit „namhaften Italienern“, darunter Mamiani, im Salon seiner Freundin, der Archäologin Ersilia Gräfin Caetani Lovatelli (1840–1925) (siehe RT, 10.2.1872, S. 315). Auch in späteren Jahren trifft er in den kulturellen Kreisen Roms immer wieder auf Mamiani. In der historischen Einleitung zu seiner Übersetzung der „Lieder des Giovanni Meli von Palermo“ (Leipzig: Brockhaus 1856) hatte Gregorovius ein Motto Mamianis zu Meli eingefügt: https://opacplus.bsb-muenchen.de/Vta2/bsb10756792/bsb:BV006957232?page=28.</note></seg>,</salute>
+                </opener>
+<p>jeri sera mi ero recato alla casa sua, onde prendervi congedo da V<ex>ostra</ex> E<ex>ccellenza</ex>, e augurarle la buona villeggiatura. Pur troppo non ebbi più la fortuna, di ritrovarla ancora nella sua casa, e ne provai un vero dolore.</p>
+<p>Avevo anche una preghiera da diriggerle, ed è questa: di donarmi due righe di raccomandazione per la <seg type="comment"><orig><orgName key="G004666">biblioteca Oliveriana</orgName> di <placeName key="G000752">Pesaro</placeName></orig><note xml:id="nkhj_2c1_zlb">Die Biblioteca Oliveriana in Pesaro entstand 1756 aus der Bibliothek des kinderlos verstorbenen Adligen Annibale degli Abati Olivieri (1708–1789), der diese seiner Geburtsstadt vermachte. Im Laufe der Zeit gingen weitere Nachlässe, unter anderem der von Mamiani, in die Bibliothek ein und noch heute ist die Oliveriana die größte Bibliothek der Stadt. In seinem Antwortbrief schickte Mamiani das von Gregorovius gewünschte Schreiben an den Bürgermeister von Pesaro, Alessandro Galluci, mit; siehe den Brief von Terenzio Mamiani della Rovere vom 27.6.1873; GhStA Berlin, NL Kampf, Karton 86, Mappe 6.</note></seg>, nella quale mi preme di <seg type="comment"><orig>esaminare alcuni manoscritti</orig><note xml:id="nzzs_fc1_zlb">Zu dieser Zeit arbeitete er an der „Lucrezia Borgia“ (1874), weshalb er in der Oliveriana Dokumente zu Lucrezia Borgia (1480–1519) und Giovanni Sforza (1466–1510) einsehen wollte. </note></seg>. </p>
+<p><seg type="comment"><orig>Lascierò Roma fra otto giorni, per recarmi in <placeName key="G000664">Germania</placeName>, dopo di aver fatto per via una fermata in quella città di Pesaro</orig><note xml:id="nb2r_lc1_zlb">Er reiste am 1. Juli von Rom ab, traf am folgenden Tag in Pesaro ein und begab sich dort einen Tag später in die Bibliothek: „Ich habe Nachforschungen in der Biblioteca Oliveriana gemacht und manches Brauchbare notiert. Gozzadini hatte mich dort bei den Bibliothekaren Marchese Arnaldi und Grossi angemeldt und Terenzio Mamiani mir einen Brief an den Syndicus Graf Gallucci mitgegeben. Ich wurde auf das liebenswürdigste empfangen.“ (RT, 3.7.1873, S. 332). </note></seg>, ed <seg type="comment"><orig>un’altra all’<orgName key="G004664">Archivio di Modena</orgName></orig><note xml:id="nucw_mc1_zlb">Von Pesaro reiste er nach Modena, wo er bis zum 6. Juli im Archivio di Stato beschäftigt war. Am 9. Juli sollte er in Traunstein eintreffen. Erst Mitte Oktober machte er sich von Deutschland aus wieder auf den Rückweg nach Rom, wo er schließlich am 29. Oktober ankam (siehe RT, S. 332–334).</note></seg>. </p>
+<p>Se la mia domanda non pare a V<ex>ostra</ex> E<ex>ccellenza</ex> nè troppo modesta, <pb n="1v"/>nè troppo indiscreta, andrei pregarla di mandarmi una tale raccomandazione alla mia abitazione in Roma, prima dell’ ultimo del mese corrente. </p>
+<p>Io spero, che V<ex>ostra</ex> S<ex>ignoria</ex> Ill<hi rendition="#sup"><hi rendition="#u" hand=""><ex>ustrissi</ex>ma</hi></hi> durante l’estate goderà una perfetta salute, e si troverà contenta respirando quelle classiche aure di <seg type="comment"><orig><placeName key="G004677">Tuscolo</placeName></orig><note xml:id="ne55_nc1_zlb">Die südöstlich von Rom, in den Albaner Bergen gelegene und bis ins Mittelalter bestehende Stadt Tusculum. Wohlhabende Römer lebten in der Antike in ihrer Umgebung.</note></seg>, che, nei tempi antichi proficue alle meditazioni di filosofi, di oratori, e di patrioti Romani chiarissimi, anche oggidì non saranno meno salutifere e grate all’ impegno di un nepote Romano, il quale tramanderà alla posterità anche lui il suo glorioso nome, <seg type="comment"><orig>da poeta, da filosofo, e da patriota</orig><note xml:id="nbn3_pc1_zlb">Er meint hier Mamiani.</note></seg>. </p>
+<p>Aggradisca, nobile Signor Conte, l’espressione della mia profonda venerazione, colla quale mi protesto </p>
+                <closer>
+<salute xml:id="s1" next="#s2" rendition="#c">di V<ex>ostra</ex> Eccellenza</salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">il devoto Servitor</salute>
+<signed rendition="#c">Ferd. Gregorovius.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

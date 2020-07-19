@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000049">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Eduard Brockhaus in Leipzig. Florenz, 20. Juli 1858</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (51)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 8°, 2 ¾ S. – 2v, Blatt um 90° gedreht, Adr.: <hi rendition="#u" hand="">Germania</hi> <hi rendition="#u" hand="">franco</hi> / Der / geehrten Buchhandlung / <hi rendition="#aq">F. A. Brockhaus</hi> / <hi rendition="#aq">Leipzig</hi> – Siegelreste, Postvermerke, Poststempel – 2v aoR Eingangs- und Beantwortungsvermerk: 1858. / <hi rendition="#aq">Florenz</hi>, 20./26. <hi rendition="#aq">Juli</hi>. / <hi rendition="#aq">Gregorovius</hi>. / B. 14/IX. / Honorarberechnungen Deutsches Museum </p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er beklagt die späte Antwort auf sein Angebot, den Verlag seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) zu übernehmen, über die er auch mit Karl Gutzkow in Rom gesprochen hat. Zwischenzeitlich hat er sich an Cotta gewandt. Sollte es wider Erwarten auch mit Cotta zu keinem Vertragsabschluss kommen, wird er sich an einen anderen Verlag wenden. Von Robert Prutz hat er noch keine Nachricht bezüglich der Honorarforderung seines Aufsatzes „Aus der Campagna von Rom. Subiaco, das älteste Benedictinerkloster des Abendlandes, seine Geschichte und seine Altertümer“ zum Abdruck im „Deutschen Museum“. Sein Bruder Julius wird bereits in seinem Namen um Rücksendung des Manuskripts gebeten haben. Er wünscht die Honorarabrechnung für seine „Lieder des Giovanni Meli von Palermo“ (1856) und für die „Grabmäler der Päpste“ (1857). Er will Heinrich Brockhaus auf seiner Rückreise aus dem Orient gerne in Rom zu Diensten sein.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He complains about the late response to his offer to publish his „Geschichte der Stadt Rom im Mittelalter“ (1859-1872), about which he had also spoken to Karl Gutzkow in Rome. In the meantime he has turned to Cotta. Should he, contrary to his expectations, also not come to sign a contract with Cotta either, he will contact another publisher. He has not yet heard from Robert Prutz about the fee for his essay " „Aus der Campagna von Rom. Subiaco, das älteste Benedictinerkloster des Abendlandes, seine Geschichte und seine Altertümer“ to be printed in the „Deutsches Museum“. His brother Julius will already have asked for the manuscript to be returned in his name. He wishes to receive the royalties for his „Lieder des Giovanni Meli von Palermo“ (1856) and for the „Grabmäler der Päpste“ (1857). He wants to be of service to Heinrich Brockhaus in Rome on his return from the Orient. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000671">Florenz</placeName>
+                    <date when="1858-07-20" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+<persName key="G000995">Brockhaus, Eduard (1829–1914)</persName>
+                    <placeName key="G000712">Leipzig</placeName>
+                    <date when="1858-07-26" cert="high"/>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev">15. Juni 1858</ref>
+                    <ref type="next">14. September 1858</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Florenz Villa Sabatier</hi> <lb/>20 <hi rendition="#aq">Juli</hi> 1858.</dateline>
+                    <salute rendition="#c">Sehr geehrter Herr, </salute>
+                </opener>
+                <p><seg type="comment"><orig>meine Abwesenheit u<ex>nd</ex> Reisen von <placeName key="G000763">Rom</placeName></orig><note xml:id="nlbl_2g5_5lb">Gregorovius war am 9.7.1858 in Frascati bei den Thiles und 10.7.1858 über Civitavecchia nach Livorno reisend am Abend des 11.7.1858 in Florenz eingetroffen, wo er bis zum 28. September 1858 blieb (siehe RT, 15.7.1858, S. 72–75).</note></seg> haben mich bisher verhindert, <seg type="comment"><orig>Ihren letzten Brief</orig><note xml:id="nkwv_fg5_5lb">Nach dem Beantwortungsvermerk auf dem Brief von Gregorovius an Brockhaus vom <ref target="G000088">19.4.1858</ref>, hatte Brockhaus erst am 15.6.1858 geantwortet.</note></seg> an mich zu beantworten. Erst in der 9. Woche traf derselbe als Antwort auf den meinigen ein, u<ex>nd</ex> ich habe demnach allzuviel Zeitverlust zu beklagen. Er wird doppelt empfindlich in der Fremde u<ex>nd</ex> in meinen Verhältnißen. Was bereits <seg type="comment"><orig><persName key="G001223">Herr <hi rendition="#aq"><hi rendition="#aq">Gutzkow</hi></hi></persName> mir mündlich sagte</orig><note xml:id="ndl1_3g5_5lb">Der Brockhaus-Autor Karl Gutzkow (1811–1878) war über Gardasee und Florenz reisend im März 1858 in Rom eingetroffen, „um für einen Roman, ‚Der Zauberer von Rom‘, Szenen zu suchen“, wie Gregorovius in seinem Tagebuch notierte. Er fand an Gutzkow nichts, das „vom Wesen eines Dichters Zeugnis gab“, da seine „ganze Art zu denken und zu sein […] wie eine Dissonanz“ auf ihn wirkte – ausführlich dokumentiert Gregorovius dieses Abgestoßensein von dem jungdeutschen Schrifteller (siehe RT, 10.6.1858, S. 71), der bald bei Brockhaus seinen neunbändigen Roman „Der Zauberer von Rom“ (Leipzig 1858–1861) publizierte. Nach Gregorovius reiste Gutzkow nach Neapel ab, „sehr unzufrieden […] mit Rom, wo man keine Notiz von ihm genommen hatte.“ Bereits im Juni 1858 war Gutzkow, über Genua reisend, zurück in Dresden.</note></seg>, enthält auch Ihr Schreiben, u<ex>nd</ex> so ist <seg type="comment"><orig>mein Wunsch, das fleißigste u<ex>nd</ex> größeste <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Werk</bibl> meines Lebens in einem Verlage erscheinen zu sehn, zu dem ich stets u<ex>nd</ex> gerne ein lebhaftes Gefühl nicht blos äußerlicher, sondern <choice><sic>molarischer</sic><corr cert="high">moralischer</corr></choice> Verbindung behaupten werde, für immer, wie es scheint, vereitelt</orig><note xml:id="nbld_ng5_5lb">Mit seinem Brief vom <ref target="G000069">8. März 1858</ref> hatte Gregorovius Brockhaus mit einem auf den <ref target="G000035">7. März 1858</ref> datierten ausführlichen Konzept seiner „Geschichte der Stadt Rom im Mittelalter“ (Stuttgart: Cotta 1859–1872) sein Werk zum Verlag angeboten und am <ref target="G000088">19.4.1858</ref> noch einmal auf raschen Bescheid gedrungen. Da die Antwort von Brockhaus schließlich bis Mitte Juni auf sich warten ließ, hatte Gregorovius am <ref target="G000085">20. Mai 1858</ref> Johann Georg Freiherr Cotta von Cottendorf seine „Geschichte der Stadt Rom im Mittelalter“ zum Verlag angeboten, der sofort sehr interessiert reagiert hatte (DLA Marbach, Cotta-Archiv, Cotta-Briefe, 14a). Am 25.6.1858 sandte Gregorovius das Manuskript der ersten beiden Bände zur Einsicht an den Verlag nach Stuttgart (siehe den Brief von <ref target="G000116">Gregorovius an Cotta, 22.6.1858</ref>).</note></seg>.</p>
+                <p>Außer Ihrem Hause konnte ich zunächst nur an den <orgName key="G000523">Cottaschen Verlag</orgName> denken, welcher ehedem mein <bibl sameAs="G003106"><hi rendition="#aq">Corsica</hi></bibl> übernahm. Die Mißstimmung, in die mich vor einigen Jahren die Ablehnung des <bibl sameAs="G004072"><hi rendition="#aq"><seg type="comment"><orig>Meli</orig><note xml:id="nplg_xg5_5lb">Vielmehr hatte Gregorovius vom Abschluss des Manuskripts seiner Übersetzungen der „Lieder des Giovanni Meli von Palermo“ (Leipzig: Brockhaus 1856) im Brief an Cotta vom <ref target="G000078">3. Juni 1855</ref> nur berichtet, dieses aber dann – sicher nicht zuletzt wegen der Zurückweisung seiner „Pandora“ (später „Figuren“) durch Cotta am 11.7.1855 (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch IV, 328) – mit seinem Brief vom <ref target="G000073">19.7.1855 an Brockhaus</ref> nach Leipzig geschickt, der es zum Verlag annahm (Lieder des Giovanni Meli von Palermo. Aus dem Sicilianischen von Ferdinand Gregorovius. Leipzig: Brockhaus 1856).</note></seg></hi></bibl> u<ex>nd</ex> der <bibl sameAs="G003114"><seg type="comment"><orig>Figuren</orig><note xml:id="nh4h_bh5_5lb">Das Manuskript seines damals noch „Pandora, Eine Sammlung kleiner Schriften aus Italien“ genannten Bandes hatte Gregorovius mit seinem Brief vom <ref target="G000044">27.5.1855 an Cotta</ref> gesandt. Cotta lehnte den Verlag am 11.7.1855 ab (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch IV, 328), so dass der Band an Brockhaus ging und dann in „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) umbenannt wurde.</note></seg></bibl>, wie Sie sich vielleicht erinnern, versetzte, hat die Zeit lange ausgeglichen, u<ex>nd</ex> war ich wieder mit Cottaschen Journalen in Verbindung gekommen. Wahrscheinlich wird nun die Geschichte Rom’s dort erscheinen, u<ex>nd</ex> der <seg type="comment"><orig>Brief der Buchhandlung überzeugt mich fast, d<ex>a</ex>ß meine Wünsche schnell realisirt werden können</orig><note xml:id="nukg_2h5_5lb">Der Verlags-Vertrag über seine „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) mit Cotta wurde am 5. September 1858 von Gregorovius unterzeichnet und an den Verlag übersandt (DLA Marbach, Cotta-Archiv, Cotta-Verträge 1).</note></seg>. Sollte ich mich irren, so <seg type="comment"><orig>werde ich an andere <pb n="1v"/>Geschäfte mich wenden, bis ich reussire</orig><note xml:id="nb5y_fh5_5lb">Wie aus einem Brief von Robert Prutz (1816–1872) an Gregorovius vom 12.11.1857 hervorgeht, hatte sich Gregorovius schon im Vorjahr Gedanken gemacht, welcher Verlag zur Publikation seiner „Geschichte der Stadt Rom im Mittelalter“ (Stuttgart: Cotta 1859–1872) in Frage kommt. Prutz hatte ihm geraten, sich an Cotta oder Brockhaus zu wenden, aber auch einige andere Vorschläge gemacht (BSB München, NL Gregorovius, Gregoroviusiana 21).</note></seg>. Doch hoffentlich wird das nicht nötig sein. Ich bedaure aufrichtig, daß wir nicht übereinkommen konnten, einen anderen restringirten Vorschlag konnte ich nicht mehr machen; denn <seg type="comment"><orig>nach meinem ersten Briefe waren mir schon 4 Monate hingegangen</orig><note xml:id="nopq_hh5_5lb">Gregorovius meint hier seinen Brief an Brockhaus vom <ref target="G000065">2.2.1858</ref>, in dem er allerdings nur mitgeteilt hatte, dass das fehlende Engagemnent des Verlags ihn bislang gehindert hätte, Brockhaus seine „Geschichte der Stadt Rom im Mittelalter“ zum Verlag anzubieten, von der bereits zwei Bände im Manuskript abgeschlossen wären.</note></seg>, ohne daß ich zu meinem Ziele auch nur um einen Schritt näher kam.</p>
+                <p>Sie, verehrter Herr, nehmen mir gewiße Äußerungen sehr übel; sein Sie versichert, d<ex>a</ex>ß ich weit entfernt war ihnen den Sinn zu geben, den Sie darin zu finden scheinen. Und vor allem möchten Sie meine Lage ins Auge faßen. Es würde mir kaum geglaubt werden, sagte ich, was meine Schriften mir eingetragen haben, u<ex>nd</ex> ich begehre nichts als den bescheidensten Lohn meiner Arbeit u<ex>nd</ex> Thätigkeit, welche doch achtungsvoller Anerkennung <add place="intralinear">sich</add> erfreut. Die schriftstellerischen Verhältniße aber sind völlig unwürdig, sowol der Autoren, als der Verleger, als des Publicums – u<ex>nd</ex> darüber sind wir wahrscheinlich alle im Einverständniß, u<ex>nd</ex> erlaube ich mir kein Wort zu sagen.</p>
+                <p><seg type="comment"><orig><persName key="G001512">Herr <hi rendition="#aq">Prutz</hi></persName> hat mir keine Zeile wegen der Annahme des <bibl corresp="G003860 G003861 G003862">Manuscripts über <hi rendition="#aq">Subiaco</hi></bibl> zukommen laßen; es wird Ihnen deshalb mein <persName key="G001203">Bruder</persName> in <note place="left" hand="#addressee">Dies ist erledigt.</note> meinem Auftrage geschrieben haben, ihm den Artikel gefälligst zukommen zu laßen</orig><note xml:id="nknl_sh5_5lb">Im Brief an Brockhaus vom <ref target="G000088">19.4.1858</ref> hatte Gregorovius Brockhaus gebeten, im Falle, dass das „Deutsche Museum“ für den Abruck des am <ref target="G000069">8. März 1858</ref> übersandten Manuskript seines Aufsatzes „Aus der Campagna von Rom. Subiaco, das älteste Benedictinerkloster des Abendlandes, seine Geschichte und seine Altertümer“ nicht das geforderte Honorar zu zahlen bereit ist, es ihm zurückzusenden (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 50). Der Artikel erschien schließlich im „Deutschen Museum“ (Jg. 8. Bd. 2. Nr. 27–29. Leipzig: Brockhaus 1., 8., 15.7.1858. S. 1–10, S. 60–67 und S. 89–99).</note></seg>. Ich wiederhole diese Bitte, falls entweder das Manuscript dort nicht Verwendung findet, oder der Bogen nicht mit 16 <pb n="2r"/>Thalern von der Redaction des <orgName key="G000546">Museums</orgName> berechnet werden kann. Ich muß meine Arbeiten verwehrten; ich würde Ihnen gern Artikel für Ihre Journale zusenden, aber Sie werden mir nicht verdenken, daß ich an den Honoraren von 12 Th<ex>a</ex>l<ex>ern</ex> pro Bogen Anstand nehme, da doch größere anderswo gezahlt werden. Und ich bin auf meine Feder angewiesen.</p>
+<p><note place="left" hand="#addressee"><metamark target="#seg-1" function="used" rendition="#mMM"/>Dies müssen wir demnächst thun.</note><seg xml:id="seg-1">Ich werde Ihnen sehr danken, wenn Sie mir im August die Abrechnung wegen des <hi rendition="#aq">Meli</hi> und der <bibl sameAs="G003430"><hi rendition="#aq">Grabmäler</hi></bibl> machen.</seg></p>
+                <p><seg type="comment"><orig>Im September bin ich wieder in Rom</orig><note xml:id="nkxd_zh5_5lb">Gregorovius kehrte am 28. September 1858 nach Rom zurück (siehe RT, 15.7.1858, S. 75).</note></seg>, wo es mir eine nicht geringe Freude wäre, <seg type="comment"><orig><persName key="G000996">Herrn Brockhaus</persName> auf seiner Heimkehr aus dem Orient zu sehn u<ex>nd</ex> ihm in Rom eifrig dienen zu können</orig><note xml:id="ni5b_135_5lb">Der Verlagsleiter Heinrich Brockhaus (1804–1874) war Ende Januar 1857 erkrankt und versuchte, sich bis Mitte 1859 auf Reisen nach Ägypten, Palästina, Syrien, Griechenland und Italien zu erholen. Währenddessen führte sein Sohn, Eduard Brockhaus (1829–1914), die Verlagsgeschäfte. Erst im März 1859 traf Heinrich Brockhaus in Rom ein, wo Gregorovius befand, er sei „ein lebenskräftiger und einfacher Mann“ (siehe RT, 2.4.1859, S. 78).</note></seg>. </p>
+<p>Mit der Bitte, mir Ihr Wolwollen in keiner Weise zu entziehn, sondern mir wie bisher Ihre Aufmunterung u<ex>nd</ex> Teilnahme zu bewahren – u<ex>nd</ex> ich hoffe noch zu Ihnen zu kommen u<ex>nd</ex> mich als ein anerkanntes Mitglied Ihrer literarischen Familie zu behaupten – sehr verehrter Herr,<lb/></p>
+                <closer>
+<salute rendition="#c">hochachtungsvoll u<ex>nd</ex> ergebenst <lb/>Ihr</salute>
+<signed rendition="#right"><hi rendition="#aq">Ferdinand Gregorovius</hi>. </signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

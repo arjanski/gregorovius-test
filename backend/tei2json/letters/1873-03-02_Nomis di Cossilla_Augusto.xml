@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_icr_1zf_nlb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Augusto Nomis di Cossilla. Rom, 2. März 1873</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free"><licence target="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International (CC BY 4.0) </licence></availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Bibliothèque de Genève</repository><collection>Collection Burkhard Reber, D.O. autogr. 21/31</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ½ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+<p xml:lang="de">Von dem 1872 von ihm als Autor autorisierten Nachdruck der italienischen Übersetzung seiner „Wanderjahre in Italien“ (Ricordi storici et pittorici d’Italia) will die Witwe des Mailänder Verlegers Manini wegen des guten Absatzes eine Neuauflage veranstalten, ihn als Autor aber nicht am Gewinn beteiligen. Daher wird es von ihm keine neuerliche Autorisation zu einem Neudruck geben; vielmehr würde er seine Rechte auf die Übersetzung geltend machen. Überdies ist Cosillas Übersetzung von 1872 fehlerhaft. </p>
+<p xml:lang="en"/>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1873-03-02" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="ed_ecl_tzf_nlb">Nomis di Cossilla, Augusto (1815-1881)</persName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Roma, 2. Marzo 1873.</dateline>
+                    <salute rendition="#c">Illustre <seg type="comment"><orig>Signor Conte</orig><note xml:id="ntkg_gnz_ylb">Der Jurist Augusto Nomis di Cossilla (1815–1881) war Sindaco von Turin (1860), Präfekt von Palermo (1863) und von Genua (1865), seit 1868 Senator des Königreichs und Mitglied im Turiner Gemeinderat. 1871 wurde der Graf in diesem Amt jedoch aufgrund seiner vielen Reisen und wechselnder Wohnorte (zunächst Florenz, dann Rom, später Chiavari) nicht bestätigt. Mit seinem daraufhin eingehenden Rückzug aus der Politik wandte sich Nomis di Cosilla verstärkt seiner Übersetzertätigkeit zu. Er übertrug mehrfach deutsche literarische und historische Werke ins Italienische. Gregorovius hatte den Grafen auf eine Übersetzung von Ludwig Friedländers (1824–1909) „Sittengeschichte“ (3 Bde., Leipzig: Hirzel 1862–1871) angesetzt, die dieser auch in Angriff nahm; siehe dazu die Briefe von Gregorovius an Ludwig Friedländer vom 13.4. und 26.5.1872. Über das vorliegende Schreiben von Gregorovius an Nomis di Cosilla hinaus, ist keine weitere Korrespondenz zwischen den beiden bekannt.</note></seg>,</salute>
+                </opener>
+<p>in conseguenza della comunicazione fattami dalla <seg type="comment"><orig>s<ex>i</ex>g<ex>no</ex>ra <orgName key="ed_vjq_cp4_plb">Manini editrice</orgName></orig><note xml:id="nkb3_htz_ylb">Witwe eines der beiden Verlagsinhaber, die Brüder Manini, vermutlich Costantino und Ferdinando. Deren Vater Omobono Manini hatte den Verlag 1819 in Mailand gegründet.</note></seg>, che l’edizione dei <bibl corresp="G004328">Ricordi d’Italia</bibl> <seg type="comment"><orig>stia per esaurirsi</orig><note xml:id="nchs_ntz_ylb">Erstmals erschienen war die von Nomis Di Cosilla verantwortete Übersetzung der „Wanderjahre“ unter dem Titel „Ricordi storici et pittorici d’Italia“ (2 Bde. Mailand: Manini) im Jahre 1865. Ende 1872 erschien sie unter demselben Titel und erneut in zwei Bänden noch einmal bei Manini. Der Ausverkauf der Ausgabe bezieht sich hier demnach auf die 1872er Ausgabe.</note></seg>, e che perciò ne <seg type="comment"><orig>farebbe d’uopo di una ristampa</orig><note xml:id="nezz_ptz_ylb">Dieser Brief der Verlegerin mit dem Vorschlag für einen weiteren Nachdruck ist nicht erhalten. </note></seg>, proposi come autore alla sovradetta signora un nuovo patto di questo tenore: <seg type="comment"><orig>l’autore cede all’ editrice un’ altra edizione di copie 1000, per cui avrà da ritirare 300 lire per volume</orig><note xml:id="nzqj_rtz_ylb">Gregorovius’ Antwort an die Witwe Manini mit seinen hier angegebenen Bedingungen ist nicht erhalten. Einem Brief an Brockhaus zufolge hatte sich Nomis di Cosilla im Frühjahr 1872 mit der Bitte um Erteilung der Rechte zum Nachdruck seiner Übersetzung von 1865 an Greorovius gewandt: „Ich habe habe ihm dieselbe gegeben nebst Bewilligung ausschließlichen Verlagsrechts dieser Übersetzung auf sechs Jahre, was die Herausgeberin verlangte, die Wittwe Manini in Mailand. Zugleich garantirte ich vorweg derselben auf Begehren, auch die Einwilligung von Ihrer Seite, annehmend daß Sie dies gutheißen werden. Auf jede Vergütung durch Honorar habe ich bei den kläglichen Verhältnißen des italienischen Buchhandels für dieses Werk verzichten müßen.“ Siehe den Brief von Gregorovius an den Verlag F. A. Brockhaus vom 31.3.1872; Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 114.</note></seg>. </p>
+<p><seg type="comment"><orig>Ella conoscerà dalla lettera della s<ex>i</ex>g<ex>no</ex>ra M<ex>anini</ex> la risposta che ne ebbi</orig><note xml:id="nplj_5tz_ylb">Dem Ton des vorliegenden Briefes zufolge hatte sich die Verlegerin mit Gregorovius’ Bedingungen nicht einverstanden gezeigt; auch dieses Schreiben der Manini ist allerdings nicht erhalten. </note></seg>, e i sentimenti o massime a cui par voglia inspirarsi nella sua azione. </p>
+<p>Allorquando io ebbi l’onore di esser richiesto da V<ex>ostra</ex> S<ex>ignoria</ex> della concessione di far stampare una versione della <bibl corresp="G003122 G003183 G003259 G003301 G003342">mia opera</bibl>, gliela diedi alla più larga, dietro la precisa sua affermazione, che facendo io altrimenti <seg type="comment"><orig>Ella avrebbe intrapreso inutilmente il suo lavoro, e che uno smercio sufficiente della versione non sarebbe da sperarsi</orig><note xml:id="nfkv_xtz_ylb">Siehe hierzu noch einmal den Brief von Gregorovius an den Verlag F. A. Brockhaus vom 31. 3.1872.</note></seg>. Dandole quindi quella larga concessione, io ero ben lungi dal supporre, che <seg type="comment"><orig>il successo ottenuto realmente</orig><note xml:id="nmfl_b5z_ylb">Wie ein weiteres Schreiben Gregorovius’ an den Verlag F. A. Brockhaus belegt, war der Nachdruck von 1872 Ende September/ Anfang Oktober erschienenen; siehe den Brief von Gregorovius an den Verlag F. A. Brockhaus vom 6.10.1872; H: Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 124. Innerhalb der sechs Monate von Oktober 1872 bis März 1873 muss sich die Ausgabe also sehr gut verkauft haben, weshalb Übersetzer und Verlegerin den hier diskutierten, weiteren Nachdruck forderten.</note></seg> dalla versione dovesse esser ben diverso da quello creduto da lei, e che invece del <pb n="1v"/>termine di sei anni bastassero altrettanti mesi, per vendere tante copie quante erano sufficenti a dimostrare l’esito buono dell’ impresa anche in avvenire. </p>
+<p>Come si ricorderà da una mia lettera, io intendevo nel concederle il diritto di stampare quante copie ne voleva, una sola edizione, per la vendita della quale, supposta da lei difficilissima, furono conceduti <seg type="comment"><orig>da me sei anni</orig><note xml:id="ndnv_g5z_ylb">Hier bezieht er sich auf die allerste, ursprüngliche Vereinbarung, mit der die Übersetzung von 1865 für eine Auflage, jeodch einer unbegrenzten Anzahl an Exemplaren festgelegt worden war. </note></seg>. La lettera della sig<ex>no</ex>ra M<ex>anini</ex> però dimostra, che l’editrice intende impadronirsi senz’altro della mia opera per farne entro il termine di anni 6 quante edizioni ne occorreranno, senza punto rispettare più i diritti dell’ autore, al quale, tenendo in mano la Cessione tramandatale da V<ex>ostra </ex>S<ex>ignoria</ex>, nega il correspettivo di una somma tanto discreta, che <seg type="comment"><orig>la farebbe sorridere il mio <orgName key="G000480">editore di Lipsia</orgName></orig><note xml:id="nawd_l5z_ylb">Die „Wanderjahre in Italien“ (Bd. 3) waren 1861 bei Brockaus in Leipzig erschienen.</note></seg>.</p>
+<p>Sono io, ringraziamo Iddio, in grado, di far senza quella somma: ma si tratta qui di diritto, e inoltre si tratta oramai di causa divenuta morale.</p>
+<p>S’io nel comporre quella Cessione in favor della versione di V<ex>ostra</ex> S<ex>ignoria</ex> commisi un’errore, non esprimendovi chiaramente il mio intendimento, l’edi<pb n="2r"/>trice della sua versione forse legalmente se ne potrà approfittare a modo di andar senz’ altro avanti con edizioni della mia opera: però avvi ancora un’ altra legge, che non registrata nei libri dei legali, vuol pertanto esser rispettata, e che <seg type="comment"><orig>niuno</orig><note xml:id="nhdc_t5z_ylb">Antik für: nessuno.</note></seg> offenderà senza offendere sè stesso. Un’autore trattato non bene da un’ editore, mentre patisce il danno, possiede nello stesso tempo molti mezzi di pubblicità, per cui <seg type="comment"><orig>far provare all’editore danni sensibili</orig><note xml:id="nlym_55z_ylb">Nicht ermittelt, ob und in welcher Form Gregorovius dem Verlag Manini mittels negativer Berichterstattung Schaden zufügte.</note></seg>. </p>
+<p>In quello che mi prendo la libertà di darle perche degli intendimenti della signora Manini, mi truovo posto nella necessità di protestare davanti a V<ex>ostra</ex> S<ex>ignoria</ex>, che ogni nuova edizione della versione sua fatta dalla sua editrice, prima che la medesima avesse soddisfatto le mie discretissime ragioni, <seg type="comment"><orig>sarà tenuta da me come cosa fatta contra la mia volontà, e quindi come danneggiamento arrecato ai miei diretti di proprietà</orig><note xml:id="nqpn_w5z_ylb">Der Ausgang der Diskussion ist nicht bekannt und die Zusprechung eines Honorars an Gregorovius ist nicht dokumentiert. </note></seg>. </p>
+<p>Prego V<ex>ostra</ex> S<ex>ignoria</ex> Ill<hi rendition="#sup"><hi rendition="#u" hand=""><ex>ustrissi</ex>ma</hi></hi> di procurarmi una copia autentica della Concessione di stampare scritta da me, e consegnata da me a lei nel marzo dell’ anno scorso.</p>
+<p>Sono arrivato nella lettura della sua versione fino al secondo <pb n="2v"/>capitolo del Vol<ex>ume</ex> II°. <seg type="comment"><orig>Vi sarebbero da levare diversi errori</orig><note xml:id="nrfm_y5z_ylb">Nach einem Treffen mit Nomis di Cosilla im Dezember 1872 hält er seine Kritik an dessen Übersetzung im Tagebuch fest (siehe RT, 25.12.1872, S. 328).</note></seg>, difetti per altro che s’incontrano più o meno in qualunque siasi versione di libri stranieri. </p>
+<p>Ho l’onore, Signor Conte, di protestarmi colla più alta stima,</p>
+                <closer>
+<salute xml:id="s1" next="#s2" rendition="#c">di V<ex>ostra</ex> S<ex>ignoria</ex> Ill<hi rendition="#sup"><hi rendition="#u" hand=""><ex>ustrissi</ex>ma</hi></hi></salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">servitor devoto</salute>
+<signed rendition="#c">FGregorovius.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

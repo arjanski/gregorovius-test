@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067836">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Manfred Lindemann-Frommel in Triberg. Traunstein, 20. August 1875</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Universität Würzburg</repository><collection>Martin-von-Wagner-Museum</collection><idno>NL Lindemann-Frommel, L 36–64, XI</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Von Manfred Lindemann-Frommels Eltern hat er erfahren, dass dieser sich in Triberg aufhält. Er bittet um Nachricht über die Heilung seines im Vorjahr gebrochenen Beines. Gestern war der 56. Geburtstag des Vaters Karl Lindemann-Frommel, der ihn mahnen soll, seine Studien zu beschleunigen. Seit Ende Juni waren nur Graf Hugo Leutrum von Ertingen mit seiner Nichte und sein Buder Julius zu Besuch in Traunstein; er selbst war zwei Mal kurz in München. Mit seinem Bruder Julius, seiner Halbschwester Ottilie Elgnowski und deren Sohn Hermann hat er in München eine Wohnung bezogen, wo Manfred Lindemann-Frommel auf dem Weg nach Rom immer unterkommen kann. In Traunstein wohnt er im Brauhaus des Advokaten Alois Hutter; die Verpflegung ist kümmerlich. Er möchte wissen, ob Karl Freiherr von Racknitz mit seiner Familie bereits in Stuttgart ist. Von Wolfgang Erhardt (?) hat er keine Nachricht aus Baden. Familie Franz Seitz ist in Prien. Ernst von Bandel wird nach der endlich erfolgten Einweihung des Hermannsdenkmals keine Aufgabe mehr finden.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000888">Traunstein</placeName><date when="1875-08-20" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001376">Lindemann-Frommel, Manfred (1852–1939)</persName>
+<placeName key="G067560">Triberg</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Traunstein, 20. <hi rendition="#aq">Aug<ex>ust</ex></hi> 75.</dateline>
+                    <salute>Lieber Manfredi,</salute>
+                </opener>
+<p>von den Deinigen in <placeName key="G000763">Rom</placeName> erfahre Deinen jetzigen Aufenthalt <seg type="comment"><orig>hinter den Zäunen u<ex>nd</ex> auf den <seg type="comment"><orig><unclear reason="illegible" cert="high">Immondizzaj</unclear></orig><note xml:id="nqkm_vsm_dmb">Unsichere Lesung, vermutlich von ital. „immondizia“: Unrat oder von ital.: immondezza – Unsauberkeit.</note></seg> von <placeName key="G067560">Triberg</placeName></orig><note xml:id="nl5r_3xm_dmb">Im Schwarzwald, bei Verwandten, etwa 130 Kilometer südlich von Konstanz, wo Manfred Lindemann-Frommel seit 1875 Malerei studierte. </note></seg>; darum will ich Dich dort begrüßen, u<ex>nd</ex> Dich auch um ein paar Zeilen bitten, damit ich weiß, wie es Dir ergeht, und ob Dein <seg type="comment"><orig>Hinterfuß und sonstige Gliedmaßen wieder in Ordnung gekommen sind</orig><note xml:id="na2c_lxm_dmb">Manfred Lindemann-Frommel hatte sich im Vorjahr ein Bein gebrochen (siehe den Brief von Gregorovius an Manfred Lindemann-Frommel, 1.11.1874) und war im Frühjahr 1875 für vier Wochen zur Erholung zu seinen Eltern nach Rom gefahren (siehe Peter K. W. Freude: Karl Lindemann-Frommel. Ein Malerleben in Rom. Monographie und Werkverzeichnis seines graphischen und malerischen Schaffens. Murnau am Staffelsee 1997. S. 70).</note></seg>. </p>
+<p>Gestern war auch <seg type="comment"><orig>Deines <persName key="G001375">Vaters</persName> Geburtstag</orig><note xml:id="nnz4_mxm_dmb">Karl Lindemann-Frommel war am 19. August 1875 56 Jahre alt geworden.</note></seg>, wo er ein bedenkliches Alter erreicht hat, Dir zur Mahnung <seg type="comment"><orig>Deine Laufbahn zu beschleunigen</orig><note xml:id="ngfk_ywm_dmb">Manfred Lindemann-Frommel studierte seit 1875 in Karlsruhe Malerei. Nach einem abgebrochenen Architekturstudium war er Schüler an der Technischen Universität München von Adolf Heinrich Lier (1826–1882) an der Grossherzoglichen Badischen Akademie der bildenden Künste in Karlsruhe; 1875 und 1880–1883 studierte er dort unter Hermann Baisch (1846–1894) und Gustav Schönleber (1851–1917). </note></seg>, um selbständig zu werden.</p>
+<p>Ich bin <seg type="comment"><orig>seit ultimo Juni hier – es ist aber langweilig in Traunstein</orig><note xml:id="nhym_pxm_dmb">Ende Juni aus Rom kommend, war Gregorovius über Kufstein direkt nach Traunstein gefahren; am 1. September 1875 zog er in die gemeinsame Wohnung mit seinen Geschwistern (s. u.). Seine Vorbehalte gegen die „Einrichtung der Häuslichkeit“ in München wurden ihm durch die Geschwister erleichtert, indem sie „die Essenszeiten römisch einrichteten“ (siehe RT, 1.3.1876, S. 359).</note></seg>. Erst waren <seg type="comment"><orig><persName key="G001367">Leutrum</persName> u<ex>nd</ex> Nichte hier</orig><note xml:id="nh1w_sxm_dmb">Mit dem ehemaligen General-Staatsanwalt und Rat beim Zivilsenat des Obertribunals in Stuttgart Graf Hugo Leutrum von Ertingen (1814–1884) und seiner Nichte war Gregorovius bereits im 1873 in Traunstein zusammengetroffen (siehe RT, Sommer des Jahres 1873, S. 332 und den Brief von Gregorovius an Wilhelm Heyd, 17.8.1873).</note></seg>, doch nur auf kurze Zeit, worauf sie nach <placeName key="G000714">Lindau</placeName> gingen. Mein <persName key="G001203">Bruder</persName> war von <placeName key="G000734">München</placeName> aus 1 mal zum Besuche bei mir, dann <pb n="1v"/>war ich 2mal in München. Du mußt nämlich wißen, daß <seg type="comment"><orig>wir 3 <persName key="G001111">Geschwister</persName> eine Wohnung in der Barerstrasse <foreign xml:lang="ita"><hi rendition="#aq">n<ex>umero</ex></hi></foreign> 3 genommen haben</orig><note xml:id="nlqv_5xm_dmb">Gregorovius war mit seinem Bruder Julius (1818–1891), seiner Halbschwester Ottilie Elgnowski (1834–1907) und deren Sohn Hermann (1860–1936) zusammengezogen.</note></seg>. Dort hat jeder von uns 2 Zimmer, u<ex>nd</ex> der <persName key="G001109">Neffe</persName> 1. Ich habe angefangen mir Möbeln zu kaufen; es ist das erste Mal im Leben, daß ich solche besitze.</p>
+<p>Jetzt wirst Du immer, wenn Du München passirst um <seg type="comment"><orig>von <hi rendition="#aq">Bob</hi> nach <hi rendition="#aq">Keb</hi>, und dann nach <hi rendition="#aq">Sfai</hi> Dich zu begeben</orig><note xml:id="nixs_zxm_dmb">„Bob“ meint hier die Berner-Oberland-Bahnen, „Keb“ steht für die österrreichische „Kaiserin-Elisabeth-Bahn“ , „Sfai“ für die oberitalienischen Eisenbahnen („Strade Ferrate dell’Alta Itlia“).</note></seg>, bei uns logiren können.</p>
+<p>Alle Bäder sind hier leer – es ist die Zeit der 7 magern Kühe in <placeName key="G000664">Deutschland</placeName>, nebst Heuschrecken, Juden u<ex>nd</ex> Soldaten, die alles auffreßen.</p>
+<p>Ich wohne dasmal im weißen <seg type="comment"><orig>Brauhause bei <hi rendition="#aq"><persName key="ed_xtd_xb3_zkb">Dr. Hutter</persName></hi></orig><note xml:id="ndzm_gym_dmb">Alois Hutter, der Advokat und bis 1896 der Besitzer des heute noch bestehenden Traunsteiner Hofbräuhauses. </note></seg>, was 1 schön Haus ist; <pb n="2r"/>das Mittagseßen aber besteht auch nur aus dem Fleisch jener 7 magern Kühe, und ist eine wahre Misere in diesem Ländern zu leben.</p>
+<p>Ich bleibe noch bis Ende August hier, u<ex>nd</ex> bitte Dich mir bis dahin zu schreiben, auch zu sagen, <seg type="comment"><orig>ob <placeName key="G000687">Heinsheim</placeName> schon nach <placeName key="G000879">Stuttgart </placeName>gegangen ist</orig><note xml:id="nyh5_hym_dmb">Heinsheim, etwa 60 Kilometer nördlich von Stuttgart, dem Wohnsitz seines Onkels Karl Freiherr von Racknitz (1827–1905) und seiner Frau Emma, geb. Freifrau von Gemmingen-Guttenberg zu Bonfeld vom Obern Schlosse (1839–1907) mit ihren fünf Kindern.</note></seg>.</p>
+                <closer>
+<salute>Lebe herzlich wol, guter Manfredi.</salute>
+<signed rendition="#c">FGr</signed>
+<note type="postscript">
+<p>Vom großen <seg type="comment"><orig><hi rendition="#aq">Dr. Recipe</hi> u<ex>nd</ex> Familie in <placeName key="G000623">Baden</placeName></orig><note xml:id="nzyz_nym_dmb">Wahrscheinlich ein scherzhafter Name für den eng befreundeten deutschen Botschaftsarzt in Rom Wolfgang Erhardt (1819–1906), der die Sommer mit seiner Familie häufig in Süddeutschland verbrachte. Er war der behandelnde Arzt von Auguste Lindemann-Frommel (1826–1876) und hielt Gregorovius über deren Gesundheitszustand auf dem Laufenden. Siehe den Brief von Gregorovius an Manfred Lindemann-Frommel, 7.11.1875 (Universität Würzburg, Martin-von-Wagner-Museum, NL Lindemann-Frommel, L 36–64, XIV).</note></seg> habe ich nichts gehört.<seg type="comment"><orig> <hi rendition="#aq"><persName key="G001597">Seitz</persName></hi> sind in <placeName key="G000758">Prien</placeName></orig><note xml:id="ntrk_sym_dmb">Franz Seitz (1811–1892), Professor an der Universitäts-Klinik in München, und seine Frau Anna Franziska (Fanny), geb. von Faulhaber (1831–1917), mit der er drei Kinder hatte: Carl (1858–1943), Fanny (1859–1945) und Marie (1861–1933). Auf seinen Rat hin hatte Gregorovius Traunstein als Kurort gewählt (siehe RT, 10.9.1872, S. 325). Gregorovius pflegte mit der Familie regelmäßigen Umgang (siehe RT, 14.10.1870, S. 297 und 2.12.1871, S. 312), wovon auch die Porträts der Familienmitglieder zeugen, die sich im Nachlass von Gregorovius erhalten haben (BSB München, NL Gregorovius, Gregoroviusiana 30, 63–66).</note></seg>. </p>
+<p>Wie schön ist das <seg type="comment"><orig>Loos des alten Bildhauer <persName key="ed_w5v_vc3_zkb">Bandel </persName>– ein merkwürdiges Künstlerleben. Jetzt sollte der Mann bald sterben, oder sich vom Kopf des <placeName key="G00082555">Hermann</placeName> herunterstürzen</orig><note xml:id="ntlt_vym_dmb">Der Architekt, Bildhauer und Maler Ernst von Bandel (1800–1876) war der Bauherr des 1838 und 1875 entstandenen Hermannsdenkmals zur Erinnerung an den Cheruskerfürsten Arminius (17 v. Chr. – um 21 n. Chr.), das durch eine mit seinem Sohn Roderich (1830–1913) entwickelten Konstruktion eines inneren Eisengerüstes die Kupferplatten der riesigen Skulptur von innen her zusammenhielt. Nach vielen Wechselfällen war es am 16. August 1875 in Anwesenheit des deutschen Kaisers Wilhelm I. (1797–1888), der die fehlende Summe zur Fertigstellung bereitgestellt hatte, feierlich eingeweiht worden. Der Kaiser gewährte dem geschwächten Künstler einen mehrmonatigen Kuraufenthalt in Italien, auf dessen Heimreise er am 25. September 1876 starb.</note></seg>.</p>
+</note>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

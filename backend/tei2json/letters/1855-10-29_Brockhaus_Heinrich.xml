@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000026">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Heinrich Brockhaus in Leipzig. Rom, 29. Oktober
+                    1855</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (20)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 8°, 1 ¾ S. – 1r aoR in einer Vignette geprägt: BATH – 2v alR, Blatt um 90° gedreht, Eingangs- und Beantwortungsvermerk: 1855. / <hi rendition="#aq">Rom</hi>, 29. <hi rendition="#aq">Octbr</hi>./5. <hi rendition="#aq">Novbr</hi>. / <hi rendition="#aq">Gregorovius</hi>. / B. 1/XII.</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er bestätigt den Erhalt der ersten Druckbogen seiner „Figuren, Geschichte, Leben und Scenerie aus Italien“ (1856), deren Ausstattung er begrüßt. Er beklagt aber die schwankende Orthographie des Setzers. Er bittet dringend, seine Schreibweise einzuhalten, die der von August Graf von Platen und Heinrich Leo entspricht. In seiner geplanten Arbeit zur Kulturgeschichte Siziliens will er sich stilistisch an der „Istorie Fiorentine 1215–1492“ (1532) von Niccolò Machiavelli orientieren. Das Manuskript seiner „Fragmente von Agrigent“ hat er am 26. Oktober übersandt.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He confirmed the receipt of the first printed sheets of his „Figuren, Geschichte, Leben und Scenerie aus Italien“ (1856), the layout of which he appreciates. But he complains about the erratic orthography of the typesetter. He urges Brockhaus to follow his spelling, which corresponds to that of August Graf von Platen and Heinrich Leo. In his planned work on the cultural history of Sicily, he wants to use the style of „Istorie Fiorentine 1215–1492“ (1532) by Niccolò Machiavelli. He sent the manuscript of his „Fragmente von Agrigent“ on October 26th. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1855-10-29" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G000996">Brockhaus, Heinrich (1804–1874)</persName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next">1. Dezember 1855</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+<body><pb n="1r"/>
+<div type="writingSession">
+<opener>
+<salute>Sehr verehrter Herr,</salute>
+</opener>
+<p>ich habe heute <seg type="comment"><orig>die 3 ersten Aushängebogen unsres <bibl sameAs="G003114">Buches</bibl></orig><note xml:id="ni5l_sl2_plb">Die Druckfahnen seiner im Druck befindlichen „Figuren, Geschichte, Leben und Scenerie aus Italien“ (1856).</note></seg> erhalten, u<ex>nd</ex> sie sind der Grund, warum ich eilig diese flüchtigen Zeilen schreibe.</p>
+<p>Mein bestes Compliment Ihrer <hi rendition="#aq">Officin</hi> für die ausgezeichnete Correctheit des Drucks, wo ich nicht einen Fehler aufgefunden habe, deßgleichen Ihnen meinen Dank für eine so handliche u<ex>nd</ex> graziöse Ausstattung; nur eins hat mich sehr bekümmert; ich finde nämlich, d<ex>a</ex>ß die Setzer, welche für die Journale mit vollem Recht die Orthographie der <hi rendition="#aq">Officin</hi> anwenden, dieses auch bei dem selbständigen Buche des Autors gethan haben; ich bitte Sie dringend, die Ordre zu geben, d<ex>a</ex>ß <hi rendition="#u">strict u<ex>nd</ex></hi> <hi rendition="#u">genau</hi> <hi rendition="#u">meine</hi> Orthographie im übrigen Druck festgehalten werde. Schon in d<ex>en</ex> 3 ersten Bogen’ hat der Setzer geschwankt, da er oft diese u<ex>nd</ex> die andre Schreibart anwendet, es wird mir daher leichter erträglich sein, die Orthographie abweichen zu sehn, als mir ganz u<ex>nd</ex> gar ein fremdes Wesen aufzwingen zu laßen, welches mit meinen übrigen Schriften vollständig disharmonirt.</p>
+<p>Dies sind die Mißstände eines Schriftstellers, der nicht selbst den Druck revidiren kann. Solche Worte, wie <hi rendition="#u">napoleon’sche</hi>, statt napoleo<hi rendition="#u">nische</hi>, welches wolklingt, verwunden mein Gehör bis zum Unerträglichen; über das h habe ich die Regeln altdeutschen, einfachen Gebrauchs, die auch<persName key="G001500"> <hi rendition="#aq"><seg type="comment"><orig>Platen</orig><note xml:id="nczj_cm2_plb">Der von Gregorovius sehr geschätzte Dichter August Graf von Platen (1796–1835).</note></seg></hi></persName>, <persName key="G001361"><hi rendition="#aq"><seg type="comment"><orig>Leo</orig><note xml:id="ngrv_dm2_plb">Vermutlich der seit 1830 an der Universität Halle lehrende Historiker Heinrich Leo (1799–1878), der eine 5-bändige „Geschichte der italienischen Staaten“ geschrieben hatte (Hamburg: Perthes 1829–1832).</note></seg></hi></persName> etc. angewendet haben. Kurz u<ex>nd</ex> gut, ich bitte Sie, verehrter Herr, dringend, Ihre Befehle an die Setzer zu geben, <pb n="1v"/>damit mir die Freude an dem wol ausgestatteten Buche nicht verbittert werde.</p>
+<p><seg type="comment"><orig>Uber den Titel Figuren nachdenkend, finde ich, d<ex>a</ex>ß es mir nicht gelingen wird, einen preciseren aufzustellen</orig><note xml:id="nutc_nm2_plb">Mit seinem Brief vom <ref target="G000033">12.9.1855</ref> hatte Gregorovius die Titeländerung seines zunächst „Pandora, eine Sammlung kleiner Schriften aus Italien“ betitelten Bandes vorgeschlagen. Siehe auch den vorangehenden Brief vom <ref target="G000050">26.10.1855</ref>.</note></seg>, u<ex>nd</ex> sehe, d<ex>a</ex>ß er sich am Ende rechtfertigen läßt u<ex>nd</ex> gut ausnehmen wird. Ich hoffe, wir werden an dem Buche Freude erleben; wenigstens ist es sicher, wegen der Form anerkannt zu werden, worauf ich jetzt die äußerste Sorgfalt verwende, u<ex>nd</ex> ich lerne viel von <seg type="comment"><orig><bibl sameAs="G004281">des <hi rendition="#aq">Macchiavelli</hi> Florentinischen Geschichten</bibl></orig><note xml:id="nwph_bn2_plb">Die „Istorie Fiorentine 1215–1492“ (Florenz 1532) des Staatsmannes und Schriftstellers Niccolò Machiavelli (1469–1527) hatte Alfred von Reumont ins Deutsche übersetzt (Niccolo Machiavelli's Florentinische Geschichten. 2 Tle. Leipzig: Brockhaus 1846).</note></seg>. Man muß heut zu Tage in dem Stil schreiben, welcher, wie die Italiener sagen, <seg type="comment"><orig><hi rendition="#aq"><foreign xml:lang="ita"><hi rendition="#u">limpido</hi></foreign></hi></orig><note xml:id="nwst_tm2_plb">Ital.: klar, rein.</note></seg> ist. Dieser aber soll mir recht heraus kommen bei meiner <seg type="comment"><orig>Culturgeschichte Siciliens</orig><note xml:id="numr_dn2_plb">Zu Gregorovius’ nicht ausgeführtem Plan einer Studie zu den „Culturepochen Siziliens“ siehe den Brief von <ref target="G000078">Gregorovius an Cotta, 3.6.1855</ref>. Seine ab 1854 v. a. in Blättern von Cotta erschienen Artikel über Sizilien wurden als Buchpublikation zusammengefasst in: Siciliana. Wanderungen in Neapel und Sicilien. Leipzig: Brockhaus 1861 (ab der 2. Auflage 1865 als Bd. 3 der „Wanderjahre in Italien“).</note></seg>, wo ich <hi rendition="#aq"><foreign xml:lang="ita">limpidissimo</foreign></hi> schreiben will.</p>
+<p><seg type="comment"><orig>Unter dem 26. October habe ich für das Deutsche Museum einen Artikel „<bibl corresp="G003840 G003841">Agrigent</bibl>‟ abgehn laßen</orig><note xml:id="nbn5_kn2_plb">Das Manuskript seiner „Fragmente von Agrigent“ hatte Gregorovius mit seinem Brief vom <ref target="G000050">26.10.1855</ref> übersandt. Sie erschienen in: Deutsches Museum. Zeitschrift für Literatur, Kunst und öffentliches Leben. Nr. 19–20. Jg. 6. Leipzig: Brockhaus 8. und 15.5.1856. S. 681–696, S. 713–728.</note></seg>, der wol schon in ihren Händen sein wird.</p>
+<closer>
+<salute xml:id="s1" next="#s2">Mit hochachtungsvoller Ergebenheit, mein verehrter Herr,</salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">Ihr</salute>
+<signed rendition="#right"><hi rendition="#aq">F. Gregorovius</hi></signed>
+<dateline><hi rendition="#aq">Rom</hi> d<ex>en</ex> 29 <hi rendition="#aq">October</hi> 1855. </dateline>
+</closer>
+</div>
+</body>
+</text>
+</TEI>

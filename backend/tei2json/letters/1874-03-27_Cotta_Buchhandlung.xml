@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000384">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an die J. G. Cotta’sche Buchhandlung in Stuttgart. Rom, 27. März 1874</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (185)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S. – lv unter der Datumszeile Beantwortungsvermerk: 31 – beantw.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 57 Mappe 340–342 (nach D) und Karton 55 Mappe 336–337 (Ergänzungen nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 349–351 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">EEr hat Franz Rühl gemahnt, das restliche Manuskript des nach der zweiten Auflage zu revidierenden Gesamtregisters seiner „Geschichte der Stadt Rom im Mittelalter“ (1869–1874) umgehend einzusenden. Bei dem Ankündigungstext zu dieser Auflage für die „Allgemeine Zeitung“ bittet er den Passus zur Indizierung durch den Vatikan zu streichen. Die ausgezeichneten Druckproben der Faksimiles für den Dokumenten-Anhang seiner „Lucrezia Borgia“ (1874) müssen noch beschriftet werden. Von Friedrich Althaus hat er noch keine Nachricht, ob er die Rezension seiner „Lucrezia Borgia“ für die „Allgemeine Zeitung“ übernimmt. An die Zeitschrift „Im neuen Reich“ bittet er ein Rezensionsexemplar an den Verfasser der letzjährigen Besprechung seiner „Geschichte der Stadt Rom im Mittelalter“(1859–1872) zu senden (Wilhelm Lang). Desgleichen soll ein Exemplar an die Redaktion der „Weser-Zeitung“ gesandt werden. Neben der „Kölnischen Zeitung“ und der „Neuen Freien Presse“ in Wien kommt zudem die Berliner „National-Zeitung“ in Frage, mit dessen Redakteur Eugen Zabel er persönlich bekannt ist – er hält die Zeitungs-Feuilletons ohnedies für geeigneter als die Zeitschriften von Brockhaus, zumal deren Herausgeber Rudolf Gottschall ihm nicht wohlgesonnen ist.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1874-03-27" cert="high"/>
+</correspAction>
+                <correspAction type="received"><orgName key="G000523">J. G. Cotta'sche Buchhandlung</orgName>
+<placeName key="G000879">Stuttgart</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">9. März 1874 (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch  VIII, 294–295)</ref>
+<ref type="prev">18. März 1874 (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch  VIII, 308)</ref>
+<ref type="next">31. März 1874 (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VIII, 319–320)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c">Rom, 27. <hi rendition="#aq">März</hi> 1874.</dateline>
+<salute>Hochgeehrte Herren,</salute>
+</opener>
+<p><seg type="comment"><orig><persName key="G001562">Dr. Rühl</persName> in <placeName key="G000665">Dorpat</placeName> wird bereits das Monitorium in Händen haben, welches ich ihm zuschickte.</orig><note xml:id="nc4r_dw4_5lb">Mit dem Abschluss des Text-Drucks der zweiten Auflage des achten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1874) war die Ausgabe komplett überarbeitet, hiernach sollte Franz Rühl (1845–1916) das vom ihm für die Erstauflage (1859–1872) erstellte Gesamtregister überarbeiten. Bereits am 18.12.1873 hatte Gregorovius Rühl an die Fertigstellung seines Manuskripts gemahnt (siehe in: Johannes Honig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 343–344). Am 9.3.1874 und am 18.3.1873 hatte dann auch Cotta Gregorovius erinnert, dass die erste Auflage vollständig vergriffen ist und Rühl sein revidiertes Manuskript noch immer nicht vollständig an den Verlag gesandt hate (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VIII, 294–295 und 308). Am 22.3.1874 hatte Gregorovius Rühl erneut gemahnt (siehe in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 349).</note></seg> Seine Zeit wird sehr beschränkt sein, weshalb er diese bedauerliche Zögerung verursacht hat, was wir ihm zu gute halten wollen, da seine Arbeit am Index sonst tüchtig u<ex>nd</ex> gewißenhaft ist.</p>
+<p>Sie werden den <seg type="comment"><orig>Entwurf der Anzeige der vollständigen 2. Auflage der  <bibl corresp="G003435 G003442 G003449 G003456 G003463 G003470 G003477 G003489">Gesch<ex>ichte</ex> d<ex>er</ex> S<ex>tadt</ex> R<ex>om</ex> im M<ex>ittelalter</ex></bibl></orig><note xml:id="ny4f_gw4_5lb"><p>Die Einsendung seines Ankündigungstextes zur abgeschlossenen zweiten Auflage seiner „Geschichte der Stadt Rom im Mittelalter“ (1869–1874) hatte Gregorovius im Brief an Cotta vom 15.3.1874 angekündigt (siehe in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 348–349). Der Ankündigungstext erschien erstmals in: Beilage zu Nr. 170 der AZ. Augsburg: Cotta 19.6.1874. S. 2648.</p></note></seg> erhalten haben; nachträglich fiel mir aber ein, ob wir dieser <seg type="comment"><orig>Absurdität des Index</orig><note xml:id="nnwc_jw4_5lb">Seine „Geschichte der Stadt Rom im Mittelalter“ war am 6.2.1874 vom Vatikan indiziert worden; siehe den Brief von Gregorovius an Cotta, 6.2.1874. </note></seg> nicht zuviel Ehre anthun, wenn wir davon weiter reden, zumal der <seg type="comment"><orig>von der <orgName key="G000462">Allg<ex>emeinen</ex> Zeit<ex>un</ex>g</orgName> kürzlich gebrachte <bibl sameAs="G003985">Artikel</bibl></orig><note xml:id="nxb4_kw4_5lb">Siehe den Brief von Gregorovius an Cotta, 6.2.1874. Im Original stammte der Bericht über die Indizierung seiner „Geschichte der Stadt Rom im Mittelalter“ von Raffaele Mariano (1840–1912) unter dem Titel „La Storia del Gregorovius messa dell’Indice“ aus der römischen Zeitung „Il Diritto. Giornale della Democrazia Italiana“ (Jg. 21. Nr. 68 vom 9.3.1874. S. 1). Kurz darauf brachte die „Allgemeine Zeitung“ diesen Beitrag in deutscher Übersetzung mit einer Einleitung, die wohl aus der Feder von Gregorovius stammt: Gregorovius auf dem Index. In: Beilage zu Nr. 78 der AZ. Augsburg: Cotta 19.3.1874. S. 1175.</note></seg> ausreichend war. Ich bitte zu <seg type="comment"><orig>entscheiden, was Sie für praktisch erachten</orig><note xml:id="nptj_nw4_5lb">Am 9.2.1874 hatte Cotta Gregorovius gebeten, „in der Anzeige, durch welche der Abschluß des 8ten Bandes die 2te Auflage als vollendet angekündigt wird, eine Hinweisung auf das Verbot einzuschicken“, weil „das Verbot die Wirkung einer Empfehlung haben [wird], den Erfolg des Werkes daher eher fördern wird, als hindern.“ (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VIII, 294–295) Im Antwortschreiben vom 31.3.1874 teilte Cotta Gregorovius mit, dass Sie einverstanden sind, „wenn der Passus den Index betreffend wegfällt.“ (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VIII, 319–320) Der Ankündigungstext erschien erstmals in: Beilage zu Nr. 170 der AZ. Augsburg: Cotta 19.6.1874. S. 2648.</note></seg>. </p>
+<p>Die <seg type="comment"><orig>facsimilirten Briefe</orig><note xml:id="ngnq_4w4_5lb">Die Faksimiles aus dem Archiv Este im Archivio di Stato di Modena und dem Archivio Gonzaga in Mantua (heute Archivio di Stato di Mantua) für den Dokumenten-Anhang seiner im Druck befindlichen „Lucrezia Borgia“ (1874). </note></seg> sind ganz vorzüglich ausgefallen; ich habe nichts daran zu bemerken, außer daß sie <seg type="comment"><orig>oben zu bezeichnen</orig><note xml:id="na34_rw4_5lb">Im Brief von Gregorovius an Cotta vom 5.4.1874 wünschte Gregorovius zudem den Aufdruck der Provenienzen am Blattende (DLA Marbach, Cotta-Archiv, Cotta-Briefe, 186).</note></seg> sind, wie die übrigen Documente, und zwar:</p><pb n="1v"/>
+<list rendition="#et">
+<item><hi rendition="#aq">N<ex>umme</ex>r</hi> 60. <lb/><persName key="G000914">Alexander VI.</persName> an <persName key="G000985">Lucrezia Borgia</persName>. Facsimile.</item>
+<item><hi rendition="#aq">N<ex>umme</ex>r<del rendition="#s">o</del></hi> 61.</item>
+<item><persName key="G000983">Cäsar Borgia</persName> an <persName key="G001062">Isabella Gonzaga</persName>. Facsimile.</item>
+<item><hi rendition="#aq">N<ex>umme</ex>r</hi> 62.</item>
+<item>Lucrezia Borgia an Isabella Gonzaga. Facsimile.</item>
+<item> </item>
+</list>
+<p><persName key="G000920"><hi rendition="#aq">Dr</hi>. Althaus</persName> in <hi rendition="#aq"><placeName key="G000716">London</placeName></hi> hat mir noch nicht angezeigt, daß er die <bibl sameAs="G002814">Anzeige des Buchs</bibl> für die Allg<ex>emeine</ex> Zeit<ex>un</ex>g besorgen wird, <seg type="comment"><orig>was ich indeß keinen Augenblick bezweifle, u<ex>nd</ex> was er Ihnen wol bereits kund gethan haben mag</orig><note xml:id="ni3k_xw4_5lb">Siehe die Briefe von Gregorovius an Cotta, 6.2.1874 und 15.3.1874 (in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 348–349). Im nachfolgenden Brief informierte Cotta Gregorovius, dass Althaus die Besprechung seiner „Lucrezia Borgia“ (1874) bereits zugesagt hate (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VIII, 319–320). Sie erschien in zwei Folgen in: Beilage zur AZ. Nr. 140–141. Augsburg: Cotta 20.–21.5.1874. S. 2161–2163, 2182–2184.</note></seg>. </p>
+<p><seg type="comment"><orig>Die Übersendung eines Exemplars an die Zeitschrift <orgName key="G000521">„<subst><del rendition="#ow">i</del><add place="across">I</add></subst>m Neuen Reich“</orgName> als in meinem Namen und an den <persName key="G001354">Verfaßer</persName> des <bibl sameAs="G002597">Artikels</bibl> über die Gesch<ex>ichte</ex> d<ex>er</ex> St<ex>adt</ex> R<ex>om</ex> gerichtet würde</orig><note xml:id="nu1l_cx4_5lb">Siehe den Brief von Gregorovius an Cotta, 15.3.1874 (in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 348–349). Die Rezension seiner „Lucrezia Borgia“ (1874) wurde in der Zeitschrift „Im neuen Reich“ erneut vom Chefredakteur Wilhelm Lang (1832–1915) übernommen, der schon verschiedene Werke von Gregorovius besprochen hatte; sie erschien unter dem Titel „Aus dem Zeitalter der Renaissance“ (Jg. 7. Bd. 2. Leipzig: Hirzel 1874. S. 321–327).</note></seg> ich bitten gütigst zu veranlaßen, aber es wäre mir lieber, wenn jener Verfaßer ein broschiertes Exemplar erhielte: u<ex>nd</ex> dieses mögen Sie gefälligst mir von meinen Freiexemplaren in Abzug nehmen.</p>
+<p>Auch der Verfaßer eines sehr guten <seg type="comment"><orig>Artikels über die Gesch<ex>ichte</ex> d<ex>er</ex> Stadt R<ex>om</ex> in der <orgName key="G000571">Weserzeitung</orgName></orig><note xml:id="npcv_dx4_5lb">Nicht ermittelt. – Die Rezension seiner „Lucrezia Borgia“ (1874) erschien dort ohne Verfasserangabe: Weser-Zeitung. Ein politisch-merkantilisches Abendblatt. Nr. 9834. Bremen: Schünemann 11.6.1874. [S. 1] (Morgen-Ausgabe)</note></seg> verdiente von mir ein Exemplar der L<ex>ucrezia</ex> Borgia; ich habe aber keines mehr zu vergeben. Sollten <pb n="2r"/>Sie ein solches haben, u<ex>nd</ex> die Weserzeitung überhaupt für ein in Betracht kommendes Organ halten, so haben Sie vielleicht die Gewogenheit, der Redaction derselben ein Ex<ex>emplar</ex> zukommen zu laßen, mit der Bemerkung, daß dies ein Zeichnen meiner Erkenntlichkeit für jenen sehr guten Artikel sei.</p>
+<p>Indem auch <seg type="comment"><orig>für die <orgName key="G000524">Köllnische Zeit<ex>un</ex>g</orgName></orig><note xml:id="nqtm_lx4_5lb">Nicht ermittelt. Siehe den Brief von Gregorovius an Cotta, 15.3.1874 (in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 348–349). Cotta hatte Gregorovius im vorangehenden Brief vom 18.3.1874 zugesagt: „Ein Exemplar für die ‚<hi rendition="#aq">Coeln<ex>ische</ex> Zeit<ex>un</ex>g</hi>‘ werden wir – wenn Sie wünschen – ebenfalls in Aushängebogen an den Redacteur <hi rendition="#aq">Carl Boelsche</hi> [1813–1891] abschicken.“ (h: DLA Marbach, Cotta-Archiv, Gelehrtencopirbuch VIII, 308)</note></seg> und <seg type="comment"><orig>die <orgName key="G000536">N<ex>eue</ex> F<ex>reie</ex> Preße</orgName> gesorgt ist</orig><note xml:id="nfsb_rx4_5lb">Siehe den Brief von Gregorovius an Cotta, 6.2.1874. Die Rezension des Kulturhistorikers und Schriftstellers Johannes Scherr (1817–1886) erschien in drei Folgen in der „Neuen Freien Presse“ (Nr. 3506, 3508–3509. Wien: Österreichisches Journal 31.5.1874 und 2.–3.6.1874).</note></seg>, würde <seg type="comment"><orig>die <orgName key="G000534">Nationalzeitung</orgName> in <placeName key="G000636">Berlin</placeName> </orig><note xml:id="ntrs_yx4_5lb">Für die Berliner „National-Zeitung“ übernahm die Rezension seiner „Lucrezia Borgia“ (1874) der von Gregorovius wenig geschätzte Adolf Stahr (1805–1876) unter dem Titel „Ueber Gregorovius’ Biographie der ‚Lucrezia Borgia‘“ (Jg. 27. Nr. 247 und 251. Berlin 31.5. und 3.6.1874). Zu seinem Verhältnis zu Stahr siehe den Brief von Gregorovius an Franz Rühl, 20.2.1873.</note></seg>noch in Betracht kommen, welche in Norddeutschland weit verbreitet ist, u<ex>nd</ex> <seg type="comment"><orig>mit deren Redacteur <persName key="G001720"><hi rendition="#aq">Dr</hi>. <hi rendition="#aq">Zabel</hi></persName> ich persönlich bekannt bin</orig><note xml:id="ntpn_cy4_5lb">Der Redakteur der Berliner „National-Zeitung“ Eugen Zabel (1851–1924). Gregorovius hatte für die „National-Zeitung“ über Jahre bis Ende 1869 Korrespondenzen aus Rom oder seinen jeweiligen Aufenthaltsorten geschrieben (siehe auch den Brief von Gregorovius an Franz Rühl, 16.9.1869 (in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 282–283).</note></seg>. </p>
+<p>Ich glaube, daß es überhaupt für den Zweck der Verbreitung des Buches im Besondern auf die Feuilletons der Zeitungen ankommt, u<ex>nd</ex> viel weniger auf periodische Journale, wie namentlich die Brockhausischen, <orgName key="G000469">Bl<ex>ätter</ex> für liter<ex>arische</ex> Unterhaltung</orgName>, <orgName key="G000569">Unsere Zeit</orgName>, etc, <seg type="comment"><orig>deren <persName key="G001186">Redakteur</persName> einen Groll gegen mich hat</orig><note xml:id="nkfm_ky4_5lb">Zusammen mit dem Schriftsteller und Literaturhistoriker Rudolf Gottschall (1823–1909), 1864 bis 1888 Herausgeber der Brockhaus-Zeitschriften „Blätter für literarische Unterhaltung“ und „Unsere Zeit“, war Gregorovius in seiner Königsberger Zeit der wichtigste Vertreter des Liberalismus. In jüngster Zeit hatte vielmehr Gregorovius die Anfrage von Gottschall, aus Rom für „Unsere Zeit“ Berichte über das Erste Vatikanische Konzil zu liefern, ebenso abgelehnt (siehe den Brief von Gregorovius an Brockhaus, 26.1.1870; Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 94) wie zuletzt dessen wiederholte Anfrage, an der vom Brockhaus-Verlag geplanten Reihe von Biographien mitzuwirken (siehe die Briefe von Gregorovius an Rudolf Gottschall, 6.10.1872 und den an Brockhaus, 29.10.1872; Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 127).</note></seg>, u<ex>nd</ex> daher es stets <seg type="comment"><orig>vermeidet, auch nur meinen Namen zu nennen</orig><note xml:id="nwrr_ly4_5lb">Rudolf Gottschall schrieb eine Rezension der „Lucrezia Borgia“ unter dem Titel „Ein Frauenbild aus der Renaissancezeit“ in: Blätter für literarische Unterhaltung. Bd. 2. Nr. 40. Leipzig: Brockhaus 1.10.1874. S. 625–630.</note></seg>. Es kommt aber darauf sehr wenig an.</p>
+<p>Ich werde mir in meinem nächsten Briefe erlauben, Sie zu ersuchen, mir einige Exemplare auf meine Rechnung schön binden zu laßen.</p>
+<closer>
+<salute rendition="#c">Mit großer Hochachtung u<ex>nd</ex> Ergebenheit</salute>
+<signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi>.</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

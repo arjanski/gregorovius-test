@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000239">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Rom. München, 30. November 1879</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt><respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er hat Post von Karl Lindemann-Frommel erhalten. Er wartet auf Druckfahnen von Raffaele Marianos „Christenthum, Katholicismus und Kultur“ (1880), um die deutsche Fassung zu redigieren. Mitte Januar verlässt er München. In Kürze werden die „Briefe Alexander Humboldts an seinen Bruder Wilhelm“ (1880) erscheinen, weitere Neuauflagen sind in Vorbereitung. Die italienische Ausgabe seines „Urban VIII. im Widerspruch zu Spanien und dem Kaiser“ (1879) wird bald ausgegeben; er hat sie selbst übersetzt. Von Marie und Johanne Rehsener hat er erfahren, dass Adelheid Grunelius über Südfrankreich nach Rom reist. Laut Carolyne Fürstin von Sayn-Wittgenstein trauert Ersilia Caetani-Lovatelli um ihren verstorbenen Ehemann Giovanni Lovatelli. Er bestellt Grüße an Wolfgang Erhardt und Familie sowie Carlo Marchese Guerrieri Gonzaga und Anselmo Marchese Guerrieri.</p>
+<p xml:lang="it"/>
+<p xml:lang="en"/>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1879-11-30" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#c">Monaco, 30. No<ex>vembre</ex> 79.</dateline>
+<salute>Caro amico,</salute>
+</opener>
+<p>mi rallegro di poter raffigurarmi loro oramai belli e arrivati nel villino Fortuna, nome simbolico questo, che per augurio non lascia nulla a desiderare; e con ciò mi persuado, che loro in quella nuova abitazione saranno per incontrare ogni felicità immaginabile.</p>
+<p>Ho avuto lettere del nostro <persName key="G001375">Lindemann</persName>, che mi fanno fede dell’imperturbabile equilibrio, in cui l’animo di quest’ uomo singolare sà mantenersi. Per quanto invecchiato egli sia nella cerchia alquanto ristretta di sua arte, egli non pertanto ribattendo sempre le già cento volte percorse vie, ne ricava la stessa soddisfazione, anzi lo stesso entusiasmo, onde al principio da giovine era stato animato. Per ciò il triste termine della disillusio<add place="sublinear">ne</add><pb n="1v"/>non ha senso per lui, e manca affatto nel suo dizionario. Prego di salutarlo assai da parte mia, che lo stimo moltissimo qual’ uomo, cui perfettamente può applicarsi il detto di <persName key="G001297">Orazio</persName> <seg type="comment"><orig>„<foreign xml:lang="ita">integer vitae, scelerisque purus</foreign>.“</orig><note xml:id="nzd4_pkj_1mb">„Unverdorben vom Leben und rein von Schuld“, aus: Quintus Flaccus Horaz, carmen 1,22 : An M. Aristius Fuscus: Des Dichters Heil.</note></seg></p>
+<p>Sto attendendo le bozze del suo <bibl sameAs="ed_drr_cr2_rlb">lavoro</bibl> da stamparsi in <placeName key="G000712">Lipsia</placeName>, o almeno un’ annunzio qualunque da parte dell’ <orgName key="G000473">editore</orgName>, ch’egli voglia inviarmele. Per altro torno a rassicurarla, che nel ritoccare la versione provederò colla massima discrezione, affine di non alterarne il carattere, la cui conservazione deve starle sommamente a cuore. Prevenga poi l’editore, che non ci sia tempo da perdere, giacchè intendo lasciar Monaco verso la metà del Gennaro prossimo.</p>
+<p>Delle cose nostre in questa parte non ho da dirle<pb n="2r"/>nulla di particolare: il tempo si è fatto rigido quasi fuor di stagione, egli è da tre giorni, che godiamo la delizia di 10 gradi sotto zero. Per altro stiamo discretamente bene, e prima ancora gente, casalinga quanto le lumache: vediamo degli amici sì, ma del così detto mondo abbiamo perduto ogni idea, e codesta solitudine ripiena di godimenti morali ed intellettuali ci soddisfa pienamente. Ho spinto alacremente avanti le mie coserelle letterarie; <bibl sameAs="G004068">l’edizione del carteggio Humboldtiano</bibl>, che sarà nitidissima, sta per pubblicarsi prima di Natale – ritocco ancora altri libri per edizioni nuove di modo, che oramai sono persuaso della mia durazione cartacea <foreign xml:lang="Lat">apud posteros</foreign> almeno per una ventina di anni <foreign xml:lang="Lat">post mortem</foreign>, mentre, ed è forse cosa rara nella vita degli autori, a maggior soddisfazione mia, posso pretendere almeno <pb n="2v"/>la gloria, di avermi da me stesso procurato i mezzi onde sostentare la <add place="superlinear">vita</add> mia non solo, ma inoltre far <add place="superlinear">del</add> bene ad altri.</p>
+<p>Tra pochi giorni credo uscirà presso il <orgName key="G000481">Bocca</orgName> l’<bibl sameAs="G003524">edizione italiana</bibl> del mio <bibl sameAs="G003523">episodio della guerra di 30 anni</bibl>. Ora dico a codesto editore, che (a nome mio) le consegni una copia dello scritto.</p>
+<p xml:id="p6" next="#p7"><seg type="comment"><orig>Dalle signorine <hi rendition="#aq"><persName key="G001530">Rehsner</persName></hi></orig><note xml:id="nwqr_qkj_1mb">Die Schwestern Marie und Johanne Rehsener. Marie Rehsener (1839–1917) war von Beruf Lehrerin. Bekannt wurde sie als Silhouettistin, sie war aber auch Malerin und Bildhauerin. Johanne Rehsener (1842–) war ebenfalls Lehrerin. Nach dem Tod der Eltern lebten sie in München, Rom, Baden-Baden, Wiesbaden, Venedig und Gossensaß. Marie schuf 1882 Silhouetten zu Gregorovius Euphorion. Eine Dichtung aus Pompeji in vier Gesängen (1859), siehe: Illustrierte Auszüge: Marie Rehsener: Silhouetten zu Gregorovius’ Euphorion. Leipzig: Brockhaus 1882. 12 S. (12 Tafeln mit illustriertem Text).</note></seg>, che ricorderà, ho inteso, che la signora <persName key="G001215">Grunel<ex>ius</ex></persName> non toccherà punto Monaco, ma passerà per la <placeName key="G000674">Francia meridionale</placeName>, affine di evitar meglio gli incommodi del viaggio durante l’attuale rigore del tempo. Cosi non avrò il desiderato bene, di risalutare questa egregia amica nostra.</p>
+<closer>Con cordiali saluti a loro tutti e due anche da parte dei miei, e colla preghiera di ricordarmi presso i nostri <persName key="G001116"><persName key="G001115">Erhardt</persName></persName> le stringo affettuosamente la mano. <signed rendition="#right">FGr</signed></closer><note><seg type="comment"><orig>La <persName key="G001572">principessa Wittgenstein</persName></orig><note xml:id="nt3z_rkj_1mb">Die aus polnischem Adel stammende Carolyne Fürstin von Sayn-Wittgenstein (1819–1887), seit 1836 unglücklich mit Prinz Nikolaus zu Sayn-Wittgenstein-Berleburg-Ludwigsburg verheiratet, hatte 1847 Franz Liszt kennengelernt und war kurz darauf zu ihm nach Weimar geflüchtet. 1860 reisten beide nach Rom, um beim Vatikan die Eheerlaubnis zu erwirken, was schließlich am Widerstand der Verwandten scheiterte. Carolyne von Sayn-Wittgenstein blieb bis zu ihrem Tod im Jahre 1887 in Rom.</note></seg> mi dipinge <seg type="comment"><orig>lo stato di disperazione in cui la povera <persName key="G001011">Donna Ersilia</persName> si ritrova</orig><note xml:id="nx3j_tkj_1mb">Ersilia Gräfin Caetani Lovatellis (1840–1925) Ehemann, Giacomo Lovatelli (1832–1879), war verstorben. </note></seg> in modo, che mi fà vera compassione. Prego <note place="left" rendition="#rotate90">ancora di portare i meri saluti ai <persName key="ed_nfl_yj2_rlb"><persName key="G001219">Guerrieri</persName></persName></note>.</note>
+</div>
+        </body>
+    </text>
+</TEI>

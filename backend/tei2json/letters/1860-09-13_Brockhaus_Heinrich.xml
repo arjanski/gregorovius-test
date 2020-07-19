@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000123">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Heinrich Brockhaus in Leipzig. Insterburg, 13.
+                    September 1860</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (55)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 8°, 3 S. – 2v alR, Blatt um 90° gedreht, Eingangs- und
+                            Beantwortungsvermerk: 1860. / Insterburg, 13./16. Septbr. / Gregorovius.
+                            / B. 26/IX.</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark"><idno><idno type="shelfmark">Karton 55,
+                                                Mappe 332 (nach H)</idno>
+                                        </idno></idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+<p xml:lang="de">In Kürze wird das Manuskript seines „Sicilianischen Wanderbuchs“ (1861) nach Leipzig abgehen. Der Band enthält die Kapitel, „Neapel“, „Palermo“, „Agrigent“, „Syrakus“, „Die Sicilianischen Volkslieder“ und „Neapel und Sicilien vom Jahr 1830 bis zum Jahr 1852“, dürfte im Druck aber etwas umfangreicher als seine „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) werden. Honorarfragen. Er möchte wissen, wann die zweite Auflage seiner „Figuren“ erscheint. Im kommenden Jahr wird er dem Verlag das Manuskript seines „Lateinischen Wanderbuchs“ zum Druck anbieten. Seine Rückreise nach Rom wird ihn über Berlin und Straßburg führen. Im Winter will er am vierten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1862) arbeiten und Zeuge der Krise des Kirchenstaates werden. Die „Revue des Deux Mondes“ wird er in Kürze zurücksenden. Eduard Brockhaus lässt er grüßen.</p>
+<p xml:lang="it"/>
+<p xml:lang="en">The manuscript of his „Sicilianischen Wanderbuchs“ (1861) will soon be sent to Leipzig. The volume contains the chapters, „Neapel“, „Palermo“, „Agrigent“, „Syrakus“, „Die Sicilianischen Volkslieder“ and „Neapel und Sicilien vom Jahr 1830 bis zum Jahr 1852“, but is likely to be somewhat more extensive in print than his „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856). Concerning his fee. He would like to know when the second edition of his „Figuren“ will be published. Next year he will offer the publisher the manuscript of his „Lateinischen Wanderbuchs“ for publication. His journey back to Rome will take him via Berlin and Strasbourg. In the winter he wants to work on the fourth volume of his „Geschichte der Stadt Rom im Mittelalter“ (1862) and witness the crisis of the Papal States. He will return the „Revue des Deux Mondes“ shortly. He sends his regards to Eduard Brockhaus. </p>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000689">Insterburg</placeName>
+                    <date when="1860-09-13" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G000996">Brockhaus, Heinrich (1804–1874)</persName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next">26. September 1860</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Insterburg</hi>, 13. <hi rendition="#aq">S<ex>e</ex>pt<ex>em</ex>b<ex>e</ex>r</hi> 1860.</dateline>
+                    <salute rendition="#c">Mein sehr verehrter Herr,</salute>
+                </opener>
+                <p>beständige <seg type="comment"><orig>Reisen in dieser Provinz <placeName key="G000902">Ostpreußen</placeName></orig><note xml:id="nynb_1ks_ylb">Gregorovius war vom 3.-14. August 1860 in Danzig bei seine Brüdern Rudolf (1808–1866) und Julius Gregorovius (1818–1891) und besuchte dann bis zum 22. September 1860 Familienangehörige und Freunde in Königsberg, Insterburg, Nordenthal, Gumbinnen, Goldap und Schippenbeil (siehe RT, 19.8.-25.9.1860, S. 107–109). In Insterburg wohnte seine jüngst verwitwete Halbschwester Ottilie Elgnowski (1834–1907) mit ihrem drei Monate alten Sohn Hermann (1860–1936) und seiner Stiefmutter Emilie Auguste Gregorovius, geb. Dreßler, verw. von Collrepp (1797–1866). Siehe RT, 31.8.1860, S. 108.</note></seg> haben mich verhindert, Ihnen früher zu schreiben. Nunmehr kann ich Ihnen anzeigen, daß das <bibl sameAs="G003252"><seg type="comment"><orig>„SicilianischeWanderbuch“</orig><note xml:id="nqsh_cks_ylb">Der dann unter dem Titel „Siciliana“ veröffentlichte Band, der spätere Bd. 3 der „Wanderjahre in Italien“, erschien 1861. </note></seg></bibl> zum Druck besorgt ist, u<ex>nd</ex> <seg type="comment"><orig>in kurzer Zeit nach Leipzig abgehen wird</orig><note xml:id="nwhq_dks_ylb">Gregorovius übersandte sein Manuskript mit seinem Brief vom 22.9.1860 an Brockhaus (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224, 56).</note></seg>.</p>
+                <p>Das Buch wird demnach unter dem Titel „Sicilianisches Wanderbuch“ folgende<del rendition="#s">n</del> 6 Nummern in dieser Reihenfolge enthalten:</p>
+                <p>
+                    <list>
+<item>I <seg type="comment"><orig><placeName key="G000737">Neapel</placeName> (darin Stadt, u<ex>nd</ex> vieles aus <placeName key="G067545">Campanien</placeName>)</orig><note xml:id="nfrb_gks_ylb">Ein aus verschiedenen Erstdrucken zusammengestelltes Kapitel; die Erstdrucke erschienen: Teile 1–3 unter dem Titel „Briefe aus Neapel“ 1855 in „Hausblätter“ – Teil 4 im unter dem Titel „Fahrt auf den Gipfel der Somma“ in 1854 in der „Algemmeinen Zeitung“ – Teil 5 unter dem Titel „Ein campanisches Volksfest in Nola“ 1854 in der „Algemmeinen Zeitung“ – Teil 6 im ED unter dem Titel „Saracenische Reminiscenzen vom Golfe von Salerno“ 1855 in der „Algemmeinen Zeitung“.</note></seg>.</item>
+<item>II. <placeName key="G000748"><seg type="comment"><orig>Palermo</orig><note xml:id="nurl_lks_ylb">ED: Fragmente aus Sicilien (1. Die Saracenen in Sicilien. – Die Cuba und die Zisa; 2. Die normännische Periode Siciliens; 3. Der Dom von Monreale; 4. Die Kathedrale und andere Kirchen von Palermo) waren erschienen in: Das Ausland. Eine Wochenschrift für Kunde des geistigen und sittlichen Lebens der Völker. Jg. 27. Nr. 24–27. Stuttgart, Augsburg: Cotta 16.6. bis 7.7.1854.</note></seg></placeName>.</item>
+<item>III. <placeName key="G000601"><seg type="comment"><orig>Agrigent</orig><note xml:id="nhtk_mks_ylb">ED: Fragmente von Agrigent. In: Deutsches Museum. Zeitschrift für Literatur, Kunst und öffentliches Leben. Nr. 19–20. Jg. 6. Leipzig: Brockhaus 8. und 15.5.1856. S. 681–696, S. 713–728.</note></seg></placeName>.</item>
+<item>IV. <placeName key="G000602"><seg type="comment"><orig>Syrakus</orig><note xml:id="nxwc_nks_ylb">ED: Fragmente aus Sicilien. Syrakus (Syrakus – 2. Achradina – 3. Neapolis –4. Tycha und Epipolä – 5. Der Anapus und das Olympion) aus: Beilage zu Nr. 293, 295, 304, 310 und 317 der AZ. Augsburg: Cotta 20.10.-30.11.1854.</note></seg></placeName>.</item>
+<item>V. <seg type="comment"><orig>Die Sicilianischen Volkslieder</orig><note xml:id="nkt5_nks_ylb">ED: Die sicilianischen Volkslieder. Canti Popolari Siciliani. Raccolti e illustrati da Lionardo Vigo. Catania 1857. In: Morgenblatt für gebildete Leser. Jg. 53. Nr. 49–50. Stuttgart; München: Cotta 4. und 11.12.1859. S. 1153–1161 und 1185–1193.</note></seg>.</item>
+<item>VI. <seg type="comment"><orig><placeName key="G004694">Neapel </placeName>und <placeName key="G000575">Sicilien</placeName> vom Jahr 1830 bis zum Jahr 1852</orig><note xml:id="nhzy_4ks_ylb">ED: Das Königreich beider Sicilien in seinen gegenwärtigen Zuständen. In: Die Gegenwart. Eine encyklopädische Darstellung der neuesten Zeitgeschichte für alle Stände. Bd. 11. Leipzig: Brockhaus 1855. S. 149–189.</note></seg>.</item>
+                    </list>
+                </p>
+                <p>Es zählt demnach soviel Nummern, als die <bibl sameAs="G003114"><seg type="comment"><orig>Figuren</orig><note xml:id="nubr_pks_ylb">„Figuren. Geschichte, Leben und Scenerie aus Italien“ war 1856 erschienen.</note></seg></bibl>, dürfte aber etwas stärker ausfallen. Vielleicht finden Sie ein noch gefälligeres Format für dasselbe, als die Figuren haben. Was die materiellen Bedingungen <pb n="1v"/>betrifft, so wünsche u<ex>nd</ex> bitte ich, mir dies zu bewilligen: </p>
+                <p>Abzug von 1000 Exemplaren.</p>
+                <p>Nach Ausgabe des Buchs ein Honorar von 200 (zweihundert Thalern).</p>
+                <p>Nach Verkauf der ersten Auflage noch 100 (hundert Thaler).</p>
+                <p>Für jede folgende Auflage von 1000 Exemplaren, ein Honorar von 150 Thalern.</p>
+                <p>Ich zweifle nicht, daß Sie dies als billig mir genehmigen werden. <note place="left" hand="#addressee">=</note>Haben Sie die Güte, verehrter Herr, mir zu sagen, wann Sie die <bibl sameAs="G003122"><seg type="comment"><orig>Figuren in zweiter Auflage</orig><note xml:id="njfj_qks_ylb">Die zweite Auflage seiner „Figuren. Geschichte, Leben und Scenerie aus Italien“ erschien als Band 1 unter dem Reihentitel „Wanderjahre in Italien“ 1864.</note></seg></bibl> geben können, damit ich sie zur Zeit durchsehen kann.</p>
+                <p>Im folgenden Jahre werde ich Ihnen das <note place="left" hand="#addressee">=</note><bibl sameAs="G003183"><seg type="comment"><orig>„Lateinische Wanderbuch“</orig><note xml:id="nynf_rks_ylb">Der dann mit „Lateinische Sommer“ betitelte Band erschien als Band 2 unter dem Reihentitel „Wanderjahre in Italien“ 1864.</note></seg></bibl> proponiren, welches <placeName key="G000844">Latium</placeName> u<ex>nd</ex> die <placeName key="ed_hqc_lrv_gmb">Campagna von Rom</placeName>, bis nach <placeName key="G000730">Monte Casino</placeName> umfaßt.</p>
+                <p>Ich bleibe in <placeName key="G000699">Königsberg</placeName> bis zum 23. <hi rendition="#aq">S<ex>e</ex>pt<ex>em</ex>b<ex>e</ex>r</hi>, u<ex>nd</ex> <seg type="comment"><orig>trete dann meine Rückreise nach <placeName key="G000636">Berlin</placeName>, weiter über <pb n="2r"/><placeName key="G000878">Straßburg</placeName> nach <placeName key="G000763">Rom</placeName> an</orig><note xml:id="nlxc_sks_ylb">Den Rückweg trat Gregorovius bereits am 22. September 1860 über Königsberg nach Berlin an, wo er bis zum 2. Oktober blieb, um von dort über Magdeburg, Göttingen und Heidelberg nach Straßburg, Lyon, Avignon und Arles zu reisen. Am 9. Oktober schiffte er sich von Marseille nach Civitavecchia ein und war am 11. Oktober 1860 zurück in Rom (siehe RT, 30.6.-9.10.1860, S. 103–111).</note></seg>, wo ich noch diesen Winter an meinem <bibl sameAs="G003462"><seg type="comment"><orig>IV. Bande der Geschichte der Stadt</orig><note xml:id="nphl_5ks_ylb">Bd. 4 seiner „Geschichte der Stadt Rom im Mittelalter“ erschien 1862.</note></seg></bibl> arbeiten, u<ex>nd</ex> vor allem Dingen die <seg type="comment"><orig>Krisis</orig><note xml:id="nuly_5ks_ylb">Die Krisis des Kirchenstaats, deren Provinzen Romagna, Umbrien und die Marken sich in Folge des sardinischen Kriegs erhoben hatten. Lediglich Rom selbst und Latium, als unmittelbare Umgebung Roms, waren durch französische Truppen gesichert, unter der weltlichen Herrschaft des Papstes verblieben.</note></seg> erleben will.</p>
+                <p>Ich werde Ihnen noch von Königsberg schreiben; im Notfall muß die Correctur der
+                    Siciliana ohne meine letzte Durchsicht besorgt werden.</p>
+                <p>Ich danke bestens für die <seg type="comment"><hi rendition="#aq"><orgName key="ed_dff_kyv_gmb"><orig>Revue des deux mo</orig>ndes</orgName></hi><note xml:id="nxyt_wks_ylb">Die 1829 gegründete „Revue des deux mondes“ war eine der bedeutendsten französischen Zeitschriften für Literatur, Kunst und Politik. Siehe auch den Brief von <ref target="G000122">Gregorovius an Hermann von Thile, 9.8.1860</ref>.</note></seg>, welche Ihnen richtig in diesen Tagen zugehen wird.</p>
+                <p>Haben Sie die Güte, mich Ihrem <seg type="comment"><orig><persName key="G000995">Herrn Sohn</persName> zu empfehlen, den nicht kennen gelernt zu haben</orig><note xml:id="ni5z_zks_ylb">Gregorovius war am Abend des 29. Juli 1860 in Leipzig angekommen, hatte aber niemanden im Verlagshaus Brockhaus angetroffen (siehe RT, 31.7.1860, S. 107). Eduard Brockhaus (1829–1914) hatte die Verlagsgeschäfte geführt, nachdem Heinrich Brockhaus Anfang 1857 schwer erkrankt war und sich dann bis Mitte 1859 auf Reisen nach Ägypten, Palästina, Syrien, Griechenland und Italien zu erholen gesucht hatte. </note></seg>, mir schmerzlich bleibt. Leipzig werde ich auf meiner Rückreise nicht berühren, denn ich will schnell durch <placeName key="G000664">Deutschland</placeName> gehen, um folgenden Jahrs zurückzukehren.</p>
+<p>Möchten Sie so gesund u<ex>nd</ex> wol bleiben, <seg type="comment"><orig>als ich die Freude hatte Sie zu finden</orig><note xml:id="nn1s_bls_ylb">Siehe RT, 31.7.1860, S. 107. Am 31. Juli 1860 war Heinrich Brockhaus (1804–1874) von seinem Dresdener Wohnsitz nach Leipzig gekommen, bei dem Gregorovius vor seiner Weiterreise am selben Tag zu Abend aß.</note></seg>. Es empfiehlt sich, verehrter Herr, Ihrem freundlichen Andenken</p>
+                <closer>
+<salute rendition="#c">Ihr wahrhaft ergebener</salute>
+                    <signed rendition="#right">FGregorovius.</signed></closer>
+                <note type="postscript">Adr. <hi rendition="#aq">Königsberg i<ex>n</ex> <placeName key="G000646">Preuss<ex>en</ex></placeName></hi> poste restante. </note>
+            </div>
+        </body>
+    </text>
+</TEI>

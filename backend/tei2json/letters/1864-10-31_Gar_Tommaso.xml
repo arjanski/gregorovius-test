@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000259">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Tommaso Gar in Neapel. Rom, 31. Oktober 1864</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt>
+                    <persName> <surname>Costea</surname> <forename>Theodor</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+<respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855"> <surname>Neuber</surname> <forename>Frederike</forename> </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Biblioteca Comunale di Trento</repository>
+                        <idno>
+                            <idno>busta BCT1–2257/52</idno>
+                        </idno>
+                    </msIdentifier>
+                    <physDesc>
+<p>1 Dbl., 4°, 4 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er teilt das Unbehagen über seine uneheliche Beziehung zu Madeleine Creutzer und rät zur Trennung. Er will mit Caroline Ungher-Sabatier darüber sprechen, wie Madeleine Creutzer in diesem Fall geholfen werden kann. Statt seiner kürzlich angetretenen Stelle als Direktor der Bibliothek der Universität Neapel wünscht er Gar eine bessere Anstellung in Florenz. Er zweifelt, dass er genügend Zeit für die Übersetzung seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) hat. Die von Bartolomeo Capasso aus Sorrent nachgeschickte Post soll Gar nach Rom weiterleiten.</p>
+                <p xml:lang="en">He shares the unease about his illegitimate relationship with Madeleine Creutzer and advises him to end things. He wants to talk to Caroline Ungher-Sabatier about how Madeleine Creutzer can be helped in this case. Instead of his new position as director of the library of the University of Naples, he wishes he had a better job in Florence. He doubts that he has enough time to translate his „Geschichte der Stadt Rom im Mittelalter“ (1859–1872). Gar is to forward the mail sent by Bartolomeo Capasso from Sorrento to Rome.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName>
+                    <date when="1864-10-31" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001158">Gar, Tommaso (1808–1871)</persName>
+<placeName key="G000737">Neapel</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Roma, 31. Ott<ex>o</ex>bre 1864.</dateline>
+                    <salute rendition="#c">Carissimo Gar,</salute>
+                </opener>
+<p>quello che mi scrivete del malessere domestico, in cui pur troppo vi trovate, non mi sorprende punto, perchè non mi torna nuovo e inavvertito. Quando ebbi il piacere di rinnovare la vostra cognoscenza in casa vostra a Napoli, ne riportai l’impressione di uno stato come me lo descrivete confidenzialmente. Me<choice><sic>'</sic><corr type="deleted"/></choice> n<supplied cert="high">'</supplied>accorgei, vedendo e riflettendo, che la convivenza che fate con una nobile e per molte cause sommamente distinta e rispettabile <persName key="G001056">Signora,</persName> quanto agradevole che sia per più riguardi, per amichevole affetto, e ricordanze del passato, per simpatie o motivi di umanità, a voi alla lunga per nessun verso poteva convenire. Una tale relazione giornaliera e continua, avendo apparenze di matrimonio, senza di esser lo, <pb n="1v"/>di infallibile necessità pur porta questa inconvenienza, che l’una e l’altra parte ogni tanto si truova ad urtarsi contro un limite morale, che non, puotendo esser vaccato, naturalmente divide, ed impone delicatissimi riguardi, che col tempo non <seg type="comment"><orig>ponno</orig><note xml:id="nvxp_dlk_ylb">Veraltet für: possono.</note></seg> non divenir molestie. Feci, come lo fate voi nella vostra lettera, un confronto dei vostri temperamenti, e ne tirai, da quelle esperienze che ho potuto fare à Napoli, la conclusione, che mi avete scritto. Voi amb<choice><sic>o</sic><corr type="deleted"/></choice>edue pieni di bontà di cuore, di sentimenti quali che risultino, da una educazione compiuta, vi truovate però in opposizione di temperamenti. Le divergenze, che ne nascono, non ponno esser sciolte tanto facilmente, per causa che vi manca l’elemento di quella necessità morale, che fa sopportare i pesi. Voi avete <pb n="2r"/>da fare cose, che non tangono la Signora, quanto istruita e intelligente che sia. Ella à terminata la sua carriera, cercando il ben meritato riposo; voi state ancora in piena arena, per combattere e per operare; e i vostri lavori richiedono pace, tranquilità, liberta in casa. Se fosse cosi, che la Baronessa dalla parte sua si truovasse contenta di quella situazione, che vi discontenta, allora potreste a forza di abnegazione perdurare, onde esser di giovevole soccorso a Lei. Ma è cosa dichiarata, che pur essa sta convinta, che il vostro stato continuo è inconveniente. Mi pare, che si truovi non bene, o davvero male. Cercate dunque, caro amico, una via per la quale potreste uscire senza offendere l’amicizia, e senza rompere un legame di anni. Cercatela con fermezza, e dimostratela con convinzione. Di certo a prestarsi ella non può mancare. <seg type="comment"><orig>Ne vorrei scrivere alla <persName key="G001665">Carolinà</persName></orig><note xml:id="nn1z_hlk_ylb">Offenbar wollte er einen Kontakt zwischen Madeleine Creutzer, verw. Baronin Prohaska und der österreichischen Sängerin Caroline Unger-Sabatier (1803–1877) herstellen, die mit ihrem Ehemann François Sabatier (1818–1891) regelmäßig in Florenz zu Salonabenden lud.</note></seg>, mà non senza la vostra saputa. La Baronessa truoverebbe molti amici in <placeName key="G000671">Firenze</placeName>, ma questa città diventa carissima, e in casa <persName key="G001565"><persName key="G001665">Sabatier</persName> </persName>non potrebbe stare. Mi duole <pb n="2v"/>la malsicura posizione, in cui la signora sempre si truovera, e compatisco altr<supplied cert="high">e</supplied>ttanto la vostra delicatissima situazione. Ma vedo, che non vi è altro rimedio, che separarsi.</p>
+<p xml:id="p2" next="#p3"><seg type="comment"><orig>Il nuovo imp<supplied cert="high">e</supplied>gno che state per prendere sulle spalle</orig><note xml:id="nd1f_4lk_ylb">Gar war ab 1864 Direktor der Bibliothek und Professor an der Universität von Neapel.</note></seg>, almeno vi aumenterà i mezzi da vivere – cosa, che è da se importantissima – oltre di ciò ne avrete onore, e senza dubbio anche qualche altro titolo di esser posto in un sito migliore. Non cesso di sperarvi una più conveniente posizione à Firenze. Vi ringrazio caldamente delle premure per causa della <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">storia di Roma </bibl>– ma avanti tutto c’è da vedere, sè vi basti il tempo <seg type="comment"><orig>da intraprendere un lavoro simile</orig><note xml:id="nxtk_5lk_ylb">Gar hatte Gregorovius angeboten, die „Geschichte der Stadt Rom im Mittelalter“, von der zu dem Zeitpunkt die Bände 1 (1859), 2 (1859), 3 (1860) und 4 (1862) erschienen waren, zu übersetzen (vgl. auch die Briefe von Gregorovius an Gar vom <ref target="G000063">4.9.1864</ref> und <ref target="G000258">9.10.1864</ref>). Schlussendlich übernahm nicht Gar, sondern der venezianische Verlag Antonelli die Übersetzung.</note></seg>, con cui potreste o aumentar troppo i vostri incarichi o metter vi in imbarazzo <unclear reason="illegible" cert="high">riguardino</unclear> a i vostri doveri come bibliotecario e professore. Pensate vi sopra, caro Gar – a me mi sarebbe insopportabile il pensiere, di esser io la causa di qualche inconveniente, che vi potrebbe risultare. La Storia di Roma può stare, ed esser rimessa à tempi migliori, anche dopo </p>
+<p xml:id="p3" prev="#p2" place="left" rendition="#rotate90" next="#p4">la mia morte, non importa. Sta scritto nel <persName key="G001496">Pindaro </persName><seg type="comment"><orig><foreign xml:lang="grc">Άνδρῶν δικαίων Χρόνος σωτήρ ἄριστος</foreign></orig><note xml:id="nxg4_vlk_ylb">„Die Zeit ist der beste Helfer eines gerechten Mannes“. Pindars 159. Fragment wird von Gregorovius in den sechziger Jahren immer wieder als eine Art Lebensmotto zitiert, so etwa in Briefen an Ludwig Friedländer vom 10.12.1862 und Kuno Fischer im Jahr 1867 (vgl. Oswald Dammann, Kuno Fischer in Rom. Mit einem ungedruckten Brief von Ferdinand Gregorovius, in: Zeitschrift für die Geschichte des Oberrheins 97, 1949, p. 337–340, hier p. 340).</note></seg> – Mi fareste un piacere di disimpegnare quella lettera in posta, e di leggerla; se ella viene dall’ottimo <persName key="G001019">Capasso</persName>, e non contiene altro, che la communica-</p>
+                <p xml:id="p4" prev="#p3" place="mTop" rendition="#rotate180">zione, che non sia venuta alcuna lettera per me à <placeName key="G000873">Sorrento</placeName>, allora non ci sara bisogno di spedirla a Roma. Salutatemi mille volte la Signora Baronessa, e vogliate mi bene! Stringendovi la mano, il vostro</p>
+                <closer>
+                    <signed rendition="#right">G.</signed> </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

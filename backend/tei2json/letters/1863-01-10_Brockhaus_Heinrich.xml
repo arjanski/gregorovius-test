@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000154">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Heinrich Brockhaus in Leipzig. Rom, 10. Januar 1863 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Sächsisches Staatsarchiv Leipzig</repository><collection>Bestand 21083</collection><idno>Archivalnummer 224 (65)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ¼ S. – 2v alR Eingangs- und Beantwortungsvermerk: 1863. / <hi rendition="#aq">Rom</hi>, 10. /15. <hi rendition="#aq">Jan</hi>. / <hi rendition="#aq">Gregorovius</hi>. / B. 10. <hi rendition="#aq">Fbr</hi>.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 55, Mappe 332 (nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er musste vor der Ankunft von Heinrich Bockhaus in Florenz abreisen. Im Sommer war er zur Kur in St. Moritz, besuchte dann die Thiles in Heiden und war anschließend für Bibliotheksarbeiten in München. Seine „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) will er in vier Jahren abschließen und dann nach Deutschland zurückkehren. Nach seinen „Figuren. Geschichte Leben und Scenerie aus Italien“ (1856) und seinen „Siciliana“ (1861) schlägt er einen letzten Band mit Aufsätzen über die lateinischen Campagna vor. Wegen eines geplanten Forschungsaufenthalts für den fünften Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1865) ist er auf die Einnahmen angewiesen. Er bittet um die Absatzzahlen seiner bei Brockhaus erschienenen Schriften. Er hat Clemens Brockhaus in der protestantischen Kapelle des Palazzo Caffarelli predigen gehört. Den Brief von Eduard Brockhaus hat er erhalten.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He had to leave before Heinrich Bockhaus arrived in Florence. In the summer he went to St Moritz for his health, then visited the Thiles in Heiden and went on to Munich for library work. He wants to complete his „Geschichte der Stadt Rom im Mittelalter“ (1859-1872) in four years and then return to Germany. After his „Figuren. Geschichte Leben und Scenerie aus Italien“ (1856) and his „Siciliana“ (1861) he proposes a final volume of essays on the Latin Campagna. Because of  the research he is planning to do for the fifth volume of his „Geschichte der Stadt Rom im Mittelalter“ (1865), he is dependent on the proceeds. He asks for the sales figures of his writings published by Brockhaus. He heard Clemens Brockhaus preach in the Protestant chapel of the Palazzo Caffarelli. He received the letter from Eduard Brockhaus. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1863-01-10" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G000996">Brockhaus, Heinrich (1804–1874)</persName>
+<placeName key="G000712">Leipzig</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">6. Oktober 1862</ref>
+<ref type="next">10. Februar 1863</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi>, 10. <hi rendition="#aq">Januar</hi> 1863.</dateline>
+                    <salute rendition="#c">Mein hochverehrter Herr,</salute>
+                </opener>
+<p>schmerzlich habe ich es bedauert, <seg type="comment"><orig>daß ich in <placeName key="G000671">Florenz</placeName> nicht mehr anwesend war, als Sie dort eintrafen</orig><note xml:id="nbyx_bd3_cmb">Siehe den Brief von Gregorovius an Eduard Brockhaus vom <ref target="G000162">23.10.1862</ref>. Gregorovius hatte sich bis zum 21. Oktober 1862 in Florenz aufgehalten (siehe RT, 20.9.-20.10.1862, S. 154–155).</note></seg>, u<ex>nd</ex> endlich, daß Sie Ihre Reise nicht zum alten Rom ausgedehnt haben. Weil ich Ihre Adresse nicht wußte, konnte ich Ihren freundlichen Brief, der mir in <placeName key="G000734">München</placeName> zukam, nicht beantworten. Ich thue es heute mit den wärmsten Wünschen für Ihr u<ex>nd</ex> Ihres verehrten Hauses dauerndes Wol.</p>
+<p>Den Sommer über brachte ich <seg type="comment"><orig>nutzlose Wochen in den Bädern von <placeName key="G000875"><hi rendition="#aq">S<ex>ank</ex>t Moritz</hi></placeName> zu, beßere beim <persName key="G001644">Baron v<ex>on</ex> Thile</persName> in <hi rendition="#aq"><placeName key="G000686">Heiden</placeName></hi>, gute in München</orig><note xml:id="ne5r_2d3_cmb">In St. Moritz hatte Gregorovius von Ende Juli bis zum 20. August 1862 gekurt (siehe RT, 27.8.1862, S. 151).. Mit Zwischenhalt in Zürich fuhr er dann Ende August nach Heiden, wo er Hermann von Thile (1812–1889) mit seiner Familie und dessen Schwager Albrecht von Graefe (1828–1870) mit seiner Frau Anna, geb. Gräfin Knuth (1842–1872), besuchte (siehe RT, 27.8.1862, S. 151). Über Bad Ragatz reisend war er am 3. September in München eingetroffen, wo er bis zum 13. September 1862 Bibliotheksarbeiten erledigte und mit seinem Bruder Julius Gregorovius (1819–1891) zusammentraf (siehe RT, 8.-12.9.1862, S. 152–153).</note></seg>, wo ich freilich vollauf beschäftigt war. Es beglückte mich, wieder deutsche Luft zu atmen, u<ex>nd</ex> überhaupt sehne ich mich immer mehr, endlich u<ex>nd</ex> bleibend in das <placeName key="G000664">Vaterland</placeName> zurückzukehren. <seg type="comment"><orig>Noch 4 Jahre habe ich indeß an der <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Geschichte der Stadt Rom</bibl> zu thun</orig><note xml:id="nhl1_pd3_cmb">Gregorovius arbeitete gerade am fünften Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1865), der achte und letzte Band erschien 1872.</note></seg>, während welcher Zeit ich nicht Muße habe, angefangene poetische Stücke zu beendigen. Nach so viel Mühe u<ex>nd</ex> Entbehrung, welche ich mit einem stoischen Mut auf diesem Boden ertragen habe, ist es der einzige Wunsch meines Lebens, noch eine Ruhepause in der Heimat zu genießen, welche es mir <pb n="1v"/>verstattete, in der Stille den Musen zu leben. Doch dies Alles will ich ruhig der Zukunft überlaßen.</p>
+<p>Sie fordern mich auf, mein verehrter Herr, Ihnen wieder einmal etwas zum Verlag zu senden. Es war dies lange mein Wunsch; aber ich habe gegenwärtig nichts als einen <seg type="comment"><orig><bibl sameAs="G003183">dritten u<ex>nd</ex> letzten Band</bibl> jener Skizzen</orig><note xml:id="naxf_td3_cmb">Der Band erschien unter dem Titel „Lateinische Sommer“ als zweiter Band seiner „Wanderjahre in Italien“ 1864.</note></seg>, von denen der erste u<ex>nd</ex> zweite die <bibl sameAs="G003114">Figuren</bibl> u<ex>nd</ex> die <bibl sameAs="G003252">Siciliana</bibl> sind. Ich sträubte mich, ihn zusammenzustellen, weil ich den Sinn für diese Dinge verloren habe. Die <seg type="comment"><orig>Eisenbahn durch <placeName key="G000844">Latium</placeName></orig><note xml:id="nmdg_5d3_cmb">Das letzte Teilstück der Bahnlinie von Rom nach Neapel wurde im Frühjahr 1862 eröffnet, was Gregorovius im Aufsatz „Von den Ufern des Liris“ seines geplanten Bandes „Lateinische Sommer“ (1864) eigens anmerkt (S. 268).</note></seg> bringt sie mir wieder näher. Es sind dies nämlich <note place="left" hand="#addressee">=</note><bibl corresp="G003860 G003861 G003862"><seg type="comment"><orig>Aufsätze über die Campagna</orig><note xml:id="ncmk_wd3_cmb">„Aus der Campagna von Rom. Subiaco, das älteste Benedictinerkloster des Abendlandes, seine Geschichte und seine Altertümer“ erschien im Erstdruck im „Deutschen Museum“ vom 1.-15.1858 in drei Folgen und „Aus den Bergen der lateinischen Campagna“ war in sieben Folgen vom 6.10.-24.10.1858 in der „Allgemeinen Zeitung“ erschienen.</note></seg></bibl>, <bibl corresp="G003882 G003883 G003884 G003885 G003886 G003887 G003888 G003889"><seg type="comment"><orig>von den Ufern des Liris</orig><note xml:id="nfbp_b23_cmb">„Von den Ufern des Liris“ war im Erstdruck in der „Allgemeine Zeitung“ vom 27.3.-9.5.1860 in neun Folgen erschienen.</note></seg></bibl>, <bibl corresp="G003844 G003845 G003846 G003847 G003848 G003849 G003850 G003851 G003852"><seg type="comment"><orig>Anagni</orig><note xml:id="novv_223_cmb">Unter dem Titel „Aus der Campagna von Rom“ war der Artikel im Erstdruck in der „Allgemeinen Zeitung“ vom 15.12.1856 bis 6.5.1857 in vierzehn Folgen gedruckt worden.</note></seg></bibl>, <bibl corresp="G003890 G003891 G003892 G003893"><seg type="comment"><orig>Volskerberge</orig><note xml:id="ndbq_f23_cmb">„Aus den Bergen der Volsker“ war im Erstdruck in „Das Ausland. Eine Wochenschrift für Kunde des geistigen und sittlichen Lebens der Völker“ vom 19.8.-9.9.1860 in vier Folgen erschienen.</note></seg></bibl>, <placeName key="G067589">Sora</placeName> u<ex>nd</ex> <placeName key="G067590">Arpino</placeName>, u<ex>nd</ex> meine <seg type="comment"><orig>kleine <bibl corresp="G003894 G003895 G003896 G003897 G003898 G003899 G003900 G003901 G003902 G003903">Arbeit über Avignon</bibl></orig><note xml:id="nert_g23_cmb">„Avignon“ war im Erstdruck in der „Allgemeinen Zeitung“ vom 1.-12.1.1861 in zehn Folgen erschienen.</note></seg>. Die Stücke geben <seg type="comment"><orig>6 Nummern</orig><note xml:id="nqkl_h23_cmb">Der Band enthielt dann sieben Nummern, zusätzlich wurde „Die römischen Poeten der Gegenwart“ aus dem „Morgenblatt für gebildete Leser“ (Nr. 51–52. Stuttgart; München: Cotta 19. und 26.12.1858) aufgenommen.</note></seg>, wie die Siciliana. Wenn es Ihnen genehm, will ich sie zusammenstellen u<ex>nd</ex> druckfertig machen, aber dies würde kaum vor dem Sommer geschehen, da ich mit römischen Archiv-Arbeiten zum V. Bande der Stadtgeschichte ganz überlastet bin. <seg type="comment"><orig>Jene 3 Bände würden demnach das zusammenhängende italienische Skizzenbuch geben</orig><note xml:id="nfc2_323_cmb">Der Band „Lateinische Sommer“ erschien als Band 2 unter dem Reihentitel „Wanderjahre in Italien“ – obgleich die „Figuren“ (1856, 2. Auflage 1864) und „Siciliana“ (1861, 2. Auflage 1865) zuvor erschienen waren und erst in der zweiten Auflage als Band 1 und 3 unter dem Reihentitel gedruckt wurden.</note></seg>, welches Ihnen vorschwebt.</p>
+<p><pb n="2r"/><seg type="comment"><orig>Bei meiner Anwesenheit in <hi rendition="#aq">Leipzig</hi> vor 2 Jahren</orig><note xml:id="niqw_323_cmb">Gregorovius hatte Heinrich Brockhaus (1804–1874), der eigens von seinem Dresdener Wohnsitz nach Leipzig gekommen war, am 31. Juli 1860 getroffen (siehe RT, 31.7.-6.8.1860, S. 107).</note></seg> hatten Sie die Güte mir eine <hi rendition="#aq">Nota</hi> über die Summe der verkauften Exemplare meiner von ihnen übernommenen Schriften zu versprechen. Ich würde um diese bitten nach der Ostermesse dieses neuen Jahrs. <seg type="comment"><orig>Schon vor 2 Jahren waren die Figuren auf der Neige</orig><note xml:id="nams_j23_cmb">Die zweite Auflage der „Figuren“ erschien erst 1864.</note></seg>; ich hatte gehofft, ihre Auflage, wie <seg type="comment"><orig>jene des <bibl sameAs="G003574">Euphorion</bibl></orig><note xml:id="nl4q_k23_cmb">Die zweite Auflage seiner Versdichtung „Euphorion. Eine Dichtung aus Pompeji in vier Gesänge“ (1858) erschien erst 1872.</note></seg> würde bereits erschöpft sein, u<ex>nd</ex> mir daraus der stipulirte Gewinn zufallen, deßen ich für dieses Jahr wol benötigt sein möchte, da ich voraussichtlich einen <seg type="comment"><orig>3 monatlichen Aufenthalt in Deutschland</orig><note xml:id="nuwk_l23_cmb">Nach Aufenthalten am Viewaldstätter See und am Rheinfall reiste Gregorovius Ende Juli 1863 über Konstanz nach München, wo er bis zum 10. September 1863 blieb (siehe RT, 14.7.-9.9.1863, S. 162–167).</note></seg> nehmen muß, dortige Bibliotheken zu benutzen. Ich will also bescheidentlich ein günstiges Resultat hoffen.</p>
+<p><seg type="comment"><orig>Ihren <persName key="G067635">Neffen</persName>, einen ausgezeichneten jungen Mann sehe ich bisweilen</orig><note xml:id="ndvg_m23_cmb">Der Theologe Clemens Brockhaus (1837–1877), der Sohn des Orientalisten Hermann Brockhaus (1806–1877) und der Ottilie, geb. Wagner (1811–1883), war auch ein Neffe Richard Wagners (1813–1883). Clemens Brockhaus hatte in Jena und Leipzig lutherische Theologie studiert und war seit 1860 in Leipziger als Pastor tätig. Nach seiner kirchengeschichtlichen Habilititation in Leipzig im Jahr 1867 wurde er Dozent an der Leipziger Universität, 1873 erhielt er eine außerordentliche Professur. Clemens Brockhaus hielt sich vom 5. November 1862 bis zum 20. Juni 1863 in Rom auf. Als wissenschaftliches Ergebnis seiner Italienreise hielt er Anfang September 1863 in Lübeck einen Vortrag „Über der Fortgang der evangelischen Bewegung in Italien“ (in: Bericht über die zwanzigste Hauptversammlung des evangelischen Vereins der Gustav-Adolf-Stiftung. Lübeck: Rohden 1863. S. 141–156, siehe https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10448397_00147.html).</note></seg>, obwol nicht so oft, als ich es wünsche, da ich in einem Meer von Arbeit versunken bin. Er predigte mit großem Beifall <seg type="comment"><orig>in der Kapelle auf dem <placeName key="G000761">Capitol</placeName></orig><note xml:id="nydj_n23_cmb">In der protestantische Kapelle im Erdgeschoss des Palazzo Caffarelli auf dem kapitolinischen Hügel.</note></seg>, zwi<ex>schen</ex> <seg type="comment"><orig><persName key="G067659"><hi rendition="#aq">Cicero</hi></persName> u<ex>nd</ex> <persName key="G067636">Hortensius</persName></orig><note xml:id="neqj_423_cmb">Vor dem Politiker, Schriftsteller und Philosoph Cicero (106–43 v. Chr.; 63 v. Chr. Konsul) galt dessen Vorgänger, der römische Senator Hortensius (114–50 v. Chr.; 69 v. Chr. Konsul), als der berühmteste Redner Roms.</note></seg>.</p>
+<p>Laßen Sie mich hoffen, mein teurer Herr, daß es Ihnen wol ergeht, u<ex>nd</ex> empfehlen Sie mich freundlichst Ihrem <persName key="G000995">Herrn Sohn</persName>, deßen liebenswürdiges Schreiben ich empfangen <pb n="2v"/>habe. Bleiben Sie auch fernerhin mir wolwollend gesinnt.</p>
+                <closer>
+                    <salute rendition="#c">Mit herzlicher Verehrung <lb/>Ihr</salute>
+                    <signed rendition="#right">FGregorovius.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067726">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Stefano Davari in Mantua. Rom, 10. April 1873</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>BSB München</repository><collection>Autogr. Gregorovius, Ferdinand</collection><idno>7</idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 1 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die Abschrift von vier Briefen aus dem Archivio Gonzaga in Mantua für seine „Lucrezia Borgia“ (1874). Auch der Direktor Giovanni Zucchetti war ihm stets hilfreich. </p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1873-04-10" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001069">Davari, Stefano (1836–1909)</persName>
+<placeName key="G000724">Mantua</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Roma, 10. Aprile 1873.</dateline>
+                    <salute rendition="#c">Egregio <seg type="comment"><orig>Signore</orig><note xml:id="ny3g_hwz_ylb">Der Historiker Gian Antonio Stefano Davari (1836–1909) war seit 1869 Sekretär im Archivio Gonzaga di Mantova, das seit 1868 Teil des Archivio di Stato di Mantova war, und dort bis zu seinem Lebensende tätig. Er publizierte zur Geschichte Mantuas. Gregorovius hatte ihn bei einem Besuch im Archiv im Jahre 1871 kennengelernt, äußert sich in seinem Tagebuch zu den Kriegseinsätzen des jungen Sekretärs (siehe RT, S. 314). Weitere Schreiben von Gregorovius an Davari sind nicht erhalten, jedoch ein Glückwunschschreiben von Davari an den Deutschen zur Verleihung der römischen Bürgerrechte; siehe den Brief von Stefano Davari an Gregorovius vom 12.3.1876 (BSB München, NL Gregorovius, Gregoroviusiana 18–39 [Akz.-Nr.: 10/00/187]). </note></seg>,</salute>
+                </opener>
+<p>mi affretto di accusare a V<ex>ostra</ex> S<ex>ignoria</ex> Ill<hi rendition="#sup"><hi rendition="#u" hand=""><ex>ustrissi</ex>ma</hi></hi> l’arrivo della <seg type="comment"><orig>sua pregiatissima lettera</orig><note xml:id="nark_3wz_ylb">Der Brief ist nicht erhalten.</note></seg>, con cui Ella gentilmente accompagnò le copie di <seg type="comment"><orig>quattro lettere, riservate nel prezioso <orgName key="G000487">archivio di Mantova</orgName>, e desiderate da me a proposito di un<bibl corresp="G003509"> lavoro storico</bibl></orig><note xml:id="nnsz_jwz_ylb">Nicht ermittelbar, um welche vier Briefe es sich handelt. Da Gregorovius in dieser Zeit an seiner „Lucrezia Borgia“ (Stuttgart: Cotta 1874, 2 Bde.) arbeitete und im Tagebuch vermerkt, dass er „Abschriften wichtiger Dokumente aus Mantua“ erhalten hat, ist davon auszugehen, dass die erwähnten Briefe im Zusammenhang mit der „Lucrezia“ stehen (RT, 28.6.1873, S. 331). Ein Brief von ihm an Raffaele Mariano, in welchem er von der Übersendung zweier Verlagsexemplare der Übersetzung der „Lucrezia“ (Lucrezia Borgia. Secondo documenti e carteggi del tempo. Traduzione dal tedesco per Raffaele Mariano. Florenz: Successori Le Monnier 1874) an Davari und Giovanni Zucchetti berichtet, bestätigt die Annahme; siehe den Brief von Gregorovius an Raffaele Mariano vom 28.9.1874. </note></seg>. La cortesia insigne, colla quale già <seg type="comment"><orig>due volte mi fù dato accesso ai tesori di codesto archivi</orig><note xml:id="nir1_nwz_ylb">Abgesehen von seinem Besuch des Archivs in Mantua 1871 hatte er im Dezember 1872 ein weiteres Mal dort Dokumente eingesehen (siehe RT, 25.12.1872, S. 328).</note></seg> che a diritto si novera frà i più ricchi e i meglio custoditi dell’<placeName key="G000690">Italia</placeName>, ha lasciato nella mia anima una delle più liete memorie della mia vita letteraria; ed ora Ella al pari dell’<seg type="comment"><orig>egregio <persName key="G001725">Signor Direttore</persName></orig><note xml:id="nrk3_4wz_ylb">Giovanni Zucchetti war Paläograph und arbeitete als Archivar sowie Direktor im Archivio Gonzaga. Zucchetti hatte ebenfalls ein Buch zu Lucrezia Borgia veröffentlicht: Lucrezia Borgia duchessa di Ferrara. Mantua: tip. Franc. Virg. Benvenuti 1860.</note></seg> mi rende ancora di nuovo debitore dell’ospitalità di <placeName key="G000724">Mantova</placeName> con mandarmi tanto sollecitamente quelle lettere copiate persino a facsimile. Esprimendo perciò la mia viva riconoscenza a Loro Signorie mi lusigno colla speranza di poter ringraziarle <seg type="comment"><orig>un giorno anche personalmente nel corso di questo anno</orig><note xml:id="naq1_qwz_ylb">Im Sommer 1873, auf dem Weg nach Deutschland, legte er noch einmal einen Forschungsaufenthalt im Archiv von Mantua ein (siehe RT, S. 332).</note></seg>. </p>
+<p>Aggradisca intanto l’espressione della mia più alta stima, con cui mi pregio segnarmi</p>
+                <closer>
+                    <salute rendition="#right"> Servitor suo obligato</salute>
+                    <signed rendition="#right"> Ferdinand Gregorovius. </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

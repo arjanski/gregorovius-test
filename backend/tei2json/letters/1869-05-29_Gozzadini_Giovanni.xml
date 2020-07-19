@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000444">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. Rom, 29. Mai 1869 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell’Archiginnasio</institution><collection>Ms. Gozzadini 442 </collection><idno>(8)</idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Michelangelo Caetani dankt Gozzadini für den freundlichen Empfang seiner Tochter Ersilia Lovatelli in Bologna. Gregorovius will die Gozzadini im September in Ronzano besuchen. Der Abschlussband seiner „Geschichte der Stadt Rom im Mittelalter“ wird in zwei separaten Bänden erscheinen (1870–1872) und voraussichtlich Ende 1871 abgeschlossen sein.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1869-05-29" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni (1810–1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Roma Maggio 29.1869.</dateline>
+                    <salute rendition="#c">Gentilissimo Signor Conte,</salute>
+                </opener>
+<p>parlammo jeri sera di lei e della <persName key="G001092">Signora Contessa</persName> <seg type="comment"><orig>in <persName key="G001244">casa Gaetani</persName></orig><note xml:id="nfb4_cyr_ylb">Die römische Adelsfamilie. Gregorovius war oft zu Gast im Haus der Caetanis, das ein illustrer Treffpunkt für italienische und internationale Vertreter aus Kultur und Politik war.</note></seg>;<persName key="G001004"> <seg type="comment"><orig>il duca</orig><note xml:id="nhdv_dyr_ylb">Der politisch liberal eingestellte Herzog von Sermoneta, Michelangelo Caetani (1804–1882), war von 1846–1848 Polizeiminister, widmete sich dann aber vor allem dem Entwerfen von Schmuck und seinen Dante-Studien (Michelangelo Caetani. La materia della Divina Commedia di Dante Allighieri: dichiarata in 6. tavole, Rom: Menicanti 1855), welche auch Gregorovius sehr schätzte (siehe RT, 10.5.1856, S. 62). Der Herzog ermöglichte Gregorovius den Zugang zum Familienarchiv für dessen Recherchearbeiten (siehe RT, 31.12.1857, S. 69); dieser widmete ihm seine „Lucrezia Borgia“ (Stuttgart: Cotta 1874, 2 Bde.).</note></seg></persName> con grandissima contentezza sua mi raccontò, come <seg type="comment"><orig>la sua figlia <persName key="G001011">Donna Ersilia</persName></orig><note xml:id="nzzm_fyr_ylb">Ersilia Gräfin Caetani Lovatelli (1840–1925) genoß eine unkonventionelle Erziehung und wurde durch den Vater bereits früh mit dem Studium von Altertümern vertraut. Sie heiratete 1859 den aus der Provinz Ravennas stammenden Adligen Giacomo Lovatelli (1832–1879), wurde eine bedeutende Archäologin und als erste Frau zum Mitglied der ehrwürdigen Accademia dei Lincei ernannt (1879). Gregorovius war eng mit der Gräfin befreundet, verkehrte regelmäßig in ihrem Salon und stand mit ihr ein Vierteljahrhundert in brieflichem Kontakt, auch nach seinem Weggang aus Rom (Sigmund Münz. Ferdinand Gregoroviua und seine Briefe an Gräfin Ersilia Caetani Lovatelli, Berlin: Paetel 1896). Einzelne Briefe an Raffaele Mariano (1840–1912) aus späteren Jahren zeugen von Spannungen in ihrer Beziehung; siehe die Briefe von Gregorovius an Raffaele Mariano vom 6.11.1877 und 29.11.1877.</note></seg> passando per Bologna ebbe la fortuna d’incontrarsi con lei, e con quanta cortesia essa da lei fu festeggiata. E siccome io dissi al duca, che appunto in questi giorni io voleva scriverle due righe, egli m’incaricò di esprimerle dalla parte sua tutta la riconoscenza ch’egli le deve per le gentilissime accoglienze fatte alla sua amata figlia. Se io dunque con molta gioja eseguisco quello che mi fu comandato, questo obbligo però non è il solo motivo della mia lettera.</p>
+<p>Io non so, se Ella abbia ricevuto una lettera, ch’io le diressi sulla fine dell’anno scorso; quasi ne dubito, ma comunque sia, o arrivata, o perduta la lettera, io sono ansioso di aver le di loro nuove, essendo passato <pb n="2"/>tanto tempo, da che io abbia avuto alcuna notizia di <seg type="comment"><orig>Bologna<placeName key="G000822">-Ronzano</placeName></orig><note xml:id="ngnd_hyr_ylb">1848 hatten die Gozzadinis den auf einem Berg gelegen Konvent am Rande Bolognas, der Ende des 18. Jahrhunderts zu einer Villa umgebaut worden war, erworben und unterhielten dort einen von gebildeten Persönlichkeiten gut besuchten Salon; siehe den Brief von Gregorovius an Giovanni Gozzadini vom 3.11.1856. Nach dem Tod der Gräfin (1881) widmete Gregorovius dem Salon, in dem auch er häufig zu Gast war, einen Essay: Die Villa Ronzano. Ein Musensitz der Gozzadini von Bologna (ED in: Nord und Süd. Eine deutsche Monatsschrift. Bd. 23. Breslau, Berlin: Schottlaender 1882. S. 312–321 – aufgenommen in: KS Bd. 3, S. 97–120).</note></seg>. Suppongo, che quella amabile e tanto distinta Donna Ersilia fra poco si fermerà là sù a Ronzano, <seg type="comment"><orig>dove certamente non mancherà a dipingermi tutto brutto e nero, come, prescindendo da altre stupidità enormi, un bestemmiatore delle antichità. E ne vedranno il ritratto, se mai avessi l’onore di esser nominato in alcun discorso loro</orig><note xml:id="ngqq_jyr_ylb">Zunächst allgemein gehaltene Ironie, die er in diesem Satz dann auf sich bezieht.</note></seg>. Però, lasciando gli scherzi, volontieri vorrei trovarmi anch’io colà un’altra volta come penitente; e se circostanze impreviste, non mi distolgono dal viaggio, io spero di passare per Bologna fra pochi mesi, e di aver la permissione di fermarmi per poco a Ronzano, sia nell’andare verso la patria, o nel tornare da essa, <seg type="comment"><orig>sulla fine del Settembre</orig><note xml:id="nfmb_lyr_ylb">Nach einem fast vierwöchigen Aufenthalt in Deutschland reiste er am 25. September von München ab, traf am 27. in Bologna ein und stieg am Tag darauf nach Ronzano hinauf: „Die Gozzadini waren melancholisch, ich nicht minder. Der ganze Tag geistesöde. Die Gräfin selbst gestand mir, dass die Einsamkeit dort oben sie menschenfeindlich, egoistisch und zu Fixationen im Gemüt geneigt mache. Der Horizont ist unvergleichlich; aber nur mit den Augen kann man sich dort ergehen.“ (RT, 29.9.1869, S. 265).</note></seg>. </p>
+<p>Ho proseguito i miei lavori intorno alle storie di Roma di modo, che <seg type="comment"><orig>io sarò in grado di venirne a capo nell’anno 1871</orig><note xml:id="nfrl_myr_ylb">Der letzte und achte Band seiner „Geschichte der Stadt Rom im Mittelalter“ erschien 1872.</note></seg>. E avrei potuto far più presto, se non fossi costretto <seg type="comment"><orig>di dividere l’ultimo volume in <bibl corresp="G003434 G003441">due tomi</bibl></orig><note xml:id="nf31_4yr_ylb">Ursprünglich waren sechs Bände für die „Geschichte der Stadt Rom im Mittelalter“ geplant. Mit fortschreitender Arbeit und anwachsender Materialmenge erkannte Gregorovius allerdings die Notwendigkeit, sein Werk um einen siebten Band zu erweitern, wofür er in Stuttgart bei Cotta, bekanntlich erfolgreich, anfragte; siehe den Brief von Gregorovius an Louis Roth in Stuttgart vom 24.6.1863. Auch für den siebten Band sah er dieselbe Problematik eines zu umfangreichen Buches und schlug eine Teilung in zwei Bände vor; siehe die Briefe von Gregorovius an die J. G. Cotta’sche Buchhandlung vom 7.2.1869 und 25.4.1869; letzter in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S 281.</note></seg>, atteso <seg type="comment"><orig>la grande quantità di materiali e documenti raccolti da me</orig><note xml:id="nytj_pyr_ylb">Gregorovius war es ein wichtiges Anliegen, seine Bücher durch neues Archiv- und Forschungsmaterial in den überarbeiteten Auflagen zu erweitern und zu aktualisieren.</note></seg>, per la tanto importante epoca della rinascenza italiana –</p>
+<p><pb n="3"/>Spero che loro, Signor Conte e Signora Contessa, godano perfetta salute, non chè <seg type="comment"><orig>loro gentilissima <persName key="G001188">figlia</persName></orig><note xml:id="nfzq_qyr_ylb">Contessa Anna Gozzadina Gozzadini (1845–1899) heiratete 1865 Conte Anonio Zucchini Solimei (1846), starb kinderlos und hinterließ das Familienerbe dem Krankenhaus von Bologna, heute die nach ihr benannte Clinica Pediatrica Universitaria di Bologna (worauf eine Gedenktafel verweist). Sie gab die Neuordnung des umfangreichen Familienarchivs in Auftrag: Umberto Dallari. L'archivio della famiglia Gozzadini riordinato per cura di Gozzadina Gozzadini Zucchini. Bologna: Zanichelli 1890.</note></seg>, nella memoria di cui desidero di esser cortesemente ripristinato.</p>
+                <closer>
+                    <salute>Alla di lor benevolenza mi raccomando rispettosamente ed affettuosamente</salute>
+                    <signed rendition="#right">Gregorovius </signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

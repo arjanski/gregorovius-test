@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000002">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an die J. G. Cotta’sche Buchhandlung und Johann Georg Freiherr Cotta von Cottendorf in Stuttgart. Rom, 9. April 1853</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"> <surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (2)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 4°, 3 S. – 1r aoR in einer Vignette geprägt: BATH </p>
+<p>das zweibändige Manuskript seines „Corsica“ (1854)</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach
+                                    D1)</idno></idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 200–203 (gekürzt)</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er übersendet das Manuskript seines „Corsica“ (1854) und erläutert ausführlich seinen Inhalt und die Form. Er hofft auf die Verlagsübernahme und bittet um baldmöglichste Entscheidung.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He sends his manuscript of „Corsica“ (1854) and explains its content and form in great detail. He hopes the publisher will accept his offer and asks for a decision as soon as possible. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1853-04-09" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001055">Cotta von Cottendorf, Johann Georg
+                        (1796–1863)</persName>
+                    <orgName key="G000523">J. G. Cotta'sche Buchhandlung</orgName>
+                    <placeName key="G000879">Stuttgart</placeName>
+                </correspAction>
+<correspContext>
+<ref type="next">10. Mai 1853 (BSB München, NL Gregorovius, Gregoroviusiana 26a Beilage – K: DLA Marbach, Cotta-Archiv, Cotta-Briefe, 2a)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">Rom am 9. <hi rendition="#aq">April</hi> 1853.</dateline>
+<salute rendition="#c">Der hochgeehrten Cotta’schen Buchhandlung, <lb/>dem Herrn Baron von Cotta in Stuttgart.<lb/> </salute>
+</opener>
+<p>Ew. Hochwolgeboren nehme ich mir die Freiheit beifolgendes Werk „<bibl corresp="G003106"><hi rendition="#aq">Korsica</hi>, 2. Bände</bibl>“ mit der ergebensten Anfrage zu übersenden, ob Sie ihm die Ehre Ihres Verlages wollen angedeihen lassen.</p>
+<p>Als ich im verwichenen Herbste mir erlaubte, der Augsburger <orgName key="G000462">Allgemeinen Zeitung</orgName> <seg type="comment"><orig>einige <bibl corresp="G003764 G003765 G003766 G003767 G003768 G003769 G003770 G003771 G003772 G003773 G003774 G003775 G003776 G003777 G003778">Artikel über <hi rendition="#aq">Corsica</hi></bibl> zu übersenden</orig><note xml:id="nif4_h4p_jlb">Zuvor waren Gregorovius’ Beiträge zu Korsika unter dem Titel „Wanderungen durch Corsica“ in 15 Folgen vom 29.9.1852 bis 24.12.1852 in der Beilage zur „Allgemeinen Zeitung“ erschienen. Unter dem Titel „Sampiero. Ein Heldenbild aus der Geschichte der Corsen“ wurde sein Beitrag über den korsischen Freiheitskämpfer und Volkshelden Sampièro di Bastelìca, Herr von Ornano, auch Sampiero d’Ornano oder Sampiero Corso (1497–1567), in 7 Folgen vom 16.-23.2.1853 in der Beilage zur „Allgemeinen Zeitung“ abgedruckt; die Artikel gingen verändert in sein „Corsica“ (1854) ein (Bd. 1, S. 34–53).</note></seg>, war es meine Absicht, das große Publicum vorweg für dies Ihnen nun vorliegende Buch zu interessiren; wie man mir seither aus <placeName key="G000664">Deutschland</placeName> geschrieben hat u<ex>nd</ex> wie ich auch aus deutschen Zeitschriften ersehn habe, ist meine Absicht wol erreicht, u<ex>nd</ex> habe ich erkannt, d<ex>a</ex>ß die Teilnahme für den Gegenstand eine allgemeine u<ex>nd</ex> unbezweifelte ist.</p>
+<p>Möchten nun Ew. Hochwolgeboren mein Buch nicht im voraus nach jenen flüchtig u<ex>nd</ex> unkünstlerisch geschriebenen Artikeln beurteilen, welche ich doch nur als einzelne Notizen betrachtet wissen wollte. In der Vorrede habe ich über seinen Gesichtspunkt mich ausgesprochen, u<ex>nd</ex> Sie gestatten mir hier kurz sein Verhältniß zur Literatur wie vor allem die Bedingungen zu erwägen, welche ihm den Fortgang sichern.</p>
+<p>Das Buch ‚<hi rendition="#aq">Corsica</hi>‘ hat für sich außer allem sonstigen Interesse das lebhafteste der Zeit an allen Napoleonischen Dingen; die Neuheit des Gegenstandes u<ex>nd</ex> den sehr hoch anzuschlagenden Vorteil, d<ex>a</ex>ß es keine Vorgänger hat. Meines Wissens existirt über <hi rendition="#aq"><placeName key="G000710">Corsica</placeName></hi> in deutscher Literatur kein einziges Werk der Art, u<ex>nd</ex> weder Engländer, noch Franzosen, noch Italiener haben <hi rendition="#aq">Corsica</hi> aus meinem Gesichtspunkte behandelt. Meine Absicht war ein Werk zu schreiben, das in der Literatur einen höheren als nur vorübergehenden Wert beansprucht. Immerhin darf ich es dagegen verwahren, d<ex>a</ex>ß man es in die Categorie der fragmentarischen Reiseskizzen stellt, welche aufhören zu gelten, sobald andere Bücher über denselben Gegenstand erschienen sind. Sein Gehalt sollte mir ein positiv bleibender u<ex>nd</ex> wissenschaftlicher sein u<ex>nd</ex> doch in künstlerischer u<ex>nd</ex> allgemein zugängiger Form gegeben werden. Ich habe daher den Versuch gemacht, das Leben eines merk-<pb n="1v"/>würdigen Volkes durch alle Jahrhunderte bis auf den heutigen Tag darzustellen u<ex>nd</ex> seine Geschichte mit seinem Lokale organisch zu vereinigen. In so fern habe ich ein geschloßenes Ganze erreicht. Es mußte diese Geschichte in großen u<ex>nd</ex> kräftigen Linien behandelt werden, u<ex>nd</ex> will ich nicht fruchtlos mit den Granitbergen <hi rendition="#aq">Corsicas</hi> u<ex>nd</ex> seinem bronzenen Volk verkehrt haben. Die Geschichte setzt sich durch das ganze Buch fort. Sie finden eine vollständige Jugendgeschichte <persName key="G001441"><seg type="comment"><orig>Napoleons</orig><note xml:id="ncnk_bpp_jlb">Ajaccio auf Korsika ist der Geburtsort von Napoleon Bonaparte (1769–1821).</note></seg></persName> u<ex>nd</ex> immer historische interessante Documente, <hi rendition="#aq">Original</hi>briefe, so von Napoleon, wie von <persName key="G001468"><seg type="comment"><orig><hi rendition="#aq">Pasquale Paoli</hi></orig><note xml:id="nbxx_dpp_jlb">Der korsische Revolutionär und Widerstandskämpfer Pasquale Paoli (1725–1807).</note></seg></persName>, wie von dem merkwürdigen <seg type="comment"><orig><persName key="G001445">Theodor von Neuhof</persName></orig><note xml:id="njfj_3pp_jlb">Der deutsche Abenteurer Theodor Freiherr von Neuhoff (1694–1756) war kurzzeitig der Anführer der korsischen Unabhängigkeitsbewegung gegen Genua und der erste und einzige frei gewählte König Korsikas.</note></seg>. Es erhält also das deutsche Publicum zum ersten Male eine selbständige Geschichte der Corsen, welche als Voraussetzung des Napoleonischen Wesens lehrreich sein wird.</p>
+<p>Nicht minder neu ist für uns Deutsche der Corsische <hi rendition="#aq">Vocero</hi>, die Todtenklage, deren ich eine Reihe übersetzt habe, wie Sie im zweiten Bande finden. Die wunderbare <hi rendition="#aq">Originalität</hi> dieser Lieder gibt ihnen eine markirte Stelle unter den Stimmen der Völker u<ex>nd</ex> sichert ihnen eine bleibende Beachtung.</p>
+<p>Indem ich mir nicht erlauben darf, auf einzelne Partieen des Buches einzugehen, wünsche ich, d<ex>a</ex>ß der Reichtum seines Stoffes auch in Landschafts-Gemälden, Sittenschilderungen, Novellen u<ex>nd</ex> für sich selber sprechen möge.</p>
+<p>Soll ich von den <subst><del rendition="#ow">ersten</del><add place="across">ernsten</add></subst> Zwecken reden, die mich bei dieser Arbeit leiteten, so waren sie zweierlei; einmal die Erneuerung des historischen Andenkens eines heroischen Volkes, welches unter allen modernen Völkern das Wesen der <seg type="comment"><orig>Lacedämonier</orig><note xml:id="nebj_mpp_jlb">Lakedaimonier oder Lakedämonier: Spartaner.</note></seg> wunderbar erneut, u<ex>nd</ex> dessen Geschichte für uns in ziemlichem Dunkel begraben ist; das andere mal will mein Buch unserer durch empfindelnde Lyrik u<ex>nd</ex> den breitgestoßenen Unterhaltungsroman verweichlichten Literatur gegenüber auch eine frische u<ex>nd</ex> heilsame Erscheinung sein. Und was kann man einem rechts wie links vielfach von exzentrischen Theorien u<ex>nd</ex> rhetorischen Phrasen beherrschten Publicum in unseren Tagen Besseres zu bieten versuchen, als die ruhigen Charakterzüge starker, handelnder u<ex>nd</ex> vaterlandsliebender Männer in Weise der Alten? Es sollte mir daher dies Buch gleichsam als ein neuer <persName key="G001502">Plutarch</persName> wirken u<ex>nd</ex> zu edlen u<ex>nd</ex> positiven Empfindungen auch die Jugend anregen, welche es begierig lesen wird. Wenn Sie einen Blick in seine Menschen geworfen haben, werden Sie meine Meinung, so hoffe ich, nicht für eine bloße Illusion erkennen. Durchweg habe ich das Buch sachlich, maßvoll u<ex>nd</ex> untendenziös gehalten, u<ex>nd</ex> reden allein die Dinge; u<ex>nd</ex> obwol dem Leser die Parallelen zur unmittelbaren Gegenwart überall zukommen, habe ich stets mein subjectives Meinen zurückgehalten, um ihm nicht zu schaden. Wie es nun ist, ob gut oder mißraten, so war mein Streben doch auf möglichste Einfachheit, Klarheit u<ex>nd</ex> Plastik gerichtet.</p>
+<p><pb n="2r"/>Indem ich also in Ansehn dessen, d<ex>a</ex>ß hier ein Manuscript Ihrem hochgeehrten Verlage angetragen wird, es für meine Pflicht gehalten habe, strenge über die Aussichten des Buches zu Rate zu gehen, zweifle ich nicht, d<ex>a</ex>ß Ew. Hochwolgeboren meine Überzeugung teilen werden, wie das Werk solche Bedingungen für sich hat, welche einem literarischen Producte ein allgemeines Publikum u<ex>nd</ex> ein günstiges Prognosticon stellen. In diesem festen Bewußtsein durfte ich es wagen, dasselbe Ihrem Verlage zu offeriren. Und ich meine, d<ex>a</ex>ß dies <hi rendition="#aq">Corsica</hi> bei einer auch äußerlich gefälligen Form u<ex>nd</ex> unter der Protection Ihres Namens wol auf eine weite Verbreitung möchte zu rechnen haben.</p>
+<p>Folgendes sind die contractlichen Bedingungen, welche ich Ew. Hochwolgeboren zur Genehmigung vorzulegen mir erlaube:</p>
+<list rendition="#et">
+<item>Der Verfaßer verkauft eine erste Auflage seines Buches „Korsica 2. Bände“ von zweitausend Exemplaren für das Honorar von einhundert und zwanzig Louisdor’s.</item>
+<item>Die Contrahenten treffen für folgende Auflagen ein neues Abkommen.</item>
+<item>Der Verfaßer erhält zehn Exemplare zur Verteilung für Deutschland, zehn Exemplare zur Verteilung für Italien.</item>
+</list>
+<p>Indem ich Ew. Hochwolgeboren gefälliger Entscheidung entgegensehe, spreche ich den Wunsch aus, d<ex>a</ex>ß sie möglichst bald erfolgen möge; nicht allein weil ein schneller Druck des Buches wünschenswert ist, sondern weil ich bald Rom verlaßen werde, <seg type="comment"><orig>um tiefer in den Süden zu gehen</orig><note xml:id="ntrq_rpp_jlb">Gregorovius reiste am 18. Juni 1853 nach Neapel, später nach Sizilien und kehrte am 24. Oktober nach Rom zurück (siehe RT, S. 46–52).</note></seg>, u<ex>nd</ex> hier <seg type="comment"><orig>Ihre geneigte Antwort</orig><note xml:id="nepk_wpp_jlb">Der am 10. Mai 1853 vom Verlag in Stuttgart aufgesetzte Verlagsvertrag über „Corsica“ wurde am 20. Mai 1853 von Gregorovius unterschrieben; er fixiert eine Auflagenhöhe von 1200 Exemplaren, wofür Gregorovius 72 Louis d’or und 20 Freiexemplare erhielt (BSB München, NL Gregorovius, Gregoroviusiana 26a Beilage – DLA Marbach, Cotta-Verträge 1). Im Antwortschreiben Cottas vom 10.5.1853 (SBB, Handschriftenabteilung, Slg. Darmstaedter 2m 1840: Laube, Heinrich, Bl. 1–2 acc. 1930.8) erklärt Johann Georg von Cotta, dass die Auflage nicht so hoch angesetzt werden könne, weil sich „Länder- und Reisebeschreibungen“ erfahrungsgemäß nicht besser verkaufen (BSB München, Gregoroviusiana 26a, Beilage – K: DLA Marbach, Cotta-Archiv, Cotta-Briefe, 2a).</note></seg> erwarten muß.</p>
+<p>Für jeden Fall bleibt meine Adresse: <hi rendition="#aq">Roma</hi>, <hi rendition="#aq"><placeName key="G00076555">Café Greco</placeName></hi>, <hi rendition="#aq">Via Condotti</hi>.</p>
+<p>Ihrem Wolwollen u<ex>nd</ex> Ihrer literarischen Obhut u<ex>nd</ex> Teilnahme mich u<ex>nd</ex> mein <hi rendition="#aq">Corsica</hi> auf das Wärmste empfehlend habe ich die Ehre mich zu zeichnen in großer Hochachtung</p>
+<closer>
+<salute rendition="#right">Ew. Hochwolgeboren ganz ergebenster </salute>
+<signed rendition="#right"><hi rendition="#aq">Dr</hi>. <hi rendition="#aq">Ferdinand Gregoroviu</hi>s. <lb/> </signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

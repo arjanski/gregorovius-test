@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000365">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Ottilie Elgnowski in Königsberg. Rom, 1. April 1871</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>BSB München</repository><collection>NL Gregorovius</collection><idno>Gregoroviusiana 20, Elgnowski, Ottilie (20)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 88, Mappe 17 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 88, Mappe 2 und Karton 55, Mappe 335 (nach h1)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Die Abschlussarbeiten des letzten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1872) beschäftigen ihn noch immer. Vorgestern erhielt er den letzten Brief von seinem Bruder aus Rouen, der dort den preußischen Kronprinz Friedrich Wilhelm getroffen hat. Von dem in Wiesbaden im Ruhestand lebenden Louis Harder hat er lange nichts gehört, er glaubt nicht, dass Untätigkeit einen Menschen zufrieden machen kann. Die von der Pariser Kommune verursachten anarchischen Zustände in Paris erfordern vielleicht ein weiteres Eingreifen der preußischen Truppen. Am 18. März hat in Rom im Palazzo Poli eine Friedensfeier mit ihm als Festredner stattgefunden, wo auch 1859 die Gedächtnisfeier zum 100. Geburtstag von Friedrich Schiller begangen worden war. Der plötzliche Tod von Georg Gottfried Gervinus am 18. März 1871 ist auch ein großer persönlicher Verlust. Zum heutigen Todestag seines Neffen Richard, bittet er die Witwe seines Bruders Rudolph, Ottilie in Schippenbeil zu grüßen. Er hat ihr einen Brief mit Porträt gesandt; der vierte Band seiner „Wanderjahre in Italien“ (1871) wird ihr bald zugehen. Den Brockhaus-Verlag hat er angewiesen, Ottilie Elgnowski 50 Taler zu schicken und auch der Bruder Julius wird ihr 15 Taler zukommen lassen. Er ist froh, dass sie in Königsberg Musikschüler gefunden hat. Die neue Aufgabe wird sie beleben. Ihr Sohn Hermann soll neue und alte Sprachen lernen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1871-04-01" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001111">Elgnowski, Ottilie (bis 1855 Gregorovius, Ottilie) (1834–1907)</persName>
+<placeName key="G000699">Königsberg</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c"><hi rendition="#aq">Rom</hi>, 1. <hi rendition="#aq">April</hi> 1871.</dateline>
+                    <salute>Liebe Schwester,</salute>
+                </opener>
+<p>ich habe Dir noch nicht auf Deinen letzten Brief geantwortet, weil ich sehr mit Arbeiten angespannt war, da ich jetzt nichts betreibe, als den<bibl sameAs="G003434"> Abschluß meiner <?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T131215+0200" comment="Die Ausarbeitung des 8. Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1872)."?>Arbeit<?oxy_comment_end?></bibl>, wozu denn doch noch immer viele Monate gehören.</p>
+<p>Vorgestern erhielt ich einen Brief vom <persName key="G001203">Bruder,</persName> noch aus <placeName key="G000861"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T131230+0200" comment="Julius Gregorovius hatte am 27. November 1870 an der Schlacht von Amiens teilgenommen und sich eine Kontusion am Fußgelenk zugezogen, die er in Rouen auskurierte (siehe die Briefe von Gregorovius an Ottilie Elgnowski, 11. und 20.12.1870; BSB München, NL Gregorovius, Gregoroviusiana 20, Elgnowski, Ottilie, 15 und 16). Am 5. Februar 1871 hatte Gregorovius in seinem Tagebuch vermerkt, dass der Bruder nach wie vor in Rouen ist, aber wieder im Einsatz (siehe RT, S. 302)."?>Rouen<?oxy_comment_end?></placeName>, wo er mit dem <persName key="G001147">Kronprinzen</persName> zusammen getroffen <?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T131249+0200" comment="Kronprinz Friedrich Wilhelm (1831–1888) befehligte bis zum Ende des Deutsch-Französischen Kriegs mit seiner 3. Armee einen Teil der Belagerung von Paris. Unter seiner Teilnahme war Wilhelm I. (1797–1888) am 18. Januar 1871 in Versailles zum Deutschen Kaiser proklamiert worden."?>war<?oxy_comment_end?>. Er sehnt sich nach der Heimat zurück, u<ex>nd</ex> wie Du darnach verlangst, ihn wieder zu sehen, kann ich mir lebhaft vorstellen.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T131301+0200" comment="Julius Gregorovius war im Juli 1871 zurück in Graudenz und besuchte seine Halbschwester Ottilie Elgnowski in Königsberg (siehe den Brief von Julius Gregorovius an Ferdinand Gregorovius, 8.7.1871, BSB München, NL Gregorovius, Gregoroviusiana 20)."?> <?oxy_comment_end?>Aber die grenzenlose Anarchie in <placeName key="G000674">Fr<ex>an</ex>kr<ex>eich</ex></placeName><?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T131321+0200" comment="Der revolutionäre Pariser Stadtrat (La Commune de Paris), der seit dem 18. März 1871 gegen den Willen der Zentralregierung versuchte, Paris nach sozialistischen Vorstellungen zu verwalten. Bis zur Niederschlagung der Pariser Kommune am 28. Mai 1871 herrschten anarchische Zustände, zehntausende Kommunarden wurden exekutiert. Gregorovius vermerkt in seinem Tagebuch: „Die öffentliche Aufmerksamkeit wurde durch die Commune in Paris ganz in Anspruch genommen. Vor den Augen ihrer Überwinder, der Deutschen, welche noch die nördlichen Forts besetzt halten, zerfleischen sich die Franzosen im greulichen Bürgerkrieg. Dies zeigt der Welt sonnenklar, wie gerecht und sittlich der Sieg Deutschlands gewesen ist.“ (RT, 9.4.1871, S. 304)"?> <?oxy_comment_end?>dürfte vielleicht die Anwesenheit, wenn nicht das Eingreifen unserer Truppen doch verlangen. Es sind <choice><sic>sind</sic><corr type="deleted"/></choice> ganz schmachvolle Zustände, welche <pb n="1v"/>den tiefsten Grad der Corruption jenes Landes beweisen. Um so gesünder u<ex>nd</ex> kräftiger steht <placeName key="G000664">das unsrige</placeName> da, u<ex>nd</ex> es wird die sicherste Grundlage für die Cultur Europas sein.</p>
+<p>Wir haben auch hier in Rom, am 18. März, ein Friedensfest gefeiert, in demselben Palast <hi rendition="#aq"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T131334+0200" comment="Der 1566 von Martino Longhi (1530–1591) für die Familie Ceri erbaute Palast. 1678 erwarb ihn Lucrezia Colonna (1652–1716), die 1677 Giuseppe Lotario Conti Graf von Poli und Guadagnolo (1651–1724) heiratete. Unter Abriss des mittleren Teiles des Palastes wurde 1732 durch Nicola Salvi (1697–1751) an der Südfassade der Trevi-Brunnen ergänzt. Dafür wurde der mittlere Teil des Palastes abgerissen."?>Poli<?oxy_comment_end?></hi>, wo wir vor 11 Jahren das Schillerfest feierten. Ich habe dort die Festrede gehalten. Wir waren etwa 150 Menschen, Männer und Frauen.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T131509+0200" comment="Siehe RT, 9.4.1871, S. 304. Unter dem Titel „Rede gehalten bei der Friedensfeier der Deutschen in Rom“ gedruckt in: Beilage zu Nr. 99 der AZ. Augsburg: Cotta 9.4.1871. S. 1729–1730. Am 10. November 1859 fand die Gedächtnisfeier zum 100. Geburtstag von Friedrich Schiller im Deutschen Künstlerverein statt (RT, 13.11.1859, S. 91). Über Gregorovius’ Festrede bei der Schillerfeier in Rom, die mit einem Gedicht von ihm endete siehe „Die Feier des Schillerjubiläums“ in: Illustrirte Zeitung. Bd. 33. Nr. 861. Leipzig: Weber 31.12.1859. S. 448–449."?> <?oxy_comment_end?></p>
+<p>Der plötzliche Tod von <persName key="G001168">Gervinus</persName> in <placeName key="G000685"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T131533+0200" comment="Georg Gottfried Gervinus war am 18. März 1871 unerwartet an einem nervösen Fieber verstorben."?>Heidelberg<?oxy_comment_end?></placeName> betrübt mich sehr, u<ex>nd</ex> ist für mich ein dauernder Verlust. </p>
+<p>Heute ist der Todestag des guten <persName key="G001205">Richard</persName>. Ich bitte Dich an die <persName key="G001204">Schwägerin</persName> zu schreiben, u<ex>nd</ex> ihr zu sagen, daß ich mit Schmerz <pb n="2r"/>an Richard u<ex>nd</ex> <persName key="G001206">Rudolf</persName> <?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T131554+0200" comment="Sein ältester Bruder, der Theologe Rudolph Gregorovius (1808–1866) war mit der Gutsbesitzerstochter Gr. Ottilie, geb. Schickert verheiratet. Ihr letztes Kind Richard(?) war Karfreitag, den 9. April 1852 gestorben (siehe Gustav Liek: Die Stadt Schippenbeil. Königsberg 1874. S. 251–253)."?>denke<?oxy_comment_end?>, u<ex>nd</ex> sie selbst herzlich grüßen lasse. Sie wird in einigen Wochen meinen <bibl sameAs="G003301">Schlußband der <?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T131625+0200" comment="Der vierte Band „Von Ravenna bis Mentana“ (1871)."?>Wanderjahre<?oxy_comment_end?></bibl> erhalten; sie erhielt wol meinen Brief nebst Porträt.</p>
+<p><hi rendition="#aq"><orgName key="ed_qck_wrq_m3b">Brockhaus</orgName></hi> aus <placeName key="G000712">Leipzig</placeName> hat von mir den Auftrag, Dir in meinem Namen 50 Thal<ex>er</ex> zu schicken.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T131714+0200" comment="Siehe den Brief von Gregorovius an Brockhaus, 31.3.1871 (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 224,102)."?> <?oxy_comment_end?>So bald Du dieselben erhältst sei so gut ihm ganz kurz u<ex>nd</ex> geschäftlich so zu quittiren.</p>
+<p>Den richtigen Empfang von 50 Thalern durch die geehrte Buchhandlung Brockhaus in Leipzig, nach Anweisung meines Bruders in Rom, bescheinigt ergebenst</p>
+<p rendition="#c">etc</p>
+<p>Auch vom Bruder wirst Du 15 Thaler in meinem Namen erhalten. Ich bin sehr erfreut, daß Du Musikschüler erhalten hast; dies <pb n="2v"/>ist immer ein guter Anfang, u<ex>nd</ex> vor allem wird es Dich selbst durch die Thätigkeit erfreuen u<ex>nd</ex> beleben. Arbeit ist das einzige, woraus der Mensch sittliche Nahrung u<ex>nd</ex> Kräfte zieht. Darum sind Menschen, wie <persName key="G001236">Harder</persName>, höchst unglücklich zu nennen.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T131747+0200" comment="Der Kaufmann Louis Harder (1821-nach 1891) war ein enger Königsberger Freund von Gregorovius, der in Wiesbaden als Rentner lebte und den er in Heidelberg wiedergetroffen hatte (siehe den Brief von Gregorovius an Ottilie Elgnowski, 11.12.1870; BSB München, NL Gregorovius, Gregoroviusiana 15)."?> <?oxy_comment_end?></p>
+<p>Ich bitte mich dem freundlichen <persName key="G001243">Dresslerschen <?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T131806+0200" comment="Verwandte der Stiefmutter von Gregorovius, Emilie Auguste Gregorovius, geb. Dreßler, verw. von Collrepp (1797–1866), die insgesamt zehn Geschwister hatte. Siehe den Brief von Gregorovius an Ottilie Elgnowski, 11.12.1870; BSB München, NL Gregorovius, Gregoroviusiana 20, Elgnowski, Ottilie, 19)."?>Hause<?oxy_comment_end?></persName> auf das herzlichste zu empfehlen. </p>
+<p>Wie geht es Dir, lieber Neffe <persName key="G001109">Hermann</persName>? Hoffentlich kommst Du wacker vorwärts. Lerne doch nur tüchtig Sprachen, alte u<ex>nd</ex> neue.</p>
+                <closer>
+<salute>Nun, liebe Schwester, Gott befohlen!</salute>
+<signed rendition="#c">FGr</signed>
+<note type="postscript">Morgen sind es 19 Jahre, daß ich Königsberg verließ.</note>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

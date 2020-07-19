@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067754">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. München, 30. Dezember 1874 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell’Archiginnasio</institution><collection>Ms. Gozzadini 442 </collection><idno>(22)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er freut sich auf Gozzadinis neues Buch „Delle torri gentilizie di Bologna e delle famiglie alle quali prima appartennero“ (1875) und begrüßt dessen Engagement in der Debatte um die Neuordnung der Bologneser Archive, die zur Gründung des Archivio di Stato di Bologna geführt hat. Er arbeitet an der dritten Auflage des ersten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1875). Paolo Perez beklagt den Tod eines Freundes. Grüße an Maria Teresa Serego Alighieri Gozzadini.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1874-12-30" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni conte (1810–1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">Monaco di Baviera <lb/>30. Decem<ex>bre</ex> 1874.</dateline>
+<salute rendition="#c">Illustre signor Conte,</salute>
+</opener>
+<p>ringrazio di tutto cuore la S<ex>ignoria</ex> V<ex>ostra</ex> e quella della <persName key="G001092">signora Contessa</persName> della memoria benevola, che hanno serbato di me, come la sua graziosissima lettera lo dimostra. Aspetto con vero piacere <bibl corresp="ed_gdb_52b_xkb"><seg type="comment"><orig>la sua opera sulle torri gentilizie di Bologna</orig><note xml:id="nvnn_nd4_zlb">Giovanni Gozzadini. Delle torri gentilizie di Bologna e delle famiglie alle quali prima appartennero. Studj del conte Giovanni Gozzadini. Bologna: Nicola Zanichelli successore alli Marsigli e Rocchi 1875: https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11316315_00007.html </note></seg></bibl>, essendo sicuro <seg type="comment"><orig>di poter cavarne tutt’un tesoro di notizie storiche</orig><note xml:id="nefx_4d4_zlb">Siehe die dritte, verbesserte Auflage vom 5. Band der „Geschichte der Stadt Rom im Mittelalter“ (1878), S. 306. In der „Allgemeinen Zeitung“ veröffentlichte Gregorovius eine Rezension zu Gozzadinis „Delle torri gentilizie di Bologna e delle famiglie alle quali prima appartennero“ (AZ, Nr. 39–40, 8.-9.2.1875, S. 587–588 u. S. 602–604). Gregorovius erhielt das Buch wenige Wochen nach diesem Schreiben durch eine Sendung von Gozzadini; siehe den Brief von Gregorovius an Giovanni Gozzadini vom 7.2.1875.</note></seg>.</p>
+<p>La speranza poi che mi dà, di veder cioè principarsi almeno il riordinamento degli archivi di Bologna, i quali noveransi fra i più rilevanti dei comuni d’<placeName key="G000690">Italia</placeName>, risveglia in me una vera gioja, e altrettanta in chiunque <seg type="comment"><orig>si occupi in <placeName key="G000664">Germania</placeName> della storia d’Italia</orig><note xml:id="nvln_qd4_zlb">Nach einer langen Debatte, die bereits vor der Einigung Italiens begonnen hatte, konnte das Archivio di Stato di Bologna im Oktober 1874 eröffnet werden. Neben Vertretern der städtischen Kulturszene war es die Deputazione di Storia di Patria delle Province di Romagna, namentlich deren Präsident Gozzadini und Sekretär Giosuè Carducci (1835–1907), die sich für eine Zusammenführung der verschiedenen, bis dato zerstreut aufbewahrten Dokumentensammlungen aussprach. Das einzigartige kulturelle Vermögen der Romagna sollte an einem gemeinsamen Ort ihren Platz finden. Dieser musste geräumig und zugleich repräsentativ sein sowie den archivarischen Bedingungen entsprechen. Seinen Platz fand des in einem ehemaligen Konvent der Zölestiner im historischen Zentrum der Stadt.</note></seg>.</p>
+<p><seg type="comment"><orig>Il mio soggiorno in Monaco</orig><note xml:id="negb_sd4_zlb">Gregorovius hatte Rom am 15. Juli 1874 endgültig verlassen und sich ab dem 10. September mit seinem Bruder Julius (1819–1891) und der gemeinsamen Halbschwester Ottilie (1834–1907) in München niedergelassen. Mit der Fertigstellung seiner „Geschichte der Stadt Rom im Mittelalter“ (8 Bde., 1859–1872) hatte er seine Pflicht für erfüllt und seine Zeit in Italien für beendet gesehen; siehe den Brief von Gregorovius an Giovanni Gozzadini vom 16.8.1874.</note></seg> non è per nulla triste in quanto ai rigori dell’inverno, che al contrario è mite più di quel che non avrei creduto. Abbiamo quì al più 3. gradi sotto lo zero. <pb n="2"/>La città per vero e la vasta pianura che la cinge stanno coperte di neve, ma si è appunto per ciò che la crudezza dell’aria si mitiga.</p>
+<p>Le occupazioni, cui attendo coll’ajuto della ricchissima <seg type="comment"><orig><orgName key="G000510">biblioteca di stato</orgName></orig><note xml:id="nn3f_td4_zlb">Die 1558 als Hofbibliothek gegründete Bayerische Staatsbibliothek, die diesen Namen seit 1919 trägt.</note></seg> – essa contiene attualmente più di un millione di libri – sono lievi e nello stesso tempo amene. <orgName key="G000523">L’editore mio</orgName> in <placeName key="G000879">Stuttgart</placeName> ha cominciato <bibl corresp="G003436 G003443 G003450 G003457 G003464 G003471 G003478 G003483">la terza edizione della storia di Roma</bibl>, a sro’ della quale mi sollecito di sottoporre tutta l’opera ad un esame rigoroso, <seg type="comment"><orig>onde ripulirla ed arricchirla</orig><note xml:id="ni4q_5d4_zlb">Gregorovius legte großen Wert darauf, die Neuauflagen seiner Bücher sehr gründlich zu überarbeiten und mit neu entdecktem Archivmaterial und neuesten Forschungen zu aktualisieren.</note></seg> servendomi all’uopo di tutta quella letteratura storica moderna che da cinque anni a questa parte è cresciuta su. Gli studi intorno al medio evo hanno preso uno sviluppo <seg type="comment"><orig>inmenso</orig><note xml:id="njkp_vd4_zlb">Fälschlich für: immenso.</note></seg>, di modo che difficilmente si ritrova un fatto storico per minimo ed isolato che sia, che non sia illustrato da qualche critica.</p>
+<p>Ebbi, alcune settimane fa, lettere di <seg type="comment"><orig><persName key="G001483">Paolo</persName></orig><note xml:id="nzgw_wd4_zlb">Der Dante-Forscher Graf Paolo Perez (1822–1879), ein Freund von Gregorovius und Cousin der Gräfin Gozzadini, hatte Gregorovius in die römischen Kreise eingeführt. Perez war 1856, trotz der Bedenken seiner Freunde und Verwandten, in den Orden der Rosminianer in Stresa eingetreten. Ihm hatte Gregorovius sein 1858 erschienenes Gedicht „Euphorion“ (Leipzig: Brockhaus) gewidmet. In Stresa besuchte er ihn regelmäßig (siehe RT 17.7.1867, S. 227; RT 20.7.1869, S. 259).</note></seg>, in cui mi diede parte della morte del <seg type="comment"><orig><gap reason="empty" unit="words" quantity="1"/>.</orig><note xml:id="nopw_xd4_zlb">Aufgrund der Leerstelle in der Abschrift und der fehlenden Gegenbriefe von Perez ist der Verstorbene nicht ermittelbar.</note></seg> Egli piange di aver perduto un’amico; però ardisco dire, e senza voler ledere perciò la memoria del morto, <pb n="3"/>che quella perdita piuttosto si manifesterà come liberazione.</p>
+<p>Mando i più cordiali augurj a Lor Illustrissime Signorie per l’anno nuovo, che mi auguro per Loro il più prospero e felice.</p>
+<p>Coll’ espressione della più alta ed affettuosa stima mi raccomando alla di Loro benevola memoria.</p>
+<closer>
+<signed rendition="#right">Ferd. Gregorovius </signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

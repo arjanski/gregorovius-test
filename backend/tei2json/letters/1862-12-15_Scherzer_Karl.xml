@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067718">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Karl Ritter von Scherzer in Wien. Rom, 15. und 27. Dezember 1862</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Kantonsbibliothek Vadiana St. Gallen </repository><collection>Slg. Robert Alther</collection><idno>VadSlg NL 202 : 83 : 76q</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Durch Scherzers Brief hat er sich lebhaft an ihr Kennenlernen in St. Moritz erinnert. Sein Brief kam verspätet an, so dass der erwünschte Dispens der S. Maria dell’Anima von Pater Michael Gaßner erst jetzt auf den Weg gebracht werden konnte. Er ist erfreut, dass er der Bibliothek der Deutschen im Palast Caffarelli seine „Reise der österreichischen Fregatte Novara um die Erde, beschreibender Teil“ (3 Bde., 1861–1862) spenden will. Er würde ihm auch den vierten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1862) übersenden, hat aber kein Exemplar mehr. Er erkundigt sich nach der in Wien lebenden Theresia Schurz, der Schwester von Nikolaus Lenau. Der Brief wurde erst am 27. Dezember 1862 abgesandt.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">Through Scherzer’s letter he vividly recalls their meeting in St. Moritz. His letter arrived late, so he was only now able to initiate the desired dispensation of S. Maria dell’Anima from Father Michael Gaßner. He is delighted that he will donate his „Reise der österreichischen Fregatte Novara um die Erde, beschreibender Teil“ (3 vols., 1861-1862) to the Bibliothek der Deutschen in the Caffarelli Palace. He would also like to send him the fourth volume of his „Geschichte der Stadt Rom im Mittelalter“ (1862), but he no longer has a copy. He inquires about Theresia Schurz, the sister of Nikolaus Lenau, who lives in Vienna. The letter was not sent until December 27th, 1862. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date from="1862-12-15" to="1862-12-27" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001577">Scherzer, Karl Ritter von (1821–1903)</persName>
+<placeName key="G000897">Wien</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Rom, Via Gregoriana 13. <lb/>15. <hi rendition="#aq">Dec<ex>em</ex>b<ex>e</ex>r</hi> 1862.</dateline>
+                    <salute rendition="#c">Sehr verehrter <seg type="comment"><orig>Freund</orig><note xml:id="nwj1_vgy_1mb">Der aus Wien stammende Foschungsreisende und Diplomat Karl von Scherzer (1821–1903) hatte 1834–1836 in der Wiener Staatsdruckerei eine Bruchdruckerlehre absolviert und war danach bei Brockhaus in Leipzig tätig. Nach privatem Studium ließ er seine sozialkritischen Arbeit „Über das Armthum“, mit der er 1849 in Gießen promoviert wurde, 1848 gegen den Widerstand der Zensur in Wien drucken. 1852 bis 1855 unternahm er mit dem Zoologen Moritz Wagner (1813–1887) eine ausgedehnte Forschungsreise in Nord‐ und Mittelamerika. Als Expeditionsschreiber und Handelsdelegierter nahm er 1857 bis 1859 mit Wagner an der Novara-Expedition genannten Weltumseglung teil, in dessen Folge er 1860 in den Ritterstand erhoben wurde. 1864 wurde er Ministerialrat im österreichischen Handelsministerium, nahm aber 1869–1870 an der österreichischen Ostasien‐Expedition teil. 1872–1873 war er österreichischer Generalkonsul in Smyrna, 1873–1878 in London, 1878–1884 in Leipzig und 1884–1896 in Genua. Gregorovius hatte Scherzer zusammen mit Moritz Wagner in St. Moritz kennengelernt. Neben dem vorliegenden Schreiben von Gregorovius an Scherzer hat sich nur ein weiterer als Druck überlieferter Brief aus dem Jahre 1889 erhalten. Zweifellos standen beide bis dahin in brieflichem Kontakt, denn 1876 gratuliert ihm Scherzer aus London zur Verlegung der römischen Erherenbürgerwürde (BSB München, NL Gregorovius, Gregoroviusiana 18–44).</note></seg>,</salute>
+                </opener>
+<p>mit wahrhafter Freude empfing ich Ihre Zeilen, welche mich augenblicklich in jene <seg type="comment"><orig><placeName key="G067579">Engadinische</placeName> Welt zurückversetzen, wo ich das Glück hatte, Sie persönlich kennen zu lernen</orig><note xml:id="nexw_vgy_1mb">Gregorovius hatte Scherzer bei einem Kuraufenthalt von Ende Juli bis zum 20. August 1862 in St. Moritz kennengelernt (siehe den Brief von Gregorovius an Cotta, 11.8.1862 und RT, 30.7.-18.8.1862, S. 149–151).</note></seg>. Es thut mit Leid, zu hören, daß Ihre Gesundheit durch die dortigen Bäder nicht völlig gestärkt worden ist; die Zufälle, von denen Sie schreiben, sind mir nur zu wol bekannt; sie sind die Folgen der Überanstrengung bei <seg type="comment"><orig>sedentärer</orig><note xml:id="njrn_wgy_1mb">Sitzender.</note></seg> Lebensweise. <seg type="comment"><orig>Ihre Thätigkeit ist enorm; dies macht Ihnen Ehre, aber Ihrem Leibe Schande; Sie sollten sich daher eine längere Ruhepause gönnen, um die seltne Kraft der Wissenschaft länger zu erhalten</orig><note xml:id="nnbm_xgy_1mb">Nach seiner Weltumseglung hatte Scherzer seine „Reise der österreichischen Fregatte Novara um die Erde, beschreibender Teil“(3 Bde. Wien 1861–1862) publizierte und wenig später erschien ergänzend „Reise der österreichischen Fregatte Novara um die Erde, statistisch-kommerzieller Teil“ (2 Bde., Wien 1864).</note></seg>. </p>
+<p>Ich habe übrigens Ihren Brief <pb n="1r"/>durch Versäumniß der Post sehr spät empfangen; ich eilte, Ihren Auftrag auszuführen, u<ex>nd</ex> so gelang es mir endlich vom <seg type="comment"><orig><persName key="G067645">Monsignor <hi rendition="#aq">Gosler</hi></persName> an der<placeName key="G067578"> <hi rendition="#aq">S<ex>an</ex>ta Maria dell’Anima</hi></placeName></orig><note xml:id="nkgk_ygy_1mb">Sicher ein Hörfehler von Gregorovius: Rector der S. Maria dell’Anima, der deutschen katholischen Nationalkirche in Rom nahe der Piazza Navona war 1860 bis Ende 1872 der aus dem Vorarlberg stammende Pater Michael Gaßner (1810–1883). </note></seg> folgende Auskunft zu erhalten: daß <seg type="comment"><orig>der Dispens</orig><note xml:id="nuh1_zgy_1mb">In der deutschen Nationalkirche z. B. musste der Dispens zur Konversion zum katholischen Glauben eingeholt werden.</note></seg> am 6. <hi rendition="#aq">December</hi> an seinen Bestimmungsort aus der heutigen <hi rendition="#aq"><orgName key="G067531">Dataria</orgName></hi> abgesandt worden sei. <seg type="comment"><orig>Die Liebenden von Arad werden demnach von dieser Autorisation schon den fröhlichen Gebrauch <hi rendition="#aq">ex natura</hi> gemacht haben</orig><note xml:id="nz42_chy_1mb">Möglicherweise ging es um Scherzers Konversion zum katholischen Glauben seiner späteren Ehefrau. Scherzer verehelichte sich 1866 mit der aus Wien gebürtigen Jüdin Julie Karoline verw. Gentilli, geb. Kohn (1820–1900). Sie war in erster Ehe mit dem italienischstämmigen Juden Josef Gentilli (*1813) verheiratet, dem am 1. Juli 1862 in einer Wiener Irrenanstalt verstorbenen ersten Sekretär der südlichen Staatseisenbahn-Gesellschaft aus Görz. Mit ihm hatte sie die Kinder Victor Amadeo Karl (1837–1876) und Natalie (1839–1869). Natalie heiratete um 1862 den Wiener Bankier Isidor Kanitz (1840–1925), mit dem sie 1863 die erste Tochter bekam. Mit dem Ingenieur Victor Amadeo Karl Genellli (1837–1876) unternahm Scherzer 1869 auch Reisen nach Ägypten.</note></seg>. </p>
+<p>Um die <orgName key="G000460">„Bibliothek der Deutschen“</orgName> werden Sie sich durch die liberale Gabe eines Exemplars <bibl sameAs="G067700"><seg type="comment"><orig>Ihres deutschen Werks</orig><note xml:id="nadt_thy_1mb">Sicher Scherzers „Reise der österreichischen Fregatte Novara um die Erde, beschreibender Teil“(3 Bde. Wien 1861–1862).</note></seg></bibl> ein wahrhaftes Verdienst erwerben. Haben Sie die Güte auf der Adresse zu bemerken „Bibliothek der Deutschen im <placeName key="G000771">Palast <hi rendition="#aq">Caffarelli</hi></placeName>“, <pb n="2r"/>damit nicht etwa eine Verwechslung mit dem <orgName key="G067532">Archäologischen Institut </orgName>stattfinde, welches gleichfalls auf dem <placeName key="G000761"><hi rendition="#aq">Capitol</hi></placeName> seinen Sitz hat. Ich werde dankbar alles empfangen, was Sie mir wollen freundlich zukommen laßen. Ich selbst würde Ihnen den <bibl sameAs="G003462"><seg type="comment"><orig>IV. Band meiner Gesch<ex>ichte</ex> der Stadt Rom</orig><note xml:id="nwgl_5hy_1mb">Der 1862 erschienene Band 4 seiner „Geschichte der Stadt Rom im Mittelalter“.</note></seg></bibl> zugeschickt haben, ohne die Furcht, daß dieser einzelne Band die Nötigung auferlegen könnte, <bibl corresp="G003469 G003476 G003485">die <seg type="comment"><orig>übrigen 3</orig><note xml:id="nrhy_5hy_1mb">Die 1859–1860 erschienenen Bände 1–3 seiner „Geschichte der Stadt Rom im Mittelalter“.</note></seg></bibl> selbst anzuschaffen, welche ich nicht besitze, u<ex>nd</ex> zu erkaufen ich nicht Mittel habe. Ich komme schon ein ander Mal zu Ihnen.</p>
+<p>Es scheint mir, daß Sie Ihre pojectirte Reise nach <placeName key="G000716">London </placeName>aufgegeben haben.</p>
+<p>Möchten Sie sich bei Gelegenheit im <seg type="comment"><orig><placeName key="G067598">Schwarz-Spanier Hause zu Wien</placeName> <pb n="2v"/><del rendition="#s"><add place="intralinear">sich</add></del> erkundigen, ob <persName key="G067624"><persName key="G001359">Lenaus</persName> Schwester</persName>, Wittwe von <persName key="G004729">Anton Schurz</persName>, noch lebt, u<ex>nd</ex> welches die Schicksale ihrer <persName key="ed_hwr_qzp_lkb ed_l4k_4zp_lkb ed_vv3_41q_lkb ed_avv_l1q_lkb ed_vf5_b1q_lkb">Töchter </persName>seien</orig><note xml:id="np5w_vhy_1mb">Theresia (Terese) Anna, geb. Niembsch (1801–1878), die ältere Schwester des jungdeutschen Schriftstellers Nikolaus Lenau (1802–1850), war ab 1821 mit dem Wiener Rechnungsbeamten, Schriftsteller und Biographen Lenaus, Anton Xaver Schurz (1794–1859), verheiratet. Sie hatten sieben Kinder: Anton (Toni, 1823–1903), Katharina (Kathi, um 1825–1837), Eleonore (Lori), Joseph (Pepi), Therese (Resi, 1830–1872), Pauline, Katharina (1839–1906). </note></seg>. Ich <seg type="comment"><orig>stand einst in freundschaftlichem Verkehr zu jenen trefflichen Menschen</orig><note xml:id="nd42_xhy_1mb">Anton Schurz hatte 1851 das Manuskript seines Stückes „Der Tod des Tiberius“ (1851) zur Aufführung im Wiener K. K. Hof- und Nationaltheater aus Königsberg mitgenommen und dem dem artistischen Direktor Heinrich Laube (1806–1884) überbracht (Österreichische Nationalbibliothek, Teilnachlass Laube, Autogr. 156/1–1 HAN MAG), der das Stück jedoch ablehnte (SBB-PK, Slg. Darmstaedter 2m 1840: Laube, Heinrich, Bl. 1–2 acc. 1930.8). Im Frühjahr 1852 hatte Gregorovius auf seinem Weg von Königsberg nach Italien die Familie in Wien besucht (siehe RT, S. 44).</note></seg>, aber die Jahre in der Fremde haben ihn unterbrochen.</p>
+                <closer>
+<salute>Ich grüße Sie von Herzen im schönen u<ex>nd</ex> guten <placeName key="G000664">Vaterland!</placeName> Es gehe Ihnen dauernd wol, u<ex>nd</ex> gedenken Sie gern Ihres Sie aufrichtig verehrenden</salute>
+                    <signed rendition="#right">Ferd Gregorovius.</signed></closer>
+<note type="postscript">Dieser Brief blieb bis zum 27. Dec<ex>em</ex>b<ex>e</ex>r liegen, weil ich ihn sicherer durch die Gesandtschaft zu befördern gedachte, aber schließlich dennoch daran gehindert war. Viele schöne Wünsche zum Neuen Jahr!</note>
+            </div>
+        </body>
+    </text>
+</TEI>

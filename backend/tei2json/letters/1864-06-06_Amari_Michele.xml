@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000317">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Michele Amari in Turin. Rom, 6. Juni 1864</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+                <respStmt>
+                    <persName ref="http://d-nb.info/gnd/1121508855">
+                        <surname>Neuber</surname>
+                        <forename>Frederike</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Roma, Archivio Centrale dello Stato</repository><collection>Ministero dell’Istruzione Pubblica, Archivio di Deposito 1860–1890</collection><idno>Personale, Gregorovius Ferdinando (busta no. 1062)</idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 1 S. ‒ 1r aoR Eingangsvermerk: P. I. 1018 / 11. Giu 64</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er bittet für Archivbesuche in Perugia, Todi und Aspra um Empfehlungsschreiben an den Innenminister Ubaldino Peruzzi de’ Medici. Eine geplante Reise nach Deutschland steht in Frage, und damit auch sein Besuch in Turin. Er empfiehlt ihm Vincenzo Ballanti.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He asks for letters of recommendation to the Minister of the Interior, Ubaldino Peruzzi de’ Medici for visits to the archives in Perugia, Todi, Aspra and Naples. His planned trip to Germany is not certain, and neither is his visit to Turin. He recommends Vincenzo Ballanti to him.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1864-06-06" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G000924">Amari, Michele (1806–1889)</persName>
+<placeName key="G000893">Turin</placeName><date when="1864-06-11" cert="high"/>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Roma, 6. Giugno 64.</dateline>
+                    <salute rendition="#c">Mio caro ed illustre Signor Amari,</salute>
+                </opener>
+<p>per non fastidiarla troppo, con poche righe questo:</p>
+<p>nella metà del Luglio entrante avrei da fare negli archivi come segue:<list><item>di <placeName key="G000751"><hi rendition="#u">Perugia</hi></placeName> <lb/></item><item>di <hi rendition="#u"><placeName key="G000885">Todi</placeName></hi> nell’ Umbria <lb/></item><item>di <hi rendition="#u"><placeName key="G000616">Aspra</placeName></hi> in Sabina;</item>
+</list></p>
+                <p>nell’Agosto nei pubblici archivi di <placeName key="G000737"><hi rendition="#u">Napoli</hi></placeName>. Ricorso di nuovo al potente <orgName key="G000503"><seg type="comment"><orig>ministro dell’istruzione pubblica</orig><note xml:id="nigh_f2x_cmb">Michele Amari (1806–1889) war unter der Regierung Luigi Carlo Farini vom 8. Dezember 1862 bis 24. März 1863 und anschließend unter der Regierung Minghetti I vom 24. März 1863 bis 28. September 1864 Bildungsminister.</note></seg></orgName>, e così La prego, si compiacerà di far diriggere per tempo <seg type="comment"><orig>delle lettere di racomandazione agli archivi delle città su riferite</orig><note xml:id="nlnw_g2x_cmb">Das Empfehlungsschreiben vom 11.6.1864 für die Archive in Perugia, Todi und Aspra findet sich heute in Rom im Archivio Centrale dello Stato (Min. Pub. Istr., Personale 1860–1880, Gregorovius, busta 165).</note></seg>, che diano semplicemente avviso del mio arrivo e per questo caso ordine, di facilitarmi le ricerche scientifiche. Il signor <persName key="G001485"><seg type="comment"><orig>ministro dell’ Interno</orig><note xml:id="nafd_32x_cmb">Ubaldino Peruzzi de’ Medici (1822–1891) von der Partei „Sinistra Storico“ war unter der Regierung Minghetti I vom 24. März 1863 bis 28. September 1864 Innenminister des Königreichs Italien.</note></seg></persName>, al di cui favore vorrei esser racomandato da Lei, facilmente, come spero, condiscendera alle mie <seg type="comment"><orig>dimande</orig><note xml:id="nbpp_l2x_cmb">Im 19. Jhd. Variante von „domande“.</note></seg>.</p>
+<p>Sperai di ripassar quest’estate per <placeName key="G000893">Torino</placeName>, ma il mio viaggio alla <placeName key="G000664">Germania</placeName> questa volta è dubbioso. Intanto io La saluto; mi conservi benevola memoria!</p>
+                <closer>
+<salute rendition="#c">Sinceramente <lb/>Il sui devoto Servitor</salute>
+                    <signed rendition="#right">Frdid Gregorovius </signed></closer>
+<note type="postscript" rendition="#rotate90" place="left">Mi permetto di raccomandar Le il Romano <persName key="G000955"><seg type="comment"><orig>Ballanti</orig><note xml:id="nur4_m2x_cmb">Vincenzo Ballanti (*vmtl. vor 1800) war „Mitglied der Accademia Romana d’Archeologia“ und forschte zur Restaurierung der Kaiserpaläste auf dem Palatin (Vincenzo Ballanti: Il palazzo de' Cesari sul Monte Palatino restaurato da Costantino Thon. Roma: Per la Società tipografica, 1828). Gregorovius erwähnte Ballanti am 1.11.1863 in seinem Tagebuch: „Ich habe die Arbeiten im Kapitolinischen Archiv wieder aufgenommen und einen schönen Fund gemacht. Olivieri Pompilio gab mir Kunde von der Existenz eines alten Codex der Statuten der Kaufleute Roms. Mit Hilfe Ballantis glückte es mir dahinterzukommen.“ (S.173).</note></seg></persName>, esiliato, questo momento, à Torino, uomo di classica erudizione.</note>
+            </div>
+        </body>
+    </text>
+</TEI>

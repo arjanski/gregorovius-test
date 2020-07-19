@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_usc_zrn_zkb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Contessa Ersilia Caetani Lovatelli in Rom. München, 21. Dezember 1877</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno>Karton 59, Mappe 348 (nach D)</idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"> <bibl type="print">Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli. Hrsg. von Sigmund Münz. Berlin: Paetel 1896. S. 89–90 (gekürzt) </bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er schätzt die ruhige Arbeit an seiner Schrift zum Dreißigjährigen Krieg und das Zusammenleben mit den Geschwistern. Auch die jüngsten Beleidigungen durch Oreste Tommasini in seinem Artikel „Della storia medievale della città di Roma e de’più recenti raccontatori di essa“ können ihm seine zeite Heimat nicht vergällen. So sieht er seinem Aufbruch nach Rom im Januar 1878 mit Freuden entgegen. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1877-12-21" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001011">Caetani Lovatelli, Ersilia contessa (1840-1925)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+<body><pb n="89"/>
+<div type="writingSession">
+<opener>
+<dateline>München, 21. December 1877.</dateline>
+</opener>
+<p><gap reason="lost" unit="chars" quantity="1"/>Ich genieße hier den heiligsten Frieden unter den <bibl sameAs="G003523">Studien</bibl>, die nun ganz <seg type="comment"><orig>der Geschichte meines Vaterlandes gelten</orig><note xml:id="nmcs_v2j_1mb">„Am 4. Juni traf ich in München ein. Ich machte mich sofort an meine Arbeiten, den 30jährigen Krieg betreffend, den ich mir als Gegenstand gewählt habe. Die Literatur sazu ist kaum übersehbar, doch will ich mich nicht abschrecken lassen, weil ich einige Virtuosität in der Behandlung von Materialien erlangt habe, Archivarbeiten werde ich ausschließen – keine einzelne Menschenkraft reichte dazu aus. Ich will mich auf die gedruckten Publikationen beschränken, und auch diese sind zu einer schrecklichen Flut angewachsen. Ich habe niemand meinen Plan mitgeteilt als Döllinger, welcher denselben mit Eifer auffaßte.“ (RT, Sommer und Winter 1877/78, S. 379).</note></seg>, genieße endlich <seg type="comment"><orig>die süße Gesellschaft meiner Lieben</orig><note xml:id="nsfz_w2j_1mb">Gregorovius hatte Rom am 15. Juli 1874 endgültig verlassen (siehe RT, 14.7.1874, S. 342–343) und lebte seit dem 10. September 1874 mit seinem Bruder Julius (1819–1891), der gemeinsamen Halbschwester Ottilie (1834–1907) sowie deren Sohn Hermann (1860–1936) in München (siehe den Brief von Gregorovius an Raffaele Mariano vom 20.9.1874). Zuletzt hatte er sich von Februar bis Anfang Juni 1877 in Italien und vom 22. Juli bis 12. August in Traunstein aufgehalten (siehe RT, Rückkehr nach Rom im Jahre 1877, S. 373–379).</note></seg>, meines <persName key="G001203">Bruders</persName>, meiner <persName key="G001111">Schwester</persName> und meines <persName key="G001109">Neffen</persName>. Wir alle bilden zusammen eine Familie, die durch das Band aufrichtiger Liebe fest vereint ist. Wenn ich mich von diesem Frieden trenne, um mich von neuem nach <placeName key="G000690">Italien</placeName> zu begeben, so werde ich dies aus Gewohnheit thun, freilich nicht weniger auch aus Sehnsucht, <seg type="comment"><orig>meine zweite Heimat wiederzusehen</orig><note xml:id="nhx2_cfj_1mb">Am 10. Januar 1878 brach er erneut nach Rom auf (siehe RT, 10.2.1878, S. 380), wo er viereinhalb Monate bleiben sollte. </note></seg>, die, wenn ich von meinem wahren <placeName key="G000664">Vaterlande</placeName> absehe, stets den ersten Platz in meinem Herzen einnehmen wird. Niemals wird <seg type="comment"><orig>jesuitische Perfidie</orig><note xml:id="nunv_ltm_fmb">Oreste Tommasini veröffentlichte in der ersten Ausgabe des „Archivio della Società Romana di Storia Patria“ einen Artikel unter dem Titel „Della storia medievale della città di Roma e de’più recenti raccontatori di essa“ (Bd. 1. Rom: Società 1878. S. 1-46). In diesem beleidigte er im Rahmen einer Besprechung der neuesten Forschungen zu Rom Gregorovius’ „Geschichte der Stadt Rom im Mittelalter“ (8 Bde., 1859–1872). Siehe für eine weitergehende Einschätzung von Tommasinis Text und dessen durchaus auch wohlwollender Aufnahme in den intellektuellen Kreisen: Alberto Forni. Der Erfolg von Gregorovius in Italien. In: Ferdinand Gregorovius und Italien. Eine kritische Würdigung. Hrsg. von Arnold Esch u. Jens Petersen. Tübingen: Niemeyer 1993. S. 12–41, hier S. 35–36.</note></seg> stark genug sein, in meiner Seele die Gefühle zu schwächen, die mich an Rom ketten. Ich werde immer mit <persName key="ed_y1p_ss2_rlb">Erasmus</persName> sagen:<seg type="comment"><orig> <foreign xml:lang="Lat">ut liceat oblivisci Romae, quaerendus est</foreign> <pb n="90"/><foreign xml:lang="Lat">mihi fluvius aliquis Lethaeus</foreign>.</orig><note xml:id="nanh_dfj_1mb">Lat. für: eher werde ich den Lethe trinken, als jemals Roms vergessen. Zit. aus einem Brief Erasmus’ an den Kardinal von Nantes, Jean de Lorraine (1498–1550). Die beiden korrespondierten seit 1524, der Kardinal unterstütze den Humanisten auch finanziell, dieser widmete dem Geistlichen eines seiner Werke. Gregorovius greift das Zitat auch in einem in der Münchner Akademie der Wissenschaften am 1. Dezember 1877 gehaltenen Vortrag auf: Ein deutscher Bericht über die Eroberung Roms durch die kaiserliche Armee Carl’s V. im Jahr 1527, von dem Augenzeugen Ambrosius von Gumppenberg. In: Sitzungsberichte der philosophisch-philologischen und historischen Classe der k. b. Akademie der Wissenschaften zu München. Jg. 1877. Bd. 2. München 1877. S. 329-397. U. d. T. ‚Gumppenbergs Bericht vom Sacco di Roma‘ aufgenommen in KS I/6 (S. 181-264): http://publikationen.badw.de/de/006695810.pdf.</note></seg> </p>
+</div>
+</body>
+</text>
+</TEI>

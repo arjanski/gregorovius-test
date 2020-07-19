@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000174">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Baden-Baden. München, 26. September 1875</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Bl., 8° quer, 1 ½ S. </p>
+<p>ein Brief von Augusto Vera an Raffaele Mariano</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er übersendet einen Brief von Augusto Vera an Mariano. Er und seine Geschwister Julius und Ottilie freuen sich auf seine baldigen Besuch in München. Grüße an Adelheid Grunelius. Er bewahrt einen Brief von Ersilia Caetani-Lovatelli an Mariano auf.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1875-09-26" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000623">Baden-Baden</placeName>
+</correspAction>
+           </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c"><seg type="comment"><orig>Monaco, Domenica</orig><note xml:id="nb4w_jst_zlb">Der Brief wurde am 26. September 1875 verfasst und in die Post gegeben; dies belegt die Angabe des Wochentags sowie der Brief von Gregorovius an Raffaele Mariano vom 27. September 1875, in dem es heißt „Ieri impostai per Baden-Baden Villa Grunelius una lettera del Vera“.</note></seg>.</dateline>
+                    <salute>Caro amico Mariano,</salute>
+                </opener>
+<p>ecco una lettera per lei (la credo del <persName key="G001675">Vera</persName>) che, quantunque mi faccia suppore <seg type="comment"><orig>il suo prossimo arrivo a Monaco</orig><note xml:id="npby_kst_zlb">Mariano hielt sich zwischen Ende September und Anfang Oktober acht Tage in München auf und logierte im Hotel Marienbad in der Maxvorstadt (siehe die Briefe von Gregorovius an Raffaele Mariano vom 27. September und 17. Oktober 1875 und RT, 1.3.1876, S. 361).</note></seg>, pur ho creduto conveniente di spinger avanti a <subst><del rendition="#s">Monaco</del><add place="superlinear">Baden</add></subst>, giacchè essa forse influirà sulla di lei decisione in quanto al tempo di partenza. Se la lettera non l’incontrerà più a Baden, ella senza dubbio, dietro la sua ordinazione per altre lettere, sarà rispinta a Monaco. Ritengo qui <seg type="comment"><orig>un’altra lettera</orig><note xml:id="ncfb_mst_zlb">Das Schreiben von Ersilia Gräfin Caetani-Lovatelli an Raffaele Mariano liegt dem Brief von Gregorovius an Raffaele Mariano vom <ref target="G000180">27.9.1875</ref> bei.</note></seg> per lei, ed è di<persName key="G001011"> Donna Ersilia</persName>. Noi tutti quanti <pb n="1v"/><seg type="comment"><orig>in <persName key="G001111 G001203">casa Gregorio</persName></orig><note xml:id="nlbq_nst_zlb">Gemeinsam mit seinem Bruder Julius Gregorovius (1818–1891) und seiner Schwester Ottilie Elgnowski (1834–1907) bezog er im September 1875 eine Wohnung in München in der Barerstraße 5 (siehe RT, 1.3.1876, S. 359–360).</note></seg> l’attendiamo con affettuoso desiderio; e mi faccia avvertito dell’ora precisa del suo arrivo.</p>
+<p>Con tanti saluti, che vanno diretti anche alla <seg type="comment"><orig>casa <persName key="G001215">Grunelius</persName></orig><note xml:id="non4_4st_zlb">Die in Baden-Baden wohnhafte Adelheid Grunelius, geb. Fecht (1813–1887), Witwe des Frankfurter Bankiers Moritz Eduard Grunelius (1803–1846) und Mutter von Wilhelmine Tachard-Grunelius (1836–1927), die seit 1851 immer wieder für längere Aufenthalte nach Rom gekommen war. Gregorovius scheint sie erst bei einem Romaufenthalt von November 1861 bis Mai 1862 kennengelernt zu haben; es entwickelte sich schnell ein freundschaftliches Verhältnis. Später besuchte Gregorovius sie des Öfteren in der Villa Grunelius in Baden-Baden.</note></seg>,</p>
+                <closer>
+                    <salute rendition="#c">il suo</salute>
+                    <signed rendition="#c">FGr.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

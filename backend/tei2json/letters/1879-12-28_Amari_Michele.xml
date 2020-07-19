@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_ocd_j4p_4lb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Michele Amari in Rom. München, 28. Dezember 1879 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="restricted"><licence target="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International (CC BY 4.0) </licence></availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Palermo, Biblioteca Centrale della Regione siciliana</repository><collection>Carteggio Amari</collection><idno>3900</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ¾ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er wird im Januar nach Rom reisen. Neujahrsgrüße an die Familie Amari, Ferdinand Freiherr Allesina von Schweitzer und François Sabatier.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1879-12-28" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G000924">Amari, Michele (1806-1889)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">Monaco, 28. Dec<ex>embre</ex> 79.</dateline>
+                    <salute rendition="#c">Illustre amico Amari,</salute>
+                </opener>
+                <p>mi gode l’animo di aver buonissime nuove di lei e <seg type="comment"><orig>di sua <persName key="G000990"><persName key="ed_kfg_1wr_rlb"><persName key="ed_nqf_2wr_rlb"><persName key="ed_tt3_hwr_rlb">famiglia</persName></persName></persName></persName></orig><note xml:id="nhvt_qlj_1mb">Amari war seit dem 29. Oktober 1865 mit Louise Caroline Boucher oder Bouquet (1835–1909), Adoptivtochter von François Sabatier-Unger (1818–1891), verheiratet. Gemeinsam hatten sie die drei Kinder: Carolina (1866–1942), Francesca und Michele.</note></seg>, massime d’intendere, come lei continui a corrispondere a tanti doveri con quella vigoria di corpo e di mente, che è tutta sua specialità. Intanto noi altri nati e cresciuti sotto il cielo nordico, meniamo qui vita più da orsi che da uomini. Per vero, il freddo, che le dà fastidio <seg type="comment"><orig>in Roma</orig><note xml:id="nzgr_rlj_1mb">Amari war seit 3. März 1878 Vizepräsident des römischen Senats; vermutlicher Empfangsort seiner Post ist deshalb Rom.</note></seg>, mi parrebbe aura del paradiso dei beati, a petto dei rigori del clima, cui truovamoci esposti <add place="sublinear">qui</add> <pb n="1v"/>da più di un mese. Or sono 15 giorni, che venne meno la forza di resistenza anche a me, che <add place="superlinear">per altro </add>godo buona salute, e dovetti mettermi a letto e passarvi alcuni giorni. Neppur ora mi sono liberato interamente, di modo che non posso uscire di camera, e ho dovuto abbandonare i lavori. Per la qual cosa sono intenzionato <seg type="comment"><orig>partirmi di qui più presto del solito</orig><note xml:id="ngpp_slj_1mb">Er brach am 20. Januar 1880 von München nach Rom auf, wo er am 24. eintraf (siehe RT, Romfahrt und Griechische Reise 1880, S. 419).</note></seg>. Colla speranza <seg type="comment"><orig>di puoter salutare lei e la sua gentilissima famiglia</orig><note xml:id="nqsy_tlj_1mb">Im Tagebuch ist kein Treffen mit der Familie Amari dokumentiert.</note></seg> entro il corso del mese seguente, le <pb n="2r"/>mando i più cordiali auguri pel capo d’anno, pregando di darne parte alla signora Luisa, ai figliuoli, e ancora <seg type="comment"><orig>al barone <persName key="ed_vb1_5wr_rlb">Schweitzer</persName></orig><note xml:id="ncqv_5lj_1mb">Der Diplomat Ferdinand Freiherr Allesina von Schweitzer (1827–1906) war von 1879–1887 Sekretär an der deutschen Botschaft in Rom, wo er bis zu seinem Tode lebte.</note></seg>, suo vicino.</p>
+                <closer>
+                    <salute rendition="#c">Devotissimo suo</salute>
+                    <signed rendition="#c">Ferd Gregorovius.<note type="postscript">Acchiudo molte cordialissimi saluti <seg type="comment"><orig>al caro signor <persName key="G001565">Sabatier</persName></orig><note xml:id="nllw_vlj_1mb">François Sabatier (1818–1891), Schwiegervater von Amari. Gregorovius war mit ihm und dessen Frau, Caroline Ungher-Sabatier (1803–1877), befreundet.</note></seg>.</note></signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

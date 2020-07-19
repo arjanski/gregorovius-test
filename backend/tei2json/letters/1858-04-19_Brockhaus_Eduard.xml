@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000088">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Eduard Brockhaus in Leipzig. Rom, 19. April 1858</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (50)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 8°, 3 S. – 2v aoR Eingangs- und Beantwortungsvermerk: 1858. / <hi rendition="#aq">Rom</hi>, 19./26. <hi rendition="#aq">April</hi> / <hi rendition="#aq">Gregorovius</hi> / B. 15/VI. </p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er bittet um unumwundene Entscheidung, ob Brockhaus den Verlag seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) zu den jetzt mitgeteilten Vertragsbedingungen annehmen will. Er erkundigt sich, ob seine „Figuren. Geschichte, Leben und Scenerie in Italien“ (1856) in eine zweite Auflage gehen müssen, ob die Honorare für seine Übersetzung der „Lieder des Giovanni Meli von Palermo“ (1856) und für seine „Grabmäler der Päpste“ (1857) nunmehr fällig sind, und ob das „Deutsche Museum“ seinen Aufsatz „Aus der Campagna von Rom. Subiaco, das älteste Benedictinerkloster des Abendlandes, seine Geschichte und seine Altertümer“ für das geforderte Honorar drucken wird. Er wünscht Exemplare seines „Euphorion“ (1858), seines „Giovanni Meli“ und seiner „Grabmäler“ durch Josef Spithöver zugesandt zu bekommen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He asks for a candid decision as to whether Brockhaus will accept the offer to publish his „Geschichte der Stadt Rom im Mittelalter“ (1859-1872) on his terms. He inquires whether his „Figuren. Geschichte, Leben und Scenerie in Italien“ (1856) must go into a second edition, whether the fees for his translation of the „Lieder des Giovanni Meli von Palermo“ (1856) and for his „Grabmäler der Päpste“ (1857) are now due, and whether the „Deutsche Museum“ will publish his essay „Aus der Campagna von Rom. Subiaco, das älteste Benedictinerkloster des Abendlandes, seine Geschichte und seine Altertümer“ for the requested fee. He wishes to receive copies of his „Euphorion“ (1858), his „Giovanni Meli“  and his „Grabmäler“ through Josef Spithöver. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1858-04-19" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+<persName key="G000995">Brockhaus, Eduard (1829–1914)</persName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="prev">8. April 1858</ref>
+                    <ref type="next">15. Juni 1858</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi> 19. <hi rendition="#aq">April</hi> 1858</dateline>
+                    <salute rendition="#c">Sehr geehrter Herr,</salute>
+                </opener>
+                <p><seg type="comment"><orig>Ihr gefälliges Schreiben betreffs <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">meines Werks </bibl>erhielt ich vor einigen Tagen</orig><note xml:id="nwz3_d5t_5lb">Mit seinem Brief vom <ref target="G000069">8. März 1858</ref> hatte Gregorovius Brockhaus ein auf den <ref target="G000035">7. März 1858</ref> datiertes ausführliches Konzept seiner „Geschichte der Stadt Rom im Mittelalter“ (Stuttgart: Cotta 1859–1872) übersandt, das er Brockhaus zum Verlag anbot.</note></seg>. Ich bin nicht mehr in der Lage in irgend einem Verleger meiner Schriften den „Freund der Literatur“ zu suchen, da es sich lediglich um das Geschäft handelt, u<ex>nd</ex> wünsche lediglich ein geschäftliches Verhältniß festzuhalten. Außerdem ist mir ein schneller u<ex>nd</ex> offener Rücktritt von jeder Verhandlung lieber, als die gewöhnlichen Zweifel aussprechen zu hören, welche sich der Geschichte des Mittelalters von <hi rendition="#u" hand="">Rom</hi> gegenüber nicht wol anhören laßen, ohne den zu kränken, welcher ein so großes u<ex>nd</ex> völlig neues Werk unternimmt. Hegen Sie diese, so ist es ja das Beste u<ex>nd</ex> Einfachste, <seg type="comment"><orig>meine Offerte abzulehnen</orig><note xml:id="nu2r_j5t_5lb">Brockhaus lehnte schließlich ab, so dass Gregorovius am <ref target="G000085">20. Mai 1858</ref> Johann Georg Freiherr Cotta von Cottendorf seine „Geschichte der Stadt Rom im Mittelalter“ zum Verlag anbot.</note></seg>.</p>
+                <p>Ich kann mich nicht zur vorausgängigen Einsendung des <seg type="comment"><orig>Manuscripts verstehn, welches erst Ende Juni reisefertig sein wird</orig><note xml:id="nppw_m5t_5lb">In seinem Brief vom <ref target="G000069">8.3.1858 an Brockhaus</ref> war Gregorovius davon ausgegangen, dass das Manuskript Ende Mai abgesandt werden kann.</note></seg>. Die Notwendigkeit liegt nicht vor. Betrifft es die materielle Berechnung des Quantums, so habe ich bereits gesagt, daß jeder dieser Bände ungefähr ein Alphabet beträgt; der erste möchte leicht nur 20 Bogen faßen. Betrifft es die Prüfung des Werts der Arbeit, so gibt es wenige Gelehrte, die ihn gründlich zu taxiren wißen, zumal dazu sehr viel Kenntniße des römischen Locals, der Inschriften etc. gehören. Überdies kennen Sie vollkommen <pb n="1v"/>meine Schreibart, u<ex>nd</ex> werden mir leicht zutrauen, d<ex>a</ex>ß ich bei einem Lebenswerke, wie dieses ist, alle meine Kraft u<ex>nd</ex> Kunst aufwende. Damit ist freilich nicht gesagt, d<ex>a</ex>ß ich reussire, der Stoff ist riesig, u<ex>nd</ex> meine Talente sind mittelmäßig.</p>
+                <p>Da Sie auf meiner Initiative bestehn, so sind hier meine Bedingungen:</p>
+<p>
+    <list>
+<item><label>1.</label>Über die Gesch<ex>ichte</ex> der St<ex>adt</ex> Rom im Mittel<ex>alter</ex> von 6 Bänden wird ein für alle Bände verpflichtender Contract in rechtlicher Form aufgesetzt.<lb/></item>
+<item><label>2.</label>Als Quantum des Drucks wird Schrift wie <unclear reason="illegible" cert="low">volan</unclear> meines „<hi rendition="#aq"><bibl sameAs="G003106">Corsica</bibl></hi>“ im <hi rendition="#u">Höchsten</hi> angenommen.<lb/></item>
+<item><label>3.</label>Es wird für die I. Auflage das <hi rendition="#aq">Maximum</hi> von 1000 Exemplaren festgesetzt.<lb/></item>
+<item><label>4.</label>Der Verleger zahlt dem Autor pro Bogen von 16 Seiten 5 (fünf) Louisdor’s, nach Übernahme jedes Bandes, u<ex>nd</ex> das Honorar wird in keiner Weise geteilt, noch in Rückstände gesetzt, deren Zahlung etwa von der Menge verkaufter Exempl<ex>are</ex> abhinge.<lb/></item>
+<item><label>5.</label>Die beiden ersten Bände werden zusammen ausgegeben. <lb/></item>
+<item><label>6.</label>Für jede folgende Auflage erhält der Verfasser die Hälfte des Honorars, welches für die erste ausbedungen <pb n="2r"/>ward, in gleicher Zahlungsweise.<lb/></item>
+<item><label>7.</label>Ihm bleibt der unverkürzte Gewinn aus allen Übersetzungen des Werks.<lb/></item>
+<item><label>8.</label>Er erhält zu seinem Gebrauch 15 Freiexemplare.<lb/></item>
+</list>
+</p>
+                <p>Ich muß Sie, geehrter Herr, um baldige Entscheidung bitten, u<ex>nd</ex> erklären, d<ex>a</ex>ß ich nicht lange auf Antwort warten kann.</p>
+                <p><add place="left" hand="#addressee"><metamark target="#seg-2" function="used" rendition="#mMM"/></add><seg xml:id="seg-2">Da nun die Ostermeße abgeschloßen ist, bitte ich mir zu sagen, ob die <seg type="comment"><orig><bibl corresp="G003122">„Figuren“ eine 2. Aufl<ex>age</ex> </bibl>nötig haben</orig><note xml:id="njtr_z5t_5lb">Die 2. vermehrte Auflage von Gregorovius’ „Figuren. Geschichte, Leben und Scenerie in Italien“ (1856) erschien erst 1864 unter dem neuen Reihentitel „Wanderjahre in Italien“.</note></seg>, ferner ob die Honorarrückstände für den <bibl sameAs="G004072"><hi rendition="#aq">Meli</hi></bibl> und die <bibl sameAs="G003430">Papstgräber</bibl> fällig sind?</seg></p>
+                <p>Ich werde mich freuen, wenn das <seg type="comment"><orig><orgName key="G000546">D<ex>eutsche</ex> Mus<ex>eum</ex></orgName> den <bibl corresp="G003860 G003861 G003862">Artikel <hi rendition="#aq">Subiaco</hi></bibl> abdruckt; sollte es aber nicht mir die gewünschten 16 Thaler pro Bogen zahlen</orig><note xml:id="nodk_fvt_5lb">Der Abruck des von Gregorovius im August an die „Allgemeine Zeitung“ eingesandten Artikels „Aus der Campagna von Rom. Subiaco, das älteste Benedictinerkloster des Abendlandes, seine Geschichte und seine Altertümer“ war erst im Dezember erfolgt und nach der ersten Folge eingestellt worden(Beilage zu Nr. 345 der AZ. Augsburg: Cotta 11.12.1857. S. 5509–5510); schließlich wurde ihm das Manuskript zurückgesandt. Im Brief vom <ref target="G000069">8.3.1858 an Brockhaus</ref> hatte Gregorovius das Manuskript zum Abdruck im „Deutschen Museum“ an Brockhaus übersandt, wo der vollständige Artikel schließlich erschien (Jg. 8. Bd. 2. Nr. 27–29. Leipzig: Brockhaus 1., 8., 15.7.1858. S. 1–10, S. 60–67 und S. 89–99).</note></seg>, so bitte ich die Abhandlung <hi rendition="#u">nicht</hi> abzudrucken, sondern mir davon Kenntniß zu geben, damit ich anderweitig sie verwende.</p>
+                <p><note place="left" hand="#addressee"><metamark target="#seg-2" function="done"/>30/4.</note><seg xml:id="seg-3">Ich bitte endlich auf meine Rechnung an <hi rendition="#aq"><orgName key="G000545"><seg type="comment"><orig>Spithöver</orig><note xml:id="nur4_tvt_5lb">Die deutsche Buchhandlung in Rom von Josef Spithöver (1813–1892).</note></seg></orgName></hi> abgehen zu laßen 1 <hi rendition="#aq">Exemp<ex>lar</ex></hi> <bibl sameAs="G003574"><hi rendition="#aq">Euphor<ex>ion</ex></hi></bibl>, Papstgräb<ex>er</ex> u<ex>nd</ex> <hi rendition="#aq">Meli</hi>, alle ungebunden, u<ex>nd</ex> ersuche Sie um Bewilligung des <hi rendition="#aq">Rabatt</hi>s.</seg></p>
+                <closer>
+                    <salute xml:id="s1" next="#s2">Mit aufrichtigen Wünschen für längere mir immer
+                        angenehme Verlagsverbindung hochachtungsvoll </salute>
+                    <salute xml:id="s2" prev="#s1" rendition="#c">Ihr ergebenster</salute>
+                    <signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

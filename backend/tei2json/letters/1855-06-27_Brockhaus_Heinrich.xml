@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000057">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Heinrich Brockhaus in Leipzig. Rom, 27. Juni
+                    1855</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (15)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Bl., 8°, 1 ¾ S. – 1r aoR in einer Vignette geprägt: BATH – 1r aoR Eingangsvermerk: 1855. / <hi rendition="#aq"><hi rendition="#aq"><hi rendition="#aq">Rom</hi></hi></hi>, 27. <hi rendition="#aq"><hi rendition="#aq"><hi rendition="#aq">Juni</hi></hi></hi>/5. <hi rendition="#aq"><hi rendition="#aq"><hi rendition="#aq">Juli</hi></hi></hi>. / <hi rendition="#aq"><hi rendition="#aq"><hi rendition="#aq">Gregorovius</hi></hi></hi>. </p>
+<p>Manuskript des Aufsatzes „Das Dominicaner-Kloster San Marco in Florenz und seine Reactionen gegen den Realismus“ mit einem Begleitschreiben an Robert Prutz.</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er dankt für die Annahme seines Artikels „Die letzten 10 Jahre beider Sicilien“ zum Abdruck in „Die Gegenwart“. Die gewünschte Rezension von Ludwig Goldhanns „Aesthetische Wanderungen in Sicilien“ (1855) hat er zugunsten seines Aufsatzes „Das Dominicaner-Kloster San Marco in Florenz und seine Reactionen gegen den Realismus“ für das „Deutsche Museum“ nicht schreiben können; er legt das Manuskript mit einem Begleitschreiben an den Herausgeber Robert Prutz bei.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He thanks him for accepting his article „Die letzten 10 Jahre beider Sicilien“ to be printed in „Die Gegenwart“. He was unable to write the requested review of Ludwig Goldhann’s „Aesthetische Wanderungen in Sicilien“ (1855), as he preferred to write his essay „Das Dominicaner-Kloster San Marco in Florenz und seine Reactionen gegen den Realismus“ for the „Deutsches Museum“; he encloses the manuscript with an accompanying letter to the editor Robert Prutz. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1855-06-27" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G000996">Brockhaus, Heinrich (1804–1874)</persName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+<opener>
+<salute xml:id="s1" next="#s2">Der sehr geehrten <lb/> </salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">Buchhandlung F. A. Brockhaus <lb/>in Leipzig.</salute>
+</opener>
+<p>Ihr geneigtes Schreiben, mein geehrtester Herr, welches mir sowol den Empfang als die Billigung des Artikels <seg type="comment"><orig>„<bibl sameAs="G003836">Die letzten 10 Jahre beider Sicilien</bibl>“</orig><note xml:id="nick_xkn_nlb">Den letzten Teil des Manuskripts seines Artikels hatte Gregorovius mit seinem Brief vom <ref target="G000061">28.4.1855 an Brockhaus</ref> gesandt. Der Beitrag wurde gedruckt in: Die Gegenwart. Eine encyklopädische Darstellung der neuesten Zeitgeschichte für alle Stände. Bd. 11. Leipzig: Brockhaus 1855. S. 149–189. Unter dem Titel „Neapel und Sicilien vom Jahr 1830 bis 1852“ wurde S. 164–189 aufgenommen in: Siciliana. Wanderungen in Neapel und Sicilien. Leipzig: Brockhaus 1861.</note></seg> angezeigt hat, habe ich richtig in Rom empfangen u<ex>nd</ex> sage ich dafür meinen besten Dank. Zugleich habe ich von Ihrer Erlaubniß Gebrauch gemacht, indem ich bei dem <seg type="comment"><orig>Banquier <persName key="G001345"><hi rendition="#aq">Kolb</hi></persName></orig><note xml:id="nuy5_pjp_nlb">Der Bankier und württembergische Geschäftsträger in Rom Karl von Kolb (1800–1868), zu dem Gregorovius regelmäßig geschäftlichen und privaten Kontakt hatte.</note></seg> einen Wechsel auf Ihr Haus, betragend 97 T<ex>ha</ex>l<ex>e</ex>r 15 S<ex>ilber</ex>gr<ex>oschen</ex> laut Ihres Schreibens ausgezogen habe, wie Ihnen nun schon bekannt sein wird.</p>
+<p>Durch den verspäteten Abschluß meiner andern Arbeiten bin ich bis auf diesen Augenblick hier in Rom zurückgehalten worden. Dies ist der Grund, warum ich nicht die Zeit fand, den von der Redaction der <orgName key="G000469">Bl<ex>ätter</ex> f<ex>ür</ex> lit<ex>erarische</ex> Unterhaltung</orgName> gewünschten Recensions-Aufsatz über <seg type="comment"><orig><bibl sameAs="G004252">Goldhaus Wanderungen in Sicilien</bibl></orig><note xml:id="nwgr_xjp_nlb">Irrtümlich für den deutsch-österreichischen Dichter Ludwig Goldhann (1823–1893), gemeint sind dessen: „Aestetische Wanderungen in Sicilien“ (Leipzig Brockhaus 1855).</note></seg> zu leisten. Denn da mir die Alternative blieb, entweder dieses Buch zu lesen u<ex>nd</ex> hierauf darüber zu schreiben, oder einen längeren Artikel für das Deutsche Museum einzurichten, so zog ich, beides zu thun nicht vermögend, das letztere vor. Dieser Aufsatz <seg type="comment"><orig>„<bibl corresp="G003831 G003832">Das Domenicaner-Kloster San Marco in Florenz und seine Reactionen gegen den Realismus</bibl>“</orig><note xml:id="nap3_vkp_nlb">Gregorovius hatte diesen Artikel bereits mit seinem Brief vom <ref target="G000001">4.1.1853</ref> der Redaktion des „Morgenblattes für gebildete Leser“ angeboten, die ihn nicht annahm. Er erschien unter dem Titel „Das Dominicanerkloster San Marco in Florenz und seine Reactionen gegen den Realismus“ in zwei Folgen im „Deutschen Museum“ (Jg. 5. Nr. 31–32. Leipzig Brockhaus 2. und 9.8.1855. S. 153–163 und 199–209).</note></seg>, folgt hier anbei <pb n="1v"/>mit einem Schreiben an Herrn <seg type="comment"><orig><persName key="G001512">Robert Prutz</persName></orig><note xml:id="nodf_glp_nlb">Der Literaturhistoriker, Schriftsteller und Publizist Robert Prutz (1816–1872) war 1851–1866 der Herausgeber des „Deutschen Museums“.</note></seg>, was ich bitte an die Redaction des Deutschen Museums befördern zu wollen.</p>
+<p><seg type="comment"><orig>Da ich in drei oder vier Tagen in die <placeName key="G000840">Berge des Sabinischen</placeName> gehe, u<ex>nd</ex> von dort aus weiter nach dem Süden mich aufmachen will</orig><note xml:id="ndgn_rlp_nlb">In der Erwartung einer Rückmeldung vom Cotta-Verlag, dem er mit seinem Brief vom <ref target="G000044">27.5.1855</ref> das Manuskript seiner „Pandora, eine Sammlung kleiner Schriften aus Italien“ geschickt hatte (der im Jahr darauf unter dem Titel „Figuren. Geschichte, Leben und Scenerie aus Italien“ bei Brockhaus erschien), blieb Gregorovius bis zum Jahresende in Rom.</note></seg>, sehe ich nicht die Möglichkeit, die gewünschte Recension zu schreiben.</p>
+<p>Mit der Hoffnung, daß es mir gestattet sein wird, in der Folge für ihre geehrten Institute thätig zu sein, empfehle ich mich Ihnen, geehrtester Herr, mit großer Hochachtung <lb/></p>
+<closer>
+<salute rendition="#c">Ihr ergebener</salute>
+<signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi>. <lb/>Dauernde Addr<ex>esse</ex> Roma, <orgName key="G000545"><lb/>Josef </orgName><hi rendition="#aq"><orgName key="G000545"><seg type="comment"><orig>Spithover</orig><note xml:id="nqfq_1mp_nlb">Die deutsche Buchhandlung von Josef Spithöver (1813–1892). </note></seg></orgName> Piazza di Spagna</hi><note type="postscript"> </note></signed>
+            <dateline><hi rendition="#aq">Roma</hi> 27. <hi rendition="#aq">Juni</hi> 1855.</dateline></closer>
+            </div>
+        </body>
+    </text>
+</TEI>

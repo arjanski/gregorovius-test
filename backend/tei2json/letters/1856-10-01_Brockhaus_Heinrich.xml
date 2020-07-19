@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000019">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Heinrich Brockhaus in Leipzig. Rom, 1. Oktober
+                    1856</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (35)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 8°, 3 ¼ S. – 2v alR, Blatt um 90° gedreht, Eingangs- und Beantwortungsvermerk: 1856. / <hi rendition="#aq">Rom</hi>, 1./8. <hi rendition="#aq">Oct</hi>. / <hi rendition="#aq">Gregorovius</hi>. / B. 14/X. </p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er ist beruhigt, dass das Manuskript seiner „Grabmäler der Römischen Päpste“ (1857) beim Verlag eingegangen ist. Mit dem Angebot, sein Honorar an den Verkauf zu koppeln, ist er einverstanden; es soll über den Bankier Allessandro Torlonia ausgezahlt werden. Seine Schrift ist Clemens August Alertz gewidmet. Das Titelblatt der zweiten Auflage könnte mit dem von Guglielmo della Porta geschaffenen Grabmal von Papst Paul III. illustriert werden. Er dankt für die Übersendung von Rezensionen seiner „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) und für die seiner Übersetzung der „Lieder des Giovanni Meli von Palermo“ (1856). Er ist aber erst stolz, wenn er seine Chronik Roms zu einem Abschluss gebracht haben wird. Die Notiz über die geplante Publikation korsischer Landschaften von Rudolf Jonas weiß er zu schätzen. Die italienische Teilübersetzung seines „Corsica“ (1854) von Paolo Perez wird in Kürze erscheinen (1857). Er kann das Manuskript seiner Dichtung „Euphorion“ (1858) übersenden, doch sollen zunächst seine „Grabmäler der Römischen Päpste“ ausgegeben werden.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He is relieved that the manuscript of his „Grabmäler der Römischen Päpste“ (1857) has reached the publisher. He accepts the offer to link his fee to the sale; it is to be paid through the banker Allessandro Torlonia. His work is dedicated to Clemens August Alertz. The title page of the second edition could be illustrated with the Tomb of Pope Paul III, created by Guglielmo della Porta. He thanks Brockhaus for sending reviews of his „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) and for his translation of the „Lieder des Giovanni Meli von Palermo“ (1856). But he will only be proud when he has brought his chronicle of Rome to its conclusion. He appreciates the note about the planned publication of Corsican landscapes by Rudolf Jonas. The Italian partial translation of his „Corsica“ (1854) by Paolo Perez will be published shortly (1857). He can send the manuscript of his poem „Euphorion“ (1858), but his „Grabmäler der Römischen Päpste“ are to be published first. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1856-10-01" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G000996">Brockhaus, Heinrich (1804–1874)</persName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+                <correspContext>
+<ref type="prev">15. September 1856</ref>
+<ref type="next">6. Oktober 1856</ref>
+<ref type="next">14. Oktober 1856</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+<opener>
+<dateline rendition="#right"><hi rendition="#aq">Rom</hi> 1. <hi rendition="#aq">October</hi> 1856.</dateline>
+<salute rendition="#c">Sehr geehrter Herr,</salute>
+</opener>
+<p><seg type="comment"><orig>Ihr geneigtes Schreiben erhielt ich richtig</orig><note xml:id="nt5b_cln_slb">Nach dem Beantwortungsvermerk auf den Brief von Gregorovius an Brockhaus vom <ref target="G000039">16.8.1856</ref> hatte der Verlag zuletzt am 15.9.1856 geschrieben.</note></seg>, nachdem ich eben zuvor <seg type="comment"><orig>eine Anfrage u<ex>nd</ex> einen Laufzettel dem<bibl sameAs="G003430"> <hi rendition="#aq">M<ex>anu</ex>scr<ex>ipt</ex></hi></bibl> nachgeschickt hatte</orig><note xml:id="nrbd_lln_slb">Gregorovius hatte dem vermissten Manuskript der Buchpublikation seiner „Grabmäler der Römischen Päpste. Historische Studie“ (Leipzig: Brockhaus 1857), dass er Brockhaus am <ref target="G000053">12.7.1856</ref> zum Verlag angetragen hatte, am 27.9.1856 einen postalischen Laufzettel hinterhergeschickt (Malwida von Meysenbug: „Die Malerei war immer meine liebste Kunst“. Hrsg. Vera Leuschner. Bielefeld [u.a.]: 2002. S. 215–216 (vollständig)).</note></seg>. <seg type="comment"><orig>Ich bin froh, d<ex>a</ex>ß es in Ihren Händen ist.</orig><note xml:id="nuyh_jmn_slb">In Genazzano, wo Gregorovius sich vom 25. Juni bis zum 24. September 1856 aufhielt (siehe RT, 16.8.-2.10.1856, S. 63–64), hatte er das Manuskript der Buchpublikation seiner „Grabmäler der Römischen Päpste. Historische Studie“ (Leipzig: Brockhaus 1857) abgeschlossen. Nach seinem Tagebucheintrag war der Versand am 7. August erfolgt (siehe RT, 16.8.1856, S. 63).</note></seg></p>
+<p>Als ich wegen dieser neuen Schrift Ihnen zu schreiben vorhatte, war es mein Wunsch, Ihnen selbst als ein Zeichen eines unbegrenzten Vertrauens in Ihr Wolwollen, den Betrag der Summe zu überlaßen; weil ich aber bedachte, es könnte mir solches falsch gedeutet werden, als wollte ich eben damit ein höheres Honorar erzielen, unterließ ich es, u<ex>nd</ex> <seg type="comment"><orig>stellte meine Bedingungen, beides erwägend, Ihren zu erzielenden Gewinn, wie meine Ansprüche</orig><note xml:id="nakb_tnn_slb">Gregorovius hatte Brockhaus in seinem Brief vom <ref target="G000039">16.8.1856</ref> seine Vertragsbedingungen für seine „Die Grabmäler der Römischen Päpste“ (1857) genannt. </note></seg>. Ich sehe wol, daß Sie im Ganzen <choice><sic>meine</sic><corr cert="high">meinen</corr></choice> Satz als gerecht befunden haben, aber es schmerzte mich, daß Sie <seg type="comment"><orig>jene Summe von 300 Th<ex>alern</ex> in 2 Raten zerteilen wollen</orig><note xml:id="nfvx_vnn_slb">Gregorovius hatte für die 1. Auflage von 1000 Exemplaren ein Honorar von 300 Talern nach Annahme des Manuskripts verlangt.</note></seg>.</p>
+<p><hi rendition="#aq"><foreign xml:lang="ita"><seg type="comment"><orig><foreign xml:lang="Lat">Hic meret aera liber Sosiis: hic mare transit</foreign></orig><note xml:id="nbdn_xnn_slb">Horaz: De arte poetica liber, 345 Solch Buch verdient den Gebrüdern Sosius die Groschen: es wandert auch über See.</note></seg></foreign></hi> – dies ist mein unerschütterter Glaube; u<ex>nd</ex> die Zweifellosigkeit des Unternehmens ist mir so offenbar, daß ich nicht ein Wort darüber sagen mag. Eine Summe von 300 Th<ex>alern</ex> sichert mich für einige Zeit, u<ex>nd</ex> gibt mir Ruhe für die <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Chronik von Rom</bibl>; 150 Th<ex>aler</ex> entfernen die Sorge für nicht allzulange. Ich möchte mutiger von dieser Schrift denken, u<ex>nd</ex> vor allem ist es mein Wunsch, zu Ihnen in der freien Stellung des Vertrauens zu bleiben. Darum sage ich, wenn Sie nicht anders urteilen, geschehe es, weil Sie es so wollen; u<ex>nd</ex> ich werde die Teilung <pb n="1v"/>des Honorars in 2 Raten acceptiren, nur wünsche ich, <seg type="comment"><orig>d<ex>a</ex>ß Sie die erste von 150 Thalern um das Geringe von 50 erhöhen, mir also für die I. Auflage von 1000 Ex<ex>emplaren</ex> 200 Thaler vorauf –, u<ex>nd</ex> 100 Thaler nach dem Verkaufe von 150 Ex<ex>emplaren</ex> nachzahlen</orig><note xml:id="nsvj_j4n_slb">Nach dem Brief von Gregorovius an Brockhaus vom 27.10.1856 lehnte Brockhaus diesen Vorschlag ab (Sächsisches Staatsarchiv Leipzig, Bestand 21083, Archivalnummer 22, 36).</note></seg>.</p>
+<p>Ich werde mich in Ihre Ansicht betreffs der folgenden Aufl<ex>agen</ex> von je 1000 Ex<ex>emplaren</ex> fügen, wenn Sie dieselben nicht höher, als mit 150 Th<ex>alern</ex> honoriren wollen.</p>
+<p>Ich bitte um 15 Freiex<ex>em</ex>pl<ex>are</ex>.</p>
+<p>Ich werde Ihr Schreiben abwarten, u<ex>nd</ex> die Summe dann erst erheben, die Sie mir gönnen mögen. Mir wäre es erwünscht, wenn Sie mir dieselbe <seg type="comment"><orig>durch <persName key="G001652">Torlonia</persName> auszahlen ließen</orig><note xml:id="ns2w_l4n_slb">Durch den Bankier, Unternehmer und Kunstsammler Allessandro Torlonia (1800–1886). Die Torlonia gehörten zum jüngeren römischen Geldadel. Siehe auch RT: „Hier ist die Prinzessin Torlonia [Teresia Doria Colonna, 1822–1875)] wahnsinnig geworden. Sie ist eine schöne Dame vom alten Haus Colonna. Als der Bankier ihre Hand gewann, sagte er: sie ist eine antike Statue, und ich habe das Postament von Gold, sie darauf zu stellen.“ (30.4.1856, S. 60–61).</note></seg>, denn ich mag mir von den Deutschen in Rom nicht gern in meine Honorare hineinsehn laßen.</p>
+<p rendition="#c"><hi rendition="#aq"><foreign xml:lang="Lat">Fructus mundi ruina est</foreign></hi>. <lb/>Der Papst <persName key="G001196"><hi rendition="#aq">Gregorius</hi> I.</persName> </p>
+<p><seg type="comment"><orig>Ich bitte diesen sehr wahren Spruch als Motto</orig><note xml:id="nrd5_v4n_slb">Gregor I. (um 540–604; 590–604 Papst): Homilia in evangelium – lat. etwa: Der Weltenlohn ist der Untergang. Das Motto wurde der Widmung wunschgemäß vorangestellt.</note></seg> über die <seg type="comment"><orig>Widmung an (den Geheimrat) <persName key="G000913"><hi rendition="#aq">Alertz</hi></persName> <note place="left" hand="#addressee">=</note>zu setzen, deßen Name mit <hi rendition="#aq">t</hi> zu schreiben ist</orig><note xml:id="nj3y_x4n_slb">Seinen „Die Grabmälern der Römischen Päpste“ (1857) hatte Gregorovius ein auf den 26. Juli 1856 datiertes Widmungsschreiben an seinen Freund Clemens August Alertz (1800–1866), dem ehemaligen Leibarzt der Päpste Gregor XVI. und Pius IX., des Prinzen Heinrich von Preußen (1781–1846) und zuletzt preußischen Gesandtschaftsarzt, vorangestellt.</note></seg>. Wenn wir die <bibl sameAs="G003431"><seg type="comment"><orig>2. Auflage der Pabstg<ex>rä</ex>b<ex>e</ex>r</orig><note xml:id="nhcz_bpn_slb">Die „Zweite neu umgearbeitete Auflage“ erschien unter dem Titel „Die Grabdenkmäler der Päpste. Marksteine der Geschichte des Papsttums“ erst 1881 bei Brockhaus.</note></seg></bibl> veranstalten, so wird es in Ihrem Belieben stehn, dieselbe mit dem <seg type="comment"><orig>Grabmal <persName key="G001475"><hi rendition="#aq">Pauls</hi> III.</persName> von <hi rendition="#aq"><persName key="G001077">Wilh<ex>elm</ex> della Porta</persName></hi></orig><note xml:id="np1v_2pn_slb">Das Grabmal von Papst Paul III. (1486–1549) ist das 1555–1575 entstandene Hauptwerk des Michelangelo-Schülers Guglielmo della Porta (1500/10–1577); es befindet sich im Petersdom in der Nische neben Berninis Kathedra Petri.</note></seg> zu zieren. </p>
+<p>Ich danke Ihnen aufrichtig für die <seg type="comment"><orig>Übersendung der <bibl corresp="G002422 G002451">Recensionen</bibl></orig><note xml:id="nkgr_mpn_slb">In seinem Brief an Brockhaus vom <ref target="G000053">12.7.1856</ref> hatte Gregorovius um Zusendung der Besprechung seiner Übersetzung der „Lieder des Giovanni Meli von Palermo“ (1856) gebeten: R.[obert] P.[rutz]: Uebersetzungsliteratur. In: Deutsches Museum. Zeitschrift für Literatur, Kunst und öffentliches Leben. Jg. 6. Nr. 29. Leipzig: Brockhaus 17.7.1856. S. 108–117, hier S. 114–115. In Gregorovius’ Brief vom <ref target="G000047">5.8.1856</ref> zeigte er sich insbesondere über eine sehr positive Rezension seiner „Figuren. Geschichte, Leben und Scenerie aus Italien“ (1856) von August Lammers (1831–1892) im „Deutschen Museum“ erfreut (Nr. 21. Leipzig: Bockhaus 22.5.1856. S. 771–773). Bis zum Oktober 1856 waren rund ein Dutzend Besprechungen seiner „Figuren“ erschienen.</note></seg>: für die Folge würde ich nur um das bitten, was das <orgName key="G000546">D<ex>eutsche</ex> Museum</orgName> sagt. <pb n="2r"/>ich lese Recensionen ungern. Wenn man lange in Rom lebt, wird man Philosoph. Erst wenn ich <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">die <seg type="comment"><orig>Chronik von Rom</orig><note xml:id="nrbf_vpn_slb">Gregorovius’ späteres 8-bändiges Hauptwerk, die „Geschichte der Stadt Rom im Mittelalter“ (Stuttgart: Cotta 1859–1872), für das er seit Ende 1855 Studien in römischen Archiven und Bibliotheken betrieb (siehe RT 26.11.1855, S. 57).</note></seg></bibl> werde geschrieben haben, will ich sagen: ich habe etwas geschaffen, was des Lebens wert ist. Doch zweifle ich; <seg type="comment"><orig>ich bin hart in den Nerven mitgenommen</orig><note xml:id="nycc_ypn_slb">Gregorovius musste seine Studien krankheitsbedingt seit Ende Februar 1856 immer wieder unterbrechen und setzte am 16. März 1856 sogar sein Testament auf (siehe RT, 24.3.1856, S. 60). Zur Erholung reiste er am 25. Juni nach Genazzano, wo er bis zum 24. September 1856 blieb (siehe RT, 16.8.-2.10.1856, S. 63–64).</note></seg>, u<ex>nd</ex> überschaue ich, was ich in diesen 4 Jahren zusammengemäht habe, so wundre ich mich, daß die Kraft noch vorhält.</p>
+<p>Gleichfalls danke ich sehr für die <seg type="comment"><orig>Notiz über<persName key="G001319"> Jonas</persName></orig><note xml:id="njzw_bqn_slb">Der gebürtige Ostpreuße und Landschaftmaler Rudolf Jonas (1822–1888) hielt sich von Mai bis September 1856 auf Korsika auf. Im Brief von Gregorovius an Brockhaus vom <ref target="G000047">5.8.1856</ref> hatte er um Bekanntmachung der geplanten Veröffentlichung eines Albums korsischer Landschaftsmalereien von Rudolf Jonas gebeten. Die erwähnte Notiz vom Brockhaus-Verlag ist nicht nachweisbar.</note></seg>. <seg type="comment"><orig>Dieser Maler ist heimgekehrt, mit reichster Ausbeute, u<ex>nd</ex> wahrscheinlich wird er das Album mit <unclear reason="illegible" cert="high">Paque</unclear> contrahiren</orig><note xml:id="nnrb_kqn_slb">Gregorovius hatte in seinem Brief vom <ref target="G000051">16.7.1856</ref> Cotta die korsischen groß- und kleinformatigen Blätter von Rudolf Jonas zum Verlag in einem Album angetragen; die Publikation kam nicht zustande.</note></seg>. <seg type="comment"><orig>Wir werden Ihrer gefälligen Teilnahme an diesem Unternehmen, so weit sie möglich ist, mit großem Danke froh sein</orig><note xml:id="nopg_4rn_slb">Gregorovius wandte sich offenbar auch an Friedrich Eggers (1819–1872), den Gründer des „Deutschen Kunstblatts“. Im „Deutschen Kunstblatt. Zeitschrift für bildende Kunst, Baukunst und Kunsthandwerk“ erschien ein längerer Beitrag über die korsischen Arbeiten von Rudolf Jonas und seine Beziehungen zu Gregorovius (Jg. 7. Nr. 44. Stuttgart 30.10.1856. S. 388, siehe https://digi.ub.uni-heidelberg.de/diglit/dkb1856/0401) – Und im selben Band unter der Rubrik „Briefwechsel“ die Notiz: „Es geht uns die Anfrage zu, ob Herr Jonas, von dessen korsischen Ansichten wir berichtet haben, nicht auch das Volk und seine Sitten durch Zeichnungen in sein Skizzenbuch aufgenommen habe und seinem Album einzuverleiben gedenke? Unter den Blättern, die uns Vorlagen, haben wir dergleichen nicht gesehen, erinnern uns auch, von dem Maler gehört zu haben, daß er die Korsen, namentlich das schöne Geschlecht, sehr schwer habe zum Portraitirenlassen bewegen können. Eine nähere Antwort erbitten wir hierdurch von ihm.“ (ebd., Nr. 45. Berlin 6.11.1856. S. 396). Siehe den Brief von <ref target="G000070">Gregorovius an Friedrich Eggers, 11.11.1856</ref>.</note></seg>.</p>
+<p>Ich kam eben von <placeName key="G000844">Latium</placeName> heim, u<ex>nd</ex> erwarte nun Druckbogen aus <placeName key="G000671">Florenz</placeName>, <seg type="comment"><orig>wo <orgName key="G000528"><hi rendition="#aq">Le Monnier</hi></orgName> eine saubre<bibl sameAs="G004322"> ital<ex>ienische</ex> Separatausgabe der Geschichte der Corsen</bibl> druckt, Übersetzung meines ital<ex>ienischen</ex> Freundes, des <hi rendition="#aq">Grafen</hi> <hi rendition="#aq">Perez</hi></orig><note xml:id="nfbf_psn_slb">Gregorovius’ Veroneser Freund Graf Paolo Perez (1822–1879) übersetzte einen Auszug seines „Corsica“ (Stuttgart: Cotta 1854): Storia dei Corsi. Florenz: Tip. Felice Le Monnier 1857.</note></seg>. So hoffe ich denn auch bald die Druckbogen der <hi rendition="#aq">Grabmäler</hi> zu erhalten, u<ex>nd</ex> durchzusehn.</p>
+<p><seg type="comment"><orig>Mein <bibl sameAs="G003574"><hi rendition="#aq">Euphorion</hi></bibl> ist gänzlich fertig</orig><note xml:id="nq4j_tsn_slb">Das Manuskript seines Versgedichtes „Euphorion. Eine Dichtung aus Pompeji in vier Gesängen“ hatte Gregorovius Brockhaus bereits in seinem Brief vom <ref target="G000076">22.8.1855</ref> als vor dem Abschluss stehend zum Verlag angetragen hatte. Dort erschien es 1858.</note></seg>, u<ex>nd</ex> ich würde mir erlauben Ihnen das <hi rendition="#aq">M<ex>anu</ex>scr<ex>ipt</ex></hi> zuzusenden, wenn ich nicht zweifelte, ob es nicht beßer sei, erst den Druck der <hi rendition="#aq">Grabmäler</hi> abzuwarten, u<ex>nd</ex> diese wirken zu laßen. Eigentlich wäre es eine paßende Gabe für Weihnachten; es ist das Gedicht leicht u<ex>nd</ex> doch antik; sein Mittelpunkt jener herrliche <seg type="comment"><orig>Candelaber von Bronze im <orgName key="ed_hcg_cyh_zkb"><foreign xml:lang="ita">Mus</foreign><ex>eo</ex><foreign xml:lang="ita"> Borbon</foreign><ex>ico</ex></orgName></orig><note xml:id="nsy3_jvv_gmb">Siehe RT, 31.1.1854, S. 53 und 15.8.1864, S. 182. Über den von Thorsten Fitzon nicht identifizierbaren Leuchter (vgl. Thorsten Fitzon: Reisen in das befremdliche Pompeji. Antiklassizistische Antikenwahrnehmung deutscher Italienreisender 1750–1870. Berlin 2004. Zugl.: Freiburg, Univ., Diss. 2002, S. 358) heißt es im Baedeker Reiseführer „Italy. Handbook for Travellers: Third Part, Southern Italy and Sicily“ (Leipzig 1887): „[…] a Candelabrum from the villa of Diomedes, a small Bacchus riding on a panther, and a pilaster adorned with a mask and bucranium (skull of an ox), on a square pedestal; the lamps hang from four branches; those at present placed there are not the original“ (S. 77). Abb. in: Edward Trollope: Illustrations of ancient art. Selected from objects discovered at Pompeii and Herculaneum. London: Bell 1854. S. 34–35 (Tafel XV/5; siehe https://archive.org/details/illustrationsofa00troliala/page/n79) und Johannes Overbeck und August Mau: Pompeji in seinen Gebäuden, Alterthümern und Kunstwerken. Leipzig 1884. S. 436, Abb. 233 (siehe https://digi.ub.uni-heidelberg.de/diglit/overbeck1884/0488). Dass dieser mit vier Schalen versehene Leuchter letztlich nicht mit dem identisch ist, den Gregorovius für sein Versgedicht vor seinem inneren Auge hatte, belegt der Vergleich mit seiner Beschreibung des Leuchters in seinem Brief an Brockhaus, 3.5.1857.</note></seg>, deßen Sie sich gewiß <pb n="2v"/>erinnern; auf seinem Piedestal stehn ein <unclear reason="illegible" cert="high">Altar</unclear> u<ex>nd</ex> ein Panter, auf dem ein kleiner <persName key="G000954">Bacchus</persName> reitet. Die Zeit der Handlung ist <placeName key="G000755">Pompeji’s</placeName> Untergang. Ich hoffe, das Gedicht wird sinnvollen Frauen wolgefallen.</p>
+<closer>
+<salute rendition="#c">Ich schließe, geehrter Herr, hochachtungsvoll u<ex>nd</ex> ergebenst</salute>
+    <signed rendition="#c"><hi rendition="#aq">Ferd. Gregorovius</hi></signed></closer><note type="postscript" rendition="#right"><hi rendition="#aq">Via della Purificazione N<ex>ume</ex>ro</hi> 63. </note>
+</div>
+        </body>
+    </text>
+</TEI>

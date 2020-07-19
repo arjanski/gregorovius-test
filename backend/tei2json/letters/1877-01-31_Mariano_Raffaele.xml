@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000218">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Rom. München, 31. Januar 1877</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+<respStmt><persName ref="http://d-nb.info/gnd/1121508855"><surname>Neuber</surname> <forename>Frederike</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt></titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 2 S. </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er  dankt für die Nachricht der Familie von Luigi Campo Fregoso. Da er in ihrem Haus nicht unterkommen kann, bittet er Marianon, sich nach einer Alternative umzusehen. Morgen wird er über Verona, Modena (bei Cesare Foucard), Florenz und vielleicht über Perugia nach Rom abreisen, wo er zwischen dem 8. und 10. Februar 1877 eintreffen wird. Die nicht zustande gekommene deutsche Übersetzung von Marianos „Roma nel medioevo“ (1873) hätte seinem Ruf als Schriftsteller in Deutschland ohnehin nur geschadet. </p>
+<p xml:lang="it"/>
+<p xml:lang="en"/>
+</abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1877-01-31" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840–1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">München, 31. Jan<ex>uar</ex> 77.</dateline>
+                    <salute rendition="#c">Lieber Freund,</salute>
+                </opener>
+<p>in aller Eile diese Zeilen; ich danke Ihnen sehr für Ihre Nachricht von der <seg type="comment"><orig><persName key="G001015">Campofregoso</persName></orig><note xml:id="nxdl_mr3_1mb">Die Ehefrau von Conte Luigi Campo Fregoso (1844–1908), Eigentümer der Zimmer in der Via Ripetta 108, in denen sich Gregorovius u.a. auch im Sommer 1876 aufhielt (siehe den Brief von Gregorovius an Raffaele Mariano, 8.5.1876).</note></seg>. Da ihre Zimmer nicht frei sind, muß ich sehen, wo ich unterkomme. Wollen Sie sich der Mühe unterziehen, in der <supplied cert="high">Via</supplied><placeName key="ediarum_lmm_slx_qlb">Gregoriana</placeName> oder <supplied cert="high">Via</supplied><placeName key="ediarum_t5c_vlx_qlb">Sistina</placeName> etc Nachfrage zu halten, ob ich <seg type="comment"><orig>1 kleine Wohnung</orig><note xml:id="nw2z_nr3_1mb">Mariano besorgte Gregorovius ein Quartier in der Via Gregoriana 54 bei den „Schwestern Diamanti“ (siehe RT, Rückkehr nach Rom im Jahre 1877, S. 374).</note></seg> haben kann (etwa zu 80 lire Monat) u<ex>nd</ex> zuerst für 1 Monat, obwol ich länger bleibe: so würde ich Ihnen sehr danken. Schreiben Sie, ich bitte, nun nach <placeName key="G000729">Modena</placeName> (<persName key="G001134">Foucard</persName>) oder nach <foreign xml:lang="ita"><placeName key="G000671">Firenze</placeName> ferma in posta</foreign>. Ich reise morgen nach <placeName key="G000895">Verona</placeName>, nächtige dort, bleibe 2 Tage bei Foucard, bis etwa zum 4. Febr<ex>uar</ex>, u<ex>nd</ex> 2 bis <pb n="1v"/>3 Tage in Florenz, dann vielleicht etwas in <placeName key="G000751">Perugia</placeName>. <seg type="comment"><orig>Ich denke zwischen d<ex>em</ex> 8. u<ex>nd</ex> 10. Febr<ex>uar</ex> in Rom einzutreffen</orig><note xml:id="nj3z_4r3_1mb">Am 1. Februar verließ er München und reiste über Verona, Mantua, Modena, Bologna und Florenz nach Rom, wo er am 11. Februar eintraf (siehe RT, Rückkehr nach Rom im Jahre 1877, S. 373–374). </note></seg>.</p>
+<p>Wegen der <seg type="comment"><orig>Übersetzung</orig><note xml:id="ny3x_pr3_1mb">Eine von Adelheid Grunelius (1813–1887) angefertigte Übersetzung Raffaele Marianos „Roma nel medioevo“ (1873) erschien nie im Druck. Gregorovius hielt die Übersetzung zu mangelhaft und Marianos Umgang mit Geschichte für zu philosophisch für den deutschen Markt (siehe die Briefe von Gregorovius an Raffaele Mariano, 17.12. und 22.12.1876 und 12.1.1877).</note></seg> sind Sie noch etwas erregt, und das <foreign xml:lang="ita">non valeva la pena</foreign> ist zu viel – <foreign xml:lang="ita">benchè io non sia profeta nè figlio di profeta, pur francamente le predirò, che verrà un giorno, dove lei ne giudicherà con senso più objettivo ancora, anzi si congratulerà seco di non esser <add place="superlinear">stato</add> introdotto in <placeName key="G000664">Germania</placeName> in quel modo.</foreign></p>
+                <closer> <foreign xml:lang="ita">I <persName key="G001203"><persName key="G001111"><persName key="G001109">miei</persName></persName></persName> la salutano caramente, ed io le stringo affettuosamente la mano.</foreign> <signed rendition="#c">FGr</signed> </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

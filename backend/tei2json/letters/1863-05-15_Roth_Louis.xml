@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000173">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Louis Roth in Stuttgart. Rom, 15. Mai 1863</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>DLA Marbach</repository><collection>Cotta-Archiv</collection><idno>Cotta-Briefe (54)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 1 ½ S. – 2v aoR Eingangs- und Beantwortungsvermerk: 1863. / <hi rendition="#aq">Rom</hi> 15 <hi rendition="#aq">Mai</hi> / <hi rendition="#aq">D<hi rendition="#sup">r</hi> Ferd. Gregorovius</hi> / <hi rendition="#aq">R</hi> 19 <hi rendition="#aq">Mai</hi> / <hi rendition="#aq">R</hi> </p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno>Karton 57, Mappe 340–342 (nach D) und Karton 55, Mappe 336–337 (Ergänzungen nach H)</idno></idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 254–255 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Nach dem Tod von Johann Georg Freiherr Cotta von Cottendorf werden ihn auch die Erben des Verlags beim Fortgang seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) unterstützen. Das Manuskript des fünften Bandes (1865) wird Anfang 1865 abgeschlossen sein. Das Honorar für seine Artikel aus dem ersten Halbjahr 1863 erbittet er zu Händen von Rudolf Oldenbourg nach München, wo er im August für Bibliotheksarbeiten eintreffen wird.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">After the death of Johann Georg Freiherr Cotta von Cottendorf, the heirs of the publisher will also support him in continuing his „Geschichte der Stadt Rom im Mittelalter“ (1859-1872). The manuscript of the fifth volume (1865) will be completed in early 1865. He asks for fee for his articles from the first half of 1863 to be sent to Munich to Rudolf Oldenbourg, where he will arrive in August to work in the library. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1863-05-15" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001559">Roth, Louis (1802–1875)</persName>
+<placeName key="G000879">Stuttgart</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">26. Februar 1863 (BSB München, NL Gregorovius, Gregoroviusiana 21, Roth)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c"><hi rendition="#aq">Rom</hi>, 15. <hi rendition="#aq">Mai</hi> 1863.</dateline>
+                    <salute rendition="#c">Hochverehrter Herr,</salute>
+                </opener>
+<p>ich benutze eine Gelegenheit, diese wenigen Zeilen mit nach <placeName key="G000664">Deutschland</placeName> zu geben, welche Ihnen für Ihr Schreiben in Folge des <seg type="comment"><orig>Todes von <persName key="G001055">Baron Cotta</persName></orig><note xml:id="nozv_rp3_cmb">Der Senior-Verleger Johann Georg Freiherr Cotta von Cottendorf (*1796) war am 1. Februar 1863 an einem Herzschlag verstorben, Louis Roth hatte einstweilen die Geschäftsführung übernommen.</note></seg> aufrichtig danken sollen. Ich habe keinen Augenblick daran gezweifelt, daß die <persName key="G001053 G004757 G004756 G004758 G004759"><seg type="comment"><orig>Erben des Verstorbenen</orig><note xml:id="nulm_sp3_cmb">Johann Georg Cotta von Cottendorf hatte die Töchter Elisabeth (1823–1900), Caroline (1827–1891), Marie (1828–1911) und die Söhne Georg Astolph (1833–1876) und Carl (1835–1888), der den Verlag fortführte.</note></seg></persName>, u<ex>nd</ex> daß im Besonderen <seg type="comment"><orig>Sie der <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Geschichte der Stadt Rom im Mittelalter</bibl> die Teilnahme nicht entziehen werden, welche der Baron Cotta ihr widmete</orig><note xml:id="nmxc_tp3_cmb">Von seiner „Geschichte der Stadt Rom im Mittelalter“ waren bislang vier Bände erschienen. Um Gregorovius „einer Unruhe zu entheben, welche vollkommen erklärlich, aber Gottlob durch die wirkliche Sachlage nicht begründet ist“, hatte Louis Roth ihm am 26.2.1863 versichert: „die Hinterbliebenen, Verwandte und Geschäftsfreunde, erkennen als Pflicht, zu thun, was in ihren Kräften steht und die vielen schönen Institute unsres Hauses unverkümmert, ganz im bisherigen Geiste, fortzuführen. Ich brauche kaum hinzuzusetzen, daß auch Ihr vortreffliches Werk, wie von Anfang so bis zum Schlusse unterstützt und mit Liebe gefördert werden soll!“ (BSB München, NL Gregorovius, Gregoroviusiana 21, Roth).</note></seg>. Das Bewußtsein, daß dies Werk, an dessen Herstellung ich meine besten Kräfte setze, dem <orgName key="G000523">J. G. Cottaschen Verlage</orgName> angehört, ist für mich tröstlich u<ex>nd</ex> beruhigend. Hoffentlich haben Sie gute Erfahrungen an dem Verkauf dieser Geschichte gemacht. Ich bin unausgesetzt daran beschäftigt; die Arbeiten für den <seg type="comment"><orig>Band V sind vorgeschritten, aber der Stoff schwillt in solchen Dimensionen an, daß jener Band erst im Jahr 1865 zu Anfang, (so denke ich) wird druckgerecht geworden sein</orig><note xml:id="nxyd_5p3_cmb">Der Band erschien 1865, zuvor aber teilte Gregorovius am 24. Juni 1863 mit, dass der Umfang seiner „Geschichte der Stadt Rom im Mittelalter“, wegen der Fülle des Materials, statt der vertraglich festgesetzten sechs Bände auf nunmehr sieben Bände ausgeweitet werden muss (siehe den Brief von <ref target="G000178">Gregorovius an Louis Roth, 24.6.1863</ref>).</note></seg>. Ich <seg type="comment"><orig>reise wieder <pb n="1v"/>nach <placeName key="G000734">München</placeName>, die dortige <orgName key="G000510">Bibliothek</orgName> zu benutzen; ich werde dort im August sein, u<ex>nd</ex> habe vielleicht die Freude, Sie daselbst zu sehen</orig><note xml:id="nfdv_5p3_cmb">Nach Aufenthalten am Viewaldstätter See und am Rheinfall reiste Gregorovius Ende Juli 1863 über Konstanz und Anfang August nach München, wo er bis zum 30. August blieb. Nach einem Aufenthalt in Bad Reichenhall und Salzburg kehrte er am 5. September 1863 für fünf Tage nach München zurück (siehe RT, 14.7.-9.9.1863, S. 162–167). Ein persönliches Treffen mit Louis Roth kam nicht zustande.</note></seg>.</p>
+<p>Ich würde bitten, mir den <seg type="comment"><orig>Betrag für von mir in diesem halb Jahr gelieferte <note place="left" hand="#addressee">notirt</note><bibl corresp="G003911">Artikel</bibl></orig><note xml:id="nvpb_xp3_cmb">Gregorovius hatte im ersten Halbjahr 1863 nur eine Rezension für die „Allgemeine Zeitung“ geliefert: Marcantonio Colonna in der Schlacht bei Lepanto. (Marcantonio Colonna alla Battaglia di Lepanto, per il P. Alberto Guglielmotti, Florenz, 1862). In: Beilage zu Nr. 78 der AZ. Augsburg: Cotta 19.3.1863. S. 1285–1286. Hierfür vermerkte der Verlag 18 Gulden (DLA Marbach, Cotta-Archiv, Cottacopirbuch V, 462), die am 3. August 1863 wunschgemäß an die Literarisch-Artistische Anstalt der J. G. Cotta’schen Buchhandlung in München übersandt wurden (DLA Marbach, Cotta-Archiv, Cottacopirbuch V, 486).</note></seg> <hi rendition="#u" hand="#addressee">nicht nach Rom</hi> zu schicken, sondern nach München an <persName key="G067781"><seg type="comment"><orig>Herrn <hi rendition="#aq">Oldenburg</hi></orig><note xml:id="npzq_xp3_cmb">Rudolf Oldenbourg (1811–1903), der Geschäftsführer der Literarisch-Artistischen Anstalt der J. G. Cotta’schen Buchhandlung in München (siehe auch den Brief von Gregorovius an Cotta, 7.9.1862 in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 250–251).</note></seg></persName> zur Zeit zu adressiren.</p>
+                <closer>
+<salute xml:id="s1" next="s2">Ich empfehle mich Ihnen, hochverehrter Herr, mit großer Hochachtung und </salute>
+<salute xml:id="s2" prev="s1" rendition="#c">Ergebenheit</salute>
+<signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi>.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

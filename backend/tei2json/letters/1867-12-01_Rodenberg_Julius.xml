@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000235">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Julius Rodenberg in Berlin. Rom, 1. Dezember 1867</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>81 / IV, 6, 13</idno></msIdentifier>
+<physDesc>
+<p>1 Bl., 8°, 1 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 6 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Für die von Julius Rodenberg und Ernst Dohm Ende 1867 neu gegründete Zeitschrift „Der Salon für Literatur, Kunst und Gesellschaft“ (1867–1874) kann er wegen seiner vielen historischen Arbeiten keinen literarischen Beitrag liefern. Für Journale hat er seit Jahren nichts geschrieben, nur an die „Allgemeine Zeitung“ liefert er gelegentlich Beiträge.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1867-12-01" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001549">Rodenberg, Julius (1831–1914)</persName>
+<placeName key="G000636">Berlin</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi>, 1. <hi rendition="#aq">December</hi> 1867.</dateline>
+                    <salute rendition="#c">Sehr geehrter <seg type="comment"><orig>Herr</orig><note xml:id="narv_k55_gmb">Eine persönliche Begegnung von Gregorovius und Rodenberg ist nicht nachweisbar und eine über den vorliegenden Brief hinausgehende Korrespondenz nicht erhalten. In der von Rodenberg herausgegebenen „Deutschen Rundschau“ erschienen nach dem Tod von Gregorovius jedoch zahlreiche Briefe von ihm im Erstdruck.</note></seg>,</salute>
+                </opener>
+<p>Ihr freundliches Schreiben vom <hi rendition="#aq">October</hi> nebst Ihrer Einladung, mich an der von <seg type="comment"><orig>Ihnen gegründeten Zeitschrift „<orgName key="G000485">der Salon</orgName>“ </orig><note xml:id="nk5l_l55_gmb">Der Journalist und Schriftsteller Julius Rodenberg (1831–1914) gründete Ende 1867 „Der Salon für Literatur, Kunst und Gesellschaft“. Diese Zeitschrift, die er bis 1871 zusammen mit Ernst Dohm (1819–1883) herausgab, von 1872–1874 allein, erschien von Dezember 1867 bis 1890 bei Payne Leipzig. „Der Salon“ hatte zahlreiche prominente Beitragende wie Berthold Auerbach (1812–1882), Theodor Fontane (1819–1898), Karl Gutzkow (1811–1878), Paul Heyse (1830–1914), Theodor Storm (1817–1888) und Iwan Turgenjew (1818–1883).</note></seg>beteiligen zu wollen, ist etwas verspätet in meine Hände gelangt. Ich danke Ihnen aufrichtig für Ihre Erinnerung an einen <seg type="comment"><orig>ferne lebenden Landsmann</orig><note xml:id="nsrz_l55_gmb">Nicht ermittelt.</note></seg>, u<ex>nd</ex> würde gerne Ihnen willfährig sein, wenn ich dies vermöchte. Ich bin indeß so ganz in meine historischen Arbeiten versenkt, daß mir keine Zeit für leichtere Beschäftigung übrig bleibt. Sie werden daher meinen Namen seit Jahren nicht mehr unter Mitarbeitern für Journale begegnet sein, es sei denn hie u<ex>nd</ex> da in der Beilage der Au<ex>g</ex><ex>s</ex>b<ex>ur</ex>ger <orgName key="G000462">Allg<ex>emeinen</ex> Zeit<ex>ung</ex></orgName>, der ich manchmal etwas liefre, weil ich ihr oder meinem Verleger <orgName key="G000523">Cotta</orgName> seit langen Jahren verpflichtet bin.</p>
+<p>Sonach, verehrter Herr, bleibt mir nur der Wunsch, daß Ihr Journal künftig gedeihen möge; in der Hoffnung, Ihnen selbst einmal im<placeName key="G000664"> Vaterlande </placeName>zu begegnen.</p>
+                <closer>
+                    <salute rendition="#c">Ihr hochachtungsvoll ergebener</salute>
+                    <signed rendition="#right">FGregorovius</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

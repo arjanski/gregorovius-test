@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_e4n_yzn_nlb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Contessa Ersilia Caetani Lovatelli in Rom. München, 16. November 1879</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace><availability status="free">
+                <licence target="http://creativecommons.org/licenses/by/4.0/">
+                    Creative Commons Attribution 4.0 International (CC BY 4.0)
+                </licence>
+            </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno>Karton 59, Mappe 348 (nach D)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"><bibl type="print">Ferdinand Gregorovius und seine Briefe an Gräfin Ersilia Caetani Lovatelli. Hrsg. von Sigmund Münz. Berlin: Paetel 1896. S. 93–95</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er tröstet die seit September verwitwete Freundin. Über Boethius und Wilhelm von Humboldt, die in der Trauer literarisch höchst produktiv waren. Er hat das Vorwort für die Publikation der Briefe Alexanders von Humboldt an seinen Bruder verfasst (Die Brüder von Humboldt 1880). Seine Schrift zum Dreißigjährigen Krieg erscheint 1879 auf deutsch (Urban VIII. im Widerspruch zu Spanien und dem Kaiser) und italienisch (Urbano VIII e la sua opposizione alla Spagna e all’imperatore). Grüße an ihre Kinder, Callista, Rosalia, Filippo, Giovanni und Witoldo, ihren Vater, Michelangelo Caetani sowie an dessen dritte Frau Enrichetta. Er wird im Januar nach Rom reisen und von dort seine Griechenlandreise antreten. </p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000734">München</placeName><date when="1879-11-16" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001011">Caetani Lovatelli, Ersilia contessa (1840-1925)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="93"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">München, 16. November 1879.</dateline>
+                    <salute rendition="#c"> Sehr verehrte Frau Gräfin,</salute>
+                </opener>
+<p>es hat mir zum Troste gereicht, von neuem Ihre Schriftzüge zu sehen. Ich begrüße sie als einen Akt besonderen Wohlwollens gegen mich und gleichzeitig als Zeugnis dessen, daß Ihr Geist seine Fassung wiedergefunden hat, so daß Sie Siegerin <seg type="comment"><orig>in diesem schrecklichen Kampfe</orig><note xml:id="nc5x_ckj_1mb">Am 21. September war Giacomo Colombo Lovatelli (1832), seit 1859 Ehemann der Contessa, gestorben. Der aus dem Umkreis Ravennas stammende Adlige hatte von 1870–1874 sowie von 1874–1876 das Amt eines römischen Abgeordneten bekleidet.</note></seg> bleiben werden, der Ihnen von einem höchsten Willen auferlegt worden und aus dem Sie mit neuer moralischer Kraft hervorgehen werden. Glauben Sie mir, daß kein Tag vergeht, ohne daß ich an Sie und Ihre <persName key="ed_crd_tt4_qlb"><persName key="G001388"><persName key="ed_eks_vt4_qlb"><persName key="ed_snq_qt4_qlb"><persName key="ed_c2r_xt4_qlb">Kinder</persName></persName></persName></persName></persName> denke, die ich bestens grüße. Sie werden sie alle wieder gesehen und umarmt haben, auch diejenigen, die jetzt außer Hause sind. Sie werden den Schmerz mit der heiligsten Liebe versüßt haben, die eine sterbliche Seele empfinden kann – <seg type="comment"><orig>und das ist die wahre Quelle, aus der Sie immer die Kraft, um die Kontraste des Lebens zu ertragen, schöpfen und in der Sie Trost und Freude finden werden</orig><note xml:id="nyth_2kj_1mb">Siehe zu Gregorovius’ Anteilnahme am Tod Lovatellis auch den Brief von Gregorovius an Ersilia Caetani Lovatelli vom 28.12.1879.</note></seg>. </p>
+<p>Bei der Verwirrung, die in Ihren häuslichen Gewohnheiten eingetreten und inmitten so vieler schmerzlicher Gedanken werden Sie sicherlich für jetzt mehr Abneigung als Neigung zur Fortsetzung Ihrer Lieblingsstudien empfinden. Die Literatur, so glaube ich, tröstet nicht eine Frau, die in Gram versunken ist; einen Mann allerdings, der unglücklich geworden, richtet sie manchmal auf. Ein Beweis hierfür ist <seg type="comment"><orig><persName key="G000972">Boëtius</persName></orig><note xml:id="nsv3_fkj_1mb">Das Hauptwerk des spätantiken, römischen Philosophen Anicius Manlius Severinus Boethius (um 480/85–524/26) ist seine Schrift „Consolatio philosophiae“ (lat. für: Trost der Philosophie) aus den 20er Jahren des 6. Jahrhunderts. Boethius verfasste den Text in Gefangenschaft, als er angeklagt worden war, Beziehungen zum oströmischen Kaiser zu haben. In dem Werk tröstet die personifizierte Philosophie den Autor und klärt ihn mithilfe von Aristoteles und Platon auf. Siehe zu seiner Person auch den ersten Band der „Geschichte der Stadt Rom im Mittelalter“ (1859), S. 309–314.</note></seg>, und in neueren Zeiten hat noch <persName key="G001302">Wilhelm von Humboldt</persName> ein Beispiel davon gegeben. Dieser schloß sich, nachdem er <seg type="comment"><orig>die theure <persName key="ed_h1p_vpr_rlb">Lebensgefährtin</persName></orig><note xml:id="ngnh_gkj_1mb">Caroline von Humboldt (1766–1829), geborene Carolina Friederica von Dacheröden, hatte Wilhelm von Humboldt am 29. Juni 1791 in Erfurt geheiratet. Die Ehe war sehr unkonventionell, gestattete beiden Freiheiten; mehrere Male kam es zur Trennung.</note></seg> verloren hatte, <seg type="comment"><orig>in seiner <placeName key="ed_nln_bqr_rlb">Villa</placeName></orig><note xml:id="ngkn_hkj_1mb">Schloss Tegel im Berliner Bezirk Reinickendorf, Familiengut der Humboldts.</note></seg> ein und verfaßte dort <seg type="comment"><orig>das größte <bibl sameAs="ed_upx_jqr_rlb">Werk über Sprachvergleichung</bibl></orig><note xml:id="nwgm_3kj_1mb">Wilhelm von Humboldt. Über die Verschiedenheit des menschlichen Sprachbaues und ihren Einfluss auf die geistige Entwickelung des Menschengeschlechts. Berlin: Königliche Akademie der Wissenschaften 1836: https://books.google.it/books?id=dV4SAAAAIAAJ&amp;printsec=frontcover&amp;hl=de&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false. Humboldt, der sich bereits seit langem mit Sprachvergleichen beschäftigte, hatte bereits zuvor wichtige Arbeiten zu diesem Thema veröffentlicht, so unter anderem: Über das vergleichende Sprachstudium in Beziehung auf die verschiedenen Epochen der Sprachentwicklung. In: Abhandlungen der Königlichen Akademie der Wissenschaften zu Berlin aus den Jahren 1820–1821, Berlin 1822, S. 239–260.</note></seg>. Nichtsdestoweniger bin ich überzeugt, daß auch für Sie eine ruhigere und heiterere Zeit kommt, in der Sie Ihre wissenschaftlichen Arbeiten wieder aufnehmen werden.</p>
+<p><pb n="94"/>Ich habe Humboldt’s aus folgendem Grunde gedacht: Eine <persName key="G001304">Enkelin</persName> dieses ausgezeichneten Mannes hatte zum Glück unter den Familienpapieren einen Theil der vor langer Zeit an ihn von seinem großen Bruder <persName key="G001301">Alexander</persName> gerichteten Briefe entdeckt. <seg type="comment"><orig>Sie machte mir Mittheilung davon</orig><note xml:id="noyq_jkj_1mb">Die Tochter Theodors von Humboldt (1797–1871) war Anfang Dezember 1878 bei Gregorovius in dieser Sache vorstellig geworden; siehe dazu den Brief von Gregorovius an Raffaele Mariano vom 17.12.1878. Gemeinsam transkribierten sie die 25 Briefe Alexanders an Wilhelm und Gregorovius riet der Enkelin, sich bezüglich einer Herausgabe dieser Schreiben an Gabriele von Bülow (1802–1887), Tochter Wilhelms zu wenden. Als dessen einiziges, noch lebendes Kind pflegte sie das Vermächtnis des Vaters.</note></seg>, und ich benutzte das, um Nachforschungen nach all dem zu betreiben, was sich an Briefen, die Alexander an Wilhelm geschrieben, noch erhalten, um sie dann zusammenstellen zu lassen. <seg type="comment"><orig>Diese Briefe werden nun gegen Weihnachten bei <orgName key="G000523">Cotta</orgName> in <placeName key="G000879">Stuttgart</placeName> mit einer von mir geschriebenen <bibl sameAs="G004068">Einleitung</bibl> veröffentlicht werden</orig><note xml:id="nvqv_kkj_1mb">Die Brüder von Humboldt. Geschichtliche Übersicht ihres Lebensganges bis zum Jahr 1835. In: Briefe Alexanders von Humboldt an seinen Bruder Wilhelm. Hrsg. von der Familie Humboldt in Ottmachau. Stuttgart: Cotta 1880. Die Anfrage als Herausgeber der Briefe aufzutreten, hatte Gregorovius abgelehnt; das anonym gedruckte Vorwort allerdings mit großer Begeisterung verfasst (vgl. RT, Sommer und Winteranfang 1879, S. 417). Dieses wurde ohne den Untertitel in KS II/4 (S. 125–194) aufgenommen.</note></seg>. Es wird mir eine angenehme Pflicht sein, Ihnen ein Exemplar besagten Werkes, sobald es erschienen, zu schicken.</p>
+<p>Sie werden überdies durch die <orgName key="G000481">Buchhandlung Bocc</orgName>a eine neue <bibl sameAs="G003524">Schrift</bibl> von mir empfangen, die über die Beziehungen des <persName key="ed_w45_gsl_rlb">Papstes</persName> zu <placeName key="G000874">Spanien</placeName> und dem Reiche in der Zeit des dreißigjährigen Krieges handelt. </p>
+<p>Ich habe mich erkühnt, <seg type="comment"><orig>diese <bibl sameAs="G003523">Schrift</bibl> auch in italienischer Sprache zu schreiben</orig><note xml:id="nmlc_mkj_1mb">Im selben Jahr war die Schrift auf deutsch erschienen: Urban VIII. im Widerspruch zu Spanien und dem Kaiser. Eine Episode des dreißigjährigen Kriegs. Stuttgart: Cotta 1879.</note></seg>. Wenn mir dies, wie ich befürchte, mißlungen ist, so wird es eine Strafe für meinen Ehrgeiz sein. Es ist jedoch eine zu entschuldigende Eitelkeit, denn sie ist nicht vulgär. Ich bin dazu von der legitimen Liebe, die mich an <placeName key="G000690">Italien</placeName> knüpft, getrieben worden. Sehen Sie, liebste Frau, und verzeihen Sie es mir, welche schüchternen Anstrengungen ich gemacht habe, um Ihre Gedanken, die auf ganz andere Dinge gerichtet sind, ein wenig zu zerstreuen und Ihrem hohen Geiste wieder einige Teilnahme an literarischen Dingen, und wären diese von noch so geringer Wichtigkeit, abzugewinnen.</p>
+<p>Ich bitte Sie, meine ehrerbietigsten und herzlichsten Grüße <pb n="95"/>Ihrem Vater, dem Herrn <persName key="G001004">Herzog</persName>, der <seg type="comment"><orig>Frau <persName key="G001007">Herzogin</persName></orig><note xml:id="nzgc_nkj_1mb">Seit 1875 war der bereits zweifach verwitwete Herzog von Sermoneta mit Enrichetta (1831–1906), geb. Harriet Georgina Ellis, Tochter des Charles Augustus Ellis (1799–1868), VI. Baron Howard de Walden und II. Baron Seaford, verheiratet.</note></seg> und der ganzen sehr werten Familie Gaetani zu überbringen. Ich tröste mich mit der Aussicht, mich schon gegen Ende des kommenden Januar in Ihrem Kreise einzufinden, um einige Wochen in Rom zu verbringen, bevor ich mich <seg type="comment"><orig>nach <placeName key="G000619">Athen</placeName> einschiffe</orig><note xml:id="ndfy_nkj_1mb">Er reiste am 20. Januar von München ab und kam in Rom, nach Stationen in Verona, Modena und Florenz, am 24. an. Am 28. März schiffte er sich, gemeinsam mit dem Bruder Julius (1819–1891), in Neapel ein, am 1. April legten sie in Griechenland an. Erst am 6. Mai reisten sie nach Italien zurück (siehe RT, Romfahrt und Griechische Reise 1880, S. 419–420).</note></seg>. Das ist ein seit langem von mir gehegter Plan, den ich diesmal auszuführen hoffe.</p>
+                <closer>
+                    <salute>Bewahren Sie mir Ihr Wohlwollen und halten Sie mich, edle Frau, für Ihren aufrichtig ergebenen</salute>
+                    <signed rendition="#right">Ferd. Gregorovius.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

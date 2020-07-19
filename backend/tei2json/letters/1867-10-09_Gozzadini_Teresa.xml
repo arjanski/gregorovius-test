@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000437">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Maria Teresa Serego Alighieri Gozzadini in Bologna. Rom, 9. Oktober 1867</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Giovanni Gozzadini: Maria Teresa di Serego-Allighieri Gozzadini. Bologna: E. Fava e Garagnani 1882. S. 307</bibl> </witness>
+<witness select="#this"> <bibl type="print">Giovanni Gozzadini: Maria Teresa di Serego-Allighieri Gozzadini. Seconda edizione ampliata con prefazione di Giosuè Carducci. Bologna: Nicola Zanichelli 1884. S. 447–448</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Über seinen Besuch bei den Gozzadini in Bologna im September 1867. </p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1867-10-09" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001092">Serego Alighieri Gozzadini, Maria Teresa (1812–1881)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+            <div type="writingSession">
+                <opener>
+<dateline rendition="#right">Roma, 9 Ottobre 1867.</dateline>
+<salute>Gentilissima signora Contessa. <lb/>Or sono più di quindici giorni ch’<seg type="comment"><orig>io partii dal bel ritiro dei <orgName key="G000561">frati Gaudenti</orgName></orig><note xml:id="nggc_sbr_ylb">Nach einem Aufenthalt in Deutschland machte Gregorovius auf der Rückreise nach Rom Halt in Bologna, um seine Freunde, das Ehepaar Gozzadini, zu besuchen (siehe den Brief von <ref target="G000436">Gregorovius an Giovanni Gozzadini, 7.7.1867</ref>). Vom 19.–21. September blieb er bei ihnen. – Die frati Gaudenti waren eine um 1250 von sechs Rittern und adligen Bolognesern gegründete Bruderschaft, die von Urban IV. 1261 anerkannt wurde und deren Gründungssitz die Villa Ronzano war – jene Villa, welche die Gozzadinis 1848 ankauften und zu ihrem von illustren Persönlichkeiten besuchten Salon machten.</note></seg>, da <seg type="comment"><orig>quella villa monastica</orig><note xml:id="nslv_tbr_ylb">„[…] von wo ein Hausbedienter mich nach Ronzano führte. Ich fand die Gräfin hier unter Blumen und etruskischen Totenschädeln, welche ihr Mann, ein eifriger Entdecker alter Nekropolen, ausgräbt und sie mit unglaublicher Geschicklichkeit zusammenzusetzen versteht. […] Ronzano ist ein altes Kloster der Frati Gaudenti, von denen Dante spricht. Die Fenster haben Eisengitter; ein Klosterhof, finstere Zypressen in der Nähe, Inschriften an den Wänden – Dante-Kultus – kein Ton aus dem frischen Leben, kein Klang und Sang. Die junge Tochter, Gräfin Zuchini, ist in Paris und scheint diese Öde zu fliehen, worüber ihre Mutter gestern bitter klagte. Ronzano liegt schön auf einer Höhe, gegenüber dem prächtigen Tempel S. Luca. Die ganze Emilia und Romagna sind hier zu Füßen ausgebreitet mit hundert Orten, Gütern und Städten, bis zum Adriatischen Meer. Bei klarer Luft ist der Turm S. Marco von Venedig sichtbar, so auch der Dom Ravennas; Parma, Modena zeigen sich.“ (RT, 21.9.1867, S. 233). Auch Gregorovius war regelmäßig Gast in dem von den Gozzadinis unterhaltenen Salon (siehe den Brief von <ref target="G000388">Gregorovius an Giovanni Gozzadini, 3.11.1856</ref>).</note></seg> dove finalmente ebbi il piacere di trovarmi nella loro graziosa compagnia. Mi credano ch’io col pensiero sovente torno da Loro, e di fatti io mi rallegro che quella vita pacifica ch’essi menano <placeName key="G000822">là su</placeName>, per me non sia più cosa sconosciuta e immagi<pb n="2"/>naria, ma una realtà.<gap reason="lost" unit="chars" quantity="1"/>Ricordo quella grandiosa burrasca con grandine che maestosamente si scaricò su quelle alture<gap reason="lost" unit="chars" quantity="1"/>sovente ricordo <seg type="comment"><orig>Quel no magnanimo</orig><note xml:id="nnb3_vbr_ylb">Beginn eines Epigramms des Dichters Giovanni Marchetti (1790–1852), möglicherweise zu Ehren des Conte Gozzadini: „Quel no magnanimo/ Prezzo non ha/ Oh splendidissima/ Oscurità!”.</note></seg><gap reason="lost" unit="chars" quantity="1"/></salute>
+</opener>
+<p><gap reason="lost" unit="chars" quantity="1"/>Con reverente e grato animo</p>
+                <closer>
+<salute rendition="#right">di loro verace servitore</salute>
+<signed rendition="#right">Gregorovius. </signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

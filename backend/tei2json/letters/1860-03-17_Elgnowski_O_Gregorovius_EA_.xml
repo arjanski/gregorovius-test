@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000090">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Ottilie Elgnowski und Emilie Auguste Gregorovius in Insterburg in Insterburg. Rom, 17. März 1860</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>BSB München</repository><collection>Gregoroviusiana 20</collection><idno>Elgnowski, Ottilie (1b)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl. , 8°, 4 S. – zahlreiche Transkriptionsanmerkungen vfrH</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach H) </idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er sendet Glückwünsche zur Entbindung des Sohnes Hermann, der ihr ein Trost für ihren erkrankten Ehemann Louis Elgnowski sein wird. Den Geburtstag seiner Stiefmutter Emilie Auguste Gregorovius hat er still gefeiert. Zum Karneval lag er krank im Bett, wurde aber von Clemens August Alertz und seiner Wirtin gut versorgt. In Rom ist große Aufregung, weil der Vatikan mit „Excommunication und Bannstral“ droht. Ob er die Familie in Ostpreußen besuchen kann, hängt vom Fortgang seiner Arbeiten am vierten Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1860) ab. Sollte er dieses Werk zum Abschluss bringen, will er, wie einst Edward Gibbon beim Abschluss seines „Decline and Fall of the Roman Empire“ (1788), ein großes Fest begehen. Seine Verwandten und die Tante Charlotte Pianka lässt er grüßen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He sends congratulations on the birth of her son Hermann, who will be a comfort to her husband Louis Elgnowski, who is ill. He quietly celebrated the birthday of his stepmother Emilie Auguste Gregorovius. At carnival he was ill in bed, but was well looked after by Clemens August Alertz and his landlady. There is great excitement in Rome because the Vatican is threatening „excommunication and anathema“. Whether he can visit the family in East Prussia depends on the progress of his work on the fourth volume of his „Geschichte der Stadt Rom im Mittelalter“ (1860). Should he complete this work, he intends to celebrate a great feast, as Edward Gibbon once did at the conclusion of his „Decline and Fall of the Roman Empire“ (1788). He sends his greetings to his relatives and aunt Charlotte Pianka. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1860-03-17" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001111">Elgnowski, Ottilie (bis 1855 Gregorovius,
+                        Ottilie) (1834–1907)</persName>
+                    <persName key="G001198">Gregorovius, Auguste Emilie
+                        (1797–1866)</persName>
+                    <placeName key="G000689">Insterburg</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">Rom 17. <hi rendition="#aq">März</hi> 1860.</dateline>
+<salute rendition="#c">Meine teure Schwester,</salute>
+</opener>
+<p>erst heute – an dem <seg type="comment"><orig>Todestage meiner <persName key="G001207">Mutter</persName></orig><note xml:id="njjv_qym_ylb">Wilhelmine Gregorovius, geb. Kausch (*1783), war am 17. März 1831 verstorben.</note></seg>, wo ich mit Bestimmtheit Nachricht von der Heimat erwartete – empfange ich durch <persName key="G001203">Julius</persName> die frohe Nachricht von Deiner glücklichen, wenn auch <seg type="comment"><orig>schweren Entbindung</orig><note xml:id="ngn5_rym_ylb">Am 20. Februar 1860 war ihr Sohn Hermann Elgnowski (†1936) zur Welt gekommen. Er legte 1878 das Abitur am Ludwigsgymnasium in München ab, am 18.10.1880 findet er sich in der Universität Leipzig immatrikuliert, später wurde er Oberinspektor.</note></seg>, u<ex>nd</ex> eile Dir, wenn auch nur mit wenigen Zeilen meine Freude auszudrücken. Mit wachsender Ungeduld sah ich der Meldung entgegen, u<ex>nd</ex> begann bereits mir ängstliche Gedanken zu machen. So hat also der Himmel für so vieles bitteres Leid Dir <seg type="comment"><orig>einen lebendigen Trost gesandt</orig><note xml:id="nxmj_tym_ylb">Ihr Mann, der in Insterburg praktizierende Allgemeinarzt Louis Elgnowski, litt seit Jahren an Lungenschwindsucht; er starb am 27. Mai 1860 (siehe RT, 14.6.1860, S. 102), nicht im Juni, wie es in dem Hilfeaufruf für die mittellose Witwe in der „Deutschen Klinik“ vom 6.2.1861, Nr. 6, S. 64 heißt; siehe https://books.google.de/books?id=3hlDAAAAcAAJ&amp;pg=PA64&amp;dq=Elgnowski,+Insterburg+1860&amp;hl=de&amp;sa=X&amp;ved=0ahUKEwj65qmZtrDdAhVDPFAKHc9gCNAQ6AEILDAB#v=onepage&amp;q=Elgnowski%2C%20Insterburg%201860&amp;f=false).</note></seg>; der mag das <persName key="G001109">Kind</persName> u<ex>nd</ex> die Mutter segnen, u<ex>nd</ex> die <persName key="G001198"><seg type="comment"><orig>Großmama</orig><note xml:id="nw5t_wym_ylb">Die Stiefmutter von Gregorovius, die Mutter von Ottilie Elgnowski, Emilie Auguste Gregorovius, geb. Dreßler, verw. von Collrepp (1797–1866). Sie brachte einen 5-jährigen Sohn mit in die Ehe, Hugo.</note></seg></persName> wird ihren schönen Teil daran haben.</p>
+<p><pb n="1v"/>Es ist ganz herrlich, daß dies Kind am 20 Febr<ex>uar</ex> geboren wurde. Schilt mich nicht, liebe Mutter, wenn ich fortgesetzt so unartig bin, <seg type="comment"><orig>zu Deinem Geburtstage</orig><note xml:id="ng5q_yym_ylb">Emilie Auguste Gregorovius war am 20. Februar 1797 geboren.</note></seg> nicht zu schreiben – eigentlich sollte ich das wol, aber ich thue es Niemand, feire jedoch alle Tage im Stillen, indem ich ein Glas Wein erhebe u<ex>nd</ex> auf Euer Wol trinke.</p>
+<p><seg type="comment"><orig>Der Winter ist zu Ende – er war sehr naß hier, ja der schlechteste, den ich in <placeName key="G000690">Italien</placeName> erlebte, so daß er mich auch umwarf, u<ex>nd</ex> ich habe den <hi rendition="#aq">Carneval</hi> im Bette oder auf dem Stul zugebracht</orig><note xml:id="nlcr_zym_ylb">Im Tagebuch hatte Gregorovius geschrieben: „Zu Anfang des Karneval wurde ich krank an Rheumatismus und dann an gastrischem Fieber. Ich habe gegen drei Wochen das Zimmer gehütet, lag aber nur einige Tage zu Bette. Am 26. Februar fuhr ich zum erstenmal wieder aus, nach dem Tal der Egeria. Meine Krankheit war Folge des Scirocco, der seit dem 19. Oktober anhielt. Es ist der schlechteste Winter, den ich in Italien erlebt habe.“ (RT, 8.3.1860, S. 94).</note></seg>. <pb n="2r"/>Mein Freund <persName key="G000913"><hi rendition="#aq">Alertz</hi></persName> hat mich recht gut wahrgenommen, u<ex>nd</ex> meine <persName key="G067677"><seg type="comment"><orig>Wirtin</orig><note xml:id="ngnl_bzm_ylb">Bei Signora Marzia Pellicani bewohnte Gregorovius seit Anfang Oktober 1854 zwei Zimmer in der Via della Purificazione 63 zur Untermiete (vgl. RT, 31.12.1854, S. 45 und seinen Eintrag vom 26.12.1855: „Gesindel haust darin, Modelle für Künstler. Den Ghetto deutscher Künstler nennt man diese schmutzige Straße.“ S. 58). Im Herbst 1860 bezog er drei Zimmer in der Via Gregoriana 13 bei dem Bildhauer Eduard Mayer (1812–1881).</note></seg></persName> gut gepflegt. Seit 14 Tagen bin ich wieder auf u<ex>nd</ex> aus.</p>
+<p>Hier ist große Aufregung wegen politischer Dinge, u<ex>nd</ex> <seg type="comment"><orig>im <placeName key="G000860">Vatican</placeName> schmieden sie jetzt den großen Blitz, genannt Excommunication u<ex>nd</ex> Bannstral</orig><note xml:id="nwk3_dzm_ylb">Am 28. März 1860 heißt es dazu im Tagebuch: „Eben sah ich auf Monte Citorio ein Plakat, vor dem viele Menschen standen. Es ist die Exkommunikation vom 26. März, im allgemeinen gerichtet gegen die Usurpatoren der päpstlichen Rechte. Stilgemäß wird die Exkommunikationsbulle angeheftet an die Curia, an die Basiliken St. Peter und St. Johann und auf dem Campo de’ Fiori, dem alten Hinrichtungsplatz, wo Giordano Bruno verbrannt worden ist.“ (RT, S. 95).</note></seg> – indeß die Blitzableiter sind seither auch in der Moralischen Welt <del rendition="#s">g</del>erfunden, u<ex>nd</ex> man fürchtet sich nicht mehr.</p>
+<p><seg type="comment"><orig>Über meine Reise weiß ich noch nichts</orig><note xml:id="nnxc_fzm_ylb">Gregorovius plante, sobald der vierte Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1862) genügend gefördert war, einen Deutschlandaufenthalt für Bibliotheksarbeiten, wollte aber auch seine Familie in Ostpreußen besuchen. Am 27. Juni 1860 reiste Gregorovius schließlich von Rom über Florenz und Genua ins schweizerische Heiden, wo er eine Woche mit der Familie Thile verbrachte. Von dort führte ihn die Reise über Stuttgart, Nürnberg und Leipzig nach Danzig, wo er am 3. August mit seinen Brüdern Rudolf (1808–1866) und Julius Gregorovius (1818–1891) zusammentraf und mit ihnen zur Familie nach Königsberg und Insterburg fuhr. Den Rückweg trat er am 22. September 1860 über Berlin an, das er am 2. Oktober verließ, um von dort über Mageburg und Göttingen und Heidelberg nach Straßburg, Lyon, Avignon und Arles zu reisen. Am 9. Oktober schiffte er sich von dort nach Elba ein und war am 11. Oktober 1860 zurück in Rom (siehe RT, 30.6.-9.10.1860, S. 103–111).</note></seg> – das hängt alles vom Fatum u<ex>nd</ex> dem Bedürfniß meiner Arbeiten ab. Der <seg type="comment"><orig><bibl sameAs="G003469">III. Band</bibl> ist abgeschickt</orig><note xml:id="nnck_jzm_ylb">Gregorovius hatte die erste Hälfte des Manuskripts des 3. Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1860) Ende Januar und die zweite Hälfte Ende Februar an den Verlag gesandt (siehe den Brief von <ref target="G000091">Gregorovius an Cotta, 13.3.1860</ref>).</note></seg>; an <seg type="comment"><orig>dem <bibl sameAs="G003462">4.</bibl></orig><note xml:id="nk1b_mzm_ylb">Der 4. Band seiner „Geschichte der Stadt Rom im Mittelalter“ erschien 1862.</note></seg> bin ich mit einer gewißen gelähmten <pb n="2v"/>Energie gegangen – es ist unsäglich, was das für ein Meer von Arbeit ist, u<ex>nd</ex> würde ich darin ertrinken, wenn mir nicht die Natur einen gewißen ordnenden Verstand verliehen hätte. Sollte ich dieses Werk vollenden, so werden wir Geschwister ein großes <seg type="comment"><orig>Fest feiern, wie einst der Geschichtschreiber <hi rendition="#aq"><persName key="G001171">Gibbon</persName></hi></orig><note xml:id="nfhs_mzm_ylb">Die von Gregorovius immer wieder als literarisches Vorbild genannte „History of the Decline and Fall of the Roman Empire“ (6 Bde. London: Strahan &amp; Cadell 1782–1788) von Edward Gibbon (1737–1794), der am 8. Mai 1788 seinen 51. Geburtstag und den Druck der drei letzten Bände seines Werks feierte.</note></seg> ein solches gefeiert hat, nachdem er <bibl sameAs="G004774">sein großes Werk</bibl> glücklich zu Stande gebracht.</p>
+                <p>Nun lebt herzlich wol; viele Grüße an den <persName key="G001110">Schwager</persName>, u<ex>nd</ex> die Verwandten – der teuern <seg type="comment"><orig><persName key="G067678">Tante <hi rendition="#aq">Pianka</hi></persName></orig><note xml:id="nwx3_rzm_ylb">Charlotte Pianka, geb. Gregorovius (*1794), eine Schwester von Gregorovius’ Vater, Ferdinand Timotheus Gregorovius (1780–1848), die 1811 den Theologen Sigismund Friedrich Pianka heiratete, der seit 1856 Superintendent in Rhein war.</note></seg> küße ich die Hände u<ex>nd</ex> bitte sie meiner freundlich zu gedenken.</p>
+<p>Hoffentlich, bist Du, liebe Mutter, wol! Schreibet bald.</p>
+</div>
+<closer rend="paragraph">
+<salute rendition="#right">Mit herzlicher Liebe</salute>
+<signed rendition="#right">Euer FGR.</signed>
+</closer>
+        </body>
+    </text>
+</TEI>

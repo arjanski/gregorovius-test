@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000324">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Gustav Parthey in Florenz. Rom, 31. Dezember 1869</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness select="#this"> <bibl type="print">Herman Granier: Neue Briefe von Ferdinand Gregorovius. I. In: Sonntagsblatt der Neuen Preußischen (Kreuz-)Zeitung. Nr. 485. Beilage (Literatur – Kunst – Wissenschaft)</bibl> Nr. 43. Berlin 29.10.1922</witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Von dem Konzil wird in Rom nicht viel Aufhebens gemacht. Er dankt die ihm gewidmeten „Mirabilia Romae“ (1869) von Parthey. Karl Richard Lepsius hat er nur kurz beim Preußischen Gesandten Harry von Arnim-Suckow gesehen. Er selbst hat sich von Gesellschaften zurückgezogen und so mehr Zeit seinen Schriften widmen können. Der im Gefolge der Königin Olga von Württemberg nach Rom gekommene Wilhelm Lübke hat ein Teilmanuskript des siebten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1870) mit nach Stuttgart genommen. Der achte Band (1872) wird in eineinhalb Jahren abgeschlossen sein. Cotta drängt ihn zu Neuauflagen seiner „Geschichte der Stadt Rom“. Die „Moralischen Novellen“ (1869) von Paul Heyse wird er dem Onkel Theodor Heyse durch Hugo Hinck zukommen lassen. Grüße an die Tochter Veronika Parthey. Georg Gottfried und Viktoria Gervinus sind wohlauf.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1869-12-31" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001472">Parthey, Gustav (1798–1872)</persName>
+<placeName key="G000671">Florenz</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+<opener>
+<dateline rendition="#right">(Rom), 31. Dezember 1869.</dateline>
+<salute rendition="#c">Hochverehrter Freund und Gönner,</salute>
+</opener>
+<p>ich habe gestern mit großer Freude Ihre Zeilen empfangen und will die Jahressonne nicht untergehen lassen, ohne Ihnen die herzlichsten Grüße und Wünsche zuzurufen; für mich selbst ist darunter dieser, daß ich die Freude haben möchte, Sie wenigstens im Frühjahr im alten Rom wieder zu sehen.</p>
+<p>Die Luft ist hier keineswegs so von <seg type="comment"><orig>nicäischem</orig><note xml:id="ndwj_knw_jlb">In Nicäa (heute İznik, Türkei) wurde von dem römischen Kaiser Konstantin I. (270 bis 288–337) im Jahre 325 das Erste Konzil und 787 von der byzantinischen Kaiserin Irene (752–803) das Zweite Konzil einberufen.</note></seg> Modergeruch und <seg type="comment"><orig>conciliarem Gesalbader</orig><note xml:id="nowv_mnw_jlb">Das von Pius IX. (1792–1878) einberufene Erste Vatikanische Konzil war am 8. Dezember 1869 eröffnet worden.</note></seg> voll geworden, als Sie zu denken scheinen. Kein Mensch sieht, redet, hört von jenen <hi rendition="#aq"><foreign xml:lang="Lat">patres conscripti</foreign></hi>, und wenn jenes Concil überhaupt noch ein bedeutendes Ereignis sein sollte, so kennen Sie Rom genug, um zu wissen, daß auch die größte Thatsache in dieser Weltluft schnell aufgezehrt wird.</p>
+<p><hi rendition="#aq"><foreign xml:lang="ita"><seg type="comment"><orig>Non ragioniamo di lor, ma guarda e <choice><sic>parra</sic><corr cert="high">passa</corr></choice></orig><note xml:id="nwwm_tnw_jlb">Ital. nach Dante Alighieri: Divina Comedia, Inferno, Canto III, 51: „Non ragioniam di lor, ma guarda e passa” – dt.: Sprechen wir nicht von ihnen; schau sie an und gehe deines Weges.</note></seg></foreign></hi>, oder <seg type="comment"><orig><hi rendition="#aq"><foreign xml:lang="ita">ma guarda e vieni</foreign></hi></orig><note xml:id="npk4_n4w_jlb">Ital.: aber schau und komm.</note></seg>. </p>
+<p>Ich hoffe, Sie haben <seg type="comment"><orig>meinen Brief längst erhalten, worin ich Ihnen für dies große Ehrengeschenk der <bibl sameAs="G004316">Mirabilien</bibl> dankte</orig><note xml:id="njkv_y4w_jlb">In seinem Brief vom 13.9.1869 hatte sich Gregorovius bei Parthey für ihm gewidmete Editon der topographischen Codices aus der Mitte des 12. Jahrhunderts „Mirabilia Romae: e codicibvs vaticanis emendata“ bedankt (Berlin: Nicolai 1869) – siehe https://archive.org/details/mirabiliaromaee01kiepgoog/page/n5 und RT, 10.10.1869, S. 266. In der zweiten Auflage des vierten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1870) heißt es darüber: „Da Herr Parthey mir die Ehre erwies, dieselbe mir zuzuschreiben, halte ich es nicht für indiscret, diesem verdienten unermüdlichen Gelehrten hier meinen Dank und die Freude darüber auszusprechen, daß er durch diese Edition den besten Mirabilientext hergestellt hat, den wir besitzen.“ (S. 629, FN 1)</note></seg>. Sie haben mir in der That da eine Inschrift gesetzt, die mich so erfreut, wie beschämt. <seg type="comment"><orig><persName key="G001365">Lepsius</persName> kam von den jenseitigen <placeName key="G000595">Aethiopen</placeName> durch Rom</orig><note xml:id="nbhk_sqw_jlb">Der Ägyptologe Karl Richard Lepsius (1810–1884), seit 1865 Direktor des Ägyptischen Museums in Berlin, war mit Gustav Parthey befreundet und der Bruder des Juristen Gustav Lepsius (1817–1879), mit dem von Partheys Tochter Veronika (1829–1893) 1848 kurz verheiratet war. Gregorovius vermerkt über Karl Richard Lepsius: „Lepsius sieht mit weißen Haaren noch blühend und kräftig aus; er hat einen markierten Kopf“ (19.12.1869, S. 270)</note></seg>; <seg type="comment"><orig>ich sah ihn leider nur flüchtig beim <persName key="G000950">Gesandten</persName></orig><note xml:id="ntwh_krw_jlb">Graf Harry von Arnim-Suckow (1824–1881) war 1864 preußischer Gesandter geworden und hatte seit 1866 den Posten des Gesandten des Norddeutschen Bundes beim Heiligen Stuhl. Den Abend bei ihm dokumentiert Gregorovius im Tagebuch (siehe RT, 19.12.1869, S. 270).</note></seg>, und er verfehlte mich zu Hause. Noch viele andre kamen, doch ist Rom noch nie so leer im Winter gewesen. Dies ist mit sehr lieb; ich habe mich in der Sociabilität etwas beschränkt, und mich so stark <seg type="comment"><orig><seg type="comment"><orig><hi rendition="#aq"><foreign xml:lang="Lat">in propriis</foreign></hi></orig><note xml:id="nzbg_mrw_jlb">Lat.: im Eigenen.</note></seg></orig><note xml:id="nm4t_lrw_jlb">Königin Olga von Württemberg (1822–1892) war von Anfang November bis zum 16. Dezember 1869 unter dem Namen Gräfin von Teck nach Rom gekommen (siehe RT, 4.12.1869 und 19.12.1869, S. 268 und S. 270). Der Kunsthistoriker Wilhelm Lübke (1826–1893) hatte sie nach Rom begleitet und das Manuskript der ersten vier Kapitel des siebten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1870) nach Stuttgart mitgenommen (siehe RT, 19.12.1869, S. 270 und den Brief von Gregorovius an Cotta, 9.11.1869 in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 287–289).</note></seg> gefördert. <seg type="comment"><orig>Meinen <bibl sameAs="G003441">VII. Band</bibl> nahm die <persName key="G001460">Königin Olga</persName>, oder Professor Lübke mit</orig><note xml:id="nuvv_jsw_jlb">1870 erschienen der siebte Band seiner „Geschichte der Stadt Rom im Mittelalter“ in erster Auflage und der dritte und vierte Band in zweiter Auflage.</note></seg>. Am <bibl sameAs="G003434">VIII.</bibl> kann ich jetzt <hi rendition="#aq"><foreign xml:lang="ita">con amore</foreign></hi> schreiben. Aber <orgName key="G000523">Cotta </orgName> bedrängt mich mit <seg type="comment"><orig>Nachforderung der Revision der <bibl sameAs="G003470">2. Auflage</bibl></orig><note xml:id="nphk_z5w_jlb">1870 erschienen der siebte Band seiner „Geschichte der Stadt Rom im Mittelalter“ in erster Auflage und der dritte und vierte Band in zweiter Auflage.</note></seg>, denn mein Wagen kommt jetzt stark ins Rollen. Bald, in spätestens 1 ½ Jahren, bin ich Freiherr, und werde dann mit Freuden ausruhen. </p>
+<p>Grüßen Sie herzlich<seg type="comment"><orig> <persName key="G001275">Dr. Heyse</persName></orig><note xml:id="nbzr_dtw_jlb">Der Gregorovius eng befreundete Altphilologe Theodor Friedrich Heyse (1803–1884) lebte seit Jahren in Florenz.</note></seg> von mir. <seg type="comment"><orig><persName key="G001279">Hink</persName> wird ihm die Novellen des <persName key="G001274">Neffen</persName> zusenden, welche ich ihm dazu eingehändigt habe</orig><note xml:id="nbzn_ttw_jlb">Der in Florenz und Rom tätige Archäologe Hugo Hinck (1840–1876) übersandte die jüngst von Paul Heyse (1830–1914) erschienenen „Moralische Novellen“ (Berlin: Hertz 1869) nach Florenz mit, die Heyse Gregorovius in München für seinen Onkel Theodor Heyse ausgehändigt hatte (siehe den Brief von Gregorovius an Theodor Heyse, 10.10.1869).</note></seg>. </p>
+<p>Es grüßen Sie auf das beste <persName key="ed_gbt_4bh_sfb ed_bzh_0vv_ukp">Lindemanns</persName>, und so auch <seg type="comment"><orig>Ihre Frau <persName key="G001473">Tochter</persName></orig><note xml:id="nrzh_d5w_jlb">Parthey (1798–1872) hatte mit seiner Tochter Veronika (1828–1893) den Winter 1868–1869 in Rom verbracht.</note></seg>, welcher auch ich in freundliche Erinnerung gebracht zu werden wünsche.</p>
+<closer>
+<salute xml:id="s1" next="#s2">Alles Gute und Schöne, <hi rendition="#aq"><foreign xml:lang="ita">cum bona Musa</foreign></hi> wünscht</salute>
+<salute xml:id="s2" prev="#s1" next="#s3" rendition="#c">Ihr</salute>
+<salute xml:id="s3" prev="#s2" rendition="#right">unwandelbar ergebener</salute>
+<signed rendition="#right">F. Gregorovius.</signed>
+<note type="postscript"><persName key="G001168">Gervinus</persName> schrieb, daß es ihm und <persName key="G001169">Frau</persName> wol ergeht.</note>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

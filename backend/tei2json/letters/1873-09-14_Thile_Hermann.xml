@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000364">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Hermann von Thile in Berlin. München, 14. September 1873</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>96/937 (43)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 59, Mappe 346 (nach D) und Karton 59, Mappe 346 (Ergänzungen nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 93–94 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Robert von Keudell hat ihm vor seiner Abreise aus Rom Thiles Brief überbracht. ist Er ist für Archivarbeiten über Pesaro und Modena zu einem Kuraufenthalt in Traunstein gereist, wohin auch Adolf Friedrich Graf von Schack aus München kam. Aus Berlin waren Wagnerianerin Marie Gräfin von Schleinitz-Wolkenstein mit ihrem Mann, dem preußischen Minister Alexander von Schleinitz, und ihrer Mutter Marie Gräfin von Hatzfeld-Trachenberg dort. In München ist ist es trotz der Cholera angenehm. Um den 20. September 1873 wird er zur Weltausstellung nach Wien fahren. Anfang Oktober hofft er Thile auf dessen Weg nach Süden in München zu sehen. Da er Mitte Oktober über Venedig nach Ron zurückreisen wird, kann er Thile auch dort treffen. Seine allein auf neuem Archivmaterial beruhende Biographie „Lucrezia Borgia“ (1874) soll Ende des Jahres erscheinen. Er gibt Gerüchte, dass Robert von Keudell von seinem Posten als Gesandter in Rom abgezogen wird, was er bedauern würde.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+<correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1873-09-14" cert="high"/>
+</correspAction>
+<correspAction type="received">
+<persName key="G001644">Thile, Hermann von (1812–1889)</persName>
+<placeName key="G000636">Berlin</placeName>
+</correspAction>
+</correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">München, Buchhandlung Riedel <lb/>14. Sept<ex>ember</ex> 1873.</dateline>
+                    <salute rendition="#c">Mein hochverehrter Herr,</salute>
+                </opener>
+<p>kurz vor meiner Abreise von <placeName key="G000763">Rom</placeName> (am 30. Juni) übergab mir <persName key="G001335"><seg type="comment"><orig>Herr von Keudel</orig><note xml:id="ninr_wms_tlb">Robert von Keudell (1824–1903) war seit Anfang Juni 1873 bis Mai 1887 preußischer Gesandter beim Quirinal, nachdem er 1872–1873 deutscher Gesandter an der Hohen Pforte in Konstantinopel war.</note></seg></persName> Ihren gütigen Brief, wofür ich Ihnen von <placeName key="G000664">Deutschland</placeName> aus danken wollte. Aber die Ungewißheit Ihres Aufenthalts im Sommer hat mich bisher verhindert dies zu thun, bis ich doch zum Entschluße gekommen bin, meinen Brief direct an Ihre Adresse in Berlin abzusenden.</p>
+<p>Nachdem ich Rom verlaßen und <seg type="comment"><orig>in <placeName key="G000752">Pesaro</placeName> wie in <placeName key="G000729">Modena</placeName> mich zum Zweck von Arbeiten in den dortigen Archiven aufgehalten hatte, ging ich nach dem schönen <placeName key="G000888">Traunstein</placeName></orig><note xml:id="nu4z_qns_tlb">Zu Archivarbeiten für seine Biographie „Lucrezia Borgia“ (1874) war Gregorovius am 1. Juli 1873 über Pesaro, Modena, Mantua gereist und über Kufstein nach Traunstein zu einem Kuraufenthalt vom 9. Juli bis 5. September 1873 gefahren. Danach wohnte er bis zum 13. Oktober 1873 in München. Über Venedig, Ferrara, Bologna, Modena und Florenz zurückreisend, war er am 29. Oktober 1873 zurück in Rom (siehe RT, Sommer des Jahres 1873, S. 332–334).</note></seg>, wo ich auch <seg type="comment"><orig>im vergangenen Sommer</orig><note xml:id="nryx_rns_tlb">1872 hatte sich Gregorovius vom 14. Juli bis 12. September 1872 in Traunstein aufgehalten (siehe RT, 10.9. bis 11.11.1872, S. 325–327).</note></seg> gewesen war. Der dortige Aufenthalt war sehr angenehm, hauptsächlich durch den <seg type="comment"><orig>Umgang <pb n="1v"/>mit dem trefflichen <persName key="G001573">Schack</persName></orig><note xml:id="nqc1_wns_tlb">Adolf Friedrich Graf von Schack (1815–1894) war aus München nach Traunstein gekommen (siehe RT, Sommer des Jahres 1873, S. 332). </note></seg>, welcher auf meine Einladung nach Traunstein gekommen war und daselbst sechs Wochen zubrachte. Es kamen auch <placeName key="G000636">Berliner</placeName> dorthin, welche Ihnen sehr wol bekannt sind, nämlich <seg type="comment"><orig><persName key="G001579">Herr von Schleinitz</persName> mit seiner geistreichen, für <persName key="G067853">Richard Wagner</persName> schwärmenden <persName key="G001580">Gemalin</persName></orig><note xml:id="nuyy_zns_tlb">Die Berliner Salonnière Marie Gräfin von Schleinitz-Wolkenstein (1842–1912), die Ehefrau des preußischen Ministers Alexander von Schleinitz (1807–1885), eine enge Freundin von Cosima Wagner (1837–1930) und Gönnerin Richard Wagners (1813–1883), siehe RT, Sommer des Jahres 1873, S. 332.</note></seg>, und <seg type="comment"><orig>deren Mutter die <persName key="G001239">Fürstin Hatzfeld</persName></orig><note xml:id="nq1p_c4s_tlb">Marie Gräfin von Schleinitz’ Mutter Marie, geb. von Nimptsch, verw. von Buch (1820–1897), in zweiter Ehe mit Hermann Anton Graf von Hatzfeld-Trachenberg (1808–1874) verheiratet.</note></seg>.</p>
+<p>Seit zehn Tagen befinde ich mich nun <seg type="comment"><orig>in München, wo es trotz der Cholera</orig><note xml:id="nacs_24s_tlb">Diese letzte flächendeckende Cholera-Epidemie in Deutschland, die 1400 Menschenleben forderte, dauerte bis 1875 an. Sie führte zur Umsetzung der von Max von Pettenkofer (1818–1901) vorgeschlagenen hygienischen Maßnahmen der Stadtsanierung.</note></seg> recht angenehm ist, obwol ich von meinen Freunden u<ex>nd</ex> Bekannten nur wehr wenige angetroffen habe. Ich kam hierher, um einige Arbeiten in der<orgName key="G000510"> Bibliothek</orgName> zu absolviren, und gedenke, wenn kein sonstiges Hinderniß eintritt, etwa am <pb n="2r"/>20.<hi rendition="#sup">ten</hi> d<ex>iesen</ex> M<ex>onats</ex> einen <seg type="comment"><orig>Abstecher nach <placeName key="G000897">Wien</placeName> zu machen</orig><note xml:id="nczc_34s_tlb">Gregorovius reiste vom 21. bis 30. September 1873 nach Wien, wo die fünfte Weltausstellung vom 1. Mai bis 2. November 1873 stattfand (siehe RT, Sommer des Jahres 1873, S. 333).</note></seg>. Am Anfange des October würde ich dann wieder in München sein. Ich erlaube mir dies Ihnen, mein verehrter Herr, zu schreiben, in der stillen Hoffnung, Ihnen in jener Zeit hier begegnen zu können, was mir eine große Herzensfreude sein würde. Die Cholera dürfte dann in München vollkommen erloschen sein. Schack wußte mir zu sagen, daß Sie im Herbst eine größere Reise beabsichtigten und zwar diese bis nach <placeName key="G000690">Italien</placeName> ausdehnen wollten. Wenn ich nun nicht das Glück haben sollte, Sie hier <seg type="comment"><orig>in München zu treffen</orig><note xml:id="nfl3_k4s_tlb">Die Thiles kamen nicht nach München, siehe den Brief von Gregorovius an Thile, 23.12.1873 (in: Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 94–96).</note></seg>, so geschieht das vielleicht in <placeName key="G000894">Venedig</placeName>, wo ich um die Mitte des October zu sein hoffe, um von dort nach <placeName key="G000670">Ferrara</placeName> zu gehen.</p>
+<p>Es wird Sie vielleicht erfreuen, <pb n="2v"/>zu hören, daß meine Arbeit über <bibl sameAs="G003509"><hi rendition="#aq">Madonna Lucrezia</hi></bibl> so weit gediehen ist, daß sie wol schon am Ende d<ex>iesen</ex> J<ex>ahres</ex> unter die Preße (bei <orgName key="G000523">Cotta</orgName>) gebracht werden kann. Sie ist lediglich aus Materialien der Archive geschöpft, wobei mich die Italiener mit großer Liberalität unterstützt haben. Sie ist dadurch von Kopf bis zu Fuß eine Novität, u<ex>nd</ex> so habe ich <seg type="comment"><orig>an die Stelle eines hergebrachten Romans die Geschichte gesetzt.</orig><note xml:id="nx1n_q4s_tlb">Seiner Biographie „Lucrezia Borgia“ (1874 fügte der Gregorovius einen 140-seitigen Dokumenten-Anhang und drei Faksimiles aus dem Archiv Este im Archivio di Stato di Modena und dem Archivio Gonzaga in Mantua (heute Archivio di Stato di Mantua) hinzu. Hierzu siehe auch den Brief von Gregorovius an Cotta 30.6.1873 (in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 335) und den von Gregorovius an Franz Rühl, 20.2.1873.</note></seg> </p>
+<p>Wenn gewiße Zeitungsnachrichten mehr oder weniger als Enten sind, wird Herr von Keudel bald wieder Rom verlaßen, um einen andern Posten einzunehmen. Ich würde dies zu bedauern haben, gleich allen andern Deutschen in Rom, denn dieser Mann erschien mir bedeutend und liebenswürdig zugleich: ich möchte fast sagen, daß er <seg type="comment"><orig>einer der beßten Typen ostpreußischen Wesens ist, voll innerer Tüchtigkeit und Klarheit, bei offenbarem Mangel an Anmut.</orig><note xml:id="nw3x_t4s_tlb">Der aus Königsberg stammende Robert von Keudell (1824–1903) hatte wie Gregorovius an der Albertina studiert. Er hatte von Keudell in Rom kennengelernt und in seinem Tagebuch notiert: „Keudell kam als neuer Gesandter Deutschlands her und wurde von den Italienern mit offenen Armen empfangen; sie sehen in der Sendung dieses Vertrauten Bismarcks eine Demonstration. Keudell ist Ostpreuße, und wie es mir scheint, hat er den echten Typus dieses Landes: ein moralisch und physisch kerngesunder Mann, klar und fest, von vorwiegender Verständigkeit; der weichere Kern des Gemüts verschlossen in einer harten Schale. Den Ostpreußen fehlt die Grazie. Sie gewinnen nicht bei ihrem Erscheinen; aber auf ihrem soliden Wesen läßt sich sicher bauen. Der Ostpreuße ist die reinste und beste Prosa-Natur Deutschlands. Keudell lernte ich bei Wesdehlen kennen, welcher nach Paris zurückkehrte; er spielte lange auf dem Klavier, worin er Meister ist – und auch dies sein Spiel erschien mir verstandesklar und ohne Poesie.“ (RT, 28.6.1873, S. 331)</note></seg> </p>
+<p>Ich schließe diesen Brief mit den herzlichsten Wünschen für Ihr und Ihrer verehrten <persName key="G001645">Frau Gemalin</persName> Wolergehen, und mit der Hoffnung, Sie dann doch hier in München begrüßen zu können.</p>
+                <closer>
+                    <salute rendition="#c">Ihr in treuer Verehrung <lb/>ergebener</salute>
+                    <signed rendition="#right"><hi rendition="#aq">FGregorovius</hi>.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

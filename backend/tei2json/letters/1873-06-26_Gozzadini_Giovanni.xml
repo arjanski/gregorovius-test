@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067734">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Conte Giovanni Gozzadini in Bologna. Rom, 26. Juni 1873 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>Adr.: All’Illustrissimo Signore / il signor Conte Giovanni Gozzadini / Senatore del Regno / Bologna</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>Bologna, Biblioteca dell’Archiginnasio</institution><collection>Ms. Gozzadini 442</collection><idno>(17)</idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er übersendet ein Buch von Raffaele Mariano, den er als Schüler des Hegelianers Augusto Vera empfiehlt. Er hat ihm bereits die „Statuti di Bologna dall’anno 1245 all’anno 1267“ (1869–1877) von Luigi Frati geschickt. In wenigen Tagen wird er nach Deutschland aufbrechen. Er will in Pesaro Halt machen, wo er in der Biblioteca Oliveriana für seine „Lucrezia Borgia (1874) Dokumente zu Giovanni Sforza einsehen möchte. Er bittet um ein entsprechendes Empfehlungsschreiben. In Modena wird er Cesare Foucard besuchen und im Staatsarchiv arbeiten. Den Sommer wird er zur Erholung in Traunstein verbringen. Im Herbst wird er auf der Rückreise nach Rom in Ferrara und Bologna Station machen. Grüße an Maria Teresa Serego Alighieri Gozzadini.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1873-06-26" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001187">Gozzadini, Giovanni conte (1810–1887)</persName>
+<placeName key="G000638">Bologna</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Roma li 26. di Giugno 1873</dateline>
+                    <salute rendition="#c">Illustrissimo signor Conte,</salute>
+                </opener>
+<p>s’io mi pregi l’ordine di mandarle il libro del <seg type="comment"><orig><persName key="G001401">Mariani</persName></orig><note xml:id="nl3p_xd1_zlb">Fälschlich für: Raffaele Mariano (1840–1912). Mariano war Philosoph und Historiker sowie treuer Schüler des neapolitanischen Hegelianers Augusto Vera (1813–1885). Er beschäftigte sich mit der Philosophie und Geschichte der Religionen, lehrte Kirchengeschichte an der Universität von Neapel von 1885–1904. Der knapp zwanzig Jahre jüngere Mariano war Gregorovius von seinem Lehrer Karl Rosenkranz (1805–1879) empfohlen worden, dem Mariano eine Abhandlung über die moderne italienische Philosophie gewidmet hatte (La philosophie contemporaine en Italie. Essai de philosophie hégélienn. Paris: Germer Bailliére 1868: https://gallica.bnf.fr/ark:/12148/bpt6k54250588/f5.image.texteImage). Gregorovius und Mariano lernten sich Anfang 1872 persönlich kennen (siehe RT, 10.2.1872, S. 317). Sie wurden enge Freunde, reisten miteinander. Nach seinem Weggang aus Italien wurde Mariano zu einem der wichtigsten Korrespondenten für Gregorovius. Mariano sollte einige seiner Werke übersetzen: Lucrezia Borgia. Secondo documenti e carteggi del tempo. Traduzione dal tedesco per Raffaele Mariano. Florenz: Successori Le Monnier 1874; Nelle Puglie. Con noterelle di viaggio del traduttore. Versione dal tedesco di Raffaele Mariano. Florenz: Barbèra Editore 1882; La Villa Ronzano. In: Gozzadini, Giovanni: Maria Teresa di Serego-Allighieri Gozzadini. Bologna: E. Fava e Garagnani 1882. Außerdem verfasste er ein philosophisches Kondensat der „Geschichte der Stadt Rom im Mittelalter“, hier durchgeführt bis zur Gründung des italienischen Nationalstaates und Ernennung Roms zur italienischen Hauptstadt: Raffaele Mariano. Roma nel Medio Evo. Rom: Civelli 1873. Welches Buch von Mariano Gregorovius hier an Gozzadini schickte, ist nicht ermittelbar.</note></seg>, il fecî non per causa mia, ma sì coll’intendimento di presentarle un giovane napoletano, discepolo del <persName key="G001675">Vera</persName>, studioso della letteratura tedesca, e adoratore quasi smanioso della filosofia di <persName key="G001253">Hegel</persName>. Egli ha talento, che un dì si potrà far strada, qualora avrà dato alla sua mente nutrimento di studj maggiori.</p>
+<p>Come mi fu ordinato, spedii colla posta a V<ex>ostra</ex> S<ex>ignoria</ex> Ill<hi rendition="#sup"><hi rendition="#u" hand=""><ex>ustrissi</ex>ma</hi></hi> quei fascicoli degli <bibl sameAs="G004305">Statuti di Bologna</bibl>, che anni indietro mi regalò <seg type="comment"><orig>il prof<ex>essore </ex><persName key="G001136">Frati</persName></orig><note xml:id="nvxc_zd1_zlb">Luigi Frati (1815–1902) war zunächst Direktor der erzbischöflichen Bibliothek in Bologna und ab 1858 bis zu seinem Tod Leiter der Biblioteca Comunale dell’Archiginnasio. Gregorovius hatte Gozzadini die Sendung von Fratis „Statuti di Bologna“ bereits in einem früheren Brief angekündigt; siehe den Brief von Gregorovius an an Giovanni Gozzadini vom 8.6.1873. </note></seg>. </p>
+<p>Partirò da Roma il primo del Luglio, e mi fermerò per due giorni a <placeName key="G000752">Pesaro</placeName>, onde esaminare, <seg type="comment"><orig>colà nell’<orgName key="G004666">Oliveriana</orgName> alcuni manoscritti</orig><note xml:id="nqnq_121_zlb">Am 2. Juli kam er in Pesaro an, wo er am darauffolgenden Tag in der Biblioteca Oliveriana mit seiner Recherchearbeit begann (siehe RT, 3.7.1873, S. 332).</note></seg>. Questa biblioteca, come sento dire, <seg type="comment"><orig>stà nelle mani di persone private, forse non liberali</orig><note xml:id="nblx_c21_zlb">Die Biblioteca Oliveriana in Pesaro entstand 1756 aus der Bibliothek des kinderlos verstorbenen Adligen Annibale degli Abati Olivieri (1708–1789), der diese seiner Geburtsstadt vermacht hatte. Im Laufe der Zeit gingen weitere Nachlässe, unter anderem der von Terenzio Mamiani (1799–1885), in die Bibliothek ein. Noch heute ist die Oliveriana die größte Bibliothek der Stadt. Entgegen Gregorovius’ Annahme stand die Bibliothek bereits seit 1795 dem Publikum offen; er wurde dort freundlich empfangen (siehe RT, 3.7.1873, S. 332).</note></seg>. Vorrebbe Ella, gentilissimo signor Conte, con due righe di raccomandazione <seg type="comment"><orig>avvertirne la Deputazione della mia prossima venuta</orig><note xml:id="nr3g_f21_zlb">Gozzadini war seit 1860 erster Präsident der im selben Jahr neu gegründeten Deputazione di Storia Patria per le Province di Romagna, die Gregorovius am 28. April zu ihrem korrespondierenden Mitglied ernannt hatte (BSB München, Nachlass Gregorovius, Gregoroviusiana 19). Gregorovius bat auch den in Pesaro geborenen Mamiani della Rovere um ein Empfehlungsschreiben für die Oliveriana; siehe den Brief von Gregorovius an Terenzio Mamiani della Rovere vom 23.6.1873. Wie im Tagebuch ersichtlich wird, erhielt er von beiden die gewünschte Empfehlung (siehe RT, 3.7.1873, S. 332). </note></seg>, acciocchè mi si dia l’accesso alla Oliveriana? <pb n="2"/>Ne sarei ben grato. </p>
+<p>Le mie ricerche da farsi colà si riferiscono alle <seg type="comment"><orig>vicende di <persName key="G001600">Giovanni Sforza</persName>, marito non felice di <persName key="G000985">Donna Lucrezia Borgia</persName></orig><note xml:id="nql5_g21_zlb">Lucrezia Borgia (1480–1519) und Giovanni Sforza (1466–1510) heirateten am 12. Juni 1493. Die Ehe der unehelichen Tochter von Papst Alexander VI. (1431–1503) war eine machtpolitische Entscheidung ihres Vaters, der so eine Allianz mit der Familie Sforza eingegangen war, und machte Lucrezia zur Gräfin von Pesaro. Allerdings kam es im Zuge des Eroberungszugs Karls VIII. (1470–1498) in Neapel zu Auseinandersetzungen zwischen dem Papst und seinem Schwager, woraufhin Sforza nach Pesaro flüchtete. Am 20. Dezember 1497 wurde die Eheschließung wegen angeblicher Impotenz des Gatten für als nicht vollzogen erklärt und die Verbindung aufgelöst (siehe dazu: Ferdinand Gregorovius. Lucrezia Borgia. Bd. 1. 1874, S. 95–103).</note></seg>, della quale famosissima signora attualmente <bibl corresp="G003509">sto descrivendo la vita</bibl>, cioè durante il suo primo periodo in Roma, e prima che andasse sposa a <persName key="G067830">Don Alfonso</persName> in <placeName key="G000670">Ferrara</placeName>. Ne ho raccolto molti materiali; ne ebbi anche una buona parte dal <seg type="comment"><orig><persName key="G001134">prof<ex>essore</ex> Foucard</persName> di <placeName key="G000729">Modena</placeName></orig><note xml:id="nidp_321_zlb">Cesare Foucard (1825–1892) war ein Archivar und Professor für Paläographie am Generalarchiv Venedig. Von 1873–1887 war er Direktor des Archivio di Stato in Modena. Gregorovius war bei seinem kurzen Forschungsaufenthalt im Sommer 1873 Gast in Foucards Haus (siehe RT, S. 332) sowie auch wenn er in späteren Jahren von Deutschland aus kommend Modena besuchte (siehe RT, 31.3.1875, S. 347–348; 20.5.1876, S. 363; 1877, S. 373).</note></seg>, il quale con una cortesia veramente italiana mi soccorre in ogni mio bisogno scientifico.</p>
+<p>Se il caldo non si farà troppo forte, <seg type="comment"><orig>mi recherò anche a Ferrara</orig><note xml:id="nnb2_k21_zlb">Ein Halt in Ferrara ist für den Sommer 1873 nicht nachweisbar.</note></seg>, e a Modena. Però ho da temere questi ardori d’estate a <seg type="comment"><orig>non vedo l’ora di raggiungere i bagni di <placeName key="G000888">Traunstein</placeName></orig><note xml:id="nhwj_l21_zlb">Er kam am 9. Juli in Traunstein an, wo er für einige Wochen blieb. Schon in früheren Jahren war er auf ärztliches Anraten wegen der Salzbäder hierhergekommen; siehe den Brief von Gregorovius an Ersilia Caetani Lovatelli vom 21.8.1872. </note></seg>, per cui sono diretto di nuovo dietro i consigli del mio medico.</p>
+<p>Quello che non potrò assolvere adesso via facendo, lo farò certamente nel ritornare dalla <placeName key="G000664">Germania</placeName> al tempo fresco dell’autunno, e allora <seg type="comment"><orig>spero anche di poter fermarmi a Bologna</orig><note xml:id="nu2k_421_zlb">Er sollte bis zum 13. Oktober in München bleiben und über Ferrara, wo er die im Sommer aufgeschobenen Arbeiten in der Universitätsbibliothek sowie im Münzkabinett nun erledigte, am 22. nach Bologna beziehungsweise Ronzano reisen (siehe RT, S. 333–334).</note></seg>, e di riverire Lor Signorie e di ringraziarla a voce di quella benevolenza e di quegli onori, di cui <pb n="3"/>Ella mi ha colmato. </p>
+<p>Auguro a Lei e alla gentilissima <persName key="G001092">signora Contessa</persName> la migliore villeggiatura, la quale, se non esso, prenderanno come al solito <seg type="comment"><orig>a <placeName key="G000822">Ronzano</placeName></orig><note xml:id="nyc5_q21_zlb">In Ronzano bei Bologna besaßen die Gozzadinis seit 1848 eine Villa, in der sie einen von illustren, gebildeten Persönlichkeiten frequentierten Salon unterhielten. Auch Gregorovius verkehrte dort regelmäßig, so wie im September 1867; siehe den Brief von Gregorovius an Maria Teresa Serego Alighieri Gozzadini vom 9.10.1867. Nach dem Tod der Gräfin widmete Gregorovius dem Salon einen Essay: Die Villa Ronzano. Ein Musensitz der Gozzadini von Bologna (ED in: Nord und Süd. Eine deutsche Monatsschrift. Bd. 23. Breslau, Berlin: Schottlaender 1882. S. 312–321 – aufgenommen in: KS Bd. 3, S. 97–120).</note></seg>, se questa volta non preferiscono di recarsi in Isvizzera, per far poi <seg type="comment"><orig>una visita all’ esposizione di <placeName key="G000897">Vienna</placeName></orig><note xml:id="nld4_s21_zlb">Vom 1. Mai bis zum 2. November 1873 fand auf dem Wiener Prater die fünfte Weltausstellung statt, die erste auf deutschsprachigem Boden. 35 Länder und 53.000 Aussteller nahmen daran teil. Bis dato war sie die teuerste ihrer Art. Gregorovius besichtigte sie mehrmals und berichtet davon im Tagebuch: „Die Weltausstellung entzückte mich. Es war, als hätte eine Gottheit allen Reichtum der menschlichen Kultur aus einem Füllhorn dort zusammengeschüttet. Was nur irgend in ihr darstellbar ist, legte sich als Kosmos von Gestalten und Formen auseinander – Glas, Eisen, Stein, Wolle, Gold, Silber etc. –, alles und jedes einzelne breitete aus seinem Prinzip eine Wunderwelt aus. Pessimisten könnte dieser Anblick heilen. Ich sah mit Befriedigung auch meinen Beitrag zu diesem großen Friedensfest der Zivilisation, nämlich die ›Geschichte der Stadt Rom‹, in deutschen und italienischen Bänden. Siebenmal war ich, viele Stunden hintereinander, in der Ausstellung, und dies genügte mir, um ein allgemeines Bild davonzutragen.“ (RT, S. 333).</note></seg>. </p>
+<p>Alla di loro benigna memoria sempre mi raccomando </p>
+<p rendition="#c">quale</p>
+                <closer>
+                    <salute rendition="#right">servitor loro devoto</salute>
+                    <signed rendition="#right">F. Gregorovius</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

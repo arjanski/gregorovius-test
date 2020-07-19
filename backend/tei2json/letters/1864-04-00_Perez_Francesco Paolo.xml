@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000431">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Francesco Paolo Perez in Palermo. Rom, April 1864 </title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Mecklenburgisches Landeshauptarchiv Schwerin </repository><collection>10.9-S/6 NL Schack, Hans von</collection><idno>Sign. Vol. 7a - Gregorovius (12)</idno></msIdentifier>
+<physDesc>
+<p>1 VK - aoR: Archivangabe: 12</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Über Adolf Friedrich Graf von Schack aus München, der sich auf der Durchreise nach Spanien für ein paar Tage in Rom aufhält. Grüße an Francesco Paolo Perez.</p>
+                <p xml:lang="en">Via Adolf Friedrich Graf von Schack from Munich, who is in Rome for a few days on his way to Spain. Greetings to Francesco Paolo Perez.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1864-04" cert="low"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001481">Perez, Francesco Paolo (1812–1892)</persName>
+<placeName key="G000748">Palermo</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+                <opener>
+<salute rendition="#c">Al gentilissimo Signor <seg type="comment"><orig>Francesco Perez</orig><note xml:id="ndbr_2dr_vlb">Der Schriftsteller und Politiker Francesco Paolo Perez (1812–1892) aus Palermo lebte von 1849–1860 in Florenz, wo er zu einem Kreis von Exilsizilianern gehörte, mit denen Gregorovius befreundet war. Perez hatte er spätestens im Sommer 1858 in Florenz kennengelernt (siehe RT, 31.8.1858, S. 73). Zurückgekehrt nach Sizilien war Perez von 1862–1865 als Generalbevollmächtigter im Gran Cort dei conti di Palermo. Über die Visitenkarte hinaus ist keine weitere Korrespondenz zwischen Gregorovius und Perez erhalten.</note></seg> di Palermo manda cordiali saluti</salute>
+</opener>
+<p rendition="#c">FERDINAND GREGOROVIUS</p>
+<p rendition="#c">pel mezzo del <seg type="comment"><orig>Barone <persName key="G001573">Adolfo di Schack</persName></orig><note xml:id="nqvv_fdr_vlb">Adolf Friedrich Graf von Schack (1815–1894), Kunstmäzen, Literat, Hispanist und Arabist, lebte seit 1855 in München und stand mit Gregorovius seit 1856 in freundschaftlichem Kontakt. Im April 1864 hielt sich Schack auf der Durchreise nach Spanien für ein paar Tage in Rom auf; siehe den Brief von Gregorovius an Hermann von Thile vom <ref target="G000195">16.4.1864</ref>. </note></seg> di <placeName key="G000734">Monaco</placeName>.</p>
+                <closer>
+<dateline rendition="#c">Roma, Aprile 1864. <lb/>Francesco Perez (<seg type="comment"><orig>Corte dei Conti, Palermo</orig><note xml:id="ndb2_hdr_vlb">Rechnungshof von Palermo.</note></seg>) </dateline>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

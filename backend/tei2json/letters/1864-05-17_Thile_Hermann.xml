@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000201">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Hermann von Thile in Berlin. Rom, 17. Mai 1864</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>96/937 (35) </idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 59, Mappe 346 (nach D) und Karton 59, Mappe 346 (Ergänzungen nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 74 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Sobald er das offizielle Schreiben der Verlängerung seines Stipendiums vom Kultusministerium in Händen hat, wird er Heinrich von Mühler schreiben. Eine ihm unbekannte Dame hat ihm 2000 Taler vererbt. Er kann deshalb einen Teil der Schulden bei Thile tilgen; der Betrag wird ihm durch seinen Bruder Julius zukommen. Er glaubt nicht, dass sich der preußische Konsul Anton Marstaller während seines Erholungsurlaubs in Deutschland noch einmal ganz erholen wird. Erkrankt ist auch Papst Pius IX.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">As soon as he has the official letter for the extension of his scholarship from the Ministry of Culture in his hands, he will write Heinrich von Mühler. A lady unknown to him has bequeathed him 2000 Thaler. He can therefore repay part of the debt to Thile; the amount will be paid to him by his brother Julius. He does not believe that the Prussian Consul Anton Marstaller will fully recover during his holiday in Germany. Pope Pius IX is also ill. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1864-05-17" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001644">Thile, Hermann von (1812–1889)</persName>
+<placeName key="G000636">Berlin</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Rom</hi>, 17. <hi rendition="#aq">Mai</hi> 64.</dateline>
+                    <salute rendition="#c">Mein hochverehrter Herr,</salute>
+                </opener>
+<p>wenigstens mit einigen Zeilen möchte ich Ihnen für Ihren freundlichen Brief und alles dasjenige Dank sagen, was er Gutes enthält, und dies ist mir wieder durch Ihre Güte zu Teil geworden. Sobald <seg type="comment"><orig>die betreffende Ermächtigung</orig><note xml:id="ntlj_lxw_cmb">Auf Vermittlung Thiles war Gregorovius seit Herbst 1860 vom Kultusministerium der preußischen Regierung ein Stipendium zur Fertigstellung seiner „Geschichte der Stadt Rom im Mittelalter“ bewilligt worden, dessen Verlängerung anstand.</note></seg> in meinen Händen ist, werde ich dem <persName key="G001229">Herrn Minister</persName> in einem Schreiben aufrichtig danken.</p>
+<p>Die Göttin <persName key="G001133">Fortuna</persName>, welche mich wenigstens in der Gestalt irdischen Glücks noch niemals aufgesucht hat, erschien mir in diesen Zeiten, wahrscheinlich aus Gedankenlosigkeit – um kurz u<ex>nd</ex> deutlich zu sein: <seg type="comment"><orig>eine mir wolwollende Dame setzte mir sterbend ein <hi rendition="#aq">Legat</hi> von 2000 Thalern aus</orig><note xml:id="nw5f_nxw_cmb">Siehe den Brief von <ref target="G000193">Gregorovius an Thile, 23.2.1864</ref>.</note></seg> – eine ungesuchte Gabe reines Wolwollens, die ich mit vielem <pb n="1v"/>Nachdenken empfangen habe. Ich schreiben Ihnen dies, mein teurer Herr, weil ich weiß, daß Sie sich darüber freuen werden, und um nicht ein Gefühl des Unwillens in Ihnen aufkommen zu lassen, wenn Sie in einigen Tagen durch meinen <seg type="comment"><orig>in <placeName key="G000682"><hi rendition="#aq">Graudenz</hi> </placeName>garnisonirenden <persName key="G001203">Bruder</persName></orig><note xml:id="nmpb_yxw_cmb">Sein Bruder Julius Gregorovius (1819–1891) war in Graudenz als Hauptmann der Artillerie stationiert (siehe RT, 31.8.1860, S. 108).</note></seg> die Summe von 300 Thalern, als eine zweite <seg type="comment"><orig>Rate meiner Schuld</orig><note xml:id="nitc_zxw_cmb">Gregorovius hatte bei Thile vor dessen Weggang aus Rom im Sommer 1857 Schulden gemacht (siehe die Briefe von Gregorovius an Thile, <ref target="G000106">22.12.1858</ref>, <ref target="G000103">11.4.1859</ref> und <ref target="G000093">11.1.1860</ref>).</note></seg> zugesendet erhalten. So sehr Sie auch auf diese Dinge mit Verachtung sehen, so werden Sie doch den Grundsatz billigen, daß der Mensch, in welchen Verhältnissen er auch sei, seine Verpflichtungen treulich erfüllen, u<ex>nd</ex> namentlich so viel als möglich, in jedem Sinne <hi rendition="#u" hand="">schuld</hi>los sein soll. Ich werde mir erlauben, den Rest im künftigen <pb n="2r"/>Jahre in Ihre Hände kommen zu lassen. Ich bin wol im Stande, dies zu thun, da ich in diesen Jahren alles was noch auf mir lag, habe ablösen können. Dies ist ein sehr schönes Gefühl – zumal da, wo die moralische Verpflichtung in einer reinen und liebevollen Form immer fortdauern muß.</p>
+<p><seg type="comment"><orig><persName key="G001405">Herr <hi rendition="#aq">Marstaller</hi></persName> wohnt jetzt im <orgName key="G000502">Hotel Cesari</orgName> – ich glaube nicht, daß er sich wahrhaft erholen wird</orig><note xml:id="nyxd_gyw_cmb">Der Geschäftsmann und preußische Konsul Anton Marstaller (1815–1865) war ernsthaft erkrankt. Er hatte sein Geschäft veräußert, seine Wohnung aufgegeben und Gregorovius beauftragt, bei dem preußischen Unterstaatssekretär des auswärtigen Amtes, Hermann von Thile, um eine Beurlaubung in Deutschland unter Fortzahlung seiner Bezüge anzufragen (siehe den Brief von <ref target="G000195">Gregorovius an Thile, 16.4.1864</ref>).</note></seg>. <seg type="comment"><orig>Er sagt Ihnen durch mich seinen wärmsten Dank</orig><note xml:id="ngzw_zdx_cmb">Die Beurlaubung Marstallers wurde bewilligt; er zog nach dem Verkauf seines ganzen Besitzes zu einem Bruder nach Hannover (vermutlich Julius Philipp Marstaller, der dort als Hofkellermeister nachweisbar ist), wo er am 24. August 1865 starb (siehe den Brief von <ref target="G000213">Gregorvius an Thile, 31.10.1864</ref>).</note></seg>.</p>
+<p><seg type="comment"><orig>Der <persName key="G001497">Papst</persName> soll ernstlich krank sein</orig><note xml:id="ngnv_c2x_cmb">Pius IX. (1792–1878) erholte sich und blieb bis 1878 Papst – am 29. Mai 1864 schrieb Gregorovius in sein Tagebuch: „Der Papst ist wiederhergestellt. Ich komme um das Konklave.“ (S. 178).</note></seg>. Man erwartet schlimme Ereignisse in Rom.</p>
+<p>Ich schließe einen schon zu langen Brief, mit den herzlichsten Empfehlungen an Sie alle, u<ex>nd</ex> mit dem aufrichtigen Wunsch, in Ihrem wolwollenden Andenken stets fortzudauern.</p>
+                <closer>
+<salute rendition="#c" xml:id="s1" next="#s2">Voll Verehrung </salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">Ihr</salute>
+<signed rendition="#right">FGregorovius.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

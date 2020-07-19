@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000135">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an Hermann von Thile in Heiden. Genzano, 12. Juli
+                    1861</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>96/937 (18)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 1 Bl., 8°, 6 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 346 (nach D) und Karton
+                                        59, Mappe 346 (Ergänzungen nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print">Briefe von Ferdinand Gregorovius an den Staatssekretär
+                            Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S.
+                            42–45 (gekürzt)</bibl>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Im Vorjahr haben sie in Heiden eine schöne gemeinsame Zeit verlebt. Nach Anton Marstaller halten sich die Thiles wieder in Heiden auf; er selbst kann in diesem Jahr nicht dorthin kommen. Er ist für einige Wochen in Genazzano und will im August nach Florenz, um François Sabatier und seine Frau Caroline Ungher-Sabatier zu besuchen und das Manuskript des vierten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1862) abzuschließen. Ernst Guhl hat ihm einen Brief der Thiles übermittelt. Gerne würde er seine Ansicht über die Lage des Kirchenstaats hören. In der Campagna trifft man überall auf französische und päpstliche Truppen, der Palazzo Colonna ist als Kaserne eingerichtet. Die Banden des Chiavone haben die prächtigen Papierfabriken des Carlo Lefèbvre, Conte von Balsorano abgebrannt. Anton Marstaller und Clemens August Alertz sind in Rom geblieben. Karl Friedrich Freiherr von Canitz und Dallwitz ist mit seiner leidenden Frau, Helen Giorgeana, nach Deutschland gereist. Karl Lindemann-Frommel reist mit seiner Familie nach Deutschland und nimmt den vorliegenden Brief mit. Er wünschte, Thile könnte ihn kennenlernen.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">Last year they had a wonderful time together in Heiden. After Anton Marstaller, the Thiles are in Heiden again; he himself cannot come this year. He is in Genazzano for a few weeks and plans to go to Florence in August to visit François Sabatier and his wife Caroline Ungher-Sabatier and complete the manuscript of the fourth volume of his „Geschichte der Stadt Rom im Mittelalter“ (1862). Ernst Guhl passed a letter from the Thiles on to him. He would like to hear his opinion on the situation of the Papal States. In the Campagna, one meets French and papal troops everywhere, the Palazzo Colonna is arranged as a barrack. The gangs of Chiavone burned down the splendid paper mills of Carlo Lefèbvre, Conte of Balsorano. Anton Marstaller and Clemens August Alertz remained in Rome. Karl Friedrich Baron von Canitz und Dallwitz travelled to Germany with his suffering wife, Helen Giorgeana. Karl Lindemann-Frommel is travelling to Germany with his family and is taking this letter with him. He wishes Thile could meet him. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000678">Genazzano</placeName>
+                    <date when="1861-07-12" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001644">Thile, Hermann von (1812–1889)</persName>
+                    <placeName key="G000686">Heiden (Schweiz)</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c"><hi rendition="#aq">Genazzano</hi> in Latinum <lb/>12. <hi rendition="#aq">Juli</hi> 1861.</dateline>
+                    <salute rendition="#c">Mein hochverehrter u<ex>nd</ex> teurer Herr,</salute>
+                </opener>
+                <p>übermorgen <seg type="comment"><orig>am 14. Juli ist es gerade ein Jahr, daß Sie mich gastlich in dem schönen Heyden aufnahmen</orig><note xml:id="nulm_gqk_1mb">Gregorovius hatte die Thiles vom 14.-23. Juli 1860 in Heiden besucht (siehe RT, 18.7.1860, S. 105).</note></seg>, wo ich Sie alle nach längerer Zeit wiedersehen, u<ex>nd</ex> heitere ländliche Tage in Ihrem Kreise verleben konnte. Die Flucht der Zeit ist so schnell, daß sie wol tief nachdenklich machen muß; denn es scheint mir fast unmöglich, daß ein volles Jahr bereits hingegangen sei. Nun <seg type="comment"><orig>in dieser <placeName key="ed_hqc_lrv_gmb">Campagna</placeName>-Einsamkeit, wohin ich mich auf wenige Wochen begeben habe</orig><note xml:id="nkxh_hqk_1mb">Gregorovius war seit dem 17. Juli in Genazzano und blieb bis zum 20. August 1861 (siehe RT, 9.7.-19.8.1861, S. 133–136).</note></seg>, der <seg type="comment"><orig>canicularischen Hitze</orig><note xml:id="niz2_3qk_1mb">hochsommerlichen Hitze, von lat.: dies caniculares, Hundstage.</note></seg> <placeName key="G000763">Roms</placeName> zu entrinnen, kommt mir die Nachblüte jener Tage, u<ex>nd</ex> meiner ganzen Heimatsreise still entgegen. Ich nehme mein Tagebuch vor, u<ex>nd</ex> lese mich in die Vergangenheit zurück. Deshalb ist es mir so viel wert, Sie wieder in demselben lieben <hi rendition="#aq">Heyden</hi>, an dem Ufer des blonden u<ex>nd</ex> vergißmeinnichtfarbenen <placeName key="G000856">Bodensees</placeName> zu wißen, wie mir <persName key="G001405"><seg type="comment"><orig>Marstaller</orig><note xml:id="nyr1_jqk_1mb">Der Bankier und preußische Konsul Anton Marstaller (1815–1865) war seit 1840 in Rom als Geschäftsmann tätig. </note></seg></persName> <pb n="1v"/>kurz vor meiner Abreise mitteilen konnte. So lebhaft steht mir <seg type="comment"><orig>Ihr damaliges Haus</orig><note xml:id="nwsz_jqk_1mb">Die Lage des Hauses hatte Gregorovius in seinem Tagebuch festgehalten: „Mein Blick fällt auf den nahen Bodensee und die Rheinmündung; an seinem Rande stehen Lindau, Friedrichshafen, Arbon deutlich sichtbar, und drüben liegen Baden, Württemberg, Bayern, Österreich vor mir ausgebreitet.“ (RT, 18.7.1860, S. 105).</note></seg> vor Augen, daß ich dort einzutreten meine; oder so der <orgName key="G067525"><seg type="comment"><orig>Freihof</orig><note xml:id="nfb2_lqk_1mb">Das 1847 von Johannes Kellenberger gegründete Gast- und Kurhaus „Zum Freihof“ in Heiden (siehe Gabriel Rüsch: Heiden und seine Molkenkuranstalt in Freihof. Trogen: Schläpfer 1854 – https://reader.digitale-sammlungen.de/resolve/display/bsb10314984.html).</note></seg></orgName> mit der <hi rendition="#aq"><seg type="comment"><orig><foreign xml:lang="fra">table d’hôte</foreign></orig><note xml:id="nasy_mqk_1mb">Frz.: Tisch des Gastgebers.</note></seg>,</hi> u<ex>nd</ex> dem <seg type="comment"><orig><hi rendition="#aq">vis-à-vis</hi> der holden <placeName key="G000651">Sächsinnen</placeName>, deren Bekanntschaft Ihr Hauslehrer, als Tischnachbar ihnen so nah u<ex>nd</ex> doch so fern, erst auf der Straße nachrennend machte</orig><note xml:id="nenw_nqk_1mb">So auch schon im Brief von Gregorovius an Thile vom <ref target="G000090">17. März 1860</ref>.</note></seg>. Ich sehe den edlen <persName key="G067618"><seg type="comment"><orig>Präsidenten</orig><note xml:id="nuz5_pqk_1mb">Johannes Kellenberger, der Gründer des Gast- und Kurhauses „Zum Freihof“, war ehemaliger Kleinrathspräsident (Bezirksgerichtspräsident).</note></seg></persName>, dem ich mich respectvoll empfehle – er wird sich meiner noch erinnern, da ich einmal das Glück haben soll, <persName key="G001189"><seg type="comment"><orig>Herrn v<ex>on</ex> Gräfe</orig><note xml:id="nj45_qqk_1mb">Thiles Schwager Albrecht von Graefe.</note></seg></persName> zu ähne<choice><corr cert="high">l</corr></choice>n. <placeName key="G067592"><seg type="comment"><orig>Rehe-Tôbel</orig><note xml:id="nnt4_rqk_1mb">Die nahe Heiden gelegene Gemeinde Rehetobel und der dazwischen liegende 1120 Meter hohe Berg Kaien im Appenzeller Vorderland.</note></seg></placeName> ferner, der <placeName key="ed_ltc_hbc_hmb">Berg <hi rendition="#aq">Kaien</hi></placeName>, der <seg type="comment"><orig>6 Frankenhügel</orig><note xml:id="ncpq_sqk_1mb">Unklar, Heiden liegt eingebettet in die Hügellandschaft des Appenzeller Vorderlandes.</note></seg>, u<ex>nd</ex> so viele Stellen fallen mir ein, daß ich nun lieber Augen u<ex>nd</ex> Gedächtniß zuschließen will. Im Monat April hatte ich noch die kühne Idee, nach <placeName key="G000664">Süddeutschland</placeName> zu gehen; ich stellte mir vor, wieder bei Ihnen wandernd in <hi rendition="#aq">Heyden</hi> anzuklopfen, aber dies schöne Luftschloß ist zerronnen. Seit dem 7. Juli bin ich hier, <seg type="comment"><orig>auf der letzten Scholle, die <orgName key="G000539">S<ex>ankt</ex> Petrus</orgName> noch sein nennt</orig><note xml:id="nvjk_tqk_1mb">An der Grenze des Kirchenstaates.</note></seg>, um mich <pb n="2r"/>einige Wochen lang in der Landluft zu erholen. <seg type="comment"><orig>Mitte August will ich nach <placeName key="G000671">Florenz</placeName> reisen, die Freunde <hi rendition="#aq"><persName key="G001565 G001665">Sabatier</persName></hi> dort zu besuchen, u<ex>nd</ex> auf einigen Bibliotheken Nachlese zu halten</orig><note xml:id="nfs2_5qk_1mb">Für Abschlussarbeiten am Manuskript des vierten Bandes seiner „Geschichte der Stadt Rom im Mittelalter“ (1862) und um das befreundete Ehepaar François Sabatier (1818–1891) und Frau Caroline Ungher-Sabatier (1803–1877) zu besuchen, reiste Gregorovius am 24. August 1861 über Civitavecchia und Terni nach Foligno und Perugia; am 28. August fuhr er weiter nach Florenz, wo er bis zum 20. September 1861 blieb (siehe RT, 26.8.-17.9.1861, S. 136–137).</note></seg>. Während langer Zeit, da ich nichts von Ihnen vernahm, fragte ich alle Menschen nach Kunde von Ihnen; bis erst <seg type="comment"><orig><persName key="G067619">Professor <hi rendition="#aq">Guhl</hi></persName> mir ein paar Zeilen brachte</orig><note xml:id="nn5r_wqk_1mb">Der Berliner Ernst Guhl (1819–1862), Radierer und Archäologe, Professor an der Berliner Akademie der Künste und der Humboldt-Universität lieferte als Kunstschriftsteller regelmäßig Beiträge für das „Deutsche Kunstblatt“ und hatte zwei Bände „Künster-Briefe“ in Übersetzung herausgegeben (Berlin: Trautwein 1853–1856). Guhl hielt sich von Ende Juni bis Mitte August zu Forschungszwecken in Rom auf, die vermutlich vorbereitend zu seiner mit dem Historiker und klassischen Philologen Wilhelm Koner (1817–1887) geplanten, später vielfach aufgelegten Publikation „Das Leben der Griechen und Römer, nach antiken Bildwerken dargestellt. Mit 528 in den Text eingedruckten Holzschnitten“ (Berlin: Weidmann 1862) stand (siehe http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10254359–8).</note></seg>, die schon vom März datirt u<ex>nd </ex>über <placeName key="G000575">Sicilien</placeName> gekommen waren, u<ex>nd</ex> bis endlich der wackere <persName key="G001405">Marstaller</persName> mir sagen konnte, daß es mit Ihnen allen wol stehe.</p>
+                <p>Wir haben unterdeß merkwürdige Zeiten in Rom erlebt, u<ex>nd</ex> noch mehr steht uns bevor. Indeß lassen Sie mich <hi rendition="#aq"><foreign xml:lang="Lat">de politicis</foreign></hi> schweigen. Ich weiß, daß Ihnen die Vorgänge <placeName key="G000690">Italiens</placeName> Kummer machen, u<ex>nd</ex> oftmals denke ich daran, u<ex>nd</ex> traure, daß Sie vieles unangenehm berühren muß, was mich, der ich in einer nur individuellen Richtung lebe, nicht so treffen kann. Ich stelle mir vor, was Sie, als <seg type="comment"><orig>ehemaliger Gesandter am <orgName key="ed_onw_cld_rlb">päpstlichen Hof</orgName></orig><note xml:id="nyvn_brk_1mb">Thile war von Dezember 1854 bis Ende Juli 1858 preußischer Gesandter beim Heiligen Stuhl in Rom.</note></seg> über die gegenwärtige Lage Roms <pb n="2v"/>urteilen, u<ex>nd</ex> wie <supplied cert="high">Sie</supplied> diesen Tragischen Conflict mitempfinden, in welchen <persName key="G001497"><seg type="comment"><orig>Pius IX</orig><note xml:id="nmxn_crk_1mb">Pius IX. (1792–1878) hatte in Folge des Zweiten Sardinischen Unabhängigkeitskrieges große Teile des Kirchenstaates, die Romagna, Umbrien und die Marken, an das Königreich Italien verloren. Lediglich Rom selbst und Latium, verblieben – durch französische Truppen gesichert – zunächst trotz der Einigungsbestrebungen Italiens und der antifranzösischen Stimmung im Land unter der weltlichen Herrschaft des Papstes.</note></seg></persName> gestellt ist. Für mich selbst bleibt nur die Hoffnung, daß Sie meine Ansichten über das Gegenwärtige von Frivolität frei sprechen. Ich kann nicht anders, als mit dem Strom der Idee eines neuen Italiens gehen, u<ex>nd</ex> als wünschen, daß dies Volk frei u<ex>nd</ex> einig werde.</p>
+                <p>Die Campagna ist bedeckt von <placeName key="G000674">Franzosen</placeName>, u<ex>nd</ex> Päpstlichen. Selbst hier steht päpstliche Artillerie; das <placeName key="G067575"><seg type="comment"><orig>Schloß Colonna</orig><note xml:id="nuhh_2rk_1mb">Der von Oddo di Colonna (1368–1431), ab 1417 Papst Martin V., zu Beginn des 15. Jahrhunderts errichtete, eindrückliche Familienpalast wurde mehrfach vergrößert und im 17. Jahrhundert teilweise umbaut.</note></seg></placeName> ist zur Kaserne eingerichtet. Es sind darin viel Franzosen, <placeName key="G067583">Belgier,</placeName> einige Deutsche, fast durchaus reiche u<ex>nd</ex> vornehme Herren. Die <seg type="comment"><orig>Banden des <hi rendition="#aq"><persName key="G067620">Chiavone</persName></hi> streifen am <placeName key="G000818">Liris</placeName></orig><note xml:id="nx34_grk_1mb">Der Brigant Luigi Alonzo, genannt Chiavone (1825–1862), führte nach Zurückweisung seiner Dienste von piemontesischer Seite neapolitanische Guerilla-Banden (Sanfedisten), die sich gegen die französische Fremdherrschaft auflehnten und das Königreich des gestürzten, seit Mitte Februar 1861 im römischen Exil lebenden Bourbonenkönigs Franz II. (1836–1894) restaurieren wollten. Chiavone hielt sich mehrfach in Rom auf. Siehe auch RT, 29.7.1861, S. 134.</note></seg>; zu meinem Jammer haben sie die <seg type="comment"><orig>Papierfabriken des <hi rendition="#aq"><persName key="G067673">Grafen Lefèbre</persName></hi> in <placeName key="G067589">Sora</placeName></orig><note xml:id="na43_1sk_1mb">Die in den Räumen des aufgelassenen Konvents der Karmelitinnen von S. Maria delle Forme bei Sora gelegenen Papierfabriken (Cartiere del Fibreno) des, wegen seiner Verdienste 1854 zum Conte von Balsorano erhobenen, französischen Industriellen Carlo Lefèbvre de Clunières (1775–1858) waren geplündert worden. </note></seg> verbrannt. Diese <seg type="comment"><orig>prachtvollen Anlagen besuchte ich vor zwei Jahren</orig><note xml:id="ngbq_2sk_1mb">Gregorovius hatte Sora im Oktober 1859 besucht (siehe RT, 4.10.1859, S. 85). Die Papierfabriken erwähnt er in seinem 1860 zuerst in der „Allgemeinen Zeitung“ publizierten Aufsatz „Von den Ufern des Liris“ (1860) (aufgenommen in: Wanderjahre in Italien. Bd. 2. Leipzig: Brockhaus 1864. S. 243).</note></seg>.</p>
+                <p>Unglaublich groß ist die Fülle der Erndten in diesem Jahr; selbst der Weinstock
+                    trägt wieder voll. Zwar zeigt sich die Weinkrankheit, aber man schwefelt die
+                    Trauben hier allerorten. So werden wir wieder einmal ein Glas guten Römischen
+                    Weins zu trinken haben.</p>
+                <p>Als ich <pb n="3r"/><choice><sic>ich</sic><corr type="deleted"/></choice> Rom verließ, war es dort sehr heiß, u<ex>nd</ex> doch ging ich nur ungern aus der Stadt, die gerade im Sommer so still u<ex>nd</ex> schön zu sein pflegt.</p>
+                <p>Marstaller bleibt in Rom, so auch der gute <seg type="comment"><orig><hi rendition="#aq"><persName key="G000913">Alertz</persName></hi>, welcher jetzt die Wohnung im <placeName key="G000771">Palast <hi rendition="#aq">Cafarelli</hi></placeName> bezogen</orig><note xml:id="nkqr_gsk_1mb">Clemens August Alertz wohnte in dem 1854 von Preußen erworbenen Palazzo Caffarelli auf dem kapitolinischen Hügel, dem Sitz verschiedener wissenschaftlicher Einrichtungen Preußens.</note></seg> hat, wo ehemals, wie ich glaube die Sekretäre logirten – gleich rechts auf dem ersten Treppenaufsatz, gegenüber dem großen Saal. <seg type="comment"><orig><persName key="G004720">Herr v<ex>on</ex> Canitz</persName> war eben in die Heimat gegangen. <persName key="G001341">Seine Frau</persName> ist sehr leidend</orig><note xml:id="ntc2_3sk_1mb">Der preußische außerordentliche Gesandte und bevollmächtigte Minister in Neapel. Karl Friedrich Ernst Freiherr von Canitz und Dallwitz (1812–1894), war seit 1860 mit der ans Bett gefesselten Helen Giorgeana, geb. Knight (1820–1893), Tochter des Esq. John Knight auf Woverlew (*1767) und Jane Elizabeth Allanson-Winn, verheiratet – dadurch verschwägert mit Michelangelo Caetani, Duca di Sermoneta (1804–1882; siehe http://www.exmoor-nationalpark.gov.uk/__data/assets/pdf_file/0009/991260/John-Knight-biography-for-web.pdf). Siehe auch den Brief von <ref target="G000253">Gregorovius an Malwida von Meysenbug, 25.6.1867</ref>.</note></seg>. Sie scheint denkend, sehr gut unterrichtet zu sein, u<ex>nd</ex> zeigt sich schlicht u<ex>nd</ex> liebenswürdig.</p>
+                <p>Wann werden doch Sie, mein verehrter Herr, das alte Rom wieder sehen? Es verändert sich darin so viel, u<ex>nd</ex> doch bleibt es immer das alte Rom. Man baut mit Leidenschaft, aus Speculation auf die Invasion, von Italienern u<ex>nd</ex> Fremden, die mit der neuen Wirtschaft, so denkt man wenigstens, dort einziehen werden.</p>
+                <p>– Im Schreiben dieses Briefes stört mich der Gesang von Gefangenen, welche, nach Ihnen bekannter Sitte, hinter den Eisenstäben ihre <hi rendition="#aq">Ritornelle</hi> singen, u<ex>nd</ex> Bettelbeutel an Rohrstäben zum Fenster heraushängen, wie der gefangene <pb n="3v"/><seg type="comment"><orig><persName key="G000963">Belisar</persName> in der Fabel</orig><note xml:id="nxb5_msk_1mb">Der oströmische General und Feldherr Flavius Belisarius (*um 505–565) unter Kaiser Justinian (um 482–565). Der Mitwissenschaft an einer Verschwörung beschuldigt, saß Belisar 564 sieben Monate in Gefangenschaft.</note></seg>. Diese armen Teufel habe ich <seg type="comment"><orig>mir gerade gegenüber</orig><note xml:id="nir1_psk_1mb">In Genanzzano erinnert eine gegenüber von S. Maria del Buon Consiglio angebrachte Gedenktafel für Gregorovius an die Besuche des berühmten Gastes.</note></seg>. Außerdem übt jetzt die ganze Jugend Genazzanos (<hi rendition="#aq"><foreign xml:lang="ita">i paini</foreign></hi>) ein Horn-Concert ein; Sie mögen daher denken, welche Harmonienströme sich durch dies Städtchen ergießen. Den stolzen Bürgern dünkt dieser infernale Spectakel freilich eine Musik himmlischer Sphären.</p>
+                <p>Der <seg type="comment"><orig>Maler <persName key="G001375">Lindemann</persName>, in deßen Hause ich viel verkehre – Sie werden sich seiner sehr liebenswürdigen <persName key="G001374">Frau</persName> gewiß erinnern – nimmt diesen Brief mit</orig><note xml:id="nzzw_psk_1mb">Karl Lindemann-Frommel (1819–1891) und seine Frau Auguste, geb. von Racknitz (1826–1876) reisten mit ihrem Sohn Manfred (1852–1939) am 17. Juli 1861 nach Deutschland, wo sie bis Mitte Dezember des Jahres blieben. Während Mutter und Sohn zumeist bei ihren Verwandten in Heinsheim, etwa 60 Kilometer nördlich von Stuttgart, blieben, unternahm Karl Lindemann-Frommel, zum Verkauf seiner Arbeiten, Reisen nach Karlsruhe, Stuttgart, Baden-Baden und München (Peter K. W. Freude: Karl Lindemann-Frommel. Ein Malerleben in Rom. Monographie und Werkverzeichnis seines graphischen und malerischen Schaffens. Murnau am Staffelsee 1997. S. 39).</note></seg>. Ich wäre froh, wenn er Sie in <hi rendition="#aq">Heiden</hi> persönlich sehen könnte. Er ist ein trefflicher Künstler, u<ex>nd</ex> ein gebildeter Mann.</p>
+                <p>Ich empfehle mich Ihnen, <persName key="G001645">Frau von Thile</persName>, auf das Wärmste, ich danke Ihnen von hier aus, u<ex>nd</ex> in diesen Tagen, wiederholt für das gütige Wolwollen, das Sie mir auch in <hi rendition="#aq">Heyden</hi> schenkten. Möchte es <persName key="G001643">Hänschen</persName>, den ich herzlich grüße, wol ergehen.</p>
+                <p>Nach <seg type="comment"><orig>Ihrem Geburtstage</orig><note xml:id="nn4b_tsk_1mb">Am 19. Dezember.</note></seg>, mein teurer Herr, wird dieser Brief eintreffen. Aber an jenem Tage will ich in dieser römischen Einsamkeit ein Glas edlen Weins erheben, u<ex>nd</ex> auf Ihr u<ex>nd</ex> aller der Ihrigen Wol von Herzen trinken. Der Himmel erhalte Sie! Gedenken Sie meiner in Freundlichkeit!</p>
+                <closer>
+                    <signed rendition="#right">FGregorovius</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000308">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Johann Joseph Ignaz Ritter von Döllinger in München. Rom, 8. Dezember 1869</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository> ehemals Altkatholische Gemeinde München</repository><collection>NL Döllinger</collection><idno/></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 2 ½ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness select="#this">
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf, Karton 84</collection><idno> <idno type="shelfmark">Mappe 6 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 88, Mappe 1 (nach D)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Friedrich Seebass: Ignaz von Döllinger und Ferdinand Gregorovius. Unbekannte Dokumente ihrer Freundschaft. In: Deutsche Rundschau. Jg 80. H. 1. Baden-Baden 1954. S. 153–154</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er entschuldigt sich, dass er auf Döllingers ersten, von Ludwig Graf von Arco-Valley überbrachten Brief nicht geantwortet hat. Er wurde daran durch Döllingers zweiten Brief erinnert, den John Emerich Lord Dalberg-Acton übermittelte. Er kann ihm keine internen Informationen über das Konzil liefern, weil er keine entsprechenden Kontakte hat. Zudem ist er als Historiker auf den Zugang zu den römischen Archiven angewiesen, was jede Indiskretion verbietet. Er ist erfreut, dass Döllinger die Übersendung der zweiten Auflage von den ersten beiden Bänden seiner „Geschichte der Stadt Rom im Mittelalter“ (1869) schätzt. In den Neuauflagen der Folgebände werden Döllingers Forschungen zur carolinischen Zeit berücksichtigt. Die historische Bedeutung von Döllingers Schrift „Der Papst und das Konzil von Janus“ (1869) ist ihm unzweifelhaft.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He apologizes for not responding to Döllinger’s first letter, brought to him by Ludwig Count of Arco-Valley. He was reminded by Döllinger’s second letter, which John Emerich Lord Dalberg-Acton delivered. He cannot give him any internal information about the Council, because he doesn’t have the necessary contacts. Furthermore, as a historian, he relies on access to the Roman archives, rendering any indiscretion impossible. He is glad that Döllinger appreciates him sending the second edition of the first two volumes of his „Geschichte der Stadt Rom im Mittelalter“ (1869). In the new editions of the subsquent volumes he will take Döllinger’s research on the Carolina period into account. The historical signifcance of Döllinger’s work „Der Papst und das Konzil von Janus“ (1869) is not lost on him.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1869-12-08" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001094">Döllinger, Johann Joeseph Ignaz Ritter von (1799–1890)</persName>
+<placeName key="G000734">München</placeName>
+</correspAction>
+<correspContext>
+<ref type="prev">12. Oktober 1869</ref>
+<ref type="prev">1. Dezember 1869</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="writingSession">
+<opener>
+<address>
+<addrLine>Herrn Dompropst v<ex>on</ex> D<ex>öllinger</ex></addrLine>
+</address>
+<dateline rendition="#right">Rom 8. December 1869.</dateline>
+<salute rendition="#c">Hochwürdiger <seg type="comment"><orig>Herr</orig><note xml:id="ngf2_zbz_jlb"><p>Der katholische Theologe und Kirchenhistoriker Ignaz (seit 1868) Ritter von Döllinger (1799–1890) war 1826 von König Ludwig I. von Bayern (1786–1868) an die Universität München berufen worden. Schon in jungen Jahren hatte er seine über lange Zeit grundlegende „Geschichte der christlichen Kirche“ (2 Bde., 1833–1836) und sein „Lehrbuch der Kirchengeschichte“ (1836–1838) vorgelegt. 1848 wurde er in die Frankfurter Nationalversammlung gewählt. Zunächst papsttreuer Katholik war Döllinger schon in den 1860er Jahren für die Einigung der christlichen Konfessionen eingetreten und wurde bis zur Verkündigung des Unfehlbarkeitsdogmas und des Jurisdiktionsprimats beim Ersten Vatikanischen Konzil (1869–1870) zu einem der Hauptgegner von Pius IX. (1792–1878). Mit seiner daraus im Jahr 1871 folgenden Exkummunikation verlor Döllinger auch das Recht, sein Priesteramt auszuüben. Er gilt als geistiger Vater der altkaholischen Kirche, einer Gruppierung, die sich aus den Exkommunizierten und Unfehlbarkeitsgegnern bildete, ohne ihr je beigetreten zu sein (siehe RT, 2.12.1871, S. 312). 1872 wurde Döllinger Rektor der Universität München und Ehrenmitglied der Göttinger Akademie der Wissenschaften. Als Nachfolger von Justus Freiherr von Liebig (1803–1873) war Döllinger bis zu seinem Tod Präsident der Bayerischen Akademie der Wissenschaften.</p>Gregorovius hatte den katholischen Theologen und Kirchenhistoriker Ignaz (seit 1868) Ritter von Döllinger (1799–1890) im August 1863 in München kennengelernt und darüber in seinem Tagebuch notiert: „[…] er ist ein feiner, kalter, trockner Mann, der sich mit Klugheit ausspricht. Er erkannte die vorurteilsfreie Stellung meiner Geschichte der Stadt Rom“ (RT, 7.8.1863, S. 165). Aus der Rückschau verstärkte sich der positive Eindruck; an den Altphilologen Ludwig Friedländer schreibt er im Mai 1864 nach Königsberg, dass er in Döllinger „einen feinen Prälaten von aufgeklärtem Wissen [gefunden hat], welcher ein großer Cardinal sein würde“ (Brief von Gregorovius an Ludwig Friedländer in: Ferdinand Gregorovius: Briefe nach Königsberg. Hrsg. von Dominik Fugger und Nina Schlüter. München: Beck 2013. S. 88). Der schon damals berühmte Kirchenhistoriker Döllinger war 1826 von König Ludwig I. von Bayern (1786–1868) an die Universität München berufen worden. Zunächst papsttreuer Katholik wurde er bis zur Verkündigung des Unfehlbarkeitsdogmas und des Jurisdiktionsprimats beim Ersten Vatikanischen Konzil (1869–1870) zu einem der Hauptgegner von Pius IX. (1792–1878). In dieser Zeit wurde das Verhältnis zu Gregorovius enger, von dem er sich (vergeblich) Infomationen über die innerkirchlichen Strömungen im Vorfeld und während des Konzils erhoffte (siehe auch RT, 1.–19.8.1868, S. 251), die daraus resultierenden Entwicklungen und die Rolle Döllingers aber in seinem Tagebuch genau dokumentiert. Die zwei Briefe Döllingers an Gregorovius (in: Friedrich Seebass: Ignaz von Döllinger und Ferdinand Gregorovius. Unbekannte Dokumente ihrer Freundschaft. In: Deutsche Rundschau. Jg 80. H. 1. Baden-Baden: Deutsche Rundschau 1954. S. 151–153) im Vorfeld sind zusammen mit dem vorliegenden Antwortschreibens von Gregorovius an Döllinger die einzigen substanziellen Zeugnisse ihres Umgangs. Ihren späterhin freundschaftlichen persönlichen Kontakt dokumentieren einige Billetts im Nachlass von Gregorovius, mit denen ihn Döllinger zu Spaziergängen und einlädt. Eben diese dokumentierte Gregorovius auch in seinem Tagebuch (RT, 2.12.1871, S. 312) Engen wissenschaftlichen Austausch pflegten beide auch über die Bayerische Akademie der Wissenschaften, dessen Präsident Döllinger 1873 wurde. Gregorovius war seit 1865 korrespondierenden Mitglied und wurde im Juli 1871 zum auswärtigen Mitglied der Historischen Klasse ernannt – hier hielt er nach seiner Übersiedlung nach München zahlreiche, nur zum Teil abgedruckte Vorträge. </note></seg>,</salute>
+</opener>
+<p>ich wollte grade in diesen Tagen Ihnen für <seg type="comment"><orig>Ihr erstes gütiges Schreiben</orig><note xml:id="nxdk_lcz_jlb">Gregorovius hatte die erste Anfrage Döllingers vom 12.10.1869 (in: Friedrich Seebass: Ignaz von Döllinger und Ferdinand Gregorovius. Unbekannte Dokumente ihrer Freundschaft. In: Deutsche Rundschau. Jg 80. H. 1. Baden-Baden: Deutsche Rundschau 1954. S. 151–152) bewusst unbeantwortet gelassen und darüber im Tagebuch vermerkt: „Döllinger schrieb. Er wünscht, daß ich ihm dann und wann etwas über das Konzil mitteile, um dann solche Berichte verwenden zu können. Ich habe ihm noch nicht geantwortet. Mir flößt das Konzil nicht das geringste Interesse ein. Ich werde erst später sehen, welches Verhältnis ich als Beobachter zu diesem Ereignis haben kann.“ (RT, 24.10.1869, S. 267).</note></seg> danken, <seg type="comment"><orig>welches mir <persName key="G000943">Graf <hi rendition="#aq">Arco</hi></persName> brachte</orig><note xml:id="nt2j_ccz_jlb">Ludwig Graf von Arco-Valley (1845–1891) war als Sekretär der bayerischen Gesandtschaft nach Rom gekommen und 1862–1872 Legationsrat der deutschen Botschaft.</note></seg>, als mir Ihre <seg type="comment"><orig>zweiten Zeilen</orig><note xml:id="nxfx_tcz_jlb">Der Brief von Döllinger an Gregorovius vom 1.12.1869 (in: Friedrich Seebass: Ignaz von Döllinger und Ferdinand Gregorovius. Unbekannte Dokumente ihrer Freundschaft. In: Deutsche Rundschau. Jg 80. H. 1. Baden-Baden: Deutsche Rundschau 1954. S. 151–152).</note></seg> durch die Güte von <persName key="G001065"><seg type="comment"><orig>Lord <hi rendition="#aq">Acton</hi></orig><note xml:id="nwsf_fcz_jlb">Der britische katholisch-liberale Historiker und Publizist John Emerich Lord Dalberg-Acton (1834–1902), der Schwager von Ludwig Graf von Arco-Valley (1845–1891), war der Lieblingsschüler und mittlerweile ein enger Freund von Döllinger; er hatte Gregorovius kurz zuvor besucht und mit ihm über das Konzil und Döllingers Position gesprochen (RT, 4.12.1869, S. 267–268).</note></seg></persName> zukamen; so daß ich recht beschämt bin, so lange gesäumt zu haben. </p>
+<p>Betreffend Ihren Wunsch, Notizen über das sich hier an dem <seg type="comment"><orig>großen Ereigniß der Zeit</orig><note xml:id="na2l_cdz_jlb">Das Erste Vatikanische Konzil wurde am 29. Juni 1868 von Pius IX. (1792–1878) einberufen und führte bereits vor seiner Eröffnung am 8. Dezember 1869 zu innerkirchlichen Auseinandersetzungen, die sich insbesondere an der Frage der päpstlichen Unfehlbarkeit entzündeten. Am 18. Juli 1870 wurde das Dogma der päpstlichen Unfehlbarkeit und das Jurisdiktionsprimat verkündet. Die Bischöfe der Minorität waren zwar aus Protest vor der Abstimmung abgereist, doch erkannten sie das Dogma mehrheitlich im Nachhinein an. Andere hielten an ihrem Widerstand fest und wurden exkommuniziert, wie etwa Döllinger am 17. April 1871. Das zunächst nur bis zum November 1870 beurlaubte Konzil wurde nach der Einnahme Roms durch die Italiener auf unbestimmte Zeit vertagt und nicht wieder aufgenommen.</note></seg> weiter Entwickelnde von mir zu erhalten, will ich Ihnen aufrichtig sagen, <seg type="comment"><orig>daß Sie durch mich sehr wenig Brauchbares davon erfahren können</orig><note xml:id="nimx_1dz_jlb">Nach seinem unbeantwortet gebliebenen Brief vom 12.10.1869 an Gregorovius (in: Friedrich Seebass: Ignaz von Döllinger und Ferdinand Gregorovius. Unbekannte Dokumente ihrer Freundschaft. In: Deutsche Rundschau. Jg 80. H. 1. Baden-Baden: Deutsche Rundschau 1954. S. 151–152) hatte Döllinger am 1.12.1869 erneut an Gregorovius geschrieben, ihm seine im Oktober 1869 anonym publizierten „Erwägungen für die Bischöfe des Concilium’s über die Frage der päpstlichen Unfehlbarkeit“ gegen die sogenannten Infallibilisten gesandt und ihn noch einmal eindringlich um Informationen zum Konzil gebeten: „Sie werden wenigstens als Übersicht, Epitome einer interessanten, jetzt fast weltbewegend gewordenen Controverse Werth für Sie haben. Sie können sich denken, mit welcher Spannung und schweren, peinlichen Sorge wir katholischen Theologen einer Entscheidung entgegenbluten, die wenn sie den dortigen Wünschen und Plänen gemäß ausfällt, fast einem Todesurtheile über die deutsche katholische Theologie gleichkommen würde. Wäre Ihre Zeit nicht so kostbar, so würde ich fast die Bitte wagen, mir hie und da Notizen über Personen, Zustände, Machinationen etc zukommen zu laßen.“ (ebd., S. 152–153)</note></seg>. Ich bin hier vergraben in meine dringenden und drängenden Arbeiten; <seg type="comment"><orig>ich habe von diplomatischen und clericalen Verbindungen, welche hier allein in Besitz von Kenntnissen setzen können, augenblicklich nur wenige und nicht ersten Ranges, oder wenn hie und da solche, so sind sie gerade jetzt von diplomatischem Schweigen versiegelt. Auch abgesehen von diesen Gründen nötigt mir meine wissenschaftliche Stellung zu Rom wie meine persönliche in ihr die Diskretion des Schweigens ab</orig><note xml:id="nghg_gdz_jlb">Im Tagebuch notierte Gregorovius entsprechend: „Döllinger schickte mir seine Mahnung an die deutschen Bischöfe und bat mich nochmals, ihm über den Gang des Konzils Nachrichten zukommen zu lassen. Ich antwortete ihm heute ablehnend. Ich bin durch meine wissenschaftliche wie persönliche Stellung in Rom zum Schweigen genötigt; auch habe ich keine klerikale und diplomatische Verbindungen, die mich über die Geheimnisse der Sessionen aufklären könnten. Ich habe endlich kein Interesse für diese geistliche Komödie und ihre flachen Absichten.“ (9.12.1869, S. 269, siehe auch RT, 24.10.1869, S. 267).</note></seg>: ich habe daher, wenn ich früher Correspondenzen politischer Natur unterhielt, diese vollkommen abgebrochen und verschiedene Aufforderungen zu Auslassungen über die Gegenwart, welche an mich von <placeName key="G000664">Deutschland </placeName>aus ergangen sind, principiell abgelehnt. So bewahre ich hier die mir wünschenswerte vollkommene Freiheit. Zum Glück haben Sie <seg type="comment"><orig>wol gutunterrichtete Freunde, die Sie von dem Wichtigen unterrichten werden</orig><note xml:id="nxw5_jdz_jlb">John Emerich Lord Dalberg-Acton (1834–1902) war vom britischen Premierminister William Gladstone (1809–1898) als britischer Beobachter zum Ersten Vatikanischen Konzil (1869–1870) nach Rom entsandt worden und versorgte auch Döllinger mit Informationen. Siehe auch den Brief von Gregorovius an Gustav Parthey, 20.2.1870.</note></seg>.</p>
+<p><seg type="comment"><orig>Die heutige Eröffnung des Concils in <placeName key="G000768">S<ex>ank</ex>t Peter</placeName> wurde durch das finsterste Regenwetter getrübt, aber der Dom war durch Menschenfluten vollkommen ausgefüllt</orig><note xml:id="nbpb_rdz_jlb">So auch die Schilderung im Tagebuch von Gregorovius, 9.12.1869, S. 269.</note></seg>. Ich komme eben davon ermüdet zurück und habe doch nicht einmal die Mitra auch nur eines Bischofs sehen können. Es gab nirgend Platz; selbst von römischen Fürsten wurden nur 15 Personen auf die kleine Tribüne zugelassen. Noch ist man (um 2 Uhr N<ex>ach</ex> M<ex>ittags</ex>) mit der Feierlichkeit im Dom nicht zu Ende. </p>
+<p>Während die Welt draußen, wie wol begreiflich, durch das Concil als ein hochwichtiges und wol folgenschweres Ereigniß in Erregung gebracht wird, ist diese hier in Rom kaum sichtbar. Denn alles Momentane wird von der Weltluft dieser Stadt gleichsam aufgezehrt.</p>
+<p>Ich bin sehr erfreut, <seg type="comment"><orig>daß Sie meine beiden <bibl corresp="G003477 G003489">ersten Bände in 2. Auflage</bibl> gütig aufgenommen haben</orig><note xml:id="nlwp_sdz_jlb">Gregorovius hatte Döllinger von Cotta die zweite Auflage der ersten zwei Bände seiner „Geschichte der Stadt Rom im Mittelalter“ (1869) zusenden lassen (nach der Beilage zum Brief von Gregorovius Cotta, 16.1868 DLA Marbach, Cotta-Archiv, Cotta-Briefe, 88a und dem Brief von Gregorovius an Albert Freiherr von Reischach, 21.9.1869 in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 284–285).</note></seg>; ich wünschte damit die der <bibl corresp="G003476 G003485">ersten Ausgabe</bibl> ersetzt zu sehen, wenn Sie diese in Ihrer Bibliothek besitzen sollten; die folgenden Bände werden keine so eingehende Durcharbeitung erfahren. <seg type="comment"><orig>Was ich Ihnen selbst an Aufklärung über einzelne Partieen der carolinischen Zeit verdankt habe, würden Sie in den betreffenden Abschnitten sehen</orig><note xml:id="nzj1_vdz_jlb">Gregorovius zitierte in seiner „Geschichte der Stadt Rom im Mittelalter“ immer wieder die Forschungen Döllingers – hier dachte Gregorovius vermutlich an „Das Kaisertum Carls des Großen und seiner Nachfolger“ (München 1864) von Döllinger (siehe „Geschichte der Stadt Rom im Mittelalter“ Bd. 6, 1867, S. 126, FN 1). Der siebte Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1870) wurde von John Emerich Edward Dalberg-Acton besprochen: The Borgias and their Latest Historian. In: North British Review. Bd. 53. London: Edmonston &amp; Douglas (Januar) 1871. S. 351-367.</note></seg>, wenn Sie davon Notiz zu nehmen die Zeit finden.</p>
+<p><seg type="comment"><orig>Der <bibl sameAs="G004317">Janus</bibl>, eine Schrift ganz vollendet und sonnenklar</orig><note xml:id="nqrk_12z_jlb">Unter dem pseudonymen Titel „Der Papst und das Konzil von Janus“ (Leipzig 1869) war von Döllinger im Herbst die überarbeitete Buchfassung seiner zwischen dem 10. und 15. März 1869 in der „Allgemeinen Zeitung“ zuerst gedruckten Angriffe gegen die Infallibilisten („Das Konzilium und die Civiltà“) erschienen. Während seines Münchener Aufenthalts wurde Gregorovius hinterbracht, „daß man in München mich als Verfasser der Artikel bezeichne, welche die ‚Allgemeine Zeitung‘ wider den Papst brachte; das habe [… er] Döllinger gesagt. Wenn die ‚Allgemeine Zeitung‘ Artikel über römische Fragen bringt, so schiebt man sie mir oft genug in die Schuhe.“ (RT, 13.9.1869, S. 263; vgl. auch ebd., 24.9.1869, S. 264 und 24.–29.9.1869, S. 264–265).</note></seg>, ist hier, wie Sie wissen werden, <seg type="comment"><orig><foreign xml:lang="Lat">ad tertias</foreign> indicirt</orig><note xml:id="ngq4_5wq_2mb">Lat. sinngemäß für: zum drtten Teil. Gemeint ist hier die Aufnahme der Schrift in die dritte Klasse der im „Index librorum prohibitorum“ der römisch-katholischen Kirche verzeichneten verbotenen Bücher. Dort wurden Schriften gelistet, die anonym erschienen waren.</note></seg> worden, aber dies wird eben nicht verhindern, daß er noch nach Jahrhunderten ruhmvolles Zeugniß von der Intelligenz, wie vor dem Gewissen der Wahrheit ablegen wird, welches in der gegenwärtigen Krisis der Kirche in den Führern des deutschen Clerus sich offenbart hat. Die Wirkung davon kann nimmer verlorengehen. </p>
+<p>Ich schließe. Ihnen von Herzen wünschend fortdauernd ungebrochene Kraft für die große Aufgabe, welche gerade an Sie heute gerichtet ist. Mit wahrer Verehrung</p>
+<closer>
+<salute rendition="#c">Ihr treu ergebener</salute>
+<signed rendition="#right">FG</signed>
+</closer>
+</div>
+        </body>
+    </text>
+</TEI>

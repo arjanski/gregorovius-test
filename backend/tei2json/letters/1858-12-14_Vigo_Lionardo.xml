@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000400">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Lionardo Vigo in Acireale. Rom, 14. Dezember 1858</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository/>
+                        <collection/>
+                        <idno/>
+                    </msIdentifier>
+                    <physDesc>
+                        <p/>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Vita intima. Lettere inedite di Lionardo Vigo e di alcuni illustri suoi contemporanei. Hrsg. von Giambattista Grassi Bertazzi. Catania: Giannotta 1896. S. 204–205 (Reprint Catania: [s.n.] 1977)</bibl></witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er stellt sich als Freund von Paolo Emiliani-Giudici und Übersetzer der „Lieder des Giovanni Meli von Palermo“ (1856) vor. Vigos „Canti popolari siciliani“ (1857) hat er von Francesco Paolo Perez in Florenz erhalten. Er empfiehlt Heinrich Brockhaus, der in Kürze zu einem mehrmonatigen Aufenthalt auf Sizilien eintreffen wird und bittet um dessen Einführung in die Gelehrtenkreise von Catania und Palermo.</p>
+                <p xml:lang="en">He introduces himself as a friend of Paolo Emiliani-Giudici and translator of the „Lieder des Giovanni Meli von Palermo“ (1856). He received Vigo’s „Canti popolari siciliani“ (1857) from Francesco Paolo Perez in Florence. He recommends Heinrich Brockhaus, who will soon arrive in Sicily and stay there for several months and asks for his introduction to the scholarly circles of Catania and Palermo.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1858-12-14" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001682">Vigo, Lionardo (1799–1879)</persName>
+<placeName key="G000609">Acireale</placeName>
+</correspAction>
+<correspContext>
+<ref type="next">31. Dezember 1858 (h: BSB München, NL Gregorovius, Gregoroviusiana 21)</ref>
+</correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="204"/>
+            <div type="writingSession">
+                <opener>
+<salute>lll<ex>ustrissi</ex>mo signor <seg type="comment"><orig>Cavaliere</orig><note xml:id="npgq_2fm_5lb">Der sizilianische Marchese Lionardo Vigo Calanna (1799–1879) war Dichter, Philologe und Politiker. Von 1848–1849 war er Abgeordneter im sizilianischen Parlament, ab 1858 Mitglied der Accademia di Scienze, Lettere e Belle Arti degli Zelanti e dei Dafnici di Acireale. Als Verfechter des sizilianischen Dialekts zählen zu seinen wichtigsten Veröffentlichungen die „Canti popolari siciliani“ (Catania 1857). Gregorovius schätzte Vigos Poesie sehr und nahm nach deren Lektüre brieflich den Kontakt zu ihm auf. Erhalten sind zwei Briefe des Deutschen an den Sizilianer sowie ein Gegenbrief aus den Jahren 1858/1859. Nicht bekannt ist, ob sich die beiden auch persönlich begegnet sind.</note></seg>,</salute>
+</opener>
+<p>Benchè ignoto a lei, come credo, mi prendo la libertà di indirizzarle queste rispettose righe, quale amico di <persName key="G001113"><seg type="comment"><orig>Emiliani Giudici</orig><note xml:id="nnsh_kfm_5lb">Der sizilianische Literarhistoriker Paolo Emiliani-Giudici (1812–1872) verfasste als erster eine von Gregorovius sehr geschätzte Literaturgeschichte Italiens: Storia della letteratura italiana. 2 Bde. Florenz: Le Monnier 1855. Siehe hierzu den Brief von Gregorovius an Theodor Heyse vom <ref target="G000027">20.12.1855</ref>.</note></seg></persName>, <seg type="comment"><orig>qual <bibl sameAs="G004072">traduttore del Meli</bibl> in lingua tedesca</orig><note xml:id="nbcv_lfm_5lb">Mit der Dichtung des Sizilianers Giovanni Meli (1740–1815) war Gregorovius auf seiner Sizilienreise im Herbst 1853 über die Ausgabe „Poesie Siciliane dell’Abate Giovanni Meli“ (5 Bde.; Palermo 1787) bekannt geworden. Seine Übersetzungen der „Lieder des Giovanni Meli von Palermo“ erschien 1856 (Leipzig). Ein Vorabdruck einzelner Lieder war im „Morgenblatt für gebildete Leser“ erschienen (Nr. 41, Stuttgart, München: Cotta 8.10.1854, S. 978–979). </note></seg>, e finalmente per causa della <seg type="comment"><orig>meritevole sua <bibl sameAs="G004264">collezione dei Canti popolari siciliani</bibl></orig><note xml:id="nyyk_nfm_5lb">Lionardo Vigo: Canti popolari siciliani. Catania 1857 (erweiterte Ausgabe: Raccolta amplissima. Catania 1874). Gregorovius rezensierte Vigos Buch im „Morgenblatt für gebildete Leser“ und fügte einige Übersetzungsproben ein (4.12.1859, S. 1153–1161). Die Rezension, eine Studie zur Volksliteratur Italiens und den italienischen Dialekten, nahm er in den späteren dritten Band der „Wanderjahre in Italien“ auf (Siciliana. Wanderungen in Neapel und Sicilien. Leipzig 1861, S. 277–331).</note></seg>, la quale mi fu donata dall’<seg type="comment"><orig> amico <persName key="G001481">Franc<ex>esco</ex> Perez</persName> in <placeName key="G000671">Firenze</placeName></orig><note xml:id="nh2q_pfm_5lb">Der Schriftsteller und Politiker Francesco Paolo Perez (1812–1892) gehörte zu einem Kreis von Exilsizilianern in Florenz, wo er seit 1849 lebte. Gregorovius lernte ihn während seiner Florentiner Aufenthalte in diesem Umfeld kennen.</note></seg>. Quando lessi la di lei introduzione a cotesti canti, e le poesie di sì ricca vena, che manco quelle della<placeName key="G000823"> Toscana</placeName> con <pb n="205"/>loro paragonar si possono, mi sentii rapito un’altra volta alla sua bella <placeName key="G000690">patria</placeName>, da cui, come ricordo durevole, portai meco i canti del Meli, e stava già in procinto di ringraziarla con una lettera, qual uno dei suoi leggitori più interessanti fra gli estranei.</p>
+<p>Or mi si presenta un’occasione: latore di questa mia lettera è <seg type="comment"><orig>il signor <persName key="G000996">Enrico Brockhaus</persName>, capo della più vasta e celebre stamperia che vanti la <placeName key="G000664">Germania</placeName></orig><note xml:id="nhhr_sfm_5lb">Der Seniorverleger Heinrich Brockhaus (1804–1874), der die kleinen historiographischen und literarischen Arbeiten von Gregorovius verlegte. </note></seg>, la quale, in<placeName key="G000712"> Lipsia</placeName>, è, come ella sa, il vero centro della nostra letteratura. Dai torchi della medesima sua <orgName key="G000480">stamperia</orgName> è uscita pur la traduzione del Meli; egli vorrebbe salutarla, signor Cavaliere, ed io spero di farle cosa gradita, indirizzandole una dei più distinti uomini della germanica letteratura. Profondissimo conoscitore delle lingue e scienze orientali <seg type="comment"><orig>il signor Brockhaus ritorna ora dall’ <placeName key="G000610">Egitto</placeName> e da <placeName key="G000619">Atene</placeName>, e si fermerà più mesi nella <placeName key="G000575">Sicilia</placeName></orig><note xml:id="nrt2_yfm_5lb">Brockhaus befand sich von Oktober 1857 bis Mai 1859 auf einer langen Reise nach Ägypten, Palästina, Syrien, Griechenland, Malta und Italien. In diese Zeit fällt auch sein Aufenthalt in Acireale auf Sizilien.</note></seg>. La prego di volergli dare qualche consiglio intorno alle cose della sua patria e indirizzarlo ai professori e dotti di <placeName key="G000657">Catania</placeName> e di <placeName key="G000855">Palermo</placeName>.</p>
+<p>Quando nell’estate scorsa mi trattenni a Firenze, onde far ricerche negli archivi di quella città, ebbi il piacere di trovarmi in compagnia dei signori Perez e Emiliani Giudici, i quali le professano distintissimo rispetto; là mi fu destato nuovamente il desiderio di tornarmi un dì alla Sicilia, e se mai io potrò adempiere questo voto, io non mancherò di trovarla in Acireale e di esprimerle personalmente i sentimenti di riverenza, cui mi risveglia l’opera sua sulla poesia dei Siciliani. </p>
+                <closer>
+<salute xml:id="s1" next="#s2">Aggradisca, signor Cavaliere, l’assicurazione della profondissima stima, con cui mi onoro dichiararmi</salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">Il di lei umilissimo servitore </salute>
+<signed rendition="#right"><hi rendition="#aq">Ferdinando Gregorovius <lb/>di <placeName key="G000699">Konigsberg</placeName> <placeName key="G000646">Prussiano</placeName></hi>.</signed>
+<dateline>Roma a dì 14 dicembre 1858. </dateline>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

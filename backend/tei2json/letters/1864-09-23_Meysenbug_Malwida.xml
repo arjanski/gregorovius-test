@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000212">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Malwida von Meysenbug in Bournemouth. Neapel, 23. September 1864</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>116/107 (2)</idno></msIdentifier>
+</msDesc>
+                <listWit>
+                    <witness>1 Dbl., 12°, 2 ½ S. – 2v, Blatt um 180° gedreht, Adr.: Frlein / <hi rendition="#aq">Mavida de Meysenbug</hi>.<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 5 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc></witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 86, Mappe 2 (nach D1)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Berta Schleicher: Ferdinand Gregorovius und Malwida von Meysenbug. Unveröffentlichte Briefe. In: Der Türmer. Monatsschrift für Gemüt und Geist. Jg. 25. H. 4. Stuttgart 1923. S. 237 (irrtümlich datiert 23.9.1859)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Wegen fortgesetzter Schwäche konnte er nicht schreiben. Auguste Lindemann-Frommel hat ihr über die gemeinsame Zeit in Neapel und Sorrent geschrieben. In Kürze kehren sie nach Rom zurück. Der Tod einer Dame schmerzt ihn. Friedrich Althaus soll ihm schreiben. Die jüngst in den „Briefen aus Rom“ (1864) von dem verstorbenen Geistlichen Alois Flir veröffentlichten persönlichen Angriffe gegen ihn sind beipielhaft für die katholische Kritik. Sie soll in London schauen, ob sich eine englische Übersetzung seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) auf den Weg bringen lässt.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">Because of his continued weakness he was not able not write. Auguste Lindemann-Frommel wrote to her about their time together in Naples and Sorrento. They’ll be returning to Rome shortly. A lady’s death is causing him pain. Friedrich Althaus should write to him. The personal attacks against him recently published in the „Briefen aus Rom“ (1864) by the late clergyman Alois Flir are an example of Catholic criticism. She is to see if an English translation of his „Geschichte der Stadt Rom im Mittelalter“ (1859-1872) can be arranged in London. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000737">Neapel</placeName><date when="1864-09-23" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001418">Meysenbug, Malwida von (1816–1903)</persName>
+<placeName key="G067502">Bournemouth</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<dateline rendition="#right">Neapel, 23. <hi rendition="#aq">S<ex>e</ex>pt<ex>embe</ex>r</hi></dateline>
+</opener>
+<p>Meine <seg type="comment"><orig>beständige Elendigkeit ließ mich nicht zum Schreiben kommen. <persName key="G001374">Frau L<ex>indemann</ex></persName> hat Ihnen geschrieben u<ex>nd</ex> erzählt, wo u<ex>nd</ex> was wir waren</orig><note xml:id="ngcm_bb3_2mb">Mit Karl und Auguste Lindemann-Frommel war Gregorovius am 7. August 1864 nach Neapel aufgebrochen; während der Archivarbeit für den fünften Band seiner „Geschichte der Stadt Rom im Mittelalter“ (1865) war er in Neapel erkrankt und mit den Lindemann-Frommels zur Erholung vom 22. August bis 16. September nach Sorrent gefahren (siehe RT, 15.8.-24.9.1864, S. 182–185).</note></seg>; ich werde Ihnen davon <seg type="comment"><orig>in <placeName key="G000763">Rom </placeName>erzählen. Wir werden Sie mit Freude empfangen</orig><note xml:id="nlpg_fb3_2mb">Malwida von Meysenbug war mit ihren Pflegetöchtern Olga (1850–1953) und Natalie Herzen (1844–1936) war erst Anfang Juni 1864 aus Rom abgereist und über Paris und London nach Bournemouth in Hampshire an die südenglische Küste gefahren.</note></seg>, wenn Sie kommen. Bringen Sie gute englische Bücher mit. <placeName key="G000690">Italien</placeName> ist in eine neue Phase getreten, welche mich sehr aufregt. Eilen Sie hieher, um Merkwürdiges zu erleben. Wir reisen in wenig Tagen nach Rom ab. </p>
+<p>Der Tod der guten u<ex>nd</ex> gerechten <seg type="comment"><orig><unclear reason="illegible" cert="low">Ceartes</unclear></orig><note xml:id="ne35_gb3_2mb">Unsichere Lesung – nicht ermittelt.</note></seg> war mir schmerzlich; <pb n="1v"/>oft müßen Sympathien, wo sie am reinsten sind, ungehört oder unbeachtet vertönen – u<ex>nd</ex> so war es hier. Ich habe so nichts ihr sein können, u<ex>nd</ex> in nichts ihre Lebenswege zu mildern vermocht.</p>
+<p>Grüßen Sie <seg type="comment"><orig><persName key="G000920">Althaus</persName> u<ex>nd</ex> seine Familie</orig><note xml:id="nrvq_hb3_2mb">Der gemeinsame Freund Friedrich Althaus (1829–1897) und seine Frau Charlotte, geb. Voß, zu denen Malwida von Meysenbug während ihrer Zeit in London von Mai 1852 bis Ende 1859 engen Kontakt hatte – offenbar wollte sie über London nach Rom zurückkehren.</note></seg>. Ich erwarte Nachrichten von ihm.</p>
+<p>Meine <seg type="comment"><orig>Feinde unter den Pfaffen u<ex>nd</ex> Convertiten, auch unter Fachmenschen, fahren fort, mich mit <bibl sameAs="G004585">Schmähungen</bibl> u<ex>nd</ex> Verläumdungen anzugreifen</orig><note xml:id="ncdd_kb3_2mb">In den jüngst von Ludwig Rapp (1828–1910) herausgegebenen „Briefen aus Rom“ (Innsbruck 1864) von dem österreichischen katholischen Geistlichen und Publizisten Alois Flir (1805–1859), waren anlässlich eines Aufsatzes von Gregorovius „Aus der Campagna von Rom. Subiaco, das älteste Benedictinerkloster des Abendlandes, seine Geschichte und seine Altertümer“ (1858) Angriffe gegen seine Person zu lesen (siehe den Brief von Gregorovius an Kurt von Schlözer vom <ref target="G000210">8.9.1864</ref>).</note></seg>, u<ex>nd</ex> ich schweige voll Verachtung. </p>
+<p><pb n="2r"/>Sehen Sie doch, ob sich nicht eine <seg type="comment"><orig>englische Übersetzung der <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485">Geschichte von Rom</bibl></orig><note xml:id="nnbx_nb3_2mb">Eine englische Übersetzung ist erst nach dem Tod von Gregorovius erschienen: History of the City of Rome in the Middle Ages. Translated from the Fourth German edition by Annie Hamilton. 8 Bde. in 13. London: Bell &amp; Sons 1894–1902.</note></seg> realisiren läßt, u<ex>nd</ex> thun Sie etwas für meine Affären.</p>
+                <closer>
+                    <salute rendition="#right">Sie herzlich, u<ex>nd</ex> alle grüßend</salute>
+                    <signed rendition="#right">FGreg</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

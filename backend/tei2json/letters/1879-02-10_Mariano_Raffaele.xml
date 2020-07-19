@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="ed_mnt_1pv_llb">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Raffaele Mariano in Rom. Modena, 10. Februar 1879</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt><publisher> <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName> <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName> <orgName xml:lang="en">German Historical Institute in Rome</orgName> <address><addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine></address> </publisher><pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+</publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>Florenz</repository><collection>Privatarchiv Anrep</collection></msIdentifier>
+<physDesc>
+<p>1 PK, 1 S. – 1v, Adr.: Signor Raffaele Mariano / Via Gregoriana 13. / Roma.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er berichtet vom bisherigen und zukünftigen Reiseverlauf nach Rom mit Stationen in Modena und Florenz, wo er Adelheid Grunelius besuchen wird. Der Verleger Nicola Zanichelli hat ihm Eile bei der Veröffentlichung von Marianos Schrift „Cristianesimo, cattolicesimo e civiltà“ (1879) zugesagt. Die Frage nach einer römischen Unterkunft ist noch nicht geklärt.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821-1891)</persName>
+<placeName key="G000729">Modena</placeName><date when="1879-02-10" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001401">Mariano, Raffaele (1840-1912)</persName>
+<placeName key="G000763">Rom</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+<opener>
+<dateline>Modena, 10. <hi rendition="#aq">Febr</hi><ex>uar </ex></dateline>
+</opener>
+<p>Lieber Freund, <seg type="comment"><orig>seit dem 6. verließ ich <placeName key="G000734">München</placeName>, kam am 8 Abends hier an, u<ex>nd</ex> bleibe noch bis zum 13</orig><note xml:id="nntj_53j_1mb">Auf seiner Fahrt nach Rom hatte Gregorovius zunächst einen eintägigen Halt in Mantua für Archivarbeiten eingelegt. In Modena fand er weiteres Material für seine Arbeit über den Dreißigjährigen Krieg (Urban VIII. im Widerspruch zu Spanien und dem Kaiser. Eine Episode des dreißigjährigen Kriegs. Stuttgart: Cotta 1879; vgl. RT, Romfahrt, 1879, S. 411).</note></seg>. Am 14. Nachts werde ich <seg type="comment"><orig>in <placeName key="G000671">Florenz</placeName> sein</orig><note xml:id="nqys_v3j_1mb">Über Bologna, wo er die Freunde Gozzadini besuchte, fuhr er nach Florenz: „Ich benützte den folgenden Tag für das Archiv und besuchte Frau Grunelius, welche den Winter in jener Stadt zubrachte.“ (RT, Romfahrt, 1879, S. 411). Zu seinem Vorhaben, die Freundin in Florenz aufzusuchen, siehe den Brief von Gregorovius an Raffaele Mariano vom 16.1.1879.</note></seg>, u<ex>nd</ex> dort den 15 u<ex>nd</ex> vielleicht auch 16 bleiben. Schreiben Sie mir 1 Brief an Frau <persName key="G001215">Grunelius</persName> adressirt. Wenn die Zimmer bei <hi rendition="#aq"><persName key="G001016">Campofregoso</persName></hi> frei sind, nehmen Sie dieselben für mich v<ex>om</ex> 15. ab auf 2 Monate, oder bis Ende April. <seg type="comment"><orig>Sind nirgend Zimmer</orig><note xml:id="ni4w_x3j_1mb">Die Unterkunftsfrage hatte Gregorovius bereits in den vorangehenden Briefen mehrfach thematisiert. Mariano sollte sich um die Anmietung einer passenden, nicht zu teuren Wohnung kümmern, der Freund machte ihm mehrere Vorschläge und betonte seine Ansprüche; siehe die Briefe von Gregorovius an Raffaele Mariano vom 16. und 31.1.1879. Wegen des Zimmers bei Conte Luigi Campo Fregoso (1844–1908), Eigentümer der Zimmer in der Via Ripetta 108, hatte Gregorovius auch im Januar 1877 angefragt; siehe den Brief von Gregorovius an Raffaele Mariano vom 26.1.1877. Als Gregorovius schließlich am 16. Februar in Rom von Mariano empfangen wurde, hatte dieser ein Quartier für ihn in der Via Babuino 78, 3. Stock, bei einer gewissen Frau Alessio organisiert (vgl. RT, Romfahrt, 1879, S. 411).</note></seg>, so steige ich bei <orgName key="ed_qxd_z3x_qlb"><seg type="comment"><orig>Molaro</orig><note xml:id="ng5r_w3j_1mb">Geführt von Ercole Molaro.</note></seg></orgName> ab. Ich war hier in der <orgName key="G000537">Tipografia der Zanicheli</orgName>, <seg type="comment"><orig>der <persName key="G001723">Direktor</persName></orig><note xml:id="nh5w_y3j_1mb">Der Verleger Nicola Zanichelli (1819–1884) hatte den gleichnamigen Verlag in seiner Heimatstadt Modena gegründet, wo Gregorovius ihn auch traf. Allerdings besaß Zanichelli seit 1866 auch eine Buchhandlung in Bologna, weshalb er die Bücher mit seinem Verlag in der Universitätsstadt verlegte. </note></seg> sagt, nach 8 Tagen würde er <seg type="comment"><orig>die Sache schneller betreiben</orig><note xml:id="nbbc_1jj_1mb">Mariano hatte bei Zanichelli seine Schrift „Cristianesimo, cattolicesimo e civiltà“ (1879) zum Druck eingreicht. Gregorovius zeigte sich erfreut darüber und kündigte bezüglich jüngster Entwicklungen den Verleger in dessen Heimatstadt Modena aufzusuchen; siehe den Brief von Gregorovius an Raffaele Mariano vom 31.1.1879.</note></seg>. Bitte sagen Sie nur <persName key="G001375">Lindemann</persName> von meiner Ankunft, sonst niemand. Viele herzliche Grüße. FGr.</p>
+</div>
+        </body>
+    </text>
+</TEI>

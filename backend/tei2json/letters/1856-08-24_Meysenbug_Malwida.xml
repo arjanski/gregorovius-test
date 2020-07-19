@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000074">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Malwida von Meysenbug in London. Genazzano, 24. August 1856</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Nordrhein-Westfälisches Staatsarchiv Detmold </repository>
+                        <collection> D 72 NL Malwida von Meysenbug</collection>
+                        <idno>Nr. 96</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 8°, 3 ¾  S.</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 86, Mappe 2 (nach D1)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Berta Schleicher: Der große deutsche Ehrenbürger Roms. Zu Ferdinand Gregorovius’ 50. Todestag am 1. Mai. In: Die Propyläen. Beilage zur Münchener Zeitung. Jg. 38. 29.4.1941. S. 117–118 (gekürzt)</bibl></witness>
+                    <witness> <bibl type="print">Malwida von Meysenbug: „Die Malerei war immer meine liebste Kunst“. Hrsg. Vera Leuschner. Bielefeld [u.a.]: 2002. S. 215–216</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Die Kreise der Londoner Exilanten sind ihm aus den Briefen seines Freundes Friedrich Althaus bekannt. In Rom eine deutsche Schule zu gründen, ist unrealistisch, weil nur wenige dort lebende Deutsche Kinder haben und die Italiener keine Sprachen lernen wollen. Auch wird sie in Italien keine Liebhaber und Förderer für die Übersetzungen russischer Literatur finden. In London hat sie ein familiäres Umfeld, so das er ihr abrät nach Rom überzusiedeln, wo sie immer fremd bleiben wird. Auch er will zurück nach Deutschland, wenn er seine Chronik Roms zu einem Abschluss gebracht haben wird. Er erwartet Briefe von Friedrich Althaus, dessen Frau Anna kürzlich verstorben ist.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">The circles of the London exiles are known to him from the letters of his friend Friedrich Althaus. Founding a German school in Rome is unrealistic, because only very few of the Germans who live there have children and the Italians do not want to learn any languages. Nor will she find any lovers and supporters in Italy for the translations of Russian literature. She has a family environment in London, so he advises her not to move to Rome, where she will always remain a stranger. He too wants to return to Germany when he has completed his chronicle of Rome. He is expecting letters from Friedrich Althaus, whose wife Anna has recently passed away. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000678">Genazzano</placeName>
+                    <date when="1856-08-24" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName key="G001418">Meysenbug, Malwida von (1816–1903)</persName>
+                    <placeName key="G000716">London</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right"><hi rendition="#aq">Genazzano in der <seg type="comment"><orig>Comarca von Rom</orig><note xml:id="nrlm_n5d_rlb">Die Comarca von Rom war eine 1816–1870 bestehende administrative Unterteilung des Kirchenstaates.</note></seg></hi> <lb/>d<ex>en</ex> 24. <hi rendition="#aq">August</hi> 1856.</dateline>
+                    <salute rendition="#c">Geehrtes <seg type="comment"><orig>Fräulein</orig><note xml:id="ng4p_p5d_rlb">Die in Kassel als neuntes von zehn Kindern des hessischen Hofbeamten und späteren Staatsminister des hessischen Kurfürsten Wilhelms II. (1777–1847) Carl Rivalier (1779–1847, ab 1825 von Rivalier-Meysenbug, ab 1834 Freiherr) und seiner Frau Ernestine, geb. Hansel, geborene Malwida von Meysenbug (1816–1903). Die Schriftstellerin und Übersetzerin engagierte sich lebenslang für die Rechte der Frauen und trat als Förderin von Schriftstellern und Künstlern auf. Sie war mit vielen bedeutenden Persönlichkeiten ihrer Zeit in engem Kontakt und führte einen ausgedehnten Briefwechsel mit ihnen. Im Zuge der politischen Unruhen in Kurhessen war ihre Mutter 1832 mit ihr und ihrer jüngeren Schwester nach Detmold übergesiedelt. Hier begann sie 1843 ein Verhältnis mit dem späteren Theologen, Schriftsteller und Pfarrerssohn Theodor Althaus (1822–1852), dem Bruder von Friedrich Althaus (1829–1897), das bis 1847 andauerte. Schon in jungen Jahren interessierte sie sich für die Philosophie Hegels und engagierte sich in der Märzrevolution von 1848. 1850 war sie in Hamburg Mitglied der „Hochschule für das weibliche Geschlecht“. Nach polizeilicher Verfolgung wegen ihrer Kontakte zu führenden Demokraten musste sie im Mai 1852 nach London emigrieren, wo sie bis Ende 1859 lebte. In London war sie die Erzieherin der Töchter des russischen Philosophen, Schriftstellers und Publizisten Alexander Herzen (1812–1870), Olga (1850–1953) und Natalie (1844–1936); auch knüpfte sie dort enge Kontakte mit den führenden Emigranten Europas. Den Winter 1859–1860 und den Winter 1860–1861 verbrachte sie in Paris, wo sie weitere, für ihr Leben wegweisende Bekannschaften machte: Sie wurde die engste Freundin Richard Wagners (1813–1883); auch mit Charles Baudelaire (1821–1867), Hector Berlioz (1803–1869) und Arthur Schopenhauer (1788–1860) pflegte sie Umgang. Bald darauf hielt sie sich mit ihren Pflegetöchtern an verschiedenen Orten auf – in Rom, auf Capri, in Bern, Florenz, Venedig und München und, anlässlich des Todes von Alexander Herzen, in Paris. Bevor sie 1874 nach Italien übersiedelte, verbrachte sie den Sommer 1873 im Hause Richard und Cosima Wagner in Bayreuth, wo sie Friedrich Nietzsche (1844–1900) kennenlernte, dessen Gönnerin und Freundin sie wurde. Ihre seit 1869 anonym erschienen „Memoiren einer Idealistin“ (bis 1876, 3 Bde.) erfuhren zahlreiche Neuauflagen. Inhalt und Ton der Briefe sowie die zum Teil nur fragmentarisch überlieferten Schreiben von Gregorovius an Meysenbug belegen, dass die erhaltene Korrespondenz unvollständig überliefert ist – die Gegenbriefe von Meysenbug an Gregorovius sind, wie die meisten Briefe an Gregorovius, vermutlich von ihm selbst vor seinem Tod vernichtet worden. Der vorliegende Brief antwortet offenbar auf den ersten Brief von Malwida von Meysenbug, die nach Rom überzusiedeln plante. Persönlich lernte Gregorovius sie erst im April 1863 kennen, als sie mit ihren Pflegetöchtern (siehe RT, 5.4.1863, S. 159) nach Rom kam, mit dem Plan, dort eine deutsche Schule zu gründen. Bis zu ihrer Abreise im Sommer 1864 hatte sie einen sehr engen, freundschaftlichen Umgang, der auch Auguste und Karl Lindemann-Frommel einschloss (siehe den Brief von Gregorovius an Malwida von Meysenbug vom <ref target="G000188">13.9.1863</ref> und RT, 5.6.1864, S. 178). Im Winter 1864 kam Malwida von Meysenbug erneut nach Rom und blieb bis zum Mai 1865 (siehe RT, 7.5.1865, S. 194). <ref target="G000329">Der letzte erhaltene Brief</ref> von Gregorovius (zusammen mit Auguste-Lindemann-Frommel) an Malwida von Meysenbug geht nach Paris, wohin sie nach dem Tod von Alexander Herzen (*1812) am 21. Januar 1870 gereist war. </note></seg>!</salute>
+                </opener>
+                <p>Ihr Brief hat mich <seg type="comment"><orig>in einem Städtchen des Gebirgs von <placeName key="G000842">Palestrina</placeName></orig><note xml:id="njsd_myd_rlb">In Genazzano hielt sich Gregorovius sich vom 25. Juni bis zum 24. September 1856 auf (siehe RT, 16.8.-2.10.1856, S. 63–64).</note></seg> aufgefunden, wo ich den Sommer zubringe, der ungewöhnlichen Hitze <placeName key="G000763">Roms </placeName>zu entgehn. Ich verdanke ihm gern die Bekanntschaft einer liebenswürdigen Landsmännin u<ex>nd</ex> <seg type="comment"><orig>Freundin des Hauses von <persName key="G000920">Friedrich</persName></orig><note xml:id="nhhz_syd_rlb">Malwida von Meysenbug lebte in London, wohin Gregorovius’ Freund Friedrich Althaus 1853 übergesiedelt war.</note></seg>. Ihre Kreise sind mir aus Briefen des gemeinschaftlichen Freundes bekannt, u<ex>nd</ex> deren Namen durch die Vergangenheit auf eine schmerzliche Weise wert geworden.</p>
+                <p>Sie selbst wünschen das <placeName key="G000599"><seg type="comment"><orig>Land der Flüchtlinge</orig><note xml:id="nrw4_5yd_rlb">Nach der Revolution von 1848 waren zahlreiche Deutsche nach England exiliert. Siehe Friedrich Althaus: Beitrage zur Geschichte der deutschen Colonie in England. I. Die Orientalisten. II. Die Lehrer. III. Die Flüchtlinge. In. Unsere Zeit. N.F. 9/1 (1873). Bd. 1: S. 433–445, 534–548 (https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11039979_00445.html und https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11039979_00546.html. Bd. 2: S. 225–245 (https://reader.digitale-sammlungen.de/de/fs1/object/display/bsb11039980_00285.html).</note></seg></placeName> zu verlaßen, um es mit dem <placeName key="G000690"><seg type="comment"><orig>Land der Pilger</orig><note xml:id="ncmw_vzd_rlb">Italien.</note></seg></placeName> zu vertauschen; die Verwandschaft beider wird nicht allzuentfernt sein. Indem ich Ihren Brief bedacht habe, war der lebhafte Wunsch in mir der, Sie vor Enttäuschung zu bewahren. Denn was Sie von Ihren Verhältnißen schreiben macht es mir zur Pflicht, das Mögliche sorgsam zu prüfen. </p>
+                <p>Rom ist eine Stadt, wo die Dinge nur für den Einheimischen fest sind, für den Fremden sind sie strömend u<ex>nd</ex> an den Zufall gewiesen. Nicht teuer, im Verhältniß zu englischem Leben, ist <pb n="1v"/>Rom unter den italienischen Städten die teuerste. <seg type="comment"><orig>Eine Schule für Kinder deutscher Eltern hier zu begründen</orig><note xml:id="nd35_wzd_rlb">Dieser Plan kam nicht zustande.</note></seg>, wird schwer oder unbelohnend sein, weil nur wenige deutsche Künstler Familien haben, u<ex>nd</ex> unter den wenigen die wenigsten eine solche, wie sie Ihrer Thätigkeit paßte. Die Römer selbst lernen, aus Trägheit u<ex>nd</ex> aus Stolz, keine Sprachen, u<ex>nd</ex> kaum gibt es einen Ort in der Welt, wo eine gleiche Abgeschiedenheit von allem Fremden herrschte, als hier. </p>
+                <p><seg type="comment"><orig>In Bezug auf die <placeName key="G000592">rußische</placeName> Literatur, von welcher Sie, wenn ich recht verstehe, als von einer Quelle des Erwerbs Gutes hoffen</orig><note xml:id="no21_wj2_rlb">Malwida von Meysenbug wohnte seit Ende 1853 im Haushalt von Alexander Herzen, der sie mit der russischen Literatur bekannt gemacht hatte. Begeistert von der gemeinsamen Lektüre hatte sie Russischunterricht genommen und bald u. a. auch Herzens „Aus den Memoiren eines Russen“ übersetzt (4 Folgen. Hamburg: Hoffmann un d Campe 1855–1859).</note></seg>, weiß ich nur dies zu sagen: hier in Rom werden Sie keine Freunde des Rußischen finden, u<ex>nd</ex> was Sie in England oder im Vaterlande unter Umständen gut verwehrten könnten, wird sich Ihnen von hier aus bedeutend schmälern. Die Verbindung mit dem Buchhandel u<ex>nd</ex> alle derartigen Geschäfte in oder von Rom aus, sind von vornherein mißlich.</p>
+                <p>Dies ist, geehrtes Fräulein, was ich Ihnen für die erste Überlegung mitteilen konnte. Ihr <pb n="2r"/>Entschluß sich allein in die Fremde zu wagen, u<ex>nd</ex> in einer unbekannten Welt der Ideale sich ein Dauerndes erst zu gründen, läßt mich nicht ohne Bewegung, weil ich seit Jahren ein Wandernder bin, u<ex>nd</ex> alle die schmerzlichen Erfahrungen durchgemacht habe, welche solche Menschen vollauf zu bestehen haben. Es macht Trauer, eine Frau am Wanderstabe zu sehn, u<ex>nd</ex> ehe sie sich dazu entschlöße, meine ich, sollte sie reiflich all dasjenige erwägen, was an möglichem Glück noch die Heimat zu bieten hat. Die Fremde aber ist immer fremd, u<ex>nd</ex> sie wird es durch unausbleibliche Einsamkeit noch mehr. Wenn sich das Gemüt an der Erscheinung alles deßen gesättigt hat, was es von ideellen Gestalten vorher nur mit der Phantasie geahnt hatte, dann kommen traurige Stunden; sie übersteht nur der in diesem schwermutsvollen Rom, welcher eine Kunst übt, die an dem Local selber haftet.</p>
+                <p>Wenn ich meine <bibl corresp="G003434 G003441 G003448 G003455 G003462 G003469 G003476 G003485"><seg type="comment"><orig>Chronik von Rom</orig><note xml:id="nwns_yj2_rlb">Sein späteres 8-bändiges Hauptwerk, die „Geschichte der Stadt Rom im Mittelalter“ (Stuttgart: Cotta 1859–1872), für das er seit Ende 1855 Studien in römischen Archiven und Bibliotheken betrieb (siehe RT 26.11.1855, S. 57).</note></seg></bibl> beendigt habe, u<ex>nd</ex> der Himmel mag wißen, ob es mir zu Teil wird, da mich <seg type="comment"><orig>Scirocco u<ex>nd</ex> Anstrengung allzusehr in meinem Nervensystem verstimmt haben</orig><note xml:id="nwtb_bk2_rlb">Gregorovius musste seine Studien krankheitsbedingt seit Ende Februar 1856 immer wieder unterbrechen und setzte am 16. März 1856 sogar sein Testament auf (siehe RT, 24.3.1856, S. 60). Zur Erholung reiste er am 25. Juni nach Genazzano, wo er bis zum 24. September 1856 blieb (siehe RT, 16.8.-2.10.1856, S. 63–64).</note></seg>, so hoffe ich auf vaterländischer Erde auszuruhn. </p>
+                <p>Ihnen werde es wol! Ich bin bereit, Auskunft zu <pb n="2v"/>geben, welche immer Sie wünschen.</p>
+                <p>Sie schreiben aus einer Höle, mit dem Blick auf eine südlich täuschende Meeresferne – gerade so ist, <hi rendition="#aq"><foreign xml:lang="ita">Signora</foreign></hi>, dies Menschenleben: eine Grotte voll wunderlicher Gebilde, u<ex>nd</ex> schöner blauer Welt- u<ex>nd</ex> Lebensdunst davor.</p>
+                <p>Ich erwarte Briefe von <seg type="comment"><orig><persName key="G000920">Althaus</persName>, welcher so herben Kummer edel bewältigt hat</orig><note xml:id="nur1_2k2_rlb">Friedrich Althaus hatte im selben Jahr seine 1853 von Berlin nach London übersiedelte Frau Frau Anna, geb. Koppe (+1856) verloren, eine Freundin Malwida von Meysenbugs. </note></seg>. Geben Sie nicht allzuschnell angenehme Familienverbindungen auf – hier finden Sie deren keine.</p>
+                <closer>
+<salute xml:id="s1" next="#s2">Mit dem aufrichtigsten Dank für Ihre wolwollende Teilnahme an Ihrem Landsmanne</salute>
+<salute xml:id="s2" prev="#s1" rendition="#c">empfiehlt sich Ihnen</salute>
+                    <signed rendition="#right"><hi rendition="#aq">Ferdin. Gregorovius</hi>.</signed></closer>
+<note type="postscript" rendition="#right">Adr<ex>esse</ex> <hi rendition="#aq">Roma Via della Purificazione</hi> <lb/><hi rendition="#aq">N<ex>ume</ex>ro</hi> 63.</note>
+            </div>
+        </body>
+    </text>
+</TEI>

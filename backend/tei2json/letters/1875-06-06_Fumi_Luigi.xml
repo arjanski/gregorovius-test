@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G067758">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Luigi Fumi in Orvieto. Rom, 6. Juni 1875</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository> Archivio Fumi, Sezione di Archivio di Stato di Orvieto Crispino Ferri</repository><collection>Carteggio di Luigi Fumi, Busta 3, Fascicolo 40 </collection><idno>(7)
+                </idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Über die im Mittelalter mächtige Familie der Prefetti di Vico, die noch kaum erforscht ist. Vor zwei Wochen ist er von einer Reise nach Apulien zurückgekommen, die dem Studium der staufischen Monumente und Überreste diente. Ende Juni wird er nach München zurückkehren. Er gratuliert Fumi zu seinen „Statuti di Chianciano dell’anno 1287“ (1874) und äußert die Hoffnung, dass die jungen italienischen Forscher wieder an die Blüteperiode der italienischen Wissenschaften in der Renaissance oder zur Zeit Ludovico Antonio Muratoris anknüpfen können. Grüße an den Unterpräfekten.</p>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1875-06-06" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001152">Fumi, Luigi (1849–1934)</persName>
+<placeName key="G000648">Orvieto</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#right">Roma, 6. Giugno 1875</dateline>
+                    <salute rendition="#c">Pregiatissimo <seg type="comment"><orig>Signor Fumi</orig><note xml:id="nx5d_ff5_zlb">Der aus Orvieto stammende Conte Luigi Fumi (1849–1934) war Archivar und Historiker. Er machte sich vor allem mit der Neuordnung des Archivio di Stato di Milano, dessen Direktor er von 1907–1920 war, einen Namen. Am 20. Oktober 1876 trat er in den Staatsdienst ein, war ab diesem Zeitpunkt in verschiedenen, staatlichen Archiven, in Orvieto, Siena, Mantua, Rom und Lucca tätig. Fumi forschte vornehmlich zur Geschichte Orvietos (siehe zum Beispiel: Luigi Fumi. Codice diplomatico della città d’Orvieto. Documenti e regesti dal secolo XI al XV e la carta del popolo codice statutario del comune di Orvieto. Florenz: G.P. Vieusseux 1884). Gregorovius traf sich mit ihm als er im März 1875 auf der Fahrt von München nach Rom in Orvieto Halt machte; der Archivar führte ihn durch die Stadt (siehe RT, 31.3.1875, S. 349). Die fünf, auf uns gekommenen Briefe von Gregorovius an Fumi gingen, von den Erben überlassen, entweder 1999 oder 2001 in das Archivio Fumi des Staatsarchivs Orvieto ein. Zuvor waren sie in der Obhut von Luigis Erstgeborenem Ranieri Fumi. Ein auf den 21. Oktober 1884 datierter Brief wurde 1986 bei Christie’s versteigert (siehe RT, S. 536 Anm. 23). Die Schreiben sind Anlass bezogen und von einem freundlich-kollegialen Ton. Fumi unterstützte Gregorovius durch die Bereitstellung und Zusendung von Forschungsliteratur, Gregorovius berichtet von seinen wissenschaftlichen Vorhaben und zeigt sich wertschätzend gegenüber Fumis archivarischer Arbeit. Es sind keine Gegenbriefe erhalten.</note></seg>,</salute>
+                </opener>
+<p>la ringrazio dell’ essersi ricordato di me, non che dei<seg type="comment"><orig> <persName key="ed_wf5_dgh_zkb">prefetti di Vico</persName></orig><note xml:id="nijb_gf5_zlb">Die Familie Prefetti di Vico, die im Mittelalter zu den mächtigsten Familien in Viterbo und Etrurien zählte. Siehe den vierten Band der „Geschichte der Stadt Rom im Mittelalter“ (1862), S. 562.</note></seg>. Chi scrivesse la storia di questa famiglia celebre, attingendola ai fonti veri, renderebbe per certo un insigne servizio alla storia di Roma nel medio evo. Non essendo io più<seg type="comment"><orig> bono</orig><note xml:id="nrbb_hf5_zlb">Antik für: buono.</note></seg> a mettermi sulle spalle un tale carico, cercai di incaricarne uno dei miei giovani amici in Roma, <seg type="comment"><orig>però la mia speranza andò fallita</orig><note xml:id="nf3j_3f5_zlb">Erst 1888 erschienen zwei Publikationen zur Geschichte der Familie Prefetti di Vico: Francesco Cristofori. Memorie storiche dei signori di Vico prefetti di Roma e tiranni di Viterbo illustrate con note e documenti inediti. Siena: Tip. Arciv. S. Bernardino; Carlo Carlisse. I prefetti Di Vico. Rom: R. societa romana di storia patria.</note></seg>. Sin da quindici giorni sono di ritorno da <seg type="comment"><orig>un’ escursione nelle parti meridionali dell’<placeName key="G000690">Italia</placeName></orig><note xml:id="nsmw_jf5_zlb">Er war am 21. Mai von einer Reise durch Apulien, die er am 1. Mai angetreten hatte, zurückgekommen (siehe RT, 23.5.1875, S. 351–355).</note></seg>, intrapresa massimamente affine di visitare i luoghi ed i monumenti che <seg type="comment"><orig>vi sono conservati alla storia degli <persName key="G067884">Hohenstauffen</persName></orig><note xml:id="nafn_lf5_zlb">Von Cotta wurde der, auf der Gregorovius’ Brief vom 24.9.1874 beigelegten 5-seitigen Liste beruhende Plan mit den einzelnen „Illustrationen zu den Geschichtlichen Denkmälern der Hohenstaufen in Italien“ von Barbarossa bis Conradin (DLA Marbach, Cotta-Archiv, Cotta-Briefe, 208 und 208a – ohne die Beilagen gedruckt in: Johannes Hönig: Ferdinand Gregorovius der Geschichtsschreiber der Stadt Rom. Stuttgart, Berlin 1921. S. 367–368) aus Kostengründen abgelehnt; die für das Album vorgesehenen Texte wurden von Gregorovius im 5. Band der „Wanderjahre in Italien“ (1877) zusammengefasst. Im Vorwort dieses Bandes heißt es dazu: „Ich wollte nämlich ein Album historischer Landschaften und Monumente in Italien herausgeben, bezüglich auf die Geschichte der Hohenstaufen. Zu diesem Zweck hatte ich mich mit meinem Freunde Karl Lindemann vereinigt, welcher die betreffenden Zeichnungen zu liefern übernommen hatte, und von seiner bewährten Meisterhand konnte nur etwas wirklich Schönes und Künstlerisches erwartet werden. Diesen Plan hindert noch die Kostspieligkeit des Unternehmens, oder der Druck, welcher augenblicklich auf allen größeren Unternehmungen auch solcher Natur lastet. Ich glaube, daß dies zu bedauern ist. Wenigstens sollten wir Deutsche ein Werk dieser Art besitzen.“ (S. V-VI)</note></seg>. <pb n="1v"/>Fra loro primeggia <seg type="comment"><orig>il celebre <placeName key="ediarum_tfv_5gh_zkb">Castel del Monte</placeName> presso <placeName key="ed_ujj_sgh_zkb">Andria</placeName></orig><note xml:id="ndw5_mf5_zlb">Das von 1240–1250 unter dem Stauferkaiser Friedrich II. (1194–1250) errichtete Schloss in Apulien: „Es liegt in dem Hügelland, welches le Murgie genannt wird. Wie die Krone Apuliens ruht es einsam auf einem kahlen Hügel, überall meilenweit sichtbar. Wir verbrachten dort köstliche Stunden.“ (RT, 23.5.1875, S. 352). Andria ist eine damals in der Provinz Bari liegende Gemeinde. Siehe dazu auch: Ferdinand Gregorovius. Castel del Monte, Schloß der Hohenstaufen in Apulien; Castel del Monte. Schloß der Hohenstaufen in Apulien. In: Beilage zu Nr. 327 der AZ. Augsburg: Cotta 23.11.1875. S. 5093–5094; Beilage zu Nr. 328 der AZ. Augsburg: Cotta 24.11.1875. S. 5114–5116; Beilage zu Nr. 330 der AZ. Augsburg: Cotta 26.11.1875. S. 5150–5151 (ohne den Anhang ‚Inventar der Hinterlassenschaft der Königin Helena‘ und insgesamt etwas verkürzt) – wieder abgedruckt in: Wanderjahre in Italien. Hrsg. von Fritz Schillmann. Dresden: Jess 1925. S. 882–909.</note></seg>. </p>
+<p>La mia dimora in Roma volge alla sua fine; quando avrò terminato alcune ricerche da farsi ancora nell’ <orgName key="ed_xmf_1hh_zkb">Archivio di Stato</orgName>, che sta formandosi qui, <seg type="comment"><orig>ritornerò in <placeName key="G000664">patria</placeName></orig><note xml:id="nplg_4f5_zlb">Er verließ Rom am 28. Juni und reiste über Kufstein und Traunstein, wo er zwei Monate blieb, nach München. Dort traf er am 1. September ein (siehe RT, 1.3.1875, S. 359). Zu dieser Zeit ging aus den säkularisierten Klöstern entwendete Bibliotheken und Dokumentsammlungen in das 1871 gegründete Archivio di Stato di Roma ein. Gregorovius verfasste dazu in der „Historischen Zeitschrift“ einen Aufsatz mit dem Titel „Das Römische Staatsarchiv“ (Bd. 36. München: Oldenbourg 1876. S. 141–178).</note></seg>. </p>
+<p>Purtroppo, né la scarsezza del tempo, che mi rimane, né il caldo, che comincia a farsi sentire, mi permette di recarmi di bel nuovo a Orvieto. Rimetto quindi l’esecuzione di questo disegno a un tempo più favorevole.</p>
+<p>Intanto lei continuerà a studiare le carte dell’<seg type="comment"><orig> <orgName key="ed_zj1_fhh_zkb">Archivio della sua bella patria</orgName></orig><note xml:id="nr53_pf5_zlb">Er meint das Archivio storico municipale di Orvieto, wo Fumi angestellt war und in diesem Jahr die dort zusammengeführten Dokumente der Gemeinde Orvieto im Archivio segreto del comune d’Orvieto neu ordnete; siehe den Brief von Gregorovius an Luigi Fumi vom 21.11.1875.</note></seg> – mi immagino, che vi tiene sotto le mani una richezza non comune di tesori storici, di cui potrà avvalersi a pro’ della scienza. Ho letto con <pb n="2r"/>un vero piacere <seg type="comment"><orig>gli <bibl sameAs="ed_kkx_hhh_zkb">statuti di Chianciano</bibl></orig><note xml:id="nxlk_qf5_zlb">Luigi Fumi. Statuti di Chianciano dell’anno 1287. Orvieto: Tipografia di E. Tosini 1874: https://gutenberg.beic.it/view/action/nmets.do?DOCCHOICE=14515306.xml&amp;dvs=1575380654943~366&amp;locale=de&amp;search_terms=&amp;show_metadata=true&amp;adjacency=&amp;VIEWER_URL=/view/action/nmets.do?&amp;DELIVERY_RULE_ID=7&amp;divType=.</note></seg>; e riportando meco in Germania questo suo libro, terrò presso di me un pegno del suo avvenire. Ora che <seg type="comment"><orig>l’ Italia ha raggiunto la meta </orig><note xml:id="njvp_rf5_zlb">Anspielung auf die Einigung Italiens.</note></seg>cui dovette aspirare da tanti secoli, incombe a voi altri, che siete giovani, di far ritornare la patria a quel posto di onoranza scientifica, che essa ebbe occupato al tempo del rinascimento, e ancora a quello <seg type="comment"><orig>del <persName key="G001438">Muratori</persName></orig><note xml:id="nwc5_sf5_zlb">Der in Vignola geborene und in Modena verstrobene Ludovico Antonio Muratori (1672–1750) gilt als Begründer der italienischen Geschichtsschreibung. Dort wo Gregorovius die Archive verschlossen blieben, zog er Muratoris monumentale Publikationen zur Geschichte Italiens heran, sie sind eine wichtige Referenz für seine „Geschichte der Stadt Rom im Mittelalter“ (8 Bde., Stuttgart: Cotta 1859–1872): „Ohne Muratori hätte ich die ‚Geschichte der Stadt‘ kaum schreiben können, […]. Kein Autor war so oft in meinen Händen als er, der Vater der modernen Geschichtsschreibung überhaupt.“ (RT, 29.9.1869, S, 266). Der Bürgermeister von Modena, Luigi Alfonso Tardini, hatte Gregorovius zum 200. Jubiläum Muratoris eingeladen; siehe den Brief von Gregorovius an Luigi Alfonso Tardini vom 15.9.1872.</note></seg>.</p>
+<p>Prego di ossequiare in nome mio <seg type="comment"><orig>il gentilissimo Signor sottoprefetto</orig><note xml:id="nnht_tf5_zlb">Fumi hatte Gregorovius bei dessen Besuch in Orvieto dem Unterpräfekten und dem Bürgermeister vorgestellt (siehe RT, 31.3.1875, S. 349).</note></seg>. </p>
+<p>Stia bene, e si ricordi di me, anche quando sarò <seg type="comment"><orig><foreign xml:lang="Lat">in partibus Hyperboraeornea</foreign>,</orig><note xml:id="nzmr_5f5_zlb">Lat. für: in der Gegend der Hyperboreer.</note></seg> cioè a <placeName key="G000734">Monaco</placeName>.</p>
+                <closer>
+                    <salute>Con verace stima il suo</salute>
+                    <signed rendition="#right"> Ferd. Gregorovius.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000038">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an den F. A. Brockhaus Verlag und Heinrich Brockhaus in Leipzig. Rom, 22. April 1855</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224 (13)</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Dbl., 8°, 2 ¼ S. – 1r aoR in einer Vignette geprägt: BATH – 2v alR, Blatt um 90° gedreht, Eingangs- und Beantwortungsvermerk: 1855. / <hi rendition="#aq">Rom</hi>, 22./30. <hi rendition="#aq">April</hi>. / <hi rendition="#aq">Gregorovius</hi>. / B. 19/V</p>
+<p>Der erste Teil des Manuskripts seines Artikels „Das Königreich beider Sicilien in seinen gegenwärtigen Zuständen“</p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution>GhStA Berlin</institution>
+                                <collection>NL Waldemar Kampf</collection>
+                                <idno>
+                                    <idno type="shelfmark">Karton 59, Mappe 347 (nach H)</idno>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er übersendet den ersten Teil des Manuskripts seines Artikels „Das Königreich beider Sicilien in seinen gegenwärtigen Zuständen“; das restliche Manuskript folgt in vier Tagen. Der Artikel bereitete ihm mehr Mühe als erwartet. Er erläutert die Konzeption beider Teile seines Artikels. Der dankt für die Übersendung der Zeitschrift „Die Gegenwart“; bereits erschienene Artikel über Neapel sollen nach Ermessen der Redaktion mit seiner Arbeit in Beziehung gesetzt und statistische Daten ergänzt werden.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He sends the first part of the manuscript of his article „Das Königreich beider Sicilien in seinen gegenwärtigen Zuständen“; the rest of the manuscript will follow in four days. He struggled with the article more than he had expected. He explains the conception of both parts of his article. He thanks them for sending the magazine „Die Gegenwart“; at their own discretion, the editors may reference articles about Naples that have already been published and add statistical data. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1855-04-22" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+<persName key="G000996">Brockhaus, Heinrich (1804–1874)</persName>
+                    <orgName key="G000480">F. A. Brockhaus Verlag</orgName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next">19. Mai. 1855</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+                <opener>
+<salute xml:id="s1" next="#s2">Der sehr geehrten Buchhandlung </salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">F. A. Brockhaus in Leipzig.</salute>
+</opener>
+                <p>ich übersende Ihnen, geehrtester Herr, hierzu den ersten Teil des bewußten <seg type="comment"><orig><bibl sameAs="G003836">Artikels über beide Sicilien</bibl></orig><note xml:id="nq5l_nsf_nlb">Das Manuskript des von Heinrich Brockhaus gewünschten Artikels „Das Königreich beider Sicilien in seinen gegenwärtigen Zuständen“ (siehe den Brief von <ref target="G000066">Gregorovius an Brockhaus, 6.1.1855</ref>). Das restliche Manuskript des Beitrags übersandte Gregorovius mit seinem Brief vom <ref target="G000061">28.4.1855</ref>. Der Beitrag wurde gedruckt in: Die Gegenwart. Eine encyklopädische Darstellung der neuesten Zeitgeschichte für alle Stände. Bd. 11. Leipzig: Brockhaus 1855. S. 149–189. Unter dem Titel „Neapel und Sicilien vom Jahr 1830 bis 1852“ wurde S. 164–189 aufgenommen in: Siciliana. Wanderungen in Neapel und Sicilien. Leipzig: Brockhaus 1861.</note></seg>, indem ich auf eine sophistische Weise berechne, daß er in 6 Tagen, also gerade am Ende April in Ihren Händen sein wird; die noch fehlenden 2 Drittel folgen in 4 Tagen nach.</p>
+                <p>Erlauben Sie mir in Kürze über diese kleine Arbeit mich auszusprechen, welche mir
+                    mehr Mühe verursacht hat, als ich erwartet habe <ex>un</ex>d als man ihr ansehen
+                    wird. Indem sie in 2 Teile zerfallen sollte, in eine geographische Grundlage
+                        u<ex>nd</ex> eine politisch-statistische Betrachtung des Reichs u<ex>nd</ex>
+                    seiner Geschichte von 1830 ab, ergaben sich gewiße absondernde Bestandteile,
+                    welche schwer in ein leicht sich entwickelndes u<ex>nd</ex> sich abrundendes
+                    Ganze zu verarbeiten waren, u<ex>nd</ex> dies um so schwieriger, als die Menge
+                    der Dinge zu dem gestatteten Umfange von 3 Druckbogen nicht in Verhältniß
+                    stand.</p>
+                <p>Demnach hielt ich es für angemeßen so zu verfahren: es ward beim Leser die materielle Geographie vorausgesetzt, das geographische Bild in das Culturgeschichtliche hineingezogen u<ex>nd</ex> physiologisch behandelt, ein flüchtiger philosophischer Überriß der Momente gegeben, welche als Voraussetzung der politischen Gegenwart sich festgestellt haben; darnach folgten statistische Angaben, wie Sie sehn, dürftig genug, weil es mir nicht möglich war, trotz aller Bemühungen <pb n="1v"/>und Correspondenz mit <placeName key="G000737">Neapel </placeName>Gründliches zu ermitteln, ich daher gezwungen war zu alten Berechnungen meine Zuflucht zu nehmen; von dem Statistischen ward der Versuch gemacht ins Historische überzuleiten durch Hervorhebung der wichtigsten Lebens- u<ex>nd</ex> Volkselemente.</p>
+                <p>Dies wäre denn der Inhalt des 1. Teils, welcher hier beiliegt. Der zweite größere enthält eine klargefaßte Schilderung der politischen Ereigniße seit 1830, wozu mir bei weitem mehr Material geboten war. – Die mir gefälligst übersendeten Bogen der Gegenwart habe ich richtig erhalten, nachdem sie 3 Wochen lang auf der hiesigen Censur gelegen; auf endliche Reclamation wurden sie mir eingehändigt. Sollte in meiner Arbeit eine specielle Beziehung auf die in der Gegenwart bereits erschienenen <seg type="comment"><orig>Artikel über <supplied cert="high">„</supplied>Neapel“</orig><note xml:id="ns41_ltf_nlb">Im vorhergehenden Band 10 von „Die Gegenwart. Eine encyklopädische Darstellung der neuesten Zeitgeschichte für alle Stände“ war lediglich ein Artikel über Vulkane, darunter der Vesuv, erschienen (Leipzig: Brockhaus 1855. S. 1–28).</note></seg> nötig sein, so würde ich bitten, nach Ihrem Ermessen dies zu thun; wozu ich den Rand offen gelassen habe, wie überhaupt Sie vielleicht in Beziehung auf Statistisches einiges hinzufügen können. Hier existirt ein wahrhaftes Chaos von widersprechenden Angaben, und nicht einmal die Einwohnerzahl von Neapel läßt sich feststellen.</p>
+                <p>Der Umfang wird nach meiner Berechnung unter 3 Druckbogen bleiben.</p>
+                <p>Wie nun der Artikel nach meinen Kräften u<ex>nd</ex> Mitteln geraten ist, mit
+                    unleugbaren Mängeln, wünsche ich wenigstens die tröstliche Gewißheit zu haben,
+                    daß er sich als brauchbarer u<ex>nd</ex> faßlicher Beitrag zur Geschichte der
+                    Gegenwart lesen ließe. Hätte ich nur einige Monate früher davon gewußt, so würde
+                    ich Besseres geliefert haben.</p>
+<p>Indem ich die Versicherung wiederhole, d<ex>a</ex>ß der letzte <pb n="2r"/>Rest in kürzester Zeit nachfolgt, da ich ihn nur abzuschreiben habe, empfehle ich mich Ihnen, hochgeehrter Herr, </p>
+                <closer>
+                    <salute rendition="#c">hochachtungsvoll u<ex>nd</ex> ganz ergebenst</salute>
+                    <signed rendition="#right">Ferd. Gregorovius.</signed>
+                    <dateline><hi rendition="#aq">Rom</hi> d<ex>en</ex> 22 <hi rendition="#aq">April</hi> 1855.</dateline>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

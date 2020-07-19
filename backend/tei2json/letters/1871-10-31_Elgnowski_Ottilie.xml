@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000363">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Ottilie Elgnowski in Königsberg. München, 31. Oktober 1871</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>BSB München</repository><collection>NL Gregorovius</collection><idno>Gregoroviusiana 20, Elgnowski, Ottilie (26)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ½ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 88, Mappe 17 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 88, Mappe 2 und Karton 55, Mappe 335 (nach h1)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">: Er erinnert sich gern an die gemeinsame Reise mit dem Bruder Julius Gregorovius nach Bamberg und Coburg. In München hat er sich heimisch eingerichtet, sieht häufig Ignaz von Döllinger, Wilhelm von Giesebrecht und Adolf Friedrich Graf von Schack. Seine römische Freundin Elisabeth von Wrangell war zu Besuch und ist heute nach Rom abgereist. Er will noch den November in München bleiben, um dann für Archivarbeiten über Mantua nach Rom zurückzukehren. Der Bruder Julius kennt seinen künftigen Stationierungsort noch nicht. An Louis Harder hat er nach Wiesbaden geschrieben, aber keine Antwort erhalten. Von seinem „Euphorion“ wird in Kürze eine illustrierte Ausgabe erscheinen (1872). Grüße an die Königsberger Familie Dreßler.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1871-10-31" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001111">Elgnowski, Ottilie (bis 1855 Gregorovius, Ottilie) (1834–1907)</persName>
+<placeName key="G000699">Königsberg</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">München Glückstr<ex>aße</ex> 1. B. <lb/>31. <hi rendition="#aq">Oct<ex>o</ex>b<ex>e</ex>r</hi> 71.</dateline>
+                    <salute rendition="#c">Liebe Schwester,</salute>
+                </opener>
+<p>ich sehe zu meinem Bedauern, d<ex>a</ex>ß eine ziemlich lange Zeit seit meinem letzten Briefe hingegangen ist, u<ex>nd</ex> will deshalb heute schreiben.</p>
+<p>Unsre schöne Reise ist jetzt schon zur Legende geworden, u<ex>nd</ex> nur bisweilen denken wir an einzelne Stellen davon zurück; wie ich namentlich liebe mich an <placeName key="G000629">Bamberg</placeName> u<ex>nd</ex> das reizende Plätzchen vor dem Stadthause auf der Brücke zu erinnern.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190530T182622+0200" comment="Mit Ottilie Elgnowski trafen Ferdinand und Julius Gregorovius am 17. September 1871 in Würzburg zusammen (siehe RT, 17.9.1871, S. 309)."?> <?oxy_comment_end?>Du hast Dich nun schon wieder ganz heimisch gemacht, u<ex>nd</ex> das Leben geht seinen gewohnten Gang. Endlich ist auch die Cholera in König<ex>sberg</ex> ganz erloschen, u<ex>nd</ex> wir sind so diese häßlichen Gedanken los geworden.</p>
+<p>Auch ich habe mich hier so viel ich konnte heimisch gemacht. Das Zimmer, welches ich bewohne, ist groß u<ex>nd</ex> schön, liegt aber nach der Nordseite u<ex>nd</ex> macht eine Hausecke, <pb n="1v"/>so daß es eigentlich unheizbar ist. Wir haben stets dicken Nebel, woran ich gar nicht gewöhnt bin. Zweimal fiel Schnee auf die Dächer, was mir ein großes Vergnügen war. Selten kommt die Sonne hervor; wenn das geschieht ist der Spaziergang im großen Park wegen des bunten Laubes sehr reizend.</p>
+<p>Ich habe hier viele Einladungen, da ich viele Menschen kenne. <persName key="G001094"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190530T182646+0200" comment="Ignaz von Döllinger."?>Döllinger<?oxy_comment_end?></persName> sehe ich sehr oft, auch <persName key="G001173"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190530T182701+0200" comment="Wilhelm von Giesebrecht."?>Giesebrecht<?oxy_comment_end?></persName> u<ex>nd</ex> <persName key="G001573">Baron Schack</persName>, den Besitzer einer prachtvollen <orgName key="G000488"><?oxy_comment_start author="Angela Steinsiek" timestamp="20190530T182742+0200" comment="Die Kunstsammlung von Adolf Graf von Schack (1815–1894) war seit 1865 in seinem von Heinrich von Hügel (1828–1899) umgebauten Palais an der Brienner Straße öffentlich zugänglich, 1872–1874 ergänzte Lorenz Gedon (1844–1883) eine prächtige Fassade im Stil der Neurenaissance."?>Gallerie<?oxy_comment_end?></orgName>. Acht Tage lang war hier auch die <persName key="G001717">Tochter des Admirals <ex>Wrangel</ex> </persName> aus Estland, eine meiner römischen Freundinnen.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190530T182802+0200" comment="Die im estländischen Dorpat (Tartu) wohnhafte Elisabeth Baronesse von Wrangell (1842–1926) hatte Mathilde von Humboldt (1830–1897) Ende 1870 bis Ende Mai 1871 auf ihrer Romreise begleitet (siehe den Brief von Gregorovius an Mathilde von Humboldt, 9.9.1871. "?> <?oxy_comment_end?>Sie ist heute nach <placeName key="G000763">Rom</placeName> gereist. Ich beabsichtige noch den ganzen <hi rendition="#aq"><hi rendition="#aq">Nov<ex>ember</ex></hi></hi> zu bleiben, um mehr Kälte zu erleben. Auch möchte <add place="intralinear">ich</add> wieder einmal alles Land unter Schnee sehen.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190530T182824+0200" comment="Dieser Wunsch erfüllte sich bis Gregorovius am 3. Dezember 1871 seinen künftigen Wohnort verließ (siehe RT, 2.12.1871, S. 311–313)."?> <?oxy_comment_end?><pb n="2r"/>Dann erst will ich München verlassen, u<ex>nd</ex> nach Rom zurückkehren, aber über <placeName key="G000724">Mantua,</placeName> wo ich noch zu thun <?oxy_comment_start author="Angela Steinsiek" timestamp="20190530T182843+0200" comment="In Mantua traf Gregorovius am 4. Dezember 1871 ein; siehe die ausführliche Schilderung „Aufenthalt in Mantua und Heimkehr nach Rom“ in RT, S. 313–316."?>habe<?oxy_comment_end?>. Etwa um den 15. Dec<ex>ember</ex> will ich in Rom sein.</p>
+<p>So viel ich das Leben hier erkenne, ist es doch sehr klein u<ex>nd</ex> einförmig. Die Geselligkeit wird dadurch, wie bei uns, erschwert, d<ex>a</ex>ß man hier den Tag in 2 Teile teilt, u<ex>nd</ex> um die Mittagstunde statt des Abends die Hauptmalzeit hält. Daraus entsteht der große Gräul des Soupers um 8 Uhr, wo man 2 bis 3 Stunden am Tische wie angenagelt sitzen muß. Daran bin ich nicht mehr gewöhnt.</p>
+<p>Ich erhielt heute von <persName key="G001203"><hi rendition="#aq">Jul<ex>ius</ex></hi></persName> 1 Brief, worin er schreibt, d<ex>a</ex>ß seine Bestimmung noch nicht erfolgt sei. Möchte sich denn das Sprichwort bewähren: was lange währt, wird gut.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190530T182908+0200" comment="Am 2. Dezember 1871 vermerkt eGregorovius im Tagebuch: „Am 28. November erhielt mein Bruder das Patent als Oberst des ersten Regiments ostpreußischer Festungsartillerie in Königsberg“ (S. 313)."?> <?oxy_comment_end?></p>
+<p>Ich habe längst an <persName key="ed_19p_hz9_zn5 ed_s6l_hvk_0vn">Harders</persName> <?oxy_comment_start author="Angela Steinsiek" timestamp="20190530T182933+0200" comment="Sein jetzt in Wiesbaden mit seiner Frau Emlilie lebende Königsberger Freund Louis Harder (*1821) hatte Ottilie Elgnowski nach Würzburg begleitet, wo ihre Brüder Ferdiand und Julius Gregorovius (1819–1891) sie abholten. Sie blieb zwei Tage, während der die Geschwister gemeinsam nach Bamberg und Coburg reisten (siehe RT, 25.9.1871, S. 310)."?>geschrieben<?oxy_comment_end?>; doch keine Nachrichten über ihr Ergehen erhalten. Bitte grüße sie, wenn Du schreibst.</p>
+<p>Von meinem Gedicht Euphorion <pb n="2v"/>wird jetzt eine <bibl sameAs="G003580">illustrirte Prachtausgabe</bibl> <?oxy_comment_start author="Angela Steinsiek" timestamp="20190530T182947+0200" comment="Die Quartausgabe seines 1858 zuerst erschienen Versgedichts „Euphorion“ erschien 1872 als „Illustrierte Prachtausgabe mit Original-Compositionen von Theodor Grosse“."?>gemacht<?oxy_comment_end?>, welche wie ich denke recht gut aussehen wird. Doch wird sie erst nach Weihnachten fertig werden.</p>
+<p>Grüße das <persName key="G001198">Dresslersche <?oxy_comment_start author="Angela Steinsiek" timestamp="20190530T183006+0200" comment="In Königsberg lebende Verwandte der Stiefmutter von Gregorovius, Emilie Auguste Gregorovius, geb. Dreßler, verw. von Collrepp (1797–1866), die insgesamt zehn Geschwister hatte."?>Haus<?oxy_comment_end?></persName>. Möchte es Dir u<ex>nd</ex> <persName key="G001109">Hermann</persName> wol u<ex>nd</ex> gut ergehen. Ich bitte, mir recht bald zu schreiben. </p>
+                <closer>
+                    <salute rendition="#c">In Treue</salute>
+                    <signed rendition="#right">FGr.</signed>
+                </closer>
+            </div>
+        </body>
+    </text>
+</TEI>

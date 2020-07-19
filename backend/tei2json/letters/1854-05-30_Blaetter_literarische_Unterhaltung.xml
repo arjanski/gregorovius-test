@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000007">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ferdinand Gregorovius an die Redaktion der Blätter für literarische
+                    Unterhaltung in Leipzig. Rom, 30. Mai 1854</title>
+                <editor>
+                    <persName ref="http://d-nb.info/gnd/1127895559">
+                        <surname>Steinsiek</surname>
+                        <forename>Angela</forename>
+                    </persName>
+                </editor>
+                <respStmt>
+                    <persName>
+                        <surname>Costea</surname>
+                        <forename>Theodor</forename>
+                    </persName>
+                    <resp>
+                        <note type="remarkResponsibility">Mitarbeit</note>
+                    </resp>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+                <idno>
+                    <idno type="URLWeb"/>
+                    <idno type="URLXML"/>
+                    <idno type="URLText"/>
+                    <idno type="ID"/>
+                </idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <repository>Sächsisches Staatsarchiv Leipzig</repository>
+                        <collection>Bestand 21083</collection>
+                        <idno>Archivalnummer 224</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <p>1 Bl., 4°, 1 S. – 1r aoR in einer Vignette geprägt: BATH – 1v aoR Eingangs- und Beantwortungsvermerk: 1854. / <hi rendition="#aq">Rom</hi>, 30 <hi rendition="#aq">Mai</hi>/6. <hi rendition="#aq">Juni</hi>. / <hi rendition="#aq">Gregorovius</hi>. / Beantw. 10. Juni</p>
+<p>Manuskript seines Aufsatzes „Ein Blick in die romanische Literatur Siciliens“ </p>
+                    </physDesc>
+                </msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness>
+                        <bibl type="print"/>
+                    </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Er übersendet das Manuskript seines Aufsatzes „Ein Blick in die romanische Literatur Siciliens“ und kündigt im Falle positiver Rückmeldung weitere Beiträge an.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He sends the manuscript of his essay „Ein Blick in die romanische Literatur Siciliens“ and announces further contributions in case of a positive response.</p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+                    <placeName key="G000763">Rom</placeName>
+                    <date when="1854-05-30" cert="high"/>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName key="G000469">Blätter für literarische Unterhaltung</orgName>
+                    <placeName key="G000712">Leipzig</placeName>
+                </correspAction>
+                <correspContext>
+                    <ref type="next">10. Juni 1854</ref>
+                </correspContext>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1r"/><div type="writingSession">
+                <opener>
+                    <salute rendition="#c">Der sehr geehrten Redaction <lb/>der Blätter
+                        für literarische Unterhaltung <lb/>zu Leipzig  </salute>
+                </opener> 
+                <p>nehme ich mir die Ehre, beifolgende Abhandlung „<bibl sameAs="G003825">ein Blick in die romanische Literatur Siciliens</bibl>“ zu übersenden. Leicht möchten Sie von diesem Aufsatz Gebrauch machen, dessen Gegenstand zum Mindesten aller Theilnahme wert erscheinen darf.</p>
+                <p>Es ist das erste Mal, daß ich mir die Freiheit nehme Ihrem geehrten Journal einen
+                    Beitrag zu übersenden; wenn Sie es freundlich gestatten, wird es nicht das
+                    letzte Mal sein.</p>
+                <p>Ich ersuche Ew. Wolgeboren um recht baldige Benachrichtigung, daß das Manuscr<ex>ipt</ex> angelangt sei, welches ich der sichern Beförderung wegen unfankirt abgehn zu lassen mir erlaube.</p>
+                <p>Wenn Sie den Aufsatz genehmigen u<ex>nd</ex> zum Druck befördert haben, bin ich so frei, mir zur Zeit einen Abzug unter Kreuzband auszubitten.</p>
+                <closer>Mit der größesten Hochachtung habe ich die Ehre mich ganz ergebenst zu empfehlen <signed rendition="#right">Ferdinand <hi rendition="#aq">Gregorovius</hi> </signed> <dateline rend="text-center">Rom d<ex>en</ex> 30 Mai 1854</dateline> </closer>
+            </div>
+            <note type="postscript" rendition="#right"><hi rendition="#aq"><foreign xml:lang="ita">Roma</foreign></hi><lb/><hi rendition="#aq"><foreign xml:lang="ita">per esser recapito dal signore</foreign></hi><lb/><hi rendition="#aq">Guiseppe Spithöver</hi><lb/><hi rendition="#aq"><hi rendition="#u"><foreign xml:lang="ita">Piazza di Spagna</foreign></hi></hi>. </note>
+        </body>
+    </text>
+</TEI>

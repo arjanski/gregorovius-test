@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000373">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Hermann von Thile in Berlin. München, 19. November 1871</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>96/937 (40)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 3 ½ S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 59, Mappe 346 (nach D) und Karton 59, Mappe 346 (Ergänzungen nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Briefe von Ferdinand Gregorovius an den Staatssekretär Hermann von Thile. Hrsg. von Herman von Petersdorff. Berlin 1894. S. 87–88 (gekürzt)</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Nachdem ihn sein Bruder Julius Anfang August in Venedig abgeholt hat, sind sie nach München gefahren und haben Mitte September die Halbschwester Ottilie Elgnowski in Würzburg getroffen. Zusammen sind sie nach Bamberg und Coburg gereist, wo sie Zeuge der Rückkehr von Herzog Ernst II. von Sachsen-Coburg und Gotha mit seinen Truppen aus Paris wurden. Er will München nach dem jetzt bevorstehenden Abschluss seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1872) möglicherweise zu seinem künftigen Wohnort machen. Doch obwohl er hier mit Wohlwollen aufgenommen wurde und ihm der Maximiliansorden für Kunst und Wissenschaft verliehen worden ist, scheinen ihm die Gesellschaft und der Bezug zur Welt zu beschränkt. Er hat in München Großfürstin Elena Pawlowna und ihre Gesellschafterin Editha von Rahden getroffen, die ihm Georg Graf von Werthern-Beichlingen vorgestellt hat. Flüchtig sah er Guido Graf von Usedom, Adolf Friedrich Graf von Schack ist wohl und will Ende 1871 mit Großherzog Friedrich Franz II. von Mecklenburg-Schwerin nach Ägypten reisen. Zurück in Rom will er sich von den Mühen der letzten Jahrzehnte erholen. Rom hat sich sehr verändert, mittlerweile hat ihn ein großer Widerwille gegen den Katholizismus und das Papsttum ergriffen. Grüße an Anna von Graefe, die Witwe von Thiles Schwager Albrecht von Graefe.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en"/>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000734">München</placeName><date when="1871-11-19" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001644">Thile, Hermann von (1812–1889)</persName>
+<placeName key="G000636">Berlin</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+                    <dateline rendition="#c">München, Glückstr<ex>aße</ex> 1. <hi rendition="#aq">B</hi>. <lb/>19. <hi rendition="#aq">Nov<ex>ember</ex></hi> 1871.</dateline>
+                    <salute>Mein hochverehrter Herr,</salute>
+                </opener>
+<p>ich hatte immer gehofft, daß Sie und Ihre <persName key="G001645">Frau Gemalin</persName> im Spätherbst in diesen Gegenden erscheinen würden, obwol mir bekannt war, daß Sie im Beginne des Sommers bereits im Bade gewesen waren. Da mich nun diese Hoffnung getäuscht hat, so erlaube ich mir wenigstens mit diesen Zeilen nach Ihrem Befinden zu fragen und Sie um eine wie immer gütige Nachricht zu ersuchen.</p>
+<p>Ich bin diesmal bis in den Winter hinein in München geblieben. Im August holte mich mein <persName key="G001203">Bruder</persName> in <placeName key="G000894">Venedig</placeName> ab; wir trafen sodann unsre <persName key="G001111">Schwester</persName> in <placeName key="G000900">Würzburg.</placeName> Nach diesem stillen Familienfest des Restes unsres einst zahlreichen Hauses trennte ich mich von den Geschwistern in <?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T152913+0200" comment="Gregorovius kam am 1. August 1871 in Venedig an; am 7. August traf dort sein Bruder Julius und der Stiefbruder von Collrepp (*1827) ein. Am 13. August 1871 kamen sie über Bozen und Kufstein reisend in München an (siehe RT, 10. und 24.8.1871, S. 308–309). Mit Ottilie Elgnowski trafen Ferdinand und Julius Gregorovius (1819–1891) am 17. September 1871 in Würzburg zusammen; gemeinsam reisten sie nach Bamberg und Coburg (siehe RT, 17. und 25.9.1871, S. 309–310)."?>Coburg<?oxy_comment_end?>, zufällig an dem Tage, wo der dortige <persName key="G001117">Herzog</persName> seinen Einzug <?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T152927+0200" comment="Herzog Ernst II. von Sachsen-Coburg und Gotha (1818–1893), im Deutsch-Französischen Krieg ohne eigenes Kommando, kehrte im September 1871 mit seinen Truppen aus Paris zurück (siehe RT, 25.9.1871, S. 310)."?>hielt<?oxy_comment_end?>. Da ich den größesten Triumfeinzug der siegreichen Armee nicht gesehen habe, wurde ich wenigstens durch den allerkleinsten entschädigt.</p>
+<p>Seit 7. Wochen lebe ich nun hier. Ich <pb n="1v"/><choice><sic>Ich</sic><corr type="deleted"/></choice> glaube Ihnen, mein verehrter Herr, geschrieben zu haben, daß meine kleine Lebensaufgabe beendigt ist, u<ex>nd</ex> in der That hat der Druck meines <bibl sameAs="G003434">letzten Bandes</bibl> begonnen. Meine Absicht war nun, die Menschenart, das Clima u<ex>nd</ex> sonstige Schreckniße dieses Isar-Athen einmal kennen zu lernen, da mir der Gedanke kam, mich hier früher oder später niederzulaßen.</p>
+<p>Ich finde hier viele bedeutende Männer, aber sie leben zusammenhanglos, u<ex>nd</ex> der hiesigen Gesellschaft fehlt jeder geistige Schwung u<ex>nd</ex> der Weltbezug. Ich komme mir hier vor wie im luftleeren Raum; die liebe Sonne selbst erscheint hier nur wie eine Legende vergangner Tage u<ex>nd</ex> glücklicherer Zonen.</p>
+<p>Man hat mir hier viel Wolwollen entgegen gebracht, selbst Ehren,<?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T153027+0200" comment="Am 2. Dezember 1871 vermerkte Gregorovius im Tagebuch: „Am 28. November erhielt mein Bruder das Patent als Oberst des ersten Regiments ostpreußischer Festungsartillerie in Königsberg und ich den Maximiliansorden für Kunst und Wissenschaft.“ (S. 313). Die auf den 22. November 1871 datierte Urkunde hat sich im Nachlass von Gregorovius erhalten (BSB München, NL Gregorovius, Gregoroviusiana 18, 2)."?> <?oxy_comment_end?>die wie ich merke hier hoch im Preise stehen, u<ex>nd</ex> solche pflegen zu erscheinen, wenn der Mensch dem sie zu Teil werden sich dem Alter der <?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T153038+0200" comment="der Gicht."?>Podagra<?oxy_comment_end?> zu nähern beginnt. Ich glaube nun aber doch diesen Herren klar gemacht zu haben, <pb n="2r"/>daß es solche unabhängige u<ex>nd</ex> unpraktische Naturen geben muß, wie ich bin; u<ex>nd</ex> außerdem habe ich selbst mich nie für einen Gelehrten gehalten. So wird man mich wol nach meiner Weise gelten u<ex>nd</ex> nicht gelten laßen.</p>
+<p>Ich hatte hier die Freude, die <persName key="G001261">Großfürstin Helene</persName> u<ex>nd</ex> deren <persName key="G001523">Hofdame v<ex>on</ex> <?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T153108+0200" comment="Die von Gregorovius sehr geschätze Großfürstin Elena Pawlowna (auch Helena Pawlowna) von Russland (1807–1873) und ihre Gesellschafterin der Editha von Rahden (1823–1885) hatten sich eine Woche in München aufgehalten und waren am 12. November 1871 nach Petersburg abgereist (siehe AZ. Nr. 318. 14.11.1871. S. 5609)."?>Rhaden<?oxy_comment_end?></persName> wiederzusehen, u<ex>nd</ex> machte bei dieser auch die Bekanntschaft des <persName key="G001702">Herrn v<ex>on</ex> <?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T153121+0200" comment="Georg Graf von Werthern-Beichlingen (1816–1895) war seit 1867 preußischer Gesandter am Hof Ludwigs II. von Bayern (1845–1886). Siehe RT, 2.12.1871, S. 312. Mit Graf Werthern entwickelte sich nach Gregorovius Übersiedlung nach München eine Freundschaft."?>Werthern<?oxy_comment_end?></persName>. Auch den <persName key="G001669">Grafen <?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T153136+0200" comment="Der preußische Diplomat Guido Graf von Usedom (1805–1884) war ab 1835 in verschiedenen diplomatischen Funktionen in Rom – 1845–1854 war als preußischer Gesandter der Vorgänger von Hermann von Thile in Rom. 1858–1863 wurde er nach Otto von Bismarck (1815–1898) Bundestagsgesandter in Frankfurt am Main und wurde 1863 Gesandter am Hof Vittorio Emanueles II. (1820–1878) in Florenz, bevor er 1869 wegen einer Differenz mit Otto von Bismarck abberufen worden war. 1872 wurde in der Nachfolge von Ignaz von Olfers (1839–1871) – bald umstrittener – kommissarischer Generaldirektor der Königlichen Museen zu Berlin, zog sich 1879 zurück."?>Usedom<?oxy_comment_end?></persName> sah ich, wenn auch nur flüchtig. <persName key="G001573">Schack</persName> ist sehr wol, ja eigentlich verjüngt. Er producirt u<ex>nd</ex> druckt viel, baut ein neues <?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T153155+0200" comment="Die Kunstsammlung von Adolf Graf von Schack (1815–1894) war seit 1865 in seinem von Heinrich von Hügel (1828–1899) umgebauten Palais an der Brienner Straße öffentlich zugänglich, 1871/2–1874 ergänzte Lorenz Gedon (1844–1883) eine prächtige Fassade im Stil der Neurenaissance. Das Palais wurde im Zweiten Weltkrieg zerstört."?>Haus<?oxy_comment_end?>, lebt aber als Eremit. Am Ende des Jahres reist <add place="intralinear">er</add> mit dem <persName key="G001144">Großherzog von Mecklenburg</persName> nach <placeName key="G000610">Egypten</placeName>.<?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T153214+0200" comment="Als Kammerherr und Legationsrat des Großherzogs Friedrich Franz II. von Mecklenburg-Schwerin (1823–1883) begleitete Schack diesen 1871–1872 mit dessen dritter Gemahlin Prinzessin Marie von Schwarzburg-Rudolstadt (1850–1922) und großem Gefolge nach Ägypten."?> <?oxy_comment_end?></p>
+<p>Ich verlaße München am 1. Dec<ex>ember</ex>, um mich dann noch diesen Winter in Rom gemächlich auszuruhen, u<ex>nd</ex> die Mühen, Leiden und Freuden meines dortigen Lebens mit Wehmut zu überdenken u<ex>nd</ex> zu summiren. Zu den Freuden, welche ich dort genoß, haben Sie u<ex>nd</ex> Ihre verehrte Frau Gemalin durch Ihre Güte so viel beigetragen gehabt. Diese Zeit ist nun längst dahin.</p>
+<p>Rom hat sich sehr verändert. Es ist mir mannigfach verleidet. Auch hat mich ein wahrhafter Ekel vor dem jetzigen <orgName key="G000539">Papsttum</orgName> u<ex>nd</ex> der <orgName key="G000550">Jesuitenwirtschaft</orgName> noch am Schluße überkommen, u<ex>nd</ex> so begreife ich mehr als je den glühenden Haß unsres Helden <persName key="G001392">Luther</persName> <pb n="2v"/>gegen die Mächte der Finsterniß, die von dort her die Welt bedrohten und noch bedrohen.</p>
+<p>Ich wünsche Ihnen u<ex>nd</ex> Ihrer Frau Gemalin das beste Wolergehen und so viel Freuden, als diese unbeständige Welt noch bieten kann. Möchten Sie mich auch der freundlichen Erinnerung der <persName key="G001191">Frau v<ex>on</ex> <?oxy_comment_start author="Angela Steinsiek" timestamp="20190617T153245+0200" comment="Anna von Graefe, geb. Gräfin Knuth (1842–1872), die Witwe des am 20. Juli 1870 verstorbenen berühmten Augenartzes Albrecht von Graefe (*1828) – Bruder von Thiles Frau Ottilie (1816–1889). "?>Gräfe<?oxy_comment_end?></persName> empfehlen.</p>
+                <closer>
+<salute xml:id="s1" next="#s2" rendition="#c">Mit wahrhafter Verehrung und Ergebenheit</salute>
+<salute xml:id="s2" prev="#s1" rendition="#right">Ihr alter Schutzbefohlener</salute>
+<signed rendition="#right"><hi rendition="#aq">Ferd. Gregorovius</hi>.</signed>
+</closer>
+            </div>
+        </body>
+    </text>
+</TEI>

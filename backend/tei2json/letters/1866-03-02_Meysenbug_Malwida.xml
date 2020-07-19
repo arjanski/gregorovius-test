@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:telota="http://www.telota.de" telota:doctype="letter_fgbe" xml:id="G000236">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>Ferdinand Gregorovius an Malwida von Meysenbug in Florenz. Rom, 2. März 1866</title>
+<editor> <persName ref="http://d-nb.info/gnd/1127895559"><surname>Steinsiek</surname> <forename>Angela</forename> </persName> </editor>
+
+<respStmt><persName> <surname>Costea</surname> <forename>Theodor</forename> </persName><resp><note type="remarkResponsibility">Mitarbeit</note></resp>
+</respStmt>
+</titleStmt>
+            <editionStmt>
+                <edition>
+                    <title>Fredinand Gregorovius, gesammelte Briefe</title>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>
+                    <orgName xml:lang="de">Deutsches Historisches Institut in Rom</orgName>
+                    <orgName xml:lang="it">Istituto Storico Germanico di Roma</orgName>
+                    <orgName xml:lang="en">German Historical Institute in Rome</orgName>
+                    <address>
+                        <addrLine>Via Aurelia Antica, 00165 Rom, Italien</addrLine>
+                    </address>
+                </publisher>
+                <pubPlace ref="http://www.geonames.org/3169070">Rom</pubPlace>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc><msIdentifier><repository>GSA Weimar</repository><idno>116/107 (9)</idno></msIdentifier>
+<physDesc>
+<p>1 Dbl., 8°, 4 S.</p>
+</physDesc>
+</msDesc>
+                <listWit>
+                    <witness>
+                        <msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 84, Mappe 5 (Alfred Löckle nach H)</idno> </idno></msIdentifier>
+</msDesc>
+                    </witness>
+<witness>
+<msDesc type="copy"><msIdentifier><institution>GhStA Berlin</institution><collection>NL Waldemar Kampf</collection><idno> <idno type="shelfmark">Karton 86, Mappe 2 (nach D1)</idno> </idno></msIdentifier>
+</msDesc>
+</witness>
+                    <witness>
+                        <msDesc type="concept">
+                            <msIdentifier>
+                                <institution/>
+                                <collection/>
+                                <idno>
+                                    <idno type="shelfmark"/>
+                                </idno>
+                            </msIdentifier>
+                        </msDesc>
+                    </witness>
+                    <witness> <bibl type="print">Berta Schleicher: Ferdinand Gregorovius und Malwida von Meysenbug. Unveröffentlichte Briefe. In: Der Türmer. Monatsschrift für Gemüt und Geist. Jg. 25. H. 5. Stuttgart 1923. S. 313</bibl> </witness>
+                </listWit>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p xml:lang="de">Vom Tod ihrer Brüder Carl Rivalier von Meysenbug und Wilhelm von Meysenbug hat er mit Bestürzung erfahren. Wilhelmine von Stein hat von ihrem Leben in Florenz mit Olga und Natalie Herzen berichtet, und dass sie mit dem Historiker Pasquale Villari Umgang pflegt. Die für sie bestimmten ersten vier Bände seiner „Geschichte der Stadt Rom im Mittelalter“ (1859–1862) liegen für sie bereit; er lässt sie weiterleiten. Von Friedrich Althaus weiß er nichts und hat ihm kürzlich nach vielen Monaten wieder geschrieben.</p>
+                <p xml:lang="it"/>
+                <p xml:lang="en">He learned of the death of her brothers Carl Rivalier von Meysenbug and Wilhelm von Meysenbug with horror. Wilhelmine von Stein has told him of her life in Florence with Olga and Natalie Herzen, and that she is in contact with the historian Pasquale Villari. The first four volumes of his „Geschichte der Stadt Rom im Mittelalter“ (1859-1862) are ready for them; he will have them forwarded. He knows nothing new about Friedrich Althaus and recently wrote to him again after many months. </p>
+            </abstract>
+            <correspDesc>
+                <correspAction type="sent">
+<persName key="G001200">Gregorovius, Ferdinand (1821–1891)</persName>
+<placeName key="G000763">Rom</placeName><date when="1866-03-02" cert="high"/>
+</correspAction>
+                <correspAction type="received">
+<persName key="G001418">Meysenbug, Malwida von (1816–1903)</persName>
+<placeName key="G000671">Florenz</placeName>
+</correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body><pb n="1r"/>
+            <div type="writingSession">
+                <opener>
+<dateline rendition="#right"><hi rendition="#aq">Rom</hi>, 2. <hi rendition="#aq">März</hi> 1866.</dateline>
+</opener>
+<p>Ich wünsche Ihnen ein paar Zeilen zu schreiben, welche Ihnen ausdrücken sollen, dass ich den aufrichtigsten Anteil an dem nehme, <seg type="comment"><orig>was Sie jüngst betroffen hat</orig><note xml:id="nt4q_r13_gmb">Am 8. Februar 1866 war ihr Bruder Carl Rivalier von Meysenbug (*1813) und am 14. Februar 1866 ihr Bruder Wilhelm von Meysenbug (*1807) gestorben.</note></seg>. Ich habe mit Trauer von diesen <persName key="ed_jkm_wz5_njb ed_ppr_yz5_njb">beiden Todesfällen</persName> gehört , welche Sie auf das Tiefste in Ihrer Einsamkeit müssen ergriffen haben, – ich bin auch hier wieder jenes finstern Gesetzes gewahr geworden, wonach alles Unheil nie vereinzelt kommt. Ich war gestern bei <persName key="G001374">Frau L<ex>indemann</ex></persName>, die noch nichts von dem zweiten Falle wusste, und Sie der gleichen warmen Teilnahme versichern lässt. Ich habe nur den Wunsch, dass Sie hinlänglich Gesundheit besitzen, um diesen Gemütsbewegungen ruhig Stand zu halten.</p>
+<p>Ihre Freundinnen, oder <pb n="1v"/><persName key="G001620"><seg type="comment"><orig>Fräulein v<ex>on</ex> Stein</orig><note xml:id="np2n_s13_gmb">Die österreichische Porträtmalerin Wilhelmine von Stein (1825–1890) war 1865 in Rom (siehe RT, 26.11.1865, S. 202).</note></seg></persName>, welche ich selten, aber doch sehe , haben mich von allem unterrichtet, was ihnen selbst über die <seg type="comment"><orig>Einrichtung Ihres Florentiner Lebens</orig><note xml:id="nxm4_t13_gmb">Malwida von Meysenbug war mit ihren Pflegetöchtern Olga (1850–1953) und Natalie Herzen (1844–1936), aus Bern kommend, seit dem 3. November 1865 in Florenz.</note></seg> bekannt ist. Ich freue mich, dass Sie unter geistvollen Menschen angenehme Stunden zubringen. Ich höre auch mit Vergnügen, daß Sie <persName key="G001687"><hi rendition="#aq"><seg type="comment"><orig>Villari</orig><note xml:id="nal5_v13_gmb">Der in Florenz lebende Historiker Pasquale Villari (1827–1917).</note></seg></hi></persName> kennen, den fixen (um ostpreußisch zu reden) und beweglichen Neapolitaner, welchen mir manche angenehme Erinnerung zurückgelassen hat.</p>
+<p>Unser römische Winter war sehr still und schön, von einer mässigen Geselligkeit, die mir noch Zeit genug <pb n="2r"/>lässt. Ich bin indess völlig von meiner Arbeit absorbirt, und habe für nichts anderes Sinn mehr. Von 8–5 Uhr lässt sich manches Blatt in der Weltgeschichte umschlagen – doch leider wird man davon nicht klüger.</p>
+<p>Ihre <bibl corresp="G003462 G003469 G003476 G003485">4 Bände der Stadt</bibl> liegen jetzt bei mir, und werde ich sie der <seg type="comment"><orig>englischen <persName key="G004733">Familie</persName> </orig><note xml:id="nzgr_ytn_gmb">Wahrscheinlich die mit Malwida von Meysenbug befreundete schwerreiche Philanthopin und Pädagogin Julie Salis-Schwabe (1818 oder 1819–1896), eine geborene Deutsche und Witwe des Industriellen Adolf Salis Schwabe (1800–1853) aus Manchester. Sie war immer wider in Rom, unterstützte Giuseppe Garibaldi (1807–1882) und begründete in Neapel (wohin eine ihrer Töchter 1861 geheiratet hatte) und England Kindergärten.</note></seg>zu kommen lassen, welche damit beauftragt ist, wie mir F<ex>räu</ex>l<ex>ein</ex> von Stein schrieb.</p>
+<p>Grüssen Sie beide liebenswürdige Schwestern, <seg type="comment"><orig><hi rendition="#aq"><persName key="G001268">Olga</persName></hi> u<ex>nd</ex> <hi rendition="#aq"><persName key="G001267">Natalie</persName></hi></orig><note xml:id="nbrw_w13_gmb">Olga Herzen (1850–1953) war seit 1853 zusammen mit ihrer Schwester Natalie Herzen (1844–1936) die Pflegetochter von Malwida von Meysenbug; seit 1861 lebte sie mit den Mädchen zusammen. Olga war nach dem Wunsch des Vaters in die Berner Schule Abraham Emmanuel Fröhlichs (1796–1865) eingetreten; dort blieb Sie jedoch nur kurz und wechselte dann nach Florenz zu einem von den Kaiserswerther Diakonissen geführtes Institut in Florenz, wo auch ihr Bruder Alexander Herzen (1839–1906) ansässig war (vgl. Gregorovius an <ref target="G000204">Malwida von Meysenbug, 23.6.1864</ref>).</note></seg> auf das herzlichste von mir, und sagen Sie ihnen, dass ich gern und wol täglich einmal an sie denke, auch dass sie mir stets teuer bleiben sollen, mag ich sie noch einmal wieder sehen, oder nicht. Herrliche Kinder! </p>
+                <closer><pb n="2v"/>Ihnen selbst freundlichste Grüße und die Versicherung unveränderter Anhänglichkeit. <signed rendition="#c">G.</signed> <note type="postscript">Ich weiss nichts von <persName key="G000920"><seg type="comment"><orig>Althaus</orig><note xml:id="ngky_1b3_gmb">Beider in London lebender Freund, Friedrich Althaus.</note></seg></persName> – ich habe fast alle meine Correspondenzen aufgegeben und daher an ihn erst nach vielen Monaten wieder geschrieben. Hoffentlich hat er sich jetzt ins Trockene gebracht.</note></closer>
+            </div>
+        </body>
+    </text>
+</TEI>
